@@ -11,6 +11,7 @@
 </v-products-grid>
 
 <style>
+    /* PC (Desktop: 4 products per row) */
     .wa-products-grid-container {
         display: grid !important;
         grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
@@ -18,14 +19,16 @@
         margin-top: 1.5rem !important;
     }
 
-    @media (max-width: 1024px) and (min-width: 769px) {
+    /* Tablet (Tab: 3 products per row) */
+    @media (max-width: 1024px) and (min-width: 768px) {
         .wa-products-grid-container {
-            grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
-            gap: 14px !important;
+            grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+            gap: 16px !important;
         }
     }
 
-    @media (max-width: 768px) {
+    /* Phone (Mobile: 2 products per row) */
+    @media (max-width: 767px) {
         .wa-products-grid-container {
             grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
             gap: 12px !important;
