@@ -11,15 +11,15 @@
 </v-products-grid>
 
 <style>
-    /* PC (Desktop: 4 products per row) */
+    /* Direct global styles fallback */
     .wa-products-grid-container {
         display: grid !important;
         grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
         gap: 20px !important;
+        width: 100% !important;
         margin-top: 1.5rem !important;
     }
 
-    /* Tablet (Tab: 3 products per row) */
     @media (max-width: 1024px) and (min-width: 768px) {
         .wa-products-grid-container {
             grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
@@ -27,7 +27,6 @@
         }
     }
 
-    /* Phone (Mobile: 2 products per row) */
     @media (max-width: 767px) {
         .wa-products-grid-container {
             grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
@@ -65,15 +64,22 @@
                 </a>
             </div>
 
-            <!-- Products Grid -->
-            <div class="wa-products-grid-container">
+            <!-- Products Grid with Dynamic Reactive Columns -->
+            <div
+                class="wa-products-grid-container"
+                :style="gridStyle"
+            >
                 <div
                     v-for="product in products"
                     :key="product.id"
-                    class="group relative flex flex-col justify-between overflow-hidden rounded-2xl border border-gray-100 bg-white p-3 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg max-sm:p-2.5"
+                    class="group relative overflow-hidden rounded-2xl border border-gray-100 p-3 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-lg max-sm:p-2.5"
+                    style="display: flex; flex-direction: column; justify-content: space-between; height: 100%; background: #ffffff;"
                 >
                     <!-- Product Image & Badges -->
-                    <div class="relative overflow-hidden rounded-xl bg-gray-50 aspect-square">
+                    <div
+                        class="relative overflow-hidden rounded-xl bg-gray-50"
+                        style="aspect-ratio: 1 / 1; width: 100%; position: relative;"
+                    >
                         <a
                             :href="'{{ route('shop.product_or_category.index', ':slug') }}'.replace(':slug', product.url_key)"
                             class="block w-full h-full"
@@ -82,7 +88,8 @@
                             <img
                                 :src="product.base_image.medium_image_url"
                                 :alt="product.name"
-                                class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                                style="width: 100%; height: 100%; object-fit: cover;"
+                                class="transition-transform duration-300 group-hover:scale-105"
                                 loading="lazy"
                             />
                         </a>
@@ -185,7 +192,10 @@
         <!-- Initial Shimmer loader -->
         <template v-if="isLoading">
             <div class="container mt-20 max-lg:px-8 max-md:mt-8 max-sm:mt-7 max-sm:!px-4">
-                <div class="wa-products-grid-container">
+                <div
+                    class="wa-products-grid-container"
+                    :style="gridStyle"
+                >
                     <x-shop::shimmer.products.cards.grid count="8" />
                 </div>
             </div>
@@ -209,25 +219,99 @@
                     products: [],
                     links: null,
                     autoLoadCount: 0,
-                    maxAutoLoads: 2, // Auto-scroll loads up to 2 additional pages, then requires button click
+                    maxAutoLoads: 2,
                     observer: null,
+                    windowWidth: typeof window !== 'undefined' ? window.innerWidth : 1200,
                     waEnabled: {{ core()->getConfigData('general.general.whatsapp.status') ? 'true' : 'false' }},
                     waPhone: '{{ preg_replace('/[^0-9]/', '', (string)core()->getConfigData('general.general.whatsapp.phone_number')) }}',
                     waProductMsg: '{{ addslashes(core()->getConfigData('general.general.whatsapp.product_message') ?: 'السلام عليكم، أود طلب / الاستفسار عن هذا المنتج:') }}',
                 };
             },
 
+            computed: {
+                columnsCount() {
+                    if (this.windowWidth <= 767) {
+                        return 2; // Phone: 2 products per row
+                    }
+
+                    if (this.windowWidth <= 1024) {
+                        return 3; // Tablet: 3 products per row
+                    }
+
+                    return 4; // PC: 4 products per row
+                },
+
+                gridStyle() {
+                    const gap = this.windowWidth <= 767 ? '12px' : (this.windowWidth <= 1024 ? '16px' : '20px');
+
+                    return {
+                        display: 'grid',
+                        gridTemplateColumns: `repeat(${this.columnsCount}, minmax(0, 1fr))`,
+                        gap: gap,
+                        marginTop: this.windowWidth <= 767 ? '1rem' : '1.5rem',
+                        width: '100%',
+                    };
+                },
+            },
+
+            created() {
+                if (typeof window !== 'undefined') {
+                    window.addEventListener('resize', this.updateWindowWidth);
+                }
+            },
+
             mounted() {
+                this.injectGridStyles();
                 this.getProducts();
             },
 
-            beforeDestroy() {
+            beforeUnmount() {
+                if (typeof window !== 'undefined') {
+                    window.removeEventListener('resize', this.updateWindowWidth);
+                }
+
                 if (this.observer) {
                     this.observer.disconnect();
                 }
             },
 
             methods: {
+                updateWindowWidth() {
+                    this.windowWidth = window.innerWidth;
+                },
+
+                injectGridStyles() {
+                    if (typeof document === 'undefined') {
+                        return;
+                    }
+
+                    if (! document.getElementById('wa-products-grid-global-style')) {
+                        const style = document.createElement('style');
+                        style.id = 'wa-products-grid-global-style';
+                        style.innerHTML = `
+                            .wa-products-grid-container {
+                                display: grid !important;
+                                grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+                                gap: 20px !important;
+                                width: 100% !important;
+                            }
+                            @media (max-width: 1024px) and (min-width: 768px) {
+                                .wa-products-grid-container {
+                                    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+                                    gap: 16px !important;
+                                }
+                            }
+                            @media (max-width: 767px) {
+                                .wa-products-grid-container {
+                                    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+                                    gap: 12px !important;
+                                }
+                            }
+                        `;
+                        document.head.appendChild(style);
+                    }
+                },
+
                 getProducts() {
                     this.$axios.get(this.src)
                         .then(response => {
