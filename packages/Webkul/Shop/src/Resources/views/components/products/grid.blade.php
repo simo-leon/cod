@@ -4,11 +4,35 @@
     navigation-link="{{ $navigationLink ?? '' }}"
 >
     <div class="container mt-20 max-lg:px-8 max-md:mt-8 max-sm:mt-7 max-sm:!px-4">
-        <div class="grid grid-cols-4 gap-6 max-xl:grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-2 max-sm:gap-3.5">
+        <div class="wa-products-grid-container">
             <x-shop::shimmer.products.cards.grid count="8" />
         </div>
     </div>
 </v-products-grid>
+
+<style>
+    .wa-products-grid-container {
+        display: grid !important;
+        grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+        gap: 20px !important;
+        margin-top: 1.5rem !important;
+    }
+
+    @media (max-width: 1024px) and (min-width: 769px) {
+        .wa-products-grid-container {
+            grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+            gap: 14px !important;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .wa-products-grid-container {
+            grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+            gap: 12px !important;
+            margin-top: 1rem !important;
+        }
+    }
+</style>
 
 @pushOnce('scripts')
     <script
@@ -39,7 +63,7 @@
             </div>
 
             <!-- Products Grid -->
-            <div class="grid grid-cols-4 gap-6 max-xl:grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-2 max-sm:gap-3.5 mt-8 max-md:mt-5">
+            <div class="wa-products-grid-container">
                 <div
                     v-for="product in products"
                     :key="product.id"
@@ -158,7 +182,7 @@
         <!-- Initial Shimmer loader -->
         <template v-if="isLoading">
             <div class="container mt-20 max-lg:px-8 max-md:mt-8 max-sm:mt-7 max-sm:!px-4">
-                <div class="grid grid-cols-4 gap-6 max-xl:grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-2 max-sm:gap-3.5">
+                <div class="wa-products-grid-container">
                     <x-shop::shimmer.products.cards.grid count="8" />
                 </div>
             </div>
