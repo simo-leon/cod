@@ -212,6 +212,19 @@
                                 this.$axios.post("{{ route('shop.checkout.onepage.shipping_methods.store') }}", {
                                     shipping_method: defaultShippingMethod,
                                 })
+                                    .then(response => {
+                                        const paymentMethods = response.data?.payment_methods || response.data;
+                                        const list = Array.isArray(paymentMethods) ? paymentMethods : (paymentMethods?.payment_methods || []);
+                                        const defaultPaymentMethod = list[0];
+
+                                        if (defaultPaymentMethod) {
+                                            this.selectedPaymentMethod = defaultPaymentMethod.method;
+
+                                            return this.$axios.post("{{ route('shop.checkout.onepage.payment_methods.store') }}", {
+                                                payment: defaultPaymentMethod,
+                                            });
+                                        }
+                                    })
                                     .then(() => this.getCart())
                                     .catch(() => {});
                             }
@@ -224,13 +237,14 @@
                                 return;
                             }
 
-                            const defaultPaymentMethod = data?.[0]?.method;
+                            const list = Array.isArray(data) ? data : (data?.payment_methods || []);
+                            const defaultPaymentMethod = list[0];
 
                             if (defaultPaymentMethod) {
-                                this.selectedPaymentMethod = defaultPaymentMethod;
+                                this.selectedPaymentMethod = defaultPaymentMethod.method;
 
                                 this.$axios.post("{{ route('shop.checkout.onepage.payment_methods.store') }}", {
-                                    payment: data[0],
+                                    payment: defaultPaymentMethod,
                                 })
                                     .then(() => this.getCart())
                                     .catch(() => {});
@@ -275,7 +289,7 @@
                             this.$axios.post("{{ route('shop.checkout.onepage.shipping_methods.store') }}", {
                                 shipping_method: defaultShippingMethod,
                             }).then(response => {
-                                paymentMethods = response.data.payment_methods;
+                                paymentMethods = response.data?.payment_methods || response.data;
 
                                 this.saveDefaultPaymentMethod(paymentMethods);
                             }).catch(error => this.failAddressCheckout(error.response?.data?.message));
@@ -287,7 +301,8 @@
                     },
 
                     saveDefaultPaymentMethod(paymentMethods) {
-                        const defaultPaymentMethod = paymentMethods?.[0];
+                        const list = Array.isArray(paymentMethods) ? paymentMethods : (paymentMethods?.payment_methods || []);
+                        const defaultPaymentMethod = list[0];
 
                         if (! defaultPaymentMethod) {
                             this.failAddressCheckout('No payment method is available.');
@@ -327,16 +342,22 @@
                             return;
                         }
 
-                        if (
-                            this.cart.is_guest
-                            && (
-                                ! this.cart.billing_address
-                                || (this.cart.have_stockable_items && (! this.cart.shipping_address || ! this.cart.shipping_method))
-                                || ! this.cart.payment_method
-                            )
-                        ) {
+                        const needsAddress = ! this.cart.billing_address;
+                        const needsShipping = this.cart.have_stockable_items && (! this.cart.shipping_address || ! this.cart.shipping_method);
+                        const needsPayment = ! this.cart.payment_method;
+
+                        if (needsAddress || needsShipping || needsPayment) {
                             this.placeOrderAfterAddress = true;
-                            this.$refs.guestAddress.submitAddress();
+
+                            if (this.cart.is_guest) {
+                                if (this.$refs.guestAddress?.submitAddress) {
+                                    this.$refs.guestAddress.submitAddress();
+                                }
+                            } else {
+                                if (this.$refs.customerAddress?.submitAddress) {
+                                    this.$refs.customerAddress.submitAddress();
+                                }
+                            }
 
                             return;
                         }
@@ -356,7 +377,7 @@
                             .catch(error => {
                                 this.isPlacingOrder = false
 
-                                this.$emitter.emit('add-flash', { type: 'error', message: error.response.data.message });
+                                this.$emitter.emit('add-flash', { type: 'error', message: error.response?.data?.message || 'Error placing order.' });
                             });
                     }
                 },

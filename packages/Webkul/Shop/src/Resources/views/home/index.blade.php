@@ -84,6 +84,17 @@
                 />
 
                 @break
+
+            @case ($customization::PRODUCT_GRID)
+                <!-- Product Grid with Infinite Scroll -->
+                <x-shop::products.grid
+                    :title="$data['title'] ?? ''"
+                    :src="route('shop.api.products.index', $data['filters'] ?? [])"
+                    :navigation-link="route('shop.search.index', $data['filters'] ?? [])"
+                    aria-label="{{ trans('shop::app.home.index.product-carousel') }}"
+                />
+
+                @break
         @endswitch
     @endforeach
 </x-shop::layouts>

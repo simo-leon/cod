@@ -201,6 +201,7 @@
                     return {
                         themeTypes: {
                             product_carousel: "@lang('admin::app.settings.themes.create.type.product-carousel')",
+                            product_grid: "@lang('admin::app.settings.themes.create.type.product-grid')",
                             category_carousel: "@lang('admin::app.settings.themes.create.type.category-carousel')",
                             static_content: "@lang('admin::app.settings.themes.create.type.static-content')",
                             image_carousel: "@lang('admin::app.settings.themes.create.type.image-carousel')",

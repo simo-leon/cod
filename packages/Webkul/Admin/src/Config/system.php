@@ -55,6 +55,47 @@ return [
             ],
         ],
     ], [
+        'key' => 'general.general.whatsapp',
+        'name' => 'admin::app.configuration.index.general.general.whatsapp.title',
+        'info' => 'admin::app.configuration.index.general.general.whatsapp.title-info',
+        'sort' => 3,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.general.whatsapp.status',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'phone_number',
+                'title' => 'admin::app.configuration.index.general.general.whatsapp.phone-number',
+                'info' => 'admin::app.configuration.index.general.general.whatsapp.phone-number-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'enable_store_widget',
+                'title' => 'admin::app.configuration.index.general.general.whatsapp.enable-store-widget',
+                'info' => 'admin::app.configuration.index.general.general.whatsapp.enable-store-widget-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'product_message',
+                'title' => 'admin::app.configuration.index.general.general.whatsapp.product-message',
+                'info' => 'admin::app.configuration.index.general.general.whatsapp.product-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم، أنا مهتم بهذا المنتج:',
+                'channel_based' => true,
+            ], [
+                'name' => 'order_message',
+                'title' => 'admin::app.configuration.index.general.general.whatsapp.order-message',
+                'info' => 'admin::app.configuration.index.general.general.whatsapp.order-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم، أود تأكيد طلبي:',
+                'channel_based' => true,
+            ],
+        ],
+    ], [
         'key' => 'general.content',
         'name' => 'admin::app.configuration.index.general.content.title',
         'info' => 'admin::app.configuration.index.general.content.info',

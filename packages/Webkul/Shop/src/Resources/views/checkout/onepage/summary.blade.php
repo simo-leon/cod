@@ -348,4 +348,33 @@
     </div>
 
     {!! view_render_event('bagisto.shop.checkout.onepage.summary.grand_total.after') !!}
+
+    <!-- Moroccan E-Commerce Trust Badges -->
+    <div class="mt-6 rounded-xl border border-emerald-100 bg-emerald-50/70 p-4 text-xs text-zinc-700">
+        <div class="space-y-3">
+            <div class="flex items-center gap-2.5">
+                <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">💵</span>
+                <div>
+                    <p class="font-bold text-zinc-900">الدفع عند الاستلام (COD)</p>
+                    <p class="text-[11px] text-zinc-500">لا تدفع أي درهم حتى تستلم طلبيتك وتفحصها</p>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-2.5">
+                <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">🚚</span>
+                <div>
+                    <p class="font-bold text-zinc-900">توصيل سريع لجميع مدن المغرب</p>
+                    <p class="text-[11px] text-zinc-500">خلال 24 إلى 48 ساعة حتى باب منزلك</p>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-2.5">
+                <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">🔄</span>
+                <div>
+                    <p class="font-bold text-zinc-900">ضمان الجودة والاستبدال</p>
+                    <p class="text-[11px] text-zinc-500">معاينة الطرد قبل الدفع متاحة مع الموزع</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>

@@ -32,6 +32,13 @@ class ThemeCustomizationTranslation extends Model implements ThemeCustomizationT
     public const PRODUCT_CAROUSEL = 'product_carousel';
 
     /**
+     * Product grid precision.
+     *
+     * @var string
+     */
+    public const PRODUCT_GRID = 'product_grid';
+
+    /**
      * Category carousel precision.
      *
      * @var string

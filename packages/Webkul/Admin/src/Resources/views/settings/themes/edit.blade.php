@@ -90,7 +90,7 @@
                 @includeWhen($theme->type === 'image_carousel', 'admin::settings.themes.edit.image-carousel')
 
                 <!-- Product-Carousel Template -->
-                @includeWhen($theme->type === 'product_carousel', 'admin::settings.themes.edit.product-carousel')
+                @includeWhen(in_array($theme->type, ['product_carousel', 'product_grid']), 'admin::settings.themes.edit.product-carousel')
 
                 <!-- Category Template -->
                 @includeWhen($theme->type === 'category_carousel', 'admin::settings.themes.edit.category-carousel')

@@ -29,8 +29,10 @@
                 <x-shop::form.control-group.control
                     type="text"
                     ::name="controlName + '.first_name'"
-                    ::value="address.first_name || ''"
+                    ::value="address.first_name || '{{ addslashes(trim((auth()->guard('customer')->user()?->first_name ?? '') . ' ' . (auth()->guard('customer')->user()?->last_name ?? ''))) }}'"
+                    rules="required"
                     class="h-[46px] rounded-xl border border-zinc-300 bg-white px-4 text-base text-zinc-700 placeholder:text-zinc-400 focus:border-blue-600 focus:ring-0"
+                    :label="trans('shop::app.checkout.onepage.address.full-name')"
                     :placeholder="trans('shop::app.checkout.onepage.address.full-name')"
                 />
 
@@ -42,7 +44,7 @@
             <x-shop::form.control-group.control
                 type="hidden"
                 ::name="controlName + '.last_name'"
-                ::value="address.last_name || 'Gest'"
+                ::value="address.last_name || '{{ addslashes(auth()->guard('customer')->user()?->last_name ?: 'Client') }}'"
             />
 
             {!! view_render_event('bagisto.shop.checkout.onepage.address.form.last_name.after') !!}
@@ -50,7 +52,7 @@
             <x-shop::form.control-group.control
                 type="hidden"
                 ::name="controlName + '.email'"
-                ::value="address.email || 'gest@shop.ma'"
+                ::value="address.email || '{{ addslashes(auth()->guard('customer')->user()?->email ?: 'client@shop.ma') }}'"
             />
 
             {!! view_render_event('bagisto.shop.checkout.onepage.address.form.email.after') !!}
@@ -126,7 +128,7 @@
             <!-- City -->
             <x-shop::form.control-group>
                 <x-shop::form.control-group.label class="required !mt-0 mb-2 text-sm font-medium text-zinc-700">
-                    @lang('shop::app.checkout.onepage.address.city')
+                    @lang('shop::app.checkout.onepage.address.city') (المدينة)
                 </x-shop::form.control-group.label>
 
                 <x-shop::form.control-group.control
@@ -136,8 +138,47 @@
                     rules="required"
                     class="h-[46px] rounded-xl border border-zinc-300 bg-white px-4 text-base text-zinc-700 placeholder:text-zinc-400 focus:border-blue-600 focus:ring-0"
                     :label="trans('shop::app.checkout.onepage.address.city')"
-                    :placeholder="trans('shop::app.checkout.onepage.address.city')"
+                    placeholder="اختر أو اكتب مدينتك (الدار البيضاء، الرباط، مراكش...)"
+                    list="morocco-cities-list"
                 />
+
+                <datalist id="morocco-cities-list">
+                    <option value="Casablanca">الدار البيضاء / Casablanca</option>
+                    <option value="Rabat">الرباط / Rabat</option>
+                    <option value="Marrakech">مراكش / Marrakech</option>
+                    <option value="Fès">فاس / Fès</option>
+                    <option value="Tanger">طنجة / Tanger</option>
+                    <option value="Agadir">أكادير / Agadir</option>
+                    <option value="Meknès">مكناس / Meknès</option>
+                    <option value="Oujda">وجدة / Oujda</option>
+                    <option value="Kénitra">القنيطرة / Kénitra</option>
+                    <option value="Tétouan">تطوان / Tétouan</option>
+                    <option value="Safi">آسفي / Safi</option>
+                    <option value="Mohammedia">المحمدية / Mohammedia</option>
+                    <option value="Temara">تمارة / Temara</option>
+                    <option value="El Jadida">الجديدة / El Jadida</option>
+                    <option value="Béni Mellal">بني ملال / Béni Mellal</option>
+                    <option value="Nador">الناظور / Nador</option>
+                    <option value="Taza">تازة / Taza</option>
+                    <option value="Settat">سطات / Settat</option>
+                    <option value="Berrechid">برشيد / Berrechid</option>
+                    <option value="Khouribga">خريبكة / Khouribga</option>
+                    <option value="Taroudant">تارودانت / Taroudant</option>
+                    <option value="Larache">العرائش / Larache</option>
+                    <option value="Ksar El Kebir">القصر الكبير / Ksar El Kebir</option>
+                    <option value="Khémisset">الخميسات / Khémisset</option>
+                    <option value="Guelmim">كلميم / Guelmim</option>
+                    <option value="Berkane">بركان / Berkane</option>
+                    <option value="Taourirt">تاوريرت / Taourirt</option>
+                    <option value="Ouarzazate">ورزازات / Ouarzazate</option>
+                    <option value="Essaouira">الصويرة / Essaouira</option>
+                    <option value="Al Hoceïma">الحسيمة / Al Hoceïma</option>
+                    <option value="Sidi Kacem">سيدي قاسم / Sidi Kacem</option>
+                    <option value="Sidi Slimane">سيدي سليمان / Sidi Slimane</option>
+                    <option value="Errachidia">الرشيدية / Errachidia</option>
+                    <option value="Dakhla">الداخلة / Dakhla</option>
+                    <option value="Laâyoune">العيون / Laâyoune</option>
+                </datalist>
 
                 <x-shop::form.control-group.error ::name="controlName + '.city'" />
             </x-shop::form.control-group>
@@ -155,18 +196,26 @@
             <!-- Phone Number -->
             <x-shop::form.control-group>
                 <x-shop::form.control-group.label class="required !mt-0 text-base font-medium text-zinc-700">
-                    @lang('shop::app.checkout.onepage.address.telephone')
+                    @lang('shop::app.checkout.onepage.address.telephone') (رقم الهاتف)
                 </x-shop::form.control-group.label>
 
-                <x-shop::form.control-group.control
-                    type="text"
-                    ::name="controlName + '.phone'"
-                    ::value="address.phone"
-                    rules="required|phone"
-                    class="h-[52px] rounded-xl border border-zinc-300 bg-white px-4 text-base text-zinc-700 placeholder:text-zinc-400 focus:border-blue-600 focus:ring-0"
-                    :label="trans('shop::app.checkout.onepage.address.telephone')"
-                    :placeholder="trans('shop::app.checkout.onepage.address.telephone')"
-                />
+                <div class="relative flex items-center">
+                    <div class="pointer-events-none absolute flex select-none items-center gap-1.5 text-sm font-medium text-zinc-500 ltr:left-3 rtl:right-3">
+                        <span class="text-base">🇲🇦</span>
+                        <span>+212</span>
+                        <span class="text-zinc-300">|</span>
+                    </div>
+
+                    <x-shop::form.control-group.control
+                        type="text"
+                        ::name="controlName + '.phone'"
+                        ::value="address.phone || '{{ addslashes(auth()->guard('customer')->user()?->phone ?? '') }}'"
+                        rules="required|phone"
+                        class="h-[52px] w-full rounded-xl border border-zinc-300 bg-white text-base text-zinc-700 placeholder:text-zinc-400 focus:border-blue-600 focus:ring-0 ltr:pl-20 ltr:pr-4 rtl:pl-4 rtl:pr-20"
+                        :label="trans('shop::app.checkout.onepage.address.telephone')"
+                        placeholder="06 12 34 56 78"
+                    />
+                </div>
 
                 <x-shop::form.control-group.error ::name="controlName + '.phone'" />
             </x-shop::form.control-group>
@@ -235,7 +284,19 @@
                     }
 
                     if (! this.address.email) {
-                        this.address.email = 'gest@shop.ma';
+                        this.address.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?: 'client@shop.ma') }}';
+                    }
+
+                    if (! this.address.last_name) {
+                        this.address.last_name = '{{ addslashes(auth()->guard('customer')->user()?->last_name ?: 'Client') }}';
+                    }
+
+                    if (! this.address.first_name) {
+                        this.address.first_name = '{{ addslashes(trim((auth()->guard('customer')->user()?->first_name ?? '') . ' ' . (auth()->guard('customer')->user()?->last_name ?? ''))) }}';
+                    }
+
+                    if (! this.address.phone) {
+                        this.address.phone = '{{ addslashes(auth()->guard('customer')->user()?->phone ?? '') }}';
                     }
 
                     if (! this.address.country) {

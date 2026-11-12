@@ -2,6 +2,7 @@
 
 <!-- Customer Address Vue Component -->
 <v-checkout-address-customer
+    ref="customerAddress"
     :cart="cart"
     @processing="stepForward"
     @processed="stepProcessed"
@@ -29,7 +30,7 @@
                     v-slot="{ meta, errors, handleSubmit }"
                     as="div"
                 >
-                    <form @submit="handleSubmit($event, addAddressToCart)">
+                    <form ref="savedAddressForm" @submit="handleSubmit($event, addAddressToCart)">
                         <!-- Billing Address Header -->
                         <div class="mb-4 flex items-center justify-between max-md:mb-2">
                             <h2 class="text-xl font-medium max-sm:text-base max-sm:font-normal">
@@ -262,7 +263,7 @@
                     v-slot="{ meta, errors, handleSubmit }"
                     as="div"
                 >
-                    <form @submit="handleSubmit($event, updateOrCreateAddress)">
+                    <form ref="newAddressForm" @submit="handleSubmit($event, saveAndApplyAddress)">
                         <!-- Billing Address Header -->
                         <div class="mb-4 flex items-center justify-between">
                             <h2 class="text-xl font-medium max-md:text-base max-sm:font-normal">
@@ -392,6 +393,24 @@
                         });
                 },
 
+                submitAddress() {
+                    if (this.activeAddressForm) {
+                        if (this.$refs.newAddressForm) {
+                            this.$refs.newAddressForm.requestSubmit();
+                        }
+                    } else if (this.customerSavedAddresses.billing.length) {
+                        if (! this.selectedAddresses.billing_address_id && this.customerSavedAddresses.billing[0]) {
+                            this.selectedAddresses.billing_address_id = this.customerSavedAddresses.billing[0].id;
+                        }
+
+                        if (this.$refs.savedAddressForm) {
+                            this.$refs.savedAddressForm.requestSubmit();
+                        }
+                    } else {
+                        this.activeAddressForm = 'billing';
+                    }
+                },
+
                 initializeAddresses(type, addresses) {
                     this.customerSavedAddresses[type] = addresses;
 
@@ -403,6 +422,10 @@
                                 this.selectedAddresses[type + '_address_id'] = address.id;
                             }
                         });
+
+                        if (! this.selectedAddresses[type + '_address_id'] && addresses.length) {
+                            this.selectedAddresses[type + '_address_id'] = addresses[0].id;
+                        }
 
                         return addresses;
                     }
@@ -419,51 +442,67 @@
                         addresses.unshift(cartAddress);
                     }
 
+                    if (! this.selectedAddresses[type + '_address_id'] && addresses.length) {
+                        this.selectedAddresses[type + '_address_id'] = addresses[0].id;
+                    }
+
                     return addresses;
                 },
 
-                updateOrCreateAddress(params, { setErrors }) {
+                saveAndApplyAddress(params, { setErrors }) {
+                    this.isStoring = true;
                     this.$emit('processing', 'address');
 
-                    params = params[this.activeAddressForm];
+                    let addressData = {
+                        ...params[this.activeAddressForm],
+                    };
 
-                    let address = this.customerSavedAddresses[this.activeAddressForm].find(address => {
-                        return address.id == params.id;
-                    });
-
-                    if (! address) {
-                        if (params.save_address) {
-                            this.createCustomerAddress(params, { setErrors })
-                                .then((response) => {
-                                    this.addAddressToList(response.data.data);
-                                })
-                                .catch((error) => {});
-                        } else {
-                            this.addAddressToList(params);
-                        }
-
-                        return;
+                    if (typeof addressData.address === 'string') {
+                        addressData.address = [addressData.address];
                     }
+                    if (! addressData.country) addressData.country = 'MA';
+                    if (! addressData.postcode) addressData.postcode = '20000';
+                    if (! addressData.state) addressData.state = addressData.city || 'Casablanca';
+                    if (! addressData.last_name) addressData.last_name = '{{ addslashes(auth()->guard('customer')->user()?->last_name ?? 'Client') }}';
+                    if (! addressData.email) addressData.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?? 'client@shop.ma') }}';
 
-                    if (params.save_address) {
-                        if (address.address_type == 'customer') {
-                            this.updateCustomerAddress(params.id, params, { setErrors })
-                                .then((response) => {
-                                    this.updateAddressInList(response.data.data);
-                                })
-                                .catch((error) => {});
-                        } else {
-                            this.removeAddressFromList(params);
+                    let isEditing = addressData.id && addressData.address_type === 'customer';
 
-                            this.createCustomerAddress(params, { setErrors })
-                                .then((response) => {
-                                    this.addAddressToList(response.data.data);
-                                })
-                                .catch((error) => {});
-                        }
-                    } else {
-                        this.updateAddressInList(params);
-                    }
+                    let savePromise = isEditing
+                        ? this.$axios.put('{{ route('shop.api.customers.account.addresses.update') }}/' + addressData.id, addressData)
+                        : this.$axios.post('{{ route('shop.api.customers.account.addresses.store') }}', addressData);
+
+                    return savePromise
+                        .then(response => {
+                            let savedAddress = response.data?.data || addressData;
+                            this.addAddressToList(savedAddress);
+                            this.selectedAddresses[this.activeAddressForm + '_address_id'] = savedAddress.id;
+                            this.activeAddressForm = null;
+
+                            let cartParams = {
+                                billing: {
+                                    id: savedAddress.id,
+                                }
+                            };
+
+                            return this.addAddressToCart(cartParams, { setErrors });
+                        })
+                        .catch(error => {
+                            this.isStoring = false;
+                            this.$emit('processing', 'address');
+
+                            if (error.response?.status == 422 && error.response.data?.errors) {
+                                let errors = {};
+                                Object.keys(error.response.data.errors).forEach(key => {
+                                    errors[this.activeAddressForm + '.' + key] = error.response.data.errors[key];
+                                });
+                                setErrors(errors);
+                            }
+                        });
+                },
+
+                updateOrCreateAddress(params, { setErrors }) {
+                    return this.saveAndApplyAddress(params, { setErrors });
                 },
 
                 addAddressToList(address) {
@@ -552,22 +591,27 @@
                 },
 
                 addAddressToCart(params, { setErrors }) {
+                    let billingId = params?.billing?.id || this.selectedAddresses.billing_address_id;
+                    let billingAddress = this.getSelectedAddress('billing', billingId);
+
                     let payload = {
                         billing: {
-                            ...this.getSelectedAddress('billing', params.billing.id),
+                            ...billingAddress,
                             use_for_shipping: this.useBillingAddressForShipping
                         },
                     };
 
-                    if (params.shipping !== undefined) {
-                        payload.shipping = this.getSelectedAddress('shipping', params.shipping.id);
+                    if (! this.useBillingAddressForShipping) {
+                        let shippingId = params?.shipping?.id || this.selectedAddresses.shipping_address_id;
+                        let shippingAddress = this.getSelectedAddress('shipping', shippingId);
+                        payload.shipping = shippingAddress;
                     }
 
                     this.isStoring = true;
 
                     this.moveToNextStep();
 
-                    this.$axios.post('{{ route('shop.checkout.onepage.addresses.store') }}', payload)
+                    return this.$axios.post('{{ route('shop.checkout.onepage.addresses.store') }}', payload)
                         .then((response) => {
                             this.isStoring = false;
 
@@ -586,10 +630,10 @@
 
                             this.$emit('processing', 'address');
 
-                            if (error.response.status == 422) {
+                            if (error.response?.status == 422) {
                                 const billingRegex = /^billing\./;
 
-                                if (Object.keys(error.response.data.errors).some(key => billingRegex.test(key))) {
+                                if (Object.keys(error.response.data?.errors || {}).some(key => billingRegex.test(key))) {
                                     setErrors({
                                         'billing.id': error.response.data.message
                                     });
@@ -603,11 +647,30 @@
                 },
 
                 getSelectedAddress(type, id) {
-                    let address = Object.assign({}, this.customerSavedAddresses[type].find(address => address.id == id));
+                    let address = this.customerSavedAddresses[type].find(address => address.id == id);
+
+                    if (! address) {
+                        address = this.customerSavedAddresses[type][0] || {};
+                    }
+
+                    address = Object.assign({}, address);
 
                     if (id == 0) {
                         address.id = null;
                     }
+
+                    if (typeof address.address === 'string') {
+                        address.address = [address.address];
+                    } else if (! Array.isArray(address.address)) {
+                        address.address = address.address ? [address.address] : [''];
+                    }
+
+                    if (! address.country) address.country = 'MA';
+                    if (! address.postcode) address.postcode = '20000';
+                    if (! address.state) address.state = address.city || 'Casablanca';
+                    if (! address.email) address.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?? 'client@shop.ma') }}';
+                    if (! address.last_name) address.last_name = '{{ addslashes(auth()->guard('customer')->user()?->last_name ?? 'Client') }}';
+                    if (! address.first_name) address.first_name = '{{ addslashes(auth()->guard('customer')->user()?->first_name ?? '') }}';
 
                     return {
                         ...address,
