@@ -714,6 +714,19 @@ return [
                 'new' => 'Nouveau',
                 'review-description' => 'Soyez le premier à évaluer ce produit',
                 'sale' => 'En solde',
+                'whatsapp_order' => 'Commander via WhatsApp',
+                'whatsapp_details' => 'Commandez directement via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'Voir tout',
+                'sale' => 'Solde',
+                'cod-badge' => '🚚 Paiement à la livraison',
+                'whatsapp-order' => 'Commander via WhatsApp',
+                'view-details' => 'Détails du produit',
+                'loading-more' => 'Chargement de plus de produits...',
+                'load-more' => 'Voir plus de produits',
+                'whatsapp-default-msg' => 'Bonjour, je voudrais commander / me renseigner sur ce produit :',
             ],
 
             'carousel' => [
