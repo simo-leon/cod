@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'الاستهداف والإعلانات',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'اكتب رسالتك أو استفسارك هنا...',
+                'prompt' => 'مرحباً بكم! 👋 كيف يمكننا مساعدتك؟ اكتب رسالتك أو استفسارك وسنرد عليك مباشرة عبر واتساب.',
+                'send' => 'إرسال عبر واتساب',
+                'subtitle' => 'عادة نرد في أقل من ساعة',
+                'title' => 'واتساب / WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -934,6 +942,8 @@ return [
             'review' => 'المراجعات',
             'tax-inclusive' => 'شامل للضرائب',
             'up-sell-title' => 'لقد وجدنا منتجات أخرى قد تعجبك!',
+            'whatsapp-default-message' => 'السلام عليكم، أود الطلب / الاستفسار عن هذا المنتج:',
+            'whatsapp-order' => 'طلب أو استفسار عبر واتساب',
         ],
 
         'type' => [
@@ -1052,6 +1062,15 @@ return [
             'order-id-info' => 'رقم طلبك هو #:order_id',
             'thanks' => 'شكرًا لك على طلبك!',
             'title' => 'تم تقديم الطلب بنجاح',
+            'whatsapp-btn' => 'تأكيد الطلب عبر واتساب (WhatsApp)',
+            'whatsapp-city' => 'المدينة',
+            'whatsapp-customer-name' => 'الاسم',
+            'whatsapp-default-message' => 'السلام عليكم، أود تأكيد طلبي:',
+            'whatsapp-help' => 'لتسريع إرسال طلبيتك والتأكد من تواجدكم أثناء التوصيل، يرجى تأكيد الطلب بنقرة واحدة:',
+            'whatsapp-order-id' => 'رقم الطلب',
+            'whatsapp-thanks' => 'شكراً لكم!',
+            'whatsapp-title' => 'تأكيد سريع عبر واتساب / Confirmation Rapide',
+            'whatsapp-total' => 'المبلغ الإجمالي',
         ],
 
         'cart' => [
@@ -1155,6 +1174,7 @@ return [
                 'check-billing-address' => 'العنوان الفوترة مفقود.',
                 'check-shipping-address' => 'العنوان الشحن مفقود.',
                 'city' => 'المدينة',
+                'city-placeholder' => 'اختر أو اكتب مدينتك (الدار البيضاء، الرباط، مراكش...)',
                 'company-name' => 'اسم الشركة',
                 'confirm' => 'تأكيد',
                 'country' => 'الدولة',
@@ -1192,12 +1212,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'ملخص السلة',
+                'cod-desc' => 'لا تدفع أي درهم حتى تستلم طلبيتك وتفحصها',
+                'cod-title' => 'الدفع عند الاستلام (COD)',
                 'delivery-charges' => 'رسوم التوصيل',
                 'delivery-charges-excl-tax' => 'رسوم التوصيل (بدون ضريبة)',
                 'delivery-charges-incl-tax' => 'رسوم التوصيل (شاملة الضريبة)',
+                'delivery-desc' => 'خلال 24 إلى 48 ساعة حتى باب منزلك',
+                'delivery-title' => 'توصيل سريع لجميع مدن المغرب',
                 'discount-amount' => 'مبلغ الخصم',
                 'excl-tax' => 'بدون ضريبة:',
                 'grand-total' => 'المجموع الكلي',
+                'guarantee-desc' => 'معاينة الطرد قبل الدفع متاحة مع الموزع',
+                'guarantee-title' => 'ضمان الجودة والاستبدال',
                 'included' => 'مشمول',
                 'incl-tax' => 'شامل الضريبة:',
                 'items-discount' => 'خصم العناصر',

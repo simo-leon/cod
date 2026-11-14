@@ -191,7 +191,7 @@
 
                 <!-- WhatsApp Order Button -->
                 <a
-                    :href="`https://wa.me/212664880065?text=${encodeURIComponent('طلب المنتج: ' + product.name + '\nرابط المنتج: ' + product.url_key)}`"
+                    :href="getWhatsAppUrl(product)"
                     target="_blank"
                     class="mt-2 inline-flex w-full items-center justify-center gap-2 rounded-lg bg-green-600 p-2.5 text-sm font-medium text-white transition-colors hover:bg-green-700"
                     role="button"
@@ -470,6 +470,16 @@
 
                             this.isAddingToCart = false;
                         });
+                },
+
+                getWhatsAppUrl(product) {
+                    const p = product || this.product || {};
+                    const waPhone = '{{ preg_replace('/[^0-9]/', '', (string)core()->getConfigData('general.general.whatsapp.phone_number')) }}' || '212664880065';
+                    const waMsg = @json(core()->getConfigData('general.general.whatsapp.product_message') ?: __('shop::app.components.products.grid.whatsapp-default-msg'));
+                    const origin = typeof window !== 'undefined' ? window.location.origin : '';
+                    const text = waMsg + '\n📦 ' + (p.name || '') + '\n🔗 ' + origin + '/' + (p.url_key || '');
+
+                    return 'https://api.whatsapp.com/send?phone=' + waPhone + '&text=' + encodeURIComponent(text);
                 },
             },
         });

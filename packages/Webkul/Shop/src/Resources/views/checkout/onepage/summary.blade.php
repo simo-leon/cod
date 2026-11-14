@@ -355,24 +355,24 @@
             <div class="flex items-center gap-2.5">
                 <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">💵</span>
                 <div>
-                    <p class="font-bold text-zinc-900">الدفع عند الاستلام (COD)</p>
-                    <p class="text-[11px] text-zinc-500">لا تدفع أي درهم حتى تستلم طلبيتك وتفحصها</p>
+                    <p class="font-bold text-zinc-900">@lang('shop::app.checkout.onepage.summary.cod-title')</p>
+                    <p class="text-[11px] text-zinc-500">@lang('shop::app.checkout.onepage.summary.cod-desc')</p>
                 </div>
             </div>
 
             <div class="flex items-center gap-2.5">
                 <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">🚚</span>
                 <div>
-                    <p class="font-bold text-zinc-900">توصيل سريع لجميع مدن المغرب</p>
-                    <p class="text-[11px] text-zinc-500">خلال 24 إلى 48 ساعة حتى باب منزلك</p>
+                    <p class="font-bold text-zinc-900">@lang('shop::app.checkout.onepage.summary.delivery-title')</p>
+                    <p class="text-[11px] text-zinc-500">@lang('shop::app.checkout.onepage.summary.delivery-desc')</p>
                 </div>
             </div>
 
             <div class="flex items-center gap-2.5">
                 <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">🔄</span>
                 <div>
-                    <p class="font-bold text-zinc-900">ضمان الجودة والاستبدال</p>
-                    <p class="text-[11px] text-zinc-500">معاينة الطرد قبل الدفع متاحة مع الموزع</p>
+                    <p class="font-bold text-zinc-900">@lang('shop::app.checkout.onepage.summary.guarantee-title')</p>
+                    <p class="text-[11px] text-zinc-500">@lang('shop::app.checkout.onepage.summary.guarantee-desc')</p>
                 </div>
             </div>
         </div>

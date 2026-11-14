@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'Ciblage et publicité',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Écrivez votre message ou demande ici...',
+                'prompt' => 'Bienvenue ! 👋 Comment pouvons-nous vous aider ? Écrivez votre message ou demande et nous vous répondrons directement via WhatsApp.',
+                'send' => 'Envoyer via WhatsApp',
+                'subtitle' => 'Répond généralement en moins d\'une heure',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -934,6 +942,8 @@ return [
             'review' => 'Avis',
             'tax-inclusive' => 'Taxes incluses',
             'up-sell-title' => 'Nous avons trouvé d\'autres produits qui pourraient vous plaire !',
+            'whatsapp-default-message' => 'Bonjour, je souhaite commander / me renseigner sur ce produit :',
+            'whatsapp-order' => 'Commander via WhatsApp',
         ],
 
         'type' => [
@@ -1052,6 +1062,15 @@ return [
             'order-id-info' => 'Votre numéro de commande est le #:order_id',
             'thanks' => 'Merci pour votre commande !',
             'title' => 'Commande passée avec succès',
+            'whatsapp-btn' => 'Confirmer la commande via WhatsApp',
+            'whatsapp-city' => 'Ville',
+            'whatsapp-customer-name' => 'Nom',
+            'whatsapp-default-message' => 'Bonjour, je souhaite confirmer ma commande :',
+            'whatsapp-help' => 'Pour accélérer l\'expédition de votre commande et assurer votre disponibilité lors de la livraison, veuillez confirmer votre commande en un clic :',
+            'whatsapp-order-id' => 'Numéro de commande',
+            'whatsapp-thanks' => 'Merci !',
+            'whatsapp-title' => 'Confirmation Rapide via WhatsApp',
+            'whatsapp-total' => 'Montant total',
         ],
 
         'cart' => [
@@ -1155,6 +1174,7 @@ return [
                 'check-billing-address' => 'L\'adresse de facturation est manquante.',
                 'check-shipping-address' => 'L\'adresse de livraison est manquante.',
                 'city' => 'Ville',
+                'city-placeholder' => 'Sélectionnez ou entrez votre ville...',
                 'company-name' => 'Nom de l\'entreprise',
                 'confirm' => 'Confirmer',
                 'country' => 'Pays',
@@ -1192,12 +1212,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'Résumé du panier',
+                'cod-desc' => 'Ne payez aucun montant avant d\'avoir reçu et inspecté votre commande',
+                'cod-title' => 'Paiement à la livraison (COD)',
                 'delivery-charges' => 'Frais de livraison',
                 'delivery-charges-excl-tax' => 'Frais de livraison (Hors taxes)',
                 'delivery-charges-incl-tax' => 'Frais de livraison (TTC)',
+                'delivery-desc' => 'En 24 à 48 heures directement à votre porte',
+                'delivery-title' => 'Livraison rapide dans toutes les villes',
                 'discount-amount' => 'Montant de réduction',
                 'excl-tax' => 'Hors taxes :',
                 'grand-total' => 'Total général',
+                'guarantee-desc' => 'Vérification du colis avant paiement disponible auprès du livreur',
+                'guarantee-title' => 'Garantie de qualité et d\'échange',
                 'included' => 'Inclus',
                 'incl-tax' => 'TTC :',
                 'items-discount' => 'Remise sur articles',

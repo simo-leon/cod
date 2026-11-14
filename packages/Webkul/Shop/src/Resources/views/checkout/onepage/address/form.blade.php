@@ -128,7 +128,7 @@
             <!-- City -->
             <x-shop::form.control-group>
                 <x-shop::form.control-group.label class="required !mt-0 mb-2 text-sm font-medium text-zinc-700">
-                    @lang('shop::app.checkout.onepage.address.city') (المدينة)
+                    @lang('shop::app.checkout.onepage.address.city')
                 </x-shop::form.control-group.label>
 
                 <x-shop::form.control-group.control
@@ -138,7 +138,7 @@
                     rules="required"
                     class="h-[46px] rounded-xl border border-zinc-300 bg-white px-4 text-base text-zinc-700 placeholder:text-zinc-400 focus:border-blue-600 focus:ring-0"
                     :label="trans('shop::app.checkout.onepage.address.city')"
-                    placeholder="اختر أو اكتب مدينتك (الدار البيضاء، الرباط، مراكش...)"
+                    :placeholder="trans('shop::app.checkout.onepage.address.city-placeholder')"
                     list="morocco-cities-list"
                 />
 
@@ -196,7 +196,7 @@
             <!-- Phone Number -->
             <x-shop::form.control-group>
                 <x-shop::form.control-group.label class="required !mt-0 text-base font-medium text-zinc-700">
-                    @lang('shop::app.checkout.onepage.address.telephone') (رقم الهاتف)
+                    @lang('shop::app.checkout.onepage.address.telephone')
                 </x-shop::form.control-group.label>
 
                 <div class="relative flex items-center">

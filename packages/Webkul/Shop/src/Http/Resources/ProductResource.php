@@ -31,12 +31,32 @@ class ProductResource extends JsonResource
     {
         $productTypeInstance = $this->getTypeInstance();
 
+        $name = $this->name;
+        if (empty($name)) {
+            $name = $this->attribute_values
+                ->where('attribute.code', 'name')
+                ->whereNotNull('text_value')
+                ->where('text_value', '!=', '')
+                ->first()
+                ?->text_value;
+        }
+
+        $urlKey = $this->url_key;
+        if (empty($urlKey)) {
+            $urlKey = $this->attribute_values
+                ->where('attribute.code', 'url_key')
+                ->whereNotNull('text_value')
+                ->where('text_value', '!=', '')
+                ->first()
+                ?->text_value;
+        }
+
         return [
             'id' => $this->id,
             'sku' => $this->sku,
-            'name' => $this->name,
+            'name' => $name,
             'description' => $this->description,
-            'url_key' => $this->url_key,
+            'url_key' => $urlKey,
             'base_image' => product_image()->getProductBaseImage($this),
             'images' => product_image()->getGalleryImages($this),
             'is_new' => (bool) $this->new,

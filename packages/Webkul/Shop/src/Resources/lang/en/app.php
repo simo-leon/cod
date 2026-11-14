@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'Targeting and Advertising',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -934,6 +942,8 @@ return [
             'review' => 'Reviews',
             'tax-inclusive' => 'Inclusive of all taxes',
             'up-sell-title' => 'We found other products you might like!',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1052,6 +1062,15 @@ return [
             'order-id-info' => 'Your order id is #:order_id',
             'thanks' => 'Thank you for your order!',
             'title' => 'Order successfully placed',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1155,6 +1174,7 @@ return [
                 'check-billing-address' => 'Billing address is missing.',
                 'check-shipping-address' => 'Shipping address is missing.',
                 'city' => 'City',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => 'Company Name',
                 'confirm' => 'Confirm',
                 'country' => 'Country',
@@ -1192,12 +1212,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'Cart Summary',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => 'Delivery Charges',
                 'delivery-charges-excl-tax' => 'Delivery Charges (Excl. Tax)',
                 'delivery-charges-incl-tax' => 'Delivery Charges (Incl. Tax)',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => 'Discount Amount',
                 'excl-tax' => 'Excl. Tax:',
                 'grand-total' => 'Grand Total',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => 'Included',
                 'incl-tax' => 'Incl. Tax:',
                 'items-discount' => 'Items Discount',
