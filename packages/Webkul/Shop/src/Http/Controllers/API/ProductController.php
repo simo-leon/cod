@@ -128,8 +128,21 @@ class ProductController extends APIController
     {
         $product = $this->productRepository->findOrFail($id);
 
-        $relatedProducts = $product->related_products()
-            ->take(core()->getConfigData('catalog.products.product_view_page.no_of_related_products'))
+        // Get category IDs of the current product
+        $categoryIds = $product->categories->pluck('id')->toArray();
+
+        if (empty($categoryIds)) {
+            // No categories – return empty collection
+            return ProductCardResource::collection(collect());
+        }
+
+        // Query other products sharing any of these categories
+        $relatedProducts = $this->productRepository->whereHas('categories', function ($q) use ($categoryIds) {
+                $q->whereIn('category_id', $categoryIds);
+            })
+            ->where('id', '<>', $product->id) // exclude the current product
+            ->orderBy('created_at', 'desc')   // newest first
+            ->take(core()->getConfigData('catalog.products.product_view_page.no_of_related_products') ?? 6)
             ->get();
 
         return ProductCardResource::collection($relatedProducts);
