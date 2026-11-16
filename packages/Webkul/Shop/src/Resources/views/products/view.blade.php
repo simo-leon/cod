@@ -867,6 +867,8 @@
                 data() {
                     return {
                         isVisible: false,
+                        relatedLoading: true,
+                        relatedProducts: [],
                     };
                 },
 
@@ -877,6 +879,7 @@
                                 if (entry.isIntersecting) {
                                     this.isVisible = true;
                                     observer.unobserve(entry.target); // Stop observing
+                                    this.loadRelated();
                                 }
                             });
                         },
@@ -884,7 +887,23 @@
                     );
 
                     observer.observe(this.$refs.carouselWrapper);
-                }
+                },
+
+                methods: {
+                    loadRelated() {
+                        fetch(`{{ route('shop.api.products.related.index', ['id' => $product->id]) }}`)
+                            .then(r => r.json())
+                            .then(data => {
+                                this.relatedProducts = data.data ?? [];
+                                this.relatedLoading = false;
+                            })
+                            .catch(() => { this.relatedLoading = false; });
+                    },
+
+                    getWhatsAppUrl(product) {
+                        return window.getWhatsAppUrl ? window.getWhatsAppUrl(product) : '#';
+                    },
+                },
             });
         </script>
 
