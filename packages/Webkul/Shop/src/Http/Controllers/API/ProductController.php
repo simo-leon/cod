@@ -11,7 +11,8 @@ use Webkul\Shop\Helpers\CatalogApiCache;
 use Webkul\Shop\Http\Resources\ProductCardResource;
 
 class ProductController extends APIController
-{}
+{
+    /**
      * Create a controller instance.
      *
      * @return void
@@ -21,7 +22,8 @@ class ProductController extends APIController
         protected ProductRepository $productRepository,
         protected CatalogApiCache $catalogApiCache
     ) {}
-}
+
+    /**
      * Product listings.
      */
     public function index(): JsonResource|JsonResponse
@@ -30,7 +32,8 @@ class ProductController extends APIController
 
         if (core()->getConfigData('catalog.products.search.engine') == 'elastic') {
             $searchEngine = core()->getConfigData('catalog.products.search.storefront_mode');
-    
+        }
+
         $searchData = $this->resolveSearchQueryData($searchEngine);
 
         $query = $searchData['effective_query'] ?? $searchData['original_query'];
@@ -53,13 +56,12 @@ class ProductController extends APIController
                     'channel_id' => core()->getCurrentChannel()->id,
                     'locale' => app()->getLocale(),
                 ]);
-        
+            }
+
             return ProductCardResource::collection($products);
-    
-        /**
-         * Listing/carousel responses (no search term) are cached per catalog
-         * version, so repeated homepage visits skip the database entirely.
-         */
+        }
+
+        /** Listing/carousel responses (no search term) are cached per catalog version */
         $data = $this->catalogApiCache->remember('products', request()->query(), function () use ($searchEngine) {
             return ProductCardResource::collection($this->getProducts($searchEngine, ''))
                 ->response()
@@ -67,7 +69,9 @@ class ProductController extends APIController
         });
 
         return response()->json($data)->withHeaders($this->catalogCacheHeaders());
-}
+    }
+
+    /**
      * Fetch the storefront product listing for the given search engine and query.
      */
     protected function getProducts(string $searchEngine, string $query)
@@ -80,7 +84,9 @@ class ProductController extends APIController
                 'status' => 1,
                 'visible_individually' => 1,
             ]));
-}
+    }
+
+    /**
      * Resolve search query data.
      */
     protected function resolveSearchQueryData($searchEngine): array
@@ -90,14 +96,17 @@ class ProductController extends APIController
                 'original_query' => request()->query('query', ''),
                 'effective_query' => null,
             ];
-    
+        }
+
         $originalQuery = request()->query('query', '');
 
         return [
             'original_query' => $originalQuery,
             'effective_query' => $this->getEffectiveQuery($originalQuery, $searchEngine),
         ];
-}
+    }
+
+    /**
      * It will return the effective query based on the search engine.
      */
     protected function getEffectiveQuery(string $originalQuery, string $searchEngine): ?string
@@ -105,44 +114,40 @@ class ProductController extends APIController
         $effectiveQuery = $this->productRepository->setSearchEngine($searchEngine)->getSuggestions($originalQuery);
 
         return $effectiveQuery;
-}
+    }
+
+    /**
      * Related product listings.
      *
-     * @param  int  $id
+     * @param int $id
      */
     public function relatedProducts($id): JsonResource
     {
-        // Number of items per request (default 20). Can be overridden via ?per_page=XX
         $perPage = max(1, (int) request()->query('per_page', 20));
-        // Current page (default 1). Determines offset.
         $page = max(1, (int) request()->query('page', 1));
-        $offset = ($page - 1) * $perPage;
 
         $product = $this->productRepository->findOrFail($id);
-
-        // Get category IDs of the current product
         $categoryIds = $product->categories->pluck('id')->toArray();
 
         if (empty($categoryIds)) {
-            // No categories – return empty collection
             return ProductCardResource::collection(collect());
-    
-        // Query other products sharing any of these categories
+        }
+
         $query = $this->productRepository->whereHas('categories', function ($q) use ($categoryIds) {
                 $q->whereIn('category_id', $categoryIds);
             })
-            ->where('id', '<>', $product->id) // exclude the current product
+            ->where('id', '<>', $product->id)
             ->orderBy('created_at', 'desc');
 
-        // Apply pagination manually to keep API lightweight
         $relatedProducts = $query->paginate($perPage, ['*'], 'page', $page);
 
         return ProductCardResource::collection($relatedProducts);
+    }
 
-}
+    /**
      * Up-sell product listings.
      *
-     * @param  int  $id
+     * @param int $id
      */
     public function upSellProducts($id): JsonResource
     {
@@ -153,4 +158,5 @@ class ProductController extends APIController
             ->get();
 
         return ProductCardResource::collection($upSellProducts);
+    }
 }
