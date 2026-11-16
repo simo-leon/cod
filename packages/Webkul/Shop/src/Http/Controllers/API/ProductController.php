@@ -119,7 +119,7 @@ class ProductController extends APIController
     /**
      * Related product listings.
      *
-     * @param int $id
+     * @param  int  $id
      */
     public function relatedProducts($id): JsonResource
     {
@@ -134,10 +134,11 @@ class ProductController extends APIController
         }
 
         $query = $this->productRepository->whereHas('categories', function ($q) use ($categoryIds) {
-                $q->whereIn('category_id', $categoryIds);
-            })
+            $q->whereIn('category_id', $categoryIds);
+        })
             ->where('id', '<>', $product->id)
-            ->orderBy('created_at', 'desc');
+            ->inRandomOrder()
+            ->distinct();
 
         $relatedProducts = $query->paginate($perPage, ['*'], 'page', $page);
 
@@ -147,7 +148,7 @@ class ProductController extends APIController
     /**
      * Up-sell product listings.
      *
-     * @param int $id
+     * @param  int  $id
      */
     public function upSellProducts($id): JsonResource
     {
