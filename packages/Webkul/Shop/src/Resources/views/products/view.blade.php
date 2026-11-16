@@ -851,9 +851,7 @@
                             <x-shop::products.card
                                 ::mode="'grid'"
                                 v-for="product in relatedProducts"
-                                :key="product.id"
-                                ::product="product">
-                            </x-shop::products.card>
+                            />
                         </div>
                     </div>
                 </template>
