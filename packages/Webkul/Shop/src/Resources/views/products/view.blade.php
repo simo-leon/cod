@@ -836,17 +836,26 @@
         >
             <div ref="carouselWrapper">
                 <template v-if="isVisible">
-                    <!-- Featured Products -->
-                    <x-shop::products.carousel
-                        :title="trans('shop::app.products.view.related-product-title')"
-                        :src="route('shop.api.products.related.index', ['id' => $product->id])"
-                    />
+                    <!-- Related Products Grid (same‑category) -->
+                    <div class="mt-8">
+                        <!-- Loading spinner while API resolves -->
+                        <div v-if="relatedLoading" class="flex justify-center py-6">
+                            <svg class="animate-spin h-6 w-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"></path>
+                            </svg>
+                        </div>
 
-                    <!-- Up-sell Products -->
-                    <x-shop::products.carousel
-                        :title="trans('shop::app.products.view.up-sell-title')"
-                        :src="route('shop.api.products.up-sell.index', ['id' => $product->id])"
-                    />
+                        <!-- Grid of related products -->
+                        <div v-else class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                            <x-shop::products.card
+                                ::mode="'grid'"
+                                v-for="product in relatedProducts"
+                                :key="product.id"
+                                ::product="product">
+                            </x-shop::products.card>
+                        </div>
+                    </div>
                 </template>
             </div>
         </script>
