@@ -259,7 +259,11 @@
         </x-shop::accordion>
     </div>
 
-    <v-product-associations></v-product-associations>
+    <!-- Related Products -->
+    <x-shop::products.grid
+        :title="trans('shop::app.products.view.related-product-title')"
+        :src="route('shop.api.products.related.index', ['id' => $product->id])"
+    />
 
     {!! view_render_event('bagisto.shop.products.view.after', ['product' => $product]) !!}
 
@@ -830,80 +834,6 @@
             });
         </script>
 
-        <script
-            type="text/x-template"
-            id="v-product-associations-template"
-        >
-            <div ref="carouselWrapper">
-                <template v-if="isVisible">
-                    <!-- Related Products Grid (same‑category) -->
-                    <div class="mt-8">
-                        <!-- Loading spinner while API resolves -->
-                        <div v-if="relatedLoading" class="flex justify-center py-6">
-                            <svg class="animate-spin h-6 w-6 text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-                                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"></path>
-                            </svg>
-                        </div>
-
-                        <!-- Grid of related products -->
-                        <div v-else class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                            <x-shop::products.card
-                                ::mode="'grid'"
-                                v-for="product in relatedProducts"
-                            />
-                        </div>
-                    </div>
-                </template>
-            </div>
-        </script>
-
-        <script type="module">
-            app.component('v-product-associations', {
-                template: '#v-product-associations-template',
-
-                data() {
-                    return {
-                        isVisible: false,
-                        relatedLoading: true,
-                        relatedProducts: [],
-                    };
-                },
-
-                mounted() {
-                    const observer = new IntersectionObserver(
-                        (entries) => {
-                            entries.forEach((entry) => {
-                                if (entry.isIntersecting) {
-                                    this.isVisible = true;
-                                    observer.unobserve(entry.target); // Stop observing
-                                    this.loadRelated();
-                                }
-                            });
-                        },
-                        { threshold: 0.1 }
-                    );
-
-                    observer.observe(this.$refs.carouselWrapper);
-                },
-
-                methods: {
-                    loadRelated() {
-                        fetch(`{{ route('shop.api.products.related.index', ['id' => $product->id]) }}`)
-                            .then(r => r.json())
-                            .then(data => {
-                                this.relatedProducts = data.data ?? [];
-                                this.relatedLoading = false;
-                            })
-                            .catch(() => { this.relatedLoading = false; });
-                    },
-
-                    getWhatsAppUrl(product) {
-                        return window.getWhatsAppUrl ? window.getWhatsAppUrl(product) : '#';
-                    },
-                },
-            });
-        </script>
 
         @if (core()->getConfigData('customer.captcha.credentials.status'))
             {!! \Webkul\Customer\Facades\Captcha::renderJS() !!}
