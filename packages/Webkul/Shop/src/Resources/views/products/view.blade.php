@@ -462,7 +462,7 @@
                                                     target="_blank"
                                                     rel="noopener noreferrer"
                                                     class="flex w-full items-center justify-center gap-2.5 rounded-xl px-6 py-3.5 text-base font-bold shadow-md transition-all duration-200 active:scale-[0.98] max-md:py-3 max-sm:rounded-lg max-sm:py-2"
-                                                    style="background-color: #25D366; color: #ffffff !important; text-decoration: none; cursor: pointer;"
+                                                    style="background-color: #25D366; color: #ffffff !important; text-decoration: none; cursor: pointer; margin-top: 12px;"
                                                     onmouseover="this.style.backgroundColor='#1da851'"
                                                     onmouseout="this.style.backgroundColor='#25D366'"
                                                 >

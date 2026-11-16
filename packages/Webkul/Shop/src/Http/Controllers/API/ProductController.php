@@ -133,9 +133,10 @@ class ProductController extends APIController
             return ProductCardResource::collection(collect());
         }
 
-        $query = $this->productRepository->whereHas('categories', function ($q) use ($categoryIds) {
-            $q->whereIn('category_id', $categoryIds);
-        })
+        $query = $this->productRepository->getModel()->newQuery()
+            ->whereHas('categories', function ($q) use ($categoryIds) {
+                $q->whereIn('category_id', $categoryIds);
+            })
             ->where('id', '<>', $product->id)
             ->inRandomOrder()
             ->distinct();
