@@ -32,8 +32,7 @@ class ProductController extends APIController
 
         if (core()->getConfigData('catalog.products.search.engine') == 'elastic') {
             $searchEngine = core()->getConfigData('catalog.products.search.storefront_mode');
-        }
-
+    
         $searchData = $this->resolveSearchQueryData($searchEngine);
 
         $query = $searchData['effective_query'] ?? $searchData['original_query'];
@@ -56,11 +55,9 @@ class ProductController extends APIController
                     'channel_id' => core()->getCurrentChannel()->id,
                     'locale' => app()->getLocale(),
                 ]);
-            }
-
+        
             return ProductCardResource::collection($products);
-        }
-
+    
         /**
          * Listing/carousel responses (no search term) are cached per catalog
          * version, so repeated homepage visits skip the database entirely.
@@ -72,7 +69,6 @@ class ProductController extends APIController
         });
 
         return response()->json($data)->withHeaders($this->catalogCacheHeaders());
-    }
 
     /**
      * Fetch the storefront product listing for the given search engine and query.
@@ -87,7 +83,6 @@ class ProductController extends APIController
                 'status' => 1,
                 'visible_individually' => 1,
             ]));
-    }
 
     /**
      * Resolve search query data.
@@ -99,15 +94,13 @@ class ProductController extends APIController
                 'original_query' => request()->query('query', ''),
                 'effective_query' => null,
             ];
-        }
-
+    
         $originalQuery = request()->query('query', '');
 
         return [
             'original_query' => $originalQuery,
             'effective_query' => $this->getEffectiveQuery($originalQuery, $searchEngine),
         ];
-    }
 
     /**
      * It will return the effective query based on the search engine.
@@ -117,7 +110,6 @@ class ProductController extends APIController
         $effectiveQuery = $this->productRepository->setSearchEngine($searchEngine)->getSuggestions($originalQuery);
 
         return $effectiveQuery;
-    }
 
     /**
      * Related product listings.
@@ -126,6 +118,12 @@ class ProductController extends APIController
      */
     public function relatedProducts($id): JsonResource
     {
+        // Number of items per request (default 20). Can be overridden via ?per_page=XX
+        $perPage = max(1, (int) request()->query('per_page', 20));
+        // Current page (default 1). Determines offset.
+        $page = max(1, (int) request()->query('page', 1));
+        $offset = ($page - 1) * $perPage;
+
         $product = $this->productRepository->findOrFail($id);
 
         // Get category IDs of the current product
@@ -134,19 +132,19 @@ class ProductController extends APIController
         if (empty($categoryIds)) {
             // No categories – return empty collection
             return ProductCardResource::collection(collect());
-        }
-
+    
         // Query other products sharing any of these categories
-        $relatedProducts = $this->productRepository->whereHas('categories', function ($q) use ($categoryIds) {
+        $query = $this->productRepository->whereHas('categories', function ($q) use ($categoryIds) {
                 $q->whereIn('category_id', $categoryIds);
             })
             ->where('id', '<>', $product->id) // exclude the current product
-            ->orderBy('created_at', 'desc')   // newest first
-            ->take(core()->getConfigData('catalog.products.product_view_page.no_of_related_products') ?? 6)
-            ->get();
+            ->orderBy('created_at', 'desc');
+
+        // Apply pagination manually to keep API lightweight
+        $relatedProducts = $query->paginate($perPage, ['*'], 'page', $page);
 
         return ProductCardResource::collection($relatedProducts);
-    }
+
 
     /**
      * Up-sell product listings.
@@ -162,5 +160,4 @@ class ProductController extends APIController
             ->get();
 
         return ProductCardResource::collection($upSellProducts);
-    }
 }
