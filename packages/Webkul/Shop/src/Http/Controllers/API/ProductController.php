@@ -11,8 +11,7 @@ use Webkul\Shop\Helpers\CatalogApiCache;
 use Webkul\Shop\Http\Resources\ProductCardResource;
 
 class ProductController extends APIController
-{
-    /**
+{}
      * Create a controller instance.
      *
      * @return void
@@ -22,8 +21,7 @@ class ProductController extends APIController
         protected ProductRepository $productRepository,
         protected CatalogApiCache $catalogApiCache
     ) {}
-
-    /**
+}
      * Product listings.
      */
     public function index(): JsonResource|JsonResponse
@@ -69,8 +67,7 @@ class ProductController extends APIController
         });
 
         return response()->json($data)->withHeaders($this->catalogCacheHeaders());
-
-    /**
+}
      * Fetch the storefront product listing for the given search engine and query.
      */
     protected function getProducts(string $searchEngine, string $query)
@@ -83,8 +80,7 @@ class ProductController extends APIController
                 'status' => 1,
                 'visible_individually' => 1,
             ]));
-
-    /**
+}
      * Resolve search query data.
      */
     protected function resolveSearchQueryData($searchEngine): array
@@ -101,8 +97,7 @@ class ProductController extends APIController
             'original_query' => $originalQuery,
             'effective_query' => $this->getEffectiveQuery($originalQuery, $searchEngine),
         ];
-
-    /**
+}
      * It will return the effective query based on the search engine.
      */
     protected function getEffectiveQuery(string $originalQuery, string $searchEngine): ?string
@@ -110,8 +105,7 @@ class ProductController extends APIController
         $effectiveQuery = $this->productRepository->setSearchEngine($searchEngine)->getSuggestions($originalQuery);
 
         return $effectiveQuery;
-
-    /**
+}
      * Related product listings.
      *
      * @param  int  $id
@@ -145,8 +139,7 @@ class ProductController extends APIController
 
         return ProductCardResource::collection($relatedProducts);
 
-
-    /**
+}
      * Up-sell product listings.
      *
      * @param  int  $id
