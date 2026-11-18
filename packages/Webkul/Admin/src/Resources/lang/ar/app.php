@@ -4324,6 +4324,25 @@ return [
                         'title' => 'حدود الملف',
                     ],
                 ],
+
+                'krayin-crm' => [
+                    'title' => 'Krayin CRM',
+                    'info' => 'ربط ومزامنة طلبات وعملاء المتجر مع نظام Krayin CRM.',
+
+                    'settings' => [
+                        'title' => 'إعدادات ربط Krayin CRM',
+                        'info' => 'تهيئة بيانات الاتصال وخيارات المزامنة التلقائية مع Krayin CRM.',
+                        'status' => 'تفعيل الربط مع CRM',
+                        'api-url' => 'رابط واجهة برمجة التطبيقات (API URL)',
+                        'api-url-info' => 'أدخل رابط الـ API لمشروع Krayin CRM (مثال: http://127.0.0.1:8002/api أو https://crm.yourstore.com/api).',
+                        'api-token' => 'رمز الوصول (API Access Token)',
+                        'api-token-info' => 'رمز Sanctum Bearer Token المستخرج من حسابك في Krayin CRM.',
+                        'sync-orders' => 'مزامنة الطلبات كصفقات (Leads)',
+                        'sync-orders-info' => 'إنشاء صفقة (Lead) تلقائياً في Krayin CRM عند إتمام كل طلب شراء.',
+                        'sync-customers' => 'مزامنة العملاء كجهات اتصال (Contacts)',
+                        'sync-customers-info' => 'إنشاء أو تحديث جهة اتصال (Person) في Krayin CRM عند تسجيل عميل جديد.',
+                    ],
+                ],
             ],
 
             'magic-ai' => [

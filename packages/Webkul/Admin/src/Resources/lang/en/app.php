@@ -4324,6 +4324,25 @@ return [
                         'title' => 'File Limits',
                     ],
                 ],
+
+                'krayin-crm' => [
+                    'title' => 'Krayin CRM',
+                    'info' => 'Integrate and synchronize store orders and customers with Krayin CRM.',
+
+                    'settings' => [
+                        'title' => 'Krayin CRM Integration',
+                        'info' => 'Configure connection credentials and automatic synchronization options for Krayin CRM.',
+                        'status' => 'Enable Integration',
+                        'api-url' => 'CRM API Endpoint URL',
+                        'api-url-info' => 'Enter the full REST API endpoint URL of your Krayin CRM instance (e.g. http://127.0.0.1:8002/api or https://crm.yourstore.com/api).',
+                        'api-token' => 'API Access Token',
+                        'api-token-info' => 'The Sanctum Bearer token generated from your Krayin CRM account.',
+                        'sync-orders' => 'Sync Orders to CRM Leads',
+                        'sync-orders-info' => 'Automatically create a new Lead in Krayin CRM whenever an order is placed.',
+                        'sync-customers' => 'Sync Customers to CRM Contacts',
+                        'sync-customers-info' => 'Automatically create or update a Person contact in Krayin CRM when a customer registers.',
+                    ],
+                ],
             ],
 
             'magic-ai' => [

@@ -44,6 +44,61 @@
     <meta property="og:description" content="{!! htmlspecialchars(trim(strip_tags($product->description))) !!}" />
 
     <meta property="og:url" content="{{ route('shop.product_or_category.index', $product->url_key) }}" />
+
+    <!-- FAQPage Schema for Search Engines and AI Search (Google, Perplexity, Gemini) -->
+    @php
+        $faqLocale = app()->getLocale();
+        $faqSchemaData = [
+            '@context' => 'https://schema.org',
+            '@type' => 'FAQPage',
+            'mainEntity' => [
+                [
+                    '@type' => 'Question',
+                    'name' => $faqLocale === 'ar' ? 'كيفاش كنخلص طلبيتي؟ (طريقة الدفع)' : ($faqLocale === 'fr' ? 'Comment s\'effectue le paiement ?' : 'How do I pay for my order?'),
+                    'acceptedAnswer' => [
+                        '@type' => 'Answer',
+                        'text' => $faqLocale === 'ar' ? 'الدفع عند الاستلام 100% (Cash on Delivery). ما كتخلص حتى كتوصلك الأمانة ديالك حتى لباب الدار، كتفحصها وتتأكد منها عاد كتخلص موزع التوصيل.' : ($faqLocale === 'fr' ? 'Le paiement s\'effectue à 100% à la livraison (Cash on Delivery). Vous payez en espèces au livreur uniquement après réception et vérification de votre commande.' : '100% Cash on Delivery (COD). Payment is made in cash to the courier only upon receiving and inspecting your package.'),
+                    ],
+                ],
+                [
+                    '@type' => 'Question',
+                    'name' => $faqLocale === 'ar' ? 'شحال كياخد التوصيل من وقت وفين كتوصلو؟' : ($faqLocale === 'fr' ? 'Quels sont les délais et zones de livraison ?' : 'What are the delivery times and coverage?'),
+                    'acceptedAnswer' => [
+                        '@type' => 'Answer',
+                        'text' => $faqLocale === 'ar' ? 'التوصيل سريع جداً، كياخد ما بين 24 إلى 48 ساعة فقط. كنوصلو لجميع المدن والمناطق في المغرب مباشرة حتى للعنوان أو مقر العمل ديالك.' : ($faqLocale === 'fr' ? 'La livraison est rapide en 24 à 48 heures partout au Maroc, directement à votre domicile ou lieu de travail.' : 'Fast delivery within 24 to 48 hours to all cities and regions across Morocco.'),
+                    ],
+                ],
+                [
+                    '@type' => 'Question',
+                    'name' => $faqLocale === 'ar' ? 'واش نقدر نحل الكولية ونشوف المنتج قبل ما نخلص؟' : ($faqLocale === 'fr' ? 'Puis-je vérifier le colis avant de payer ?' : 'Can I inspect the parcel before paying?'),
+                    'acceptedAnswer' => [
+                        '@type' => 'Answer',
+                        'text' => $faqLocale === 'ar' ? 'نعم، بكل تأكيد! عندك كامل الحق تفتح الطرد وتفحص المنتج وتتأكد من جودته ومطابقته لطلبك بحضور موزع التوصيل قبل أداء المبلغ.' : ($faqLocale === 'fr' ? 'Oui, absolument ! Vous avez le droit d\'ouvrir le colis et d\'inspecter le produit en présence du livreur avant tout règlement.' : 'Yes, absolutely! You have the full right to open and inspect the product in the presence of the courier before making payment.'),
+                    ],
+                ],
+                [
+                    '@type' => 'Question',
+                    'name' => $faqLocale === 'ar' ? 'واش كاين ضمان واستبدال فـ حالة وجود أي مشكل؟' : ($faqLocale === 'fr' ? 'Y a-t-il une garantie et un service d\'échange ?' : 'Is there a warranty and return/exchange policy?'),
+                    'acceptedAnswer' => [
+                        '@type' => 'Answer',
+                        'text' => $faqLocale === 'ar' ? 'نعم، كنوفروا ضمان الجودة الكامل مع إمكانية استبدال أو استرجاع المنتج بكل سهولة وسرعة خلال 7 أيام في حالة وجود أي عيب مصنعي أو عدم الرضا.' : ($faqLocale === 'fr' ? 'Oui, tous nos articles bénéficient d\'une garantie qualité avec possibilité d\'échange ou de retour sous 7 jours.' : 'Yes, we provide a complete quality guarantee with an easy 7-day exchange or return policy.'),
+                    ],
+                ],
+                [
+                    '@type' => 'Question',
+                    'name' => $faqLocale === 'ar' ? 'كيفاش نتواصل معاكم إلا عندي شي استفسار إضافي؟' : ($faqLocale === 'fr' ? 'Comment contacter le service client ?' : 'How can I contact customer support?'),
+                    'acceptedAnswer' => [
+                        '@type' => 'Answer',
+                        'text' => $faqLocale === 'ar' ? 'فريق خدمة الزبناء ديالنا متواجد ومستعد لمساعدتكم ومتابعة طلبياتكم مباشرة عبر الواتساب على مدار الأسبوع.' : ($faqLocale === 'fr' ? 'Notre équipe est disponible 7j/7 pour répondre à toutes vos questions et suivre votre commande en un clic sur WhatsApp.' : 'Our customer support team is available 7 days a week to answer questions and assist you directly via WhatsApp.'),
+                    ],
+                ],
+            ],
+        ];
+    @endphp
+
+    <script type="application/ld+json">
+        {!! json_encode($faqSchemaData, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT) !!}
+    </script>
 @endPush
 
 <!-- Page Layout -->
@@ -153,6 +208,16 @@
                 >
                     @include('shop::products.view.reviews')
                 </x-shop::tabs.item>
+
+                <!-- FAQ Tab -->
+                <x-shop::tabs.item
+                    id="faq-tab"
+                    class="container mt-[60px] !p-0"
+                    :title="app()->getLocale() == 'ar' ? 'الأسئلة الشائعة (FAQ)' : (app()->getLocale() == 'fr' ? 'Questions Fréquentes (FAQ)' : 'Frequently Asked Questions (FAQ)')"
+                    :is-selected="false"
+                >
+                    @include('shop::products.view.faq')
+                </x-shop::tabs.item>
             </x-shop::tabs>
         </div>
     </div>
@@ -255,6 +320,25 @@
 
             <x-slot:content>
                 @include('shop::products.view.reviews')
+            </x-slot>
+        </x-shop::accordion>
+
+        <!-- FAQ Accordion -->
+        <x-shop::accordion
+            class="max-md:border-none"
+            :is-active="false"
+        >
+            <x-slot:header
+                class="bg-gray-100 max-md:!py-3 max-sm:!py-2"
+                id="faq-accordian-button"
+            >
+                <p class="text-base font-medium">
+                    {{ app()->getLocale() == 'ar' ? 'الأسئلة الشائعة (FAQ)' : (app()->getLocale() == 'fr' ? 'Questions Fréquentes (FAQ)' : 'Frequently Asked Questions (FAQ)') }}
+                </p>
+            </x-slot>
+
+            <x-slot:content>
+                @include('shop::products.view.faq')
             </x-slot>
         </x-shop::accordion>
     </div>

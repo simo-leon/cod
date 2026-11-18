@@ -579,6 +579,52 @@ return [
                 'locale_based' => true,
             ],
         ],
+    ], [
+        'key' => 'general.krayin_crm',
+        'name' => 'admin::app.configuration.index.general.krayin-crm.title',
+        'info' => 'admin::app.configuration.index.general.krayin-crm.info',
+        'icon' => 'settings/settings.svg',
+        'sort' => 7,
+    ], [
+        'key' => 'general.krayin_crm.settings',
+        'name' => 'admin::app.configuration.index.general.krayin-crm.settings.title',
+        'info' => 'admin::app.configuration.index.general.krayin-crm.settings.info',
+        'sort' => 1,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.krayin-crm.settings.status',
+                'type' => 'boolean',
+                'channel_based' => true,
+            ], [
+                'name' => 'api_url',
+                'title' => 'admin::app.configuration.index.general.krayin-crm.settings.api-url',
+                'info' => 'admin::app.configuration.index.general.krayin-crm.settings.api-url-info',
+                'type' => 'text',
+                'default' => 'http://127.0.0.1:8002/api',
+                'channel_based' => true,
+            ], [
+                'name' => 'api_token',
+                'title' => 'admin::app.configuration.index.general.krayin-crm.settings.api-token',
+                'info' => 'admin::app.configuration.index.general.krayin-crm.settings.api-token-info',
+                'type' => 'password',
+                'channel_based' => true,
+            ], [
+                'name' => 'sync_orders',
+                'title' => 'admin::app.configuration.index.general.krayin-crm.settings.sync-orders',
+                'info' => 'admin::app.configuration.index.general.krayin-crm.settings.sync-orders-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'sync_customers',
+                'title' => 'admin::app.configuration.index.general.krayin-crm.settings.sync-customers',
+                'info' => 'admin::app.configuration.index.general.krayin-crm.settings.sync-customers-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ],
+        ],
     ],
 
     /**

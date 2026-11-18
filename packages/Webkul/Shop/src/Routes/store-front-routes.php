@@ -86,6 +86,21 @@ Route::post('ai-search-overview', [AiSearchOverviewController::class, 'generate'
     ->middleware('throttle:30,1');
 
 /**
+ * Root sitemap.xml endpoint for search engine crawlers.
+ */
+Route::get('sitemap.xml', function () {
+    $sitemapPath = public_path('storage/sitemap.xml');
+
+    if (file_exists($sitemapPath)) {
+        return response()->file($sitemapPath, [
+            'Content-Type' => 'application/xml',
+        ]);
+    }
+
+    abort(404);
+})->name('shop.sitemap.xml');
+
+/**
  * Subscription routes.
  */
 Route::controller(SubscriptionController::class)->group(function () {
