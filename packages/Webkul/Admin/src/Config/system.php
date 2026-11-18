@@ -817,6 +817,37 @@ return [
                 'options' => AiProvider::textModelOptions(),
             ],
         ],
+    ], [
+        'key' => 'magic_ai.storefront_features.ai_search_overview',
+        'name' => 'admin::app.configuration.index.magic-ai.storefront-features.ai-search-overview.title',
+        'info' => 'admin::app.configuration.index.magic-ai.storefront-features.ai-search-overview.title-info',
+        'sort' => 4,
+        'fields' => [
+            [
+                'name' => 'enabled',
+                'title' => 'admin::app.configuration.index.magic-ai.storefront-features.ai-search-overview.enabled',
+                'type' => 'boolean',
+                'channel_based' => true,
+            ], [
+                'name' => 'model',
+                'title' => 'admin::app.configuration.index.magic-ai.storefront-features.ai-search-overview.model',
+                'type' => 'select',
+                'channel_based' => true,
+                'options' => AiProvider::textModelOptions(),
+            ], [
+                'name' => 'max_products',
+                'title' => 'admin::app.configuration.index.magic-ai.storefront-features.ai-search-overview.max-products',
+                'type' => 'text',
+                'channel_based' => true,
+                'default' => 5,
+            ], [
+                'name' => 'system_prompt',
+                'title' => 'admin::app.configuration.index.magic-ai.storefront-features.ai-search-overview.system-prompt',
+                'type' => 'textarea',
+                'channel_based' => true,
+                'default' => 'أنت مساعد تسوق ذكي ومحترف في المتجر. أجب على استفسار الزبون باقتراح أفضل الخيارات من قائمة المنتجات المتوفرة والمرفقة حصراً. قدم ملخصاً مقنعاً ومختصراً يبرز مميزات المنتجات ولماذا تناسب طلبه. لا تخترع منتجات أو أسعار أو معلومات غير موجودة في البيانات المزودة.',
+            ],
+        ],
     ],
 
     /**

@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'ඉලක්ක කිරීම සහ ප්‍රචාරණය',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => 'නව',
                 'review-description' => 'මෙම නිෂ්පාදනය සඳහා පළිගෙන යයි මේය හරියට දැක්කාය',
                 'sale' => 'විකිණීම',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => 'අදහස',
             'tax-inclusive' => 'වගුවේ සහිත',
             'up-sell-title' => 'අපහසුවෙනි අයිතමයන් අප සැම්බැල්ලට පනසන්ද!',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => 'මීට වෙනුවට සොයන්න',
         'results' => 'සෙවුම් ප්‍රතිඵල',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'සමහර රූපවාහිනී (.jpeg, .jpg, .png, ..) පෙන්වීමට ඉඩ දෙයි.',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => 'ඔබගේ ඇණවුමේ අනුබද්ධ වාර්තාය #:order_id',
             'thanks' => 'ඔබගේ ඇණවුම සඳහා ස්තූති!',
             'title' => 'ඇණවුම සාර්ථකයි',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => 'බිල්පත් ලිපිනය අසාර්ථකයි.',
                 'check-shipping-address' => 'ස්ථිර ලිපිනය අසාර්ථකයි.',
                 'city' => 'නගරය',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => 'ව්‍යාපාරයේ නම',
                 'confirm' => 'තහවුරු කරන්න',
                 'country' => 'රාජ්‍යය',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'කර්තෘ සාර්ථකයි',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => 'භාණ්ඩ ගෙවීම්',
                 'delivery-charges-excl-tax' => 'භාණ්ඩ ගෙවීම් (බදා නොමැතියි)',
                 'delivery-charges-incl-tax' => 'භාණ්ඩ ගෙවීම් (බදා සමග)',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => 'වටාන මුදල',
                 'excl-tax' => 'බදා නොමැතියි:',
                 'grand-total' => 'සම්පූර්ණ එකතුව',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => 'ඇතුළත්',
                 'incl-tax' => 'බදු සමඟ:',
                 'items-discount' => 'භාණ්ඩ වට්ටම',

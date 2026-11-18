@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use Webkul\Core\Http\Middleware\NoCacheMiddleware;
+use Webkul\Shop\Http\Controllers\AiSearchOverviewController;
 use Webkul\Shop\Http\Controllers\BookingProductController;
 use Webkul\Shop\Http\Controllers\CompareController;
 use Webkul\Shop\Http\Controllers\EUWithdrawalController;
@@ -78,6 +79,11 @@ Route::get('search', [SearchController::class, 'index'])
     ->middleware('cache.response');
 
 Route::post('search/upload', [SearchController::class, 'upload'])->name('shop.search.upload');
+
+// AI Search Overview – AJAX endpoint (POST only, throttled)
+Route::post('ai-search-overview', [AiSearchOverviewController::class, 'generate'])
+    ->name('shop.ai.search.overview')
+    ->middleware('throttle:30,1');
 
 /**
  * Subscription routes.

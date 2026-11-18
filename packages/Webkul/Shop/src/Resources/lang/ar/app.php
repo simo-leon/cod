@@ -1030,6 +1030,14 @@ return [
         'suggest' => 'ابحث بدلاً من ذلك عن',
         'results' => 'نتائج البحث',
 
+        'ai-overview' => [
+            'title' => 'ملخص الذكاء الاصطناعي (AI Overview)',
+            'generating' => 'جاري توليد ملخص البحث بالذكاء الاصطناعي...',
+            'recommended-products' => 'المنتجات المقترحة',
+            'view-product' => 'عرض المنتج',
+            'powered-by' => 'مدعوم بواسطة Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'يُسمح فقط بالصور (.jpeg، .jpg، .png، ..).',

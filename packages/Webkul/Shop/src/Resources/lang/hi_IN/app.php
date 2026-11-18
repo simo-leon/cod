@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'लक्ष्यीकरण और विज्ञापन',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => 'नया',
                 'review-description' => 'इस उत्पाद की समीक्षा करने का पहला मौका',
                 'sale' => 'बिक्री',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => 'समीक्षा',
             'tax-inclusive' => 'सभी करों के साथ',
             'up-sell-title' => 'हमने देखा कि आपको दूसरे प्रोडक्ट्स भी पसंद आ सकते हैं!',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => 'इसके बजाय खोजें',
         'results' => 'खोज परिणाम',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'केवल छवियाँ (.jpeg, .jpg, .png, ..) अनुमति दी गई हैं।',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => 'आपका आदेश आईडी है #:order_id',
             'thanks' => 'आपके आदेश के लिए धन्यवाद!',
             'title' => 'आदेश सफलतापूर्वक दर्ज किया गया',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => 'बिलिंग पता लापता है।',
                 'check-shipping-address' => 'शिपिंग पता लापता है।',
                 'city' => 'शहर',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => 'कंपनी का नाम',
                 'confirm' => 'पुष्टि करें',
                 'country' => 'देश',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'कार्ट सारांश',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => 'वितरण शुल्क',
                 'delivery-charges-excl-tax' => 'वितरण शुल्क (कर से छूट)',
                 'delivery-charges-incl-tax' => 'वितरण शुल्क (कर सहित)',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => 'डिस्काउंट राशि',
                 'excl-tax' => 'कर से छूट:',
                 'grand-total' => 'कुल योग',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => 'शामिल',
                 'incl-tax' => 'कर सहित:',
                 'items-discount' => 'आइटम छूट',

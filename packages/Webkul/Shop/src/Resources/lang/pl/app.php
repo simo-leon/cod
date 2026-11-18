@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'Targetowanie i reklama',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => 'Nowy',
                 'review-description' => 'Bądź pierwszym, który oceni ten produkt',
                 'sale' => 'Wyprzedaż',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => 'Recenzje',
             'tax-inclusive' => 'Wliczając wszystkie podatki',
             'up-sell-title' => 'Znaleźliśmy inne produkty, które mogą Ci się spodobać!',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => 'Szukaj zamiast tego',
         'results' => 'Wyniki wyszukiwania',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'Dozwolone są tylko obrazy (.jpeg, .jpg, .png, ..).',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => 'Twój numer zamówienia to #:order_id',
             'thanks' => 'Dziękujemy za Twoje zamówienie!',
             'title' => 'Zamówienie złożone pomyślnie',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => 'Brakuje adresu rozliczeniowego.',
                 'check-shipping-address' => 'Brakuje adresu dostawy.',
                 'city' => 'Miasto',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => 'Nazwa firmy',
                 'confirm' => 'Potwierdź',
                 'country' => 'Kraj',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'Podsumowanie koszyka',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => 'Opłaty za dostawę',
                 'delivery-charges-excl-tax' => 'Opłaty za dostawę (bez podatku)',
                 'delivery-charges-incl-tax' => 'Opłaty za dostawę (z podatkiem)',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => 'Kwota rabatu',
                 'excl-tax' => 'Bez podatku:',
                 'grand-total' => 'Suma ogólna',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => 'Wliczone',
                 'incl-tax' => 'Z VAT:',
                 'items-discount' => 'Rabat na pozycje',

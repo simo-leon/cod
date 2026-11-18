@@ -4431,6 +4431,15 @@ return [
                         'title' => 'Gepersonaliseerd afrekenbericht',
                         'title-info' => 'Gepersonaliseerde afrekenberichten genereren voor klanten op de bedankpagina.',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

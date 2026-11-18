@@ -4431,6 +4431,15 @@ return [
                         'title' => 'व्यक्तिगत चेकआउट संदेश',
                         'title-info' => 'धन्यवाद पृष्ठ पर ग्राहकों के लिए व्यक्तिगत चेकआउट संदेश उत्पन्न करें।',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

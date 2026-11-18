@@ -4431,6 +4431,15 @@ return [
                         'title' => 'ব্যক্তিগতকৃত চেকআউট বার্তা',
                         'title-info' => 'ধন্যবাদ পৃষ্ঠায় গ্রাহকদের জন্য ব্যক্তিগতকৃত চেকআউট বার্তা তৈরি করুন।',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

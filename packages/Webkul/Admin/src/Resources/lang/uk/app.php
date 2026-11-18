@@ -4431,6 +4431,15 @@ return [
                         'title' => 'Персоналізоване повідомлення при оформленні замовлення',
                         'title-info' => 'Генерація персоналізованих повідомлень при оформленні замовлення для покупців на сторінці подяки.',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

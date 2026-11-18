@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'ターゲティングと広告',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => '新着',
                 'review-description' => 'この製品の最初のレビュアになる',
                 'sale' => 'セール',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => 'レビュー',
             'tax-inclusive' => '税込み',
             'up-sell-title' => '他にも気に入る製品が見つかりました！',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => '代わりに検索',
         'results' => '検索結果',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => '画像のみ (.jpeg、.jpg、.png など) が許可されています。',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => '注文IDは #:order_id です',
             'thanks' => 'ご注文いただき、ありがとうございます！',
             'title' => '注文が正常に完了しました',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => '請求先住所がありません。',
                 'check-shipping-address' => '配送先住所がありません。',
                 'city' => '市町村',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => '会社名',
                 'confirm' => '確認',
                 'country' => '国',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'カートの概要',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => '配送料',
                 'delivery-charges-excl-tax' => '配送料（税抜き）',
                 'delivery-charges-incl-tax' => '配送料（税込み）',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => '割引額',
                 'excl-tax' => '税抜き:',
                 'grand-total' => '合計金額',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => '含む',
                 'incl-tax' => '税込:',
                 'items-discount' => '商品割引',

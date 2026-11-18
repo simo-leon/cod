@@ -4431,6 +4431,15 @@ return [
                         'title' => 'Персонализированное сообщение при оформлении заказа',
                         'title-info' => 'Генерация персонализированных сообщений при оформлении заказа для покупателей на странице благодарности.',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

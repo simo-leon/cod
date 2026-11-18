@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'מיקוד ופרסום',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => 'חדש',
                 'review-description' => 'הפוך לראשון שמבקר במוצר זה',
                 'sale' => 'מבצע',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => 'ביקורות',
             'tax-inclusive' => 'כולל מס',
             'up-sell-title' => 'מצאנו מוצרים אחרים שעשויים לעניין אותך!',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => 'חפש במקום זאת',
         'results' => 'תוצאות חיפוש',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'מותרות רק תמונות (.jpeg, .jpg, .png, ..).',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => 'מספר הזמנתך הוא #:order_id',
             'thanks' => 'תודה על ההזמנה שלך!',
             'title' => 'ההזמנה בוצעה בהצלחה',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => 'כתובת החיוב חסרה.',
                 'check-shipping-address' => 'כתובת המשלוח חסרה.',
                 'city' => 'עיר',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => 'שם החברה',
                 'confirm' => 'אישור',
                 'country' => 'מדינה',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'סיכום עגלת הקניות',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => 'דמי משלוח',
                 'delivery-charges-excl-tax' => 'דמי משלוח (לא כולל מס)',
                 'delivery-charges-incl-tax' => 'דמי משלוח (כולל מס)',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => 'סכום ההנחה',
                 'excl-tax' => 'לא כולל מס:',
                 'grand-total' => 'סכום כולל',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => 'כלול',
                 'incl-tax' => 'כולל מס:',
                 'items-discount' => 'הנחת פריטים',

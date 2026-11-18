@@ -1030,6 +1030,14 @@ return [
         'suggest' => 'Rechercher plutôt',
         'results' => 'Résultats de recherche',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'Seules les images (.jpeg, .jpg, .png, ..) sont autorisées.',

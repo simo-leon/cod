@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => '目标和广告',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => '新品',
                 'review-description' => '成为第一个评价这个产品的人',
                 'sale' => '特卖',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => '评论',
             'tax-inclusive' => '含税',
             'up-sell-title' => '我们发现您可能喜欢的其他产品！',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => '改为搜索',
         'results' => '搜索结果',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => '只允许图像（.jpeg，.jpg，.png，..）。',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => '您的订单号码是：#:order_id',
             'thanks' => '感谢您的订单！',
             'title' => '订单已成功下达',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => '缺少账单地址。',
                 'check-shipping-address' => '缺少送货地址。',
                 'city' => '城市',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => '公司名称',
                 'confirm' => '确认',
                 'country' => '国家',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => '购物车摘要',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => '运费',
                 'delivery-charges-excl-tax' => '运费（不含税）',
                 'delivery-charges-incl-tax' => '运费（含税）',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => '折扣金额',
                 'excl-tax' => '不含税：',
                 'grand-total' => '总计',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => '已含',
                 'incl-tax' => '含税:',
                 'items-discount' => '商品折扣',

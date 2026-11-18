@@ -4431,6 +4431,15 @@ return [
                         'title' => 'Missatge de compra personalitzat',
                         'title-info' => 'Genereu missatges de compra personalitzats per als clients a la pàgina de gràcies.',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

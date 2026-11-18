@@ -4431,6 +4431,15 @@ return [
                         'title' => 'Personalisierte Checkout-Nachricht',
                         'title-info' => 'Personalisierte Checkout-Nachrichten für Kunden auf der Dankesseite generieren.',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

@@ -4431,6 +4431,15 @@ return [
                         'title' => 'Mensaje de pago personalizado',
                         'title-info' => 'Generar mensajes de pago personalizados para los clientes en la página de agradecimiento.',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

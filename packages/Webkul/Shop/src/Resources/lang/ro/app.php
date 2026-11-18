@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'Direcționare și publicitate',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => 'Nou',
                 'review-description' => 'Fii primul care recenzează acest produs',
                 'sale' => 'Reducere',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => 'Recenzii',
             'tax-inclusive' => 'Inclusiv toate taxele',
             'up-sell-title' => 'Am găsit alte produse care v-ar putea plăcea!',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => 'Caută în schimb',
         'results' => 'Rezultate căutare',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'Doar imaginile (.jpeg, .jpg, .png, ..) sunt permise.',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => 'ID-ul comenzii dvs. este #:order_id',
             'thanks' => 'Vă mulțumim pentru comanda dvs.!',
             'title' => 'Comandă plasată cu succes',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => 'Adresa de facturare lipsește.',
                 'check-shipping-address' => 'Adresa de livrare lipsește.',
                 'city' => 'Oraș',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => 'Nume companie',
                 'confirm' => 'Confirmă',
                 'country' => 'Țară',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'Rezumat coș',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => 'Taxe de livrare',
                 'delivery-charges-excl-tax' => 'Taxe de livrare (fără taxe)',
                 'delivery-charges-incl-tax' => 'Taxe de livrare (cu taxe)',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => 'Sumă reducere',
                 'excl-tax' => 'Fără taxe:',
                 'grand-total' => 'Total general',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => 'Inclus',
                 'incl-tax' => 'Cu TVA:',
                 'items-discount' => 'Reducere articole',

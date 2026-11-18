@@ -88,6 +88,10 @@
 
                     <!-- Product Listing Container -->
                     <div class="flex-1">
+                        @if (core()->getConfigData('magic_ai.general.settings.enabled') && core()->getConfigData('magic_ai.storefront_features.ai_search_overview.enabled'))
+                            @include('shop::search.ai-overview')
+                        @endif
+
                         <!-- Desktop Product Listing Toolbar -->
                         <div class="max-md:hidden">
                             @include('shop::categories.toolbar')

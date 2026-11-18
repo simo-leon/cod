@@ -4431,6 +4431,15 @@ return [
                         'title' => 'Mensagem de checkout personalizada',
                         'title-info' => 'Gerar mensagens de checkout personalizadas para os clientes na página de agradecimento.',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

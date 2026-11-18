@@ -4431,6 +4431,15 @@ return [
                         'title' => 'Pesan Checkout Dipersonalisasi',
                         'title-info' => 'Buat pesan checkout yang dipersonalisasi untuk pelanggan di halaman Terima Kasih.',
                     ],
+
+                    'ai-search-overview' => [
+                        'enabled' => 'Enabled',
+                        'max-products' => 'Maximum Recommended Products',
+                        'model' => 'Model',
+                        'system-prompt' => 'System Prompt',
+                        'title' => 'AI Search Overview',
+                        'title-info' => 'Generate an AI-powered smart summary and product recommendations on the search results page.',
+                    ],
                 ],
             ],
 

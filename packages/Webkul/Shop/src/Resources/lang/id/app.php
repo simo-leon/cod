@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'Penargetan dan Periklanan',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => 'Baru',
                 'review-description' => 'Jadilah yang pertama mengulas produk ini.',
                 'sale' => 'Diskon',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => 'Ulasan',
             'tax-inclusive' => 'Termasuk semua pajak',
             'up-sell-title' => 'Kami menemukan produk lain yang mungkin Anda sukai!',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => 'Cari sebagai gantinya',
         'results' => 'Hasil pencarian',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'Hanya gambar (.jpeg, .jpg, .png, dll.) yang diperbolehkan.',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => 'ID pesanan Anda adalah #:order_id',
             'thanks' => 'Terima kasih atas pesanan Anda!',
             'title' => 'Pesanan berhasil dilakukan',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => 'Alamat tagihan belum diisi.',
                 'check-shipping-address' => 'Alamat pengiriman belum diisi.',
                 'city' => 'Kota',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => 'Nama Perusahaan',
                 'confirm' => 'Konfirmasi',
                 'country' => 'Negara',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'Ringkasan Keranjang',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => 'Biaya Pengiriman',
                 'delivery-charges-excl-tax' => 'Biaya Pengiriman (Tidak Termasuk Pajak)',
                 'delivery-charges-incl-tax' => 'Biaya Pengiriman (Termasuk Pajak)',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => 'Jumlah Diskon',
                 'excl-tax' => 'Tidak termasuk pajak:',
                 'grand-total' => 'Total Keseluruhan',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => 'Termasuk',
                 'incl-tax' => 'Termasuk Pajak:',
                 'items-discount' => 'Diskon Barang',

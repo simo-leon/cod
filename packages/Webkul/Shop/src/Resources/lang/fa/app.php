@@ -641,6 +641,14 @@ return [
                     'targeting-and-advertising' => 'هدف‌گیری و تبلیغات',
                 ],
             ],
+
+            'whatsapp' => [
+                'placeholder' => 'Write your message or inquiry here...',
+                'prompt' => 'Welcome! 👋 How can we help you? Write your message or inquiry and we will reply directly via WhatsApp.',
+                'send' => 'Send via WhatsApp',
+                'subtitle' => 'Usually replies within an hour',
+                'title' => 'WhatsApp',
+            ],
         ],
 
         'datagrid' => [
@@ -714,6 +722,19 @@ return [
                 'new' => 'جدید',
                 'review-description' => 'اولین نفری باشید که این محصول را مورد بررسی قرار دهید',
                 'sale' => 'حراج',
+                'whatsapp_order' => 'Order via WhatsApp',
+                'whatsapp_details' => 'Order directly via WhatsApp',
+            ],
+
+            'grid' => [
+                'view-all' => 'View All',
+                'sale' => 'Sale',
+                'cod-badge' => '🚚 Cash on Delivery',
+                'whatsapp-order' => 'Order via WhatsApp',
+                'view-details' => 'Product Details',
+                'loading-more' => 'Loading more products...',
+                'load-more' => 'Load More Products',
+                'whatsapp-default-msg' => 'Hello, I would like to order / inquire about this product:',
             ],
 
             'carousel' => [
@@ -921,6 +942,8 @@ return [
             'review' => 'نقد و بررسی‌ها',
             'tax-inclusive' => 'شامل تمام مالیات‌ها',
             'up-sell-title' => 'ما محصولات دیگری پیدا کردیم که شاید به شما بپسندد!',
+            'whatsapp-default-message' => 'Hello, I would like to order / inquire about this product:',
+            'whatsapp-order' => 'Order via WhatsApp',
         ],
 
         'type' => [
@@ -1007,6 +1030,14 @@ return [
         'suggest' => 'به جای آن جستجو کنید',
         'results' => 'نتایج جستجو',
 
+        'ai-overview' => [
+            'title' => 'AI Overview',
+            'generating' => 'Generating AI overview...',
+            'recommended-products' => 'Recommended Products',
+            'view-product' => 'View Product',
+            'powered-by' => 'Powered by Magic AI',
+        ],
+
         'images' => [
             'index' => [
                 'only-images-allowed' => 'تنها تصاویر (.jpeg، .jpg، .png، ..) مجاز هستند.',
@@ -1039,6 +1070,15 @@ return [
             'order-id-info' => 'شماره سفارش شما #:order_id',
             'thanks' => 'با تشکر از سفارش شما!',
             'title' => 'سفارش با موفقیت ثبت شد',
+            'whatsapp-btn' => 'Confirm Order via WhatsApp',
+            'whatsapp-city' => 'City',
+            'whatsapp-customer-name' => 'Name',
+            'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
+            'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
+            'whatsapp-order-id' => 'Order ID',
+            'whatsapp-thanks' => 'Thank you!',
+            'whatsapp-title' => 'Quick Confirmation via WhatsApp',
+            'whatsapp-total' => 'Total Amount',
         ],
 
         'cart' => [
@@ -1142,6 +1182,7 @@ return [
                 'check-billing-address' => 'آدرس صورتحساب از دست رفته است.',
                 'check-shipping-address' => 'آدرس حمل و نقل از دست رفته است.',
                 'city' => 'شهر',
+                'city-placeholder' => 'Select or enter your city...',
                 'company-name' => 'نام شرکت',
                 'confirm' => 'تایید',
                 'country' => 'کشور',
@@ -1179,12 +1220,18 @@ return [
 
             'summary' => [
                 'cart-summary' => 'خلاصه سبد خرید',
+                'cod-desc' => 'Do not pay any amount until you receive and inspect your order',
+                'cod-title' => 'Cash on Delivery (COD)',
                 'delivery-charges' => 'هزینه ارسال',
                 'delivery-charges-excl-tax' => 'هزینه ارسال (بدون مالیات)',
                 'delivery-charges-incl-tax' => 'هزینه ارسال (شامل مالیات)',
+                'delivery-desc' => 'Within 24 to 48 hours right to your doorstep',
+                'delivery-title' => 'Fast Delivery to All Cities',
                 'discount-amount' => 'مقدار تخفیف',
                 'excl-tax' => 'بدون مالیات:',
                 'grand-total' => 'مجموع کل',
+                'guarantee-desc' => 'Package inspection before payment is available with the courier',
+                'guarantee-title' => 'Quality and Exchange Guarantee',
                 'included' => 'شامل',
                 'incl-tax' => 'شامل مالیات:',
                 'items-discount' => 'تخفیف اقلام',
