@@ -50,23 +50,32 @@
 				$waEnabled = core()->getConfigData('general.general.whatsapp.status');
 				$storePhone = core()->getConfigData('general.general.whatsapp.phone_number');
 				$orderMsgTemplate = core()->getConfigData('general.general.whatsapp.order_message');
-				$customerName = $order->customer_full_name ?? ($order->billing_address?->name ?? '');
+				$customerName = $order->customer_full_name ?: ($order->billing_address?->name ?? ($order->shipping_address?->name ?? ''));
 				$city = $order->shipping_address?->city ?? ($order->billing_address?->city ?? '');
 				$total = core()->formatPrice($order->grand_total, $order->order_currency_code);
 
-				if ($orderMsgTemplate) {
+				$productsSummary = $order->items->map(function ($item) {
+					return $item->name . ($item->qty_ordered > 1 ? ' (x' . (int)$item->qty_ordered . ')' : '');
+				})->implode(' + ');
+
+				$productsList = $order->items->map(function ($item) {
+					return '• ' . $item->name . ($item->qty_ordered > 1 ? ' (x' . (int)$item->qty_ordered . ')' : '');
+				})->implode("\n");
+
+				if ($orderMsgTemplate && (str_contains($orderMsgTemplate, '{order_id}') || str_contains($orderMsgTemplate, '{product}') || str_contains($orderMsgTemplate, '{name}') || str_contains($orderMsgTemplate, '{total}') || str_contains($orderMsgTemplate, '{price}'))) {
 					$waMessage = str_replace(
-						['{order_id}', '{total}', '{name}', '{city}'],
-						[$order->increment_id, $total, $customerName, $city],
+						['{order_id}', '{id}', '{products}', '{product}', '{price}', '{total}', '{customer_name}', '{name}', '{city}'],
+						['#' . $order->increment_id, '#' . $order->increment_id, $productsList, $productsSummary, $total, $total, $customerName, $customerName, $city],
 						$orderMsgTemplate
 					);
 				} else {
-					$waMessage = trans('shop::app.checkout.success.whatsapp-default-message')
-						. "\n📦 " . trans('shop::app.checkout.success.whatsapp-order-id') . ": #" . $order->increment_id
-						. "\n💰 " . trans('shop::app.checkout.success.whatsapp-total') . ": " . $total
-						. ($customerName ? "\n👤 " . trans('shop::app.checkout.success.whatsapp-customer-name') . ": " . $customerName : "")
-						. ($city ? "\n📍 " . trans('shop::app.checkout.success.whatsapp-city') . ": " . $city : "")
-						. "\n" . trans('shop::app.checkout.success.whatsapp-thanks');
+					$waMessage = "السلام عليكم، أود تأكيد طلبي:"
+						. "\n\n📦 *رقم الطلب:* #" . $order->increment_id
+						. ($customerName ? "\n👤 *الاسم:* " . $customerName : "")
+						. ($productsList ? "\n🛍️ *المنتج:*\n" . $productsList : "")
+						. "\n💰 *المبلغ:* " . $total
+						. ($city ? "\n📍 *المدينة:* " . $city : "")
+						. "\n\nشكراً جزيلاً!";
 				}
 
 				$cleanPhone = preg_replace('/[^0-9]/', '', (string)$storePhone);
@@ -91,9 +100,32 @@
 						</p>
 					</div>
 					<div class="px-5 py-4 text-center">
-						<p class="text-sm text-zinc-600" style="margin: 0 0 16px 0;">
+						<p class="text-sm text-zinc-600 mb-3" style="margin: 0 0 12px 0;">
 							@lang('shop::app.checkout.success.whatsapp-help')
 						</p>
+
+						<!-- Order summary details in WhatsApp box -->
+						<div class="mb-4 rounded-xl bg-gray-50 p-3.5 text-right text-xs leading-relaxed text-zinc-700 border border-gray-200" dir="rtl">
+							<div class="flex justify-between py-1 border-b border-gray-200">
+								<span class="text-zinc-500 font-medium">رقم الطلب:</span>
+								<span class="font-bold text-zinc-900">#{{ $order->increment_id }}</span>
+							</div>
+							@if ($customerName)
+								<div class="flex justify-between py-1 border-b border-gray-200">
+									<span class="text-zinc-500 font-medium">العميل:</span>
+									<span class="font-semibold text-zinc-900">{{ $customerName }}</span>
+								</div>
+							@endif
+							<div class="flex justify-between py-1 border-b border-gray-200">
+								<span class="text-zinc-500 font-medium">المنتج:</span>
+								<span class="font-semibold text-zinc-900 max-w-[240px] truncate" title="{{ $productsSummary }}">{{ $productsSummary }}</span>
+							</div>
+							<div class="flex justify-between pt-1.5 items-center">
+								<span class="text-zinc-500 font-medium">المجموع:</span>
+								<span class="font-bold text-emerald-600 text-sm">{{ $total }}</span>
+							</div>
+						</div>
+
 						<a
 							href="{{ $whatsappUrl }}"
 							target="_blank"
