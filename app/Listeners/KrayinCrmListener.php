@@ -28,4 +28,12 @@ class KrayinCrmListener
     {
         $this->krayinCrmService->syncCustomer($customer);
     }
+
+    /**
+     * Handle order status updated event.
+     */
+    public function handleOrderStatusUpdated(mixed $order, ?string $newStatus = null, ?string $previousStatus = null): void
+    {
+        $this->krayinCrmService->updateOrderStatus($order, $newStatus, $previousStatus);
+    }
 }

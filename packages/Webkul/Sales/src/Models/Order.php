@@ -2,6 +2,7 @@
 
 namespace Webkul\Sales\Models;
 
+use App\Models\OrderStatusHistory;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
@@ -67,6 +68,27 @@ class Order extends Model implements OrderContract
     public const STATUS_FRAUD = 'fraud';
 
     /**
+     * COD Specific States for Morocco Market.
+     */
+    public const STATUS_PENDING_CONFIRMATION = 'pending_confirmation';
+
+    public const STATUS_CONFIRMED = 'confirmed';
+
+    public const STATUS_CALL_1_FAILED = 'call_1_failed';
+
+    public const STATUS_CALL_2_FAILED = 'call_2_failed';
+
+    public const STATUS_CALL_3_FAILED = 'call_3_failed';
+
+    public const STATUS_OUT_FOR_DELIVERY = 'out_for_delivery';
+
+    public const STATUS_DELIVERED = 'delivered';
+
+    public const STATUS_PAID = 'paid';
+
+    public const STATUS_RETURNED = 'returned';
+
+    /**
      * The attributes that aren't mass assignable.
      *
      * @var array
@@ -96,7 +118,32 @@ class Order extends Model implements OrderContract
         self::STATUS_CANCELED => 'Canceled',
         self::STATUS_CLOSED => 'Closed',
         self::STATUS_FRAUD => 'Fraud',
+        self::STATUS_PENDING_CONFIRMATION => 'Pending Confirmation',
+        self::STATUS_CONFIRMED => 'Confirmed',
+        self::STATUS_CALL_1_FAILED => 'Call 1 Failed',
+        self::STATUS_CALL_2_FAILED => 'Call 2 Failed',
+        self::STATUS_CALL_3_FAILED => 'Call 3 Failed',
+        self::STATUS_OUT_FOR_DELIVERY => 'Out For Delivery',
+        self::STATUS_DELIVERED => 'Delivered',
+        self::STATUS_PAID => 'Paid',
+        self::STATUS_RETURNED => 'Returned',
     ];
+
+    /**
+     * Lock terminal statuses: delivered and canceled cannot be changed.
+     */
+    protected static function booted(): void
+    {
+        static::updating(function (Order $order) {
+            if ($order->isDirty('status')) {
+                $originalStatus = $order->getOriginal('status');
+
+                if (in_array($originalStatus, [self::STATUS_DELIVERED, self::STATUS_CANCELED], true)) {
+                    $order->status = $originalStatus;
+                }
+            }
+        });
+    }
 
     /**
      * Get the order items record associated with the order.
@@ -111,7 +158,7 @@ class Order extends Model implements OrderContract
      */
     public function getStatusLabelAttribute()
     {
-        return $this->statusLabel[$this->status];
+        return $this->statusLabel[$this->status] ?? ucfirst(str_replace('_', ' ', $this->status));
     }
 
     /**
@@ -236,6 +283,14 @@ class Order extends Model implements OrderContract
     }
 
     /**
+     * Get the status change history for the order.
+     */
+    public function statusHistories(): HasMany
+    {
+        return $this->hasMany(OrderStatusHistory::class, 'order_id')->latest();
+    }
+
+    /**
      * Get the billing address for the order.
      */
     public function billing_address()
@@ -313,13 +368,19 @@ class Order extends Model implements OrderContract
      */
     public function canShip(): bool
     {
+        if (in_array($this->status, [self::STATUS_DELIVERED, self::STATUS_CANCELED], true)) {
+            return false;
+        }
+
         foreach ($this->items as $item) {
             if (
                 $item->canShip()
                 && ! in_array($item->order->status, [
                     self::STATUS_CLOSED,
                     self::STATUS_FRAUD,
-                ])
+                    self::STATUS_DELIVERED,
+                    self::STATUS_CANCELED,
+                ], true)
             ) {
                 return true;
             }
@@ -333,13 +394,18 @@ class Order extends Model implements OrderContract
      */
     public function canInvoice(): bool
     {
+        if (in_array($this->status, [self::STATUS_CANCELED], true)) {
+            return false;
+        }
+
         foreach ($this->items as $item) {
             if (
                 $item->canInvoice()
                 && ! in_array($item->order->status, [
                     self::STATUS_CLOSED,
                     self::STATUS_FRAUD,
-                ])
+                    self::STATUS_CANCELED,
+                ], true)
             ) {
                 return true;
             }
@@ -357,13 +423,19 @@ class Order extends Model implements OrderContract
      */
     public function canCancel(bool $force = false): bool
     {
+        if (in_array($this->status, [self::STATUS_DELIVERED, self::STATUS_CANCELED], true)) {
+            return false;
+        }
+
         foreach ($this->items as $item) {
             if (
                 $item->canCancel($force)
                 && ! in_array($item->order->status, [
                     self::STATUS_CLOSED,
                     self::STATUS_FRAUD,
-                ])
+                    self::STATUS_DELIVERED,
+                    self::STATUS_CANCELED,
+                ], true)
             ) {
                 return true;
             }

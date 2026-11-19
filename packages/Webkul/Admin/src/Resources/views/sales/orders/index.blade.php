@@ -49,6 +49,33 @@
                         class="flex select-none items-center gap-2.5"
                         v-for="(columnGroup, index) in [['increment_id', 'created_at', 'status'], ['base_grand_total', 'method', 'channel_id'], ['full_name', 'customer_email', 'location'], ['items']]"
                     >
+                        @if (bouncer()->hasPermission('sales.orders'))
+                            <label
+                                class="flex items-center gap-1 select-none"
+                                for="mass_action_select_all_records"
+                                v-if="! index"
+                            >
+                                <input
+                                    type="checkbox"
+                                    name="mass_action_select_all_records"
+                                    id="mass_action_select_all_records"
+                                    class="peer hidden"
+                                    :checked="['all', 'partial'].includes(applied.massActions.meta.mode)"
+                                    @change="selectAll"
+                                >
+
+                                <span
+                                    class="icon-uncheckbox cursor-pointer rounded-md text-2xl"
+                                    :class="[
+                                        applied.massActions.meta.mode === 'all' ? 'peer-checked:icon-checked peer-checked:text-blue-600' : (
+                                            applied.massActions.meta.mode === 'partial' ? 'peer-checked:icon-checkbox-partial peer-checked:text-blue-600' : ''
+                                        ),
+                                    ]"
+                                >
+                                </span>
+                            </label>
+                        @endif
+
                         <p class="text-gray-600 dark:text-gray-300 text-sm sm:text-base">
                             <span class="[&>*]:after:content-['_/_']">
                                 <template v-for="column in columnGroup">
@@ -98,16 +125,34 @@
                     v-for="record in available.records"
                 >
                     <!-- Order Id, Created, Status Section -->
-                    <div class="flex flex-col gap-1.5">
-                        <p class="text-sm sm:text-base font-semibold text-gray-800 dark:text-white">
-                            @{{ "@lang('admin::app.sales.orders.index.datagrid.id')".replace(':id', record.increment_id) }}
-                        </p>
+                    <div class="flex items-start gap-2.5">
+                        @if (bouncer()->hasPermission('sales.orders'))
+                            <input
+                                type="checkbox"
+                                :name="`mass_action_select_record_${record.id}`"
+                                :id="`mass_action_select_record_${record.id}`"
+                                :value="record.id"
+                                class="peer hidden"
+                                v-model="applied.massActions.indices"
+                            >
 
-                        <p class="text-xs sm:text-sm text-gray-600 dark:text-gray-300">
-                            @{{ record.created_at }}
-                        </p>
-                        
-                        <p v-html="record.status"></p>
+                            <label
+                                class="icon-uncheckbox peer-checked:icon-checked cursor-pointer rounded-md text-2xl peer-checked:text-blue-600"
+                                :for="`mass_action_select_record_${record.id}`"
+                            ></label>
+                        @endif
+
+                        <div class="flex flex-col gap-1.5">
+                            <p class="text-sm sm:text-base font-semibold text-gray-800 dark:text-white">
+                                @{{ "@lang('admin::app.sales.orders.index.datagrid.id')".replace(':id', record.increment_id) }}
+                            </p>
+
+                            <p class="text-xs sm:text-sm text-gray-600 dark:text-gray-300">
+                                @{{ record.created_at }}
+                            </p>
+                            
+                            <p v-html="record.status"></p>
+                        </div>
                     </div>
 
                     <!-- Total Amount, Pay Via, Channel -->

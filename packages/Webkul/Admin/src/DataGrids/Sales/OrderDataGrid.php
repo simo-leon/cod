@@ -75,16 +75,52 @@ class OrderDataGrid extends DataGrid
             'filterable_type' => 'dropdown',
             'filterable_options' => [
                 [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.pending-confirmation'),
+                    'value' => Order::STATUS_PENDING_CONFIRMATION,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.confirmed'),
+                    'value' => Order::STATUS_CONFIRMED,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.call-1-failed'),
+                    'value' => Order::STATUS_CALL_1_FAILED,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.call-2-failed'),
+                    'value' => Order::STATUS_CALL_2_FAILED,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.call-3-failed'),
+                    'value' => Order::STATUS_CALL_3_FAILED,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.out-for-delivery'),
+                    'value' => Order::STATUS_OUT_FOR_DELIVERY,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.delivered'),
+                    'value' => Order::STATUS_DELIVERED,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.paid'),
+                    'value' => Order::STATUS_PAID,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.returned'),
+                    'value' => Order::STATUS_RETURNED,
+                ],
+                [
+                    'label' => trans('admin::app.sales.orders.index.datagrid.canceled'),
+                    'value' => Order::STATUS_CANCELED,
+                ],
+                [
                     'label' => trans('admin::app.sales.orders.index.datagrid.processing'),
                     'value' => Order::STATUS_PROCESSING,
                 ],
                 [
                     'label' => trans('admin::app.sales.orders.index.datagrid.completed'),
                     'value' => Order::STATUS_COMPLETED,
-                ],
-                [
-                    'label' => trans('admin::app.sales.orders.index.datagrid.canceled'),
-                    'value' => Order::STATUS_CANCELED,
                 ],
                 [
                     'label' => trans('admin::app.sales.orders.index.datagrid.closed'),
@@ -106,6 +142,33 @@ class OrderDataGrid extends DataGrid
             'sortable' => true,
             'closure' => function ($row) {
                 switch ($row->status) {
+                    case Order::STATUS_PENDING_CONFIRMATION:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-yellow-500">'.trans('admin::app.sales.orders.index.datagrid.pending-confirmation').'</p>';
+
+                    case Order::STATUS_CONFIRMED:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-blue-600">'.trans('admin::app.sales.orders.index.datagrid.confirmed').'</p>';
+
+                    case Order::STATUS_CALL_1_FAILED:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-amber-500">'.trans('admin::app.sales.orders.index.datagrid.call-1-failed').'</p>';
+
+                    case Order::STATUS_CALL_2_FAILED:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-orange-600">'.trans('admin::app.sales.orders.index.datagrid.call-2-failed').'</p>';
+
+                    case Order::STATUS_CALL_3_FAILED:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-red-600">'.trans('admin::app.sales.orders.index.datagrid.call-3-failed').'</p>';
+
+                    case Order::STATUS_OUT_FOR_DELIVERY:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-purple-600">'.trans('admin::app.sales.orders.index.datagrid.out-for-delivery').'</p>';
+
+                    case Order::STATUS_DELIVERED:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-teal-600">'.trans('admin::app.sales.orders.index.datagrid.delivered').'</p>';
+
+                    case Order::STATUS_PAID:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-emerald-600">'.trans('admin::app.sales.orders.index.datagrid.paid').'</p>';
+
+                    case Order::STATUS_RETURNED:
+                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-rose-700">'.trans('admin::app.sales.orders.index.datagrid.returned').'</p>';
+
                     case Order::STATUS_PROCESSING:
                         return '<p class="label-processing">'.trans('admin::app.sales.orders.index.datagrid.processing').'</p>';
 
@@ -126,6 +189,9 @@ class OrderDataGrid extends DataGrid
 
                     case Order::STATUS_FRAUD:
                         return '<p class="label-canceled">'.trans('admin::app.sales.orders.index.datagrid.fraud').'</p>';
+
+                    default:
+                        return '<p class="label-info">'.$row->status.'</p>';
                 }
             },
         ]);
@@ -227,6 +293,72 @@ class OrderDataGrid extends DataGrid
                 'url' => function ($row) {
                     return route('admin.sales.orders.view', $row->id);
                 },
+            ]);
+        }
+    }
+
+    /**
+     * Prepare mass actions.
+     *
+     * @return void
+     */
+    public function prepareMassActions()
+    {
+        if (bouncer()->hasPermission('sales.orders')) {
+            $this->addMassAction([
+                'title' => trans('admin::app.sales.orders.index.datagrid.update-status'),
+                'url' => route('admin.sales.orders.mass_update'),
+                'method' => 'POST',
+                'options' => [
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.pending-confirmation'),
+                        'value' => Order::STATUS_PENDING_CONFIRMATION,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.confirmed'),
+                        'value' => Order::STATUS_CONFIRMED,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.call-1-failed'),
+                        'value' => Order::STATUS_CALL_1_FAILED,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.call-2-failed'),
+                        'value' => Order::STATUS_CALL_2_FAILED,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.call-3-failed'),
+                        'value' => Order::STATUS_CALL_3_FAILED,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.out-for-delivery'),
+                        'value' => Order::STATUS_OUT_FOR_DELIVERY,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.delivered'),
+                        'value' => Order::STATUS_DELIVERED,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.paid'),
+                        'value' => Order::STATUS_PAID,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.returned'),
+                        'value' => Order::STATUS_RETURNED,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.canceled'),
+                        'value' => Order::STATUS_CANCELED,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.processing'),
+                        'value' => Order::STATUS_PROCESSING,
+                    ],
+                    [
+                        'label' => trans('admin::app.sales.orders.index.datagrid.completed'),
+                        'value' => Order::STATUS_COMPLETED,
+                    ],
+                ],
             ]);
         }
     }

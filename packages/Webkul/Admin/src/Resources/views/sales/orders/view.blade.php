@@ -32,6 +32,23 @@
     </div>
 
     <div class="mt-5 flex-wrap items-center justify-between gap-x-1 gap-y-2">
+        @php
+            $terminalStatuses = [\Webkul\Sales\Models\Order::STATUS_DELIVERED, \Webkul\Sales\Models\Order::STATUS_CANCELED];
+            $isTerminal = in_array($order->status, $terminalStatuses, true);
+            $codStatuses = [
+                \Webkul\Sales\Models\Order::STATUS_PENDING_CONFIRMATION => __('admin::app.sales.orders.view.pending_confirmation'),
+                \Webkul\Sales\Models\Order::STATUS_CONFIRMED             => __('admin::app.sales.orders.view.confirmed'),
+                \Webkul\Sales\Models\Order::STATUS_CALL_1_FAILED         => __('admin::app.sales.orders.view.call_1_failed'),
+                \Webkul\Sales\Models\Order::STATUS_CALL_2_FAILED         => __('admin::app.sales.orders.view.call_2_failed'),
+                \Webkul\Sales\Models\Order::STATUS_CALL_3_FAILED         => __('admin::app.sales.orders.view.call_3_failed'),
+                \Webkul\Sales\Models\Order::STATUS_OUT_FOR_DELIVERY      => __('admin::app.sales.orders.view.out_for_delivery'),
+                \Webkul\Sales\Models\Order::STATUS_DELIVERED             => __('admin::app.sales.orders.view.delivered'),
+                \Webkul\Sales\Models\Order::STATUS_PAID                  => __('admin::app.sales.orders.view.paid'),
+                \Webkul\Sales\Models\Order::STATUS_RETURNED              => __('admin::app.sales.orders.view.returned'),
+                \Webkul\Sales\Models\Order::STATUS_CANCELED              => __('admin::app.sales.orders.view.canceled'),
+            ];
+        @endphp
+
         <div class="flex gap-1.5">
             {!! view_render_event('bagisto.admin.sales.order.page_action.before', ['order' => $order]) !!}
 
@@ -51,62 +68,45 @@
             @endif
 
             @if (
-                $order->canInvoice()
-                && bouncer()->hasPermission('sales.invoices.create')
-                && $order->payment->method !== 'paypal_standard'
-            )
-                @include('admin::sales.invoices.create')
-            @endif
-
-            @if (
-                $order->canShip()
-                && bouncer()->hasPermission('sales.shipments.create')
-            )
-                @include('admin::sales.shipments.create')
-            @endif
-
-            @if (
                 $order->canRefund()
+                && ! $isTerminal
                 && bouncer()->hasPermission('sales.refunds.create')
             )
                 @include('admin::sales.refunds.create')
             @endif
 
-            @if (
-                $order->canCancel(force: true)
-                && bouncer()->hasPermission('sales.orders.cancel')
-            )
-               <form
+            {!! view_render_event('bagisto.admin.sales.order.page_action.after', ['order' => $order]) !!}
+
+            @if (! $isTerminal && bouncer()->hasPermission('sales.orders.edit'))
+                <form
                     method="POST"
-                    ref="cancelOrderForm"
-                    action="{{ route('admin.sales.orders.cancel', $order->id) }}"
+                    action="{{ route('admin.sales.orders.update_status', $order->id) }}"
+                    class="flex items-center gap-2"
                 >
                     @csrf
-                </form>
-
-                <div
-                    class="transparent-button px-1 py-1.5 hover:bg-gray-200 dark:text-white dark:hover:bg-gray-800"
-                    @click="$emitter.emit('open-confirm-modal', {
-                        message: '@lang('admin::app.sales.orders.view.cancel-msg')',
-                        agree: () => {
-                            this.$refs['cancelOrderForm'].submit()
-                        }
-                    })"
-                >
-                    <span
-                        class="icon-cancel text-2xl"
-                        role="presentation"
-                        tabindex="0"
+                    <select
+                        name="status"
+                        class="rounded border border-gray-300 bg-white px-3 py-1.5 text-sm text-gray-700 shadow-sm focus:border-blue-500 focus:outline-none dark:border-gray-600 dark:bg-gray-800 dark:text-white"
                     >
-                    </span>
+                        @foreach ($codStatuses as $value => $label)
+                            <option value="{{ $value }}" @selected($order->status === $value)>
+                                {{ $label }}
+                            </option>
+                        @endforeach
+                    </select>
 
-                    <a href="javascript:void(0);">
-                        @lang('admin::app.sales.orders.view.cancel')
-                    </a>
-                </div>
+                    <button
+                        type="submit"
+                        class="primary-button px-3 py-1.5 text-sm"
+                    >
+                        @lang('admin::app.sales.orders.view.update-status')
+                    </button>
+                </form>
+            @elseif ($isTerminal)
+                <span class="rounded bg-red-100 px-3 py-1.5 text-sm font-semibold text-red-700 dark:bg-red-900/30 dark:text-red-400">
+                    🔒 @lang('admin::app.sales.orders.view.status-locked')
+                </span>
             @endif
-
-            {!! view_render_event('bagisto.admin.sales.order.page_action.after', ['order' => $order]) !!}
         </div>
 
         @php
@@ -958,5 +958,81 @@
                 {!! view_render_event('bagisto.admin.sales.order.right_component.after', ['order' => $order]) !!}
             </div>
         </div>
+    </div>
+
+    {{-- ===== Order Status History ===== --}}
+    @php
+        $histories = $order->statusHistories()->with('admin')->get();
+        $statusLabels = [
+            'pending_confirmation' => 'في انتظار التأكيد',
+            'confirmed'            => 'تم التأكيد',
+            'call_1_failed'        => 'مكالمة 1 فاشلة',
+            'call_2_failed'        => 'مكالمة 2 فاشلة',
+            'call_3_failed'        => 'مكالمة 3 فاشلة',
+            'out_for_delivery'     => 'قيد التوصيل',
+            'delivered'            => 'تم التوصيل',
+            'paid'                 => 'تم الأداء',
+            'returned'             => 'مرتجع',
+            'canceled'             => 'تم الإلغاء',
+            'pending'              => 'معلق',
+            'processing'           => 'قيد المعالجة',
+            'completed'            => 'مكتمل',
+            'closed'               => 'مغلق',
+            'fraud'                => 'احتيال',
+        ];
+        $sourceLabels = [
+            'checkout'    => '🛒 طلب جديد',
+            'view_page'   => '🖥️ صفحة الطلب',
+            'mass_update' => '⚡ تعديل جماعي',
+            'system'      => '⚙️ النظام',
+        ];
+    @endphp
+
+    <div class="mt-6 rounded-lg border border-gray-200 bg-white p-5 shadow-sm dark:border-gray-800 dark:bg-gray-900" dir="rtl">
+        <h3 class="mb-4 flex items-center gap-2 text-base font-semibold text-gray-800 dark:text-white">
+            <span>🕒</span>
+            سجل تغييرات الحالة (Tracabilité)
+        </h3>
+
+        @if ($histories->isEmpty())
+            <p class="text-sm text-gray-500 dark:text-gray-400">لا توجد تغييرات مسجلة لهذا الطلب بعد.</p>
+        @else
+            <div class="overflow-x-auto">
+                <table class="w-full text-right text-sm">
+                    <thead>
+                        <tr class="border-b border-gray-200 text-xs font-semibold uppercase tracking-wide text-gray-500 dark:border-gray-700 dark:text-gray-400">
+                            <th class="pb-2 pr-4">من الحالة</th>
+                            <th class="pb-2 pr-4">إلى الحالة</th>
+                            <th class="pb-2 pr-4">المنفذ</th>
+                            <th class="pb-2 pr-4">الطريقة</th>
+                            <th class="pb-2" dir="ltr">التاريخ والوقت</th>
+                        </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-100 dark:divide-gray-800">
+                        @foreach ($histories as $history)
+                            <tr class="hover:bg-gray-50 dark:hover:bg-gray-800/50">
+                                <td class="py-2.5 pr-4 text-gray-400 dark:text-gray-500">
+                                    {{ $statusLabels[$history->old_status] ?? ($history->old_status ?: '—') }}
+                                </td>
+                                <td class="py-2.5 pr-4">
+                                    <span class="label-{{ $history->new_status }} inline-block rounded px-2 py-0.5 text-xs font-semibold">
+                                        {{ $statusLabels[$history->new_status] ?? $history->new_status }}
+                                    </span>
+                                </td>
+                                <td class="py-2.5 pr-4 font-medium text-gray-700 dark:text-gray-200">
+                                    {{ $history->admin?->name ?? $history->actor_name ?? 'النظام' }}
+                                </td>
+                                <td class="py-2.5 pr-4 text-xs text-gray-500 dark:text-gray-400">
+                                    {{ $sourceLabels[$history->source] ?? $history->source }}
+                                </td>
+                                <td class="py-2.5 text-xs text-gray-500 dark:text-gray-400" dir="ltr">
+                                    {{ $history->created_at?->format('Y-m-d H:i:s') }}
+                                </td>
+                            </tr>
+                        @endforeach
+                    </tbody>
+                </table>
+            </div>
+        @endif
     </div>
 </x-admin::layouts>

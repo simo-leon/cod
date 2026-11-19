@@ -211,4 +211,84 @@ class KrayinCrmService
 
         return null;
     }
+
+    /**
+     * Update order status in Krayin CRM (update Lead status or record activity).
+     */
+    public function updateOrderStatus(mixed $order, ?string $newStatus = null, ?string $previousStatus = null): bool
+    {
+        if (! $this->isEnabled() || ! core()->getConfigData('general.krayin_crm.settings.sync_orders')) {
+            return false;
+        }
+
+        $token = $this->getApiToken();
+
+        if (empty($token)) {
+            return false;
+        }
+
+        $status = $newStatus ?? $order->status;
+        $prev = $previousStatus ?? 'unknown';
+
+        $statusLabels = [
+            'pending_confirmation' => 'في انتظار التأكيد (Pending Confirmation)',
+            'confirmed' => 'تم التأكيد (Confirmed)',
+            'call_1_failed' => 'مكالمة أولى فاشلة (Call 1 Failed)',
+            'call_2_failed' => 'مكالمة ثانية (Call 2 Failed)',
+            'call_3_failed' => 'مكالمة ثالثة (Call 3 Failed)',
+            'out_for_delivery' => 'قيد التوصيل (Out For Delivery)',
+            'delivered' => 'تم التوصيل (Delivered)',
+            'paid' => 'تم الأداء (Paid)',
+            'returned' => 'مرتجع (Returned)',
+            'canceled' => 'تم الإلغاء (Canceled)',
+        ];
+
+        $label = $statusLabels[$status] ?? $status;
+
+        try {
+            $response = Http::withToken($token)
+                ->timeout(10)
+                ->acceptJson()
+                ->get("{$this->getApiUrl()}/leads", [
+                    'query' => "#{$order->increment_id}",
+                ]);
+
+            $lead = $response->json('data.0');
+
+            if ($lead && isset($lead['id'])) {
+                $leadId = $lead['id'];
+
+                $crmStatus = 1; // Open
+                if (in_array($status, ['delivered', 'paid', 'completed'], true)) {
+                    $crmStatus = 2; // Won
+                } elseif (in_array($status, ['canceled', 'returned'], true)) {
+                    $crmStatus = 3; // Lost
+                }
+
+                Http::withToken($token)
+                    ->timeout(10)
+                    ->acceptJson()
+                    ->put("{$this->getApiUrl()}/leads/{$leadId}", [
+                        'status' => $crmStatus,
+                        'description' => ($lead['description'] ?? '')."\n[تحديث الحالة]: من {$prev} إلى {$label} بتاريخ ".now()->toDateTimeString(),
+                    ]);
+
+                Http::withToken($token)
+                    ->timeout(10)
+                    ->acceptJson()
+                    ->post("{$this->getApiUrl()}/activities", [
+                        'title' => "تحديث حالة الطلب #{$order->increment_id} إلى: {$label}",
+                        'type' => 'note',
+                        'comment' => "تغيرت حالة الطلب من [{$prev}] إلى [{$label}].",
+                        'lead_id' => $leadId,
+                    ]);
+
+                return true;
+            }
+        } catch (\Throwable $e) {
+            Log::error('Krayin CRM updateOrderStatus exception: '.$e->getMessage());
+        }
+
+        return false;
+    }
 }

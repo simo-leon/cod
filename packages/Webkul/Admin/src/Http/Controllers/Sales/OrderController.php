@@ -3,20 +3,28 @@
 namespace Webkul\Admin\Http\Controllers\Sales;
 
 use Illuminate\Http\JsonResponse;
+use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Event;
+use Illuminate\Support\Facades\Log;
 use Illuminate\View\View;
 use Webkul\Admin\DataGrids\Sales\OrderDataGrid;
 use Webkul\Admin\Http\Controllers\Controller;
+use Webkul\Admin\Http\Requests\MassUpdateRequest;
 use Webkul\Admin\Http\Resources\AddressResource;
 use Webkul\Admin\Http\Resources\CartResource;
 use Webkul\Checkout\Facades\Cart;
 use Webkul\Checkout\Repositories\CartRepository;
 use Webkul\Customer\Repositories\CustomerGroupRepository;
+use Webkul\Inventory\Models\InventorySource;
+use Webkul\Sales\Models\Order;
+use Webkul\Sales\Repositories\InvoiceRepository;
 use Webkul\Sales\Repositories\OrderCommentRepository;
+use Webkul\Sales\Repositories\OrderItemRepository;
 use Webkul\Sales\Repositories\OrderRepository;
+use Webkul\Sales\Repositories\ShipmentRepository;
 use Webkul\Sales\Transformers\OrderResource;
 
 class OrderController extends Controller
@@ -176,6 +184,78 @@ class OrderController extends Controller
     }
 
     /**
+     * Update order status from the order view page.
+     */
+    public function updateStatus(int $id): RedirectResponse
+    {
+        $order = $this->orderRepository->find($id);
+
+        if (! $order) {
+            session()->flash('error', trans('admin::app.sales.orders.view.create-error'));
+
+            return redirect()->route('admin.sales.orders.view', $id);
+        }
+
+        $lockedStatuses = [Order::STATUS_DELIVERED, Order::STATUS_CANCELED];
+
+        if (in_array($order->status, $lockedStatuses, true)) {
+            session()->flash('error', trans('admin::app.sales.orders.view.status-locked'));
+
+            return redirect()->route('admin.sales.orders.view', $id);
+        }
+
+        $newStatus = request()->input('status');
+
+        $allowedStatuses = [
+            Order::STATUS_PENDING_CONFIRMATION,
+            Order::STATUS_CONFIRMED,
+            Order::STATUS_CALL_1_FAILED,
+            Order::STATUS_CALL_2_FAILED,
+            Order::STATUS_CALL_3_FAILED,
+            Order::STATUS_OUT_FOR_DELIVERY,
+            Order::STATUS_DELIVERED,
+            Order::STATUS_PAID,
+            Order::STATUS_RETURNED,
+            Order::STATUS_CANCELED,
+        ];
+
+        if (! in_array($newStatus, $allowedStatuses, true)) {
+            session()->flash('error', trans('admin::app.sales.orders.view.create-error'));
+
+            return redirect()->route('admin.sales.orders.view', $id);
+        }
+
+        if ($order->status === $newStatus) {
+            return redirect()->route('admin.sales.orders.view', $id);
+        }
+
+        $previousStatus = $order->status;
+
+        if (in_array($newStatus, [Order::STATUS_CANCELED, Order::STATUS_RETURNED], true)) {
+            $this->restoreOrderInventory($order);
+        }
+
+        if (in_array($newStatus, [Order::STATUS_OUT_FOR_DELIVERY, Order::STATUS_DELIVERED], true)) {
+            $this->autoGenerateShipment($order);
+        }
+
+        if (in_array($newStatus, [Order::STATUS_PAID, Order::STATUS_DELIVERED], true)) {
+            $this->autoGenerateInvoice($order);
+        }
+
+        Event::dispatch('sales.order.update-status.before', [$order, $newStatus, $previousStatus]);
+
+        $order->status = $newStatus;
+        $order->save();
+
+        Event::dispatch('sales.order.update-status.after', [$order, $newStatus, $previousStatus]);
+
+        session()->flash('success', trans('admin::app.sales.orders.view.status-updated'));
+
+        return redirect()->route('admin.sales.orders.view', $id);
+    }
+
+    /**
      * Cancel action for the specified resource.
      *
      * @return Response
@@ -279,6 +359,187 @@ class OrderController extends Controller
 
         if (! $cart->payment) {
             throw new \Exception(trans('admin::app.sales.orders.create.specify-payment-method'));
+        }
+    }
+
+    /**
+     * Mass update order status.
+     */
+    public function massUpdate(MassUpdateRequest $massUpdateRequest): JsonResponse
+    {
+        $indices = $massUpdateRequest->input('indices');
+        $newStatus = $massUpdateRequest->input('value');
+
+        $lockedStatuses = [
+            Order::STATUS_DELIVERED,
+            Order::STATUS_CANCELED,
+        ];
+
+        $lockedOrders = [];
+
+        foreach ($indices as $id) {
+            $order = $this->orderRepository->find($id);
+
+            if (! $order) {
+                continue;
+            }
+
+            // منع تغيير الحالة إذا كانت بالفعل "تم التوصيل" أو "تم الإلغاء"
+            if (in_array($order->status, $lockedStatuses, true)) {
+                $lockedOrders[] = $order->increment_id ?? $order->id;
+
+                continue;
+            }
+
+            $previousStatus = $order->status;
+
+            if ($previousStatus === $newStatus) {
+                continue;
+            }
+
+            // Restore inventory when canceling or returning if not already canceled/returned
+            if (in_array($newStatus, [Order::STATUS_CANCELED, Order::STATUS_RETURNED], true)) {
+                $this->restoreOrderInventory($order);
+            }
+
+            if (in_array($newStatus, [Order::STATUS_OUT_FOR_DELIVERY, Order::STATUS_DELIVERED], true)) {
+                $this->autoGenerateShipment($order);
+            }
+
+            if (in_array($newStatus, [Order::STATUS_PAID, Order::STATUS_DELIVERED], true)) {
+                $this->autoGenerateInvoice($order);
+            }
+
+            Event::dispatch('sales.order.update-status.before', [$order, $newStatus, $previousStatus]);
+
+            $order->status = $newStatus;
+            $order->save();
+
+            Event::dispatch('sales.order.update-status.after', [$order, $newStatus, $previousStatus]);
+        }
+
+        if (! empty($lockedOrders)) {
+            return new JsonResponse([
+                'message' => 'تم تحديث الطلبات المسموح بها، وتم تجاهل الطلبات النهائية (تم التوصيل / تم الإلغاء): #'.implode(', #', $lockedOrders),
+            ]);
+        }
+
+        return new JsonResponse([
+            'message' => trans('admin::app.sales.orders.index.datagrid.mass-update-success'),
+        ]);
+    }
+
+    /**
+     * Restore inventory for canceled or returned orders.
+     */
+    protected function restoreOrderInventory(Order $order): void
+    {
+        // Avoid restoring multiple times if already canceled or returned
+        if (in_array($order->status, [Order::STATUS_CANCELED, Order::STATUS_RETURNED], true)) {
+            return;
+        }
+
+        $orderItemRepository = app(OrderItemRepository::class);
+
+        foreach ($order->items as $item) {
+            $orderItems = $item->getTypeInstance()->isComposite() ? $item->children : [$item];
+
+            foreach ($orderItems as $orderItem) {
+                $orderItemRepository->returnQtyToProductInventory($orderItem);
+
+                $remainingQty = ($orderItem->qty_ordered - $orderItem->qty_canceled - $orderItem->qty_refunded);
+
+                if ($remainingQty > 0) {
+                    $orderItem->qty_canceled += $remainingQty;
+                    $orderItem->save();
+                }
+
+                // If goods were physically shipped, return them to inventory source
+                if ($orderItem->qty_shipped > 0 && $orderItem->product && $orderItem->product->manage_stock) {
+                    $inventory = $orderItem->product->inventories()->first();
+                    if ($inventory) {
+                        $inventory->update(['qty' => $inventory->qty + $orderItem->qty_shipped]);
+                    }
+                }
+            }
+        }
+    }
+
+    /**
+     * Auto generate shipment for COD orders.
+     */
+    protected function autoGenerateShipment(Order $order): void
+    {
+        if (! $order->canShip()) {
+            return;
+        }
+
+        $source = InventorySource::first();
+        $sourceId = $source?->id ?? 1;
+
+        $items = [];
+        foreach ($order->items as $item) {
+            if ($item->qty_to_ship > 0) {
+                $items[$item->id][$sourceId] = $item->qty_to_ship;
+            }
+        }
+
+        if (empty($items)) {
+            return;
+        }
+
+        $shipmentData = [
+            'order_id' => $order->id,
+            'shipment' => [
+                'carrier_title' => $order->shipping_title ?? 'COD Delivery',
+                'track_number' => $order->increment_id ?? (string) $order->id,
+                'source' => $sourceId,
+                'items' => $items,
+            ],
+        ];
+
+        try {
+            app(ShipmentRepository::class)->create($shipmentData);
+        } catch (\Throwable $e) {
+            Log::warning('Auto shipment failed for order #'.$order->id, [
+                'error' => $e->getMessage(),
+            ]);
+        }
+    }
+
+    /**
+     * Auto generate invoice for COD orders.
+     */
+    protected function autoGenerateInvoice(Order $order): void
+    {
+        if (! $order->canInvoice()) {
+            return;
+        }
+
+        $items = [];
+        foreach ($order->items as $item) {
+            if ($item->qty_to_invoice > 0) {
+                $items[$item->id] = $item->qty_to_invoice;
+            }
+        }
+
+        if (empty($items)) {
+            return;
+        }
+
+        $invoiceData = [
+            'order_id' => $order->id,
+            'invoice' => [
+                'items' => $items,
+            ],
+        ];
+
+        try {
+            app(InvoiceRepository::class)->create($invoiceData);
+        } catch (\Throwable $e) {
+            Log::warning('Auto invoice failed for order #'.$order->id, [
+                'error' => $e->getMessage(),
+            ]);
         }
     }
 }
