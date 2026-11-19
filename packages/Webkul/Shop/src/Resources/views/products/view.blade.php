@@ -527,14 +527,21 @@
                                                 $productPrice = core()->formatPrice($product->getTypeInstance()->getMinimalPrice());
                                                 $productUrl = route('shop.product_or_category.index', $product->url_key);
 
-                                                if ($waProductCustomMsg) {
+                                                if ($waProductCustomMsg && str_contains($waProductCustomMsg, '{product_url}')) {
                                                     $waProductText = str_replace(
-                                                        ['{product_name}', '{product_url}', '{price}'],
-                                                        [$product->name, $productUrl, $productPrice],
+                                                        ['{product_name}', '{product_url}', '{url}', '{price}'],
+                                                        [$product->name, $productUrl, $productUrl, $productPrice],
                                                         $waProductCustomMsg
                                                     );
                                                 } else {
-                                                    $waProductText = trans('shop::app.products.view.whatsapp-default-message') . "\n📦 " . $product->name . "\n💰 " . $productPrice . "\n🔗 " . $productUrl;
+                                                    $intro = (! empty($waProductCustomMsg) && $waProductCustomMsg !== 'Modèle de message pour produit')
+                                                        ? $waProductCustomMsg
+                                                        : 'السلام عليكم، أود طلب أو الاستفسار عن هذا المنتج:';
+
+                                                    $waProductText = $intro
+                                                        . "\n\n🛍️ *المنتج:* " . $product->name
+                                                        . "\n💰 *السعر:* " . $productPrice
+                                                        . "\n🔗 *رابط المنتج:* " . $productUrl;
                                                 }
 
                                                 $waProductUrl = 'https://api.whatsapp.com/send?' . ($waProductPhone ? 'phone=' . $waProductPhone . '&' : '') . 'text=' . urlencode($waProductText);
