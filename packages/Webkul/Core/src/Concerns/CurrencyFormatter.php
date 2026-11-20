@@ -20,11 +20,21 @@ trait CurrencyFormatter
     }
 
     /**
+     * Get locale with Latin digits for Arabic.
+     */
+    protected function getFormatterLocale(): string
+    {
+        $locale = app()->getLocale();
+
+        return str_starts_with($locale, 'ar') ? 'ar-u-nu-latn' : $locale;
+    }
+
+    /**
      * Use default formatter.
      */
     public function useDefaultCurrencyFormatter(?float $price, Currency $currency): string
     {
-        $formatter = new \NumberFormatter(app()->getLocale(), \NumberFormatter::CURRENCY);
+        $formatter = new \NumberFormatter($this->getFormatterLocale(), \NumberFormatter::CURRENCY);
 
         if ($currency->symbol) {
             /**
@@ -48,7 +58,7 @@ trait CurrencyFormatter
      */
     public function useCustomCurrencyFormatter(?float $price, Currency $currency): string
     {
-        $formatter = new \NumberFormatter(app()->getLocale(), \NumberFormatter::CURRENCY);
+        $formatter = new \NumberFormatter($this->getFormatterLocale(), \NumberFormatter::CURRENCY);
 
         $formatter->setSymbol(\NumberFormatter::CURRENCY_SYMBOL, '');
 
@@ -96,7 +106,7 @@ trait CurrencyFormatter
     {
         $code = $currency instanceof Currency ? $currency->code : $currency;
 
-        $formatter = new \NumberFormatter(app()->getLocale().'@currency='.$code, \NumberFormatter::CURRENCY);
+        $formatter = new \NumberFormatter($this->getFormatterLocale().'@currency='.$code, \NumberFormatter::CURRENCY);
 
         return $formatter->getSymbol(\NumberFormatter::CURRENCY_SYMBOL);
     }
