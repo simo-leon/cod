@@ -489,6 +489,7 @@ return [
                 'delivery' => [
                     'error' => 'Delivery Error',
                     'last-status' => 'Last Known Status',
+                    'migration-pending' => 'Delivery is not ready yet: the delivery_parcels table is missing. Run `php artisan migrate` to create it.',
                     'not-configured' => 'No delivery provider is enabled. Enable Vitis Express and set its API token in Configuration → General → Delivery Providers.',
                     'not-cod' => 'This order is not cash on delivery, so no parcel is sent.',
                     'parcel-code' => 'Parcel Code',

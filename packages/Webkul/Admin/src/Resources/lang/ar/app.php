@@ -489,6 +489,7 @@ return [
                 'delivery' => [
                     'error' => 'خطأ في التوصيل',
                     'last-status' => 'آخر حالة معروفة',
+                    'migration-pending' => 'التوصيل غير جاهز بعد: جدول delivery_parcels غير موجود. شغّل `php artisan migrate` لإنشائه.',
                     'not-configured' => 'لا توجد شركة توصيل مفعلة. فعل Vitis Express وأدخل رمز API في الإعدادات ← عام ← شركات التوصيل.',
                     'not-cod' => 'هذا الطلب ليس بالدفع عند الاستلام، لذلك لن يتم إرسال أي طرد.',
                     'parcel-code' => 'رمز الطرد',

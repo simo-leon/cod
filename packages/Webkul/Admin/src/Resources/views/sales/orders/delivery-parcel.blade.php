@@ -1,7 +1,14 @@
 @php
-    $deliveryParcel = \App\Models\DeliveryParcel::where('order_id', $order->id)
-        ->latest()
-        ->first();
+    // The delivery_parcels table only exists after `php artisan migrate`
+    // has run. Never let the order page crash (500) when it hasn't:
+    // show a notice instead of querying a missing table.
+    $deliveryTableExists = \Illuminate\Support\Facades\Schema::hasTable('delivery_parcels');
+
+    $deliveryParcel = $deliveryTableExists
+        ? \App\Models\DeliveryParcel::where('order_id', $order->id)
+            ->latest()
+            ->first()
+        : null;
 
     $deliveryManager = app(\App\Services\Delivery\DeliveryProviderManager::class);
     $deliveryProvider = $deliveryManager->defaultProvider();
@@ -15,7 +22,11 @@
             @lang('admin::app.sales.orders.view.delivery.title')
         </p>
 
-        @if (! $isCodOrder)
+        @if (! $deliveryTableExists)
+            <p class="text-sm text-gray-600 dark:text-gray-300">
+                @lang('admin::app.sales.orders.view.delivery.migration-pending')
+            </p>
+        @elseif (! $isCodOrder)
             <p class="text-sm text-gray-600 dark:text-gray-300">
                 @lang('admin::app.sales.orders.view.delivery.not-cod')
             </p>

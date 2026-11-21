@@ -473,6 +473,7 @@ return [
                 'delivery' => [
                     'error' => 'Erreur de livraison',
                     'last-status' => 'Dernier statut connu',
+                    'migration-pending' => 'La livraison n’est pas encore prête : la table delivery_parcels est manquante. Exécutez `php artisan migrate` pour la créer.',
                     'not-configured' => 'Aucune société de livraison n\'est activée. Activez Vitis Express et définissez son jeton API dans Configuration → Général → Sociétés de livraison.',
                     'not-cod' => 'Cette commande n\'est pas en paiement à la livraison, aucun colis n\'est envoyé.',
                     'parcel-code' => 'Code du colis',
