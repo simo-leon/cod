@@ -88,9 +88,10 @@
                             <img
                                 :src="product.base_image.medium_image_url"
                                 :alt="product.name"
-                                style="width: 100%; height: 100%; object-fit: cover;"
+                                style="width: 100%; height: 100%; object-fit: cover; color: transparent;"
                                 class="transition-transform duration-300 group-hover:scale-105"
                                 loading="lazy"
+                                v-on:error="onImageError($event)"
                             />
                         </a>
 
@@ -225,6 +226,7 @@
                     waEnabled: {{ core()->getConfigData('general.general.whatsapp.status') ? 'true' : 'false' }},
                     waPhone: '{{ preg_replace('/[^0-9]/', '', (string)core()->getConfigData('general.general.whatsapp.phone_number')) }}',
                     waProductMsg: '{{ addslashes(core()->getConfigData('general.general.whatsapp.product_message') ?: __('shop::app.components.products.grid.whatsapp-default-msg')) }}',
+                    placeholderImage: "{{ bagisto_asset('images/medium-product-placeholder.webp', 'shop') }}",
                 };
             },
 
@@ -422,6 +424,21 @@
                     const message = this.waProductMsg + '\n📦 ' + product.name + (price ? '\n💰 ' + price : '') + '\n🔗 ' + productUrl;
 
                     return 'https://api.whatsapp.com/send?phone=' + this.waPhone + '&text=' + encodeURIComponent(message);
+                },
+
+                /*
+                    Jemla: when a product image file is missing (e.g. demo
+                    products whose files were never uploaded), the browser
+                    renders the <img> alt text (the long product name) on top
+                    of the image box, colliding with the badges. Swap the
+                    failed image for the placeholder instead.
+                */
+                onImageError(event) {
+                    const target = event.target;
+
+                    if (target.src !== this.placeholderImage) {
+                        target.src = this.placeholderImage;
+                    }
                 },
             },
         });
