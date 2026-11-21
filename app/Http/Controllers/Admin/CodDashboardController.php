@@ -76,6 +76,10 @@ class CodDashboardController extends Controller
             'autoAssignment' => $this->confirmation->isAutoAssignmentEnabled(),
             'ordersUrl' => route('admin.cod.orders.index'),
             'settingsUrl' => route('admin.configuration.index', 'general/cod_system'),
+            'confirmerRates' => $this->analytics->confirmerRates(),
+            'myTasksUrl' => route('admin.cod.my-tasks.index'),
+            'assignmentUrl' => route('admin.cod.assignment.index'),
+            'canManageAssignment' => bouncer()->hasPermission('cod.assignment'),
         ]);
     }
 }

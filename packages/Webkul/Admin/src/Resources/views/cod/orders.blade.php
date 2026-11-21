@@ -14,9 +14,21 @@
             </p>
         </div>
 
-        <a href="{{ $dashboardUrl }}" class="secondary-button">
-            @lang('admin::app.cod.orders.back-to-dashboard')
-        </a>
+        <div class="flex gap-2">
+            @if ($canManageAssignment && $unassignedCount > 0)
+                <form method="POST" action="{{ route('admin.cod.assignment.distribute') }}">
+                    @csrf
+
+                    <button type="submit" class="primary-button">
+                        @lang('admin::app.cod.orders.distribute', ['count' => $unassignedCount])
+                    </button>
+                </form>
+            @endif
+
+            <a href="{{ $dashboardUrl }}" class="secondary-button">
+                @lang('admin::app.cod.orders.back-to-dashboard')
+            </a>
+        </div>
     </div>
 
     <!-- Filter by COD status -->
@@ -55,6 +67,7 @@
                         <th class="p-4 font-semibold">@lang('admin::app.cod.orders.city')</th>
                         <th class="p-4 font-semibold">@lang('admin::app.cod.orders.total')</th>
                         <th class="p-4 font-semibold">@lang('admin::app.cod.orders.status')</th>
+                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.assigned-to')</th>
                         <th class="p-4 font-semibold">@lang('admin::app.cod.orders.source')</th>
                         <th class="p-4 font-semibold">@lang('admin::app.cod.orders.date')</th>
                     </tr>
@@ -104,6 +117,30 @@
                                 <span class="whitespace-nowrap rounded-full bg-blue-100 px-2.5 py-1 text-xs font-semibold text-blue-800 dark:bg-blue-900 dark:text-blue-200">
                                     @lang('admin::app.cod.orders.statuses.'.$codOrder->status)
                                 </span>
+                            </td>
+
+                            <td class="p-4 text-gray-800 dark:text-white">
+                                @if ($canManageAssignment && $codOrder->status === 'pending_confirmation')
+                                    <form method="POST" action="{{ route('admin.cod.orders.assign', $codOrder) }}" class="flex items-center gap-2">
+                                        @csrf
+
+                                        <select name="confirmer_id" required class="rounded-lg border border-gray-200 bg-white px-2 py-1.5 text-xs text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
+                                            <option value="" disabled @selected(! $codOrder->assigned_to)>@lang('admin::app.cod.orders.choose-confirmer')</option>
+
+                                            @foreach ($confirmers as $confirmer)
+                                                <option value="{{ $confirmer->id }}" @selected($codOrder->assigned_to === $confirmer->id)>
+                                                    {{ $confirmer->name }}
+                                                </option>
+                                            @endforeach
+                                        </select>
+
+                                        <button type="submit" class="whitespace-nowrap rounded-lg bg-blue-600 px-2.5 py-1.5 text-xs font-semibold text-white hover:bg-blue-700">
+                                            @lang('admin::app.cod.orders.assign')
+                                        </button>
+                                    </form>
+                                @else
+                                    {{ $codOrder->assignedTo?->name ?? '—' }}
+                                @endif
                             </td>
 
                             <td class="p-4 text-gray-800 dark:text-white">

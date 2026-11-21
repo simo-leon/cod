@@ -4,6 +4,10 @@ namespace App\Providers;
 
 use App\Cod\Analytics\AnalyticsService;
 use App\Cod\Analytics\AnalyticsServiceInterface;
+use App\Cod\Confirmation\AssignmentService;
+use App\Cod\Confirmation\AssignmentServiceInterface;
+use App\Cod\Confirmation\CallLogService;
+use App\Cod\Confirmation\CallLogServiceInterface;
 use App\Cod\Confirmation\ConfirmationService;
 use App\Cod\Confirmation\ConfirmationServiceInterface;
 use App\Cod\Delivery\DeliveryService;
@@ -32,6 +36,10 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(OrderServiceInterface::class, OrderService::class);
 
         $this->app->singleton(ConfirmationServiceInterface::class, ConfirmationService::class);
+
+        $this->app->singleton(AssignmentServiceInterface::class, AssignmentService::class);
+
+        $this->app->singleton(CallLogServiceInterface::class, CallLogService::class);
 
         $this->app->singleton(WhatsAppServiceInterface::class, WhatsAppService::class);
 

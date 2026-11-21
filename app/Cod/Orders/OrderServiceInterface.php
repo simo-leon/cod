@@ -5,6 +5,7 @@ namespace App\Cod\Orders;
 use App\Models\CodOrder;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Webkul\Sales\Models\Order;
+use Webkul\User\Models\Admin;
 
 /**
  * Read-only order figures for the COD System, plus the phase 2 import
@@ -71,6 +72,19 @@ interface OrderServiceInterface
      * Imported COD orders, newest first, optionally filtered by status.
      */
     public function paginatedOrders(?string $status = null, int $perPage = 20): LengthAwarePaginator;
+
+    /**
+     * Orders assigned to one confirmer, newest first, optionally
+     * filtered by status. Used by the per-confirmer page.
+     */
+    public function paginatedOrdersForConfirmer(Admin $admin, ?string $status = null, int $perPage = 20): LengthAwarePaginator;
+
+    /**
+     * Confirmation tasks: assigned orders, pending confirmation first,
+     * then newest first. When a confirmer id is given, only that
+     * confirmer's tasks are returned; otherwise every assigned order.
+     */
+    public function paginatedTasks(?int $confirmerId = null, int $perPage = 20): LengthAwarePaginator;
 
     /**
      * Secret key of the COD import endpoint, from the admin settings

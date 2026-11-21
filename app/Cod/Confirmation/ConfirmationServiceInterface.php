@@ -7,8 +7,8 @@ namespace App\Cod\Confirmation;
  *
  * Phase 1 only exposes the settings that already exist in the admin
  * configuration (Admin → Configuration → General → COD System). The
- * confirmation queue, assignment and confirmation actions themselves
- * arrive in later phases.
+ * assignment itself lives in the AssignmentService (phase 3) and the
+ * call outcomes in the CallLogService (phase 3).
  */
 interface ConfirmationServiceInterface
 {
@@ -19,9 +19,9 @@ interface ConfirmationServiceInterface
     public function confirmerDailyLimit(): int;
 
     /**
-     * Whether orders are assigned to confirmers automatically.
-     * Config: general.cod_system.settings.auto_assignment (default false
-     * until phase 3, when automatic distribution is built).
+     * Whether orders are assigned to confirmers automatically on
+     * import. Config: general.cod_system.settings.auto_assignment
+     * (default false).
      */
     public function isAutoAssignmentEnabled(): bool;
 }

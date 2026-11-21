@@ -2,14 +2,22 @@
 
 namespace App\Cod\Orders;
 
+use App\Cod\Confirmation\AssignmentServiceInterface;
+use App\Cod\Confirmation\ConfirmationServiceInterface;
 use App\Models\CodOrder;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Schema;
 use Webkul\Sales\Models\Order;
+use Webkul\User\Models\Admin;
 
 class OrderService implements OrderServiceInterface
 {
+    public function __construct(
+        protected AssignmentServiceInterface $assignment,
+        protected ConfirmationServiceInterface $confirmation,
+    ) {}
+
     /**
      * Payment methods that count as cash on delivery.
      */
@@ -231,11 +239,54 @@ class OrderService implements OrderServiceInterface
         }
 
         return CodOrder::query()
-            ->with('order')
+            ->with(['order', 'assignedTo'])
             ->when(
                 $status && in_array($status, CodOrder::STATUSES, true),
                 fn ($query) => $query->where('status', $status),
             )
+            ->latest()
+            ->paginate($perPage)
+            ->withQueryString();
+    }
+
+    /**
+     * Orders assigned to one confirmer, newest first, optionally
+     * filtered by status. Used by the per-confirmer page.
+     */
+    public function paginatedOrdersForConfirmer(Admin $admin, ?string $status = null, int $perPage = 20): LengthAwarePaginator
+    {
+        if (! Schema::hasTable('cod_orders')) {
+            return new LengthAwarePaginator([], 0, $perPage);
+        }
+
+        return CodOrder::query()
+            ->with(['order', 'callLogs'])
+            ->where('assigned_to', $admin->id)
+            ->when(
+                $status && in_array($status, CodOrder::STATUSES, true),
+                fn ($query) => $query->where('status', $status),
+            )
+            ->latest()
+            ->paginate($perPage)
+            ->withQueryString();
+    }
+
+    /**
+     * Confirmation tasks: assigned orders, pending confirmation first,
+     * then newest first. When a confirmer id is given, only that
+     * confirmer's tasks are returned; otherwise every assigned order.
+     */
+    public function paginatedTasks(?int $confirmerId = null, int $perPage = 20): LengthAwarePaginator
+    {
+        if (! Schema::hasTable('cod_orders')) {
+            return new LengthAwarePaginator([], 0, $perPage);
+        }
+
+        return CodOrder::query()
+            ->with(['order', 'assignedTo', 'callLogs'])
+            ->whereNotNull('assigned_to')
+            ->when($confirmerId, fn ($query) => $query->where('assigned_to', $confirmerId))
+            ->orderByRaw("status = '".CodOrder::STATUS_PENDING_CONFIRMATION."' DESC")
             ->latest()
             ->paginate($perPage)
             ->withQueryString();
@@ -311,6 +362,22 @@ class OrderService implements OrderServiceInterface
         }
 
         $codOrder->save();
+
+        // Phase 3: when automatic assignment is enabled, a newly
+        // imported pending order is distributed to a confirmer right
+        // away. A failure here must never break the import.
+        if ($isNew && $codOrder->status === CodOrder::STATUS_PENDING_CONFIRMATION) {
+            try {
+                if ($this->confirmation->isAutoAssignmentEnabled()) {
+                    $this->assignment->assign($codOrder);
+                }
+            } catch (\Throwable $e) {
+                Log::warning('COD: auto-assignment failed on import', [
+                    'cod_order_id' => $codOrder->id,
+                    'error' => $e->getMessage(),
+                ]);
+            }
+        }
 
         return $codOrder;
     }

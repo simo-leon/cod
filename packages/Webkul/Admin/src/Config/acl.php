@@ -1250,11 +1250,13 @@ return [
     | COD System
     |--------------------------------------------------------------------------
     |
-    | All ACLs related to the COD System will be placed here. Only the
-    | dashboard route exists in phase 1 and is guarded by the parent `cod`
-    | key. The module keys below point at routes that do not exist yet;
-    | their pages arrive in later phases, and the Bouncer enforces them
-    | automatically once those routes are registered.
+    | All ACLs related to the COD System will be placed here. The
+    | dashboard, orders list, confirmation tasks, per-confirmer page
+    | and assignment rules pages exist (phases 1-3) and are guarded by
+    | their keys. The delivery and analytics keys point at routes that
+    | do not exist yet; their pages arrive in later phases, and the
+    | Bouncer enforces them automatically once those routes are
+    | registered.
     |
     */
     [
@@ -1270,8 +1272,13 @@ return [
     ], [
         'key' => 'cod.confirmation',
         'name' => 'admin::app.acl.cod-confirmation',
-        'route' => 'admin.cod.confirmation.index',
+        'route' => 'admin.cod.my-tasks.index',
         'sort' => 2,
+    ], [
+        'key' => 'cod.assignment',
+        'name' => 'admin::app.acl.cod-assignment',
+        'route' => 'admin.cod.assignment.index',
+        'sort' => 6,
     ], [
         'key' => 'cod.delivery',
         'name' => 'admin::app.acl.cod-delivery',

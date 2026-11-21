@@ -9,10 +9,11 @@ use Webkul\User\Models\Admin;
 use Webkul\User\Models\Role;
 
 /**
- * COD System roles and test admins (phase 1).
+ * COD System roles and test admins (phase 1, assignment in phase 3).
  *
  * Roles (permission_type "custom", permissions are Bagisto ACL keys):
- * - Confirmation Supervisor (مشرف تأكيد): every COD module except settings.
+ * - Confirmation Supervisor (مشرف تأكيد): every COD module except settings,
+ *   plus `cod.assignment` to manage the distribution rules (phase 3).
  * - Confirmer (مؤكِّد): COD dashboard, orders and confirmation only.
  * - Delivery Manager (مسؤول توصيل): COD dashboard, orders and delivery only.
  *
@@ -48,6 +49,7 @@ class CodRolesSeeder extends Seeder
                     'cod',
                     'cod.orders',
                     'cod.confirmation',
+                    'cod.assignment',
                     'cod.delivery',
                     'cod.analytics',
                 ],

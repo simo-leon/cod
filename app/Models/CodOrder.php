@@ -4,7 +4,9 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 use Webkul\Sales\Models\Order;
+use Webkul\User\Models\Admin;
 
 /**
  * One store order imported into the COD System.
@@ -58,10 +60,29 @@ class CodOrder extends Model
     protected $casts = [
         'grand_total' => 'decimal:2',
         'payload' => 'array',
+        'assigned_at' => 'datetime',
+        'callback_at' => 'datetime',
+        'confirmation_attempts' => 'integer',
     ];
 
     public function order(): BelongsTo
     {
         return $this->belongsTo(Order::class);
+    }
+
+    /**
+     * The confirmer this order is assigned to (phase 3), if any.
+     */
+    public function assignedTo(): BelongsTo
+    {
+        return $this->belongsTo(Admin::class, 'assigned_to');
+    }
+
+    /**
+     * Confirmation calls logged for this order, newest first.
+     */
+    public function callLogs(): HasMany
+    {
+        return $this->hasMany(CodCallLog::class)->latest('called_at');
     }
 }

@@ -418,5 +418,17 @@ return [
         'route' => 'admin.cod.orders.index',
         'sort' => 1,
         'icon' => '',
+    ], [
+        'key' => 'cod.confirmation',
+        'name' => 'admin::app.components.layouts.sidebar.cod-my-tasks',
+        'route' => 'admin.cod.my-tasks.index',
+        'sort' => 2,
+        'icon' => '',
+    ], [
+        'key' => 'cod.assignment',
+        'name' => 'admin::app.components.layouts.sidebar.cod-assignment',
+        'route' => 'admin.cod.assignment.index',
+        'sort' => 3,
+        'icon' => '',
     ],
 ];

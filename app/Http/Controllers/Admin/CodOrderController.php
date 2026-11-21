@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Admin;
 
+use App\Cod\Confirmation\AssignmentServiceInterface;
 use App\Cod\Orders\OrderServiceInterface;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
@@ -11,6 +12,7 @@ class CodOrderController extends Controller
 {
     public function __construct(
         protected OrderServiceInterface $orders,
+        protected AssignmentServiceInterface $assignment,
     ) {}
 
     /**
@@ -19,7 +21,8 @@ class CodOrderController extends Controller
      * Guarded by the `cod.orders` ACL key on the route
      * (admin.cod.orders.index) and again here, so an admin without the
      * permission gets a 403 instead of the page. Each row links to the
-     * original store order in the admin.
+     * original store order in the admin. The supervisor can also assign
+     * orders manually and distribute the unassigned ones from here.
      */
     public function index(Request $request): View
     {
@@ -37,6 +40,9 @@ class CodOrderController extends Controller
             'statusCounts' => $this->orders->statusCounts(),
             'status' => $status,
             'dashboardUrl' => route('admin.cod.index'),
+            'confirmers' => $this->assignment->confirmers(),
+            'canManageAssignment' => bouncer()->hasPermission('cod.assignment'),
+            'unassignedCount' => $this->assignment->unassignedCount(),
         ]);
     }
 }

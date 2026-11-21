@@ -15,6 +15,16 @@
         </div>
 
         <div class="flex gap-2">
+            <a href="{{ $myTasksUrl }}" class="secondary-button">
+                @lang('admin::app.cod.index.view-my-tasks')
+            </a>
+
+            @if ($canManageAssignment)
+                <a href="{{ $assignmentUrl }}" class="secondary-button">
+                    @lang('admin::app.cod.index.manage-assignment')
+                </a>
+            @endif
+
             <a href="{{ $ordersUrl }}" class="secondary-button">
                 @lang('admin::app.cod.index.view-orders')
             </a>
@@ -93,6 +103,53 @@
                 @endforeach
             </tbody>
         </table>
+    </div>
+
+    <!-- Confirmer rates (phase 3) -->
+    <div class="mt-8 rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
+        <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
+            @lang('admin::app.cod.index.confirmer-rates-title')
+        </p>
+
+        @if (empty($confirmerRates))
+            <p class="p-4 text-sm text-gray-600 dark:text-gray-300">
+                @lang('admin::app.cod.index.no-confirmers')
+            </p>
+        @else
+            <table class="w-full text-left text-sm">
+                <thead>
+                    <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
+                        <th class="p-4 font-semibold">@lang('admin::app.cod.index.confirmer')</th>
+                        <th class="p-4 font-semibold">@lang('admin::app.cod.index.assigned')</th>
+                        <th class="p-4 font-semibold">@lang('admin::app.cod.index.confirmed')</th>
+                        <th class="p-4 font-semibold">@lang('admin::app.cod.index.confirmation-rate')</th>
+                        <th class="p-4 font-semibold">@lang('admin::app.cod.index.delivered')</th>
+                        <th class="p-4 font-semibold">@lang('admin::app.cod.index.delivery-rate')</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach ($confirmerRates as $rate)
+                        <tr class="border-b border-gray-100 last:border-0 dark:border-gray-800">
+                            <td class="p-4">
+                                <a
+                                    href="{{ route('admin.cod.confirmers.show', $rate['admin']) }}"
+                                    class="font-semibold text-blue-600 hover:underline dark:text-blue-400"
+                                >
+                                    {{ $rate['admin']->name }}
+                                </a>
+                            </td>
+
+                            <td class="p-4 text-gray-800 dark:text-white">{{ $rate['assigned'] }}</td>
+                            <td class="p-4 text-gray-800 dark:text-white">{{ $rate['confirmed'] }}</td>
+                            <td class="p-4 font-semibold text-gray-800 dark:text-white">{{ is_null($rate['confirmation_rate']) ? '—' : $rate['confirmation_rate'].'%' }}</td>
+                            <td class="p-4 text-gray-800 dark:text-white">{{ $rate['delivered'] }}</td>
+                            <td class="p-4 font-semibold text-gray-800 dark:text-white">{{ is_null($rate['delivery_rate']) ? '—' : $rate['delivery_rate'].'%' }}</td>
+                        </tr>
+                    @endforeach
+                </tbody>
+            </table>
+        @endif
     </div>
 
     <!-- Current COD settings -->
