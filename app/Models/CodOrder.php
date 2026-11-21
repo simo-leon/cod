@@ -63,6 +63,9 @@ class CodOrder extends Model
         'assigned_at' => 'datetime',
         'callback_at' => 'datetime',
         'confirmation_attempts' => 'integer',
+        'confirmation_sent_at' => 'datetime',
+        'reminder_sent_at' => 'datetime',
+        'last_reply_at' => 'datetime',
     ];
 
     public function order(): BelongsTo
@@ -84,5 +87,14 @@ class CodOrder extends Model
     public function callLogs(): HasMany
     {
         return $this->hasMany(CodCallLog::class)->latest('called_at');
+    }
+
+    /**
+     * WhatsApp messages sent to / received from the customer for this
+     * order (phase 4), newest first.
+     */
+    public function whatsappMessages(): HasMany
+    {
+        return $this->hasMany(CodWhatsAppMessage::class)->latest();
     }
 }

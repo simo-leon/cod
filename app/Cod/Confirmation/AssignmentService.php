@@ -2,6 +2,7 @@
 
 namespace App\Cod\Confirmation;
 
+use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Models\CodAssignmentRule;
 use App\Models\CodOrder;
 use Illuminate\Database\Eloquent\Collection;
@@ -14,6 +15,7 @@ class AssignmentService implements AssignmentServiceInterface
 {
     public function __construct(
         protected ConfirmationServiceInterface $confirmation,
+        protected WhatsAppServiceInterface $whatsapp,
     ) {}
 
     /**
@@ -198,7 +200,7 @@ class AssignmentService implements AssignmentServiceInterface
         }
 
         try {
-            return DB::transaction(function () use ($order) {
+            $confirmer = DB::transaction(function () use ($order) {
                 $confirmer = $this->pickByProductRule($order) ?? $this->pickByPercentage();
 
                 if (! $confirmer) {
@@ -211,6 +213,15 @@ class AssignmentService implements AssignmentServiceInterface
 
                 return $confirmer;
             });
+
+            // Phase 4: the customer gets the WhatsApp confirmation
+            // message as soon as a confirmer takes the order. Sending
+            // never throws and never re-sends (confirmation_sent_at).
+            if ($confirmer) {
+                $this->whatsapp->sendConfirmation($order);
+            }
+
+            return $confirmer;
         } catch (\Throwable $e) {
             Log::warning('COD: failed to assign order', [
                 'cod_order_id' => $order->id,
@@ -267,6 +278,9 @@ class AssignmentService implements AssignmentServiceInterface
         $order->assigned_to = $admin->id;
         $order->assigned_at = now();
         $order->save();
+
+        // Phase 4: same confirmation message as automatic assignment.
+        $this->whatsapp->sendConfirmation($order);
 
         return true;
     }

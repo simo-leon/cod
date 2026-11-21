@@ -47,3 +47,11 @@ Schedule::command('bagisto:sitemap:generate')->dailyAt('02:00');
  * repeated run never creates duplicates.
  */
 Schedule::command('cod:import-orders')->hourly();
+
+/**
+ * COD System (phase 4): remind customers whose order is still waiting
+ * for confirmation. Runs every 15 minutes; the command itself only
+ * reminds orders whose confirmation was sent at least
+ * `reminder_delay_minutes` (default 120) ago, and only once per order.
+ */
+Schedule::command('cod:remind-unconfirmed')->everyFifteenMinutes();

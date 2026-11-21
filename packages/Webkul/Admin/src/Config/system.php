@@ -782,6 +782,135 @@ return [
                 'channel_based' => true,
             ],
         ],
+    ], [
+
+        /**
+         * COD System — WhatsApp (phase 4).
+         *
+         * Provider choice: Meta (official WhatsApp Cloud API, for
+         * production) or Evolution API (unofficial, FOR TESTING ONLY —
+         * it violates WhatsApp's terms and the number can be banned;
+         * see the evolution-warning info text, the provider docblocks
+         * and docs/evolution-api-local-setup.md). Tokens are password
+         * fields stored only in core_config, never hard-coded.
+         */
+        'key' => 'general.cod_system.whatsapp',
+        'name' => 'admin::app.configuration.index.general.cod-system.whatsapp.title',
+        'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.title-info',
+        'sort' => 2,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.status',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.status-info',
+                'type' => 'boolean',
+                'default' => false,
+                'channel_based' => true,
+            ], [
+                'name' => 'provider',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.provider',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.provider-info',
+                'type' => 'select',
+                'default' => 'none',
+                'options' => [
+                    [
+                        'title' => 'None (log only, no message is sent)',
+                        'value' => 'none',
+                    ], [
+                        'title' => 'Meta — WhatsApp Cloud API (official, production)',
+                        'value' => 'meta',
+                    ], [
+                        'title' => 'Evolution API (TEST ONLY — unofficial, number can be banned)',
+                        'value' => 'evolution',
+                    ],
+                ],
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_access_token',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-access-token',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-access-token-info',
+                'type' => 'password',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_phone_number_id',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-phone-number-id',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-phone-number-id-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_business_id',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-business-id',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-business-id-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_template_name',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-template-name-info',
+                'type' => 'text',
+                'default' => 'cod_order_confirmation',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_template_language',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-template-language',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-template-language-info',
+                'type' => 'text',
+                'default' => 'ar',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_app_secret',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-app-secret',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-app-secret-info',
+                'type' => 'password',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_verify_token',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-verify-token',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-verify-token-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'evolution_base_url',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-base-url',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-base-url-info',
+                'type' => 'text',
+                'default' => 'http://localhost:8080',
+                'channel_based' => true,
+            ], [
+                'name' => 'evolution_api_key',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-api-key',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-api-key-info',
+                'type' => 'password',
+                'channel_based' => true,
+            ], [
+                'name' => 'evolution_instance',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-instance',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-instance-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'confirmation_message',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.confirmation-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.confirmation-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم {name}، معك {store}. بغيت نأكد معك الطلب ديالك رقم {order_id}: {products} — المجموع {total}. واش نأكدو؟',
+                'channel_based' => true,
+            ], [
+                'name' => 'reminder_message',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.reminder-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.reminder-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم {name}، ما زال الطلب ديالك رقم {order_id} ({total}) بلا تأكيد. واش نأكدو؟',
+                'channel_based' => true,
+            ], [
+                'name' => 'reminder_delay_minutes',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.reminder-delay-minutes',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.reminder-delay-minutes-info',
+                'type' => 'number',
+                'default' => 120,
+                'channel_based' => true,
+            ],
+        ],
     ],
 
     /**

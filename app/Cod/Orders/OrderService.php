@@ -4,6 +4,7 @@ namespace App\Cod\Orders;
 
 use App\Cod\Confirmation\AssignmentServiceInterface;
 use App\Cod\Confirmation\ConfirmationServiceInterface;
+use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Models\CodOrder;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Facades\Log;
@@ -16,6 +17,7 @@ class OrderService implements OrderServiceInterface
     public function __construct(
         protected AssignmentServiceInterface $assignment,
         protected ConfirmationServiceInterface $confirmation,
+        protected WhatsAppServiceInterface $whatsapp,
     ) {}
 
     /**
@@ -376,6 +378,22 @@ class OrderService implements OrderServiceInterface
                     'cod_order_id' => $codOrder->id,
                     'error' => $e->getMessage(),
                 ]);
+            }
+
+            // Phase 4: when the order could not be assigned (automatic
+            // assignment off, or no confirmer available), the customer
+            // still gets the WhatsApp confirmation message right away.
+            // When assignment did happen, AssignmentService already
+            // sent it — sendConfirmation() refuses to send twice.
+            if (! $codOrder->assigned_to) {
+                try {
+                    $this->whatsapp->sendConfirmation($codOrder);
+                } catch (\Throwable $e) {
+                    Log::warning('COD: confirmation message failed on import', [
+                        'cod_order_id' => $codOrder->id,
+                        'error' => $e->getMessage(),
+                    ]);
+                }
             }
         }
 
