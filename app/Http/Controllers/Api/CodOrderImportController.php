@@ -25,9 +25,15 @@ use Illuminate\Http\Request;
  *   "city": "…", "address": "…",
  *   "grand_total": 240, "currency_code": "MAD",
  *   "items_count": 2, "status": "pending_confirmation",
+ *   "items": [{"sku": "JEMLA-W8-ULTRA-MAX", "name": "…", "qty": 1}],
  *   "order_id": 123                   // optional: local store order id
  * }
  * `increment_id` is accepted as an alias for `external_id`.
+ *
+ * `items` are stored in the COD record payload: the product-distribution
+ * rules read the SKUs from them (AssignmentService::orderSkus). An item
+ * without a SKU is kept but ignored by the distribution. `qty` and
+ * `quantity` are accepted as aliases for the item quantity.
  *
  * The import is idempotent: sending the same external_id twice updates
  * the single COD record instead of creating a duplicate.
@@ -59,6 +65,11 @@ class CodOrderImportController extends Controller
             'grand_total' => 'nullable|numeric|min:0',
             'currency_code' => 'nullable|string|size:3',
             'items_count' => 'nullable|integer|min:0',
+            'items' => 'nullable|array',
+            'items.*.sku' => 'nullable|string|max:255',
+            'items.*.name' => 'nullable|string|max:255',
+            'items.*.qty' => 'nullable|integer|min:1',
+            'items.*.quantity' => 'nullable|integer|min:1',
             'status' => 'nullable|string|max:50',
         ]);
 
