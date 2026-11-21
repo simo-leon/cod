@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Admin\CodDashboardController;
 use App\Http\Controllers\Admin\DeliveryProviderController;
 use Illuminate\Support\Facades\Route;
 use Webkul\Core\Http\Middleware\NoCacheMiddleware;
@@ -14,4 +15,10 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
 
     Route::post('sales/orders/{id}/send-to-delivery', [DeliveryProviderController::class, 'sendParcel'])
         ->name('admin.sales.orders.send-to-delivery');
+
+    /**
+     * COD System dashboard (phase 1). Guarded by the `cod` ACL key.
+     */
+    Route::get('cod', [CodDashboardController::class, 'index'])
+        ->name('admin.cod.index');
 });

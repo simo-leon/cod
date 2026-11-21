@@ -402,4 +402,15 @@ return [
         'sort' => 9,
         'icon' => 'icon-configuration',
     ],
+
+    /**
+     * COD System.
+     */
+    [
+        'key' => 'cod',
+        'name' => 'admin::app.components.layouts.sidebar.cod-system',
+        'route' => 'admin.cod.index',
+        'sort' => 10,
+        'icon' => 'icon-sales',
+    ],
 ];

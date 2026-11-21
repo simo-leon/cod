@@ -211,6 +211,40 @@ return [
         ],
     ],
 
+    'cod' => [
+        'index' => [
+            'title' => ':name',
+            'subtitle' => 'أساس نظام الدفع عند الاستلام: حالة الوحدات وأرقام حقيقية من قاعدة البيانات.',
+            'settings' => 'إعدادات COD',
+            'orders' => 'الطلبات',
+            'pending-confirmation' => 'بانتظار التأكيد',
+            'today-orders' => 'طلبات اليوم',
+            'parcels' => 'الطرود',
+            'parcels-table-missing' => 'جدول delivery_parcels غير موجود — شغّل php artisan migrate',
+            'modules-title' => 'الوحدات',
+            'module' => 'الوحدة',
+            'status' => 'الحالة',
+
+            'modules' => [
+                'orders' => 'الطلبات',
+                'confirmation' => 'التأكيد',
+                'whatsapp' => 'واتساب',
+                'delivery' => 'التوصيل',
+                'analytics' => 'التحليلات',
+            ],
+
+            'status-ready' => 'جاهز',
+            'status-configured' => 'مُعد',
+            'status-not-configured' => 'غير مُعد',
+            'current-settings' => 'الإعدادات الحالية',
+            'daily-limit' => 'الحد الأقصى اليومي للطلبات لكل مؤكِّد: :limit',
+            'auto-assignment' => 'التوزيع التلقائي: :value',
+            'delivery-provider' => 'شركة التوصيل الافتراضية: :provider',
+            'yes' => 'نعم',
+            'no' => 'لا',
+        ],
+    ],
+
     'sales' => [
         'orders' => [
             'index' => [
@@ -4417,6 +4451,21 @@ return [
                         'try-product-info' => 'أرسل 1 للسماح للزبون بتجربة المنتج عند الاستلام، و0 في غير ذلك.',
                     ],
                 ],
+
+                'cod-system' => [
+                    'title' => 'نظام COD',
+                    'info' => 'الإعدادات العامة لنظام COD: اسم النظام، والحد الأقصى اليومي للطلبات لكل مؤكِّد، والتوزيع التلقائي.',
+
+                    'settings' => [
+                        'title' => 'إعدادات نظام COD',
+                        'title-info' => 'هذه الإعدادات تنطبق على هذه القناة فقط.',
+                        'system-name' => 'اسم النظام',
+                        'confirmer-daily-limit' => 'الحد الأقصى اليومي للطلبات لكل مؤكِّد',
+                        'confirmer-daily-limit-info' => 'أقصى عدد من الطلبات يمكن لمؤكِّد واحد معالجته في اليوم.',
+                        'auto-assignment' => 'تفعيل التوزيع التلقائي',
+                        'auto-assignment-info' => 'توزيع الطلبات الجديدة على المؤكِّدين تلقائياً. اتركه معطلاً حتى المرحلة 3 التي ستبني التوزيع التلقائي.',
+                    ],
+                ],
             ],
 
             'magic-ai' => [
@@ -5402,6 +5451,7 @@ return [
                 'categories' => 'الفئات',
                 'channels' => 'القنوات',
                 'cms' => 'نظام إدارة المحتوى',
+                'cod-system' => 'نظام COD',
                 'collapse' => 'طي',
                 'communications' => 'الاتصالات',
                 'configure' => 'تكوين',
@@ -5648,6 +5698,12 @@ return [
         'categories' => 'التصنيفات',
         'channels' => 'القنوات',
         'cms' => 'إدارة المحتوى',
+        'cod-analytics' => 'تحليلات COD',
+        'cod-confirmation' => 'تأكيد COD',
+        'cod-delivery' => 'توصيل COD',
+        'cod-orders' => 'طلبات COD',
+        'cod-settings' => 'إعدادات COD',
+        'cod-system' => 'نظام COD',
         'communications' => 'الاتصالات',
         'configure' => 'تكوين',
         'copy' => 'نسخ',

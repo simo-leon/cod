@@ -211,6 +211,40 @@ return [
         ],
     ],
 
+    'cod' => [
+        'index' => [
+            'title' => ':name',
+            'subtitle' => 'Foundation of the cash-on-delivery system: module status and real figures from the database.',
+            'settings' => 'COD Settings',
+            'orders' => 'Orders',
+            'pending-confirmation' => 'Pending Confirmation',
+            'today-orders' => 'Today\'s Orders',
+            'parcels' => 'Parcels',
+            'parcels-table-missing' => 'delivery_parcels table missing — run php artisan migrate',
+            'modules-title' => 'Modules',
+            'module' => 'Module',
+            'status' => 'Status',
+
+            'modules' => [
+                'orders' => 'Orders',
+                'confirmation' => 'Confirmation',
+                'whatsapp' => 'WhatsApp',
+                'delivery' => 'Delivery',
+                'analytics' => 'Analytics',
+            ],
+
+            'status-ready' => 'Ready',
+            'status-configured' => 'Configured',
+            'status-not-configured' => 'Not Configured',
+            'current-settings' => 'Current Settings',
+            'daily-limit' => 'Maximum daily orders per confirmer: :limit',
+            'auto-assignment' => 'Automatic assignment: :value',
+            'delivery-provider' => 'Default delivery provider: :provider',
+            'yes' => 'Yes',
+            'no' => 'No',
+        ],
+    ],
+
     'sales' => [
         'orders' => [
             'index' => [
@@ -4375,6 +4409,21 @@ return [
                         'try-product-info' => 'Send 1 to allow the customer to try the product on delivery, 0 otherwise.',
                     ],
                 ],
+
+                'cod-system' => [
+                    'title' => 'COD System',
+                    'info' => 'General settings of the COD System: system name, confirmer daily limit and automatic assignment.',
+
+                    'settings' => [
+                        'title' => 'COD System Settings',
+                        'title-info' => 'These settings apply to this channel only.',
+                        'system-name' => 'System Name',
+                        'confirmer-daily-limit' => 'Maximum Daily Orders per Confirmer',
+                        'confirmer-daily-limit-info' => 'Maximum number of orders one confirmer may handle per day.',
+                        'auto-assignment' => 'Enable Automatic Assignment',
+                        'auto-assignment-info' => 'Automatically assign new orders to confirmers. Keep disabled until phase 3 builds automatic distribution.',
+                    ],
+                ],
             ],
 
             'magic-ai' => [
@@ -5360,6 +5409,7 @@ return [
                 'categories' => 'Kategori',
                 'channels' => 'Saluran',
                 'cms' => 'CMS',
+                'cod-system' => 'COD System',
                 'collapse' => 'Tutup/Perkecil',
                 'communications' => 'Komunikasi',
                 'configure' => 'Konfigurasi',
@@ -5606,6 +5656,12 @@ return [
         'categories' => 'Kategori',
         'channels' => 'Saluran',
         'cms' => 'CMS',
+        'cod-analytics' => 'COD Analytics',
+        'cod-confirmation' => 'COD Confirmation',
+        'cod-delivery' => 'COD Delivery',
+        'cod-orders' => 'COD Orders',
+        'cod-settings' => 'COD Settings',
+        'cod-system' => 'COD System',
         'communications' => 'Komunikasi',
         'configure' => 'Konfigurasi',
         'copy' => 'Salin',

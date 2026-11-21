@@ -211,6 +211,40 @@ return [
         ],
     ],
 
+    'cod' => [
+        'index' => [
+            'title' => ':name',
+            'subtitle' => 'Fondation du système de paiement à la livraison : état des modules et chiffres réels de la base de données.',
+            'settings' => 'Paramètres COD',
+            'orders' => 'Commandes',
+            'pending-confirmation' => 'En attente de confirmation',
+            'today-orders' => 'Commandes du jour',
+            'parcels' => 'Colis',
+            'parcels-table-missing' => 'Table delivery_parcels manquante — exécuter php artisan migrate',
+            'modules-title' => 'Modules',
+            'module' => 'Module',
+            'status' => 'Statut',
+
+            'modules' => [
+                'orders' => 'Commandes',
+                'confirmation' => 'Confirmation',
+                'whatsapp' => 'WhatsApp',
+                'delivery' => 'Livraison',
+                'analytics' => 'Analytique',
+            ],
+
+            'status-ready' => 'Prêt',
+            'status-configured' => 'Configuré',
+            'status-not-configured' => 'Non configuré',
+            'current-settings' => 'Paramètres actuels',
+            'daily-limit' => 'Nombre maximum de commandes par jour et par confirmateur : :limit',
+            'auto-assignment' => 'Affectation automatique : :value',
+            'delivery-provider' => 'Transporteur par défaut : :provider',
+            'yes' => 'Oui',
+            'no' => 'Non',
+        ],
+    ],
+
     'sales' => [
         'orders' => [
             'index' => [
@@ -4375,6 +4409,21 @@ return [
                         'try-product-info' => 'Envoyez 1 pour autoriser le client à essayer le produit à la livraison, 0 sinon.',
                     ],
                 ],
+
+                'cod-system' => [
+                    'title' => 'Système COD',
+                    'info' => 'Paramètres généraux du système COD : nom du système, limite quotidienne par confirmateur et affectation automatique.',
+
+                    'settings' => [
+                        'title' => 'Paramètres du système COD',
+                        'title-info' => 'Ces paramètres s’appliquent uniquement à ce canal.',
+                        'system-name' => 'Nom du système',
+                        'confirmer-daily-limit' => 'Nombre maximum de commandes par jour et par confirmateur',
+                        'confirmer-daily-limit-info' => 'Nombre maximum de commandes qu’un confirmateur peut traiter par jour.',
+                        'auto-assignment' => 'Activer l’affectation automatique',
+                        'auto-assignment-info' => 'Affecter automatiquement les nouvelles commandes aux confirmateurs. Laisser désactivé jusqu’à la phase 3, qui construira la distribution automatique.',
+                    ],
+                ],
             ],
 
             'magic-ai' => [
@@ -5360,6 +5409,7 @@ return [
                 'categories' => 'Catégories',
                 'channels' => 'Canaux',
                 'cms' => 'CMS',
+                'cod-system' => 'Système COD',
                 'collapse' => 'Réduire',
                 'communications' => 'Communications',
                 'configure' => 'Configurer',
@@ -5606,6 +5656,12 @@ return [
         'categories' => 'Catégories',
         'channels' => 'Canaux',
         'cms' => 'CMS',
+        'cod-analytics' => 'Analytique COD',
+        'cod-confirmation' => 'Confirmation COD',
+        'cod-delivery' => 'Livraison COD',
+        'cod-orders' => 'Commandes COD',
+        'cod-settings' => 'Paramètres COD',
+        'cod-system' => 'Système COD',
         'communications' => 'Communications',
         'configure' => 'Configurer',
         'copy' => 'Copier',

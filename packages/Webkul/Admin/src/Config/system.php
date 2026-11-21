@@ -724,6 +724,44 @@ return [
                 'channel_based' => true,
             ],
         ],
+    ], [
+
+        /**
+         * COD System.
+         */
+        'key' => 'general.cod_system',
+        'name' => 'admin::app.configuration.index.general.cod-system.title',
+        'info' => 'admin::app.configuration.index.general.cod-system.info',
+        'icon' => 'settings/shipping.svg',
+        'sort' => 9,
+    ], [
+        'key' => 'general.cod_system.settings',
+        'name' => 'admin::app.configuration.index.general.cod-system.settings.title',
+        'info' => 'admin::app.configuration.index.general.cod-system.settings.title-info',
+        'sort' => 1,
+        'fields' => [
+            [
+                'name' => 'system_name',
+                'title' => 'admin::app.configuration.index.general.cod-system.settings.system-name',
+                'type' => 'text',
+                'default' => 'COD System',
+                'channel_based' => true,
+            ], [
+                'name' => 'confirmer_daily_limit',
+                'title' => 'admin::app.configuration.index.general.cod-system.settings.confirmer-daily-limit',
+                'info' => 'admin::app.configuration.index.general.cod-system.settings.confirmer-daily-limit-info',
+                'type' => 'number',
+                'default' => 50,
+                'channel_based' => true,
+            ], [
+                'name' => 'auto_assignment',
+                'title' => 'admin::app.configuration.index.general.cod-system.settings.auto-assignment',
+                'info' => 'admin::app.configuration.index.general.cod-system.settings.auto-assignment-info',
+                'type' => 'boolean',
+                'default' => false,
+                'channel_based' => true,
+            ],
+        ],
     ],
 
     /**

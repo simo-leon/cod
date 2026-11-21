@@ -1,6 +1,7 @@
 <?php
 
 use App\Providers\AppServiceProvider;
+use App\Providers\CodServiceProvider;
 use Webkul\Admin\Providers\AdminServiceProvider;
 use Webkul\Attribute\Providers\AttributeServiceProvider;
 use Webkul\BookingProduct\Providers\BookingProductServiceProvider;
@@ -48,6 +49,11 @@ return [
      * Application service providers.
      */
     AppServiceProvider::class,
+
+    /**
+     * COD System service provider.
+     */
+    CodServiceProvider::class,
 
     /**
      * Webkul's service providers.

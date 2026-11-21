@@ -1244,4 +1244,48 @@ return [
         ],
         'sort' => 9,
     ],
+
+    /*
+    |--------------------------------------------------------------------------
+    | COD System
+    |--------------------------------------------------------------------------
+    |
+    | All ACLs related to the COD System will be placed here. Only the
+    | dashboard route exists in phase 1 and is guarded by the parent `cod`
+    | key. The module keys below point at routes that do not exist yet;
+    | their pages arrive in later phases, and the Bouncer enforces them
+    | automatically once those routes are registered.
+    |
+    */
+    [
+        'key' => 'cod',
+        'name' => 'admin::app.acl.cod-system',
+        'route' => 'admin.cod.index',
+        'sort' => 10,
+    ], [
+        'key' => 'cod.orders',
+        'name' => 'admin::app.acl.cod-orders',
+        'route' => 'admin.cod.orders.index',
+        'sort' => 1,
+    ], [
+        'key' => 'cod.confirmation',
+        'name' => 'admin::app.acl.cod-confirmation',
+        'route' => 'admin.cod.confirmation.index',
+        'sort' => 2,
+    ], [
+        'key' => 'cod.delivery',
+        'name' => 'admin::app.acl.cod-delivery',
+        'route' => 'admin.cod.delivery.index',
+        'sort' => 3,
+    ], [
+        'key' => 'cod.analytics',
+        'name' => 'admin::app.acl.cod-analytics',
+        'route' => 'admin.cod.analytics.index',
+        'sort' => 4,
+    ], [
+        'key' => 'cod.settings',
+        'name' => 'admin::app.acl.cod-settings',
+        'route' => 'admin.cod.settings.index',
+        'sort' => 5,
+    ],
 ];
