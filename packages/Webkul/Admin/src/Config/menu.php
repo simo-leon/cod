@@ -412,5 +412,11 @@ return [
         'route' => 'admin.cod.index',
         'sort' => 10,
         'icon' => 'icon-sales',
+    ], [
+        'key' => 'cod.orders',
+        'name' => 'admin::app.components.layouts.sidebar.cod-orders',
+        'route' => 'admin.cod.orders.index',
+        'sort' => 1,
+        'icon' => '',
     ],
 ];

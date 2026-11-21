@@ -145,58 +145,49 @@ class OrderDataGrid extends DataGrid
             ],
             'sortable' => true,
             'closure' => function ($row) {
-                switch ($row->status) {
-                    case Order::STATUS_PENDING_CONFIRMATION:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-yellow-500">'.trans('admin::app.sales.orders.index.datagrid.pending-confirmation').'</p>';
+                $statusColors = [
+                    Order::STATUS_PENDING_CONFIRMATION => 'bg-yellow-500',
+                    Order::STATUS_CONFIRMED => 'bg-blue-600',
+                    Order::STATUS_CALL_1_FAILED => 'bg-amber-500',
+                    Order::STATUS_CALL_2_FAILED => 'bg-orange-600',
+                    Order::STATUS_CALL_3_FAILED => 'bg-red-600',
+                    Order::STATUS_OUT_FOR_DELIVERY => 'bg-purple-600',
+                    Order::STATUS_DELIVERED => 'bg-teal-600',
+                    Order::STATUS_PAID => 'bg-emerald-600',
+                    Order::STATUS_RETURNED => 'bg-rose-700',
+                    Order::STATUS_PROCESSING => 'bg-cyan-600',
+                    Order::STATUS_COMPLETED => 'bg-green-600',
+                    Order::STATUS_CANCELED => 'bg-stone-500',
+                    Order::STATUS_CLOSED => 'bg-slate-600',
+                    Order::STATUS_PENDING => 'bg-sky-500',
+                    Order::STATUS_PENDING_PAYMENT => 'bg-pink-600',
+                    Order::STATUS_FRAUD => 'bg-red-800',
+                ];
 
-                    case Order::STATUS_CONFIRMED:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-blue-600">'.trans('admin::app.sales.orders.index.datagrid.confirmed').'</p>';
+                $statusLabels = [
+                    Order::STATUS_PENDING_CONFIRMATION => trans('admin::app.sales.orders.index.datagrid.pending-confirmation'),
+                    Order::STATUS_CONFIRMED => trans('admin::app.sales.orders.index.datagrid.confirmed'),
+                    Order::STATUS_CALL_1_FAILED => trans('admin::app.sales.orders.index.datagrid.call-1-failed'),
+                    Order::STATUS_CALL_2_FAILED => trans('admin::app.sales.orders.index.datagrid.call-2-failed'),
+                    Order::STATUS_CALL_3_FAILED => trans('admin::app.sales.orders.index.datagrid.call-3-failed'),
+                    Order::STATUS_OUT_FOR_DELIVERY => trans('admin::app.sales.orders.index.datagrid.out-for-delivery'),
+                    Order::STATUS_DELIVERED => trans('admin::app.sales.orders.index.datagrid.delivered'),
+                    Order::STATUS_PAID => trans('admin::app.sales.orders.index.datagrid.paid'),
+                    Order::STATUS_RETURNED => trans('admin::app.sales.orders.index.datagrid.returned'),
+                    Order::STATUS_PROCESSING => trans('admin::app.sales.orders.index.datagrid.processing'),
+                    Order::STATUS_COMPLETED => trans('admin::app.sales.orders.index.datagrid.completed'),
+                    Order::STATUS_CANCELED => trans('admin::app.sales.orders.index.datagrid.canceled'),
+                    Order::STATUS_CLOSED => trans('admin::app.sales.orders.index.datagrid.closed'),
+                    Order::STATUS_PENDING => trans('admin::app.sales.orders.index.datagrid.pending'),
+                    Order::STATUS_PENDING_PAYMENT => trans('admin::app.sales.orders.index.datagrid.pending-payment'),
+                    Order::STATUS_FRAUD => trans('admin::app.sales.orders.index.datagrid.fraud'),
+                ];
 
-                    case Order::STATUS_CALL_1_FAILED:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-amber-500">'.trans('admin::app.sales.orders.index.datagrid.call-1-failed').'</p>';
+                $color = $statusColors[$row->status] ?? 'bg-gray-500';
 
-                    case Order::STATUS_CALL_2_FAILED:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-orange-600">'.trans('admin::app.sales.orders.index.datagrid.call-2-failed').'</p>';
+                $label = $statusLabels[$row->status] ?? $row->status;
 
-                    case Order::STATUS_CALL_3_FAILED:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-red-600">'.trans('admin::app.sales.orders.index.datagrid.call-3-failed').'</p>';
-
-                    case Order::STATUS_OUT_FOR_DELIVERY:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-purple-600">'.trans('admin::app.sales.orders.index.datagrid.out-for-delivery').'</p>';
-
-                    case Order::STATUS_DELIVERED:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-teal-600">'.trans('admin::app.sales.orders.index.datagrid.delivered').'</p>';
-
-                    case Order::STATUS_PAID:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-emerald-600">'.trans('admin::app.sales.orders.index.datagrid.paid').'</p>';
-
-                    case Order::STATUS_RETURNED:
-                        return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] bg-rose-700">'.trans('admin::app.sales.orders.index.datagrid.returned').'</p>';
-
-                    case Order::STATUS_PROCESSING:
-                        return '<p class="label-processing">'.trans('admin::app.sales.orders.index.datagrid.processing').'</p>';
-
-                    case Order::STATUS_COMPLETED:
-                        return '<p class="label-active">'.trans('admin::app.sales.orders.index.datagrid.completed').'</p>';
-
-                    case Order::STATUS_CANCELED:
-                        return '<p class="label-canceled">'.trans('admin::app.sales.orders.index.datagrid.canceled').'</p>';
-
-                    case Order::STATUS_CLOSED:
-                        return '<p class="label-closed">'.trans('admin::app.sales.orders.index.datagrid.closed').'</p>';
-
-                    case Order::STATUS_PENDING:
-                        return '<p class="label-pending">'.trans('admin::app.sales.orders.index.datagrid.pending').'</p>';
-
-                    case Order::STATUS_PENDING_PAYMENT:
-                        return '<p class="label-pending">'.trans('admin::app.sales.orders.index.datagrid.pending-payment').'</p>';
-
-                    case Order::STATUS_FRAUD:
-                        return '<p class="label-canceled">'.trans('admin::app.sales.orders.index.datagrid.fraud').'</p>';
-
-                    default:
-                        return '<p class="label-info">'.$row->status.'</p>';
-                }
+                return '<p class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] '.$color.'">'.$label.'</p>';
             },
         ]);
 

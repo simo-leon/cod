@@ -74,6 +74,7 @@ class CodDashboardController extends Controller
             'deliveryProvider' => $this->delivery->defaultProviderLabel(),
             'confirmerDailyLimit' => $this->confirmation->confirmerDailyLimit(),
             'autoAssignment' => $this->confirmation->isAutoAssignmentEnabled(),
+            'ordersUrl' => route('admin.cod.orders.index'),
             'settingsUrl' => route('admin.configuration.index', 'general/cod_system'),
         ]);
     }

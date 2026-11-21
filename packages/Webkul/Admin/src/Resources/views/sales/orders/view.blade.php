@@ -4,6 +4,27 @@
     </x-slot>
 
     <!-- Header -->
+    @php
+        $statusBadgeColors = [
+            \Webkul\Sales\Models\Order::STATUS_PENDING_CONFIRMATION => 'bg-yellow-500',
+            \Webkul\Sales\Models\Order::STATUS_CONFIRMED             => 'bg-blue-600',
+            \Webkul\Sales\Models\Order::STATUS_CALL_1_FAILED         => 'bg-amber-500',
+            \Webkul\Sales\Models\Order::STATUS_CALL_2_FAILED         => 'bg-orange-600',
+            \Webkul\Sales\Models\Order::STATUS_CALL_3_FAILED         => 'bg-red-600',
+            \Webkul\Sales\Models\Order::STATUS_OUT_FOR_DELIVERY      => 'bg-purple-600',
+            \Webkul\Sales\Models\Order::STATUS_DELIVERED             => 'bg-teal-600',
+            \Webkul\Sales\Models\Order::STATUS_PAID                  => 'bg-emerald-600',
+            \Webkul\Sales\Models\Order::STATUS_RETURNED              => 'bg-rose-700',
+            \Webkul\Sales\Models\Order::STATUS_PROCESSING            => 'bg-cyan-600',
+            \Webkul\Sales\Models\Order::STATUS_COMPLETED             => 'bg-green-600',
+            \Webkul\Sales\Models\Order::STATUS_CANCELED              => 'bg-stone-500',
+            \Webkul\Sales\Models\Order::STATUS_CLOSED                => 'bg-slate-600',
+            \Webkul\Sales\Models\Order::STATUS_PENDING               => 'bg-sky-500',
+            \Webkul\Sales\Models\Order::STATUS_PENDING_PAYMENT       => 'bg-pink-600',
+            \Webkul\Sales\Models\Order::STATUS_FRAUD                 => 'bg-red-800',
+        ];
+    @endphp
+
     <div class="grid">
         <div class="flex items-center justify-between gap-4 max-sm:flex-wrap">
             {!! view_render_event('bagisto.admin.sales.order.title.before', ['order' => $order]) !!}
@@ -14,7 +35,7 @@
                 </p>
 
                 <!-- Order Status -->
-                <span class="label-{{ $order->status }} text-sm mx-1.5">
+                <span class="text-[12px] text-white font-semibold py-px px-2 max-w-max rounded-[35px] {{ $statusBadgeColors[$order->status] ?? 'bg-gray-500' }} mx-1.5">
                     @lang("admin::app.sales.orders.view.$order->status")
                 </span>
             </div>
@@ -1017,7 +1038,7 @@
                                     {{ $statusLabels[$history->old_status] ?? ($history->old_status ?: '—') }}
                                 </td>
                                 <td class="py-2.5 pr-4">
-                                    <span class="label-{{ $history->new_status }} inline-block rounded px-2 py-0.5 text-xs font-semibold">
+                                    <span class="inline-block rounded px-2 py-0.5 text-xs font-semibold text-white {{ $statusBadgeColors[$history->new_status] ?? 'bg-gray-500' }}">
                                         {{ $statusLabels[$history->new_status] ?? $history->new_status }}
                                     </span>
                                 </td>

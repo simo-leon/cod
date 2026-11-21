@@ -40,3 +40,10 @@ Artisan::command('bagisto:sitemap:generate', function () {
 })->purpose('Generate and update all XML sitemaps automatically');
 
 Schedule::command('bagisto:sitemap:generate')->dailyAt('02:00');
+
+/**
+ * COD System (phase 2): import new cash-on-delivery store orders into
+ * the COD System every hour. The command is idempotent, so a missed or
+ * repeated run never creates duplicates.
+ */
+Schedule::command('cod:import-orders')->hourly();

@@ -14,9 +14,15 @@
             </p>
         </div>
 
-        <a href="{{ $settingsUrl }}" class="primary-button">
-            @lang('admin::app.cod.index.settings')
-        </a>
+        <div class="flex gap-2">
+            <a href="{{ $ordersUrl }}" class="secondary-button">
+                @lang('admin::app.cod.index.view-orders')
+            </a>
+
+            <a href="{{ $settingsUrl }}" class="primary-button">
+                @lang('admin::app.cod.index.settings')
+            </a>
+        </div>
     </div>
 
     <!-- Real figures from the database -->

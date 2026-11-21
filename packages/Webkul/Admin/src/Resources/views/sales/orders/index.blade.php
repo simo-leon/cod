@@ -47,7 +47,7 @@
                 <div class="row grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 items-center border-b px-2 sm:px-4 py-2.5 dark:border-gray-800">
                     <div
                         class="flex select-none items-center gap-2.5"
-                        v-for="(columnGroup, index) in [['increment_id', 'created_at', 'status'], ['base_grand_total', 'method', 'channel_id'], ['full_name', 'phone', 'customer_email'], ['items']]"
+                        v-for="(columnGroup, index) in [['increment_id', 'created_at', 'status'], ['base_grand_total', 'method', 'channel_id'], ['full_name', 'phone'], ['items']]"
                     >
                         @if (bouncer()->hasPermission('sales.orders'))
                             <label
@@ -170,50 +170,55 @@
                         </p>
                     </div>
 
-                    <!-- Customer, Phone, City, Address, Email Section -->
+                    <!-- Customer, Phone, City, Address Section -->
                     <div class="flex flex-col gap-1.5">
                         <p class="text-sm sm:text-base text-gray-800 dark:text-white">
                             @{{ record.full_name }}
                         </p>
 
-                        <a
-                            v-if="record.phone"
-                            href="#"
-                            class="w-max text-xs font-medium text-blue-600 hover:underline sm:text-sm dark:text-blue-400"
-                            :data-phone="record.phone"
-                            :data-name="record.full_name"
-                            onclick="window.jemlaShowCallPopup(this.dataset.phone, this.dataset.name); return false;"
-                        >
-                            @{{ record.phone }}
-                        </a>
+                        <!-- Phone + WhatsApp box -->
+                        <div class="flex flex-col gap-1.5 rounded-lg border border-gray-200 bg-gray-50 px-2.5 py-2 dark:border-gray-700 dark:bg-gray-800">
+                            <a
+                                v-if="record.phone"
+                                href="#"
+                                class="w-max text-xs font-medium text-blue-600 hover:underline sm:text-sm dark:text-blue-400"
+                                :data-phone="record.phone"
+                                :data-name="record.full_name"
+                                onclick="window.jemlaShowCallPopup(this.dataset.phone, this.dataset.name); return false;"
+                            >
+                                @{{ record.phone }}
+                            </a>
 
-                        <p
-                            v-if="record.city"
-                            class="text-xs sm:text-sm text-gray-600 dark:text-gray-300"
-                        >
-                            @{{ record.city }}
-                        </p>
+                            <a
+                                v-if="record.whatsapp_confirm"
+                                :href="record.whatsapp_confirm"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                class="flex w-max items-center gap-1.5 rounded-lg bg-green-600 px-3 py-1.5 text-xs font-medium text-white hover:bg-green-700 sm:text-sm"
+                            >
+                                @lang('admin::app.sales.orders.index.datagrid.whatsapp-confirm')
+                            </a>
+                        </div>
 
-                        <p
-                            v-if="record.address"
-                            class="text-xs sm:text-sm text-gray-600 dark:text-gray-300"
+                        <!-- City + Address box -->
+                        <div
+                            v-if="record.city || record.address"
+                            class="flex flex-col gap-0.5 rounded-lg border border-gray-200 bg-gray-50 px-2.5 py-2 dark:border-gray-700 dark:bg-gray-800"
                         >
-                            @{{ record.address }}
-                        </p>
+                            <p
+                                v-if="record.city"
+                                class="text-xs sm:text-sm text-gray-600 dark:text-gray-300"
+                            >
+                                @{{ record.city }}
+                            </p>
 
-                        <p class="text-xs sm:text-sm text-gray-600 dark:text-gray-300">
-                            @{{ record.customer_email }}
-                        </p>
-
-                        <a
-                            v-if="record.whatsapp_confirm"
-                            :href="record.whatsapp_confirm"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            class="mt-1 flex w-max items-center gap-1.5 rounded-lg bg-green-600 px-3 py-1.5 text-xs font-medium text-white hover:bg-green-700 sm:text-sm"
-                        >
-                            @lang('admin::app.sales.orders.index.datagrid.whatsapp-confirm')
-                        </a>
+                            <p
+                                v-if="record.address"
+                                class="text-xs sm:text-sm text-gray-600 dark:text-gray-300"
+                            >
+                                @{{ record.address }}
+                            </p>
+                        </div>
                     </div>
 
                     <!-- Images Section -->

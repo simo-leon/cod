@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Admin\CodDashboardController;
+use App\Http\Controllers\Admin\CodOrderController;
 use App\Http\Controllers\Admin\DeliveryProviderController;
 use Illuminate\Support\Facades\Route;
 use Webkul\Core\Http\Middleware\NoCacheMiddleware;
@@ -21,4 +22,10 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
      */
     Route::get('cod', [CodDashboardController::class, 'index'])
         ->name('admin.cod.index');
+
+    /**
+     * COD System orders list (phase 2). Guarded by the `cod.orders` ACL key.
+     */
+    Route::get('cod/orders', [CodOrderController::class, 'index'])
+        ->name('admin.cod.orders.index');
 });
