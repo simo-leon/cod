@@ -87,6 +87,42 @@
             </x-slot>
         </x-shop::accordion>
 
+        <!-- Contact info: WhatsApp comes from the admin settings;
+             address / email / ICE are placeholders until Simo provides them. -->
+        @php
+            $footerWaEnabled = core()->getConfigData('general.general.whatsapp.status');
+            $footerWaPhone = preg_replace('/[^0-9]/', '', (string) core()->getConfigData('general.general.whatsapp.phone_number'));
+        @endphp
+
+        <div class="grid content-start gap-2.5">
+            <p class="text-lg font-semibold">
+                @lang('shop::app.components.layouts.footer.contact-title')
+            </p>
+
+            @if ($footerWaEnabled && $footerWaPhone)
+                <a
+                    href="https://api.whatsapp.com/send?phone={{ $footerWaPhone }}"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="text-sm hover:underline"
+                >
+                    WhatsApp: +{{ $footerWaPhone }}
+                </a>
+            @endif
+
+            <p class="text-sm">
+                @lang('shop::app.components.layouts.footer.address'): @lang('shop::app.components.layouts.footer.to-be-completed')
+            </p>
+
+            <p class="text-sm">
+                @lang('shop::app.components.layouts.footer.email'): @lang('shop::app.components.layouts.footer.to-be-completed')
+            </p>
+
+            <p class="text-sm">
+                @lang('shop::app.components.layouts.footer.ice'): @lang('shop::app.components.layouts.footer.to-be-completed')
+            </p>
+        </div>
+
         {!! view_render_event('bagisto.shop.layout.footer.newsletter_subscription.before') !!}
 
         <!-- News Letter subscription -->

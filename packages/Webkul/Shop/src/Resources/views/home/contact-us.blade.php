@@ -16,6 +16,42 @@
                 @lang('shop::app.home.contact.about')
             </p>
 
+            <!-- Contact information: WhatsApp comes from the admin settings;
+                 address / email / ICE are placeholders until Simo provides them. -->
+            @php
+                $contactWaEnabled = core()->getConfigData('general.general.whatsapp.status');
+                $contactWaPhone = preg_replace('/[^0-9]/', '', (string) core()->getConfigData('general.general.whatsapp.phone_number'));
+            @endphp
+
+            <div class="mt-10 grid gap-3 rounded-xl bg-zinc-50 p-6 max-sm:mt-6 max-sm:p-4">
+                <p class="text-lg font-semibold">
+                    @lang('shop::app.home.contact.info-title')
+                </p>
+
+                @if ($contactWaEnabled && $contactWaPhone)
+                    <a
+                        href="https://api.whatsapp.com/send?phone={{ $contactWaPhone }}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        class="flex w-max max-w-full items-center gap-2 rounded-xl bg-green-600 px-5 py-3 font-medium text-white hover:bg-green-700"
+                    >
+                        @lang('shop::app.home.contact.whatsapp'): +{{ $contactWaPhone }}
+                    </a>
+                @endif
+
+                <p class="text-zinc-600 max-sm:text-sm">
+                    @lang('shop::app.home.contact.address'): @lang('shop::app.home.contact.to-be-completed')
+                </p>
+
+                <p class="text-zinc-600 max-sm:text-sm">
+                    @lang('shop::app.home.contact.email'): @lang('shop::app.home.contact.to-be-completed')
+                </p>
+
+                <p class="text-zinc-600 max-sm:text-sm">
+                    @lang('shop::app.home.contact.ice'): @lang('shop::app.home.contact.to-be-completed')
+                </p>
+            </div>
+
             <div
                 id="contact-us-form"
                 class="mt-14 rounded max-sm:mt-8"

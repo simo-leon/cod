@@ -316,7 +316,24 @@
                     this.$axios.get(this.src)
                         .then(response => {
                             this.isLoading = false;
-                            this.products = response.data.data || [];
+
+                            /*
+                                Jemla: never show the same product twice on one
+                                homepage (see v-products-carousel). Register the
+                                ids shown here so later sections skip them.
+                            */
+                            const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
+
+                            this.products = (response.data.data || []).filter(product => {
+                                if (seen.has(product.id)) {
+                                    return false;
+                                }
+
+                                seen.add(product.id);
+
+                                return true;
+                            });
+
                             this.links = response.data.links || null;
 
                             this.$nextTick(() => {
@@ -363,7 +380,19 @@
                     this.$axios.get(this.links.next)
                         .then(response => {
                             this.isLoadingMore = false;
-                            const newProducts = response.data.data || [];
+
+                            /* Jemla: skip products already shown on this page (see getProducts). */
+                            const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
+                            const newProducts = (response.data.data || []).filter(product => {
+                                if (seen.has(product.id)) {
+                                    return false;
+                                }
+
+                                seen.add(product.id);
+
+                                return true;
+                            });
+
                             this.products = [...this.products, ...newProducts];
                             this.links = response.data.links || null;
 

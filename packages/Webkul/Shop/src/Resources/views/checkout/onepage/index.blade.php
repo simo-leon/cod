@@ -238,7 +238,10 @@
                             }
 
                             const list = Array.isArray(data) ? data : (data?.payment_methods || []);
-                            const defaultPaymentMethod = list[0];
+
+                            // Jemla : le paiement à la livraison est le mode par défaut
+                            // du magasin — ne pas prendre le 1er de la liste (Stripe).
+                            const defaultPaymentMethod = list.find((method) => method.method === 'cashondelivery') || list[0];
 
                             if (defaultPaymentMethod) {
                                 this.selectedPaymentMethod = defaultPaymentMethod.method;
@@ -302,7 +305,10 @@
 
                     saveDefaultPaymentMethod(paymentMethods) {
                         const list = Array.isArray(paymentMethods) ? paymentMethods : (paymentMethods?.payment_methods || []);
-                        const defaultPaymentMethod = list[0];
+
+                        // Jemla : le paiement à la livraison est le mode par défaut
+                        // du magasin — ne pas prendre le 1er de la liste (Stripe).
+                        const defaultPaymentMethod = list.find((method) => method.method === 'cashondelivery') || list[0];
 
                         if (! defaultPaymentMethod) {
                             this.failAddressCheckout('No payment method is available.');

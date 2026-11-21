@@ -119,14 +119,58 @@
 
             methods: {
                 getProducts() {
-                    this.$axios.get(this.src)
-                        .then(response => {
-                            this.isLoading = false;
+                    /*
+                        Jemla: never show the same product twice on one
+                        homepage. Sections are separate components that
+                        fetch their own lists, so keep a page-level
+                        registry of product ids already displayed and
+                        drop duplicates (e.g. "Nouveautés" vs "Nos Promos"
+                        vs a category section showing the same products).
+                        Because the API paginates (12 per page, the
+                        `limit` filter is ignored server-side), keep
+                        fetching following pages until this section is
+                        full, so a section never ends up almost empty
+                        just because its first page overlapped an
+                        earlier section. Only ids actually displayed are
+                        registered, so products skipped here can still
+                        appear in a later section.
+                    */
+                    const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
 
-                            this.products = response.data.data;
-                        }).catch(error => {
-                            console.log(error);
-                        });
+                    let desired = 12;
+
+                    try {
+                        const limit = new URL(this.src, window.location.origin).searchParams.get('limit');
+                        if (limit) {
+                            desired = Math.max(1, parseInt(limit, 10) || 12);
+                        }
+                    } catch (e) {}
+
+                    const loadPage = (url, pagesLeft) => {
+                        this.$axios.get(url)
+                            .then(response => {
+                                const fresh = (response.data.data || []).filter(product => ! seen.has(product.id));
+                                const needed = desired - this.products.length;
+                                const kept = fresh.slice(0, needed);
+
+                                kept.forEach(product => seen.add(product.id));
+
+                                this.products = [...this.products, ...kept];
+
+                                const next = response.data.links && response.data.links.next;
+
+                                if (this.products.length < desired && next && pagesLeft > 0) {
+                                    loadPage(next, pagesLeft - 1);
+                                } else {
+                                    this.isLoading = false;
+                                }
+                            }).catch(error => {
+                                this.isLoading = false;
+                                console.log(error);
+                            });
+                    };
+
+                    loadPage(this.src, 3);
                 },
 
                 updateScreenSize() {

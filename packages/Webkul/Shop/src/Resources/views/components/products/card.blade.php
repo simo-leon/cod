@@ -120,7 +120,7 @@
             </div>
 
             <!-- Product Information Section -->
-            <div class="-mt-9 grid max-w-[291px] translate-y-9 content-start gap-2.5 bg-white p-2.5 transition-transform duration-300 ease-out group-hover:-translate-y-0 group-hover:rounded-t-lg max-md:relative max-md:mt-0 max-md:translate-y-0 max-md:gap-0 max-md:px-0 max-md:py-1.5 max-sm:min-w-[170px] max-sm:max-w-[192px]">
+            <div class="grid max-w-[291px] content-start gap-2.5 bg-white p-2.5 max-md:relative max-md:gap-0 max-md:px-0 max-md:py-1.5 max-sm:min-w-[170px] max-sm:max-w-[192px]">
 
                 {!! view_render_event('bagisto.shop.components.products.card.name.before') !!}
 
@@ -142,7 +142,7 @@
                 {!! view_render_event('bagisto.shop.components.products.card.price.after') !!}
 
                 <!-- Product Actions Section -->
-                <div class="action-items flex items-center justify-between opacity-0 transition-all duration-300 ease-in-out group-hover:opacity-100 max-md:hidden">
+                <div class="action-items flex items-center justify-between">
                     @if (core()->getConfigData('sales.checkout.shopping_cart.cart_page'))
                         {!! view_render_event('bagisto.shop.components.products.card.add_to_cart.before') !!}
 
@@ -189,8 +189,9 @@
                     {!! view_render_event('bagisto.shop.components.products.card.compare_option.after') !!}
                 </div>
 
-                <!-- WhatsApp Order Button -->
+                <!-- WhatsApp Order Button (number comes from the admin settings, never hardcoded) -->
                 <a
+                    v-if="waEnabled && waPhone"
                     :href="getWhatsAppUrl(product)"
                     target="_blank"
                     class="mt-2 inline-flex w-full items-center justify-center gap-2 rounded-lg bg-green-600 p-2.5 text-sm font-medium text-white transition-colors hover:bg-green-700"
@@ -351,6 +352,19 @@
                     {!! view_render_event('bagisto.shop.components.products.card.add_to_cart.after') !!}
 
                 @endif
+
+                <!-- WhatsApp Order Button (number comes from the admin settings, never hardcoded) -->
+                <a
+                    v-if="waEnabled && waPhone"
+                    :href="getWhatsAppUrl(product)"
+                    target="_blank"
+                    class="inline-flex w-full items-center justify-center gap-2 rounded-lg bg-green-600 p-2.5 text-sm font-medium text-white transition-colors hover:bg-green-700"
+                    role="button"
+                    aria-label="@lang('shop::app.components.products.card.whatsapp_order')"
+                >
+                    <svg class="h-4 w-4 shrink-0" fill="currentColor" viewBox="0 0 24 24"><path d="M12.04 2.04c-5.51 0-9.96 4.45-9.96 9.96 0 2.2.73 4.28 1.95 5.97L2 22l4.2-1.93c1.61 1.14 3.55 1.81 5.65 1.81 5.51 0 9.96-4.45 9.96-9.96s-4.45-9.96-9.96-9.96zm.25 16.71c-1.85 0-3.61-.5-5.15-1.36l-.37-.22-2.5 1.16.67-2.44-.24-.39c-.92-1.47-1.46-3.21-1.46-5.07 0-5.09 4.14-9.23 9.23-9.23 4.92 0 9.23 4.31 9.23 9.23 0 4.93-4.31 9.24-9.23 9.24z"/></svg>
+                    @lang('shop::app.components.products.card.whatsapp_order')
+                </a>
             </div>
         </div>
     </script>
@@ -366,6 +380,11 @@
                     isCustomer: '{{ auth()->guard('customer')->check() }}',
 
                     isAddingToCart: false,
+
+                    /* WhatsApp number comes from the admin settings only, never hardcoded. */
+                    waEnabled: {{ core()->getConfigData('general.general.whatsapp.status') ? 'true' : 'false' }},
+
+                    waPhone: '{{ preg_replace('/[^0-9]/', '', (string)core()->getConfigData('general.general.whatsapp.phone_number')) }}',
                 }
             },
 
@@ -474,7 +493,11 @@
 
                 getWhatsAppUrl(product) {
                     const p = product || this.product || {};
-                    const waPhone = '{{ preg_replace('/[^0-9]/', '', (string)core()->getConfigData('general.general.whatsapp.phone_number')) }}' || '212664880065';
+                    const waPhone = this.waPhone;
+
+                    if (! waPhone) {
+                        return '#';
+                    }
                     const waMsg = @json(core()->getConfigData('general.general.whatsapp.product_message') ?: __('shop::app.components.products.grid.whatsapp-default-msg'));
                     const origin = typeof window !== 'undefined' ? window.location.origin : '';
                     const text = waMsg + '\n📦 ' + (p.name || '') + '\n🔗 ' + origin + '/' + (p.url_key || '');

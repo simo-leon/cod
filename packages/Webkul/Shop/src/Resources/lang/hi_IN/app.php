@@ -605,12 +605,15 @@ return [
 
             'footer' => [
                 'about-us' => 'हमारे बारे में',
+                'address' => 'Address',
                 'contact-us' => 'हमसे संपर्क करें',
+                'contact-title' => 'Contact Information',
                 'currency' => 'मुद्रा',
                 'customer-service' => 'ग्राहक सेवा',
                 'email' => 'ईमेल',
                 'footer-content' => 'फ़ुटर सामग्री',
                 'footer-text' => '© कॉपीराइट 2010 - :current_year, वेबकल सॉफ़्टवेयर (भारत में पंजीकृत)। सभी अधिकार सुरक्षित हैं।',
+                'ice' => 'ICE',
                 'locale' => 'स्थान',
                 'newsletter-text' => 'हमारे मनोरंजन समाचार पत्रिका के लिए तैयार हो जाओ!',
                 'order-return' => 'आर्डर और रिटर्न',
@@ -620,6 +623,7 @@ return [
                 'subscribe' => 'सदस्यता लें',
                 'subscribe-newsletter' => 'सदस्यता लें',
                 'subscribe-stay-touch' => 'संपर्क में रहने के लिए सदस्यता लें।',
+                'to-be-completed' => '[to be completed]',
                 'whats-new' => 'नया क्या है',
             ],
 
@@ -936,6 +940,9 @@ return [
             'additional-information' => 'अतिरिक्त जानकारी',
             'already-in-compare' => 'प्रोडक्ट पहले से ही तुलना सूची में शामिल है।',
             'buy-now' => 'अब खरीदें',
+            'category' => 'Category',
+            'in-stock' => 'स्टॉक में',
+            'out-of-stock' => 'स्टॉक खत्म',
             'compare' => 'तुलना करें',
             'description' => 'विवरण',
             'related-product-title' => 'संबंधित प्रोडक्ट्स',
@@ -1076,6 +1083,7 @@ return [
             'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
             'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
             'whatsapp-order-id' => 'Order ID',
+            'whatsapp-product' => 'Product',
             'whatsapp-thanks' => 'Thank you!',
             'whatsapp-title' => 'Quick Confirmation via WhatsApp',
             'whatsapp-total' => 'Total Amount',
@@ -1274,14 +1282,19 @@ return [
     'home' => [
         'contact' => [
             'about' => 'हमें एक नोट लिखें और हम आपके पास जितनी जल्दी हो सके वापस आएंगे',
+            'address' => 'Address',
             'desc' => 'आपके दिमाग में क्या है?',
             'describe-here' => 'यहां विवरण दें',
             'email' => 'ईमेल',
+            'ice' => 'ICE',
+            'info-title' => 'Contact Information',
             'message' => 'संदेश',
             'name' => 'नाम',
             'phone-number' => 'फ़ोन नंबर',
             'submit' => 'सबमिट करें',
             'title' => 'हमसे संपर्क करें',
+            'to-be-completed' => '[to be completed]',
+            'whatsapp' => 'WhatsApp',
         ],
 
         'index' => [

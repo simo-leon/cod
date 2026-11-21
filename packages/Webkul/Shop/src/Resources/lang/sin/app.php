@@ -605,12 +605,15 @@ return [
 
             'footer' => [
                 'about-us' => 'අප ගැන',
+                'address' => 'Address',
                 'contact-us' => 'අප හා සම්බන්ධයෙන්',
+                'contact-title' => 'Contact Information',
                 'currency' => 'මුදල්',
                 'customer-service' => 'ප්‍රශ්නය හා සේවය',
                 'email' => 'ඊමේල්',
                 'footer-content' => 'පිටුවේ අන්තර්ගතය',
                 'footer-text' => '© වෙබ්කල් සොෆ්ට්වෙයර් (ශ්‍රී ලංකාවේ ලියාපදිංචි) සම්පූර්ණයේ සිට 2010 - :current_year දක්වා. සියලු අභිරුචිකරුවන් සමඟ සම්පූර්ණයෙන් පහසුවෙනි.',
+                'ice' => 'ICE',
                 'locale' => 'පිටු මාධ්‍ය',
                 'newsletter-text' => 'අපේ සෙවුම් පනසලේ සම්බන්ධවන්ද බලන්න!',
                 'order-return' => 'ඇණවුම් හා ආපසු සපිරව්ව',
@@ -620,6 +623,7 @@ return [
                 'subscribe' => 'බලන්න',
                 'subscribe-newsletter' => 'පනස්වේර් අංශයට බලන්න',
                 'subscribe-stay-touch' => 'අප සම්බන්ධයෙන් බලන්න.',
+                'to-be-completed' => '[to be completed]',
                 'whats-new' => 'මොතා කුමුද?',
             ],
 
@@ -936,6 +940,9 @@ return [
             'additional-information' => 'අමතර තොරතුරු',
             'already-in-compare' => 'සාකච්ඡාකරන ලද්ද',
             'buy-now' => 'දැක්කාකරන්න',
+            'category' => 'Category',
+            'in-stock' => 'තොගයේ ඇත',
+            'out-of-stock' => 'තොගය අවසන්',
             'compare' => 'සාකච්ඡා',
             'description' => 'විස්තරය',
             'related-product-title' => 'සමහර අයිතමය',
@@ -1076,6 +1083,7 @@ return [
             'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
             'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
             'whatsapp-order-id' => 'Order ID',
+            'whatsapp-product' => 'Product',
             'whatsapp-thanks' => 'Thank you!',
             'whatsapp-title' => 'Quick Confirmation via WhatsApp',
             'whatsapp-total' => 'Total Amount',
@@ -1274,14 +1282,19 @@ return [
     'home' => [
         'contact' => [
             'about' => 'අපගේ පිළිතුරු ලියන්න, අපි ඔබට ඉවස්වීමේදී ඉක්මනින් පිළිතුරු ලබා ගැනීමට අපට පෙර වෙන්නේය',
+            'address' => 'Address',
             'desc' => 'ඔබට කුමක්ද මගේ අත්දැකීම් පිළිතුරුද?',
             'describe-here' => 'මෙහි විස්තර කරන්න',
             'email' => 'ඊමේල්',
+            'ice' => 'ICE',
+            'info-title' => 'Contact Information',
             'message' => 'පණිවිඩය',
             'name' => 'නම',
             'phone-number' => 'දුරකථන අංකය',
             'submit' => 'ඉදිරිපත් කරන්න',
             'title' => 'අප අමතන්න',
+            'to-be-completed' => '[to be completed]',
+            'whatsapp' => 'WhatsApp',
         ],
 
         'index' => [

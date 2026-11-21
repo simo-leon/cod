@@ -9,6 +9,38 @@
     $customAttributeValues = $productViewHelper->getAdditionalData($product);
 
     $attributeData = collect($customAttributeValues)->filter(fn ($item) => ! empty($item['value']));
+
+    /*
+        Jemla: the "Additional Information" tab was empty for every product
+        because no front-visible custom attribute has a value. Show real,
+        non-invented product facts instead: the SKU and the categories.
+        No supplier specs are invented here.
+    */
+    $customAttributeValues[] = [
+        'label' => trans('shop::app.products.view.sku'),
+        'value' => $product->sku,
+        'code'  => 'sku',
+        'type'  => 'text',
+    ];
+
+    $categoryNames = $product->categories
+        ->where('id', '!=', 1)
+        ->pluck('name')
+        ->filter()
+        ->unique()
+        ->values()
+        ->all();
+
+    if (! empty($categoryNames)) {
+        $customAttributeValues[] = [
+            'label' => trans('shop::app.products.view.category'),
+            'value' => implode(', ', $categoryNames),
+            'code'  => 'category',
+            'type'  => 'text',
+        ];
+    }
+
+    $attributeData = collect($customAttributeValues)->filter(fn ($item) => ! empty($item['value']));
 @endphp
 
 <!-- SEO Meta Content -->
@@ -471,6 +503,19 @@
                                 @include('shop::products.view.types.downloadable')
 
                                 @include('shop::products.view.types.booking')
+
+                                <!-- Stock status -->
+                                <div class="mt-4">
+                                    @if ($product->isSaleable(1))
+                                        <span class="inline-block rounded-full bg-green-100 px-3 py-1 text-sm font-medium text-green-800">
+                                            @lang('shop::app.products.view.in-stock')
+                                        </span>
+                                    @else
+                                        <span class="inline-block rounded-full bg-red-100 px-3 py-1 text-sm font-medium text-red-800">
+                                            @lang('shop::app.products.view.out-of-stock')
+                                        </span>
+                                    @endif
+                                </div>
 
                                 <!-- Product Actions and Quantity Box -->
                                 <div class="mt-8 flex max-w-[470px] flex-col gap-3 max-sm:mt-4">

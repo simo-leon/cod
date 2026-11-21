@@ -605,12 +605,15 @@ return [
 
             'footer' => [
                 'about-us' => 'درباره‌ی ما',
+                'address' => 'Address',
                 'contact-us' => 'تماس با ما',
+                'contact-title' => 'Contact Information',
                 'currency' => 'واحد پول',
                 'customer-service' => 'خدمات مشتری',
                 'email' => 'ایمیل',
                 'footer-content' => 'محتوای فوتر',
                 'footer-text' => '© حق تکثیر 2010 - :current_year ، نرم‌افزار Webkul (ثبت‌شده در هند). تمام حقوق محفوظ است.',
+                'ice' => 'ICE',
                 'locale' => 'زبان و محل',
                 'newsletter-text' => 'برای دریافت خبرنامه‌ی جذاب ما آماده شوید!',
                 'order-return' => 'سفارش و بازگشت',
@@ -620,6 +623,7 @@ return [
                 'subscribe' => 'عضویت',
                 'subscribe-newsletter' => 'عضویت در خبرنامه',
                 'subscribe-stay-touch' => 'برای ماندن در تماس عضو شوید.',
+                'to-be-completed' => '[to be completed]',
                 'whats-new' => 'چه خبر است',
             ],
 
@@ -936,6 +940,9 @@ return [
             'additional-information' => 'اطلاعات اضافی',
             'already-in-compare' => 'محصول از قبل در لیست مقایسه وجود دارد.',
             'buy-now' => 'خرید فوری',
+            'category' => 'Category',
+            'in-stock' => 'موجود',
+            'out-of-stock' => 'ناموجود',
             'compare' => 'مقایسه',
             'description' => 'توضیحات',
             'related-product-title' => 'محصولات مرتبط',
@@ -1076,6 +1083,7 @@ return [
             'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
             'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
             'whatsapp-order-id' => 'Order ID',
+            'whatsapp-product' => 'Product',
             'whatsapp-thanks' => 'Thank you!',
             'whatsapp-title' => 'Quick Confirmation via WhatsApp',
             'whatsapp-total' => 'Total Amount',
@@ -1274,14 +1282,19 @@ return [
     'home' => [
         'contact' => [
             'about' => 'یک یادداشت برای ما بنویسید و ما در اسرع وقت به شما پاسخ خواهیم داد',
+            'address' => 'Address',
             'desc' => 'درباره چی فکر می‌کنید؟',
             'describe-here' => 'اینجا را توصیف کنید',
             'email' => 'ایمیل',
+            'ice' => 'ICE',
+            'info-title' => 'Contact Information',
             'message' => 'پیام',
             'name' => 'نام',
             'phone-number' => 'شماره تلفن',
             'submit' => 'ارسال',
             'title' => 'تماس با ما',
+            'to-be-completed' => '[to be completed]',
+            'whatsapp' => 'WhatsApp',
         ],
 
         'index' => [

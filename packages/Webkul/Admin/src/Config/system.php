@@ -112,12 +112,14 @@ return [
                 'title' => 'admin::app.configuration.index.general.content.header-offer.offer-title',
                 'type' => 'text',
                 'default' => 'Get UPTO 40% OFF on your 1st order',
+                'locale_based' => true,
                 'validation' => 'max:100',
             ], [
                 'name' => 'redirection_title',
                 'title' => 'admin::app.configuration.index.general.content.header-offer.redirection-title',
                 'type' => 'text',
                 'default' => 'SHOP NOW',
+                'locale_based' => true,
                 'validation' => 'max:25',
             ], [
                 'name' => 'redirection_link',
@@ -1055,6 +1057,7 @@ return [
                 'name' => 'sort_by',
                 'title' => 'admin::app.configuration.index.catalog.products.storefront.sort-by',
                 'type' => 'select',
+                'default' => 'created_at-desc',
                 'options' => [
                     [
                         'title' => 'admin::app.configuration.index.catalog.products.storefront.from-a-z',

@@ -605,12 +605,15 @@ return [
 
             'footer' => [
                 'about-us' => 'আমাদের সম্পর্কে',
+                'address' => 'Address',
                 'contact-us' => 'যোগাযোগ করুন',
+                'contact-title' => 'Contact Information',
                 'currency' => 'মুদ্রা',
                 'customer-service' => 'গ্রাহক সেবা',
                 'email' => 'ইমেইল',
                 'footer-content' => 'ফুটারের সামগ্রী',
-                'footer-text' => '© কপিরাইট 2010 - :current_year, Webkul Software (ভারতে নিবন্ধিত)। সমস্ত অধিকার সংরক্ষিত।',
+                'footer-text' => '© কপিরাইট 2010 - :current_year, Jemla En Ligne (ভারতে নিবন্ধিত)। সমস্ত অধিকার সংরক্ষিত।',
+                'ice' => 'ICE',
                 'locale' => 'লোকেল',
                 'newsletter-text' => 'আমাদের মজাদার নিউজলেটারের জন্য প্রস্তুত থাকুন!',
                 'order-return' => 'অর্ডার এবং রিটার্ন',
@@ -620,6 +623,7 @@ return [
                 'subscribe' => 'সাবস্ক্রাইব',
                 'subscribe-newsletter' => 'নিউজলেটার সাবস্ক্রাইব করুন',
                 'subscribe-stay-touch' => 'যোগাযোগে থাকতে সাবস্ক্রাইব করুন।',
+                'to-be-completed' => '[to be completed]',
                 'whats-new' => 'নতুন কি',
             ],
 
@@ -936,6 +940,9 @@ return [
             'additional-information' => 'অতিরিক্ত তথ্য',
             'already-in-compare' => 'পণ্যটি ইতিমধ্যে তুলনা তালিকায় যোগ করা হয়েছে।',
             'buy-now' => 'এখন ক্রয় করুন',
+            'category' => 'Category',
+            'in-stock' => 'স্টকে আছে',
+            'out-of-stock' => 'স্টক শেষ',
             'compare' => 'তুলনা',
             'description' => 'বিবরণ',
             'related-product-title' => 'সাথে সম্পর্কিত পণ্যগুলি',
@@ -1076,6 +1083,7 @@ return [
             'whatsapp-default-message' => 'Hello, I would like to confirm my order:',
             'whatsapp-help' => 'To expedite the delivery of your order and ensure your availability, please confirm your order with one click:',
             'whatsapp-order-id' => 'Order ID',
+            'whatsapp-product' => 'Product',
             'whatsapp-thanks' => 'Thank you!',
             'whatsapp-title' => 'Quick Confirmation via WhatsApp',
             'whatsapp-total' => 'Total Amount',
@@ -1274,14 +1282,19 @@ return [
     'home' => [
         'contact' => [
             'about' => 'আমাদের একটি নোট লিখুন এবং আমরা সম্ভাব্যতঃ সবচেয়ে দ্রুত আপনাকে ফিরে যাব',
+            'address' => 'Address',
             'desc' => ' আপনার মনে কি আছে?',
             'describe-here' => 'এখানে বর্ণনা করুন',
             'email' => 'ইমেইল',
+            'ice' => 'ICE',
+            'info-title' => 'Contact Information',
             'message' => 'বার্তা',
             'name' => 'নাম',
             'phone-number' => 'ফোন নম্বর',
             'submit' => 'জমা দিন',
             'title' => 'যোগাযোগ করুন',
+            'to-be-completed' => '[to be completed]',
+            'whatsapp' => 'WhatsApp',
         ],
 
         'index' => [

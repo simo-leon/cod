@@ -105,23 +105,23 @@
 						</p>
 
 						<!-- Order summary details in WhatsApp box -->
-						<div class="mb-4 rounded-xl bg-gray-50 p-3.5 text-right text-xs leading-relaxed text-zinc-700 border border-gray-200" dir="rtl">
+						<div class="mb-4 rounded-xl bg-gray-50 p-3.5 {{ app()->getLocale() == 'ar' ? 'text-right' : 'text-left' }} text-xs leading-relaxed text-zinc-700 border border-gray-200" dir="{{ app()->getLocale() == 'ar' ? 'rtl' : 'ltr' }}">
 							<div class="flex justify-between py-1 border-b border-gray-200">
-								<span class="text-zinc-500 font-medium">رقم الطلب:</span>
+								<span class="text-zinc-500 font-medium">@lang('shop::app.checkout.success.whatsapp-order-id'):</span>
 								<span class="font-bold text-zinc-900">#{{ $order->increment_id }}</span>
 							</div>
 							@if ($customerName)
 								<div class="flex justify-between py-1 border-b border-gray-200">
-									<span class="text-zinc-500 font-medium">العميل:</span>
+									<span class="text-zinc-500 font-medium">@lang('shop::app.checkout.success.whatsapp-customer-name'):</span>
 									<span class="font-semibold text-zinc-900">{{ $customerName }}</span>
 								</div>
 							@endif
 							<div class="flex justify-between py-1 border-b border-gray-200">
-								<span class="text-zinc-500 font-medium">المنتج:</span>
+								<span class="text-zinc-500 font-medium">@lang('shop::app.checkout.success.whatsapp-product'):</span>
 								<span class="font-semibold text-zinc-900 max-w-[240px] truncate" title="{{ $productsSummary }}">{{ $productsSummary }}</span>
 							</div>
 							<div class="flex justify-between pt-1.5 items-center">
-								<span class="text-zinc-500 font-medium">المجموع:</span>
+								<span class="text-zinc-500 font-medium">@lang('shop::app.checkout.success.whatsapp-total'):</span>
 								<span class="font-bold text-emerald-600 text-sm">{{ $total }}</span>
 							</div>
 						</div>
