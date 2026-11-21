@@ -4232,6 +4232,8 @@ return [
                         'email-info' => 'Public contact email shown in the footer and on the contact page. Leave empty to show the placeholder text.',
                         'ice' => 'ICE Number',
                         'ice-info' => 'ICE (Identifiant Commun de l\'Entreprise) shown in the footer and on the contact page. Leave empty to show the placeholder text.',
+                        'show-ice' => 'Show ICE Number',
+                        'show-ice-info' => 'Show the ICE number in the footer and on the contact page. Turn it off to hide it completely (for stores without an ICE number).',
                         'title' => 'Contact Information',
                         'title-info' => 'Store address, contact email and ICE number shown in the footer and on the contact page.',
                     ],

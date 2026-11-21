@@ -119,6 +119,13 @@ return [
                 'info' => 'admin::app.configuration.index.general.general.contact-info.ice-info',
                 'type' => 'text',
                 'channel_based' => true,
+            ], [
+                'name' => 'show_ice',
+                'title' => 'admin::app.configuration.index.general.general.contact-info.show-ice',
+                'info' => 'admin::app.configuration.index.general.general.contact-info.show-ice-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
             ],
         ],
     ], [

@@ -96,6 +96,7 @@
             $footerAddress = trim((string) core()->getConfigData('general.general.contact-info.address'));
             $footerEmail = trim((string) core()->getConfigData('general.general.contact-info.email'));
             $footerIce = trim((string) core()->getConfigData('general.general.contact-info.ice'));
+            $footerShowIce = core()->getConfigData('general.general.contact-info.show_ice');
         @endphp
 
         <div class="grid content-start gap-2.5">
@@ -122,9 +123,11 @@
                 @lang('shop::app.components.layouts.footer.email'): {{ $footerEmail ?: trans('shop::app.components.layouts.footer.to-be-completed') }}
             </p>
 
-            <p class="text-sm">
-                @lang('shop::app.components.layouts.footer.ice'): {{ $footerIce ?: trans('shop::app.components.layouts.footer.to-be-completed') }}
-            </p>
+            @if ($footerShowIce)
+                <p class="text-sm">
+                    @lang('shop::app.components.layouts.footer.ice'): {{ $footerIce ?: trans('shop::app.components.layouts.footer.to-be-completed') }}
+                </p>
+            @endif
         </div>
 
         {!! view_render_event('bagisto.shop.layout.footer.newsletter_subscription.before') !!}

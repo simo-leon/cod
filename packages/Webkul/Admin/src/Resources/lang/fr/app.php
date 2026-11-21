@@ -4204,6 +4204,8 @@ return [
                         'email-info' => 'Email de contact affiché dans le pied de page et sur la page contact. Laissez vide pour garder le texte provisoire.',
                         'ice' => 'Numéro ICE',
                         'ice-info' => 'Numéro ICE affiché dans le pied de page et sur la page contact. Laissez vide pour garder le texte provisoire.',
+                        'show-ice' => 'Afficher le numéro ICE',
+                        'show-ice-info' => 'Afficher le numéro ICE dans le pied de page et sur la page contact. Désactivez pour le masquer complètement (pour les boutiques sans numéro ICE).',
                         'title' => 'Coordonnées',
                         'title-info' => 'Adresse du magasin, email de contact et numéro ICE affichés dans le pied de page et sur la page contact.',
                     ],

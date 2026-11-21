@@ -25,6 +25,7 @@
                 $contactAddress = trim((string) core()->getConfigData('general.general.contact-info.address'));
                 $contactEmail = trim((string) core()->getConfigData('general.general.contact-info.email'));
                 $contactIce = trim((string) core()->getConfigData('general.general.contact-info.ice'));
+                $contactShowIce = core()->getConfigData('general.general.contact-info.show_ice');
             @endphp
 
             <div class="mt-10 grid gap-3 rounded-xl bg-zinc-50 p-6 max-sm:mt-6 max-sm:p-4">
@@ -51,9 +52,11 @@
                     @lang('shop::app.home.contact.email'): {{ $contactEmail ?: trans('shop::app.home.contact.to-be-completed') }}
                 </p>
 
-                <p class="text-zinc-600 max-sm:text-sm">
-                    @lang('shop::app.home.contact.ice'): {{ $contactIce ?: trans('shop::app.home.contact.to-be-completed') }}
-                </p>
+                @if ($contactShowIce)
+                    <p class="text-zinc-600 max-sm:text-sm">
+                        @lang('shop::app.home.contact.ice'): {{ $contactIce ?: trans('shop::app.home.contact.to-be-completed') }}
+                    </p>
+                @endif
             </div>
 
             <div
