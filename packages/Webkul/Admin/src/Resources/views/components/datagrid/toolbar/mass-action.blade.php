@@ -40,8 +40,9 @@
                                 v-if="massAction?.options?.length"
                             >
                                 <a
-                                    class="whitespace-no-wrap flex cursor-not-allowed justify-between gap-1.5 rounded-t px-4 py-2 text-sm text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-950"
+                                    class="whitespace-no-wrap flex cursor-pointer justify-between gap-1.5 rounded-t px-4 py-2 text-sm text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-950"
                                     href="javascript:void(0);"
+                                    @click.stop.prevent="submenuOpen = ! submenuOpen"
                                 >
                                     <i
                                         class="text-2xl"
@@ -57,7 +58,10 @@
                                     <i class="icon-arrow-left rtl:icon-arrow-right -mt-px text-xl"></i>
                                 </a>
 
-                                <ul class="absolute top-0 z-10 hidden w-max min-w-[150px] rounded border bg-white shadow-[0_5px_20px_rgba(0,0,0,0.15)] group-hover/item:block dark:border-gray-800 dark:bg-gray-900 ltr:left-full rtl:right-full">
+                                <ul
+                                    class="absolute top-0 z-10 hidden w-max min-w-[150px] rounded border bg-white shadow-[0_5px_20px_rgba(0,0,0,0.15)] group-hover/item:block dark:border-gray-800 dark:bg-gray-900 ltr:left-full rtl:right-full"
+                                    :style="submenuOpen ? 'display: block;' : ''"
+                                >
                                     <li v-for="option in massAction.options">
                                         <a
                                             class="whitespace-no-wrap block rounded-t px-4 py-2 text-sm text-gray-600 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-950"
@@ -109,6 +113,8 @@
 
             data() {
                 return {
+                    submenuOpen: false,
+
                     massActions: {
                         meta: {
                             mode: 'none',
@@ -167,6 +173,8 @@
                  * @returns {void}
                  */
                 performMassAction(currentAction, currentOption = null) {
+                    this.submenuOpen = false;
+
                     this.massActions.meta.action = currentAction;
 
                     if (currentOption) {
