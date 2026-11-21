@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Listeners\KrayinCrmListener;
+use App\Listeners\SendOrderToDeliveryProvider;
 use App\Models\OrderStatusHistory;
 use Barryvdh\Debugbar\Facades\Debugbar;
 use Illuminate\Support\Facades\Artisan;
@@ -86,6 +87,9 @@ class AppServiceProvider extends ServiceProvider
                 ]);
             }
         });
+
+        // Send cash-on-delivery orders to the configured delivery provider
+        Event::listen('checkout.order.save.after', [SendOrderToDeliveryProvider::class, 'handle']);
 
         // Krayin CRM listeners
         Event::listen('sales.order.update-status.after', [KrayinCrmListener::class, 'handleOrderStatusUpdated']);

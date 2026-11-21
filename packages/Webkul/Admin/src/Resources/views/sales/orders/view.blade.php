@@ -589,6 +589,8 @@
                 </div>
 
                 {!! view_render_event('bagisto.admin.sales.order.left_component.after', ['order' => $order]) !!}
+
+                @include('admin::sales.orders.delivery-parcel', ['order' => $order])
             </div>
 
             <!-- Right Component -->

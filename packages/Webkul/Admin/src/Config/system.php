@@ -653,6 +653,77 @@ return [
                 'channel_based' => true,
             ],
         ],
+    ], [
+
+        /**
+         * Delivery providers.
+         */
+        'key' => 'general.delivery_providers',
+        'name' => 'admin::app.configuration.index.general.delivery-providers.title',
+        'info' => 'admin::app.configuration.index.general.delivery-providers.info',
+        'icon' => 'settings/shipping.svg',
+        'sort' => 8,
+    ], [
+        'key' => 'general.delivery_providers.settings',
+        'name' => 'admin::app.configuration.index.general.delivery-providers.settings.title',
+        'info' => 'admin::app.configuration.index.general.delivery-providers.settings.title-info',
+        'sort' => 1,
+        'fields' => [
+            [
+                'name' => 'default_provider',
+                'title' => 'admin::app.configuration.index.general.delivery-providers.settings.default-provider',
+                'type' => 'select',
+                'default' => 'vitis_express',
+                'options' => [
+                    [
+                        'title' => 'Vitis Express',
+                        'value' => 'vitis_express',
+                    ],
+                ],
+                'channel_based' => true,
+            ],
+        ],
+    ], [
+        'key' => 'general.delivery_providers.vitis_express',
+        'name' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.title',
+        'info' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.title-info',
+        'sort' => 2,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.status',
+                'type' => 'boolean',
+                'default' => false,
+                'channel_based' => true,
+            ], [
+                'name' => 'api_token',
+                'title' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.api-token',
+                'info' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.api-token-info',
+                'type' => 'password',
+                'channel_based' => true,
+            ], [
+                'name' => 'openpackage',
+                'title' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.openpackage',
+                'info' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.openpackage-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'try_product',
+                'title' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.try-product',
+                'info' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.try-product-info',
+                'type' => 'boolean',
+                'default' => false,
+                'channel_based' => true,
+            ], [
+                'name' => 'from_stock',
+                'title' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.from-stock',
+                'info' => 'admin::app.configuration.index.general.delivery-providers.vitis-express.from-stock-info',
+                'type' => 'boolean',
+                'default' => false,
+                'channel_based' => true,
+            ],
+        ],
     ],
 
     /**
