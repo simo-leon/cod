@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Api\CodOrderImportController;
+use App\Http\Middleware\ForceJsonResponse;
 use Illuminate\Support\Facades\Route;
 
 /**
@@ -12,4 +13,5 @@ use Illuminate\Support\Facades\Route;
  * CodOrderImportController for the payload format.
  */
 Route::post('cod/orders', CodOrderImportController::class)
+    ->middleware(ForceJsonResponse::class)
     ->name('api.cod.orders.store');
