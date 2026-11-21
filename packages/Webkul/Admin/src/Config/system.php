@@ -93,6 +93,13 @@ return [
                 'type' => 'textarea',
                 'default' => 'السلام عليكم، أود تأكيد طلبي:',
                 'channel_based' => true,
+            ], [
+                'name' => 'admin_confirmation_message',
+                'title' => 'admin::app.configuration.index.general.general.whatsapp.admin-confirmation-message',
+                'info' => 'admin::app.configuration.index.general.general.whatsapp.admin-confirmation-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم {name}، معك {store}. بغيت نأكد معك الطلب ديالك رقم {order_id}: {products} — المجموع {total}. واش نأكدو؟',
+                'channel_based' => true,
             ],
         ],
     ], [
@@ -766,6 +773,12 @@ return [
                 'info' => 'admin::app.configuration.index.general.cod-system.settings.auto-assignment-info',
                 'type' => 'boolean',
                 'default' => false,
+                'channel_based' => true,
+            ], [
+                'name' => 'import_secret_key',
+                'title' => 'admin::app.configuration.index.general.cod-system.settings.import-secret-key',
+                'info' => 'admin::app.configuration.index.general.cod-system.settings.import-secret-key-info',
+                'type' => 'password',
                 'channel_based' => true,
             ],
         ],

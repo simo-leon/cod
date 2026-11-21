@@ -47,7 +47,7 @@
                 <div class="row grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 items-center border-b px-2 sm:px-4 py-2.5 dark:border-gray-800">
                     <div
                         class="flex select-none items-center gap-2.5"
-                        v-for="(columnGroup, index) in [['increment_id', 'created_at', 'status'], ['base_grand_total', 'method', 'channel_id'], ['full_name', 'customer_email', 'location'], ['items']]"
+                        v-for="(columnGroup, index) in [['increment_id', 'created_at', 'status'], ['base_grand_total', 'method', 'channel_id'], ['full_name', 'phone', 'customer_email'], ['items']]"
                     >
                         @if (bouncer()->hasPermission('sales.orders'))
                             <label
@@ -170,19 +170,50 @@
                         </p>
                     </div>
 
-                    <!-- Customer, Email, Location Section -->
+                    <!-- Customer, Phone, City, Address, Email Section -->
                     <div class="flex flex-col gap-1.5">
                         <p class="text-sm sm:text-base text-gray-800 dark:text-white">
                             @{{ record.full_name }}
+                        </p>
+
+                        <a
+                            v-if="record.phone"
+                            href="#"
+                            class="w-max text-xs font-medium text-blue-600 hover:underline sm:text-sm dark:text-blue-400"
+                            :data-phone="record.phone"
+                            :data-name="record.full_name"
+                            onclick="window.jemlaShowCallPopup(this.dataset.phone, this.dataset.name); return false;"
+                        >
+                            @{{ record.phone }}
+                        </a>
+
+                        <p
+                            v-if="record.city"
+                            class="text-xs sm:text-sm text-gray-600 dark:text-gray-300"
+                        >
+                            @{{ record.city }}
+                        </p>
+
+                        <p
+                            v-if="record.address"
+                            class="text-xs sm:text-sm text-gray-600 dark:text-gray-300"
+                        >
+                            @{{ record.address }}
                         </p>
 
                         <p class="text-xs sm:text-sm text-gray-600 dark:text-gray-300">
                             @{{ record.customer_email }}
                         </p>
 
-                        <p class="text-xs sm:text-sm text-gray-600 dark:text-gray-300">
-                            @{{ record.location }}
-                        </p>
+                        <a
+                            v-if="record.whatsapp_confirm"
+                            :href="record.whatsapp_confirm"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="mt-1 flex w-max items-center gap-1.5 rounded-lg bg-green-600 px-3 py-1.5 text-xs font-medium text-white hover:bg-green-700 sm:text-sm"
+                        >
+                            @lang('admin::app.sales.orders.index.datagrid.whatsapp-confirm')
+                        </a>
                     </div>
 
                     <!-- Images Section -->
@@ -201,6 +232,57 @@
             </template>
         </template>
     </x-admin::datagrid>
+
+    <!-- Jemla: call customer popup (WhatsApp call or SIM call) -->
+    <div
+        id="jemla-call-popup"
+        class="fixed inset-0 z-[100] hidden items-center justify-center bg-black/50 p-4"
+        onclick="if (event.target === this) window.jemlaHideCallPopup();"
+    >
+        <div class="w-full max-w-sm rounded-xl bg-white p-6 shadow-xl dark:bg-gray-900">
+            <p class="text-lg font-semibold text-gray-800 dark:text-white">
+                @lang('admin::app.sales.orders.index.call-popup.title')
+            </p>
+
+            <p
+                id="jemla-call-popup-name"
+                class="mt-1 text-sm text-gray-600 dark:text-gray-300"
+            ></p>
+
+            <p
+                id="jemla-call-popup-phone"
+                class="mt-0.5 text-sm font-medium text-gray-800 dark:text-white"
+            ></p>
+
+            <div class="mt-5 grid gap-2.5">
+                <a
+                    id="jemla-call-popup-whatsapp"
+                    href="#"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="flex items-center justify-center gap-2 rounded-lg bg-green-600 px-4 py-2.5 font-medium text-white hover:bg-green-700"
+                >
+                    @lang('admin::app.sales.orders.index.call-popup.whatsapp-call')
+                </a>
+
+                <a
+                    id="jemla-call-popup-sim"
+                    href="#"
+                    class="flex items-center justify-center gap-2 rounded-lg bg-blue-600 px-4 py-2.5 font-medium text-white hover:bg-blue-700"
+                >
+                    @lang('admin::app.sales.orders.index.call-popup.sim-call')
+                </a>
+
+                <button
+                    type="button"
+                    class="secondary-button"
+                    onclick="window.jemlaHideCallPopup();"
+                >
+                    @lang('admin::app.sales.orders.index.call-popup.close')
+                </button>
+            </div>
+        </div>
+    </div>
 
     @include('admin::customers.customers.index.create')
 
@@ -366,6 +448,42 @@
                     },
                 }
             });
+        </script>
+    @endPushOnce
+    @pushOnce('scripts')
+        <script>
+            window.jemlaNormalizePhone = function (phone) {
+                var digits = String(phone || '').replace(/[^0-9]/g, '');
+
+                if (digits.indexOf('212') === 0) {
+                    return digits;
+                }
+
+                if (digits.charAt(0) === '0') {
+                    return '212' + digits.slice(1);
+                }
+
+                return digits;
+            };
+
+            window.jemlaShowCallPopup = function (phone, name) {
+                var normalized = window.jemlaNormalizePhone(phone);
+
+                document.getElementById('jemla-call-popup-name').textContent = name || '';
+                document.getElementById('jemla-call-popup-phone').textContent = phone || '';
+                document.getElementById('jemla-call-popup-whatsapp').href = 'https://wa.me/' + normalized;
+                document.getElementById('jemla-call-popup-sim').href = 'tel:' + normalized;
+
+                var popup = document.getElementById('jemla-call-popup');
+                popup.classList.remove('hidden');
+                popup.classList.add('flex');
+            };
+
+            window.jemlaHideCallPopup = function () {
+                var popup = document.getElementById('jemla-call-popup');
+                popup.classList.add('hidden');
+                popup.classList.remove('flex');
+            };
         </script>
     @endPushOnce
 </x-admin::layouts>

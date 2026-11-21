@@ -40,12 +40,16 @@ class OrderDataGrid extends DataGrid
                 'customer_email',
                 'orders.cart_id as items',
                 DB::raw('CONCAT('.DB::getTablePrefix().'orders.customer_first_name, " ", '.DB::getTablePrefix().'orders.customer_last_name) as full_name'),
-                DB::raw('CONCAT('.DB::getTablePrefix().'order_address_billing.city, ", ", '.DB::getTablePrefix().'order_address_billing.state,", ", '.DB::getTablePrefix().'order_address_billing.country) as location')
+                DB::raw('CONCAT('.DB::getTablePrefix().'order_address_billing.city, ", ", '.DB::getTablePrefix().'order_address_billing.state,", ", '.DB::getTablePrefix().'order_address_billing.country) as location'),
+                'order_address_billing.phone as phone',
+                'order_address_billing.address as address',
+                'order_address_billing.city as city'
             )
             ->groupBy('orders.id');
 
         $this->addFilter('full_name', DB::raw('CONCAT('.DB::getTablePrefix().'orders.customer_first_name, " ", '.DB::getTablePrefix().'orders.customer_last_name)'));
         $this->addFilter('created_at', 'orders.created_at');
+        $this->addFilter('phone', 'order_address_billing.phone');
 
         return $queryBuilder;
     }
@@ -238,6 +242,15 @@ class OrderDataGrid extends DataGrid
             'sortable' => true,
         ]);
 
+        $this->addColumn([
+            'index' => 'phone',
+            'label' => trans('admin::app.sales.orders.index.datagrid.phone'),
+            'type' => 'string',
+            'searchable' => true,
+            'filterable' => true,
+            'sortable' => true,
+        ]);
+
         /**
          * Searchable dropdown sample. In testing phase.
          */
@@ -265,6 +278,16 @@ class OrderDataGrid extends DataGrid
                 $order = app(OrderRepository::class)->with('items')->find($value->id);
 
                 return view('admin::sales.orders.items', compact('order'))->render();
+            },
+        ]);
+
+        $this->addColumn([
+            'index' => 'whatsapp_confirm',
+            'label' => trans('admin::app.sales.orders.index.datagrid.whatsapp-confirm'),
+            'type' => 'string',
+            'exportable' => false,
+            'closure' => function ($row) {
+                return $this->getWhatsAppConfirmationUrl($row);
             },
         ]);
 
@@ -361,5 +384,64 @@ class OrderDataGrid extends DataGrid
                 ],
             ]);
         }
+    }
+
+    /**
+     * Build the WhatsApp confirmation URL for an order, using the
+     * admin-configured message template.
+     */
+    protected function getWhatsAppConfirmationUrl($row): string
+    {
+        $phone = $this->normalizePhone($row->phone ?? null);
+
+        if (! $phone) {
+            return '';
+        }
+
+        $order = app(OrderRepository::class)->with('items')->find($row->id);
+
+        if (! $order) {
+            return '';
+        }
+
+        $products = $order->items->map(fn ($item) => $item->name)->filter()->unique()->join(', ');
+
+        $template = core()->getConfigData('general.general.whatsapp.admin_confirmation_message');
+
+        if (! $template) {
+            $template = 'السلام عليكم {name}، معك {store}. بغيت نأكد معك الطلب ديالك رقم {order_id}: {products} — المجموع {total}. واش نأكدو؟';
+        }
+
+        $message = str_replace(
+            ['{order_id}', '{name}', '{total}', '{products}', '{store}'],
+            [
+                $row->increment_id,
+                trim((string) $row->full_name),
+                core()->formatPrice((float) $row->base_grand_total),
+                $products,
+                $row->channel_name ?? '',
+            ],
+            $template
+        );
+
+        return 'https://api.whatsapp.com/send?phone='.$phone.'&text='.rawurlencode($message);
+    }
+
+    /**
+     * Normalize a Moroccan phone number to international format (212...).
+     */
+    protected function normalizePhone(?string $phone): string
+    {
+        $digits = preg_replace('/[^0-9]/', '', (string) $phone);
+
+        if (str_starts_with($digits, '212')) {
+            return $digits;
+        }
+
+        if (str_starts_with($digits, '0')) {
+            return '212'.substr($digits, 1);
+        }
+
+        return $digits;
     }
 }
