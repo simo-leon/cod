@@ -4146,6 +4146,16 @@ return [
                         'title' => 'Paramètres WhatsApp',
                         'title-info' => 'Configurer le numéro WhatsApp, la confirmation de commande et le widget flottant.',
                     ],
+                    'contact-info' => [
+                        'address' => 'Adresse du magasin',
+                        'address-info' => 'Adresse physique affichée dans le pied de page et sur la page contact. Laissez vide pour garder le texte provisoire.',
+                        'email' => 'Email de contact',
+                        'email-info' => 'Email de contact affiché dans le pied de page et sur la page contact. Laissez vide pour garder le texte provisoire.',
+                        'ice' => 'Numéro ICE',
+                        'ice-info' => 'Numéro ICE affiché dans le pied de page et sur la page contact. Laissez vide pour garder le texte provisoire.',
+                        'title' => 'Coordonnées',
+                        'title-info' => 'Adresse du magasin, email de contact et numéro ICE affichés dans le pied de page et sur la page contact.',
+                    ],
                 ],
 
                 'content' => [

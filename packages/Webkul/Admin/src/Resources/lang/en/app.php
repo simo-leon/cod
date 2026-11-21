@@ -4174,6 +4174,16 @@ return [
                         'title' => 'WhatsApp Settings',
                         'title-info' => 'Configure WhatsApp contact number, order confirmation and storefront popup.',
                     ],
+                    'contact-info' => [
+                        'address' => 'Store Address',
+                        'address-info' => 'Physical address shown in the footer and on the contact page. Leave empty to show the placeholder text.',
+                        'email' => 'Contact Email',
+                        'email-info' => 'Public contact email shown in the footer and on the contact page. Leave empty to show the placeholder text.',
+                        'ice' => 'ICE Number',
+                        'ice-info' => 'ICE (Identifiant Commun de l\'Entreprise) shown in the footer and on the contact page. Leave empty to show the placeholder text.',
+                        'title' => 'Contact Information',
+                        'title-info' => 'Store address, contact email and ICE number shown in the footer and on the contact page.',
+                    ],
                 ],
 
                 'content' => [

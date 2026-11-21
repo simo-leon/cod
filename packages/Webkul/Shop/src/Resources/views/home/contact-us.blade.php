@@ -16,11 +16,15 @@
                 @lang('shop::app.home.contact.about')
             </p>
 
-            <!-- Contact information: WhatsApp comes from the admin settings;
-                 address / email / ICE are placeholders until Simo provides them. -->
+            <!-- Contact information: WhatsApp, address, email and ICE all come
+                 from the admin settings (Configuration > General > WhatsApp /
+                 Contact Information); the placeholder shows when a value is empty. -->
             @php
                 $contactWaEnabled = core()->getConfigData('general.general.whatsapp.status');
                 $contactWaPhone = preg_replace('/[^0-9]/', '', (string) core()->getConfigData('general.general.whatsapp.phone_number'));
+                $contactAddress = trim((string) core()->getConfigData('general.general.contact-info.address'));
+                $contactEmail = trim((string) core()->getConfigData('general.general.contact-info.email'));
+                $contactIce = trim((string) core()->getConfigData('general.general.contact-info.ice'));
             @endphp
 
             <div class="mt-10 grid gap-3 rounded-xl bg-zinc-50 p-6 max-sm:mt-6 max-sm:p-4">
@@ -40,15 +44,15 @@
                 @endif
 
                 <p class="text-zinc-600 max-sm:text-sm">
-                    @lang('shop::app.home.contact.address'): @lang('shop::app.home.contact.to-be-completed')
+                    @lang('shop::app.home.contact.address'): {{ $contactAddress ?: trans('shop::app.home.contact.to-be-completed') }}
                 </p>
 
                 <p class="text-zinc-600 max-sm:text-sm">
-                    @lang('shop::app.home.contact.email'): @lang('shop::app.home.contact.to-be-completed')
+                    @lang('shop::app.home.contact.email'): {{ $contactEmail ?: trans('shop::app.home.contact.to-be-completed') }}
                 </p>
 
                 <p class="text-zinc-600 max-sm:text-sm">
-                    @lang('shop::app.home.contact.ice'): @lang('shop::app.home.contact.to-be-completed')
+                    @lang('shop::app.home.contact.ice'): {{ $contactIce ?: trans('shop::app.home.contact.to-be-completed') }}
                 </p>
             </div>
 

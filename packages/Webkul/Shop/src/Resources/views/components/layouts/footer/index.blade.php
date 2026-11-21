@@ -87,11 +87,15 @@
             </x-slot>
         </x-shop::accordion>
 
-        <!-- Contact info: WhatsApp comes from the admin settings;
-             address / email / ICE are placeholders until Simo provides them. -->
+        <!-- Contact info: WhatsApp, address, email and ICE all come from the
+             admin settings (Configuration > General > WhatsApp / Contact
+             Information); the placeholder shows when a value is empty. -->
         @php
             $footerWaEnabled = core()->getConfigData('general.general.whatsapp.status');
             $footerWaPhone = preg_replace('/[^0-9]/', '', (string) core()->getConfigData('general.general.whatsapp.phone_number'));
+            $footerAddress = trim((string) core()->getConfigData('general.general.contact-info.address'));
+            $footerEmail = trim((string) core()->getConfigData('general.general.contact-info.email'));
+            $footerIce = trim((string) core()->getConfigData('general.general.contact-info.ice'));
         @endphp
 
         <div class="grid content-start gap-2.5">
@@ -111,15 +115,15 @@
             @endif
 
             <p class="text-sm">
-                @lang('shop::app.components.layouts.footer.address'): @lang('shop::app.components.layouts.footer.to-be-completed')
+                @lang('shop::app.components.layouts.footer.address'): {{ $footerAddress ?: trans('shop::app.components.layouts.footer.to-be-completed') }}
             </p>
 
             <p class="text-sm">
-                @lang('shop::app.components.layouts.footer.email'): @lang('shop::app.components.layouts.footer.to-be-completed')
+                @lang('shop::app.components.layouts.footer.email'): {{ $footerEmail ?: trans('shop::app.components.layouts.footer.to-be-completed') }}
             </p>
 
             <p class="text-sm">
-                @lang('shop::app.components.layouts.footer.ice'): @lang('shop::app.components.layouts.footer.to-be-completed')
+                @lang('shop::app.components.layouts.footer.ice'): {{ $footerIce ?: trans('shop::app.components.layouts.footer.to-be-completed') }}
             </p>
         </div>
 

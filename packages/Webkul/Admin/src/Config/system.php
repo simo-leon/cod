@@ -96,6 +96,32 @@ return [
             ],
         ],
     ], [
+        'key' => 'general.general.contact-info',
+        'name' => 'admin::app.configuration.index.general.general.contact-info.title',
+        'info' => 'admin::app.configuration.index.general.general.contact-info.title-info',
+        'sort' => 4,
+        'fields' => [
+            [
+                'name' => 'address',
+                'title' => 'admin::app.configuration.index.general.general.contact-info.address',
+                'info' => 'admin::app.configuration.index.general.general.contact-info.address-info',
+                'type' => 'textarea',
+                'channel_based' => true,
+            ], [
+                'name' => 'email',
+                'title' => 'admin::app.configuration.index.general.general.contact-info.email',
+                'info' => 'admin::app.configuration.index.general.general.contact-info.email-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'ice',
+                'title' => 'admin::app.configuration.index.general.general.contact-info.ice',
+                'info' => 'admin::app.configuration.index.general.general.contact-info.ice-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ],
+        ],
+    ], [
         'key' => 'general.content',
         'name' => 'admin::app.configuration.index.general.content.title',
         'info' => 'admin::app.configuration.index.general.content.info',
