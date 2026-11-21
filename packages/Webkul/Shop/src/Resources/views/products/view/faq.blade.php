@@ -87,9 +87,7 @@
 
     $items = $faqs[$locale] ?? $faqs['ar'];
 
-    $whatsappPhone = core()->getConfigData('general.general.contact.whatsapp_number')
-        ?? core()->getConfigData('general.content.custom_scripts.whatsapp')
-        ?? '212600000000';
+    $whatsappPhone = core()->getConfigData('general.general.whatsapp.phone_number');
     $cleanPhone = preg_replace('/[^0-9]/', '', (string) $whatsappPhone);
 @endphp
 
@@ -146,7 +144,8 @@
         </details>
     @endforeach
 
-    <!-- Help WhatsApp Banner -->
+    <!-- Help WhatsApp Banner (only when the admin WhatsApp number is set) -->
+    @if ($cleanPhone)
     <div class="mt-4 flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-emerald-200 bg-gradient-to-r from-emerald-50 to-teal-50/40 p-4">
         <div class="flex items-center gap-3">
             <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-[#25D366] text-white shadow-sm">
@@ -176,4 +175,5 @@
             </svg>
         </a>
     </div>
+    @endif
 </div>
