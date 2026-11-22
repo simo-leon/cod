@@ -271,7 +271,7 @@ class SoukService implements SoukServiceInterface
             return false;
         }
 
-        return (bool) DB::transaction(function () use ($task, $buyer, $price, $note) {
+        return (bool) DB::transaction(function () use ($task, $price, $note) {
             $locked = SoukTask::query()->where('id', $task->id)->lockForUpdate()->first();
 
             if (! $locked || $locked->status !== SoukTask::STATUS_CLAIMED) {

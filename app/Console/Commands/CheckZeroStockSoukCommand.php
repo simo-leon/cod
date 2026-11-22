@@ -3,7 +3,6 @@
 namespace App\Console\Commands;
 
 use App\Cod\Souk\SoukServiceInterface;
-use App\Models\SoukTask;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Schema;
 

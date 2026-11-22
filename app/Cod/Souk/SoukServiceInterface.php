@@ -2,6 +2,7 @@
 
 namespace App\Cod\Souk;
 
+use App\Models\SoukPayment;
 use App\Models\SoukProductSourcing;
 use App\Models\SoukTask;
 use Illuminate\Database\Eloquent\Collection;
@@ -34,7 +35,7 @@ interface SoukServiceInterface
 
     public function verify(SoukTask $task, Admin $controller, bool $approve, ?string $reason = null): bool;
 
-    public function recordPayment(SoukTask $task, Admin $paidBy, float $amount, string $type, ?string $note = null): ?\App\Models\SoukPayment;
+    public function recordPayment(SoukTask $task, Admin $paidBy, float $amount, string $type, ?string $note = null): ?SoukPayment;
 
     public function cancel(SoukTask $task, Admin $admin, ?string $reason = null): bool;
 
