@@ -76,6 +76,22 @@ class ProductMatcher
             ->where(function ($query) use ($tokens) {
                 foreach ($tokens as $token) {
                     $query->orWhere('name', 'LIKE', '%'.$token.'%');
+
+                    // Arabic letter variants (alef forms, teh marbuta /
+                    // heh, alef maksura / yeh) are unified by
+                    // normalize(), but the database stores the original
+                    // spelling: a LIKE on the normalized token alone
+                    // misses every name whose spelling differs (e.g. the
+                    // token 'ساعه' never matches the stored 'ساعة', so
+                    // a query whose tokens all contain ة/ى returns
+                    // nothing). The wildcarded form matches every
+                    // variant; the exact normalized scoring below still
+                    // decides whether a candidate really matches.
+                    $wild = str_replace(['ا', 'ه', 'ي'], '_', $token);
+
+                    if ($wild !== $token) {
+                        $query->orWhere('name', 'LIKE', '%'.$wild.'%');
+                    }
                 }
             })
             ->limit(100)

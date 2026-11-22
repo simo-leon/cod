@@ -512,7 +512,7 @@ class WhatsAppService implements WhatsAppServiceInterface
         }
 
         $postponed = ['أجل', 'اجل', 'لاحق', 'بعدين', 'غدا', 'غداً', 'غد', 'delay', 'postpone', 'plus tard', 'demain', 'rappel', 'call me later', 'later'];
-        $canceled = ['ألغ', 'الغ', 'إلغاء', 'الغاء', 'cancel', 'annul', 'refus', 'لا أريد', 'لا اريد', 'non merci'];
+        $canceled = ['ألغ', 'الغ', 'إلغاء', 'الغاء', 'cancel', 'annul', 'refus', 'رفض', 'لا أريد', 'لا اريد', 'ما بغيت', 'مابغيت', 'بغيتوش', 'بغيتش', 'non merci'];
         $confirmed = ['أكد', 'اكد', 'أؤكد', 'اؤكد', 'نعم', 'موافق', 'أكيد', 'اكيد', 'oui', 'yes', 'confirm', 'ok', 'okay'];
 
         foreach ($postponed as $word) {

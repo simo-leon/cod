@@ -21,7 +21,12 @@
 
                     <button
                         type="submit"
-                        class="whitespace-nowrap rounded-lg bg-rose-600 px-3 py-2 text-xs font-semibold text-white hover:bg-rose-700"
+                        {{-- bg-rose-700, not bg-rose-600: the committed
+                            admin CSS build predates this button and has
+                            no bg-rose-600 / hover:bg-rose-700, so the
+                            button rendered white-on-transparent and was
+                            invisible. bg-rose-700 is in the build. --}}
+                        class="whitespace-nowrap rounded-lg bg-rose-700 px-3 py-2 text-xs font-semibold text-white hover:bg-rose-700"
                         onclick="return confirm(@js(trans('admin::app.cod.conversations.handoff-confirm')))"
                     >
                         @lang('admin::app.cod.conversations.handoff')
