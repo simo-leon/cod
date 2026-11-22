@@ -911,6 +911,57 @@ return [
                 'channel_based' => true,
             ],
         ],
+    ], [
+
+        /**
+         * COD System — AI reply understanding.
+         *
+         * An OpenAI-compatible chat completions client
+         * (app/Cod/Ai/OpenAiCompatibleReplyClassifier) classifies
+         * free-text customer replies on WhatsApp (Darija, Arabic,
+         * French). Off by default; when off, unconfigured or failing,
+         * WhatsAppService falls back to keyword matching.
+         *
+         * NOTE: Meta's Llama API (the default base URL) has been
+         * gated / preview-only since October 2026 with no self-serve
+         * access. The client works with any OpenAI-compatible
+         * endpoint (OpenRouter, Groq, ...) — change only the base
+         * URL, API key and model here, no code change is needed.
+         */
+        'key' => 'general.cod_system.ai',
+        'name' => 'admin::app.configuration.index.general.cod-system.ai.title',
+        'info' => 'admin::app.configuration.index.general.cod-system.ai.title-info',
+        'sort' => 3,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.cod-system.ai.status',
+                'info' => 'admin::app.configuration.index.general.cod-system.ai.status-info',
+                'type' => 'boolean',
+                'default' => false,
+                'channel_based' => true,
+            ], [
+                'name' => 'base_url',
+                'title' => 'admin::app.configuration.index.general.cod-system.ai.base-url',
+                'info' => 'admin::app.configuration.index.general.cod-system.ai.base-url-info',
+                'type' => 'text',
+                'default' => 'https://api.llama.com/compat/v1',
+                'channel_based' => true,
+            ], [
+                'name' => 'api_key',
+                'title' => 'admin::app.configuration.index.general.cod-system.ai.api-key',
+                'info' => 'admin::app.configuration.index.general.cod-system.ai.api-key-info',
+                'type' => 'password',
+                'channel_based' => true,
+            ], [
+                'name' => 'model',
+                'title' => 'admin::app.configuration.index.general.cod-system.ai.model',
+                'info' => 'admin::app.configuration.index.general.cod-system.ai.model-info',
+                'type' => 'text',
+                'default' => 'Llama-4-Maverick-17B-128E-Instruct-FP8',
+                'channel_based' => true,
+            ],
+        ],
     ],
 
     /**

@@ -4589,6 +4589,18 @@ return [
                         'reminder-delay-minutes' => 'Délai de rappel (minutes)',
                         'reminder-delay-minutes-info' => 'Attendre ce délai après le message de confirmation avant d’envoyer le rappel. Par défaut 120 minutes (2 heures).',
                     ],
+                    'ai' => [
+                        'title' => 'Compréhension des réponses par IA',
+                        'title-info' => 'Utiliser une API de chat completions compatible OpenAI pour comprendre les réponses libres des clients sur WhatsApp (darija marocaine, arabe, français). Quand l’IA est désactivée, non configurée ou en échec, la détection par mots-clés est utilisée à la place — rien ne change. NOTE : l’API Llama de Meta est en accès restreint / preview depuis octobre 2026, sans accès libre-service ; le client fonctionne avec n’importe quel endpoint compatible (OpenRouter, Groq, ...) en changeant seulement l’URL de base, la clé API et le modèle ici — aucune modification de code nécessaire.',
+                        'status' => 'Activer la compréhension des réponses par IA',
+                        'status-info' => 'Laisser l’IA classer d’abord les réponses des clients (confirmer / reporter / annuler / question / incompris). Désactivé par défaut.',
+                        'base-url' => 'URL de base de l’IA',
+                        'base-url-info' => 'URL de base de l’API compatible OpenAI, sans slash final. Par défaut l’API Llama (https://api.llama.com/compat/v1) ; utilisez par ex. https://openrouter.ai/api/v1 ou https://api.groq.com/openai/v1 pour un autre fournisseur.',
+                        'api-key' => 'Clé API de l’IA',
+                        'api-key-info' => 'Clé API du fournisseur d’IA. Ne jamais la partager. Elle est stockée uniquement dans la configuration et n’est jamais journalisée.',
+                        'model' => 'Modèle IA',
+                        'model-info' => 'Nom du modèle envoyé à l’API, ex. Llama-4-Maverick-17B-128E-Instruct-FP8. Changez-le pour le modèle du fournisseur que vous utilisez.',
+                    ],
                 ],
             ],
 

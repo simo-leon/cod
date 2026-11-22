@@ -2,6 +2,7 @@
 
 namespace App\Cod\WhatsApp;
 
+use App\Cod\Ai\ReplyIntentClassifierInterface;
 use App\Models\CodCallLog;
 use App\Models\CodOrder;
 use App\Models\CodWhatsAppMessage;
@@ -9,6 +10,15 @@ use Illuminate\Support\Facades\Log;
 
 /**
  * WhatsApp for the COD System (phase 4).
+ *
+ * Reply understanding: interpretReply() asks the LLM classifier
+ * (app/Cod/Ai/, OpenAI-compatible chat completions, admin switch in
+ * COD System → AI) FIRST when it is enabled and configured. When the
+ * AI is disabled, unconfigured or fails — or when it answers
+ * "question" / "unclear" — the behaviour is exactly the old one:
+ * keyword matching below, and question / unclear change no order
+ * status, they are only recorded. A failed AI can therefore never
+ * break confirmations.
  *
  * Sending goes through the provider selected in the admin
  * (general.cod_system.whatsapp.provider): Meta Cloud API for
@@ -64,6 +74,18 @@ class WhatsAppService implements WhatsAppServiceInterface
         ['id' => MetaWhatsAppProvider::BUTTON_POSTPONE, 'title' => 'أجل الطلب'],
         ['id' => MetaWhatsAppProvider::BUTTON_CANCEL, 'title' => 'ألغي الطلب'],
     ];
+
+    protected ?ReplyIntentClassifierInterface $classifier;
+
+    /**
+     * The classifier is optional so the service keeps working exactly
+     * as before when no AI is bound (e.g. plain `new WhatsAppService()`
+     * in a test): interpretReply() then only does keyword matching.
+     */
+    public function __construct(?ReplyIntentClassifierInterface $classifier = null)
+    {
+        $this->classifier = $classifier;
+    }
 
     public function isEnabled(): bool
     {
@@ -226,6 +248,25 @@ class WhatsAppService implements WhatsAppServiceInterface
 
         if ($clean === '') {
             return null;
+        }
+
+        // LLM first: when the AI is enabled and configured and answers,
+        // its verdict wins. confirmed / postponed / canceled change the
+        // order; question / unclear change nothing (null, same as an
+        // unrecognized reply today). When the AI is disabled,
+        // unconfigured or fails it returns null and we fall through to
+        // the keyword matcher below — the old behaviour, unchanged.
+        if ($this->classifier !== null) {
+            $intent = $this->classifier->classify($text);
+
+            if ($intent !== null) {
+                return match ($intent) {
+                    ReplyIntentClassifierInterface::INTENT_CONFIRMED => 'confirmed',
+                    ReplyIntentClassifierInterface::INTENT_POSTPONED => 'postponed',
+                    ReplyIntentClassifierInterface::INTENT_CANCELED => 'canceled',
+                    default => null,
+                };
+            }
         }
 
         // Evolution numbered text: a leading digit decides (1/2/3).

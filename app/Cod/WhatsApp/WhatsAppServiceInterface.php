@@ -70,8 +70,13 @@ interface WhatsAppServiceInterface
     /**
      * Interpret a customer reply as a confirmation outcome:
      * 'confirmed' | 'postponed' | 'canceled', or null when the text
-     * means none of those. Understands digits (1/2/3, Evolution
-     * numbered text), Arabic, French and English words.
+     * means none of those. The LLM classifier (when enabled and
+     * configured in COD System → AI) is asked first; when it is
+     * disabled, unconfigured or fails, the built-in keyword matcher
+     * below is used instead. A 'question' or 'unclear' answer from
+     * the LLM also returns null: the order status does not change.
+     * Understands digits (1/2/3, Evolution numbered text), Arabic,
+     * French and English words.
      */
     public function interpretReply(?string $text): ?string;
 

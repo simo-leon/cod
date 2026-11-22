@@ -2,6 +2,8 @@
 
 namespace App\Providers;
 
+use App\Cod\Ai\OpenAiCompatibleReplyClassifier;
+use App\Cod\Ai\ReplyIntentClassifierInterface;
 use App\Cod\Analytics\AnalyticsService;
 use App\Cod\Analytics\AnalyticsServiceInterface;
 use App\Cod\Confirmation\AssignmentService;
@@ -42,6 +44,8 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(CallLogServiceInterface::class, CallLogService::class);
 
         $this->app->singleton(WhatsAppServiceInterface::class, WhatsAppService::class);
+
+        $this->app->singleton(ReplyIntentClassifierInterface::class, OpenAiCompatibleReplyClassifier::class);
 
         $this->app->singleton(DeliveryServiceInterface::class, DeliveryService::class);
 

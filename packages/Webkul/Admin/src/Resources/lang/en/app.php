@@ -4636,6 +4636,18 @@ return [
                         'reminder-delay-minutes' => 'Reminder Delay (minutes)',
                         'reminder-delay-minutes-info' => 'Wait this long after the confirmation message before sending the reminder. Default 120 minutes (2 hours).',
                     ],
+                    'ai' => [
+                        'title' => 'AI Reply Understanding',
+                        'title-info' => 'Use an OpenAI-compatible chat completions API to understand free-text customer replies on WhatsApp (Moroccan Darija, Arabic, French). When the AI is disabled, unconfigured or fails, the built-in keyword matching is used instead — nothing changes. NOTE: Meta\'s Llama API has been gated / preview-only since October 2026 with no self-serve access; the client works with any compatible endpoint (OpenRouter, Groq, ...) by changing only the base URL, API key and model here — no code change needed.',
+                        'status' => 'Enable AI Reply Understanding',
+                        'status-info' => 'Let the AI classify customer replies first (confirm / postpone / cancel / question / unclear). Disabled by default.',
+                        'base-url' => 'AI Base URL',
+                        'base-url-info' => 'Base URL of the OpenAI-compatible API, without a trailing slash. Default is the Llama API (https://api.llama.com/compat/v1); use e.g. https://openrouter.ai/api/v1 or https://api.groq.com/openai/v1 for another provider.',
+                        'api-key' => 'AI API Key',
+                        'api-key-info' => 'API key of the AI provider. Never share it. It is stored only in the configuration and is never logged.',
+                        'model' => 'AI Model',
+                        'model-info' => 'Model name sent to the API, e.g. Llama-4-Maverick-17B-128E-Instruct-FP8. Change it to the model of the provider you use.',
+                    ],
                 ],
             ],
 
