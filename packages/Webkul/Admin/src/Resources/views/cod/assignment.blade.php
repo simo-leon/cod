@@ -3,7 +3,7 @@
         @lang('admin::app.cod.assignment.title')
     </x-slot>
 
-    <div class="flex items-center justify-between gap-4 max-sm:flex-wrap">
+    <div class="flex flex-wrap items-center justify-between gap-3">
         <div class="grid gap-1.5">
             <p class="text-xl font-bold !leading-normal text-gray-800 dark:text-white">
                 @lang('admin::app.cod.assignment.title')
@@ -14,7 +14,7 @@
             </p>
         </div>
 
-        <div class="flex gap-2">
+        <div class="flex flex-wrap gap-2">
             <a href="{{ $ordersUrl }}" class="secondary-button">
                 @lang('admin::app.cod.assignment.view-orders')
             </a>
@@ -34,175 +34,184 @@
     @endif
 
     <!-- Distribute the orders that have no confirmer yet -->
-    <div class="mt-8 flex flex-wrap items-center gap-4 rounded-lg border border-gray-200 bg-white p-4 dark:border-gray-800 dark:bg-gray-900">
-        <p class="text-sm text-gray-600 dark:text-gray-300">
-            @lang('admin::app.cod.assignment.unassigned-count', ['count' => $unassignedCount])
-        </p>
+    <div class="mt-8 rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
+        <div class="flex flex-wrap items-center justify-between gap-3 p-4">
+            <p class="text-sm text-gray-600 dark:text-gray-300">
+                @lang('admin::app.cod.assignment.unassigned-count', ['count' => $unassignedCount])
+            </p>
 
-        <form method="POST" action="{{ route('admin.cod.assignment.distribute') }}">
-            @csrf
+            <form method="POST" action="{{ route('admin.cod.assignment.distribute') }}">
+                @csrf
 
-            <button type="submit" class="primary-button" @disabled($unassignedCount === 0)>
-                @lang('admin::app.cod.assignment.distribute')
-            </button>
-        </form>
+                <button type="submit" class="primary-button whitespace-nowrap" @disabled($unassignedCount === 0)>
+                    @lang('admin::app.cod.assignment.distribute')
+                </button>
+            </form>
+        </div>
 
-        <p class="w-full text-xs text-gray-500 dark:text-gray-400">
+        <p class="border-t border-gray-200 px-4 py-3 text-xs text-gray-500 dark:border-gray-800 dark:text-gray-400">
             @lang('admin::app.cod.assignment.daily-limit-info', ['limit' => $dailyLimit])
         </p>
     </div>
 
-    <!-- Percentage rules -->
-    <div class="mt-8 rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
-        <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
-            @lang('admin::app.cod.assignment.percentage-rules')
-        </p>
-
-        <p class="p-4 pb-0 text-sm text-gray-600 dark:text-gray-300">
-            @lang('admin::app.cod.assignment.percentage-rules-info')
-        </p>
-
-        @if ($percentageRules->isEmpty())
-            <p class="p-4 text-sm text-gray-600 dark:text-gray-300">
-                @lang('admin::app.cod.assignment.no-percentage-rules')
+    <!-- Percentage and product rules, side by side -->
+    <div class="mt-8 grid gap-4 lg:grid-cols-2">
+        <!-- Percentage rules -->
+        <div class="rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
+            <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
+                @lang('admin::app.cod.assignment.percentage-rules')
             </p>
-        @else
-            <table class="mt-2 w-full text-left text-sm">
-                <thead>
-                    <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.assignment.confirmer')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.assignment.weight')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.assignment.assigned-today')</th>
-                        <th class="p-4 font-semibold"></th>
-                    </tr>
-                </thead>
 
-                <tbody>
-                    @foreach ($percentageRules as $rule)
-                        <tr class="border-b border-gray-100 last:border-0 dark:border-gray-800">
-                            <td class="p-4 text-gray-800 dark:text-white">{{ $rule->confirmer?->name ?? '—' }}</td>
-                            <td class="p-4 font-semibold text-gray-800 dark:text-white">{{ $rule->weight }}%</td>
-
-                            <td class="p-4 text-gray-800 dark:text-white">
-                                {{ $assignedToday[$rule->admin_id] ?? 0 }} / {{ $dailyLimit }}
-                            </td>
-
-                            <td class="p-4 text-right">
-                                <form method="POST" action="{{ route('admin.cod.assignment.rules.destroy', $rule) }}" onsubmit="return confirm('@lang('admin::app.cod.assignment.delete-confirm')')">
-                                    @csrf
-                                    @method('DELETE')
-
-                                    <button type="submit" class="text-sm font-semibold text-red-600 hover:underline dark:text-red-400">
-                                        @lang('admin::app.cod.assignment.delete')
-                                    </button>
-                                </form>
-                            </td>
-                        </tr>
-                    @endforeach
-                </tbody>
-            </table>
-        @endif
-
-        <form method="POST" action="{{ route('admin.cod.assignment.rules.store') }}" class="flex flex-wrap items-center gap-2 border-t border-gray-200 p-4 dark:border-gray-800">
-            @csrf
-
-            <input type="hidden" name="type" value="percentage">
-
-            <select name="admin_id" required class="rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
-                <option value="" disabled selected>@lang('admin::app.cod.assignment.choose-confirmer')</option>
-
-                @foreach ($confirmers as $confirmer)
-                    <option value="{{ $confirmer->id }}">{{ $confirmer->name }}</option>
-                @endforeach
-            </select>
-
-            <input
-                type="number"
-                name="weight"
-                min="0"
-                max="100"
-                required
-                placeholder="@lang('admin::app.cod.assignment.weight-placeholder')"
-                class="w-28 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white"
-            >
-
-            <button type="submit" class="primary-button">
-                @lang('admin::app.cod.assignment.add-rule')
-            </button>
-        </form>
-    </div>
-
-    <!-- Product rules -->
-    <div class="mt-8 rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
-        <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
-            @lang('admin::app.cod.assignment.product-rules')
-        </p>
-
-        <p class="p-4 pb-0 text-sm text-gray-600 dark:text-gray-300">
-            @lang('admin::app.cod.assignment.product-rules-info')
-        </p>
-
-        @if ($productRules->isEmpty())
-            <p class="p-4 text-sm text-gray-600 dark:text-gray-300">
-                @lang('admin::app.cod.assignment.no-product-rules')
+            <p class="p-4 pb-0 text-sm leading-relaxed text-gray-600 dark:text-gray-300">
+                @lang('admin::app.cod.assignment.percentage-rules-info')
             </p>
-        @else
-            <table class="mt-2 w-full text-left text-sm">
-                <thead>
-                    <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.assignment.confirmer')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.assignment.sku')</th>
-                        <th class="p-4 font-semibold"></th>
-                    </tr>
-                </thead>
 
-                <tbody>
-                    @foreach ($productRules as $rule)
-                        <tr class="border-b border-gray-100 last:border-0 dark:border-gray-800">
-                            <td class="p-4 text-gray-800 dark:text-white">{{ $rule->confirmer?->name ?? '—' }}</td>
-                            <td class="p-4 font-semibold text-gray-800 dark:text-white">{{ $rule->product_sku }}</td>
+            @if ($percentageRules->isEmpty())
+                <p class="p-4 text-sm text-gray-600 dark:text-gray-300">
+                    @lang('admin::app.cod.assignment.no-percentage-rules')
+                </p>
+            @else
+                <div class="overflow-x-auto">
+                    <table class="mt-2 w-full min-w-[400px] text-start text-sm">
+                        <thead>
+                            <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
+                                <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.assignment.confirmer')</th>
+                                <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.assignment.weight')</th>
+                                <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.assignment.assigned-today')</th>
+                                <th class="whitespace-nowrap p-4 text-start font-semibold"><span class="sr-only">@lang('admin::app.cod.assignment.delete')</span></th>
+                            </tr>
+                        </thead>
 
-                            <td class="p-4 text-right">
-                                <form method="POST" action="{{ route('admin.cod.assignment.rules.destroy', $rule) }}" onsubmit="return confirm('@lang('admin::app.cod.assignment.delete-confirm')')">
-                                    @csrf
-                                    @method('DELETE')
+                        <tbody>
+                            @foreach ($percentageRules as $rule)
+                                <tr class="border-b border-gray-100 last:border-0 hover:bg-gray-50 dark:border-gray-800 dark:hover:bg-gray-800/50">
+                                    <td class="whitespace-nowrap p-4 text-gray-800 dark:text-white">{{ $rule->confirmer?->name ?? '—' }}</td>
+                                    <td class="whitespace-nowrap p-4 font-semibold tabular-nums text-gray-800 dark:text-white">{{ $rule->weight }}%</td>
 
-                                    <button type="submit" class="text-sm font-semibold text-red-600 hover:underline dark:text-red-400">
-                                        @lang('admin::app.cod.assignment.delete')
-                                    </button>
-                                </form>
-                            </td>
-                        </tr>
+                                    <td class="whitespace-nowrap p-4 tabular-nums text-gray-800 dark:text-white">
+                                        {{ $assignedToday[$rule->admin_id] ?? 0 }} / {{ $dailyLimit }}
+                                    </td>
+
+                                    <td class="p-4 text-end">
+                                        <form method="POST" action="{{ route('admin.cod.assignment.rules.destroy', $rule) }}" onsubmit="return confirm('@lang('admin::app.cod.assignment.delete-confirm')')">
+                                            @csrf
+                                            @method('DELETE')
+
+                                            <button type="submit" class="whitespace-nowrap text-sm font-semibold text-red-600 hover:underline dark:text-red-400">
+                                                @lang('admin::app.cod.assignment.delete')
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            @endforeach
+                        </tbody>
+                    </table>
+                </div>
+            @endif
+
+            <form method="POST" action="{{ route('admin.cod.assignment.rules.store') }}" class="flex flex-wrap items-center gap-2 border-t border-gray-200 p-4 dark:border-gray-800">
+                @csrf
+
+                <input type="hidden" name="type" value="percentage">
+
+                <select name="admin_id" required class="min-w-40 flex-1 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
+                    <option value="" disabled selected>@lang('admin::app.cod.assignment.choose-confirmer')</option>
+
+                    @foreach ($confirmers as $confirmer)
+                        <option value="{{ $confirmer->id }}">{{ $confirmer->name }}</option>
                     @endforeach
-                </tbody>
-            </table>
-        @endif
+                </select>
 
-        <form method="POST" action="{{ route('admin.cod.assignment.rules.store') }}" class="flex flex-wrap items-center gap-2 border-t border-gray-200 p-4 dark:border-gray-800">
-            @csrf
+                <input
+                    type="number"
+                    name="weight"
+                    min="0"
+                    max="100"
+                    required
+                    placeholder="@lang('admin::app.cod.assignment.weight-placeholder')"
+                    class="w-40 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white"
+                >
 
-            <input type="hidden" name="type" value="product">
+                <button type="submit" class="primary-button whitespace-nowrap">
+                    @lang('admin::app.cod.assignment.add-rule')
+                </button>
+            </form>
+        </div>
 
-            <select name="admin_id" required class="rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
-                <option value="" disabled selected>@lang('admin::app.cod.assignment.choose-confirmer')</option>
+        <!-- Product rules -->
+        <div class="rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
+            <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
+                @lang('admin::app.cod.assignment.product-rules')
+            </p>
 
-                @foreach ($confirmers as $confirmer)
-                    <option value="{{ $confirmer->id }}">{{ $confirmer->name }}</option>
-                @endforeach
-            </select>
+            <p class="p-4 pb-0 text-sm leading-relaxed text-gray-600 dark:text-gray-300">
+                @lang('admin::app.cod.assignment.product-rules-info')
+            </p>
 
-            <input
-                type="text"
-                name="product_sku"
-                required
-                maxlength="255"
-                placeholder="@lang('admin::app.cod.assignment.sku-placeholder')"
-                class="w-48 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white"
-            >
+            @if ($productRules->isEmpty())
+                <p class="p-4 text-sm text-gray-600 dark:text-gray-300">
+                    @lang('admin::app.cod.assignment.no-product-rules')
+                </p>
+            @else
+                <div class="overflow-x-auto">
+                    <table class="mt-2 w-full min-w-[400px] text-start text-sm">
+                        <thead>
+                            <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
+                                <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.assignment.confirmer')</th>
+                                <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.assignment.sku')</th>
+                                <th class="whitespace-nowrap p-4 text-start font-semibold"><span class="sr-only">@lang('admin::app.cod.assignment.delete')</span></th>
+                            </tr>
+                        </thead>
 
-            <button type="submit" class="primary-button">
-                @lang('admin::app.cod.assignment.add-rule')
-            </button>
-        </form>
+                        <tbody>
+                            @foreach ($productRules as $rule)
+                                <tr class="border-b border-gray-100 last:border-0 hover:bg-gray-50 dark:border-gray-800 dark:hover:bg-gray-800/50">
+                                    <td class="whitespace-nowrap p-4 text-gray-800 dark:text-white">{{ $rule->confirmer?->name ?? '—' }}</td>
+                                    <td class="whitespace-nowrap p-4 font-semibold text-gray-800 dark:text-white">{{ $rule->product_sku }}</td>
+
+                                    <td class="p-4 text-end">
+                                        <form method="POST" action="{{ route('admin.cod.assignment.rules.destroy', $rule) }}" onsubmit="return confirm('@lang('admin::app.cod.assignment.delete-confirm')')">
+                                            @csrf
+                                            @method('DELETE')
+
+                                            <button type="submit" class="whitespace-nowrap text-sm font-semibold text-red-600 hover:underline dark:text-red-400">
+                                                @lang('admin::app.cod.assignment.delete')
+                                            </button>
+                                        </form>
+                                    </td>
+                                </tr>
+                            @endforeach
+                        </tbody>
+                    </table>
+                </div>
+            @endif
+
+            <form method="POST" action="{{ route('admin.cod.assignment.rules.store') }}" class="flex flex-wrap items-center gap-2 border-t border-gray-200 p-4 dark:border-gray-800">
+                @csrf
+
+                <input type="hidden" name="type" value="product">
+
+                <select name="admin_id" required class="min-w-40 flex-1 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
+                    <option value="" disabled selected>@lang('admin::app.cod.assignment.choose-confirmer')</option>
+
+                    @foreach ($confirmers as $confirmer)
+                        <option value="{{ $confirmer->id }}">{{ $confirmer->name }}</option>
+                    @endforeach
+                </select>
+
+                <input
+                    type="text"
+                    name="product_sku"
+                    required
+                    maxlength="255"
+                    placeholder="@lang('admin::app.cod.assignment.sku-placeholder')"
+                    class="w-48 rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white"
+                >
+
+                <button type="submit" class="primary-button whitespace-nowrap">
+                    @lang('admin::app.cod.assignment.add-rule')
+                </button>
+            </form>
+        </div>
     </div>
 </x-admin::layouts>

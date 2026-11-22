@@ -3,7 +3,7 @@
         @lang('admin::app.cod.orders.title')
     </x-slot>
 
-    <div class="flex items-center justify-between gap-4 max-sm:flex-wrap">
+    <div class="flex flex-wrap items-center justify-between gap-3">
         <div class="grid gap-1.5">
             <p class="text-xl font-bold !leading-normal text-gray-800 dark:text-white">
                 @lang('admin::app.cod.orders.title')
@@ -14,12 +14,12 @@
             </p>
         </div>
 
-        <div class="flex gap-2">
+        <div class="flex flex-wrap gap-2">
             @if ($canManageAssignment && $unassignedCount > 0)
                 <form method="POST" action="{{ route('admin.cod.assignment.distribute') }}">
                     @csrf
 
-                    <button type="submit" class="primary-button">
+                    <button type="submit" class="primary-button whitespace-nowrap">
                         @lang('admin::app.cod.orders.distribute', ['count' => $unassignedCount])
                     </button>
                 </form>
@@ -35,7 +35,7 @@
     <div class="mt-8 flex flex-wrap gap-2">
         <a
             href="{{ route('admin.cod.orders.index') }}"
-            class="rounded-full px-3 py-1.5 text-xs font-semibold {{ is_null($status) ? 'bg-blue-600 text-white' : 'bg-white text-gray-700 ring-1 ring-gray-200 dark:bg-gray-900 dark:text-gray-300 dark:ring-gray-800' }}"
+            class="whitespace-nowrap rounded-full px-3 py-1.5 text-xs font-semibold {{ is_null($status) ? 'bg-blue-600 text-white' : 'bg-white text-gray-700 ring-1 ring-gray-200 dark:bg-gray-900 dark:text-gray-300 dark:ring-gray-800' }}"
         >
             @lang('admin::app.cod.orders.all') ({{ $orders->total() }})
         </a>
@@ -43,7 +43,7 @@
         @foreach ($statuses as $filterStatus)
             <a
                 href="{{ route('admin.cod.orders.index', ['status' => $filterStatus]) }}"
-                class="rounded-full px-3 py-1.5 text-xs font-semibold {{ $status === $filterStatus ? 'bg-blue-600 text-white' : 'bg-white text-gray-700 ring-1 ring-gray-200 dark:bg-gray-900 dark:text-gray-300 dark:ring-gray-800' }}"
+                class="whitespace-nowrap rounded-full px-3 py-1.5 text-xs font-semibold {{ $status === $filterStatus ? 'bg-blue-600 text-white' : 'bg-white text-gray-700 ring-1 ring-gray-200 dark:bg-gray-900 dark:text-gray-300 dark:ring-gray-800' }}"
             >
                 @lang('admin::app.cod.orders.statuses.'.$filterStatus) ({{ $statusCounts[$filterStatus] ?? 0 }})
             </a>
@@ -57,74 +57,69 @@
                 @lang('admin::app.cod.orders.empty')
             </p>
         @else
-            <table class="w-full text-left text-sm">
+            <table class="w-full min-w-[1080px] text-start text-sm">
                 <thead>
                     <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.order')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.store-order')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.customer')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.phone')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.city')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.total')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.status')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.assigned-to')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.source')</th>
-                        <th class="p-4 font-semibold">@lang('admin::app.cod.orders.date')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.order')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.customer')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.phone')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.city')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.total')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.status')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.assigned-to')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.source')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.date')</th>
                     </tr>
                 </thead>
 
                 <tbody>
                     @foreach ($orders as $codOrder)
-                        <tr class="border-b border-gray-100 last:border-0 dark:border-gray-800">
-                            <td class="p-4 font-semibold text-gray-800 dark:text-white">
-                                #{{ $codOrder->id }}
-                            </td>
-
-                            <td class="p-4">
+                        <tr class="border-b border-gray-100 align-top last:border-0 hover:bg-gray-50 dark:border-gray-800 dark:hover:bg-gray-800/50">
+                            <td class="px-3 py-3">
                                 @if ($codOrder->order_id)
                                     <a
                                         href="{{ route('admin.sales.orders.view', $codOrder->order_id) }}"
-                                        class="font-semibold text-blue-600 hover:underline dark:text-blue-400"
+                                        class="whitespace-nowrap font-semibold text-blue-600 hover:underline dark:text-blue-400"
                                     >
                                         #{{ $codOrder->external_id }}
                                     </a>
                                 @else
-                                    <span class="text-gray-800 dark:text-white">#{{ $codOrder->external_id }}</span>
+                                    <span class="whitespace-nowrap font-semibold text-gray-800 dark:text-white">#{{ $codOrder->external_id }}</span>
                                 @endif
+
+                                <span class="block whitespace-nowrap text-xs text-gray-500 dark:text-gray-400">COD #{{ $codOrder->id }}</span>
                             </td>
 
-                            <td class="p-4 text-gray-800 dark:text-white">
-                                {{ $codOrder->customer_name ?? '—' }}
+                            <td class="px-3 py-3 text-gray-800 dark:text-white">
+                                <span class="block">{{ $codOrder->customer_name ?? '—' }}</span>
 
                                 @if ($codOrder->customer_email)
-                                    <span class="block text-xs text-gray-500 dark:text-gray-400">{{ $codOrder->customer_email }}</span>
+                                    <span class="block truncate text-xs text-gray-500 dark:text-gray-400">{{ $codOrder->customer_email }}</span>
                                 @endif
                             </td>
 
-                            <td class="p-4 text-gray-800 dark:text-white" dir="ltr">
+                            <td class="whitespace-nowrap px-3 py-3 text-gray-800 dark:text-white" dir="ltr">
                                 {{ $codOrder->customer_phone ?? '—' }}
                             </td>
 
-                            <td class="p-4 text-gray-800 dark:text-white">
+                            <td class="whitespace-nowrap px-3 py-3 text-gray-800 dark:text-white">
                                 {{ $codOrder->city ?? '—' }}
                             </td>
 
-                            <td class="p-4 whitespace-nowrap text-gray-800 dark:text-white">
+                            <td class="whitespace-nowrap px-3 py-3 tabular-nums text-gray-800 dark:text-white">
                                 {{ number_format((float) $codOrder->grand_total, 2) }} {{ $codOrder->currency_code ?? '' }}
                             </td>
 
-                            <td class="p-4">
-                                <span class="whitespace-nowrap rounded-full bg-blue-100 px-2.5 py-1 text-xs font-semibold text-blue-800 dark:bg-blue-900 dark:text-blue-200">
-                                    @lang('admin::app.cod.orders.statuses.'.$codOrder->status)
-                                </span>
+                            <td class="px-3 py-3">
+                                <x-admin::cod.status-badge :status="$codOrder->status" />
                             </td>
 
-                            <td class="p-4 text-gray-800 dark:text-white">
+                            <td class="px-3 py-3 text-gray-800 dark:text-white">
                                 @if ($canManageAssignment && $codOrder->status === 'pending_confirmation')
-                                    <form method="POST" action="{{ route('admin.cod.orders.assign', $codOrder) }}" class="flex items-center gap-2">
+                                    <form method="POST" action="{{ route('admin.cod.orders.assign', $codOrder) }}" class="grid w-44 gap-1.5">
                                         @csrf
 
-                                        <select name="confirmer_id" required class="rounded-lg border border-gray-200 bg-white px-2 py-1.5 text-xs text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
+                                        <select name="confirmer_id" required class="w-full rounded-lg border border-gray-200 bg-white px-2 py-1.5 text-xs text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
                                             <option value="" disabled @selected(! $codOrder->assigned_to)>@lang('admin::app.cod.orders.choose-confirmer')</option>
 
                                             @foreach ($confirmers as $confirmer)
@@ -143,11 +138,11 @@
                                 @endif
                             </td>
 
-                            <td class="p-4 text-gray-800 dark:text-white">
+                            <td class="whitespace-nowrap px-3 py-3 text-gray-800 dark:text-white">
                                 {{ \Illuminate\Support\Facades\Lang::has('admin::app.cod.orders.sources.'.$codOrder->source) ? trans('admin::app.cod.orders.sources.'.$codOrder->source) : $codOrder->source }}
                             </td>
 
-                            <td class="whitespace-nowrap p-4 text-gray-600 dark:text-gray-300">
+                            <td class="whitespace-nowrap px-3 py-3 tabular-nums text-gray-600 dark:text-gray-300">
                                 {{ $codOrder->created_at?->format('Y-m-d H:i') }}
                             </td>
                         </tr>
