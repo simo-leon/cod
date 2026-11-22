@@ -6,6 +6,7 @@ use App\Cod\Ai\ReplyIntentClassifierInterface;
 use App\Cod\Automation\AutomationSettings;
 use App\Cod\Support\PhoneNumber;
 use App\Models\CodCallLog;
+use App\Models\CodConversation;
 use App\Models\CodOrder;
 use App\Models\CodWhatsAppMessage;
 use Illuminate\Support\Facades\Log;
@@ -140,7 +141,34 @@ class WhatsAppService implements WhatsAppServiceInterface
     {
         $result = $this->resolveProvider()->sendText($phone, $message);
 
-        $this->logMessage(null, CodWhatsAppMessage::DIRECTION_OUT, $phone, $message, $result);
+        $this->logMessage(null, CodWhatsAppMessage::DIRECTION_OUT, $phone, $message, $result, null, CodWhatsAppMessage::SENDER_HUMAN);
+
+        return $result;
+    }
+
+    /**
+     * Send one message in a conversation (AI agent reply or manual
+     * inbox reply) through the selected provider, and record it with
+     * its sender so the inbox can tell AI / human / system messages
+     * apart. The conversation's linked order is recorded when there
+     * is one. Never throws: a provider failure is returned, not
+     * raised.
+     *
+     * @return array{success: bool, message: string, message_id: ?string}
+     */
+    public function sendConversationMessage(CodConversation $conversation, string $text, string $sender): array
+    {
+        $result = $this->resolveProvider()->sendText($conversation->phone, $text);
+
+        $this->logMessage(
+            $conversation->codOrder,
+            CodWhatsAppMessage::DIRECTION_OUT,
+            $conversation->phone,
+            $text,
+            $result,
+            null,
+            in_array($sender, CodWhatsAppMessage::SENDERS, true) ? $sender : CodWhatsAppMessage::SENDER_SYSTEM,
+        );
 
         return $result;
     }
@@ -694,7 +722,7 @@ class WhatsAppService implements WhatsAppServiceInterface
         ]);
     }
 
-    protected function logMessage(?CodOrder $order, string $direction, string $phone, string $body, array $result, ?string $providerName = null): void
+    protected function logMessage(?CodOrder $order, string $direction, string $phone, string $body, array $result, ?string $providerName = null, ?string $sender = null): void
     {
         try {
             CodWhatsAppMessage::create([
@@ -705,6 +733,7 @@ class WhatsAppService implements WhatsAppServiceInterface
                 'body' => mb_substr($body, 0, 4000),
                 'message_id' => $result['message_id'] ?? null,
                 'status' => $result['status'] ?? ($result['success'] ? CodWhatsAppMessage::STATUS_SENT : CodWhatsAppMessage::STATUS_FAILED),
+                'sender' => $sender ?? ($direction === CodWhatsAppMessage::DIRECTION_IN ? CodWhatsAppMessage::SENDER_CUSTOMER : CodWhatsAppMessage::SENDER_SYSTEM),
                 'error' => $result['success'] ? null : mb_substr((string) ($result['message'] ?? ''), 0, 1000),
             ]);
         } catch (\Throwable $e) {

@@ -2,6 +2,8 @@
 
 namespace App\Providers;
 
+use App\Cod\Ai\ConversationAgent;
+use App\Cod\Ai\ConversationAgentInterface;
 use App\Cod\Ai\OpenAiCompatibleReplyClassifier;
 use App\Cod\Ai\ReplyIntentClassifierInterface;
 use App\Cod\Analytics\AnalyticsService;
@@ -51,6 +53,8 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(WhatsAppServiceInterface::class, WhatsAppService::class);
 
         $this->app->singleton(ReplyIntentClassifierInterface::class, OpenAiCompatibleReplyClassifier::class);
+
+        $this->app->singleton(ConversationAgentInterface::class, ConversationAgent::class);
 
         $this->app->singleton(AutomationSettings::class);
 

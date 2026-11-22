@@ -2,6 +2,7 @@
 
 namespace App\Cod\WhatsApp;
 
+use App\Models\CodConversation;
 use App\Models\CodOrder;
 
 /**
@@ -42,6 +43,17 @@ interface WhatsAppServiceInterface
      * @return array{success: bool, message: string, message_id: ?string}
      */
     public function sendMessage(string $phone, string $message): array;
+
+    /**
+     * Send one message in a conversation (AI agent reply or manual
+     * inbox reply) through the selected provider, and record it with
+     * its sender ('ai' | 'human') so the inbox can tell AI / human /
+     * system messages apart. The conversation's linked order is
+     * recorded when there is one. Never throws.
+     *
+     * @return array{success: bool, message: string, message_id: ?string}
+     */
+    public function sendConversationMessage(CodConversation $conversation, string $text, string $sender): array;
 
     /**
      * Send the order-confirmation message for one COD order (template

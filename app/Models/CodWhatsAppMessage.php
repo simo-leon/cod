@@ -49,6 +49,27 @@ class CodWhatsAppMessage extends Model
         self::STATUS_LOGGED,
     ];
 
+    /**
+     * Who wrote the message: the customer (inbound), the AI
+     * conversation agent, a human (manual reply from the inbox), or
+     * the system (confirmation / reminder / notification templates).
+     * The inbox shows each kind differently.
+     */
+    public const SENDER_CUSTOMER = 'customer';
+
+    public const SENDER_AI = 'ai';
+
+    public const SENDER_HUMAN = 'human';
+
+    public const SENDER_SYSTEM = 'system';
+
+    public const SENDERS = [
+        self::SENDER_CUSTOMER,
+        self::SENDER_AI,
+        self::SENDER_HUMAN,
+        self::SENDER_SYSTEM,
+    ];
+
     protected $table = 'cod_whatsapp_messages';
 
     protected $guarded = [];
