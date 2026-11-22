@@ -30,12 +30,34 @@ class CodDashboardController extends Controller
      * of the page. Every number comes from the real database; zero shows
      * as zero and a missing delivery_parcels table shows as missing
      * instead of crashing the page.
+     *
+     * A confirmer (has `cod.confirmation`, lacks `cod.assignment`)
+     * sees only their own numbers here, like on the analytics page:
+     * the three order cards count their assigned COD orders, and the
+     * confirmer-rates table shows only their own row. The supervisor
+     * and other staff see the team totals. The parcels card stays a
+     * global delivery total: parcels carry no confirmer assignment,
+     * so no scoped number exists for it, and it names no order or
+     * customer.
      */
     public function index(): View
     {
         abort_unless(bouncer()->hasPermission('cod'), 403);
 
         $whatsAppConfigured = $this->whatsApp->isEnabled() && $this->whatsApp->getPhoneNumber();
+
+        $user = auth()->guard('admin')->user();
+        $isConfirmer = bouncer()->hasPermission('cod.confirmation');
+        $canManage = bouncer()->hasPermission('cod.assignment');
+        $scopedTo = ($isConfirmer && ! $canManage) ? $user->id : null;
+
+        $assignedCounts = $scopedTo !== null
+            ? $this->orders->assignedOrderCounts($scopedTo)
+            : null;
+
+        $confirmerRates = $scopedTo !== null
+            ? [$this->analytics->confirmerRate($user)]
+            : $this->analytics->confirmerRates();
 
         $modules = [
             [
@@ -73,9 +95,9 @@ class CodDashboardController extends Controller
         return view('admin::cod.index')->with([
             'systemName' => $this->analytics->systemName(),
             'modules' => $modules,
-            'ordersCount' => $this->orders->ordersCount(),
-            'pendingCount' => $this->orders->pendingConfirmationCount(),
-            'todayOrdersCount' => $this->orders->todayOrdersCount(),
+            'ordersCount' => $assignedCounts['total'] ?? $this->orders->ordersCount(),
+            'pendingCount' => $assignedCounts['pending'] ?? $this->orders->pendingConfirmationCount(),
+            'todayOrdersCount' => $assignedCounts['today'] ?? $this->orders->todayOrdersCount(),
             'parcelsCount' => $this->delivery->parcelsCount(),
             'parcelsTableExists' => $this->delivery->parcelsTableExists(),
             'deliveryProvider' => $this->delivery->defaultProviderLabel(),
@@ -85,10 +107,10 @@ class CodDashboardController extends Controller
             'analyticsUrl' => route('admin.cod.analytics.index'),
             'settingsUrl' => route('admin.configuration.index', 'general/cod_system'),
             'canViewAnalytics' => bouncer()->hasPermission('cod.analytics'),
-            'confirmerRates' => $this->analytics->confirmerRates(),
+            'confirmerRates' => $confirmerRates,
             'myTasksUrl' => route('admin.cod.my-tasks.index'),
             'assignmentUrl' => route('admin.cod.assignment.index'),
-            'canManageAssignment' => bouncer()->hasPermission('cod.assignment'),
+            'canManageAssignment' => $canManage,
             'soukUrl' => route('admin.cod.souk.index'),
             'canViewSouk' => bouncer()->hasPermission('cod.souk'),
         ]);

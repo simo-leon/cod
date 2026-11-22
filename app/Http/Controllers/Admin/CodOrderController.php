@@ -28,6 +28,15 @@ class CodOrderController extends Controller
      * permission gets a 403 instead of the page. Each row links to the
      * COD order detail page. The supervisor can also assign
      * orders manually and distribute the unassigned ones from here.
+     *
+     * A confirmer (has `cod.confirmation`, lacks `cod.assignment`)
+     * sees only the orders assigned to them — the list, and the
+     * per-status counts on it, are scoped to their id, exactly like
+     * the order detail page. Unassigned orders are excluded for
+     * them too: the detail page 403s those, and their task list
+     * only ever shows assigned orders, so showing them here would
+     * be dead links. The supervisor and other staff keep the full
+     * unscoped list.
      */
     public function index(Request $request): View
     {
@@ -39,7 +48,12 @@ class CodOrderController extends Controller
             $status = null;
         }
 
-        $orders = $this->orders->paginatedOrders($status);
+        $user = auth()->guard('admin')->user();
+        $isConfirmer = bouncer()->hasPermission('cod.confirmation');
+        $canManage = bouncer()->hasPermission('cod.assignment');
+        $scopedTo = ($isConfirmer && ! $canManage) ? $user->id : null;
+
+        $orders = $this->orders->paginatedOrders($status, 20, $scopedTo);
 
         // Souk tasks linked to the orders on this page (guarded: on
         // an install where the souk migration has not run yet there
@@ -57,11 +71,11 @@ class CodOrderController extends Controller
         return view('admin::cod.orders')->with([
             'orders' => $orders,
             'statuses' => $this->orders->statuses(),
-            'statusCounts' => $this->orders->statusCounts(),
+            'statusCounts' => $this->orders->statusCounts($scopedTo),
             'status' => $status,
             'dashboardUrl' => route('admin.cod.index'),
             'confirmers' => $this->assignment->confirmers(),
-            'canManageAssignment' => bouncer()->hasPermission('cod.assignment'),
+            'canManageAssignment' => $canManage,
             'unassignedCount' => $this->assignment->unassignedCount(),
             'soukTasks' => $soukTasks,
             'canViewSouk' => bouncer()->hasPermission('cod.souk'),

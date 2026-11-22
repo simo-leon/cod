@@ -67,14 +67,24 @@ interface OrderServiceInterface
     public function statuses(): array;
 
     /**
-     * Number of COD records per status.
+     * Number of COD records per status, optionally only those
+     * assigned to one confirmer.
      */
-    public function statusCounts(): array;
+    public function statusCounts(?int $assignedTo = null): array;
 
     /**
-     * Imported COD orders, newest first, optionally filtered by status.
+     * Imported COD orders, newest first, optionally filtered by status
+     * and/or by the confirmer they are assigned to.
      */
-    public function paginatedOrders(?string $status = null, int $perPage = 20): LengthAwarePaginator;
+    public function paginatedOrders(?string $status = null, int $perPage = 20, ?int $assignedTo = null): LengthAwarePaginator;
+
+    /**
+     * Assigned-order figures for one confirmer, for the COD dashboard:
+     * ['total' => n, 'pending' => n, 'today' => n] — their assigned
+     * orders, those still pending confirmation, and those assigned
+     * today. Counts COD records, not store orders.
+     */
+    public function assignedOrderCounts(int $adminId): array;
 
     /**
      * Orders assigned to one confirmer, newest first, optionally

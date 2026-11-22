@@ -237,15 +237,17 @@ class OrderService implements OrderServiceInterface
     }
 
     /**
-     * Number of COD records per status.
+     * Number of COD records per status, optionally only those
+     * assigned to one confirmer.
      */
-    public function statusCounts(): array
+    public function statusCounts(?int $assignedTo = null): array
     {
         if (! Schema::hasTable('cod_orders')) {
             return [];
         }
 
         return CodOrder::query()
+            ->when($assignedTo, fn ($query) => $query->where('assigned_to', $assignedTo))
             ->selectRaw('status, COUNT(*) as count')
             ->groupBy('status')
             ->pluck('count', 'status')
@@ -253,9 +255,13 @@ class OrderService implements OrderServiceInterface
     }
 
     /**
-     * Imported COD orders, newest first, optionally filtered by status.
+     * Imported COD orders, newest first, optionally filtered by status
+     * and/or by the confirmer they are assigned to. When $assignedTo
+     * is given, unassigned orders are excluded too: a confirmer may
+     * not open an unassigned order (the detail page 403s it), and
+     * their task list only ever shows assigned orders.
      */
-    public function paginatedOrders(?string $status = null, int $perPage = 20): LengthAwarePaginator
+    public function paginatedOrders(?string $status = null, int $perPage = 20, ?int $assignedTo = null): LengthAwarePaginator
     {
         if (! Schema::hasTable('cod_orders')) {
             return new LengthAwarePaginator([], 0, $perPage);
@@ -263,6 +269,7 @@ class OrderService implements OrderServiceInterface
 
         return CodOrder::query()
             ->with(['order', 'assignedTo'])
+            ->when($assignedTo, fn ($query) => $query->where('assigned_to', $assignedTo))
             ->when(
                 $status && in_array($status, CodOrder::STATUSES, true),
                 fn ($query) => $query->where('status', $status),
@@ -270,6 +277,31 @@ class OrderService implements OrderServiceInterface
             ->latest()
             ->paginate($perPage)
             ->withQueryString();
+    }
+
+    /**
+     * Assigned-order figures for one confirmer, for the COD dashboard:
+     * ['total' => n, 'pending' => n, 'today' => n] — their assigned
+     * orders, those still pending confirmation, and those assigned
+     * today. Counts COD records, not store orders.
+     */
+    public function assignedOrderCounts(int $adminId): array
+    {
+        if (! Schema::hasTable('cod_orders')) {
+            return ['total' => 0, 'pending' => 0, 'today' => 0];
+        }
+
+        return [
+            'total' => CodOrder::query()->where('assigned_to', $adminId)->count(),
+            'pending' => CodOrder::query()
+                ->where('assigned_to', $adminId)
+                ->where('status', CodOrder::STATUS_PENDING_CONFIRMATION)
+                ->count(),
+            'today' => CodOrder::query()
+                ->where('assigned_to', $adminId)
+                ->whereDate('created_at', today())
+                ->count(),
+        ];
     }
 
     /**
