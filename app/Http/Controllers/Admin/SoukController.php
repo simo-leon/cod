@@ -46,7 +46,7 @@ class SoukController extends Controller
             'isBuyer' => $this->souk->canActAsBuyer($admin),
             'isManager' => $this->souk->canManageSouk($admin),
             'dashboardUrl' => route('admin.cod.index'),
-            'settingsUrl' => route('admin.configuration.index', 'general/cod_system/souk'),
+            'settingsUrl' => route('admin.configuration.index', 'general/cod_system'),
         ]);
     }
 
