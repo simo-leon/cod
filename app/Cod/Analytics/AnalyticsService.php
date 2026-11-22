@@ -234,7 +234,7 @@ class AnalyticsService implements AnalyticsServiceInterface
             'overview' => $this->overview($orders),
             'by_city' => $this->byCity($orders),
             'by_provider' => $this->byProvider($orders, $filters),
-            'products' => $this->productAnalytics($orders, $itemsByOrder),
+            'products' => $this->productAnalytics($orders, $itemsByOrder, $filters['product_sort']),
             'profit' => $this->profit($orders, $itemsByOrder, $settings),
             'confirmers' => $this->confirmerAnalytics($orders, $settings['commission'], $filters['assigned_to']),
             'inventory' => $this->inventory(),
@@ -260,6 +260,9 @@ class AnalyticsService implements AnalyticsServiceInterface
             'provider' => isset($filters['provider']) && $filters['provider'] !== '' ? (string) $filters['provider'] : null,
             'sku' => isset($filters['sku']) && $filters['sku'] !== '' ? (string) $filters['sku'] : null,
             'assigned_to' => isset($filters['assigned_to']) && (int) $filters['assigned_to'] > 0 ? (int) $filters['assigned_to'] : null,
+            'product_sort' => in_array($filters['product_sort'] ?? null, ['most-ordered', 'least-ordered'], true)
+                ? $filters['product_sort']
+                : 'most-ordered',
         ];
     }
 
@@ -568,9 +571,11 @@ class AnalyticsService implements AnalyticsServiceInterface
      * the order items when recorded), unit cost (admin settings) and
      * profit per unit — null when the price or the cost is not known —
      * plus a suggestion from the rates only (see the page for the
-     * rule).
+     * rule). Rows are sorted by order count: 'most-ordered' puts the
+     * most ordered product first (the default), 'least-ordered'
+     * puts the least ordered first.
      */
-    protected function productAnalytics(Collection $orders, array $itemsByOrder): array
+    protected function productAnalytics(Collection $orders, array $itemsByOrder, string $productSort = 'most-ordered'): array
     {
         $rows = [];
 
@@ -631,7 +636,11 @@ class AnalyticsService implements AnalyticsServiceInterface
 
         unset($row);
 
-        usort($rows, fn ($a, $b) => $b['orders'] <=> $a['orders']);
+        if ($productSort === 'least-ordered') {
+            usort($rows, fn ($a, $b) => $a['orders'] <=> $b['orders']);
+        } else {
+            usort($rows, fn ($a, $b) => $b['orders'] <=> $a['orders']);
+        }
 
         return array_values($rows);
     }

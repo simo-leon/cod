@@ -69,6 +69,14 @@
             </select>
         </div>
 
+        <div class="grid min-w-40 flex-1 gap-1">
+            <label for="product_sort" class="text-xs font-semibold text-gray-600 dark:text-gray-300">@lang('admin::app.cod.analytics.product-sort')</label>
+            <select id="product_sort" name="product_sort" class="w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-sm dark:border-gray-700 dark:bg-gray-900 dark:text-white">
+                <option value="most-ordered" @selected($analytics['filters']['product_sort'] === 'most-ordered')>@lang('admin::app.cod.analytics.product-sort-most-ordered')</option>
+                <option value="least-ordered" @selected($analytics['filters']['product_sort'] === 'least-ordered')>@lang('admin::app.cod.analytics.product-sort-least-ordered')</option>
+            </select>
+        </div>
+
         <div class="flex gap-2">
             <button type="submit" class="primary-button whitespace-nowrap">
                 @lang('admin::app.cod.analytics.apply-filters')
@@ -265,10 +273,30 @@
                 @lang('admin::app.cod.analytics.empty-products')
             </p>
         @else
+            @php
+                $topProduct = collect($analytics['products'])->sortByDesc('orders')->first();
+                $leastProduct = collect($analytics['products'])->sortBy('orders')->first();
+            @endphp
+
+            <div class="flex flex-wrap gap-3 border-b border-gray-200 p-4 dark:border-gray-800">
+                <p class="rounded-lg bg-green-50 px-3 py-2 text-sm text-green-800 dark:bg-green-900/40 dark:text-green-200">
+                    <span class="font-semibold">@lang('admin::app.cod.analytics.top-product'):</span>
+                    {{ $topProduct['sku'] }}@if ($topProduct['name'] !== '' && $topProduct['name'] !== $topProduct['sku']) — {{ $topProduct['name'] }}@endif
+                    ({{ $topProduct['orders'] }} @lang('admin::app.cod.analytics.orders'))
+                </p>
+
+                <p class="rounded-lg bg-amber-50 px-3 py-2 text-sm text-amber-800 dark:bg-amber-900/40 dark:text-amber-200">
+                    <span class="font-semibold">@lang('admin::app.cod.analytics.least-ordered-product'):</span>
+                    {{ $leastProduct['sku'] }}@if ($leastProduct['name'] !== '' && $leastProduct['name'] !== $leastProduct['sku']) — {{ $leastProduct['name'] }}@endif
+                    ({{ $leastProduct['orders'] }} @lang('admin::app.cod.analytics.orders'))
+                </p>
+            </div>
+
             <div class="overflow-x-auto">
                 <table class="w-full min-w-[920px] text-start text-sm">
                     <thead>
                         <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
+                            <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.product-rank')</th>
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.product')</th>
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.orders')</th>
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.confirmation-rate')</th>
@@ -283,13 +311,14 @@
                     <tbody>
                         @foreach ($analytics['products'] as $row)
                             <tr class="border-b border-gray-100 align-top last:border-0 hover:bg-gray-50 dark:border-gray-800 dark:hover:bg-gray-800/50">
+                                <td class="p-4 tabular-nums text-gray-500 dark:text-gray-400">{{ $loop->iteration }}</td>
                                 <td class="p-4 text-gray-800 dark:text-white">
                                     <span class="whitespace-nowrap font-semibold">{{ $row['sku'] }}</span>
                                     @if ($row['name'] !== '' && $row['name'] !== $row['sku'])
                                         <span class="block text-xs text-gray-500 dark:text-gray-400">{{ $row['name'] }}</span>
                                     @endif
                                 </td>
-                                <td class="p-4 tabular-nums text-gray-800 dark:text-white">{{ $row['orders'] }}</td>
+                                <td class="p-4 font-semibold tabular-nums text-gray-800 dark:text-white">{{ $row['orders'] }}</td>
                                 <td class="whitespace-nowrap p-4 font-semibold tabular-nums text-gray-800 dark:text-white">{{ is_null($row['confirmation_rate']) ? '—' : $row['confirmation_rate'].'%' }}</td>
                                 <td class="whitespace-nowrap p-4 font-semibold tabular-nums text-gray-800 dark:text-white">{{ is_null($row['delivery_rate']) ? '—' : $row['delivery_rate'].'%' }}</td>
                                 <td class="whitespace-nowrap p-4 tabular-nums text-gray-800 dark:text-white">{{ is_null($row['unit_price']) ? trans('admin::app.cod.analytics.not-available') : number_format($row['unit_price'], 2).' '.$currency }}</td>

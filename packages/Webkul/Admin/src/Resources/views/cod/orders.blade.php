@@ -77,16 +77,12 @@
                     @foreach ($orders as $codOrder)
                         <tr class="border-b border-gray-100 align-top last:border-0 hover:bg-gray-50 dark:border-gray-800 dark:hover:bg-gray-800/50">
                             <td class="px-3 py-3">
-                                @if ($codOrder->order_id)
-                                    <a
-                                        href="{{ route('admin.sales.orders.view', $codOrder->order_id) }}"
-                                        class="whitespace-nowrap font-semibold text-blue-600 hover:underline dark:text-blue-400"
-                                    >
-                                        #{{ $codOrder->external_id }}
-                                    </a>
-                                @else
-                                    <span class="whitespace-nowrap font-semibold text-gray-800 dark:text-white">#{{ $codOrder->external_id }}</span>
-                                @endif
+                                <a
+                                    href="{{ route('admin.cod.orders.show', $codOrder) }}"
+                                    class="whitespace-nowrap font-semibold text-blue-600 hover:underline dark:text-blue-400"
+                                >
+                                    #{{ $codOrder->external_id }}
+                                </a>
 
                                 <span class="block whitespace-nowrap text-xs text-gray-500 dark:text-gray-400">COD #{{ $codOrder->id }}</span>
                             </td>

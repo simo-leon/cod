@@ -40,6 +40,16 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
         ->name('admin.cod.orders.index');
 
     /**
+     * COD System order detail (confirmer fix). Deliberately NOT in the
+     * ACL map: the controller enforces `cod.orders`/`cod.confirmation`
+     * plus the assignment rule, so a confirmer opens only their own
+     * orders — the store order page (`sales.orders.view`) stays closed
+     * to them, because the Confirmer role has no `sales.*` permission.
+     */
+    Route::get('cod/orders/{codOrder}', [CodOrderController::class, 'show'])
+        ->name('admin.cod.orders.show');
+
+    /**
      * COD System WhatsApp conversations inbox. Guarded by the
      * `cod.conversations` ACL key: the full message thread of every
      * conversation, a manual reply form, and the handoff button that

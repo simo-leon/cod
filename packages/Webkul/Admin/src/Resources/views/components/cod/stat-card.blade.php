@@ -12,7 +12,7 @@
         wrapped long value (order id, product name) renders its lines
         on top of each other; `break-words` lets a long unbroken value
         wrap inside the card instead of overflowing it. --}}
-    <p class="mt-1 break-words text-2xl font-bold !leading-snug tabular-nums text-gray-800 dark:text-white">{{ $value }}</p>
+    <p class="mt-1 break-words text-3xl font-bold !leading-snug tabular-nums text-gray-800 dark:text-white">{{ $value }}</p>
 
     @if ($hint)
         <p class="mt-1 text-xs leading-relaxed text-gray-500 dark:text-gray-400">{{ $hint }}</p>

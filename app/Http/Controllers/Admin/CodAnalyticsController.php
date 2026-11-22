@@ -48,6 +48,7 @@ class CodAnalyticsController extends Controller
             'city' => ['nullable', 'string', 'max:255'],
             'provider' => ['nullable', 'string', 'max:255'],
             'sku' => ['nullable', 'string', 'max:255'],
+            'product_sort' => ['nullable', 'in:most-ordered,least-ordered'],
         ]);
 
         $user = auth()->guard('admin')->user();
@@ -58,7 +59,7 @@ class CodAnalyticsController extends Controller
         $canManage = bouncer()->hasPermission('cod.assignment');
         $scopedTo = $canManage ? null : $user->id;
 
-        $filters = $request->only(['from', 'to', 'city', 'provider', 'sku']);
+        $filters = $request->only(['from', 'to', 'city', 'provider', 'sku', 'product_sort']);
 
         if ($scopedTo !== null) {
             $filters['assigned_to'] = $scopedTo;
