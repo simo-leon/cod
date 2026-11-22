@@ -436,5 +436,11 @@ return [
         'route' => 'admin.cod.assignment.index',
         'sort' => 3,
         'icon' => '',
+    ], [
+        'key' => 'cod.conversations',
+        'name' => 'admin::app.components.layouts.sidebar.cod-conversations',
+        'route' => 'admin.cod.conversations.index',
+        'sort' => 5,
+        'icon' => '',
     ],
 ];

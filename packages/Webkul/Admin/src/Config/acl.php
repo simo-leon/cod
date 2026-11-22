@@ -1290,9 +1290,14 @@ return [
         'route' => 'admin.cod.analytics.index',
         'sort' => 4,
     ], [
+        'key' => 'cod.conversations',
+        'name' => 'admin::app.acl.cod-conversations',
+        'route' => 'admin.cod.conversations.index',
+        'sort' => 5,
+    ], [
         'key' => 'cod.settings',
         'name' => 'admin::app.acl.cod-settings',
         'route' => 'admin.cod.settings.index',
-        'sort' => 5,
+        'sort' => 6,
     ],
 ];

@@ -4,6 +4,7 @@ use App\Http\Controllers\Admin\CodAnalyticsController;
 use App\Http\Controllers\Admin\CodAssignmentController;
 use App\Http\Controllers\Admin\CodCallLogController;
 use App\Http\Controllers\Admin\CodConfirmerController;
+use App\Http\Controllers\Admin\CodConversationController;
 use App\Http\Controllers\Admin\CodDashboardController;
 use App\Http\Controllers\Admin\CodMyTasksController;
 use App\Http\Controllers\Admin\CodOrderController;
@@ -36,6 +37,24 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
      */
     Route::get('cod/orders', [CodOrderController::class, 'index'])
         ->name('admin.cod.orders.index');
+
+    /**
+     * COD System WhatsApp conversations inbox. Guarded by the
+     * `cod.conversations` ACL key: the full message thread of every
+     * conversation, a manual reply form, and the handoff button that
+     * stops the AI for that conversation.
+     */
+    Route::get('cod/conversations', [CodConversationController::class, 'index'])
+        ->name('admin.cod.conversations.index');
+
+    Route::get('cod/conversations/{conversation}', [CodConversationController::class, 'show'])
+        ->name('admin.cod.conversations.show');
+
+    Route::post('cod/conversations/{conversation}/reply', [CodConversationController::class, 'reply'])
+        ->name('admin.cod.conversations.reply');
+
+    Route::post('cod/conversations/{conversation}/handoff', [CodConversationController::class, 'handoff'])
+        ->name('admin.cod.conversations.handoff');
 
     /**
      * COD System analytics (phase 7). Guarded by the `cod.analytics`
