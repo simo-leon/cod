@@ -21,6 +21,9 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
     Route::post('sales/orders/{id}/send-to-delivery', [DeliveryProviderController::class, 'sendParcel'])
         ->name('admin.sales.orders.send-to-delivery');
 
+    Route::post('sales/orders/{id}/refresh-delivery-tracking', [DeliveryProviderController::class, 'refreshTracking'])
+        ->name('admin.sales.orders.refresh-delivery-tracking');
+
     /**
      * COD System dashboard (phase 1). Guarded by the `cod` ACL key.
      */

@@ -161,21 +161,43 @@ class DeliveryProviderManager
 
     /**
      * Refresh the last known status of a sent parcel from the provider.
+     * Never throws: a provider failure is reported in the result so the
+     * admin action can flash it instead of breaking the order page.
+     *
+     * @return array{success: bool, status: ?string, error: ?string}
      */
-    public function refreshTracking(DeliveryParcel $parcel): ?string
+    public function refreshTracking(DeliveryParcel $parcel): array
     {
         $provider = $this->provider($parcel->provider);
 
-        if (! $provider || ! $parcel->parcel_code) {
-            return $parcel->last_status;
+        if (! $provider) {
+            return ['success' => false, 'status' => $parcel->last_status, 'error' => 'Unknown delivery provider "'.$parcel->provider.'".'];
         }
 
-        $tracking = $provider->trackParcel($parcel->parcel_code);
+        if (! $parcel->parcel_code) {
+            return ['success' => false, 'status' => $parcel->last_status, 'error' => 'This parcel has no tracking code yet.'];
+        }
 
-        if ($tracking['success'] && $tracking['status']) {
+        try {
+            $tracking = $provider->trackParcel($parcel->parcel_code);
+        } catch (\Throwable $e) {
+            Log::warning('Delivery: tracking refresh failed', [
+                'parcel_id' => $parcel->id,
+                'provider' => $parcel->provider,
+                'error' => $e->getMessage(),
+            ]);
+
+            return ['success' => false, 'status' => $parcel->last_status, 'error' => $e->getMessage()];
+        }
+
+        if (! ($tracking['success'] ?? false)) {
+            return ['success' => false, 'status' => $parcel->last_status, 'error' => $tracking['error'] ?? 'Tracking failed.'];
+        }
+
+        if (! empty($tracking['status'])) {
             $parcel->update(['last_status' => $tracking['status']]);
         }
 
-        return $parcel->last_status;
+        return ['success' => true, 'status' => $parcel->fresh()->last_status, 'error' => null];
     }
 }

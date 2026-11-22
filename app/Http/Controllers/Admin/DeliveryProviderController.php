@@ -3,8 +3,10 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
+use App\Models\DeliveryParcel;
 use App\Services\Delivery\DeliveryProviderManager;
 use Illuminate\Http\RedirectResponse;
+use Illuminate\Support\Facades\Schema;
 use Webkul\Sales\Models\Order;
 
 class DeliveryProviderController extends Controller
@@ -65,6 +67,58 @@ class DeliveryProviderController extends Controller
                 'error',
                 trans('admin::app.sales.orders.view.delivery.send-failed', ['provider' => $manager->defaultProvider()?->getLabel()])
                 .($parcel?->error_message ? ' '.$parcel->error_message : '')
+            );
+        }
+
+        return redirect()->back();
+    }
+
+    /**
+     * Refresh the tracking status of the latest parcel of one order.
+     * Updates last_status on success; on provider failure the order
+     * page still loads and the failure is flashed, never a 500.
+     */
+    public function refreshTracking(int $id, DeliveryProviderManager $manager): RedirectResponse
+    {
+        abort_unless(bouncer()->hasPermission('sales.orders.edit'), 403);
+
+        $order = Order::findOrFail($id);
+
+        if (! Schema::hasTable('delivery_parcels')) {
+            session()->flash('error', trans('admin::app.sales.orders.view.delivery.migration-pending'));
+
+            return redirect()->back();
+        }
+
+        $parcel = DeliveryParcel::where('order_id', $order->id)
+            ->latest()
+            ->first();
+
+        if (! $parcel) {
+            session()->flash('error', trans('admin::app.sales.orders.view.delivery.refresh-no-parcel'));
+
+            return redirect()->back();
+        }
+
+        if (! $parcel->parcel_code) {
+            session()->flash('error', trans('admin::app.sales.orders.view.delivery.refresh-no-code'));
+
+            return redirect()->back();
+        }
+
+        $result = $manager->refreshTracking($parcel);
+
+        if ($result['success']) {
+            session()->flash(
+                'success',
+                $result['status']
+                    ? trans('admin::app.sales.orders.view.delivery.refresh-success', ['status' => $result['status']])
+                    : trans('admin::app.sales.orders.view.delivery.refresh-success-no-change')
+            );
+        } else {
+            session()->flash(
+                'error',
+                trans('admin::app.sales.orders.view.delivery.refresh-failed', ['message' => $result['error'] ?? ''])
             );
         }
 

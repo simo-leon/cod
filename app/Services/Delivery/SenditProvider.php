@@ -258,11 +258,16 @@ class SenditProvider implements DeliveryProviderInterface
         }
 
         // A login is the cheapest credential check: it proves the keys
-        // without creating anything.
+        // without creating anything. A network failure is reported as
+        // such, not as wrong keys: the two need different fixes.
         $token = $this->login(true);
 
         if ($token === null) {
-            return ['success' => false, 'message' => 'Sendit: login failed — check the public key and secret key.'];
+            return match ($this->lastLoginError) {
+                'connection' => ['success' => false, 'message' => 'Sendit: could not reach the Sendit API (network error) — check the server connection, not the keys.'],
+                'server' => ['success' => false, 'message' => 'Sendit: the Sendit API answered with an error — try again later.'],
+                default => ['success' => false, 'message' => 'Sendit: login failed — check the public key and secret key.'],
+            };
         }
 
         return ['success' => true, 'message' => 'Connection to Sendit works.'];
@@ -398,6 +403,14 @@ class SenditProvider implements DeliveryProviderInterface
     }
 
     /**
+     * Why the last login() call failed, so testConnection() can tell a
+     * network failure apart from wrong keys: 'connection' when the API
+     * could not be reached at all, 'credentials' when it answered but
+     * refused the login, 'server' for any other HTTP error.
+     */
+    protected ?string $lastLoginError = null;
+
+    /**
      * Log in and return a Bearer <redacted> The plugin caches it for
      * 55 minutes; we keep 50 minutes as a safety margin.
      */
@@ -413,6 +426,8 @@ class SenditProvider implements DeliveryProviderInterface
             return Cache::get($cacheKey);
         }
 
+        $this->lastLoginError = null;
+
         try {
             $response = Http::withHeaders([
                 'Content-Type' => 'application/json; charset=utf-8',
@@ -422,16 +437,22 @@ class SenditProvider implements DeliveryProviderInterface
                 'secret_key' => $this->getSecretKey(),
             ]);
         } catch (ConnectionException) {
+            $this->lastLoginError = 'connection';
+
             return null;
         }
 
         if (! $response->successful()) {
+            $this->lastLoginError = in_array($response->status(), [401, 403], true) ? 'credentials' : 'server';
+
             return null;
         }
 
         $token = $this->safeBody($response)['data']['token'] ?? null;
 
         if (! is_string($token) || $token === '') {
+            $this->lastLoginError = 'credentials';
+
             return null;
         }
 

@@ -72,19 +72,33 @@
             </div>
 
             @if (bouncer()->hasPermission('sales.orders.edit'))
-                <form
-                    method="POST"
-                    action="{{ route('admin.sales.orders.send-to-delivery', $order->id) }}"
-                    class="mt-4"
-                >
-                    @csrf
+                <div class="mt-4 flex flex-wrap gap-2">
+                    <form
+                        method="POST"
+                        action="{{ route('admin.sales.orders.send-to-delivery', $order->id) }}"
+                    >
+                        @csrf
 
-                    <button type="submit" class="primary-button px-3 py-1.5 text-sm">
-                        {{ $deliveryParcel && $deliveryParcel->status === 'sent'
-                            ? trans('admin::app.sales.orders.view.delivery.resend', ['provider' => $deliveryProvider?->getLabel()])
-                            : trans('admin::app.sales.orders.view.delivery.send', ['provider' => $deliveryProvider?->getLabel()]) }}
-                    </button>
-                </form>
+                        <button type="submit" class="primary-button px-3 py-1.5 text-sm">
+                            {{ $deliveryParcel && $deliveryParcel->status === 'sent'
+                                ? trans('admin::app.sales.orders.view.delivery.resend', ['provider' => $deliveryProvider?->getLabel()])
+                                : trans('admin::app.sales.orders.view.delivery.send', ['provider' => $deliveryProvider?->getLabel()]) }}
+                        </button>
+                    </form>
+
+                    @if ($deliveryParcel && $deliveryParcel->parcel_code)
+                        <form
+                            method="POST"
+                            action="{{ route('admin.sales.orders.refresh-delivery-tracking', $order->id) }}"
+                        >
+                            @csrf
+
+                            <button type="submit" class="secondary-button px-3 py-1.5 text-sm">
+                                @lang('admin::app.sales.orders.view.delivery.refresh')
+                            </button>
+                        </form>
+                    @endif
+                </div>
             @endif
         @endif
     </div>

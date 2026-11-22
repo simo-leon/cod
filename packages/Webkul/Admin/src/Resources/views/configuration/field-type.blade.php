@@ -1,5 +1,21 @@
 @php
     $value = system_config()->getConfigData($field->getNameKey(), $currentChannel->code, $currentLocale->code);
+
+    /*
+     * Secrets are never sent to the browser: a stored password value
+     * would otherwise sit verbatim in the raw page HTML (a
+     * type="password" input only hides it visually). Password fields
+     * therefore always render empty; an empty submission keeps the
+     * stored value (see CoreConfigRepository::create()).
+     */
+    $isSecretField = $field->getType() === 'password';
+
+    if ($isSecretField) {
+        $value = '';
+    }
+
+    $placeholder = $field->getPlaceholder()
+        ?? ($isSecretField ? trans('admin::app.configuration.index.leave-empty-to-keep-current') : '');
 @endphp
 
 <input
@@ -17,7 +33,7 @@
         validations="{{ $field->getValidations() }}"
         is-require="{{ $field->isRequired() }}"
         depend-name="{{ $field->getDependFieldName() }}"
-        placeholder="{{ $field->getPlaceholder() }}"
+        placeholder="{{ $placeholder }}"
         src="{{ Storage::url($value) }}"
         field-data="{{ json_encode($field) }}"
         channel-count="{{ $channels->count() }}"

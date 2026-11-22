@@ -84,6 +84,21 @@ class CoreConfigRepository extends Repository
                     $value = request()->file($fieldName)->store('configuration');
                 }
 
+                /*
+                 * A secret field is rendered empty in the browser (its
+                 * stored value is never sent to the page), so an empty
+                 * submission means "keep the current value", not "clear
+                 * it". Skipping here preserves the stored secret and
+                 * avoids creating an empty row when none exists yet.
+                 * A new value is saved normally when one is typed.
+                 */
+                if (
+                    ($field['type'] ?? null) === 'password'
+                    && ($value === '' || $value === null)
+                ) {
+                    continue;
+                }
+
                 if (! count($coreConfigValue)) {
                     parent::create([
                         'code' => $fieldName,
