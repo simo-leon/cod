@@ -6,6 +6,7 @@ use App\Cod\Analytics\AnalyticsServiceInterface;
 use App\Cod\Confirmation\ConfirmationServiceInterface;
 use App\Cod\Delivery\DeliveryServiceInterface;
 use App\Cod\Orders\OrderServiceInterface;
+use App\Cod\Souk\SoukSettings;
 use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Http\Controllers\Controller;
 use Illuminate\View\View;
@@ -18,6 +19,7 @@ class CodDashboardController extends Controller
         protected WhatsAppServiceInterface $whatsApp,
         protected DeliveryServiceInterface $delivery,
         protected AnalyticsServiceInterface $analytics,
+        protected SoukSettings $soukSettings,
     ) {}
 
     /**
@@ -61,6 +63,11 @@ class CodDashboardController extends Controller
                 'name' => trans('admin::app.cod.index.modules.analytics'),
                 'status' => 'ready',
             ],
+            [
+                'key' => 'souk',
+                'name' => trans('admin::app.cod.index.modules.souk'),
+                'status' => $this->soukSettings->isEnabled() ? 'configured' : 'not-configured',
+            ],
         ];
 
         return view('admin::cod.index')->with([
@@ -82,6 +89,8 @@ class CodDashboardController extends Controller
             'myTasksUrl' => route('admin.cod.my-tasks.index'),
             'assignmentUrl' => route('admin.cod.assignment.index'),
             'canManageAssignment' => bouncer()->hasPermission('cod.assignment'),
+            'soukUrl' => route('admin.cod.souk.index'),
+            'canViewSouk' => bouncer()->hasPermission('cod.souk'),
         ]);
     }
 }

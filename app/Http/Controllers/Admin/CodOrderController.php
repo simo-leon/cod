@@ -5,7 +5,9 @@ namespace App\Http\Controllers\Admin;
 use App\Cod\Confirmation\AssignmentServiceInterface;
 use App\Cod\Orders\OrderServiceInterface;
 use App\Http\Controllers\Controller;
+use App\Models\SoukTask;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Schema;
 use Illuminate\View\View;
 
 class CodOrderController extends Controller
@@ -34,8 +36,23 @@ class CodOrderController extends Controller
             $status = null;
         }
 
+        $orders = $this->orders->paginatedOrders($status);
+
+        // Souk tasks linked to the orders on this page (guarded: on
+        // an install where the souk migration has not run yet there
+        // is no souk_tasks table — show nothing instead of crashing).
+        $soukTasks = collect();
+
+        if (Schema::hasTable('souk_tasks')) {
+            $soukTasks = SoukTask::query()
+                ->with(['product', 'buyer'])
+                ->whereIn('cod_order_id', $orders->pluck('id')->all())
+                ->get()
+                ->groupBy('cod_order_id');
+        }
+
         return view('admin::cod.orders')->with([
-            'orders' => $this->orders->paginatedOrders($status),
+            'orders' => $orders,
             'statuses' => $this->orders->statuses(),
             'statusCounts' => $this->orders->statusCounts(),
             'status' => $status,
@@ -43,6 +60,8 @@ class CodOrderController extends Controller
             'confirmers' => $this->assignment->confirmers(),
             'canManageAssignment' => bouncer()->hasPermission('cod.assignment'),
             'unassignedCount' => $this->assignment->unassignedCount(),
+            'soukTasks' => $soukTasks,
+            'canViewSouk' => bouncer()->hasPermission('cod.souk'),
         ]);
     }
 }

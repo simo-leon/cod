@@ -35,6 +35,12 @@
                 </a>
             @endif
 
+            @if ($canViewSouk)
+                <a href="{{ $soukUrl }}" class="secondary-button">
+                    @lang('admin::app.cod.index.view-souk')
+                </a>
+            @endif
+
             <a href="{{ $settingsUrl }}" class="primary-button whitespace-nowrap">
                 @lang('admin::app.cod.index.settings')
             </a>

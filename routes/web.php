@@ -9,6 +9,7 @@ use App\Http\Controllers\Admin\CodDashboardController;
 use App\Http\Controllers\Admin\CodMyTasksController;
 use App\Http\Controllers\Admin\CodOrderController;
 use App\Http\Controllers\Admin\DeliveryProviderController;
+use App\Http\Controllers\Admin\SoukController;
 use Illuminate\Support\Facades\Route;
 use Webkul\Core\Http\Middleware\NoCacheMiddleware;
 
@@ -109,4 +110,38 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
      */
     Route::post('cod/orders/{codOrder}/calls', [CodCallLogController::class, 'store'])
         ->name('admin.cod.orders.calls.store');
+
+    /**
+     * Souk (market sourcing) board. Guarded by the `cod.souk` ACL
+     * key: souk buyers see what is available and what they claimed,
+     * the warehouse controller verifies goods and records payments.
+     */
+    Route::get('cod/souk', [SoukController::class, 'index'])
+        ->name('admin.cod.souk.index');
+
+    Route::post('cod/souk/tasks/{task}/claim', [SoukController::class, 'claim'])
+        ->name('admin.cod.souk.tasks.claim');
+
+    Route::post('cod/souk/tasks/{task}/purchase', [SoukController::class, 'purchase'])
+        ->name('admin.cod.souk.tasks.purchase');
+
+    Route::post('cod/souk/tasks/{task}/receive', [SoukController::class, 'receive'])
+        ->name('admin.cod.souk.tasks.receive');
+
+    Route::post('cod/souk/tasks/{task}/verify', [SoukController::class, 'verify'])
+        ->name('admin.cod.souk.tasks.verify');
+
+    Route::post('cod/souk/tasks/{task}/pay', [SoukController::class, 'pay'])
+        ->name('admin.cod.souk.tasks.pay');
+
+    Route::post('cod/souk/tasks/{task}/cancel', [SoukController::class, 'cancel'])
+        ->name('admin.cod.souk.tasks.cancel');
+
+    /**
+     * Save the sourcing mode of one product from its admin edit page
+     * (the sourcing card rendered after the product form). Guarded by
+     * the `cod.souk` ACL key.
+     */
+    Route::post('catalog/products/{product}/sourcing', [SoukController::class, 'updateSourcing'])
+        ->name('admin.cod.souk.sourcing.update');
 });

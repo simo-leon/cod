@@ -23,6 +23,9 @@ use App\Cod\Delivery\TrackingSyncService;
 use App\Cod\Delivery\TrackingSyncServiceInterface;
 use App\Cod\Orders\OrderService;
 use App\Cod\Orders\OrderServiceInterface;
+use App\Cod\Souk\SoukService;
+use App\Cod\Souk\SoukServiceInterface;
+use App\Cod\Souk\SoukSettings;
 use App\Cod\WhatsApp\WhatsAppService;
 use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use Illuminate\Support\ServiceProvider;
@@ -65,5 +68,9 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(TrackingSyncServiceInterface::class, TrackingSyncService::class);
 
         $this->app->singleton(AnalyticsServiceInterface::class, AnalyticsService::class);
+
+        $this->app->singleton(SoukSettings::class);
+
+        $this->app->singleton(SoukServiceInterface::class, SoukService::class);
     }
 }

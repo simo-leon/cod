@@ -70,3 +70,18 @@ Schedule::command('cod:remind-unconfirmed')->everyFifteenMinutes();
  * a missed or repeated run changes nothing.
  */
 Schedule::command('cod:sync-tracking')->everyThirtyMinutes();
+
+/**
+ * Souk (market sourcing): safety net for the automatic zero-stock
+ * assignment — catches stock changes made any other way than a
+ * checkout or a product edit (imports, manual edits, refunds).
+ * Runs every 30 minutes; the command is idempotent.
+ */
+Schedule::command('souk:check-zero-stock')->everyThirtyMinutes();
+
+/**
+ * Souk (market sourcing): expire unclaimed tasks past their claim
+ * deadline (recreating them so the product stays available) and
+ * flag stalled claimed tasks as escalated. Runs hourly.
+ */
+Schedule::command('souk:escalate')->hourly();

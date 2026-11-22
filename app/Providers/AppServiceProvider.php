@@ -2,6 +2,8 @@
 
 namespace App\Providers;
 
+use App\Cod\Souk\SoukServiceInterface;
+use App\Listeners\AssignZeroStockToSouk;
 use App\Listeners\ImportOrderToCod;
 use App\Listeners\KrayinCrmListener;
 use App\Listeners\SendOrderToDeliveryProvider;
@@ -15,6 +17,7 @@ use Illuminate\Support\Facades\ParallelTesting;
 use Illuminate\Support\Facades\Request;
 use Illuminate\Support\ServiceProvider;
 use Webkul\Sales\Models\Order;
+use Webkul\Theme\ViewRenderEventManager;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -94,6 +97,59 @@ class AppServiceProvider extends ServiceProvider
 
         // Record cash-on-delivery orders in the COD System (phase 2)
         Event::listen('checkout.order.save.after', [ImportOrderToCod::class, 'handle']);
+
+        // Souk (market sourcing): a product that just hit zero
+        // available stock is assigned to the souk panel
+        // automatically — on a product edit and on a new order.
+        Event::listen('catalog.product.update.after', [AssignZeroStockToSouk::class, 'handleProductUpdate']);
+        Event::listen('checkout.order.save.after', [AssignZeroStockToSouk::class, 'handleOrder']);
+
+        // Souk sourcing card on the admin product edit page (after
+        // the product form): current stock, effective mode, and the
+        // mode / cap / margin form.
+        Event::listen('bagisto.admin.catalog.product.edit.after', function (ViewRenderEventManager $manager) {
+            $product = $manager->getParam('product');
+
+            if (! $product) {
+                return;
+            }
+
+            $souk = app(SoukServiceInterface::class);
+
+            $manager->addTemplate('admin::cod.souk-product-card', [
+                'product' => $product,
+                'sourcing' => $souk->sourcingFor((int) $product->id),
+                'stockQty' => $souk->stockQty((int) $product->id),
+                'effectiveMode' => $souk->effectiveMode($product),
+                'openTask' => $souk->openTaskForProduct((int) $product->id),
+                'canEditSourcing' => bouncer()->hasPermission('cod.souk'),
+            ]);
+        });
+
+        // Souk tasks card on the admin store order view (above the
+        // order items): which items come from the souk, who the
+        // buyer is, the purchase price and the status. Only rendered
+        // when the order actually has souk tasks.
+        Event::listen('bagisto.admin.sales.order.left_component.before', function (ViewRenderEventManager $manager) {
+            $order = $manager->getParam('order');
+
+            if (! $order || ! bouncer()->hasPermission('cod.souk')) {
+                return;
+            }
+
+            $productIds = $order->items->pluck('product_id')->filter()->unique()->values()->all();
+
+            $tasks = app(SoukServiceInterface::class)->tasksForOrderProductIds($productIds);
+
+            if ($tasks->isEmpty()) {
+                return;
+            }
+
+            $manager->addTemplate('admin::cod.souk-order-card', [
+                'order' => $order,
+                'tasks' => $tasks,
+            ]);
+        });
 
         // Krayin CRM listeners
         Event::listen('sales.order.update-status.after', [KrayinCrmListener::class, 'handleOrderStatusUpdated']);

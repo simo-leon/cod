@@ -66,6 +66,7 @@
                         <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.city')</th>
                         <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.total')</th>
                         <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.status')</th>
+                        <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.souk')</th>
                         <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.assigned-to')</th>
                         <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.source')</th>
                         <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.orders.date')</th>
@@ -112,6 +113,26 @@
 
                             <td class="px-3 py-3">
                                 <x-admin::cod.status-badge :status="$codOrder->status" />
+                            </td>
+
+                            <td class="px-3 py-3">
+                                @if ($canViewSouk && ($soukTasks[$codOrder->id] ?? collect())->isNotEmpty())
+                                    @foreach ($soukTasks[$codOrder->id] as $soukTask)
+                                        <span class="block text-gray-800 dark:text-white">
+                                            {{ $soukTask->product?->name ?? $soukTask->product?->sku ?? '—' }}
+                                        </span>
+
+                                        <span class="block text-xs text-gray-500 dark:text-gray-400">
+                                            @lang('admin::app.cod.orders.souk-line', [
+                                                'buyer' => $soukTask->buyer?->name ?? '—',
+                                                'price' => $soukTask->purchase_price !== null ? number_format((float) $soukTask->purchase_price, 2).' DH' : '—',
+                                                'status' => trans('admin::app.cod.souk.statuses.'.$soukTask->status),
+                                            ])
+                                        </span>
+                                    @endforeach
+                                @else
+                                    —
+                                @endif
                             </td>
 
                             <td class="px-3 py-3 text-gray-800 dark:text-white">
