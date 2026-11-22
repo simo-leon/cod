@@ -129,6 +129,21 @@ class OrderService implements OrderServiceInterface
             }
         }
 
+        // External payloads (no matching local store order): when the
+        // payload states a payment method, it must be cash on
+        // delivery — a non-COD order (e.g. moneytransfer) is not a
+        // COD order and must be rejected (the controller answers
+        // 422). A payload without the field keeps the historic
+        // behaviour: older payloads carry no payment method.
+        if (
+            array_key_exists('payment_method', $data)
+            && $data['payment_method'] !== null
+            && $data['payment_method'] !== ''
+            && ! in_array($data['payment_method'], self::COD_PAYMENT_METHODS, true)
+        ) {
+            return null;
+        }
+
         try {
             // Only fields present in the payload are written: a repeat
             // import with a partial payload must not wipe snapshot fields

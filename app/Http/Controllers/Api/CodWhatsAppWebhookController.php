@@ -68,7 +68,12 @@ class CodWhatsAppWebhookController extends Controller
         $configuredToken = core()->getConfigData(WhatsAppService::CONFIG_KEY.'.meta_verify_token');
 
         if ($mode === 'subscribe' && $token && $configuredToken && hash_equals((string) $configuredToken, (string) $token)) {
-            return response((string) $challenge, 200);
+            // Meta compares the verification body literally, so the
+            // challenge must be returned exactly — as plain text.
+            // With APP_DEBUG=true the DebugBar injects ~38KB of HTML
+            // into text/html responses, which breaks Meta's
+            // verification; text/plain responses are never injected.
+            return response((string) $challenge, 200)->header('Content-Type', 'text/plain');
         }
 
         return response('Forbidden.', 403);

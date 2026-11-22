@@ -27,6 +27,10 @@ use Illuminate\Http\Request;
  *   "items_count": 2, "status": "pending_confirmation",
  *   "items": [{"sku": "JEMLA-W8-ULTRA-MAX", "name": "…", "qty": 1}],
  *   "order_id": 123                   // optional: local store order id
+ *   "payment_method": "cashondelivery" // optional: when present it must
+ *                                       // be cashondelivery/cod, otherwise
+ *                                       // the import is rejected (422).
+ *                                       // Absent = historic behaviour.
  * }
  * `increment_id` is accepted as an alias for `external_id`.
  *
@@ -71,6 +75,7 @@ class CodOrderImportController extends Controller
             'items.*.qty' => 'nullable|integer|min:1',
             'items.*.quantity' => 'nullable|integer|min:1',
             'status' => 'nullable|string|max:50',
+            'payment_method' => 'nullable|string|max:50',
         ]);
 
         $codOrder = $orders->importFromPayload($validated);
