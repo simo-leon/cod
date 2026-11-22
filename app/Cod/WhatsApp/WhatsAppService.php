@@ -65,6 +65,29 @@ class WhatsAppService implements WhatsAppServiceInterface
     public const PROVIDER_NONE = 'none';
 
     /**
+     * Delivery-status notification events (phase 6). Each maps to one
+     * admin-editable message template and one *_notification_sent_at
+     * column on CodOrder, so each event is notified at most once per
+     * order.
+     */
+    public const STATUS_NOTIFICATION_EVENTS = [
+        'shipped',
+        'out_for_delivery',
+        'delivered',
+        'returned',
+    ];
+
+    /**
+     * Notification event => CodOrder column marking it sent.
+     */
+    public const STATUS_NOTIFICATION_COLUMNS = [
+        'shipped' => 'shipped_notification_sent_at',
+        'out_for_delivery' => 'out_for_delivery_notification_sent_at',
+        'delivered' => 'delivered_notification_sent_at',
+        'returned' => 'returned_notification_sent_at',
+    ];
+
+    /**
      * Reply-button ids used by the Meta interactive message. Template
      * quick-reply buttons use the ids defined in the template itself,
      * so the webhook also interprets the button title text.
@@ -218,6 +241,109 @@ class WhatsAppService implements WhatsAppServiceInterface
 
         if ($result['success']) {
             $order->reminder_sent_at = now();
+            $order->whatsapp_provider = $provider->name();
+            $order->save();
+        }
+
+        return $result;
+    }
+
+    /**
+     * Send one delivery-status notification to the customer (phase 6).
+     *
+     * Idempotency: the matching *_notification_sent_at column is
+     * checked first and set only on a successful send — a second call
+     * for the same event returns success with "already sent", and a
+     * failed send leaves the column empty so the next sync retries.
+     *
+     * Meta: when an approved template name is configured for this
+     * event (COD System → WhatsApp → Meta template name for the
+     * event), the notification is sent as a template with the body
+     * parameters in this order: order_id, name, total, products,
+     * tracking_code. The template must be approved by Meta with
+     * exactly those five {{1}}..{{5}} parameters, or the send fails
+     * with error 132000 and is retried on the next sync. When no
+     * template name is set for the event, the rendered text is sent
+     * as a plain message (works only inside the 24-hour
+     * customer-service window; outside it Meta rejects with 131047).
+     * Evolution has no templates: the rendered text is always sent
+     * as plain text.
+     *
+     * When WhatsApp is disabled or no provider is configured, nothing
+     * is sent and nothing is logged to cod_whatsapp_messages — the
+     * skip is only written to the Laravel log, and the sync that
+     * triggered the notification carries on.
+     */
+    public function sendStatusNotification(CodOrder $order, string $event, ?string $trackingCode = null): array
+    {
+        if (! in_array($event, self::STATUS_NOTIFICATION_EVENTS, true)) {
+            return ['success' => false, 'message' => 'Unknown delivery notification event "'.$event.'".', 'message_id' => null];
+        }
+
+        $column = self::STATUS_NOTIFICATION_COLUMNS[$event];
+
+        // Idempotency: exactly one notification per event per order.
+        if ($order->{$column}) {
+            return ['success' => true, 'message' => 'The '.$event.' notification was already sent for this order.', 'message_id' => null];
+        }
+
+        if (! $this->isEnabled()) {
+            Log::info('COD WhatsApp: status notification skipped, WhatsApp is disabled', [
+                'cod_order_id' => $order->id,
+                'event' => $event,
+            ]);
+
+            return ['success' => false, 'message' => 'COD WhatsApp is disabled in the admin.', 'message_id' => null];
+        }
+
+        $phone = $order->customer_phone;
+
+        if (empty($phone)) {
+            return ['success' => false, 'message' => 'Order has no customer phone number.', 'message_id' => null];
+        }
+
+        $provider = $this->resolveProvider();
+
+        // No real provider configured (provider 'none', or the
+        // selected provider has no credentials): skip silently, do
+        // not mark the notification sent, do not fail the sync.
+        if ($provider instanceof LogWhatsAppProvider) {
+            Log::info('COD WhatsApp: status notification skipped, no WhatsApp provider is configured', [
+                'cod_order_id' => $order->id,
+                'event' => $event,
+            ]);
+
+            return ['success' => false, 'message' => 'No WhatsApp provider is configured.', 'message_id' => null];
+        }
+
+        $text = $this->renderTemplate($this->statusNotificationTemplate($event), $order, $trackingCode);
+
+        if ($provider instanceof MetaWhatsAppProvider) {
+            $templateName = $this->statusTemplateName($event);
+
+            if ($templateName) {
+                $result = $provider->sendTemplate($phone, $templateName, $provider->getTemplateLanguage(), [
+                    $order->external_id,
+                    $order->customer_name ?? '',
+                    $this->formatTotal($order),
+                    $this->productNames($order),
+                    $trackingCode ?? '',
+                ]);
+            } else {
+                $result = $provider->sendText($phone, $text);
+
+                if (! $result['success'] && ($result['error_code'] ?? null) === 131047) {
+                    $result['message'] .= ' Configure an approved Meta template for this event (COD System → WhatsApp → Meta template name) to reach customers outside the 24-hour window.';
+                }
+            }
+        } else {
+            $result = $provider->sendText($phone, $text);
+        }
+
+        $this->logMessage($order, CodWhatsAppMessage::DIRECTION_OUT, $phone, $text, $result, $provider->name());
+
+        if ($result['success']) {
+            $order->{$column} = now();
             $order->whatsapp_provider = $provider->name();
             $order->save();
         }
@@ -406,18 +532,20 @@ class WhatsAppService implements WhatsAppServiceInterface
     }
 
     /**
-     * Fill the template placeholders for one order.
+     * Fill the template placeholders for one order. {tracking_code}
+     * is the delivery parcel code when one is known, empty otherwise.
      */
-    public function renderTemplate(string $template, CodOrder $order): string
+    public function renderTemplate(string $template, CodOrder $order, ?string $trackingCode = null): string
     {
         return str_replace(
-            ['{order_id}', '{name}', '{total}', '{products}', '{store}'],
+            ['{order_id}', '{name}', '{total}', '{products}', '{store}', '{tracking_code}'],
             [
                 $order->external_id,
                 $order->customer_name ?? '',
                 $this->formatTotal($order),
                 $this->productNames($order),
                 (string) config('app.name', 'Jemla En Ligne'),
+                $trackingCode ?? '',
             ],
             $template,
         );
@@ -464,6 +592,37 @@ class WhatsAppService implements WhatsAppServiceInterface
         $template = core()->getConfigData(self::CONFIG_KEY.'.reminder_message');
 
         return $template ? (string) $template : 'السلام عليكم {name}، ما زال الطلب ديالك رقم {order_id} ({total}) بلا تأكيد. واش نأكدو؟';
+    }
+
+    /**
+     * The admin-editable message text for one delivery-status
+     * notification event (phase 6), with a Darija default.
+     */
+    protected function statusNotificationTemplate(string $event): string
+    {
+        $defaults = [
+            'shipped' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id}: {products} — المجموع {total}، تم الشحن ديالو وغادي يوصلك قريب إن شاء الله. كود التتبع: {tracking_code}.',
+            'out_for_delivery' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) خرج للتوصيل اليوم وغادي يوصلك. كود التتبع: {tracking_code}.',
+            'delivered' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) تم التوصيل ديالو. شكرا على الثقة ديالك.',
+            'returned' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) ترجع لينا. إلا بغيتي نعاودو نرسلوه ليك، تواصل معانا.',
+        ];
+
+        $template = core()->getConfigData(self::CONFIG_KEY.'.'.$event.'_message');
+
+        return $template ? (string) $template : $defaults[$event];
+    }
+
+    /**
+     * The approved Meta template name for one delivery-status event,
+     * or null when none is configured (plain text is sent instead).
+     * Each event has its own field: a Meta template has fixed text,
+     * so the four events cannot share one template name.
+     */
+    protected function statusTemplateName(string $event): ?string
+    {
+        $name = core()->getConfigData(self::CONFIG_KEY.'.meta_'.$event.'_template_name');
+
+        return $name ? (string) $name : null;
     }
 
     protected function formatTotal(CodOrder $order): string

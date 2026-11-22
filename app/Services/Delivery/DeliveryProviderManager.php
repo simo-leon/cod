@@ -161,21 +161,28 @@ class DeliveryProviderManager
 
     /**
      * Refresh the last known status of a sent parcel from the provider.
-     * Never throws: a provider failure is reported in the result so the
-     * admin action can flash it instead of breaking the order page.
+     * Never throws: a provider failure is reported in the result and
+     * stored in `error_message` on the parcel, so the admin action can
+     * flash it instead of breaking the order page.
      *
-     * @return array{success: bool, status: ?string, error: ?string}
+     * The raw provider status is normalized through
+     * TrackingStatusMapper, so `last_status` always holds one unified
+     * value (pending / in_transit / out_for_delivery / delivered /
+     * returned / cancelled). Idempotent: when neither the status nor
+     * the error changed, nothing is written.
+     *
+     * @return array{success: bool, status: ?string, error: ?string, changed: bool}
      */
     public function refreshTracking(DeliveryParcel $parcel): array
     {
         $provider = $this->provider($parcel->provider);
 
         if (! $provider) {
-            return ['success' => false, 'status' => $parcel->last_status, 'error' => 'Unknown delivery provider "'.$parcel->provider.'".'];
+            return ['success' => false, 'status' => $parcel->last_status, 'error' => 'Unknown delivery provider "'.$parcel->provider.'".', 'changed' => false];
         }
 
         if (! $parcel->parcel_code) {
-            return ['success' => false, 'status' => $parcel->last_status, 'error' => 'This parcel has no tracking code yet.'];
+            return ['success' => false, 'status' => $parcel->last_status, 'error' => 'This parcel has no tracking code yet.', 'changed' => false];
         }
 
         try {
@@ -187,17 +194,53 @@ class DeliveryProviderManager
                 'error' => $e->getMessage(),
             ]);
 
-            return ['success' => false, 'status' => $parcel->last_status, 'error' => $e->getMessage()];
+            $this->storeTrackingError($parcel, $e->getMessage());
+
+            return ['success' => false, 'status' => $parcel->last_status, 'error' => $e->getMessage(), 'changed' => false];
         }
 
         if (! ($tracking['success'] ?? false)) {
-            return ['success' => false, 'status' => $parcel->last_status, 'error' => $tracking['error'] ?? 'Tracking failed.'];
+            $error = $tracking['error'] ?? 'Tracking failed.';
+            $this->storeTrackingError($parcel, $error);
+
+            return ['success' => false, 'status' => $parcel->last_status, 'error' => $error, 'changed' => false];
         }
 
-        if (! empty($tracking['status'])) {
-            $parcel->update(['last_status' => $tracking['status']]);
+        $status = TrackingStatusMapper::normalize($parcel->provider, $tracking['status'] ?? null);
+        $events = is_array($tracking['events'] ?? null) ? $tracking['events'] : [];
+
+        // No recognizable status: the provider answered but said
+        // nothing usable — record the events, change nothing.
+        if ($status === null) {
+            if ($events !== [] && $parcel->tracking_events !== $events) {
+                $parcel->update(['tracking_events' => $events]);
+            }
+
+            return ['success' => true, 'status' => $parcel->fresh()->last_status, 'error' => null, 'changed' => false];
         }
 
-        return ['success' => true, 'status' => $parcel->fresh()->last_status, 'error' => null];
+        if ($status !== $parcel->last_status || $parcel->error_message !== null || (array) ($parcel->tracking_events ?? []) !== $events) {
+            $parcel->update([
+                'last_status' => $status,
+                'tracking_events' => $events,
+                'error_message' => null,
+            ]);
+
+            return ['success' => true, 'status' => $status, 'error' => null, 'changed' => true];
+        }
+
+        return ['success' => true, 'status' => $status, 'error' => null, 'changed' => false];
+    }
+
+    /**
+     * Record a tracking failure on the parcel without touching its
+     * last known status. Only writes when the error text changed, so
+     * repeated failures with the same message do not rewrite the row.
+     */
+    protected function storeTrackingError(DeliveryParcel $parcel, string $error): void
+    {
+        if ($parcel->error_message !== $error) {
+            $parcel->update(['error_message' => $error]);
+        }
     }
 }

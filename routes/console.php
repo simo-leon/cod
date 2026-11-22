@@ -55,3 +55,14 @@ Schedule::command('cod:import-orders')->hourly();
  * `reminder_delay_minutes` (default 120) ago, and only once per order.
  */
 Schedule::command('cod:remind-unconfirmed')->everyFifteenMinutes();
+
+/**
+ * COD System (phase 6): sync delivery tracking for sent parcels,
+ * update the linked COD order statuses and notify customers on
+ * WhatsApp. Runs every 30 minutes, not 15: delivery statuses change
+ * on the scale of hours, not minutes, and every run costs one API
+ * call per open parcel against the providers' rate limits (Vitis
+ * Express allows 1000 requests/hour). The command is idempotent, so
+ * a missed or repeated run changes nothing.
+ */
+Schedule::command('cod:sync-tracking')->everyThirtyMinutes();

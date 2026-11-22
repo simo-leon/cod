@@ -14,6 +14,8 @@ use App\Cod\Confirmation\ConfirmationService;
 use App\Cod\Confirmation\ConfirmationServiceInterface;
 use App\Cod\Delivery\DeliveryService;
 use App\Cod\Delivery\DeliveryServiceInterface;
+use App\Cod\Delivery\TrackingSyncService;
+use App\Cod\Delivery\TrackingSyncServiceInterface;
 use App\Cod\Orders\OrderService;
 use App\Cod\Orders\OrderServiceInterface;
 use App\Cod\WhatsApp\WhatsAppService;
@@ -48,6 +50,8 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(ReplyIntentClassifierInterface::class, OpenAiCompatibleReplyClassifier::class);
 
         $this->app->singleton(DeliveryServiceInterface::class, DeliveryService::class);
+
+        $this->app->singleton(TrackingSyncServiceInterface::class, TrackingSyncService::class);
 
         $this->app->singleton(AnalyticsServiceInterface::class, AnalyticsService::class);
     }

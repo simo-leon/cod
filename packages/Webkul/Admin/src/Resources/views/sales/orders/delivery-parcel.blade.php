@@ -53,6 +53,10 @@
                         </p>
                     @endif
 
+                    <p>
+                        @lang('admin::app.sales.orders.view.delivery.updated-at'): <span class="font-semibold text-gray-800 dark:text-white">{{ $deliveryParcel->updated_at->format('Y-m-d H:i') }}</span>
+                    </p>
+
                     @if ($deliveryParcel->sent_at)
                         <p>
                             @lang('admin::app.sales.orders.view.delivery.sent-at'): {{ $deliveryParcel->sent_at->format('Y-m-d H:i') }}

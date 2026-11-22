@@ -16,9 +16,10 @@ class DeliveryParcel extends Model
     protected $guarded = [];
 
     protected $casts = [
-        'payload'  => 'array',
+        'payload' => 'array',
         'response' => 'array',
-        'sent_at'  => 'datetime',
+        'tracking_events' => 'array',
+        'sent_at' => 'datetime',
     ];
 
     public function order(): BelongsTo

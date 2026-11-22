@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers\Admin;
 
+use App\Cod\Delivery\TrackingSyncServiceInterface;
 use App\Http\Controllers\Controller;
 use App\Models\DeliveryParcel;
 use App\Services\Delivery\DeliveryProviderManager;
@@ -75,10 +76,13 @@ class DeliveryProviderController extends Controller
 
     /**
      * Refresh the tracking status of the latest parcel of one order.
-     * Updates last_status on success; on provider failure the order
-     * page still loads and the failure is flashed, never a 500.
+     * Uses the same unified sync as `cod:sync-tracking` (phase 6),
+     * so a manual refresh also updates the linked COD order status
+     * and sends the customer notification when the status changed.
+     * On provider failure the order page still loads and the failure
+     * is flashed, never a 500.
      */
-    public function refreshTracking(int $id, DeliveryProviderManager $manager): RedirectResponse
+    public function refreshTracking(int $id, TrackingSyncServiceInterface $sync): RedirectResponse
     {
         abort_unless(bouncer()->hasPermission('sales.orders.edit'), 403);
 
@@ -106,15 +110,22 @@ class DeliveryProviderController extends Controller
             return redirect()->back();
         }
 
-        $result = $manager->refreshTracking($parcel);
+        $result = $sync->syncParcel($parcel);
 
         if ($result['success']) {
-            session()->flash(
-                'success',
-                $result['status']
-                    ? trans('admin::app.sales.orders.view.delivery.refresh-success', ['status' => $result['status']])
-                    : trans('admin::app.sales.orders.view.delivery.refresh-success-no-change')
-            );
+            if (($result['notification']['success'] ?? false) === true && ! ($result['notification']['already_sent'] ?? false)) {
+                session()->flash(
+                    'success',
+                    trans('admin::app.sales.orders.view.delivery.refresh-notified', ['status' => $result['status'] ?? ''])
+                );
+            } elseif ($result['status']) {
+                session()->flash(
+                    'success',
+                    trans('admin::app.sales.orders.view.delivery.refresh-success', ['status' => $result['status']])
+                );
+            } else {
+                session()->flash('success', trans('admin::app.sales.orders.view.delivery.refresh-success-no-change'));
+            }
         } else {
             session()->flash(
                 'error',

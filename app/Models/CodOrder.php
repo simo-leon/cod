@@ -66,6 +66,13 @@ class CodOrder extends Model
         'confirmation_sent_at' => 'datetime',
         'reminder_sent_at' => 'datetime',
         'last_reply_at' => 'datetime',
+        // Phase 6: one customer notification per delivery event; set
+        // only on a successful send, so a failed send is retried and
+        // a sent one is never repeated.
+        'shipped_notification_sent_at' => 'datetime',
+        'out_for_delivery_notification_sent_at' => 'datetime',
+        'delivered_notification_sent_at' => 'datetime',
+        'returned_notification_sent_at' => 'datetime',
     ];
 
     public function order(): BelongsTo

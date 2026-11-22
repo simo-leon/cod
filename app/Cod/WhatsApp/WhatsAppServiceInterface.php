@@ -62,6 +62,24 @@ interface WhatsAppServiceInterface
     public function sendReminder(CodOrder $order): array;
 
     /**
+     * Send the customer a delivery-status notification for one COD
+     * order (phase 6). $event is one of 'shipped',
+     * 'out_for_delivery', 'delivered' or 'returned'; the message
+     * template is editable in the admin (COD System → WhatsApp) and
+     * supports {order_id} {name} {total} {products} {store} plus
+     * {tracking_code}. Sends at most once per event per order: the
+     * matching *_notification_sent_at column is set only on a
+     * successful send, so a failed send is retried on the next sync
+     * and a sent one is never repeated. When WhatsApp is disabled or
+     * no provider is configured, nothing is sent and the *_sent_at
+     * column stays empty — the notification is simply skipped, and
+     * the failure never breaks the tracking sync. Never throws.
+     *
+     * @return array{success: bool, message: string, message_id: ?string}
+     */
+    public function sendStatusNotification(CodOrder $order, string $event, ?string $trackingCode = null): array;
+
+    /**
      * Normalize a phone number to bare international digits
      * (e.g. 06... or +2126... become 2126...).
      */

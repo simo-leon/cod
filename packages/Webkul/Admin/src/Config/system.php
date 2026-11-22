@@ -1017,6 +1017,75 @@ return [
                 'type' => 'number',
                 'default' => 120,
                 'channel_based' => true,
+            ], [
+                /**
+                 * Phase 6: customer delivery-status notifications.
+                 * One editable message per event, sent once per event
+                 * per order when the tracking sync (or a manual
+                 * refresh) reaches that status. Placeholders:
+                 * {order_id} {name} {total} {products} {store} plus
+                 * {tracking_code} (the delivery parcel code).
+                 * Each event also has an optional approved Meta
+                 * template name: when set, Meta sends that template
+                 * with the body parameters in this order — order_id,
+                 * name, total, products, tracking_code — and the
+                 * template must be approved by Meta with exactly
+                 * those five parameters. When empty, the message text
+                 * is sent as plain text (Meta: only inside the
+                 * 24-hour window). Evolution has no templates and
+                 * always sends the text.
+                 */
+                'name' => 'shipped_message',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.shipped-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.shipped-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id}: {products} — المجموع {total}، تم الشحن ديالو وغادي يوصلك قريب إن شاء الله. كود التتبع: {tracking_code}.',
+                'channel_based' => true,
+            ], [
+                'name' => 'out_for_delivery_message',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.out-for-delivery-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.out-for-delivery-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) خرج للتوصيل اليوم وغادي يوصلك. كود التتبع: {tracking_code}.',
+                'channel_based' => true,
+            ], [
+                'name' => 'delivered_message',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.delivered-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.delivered-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) تم التوصيل ديالو. شكرا على الثقة ديالك.',
+                'channel_based' => true,
+            ], [
+                'name' => 'returned_message',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.returned-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.returned-message-info',
+                'type' => 'textarea',
+                'default' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) ترجع لينا. إلا بغيتي نعاودو نرسلوه ليك، تواصل معانا.',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_shipped_template_name',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-shipped-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-shipped-template-name-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_out_for_delivery_template_name',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-out-for-delivery-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-out-for-delivery-template-name-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_delivered_template_name',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-delivered-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-delivered-template-name-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_returned_template_name',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-returned-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-returned-template-name-info',
+                'type' => 'text',
+                'channel_based' => true,
             ],
         ],
     ], [
