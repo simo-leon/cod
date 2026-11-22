@@ -124,7 +124,13 @@ class OrderService implements OrderServiceInterface
         if (! empty($data['order_id'])) {
             $localOrder = Order::find((int) $data['order_id']);
 
-            if ($localOrder && $this->isCodOrder($localOrder)) {
+            if ($localOrder) {
+                // A payload pointing at a local order that is not COD
+                // must be rejected, like an increment_id match above.
+                if (! $this->isCodOrder($localOrder)) {
+                    return null;
+                }
+
                 return $this->importOrder($localOrder, $source);
             }
         }
