@@ -442,5 +442,11 @@ return [
         'route' => 'admin.cod.conversations.index',
         'sort' => 5,
         'icon' => '',
+    ], [
+        'key' => 'cod.souk',
+        'name' => 'admin::app.components.layouts.sidebar.cod-souk',
+        'route' => 'admin.cod.souk.index',
+        'sort' => 6,
+        'icon' => '',
     ],
 ];

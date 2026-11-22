@@ -1293,6 +1293,73 @@ return [
                 'channel_based' => true,
             ],
         ],
+    ], [
+
+        /**
+         * COD System — Souk (market sourcing).
+         *
+         * The panel is OFF by default: nothing is assigned to the
+         * souk and no task is created until the owner switches it
+         * on. The claim timeout is the hours an assigned task waits
+         * for a buyer before it is escalated and expires (default
+         * 24). The default cap and minimum margin apply to products
+         * without their own values. The payment model decides who
+         * fronts the purchase money — advance (the store gives the
+         * buyer the money first) or reimbursement (the buyer pays in
+         * the souk and is paid back after verification) — and every
+         * payment is recorded explicitly in souk_payments.
+         * See app/Cod/Souk/SoukSettings.php for the same defaults as
+         * code fallbacks.
+         */
+        'key' => 'general.cod_system.souk',
+        'name' => 'admin::app.configuration.index.general.cod-system.souk.title',
+        'info' => 'admin::app.configuration.index.general.cod-system.souk.title-info',
+        'sort' => 6,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.cod-system.souk.status',
+                'info' => 'admin::app.configuration.index.general.cod-system.souk.status-info',
+                'type' => 'boolean',
+                'default' => false,
+                'channel_based' => true,
+            ], [
+                'name' => 'claim_timeout_hours',
+                'title' => 'admin::app.configuration.index.general.cod-system.souk.claim-timeout-hours',
+                'info' => 'admin::app.configuration.index.general.cod-system.souk.claim-timeout-hours-info',
+                'type' => 'number',
+                'default' => 24,
+                'channel_based' => true,
+            ], [
+                'name' => 'default_price_cap',
+                'title' => 'admin::app.configuration.index.general.cod-system.souk.default-price-cap',
+                'info' => 'admin::app.configuration.index.general.cod-system.souk.default-price-cap-info',
+                'type' => 'number',
+                'channel_based' => true,
+            ], [
+                'name' => 'default_min_margin_percent',
+                'title' => 'admin::app.configuration.index.general.cod-system.souk.default-min-margin-percent',
+                'info' => 'admin::app.configuration.index.general.cod-system.souk.default-min-margin-percent-info',
+                'type' => 'number',
+                'channel_based' => true,
+            ], [
+                'name' => 'payment_model',
+                'title' => 'admin::app.configuration.index.general.cod-system.souk.payment-model',
+                'info' => 'admin::app.configuration.index.general.cod-system.souk.payment-model-info',
+                'type' => 'select',
+                'default' => 'reimbursement',
+                'options' => [
+                    [
+                        'title' => 'Reimbursement on delivery — the buyer pays in the souk and is paid back after the goods are received and verified',
+                        'value' => 'reimbursement',
+                    ], [
+                        'title' => 'Advance payment — the store gives the buyer the money before / at purchase time',
+                        'value' => 'advance',
+                    ],
+                ],
+                'channel_based' => true,
+            ],
+        ],
     ],
 
     /**

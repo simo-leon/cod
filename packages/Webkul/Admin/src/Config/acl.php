@@ -1256,7 +1256,9 @@ return [
     | and 7) and are guarded by their keys. The delivery and settings
     | keys point at routes that do not exist yet; their pages arrive
     | in later phases, and the Bouncer enforces them automatically
-    | once those routes are registered.
+    | once those routes are registered. The souk key guards the
+    | market-sourcing board (admin.cod.souk.index) and every souk
+    | action on it.
     |
     */
     [
@@ -1299,5 +1301,10 @@ return [
         'name' => 'admin::app.acl.cod-settings',
         'route' => 'admin.cod.settings.index',
         'sort' => 6,
+    ], [
+        'key' => 'cod.souk',
+        'name' => 'admin::app.acl.cod-souk',
+        'route' => 'admin.cod.souk.index',
+        'sort' => 7,
     ],
 ];

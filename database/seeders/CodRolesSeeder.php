@@ -19,6 +19,13 @@ use Webkul\User\Models\Role;
  *   page filters every figure to the orders assigned to them (phase 7
  *   fix), so the permission grants the page, not the whole team's data.
  * - Delivery Manager (مسؤول توصيل): COD dashboard, orders and delivery only.
+ * - Souk Buyer (مشتري السوق): COD dashboard and the souk board only —
+ *   claims tasks, records the price paid in the souk, and records
+ *   that the goods entered the warehouse. Cannot verify goods or
+ *   record payments.
+ * - Warehouse Controller (مراقب المخزن): COD dashboard, orders and
+ *   the souk board — verifies received goods (accept / refuse with a
+ *   reason), records payments to buyers, and cancels tasks.
  *
  * The `cod` key guards the COD dashboard page (route admin.cod.index);
  * the module keys (cod.orders, cod.confirmation, cod.delivery,
@@ -55,6 +62,7 @@ class CodRolesSeeder extends Seeder
                     'cod.assignment',
                     'cod.delivery',
                     'cod.analytics',
+                    'cod.souk',
                 ],
                 'admins' => [
                     [
@@ -93,6 +101,37 @@ class CodRolesSeeder extends Seeder
                     [
                         'name' => 'Delivery Manager',
                         'email' => 'delivery-manager@example.com',
+                    ],
+                ],
+            ],
+            [
+                'name' => 'Souk Buyer',
+                'description' => 'مشتري السوق — buys products in the souk for the COD System.',
+                'permissions' => [
+                    'dashboard',
+                    'cod',
+                    'cod.souk',
+                ],
+                'admins' => [
+                    [
+                        'name' => 'Souk Buyer',
+                        'email' => 'souk-buyer@example.com',
+                    ],
+                ],
+            ],
+            [
+                'name' => 'Warehouse Controller',
+                'description' => 'مراقب المخزن — verifies souk goods and records buyer payments.',
+                'permissions' => [
+                    'dashboard',
+                    'cod',
+                    'cod.orders',
+                    'cod.souk',
+                ],
+                'admins' => [
+                    [
+                        'name' => 'Warehouse Controller',
+                        'email' => 'warehouse-controller@example.com',
                     ],
                 ],
             ],
