@@ -14,7 +14,10 @@ use Webkul\User\Models\Role;
  * Roles (permission_type "custom", permissions are Bagisto ACL keys):
  * - Confirmation Supervisor (مشرف تأكيد): every COD module except settings,
  *   plus `cod.assignment` to manage the distribution rules (phase 3).
- * - Confirmer (مؤكِّد): COD dashboard, orders and confirmation only.
+ * - Confirmer (مؤكِّد): COD dashboard, orders and confirmation only,
+ *   plus `cod.analytics` — but only their own numbers: the analytics
+ *   page filters every figure to the orders assigned to them (phase 7
+ *   fix), so the permission grants the page, not the whole team's data.
  * - Delivery Manager (مسؤول توصيل): COD dashboard, orders and delivery only.
  *
  * The `cod` key guards the COD dashboard page (route admin.cod.index);
@@ -68,6 +71,7 @@ class CodRolesSeeder extends Seeder
                     'cod',
                     'cod.orders',
                     'cod.confirmation',
+                    'cod.analytics',
                 ],
                 'admins' => [
                     [

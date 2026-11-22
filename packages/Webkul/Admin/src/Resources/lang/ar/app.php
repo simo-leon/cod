@@ -243,6 +243,7 @@ return [
                 'webhook' => 'Webhook',
                 'api' => 'API',
                 'import' => 'استيراد مجدول',
+                'test' => 'اختبار',
             ],
         ],
         'index' => [

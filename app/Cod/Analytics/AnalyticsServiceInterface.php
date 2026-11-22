@@ -81,9 +81,11 @@ interface AnalyticsServiceInterface
     /**
      * Full analytics for the COD analytics page, filtered by
      * ['from' => 'Y-m-d'|null, 'to' => 'Y-m-d'|null, 'city' => ?string,
-     * 'provider' => ?string, 'sku' => ?string]. Every figure comes
-     * from real COD data or from admin settings; a figure without data
-     * is null and the 'missing' lists say what must be entered.
+     * 'provider' => ?string, 'sku' => ?string, 'assigned_to' => ?int].
+     * Every figure comes from real COD data or from admin settings; a
+     * figure without data is null and the 'missing' lists say what
+     * must be entered. `assigned_to` scopes every figure — and the
+     * filter options and the team table — to one confirmer's orders.
      */
     public function analytics(array $filters): array;
 }

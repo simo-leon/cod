@@ -243,6 +243,7 @@ return [
                 'webhook' => 'Webhook',
                 'api' => 'API',
                 'import' => 'Scheduled Import',
+                'test' => 'Test',
             ],
         ],
         'index' => [

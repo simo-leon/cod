@@ -19,9 +19,11 @@
                 @lang('admin::app.cod.analytics.back-to-dashboard')
             </a>
 
-            <a href="{{ $settingsUrl }}" class="primary-button">
-                @lang('admin::app.cod.analytics.settings')
-            </a>
+            @unless ($isScoped ?? false)
+                <a href="{{ $settingsUrl }}" class="primary-button">
+                    @lang('admin::app.cod.analytics.settings')
+                </a>
+            @endunless
         </div>
     </div>
 
@@ -341,9 +343,11 @@
                         <li>@lang('admin::app.cod.analytics.profit-missing-'.$missing)</li>
                     @endforeach
                 </ul>
-                <a href="{{ $settingsUrl }}" class="mt-2 inline-block font-semibold text-blue-600 hover:underline dark:text-blue-400">
-                    @lang('admin::app.cod.analytics.settings')
-                </a>
+                @unless ($isScoped ?? false)
+                    <a href="{{ $settingsUrl }}" class="mt-2 inline-block font-semibold text-blue-600 hover:underline dark:text-blue-400">
+                        @lang('admin::app.cod.analytics.settings')
+                    </a>
+                @endunless
             </div>
         @endif
 
@@ -433,6 +437,9 @@
         @endif
     </div>
 
+    {{-- Store-wide stock is not a confirmer's own numbers, so it is
+        hidden from the scoped (confirmer) view. --}}
+    @unless ($isScoped ?? false)
     <!-- Inventory -->
     <div class="mt-8 rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
         <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
@@ -486,4 +493,5 @@
             </div>
         @endif
     </div>
+    @endunless
 </x-admin::layouts>

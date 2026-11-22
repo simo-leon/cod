@@ -17,16 +17,30 @@ class CodAnalyticsController extends Controller
      * COD analytics page (phase 7).
      *
      * Guarded by the `cod.analytics` ACL key on the route
-     * (admin.cod.analytics.index) and again here, so an admin without
-     * the permission gets a 403 instead of the page. Every figure
-     * comes from real COD data or from admin settings; a figure
-     * without data shows as unavailable, never as an invented number.
-     * The filters (period, city, delivery provider, product) apply to
-     * every figure on the page.
+     * (admin.cod.analytics.index) and again here — a confirmer
+     * (`cod.confirmation`) is also let in, but only ever sees their
+     * own numbers: every figure is filtered to the orders assigned
+     * to them, the team table shows only their row, and the store
+     * inventory and the settings links are hidden from them. The
+     * supervisor (or anyone with `cod.assignment`) sees everything.
+     * Every figure comes from real COD data or from admin settings;
+     * a figure without data shows as unavailable, never as an
+     * invented number. The filters (period, city, delivery provider,
+     * product) apply to every figure on the page, and for a scoped
+     * confirmer they stay inside their own assigned orders.
+     *
+     * The settings link points at the COD System section page
+     * (`general/cod_system`, two segments): the configuration
+     * routes only take two segments, so a three-segment link such
+     * as `general/cod_system/analytics` falls through to the
+     * download route and returns a 500.
      */
     public function index(Request $request): View
     {
-        abort_unless(bouncer()->hasPermission('cod.analytics'), 403);
+        abort_unless(
+            bouncer()->hasPermission('cod.analytics') || bouncer()->hasPermission('cod.confirmation'),
+            403
+        );
 
         $request->validate([
             'from' => ['nullable', 'date_format:Y-m-d'],
@@ -36,13 +50,28 @@ class CodAnalyticsController extends Controller
             'sku' => ['nullable', 'string', 'max:255'],
         ]);
 
-        $analytics = $this->analytics->analytics($request->only(['from', 'to', 'city', 'provider', 'sku']));
+        $user = auth()->guard('admin')->user();
+
+        // The confirmation supervisor (cod.assignment) sees every
+        // order; anyone else admitted here — a confirmer — sees only
+        // the orders assigned to them.
+        $canManage = bouncer()->hasPermission('cod.assignment');
+        $scopedTo = $canManage ? null : $user->id;
+
+        $filters = $request->only(['from', 'to', 'city', 'provider', 'sku']);
+
+        if ($scopedTo !== null) {
+            $filters['assigned_to'] = $scopedTo;
+        }
+
+        $analytics = $this->analytics->analytics($filters);
 
         return view('admin::cod.analytics')->with([
             'analytics' => $analytics,
             'systemName' => $this->analytics->systemName(),
             'dashboardUrl' => route('admin.cod.index'),
-            'settingsUrl' => route('admin.configuration.index', 'general/cod_system/analytics'),
+            'settingsUrl' => route('admin.configuration.index', 'general/cod_system'),
+            'isScoped' => $scopedTo !== null,
         ]);
     }
 }

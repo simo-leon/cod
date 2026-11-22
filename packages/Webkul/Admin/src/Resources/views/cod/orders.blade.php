@@ -144,7 +144,7 @@
                             </td>
 
                             <td class="p-4 text-gray-800 dark:text-white">
-                                @lang('admin::app.cod.orders.sources.'.$codOrder->source)
+                                {{ \Illuminate\Support\Facades\Lang::has('admin::app.cod.orders.sources.'.$codOrder->source) ? trans('admin::app.cod.orders.sources.'.$codOrder->source) : $codOrder->source }}
                             </td>
 
                             <td class="whitespace-nowrap p-4 text-gray-600 dark:text-gray-300">

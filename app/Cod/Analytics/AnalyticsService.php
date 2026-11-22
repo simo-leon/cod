@@ -230,13 +230,13 @@ class AnalyticsService implements AnalyticsServiceInterface
 
         return [
             'filters' => $filters,
-            'filter_options' => $this->filterOptions(),
+            'filter_options' => $this->filterOptions($filters['assigned_to']),
             'overview' => $this->overview($orders),
             'by_city' => $this->byCity($orders),
-            'by_provider' => $this->byProvider($orders),
+            'by_provider' => $this->byProvider($orders, $filters),
             'products' => $this->productAnalytics($orders, $itemsByOrder),
             'profit' => $this->profit($orders, $itemsByOrder, $settings),
-            'confirmers' => $this->confirmerAnalytics($orders, $settings['commission']),
+            'confirmers' => $this->confirmerAnalytics($orders, $settings['commission'], $filters['assigned_to']),
             'inventory' => $this->inventory(),
             'settings' => $settings,
             'currency' => $this->currencyOf($orders),
@@ -245,6 +245,8 @@ class AnalyticsService implements AnalyticsServiceInterface
 
     /**
      * Keep only known filters, with dates as Y-m-d strings or null.
+     * `assigned_to` scopes every figure to one confirmer's orders
+     * (the confirmer's own analytics view); null means unscoped.
      */
     protected function normalizeFilters(array $filters): array
     {
@@ -257,6 +259,7 @@ class AnalyticsService implements AnalyticsServiceInterface
             'city' => isset($filters['city']) && $filters['city'] !== '' ? (string) $filters['city'] : null,
             'provider' => isset($filters['provider']) && $filters['provider'] !== '' ? (string) $filters['provider'] : null,
             'sku' => isset($filters['sku']) && $filters['sku'] !== '' ? (string) $filters['sku'] : null,
+            'assigned_to' => isset($filters['assigned_to']) && (int) $filters['assigned_to'] > 0 ? (int) $filters['assigned_to'] : null,
         ];
     }
 
@@ -272,6 +275,10 @@ class AnalyticsService implements AnalyticsServiceInterface
         }
 
         $query = CodOrder::query()->with(['order.items', 'assignedTo']);
+
+        if ($filters['assigned_to']) {
+            $query->where('assigned_to', $filters['assigned_to']);
+        }
 
         if ($filters['from']) {
             $query->whereDate('created_at', '>=', $filters['from']);
@@ -322,15 +329,23 @@ class AnalyticsService implements AnalyticsServiceInterface
     /**
      * Values for the filter dropdowns: every city, provider and SKU
      * that exists in the COD data (unfiltered, so a filter never hides
-     * the option that would clear it).
+     * the option that would clear it). When scoped to one confirmer,
+     * only the values found in that confirmer's assigned orders are
+     * offered, so the filters cannot leak — or reach — other
+     * confirmers' orders.
      */
-    protected function filterOptions(): array
+    protected function filterOptions(?int $assignedTo = null): array
     {
         $cities = [];
 
         if (Schema::hasTable('cod_orders')) {
-            $cities = CodOrder::query()
-                ->whereNotNull('city')
+            $citiesQuery = CodOrder::query()->whereNotNull('city');
+
+            if ($assignedTo !== null) {
+                $citiesQuery->where('assigned_to', $assignedTo);
+            }
+
+            $cities = $citiesQuery
                 ->distinct()
                 ->orderBy('city')
                 ->pluck('city')
@@ -340,7 +355,19 @@ class AnalyticsService implements AnalyticsServiceInterface
         $providers = [];
 
         if (Schema::hasTable('delivery_parcels')) {
-            $providers = DeliveryParcel::query()
+            $parcelsQuery = DeliveryParcel::query();
+
+            if ($assignedTo !== null && Schema::hasTable('cod_orders')) {
+                $orderIds = CodOrder::query()
+                    ->where('assigned_to', $assignedTo)
+                    ->whereNotNull('order_id')
+                    ->pluck('order_id')
+                    ->all();
+
+                $parcelsQuery->whereIn('order_id', $orderIds);
+            }
+
+            $providers = $parcelsQuery
                 ->distinct()
                 ->orderBy('provider')
                 ->pluck('provider')
@@ -354,7 +381,13 @@ class AnalyticsService implements AnalyticsServiceInterface
         $skus = [];
 
         if (Schema::hasTable('cod_orders')) {
-            foreach (CodOrder::query()->with(['order.items'])->get() as $order) {
+            $ordersQuery = CodOrder::query()->with(['order.items']);
+
+            if ($assignedTo !== null) {
+                $ordersQuery->where('assigned_to', $assignedTo);
+            }
+
+            foreach ($ordersQuery->get() as $order) {
                 foreach ($this->orderItems($order) as $item) {
                     $skus[$item['sku']] = $item['name'] !== '' ? $item['name'] : $item['sku'];
                 }
@@ -370,6 +403,15 @@ class AnalyticsService implements AnalyticsServiceInterface
      * Totals, counts by status and by source, revenue and the three
      * headline rates. Revenue is the grand total of delivered orders
      * only — a delivered COD order is a paid order.
+     *
+     * The rates are computed over the assigned orders only: the
+     * confirmation rate is (confirmed AND assigned) / assigned, the
+     * delivery rate is (delivered AND assigned) / (confirmed AND
+     * assigned), and the return rate is (returned AND assigned) /
+     * (delivered AND returned, assigned). Counting confirmed orders
+     * that were never assigned in the numerator made the
+     * confirmation rate exceed 100%; every rate here is now a part
+     * of its own denominator, so none can exceed 100%.
      */
     protected function overview(Collection $orders): array
     {
@@ -388,9 +430,9 @@ class AnalyticsService implements AnalyticsServiceInterface
         ksort($bySource);
 
         $assigned = $orders->whereNotNull('assigned_to')->count();
-        $confirmed = $orders->whereIn('status', self::CONFIRMED_STATUSES)->count();
-        $delivered = $orders->where('status', CodOrder::STATUS_DELIVERED)->count();
-        $returned = $orders->where('status', CodOrder::STATUS_RETURNED)->count();
+        $confirmed = $orders->whereNotNull('assigned_to')->whereIn('status', self::CONFIRMED_STATUSES)->count();
+        $delivered = $orders->whereNotNull('assigned_to')->where('status', CodOrder::STATUS_DELIVERED)->count();
+        $returned = $orders->whereNotNull('assigned_to')->where('status', CodOrder::STATUS_RETURNED)->count();
 
         return [
             'total' => $orders->count(),
@@ -453,9 +495,12 @@ class AnalyticsService implements AnalyticsServiceInterface
      * distinct COD orders they belong to, how many of those were
      * delivered, and the delivery rate. Parcels of orders outside the
      * filters are excluded; a parcel that failed to send is not
-     * counted as shipped.
+     * counted as shipped. When a provider filter is set, only that
+     * provider's row is shown — one order can have parcels from
+     * several providers, and the other providers' parcels must not
+     * leak into the filtered table.
      */
-    protected function byProvider(Collection $orders): array
+    protected function byProvider(Collection $orders, array $filters = []): array
     {
         if (! Schema::hasTable('delivery_parcels')) {
             return [];
@@ -474,9 +519,15 @@ class AnalyticsService implements AnalyticsServiceInterface
 
         $byOrderId = $orders->keyBy('order_id');
 
+        $selectedProvider = $filters['provider'] ?? null;
+
         $rows = [];
 
         foreach ($parcels as $parcel) {
+            if ($selectedProvider !== null && $parcel->provider !== $selectedProvider) {
+                continue;
+            }
+
             $codOrder = $byOrderId->get($parcel->order_id);
 
             if (! $codOrder) {
@@ -707,13 +758,19 @@ class AnalyticsService implements AnalyticsServiceInterface
      * One row per confirmer, from the filtered orders: assigned,
      * confirmed, delivered, both rates, and the commission due
      * (delivered × commission per delivered order — null when the
-     * commission was never entered in the admin).
+     * commission was never entered in the admin). When scoped to one
+     * confirmer, only that confirmer's row is returned, so a
+     * confirmer never sees the rest of the team.
      */
-    protected function confirmerAnalytics(Collection $orders, ?float $commission): array
+    protected function confirmerAnalytics(Collection $orders, ?float $commission, ?int $assignedTo = null): array
     {
         $rows = [];
 
         foreach ($this->assignment->confirmers() as $admin) {
+            if ($assignedTo !== null && $admin->id !== $assignedTo) {
+                continue;
+            }
+
             $assigned = $orders->where('assigned_to', $admin->id);
             $confirmed = $assigned->whereIn('status', self::CONFIRMED_STATUSES)->count();
             $delivered = $assigned->where('status', CodOrder::STATUS_DELIVERED)->count();
