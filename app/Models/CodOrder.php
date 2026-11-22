@@ -24,6 +24,14 @@ class CodOrder extends Model
 {
     public const STATUS_PENDING_CONFIRMATION = 'pending_confirmation';
 
+    /**
+     * The customer never replied on WhatsApp: the confirmation message
+     * (and the configured reminders) went unanswered, and the
+     * conversion deadline passed. The order stays here for the team to
+     * call the customer by phone — it is NEVER canceled automatically.
+     */
+    public const STATUS_WHATSAPP_UNCONFIRMED = 'whatsapp_unconfirmed';
+
     public const STATUS_CONFIRMED = 'confirmed';
 
     public const STATUS_CANCELED = 'canceled';
@@ -36,6 +44,7 @@ class CodOrder extends Model
 
     public const STATUSES = [
         self::STATUS_PENDING_CONFIRMATION,
+        self::STATUS_WHATSAPP_UNCONFIRMED,
         self::STATUS_CONFIRMED,
         self::STATUS_CANCELED,
         self::STATUS_SENT_TO_DELIVERY,
@@ -65,6 +74,8 @@ class CodOrder extends Model
         'confirmation_attempts' => 'integer',
         'confirmation_sent_at' => 'datetime',
         'reminder_sent_at' => 'datetime',
+        'reminder_count' => 'integer',
+        'whatsapp_unconfirmed_at' => 'datetime',
         'last_reply_at' => 'datetime',
         // Phase 6: one customer notification per delivery event; set
         // only on a successful send, so a failed send is retried and

@@ -3,6 +3,7 @@
 namespace App\Cod\WhatsApp;
 
 use App\Cod\Ai\ReplyIntentClassifierInterface;
+use App\Cod\Automation\AutomationSettings;
 use App\Models\CodCallLog;
 use App\Models\CodOrder;
 use App\Models\CodWhatsAppMessage;
@@ -100,14 +101,17 @@ class WhatsAppService implements WhatsAppServiceInterface
 
     protected ?ReplyIntentClassifierInterface $classifier;
 
+    protected AutomationSettings $automation;
+
     /**
      * The classifier is optional so the service keeps working exactly
      * as before when no AI is bound (e.g. plain `new WhatsAppService()`
      * in a test): interpretReply() then only does keyword matching.
      */
-    public function __construct(?ReplyIntentClassifierInterface $classifier = null)
+    public function __construct(?ReplyIntentClassifierInterface $classifier = null, ?AutomationSettings $automation = null)
     {
         $this->classifier = $classifier;
+        $this->automation = $automation ?? new AutomationSettings;
     }
 
     public function isEnabled(): bool
@@ -241,6 +245,7 @@ class WhatsAppService implements WhatsAppServiceInterface
 
         if ($result['success']) {
             $order->reminder_sent_at = now();
+            $order->reminder_count = (int) $order->reminder_count + 1;
             $order->whatsapp_provider = $provider->name();
             $order->save();
         }
@@ -495,11 +500,14 @@ class WhatsAppService implements WhatsAppServiceInterface
     }
 
     /**
-     * Reminder delay in minutes (admin, default 120).
+     * Reminder delay in minutes (admin, default 120). The automation
+     * section owns the value now (COD System → WhatsApp Automation);
+     * the older WhatsApp-section value is kept as a fallback for
+     * installs that set it before the automation section existed.
      */
     public function reminderDelayMinutes(): int
     {
-        return max(1, (int) (core()->getConfigData(self::CONFIG_KEY.'.reminder_delay_minutes') ?? 120));
+        return $this->automation->reminderDelayMinutes();
     }
 
     /**

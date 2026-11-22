@@ -1142,6 +1142,116 @@ return [
     ], [
 
         /**
+         * COD System — WhatsApp Automation.
+         *
+         * The fully automatic WhatsApp flow: confirmation, reminders,
+         * move to `whatsapp_unconfirmed` when the customer never
+         * replies, product inquiries answered by the AI agent, and the
+         * conversations inbox. Off by default — enabling it changes
+         * nothing else until the other switches below are set.
+         *
+         * The confirmation and reminder message texts live in the
+         * WhatsApp section (general.cod_system.whatsapp) and are NOT
+         * duplicated here; only the thank-you and cancel messages are
+         * new. All defaults are the ones from the automation plan.
+         * See app/Cod/Automation/AutomationSettings.php for the same
+         * defaults as code fallbacks.
+         */
+        'key' => 'general.cod_system.automation',
+        'name' => 'admin::app.configuration.index.general.cod-system.automation.title',
+        'info' => 'admin::app.configuration.index.general.cod-system.automation.title-info',
+        'sort' => 4,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.status',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.status-info',
+                'type' => 'boolean',
+                'default' => false,
+                'channel_based' => true,
+            ], [
+                'name' => 'reminder_delay_minutes',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.reminder-delay-minutes',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.reminder-delay-minutes-info',
+                'type' => 'number',
+                'default' => 120,
+                'channel_based' => true,
+            ], [
+                'name' => 'unconfirmed_after_hours',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.unconfirmed-after-hours',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.unconfirmed-after-hours-info',
+                'type' => 'number',
+                'default' => 24,
+                'channel_based' => true,
+            ], [
+                'name' => 'max_reminders',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.max-reminders',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.max-reminders-info',
+                'type' => 'number',
+                'default' => 1,
+                'channel_based' => true,
+            ], [
+                'name' => 'questions',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.questions',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.questions-info',
+                'type' => 'textarea',
+                'default' => "شنو هو الاسم الكامل ديالك؟\nمن أي مدينة نتا؟\nشنو هو العنوان الكامل ديالك؟\nشنو هو رقم التيليفون ديالك؟",
+                'channel_based' => true,
+            ], [
+                'name' => 'auto_create_order',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.auto-create-order',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.auto-create-order-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'auto_send_to_delivery',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.auto-send-to-delivery',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.auto-send-to-delivery-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'system_prompt',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.system-prompt',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.system-prompt-info',
+                'type' => 'textarea',
+                'default' => 'أنت مساعد Jemla En Ligne، متجر مغربي كيبيع بالدفع عند الاستلام. كتهضر بالدارجة المغربية وباحترام، وهدفك تأكيد الطلب وجمع المعلومات الناقصة.
+
+خطوات المحادثة:
+1. رحب بالعميل وذكر ليه المنتج والثمن والطلب إلا كان.
+2. إلا كان الطلب موجود، سولو واش يأكدو.
+3. إلا ما كانش طلب، سولو على المعلومات الناقصة واحدا بواحد: الاسم الكامل، المدينة، العنوان، رقم التيليفون.
+4. ملي تجمع المعلومات كاملة، عرض عليه ملخص وسولو واش يأكد.
+5. ملي يأكد، شكرو وقول ليه غادي نتواصلو معاه قبل التوصيل.
+6. إلا قال لا أو طلب الإلغاء، ألغي الطلب باحترام.
+
+قواعد مهمة:
+- جاوب غير بالمعلومات الصحيحة اللي عطيناك: الثمن والمنتج وحالة الطلب. ما تخترع والو.
+- ما تبدلش الثمن أبدا.
+- ما تلغيش طلبا مؤكدا.
+- ما تعطيش وعد على التوصيل إلا بالمعلومات الموجودة.
+- إلا كان العميل غاضبا، أو طلب تبديل أو تعويض، أو ما فهمتيش رسالتو بعد محاولتين، حول المحادثة للإنسان وتوقف عن الرد.',
+                'channel_based' => true,
+            ], [
+                'name' => 'thank_you_message',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.thank-you-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.thank-you-message-info',
+                'type' => 'textarea',
+                'default' => 'شكرا {name}، تم تأكيد الطلب ديالك رقم {order_id} ({total}). غادي نتواصلو معك قبل التوصيل إن شاء الله.',
+                'channel_based' => true,
+            ], [
+                'name' => 'cancel_message',
+                'title' => 'admin::app.configuration.index.general.cod-system.automation.cancel-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.automation.cancel-message-info',
+                'type' => 'textarea',
+                'default' => 'واخا {name}، تم إلغاء الطلب ديالك رقم {order_id}. إلا بغيتي شي حاجة أخرى، مرحبا بيك.',
+                'channel_based' => true,
+            ],
+        ],
+    ], [
+
+        /**
          * COD System — Analytics and profit (phase 7).
          *
          * The analytics page computes everything from real COD data;
@@ -1155,7 +1265,7 @@ return [
         'key' => 'general.cod_system.analytics',
         'name' => 'admin::app.configuration.index.general.cod-system.analytics.title',
         'info' => 'admin::app.configuration.index.general.cod-system.analytics.title-info',
-        'sort' => 4,
+        'sort' => 5,
         'fields' => [
             [
                 'name' => 'confirmer_commission_per_delivered_order',

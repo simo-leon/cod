@@ -49,10 +49,14 @@ Schedule::command('bagisto:sitemap:generate')->dailyAt('02:00');
 Schedule::command('cod:import-orders')->hourly();
 
 /**
- * COD System (phase 4): remind customers whose order is still waiting
- * for confirmation. Runs every 15 minutes; the command itself only
- * reminds orders whose confirmation was sent at least
- * `reminder_delay_minutes` (default 120) ago, and only once per order.
+ * COD System: remind customers whose order is still waiting for
+ * confirmation, and move the ones who never reply to
+ * `whatsapp_unconfirmed`. Runs every 15 minutes; the command itself
+ * only reminds orders whose confirmation was sent at least
+ * `reminder_delay_minutes` (default 120) ago and at most
+ * `max_reminders` times (default 1), and only converts orders whose
+ * confirmation was sent at least `unconfirmed_after_hours` (default
+ * 24) ago with no reply at all.
  */
 Schedule::command('cod:remind-unconfirmed')->everyFifteenMinutes();
 

@@ -2,22 +2,35 @@
 
 namespace App\Console\Commands;
 
+use App\Cod\Automation\AutomationSettings;
 use App\Cod\WhatsApp\WhatsAppServiceInterface;
+use App\Models\CodCallLog;
 use App\Models\CodOrder;
 use Illuminate\Console\Command;
 
 /**
- * Send one reminder to every COD order still waiting for confirmation
- * (phase 4).
+ * Remind customers whose order is still waiting for confirmation,
+ * and move the ones who never reply to `whatsapp_unconfirmed`.
  *
- * An order is reminded when: it is still pending confirmation, its
- * confirmation message was sent at least `reminder_delay_minutes`
- * (admin, default 120) ago, no reminder was sent yet, and the customer
- * never replied on WhatsApp (last_reply_at is empty — a reply, even
- * one that is not an answer, stops the reminder). Exactly one reminder
- * per order: reminder_sent_at is set only on a successful send, so a
- * failed attempt is retried on the next run but a sent reminder is
- * never repeated.
+ * Reminders: an order is reminded when it is still pending
+ * confirmation, its confirmation message was sent, the customer never
+ * replied on WhatsApp (last_reply_at is empty — a reply, even one
+ * that is not an answer, stops the reminders), fewer than
+ * `max_reminders` (admin, default 1) reminders were sent, and the
+ * reminder delay (admin, default 120 minutes) passed since the
+ * confirmation message (first reminder) or since the previous
+ * reminder. reminder_count is incremented only on a successful send,
+ * so a failed attempt is retried on the next run but a sent reminder
+ * is never repeated. When the automation is off, the historic
+ * behaviour applies: at most one reminder per order.
+ *
+ * Conversion: when the automation is on, an order still pending
+ * confirmation whose confirmation message was sent at least
+ * `unconfirmed_after_hours` (admin, default 24) ago and whose
+ * customer never replied moves to `whatsapp_unconfirmed` and stays
+ * there for the team to call the customer by phone. It is NEVER
+ * canceled automatically. A call-log entry (no_answer) is recorded so
+ * the move shows in the order history.
  *
  * Scheduled every 15 minutes in routes/console.php. Run manually with
  * `php artisan cod:remind-unconfirmed`.
@@ -26,25 +39,50 @@ class RemindUnconfirmedCodOrdersCommand extends Command
 {
     protected $signature = 'cod:remind-unconfirmed';
 
-    protected $description = 'Send a WhatsApp reminder to COD orders waiting for confirmation for more than the configured delay';
+    protected $description = 'Send WhatsApp reminders to COD orders waiting for confirmation, and move orders with no reply to whatsapp_unconfirmed';
 
-    public function handle(WhatsAppServiceInterface $whatsapp): int
+    public function handle(WhatsAppServiceInterface $whatsapp, AutomationSettings $automation): int
     {
         $delay = $whatsapp->reminderDelayMinutes();
+        $maxReminders = $automation->isEnabled() ? $automation->maxReminders() : 1;
 
+        // Conversion first: an order past its deadline converts instead
+        // of getting one more pointless reminder in the same run.
+        $converted = $automation->isEnabled() ? $this->convertUnanswered($automation) : 0;
+        $reminded = $this->sendDueReminders($whatsapp, $delay, $maxReminders);
+
+        $failed = $reminded['failed'];
+
+        $this->info("Reminded: {$reminded['sent']}, failed: {$failed}, moved to whatsapp_unconfirmed: {$converted}.");
+
+        return $failed > 0 ? self::FAILURE : self::SUCCESS;
+    }
+
+    /**
+     * Send every reminder that is due. Returns sent/failed counts.
+     */
+    protected function sendDueReminders(WhatsAppServiceInterface $whatsapp, int $delay, int $maxReminders): array
+    {
         $candidates = CodOrder::query()
             ->where('status', CodOrder::STATUS_PENDING_CONFIRMATION)
             ->whereNotNull('confirmation_sent_at')
-            ->whereNull('reminder_sent_at')
             ->whereNull('last_reply_at')
-            ->where('confirmation_sent_at', '<=', now()->subMinutes($delay))
+            ->where('reminder_count', '<', $maxReminders)
             ->orderBy('id')
-            ->get();
+            ->get()
+            // Due when the delay passed since the last contact: the
+            // confirmation message for the first reminder, the
+            // previous reminder afterwards.
+            ->filter(function (CodOrder $order) use ($delay) {
+                $since = $order->reminder_sent_at ?? $order->confirmation_sent_at;
+
+                return $since !== null && $since->lte(now()->subMinutes($delay));
+            });
 
         if ($candidates->isEmpty()) {
             $this->info('No unconfirmed orders due for a reminder.');
 
-            return self::SUCCESS;
+            return ['sent' => 0, 'failed' => 0];
         }
 
         $sent = 0;
@@ -62,8 +100,49 @@ class RemindUnconfirmedCodOrdersCommand extends Command
             }
         }
 
-        $this->info("Reminded: {$sent}, failed: {$failed}.");
+        return ['sent' => $sent, 'failed' => $failed];
+    }
 
-        return $failed > 0 ? self::FAILURE : self::SUCCESS;
+    /**
+     * Move still-pending orders with no reply past the conversion
+     * deadline to `whatsapp_unconfirmed`. Returns how many moved.
+     */
+    protected function convertUnanswered(AutomationSettings $automation): int
+    {
+        $candidates = CodOrder::query()
+            ->where('status', CodOrder::STATUS_PENDING_CONFIRMATION)
+            ->whereNotNull('confirmation_sent_at')
+            ->whereNull('last_reply_at')
+            ->where('confirmation_sent_at', '<=', now()->subHours($automation->unconfirmedAfterHours()))
+            ->orderBy('id')
+            ->get();
+
+        if ($candidates->isEmpty()) {
+            $this->info('No orders due to move to whatsapp_unconfirmed.');
+
+            return 0;
+        }
+
+        $converted = 0;
+
+        foreach ($candidates as $order) {
+            $order->status = CodOrder::STATUS_WHATSAPP_UNCONFIRMED;
+            $order->whatsapp_unconfirmed_at = now();
+            $order->save();
+
+            CodCallLog::create([
+                'cod_order_id' => $order->id,
+                'confirmer_id' => null,
+                'result' => CodCallLog::RESULT_NO_ANSWER,
+                'note' => 'WhatsApp: no reply within '.$automation->unconfirmedAfterHours().'h — moved to whatsapp_unconfirmed automatically, never canceled.',
+                'callback_at' => null,
+                'called_at' => now(),
+            ]);
+
+            $converted++;
+            $this->info("Order {$order->external_id}: moved to whatsapp_unconfirmed.");
+        }
+
+        return $converted;
     }
 }

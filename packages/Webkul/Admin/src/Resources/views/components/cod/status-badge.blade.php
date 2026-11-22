@@ -3,7 +3,9 @@
 
     Colours reuse the status hues already used in the codebase
     (Webkul\Admin\DataGrids\Sales\OrderDataGrid::$statusColors):
-    pending = yellow, confirmed = blue, sent to delivery = purple,
+    pending = yellow, whatsapp unconfirmed = amber (its own colour:
+    neither pending yellow nor canceled gray — the order is stuck,
+    not dead), confirmed = blue, sent to delivery = purple,
     delivered = teal, returned = rose, canceled = neutral gray.
     Light pills match the badge style already used on the COD pages.
 --}}
@@ -12,6 +14,7 @@
 @php
     $badgeClasses = [
         'pending_confirmation' => 'bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200',
+        'whatsapp_unconfirmed' => 'bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200',
         'confirmed' => 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200',
         'canceled' => 'bg-gray-100 text-gray-800 dark:bg-gray-800 dark:text-gray-200',
         'sent_to_delivery' => 'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200',
