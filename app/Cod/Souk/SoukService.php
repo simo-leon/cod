@@ -2,10 +2,12 @@
 
 namespace App\Cod\Souk;
 
+use App\Models\CodOrder;
 use App\Models\SoukPayment;
 use App\Models\SoukProductSourcing;
 use App\Models\SoukTask;
 use Illuminate\Database\Eloquent\Collection;
+use Illuminate\Support\Carbon;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Schema;
@@ -13,6 +15,7 @@ use Webkul\Inventory\Models\InventorySource;
 use Webkul\Product\Models\Product;
 use Webkul\Product\Models\ProductFlat;
 use Webkul\Product\Models\ProductInventory;
+use Webkul\Sales\Models\OrderItem;
 use Webkul\User\Models\Admin;
 use Webkul\User\Models\Role;
 
@@ -91,18 +94,87 @@ class SoukService implements SoukServiceInterface
     }
 
     /**
-     * Sale price of one unit from the default-channel product flat
-     * row, or null when the product has no flat row yet.
+     * Sale price of one unit: the price the customer actually paid.
+     *
+     * When the task is linked to a COD order, the order item's own
+     * unit price is the source of truth — it is what the customer
+     * was charged, special price included. Otherwise the active
+     * special price of the default-channel product flat row wins
+     * over the list price; a special price outside its date window
+     * (or not below the list price) is ignored.
      */
-    public function salePrice(int $productId): ?float
+    public function salePrice(int $productId, ?int $codOrderId = null): ?float
     {
+        if ($codOrderId !== null) {
+            $orderPrice = $this->orderItemPrice($productId, $codOrderId);
+
+            if ($orderPrice !== null) {
+                return $orderPrice;
+            }
+        }
+
         $flat = ProductFlat::query()
             ->where('product_id', $productId)
             ->where('channel', 'default')
             ->first()
             ?? ProductFlat::query()->where('product_id', $productId)->first();
 
-        return $flat?->price !== null ? (float) $flat->price : null;
+        if ($flat === null || $flat->price === null) {
+            return null;
+        }
+
+        $price = (float) $flat->price;
+        $special = $flat->special_price !== null ? (float) $flat->special_price : null;
+
+        if ($special !== null && $special > 0 && $special < $price && $this->specialPriceIsActive($flat)) {
+            return $special;
+        }
+
+        return $price;
+    }
+
+    /**
+     * The per-unit price charged for one product on the store order
+     * behind a COD order, or null when the order (or its item) is
+     * not found. `order_items.price` is the unit price.
+     */
+    protected function orderItemPrice(int $productId, int $codOrderId): ?float
+    {
+        $codOrder = CodOrder::query()->find($codOrderId);
+
+        if (! $codOrder || ! $codOrder->order_id) {
+            return null;
+        }
+
+        $item = OrderItem::query()
+            ->where('order_id', $codOrder->order_id)
+            ->where('product_id', $productId)
+            ->first();
+
+        if (! $item || (float) $item->price <= 0) {
+            return null;
+        }
+
+        return (float) $item->price;
+    }
+
+    /**
+     * Whether the flat row's special price applies today: inside
+     * its from/to window (either bound may be empty).
+     */
+    protected function specialPriceIsActive(ProductFlat $flat): bool
+    {
+        $today = Carbon::today();
+
+        if ($flat->special_price_from !== null && Carbon::parse($flat->special_price_from)->startOfDay()->greaterThan($today)) {
+            return false;
+        }
+
+        if ($flat->special_price_to !== null && Carbon::parse($flat->special_price_to)->startOfDay()->lessThan($today)) {
+            return false;
+        }
+
+        return true;
     }
 
     /**
@@ -174,7 +246,7 @@ class SoukService implements SoukServiceInterface
                     'cod_order_id' => $codOrderId,
                     'qty' => max(1, $qty),
                     'status' => SoukTask::STATUS_ASSIGNED,
-                    'sale_price' => $this->salePrice((int) $product->id),
+                    'sale_price' => $this->salePrice((int) $product->id, $codOrderId),
                     'deadline_at' => now()->addHours($this->settings->claimTimeoutHours()),
                 ]);
             });
@@ -376,18 +448,24 @@ class SoukService implements SoukServiceInterface
                 return true;
             }
 
+            // A refusal without a reason is not recorded: the reason
+            // is mandatory (the controller enforces it too), and no
+            // default text is invented here.
+            if ($reason === null || trim($reason) === '') {
+                return false;
+            }
+
             $locked->status = SoukTask::STATUS_REJECTED;
-            $locked->rejection_reason = $reason !== null && trim($reason) !== ''
-                ? trim($reason)
-                : 'Refused by the warehouse controller (no reason given).';
+            $locked->rejection_reason = trim($reason);
             $locked->save();
 
             // The product is needed again: a fresh assigned task so
-            // another buyer can take it. The rejected task stays as
-            // the history of this buyer's attempt.
+            // another buyer can take it — but only while the panel
+            // is switched on. The rejected task stays as the history
+            // of this buyer's attempt.
             $product = Product::query()->find($locked->product_id);
 
-            if ($product) {
+            if ($product && $this->settings->isEnabled()) {
                 $this->createAssignedTask($product, $locked->cod_order_id, (int) $locked->qty);
             }
 
@@ -772,7 +850,7 @@ class SoukService implements SoukServiceInterface
             'cod_order_id' => $codOrderId,
             'qty' => max(1, $qty),
             'status' => SoukTask::STATUS_ASSIGNED,
-            'sale_price' => $this->salePrice((int) $product->id),
+            'sale_price' => $this->salePrice((int) $product->id, $codOrderId),
             'deadline_at' => now()->addHours($this->settings->claimTimeoutHours()),
         ]);
     }

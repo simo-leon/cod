@@ -19,7 +19,13 @@ interface SoukServiceInterface
 
     public function stockQty(int $productId): int;
 
-    public function salePrice(int $productId): ?float;
+    /**
+     * Sale price of one unit: the price the customer actually paid
+     * — the order item's unit price when the task is linked to a
+     * COD order, otherwise the active special price, else the list
+     * price. Null when the product has no flat row yet.
+     */
+    public function salePrice(int $productId, ?int $codOrderId = null): ?float;
 
     public function openTaskForProduct(int $productId): ?SoukTask;
 

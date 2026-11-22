@@ -81,24 +81,24 @@
                     @lang('admin::app.cod.souk.empty')
                 </p>
             @else
-                <table class="w-full min-w-[1100px] text-start text-sm">
+                <table class="w-full min-w-[860px] text-start text-sm">
                     <thead>
                         <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
-                            <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.souk.product')</th>
-                            <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.souk.qty')</th>
-                            <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.souk.sale-price')</th>
-                            <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.souk.status')</th>
-                            <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.souk.buyer')</th>
-                            <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.souk.purchase-price')</th>
-                            <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.souk.deadline')</th>
-                            <th class="whitespace-nowrap px-3 py-3 text-start font-semibold">@lang('admin::app.cod.souk.actions')</th>
+                            <th class="whitespace-nowrap px-2 py-3 text-start font-semibold">@lang('admin::app.cod.souk.product')</th>
+                            <th class="whitespace-nowrap px-2 py-3 text-start font-semibold">@lang('admin::app.cod.souk.qty')</th>
+                            <th class="whitespace-nowrap px-2 py-3 text-start font-semibold">@lang('admin::app.cod.souk.sale-price')</th>
+                            <th class="whitespace-nowrap px-2 py-3 text-start font-semibold">@lang('admin::app.cod.souk.status')</th>
+                            <th class="whitespace-nowrap px-2 py-3 text-start font-semibold">@lang('admin::app.cod.souk.buyer')</th>
+                            <th class="whitespace-nowrap px-2 py-3 text-start font-semibold">@lang('admin::app.cod.souk.purchase-price')</th>
+                            <th class="whitespace-nowrap px-2 py-3 text-start font-semibold">@lang('admin::app.cod.souk.deadline')</th>
+                            <th class="whitespace-nowrap px-2 py-3 text-start font-semibold">@lang('admin::app.cod.souk.actions')</th>
                         </tr>
                     </thead>
 
                     <tbody>
                         @foreach ($tasks as $task)
                             <tr class="border-b border-gray-100 align-top last:border-0 hover:bg-gray-50 dark:border-gray-800 dark:hover:bg-gray-800/50">
-                                <td class="px-3 py-3 text-gray-800 dark:text-white">
+                                <td class="px-2 py-3 text-gray-800 dark:text-white">
                                     <a
                                         href="{{ route('admin.catalog.products.edit', $task->product_id) }}"
                                         class="font-semibold text-blue-600 hover:underline dark:text-blue-400"
@@ -121,34 +121,34 @@
                                     @endif
                                 </td>
 
-                                <td class="whitespace-nowrap px-3 py-3 tabular-nums text-gray-800 dark:text-white">
+                                <td class="whitespace-nowrap px-2 py-3 tabular-nums text-gray-800 dark:text-white">
                                     {{ $task->qty }}
                                 </td>
 
-                                <td class="whitespace-nowrap px-3 py-3 tabular-nums text-gray-800 dark:text-white">
+                                <td class="whitespace-nowrap px-2 py-3 tabular-nums text-gray-800 dark:text-white">
                                     {{ $task->sale_price !== null ? number_format((float) $task->sale_price, 2).' DH' : '—' }}
                                 </td>
 
-                                <td class="px-3 py-3">
+                                <td class="px-2 py-3">
                                     <x-admin::cod.status-badge :status="$task->status" :label="trans('admin::app.cod.souk.statuses.'.$task->status)" />
                                 </td>
 
-                                <td class="whitespace-nowrap px-3 py-3 text-gray-800 dark:text-white">
+                                <td class="whitespace-nowrap px-2 py-3 text-gray-800 dark:text-white">
                                     {{ $task->buyer?->name ?? '—' }}
                                 </td>
 
-                                <td class="px-3 py-3 tabular-nums text-gray-800 dark:text-white">
+                                <td class="px-2 py-3 tabular-nums text-gray-800 dark:text-white">
                                     @if ($task->purchase_price !== null)
                                         <span class="whitespace-nowrap">{{ number_format((float) $task->purchase_price, 2) }} DH</span>
 
                                         @if ($task->over_cap)
-                                            <span class="mt-1 block whitespace-nowrap rounded-full bg-rose-100 px-2 py-0.5 text-xs font-semibold text-rose-800 dark:bg-rose-900 dark:text-rose-200">
+                                            <span class="mt-1 block rounded-full bg-rose-100 px-2 py-0.5 text-xs font-semibold text-rose-800 dark:bg-rose-900 dark:text-rose-200">
                                                 @lang('admin::app.cod.souk.over-cap')
                                             </span>
                                         @endif
 
                                         @if ($task->below_margin)
-                                            <span class="mt-1 block whitespace-nowrap rounded-full bg-rose-100 px-2 py-0.5 text-xs font-semibold text-rose-800 dark:bg-rose-900 dark:text-rose-200">
+                                            <span class="mt-1 block rounded-full bg-rose-100 px-2 py-0.5 text-xs font-semibold text-rose-800 dark:bg-rose-900 dark:text-rose-200">
                                                 @lang('admin::app.cod.souk.below-margin')
                                             </span>
                                         @endif
@@ -157,12 +157,12 @@
                                     @endif
                                 </td>
 
-                                <td class="whitespace-nowrap px-3 py-3 tabular-nums text-gray-600 dark:text-gray-300">
+                                <td class="whitespace-nowrap px-2 py-3 tabular-nums text-gray-600 dark:text-gray-300">
                                     {{ $task->deadline_at?->format('Y-m-d H:i') ?? '—' }}
                                 </td>
 
-                                <td class="px-3 py-3">
-                                    <div class="grid w-56 gap-2">
+                                <td class="px-2 py-3">
+                                    <div class="grid w-44 gap-2">
                                         @if ($task->status === 'assigned' && $isBuyer)
                                             <form method="POST" action="{{ route('admin.cod.souk.tasks.claim', $task) }}">
                                                 @csrf

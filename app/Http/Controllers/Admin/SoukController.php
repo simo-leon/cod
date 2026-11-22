@@ -9,6 +9,7 @@ use App\Models\SoukPayment;
 use App\Models\SoukTask;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use Illuminate\Validation\Rule;
 use Illuminate\View\View;
 use Webkul\Product\Models\Product;
 
@@ -107,7 +108,8 @@ class SoukController extends Controller
 
     /**
      * The warehouse controller accepts or refuses the received
-     * goods. A refusal needs a reason.
+     * goods. A refusal needs a reason — it is required, not
+     * optional, so the refusal stays traceable.
      */
     public function verify(Request $request, SoukTask $task): RedirectResponse
     {
@@ -115,7 +117,7 @@ class SoukController extends Controller
 
         $data = $request->validate([
             'approve' => ['required', 'boolean'],
-            'reason' => ['nullable', 'string', 'max:1000'],
+            'reason' => [Rule::requiredIf(fn () => ! $request->boolean('approve')), 'nullable', 'string', 'max:1000'],
         ]);
 
         $controller = auth()->guard('admin')->user();
