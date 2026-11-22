@@ -2,14 +2,20 @@
 
 namespace App\Cod\WhatsApp;
 
+use App\Cod\Ai\ConversationAgent;
+use App\Cod\Ai\ConversationAgentInterface;
 use App\Cod\Ai\ReplyIntentClassifierInterface;
 use App\Cod\Automation\AutomationSettings;
+use App\Cod\Conversations\ConversationServiceInterface;
+use App\Cod\Conversations\ProductMatcher;
+use App\Cod\Delivery\DeliveryServiceInterface;
 use App\Cod\Support\PhoneNumber;
 use App\Models\CodCallLog;
 use App\Models\CodConversation;
 use App\Models\CodOrder;
 use App\Models\CodWhatsAppMessage;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Schema;
 
 /**
  * WhatsApp for the COD System (phase 4).
@@ -56,6 +62,21 @@ use Illuminate\Support\Facades\Log;
  * WhatsApp Web client does not render buttons reliably, so it sends
  * the same text plus numbered options (1=confirm, 2=postpone,
  * 3=cancel) and the customer answers with a digit or a word.
+ *
+ * WhatsApp Automation (COD System → WhatsApp Automation, off by
+ * default): when it is on, processInbound() answers first with the
+ * conversation agent (app/Cod/Ai/ConversationAgent: full history +
+ * COD facts + the admin prompt, natural Darija, persuasive) and only
+ * falls back to interpretReply() when the agent is unavailable. A
+ * message with no pending order starts the product-inquiry flow
+ * (app/Cod/Conversations: product matching, four questions one by
+ * one, summary, order creation). A confirmed order gets the
+ * thank-you message and, when the setting says so, its parcel is
+ * sent to the delivery provider. The reminder command moves orders
+ * with no reply to `whatsapp_unconfirmed` after the deadline — never
+ * canceled automatically. A conversation handed to a human gets no
+ * automatic reply at all. Automation off keeps the phase 4 behaviour
+ * exactly as it was.
  */
 class WhatsAppService implements WhatsAppServiceInterface
 {
@@ -105,15 +126,68 @@ class WhatsAppService implements WhatsAppServiceInterface
 
     protected AutomationSettings $automation;
 
+    protected ConversationAgentInterface $agent;
+
+    protected ?ConversationServiceInterface $conversations = null;
+
+    protected ?ProductMatcher $productMatcher = null;
+
+    protected ?DeliveryServiceInterface $delivery = null;
+
     /**
      * The classifier is optional so the service keeps working exactly
      * as before when no AI is bound (e.g. plain `new WhatsAppService()`
      * in a test): interpretReply() then only does keyword matching.
+     *
+     * The conversation service, the product matcher and the delivery
+     * service are resolved lazily (see the getters below), NOT
+     * injected in the constructor: the conversation service needs the
+     * order service, which needs this WhatsApp service — injecting
+     * it here would be a circular dependency and the container could
+     * not build the singleton.
      */
-    public function __construct(?ReplyIntentClassifierInterface $classifier = null, ?AutomationSettings $automation = null)
-    {
+    public function __construct(
+        ?ReplyIntentClassifierInterface $classifier = null,
+        ?AutomationSettings $automation = null,
+        ?ConversationAgentInterface $agent = null,
+    ) {
         $this->classifier = $classifier;
         $this->automation = $automation ?? new AutomationSettings;
+        $this->agent = $agent ?? new ConversationAgent($this->classifier, $this->automation);
+    }
+
+    /**
+     * The conversation service, resolved on first use (see the
+     * constructor note about the circular dependency).
+     */
+    protected function conversationService(): ConversationServiceInterface
+    {
+        return $this->conversations ??= app(ConversationServiceInterface::class);
+    }
+
+    /**
+     * The product matcher, resolved on first use.
+     */
+    protected function productMatcher(): ProductMatcher
+    {
+        return $this->productMatcher ??= new ProductMatcher;
+    }
+
+    /**
+     * The delivery service, resolved on first use (null when it
+     * cannot be resolved: sending the parcel is then skipped).
+     */
+    protected function deliveryService(): ?DeliveryServiceInterface
+    {
+        if ($this->delivery === null) {
+            try {
+                $this->delivery = app(DeliveryServiceInterface::class);
+            } catch (\Throwable) {
+                return null;
+            }
+        }
+
+        return $this->delivery;
     }
 
     public function isEnabled(): bool
@@ -274,7 +348,14 @@ class WhatsAppService implements WhatsAppServiceInterface
 
         if ($result['success']) {
             $order->reminder_sent_at = now();
-            $order->reminder_count = (int) $order->reminder_count + 1;
+
+            // Guarded: on an install where the automation migration
+            // has not run yet, the column does not exist and setting
+            // it would break the save (and the scheduled command).
+            if (Schema::hasColumn('cod_orders', 'reminder_count')) {
+                $order->reminder_count = (int) $order->reminder_count + 1;
+            }
+
             $order->whatsapp_provider = $provider->name();
             $order->save();
         }
@@ -486,6 +567,22 @@ class WhatsAppService implements WhatsAppServiceInterface
             'status' => CodWhatsAppMessage::STATUS_RECEIVED,
         ], $provider);
 
+        // Automation on: the conversation agent answers first (full
+        // history + COD facts + the admin prompt), the product
+        // inquiry flow starts when there is no order, and the old
+        // behaviour below is only the fallback when the agent is
+        // unavailable. Automation off: the old behaviour, unchanged.
+        // Guarded: without the cod_conversations table (migration
+        // not run yet) the automation cannot track anything, so the
+        // old behaviour runs instead of breaking the webhook.
+        if ($this->automation->isEnabled() && Schema::hasTable('cod_conversations')) {
+            return $this->processInboundAutomated($provider, $normalized, (string) $text, $buttonId, $order);
+        }
+
+        if ($this->automation->isEnabled()) {
+            Log::warning('COD WhatsApp automation: cod_conversations table is missing — run php artisan migrate, falling back to the non-automated flow.');
+        }
+
         if (! $order) {
             Log::info('COD WhatsApp: inbound message with no matching pending order', [
                 'provider' => $provider,
@@ -518,6 +615,406 @@ class WhatsAppService implements WhatsAppServiceInterface
         $this->applyOutcome($order, $outcome, (string) $text);
 
         return ['matched' => true, 'message' => "Order {$order->external_id} updated: {$outcome}.", 'outcome' => $outcome];
+    }
+
+    /**
+     * The automated inbound flow (automation on).
+     *
+     * - A conversation is tracked for the phone (linked to the pending
+     *   order when there is one). A conversation handed to a human
+     *   gets no automatic reply at all.
+     * - With a pending order: the agent answers first (full history +
+     *   COD facts). Its intent drives the order: confirm / cancel /
+     *   postpone apply the outcome (and send the parcel when the
+     *   setting says so), a question gets the agent's answer, an
+     *   escalation hands the conversation to a human. When the agent
+     *   is unavailable, the old interpretReply path below takes over.
+     * - Without a pending order: the message is a product inquiry.
+     *   An ongoing collection is continued (agent first, deterministic
+     *   questions as fallback); a new message is matched to a product
+     *   (single match starts the collection, several / none ask for
+     *   clarification).
+     */
+    protected function processInboundAutomated(string $provider, string $normalized, string $text, ?string $buttonId, ?CodOrder $order): array
+    {
+        $conversation = $this->conversationService()->findOrCreateByPhone($normalized);
+
+        if ($order && ! $conversation->cod_order_id) {
+            $conversation->cod_order_id = $order->id;
+            $conversation->save();
+        }
+
+        $this->conversationService()->touch($conversation);
+
+        if ($conversation->isEscalated()) {
+            if ($order) {
+                $order->last_reply_at = now();
+                $order->save();
+            }
+
+            Log::info('COD WhatsApp automation: inbound message on a conversation handed to a human, no auto reply', [
+                'provider' => $provider,
+                'phone' => $normalized,
+            ]);
+
+            return ['matched' => true, 'message' => 'Conversation handed to a human, no automatic reply.'];
+        }
+
+        // Button taps are deterministic: apply the outcome right away
+        // (and the thank-you / cancel message), the agent is not
+        // needed to understand a button.
+        $buttonOutcome = match ($buttonId) {
+            MetaWhatsAppProvider::BUTTON_CONFIRM => 'confirmed',
+            MetaWhatsAppProvider::BUTTON_POSTPONE => 'postponed',
+            MetaWhatsAppProvider::BUTTON_CANCEL => 'canceled',
+            default => null,
+        };
+
+        if ($buttonOutcome !== null && $order) {
+            $this->applyOutcome($order, $buttonOutcome, $text, $conversation);
+
+            return ['matched' => true, 'message' => "Order {$order->external_id} updated: {$buttonOutcome}.", 'outcome' => $buttonOutcome];
+        }
+
+        if ($order) {
+            return $this->processOrderReply($conversation, $order, $text);
+        }
+
+        return $this->processProductInquiry($conversation, $text);
+    }
+
+    /**
+     * One inbound reply about a pending order, automation on.
+     */
+    protected function processOrderReply(CodConversation $conversation, CodOrder $order, string $text): array
+    {
+        $order->last_reply_at = now();
+        $order->save();
+
+        $agentResult = $this->agent->generate($conversation, $text, [
+            'order' => $order,
+            'product' => $conversation->product(),
+            'collected' => $conversation->answers(),
+        ]);
+
+        if ($agentResult !== null) {
+            return $this->applyAgentResult($conversation, $order, $agentResult);
+        }
+
+        // Agent unavailable: the old behaviour — classifier first,
+        // keywords second. A confirm / cancel also sends the
+        // thank-you / cancel message.
+        $outcome = $this->interpretReply($text);
+
+        if ($outcome === null) {
+            return ['matched' => true, 'message' => 'Reply recorded, but it is not a confirmation answer (confirm / postpone / cancel).', 'outcome' => null];
+        }
+
+        $this->applyOutcome($order, $outcome, $text, $conversation);
+
+        return ['matched' => true, 'message' => "Order {$order->external_id} updated: {$outcome}.", 'outcome' => $outcome];
+    }
+
+    /**
+     * Apply what the agent understood from a reply about a pending
+     * order: send its reply, then act on its intent.
+     */
+    protected function applyAgentResult(CodConversation $conversation, CodOrder $order, array $agentResult): array
+    {
+        $intent = $agentResult['intent'];
+
+        if ($agentResult['escalate']) {
+            $this->conversationService()->escalate($conversation, $agentResult['summary'] ?? 'Escalated by the AI agent.');
+            $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+            return ['matched' => true, 'message' => 'Conversation escalated to a human.', 'outcome' => 'escalated'];
+        }
+
+        if ($intent === ConversationAgentInterface::INTENT_UNCLEAR) {
+            $unclear = $this->conversationService()->countUnclear($conversation);
+
+            if ($unclear >= 2) {
+                $this->conversationService()->escalate($conversation, 'Message not understood after two tries.');
+                $this->sendConversationMessage($conversation, AutomationSettings::DEFAULT_HANDOFF_MESSAGE, CodWhatsAppMessage::SENDER_AI);
+
+                return ['matched' => true, 'message' => 'Conversation escalated to a human (not understood after two tries).', 'outcome' => 'escalated'];
+            }
+
+            $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+            return ['matched' => true, 'message' => 'Reply recorded, unclear (attempt '.$unclear.' of 2).', 'outcome' => null];
+        }
+
+        $this->conversationService()->resetUnclear($conversation);
+        $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+        $outcome = match ($intent) {
+            ConversationAgentInterface::INTENT_CONFIRM => 'confirmed',
+            ConversationAgentInterface::INTENT_CANCEL => 'canceled',
+            ConversationAgentInterface::INTENT_POSTPONE => 'postponed',
+            default => null,
+        };
+
+        if ($outcome === null) {
+            return ['matched' => true, 'message' => 'Reply answered by the AI agent.', 'outcome' => null];
+        }
+
+        $this->applyOutcome($order, $outcome, $agentResult['reply'], $conversation, false);
+
+        return ['matched' => true, 'message' => "Order {$order->external_id} updated: {$outcome}.", 'outcome' => $outcome];
+    }
+
+    /**
+     * One inbound message with no pending order: a product inquiry
+     * (or a follow-up in an ongoing inquiry).
+     */
+    protected function processProductInquiry(CodConversation $conversation, string $text): array
+    {
+        // An inquiry already in progress: continue the collection.
+        if ($conversation->state === CodConversation::STATE_AWAITING_CONFIRMATION) {
+            return $this->processAwaitingConfirmation($conversation, $text);
+        }
+
+        if ($conversation->state === CodConversation::STATE_COLLECTING_INFO && $conversation->product() !== null) {
+            return $this->processCollectingInfo($conversation, $text);
+        }
+
+        // A new inquiry: match the message to a product.
+        $match = $this->productMatcher()->match($text);
+
+        if ($match['status'] === ProductMatcher::MATCH_SINGLE) {
+            $product = $match['products'][0];
+            $firstQuestion = $this->conversationService()->startProductInquiry($conversation, $product);
+
+            $agentResult = $this->agent->generate($conversation, $text, [
+                'order' => null,
+                'product' => $product,
+                'next_field' => $conversation->nextField(),
+                'collected' => $conversation->answers(),
+            ]);
+
+            $reply = $agentResult['reply'] ?? $firstQuestion;
+
+            $this->sendConversationMessage($conversation, $reply, CodWhatsAppMessage::SENDER_AI);
+
+            return ['matched' => true, 'message' => 'Product inquiry started: '.$product['sku'].'.'];
+        }
+
+        // Several products or none: ask for clarification (agent
+        // first, canned message when the agent is unavailable).
+        $agentResult = $this->agent->generate($conversation, $text, [
+            'order' => null,
+            'product' => null,
+            'product_candidates' => $match['products'],
+        ]);
+
+        $reply = $agentResult['reply'] ?? 'واش ممكن توضح ليا المنتج اللي بغيتي؟ عاود كتب ليا الاسم والثمن ديالو.';
+
+        $this->sendConversationMessage($conversation, $reply, CodWhatsAppMessage::SENDER_AI);
+
+        return ['matched' => true, 'message' => 'Product inquiry needs clarification ('.$match['status'].').'];
+    }
+
+    /**
+     * A follow-up while the information is being collected: the agent
+     * understands the answer (which field, which value) and the
+     * deterministic next question is sent, so the flow can never ask
+     * for a field the customer just gave.
+     */
+    protected function processCollectingInfo(CodConversation $conversation, string $text): array
+    {
+        $agentResult = $this->agent->generate($conversation, $text, [
+            'order' => null,
+            'product' => $conversation->product(),
+            'next_field' => $conversation->nextField(),
+            'collected' => $conversation->answers(),
+        ]);
+
+        if ($agentResult !== null) {
+            if ($agentResult['escalate']) {
+                $this->conversationService()->escalate($conversation, $agentResult['summary'] ?? 'Escalated by the AI agent.');
+                $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+                return ['matched' => true, 'message' => 'Conversation escalated to a human.', 'outcome' => 'escalated'];
+            }
+
+            if ($agentResult['intent'] === ConversationAgentInterface::INTENT_CANCEL) {
+                $this->conversationService()->cancel($conversation);
+                $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+                return ['matched' => true, 'message' => 'Product inquiry canceled by the customer.', 'outcome' => 'canceled'];
+            }
+
+            if ($agentResult['intent'] === ConversationAgentInterface::INTENT_COLLECT_INFO && $agentResult['field'] !== null && $agentResult['value'] !== null) {
+                $this->conversationService()->resetUnclear($conversation);
+                $next = $this->conversationService()->recordAnswer($conversation, $agentResult['field'], $agentResult['value']);
+                $this->sendConversationMessage($conversation, $next, CodWhatsAppMessage::SENDER_AI);
+
+                return ['matched' => true, 'message' => 'Collected '.$agentResult['field'].'.'];
+            }
+
+            if ($agentResult['intent'] === ConversationAgentInterface::INTENT_UNCLEAR) {
+                $unclear = $this->conversationService()->countUnclear($conversation);
+
+                if ($unclear >= 2) {
+                    $this->conversationService()->escalate($conversation, 'Message not understood after two tries.');
+                    $this->sendConversationMessage($conversation, AutomationSettings::DEFAULT_HANDOFF_MESSAGE, CodWhatsAppMessage::SENDER_AI);
+
+                    return ['matched' => true, 'message' => 'Conversation escalated to a human (not understood after two tries).', 'outcome' => 'escalated'];
+                }
+
+                $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+                return ['matched' => true, 'message' => 'Reply recorded, unclear (attempt '.$unclear.' of 2).', 'outcome' => null];
+            }
+
+            // A question (or anything else understood): the agent's
+            // answer, then the current question is asked again on the
+            // next turn.
+            $this->conversationService()->resetUnclear($conversation);
+            $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+            return ['matched' => true, 'message' => 'Reply answered by the AI agent.'];
+        }
+
+        // Agent unavailable: a cancel is honored, a question gets the
+        // current question repeated, anything else is the answer to
+        // the current question.
+        if ($this->interpretReply($text) === 'canceled') {
+            $this->conversationService()->cancel($conversation);
+
+            return ['matched' => true, 'message' => 'Product inquiry canceled by the customer.', 'outcome' => 'canceled'];
+        }
+
+        if ($this->looksLikeQuestion($text)) {
+            $this->sendConversationMessage($conversation, $this->conversationService()->questionFor($conversation), CodWhatsAppMessage::SENDER_AI);
+
+            return ['matched' => true, 'message' => 'Reply recorded, question repeated.'];
+        }
+
+        $field = $conversation->nextField();
+
+        if ($field === null) {
+            return ['matched' => true, 'message' => 'Reply recorded.'];
+        }
+
+        $next = $this->conversationService()->recordAnswer($conversation, $field, $text);
+        $this->sendConversationMessage($conversation, $next, CodWhatsAppMessage::SENDER_AI);
+
+        return ['matched' => true, 'message' => 'Collected '.$field.'.'];
+    }
+
+    /**
+     * A follow-up once everything is collected and the summary was
+     * shown: confirm creates the real order, cancel cancels the
+     * inquiry.
+     */
+    protected function processAwaitingConfirmation(CodConversation $conversation, string $text): array
+    {
+        $agentResult = $this->agent->generate($conversation, $text, [
+            'order' => null,
+            'product' => $conversation->product(),
+            'collected' => $conversation->answers(),
+        ]);
+
+        if ($agentResult !== null) {
+            if ($agentResult['escalate']) {
+                $this->conversationService()->escalate($conversation, $agentResult['summary'] ?? 'Escalated by the AI agent.');
+                $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+                return ['matched' => true, 'message' => 'Conversation escalated to a human.', 'outcome' => 'escalated'];
+            }
+
+            if ($agentResult['intent'] === ConversationAgentInterface::INTENT_CONFIRM) {
+                return $this->confirmProductInquiry($conversation, $agentResult['reply']);
+            }
+
+            if ($agentResult['intent'] === ConversationAgentInterface::INTENT_CANCEL) {
+                $this->conversationService()->cancel($conversation);
+                $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+                return ['matched' => true, 'message' => 'Product inquiry canceled by the customer.', 'outcome' => 'canceled'];
+            }
+
+            $this->sendConversationMessage($conversation, $agentResult['reply'], CodWhatsAppMessage::SENDER_AI);
+
+            return ['matched' => true, 'message' => 'Reply answered by the AI agent.'];
+        }
+
+        $outcome = $this->interpretReply($text);
+
+        if ($outcome === 'confirmed') {
+            return $this->confirmProductInquiry($conversation, null);
+        }
+
+        if ($outcome === 'canceled') {
+            $this->conversationService()->cancel($conversation);
+
+            return ['matched' => true, 'message' => 'Product inquiry canceled by the customer.', 'outcome' => 'canceled'];
+        }
+
+        return ['matched' => true, 'message' => 'Reply recorded, waiting for confirmation.'];
+    }
+
+    /**
+     * The customer confirmed the summary: create the real order (when
+     * automatic creation is on) and thank them. When automatic
+     * creation is off, the conversation stays awaiting confirmation
+     * for a human to create the order.
+     */
+    protected function confirmProductInquiry(CodConversation $conversation, ?string $agentReply): array
+    {
+        $order = $this->conversationService()->createOrder($conversation);
+
+        if ($order === null) {
+            if ($agentReply !== null) {
+                $this->sendConversationMessage($conversation, $agentReply, CodWhatsAppMessage::SENDER_AI);
+            }
+
+            return ['matched' => true, 'message' => 'Order creation is off: conversation waits for a human to create the order.'];
+        }
+
+        $text = $agentReply ?? $this->renderTemplate($this->automation->thankYouMessage(), $order);
+
+        $this->sendConversationMessage($conversation, $text, CodWhatsAppMessage::SENDER_AI);
+
+        return ['matched' => true, 'message' => "Order {$order->external_id} created from WhatsApp inquiry.", 'outcome' => 'confirmed'];
+    }
+
+    /**
+     * Whether a free-text reply looks like a question rather than an
+     * answer: a question mark or a question word. Used by the
+     * no-agent fallback so a question is never recorded as the answer
+     * to the current collection question.
+     */
+    protected function looksLikeQuestion(string $text): bool
+    {
+        $clean = mb_strtolower(trim($text));
+
+        if (str_contains($clean, '?') || str_contains($clean, '؟')) {
+            return true;
+        }
+
+        foreach (['شحال', 'واش', 'كيفاش', 'علاش', 'فين', 'وقتاش', 'prix', 'price', 'combien', 'comment', 'quand', 'how', 'when', 'what'] as $word) {
+            if (str_contains($clean, $word)) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    /**
+     * Send the thank-you (confirmed) or cancel (canceled) message for
+     * an order, from the automation settings.
+     */
+    protected function sendOutcomeMessage(CodConversation $conversation, CodOrder $order, string $outcome): void
+    {
+        $template = $outcome === 'canceled'
+            ? $this->automation->cancelMessage()
+            : $this->automation->thankYouMessage();
+
+        $this->sendConversationMessage($conversation, $this->renderTemplate($template, $order), CodWhatsAppMessage::SENDER_SYSTEM);
     }
 
     /**
@@ -687,8 +1184,17 @@ class WhatsAppService implements WhatsAppServiceInterface
      * call-log entry (confirmer null: the customer answered on
      * WhatsApp, no human called). Postponed keeps the order pending
      * with a callback promised for tomorrow.
+     *
+     * When the automation is on and a conversation is given, a
+     * confirmed order also gets the thank-you message and a canceled
+     * one the cancel message (unless $sendOutcomeMessage is false:
+     * the agent already answered the customer). A confirmed order is
+     * also sent to the delivery provider automatically when the
+     * setting says so and a store order is linked — the send is
+     * idempotent (an already-sent parcel is returned, not re-sent)
+     * and a failure never breaks the confirmation.
      */
-    protected function applyOutcome(CodOrder $order, string $outcome, string $text): void
+    protected function applyOutcome(CodOrder $order, string $outcome, string $text, ?CodConversation $conversation = null, bool $sendOutcomeMessage = true): void
     {
         $result = match ($outcome) {
             'confirmed' => CodCallLog::RESULT_CONFIRMED,
@@ -720,6 +1226,44 @@ class WhatsAppService implements WhatsAppServiceInterface
             'callback_at' => $callbackAt,
             'called_at' => now(),
         ]);
+
+        if ($conversation !== null && $sendOutcomeMessage && $this->automation->isEnabled()) {
+            if ($outcome === 'confirmed' || $outcome === 'canceled') {
+                $this->sendOutcomeMessage($conversation, $order, $outcome);
+            }
+        }
+
+        if ($outcome === 'confirmed' && $this->automation->isEnabled() && $this->automation->autoSendToDelivery()) {
+            $this->sendConfirmedOrderToDelivery($order);
+        }
+    }
+
+    /**
+     * Send a confirmed order to the delivery provider automatically.
+     * Only for orders with a linked store order (WhatsApp-created
+     * orders have none yet); a failure is logged and never breaks the
+     * confirmation.
+     */
+    protected function sendConfirmedOrderToDelivery(CodOrder $order): void
+    {
+        $storeOrder = $order->order;
+
+        if ($storeOrder === null) {
+            Log::info('COD WhatsApp automation: confirmed order has no linked store order, parcel not sent automatically', [
+                'cod_order_id' => $order->id,
+            ]);
+
+            return;
+        }
+
+        try {
+            $this->deliveryService()?->sendOrder($storeOrder);
+        } catch (\Throwable $e) {
+            Log::warning('COD WhatsApp automation: failed to send confirmed order to delivery', [
+                'cod_order_id' => $order->id,
+                'error' => $e->getMessage(),
+            ]);
+        }
     }
 
     protected function logMessage(?CodOrder $order, string $direction, string $phone, string $body, array $result, ?string $providerName = null, ?string $sender = null): void

@@ -115,6 +115,15 @@ interface WhatsAppServiceInterface
      * find the matching pending order by phone, interpret the reply,
      * update the order status, log a call-log entry and the message
      * itself. Never throws; returns ['matched' => bool, ...].
+     *
+     * With the WhatsApp automation on (and the cod_conversations
+     * table present), the conversation agent answers first (full
+     * history + COD facts + the admin prompt); a message with no
+     * pending order starts the product-inquiry flow instead, and a
+     * conversation handed to a human gets no automatic reply. When
+     * the agent is unavailable, the classifier / keyword reply
+     * understanding below takes over. With the automation off, the
+     * behaviour is exactly the historic one.
      */
     public function processInbound(string $provider, string $phone, ?string $text, ?string $buttonId = null, ?string $externalMessageId = null): array;
 }

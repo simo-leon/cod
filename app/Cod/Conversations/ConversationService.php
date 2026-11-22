@@ -42,12 +42,21 @@ class ConversationService implements ConversationServiceInterface
      * The conversation for one normalized phone number, created when
      * there is none yet. The caller passes the already-normalized
      * phone (see App\Cod\Support\PhoneNumber).
+     *
+     * ai_enabled is set explicitly here: a freshly created model does
+     * not load the database default into memory, so relying on the
+     * column default would leave ai_enabled null — and isEscalated()
+     * would read that as "handed to a human" for every new
+     * conversation.
      */
     public function findOrCreateByPhone(string $phone): CodConversation
     {
         return CodConversation::firstOrCreate(
             ['phone' => $phone],
-            ['state' => CodConversation::STATE_COLLECTING_INFO],
+            [
+                'state' => CodConversation::STATE_COLLECTING_INFO,
+                'ai_enabled' => true,
+            ],
         );
     }
 

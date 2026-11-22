@@ -74,6 +74,13 @@ PROMPT;
     public const DEFAULT_CANCEL_MESSAGE = 'واخا {name}، تم إلغاء الطلب ديالك رقم {order_id}. إلا بغيتي شي حاجة أخرى، مرحبا بيك.';
 
     /**
+     * Message sent when a conversation is handed to a human because
+     * the customer's message was not understood after two tries.
+     * (When the AI itself escalates, its own reply is sent instead.)
+     */
+    public const DEFAULT_HANDOFF_MESSAGE = 'واخا، غادي نحولك لواحد من الفريق ديالنا باش يعاونك.';
+
+    /**
      * Whether the WhatsApp automation is switched on. Default off:
      * nothing changes until the admin enables it.
      */

@@ -7,6 +7,7 @@ use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Models\CodCallLog;
 use App\Models\CodOrder;
 use Illuminate\Console\Command;
+use Illuminate\Support\Facades\Schema;
 
 /**
  * Remind customers whose order is still waiting for confirmation,
@@ -63,11 +64,21 @@ class RemindUnconfirmedCodOrdersCommand extends Command
      */
     protected function sendDueReminders(WhatsAppServiceInterface $whatsapp, int $delay, int $maxReminders): array
     {
-        $candidates = CodOrder::query()
+        $query = CodOrder::query()
             ->where('status', CodOrder::STATUS_PENDING_CONFIRMATION)
             ->whereNotNull('confirmation_sent_at')
-            ->whereNull('last_reply_at')
-            ->where('reminder_count', '<', $maxReminders)
+            ->whereNull('last_reply_at');
+
+        // Guarded: on an install where the automation migration has
+        // not run yet there is no reminder_count column — fall back
+        // to the historic one-reminder behaviour (reminder_sent_at).
+        if (Schema::hasColumn('cod_orders', 'reminder_count')) {
+            $query->where('reminder_count', '<', $maxReminders);
+        } else {
+            $query->whereNull('reminder_sent_at');
+        }
+
+        $candidates = $query
             ->orderBy('id')
             ->get()
             // Due when the delay passed since the last contact: the
@@ -109,6 +120,15 @@ class RemindUnconfirmedCodOrdersCommand extends Command
      */
     protected function convertUnanswered(AutomationSettings $automation): int
     {
+        // Guarded: without the automation migration there is no
+        // whatsapp_unconfirmed_at column — skip the conversion
+        // instead of crashing the scheduled command.
+        if (! Schema::hasColumn('cod_orders', 'whatsapp_unconfirmed_at')) {
+            $this->warn('The whatsapp_unconfirmed_at column is missing — run php artisan migrate to enable the conversion.');
+
+            return 0;
+        }
+
         $candidates = CodOrder::query()
             ->where('status', CodOrder::STATUS_PENDING_CONFIRMATION)
             ->whereNotNull('confirmation_sent_at')

@@ -225,6 +225,22 @@ class ConversationAgent implements ConversationAgentInterface
             $lines[] = 'المنتج: '.(string) $product['name'].' — '.number_format((float) ($product['price'] ?? 0), 2).' DH';
         }
 
+        $candidates = $facts['product_candidates'] ?? null;
+
+        if (is_array($candidates) && $candidates !== []) {
+            $names = [];
+
+            foreach ($candidates as $candidate) {
+                if (is_array($candidate) && ! empty($candidate['name'])) {
+                    $names[] = (string) $candidate['name'].' ('.number_format((float) ($candidate['price'] ?? 0), 2).' DH)';
+                }
+            }
+
+            if ($names !== []) {
+                $lines[] = 'المنتجات المحتملة (سول العميل يوضح شكون فيهم): '.implode('، ', $names);
+            }
+        }
+
         $collected = $facts['collected'] ?? [];
 
         if (is_array($collected) && $collected !== []) {
