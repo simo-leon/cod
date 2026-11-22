@@ -14,6 +14,12 @@
     $deliveryProvider = $deliveryManager->defaultProvider();
     $isCodOrder = ($order->payment?->method ?? null) === 'cashondelivery';
     $deliveryConfigured = $deliveryManager->isConfigured();
+
+    // The parcel's own provider, not the configured default: a parcel
+    // sent through Sendit / Speedaf must not be shown as Vitis
+    // Express. Falls back to the raw provider name when unknown.
+    $parcelProvider = $deliveryParcel ? $deliveryManager->provider($deliveryParcel->provider) : null;
+    $parcelProviderLabel = $parcelProvider?->getLabel() ?? $deliveryParcel->provider ?? null;
 @endphp
 
 <div class="box-shadow rounded bg-white dark:bg-gray-900">
@@ -30,14 +36,14 @@
             <p class="text-sm text-gray-600 dark:text-gray-300">
                 @lang('admin::app.sales.orders.view.delivery.not-cod')
             </p>
-        @elseif (! $deliveryConfigured)
+        @elseif (! $deliveryConfigured && ! $deliveryParcel)
             <p class="text-sm text-gray-600 dark:text-gray-300">
                 @lang('admin::app.sales.orders.view.delivery.not-configured')
             </p>
         @else
             <div class="flex flex-col gap-1.5 text-sm text-gray-600 dark:text-gray-300">
                 <p>
-                    @lang('admin::app.sales.orders.view.delivery.provider'): <span class="font-semibold text-gray-800 dark:text-white">{{ $deliveryProvider?->getLabel() }}</span>
+                    @lang('admin::app.sales.orders.view.delivery.provider'): <span class="font-semibold text-gray-800 dark:text-white">{{ $parcelProviderLabel ?? $deliveryProvider?->getLabel() }}</span>
                 </p>
 
                 @if ($deliveryParcel)
@@ -77,18 +83,20 @@
 
             @if (bouncer()->hasPermission('sales.orders.edit'))
                 <div class="mt-4 flex flex-wrap gap-2">
-                    <form
-                        method="POST"
-                        action="{{ route('admin.sales.orders.send-to-delivery', $order->id) }}"
-                    >
-                        @csrf
+                    @if ($deliveryConfigured)
+                        <form
+                            method="POST"
+                            action="{{ route('admin.sales.orders.send-to-delivery', $order->id) }}"
+                        >
+                            @csrf
 
-                        <button type="submit" class="primary-button px-3 py-1.5 text-sm">
-                            {{ $deliveryParcel && $deliveryParcel->status === 'sent'
-                                ? trans('admin::app.sales.orders.view.delivery.resend', ['provider' => $deliveryProvider?->getLabel()])
-                                : trans('admin::app.sales.orders.view.delivery.send', ['provider' => $deliveryProvider?->getLabel()]) }}
-                        </button>
-                    </form>
+                            <button type="submit" class="primary-button px-3 py-1.5 text-sm">
+                                {{ $deliveryParcel && $deliveryParcel->status === 'sent'
+                                    ? trans('admin::app.sales.orders.view.delivery.resend', ['provider' => $deliveryProvider?->getLabel()])
+                                    : trans('admin::app.sales.orders.view.delivery.send', ['provider' => $deliveryProvider?->getLabel()]) }}
+                            </button>
+                        </form>
+                    @endif
 
                     @if ($deliveryParcel && $deliveryParcel->parcel_code)
                         <form

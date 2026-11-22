@@ -40,12 +40,23 @@ use Webkul\Sales\Models\Order;
  *   customer refused?) and must not silently cancel or return the
  *   order — an admin decides.
  *
- * Forward-only: the COD status only moves while it is confirmed
- * or sent_to_delivery. A delivered, returned or canceled COD order
- * is never moved back, and a COD order still pending confirmation
- * or already canceled is never notified: parcels are created at
+ * Forward-only: the COD status only moves forward — confirmed
+ * may jump straight to sent_to_delivery, delivered or returned
+ * (the first sync after delivery, or a stalled scheduler, must not
+ * strand the order in confirmed), and sent_to_delivery may move to
+ * delivered or returned. A delivered, returned or canceled COD
+ * order is never moved back, the two final states never flip into
+ * each other, and a COD order still pending confirmation or already
+ * canceled is never moved or notified: parcels are created at
  * checkout, before the customer confirms, so a shipped notification
  * must wait for the confirmation (confirmed / sent_to_delivery).
+ *
+ * A COD order already sitting in the target status is still
+ * notified: the notification for that status is retried on every
+ * sync until it succeeds (its *_notification_sent_at column is
+ * still null), and the WhatsApp service answers "already sent"
+ * once it has gone out, so a successful notification is never
+ * repeated.
  *
  * Idempotent: a re-run with no status change writes nothing to the
  * parcel, changes no COD status, and sends no notification twice
@@ -67,7 +78,11 @@ class TrackingSyncService implements TrackingSyncServiceInterface
     /**
      * COD statuses from which the sync may move the order forward.
      * pending_confirmation is deliberately absent: parcels are
-     * created at checkout, before the customer confirms.
+     * created at checkout, before the customer confirms. Delivered
+     * and returned are absent too: they are final, so the order is
+     * never moved out of them — but a notification for the final
+     * status that failed earlier is still retried (see
+     * syncCodOrder()).
      */
     public const SYNCABLE_COD_STATUSES = [
         CodOrder::STATUS_CONFIRMED,
@@ -237,24 +252,38 @@ class TrackingSyncService implements TrackingSyncServiceInterface
         // A COD order still waiting for confirmation, or already
         // canceled, is never moved or notified by tracking: parcels
         // are created at checkout, before confirmation.
-        if (! in_array($codOrder->status, self::SYNCABLE_COD_STATUSES, true)) {
+        if (in_array($codOrder->status, [CodOrder::STATUS_PENDING_CONFIRMATION, CodOrder::STATUS_CANCELED], true)) {
             return $out;
         }
 
         [$codStatus, $event] = $mapping;
 
         if ($codOrder->status !== $codStatus) {
-            // Forward-only: sent_to_delivery -> delivered / returned,
-            // confirmed -> sent_to_delivery. A delivered order never
-            // goes back to sent_to_delivery.
-            $forward = ($codOrder->status === CodOrder::STATUS_CONFIRMED && $codStatus === CodOrder::STATUS_SENT_TO_DELIVERY)
-                || ($codOrder->status === CodOrder::STATUS_SENT_TO_DELIVERY && in_array($codStatus, [CodOrder::STATUS_DELIVERED, CodOrder::STATUS_RETURNED], true));
+            // Forward-only, direct jumps allowed: confirmed may go
+            // straight to delivered / returned (first sync after
+            // delivery, or a stalled scheduler, must not strand the
+            // order in confirmed), and sent_to_delivery may go to
+            // delivered / returned. A delivered or returned order
+            // never moves back, and the two final states never flip
+            // into each other.
+            $forward = in_array($codOrder->status, self::SYNCABLE_COD_STATUSES, true)
+                && in_array($codStatus, [CodOrder::STATUS_SENT_TO_DELIVERY, CodOrder::STATUS_DELIVERED, CodOrder::STATUS_RETURNED], true);
 
             if ($forward) {
                 $codOrder->status = $codStatus;
                 $codOrder->save();
                 $out['cod_status_changed'] = true;
             }
+        }
+
+        // Notify only for the status the order is in now: just
+        // moved into it, or already there (a notification that
+        // failed earlier is retried on every sync until it succeeds;
+        // the WhatsApp service answers "already sent" once it has
+        // gone out). A delivered order facing an older event (e.g.
+        // a stale in_transit parcel) gets no notification.
+        if ($codOrder->status !== $codStatus) {
+            return $out;
         }
 
         try {
