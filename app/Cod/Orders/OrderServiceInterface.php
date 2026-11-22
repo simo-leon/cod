@@ -48,9 +48,12 @@ interface OrderServiceInterface
      * Record one order from an API payload (external_id plus customer,
      * total and status fields). Returns null when the payload has no
      * usable external_id. When the payload matches a local store order,
-     * the local order is the authoritative snapshot.
+     * the local order is the authoritative snapshot. When
+     * $alreadyConfirmed is true (a WhatsApp product inquiry the
+     * customer already confirmed), the order is recorded as confirmed
+     * right away: no confirmer assignment and no confirmation message.
      */
-    public function importFromPayload(array $data, string $source = CodOrder::SOURCE_API): ?CodOrder;
+    public function importFromPayload(array $data, string $source = CodOrder::SOURCE_API, bool $alreadyConfirmed = false): ?CodOrder;
 
     /**
      * Import every cash-on-delivery store order that has no COD record yet.

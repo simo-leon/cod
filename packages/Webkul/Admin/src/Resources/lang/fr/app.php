@@ -245,6 +245,7 @@ return [
                 'api' => 'API',
                 'import' => 'Import planifié',
                 'test' => 'Test',
+                'whatsapp' => 'WhatsApp',
             ],
         ],
         'index' => [

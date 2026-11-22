@@ -101,7 +101,7 @@ class OrderService implements OrderServiceInterface
     /**
      * Record one order from an API payload.
      */
-    public function importFromPayload(array $data, string $source = CodOrder::SOURCE_API): ?CodOrder
+    public function importFromPayload(array $data, string $source = CodOrder::SOURCE_API, bool $alreadyConfirmed = false): ?CodOrder
     {
         $externalId = trim((string) ($data['external_id'] ?? $data['increment_id'] ?? ''));
 
@@ -182,7 +182,7 @@ class OrderService implements OrderServiceInterface
                 $snapshot['items_count'] = (int) $data['items_count'];
             }
 
-            return $this->storeCodOrder($snapshot, $source);
+            return $this->storeCodOrder($snapshot, $source, $alreadyConfirmed);
         } catch (\Throwable $e) {
             Log::warning('COD: failed to import order from API payload', [
                 'external_id' => $externalId,
@@ -366,8 +366,14 @@ class OrderService implements OrderServiceInterface
      * record is still pending confirmation. Once a confirmer moves it
      * forward, the COD System owns the status and the store status is kept
      * in `store_status` for reference only.
+     *
+     * When $alreadyConfirmed is true, the new record is confirmed right
+     * away and the post-import block (assignment + confirmation message)
+     * is skipped: the customer already confirmed (WhatsApp product
+     * inquiry), so there is nothing to confirm and no confirmer to
+     * assign.
      */
-    protected function storeCodOrder(array $snapshot, string $source): CodOrder
+    protected function storeCodOrder(array $snapshot, string $source, bool $alreadyConfirmed = false): CodOrder
     {
         $mappedStatus = $this->mapStoreStatus($snapshot['store_status'] ?? null);
 
@@ -378,7 +384,7 @@ class OrderService implements OrderServiceInterface
         $codOrder->fill($snapshot);
 
         if ($isNew) {
-            $codOrder->status = $mappedStatus;
+            $codOrder->status = $alreadyConfirmed ? CodOrder::STATUS_CONFIRMED : $mappedStatus;
             $codOrder->source = $source;
         } elseif ($codOrder->status === CodOrder::STATUS_PENDING_CONFIRMATION) {
             $codOrder->status = $mappedStatus;

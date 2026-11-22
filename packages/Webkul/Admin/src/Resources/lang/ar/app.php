@@ -245,6 +245,7 @@ return [
                 'api' => 'API',
                 'import' => 'استيراد مجدول',
                 'test' => 'اختبار',
+                'whatsapp' => 'واتساب',
             ],
         ],
         'index' => [

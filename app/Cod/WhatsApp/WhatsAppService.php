@@ -4,6 +4,7 @@ namespace App\Cod\WhatsApp;
 
 use App\Cod\Ai\ReplyIntentClassifierInterface;
 use App\Cod\Automation\AutomationSettings;
+use App\Cod\Support\PhoneNumber;
 use App\Models\CodCallLog;
 use App\Models\CodOrder;
 use App\Models\CodWhatsAppMessage;
@@ -358,15 +359,7 @@ class WhatsAppService implements WhatsAppServiceInterface
 
     public function normalizePhone(string $phone): string
     {
-        $digits = preg_replace('/\D+/', '', $phone) ?? '';
-
-        if (str_starts_with($digits, '0')) {
-            $digits = '212'.substr($digits, 1);
-        } elseif (strlen($digits) === 9) {
-            $digits = '212'.$digits;
-        }
-
-        return $digits;
+        return PhoneNumber::normalize($phone);
     }
 
     public function interpretReply(?string $text): ?string

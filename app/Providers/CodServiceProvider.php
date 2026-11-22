@@ -6,12 +6,15 @@ use App\Cod\Ai\OpenAiCompatibleReplyClassifier;
 use App\Cod\Ai\ReplyIntentClassifierInterface;
 use App\Cod\Analytics\AnalyticsService;
 use App\Cod\Analytics\AnalyticsServiceInterface;
+use App\Cod\Automation\AutomationSettings;
 use App\Cod\Confirmation\AssignmentService;
 use App\Cod\Confirmation\AssignmentServiceInterface;
 use App\Cod\Confirmation\CallLogService;
 use App\Cod\Confirmation\CallLogServiceInterface;
 use App\Cod\Confirmation\ConfirmationService;
 use App\Cod\Confirmation\ConfirmationServiceInterface;
+use App\Cod\Conversations\ConversationService;
+use App\Cod\Conversations\ConversationServiceInterface;
 use App\Cod\Delivery\DeliveryService;
 use App\Cod\Delivery\DeliveryServiceInterface;
 use App\Cod\Delivery\TrackingSyncService;
@@ -48,6 +51,10 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(WhatsAppServiceInterface::class, WhatsAppService::class);
 
         $this->app->singleton(ReplyIntentClassifierInterface::class, OpenAiCompatibleReplyClassifier::class);
+
+        $this->app->singleton(AutomationSettings::class);
+
+        $this->app->singleton(ConversationServiceInterface::class, ConversationService::class);
 
         $this->app->singleton(DeliveryServiceInterface::class, DeliveryService::class);
 

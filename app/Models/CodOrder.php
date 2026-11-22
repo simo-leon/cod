@@ -58,10 +58,19 @@ class CodOrder extends Model
 
     public const SOURCE_IMPORT = 'import';
 
+    /**
+     * Created from a WhatsApp product inquiry: the customer asked
+     * about a product on WhatsApp, the AI collected the information
+     * and the customer confirmed — there is no store checkout behind
+     * it, so order_id is null and external_id is a WA-... id.
+     */
+    public const SOURCE_WHATSAPP = 'whatsapp';
+
     public const SOURCES = [
         self::SOURCE_WEBHOOK,
         self::SOURCE_API,
         self::SOURCE_IMPORT,
+        self::SOURCE_WHATSAPP,
     ];
 
     protected $guarded = [];
