@@ -4912,6 +4912,8 @@ return [
                         'auto-assignment-info' => 'توزيع الطلبات الجديدة على المؤكِّدين تلقائياً. اتركه معطلاً حتى المرحلة 3 التي ستبني التوزيع التلقائي.',
                         'import-secret-key' => 'المفتاح السري للاستيراد',
                         'import-secret-key-info' => 'المفتاح السري لـ POST /api/cod/orders (ترويسة X-COD-Import-Key أو رمز Bearer). اتركه فارغاً للاحتفاظ بالمفتاح الحالي. ولّد واحداً بـ php artisan cod:generate-import-key.',
+                        'product-secret-key' => 'المفتاح السري للمنتجات',
+                        'product-secret-key-info' => 'المفتاح السري لـ POST /api/cod/products (ترويسة X-COD-Product-Key أو رمز Bearer). اتركه فارغاً للاحتفاظ بالمفتاح الحالي. ولّد واحداً بـ php artisan cod:generate-product-key.',
                     ],
                     'whatsapp' => [
                         'title' => 'واتساب',

@@ -4917,6 +4917,8 @@ return [
                         'auto-assignment-info' => 'Automatically assign new orders to confirmers. Keep disabled until phase 3 builds automatic distribution.',
                         'import-secret-key' => 'Import Secret Key',
                         'import-secret-key-info' => 'Secret key for POST /api/cod/orders (X-COD-Import-Key header or Bearer token). Leave empty to keep the current key. Generate one with php artisan cod:generate-import-key.',
+                        'product-secret-key' => 'Product Secret Key',
+                        'product-secret-key-info' => 'Secret key for POST /api/cod/products (X-COD-Product-Key header or Bearer token). Leave empty to keep the current key. Generate one with php artisan cod:generate-product-key.',
                     ],
                     'whatsapp' => [
                         'title' => 'WhatsApp',

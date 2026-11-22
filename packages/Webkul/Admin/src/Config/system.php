@@ -888,6 +888,12 @@ return [
                 'info' => 'admin::app.configuration.index.general.cod-system.settings.import-secret-key-info',
                 'type' => 'password',
                 'channel_based' => true,
+            ], [
+                'name' => 'product_secret_key',
+                'title' => 'admin::app.configuration.index.general.cod-system.settings.product-secret-key',
+                'info' => 'admin::app.configuration.index.general.cod-system.settings.product-secret-key-info',
+                'type' => 'password',
+                'channel_based' => true,
             ],
         ],
     ], [

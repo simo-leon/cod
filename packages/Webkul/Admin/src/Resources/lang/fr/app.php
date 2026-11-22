@@ -4870,6 +4870,8 @@ return [
                         'auto-assignment-info' => 'Affecter automatiquement les nouvelles commandes aux confirmateurs. Laisser désactivé jusqu’à la phase 3, qui construira la distribution automatique.',
                         'import-secret-key' => 'Clé secrète d’importation',
                         'import-secret-key-info' => 'Clé secrète pour POST /api/cod/orders (en-tête X-COD-Import-Key ou jeton Bearer). Laissez vide pour conserver la clé actuelle. Générez-en une avec php artisan cod:generate-import-key.',
+                        'product-secret-key' => 'Clé secrète des produits',
+                        'product-secret-key-info' => 'Clé secrète pour POST /api/cod/products (en-tête X-COD-Product-Key ou jeton Bearer). Laissez vide pour conserver la clé actuelle. Générez-en une avec php artisan cod:generate-product-key.',
                     ],
                     'whatsapp' => [
                         'title' => 'WhatsApp',
