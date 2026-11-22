@@ -4874,6 +4874,11 @@ return [
                         'evolution-api-key-info' => 'Clé API globale du serveur Evolution API (AUTHENTICATION_API_KEY).',
                         'evolution-instance' => 'Nom de l’instance Evolution',
                         'evolution-instance-info' => 'Nom de l’instance WhatsApp connectée dans Evolution API. Les webhooks entrants ne sont acceptés que pour cette instance.',
+                    ],
+
+                    'whatsapp-messages' => [
+                        'title' => 'Messages WhatsApp',
+                        'title-info' => 'Messages envoyés aux clients sur WhatsApp : confirmation, rappels et notifications de livraison, avec les noms des modèles Meta approuvés.',
                         'confirmation-message' => 'Message de confirmation',
                         'confirmation-message-info' => 'Message envoyé quand une commande est attribuée à un confirmateur (ou quand une nouvelle commande COD ne peut pas être attribuée). Variables : {order_id} {name} {total} {products} {store}. Sur Meta, il est envoyé comme modèle approuvé si un nom de modèle est défini, sinon avec des boutons de réponse ; sur Evolution, les options sont ajoutées sous forme de texte numéroté (1=confirmer, 2=reporter, 3=annuler).',
                         'reminder-message' => 'Message de rappel',
@@ -4947,7 +4952,12 @@ return [
                         'product-costs' => 'Coûts des produits par SKU',
                         'product-costs-info' => 'Une ligne par produit : SKU=coût en DH par unité, par ex. W8=120. Un coût saisi ici remplace le coût produit par défaut pour ce SKU. Le SKU doit correspondre exactement à celui des commandes.',
                     ],
-                    'souk' => [
+                ],
+
+                'souk' => [
+                    'title' => 'Souk (Market Sourcing)',
+                    'info' => 'Market sourcing: zero-stock products are assigned to the souk buyers panel, with a claim deadline, a purchase-price cap, a minimum margin and a payment model.',
+                    'settings' => [
                         'title' => 'Souk (Market Sourcing)',
                         'title-info' => 'Market sourcing: zero-stock products are assigned to the souk buyers panel, with a claim deadline, a purchase-price cap, a minimum margin and a payment model.',
                         'status' => 'Enable Souk Panel',

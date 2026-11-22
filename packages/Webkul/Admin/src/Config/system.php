@@ -919,6 +919,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.provider',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.provider-info',
                 'type' => 'select',
+                'depends' => 'status:1',
                 'default' => 'none',
                 'options' => [
                     [
@@ -938,24 +939,28 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-access-token',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-access-token-info',
                 'type' => 'password',
+                'depends' => 'status:1',
                 'channel_based' => true,
             ], [
                 'name' => 'meta_phone_number_id',
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-phone-number-id',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-phone-number-id-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'channel_based' => true,
             ], [
                 'name' => 'meta_business_id',
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-business-id',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-business-id-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'channel_based' => true,
             ], [
                 'name' => 'meta_template_name',
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-template-name',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-template-name-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'default' => 'cod_order_confirmation',
                 'channel_based' => true,
             ], [
@@ -963,6 +968,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-template-language',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-template-language-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'default' => 'ar',
                 'channel_based' => true,
             ], [
@@ -970,18 +976,21 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-app-secret',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-app-secret-info',
                 'type' => 'password',
+                'depends' => 'status:1',
                 'channel_based' => true,
             ], [
                 'name' => 'meta_verify_token',
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-verify-token',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-verify-token-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'channel_based' => true,
             ], [
                 'name' => 'evolution_base_url',
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-base-url',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-base-url-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'default' => 'http://localhost:8080',
                 'channel_based' => true,
             ], [
@@ -989,31 +998,56 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-api-key',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-api-key-info',
                 'type' => 'password',
+                'depends' => 'status:1',
                 'channel_based' => true,
             ], [
                 'name' => 'evolution_instance',
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-instance',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-instance-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'channel_based' => true,
-            ], [
+            ],
+        ],
+    ], [
+
+        /**
+         * COD System — WhatsApp messages (templates).
+         *
+         * Message templates sent to customers on WhatsApp:
+         * confirmation_message and reminder_message use
+         * {order_id} {name} {total} {products} {store} and the
+         * {event}_message templates ({event} = shipped /
+         * out_for_delivery / delivered / returned) add {tracking_code}.
+         * The meta_{event}_template_name fields hold the approved
+         * Meta template name per event; empty means 'send the plain
+         * text instead'. reminder_delay_minutes is shared with the
+         * automation section as a fallback — see
+         * app/Cod/Automation/AutomationSettings.php.
+         */
+        'key' => 'general.cod_system.whatsapp_messages',
+        'name' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.title',
+        'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.title-info',
+        'sort' => 3,
+        'fields' => [
+            [
                 'name' => 'confirmation_message',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.confirmation-message',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.confirmation-message-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.confirmation-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.confirmation-message-info',
                 'type' => 'textarea',
                 'default' => 'السلام عليكم {name}، معك {store}. بغيت نأكد معك الطلب ديالك رقم {order_id}: {products} — المجموع {total}. واش نأكدو؟',
                 'channel_based' => true,
             ], [
                 'name' => 'reminder_message',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.reminder-message',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.reminder-message-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.reminder-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.reminder-message-info',
                 'type' => 'textarea',
                 'default' => 'السلام عليكم {name}، ما زال الطلب ديالك رقم {order_id} ({total}) بلا تأكيد. واش نأكدو؟',
                 'channel_based' => true,
             ], [
                 'name' => 'reminder_delay_minutes',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.reminder-delay-minutes',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.reminder-delay-minutes-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.reminder-delay-minutes',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.reminder-delay-minutes-info',
                 'type' => 'number',
                 'default' => 120,
                 'channel_based' => true,
@@ -1036,54 +1070,54 @@ return [
                  * always sends the text.
                  */
                 'name' => 'shipped_message',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.shipped-message',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.shipped-message-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.shipped-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.shipped-message-info',
                 'type' => 'textarea',
                 'default' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id}: {products} — المجموع {total}، تم الشحن ديالو وغادي يوصلك قريب إن شاء الله. كود التتبع: {tracking_code}.',
                 'channel_based' => true,
             ], [
                 'name' => 'out_for_delivery_message',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.out-for-delivery-message',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.out-for-delivery-message-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.out-for-delivery-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.out-for-delivery-message-info',
                 'type' => 'textarea',
                 'default' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) خرج للتوصيل اليوم وغادي يوصلك. كود التتبع: {tracking_code}.',
                 'channel_based' => true,
             ], [
                 'name' => 'delivered_message',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.delivered-message',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.delivered-message-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.delivered-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.delivered-message-info',
                 'type' => 'textarea',
                 'default' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) تم التوصيل ديالو. شكرا على الثقة ديالك.',
                 'channel_based' => true,
             ], [
                 'name' => 'returned_message',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.returned-message',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.returned-message-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.returned-message',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.returned-message-info',
                 'type' => 'textarea',
                 'default' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) ترجع لينا. إلا بغيتي نعاودو نرسلوه ليك، تواصل معانا.',
                 'channel_based' => true,
             ], [
                 'name' => 'meta_shipped_template_name',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-shipped-template-name',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-shipped-template-name-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-shipped-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-shipped-template-name-info',
                 'type' => 'text',
                 'channel_based' => true,
             ], [
                 'name' => 'meta_out_for_delivery_template_name',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-out-for-delivery-template-name',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-out-for-delivery-template-name-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-out-for-delivery-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-out-for-delivery-template-name-info',
                 'type' => 'text',
                 'channel_based' => true,
             ], [
                 'name' => 'meta_delivered_template_name',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-delivered-template-name',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-delivered-template-name-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-delivered-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-delivered-template-name-info',
                 'type' => 'text',
                 'channel_based' => true,
             ], [
                 'name' => 'meta_returned_template_name',
-                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-returned-template-name',
-                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.meta-returned-template-name-info',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-returned-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-returned-template-name-info',
                 'type' => 'text',
                 'channel_based' => true,
             ],
@@ -1108,20 +1142,20 @@ return [
         'key' => 'general.cod_system.ai',
         'name' => 'admin::app.configuration.index.general.cod-system.ai.title',
         'info' => 'admin::app.configuration.index.general.cod-system.ai.title-info',
-        'sort' => 3,
+        'sort' => 4,
         'fields' => [
             [
                 'name' => 'status',
                 'title' => 'admin::app.configuration.index.general.cod-system.ai.status',
                 'info' => 'admin::app.configuration.index.general.cod-system.ai.status-info',
-                'type' => 'boolean',
-                'default' => false,
+                'type' => 'boolean',                'default' => false,
                 'channel_based' => true,
             ], [
                 'name' => 'base_url',
                 'title' => 'admin::app.configuration.index.general.cod-system.ai.base-url',
                 'info' => 'admin::app.configuration.index.general.cod-system.ai.base-url-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'default' => 'https://api.llama.com/compat/v1',
                 'channel_based' => true,
             ], [
@@ -1129,12 +1163,14 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.ai.api-key',
                 'info' => 'admin::app.configuration.index.general.cod-system.ai.api-key-info',
                 'type' => 'password',
+                'depends' => 'status:1',
                 'channel_based' => true,
             ], [
                 'name' => 'model',
                 'title' => 'admin::app.configuration.index.general.cod-system.ai.model',
                 'info' => 'admin::app.configuration.index.general.cod-system.ai.model-info',
                 'type' => 'text',
+                'depends' => 'status:1',
                 'default' => 'Llama-4-Maverick-17B-128E-Instruct-FP8',
                 'channel_based' => true,
             ],
@@ -1160,20 +1196,20 @@ return [
         'key' => 'general.cod_system.automation',
         'name' => 'admin::app.configuration.index.general.cod-system.automation.title',
         'info' => 'admin::app.configuration.index.general.cod-system.automation.title-info',
-        'sort' => 4,
+        'sort' => 5,
         'fields' => [
             [
                 'name' => 'status',
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.status',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.status-info',
-                'type' => 'boolean',
-                'default' => false,
+                'type' => 'boolean',                'default' => false,
                 'channel_based' => true,
             ], [
                 'name' => 'reminder_delay_minutes',
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.reminder-delay-minutes',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.reminder-delay-minutes-info',
                 'type' => 'number',
+                'depends' => 'status:1',
                 'default' => 120,
                 'channel_based' => true,
             ], [
@@ -1181,6 +1217,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.unconfirmed-after-hours',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.unconfirmed-after-hours-info',
                 'type' => 'number',
+                'depends' => 'status:1',
                 'default' => 24,
                 'channel_based' => true,
             ], [
@@ -1188,6 +1225,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.max-reminders',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.max-reminders-info',
                 'type' => 'number',
+                'depends' => 'status:1',
                 'default' => 1,
                 'channel_based' => true,
             ], [
@@ -1195,6 +1233,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.questions',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.questions-info',
                 'type' => 'textarea',
+                'depends' => 'status:1',
                 'default' => "شنو هو الاسم الكامل ديالك؟\nمن أي مدينة نتا؟\nشنو هو العنوان الكامل ديالك؟\nشنو هو رقم التيليفون ديالك؟",
                 'channel_based' => true,
             ], [
@@ -1202,6 +1241,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.auto-create-order',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.auto-create-order-info',
                 'type' => 'boolean',
+                'depends' => 'status:1',
                 'default' => true,
                 'channel_based' => true,
             ], [
@@ -1209,6 +1249,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.auto-send-to-delivery',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.auto-send-to-delivery-info',
                 'type' => 'boolean',
+                'depends' => 'status:1',
                 'default' => true,
                 'channel_based' => true,
             ], [
@@ -1216,6 +1257,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.system-prompt',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.system-prompt-info',
                 'type' => 'textarea',
+                'depends' => 'status:1',
                 'default' => 'أنت مساعد Jemla En Ligne، متجر مغربي كيبيع بالدفع عند الاستلام. كتهضر بالدارجة المغربية وباحترام، وهدفك تأكيد الطلب وجمع المعلومات الناقصة.
 
 خطوات المحادثة:
@@ -1238,6 +1280,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.thank-you-message',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.thank-you-message-info',
                 'type' => 'textarea',
+                'depends' => 'status:1',
                 'default' => 'شكرا {name}، تم تأكيد الطلب ديالك رقم {order_id} ({total}). غادي نتواصلو معك قبل التوصيل إن شاء الله.',
                 'channel_based' => true,
             ], [
@@ -1245,6 +1288,7 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.automation.cancel-message',
                 'info' => 'admin::app.configuration.index.general.cod-system.automation.cancel-message-info',
                 'type' => 'textarea',
+                'depends' => 'status:1',
                 'default' => 'واخا {name}، تم إلغاء الطلب ديالك رقم {order_id}. إلا بغيتي شي حاجة أخرى، مرحبا بيك.',
                 'channel_based' => true,
             ],
@@ -1265,7 +1309,7 @@ return [
         'key' => 'general.cod_system.analytics',
         'name' => 'admin::app.configuration.index.general.cod-system.analytics.title',
         'info' => 'admin::app.configuration.index.general.cod-system.analytics.title-info',
-        'sort' => 5,
+        'sort' => 6,
         'fields' => [
             [
                 'name' => 'confirmer_commission_per_delivered_order',
@@ -1296,7 +1340,8 @@ return [
     ], [
 
         /**
-         * COD System — Souk (market sourcing).
+         * Souk (market sourcing) — its own top-level module, separate
+         * from the COD System.
          *
          * The panel is OFF by default: nothing is assigned to the
          * souk and no task is created until the owner switches it
@@ -1311,41 +1356,51 @@ return [
          * See app/Cod/Souk/SoukSettings.php for the same defaults as
          * code fallbacks.
          */
-        'key' => 'general.cod_system.souk',
-        'name' => 'admin::app.configuration.index.general.cod-system.souk.title',
-        'info' => 'admin::app.configuration.index.general.cod-system.souk.title-info',
-        'sort' => 6,
+        'key' => 'general.souk',
+        'name' => 'admin::app.configuration.index.general.souk.title',
+        'info' => 'admin::app.configuration.index.general.souk.info',
+        'icon' => 'settings/inventory.svg',
+        'sort' => 10,
+    ], [
+
+        /**
+         * Souk settings.
+         */
+        'key' => 'general.souk.settings',
+        'name' => 'admin::app.configuration.index.general.souk.settings.title',
+        'info' => 'admin::app.configuration.index.general.souk.settings.title-info',
+        'sort' => 1,
         'fields' => [
             [
                 'name' => 'status',
-                'title' => 'admin::app.configuration.index.general.cod-system.souk.status',
-                'info' => 'admin::app.configuration.index.general.cod-system.souk.status-info',
+                'title' => 'admin::app.configuration.index.general.souk.settings.status',
+                'info' => 'admin::app.configuration.index.general.souk.settings.status-info',
                 'type' => 'boolean',
                 'default' => false,
                 'channel_based' => true,
             ], [
                 'name' => 'claim_timeout_hours',
-                'title' => 'admin::app.configuration.index.general.cod-system.souk.claim-timeout-hours',
-                'info' => 'admin::app.configuration.index.general.cod-system.souk.claim-timeout-hours-info',
+                'title' => 'admin::app.configuration.index.general.souk.settings.claim-timeout-hours',
+                'info' => 'admin::app.configuration.index.general.souk.settings.claim-timeout-hours-info',
                 'type' => 'number',
                 'default' => 24,
                 'channel_based' => true,
             ], [
                 'name' => 'default_price_cap',
-                'title' => 'admin::app.configuration.index.general.cod-system.souk.default-price-cap',
-                'info' => 'admin::app.configuration.index.general.cod-system.souk.default-price-cap-info',
+                'title' => 'admin::app.configuration.index.general.souk.settings.default-price-cap',
+                'info' => 'admin::app.configuration.index.general.souk.settings.default-price-cap-info',
                 'type' => 'number',
                 'channel_based' => true,
             ], [
                 'name' => 'default_min_margin_percent',
-                'title' => 'admin::app.configuration.index.general.cod-system.souk.default-min-margin-percent',
-                'info' => 'admin::app.configuration.index.general.cod-system.souk.default-min-margin-percent-info',
+                'title' => 'admin::app.configuration.index.general.souk.settings.default-min-margin-percent',
+                'info' => 'admin::app.configuration.index.general.souk.settings.default-min-margin-percent-info',
                 'type' => 'number',
                 'channel_based' => true,
             ], [
                 'name' => 'payment_model',
-                'title' => 'admin::app.configuration.index.general.cod-system.souk.payment-model',
-                'info' => 'admin::app.configuration.index.general.cod-system.souk.payment-model-info',
+                'title' => 'admin::app.configuration.index.general.souk.settings.payment-model',
+                'info' => 'admin::app.configuration.index.general.souk.settings.payment-model-info',
                 'type' => 'select',
                 'default' => 'reimbursement',
                 'options' => [

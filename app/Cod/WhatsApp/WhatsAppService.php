@@ -48,7 +48,7 @@ use Illuminate\Support\Facades\Schema;
  *   sendReminder() once per order (reminder_sent_at).
  *
  * Message templates live in the admin
- * (general.cod_system.whatsapp.confirmation_message /
+ * (general.cod_system.whatsapp_messages.confirmation_message /
  * reminder_message) with placeholders {order_id} {name} {total}
  * {products} {store}. {store} is the application name from config
  * (APP_NAME, "Jemla En Ligne" locally) — NOT the Bagisto channel name,
@@ -81,6 +81,9 @@ use Illuminate\Support\Facades\Schema;
 class WhatsAppService implements WhatsAppServiceInterface
 {
     public const CONFIG_KEY = 'general.cod_system.whatsapp';
+
+    /** Message templates live in the separate WhatsApp Messages section. */
+    public const MESSAGES_CONFIG_KEY = 'general.cod_system.whatsapp_messages';
 
     public const PROVIDER_META = 'meta';
 
@@ -1108,14 +1111,14 @@ class WhatsAppService implements WhatsAppServiceInterface
 
     protected function confirmationTemplate(): string
     {
-        $template = core()->getConfigData(self::CONFIG_KEY.'.confirmation_message');
+        $template = core()->getConfigData(self::MESSAGES_CONFIG_KEY.'.confirmation_message');
 
         return $template ? (string) $template : 'السلام عليكم {name}، معك {store}. بغيت نأكد معك الطلب ديالك رقم {order_id}: {products} — المجموع {total}. واش نأكدو؟';
     }
 
     protected function reminderTemplate(): string
     {
-        $template = core()->getConfigData(self::CONFIG_KEY.'.reminder_message');
+        $template = core()->getConfigData(self::MESSAGES_CONFIG_KEY.'.reminder_message');
 
         return $template ? (string) $template : 'السلام عليكم {name}، ما زال الطلب ديالك رقم {order_id} ({total}) بلا تأكيد. واش نأكدو؟';
     }
@@ -1133,7 +1136,7 @@ class WhatsAppService implements WhatsAppServiceInterface
             'returned' => 'السلام عليكم {name}، معك {store}. الطلب ديالك رقم {order_id} ({total}) ترجع لينا. إلا بغيتي نعاودو نرسلوه ليك، تواصل معانا.',
         ];
 
-        $template = core()->getConfigData(self::CONFIG_KEY.'.'.$event.'_message');
+        $template = core()->getConfigData(self::MESSAGES_CONFIG_KEY.'.'.$event.'_message');
 
         return $template ? (string) $template : $defaults[$event];
     }
@@ -1146,7 +1149,7 @@ class WhatsAppService implements WhatsAppServiceInterface
      */
     protected function statusTemplateName(string $event): ?string
     {
-        $name = core()->getConfigData(self::CONFIG_KEY.'.meta_'.$event.'_template_name');
+        $name = core()->getConfigData(self::MESSAGES_CONFIG_KEY.'.meta_'.$event.'_template_name');
 
         return $name ? (string) $name : null;
     }

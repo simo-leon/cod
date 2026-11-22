@@ -3,8 +3,8 @@
 namespace App\Cod\Souk;
 
 /**
- * Souk (market sourcing) settings (COD System → Souk,
- * general.cod_system.souk).
+ * Souk (market sourcing) settings (Configuration → Souk,
+ * general.souk.settings).
  *
  * Every value has a default here AND in the admin (system.php): the
  * defaults below are the fallback when nothing was ever saved, so
@@ -23,7 +23,7 @@ namespace App\Cod\Souk;
  */
 class SoukSettings
 {
-    public const CONFIG_KEY = 'general.cod_system.souk';
+    public const CONFIG_KEY = 'general.souk.settings';
 
     public const DEFAULT_CLAIM_TIMEOUT_HOURS = 24;
 

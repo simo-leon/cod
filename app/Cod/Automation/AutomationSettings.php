@@ -20,8 +20,9 @@ namespace App\Cod\Automation;
  * The four collection questions and the full conversation prompt are
  * editable in the admin; the defaults below are the Darija texts from
  * the plan. The confirmation and reminder messages live in the
- * WhatsApp section (general.cod_system.whatsapp) and are NOT
- * duplicated here — only the thank-you and cancel messages are new.
+ * WhatsApp Messages section (general.cod_system.whatsapp_messages)
+ * and are NOT duplicated here — only the thank-you and cancel
+ * messages are new.
  */
 class AutomationSettings
 {
@@ -92,16 +93,16 @@ PROMPT;
     /**
      * Minutes to wait after the confirmation message (or after the
      * previous reminder) before sending the next reminder.
-     * Default 120. Falls back to the older WhatsApp-section value
-     * (general.cod_system.whatsapp.reminder_delay_minutes) when the
-     * automation value was never saved.
+     * Default 120. Falls back to the older WhatsApp Messages value
+     * (general.cod_system.whatsapp_messages.reminder_delay_minutes)
+     * when the automation value was never saved.
      */
     public function reminderDelayMinutes(): int
     {
         $minutes = core()->getConfigData(self::CONFIG_KEY.'.reminder_delay_minutes');
 
         if ($minutes === null || $minutes === '') {
-            $minutes = core()->getConfigData('general.cod_system.whatsapp.reminder_delay_minutes');
+            $minutes = core()->getConfigData('general.cod_system.whatsapp_messages.reminder_delay_minutes');
         }
 
         return max(1, (int) ($minutes ?? self::DEFAULT_REMINDER_DELAY_MINUTES));
