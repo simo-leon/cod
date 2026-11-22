@@ -1139,6 +1139,50 @@ return [
                 'channel_based' => true,
             ],
         ],
+    ], [
+
+        /**
+         * COD System — Analytics and profit (phase 7).
+         *
+         * The analytics page computes everything from real COD data;
+         * these four fields supply the only numbers that do not exist
+         * in the database: what a product costs, what a confirmer
+         * earns per delivered order, and what delivery costs per
+         * order. Leave a field empty and the figures that need it show
+         * as unavailable instead of guessing — an empty field means
+         * "not entered", not zero.
+         */
+        'key' => 'general.cod_system.analytics',
+        'name' => 'admin::app.configuration.index.general.cod-system.analytics.title',
+        'info' => 'admin::app.configuration.index.general.cod-system.analytics.title-info',
+        'sort' => 4,
+        'fields' => [
+            [
+                'name' => 'confirmer_commission_per_delivered_order',
+                'title' => 'admin::app.configuration.index.general.cod-system.analytics.confirmer-commission-per-delivered-order',
+                'info' => 'admin::app.configuration.index.general.cod-system.analytics.confirmer-commission-per-delivered-order-info',
+                'type' => 'number',
+                'channel_based' => true,
+            ], [
+                'name' => 'default_delivery_cost',
+                'title' => 'admin::app.configuration.index.general.cod-system.analytics.default-delivery-cost',
+                'info' => 'admin::app.configuration.index.general.cod-system.analytics.default-delivery-cost-info',
+                'type' => 'number',
+                'channel_based' => true,
+            ], [
+                'name' => 'default_product_cost',
+                'title' => 'admin::app.configuration.index.general.cod-system.analytics.default-product-cost',
+                'info' => 'admin::app.configuration.index.general.cod-system.analytics.default-product-cost-info',
+                'type' => 'number',
+                'channel_based' => true,
+            ], [
+                'name' => 'product_costs',
+                'title' => 'admin::app.configuration.index.general.cod-system.analytics.product-costs',
+                'info' => 'admin::app.configuration.index.general.cod-system.analytics.product-costs-info',
+                'type' => 'textarea',
+                'channel_based' => true,
+            ],
+        ],
     ],
 
     /**

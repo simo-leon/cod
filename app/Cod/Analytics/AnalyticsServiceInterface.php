@@ -10,7 +10,9 @@ use Webkul\User\Models\Admin;
  * Phase 1 only counts what already exists in the database: orders and
  * delivery parcels. Phase 3 adds one rate per confirmer: the
  * confirmation rate (confirmed / assigned) and the delivery rate
- * (delivered / confirmed).
+ * (delivered / confirmed). Phase 7 adds the full analytics page:
+ * every figure comes from real COD data or from admin settings, and
+ * anything without data is returned as null — never invented.
  */
 interface AnalyticsServiceInterface
 {
@@ -43,4 +45,45 @@ interface AnalyticsServiceInterface
      * The same rates for every confirmer, ordered by name.
      */
     public function confirmerRates(): array;
+
+    /**
+     * Commission (DH) paid to a confirmer per delivered order, from
+     * the COD System analytics settings — or null when it was never
+     * entered in the admin.
+     */
+    public function commissionPerDeliveredOrder(): ?float;
+
+    /**
+     * Default delivery cost (DH) per order sent to delivery, from the
+     * COD System analytics settings — or null when it was never
+     * entered in the admin.
+     */
+    public function defaultDeliveryCost(): ?float;
+
+    /**
+     * Default product cost (DH) per unit, from the COD System
+     * analytics settings — or null when it was never entered.
+     */
+    public function defaultProductCost(): ?float;
+
+    /**
+     * Per-SKU product costs (DH per unit) from the COD System
+     * analytics settings: ['SKU' => cost]. Empty when none entered.
+     */
+    public function productCosts(): array;
+
+    /**
+     * Cost (DH) of one unit of a SKU: the per-SKU cost when set,
+     * otherwise the default product cost, otherwise null.
+     */
+    public function productCost(string $sku): ?float;
+
+    /**
+     * Full analytics for the COD analytics page, filtered by
+     * ['from' => 'Y-m-d'|null, 'to' => 'Y-m-d'|null, 'city' => ?string,
+     * 'provider' => ?string, 'sku' => ?string]. Every figure comes
+     * from real COD data or from admin settings; a figure without data
+     * is null and the 'missing' lists say what must be entered.
+     */
+    public function analytics(array $filters): array;
 }

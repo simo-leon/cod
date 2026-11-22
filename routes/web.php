@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Admin\CodAnalyticsController;
 use App\Http\Controllers\Admin\CodAssignmentController;
 use App\Http\Controllers\Admin\CodCallLogController;
 use App\Http\Controllers\Admin\CodConfirmerController;
@@ -35,6 +36,13 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
      */
     Route::get('cod/orders', [CodOrderController::class, 'index'])
         ->name('admin.cod.orders.index');
+
+    /**
+     * COD System analytics (phase 7). Guarded by the `cod.analytics`
+     * ACL key.
+     */
+    Route::get('cod/analytics', [CodAnalyticsController::class, 'index'])
+        ->name('admin.cod.analytics.index');
 
     /**
      * COD System confirmation tasks (phase 3). Guarded by the

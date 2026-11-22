@@ -29,6 +29,12 @@
                 @lang('admin::app.cod.index.view-orders')
             </a>
 
+            @if ($canViewAnalytics)
+                <a href="{{ $analyticsUrl }}" class="secondary-button">
+                    @lang('admin::app.cod.index.view-analytics')
+                </a>
+            @endif
+
             <a href="{{ $settingsUrl }}" class="primary-button">
                 @lang('admin::app.cod.index.settings')
             </a>

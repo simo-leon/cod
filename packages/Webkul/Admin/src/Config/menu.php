@@ -425,6 +425,12 @@ return [
         'sort' => 2,
         'icon' => '',
     ], [
+        'key' => 'cod.analytics',
+        'name' => 'admin::app.components.layouts.sidebar.cod-analytics',
+        'route' => 'admin.cod.analytics.index',
+        'sort' => 4,
+        'icon' => '',
+    ], [
         'key' => 'cod.assignment',
         'name' => 'admin::app.components.layouts.sidebar.cod-assignment',
         'route' => 'admin.cod.assignment.index',
