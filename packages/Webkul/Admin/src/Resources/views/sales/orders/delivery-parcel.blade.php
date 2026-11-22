@@ -81,8 +81,8 @@
 
                     <button type="submit" class="primary-button px-3 py-1.5 text-sm">
                         {{ $deliveryParcel && $deliveryParcel->status === 'sent'
-                            ? trans('admin::app.sales.orders.view.delivery.resend')
-                            : trans('admin::app.sales.orders.view.delivery.send') }}
+                            ? trans('admin::app.sales.orders.view.delivery.resend', ['provider' => $deliveryProvider?->getLabel()])
+                            : trans('admin::app.sales.orders.view.delivery.send', ['provider' => $deliveryProvider?->getLabel()]) }}
                     </button>
                 </form>
             @endif

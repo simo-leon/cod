@@ -27,6 +27,8 @@ class DeliveryProviderManager
      */
     protected array $providers = [
         'vitis_express' => VitisExpressProvider::class,
+        'sendit' => SenditProvider::class,
+        'speedaf_express' => SpeedafExpressProvider::class,
     ];
 
     public function defaultProviderName(): string
@@ -73,16 +75,21 @@ class DeliveryProviderManager
         $address = $order->billing_address ?: $order->shipping_address;
 
         return [
-            'fullname'    => trim(($address->first_name ?? '').' '.($address->last_name ?? '')) ?: $order->customer_full_name,
-            'phone'       => (string) ($address->phone ?? ''),
-            'city'        => (string) ($address->city ?? ''),
-            'address'     => trim(($address->address1 ?? '').' '.($address->address2 ?? '')),
-            'price'       => (float) $order->grand_total,
-            'products'    => $order->items->map(fn ($item) => [
+            'fullname' => trim(($address->first_name ?? '').' '.($address->last_name ?? '')) ?: $order->customer_full_name,
+            'phone' => (string) ($address->phone ?? ''),
+            'city' => (string) ($address->city ?? ''),
+            'state' => (string) ($address->state ?? ''),
+            'country' => strtoupper((string) ($address->country ?? 'MA')) ?: 'MA',
+            'address' => trim(($address->address1 ?? '').' '.($address->address2 ?? '')),
+            'price' => (float) $order->grand_total,
+            'products' => $order->items->map(fn ($item) => [
                 'name' => (string) $item->name,
-                'qty'  => (int) $item->qty_ordered,
+                'qty' => (int) $item->qty_ordered,
+                'sku' => (string) ($item->sku ?? ''),
+                'price' => (float) ($item->price ?? 0),
+                'total' => (float) ($item->total ?? ((float) ($item->price ?? 0) * (int) $item->qty_ordered)),
             ])->values()->all(),
-            'note'        => 'Order #'.$order->increment_id,
+            'note' => 'Order #'.$order->increment_id,
             'internal_id' => (string) $order->increment_id,
         ];
     }
@@ -120,31 +127,31 @@ class DeliveryProviderManager
             $result = $provider->createParcel($data);
 
             return DeliveryParcel::create([
-                'order_id'      => $order->id,
-                'provider'      => $provider->getName(),
-                'parcel_code'   => $result->parcelCode,
-                'status'        => $result->success ? 'sent' : 'failed',
-                'last_status'   => $result->success ? ($result->status ?? 'sent') : null,
+                'order_id' => $order->id,
+                'provider' => $provider->getName(),
+                'parcel_code' => $result->parcelCode,
+                'status' => $result->success ? 'sent' : 'failed',
+                'last_status' => $result->success ? ($result->status ?? 'sent') : null,
                 'error_message' => $result->success ? null : $result->error,
-                'payload'       => array_merge($data, ['used_form_encoding' => $result->usedFormEncoding]),
-                'response'      => $result->raw,
-                'sent_at'       => $result->success ? now() : null,
+                'payload' => array_merge($data, ['used_form_encoding' => $result->usedFormEncoding]),
+                'response' => $result->raw,
+                'sent_at' => $result->success ? now() : null,
             ]);
         } catch (\Throwable $e) {
             Log::warning('Delivery: failed to send order to provider', [
                 'order_id' => $order->id ?? null,
-                'error'    => $e->getMessage(),
+                'error' => $e->getMessage(),
             ]);
 
             try {
                 return DeliveryParcel::create([
-                    'order_id'      => $order->id,
-                    'provider'      => $this->defaultProviderName(),
-                    'parcel_code'   => null,
-                    'status'        => 'failed',
+                    'order_id' => $order->id,
+                    'provider' => $this->defaultProviderName(),
+                    'parcel_code' => null,
+                    'status' => 'failed',
                     'error_message' => $e->getMessage(),
-                    'payload'       => $data ?? [],
-                    'response'      => [],
+                    'payload' => $data ?? [],
+                    'response' => [],
                 ]);
             } catch (\Throwable) {
                 return null;

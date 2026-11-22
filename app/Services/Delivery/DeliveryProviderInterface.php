@@ -17,9 +17,13 @@ namespace App\Services\Delivery;
  *   'fullname'    => (string) recipient full name,
  *   'phone'       => (string) recipient phone,
  *   'city'        => (string) recipient city (name as stored on the order),
+ *   'state'       => (string) recipient state / province (may be empty),
+ *   'country'     => (string) recipient country code, e.g. 'MA',
  *   'address'     => (string) recipient street address,
  *   'price'       => (float)  cash-on-delivery amount to collect,
- *   'products'    => [['name' => (string), 'qty' => (int)], ...],
+ *   'products'    => [['name' => (string), 'qty' => (int),
+ *                      'sku' => (string), 'price' => (float) unit price,
+ *                      'total' => (float) line total], ...],
  *   'note'        => (string) free note for the carrier,
  *   'internal_id' => (string) our order reference (increment id),
  * ]
@@ -60,15 +64,11 @@ interface DeliveryProviderInterface
 
     /**
      * List the provider's parcel states.
-     *
-     * @return array
      */
     public function listStatuses(): array;
 
     /**
      * List the provider's served cities.
-     *
-     * @return array
      */
     public function listCities(): array;
 

@@ -3,7 +3,6 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
-use App\Models\DeliveryParcel;
 use App\Services\Delivery\DeliveryProviderManager;
 use Illuminate\Http\RedirectResponse;
 use Webkul\Sales\Models\Order;
@@ -29,8 +28,8 @@ class DeliveryProviderController extends Controller
         session()->flash(
             $result['success'] ? 'success' : 'error',
             $result['success']
-                ? trans('admin::app.sales.orders.view.delivery.test-success')
-                : trans('admin::app.sales.orders.view.delivery.test-failed', ['message' => $result['message']])
+                ? trans('admin::app.sales.orders.view.delivery.test-success', ['provider' => $provider->getLabel()])
+                : trans('admin::app.sales.orders.view.delivery.test-failed', ['provider' => $provider->getLabel(), 'message' => $result['message']])
         );
 
         return redirect()->back();
@@ -60,11 +59,11 @@ class DeliveryProviderController extends Controller
         $parcel = $manager->sendOrder($order, true);
 
         if ($parcel && $parcel->status === 'sent') {
-            session()->flash('success', trans('admin::app.sales.orders.view.delivery.send-success'));
+            session()->flash('success', trans('admin::app.sales.orders.view.delivery.send-success', ['provider' => $manager->defaultProvider()?->getLabel()]));
         } else {
             session()->flash(
                 'error',
-                trans('admin::app.sales.orders.view.delivery.send-failed')
+                trans('admin::app.sales.orders.view.delivery.send-failed', ['provider' => $manager->defaultProvider()?->getLabel()])
                 .($parcel?->error_message ? ' '.$parcel->error_message : '')
             );
         }
