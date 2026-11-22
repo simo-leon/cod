@@ -104,6 +104,15 @@ class AppServiceProvider extends ServiceProvider
         Event::listen('catalog.product.update.after', [AssignZeroStockToSouk::class, 'handleProductUpdate']);
         Event::listen('checkout.order.save.after', [AssignZeroStockToSouk::class, 'handleOrder']);
 
+        // Souk (market sourcing): a COD order reaches the souk panel
+        // only once it is confirmed — on creation (an
+        // already-confirmed store order imported for the first time)
+        // and on the status transition (confirmed by call, by
+        // WhatsApp, or by a store status sync). An unconfirmed order
+        // creates no task at checkout (see handleOrder above).
+        Event::listen('eloquent.created: App\Models\CodOrder', [AssignZeroStockToSouk::class, 'handleCodOrderConfirmed']);
+        Event::listen('eloquent.updated: App\Models\CodOrder', [AssignZeroStockToSouk::class, 'handleCodOrderConfirmed']);
+
         // Souk sourcing card on the admin product edit page (after
         // the product form): current stock, effective mode, and the
         // mode / cap / margin form.
