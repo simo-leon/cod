@@ -57,7 +57,7 @@
     <!-- Percentage and product rules, side by side -->
     <div class="mt-8 grid gap-4 lg:grid-cols-2">
         <!-- Percentage rules -->
-        <div class="rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
+        <div class="min-w-0 rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
             <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
                 @lang('admin::app.cod.assignment.percentage-rules')
             </p>
@@ -72,7 +72,7 @@
                 </p>
             @else
                 <div class="overflow-x-auto">
-                    <table class="mt-2 w-full min-w-[400px] text-start text-sm">
+                    <table class="mt-2 w-full text-start text-sm">
                         <thead>
                             <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
                                 <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.assignment.confirmer')</th>
@@ -139,7 +139,7 @@
         </div>
 
         <!-- Product rules -->
-        <div class="rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
+        <div class="min-w-0 rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
             <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
                 @lang('admin::app.cod.assignment.product-rules')
             </p>
@@ -154,7 +154,7 @@
                 </p>
             @else
                 <div class="overflow-x-auto">
-                    <table class="mt-2 w-full min-w-[400px] text-start text-sm">
+                    <table class="mt-2 w-full text-start text-sm">
                         <thead>
                             <tr class="border-b border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-300">
                                 <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.assignment.confirmer')</th>
