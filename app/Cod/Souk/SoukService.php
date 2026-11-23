@@ -263,7 +263,12 @@ class SoukService implements SoukServiceInterface
     /**
      * Scan every product whose stock is zero (or missing) and make
      * sure it has a live task when its sourcing mode sends it to the
-     * souk. Returns ['checked' => n, 'created' => n].
+     * souk — but only when a confirmed COD order still needs that
+     * product. A product with no confirmed order never gets a task
+     * from this scan: an unconfirmed order must never reach the
+     * panel, and neither may a product that simply ran out of stock
+     * with nobody waiting for it. Returns
+     * ['checked' => n, 'created' => n].
      */
     public function checkZeroStock(): array
     {
@@ -287,14 +292,63 @@ class SoukService implements SoukServiceInterface
                 continue;
             }
 
+            // The confirmation gate: the oldest confirmed COD order
+            // that still needs this product, if any. No confirmed
+            // order, no task — this scan is a safety net for orders
+            // the confirmation listener missed, not a way to source
+            // products nobody ordered.
+            $needing = $this->confirmedOrderNeedingSouk((int) $productId);
+
+            if ($needing === null) {
+                continue;
+            }
+
+            [$codOrderId, $qty] = $needing;
+
             $hadOpenTask = $this->openTaskForProduct((int) $productId) !== null;
 
-            if ($this->ensureTaskForProduct($product) && ! $hadOpenTask) {
+            if ($this->ensureTaskForProduct($product, $codOrderId, $qty) && ! $hadOpenTask) {
                 $created++;
             }
         }
 
         return ['checked' => $checked, 'created' => $created];
+    }
+
+    /**
+     * The oldest confirmed COD order that still needs one product
+     * from the souk: its status is confirmed, its store order
+     * contains the product, and no task for that order and product
+     * has already brought the goods in (paid). Returns
+     * [cod_order_id, qty] or null when no confirmed order needs it.
+     *
+     * An order whose task was rejected, expired or cancelled is not
+     * excluded: rejection and expiry recreate a fresh task
+     * themselves, and a cancelled task leaves the order still
+     * waiting for its goods — so the scan recreates it here.
+     */
+    protected function confirmedOrderNeedingSouk(int $productId): ?array
+    {
+        $row = DB::table('cod_orders as c')
+            ->join('order_items as oi', 'oi.order_id', '=', 'c.order_id')
+            ->where('c.status', CodOrder::STATUS_CONFIRMED)
+            ->where('oi.product_id', $productId)
+            ->whereNotExists(function ($query) use ($productId) {
+                $query->select(DB::raw(1))
+                    ->from('souk_tasks as st')
+                    ->whereColumn('st.cod_order_id', 'c.id')
+                    ->where('st.product_id', $productId)
+                    ->where('st.status', SoukTask::STATUS_PAID);
+            })
+            ->orderBy('c.id')
+            ->select('c.id as cod_order_id', 'oi.qty_ordered')
+            ->first();
+
+        if (! $row) {
+            return null;
+        }
+
+        return [(int) $row->cod_order_id, max(1, (int) ($row->qty_ordered ?? 1))];
     }
 
     /**
