@@ -261,6 +261,28 @@ class SoukService implements SoukServiceInterface
     }
 
     /**
+     * Make sure a product that has to come from the souk has a live
+     * task — but only when a confirmed COD order still needs it.
+     * Returns the task, or null when no confirmed order needs the
+     * product. This is the shared confirmation gate for the
+     * automatic paths (the product-update listener and the
+     * 30-minute scan): neither may create a task for a product
+     * nobody ordered.
+     */
+    public function ensureTaskForConfirmedOrder(Product $product): ?SoukTask
+    {
+        $needing = $this->confirmedOrderNeedingSouk((int) $product->id);
+
+        if ($needing === null) {
+            return null;
+        }
+
+        [$codOrderId, $qty] = $needing;
+
+        return $this->ensureTaskForProduct($product, $codOrderId, $qty);
+    }
+
+    /**
      * Scan every product whose stock is zero (or missing) and make
      * sure it has a live task when its sourcing mode sends it to the
      * souk — but only when a confirmed COD order still needs that
@@ -292,22 +314,9 @@ class SoukService implements SoukServiceInterface
                 continue;
             }
 
-            // The confirmation gate: the oldest confirmed COD order
-            // that still needs this product, if any. No confirmed
-            // order, no task — this scan is a safety net for orders
-            // the confirmation listener missed, not a way to source
-            // products nobody ordered.
-            $needing = $this->confirmedOrderNeedingSouk((int) $productId);
-
-            if ($needing === null) {
-                continue;
-            }
-
-            [$codOrderId, $qty] = $needing;
-
             $hadOpenTask = $this->openTaskForProduct((int) $productId) !== null;
 
-            if ($this->ensureTaskForProduct($product, $codOrderId, $qty) && ! $hadOpenTask) {
+            if ($this->ensureTaskForConfirmedOrder($product) && ! $hadOpenTask) {
                 $created++;
             }
         }

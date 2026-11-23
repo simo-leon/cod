@@ -29,11 +29,14 @@ class AssignZeroStockToSouk
 {
     /**
      * A product was updated in the admin: it may have just hit zero.
+     * Only a confirmed COD order waiting for this product creates a
+     * task — an admin stock edit alone never sends a product to the
+     * panel, exactly like the 30-minute scan.
      */
     public function handleProductUpdate(Product $product): void
     {
         try {
-            app(SoukServiceInterface::class)->ensureTaskForProduct($product);
+            app(SoukServiceInterface::class)->ensureTaskForConfirmedOrder($product);
         } catch (\Throwable $e) {
             Log::warning('Souk: product-update listener failed', [
                 'product_id' => $product->id ?? null,

@@ -31,6 +31,19 @@ interface SoukServiceInterface
 
     public function ensureTaskForProduct(Product $product, ?int $codOrderId = null, int $qty = 1): ?SoukTask;
 
+    /**
+     * Make sure a product that has to come from the souk has a live
+     * task — but only when a confirmed COD order still needs it.
+     * Returns the task, or null when no confirmed order needs the
+     * product. This is the shared confirmation gate for the
+     * automatic paths (the product-update listener and the
+     * 30-minute scan): neither may create a task for a product
+     * nobody ordered. The manual admin actions (switching a product
+     * to "souk" mode, confirming an order) call
+     * ensureTaskForProduct() directly and are not gated here.
+     */
+    public function ensureTaskForConfirmedOrder(Product $product): ?SoukTask;
+
     public function checkZeroStock(): array;
 
     public function claim(SoukTask $task, Admin $buyer): bool;
