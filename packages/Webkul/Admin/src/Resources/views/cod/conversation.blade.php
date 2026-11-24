@@ -32,6 +32,14 @@
                         @lang('admin::app.cod.conversations.handoff')
                     </button>
                 </form>
+            @else
+                <form method="POST" action="{{ route('admin.cod.conversations.resume-ai', $conversation) }}">
+                    @csrf
+
+                    <button type="submit" class="whitespace-nowrap rounded-lg bg-teal-600 px-3 py-2 text-xs font-semibold text-white hover:bg-teal-700">
+                        @lang('admin::app.cod.conversations.resume-ai')
+                    </button>
+                </form>
             @endif
 
             <a href="{{ $indexUrl }}" class="secondary-button">
@@ -136,6 +144,10 @@
                         </div>
                     </div>
                 @endforeach
+            </div>
+
+            <div class="mt-3">
+                {{ $messages->links() }}
             </div>
         @endif
     </div>

@@ -39,6 +39,18 @@
         </div>
     @endif
 
+    @if ($escalatedCount > 0)
+        <div class="mt-6 rounded-lg border border-rose-200 bg-rose-50 p-4 text-sm font-semibold text-rose-800 dark:border-rose-900 dark:bg-rose-900/30 dark:text-rose-200">
+            @lang('admin::app.cod.souk.escalated-banner', ['count' => $escalatedCount])
+        </div>
+    @endif
+
+    @if ($uncoveredOrdersCount > 0)
+        <div class="mt-6 rounded-lg border border-amber-200 bg-amber-50 p-4 text-sm font-semibold text-amber-800 dark:border-amber-900 dark:bg-amber-900/30 dark:text-amber-200">
+            @lang('admin::app.cod.souk.uncovered-banner', ['count' => $uncoveredOrdersCount])
+        </div>
+    @endif
+
     <!-- Figures -->
     <div class="mt-6 grid grid-cols-2 gap-3 lg:grid-cols-4">
         <x-admin::cod.stat-card
@@ -146,7 +158,7 @@
                                 </td>
 
                                 <td class="px-2 py-3 tabular-nums text-gray-800 dark:text-white">
-                                    @if ($task->purchase_price !== null)
+                                    @if ($task->purchase_price !== null && ($isManager || $task->buyer_id === auth()->guard('admin')->id()))
                                         <span class="whitespace-nowrap">{{ number_format((float) $task->purchase_price, 2) }} DH</span>
 
                                         @if ($task->over_cap)
@@ -160,6 +172,8 @@
                                                 @lang('admin::app.cod.souk.below-margin')
                                             </span>
                                         @endif
+                                    @elseif ($task->purchase_price !== null)
+                                        <span class="text-gray-500 dark:text-gray-400">@lang('admin::app.cod.souk.purchase-price-hidden')</span>
                                     @else
                                         —
                                     @endif
@@ -167,6 +181,12 @@
 
                                 <td class="whitespace-nowrap px-2 py-3 tabular-nums text-gray-600 dark:text-gray-300">
                                     {{ $task->deadline_at?->format('Y-m-d H:i') ?? '—' }}
+
+                                    @if ($task->deadline_at && in_array($task->status, ['assigned', 'claimed'], true))
+                                        <span class="mt-1 block text-xs font-semibold {{ $task->deadline_at->diffInHours(now()) < 2 ? 'text-rose-600 dark:text-rose-400' : 'text-gray-500 dark:text-gray-400' }}">
+                                            {{ $task->deadline_at->diffForHumans() }}
+                                        </span>
+                                    @endif
                                 </td>
 
                                 <td class="px-2 py-3">
@@ -227,6 +247,13 @@
                                                     placeholder="@lang('admin::app.cod.souk.verify-reason-placeholder')"
                                                     class="w-full rounded-lg border border-gray-200 bg-white px-2 py-1.5 text-xs text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white"
                                                 >
+
+                                                @if ($task->over_cap || $task->below_margin)
+                                                    <label class="flex items-start gap-1.5 text-xs leading-relaxed text-gray-700 dark:text-gray-300">
+                                                        <input type="checkbox" name="confirm_override" value="1" class="mt-0.5 shrink-0">
+                                                        @lang('admin::app.cod.souk.confirm-override')
+                                                    </label>
+                                                @endif
 
                                                 <div class="flex gap-1.5">
                                                     <button type="submit" name="approve" value="1" class="flex-1 whitespace-nowrap rounded-lg bg-teal-600 px-2.5 py-1.5 text-xs font-semibold text-white hover:bg-teal-700">

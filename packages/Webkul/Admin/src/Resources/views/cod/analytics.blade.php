@@ -299,6 +299,7 @@
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.product-rank')</th>
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.product')</th>
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.orders')</th>
+                            <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.canceled')</th>
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.confirmation-rate')</th>
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.delivery-rate')</th>
                             <th class="whitespace-nowrap p-4 text-start font-semibold">@lang('admin::app.cod.analytics.unit-price')</th>
@@ -319,6 +320,7 @@
                                     @endif
                                 </td>
                                 <td class="p-4 font-semibold tabular-nums text-gray-800 dark:text-white">{{ $row['orders'] }}</td>
+                                <td class="p-4 tabular-nums text-gray-800 dark:text-white">{{ $row['canceled'] ?? 0 }}</td>
                                 <td class="whitespace-nowrap p-4 font-semibold tabular-nums text-gray-800 dark:text-white">{{ is_null($row['confirmation_rate']) ? '—' : $row['confirmation_rate'].'%' }}</td>
                                 <td class="whitespace-nowrap p-4 font-semibold tabular-nums text-gray-800 dark:text-white">{{ is_null($row['delivery_rate']) ? '—' : $row['delivery_rate'].'%' }}</td>
                                 <td class="whitespace-nowrap p-4 tabular-nums text-gray-800 dark:text-white">{{ is_null($row['unit_price']) ? trans('admin::app.cod.analytics.not-available') : number_format($row['unit_price'], 2).' '.$currency }}</td>

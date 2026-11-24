@@ -66,6 +66,12 @@
                 @lang('admin::app.cod.assignment.percentage-rules-info')
             </p>
 
+            @if (! $percentageRules->isEmpty() && $weightsTotal !== 100)
+                <p class="mx-4 mt-3 rounded-lg border border-amber-200 bg-amber-50 p-3 text-sm font-semibold text-amber-800 dark:border-amber-900 dark:bg-amber-900/30 dark:text-amber-200">
+                    @lang('admin::app.cod.assignment.weights-warning', ['total' => $weightsTotal])
+                </p>
+            @endif
+
             @if ($percentageRules->isEmpty())
                 <p class="p-4 text-sm text-gray-600 dark:text-gray-300">
                     @lang('admin::app.cod.assignment.no-percentage-rules')

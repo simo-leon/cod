@@ -58,6 +58,16 @@
                 @lang('admin::app.cod.order-show.view-store-order')
             </a>
         @endif
+
+        @if ($canLogCall && $codOrder->status === 'pending_confirmation')
+            <form method="POST" action="{{ route('admin.cod.orders.resend-confirmation', $codOrder) }}">
+                @csrf
+
+                <button type="submit" class="secondary-button">
+                    @lang('admin::app.cod.order-show.resend-confirmation')
+                </button>
+            </form>
+        @endif
     </div>
 
     <div class="mt-4 grid gap-4 md:grid-cols-2">
@@ -182,6 +192,41 @@
             </table>
         @endif
     </div>
+
+    @if ($canViewSouk && $soukTasks->isNotEmpty())
+    <!-- Souk sourcing for this order -->
+    <div class="mt-4 rounded-lg border border-gray-200 bg-white p-4 dark:border-gray-800 dark:bg-gray-900">
+        <p class="text-base font-semibold text-gray-800 dark:text-white">
+            @lang('admin::app.cod.order-show.souk-title')
+        </p>
+
+        <div class="mt-3 grid gap-2">
+            @foreach ($soukTasks as $soukTask)
+                <div class="flex flex-wrap items-center justify-between gap-2 rounded-lg border border-gray-200 p-3 text-sm dark:border-gray-800">
+                    <div class="grid gap-0.5">
+                        <span class="font-semibold text-gray-800 dark:text-white">
+                            {{ $soukTask->product?->name ?? $soukTask->product?->sku ?? '—' }}
+                            · @lang('admin::app.cod.souk.qty'): {{ $soukTask->qty }}
+                        </span>
+
+                        <span class="text-xs text-gray-500 dark:text-gray-400">
+                            @lang('admin::app.cod.souk.order-card.buyer', ['buyer' => $soukTask->buyer?->name ?? trans('admin::app.cod.souk.order-card.no-buyer')])
+                            @if ($soukTask->purchase_price !== null)
+                                · @lang('admin::app.cod.souk.order-card.purchase-price', ['price' => number_format((float) $soukTask->purchase_price, 2)])
+                            @endif
+                        </span>
+                    </div>
+
+                    <x-admin::cod.status-badge :status="$soukTask->status" :label="trans('admin::app.cod.souk.statuses.'.$soukTask->status)" />
+                </div>
+            @endforeach
+        </div>
+
+        <a href="{{ $soukUrl }}" class="mt-3 inline-block text-sm font-semibold text-blue-600 hover:underline dark:text-blue-400">
+            @lang('admin::app.cod.souk.order-card.view-board')
+        </a>
+    </div>
+    @endif
 
     <!-- Call history -->
     <div class="mt-4 rounded-lg border border-gray-200 bg-white p-4 dark:border-gray-800 dark:bg-gray-900">

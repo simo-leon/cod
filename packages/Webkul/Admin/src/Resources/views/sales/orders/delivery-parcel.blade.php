@@ -101,6 +101,20 @@
                     @if ($deliveryParcel && $deliveryParcel->parcel_code)
                         <form
                             method="POST"
+                            action="{{ route('admin.delivery-providers.test-connection') }}"
+                        >
+                            @csrf
+
+                            <button
+                                type="submit"
+                                class="whitespace-nowrap rounded-lg border border-gray-200 bg-white px-2.5 py-1.5 text-xs font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-200 dark:hover:bg-gray-800"
+                            >
+                                @lang('admin::app.sales.orders.view.delivery.test-connection')
+                            </button>
+                        </form>
+
+                        <form
+                            method="POST"
                             action="{{ route('admin.sales.orders.refresh-delivery-tracking', $order->id) }}"
                         >
                             @csrf

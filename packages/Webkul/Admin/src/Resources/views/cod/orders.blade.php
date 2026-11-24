@@ -31,6 +31,14 @@
         </div>
     </div>
 
+    @if (($statusCounts['whatsapp_unconfirmed'] ?? 0) > 0 && $status !== 'whatsapp_unconfirmed')
+        <div class="mt-6 rounded-lg border border-amber-200 bg-amber-50 p-4 text-sm dark:border-amber-900 dark:bg-amber-900/30">
+            <a href="{{ route('admin.cod.orders.index', ['status' => 'whatsapp_unconfirmed']) }}" class="font-semibold text-amber-800 hover:underline dark:text-amber-200">
+                @lang('admin::app.cod.orders.whatsapp-worklist', ['count' => $statusCounts['whatsapp_unconfirmed']])
+            </a>
+        </div>
+    @endif
+
     <!-- Filter by COD status -->
     <div class="mt-8 flex flex-wrap gap-2">
         <a

@@ -47,6 +47,19 @@
         </div>
     </div>
 
+    @if ($webhookUnprotected)
+        <div class="mt-6 rounded-lg border border-rose-200 bg-rose-50 p-4 text-sm font-semibold text-rose-800 dark:border-rose-900 dark:bg-rose-900/30 dark:text-rose-200">
+            @lang('admin::app.cod.index.webhook-unprotected')
+        </div>
+    @endif
+
+    @if ($whatsappNoProvider)
+        <div class="mt-6 rounded-lg border border-amber-200 bg-amber-50 p-4 text-sm font-semibold text-amber-800 dark:border-amber-900 dark:bg-amber-900/30 dark:text-amber-200">
+            @lang('admin::app.cod.index.whatsapp-no-provider')
+        </div>
+    @endif
+
+    @if (! $staffOnly)
     <!-- Real figures from the database -->
     <div class="mt-8 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-4">
         <x-admin::cod.stat-card :label="__('admin::app.cod.index.orders')" :value="$ordersCount" />
@@ -67,6 +80,11 @@
             @endif
         </div>
     </div>
+    @else
+    <div class="mt-8 rounded-lg border border-gray-200 bg-gray-50 p-4 text-sm text-gray-600 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300">
+        @lang('admin::app.cod.index.staff-only-note')
+    </div>
+    @endif
 
     <!-- Module status and current settings, side by side -->
     <div class="mt-8 grid gap-4 lg:grid-cols-2">
@@ -141,6 +159,7 @@
         </div>
     </div>
 
+    @unless ($staffOnly)
     <!-- Confirmer rates (phase 3) -->
     <div class="mt-8 rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
         <p class="border-b border-gray-200 p-4 text-base font-semibold text-gray-800 dark:border-gray-800 dark:text-white">
@@ -189,4 +208,5 @@
             </div>
         @endif
     </div>
+    @endunless
 </x-admin::layouts>

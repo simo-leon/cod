@@ -36,7 +36,12 @@
     </div>
 
     @if ($canEditSourcing)
-        <form method="POST" action="{{ route('admin.cod.souk.sourcing.update', $product) }}" class="mt-4 grid gap-3">
+        <form
+            method="POST"
+            action="{{ route('admin.cod.souk.sourcing.update', $product) }}"
+            class="mt-4 grid gap-3"
+            onsubmit="return this.mode.value !== 'souk' || confirm(@js(trans('admin::app.cod.souk.product-card.souk-confirm')))"
+        >
             @csrf
 
             <div class="grid gap-1.5">

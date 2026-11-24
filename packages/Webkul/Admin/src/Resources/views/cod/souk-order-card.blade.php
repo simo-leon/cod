@@ -14,6 +14,12 @@
         @lang('admin::app.cod.souk.order-card.subtitle')
     </p>
 
+    @if ($fallback ?? false)
+        <p class="mt-2 rounded-lg border border-amber-200 bg-amber-50 p-2 text-xs font-semibold text-amber-800 dark:border-amber-900 dark:bg-amber-900/30 dark:text-amber-200">
+            @lang('admin::app.cod.souk.order-card.fallback-note')
+        </p>
+    @endif
+
     <div class="mt-3 grid gap-2">
         @foreach ($tasks as $task)
             <div class="flex flex-wrap items-center justify-between gap-2 rounded-lg border border-gray-200 p-3 text-sm dark:border-gray-800">

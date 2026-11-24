@@ -60,6 +60,34 @@
         @endforeach
     </div>
 
+    <!-- Search by phone and filter by linked order outcome -->
+    <form method="GET" action="{{ route('admin.cod.conversations.index') }}" class="mt-4 flex flex-wrap items-center gap-2">
+        <input type="hidden" name="state" value="{{ $state }}">
+
+        <input
+            type="text"
+            name="q"
+            value="{{ $phoneQuery }}"
+            placeholder="@lang('admin::app.cod.conversations.search-placeholder')"
+            class="w-full max-w-xs rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white"
+        >
+
+        <select
+            name="order_status"
+            class="rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white"
+        >
+            <option value="">{{ trans('admin::app.cod.conversations.all-outcomes') }}</option>
+
+            @foreach ($orderStatuses as $orderStatusOption)
+                <option value="{{ $orderStatusOption }}" @selected($orderStatus === $orderStatusOption)>
+                    @lang('admin::app.cod.orders.statuses.'.$orderStatusOption)
+                </option>
+            @endforeach
+        </select>
+
+        <button type="submit" class="primary-button">@lang('admin::app.cod.my-tasks.filter')</button>
+    </form>
+
     <!-- Conversations -->
     <div class="mt-4 overflow-x-auto rounded-lg border border-gray-200 bg-white dark:border-gray-800 dark:bg-gray-900">
         @if ($conversations->isEmpty())

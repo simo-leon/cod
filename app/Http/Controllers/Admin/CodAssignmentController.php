@@ -32,6 +32,7 @@ class CodAssignmentController extends Controller
         return view('admin::cod.assignment')->with([
             'confirmers' => $this->assignment->confirmers(),
             'percentageRules' => $percentageRules,
+            'weightsTotal' => $percentageRules->sum('weight'),
             'productRules' => $this->assignment->productRules(),
             'unassignedCount' => $this->assignment->unassignedCount(),
             'dailyLimit' => $this->confirmation->confirmerDailyLimit(),
