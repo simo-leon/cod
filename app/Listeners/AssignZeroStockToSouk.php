@@ -94,10 +94,11 @@ class AssignZeroStockToSouk
      * store order imported for the first time) and on the updated
      * event (a pending order confirmed by call, by WhatsApp, or by a
      * store status sync) — but only on the transition into confirmed,
-     * never on later updates of an already-confirmed order. Orders
-     * without a linked store order (WhatsApp product inquiries) have
-     * no items to check. Never throws: a failure here must not break
-     * the confirmation itself.
+     * never on later updates of an already-confirmed order.
+     * WhatsApp/API orders have no linked store order: their items
+     * come from the payload (N2 — they used to return early here
+     * and wait up to 30 minutes for the scan). Never throws: a
+     * failure here must not break the confirmation itself.
      */
     public function handleCodOrderConfirmed(CodOrder $codOrder): void
     {
@@ -115,28 +116,10 @@ class AssignZeroStockToSouk
                 return;
             }
 
-            $order = $codOrder->order_id
-                ? Order::query()->find($codOrder->order_id)
-                : null;
-
-            if (! $order) {
-                return;
-            }
-
             $souk = app(SoukServiceInterface::class);
 
-            foreach ($order->items as $item) {
-                if (! $item->product_id) {
-                    continue;
-                }
-
-                $product = Product::query()->find($item->product_id);
-
-                if (! $product) {
-                    continue;
-                }
-
-                $souk->ensureTaskForProduct($product, $codOrder->id, (int) ($item->qty_ordered ?? 1));
+            foreach ($souk->itemsForCodOrder($codOrder) as $item) {
+                $souk->ensureTaskForProduct($item['product'], $codOrder->id, (int) $item['qty']);
             }
         } catch (\Throwable $e) {
             Log::warning('Souk: confirmed-order listener failed', [

@@ -192,6 +192,61 @@ class SoukService implements SoukServiceInterface
     }
 
     /**
+     * The products a COD order needs from the souk, as
+     * [['product' => Product, 'qty' => int], ...] — from the linked
+     * store order's items when there is one, otherwise from the
+     * payload items (WhatsApp/API orders have no store order; their
+     * items live in payload.items, matched by SKU — the same source
+     * the 30-minute scan already uses, M11). N2: the confirmation
+     * listener and the uncovered counter share this instead of
+     * assuming a store order exists.
+     *
+     * @return array<int, array{product: Product, qty: int}>
+     */
+    public function itemsForCodOrder(CodOrder $codOrder): array
+    {
+        $items = [];
+
+        $storeOrder = $codOrder->order_id ? $codOrder->order : null;
+
+        if ($storeOrder) {
+            foreach ($storeOrder->items as $item) {
+                if (! $item->product_id) {
+                    continue;
+                }
+
+                $product = Product::query()->find($item->product_id);
+
+                if (! $product) {
+                    continue;
+                }
+
+                $items[] = ['product' => $product, 'qty' => max(1, (int) ($item->qty_ordered ?? 1))];
+            }
+
+            return $items;
+        }
+
+        $payload = is_array($codOrder->payload) ? $codOrder->payload : [];
+
+        foreach ($payload['items'] ?? [] as $item) {
+            if (! is_array($item) || empty($item['sku'])) {
+                continue;
+            }
+
+            $product = Product::query()->where('sku', (string) $item['sku'])->first();
+
+            if (! $product) {
+                continue;
+            }
+
+            $items[] = ['product' => $product, 'qty' => max(1, (int) ($item['qty'] ?? $item['quantity'] ?? 1))];
+        }
+
+        return $items;
+    }
+
+    /**
      * Make sure a product that has to come from the souk has a live
      * task on the panel. Returns the existing live task, the new
      * task, or null when the product does not need the souk (own
@@ -306,7 +361,126 @@ class SoukService implements SoukServiceInterface
 
         [$codOrderId, $qty] = $needing;
 
-        return $this->ensureTaskForProduct($product, $codOrderId, $qty);
+        $task = $this->ensureTaskForProduct($product, $codOrderId, $qty);
+
+        // S3 (gateway): the gate above returns only the oldest
+        // order, so a task created for it never grew when a second
+        // confirmed order needed the same product. Expand the live
+        // task to the total still needed by all confirmed orders.
+        if ($task !== null) {
+            $this->expandTaskToTotalNeeded($product, $task);
+        }
+
+        return $task;
+    }
+
+    /**
+     * Total quantity of one product still needed by confirmed COD
+     * orders whose goods have not been brought in yet (no PAID task
+     * for the product): store orders via order_items plus
+     * WhatsApp/API orders via payload items.
+     */
+    protected function totalQtyNeedingSouk(int $productId): int
+    {
+        $total = (int) DB::table('cod_orders as c')
+            ->join('order_items as oi', 'oi.order_id', '=', 'c.order_id')
+            ->where('c.status', CodOrder::STATUS_CONFIRMED)
+            ->where('oi.product_id', $productId)
+            ->whereNotExists(function ($query) use ($productId) {
+                $query->select(DB::raw(1))
+                    ->from('souk_tasks as st')
+                    ->whereColumn('st.cod_order_id', 'c.id')
+                    ->where('st.product_id', $productId)
+                    ->where('st.status', SoukTask::STATUS_PAID);
+            })
+            ->sum('oi.qty_ordered');
+
+        $sku = Product::query()->where('id', $productId)->value('sku');
+
+        if ($sku) {
+            foreach ($this->whatsappOrdersNeedingProduct($productId) as $candidate) {
+                foreach ((is_array($candidate->payload) ? ($candidate->payload['items'] ?? []) : []) as $item) {
+                    if (is_array($item) && (string) ($item['sku'] ?? '') === (string) $sku) {
+                        $total += max(1, (int) ($item['qty'] ?? $item['quantity'] ?? 1));
+                        break;
+                    }
+                }
+            }
+        }
+
+        return $total;
+    }
+
+    /**
+     * S3 (gateway): a live task must cover every confirmed order
+     * for the product, not just the oldest one the gate returned.
+     * Bump its quantity up to the total still needed — never down
+     * — so a second confirmed order for the same product expands
+     * the open task instead of being ignored. Idempotent: once the
+     * task quantity equals the total, later runs change nothing.
+     */
+    protected function expandTaskToTotalNeeded(Product $product, SoukTask $task): void
+    {
+        $total = $this->totalQtyNeedingSouk((int) $product->id);
+
+        if ($total <= (int) $task->qty) {
+            return;
+        }
+
+        try {
+            DB::transaction(function () use ($task, $total, $product) {
+                $locked = SoukTask::query()->where('id', $task->id)->lockForUpdate()->first();
+
+                if (! $locked || (int) $locked->qty >= $total) {
+                    return;
+                }
+
+                $locked->qty = $total;
+                $locked->save();
+
+                Log::info('Souk: live task expanded to cover all confirmed orders for the product', [
+                    'souk_task_id' => $locked->id,
+                    'product_id' => (int) $product->id,
+                    'qty' => $total,
+                ]);
+            });
+        } catch (\Throwable $e) {
+            Log::warning('Souk: failed to expand task to total needed', [
+                'souk_task_id' => $task->id,
+                'error' => $e->getMessage(),
+            ]);
+        }
+    }
+
+    /**
+     * Confirmed WhatsApp/API orders (no store order) whose payload
+     * needs one product and whose goods have not been brought in
+     * yet (no PAID task for the product). Shared by the gate
+     * (confirmedOrderNeedingSouk) and the total-needed count.
+     *
+     * @return Collection<int, CodOrder>
+     */
+    protected function whatsappOrdersNeedingProduct(int $productId): Collection
+    {
+        $sku = Product::query()->where('id', $productId)->value('sku');
+
+        if (! $sku) {
+            return new Collection;
+        }
+
+        return CodOrder::query()
+            ->where('status', CodOrder::STATUS_CONFIRMED)
+            ->whereNull('order_id')
+            ->whereRaw("JSON_CONTAINS(payload, JSON_OBJECT('sku', ?), '$.items')", [(string) $sku])
+            ->whereNotExists(function ($query) use ($productId) {
+                $query->select(DB::raw(1))
+                    ->from('souk_tasks as st')
+                    ->whereColumn('st.cod_order_id', 'cod_orders.id')
+                    ->where('st.product_id', $productId)
+                    ->where('st.status', SoukTask::STATUS_PAID);
+            })
+            ->orderBy('id')
+            ->get(['id', 'payload']);
     }
 
     /**
@@ -401,21 +575,7 @@ class SoukService implements SoukServiceInterface
             return null;
         }
 
-        $candidates = CodOrder::query()
-            ->where('status', CodOrder::STATUS_CONFIRMED)
-            ->whereNull('order_id')
-            ->whereRaw("JSON_CONTAINS(payload, JSON_OBJECT('sku', ?), '$.items')", [(string) $sku])
-            ->whereNotExists(function ($query) use ($productId) {
-                $query->select(DB::raw(1))
-                    ->from('souk_tasks as st')
-                    ->whereColumn('st.cod_order_id', 'cod_orders.id')
-                    ->where('st.product_id', $productId)
-                    ->where('st.status', SoukTask::STATUS_PAID);
-            })
-            ->orderBy('id')
-            ->get(['id', 'payload']);
-
-        foreach ($candidates as $candidate) {
+        foreach ($this->whatsappOrdersNeedingProduct($productId) as $candidate) {
             $qty = 1;
 
             foreach ((is_array($candidate->payload) ? ($candidate->payload['items'] ?? []) : []) as $item) {
@@ -993,7 +1153,7 @@ class SoukService implements SoukServiceInterface
             return 0;
         }
 
-        return (int) DB::table('cod_orders as c')
+        $storeCount = (int) DB::table('cod_orders as c')
             ->join('order_items as oi', 'oi.order_id', '=', 'c.order_id')
             ->where('c.status', CodOrder::STATUS_CONFIRMED)
             ->whereRaw('(SELECT COALESCE(SUM(qty), 0) FROM product_inventories WHERE product_id = oi.product_id) - (SELECT COALESCE(SUM(qty), 0) FROM product_ordered_inventories WHERE product_id = oi.product_id) <= 0')
@@ -1006,6 +1166,40 @@ class SoukService implements SoukServiceInterface
             })
             ->distinct()
             ->count('c.id');
+
+        // N2: WhatsApp/API orders have no store order (order_id is
+        // null), so the join above never sees them — a confirmed
+        // WhatsApp order with no live task was invisible in the
+        // banner. Count them the same way, via the payload items.
+        $whatsappCount = 0;
+
+        $whatsappOrders = CodOrder::query()
+            ->where('status', CodOrder::STATUS_CONFIRMED)
+            ->whereNull('order_id')
+            ->get(['id']);
+
+        foreach ($whatsappOrders as $codOrder) {
+            foreach ($this->itemsForCodOrder($codOrder) as $item) {
+                $product = $item['product'];
+
+                if ($this->stockQty((int) $product->id) > 0) {
+                    continue;
+                }
+
+                $hasLiveTask = SoukTask::query()
+                    ->where('cod_order_id', $codOrder->id)
+                    ->where('product_id', (int) $product->id)
+                    ->whereIn('status', SoukTask::OPEN_STATUSES)
+                    ->exists();
+
+                if (! $hasLiveTask) {
+                    $whatsappCount++;
+                    break;
+                }
+            }
+        }
+
+        return $storeCount + $whatsappCount;
     }
 
     /**

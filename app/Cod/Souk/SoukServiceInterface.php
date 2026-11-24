@@ -2,6 +2,7 @@
 
 namespace App\Cod\Souk;
 
+use App\Models\CodOrder;
 use App\Models\SoukPayment;
 use App\Models\SoukProductSourcing;
 use App\Models\SoukTask;
@@ -28,6 +29,15 @@ interface SoukServiceInterface
     public function salePrice(int $productId, ?int $codOrderId = null): ?float;
 
     public function openTaskForProduct(int $productId): ?SoukTask;
+
+    /**
+     * The products a COD order needs from the souk — from the
+     * linked store order's items when there is one, otherwise from
+     * the payload items (WhatsApp/API orders, matched by SKU).
+     *
+     * @return array<int, array{product: Product, qty: int}>
+     */
+    public function itemsForCodOrder(CodOrder $codOrder): array;
 
     public function ensureTaskForProduct(Product $product, ?int $codOrderId = null, int $qty = 1): ?SoukTask;
 
