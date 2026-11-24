@@ -18,10 +18,18 @@ class DeliveryProviderController extends Controller
      */
     public function testConnection(DeliveryProviderManager $manager): RedirectResponse
     {
-        // H7: like its siblings (sendParcel / refreshTracking), this
-        // calls an external, rate-limited API — any logged-in admin
-        // must not be able to trigger it.
-        abort_unless(bouncer()->hasPermission('sales.orders.edit'), 403);
+        // H7 (widened by P-A1, round 2): testing the connection calls
+        // an external, rate-limited API — any logged-in admin must not
+        // be able to trigger it. `sales.orders.view` is enough now:
+        // the Delivery Manager role holds it (CodRolesSeeder) so they
+        // can test the provider from the order page, while admins with
+        // neither sales permission still get 403. Sending parcels and
+        // refreshing tracking stay edit-only (see below).
+        abort_unless(
+            bouncer()->hasPermission('sales.orders.edit')
+                || bouncer()->hasPermission('sales.orders.view'),
+            403
+        );
 
         $provider = $manager->defaultProvider();
 

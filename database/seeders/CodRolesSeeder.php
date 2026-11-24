@@ -18,7 +18,11 @@ use Webkul\User\Models\Role;
  *   plus `cod.analytics` — but only their own numbers: the analytics
  *   page filters every figure to the orders assigned to them (phase 7
  *   fix), so the permission grants the page, not the whole team's data.
- * - Delivery Manager (مسؤول توصيل): COD dashboard, orders and delivery only.
+ * - Delivery Manager (مسؤول توصيل): COD dashboard, orders and delivery only,
+ *   plus `sales.orders.view` so they can open the store order page and
+ *   test the delivery provider connection (P-A1, round 2) — they still
+ *   cannot edit orders or send parcels (`sales.orders.edit` stays
+ *   with the super admin / supervisors).
  * - Souk Buyer (مشتري السوق): COD dashboard and the souk board only —
  *   claims tasks, records the price paid in the souk, and records
  *   that the goods entered the warehouse. Cannot verify goods or
@@ -98,6 +102,7 @@ class CodRolesSeeder extends Seeder
                     'dashboard',
                     'cod',
                     'cod.orders',
+                    'sales.orders.view',
                 ],
                 'admins' => [
                     [

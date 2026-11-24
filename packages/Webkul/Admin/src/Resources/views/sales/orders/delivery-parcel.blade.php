@@ -81,9 +81,14 @@
                 @endif
             </div>
 
-            @if (bouncer()->hasPermission('sales.orders.edit'))
+            {{-- P-A1 (round 2): the Delivery Manager holds
+                sales.orders.view (CodRolesSeeder) and may test the
+                provider connection too — the order page itself was
+                closed to them before. Sending, refreshing and
+                cancelling stay edit-only below. --}}
+            @if (bouncer()->hasPermission('sales.orders.edit') || bouncer()->hasPermission('sales.orders.view'))
                 <div class="mt-4 flex flex-wrap gap-2">
-                    @if ($deliveryConfigured)
+                    @if (bouncer()->hasPermission('sales.orders.edit') && $deliveryConfigured)
                         <form
                             method="POST"
                             action="{{ route('admin.sales.orders.send-to-delivery', $order->id) }}"
@@ -98,45 +103,50 @@
                         </form>
                     @endif
 
-                    @if ($deliveryParcel && $deliveryParcel->parcel_code)
-                        <form
-                            method="POST"
-                            action="{{ route('admin.delivery-providers.test-connection') }}"
-                        >
-                            @csrf
+                    {{-- P-A1 (round 2): the connection test pings the
+                        provider, not a shipment — it needs no parcel
+                        (and no parcel_code) to be useful. --}}
+                    <form
+                        method="POST"
+                        action="{{ route('admin.delivery-providers.test-connection') }}"
+                    >
+                        @csrf
 
-                            <button
-                                type="submit"
-                                class="whitespace-nowrap rounded-lg border border-gray-200 bg-white px-2.5 py-1.5 text-xs font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-200 dark:hover:bg-gray-800"
+                        <button
+                            type="submit"
+                            class="whitespace-nowrap rounded-lg border border-gray-200 bg-white px-2.5 py-1.5 text-xs font-semibold text-gray-700 hover:bg-gray-50 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-200 dark:hover:bg-gray-800"
+                        >
+                            @lang('admin::app.sales.orders.view.delivery.test-connection')
+                        </button>
+                    </form>
+
+                    @if (bouncer()->hasPermission('sales.orders.edit'))
+                        @if ($deliveryParcel && $deliveryParcel->parcel_code)
+                            <form
+                                method="POST"
+                                action="{{ route('admin.sales.orders.refresh-delivery-tracking', $order->id) }}"
                             >
-                                @lang('admin::app.sales.orders.view.delivery.test-connection')
-                            </button>
-                        </form>
+                                @csrf
 
-                        <form
-                            method="POST"
-                            action="{{ route('admin.sales.orders.refresh-delivery-tracking', $order->id) }}"
-                        >
-                            @csrf
+                                <button type="submit" class="secondary-button px-3 py-1.5 text-sm">
+                                    @lang('admin::app.sales.orders.view.delivery.refresh')
+                                </button>
+                            </form>
+                        @endif
 
-                            <button type="submit" class="secondary-button px-3 py-1.5 text-sm">
-                                @lang('admin::app.sales.orders.view.delivery.refresh')
-                            </button>
-                        </form>
-                    @endif
+                        @if ($deliveryParcel && $deliveryParcel->status === 'sent' && $deliveryManager->supportsCancel($deliveryParcel))
+                            <form
+                                method="POST"
+                                action="{{ route('admin.sales.orders.cancel-delivery-parcel', $order->id) }}"
+                                onsubmit="return confirm(@js(trans('admin::app.sales.orders.view.delivery.cancel-confirm', ['code' => $deliveryParcel->parcel_code])));"
+                            >
+                                @csrf
 
-                    @if ($deliveryParcel && $deliveryParcel->status === 'sent' && $deliveryManager->supportsCancel($deliveryParcel))
-                        <form
-                            method="POST"
-                            action="{{ route('admin.sales.orders.cancel-delivery-parcel', $order->id) }}"
-                            onsubmit="return confirm(@js(trans('admin::app.sales.orders.view.delivery.cancel-confirm', ['code' => $deliveryParcel->parcel_code])));"
-                        >
-                            @csrf
-
-                            <button type="submit" class="secondary-button px-3 py-1.5 text-sm !text-red-600">
-                                @lang('admin::app.sales.orders.view.delivery.cancel')
-                            </button>
-                        </form>
+                                <button type="submit" class="secondary-button px-3 py-1.5 text-sm !text-red-600">
+                                    @lang('admin::app.sales.orders.view.delivery.cancel')
+                                </button>
+                            </form>
+                        @endif
                     @endif
                 </div>
             @endif
