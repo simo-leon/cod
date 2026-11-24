@@ -12,8 +12,11 @@ class Bouncer
      */
     public function hasPermission($permission)
     {
+        // M4: an admin whose role was deleted has no permissions at
+        // all — never read ->role->permission_type on null.
         if (
             auth()->guard('admin')->check()
+            && auth()->guard('admin')->user()->role
             && auth()->guard('admin')->user()->role->permission_type == 'all'
         ) {
             return true;
@@ -41,7 +44,11 @@ class Bouncer
             ! auth()->guard('admin')->check()
             || ! auth()->guard('admin')->user()->hasPermission($permission)
         ) {
-            abort(401, 'This action is unauthorized');
+            // M2: a logged-in admin without the permission is
+            // forbidden (403), not unauthenticated (401) — 401 is for
+            // guests, and the admin middleware already redirects those
+            // to the login page.
+            abort(403, 'This action is unauthorized');
         }
     }
 }

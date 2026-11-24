@@ -14,6 +14,7 @@ use App\Models\CodCallLog;
 use App\Models\CodConversation;
 use App\Models\CodOrder;
 use App\Models\CodWhatsAppMessage;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Schema;
 
@@ -618,27 +619,41 @@ class WhatsAppService implements WhatsAppServiceInterface
     {
         $normalized = $this->normalizePhone($phone);
 
-        // De-duplication: Meta and Evolution may redeliver a webhook.
-        if ($externalMessageId) {
-            $duplicate = CodWhatsAppMessage::query()
-                ->where('provider', $provider)
-                ->where('direction', CodWhatsAppMessage::DIRECTION_IN)
-                ->where('message_id', $externalMessageId)
-                ->exists();
-
-            if ($duplicate) {
-                return ['matched' => false, 'message' => 'Duplicate webhook delivery ignored.'];
-            }
-        }
-
         $order = $this->findPendingOrderByPhone($normalized);
 
-        $this->logMessage($order, CodWhatsAppMessage::DIRECTION_IN, $phone, (string) $text, [
-            'success' => true,
-            'message' => 'received',
-            'message_id' => $externalMessageId,
-            'status' => CodWhatsAppMessage::STATUS_RECEIVED,
-        ], $provider);
+        // M5: de-duplication must be atomic — two webhooks for the same
+        // message used to pass the exists() check together, then the
+        // second one's insert failed on the unique index, was swallowed
+        // by logMessage()'s catch, and the message was processed twice
+        // (double confirmation, double call log). Claim the message id
+        // with a single insertOrIgnore first: only the first delivery
+        // gets a row, the second is a duplicate before any processing.
+        if ($externalMessageId) {
+            $claimed = CodWhatsAppMessage::query()->insertOrIgnore([[
+                'cod_order_id' => $order?->id,
+                'direction' => CodWhatsAppMessage::DIRECTION_IN,
+                'provider' => $provider,
+                'phone' => $normalized,
+                'body' => mb_substr((string) $text, 0, 4000),
+                'message_id' => $externalMessageId,
+                'status' => CodWhatsAppMessage::STATUS_RECEIVED,
+                'sender' => CodWhatsAppMessage::SENDER_CUSTOMER,
+                'error' => null,
+                'created_at' => now(),
+                'updated_at' => now(),
+            ]]);
+
+            if ($claimed === 0) {
+                return ['matched' => false, 'message' => 'Duplicate webhook delivery ignored.'];
+            }
+        } else {
+            $this->logMessage($order, CodWhatsAppMessage::DIRECTION_IN, $phone, (string) $text, [
+                'success' => true,
+                'message' => 'received',
+                'message_id' => null,
+                'status' => CodWhatsAppMessage::STATUS_RECEIVED,
+            ], $provider);
+        }
 
         // Automation on: the conversation agent answers first (full
         // history + COD facts + the admin prompt), the product
@@ -1040,9 +1055,14 @@ class WhatsAppService implements WhatsAppServiceInterface
         $order = $this->conversationService()->createOrder($conversation);
 
         if ($order === null) {
-            if ($agentReply !== null) {
-                $this->sendConversationMessage($conversation, $agentReply, CodWhatsAppMessage::SENDER_AI);
-            }
+            // M29: never send the agent's confirmation reply when no
+            // order was actually created — the customer would receive
+            // a fake confirmation. Say a human will follow up instead.
+            $this->sendConversationMessage(
+                $conversation,
+                'شكرا ليك، المعلومات ديالك وصلاتنا وغادي نتواصلو معك قريب باش نأكدو الطلب.',
+                CodWhatsAppMessage::SENDER_AI
+            );
 
             return ['matched' => true, 'message' => 'Order creation is off: conversation waits for a human to create the order.'];
         }
@@ -1232,9 +1252,14 @@ class WhatsAppService implements WhatsAppServiceInterface
     }
 
     /**
-     * The newest pending-confirmation order whose customer phone
-     * matches (compared on the last 9 digits, so 06..., +2126... and
-     * 2126... all match each other).
+     * The pending-confirmation order whose customer phone matches
+     * (compared on the last 9 digits, so 06..., +2126... and 2126...
+     * all match each other). M17: the match runs in SQL on the
+     * indexed customer_phone_normalized column instead of loading
+     * every pending order into PHP. When a customer has several
+     * pending orders, the oldest one is answered (and the ambiguity
+     * is logged) — the newest used to win silently while the older
+     * one waited forever.
      */
     protected function findPendingOrderByPhone(string $normalizedPhone): ?CodOrder
     {
@@ -1244,12 +1269,28 @@ class WhatsAppService implements WhatsAppServiceInterface
             return null;
         }
 
-        return CodOrder::query()
+        $candidates = CodOrder::query()
             ->where('status', CodOrder::STATUS_PENDING_CONFIRMATION)
-            ->whereNotNull('customer_phone')
-            ->orderByDesc('id')
-            ->get()
-            ->first(fn (CodOrder $order) => substr($this->normalizePhone((string) $order->customer_phone), -9) === $suffix);
+            ->where(function ($query) use ($suffix) {
+                $query->whereRaw('RIGHT(customer_phone_normalized, 9) = ?', [$suffix])
+                    // Rows imported before the normalized column existed.
+                    ->orWhereRaw('RIGHT(customer_phone, 9) = ?', [$suffix]);
+            })
+            ->orderBy('id')
+            ->get();
+
+        if ($candidates->isEmpty()) {
+            return null;
+        }
+
+        if ($candidates->count() > 1) {
+            Log::warning('COD WhatsApp: several pending orders share one phone number, answering the oldest', [
+                'phone_suffix' => $suffix,
+                'cod_order_ids' => $candidates->pluck('id')->all(),
+            ]);
+        }
+
+        return $candidates->first();
     }
 
     /**
@@ -1269,6 +1310,32 @@ class WhatsAppService implements WhatsAppServiceInterface
      */
     protected function applyOutcome(CodOrder $order, string $outcome, string $text, ?CodConversation $conversation = null, bool $sendOutcomeMessage = true): void
     {
+        // M5: a redelivered webhook (or a second reply) must not
+        // re-apply an outcome to an order that already moved on — the
+        // status is re-checked on the locked row inside a transaction,
+        // so the check and the status change are atomic.
+        DB::transaction(function () use ($order, $outcome, $text, $conversation, $sendOutcomeMessage) {
+            $locked = CodOrder::query()->where('id', $order->id)->lockForUpdate()->first();
+
+            if (! $locked || ! in_array($locked->status, [CodOrder::STATUS_PENDING_CONFIRMATION, CodOrder::STATUS_WHATSAPP_UNCONFIRMED], true)) {
+                Log::info('COD WhatsApp: inbound outcome ignored, order is no longer pending', [
+                    'cod_order_id' => $order->id,
+                    'outcome' => $outcome,
+                ]);
+
+                return;
+            }
+
+            $this->applyOutcomeToLockedOrder($locked, $outcome, $text, $conversation, $sendOutcomeMessage);
+        });
+    }
+
+    /**
+     * The outcome itself, applied to an already-locked pending order.
+     */
+    protected function applyOutcomeToLockedOrder(CodOrder $order, string $outcome, string $text, ?CodConversation $conversation = null, bool $sendOutcomeMessage = true): void
+    {
+
         $result = match ($outcome) {
             'confirmed' => CodCallLog::RESULT_CONFIRMED,
             'postponed' => CodCallLog::RESULT_POSTPONED,

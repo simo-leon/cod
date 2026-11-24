@@ -51,6 +51,17 @@ class SoukSettings
     }
 
     /**
+     * Hours a buyer has to record the purchase after claiming a task
+     * before the claim is flagged stalled (T5). Separate from the
+     * claim timeout: claiming is fast, buying in the souk takes
+     * longer. Default 24.
+     */
+    public function purchaseTimeoutHours(): int
+    {
+        return max(1, (int) (core()->getConfigData(self::CONFIG_KEY.'.purchase_timeout_hours') ?? self::DEFAULT_CLAIM_TIMEOUT_HOURS));
+    }
+
+    /**
      * Default purchase-price cap per unit (DH) for products without
      * their own cap. Null means no default cap.
      */

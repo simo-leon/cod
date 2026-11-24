@@ -549,10 +549,44 @@ class ProductApiService
      */
     protected function downloadImage(string $url): UploadedFile
     {
-        try {
-            $response = Http::timeout(20)->get($url);
-        } catch (\Throwable $e) {
-            throw new ProductImageException("Could not download image from {$url}: {$e->getMessage()}");
+        // M30: the URL comes from an API caller — never fetch a
+        // private / internal address (SSRF: 169.254.169.254, localhost,
+        // the LAN, Tailscale). Only http(s) URLs whose host resolves
+        // to public IPs are fetched, and redirects are followed
+        // manually so a redirect to an internal address is refused too.
+        $currentUrl = $url;
+        $response = null;
+
+        for ($hop = 0; $hop < 4; $hop++) {
+            if (! $this->isPublicImageUrl($currentUrl)) {
+                throw new ProductImageException("URL {$url} is not allowed: only public http(s) image URLs may be downloaded.");
+            }
+
+            try {
+                $response = Http::timeout(20)->withoutRedirecting()->get($currentUrl);
+            } catch (\Throwable $e) {
+                throw new ProductImageException("Could not download image from {$url}: {$e->getMessage()}");
+            }
+
+            if (in_array($response->status(), [301, 302, 303, 307, 308], true) && $response->header('Location')) {
+                $location = $response->header('Location');
+
+                // A relative redirect resolves against the current URL.
+                if (! str_starts_with(strtolower($location), 'http')) {
+                    $parts = parse_url($currentUrl);
+                    $location = ($parts['scheme'] ?? 'https').'://'.($parts['host'] ?? '').$location;
+                }
+
+                $currentUrl = $location;
+
+                continue;
+            }
+
+            break;
+        }
+
+        if ($response === null || in_array($response->status(), [301, 302, 303, 307, 308], true)) {
+            throw new ProductImageException("Could not download image from {$url}: too many redirects.");
         }
 
         if (! $response->successful()) {
@@ -588,6 +622,42 @@ class ProductApiService
         $this->assertReadableImage($file);
 
         return $file;
+    }
+
+    /**
+     * Whether an image URL is safe to fetch (M30): http(s) only, and
+     * every IP the host resolves to must be public — private,
+     * loopback, link-local and reserved ranges are refused, so the
+     * URL cannot reach the metadata service, localhost or the LAN.
+     * A host that does not resolve is refused too.
+     */
+    protected function isPublicImageUrl(string $url): bool
+    {
+        $parts = parse_url($url);
+
+        if (! is_array($parts) || ! in_array(strtolower($parts['scheme'] ?? ''), ['http', 'https'], true)) {
+            return false;
+        }
+
+        $host = $parts['host'] ?? '';
+
+        if ($host === '') {
+            return false;
+        }
+
+        $ips = gethostbynamel($host);
+
+        if ($ips === false || $ips === []) {
+            return false;
+        }
+
+        foreach ($ips as $ip) {
+            if (filter_var($ip, FILTER_VALIDATE_IP, FILTER_FLAG_NO_PRIV_RANGE | FILTER_FLAG_NO_RES_RANGE) === false) {
+                return false;
+            }
+        }
+
+        return true;
     }
 
     /**

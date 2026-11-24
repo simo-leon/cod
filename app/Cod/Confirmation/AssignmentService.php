@@ -275,6 +275,30 @@ class AssignmentService implements AssignmentServiceInterface
             return false;
         }
 
+        // M9: a manual assignment may overwrite an existing assignee
+        // and may exceed the daily limit (a deliberate supervisor
+        // decision) — but both must leave a trace, so a confirmer is
+        // never silently dropped from an order.
+        $previousAssigneeId = $order->assigned_to;
+        $overLimit = $this->reachedDailyLimit($admin);
+
+        if ($previousAssigneeId !== null && $previousAssigneeId !== $admin->id) {
+            Log::warning('COD: manual assignment overwrote an existing assignee', [
+                'cod_order_id' => $order->id,
+                'previous_assignee_id' => $previousAssigneeId,
+                'new_assignee_id' => $admin->id,
+            ]);
+        }
+
+        if ($overLimit) {
+            Log::warning('COD: manual assignment exceeded the confirmer daily limit', [
+                'cod_order_id' => $order->id,
+                'assignee_id' => $admin->id,
+                'assigned_today' => $this->assignedTodayCount($admin),
+                'daily_limit' => $this->confirmation->confirmerDailyLimit(),
+            ]);
+        }
+
         $order->assigned_to = $admin->id;
         $order->assigned_at = now();
         $order->save();
@@ -297,11 +321,16 @@ class AssignmentService implements AssignmentServiceInterface
             return null;
         }
 
+        // M10: lock the rule rows inside the assignment transaction
+        // (pickByPercentage already locks its rows) — two concurrent
+        // assignments for the same product rule can no longer both
+        // pass the daily-limit check.
         $rules = CodAssignmentRule::query()
             ->with('confirmer')
             ->where('type', CodAssignmentRule::TYPE_PRODUCT)
             ->where('is_active', true)
             ->whereIn('product_sku', $skus)
+            ->lockForUpdate()
             ->orderBy('id')
             ->get();
 

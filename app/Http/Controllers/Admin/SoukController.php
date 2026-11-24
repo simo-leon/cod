@@ -118,11 +118,14 @@ class SoukController extends Controller
         $data = $request->validate([
             'approve' => ['required', 'boolean'],
             'reason' => [Rule::requiredIf(fn () => ! $request->boolean('approve')), 'nullable', 'string', 'max:1000'],
+            // M25: explicit approval of a purchase over the cap / below
+            // the margin — required by the service when the flags are set.
+            'confirm_override' => ['nullable', 'boolean'],
         ]);
 
         $controller = auth()->guard('admin')->user();
 
-        if ($this->souk->verify($task, $controller, (bool) $data['approve'], $data['reason'] ?? null)) {
+        if ($this->souk->verify($task, $controller, (bool) $data['approve'], $data['reason'] ?? null, (bool) ($data['confirm_override'] ?? false))) {
             return back()->with('success', $data['approve']
                 ? trans('admin::app.cod.souk.verified')
                 : trans('admin::app.cod.souk.rejected'));

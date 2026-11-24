@@ -113,9 +113,11 @@ class SoukService implements SoukServiceInterface
             }
         }
 
+        // M24: the store's real default channel, not the literal
+        // string 'default' (a renamed default channel broke the price).
         $flat = ProductFlat::query()
             ->where('product_id', $productId)
-            ->where('channel', 'default')
+            ->where('channel', $this->defaultChannelCode())
             ->first()
             ?? ProductFlat::query()->where('product_id', $productId)->first();
 
@@ -208,6 +210,18 @@ class SoukService implements SoukServiceInterface
 
         try {
             return DB::transaction(function () use ($product, $codOrderId, $qty) {
+                // S2: the confirmation gate ran before this transaction
+                // — re-check the linked order on its locked row, so an
+                // order cancelled between the gate and the creation
+                // cannot get a task.
+                if ($codOrderId !== null) {
+                    $linkedOrder = CodOrder::query()->where('id', $codOrderId)->lockForUpdate()->first();
+
+                    if (! $linkedOrder || $linkedOrder->status !== CodOrder::STATUS_CONFIRMED) {
+                        return null;
+                    }
+                }
+
                 $sourcing = SoukProductSourcing::query()
                     ->where('product_id', $product->id)
                     ->lockForUpdate()
@@ -236,6 +250,19 @@ class SoukService implements SoukServiceInterface
                     if ($codOrderId && ! $existing->cod_order_id) {
                         $existing->cod_order_id = $codOrderId;
                         $existing->save();
+                    } elseif ($codOrderId && $existing->cod_order_id !== $codOrderId) {
+                        // S3: the live task belongs to another order —
+                        // it does not cover this one. Expand its
+                        // quantity so the goods for both orders are
+                        // bought, and record why.
+                        $existing->qty = (int) $existing->qty + max(1, $qty);
+                        $existing->save();
+
+                        Log::info('Souk: live task expanded to cover a second confirmed order', [
+                            'souk_task_id' => $existing->id,
+                            'product_id' => (int) $product->id,
+                            'cod_order_id' => $codOrderId,
+                        ]);
                     }
 
                     return $existing;
@@ -297,6 +324,9 @@ class SoukService implements SoukServiceInterface
         $checked = 0;
         $created = 0;
 
+        // M23: bound the scan (200 products per run, in chunks) — a
+        // big catalog used to make every scheduled run scan everything
+        // with several queries per product.
         $productIds = DB::table('products as p')
             ->leftJoin('souk_product_sourcing as s', 's.product_id', '=', 'p.id')
             ->where(function ($query) {
@@ -304,20 +334,24 @@ class SoukService implements SoukServiceInterface
                     ->orWhereIn('s.mode', [SoukProductSourcing::MODE_AUTO, SoukProductSourcing::MODE_SOUK]);
             })
             ->whereRaw('(SELECT COALESCE(SUM(qty), 0) FROM product_inventories WHERE product_id = p.id) - (SELECT COALESCE(SUM(qty), 0) FROM product_ordered_inventories WHERE product_id = p.id) <= 0')
+            ->orderBy('p.id')
+            ->limit(200)
             ->pluck('p.id');
 
-        foreach ($productIds as $productId) {
-            $checked++;
-            $product = Product::query()->find($productId);
+        foreach ($productIds->chunk(50) as $chunk) {
+            foreach ($chunk as $productId) {
+                $checked++;
+                $product = Product::query()->find($productId);
 
-            if (! $product) {
-                continue;
-            }
+                if (! $product) {
+                    continue;
+                }
 
-            $hadOpenTask = $this->openTaskForProduct((int) $productId) !== null;
+                $hadOpenTask = $this->openTaskForProduct((int) $productId) !== null;
 
-            if ($this->ensureTaskForConfirmedOrder($product) && ! $hadOpenTask) {
-                $created++;
+                if ($this->ensureTaskForConfirmedOrder($product) && ! $hadOpenTask) {
+                    $created++;
+                }
             }
         }
 
@@ -353,11 +387,48 @@ class SoukService implements SoukServiceInterface
             ->select('c.id as cod_order_id', 'oi.qty_ordered')
             ->first();
 
-        if (! $row) {
+        if ($row) {
+            return [(int) $row->cod_order_id, max(1, (int) ($row->qty_ordered ?? 1))];
+        }
+
+        // M11: WhatsApp-created orders have no store order (order_id
+        // is null) — their items live in payload.items. Match the
+        // product by SKU in the payload instead of the order_items
+        // join, so a confirmed WhatsApp order can reach the panel too.
+        $sku = Product::query()->where('id', $productId)->value('sku');
+
+        if (! $sku) {
             return null;
         }
 
-        return [(int) $row->cod_order_id, max(1, (int) ($row->qty_ordered ?? 1))];
+        $candidates = CodOrder::query()
+            ->where('status', CodOrder::STATUS_CONFIRMED)
+            ->whereNull('order_id')
+            ->whereRaw("JSON_CONTAINS(payload, JSON_OBJECT('sku', ?), '$.items')", [(string) $sku])
+            ->whereNotExists(function ($query) use ($productId) {
+                $query->select(DB::raw(1))
+                    ->from('souk_tasks as st')
+                    ->whereColumn('st.cod_order_id', 'cod_orders.id')
+                    ->where('st.product_id', $productId)
+                    ->where('st.status', SoukTask::STATUS_PAID);
+            })
+            ->orderBy('id')
+            ->get(['id', 'payload']);
+
+        foreach ($candidates as $candidate) {
+            $qty = 1;
+
+            foreach ((is_array($candidate->payload) ? ($candidate->payload['items'] ?? []) : []) as $item) {
+                if (is_array($item) && (string) ($item['sku'] ?? '') === (string) $sku) {
+                    $qty = max(1, (int) ($item['qty'] ?? $item['quantity'] ?? 1));
+                    break;
+                }
+            }
+
+            return [(int) $candidate->id, $qty];
+        }
+
+        return null;
     }
 
     /**
@@ -458,7 +529,18 @@ class SoukService implements SoukServiceInterface
                 return false;
             }
 
-            $source = InventorySource::query()->where('code', 'default')->first()
+            // M24: add the stock to the source the product already
+            // uses, not always 'default' — otherwise the stock splits
+            // across two sources.
+            $sourceId = ProductInventory::query()
+                ->where('product_id', $locked->product_id)
+                ->orderBy('id')
+                ->value('inventory_source_id');
+
+            $source = ($sourceId
+                ? InventorySource::query()->where('id', $sourceId)->first()
+                : null)
+                ?? InventorySource::query()->where('code', 'default')->first()
                 ?? InventorySource::query()->orderBy('id')->first();
 
             if ($source) {
@@ -488,13 +570,13 @@ class SoukService implements SoukServiceInterface
      * another buyer can take it. An approval only moves the task to
      * verified — payment is recorded separately.
      */
-    public function verify(SoukTask $task, Admin $controller, bool $approve, ?string $reason = null): bool
+    public function verify(SoukTask $task, Admin $controller, bool $approve, ?string $reason = null, bool $overrideApproved = false): bool
     {
         if (! $this->canManageSouk($controller)) {
             return false;
         }
 
-        return (bool) DB::transaction(function () use ($task, $controller, $approve, $reason) {
+        return (bool) DB::transaction(function () use ($task, $controller, $approve, $reason, $overrideApproved) {
             $locked = SoukTask::query()->where('id', $task->id)->lockForUpdate()->first();
 
             if (! $locked || $locked->status !== SoukTask::STATUS_RECEIVED) {
@@ -505,6 +587,16 @@ class SoukService implements SoukServiceInterface
             $locked->verified_at = now();
 
             if ($approve) {
+                // M25: a purchase over the cap or below the margin was
+                // only flagged before — the controller must approve the
+                // overrun explicitly (checkbox), and the approval is
+                // recorded on the task. Without it the approval is
+                // refused, not silently accepted.
+                if (($locked->over_cap || $locked->below_margin) && ! $overrideApproved) {
+                    return false;
+                }
+
+                $locked->override_approved = $overrideApproved && ($locked->over_cap || $locked->below_margin);
                 $locked->status = SoukTask::STATUS_VERIFIED;
                 $locked->save();
 
@@ -524,12 +616,17 @@ class SoukService implements SoukServiceInterface
 
             // The product is needed again: a fresh assigned task so
             // another buyer can take it — but only while the panel
-            // is switched on. The rejected task stays as the history
-            // of this buyer's attempt.
+            // is switched on, and (S4) only when the linked order is
+            // still confirmed and still needs the product. The rejected
+            // task stays as the history of this buyer's attempt.
             $product = Product::query()->find($locked->product_id);
 
             if ($product && $this->settings->isEnabled()) {
-                $this->createAssignedTask($product, $locked->cod_order_id, (int) $locked->qty);
+                if ($locked->cod_order_id) {
+                    $this->ensureTaskForConfirmedOrder($product);
+                } else {
+                    $this->createAssignedTask($product, $locked->cod_order_id, (int) $locked->qty);
+                }
             }
 
             return true;
@@ -624,19 +721,28 @@ class SoukService implements SoukServiceInterface
             return false;
         }
 
-        if (! in_array($task->status, [SoukTask::STATUS_ASSIGNED, SoukTask::STATUS_CLAIMED], true)) {
-            return false;
-        }
+        // M26: same pattern as claim/purchase/receive/verify — the
+        // status is re-checked on the locked row inside a transaction,
+        // so a cancel racing a verification cannot overwrite it.
+        return (bool) DB::transaction(function () use ($task, $reason) {
+            $locked = SoukTask::query()->where('id', $task->id)->lockForUpdate()->first();
 
-        $task->status = SoukTask::STATUS_CANCELED;
+            if (! $locked || ! in_array($locked->status, [SoukTask::STATUS_ASSIGNED, SoukTask::STATUS_CLAIMED], true)) {
+                return false;
+            }
 
-        if ($reason !== null && trim($reason) !== '') {
-            $task->note = trim($reason);
-        }
+            $locked->status = SoukTask::STATUS_CANCELED;
 
-        $task->save();
+            // T12: the cancel reason has its own column — it no longer
+            // overwrites the purchase note.
+            if ($reason !== null && trim($reason) !== '') {
+                $locked->cancel_reason = trim($reason);
+            }
 
-        return true;
+            $locked->save();
+
+            return true;
+        });
     }
 
     /**
@@ -681,7 +787,11 @@ class SoukService implements SoukServiceInterface
                 $product = Product::query()->find($locked->product_id);
 
                 if ($product && $this->settings->isEnabled()) {
-                    $fresh = $this->createAssignedTask($product, $locked->cod_order_id, (int) $locked->qty);
+                    // S4: only recreate when the linked order is still
+                    // confirmed and still needs the product.
+                    $fresh = $locked->cod_order_id
+                        ? $this->ensureTaskForConfirmedOrder($product)
+                        : $this->createAssignedTask($product, $locked->cod_order_id, (int) $locked->qty);
 
                     if ($fresh) {
                         $fresh->is_escalated = true;
@@ -698,25 +808,36 @@ class SoukService implements SoukServiceInterface
             ]);
         }
 
+        // T5: claimed tasks use their own purchase timeout (how long
+        // the buyer has to buy after claiming), not the claim timeout
+        // (how long an assigned task waits to be claimed).
         $stalled = SoukTask::query()
             ->where('status', SoukTask::STATUS_CLAIMED)
             ->where('is_escalated', false)
             ->whereNotNull('claimed_at')
-            ->where('claimed_at', '<=', now()->subHours($this->settings->claimTimeoutHours()))
+            ->where('claimed_at', '<=', now()->subHours($this->settings->purchaseTimeoutHours()))
             ->orderBy('id')
             ->get();
 
         foreach ($stalled as $task) {
-            $task->is_escalated = true;
-            $task->escalated_at = now();
-            $task->save();
-            $escalated++;
+            DB::transaction(function () use ($task, &$escalated) {
+                $locked = SoukTask::query()->where('id', $task->id)->lockForUpdate()->first();
 
-            Log::warning('Souk: claimed task stalled without a purchase', [
-                'souk_task_id' => $task->id,
-                'product_id' => $task->product_id,
-                'buyer_id' => $task->buyer_id,
-            ]);
+                if (! $locked || $locked->status !== SoukTask::STATUS_CLAIMED || $locked->is_escalated) {
+                    return;
+                }
+
+                $locked->is_escalated = true;
+                $locked->escalated_at = now();
+                $locked->save();
+                $escalated++;
+
+                Log::warning('Souk: claimed task stalled without a purchase', [
+                    'souk_task_id' => $locked->id,
+                    'product_id' => $locked->product_id,
+                    'buyer_id' => $locked->buyer_id,
+                ]);
+            });
         }
 
         return ['expired' => $expired, 'recreated' => $recreated, 'escalated' => $escalated];
@@ -883,7 +1004,7 @@ class SoukService implements SoukServiceInterface
         }
 
         return SoukTask::query()
-            ->with(['product', 'buyer'])
+            ->with(['product.attribute_values', 'buyer'])
             ->whereIn('product_id', $productIds)
             ->orderByDesc('id')
             ->limit(50)
@@ -942,6 +1063,41 @@ class SoukService implements SoukServiceInterface
     }
 
     /**
+     * The default channel code (M24), from the store configuration
+     * instead of the literal string 'default'.
+     */
+    protected function defaultChannelCode(): string
+    {
+        try {
+            $channel = core()->getDefaultChannel();
+
+            if ($channel && ! empty($channel->code)) {
+                return (string) $channel->code;
+            }
+        } catch (\Throwable) {
+        }
+
+        return 'default';
+    }
+
+    /**
+     * The default channel id (M24), for the inventory index.
+     */
+    protected function defaultChannelId(): int
+    {
+        try {
+            $channel = core()->getDefaultChannel();
+
+            if ($channel && ! empty($channel->id)) {
+                return (int) $channel->id;
+            }
+        } catch (\Throwable) {
+        }
+
+        return 1;
+    }
+
+    /**
      * Keep the product inventory index in step with the stock added
      * on receive, when the index table exists. The index is what the
      * storefront reads; without this the received goods would sit in
@@ -960,10 +1116,10 @@ class SoukService implements SoukServiceInterface
             ->get();
 
         if ($indexRows->isEmpty()) {
-            // Default channel is id 1 in a standard Bagisto install.
+            // M24: the real default channel id, not a hard-coded 1.
             DB::table('product_inventory_indices')->insert([
                 'product_id' => $productId,
-                'channel_id' => 1,
+                'channel_id' => $this->defaultChannelId(),
                 'qty' => $qty,
                 'created_at' => now(),
                 'updated_at' => now(),

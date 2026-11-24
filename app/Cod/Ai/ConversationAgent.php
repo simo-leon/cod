@@ -165,11 +165,26 @@ class ConversationAgent implements ConversationAgentInterface
 
         $messages = [['role' => 'system', 'content' => $system]];
 
-        $history = CodWhatsAppMessage::query()
-            ->where('phone', $conversation->phone)
-            ->orderBy('id')
+        // M18: the newest messages, not the oldest — orderBy('id')
+        // used to take the first 30 messages of a long conversation and
+        // lose all recent context. Scoped to this conversation's order
+        // when there is one, so other orders of the same phone do not
+        // leak into the context.
+        $historyQuery = CodWhatsAppMessage::query()
+            ->where('phone', $conversation->phone);
+
+        if ($conversation->cod_order_id) {
+            $historyQuery->where('cod_order_id', $conversation->cod_order_id);
+        } else {
+            $historyQuery->whereNull('cod_order_id');
+        }
+
+        $history = $historyQuery
+            ->orderByDesc('id')
             ->take(self::HISTORY_LIMIT)
-            ->get(['direction', 'body']);
+            ->get(['direction', 'body'])
+            ->reverse()
+            ->values();
 
         $lastInboundBody = null;
 

@@ -108,10 +108,21 @@ class Admin extends Authenticatable implements AdminContract
      */
     public function hasPermission($permission)
     {
+        // M4: a deleted role, or permissions that are not an array
+        // (corrupt JSON, a bare string or number in the column), must
+        // deny cleanly instead of throwing a 500.
+        if (! $this->role) {
+            return false;
+        }
+
         if (
             $this->role->permission_type == 'custom'
             && ! $this->role->permissions
         ) {
+            return false;
+        }
+
+        if (! is_array($this->role->permissions)) {
             return false;
         }
 

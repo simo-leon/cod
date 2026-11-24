@@ -7,6 +7,7 @@ use App\Cod\Orders\OrderServiceInterface;
 use App\Models\CodConversation;
 use App\Models\CodOrder;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Str;
 
 /**
  * The product-inquiry conversation flow (state, not messages).
@@ -185,32 +186,44 @@ class ConversationService implements ConversationServiceInterface
 
         $price = (float) ($product['price'] ?? 0);
 
-        try {
-            $order = $this->orders->importFromPayload([
-                'external_id' => $this->newExternalId(),
-                'payment_method' => 'cashondelivery',
-                'customer_name' => $answers['name'] ?? null,
-                'customer_phone' => $answers['phone'] ?? $conversation->phone,
-                'city' => $answers['city'] ?? null,
-                'address' => $answers['address'] ?? null,
-                'currency_code' => 'MAD',
-                'grand_total' => $price,
-                'items_count' => 1,
-                'items' => [
-                    [
-                        'name' => $product['name'],
-                        'sku' => $product['sku'],
-                        'qty' => 1,
-                        'price' => $price,
-                    ],
-                ],
-            ], CodOrder::SOURCE_WHATSAPP, true);
-        } catch (\Throwable $e) {
-            Log::warning('COD conversations: failed to create order from product inquiry', [
-                'cod_conversation_id' => $conversation->id,
-                'error' => $e->getMessage(),
-            ]);
+        // M29: retry with a fresh external id if the import fails —
+        // a unique-id collision must not lose the customer's order.
+        $order = null;
+        $attempts = 0;
 
+        while ($order === null && $attempts < 3) {
+            $attempts++;
+
+            try {
+                $order = $this->orders->importFromPayload([
+                    'external_id' => $this->newExternalId(),
+                    'payment_method' => 'cashondelivery',
+                    'customer_name' => $answers['name'] ?? null,
+                    'customer_phone' => $answers['phone'] ?? $conversation->phone,
+                    'city' => $answers['city'] ?? null,
+                    'address' => $answers['address'] ?? null,
+                    'currency_code' => 'MAD',
+                    'grand_total' => $price,
+                    'items_count' => 1,
+                    'items' => [
+                        [
+                            'name' => $product['name'],
+                            'sku' => $product['sku'],
+                            'qty' => 1,
+                            'price' => $price,
+                        ],
+                    ],
+                ], CodOrder::SOURCE_WHATSAPP, true);
+            } catch (\Throwable $e) {
+                Log::warning('COD conversations: failed to create order from product inquiry', [
+                    'cod_conversation_id' => $conversation->id,
+                    'attempt' => $attempts,
+                    'error' => $e->getMessage(),
+                ]);
+            }
+        }
+
+        if ($order === null) {
             return null;
         }
 
@@ -300,6 +313,9 @@ class ConversationService implements ConversationServiceInterface
      */
     protected function newExternalId(): string
     {
-        return 'WA-'.now()->format('YmdHis').'-'.random_int(100, 999);
+        // M29: 900 possibilities per second was not enough — two
+        // simultaneous inquiries could collide on the unique column.
+        // A random 10-character suffix makes a collision negligible.
+        return 'WA-'.now()->format('YmdHis').'-'.Str::random(10);
     }
 }

@@ -52,7 +52,7 @@ interface SoukServiceInterface
 
     public function receive(SoukTask $task, Admin $buyer): bool;
 
-    public function verify(SoukTask $task, Admin $controller, bool $approve, ?string $reason = null): bool;
+    public function verify(SoukTask $task, Admin $controller, bool $approve, ?string $reason = null, bool $overrideApproved = false): bool;
 
     public function recordPayment(SoukTask $task, Admin $paidBy, float $amount, string $type, ?string $note = null): ?SoukPayment;
 

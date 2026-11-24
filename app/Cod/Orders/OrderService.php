@@ -4,6 +4,7 @@ namespace App\Cod\Orders;
 
 use App\Cod\Confirmation\AssignmentServiceInterface;
 use App\Cod\Confirmation\ConfirmationServiceInterface;
+use App\Cod\Support\PhoneNumber;
 use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Models\CodOrder;
 use Illuminate\Pagination\LengthAwarePaginator;
@@ -46,27 +47,28 @@ class OrderService implements OrderServiceInterface
     ];
 
     /**
-     * Total number of orders in the database.
+     * Total number of COD orders in the database (M1: the COD
+     * dashboard used to count store orders here).
      */
     public function ordersCount(): int
     {
-        return Order::count();
+        return CodOrder::count();
     }
 
     /**
-     * Number of orders waiting for confirmation.
+     * Number of COD orders waiting for confirmation.
      */
     public function pendingConfirmationCount(): int
     {
-        return Order::where('status', Order::STATUS_PENDING_CONFIRMATION)->count();
+        return CodOrder::where('status', CodOrder::STATUS_PENDING_CONFIRMATION)->count();
     }
 
     /**
-     * Number of orders created today.
+     * Number of COD orders created today.
      */
     public function todayOrdersCount(): int
     {
-        return Order::whereDate('created_at', today())->count();
+        return CodOrder::whereDate('created_at', today())->count();
     }
 
     /**
@@ -206,8 +208,6 @@ class OrderService implements OrderServiceInterface
         $imported = 0;
         $failed = 0;
 
-        $alreadyImported = CodOrder::count();
-
         $orders = Order::whereHas('payment', function ($query) {
             $query->whereIn('method', self::COD_PAYMENT_METHODS);
         })
@@ -215,6 +215,15 @@ class OrderService implements OrderServiceInterface
             ->orderBy('id')
             ->limit(max(1, $limit))
             ->get();
+
+        // T13: count only the store orders this run skipped because a
+        // COD record already exists — not every COD record in the
+        // database (which also holds WhatsApp and API orders).
+        $alreadyImported = Order::whereHas('payment', function ($query) {
+            $query->whereIn('method', self::COD_PAYMENT_METHODS);
+        })
+            ->whereIn('increment_id', CodOrder::query()->select('external_id'))
+            ->count();
 
         foreach ($orders as $order) {
             $codOrder = $this->importOrder($order, CodOrder::SOURCE_IMPORT);
@@ -385,7 +394,9 @@ class OrderService implements OrderServiceInterface
             'customer_phone' => $shippingAddress->phone ?? null,
             'customer_email' => $order->customer_email ?? $shippingAddress->email ?? null,
             'city' => $shippingAddress->city ?? null,
-            'address' => $shippingAddress->address ?? null,
+            // M8: a Bagisto address has no `address` field — the
+            // street is address1 (+ address2).
+            'address' => trim(($shippingAddress->address1 ?? '').' '.($shippingAddress->address2 ?? '')) ?: null,
             'grand_total' => (float) ($order->grand_total ?? 0),
             'currency_code' => $order->order_currency_code ?? null,
             'items_count' => (int) ($order->total_item_count ?? $order->items()->count()),
@@ -417,6 +428,28 @@ class OrderService implements OrderServiceInterface
         $codOrder = CodOrder::firstOrNew(['external_id' => $snapshot['external_id']]);
 
         $isNew = ! $codOrder->exists;
+
+        // M3: a re-import must never wipe snapshot data recorded by an
+        // earlier import. The payload is deep-merged (items by SKU),
+        // and a null payload from a store snapshot keeps the payload
+        // recorded earlier instead of erasing it.
+        if (! $isNew) {
+            $snapshot['payload'] = $this->mergePayload(
+                is_array($codOrder->payload) ? $codOrder->payload : null,
+                $snapshot['payload'] ?? null
+            );
+
+            // Keep the normalized phone in step with the snapshot.
+            if (array_key_exists('customer_phone', $snapshot)) {
+                $snapshot['customer_phone_normalized'] = $snapshot['customer_phone']
+                    ? PhoneNumber::normalize((string) $snapshot['customer_phone'])
+                    : null;
+            }
+        } elseif (array_key_exists('customer_phone', $snapshot)) {
+            $snapshot['customer_phone_normalized'] = $snapshot['customer_phone']
+                ? PhoneNumber::normalize((string) $snapshot['customer_phone'])
+                : null;
+        }
 
         $codOrder->fill($snapshot);
 
@@ -474,6 +507,56 @@ class OrderService implements OrderServiceInterface
         }
 
         return $codOrder;
+    }
+
+    /**
+     * Merge an incoming import payload into the payload recorded
+     * earlier, instead of replacing it (M3): a partial re-import
+     * without `items` must keep the SKUs recorded before, and a
+     * store snapshot (payload null) must keep an API payload recorded
+     * earlier. Items merge by SKU — a re-imported item updates its
+     * own row, other items stay. Any other key present in the new
+     * payload overwrites the old one.
+     */
+    protected function mergePayload(?array $existing, mixed $incoming): ?array
+    {
+        if ($incoming === null) {
+            return $existing;
+        }
+
+        if (! is_array($incoming)) {
+            return $existing;
+        }
+
+        if ($existing === null) {
+            return $incoming;
+        }
+
+        $merged = $existing;
+
+        foreach ($incoming as $key => $value) {
+            if ($key === 'items' && is_array($value) && isset($merged['items']) && is_array($merged['items'])) {
+                $bySku = [];
+
+                foreach ($merged['items'] as $item) {
+                    $bySku[is_array($item) && ! empty($item['sku']) ? (string) $item['sku'] : count($bySku)] = $item;
+                }
+
+                foreach ($value as $item) {
+                    if (is_array($item) && ! empty($item['sku'])) {
+                        $bySku[(string) $item['sku']] = $item;
+                    } else {
+                        $bySku[] = $item;
+                    }
+                }
+
+                $merged['items'] = array_values($bySku);
+            } else {
+                $merged[$key] = $value;
+            }
+        }
+
+        return $merged;
     }
 
     /**

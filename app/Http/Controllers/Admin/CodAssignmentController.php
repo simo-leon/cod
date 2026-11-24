@@ -130,14 +130,28 @@ class CodAssignmentController extends Controller
 
         $admin = Admin::findOrFail($data['confirmer_id']);
 
+        // M9: tell the supervisor when this overwrites an existing
+        // assignee or pushes the confirmer over the daily limit — the
+        // manual override is allowed, but never silent.
+        $previousAssignee = $codOrder->assignedTo;
+        $wasOverLimit = $this->assignment->reachedDailyLimit($admin);
+
         if (! $this->assignment->manualAssign($codOrder, $admin)) {
             return back()->withErrors([
                 'confirmer_id' => trans('admin::app.cod.assignment.cannot-assign'),
             ]);
         }
 
-        return back()->with('success', trans('admin::app.cod.assignment.assigned', [
-            'name' => $admin->name,
-        ]));
+        $message = trans('admin::app.cod.assignment.assigned', ['name' => $admin->name]);
+
+        if ($previousAssignee && $previousAssignee->id !== $admin->id) {
+            $message .= ' '.trans('admin::app.cod.assignment.reassigned-from', ['name' => $previousAssignee->name]);
+        }
+
+        if ($wasOverLimit) {
+            $message .= ' '.trans('admin::app.cod.assignment.over-daily-limit');
+        }
+
+        return back()->with('success', $message);
     }
 }
