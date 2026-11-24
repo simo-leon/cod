@@ -234,6 +234,13 @@ return [
             'choose-confirmer' => 'Choisir un confirmateur',
             'assign' => 'Assigner',
             'distribute' => 'Distribuer :count non assignées',
+            'unassigned' => 'Unassigned',
+            'last-call' => 'Last call',
+            'bulk-assign' => 'Assign selected',
+            'selected-count' => ':count selected',
+            'bulk-assigned' => 'Assigned :assigned order(s) to :name.',
+            'bulk-skipped' => 'Skipped :skipped order(s) (no longer pending confirmation).',
+            'bulk-nothing-assigned' => 'No orders were assigned — check the orders are still pending confirmation.',
             'statuses' => [
                 'pending_confirmation' => 'En attente de confirmation',
                 'confirmed' => 'Confirmée',
@@ -469,6 +476,7 @@ return [
         'calls' => [
             'note-placeholder' => 'Note (facultatif)',
             'callback-at' => 'Date de rappel (pour les appels reportés)',
+            'choose-result' => 'Choose the call result',
             'results' => [
                 'confirmed' => 'Confirmé',
                 'no_answer' => 'Sans réponse',

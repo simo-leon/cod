@@ -234,6 +234,13 @@ return [
             'choose-confirmer' => 'اختر المؤكد',
             'assign' => 'إسناد',
             'distribute' => 'وزّع :count غير مسندة',
+            'unassigned' => 'غير المسندة',
+            'last-call' => 'آخر مكالمة',
+            'bulk-assign' => 'إسناد للمحدد',
+            'selected-count' => ':count محددة',
+            'bulk-assigned' => 'تم إسناد :assigned طلباً إلى :name.',
+            'bulk-skipped' => 'وتخطى :skipped طلباً (لم تعد بانتظار التأكيد).',
+            'bulk-nothing-assigned' => 'لم يتم إسناد أي طلب — تحقق أن الطلبات ما زالت بانتظار التأكيد.',
             'statuses' => [
                 'pending_confirmation' => 'بانتظار التأكيد',
                 'confirmed' => 'مؤكد',
@@ -469,6 +476,7 @@ return [
         'calls' => [
             'note-placeholder' => 'ملاحظة (اختياري)',
             'callback-at' => 'تاريخ إعادة الاتصال (للمكالمات المؤجلة)',
+            'choose-result' => 'اختر نتيجة المكالمة',
             'results' => [
                 'confirmed' => 'مؤكد',
                 'no_answer' => 'لم يرد',
