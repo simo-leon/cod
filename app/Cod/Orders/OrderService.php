@@ -394,14 +394,39 @@ class OrderService implements OrderServiceInterface
             'customer_phone' => $shippingAddress->phone ?? null,
             'customer_email' => $order->customer_email ?? $shippingAddress->email ?? null,
             'city' => $shippingAddress->city ?? null,
-            // M8: a Bagisto address has no `address` field — the
-            // street is address1 (+ address2).
-            'address' => trim(($shippingAddress->address1 ?? '').' '.($shippingAddress->address2 ?? '')) ?: null,
+            // N1a (round 2): in this Bagisto build the street lives
+            // in the single `address` column — migration
+            // 2024_03_07 renamed address1 → address, and there is
+            // no address1 accessor — so reading address1/address2
+            // (M8) always returned null. Read `address` first and
+            // keep address1/address2 only as a fallback for builds
+            // that still have the two columns.
+            'address' => $this->streetAddress($shippingAddress),
             'grand_total' => (float) ($order->grand_total ?? 0),
             'currency_code' => $order->order_currency_code ?? null,
             'items_count' => (int) ($order->total_item_count ?? $order->items()->count()),
             'payload' => null,
         ];
+    }
+
+    /**
+     * Street address of a Bagisto address, across builds: the
+     * single `address` column first (this build), address1 (+
+     * address2) as a fallback for older builds. See N1a.
+     */
+    protected function streetAddress(mixed $address): ?string
+    {
+        if (! $address) {
+            return null;
+        }
+
+        $street = trim((string) ($address->address ?? ''));
+
+        if ($street === '') {
+            $street = trim(($address->address1 ?? '').' '.($address->address2 ?? ''));
+        }
+
+        return $street !== '' ? $street : null;
     }
 
     /**

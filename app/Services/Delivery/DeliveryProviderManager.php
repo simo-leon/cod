@@ -81,7 +81,10 @@ class DeliveryProviderManager
             'city' => (string) ($address->city ?? ''),
             'state' => (string) ($address->state ?? ''),
             'country' => strtoupper((string) ($address->country ?? 'MA')) ?: 'MA',
-            'address' => trim(($address->address1 ?? '').' '.($address->address2 ?? '')),
+            // N1b (round 2): same as N1a — this Bagisto build has
+            // one `address` column, not address1/address2, so every
+            // parcel used to go out with an empty street.
+            'address' => $this->streetAddress($address) ?? '',
             'price' => (float) $order->grand_total,
             'products' => $order->items->map(fn ($item) => [
                 'name' => (string) $item->name,
@@ -93,6 +96,27 @@ class DeliveryProviderManager
             'note' => 'Order #'.$order->increment_id,
             'internal_id' => (string) $order->increment_id,
         ];
+    }
+
+    /**
+     * Street address of a Bagisto address, across builds: the
+     * single `address` column first (this build — migration
+     * 2024_03_07 renamed address1 → address), address1 (+
+     * address2) as a fallback for older builds. See N1b.
+     */
+    protected function streetAddress(mixed $address): ?string
+    {
+        if (! $address) {
+            return null;
+        }
+
+        $street = trim((string) ($address->address ?? ''));
+
+        if ($street === '') {
+            $street = trim(($address->address1 ?? '').' '.($address->address2 ?? ''));
+        }
+
+        return $street !== '' ? $street : null;
     }
 
     /**
