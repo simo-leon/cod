@@ -126,6 +126,13 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
         ->name('admin.cod.orders.assign');
 
     /**
+     * Bulk manual assignment of pending orders (2026-11-24), from
+     * the COD orders list. Supervisor only (`cod.assignment`).
+     */
+    Route::post('cod/orders/bulk-assign', [CodAssignmentController::class, 'bulkAssign'])
+        ->name('admin.cod.orders.bulk-assign');
+
+    /**
      * Record the outcome of a confirmation call (phase 3). Guarded by
      * `cod.confirmation`; a confirmer may only log calls on orders
      * assigned to them.

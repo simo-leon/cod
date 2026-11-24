@@ -274,10 +274,20 @@
                 @lang('admin::app.cod.my-tasks.record-call')
             </p>
 
+            @if ($errors->any())
+                <div class="mt-2 rounded-lg border border-red-200 bg-red-50 p-3 text-sm text-red-800 dark:border-red-900 dark:bg-red-950 dark:text-red-200">
+                    @foreach ($errors->all() as $error)
+                        <p>{{ $error }}</p>
+                    @endforeach
+                </div>
+            @endif
+
             <form method="POST" action="{{ route('admin.cod.orders.calls.store', $codOrder) }}" class="mt-2 grid gap-2">
                 @csrf
 
                 <select name="result" required class="w-full rounded-lg border border-gray-200 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
+                    <option value="" disabled selected>@lang('admin::app.cod.calls.choose-result')</option>
+
                     @foreach ($results as $result)
                         <option value="{{ $result }}">
                             @lang('admin::app.cod.calls.results.'.$result)

@@ -155,4 +155,65 @@ class CodAssignmentController extends Controller
 
         return back()->with('success', $message);
     }
+
+    /**
+     * Supervisor override, in bulk: assign several pending orders to
+     * one chosen confirmer, from the COD orders list. Same rules as
+     * the single-order override — it may overwrite an existing
+     * assignee and may exceed the daily limit (a deliberate
+     * supervisor decision, 2026-11-21), and it sends the same
+     * WhatsApp confirmation per order. Orders that are no longer
+     * pending confirmation are skipped and counted, never assigned.
+     */
+    public function bulkAssign(Request $request): RedirectResponse
+    {
+        abort_unless(bouncer()->hasPermission('cod.assignment'), 403);
+
+        $data = $request->validate([
+            'order_ids' => ['required', 'array', 'min:1'],
+            'order_ids.*' => ['integer', 'exists:cod_orders,id'],
+            'confirmer_id' => ['required', 'exists:admins,id'],
+        ]);
+
+        $admin = Admin::findOrFail($data['confirmer_id']);
+
+        if (! $this->assignment->isConfirmer($admin)) {
+            return back()->withErrors([
+                'confirmer_id' => trans('admin::app.cod.assignment.not-a-confirmer'),
+            ]);
+        }
+
+        $wasOverLimit = $this->assignment->reachedDailyLimit($admin);
+        $assigned = 0;
+        $skipped = 0;
+
+        foreach (CodOrder::query()->whereIn('id', $data['order_ids'])->get() as $codOrder) {
+            if ($this->assignment->manualAssign($codOrder, $admin)) {
+                $assigned++;
+            } else {
+                $skipped++;
+            }
+        }
+
+        if ($assigned === 0) {
+            return back()->withErrors([
+                'order_ids' => trans('admin::app.cod.orders.bulk-nothing-assigned'),
+            ]);
+        }
+
+        $message = trans('admin::app.cod.orders.bulk-assigned', [
+            'assigned' => $assigned,
+            'name' => $admin->name,
+        ]);
+
+        if ($skipped > 0) {
+            $message .= ' '.trans('admin::app.cod.orders.bulk-skipped', ['skipped' => $skipped]);
+        }
+
+        if ($wasOverLimit) {
+            $message .= ' '.trans('admin::app.cod.assignment.over-daily-limit');
+        }
+
+        return back()->with('success', $message);
+    }
 }

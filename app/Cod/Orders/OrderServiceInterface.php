@@ -74,9 +74,10 @@ interface OrderServiceInterface
 
     /**
      * Imported COD orders, newest first, optionally filtered by status
-     * and/or by the confirmer they are assigned to.
+     * and/or by the confirmer they are assigned to. When $unassignedOnly
+     * is true, only orders with no assignee are returned.
      */
-    public function paginatedOrders(?string $status = null, int $perPage = 20, ?int $assignedTo = null): LengthAwarePaginator;
+    public function paginatedOrders(?string $status = null, int $perPage = 20, ?int $assignedTo = null, bool $unassignedOnly = false): LengthAwarePaginator;
 
     /**
      * Assigned-order figures for one confirmer, for the COD dashboard:

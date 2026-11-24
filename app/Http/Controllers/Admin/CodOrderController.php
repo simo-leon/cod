@@ -7,6 +7,7 @@ use App\Cod\Confirmation\CallLogServiceInterface;
 use App\Cod\Orders\OrderServiceInterface;
 use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Http\Controllers\Controller;
+use App\Models\CodCallLog;
 use App\Models\CodOrder;
 use App\Models\SoukTask;
 use Illuminate\Http\RedirectResponse;
@@ -55,7 +56,31 @@ class CodOrderController extends Controller
         $canManage = bouncer()->hasPermission('cod.assignment');
         $scopedTo = ($isConfirmer && ! $canManage) ? $user->id : null;
 
-        $orders = $this->orders->paginatedOrders($status, 20, $scopedTo);
+        // Unassigned-only filter (2026-11-24): only meaningful for
+        // staff who can see unassigned orders — a confirmer's list
+        // never contains them, so the chip is supervisor-only too.
+        $unassignedOnly = $canManage && $request->boolean('unassigned');
+
+        $orders = $this->orders->paginatedOrders($status, 20, $scopedTo, $unassignedOnly);
+
+        // Last call logged for each order on this page (2026-11-24):
+        // the most recently recorded call per order — called_at is
+        // set to now() when a call is recorded, so the highest id is
+        // the latest call. One query, no per-row lookups.
+        $lastCalls = collect();
+
+        if ($orders->isNotEmpty()) {
+            $lastCallIds = CodCallLog::query()
+                ->selectRaw('MAX(id) as id')
+                ->whereIn('cod_order_id', $orders->pluck('id')->all())
+                ->groupBy('cod_order_id')
+                ->pluck('id');
+
+            $lastCalls = CodCallLog::query()
+                ->whereIn('id', $lastCallIds)
+                ->get()
+                ->keyBy('cod_order_id');
+        }
 
         // Souk tasks linked to the orders on this page (guarded: on
         // an install where the souk migration has not run yet there
@@ -81,6 +106,8 @@ class CodOrderController extends Controller
             // T9: the count is only computed (and passed) for staff who
             // may see it — a confirmer never sees unassigned orders.
             'unassignedCount' => $canManage ? $this->assignment->unassignedCount() : 0,
+            'unassignedOnly' => $unassignedOnly,
+            'lastCalls' => $lastCalls,
             'soukTasks' => $soukTasks,
             'canViewSouk' => bouncer()->hasPermission('cod.souk'),
         ]);

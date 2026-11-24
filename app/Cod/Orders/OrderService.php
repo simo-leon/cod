@@ -275,7 +275,7 @@ class OrderService implements OrderServiceInterface
      * not open an unassigned order (the detail page 403s it), and
      * their task list only ever shows assigned orders.
      */
-    public function paginatedOrders(?string $status = null, int $perPage = 20, ?int $assignedTo = null): LengthAwarePaginator
+    public function paginatedOrders(?string $status = null, int $perPage = 20, ?int $assignedTo = null, bool $unassignedOnly = false): LengthAwarePaginator
     {
         if (! Schema::hasTable('cod_orders')) {
             return new LengthAwarePaginator([], 0, $perPage);
@@ -284,6 +284,7 @@ class OrderService implements OrderServiceInterface
         return CodOrder::query()
             ->with(['order', 'assignedTo'])
             ->when($assignedTo, fn ($query) => $query->where('assigned_to', $assignedTo))
+            ->when($unassignedOnly, fn ($query) => $query->whereNull('assigned_to'))
             ->when(
                 $status && in_array($status, CodOrder::STATUSES, true),
                 fn ($query) => $query->where('status', $status),

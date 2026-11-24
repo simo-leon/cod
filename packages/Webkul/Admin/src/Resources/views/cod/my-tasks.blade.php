@@ -28,6 +28,14 @@
         </a>
     </div>
 
+    @if ($errors->any())
+        <div class="mt-8 rounded-lg border border-red-200 bg-red-50 p-4 text-sm text-red-800 dark:border-red-900 dark:bg-red-950 dark:text-red-200">
+            @foreach ($errors->all() as $error)
+                <p>{{ $error }}</p>
+            @endforeach
+        </div>
+    @endif
+
     @if ($canManage)
         <!-- Supervisor: filter by confirmer -->
         <form method="GET" action="{{ route('admin.cod.my-tasks.index') }}" class="mt-8 flex flex-wrap items-center gap-2">
@@ -122,6 +130,8 @@
                                         @csrf
 
                                         <select name="result" required class="w-full rounded-lg border border-gray-200 bg-white px-2 py-1.5 text-xs text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white">
+                                            <option value="" disabled selected>@lang('admin::app.cod.calls.choose-result')</option>
+
                                             @foreach ($results as $result)
                                                 <option value="{{ $result }}">
                                                     @lang('admin::app.cod.calls.results.'.$result)
