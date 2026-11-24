@@ -1153,53 +1153,72 @@ class SoukService implements SoukServiceInterface
             return 0;
         }
 
-        $storeCount = (int) DB::table('cod_orders as c')
-            ->join('order_items as oi', 'oi.order_id', '=', 'c.order_id')
-            ->where('c.status', CodOrder::STATUS_CONFIRMED)
-            ->whereRaw('(SELECT COALESCE(SUM(qty), 0) FROM product_inventories WHERE product_id = oi.product_id) - (SELECT COALESCE(SUM(qty), 0) FROM product_ordered_inventories WHERE product_id = oi.product_id) <= 0')
-            ->whereNotExists(function ($query) {
-                $query->select(DB::raw(1))
-                    ->from('souk_tasks as st')
-                    ->whereColumn('st.cod_order_id', 'c.id')
-                    ->whereColumn('st.product_id', 'oi.product_id')
-                    ->whereIn('st.status', SoukTask::OPEN_STATUSES);
-            })
-            ->distinct()
-            ->count('c.id');
+        // N2 (round 2): confirmed orders that still need souk goods
+        // but have no live task covering them yet — store orders and
+        // WhatsApp/API orders alike (the old join on order_items
+        // never saw orders without a store order). Needs are grouped
+        // per product in order-id order, and a live task covers
+        // orders cumulatively up to its quantity (S3 expansion): an
+        // order is uncovered only when the live quantity runs out
+        // before its goods, so a task expanded to cover a second
+        // order stops counting that order. Orders whose goods a PAID
+        // task already brought in are out.
+        $uncoveredOrderIds = [];
 
-        // N2: WhatsApp/API orders have no store order (order_id is
-        // null), so the join above never sees them — a confirmed
-        // WhatsApp order with no live task was invisible in the
-        // banner. Count them the same way, via the payload items.
-        $whatsappCount = 0;
-
-        $whatsappOrders = CodOrder::query()
+        $confirmed = CodOrder::query()
             ->where('status', CodOrder::STATUS_CONFIRMED)
-            ->whereNull('order_id')
-            ->get(['id']);
+            ->orderBy('id')
+            ->get(['id', 'order_id', 'payload']);
 
-        foreach ($whatsappOrders as $codOrder) {
+        // product_id => [['cod_order_id' => int, 'qty' => int], ...]
+        $needs = [];
+        $stock = [];
+
+        foreach ($confirmed as $codOrder) {
             foreach ($this->itemsForCodOrder($codOrder) as $item) {
-                $product = $item['product'];
+                $productId = (int) $item['product']->id;
 
-                if ($this->stockQty((int) $product->id) > 0) {
+                $stock[$productId] ??= $this->stockQty($productId);
+
+                if ($stock[$productId] > 0) {
                     continue;
                 }
 
-                $hasLiveTask = SoukTask::query()
-                    ->where('cod_order_id', $codOrder->id)
-                    ->where('product_id', (int) $product->id)
-                    ->whereIn('status', SoukTask::OPEN_STATUSES)
-                    ->exists();
+                $needs[$productId][] = [
+                    'cod_order_id' => (int) $codOrder->id,
+                    'qty' => (int) $item['qty'],
+                ];
+            }
+        }
 
-                if (! $hasLiveTask) {
-                    $whatsappCount++;
-                    break;
+        foreach ($needs as $productId => $orders) {
+            $paidOrderIds = SoukTask::query()
+                ->where('product_id', $productId)
+                ->where('status', SoukTask::STATUS_PAID)
+                ->pluck('cod_order_id')
+                ->all();
+
+            $liveQty = (int) SoukTask::query()
+                ->where('product_id', $productId)
+                ->whereIn('status', SoukTask::OPEN_STATUSES)
+                ->sum('qty');
+
+            $coveredQty = 0;
+
+            foreach ($orders as $need) {
+                if (in_array($need['cod_order_id'], $paidOrderIds, true)) {
+                    continue;
+                }
+
+                $coveredQty += $need['qty'];
+
+                if ($liveQty < $coveredQty) {
+                    $uncoveredOrderIds[$need['cod_order_id']] = true;
                 }
             }
         }
 
-        return $storeCount + $whatsappCount;
+        return count($uncoveredOrderIds);
     }
 
     /**
