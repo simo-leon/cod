@@ -375,40 +375,88 @@ class SoukService implements SoukServiceInterface
     }
 
     /**
-     * Total quantity of one product still needed by confirmed COD
-     * orders whose goods have not been brought in yet (no PAID task
-     * for the product): store orders via order_items plus
-     * WhatsApp/API orders via payload items.
+     * The confirmed COD orders that still need one product from the
+     * souk, in order-id order — store orders (via order_items) and
+     * WhatsApp/API orders (via payload items) in one list, so
+     * cumulative coverage is computed over both sources together.
+     * One entry per order/item pair: the quantity is what that
+     * order needs of this product.
+     *
+     * @return array<int, array{cod_order_id: int, qty: int, order_id: int|null}>
      */
-    protected function totalQtyNeedingSouk(int $productId): int
+    protected function confirmedNeedsForProduct(int $productId): array
     {
-        $total = (int) DB::table('cod_orders as c')
-            ->join('order_items as oi', 'oi.order_id', '=', 'c.order_id')
-            ->where('c.status', CodOrder::STATUS_CONFIRMED)
-            ->where('oi.product_id', $productId)
-            ->whereNotExists(function ($query) use ($productId) {
-                $query->select(DB::raw(1))
-                    ->from('souk_tasks as st')
-                    ->whereColumn('st.cod_order_id', 'c.id')
-                    ->where('st.product_id', $productId)
-                    ->where('st.status', SoukTask::STATUS_PAID);
-            })
-            ->sum('oi.qty_ordered');
+        $needs = [];
 
-        $sku = Product::query()->where('id', $productId)->value('sku');
+        $confirmed = CodOrder::query()
+            ->where('status', CodOrder::STATUS_CONFIRMED)
+            ->orderBy('id')
+            ->get(['id', 'order_id', 'payload']);
 
-        if ($sku) {
-            foreach ($this->whatsappOrdersNeedingProduct($productId) as $candidate) {
-                foreach ((is_array($candidate->payload) ? ($candidate->payload['items'] ?? []) : []) as $item) {
-                    if (is_array($item) && (string) ($item['sku'] ?? '') === (string) $sku) {
-                        $total += max(1, (int) ($item['qty'] ?? $item['quantity'] ?? 1));
-                        break;
-                    }
+        foreach ($confirmed as $codOrder) {
+            foreach ($this->itemsForCodOrder($codOrder) as $item) {
+                if ((int) $item['product']->id !== $productId) {
+                    continue;
                 }
+
+                $needs[] = [
+                    'cod_order_id' => (int) $codOrder->id,
+                    'qty' => max(1, (int) $item['qty']),
+                    'order_id' => $codOrder->order_id,
+                ];
             }
         }
 
-        return $total;
+        return $needs;
+    }
+
+    /**
+     * Units of one product a PAID task already brought in: the
+     * goods were bought for the confirmed orders, whatever order
+     * the task happens to be linked to — a task expanded to cover
+     * several orders (S3) supplies all of them, not just its
+     * linked one. This is the cumulative PAID supply the gate, the
+     * total and the counter all share.
+     */
+    protected function paidQtyForProduct(int $productId): int
+    {
+        return (int) SoukTask::query()
+            ->where('product_id', $productId)
+            ->where('status', SoukTask::STATUS_PAID)
+            ->sum('qty');
+    }
+
+    /**
+     * Units of one product a live (open) task is already bringing
+     * in — the in-flight supply, counted the same cumulative way.
+     */
+    protected function liveQtyForProduct(int $productId): int
+    {
+        return (int) SoukTask::query()
+            ->where('product_id', $productId)
+            ->whereIn('status', SoukTask::OPEN_STATUSES)
+            ->sum('qty');
+    }
+
+    /**
+     * Total quantity of one product still needed by confirmed COD
+     * orders whose goods have not been brought in yet: the summed
+     * demand of all confirmed orders (store orders via order_items
+     * plus WhatsApp/API orders via payload items) minus the units a
+     * PAID task already supplied for the product — counted
+     * cumulatively (N3), not per linked order, because one expanded
+     * task covers several orders. Never negative: when the paid
+     * goods cover every confirmed order, nothing is still needed.
+     */
+    protected function totalQtyNeedingSouk(int $productId): int
+    {
+        $total = 0;
+
+        foreach ($this->confirmedNeedsForProduct($productId) as $need) {
+            $total += $need['qty'];
+        }
+
+        return max(0, $total - $this->paidQtyForProduct($productId));
     }
 
     /**
@@ -450,37 +498,6 @@ class SoukService implements SoukServiceInterface
                 'error' => $e->getMessage(),
             ]);
         }
-    }
-
-    /**
-     * Confirmed WhatsApp/API orders (no store order) whose payload
-     * needs one product and whose goods have not been brought in
-     * yet (no PAID task for the product). Shared by the gate
-     * (confirmedOrderNeedingSouk) and the total-needed count.
-     *
-     * @return Collection<int, CodOrder>
-     */
-    protected function whatsappOrdersNeedingProduct(int $productId): Collection
-    {
-        $sku = Product::query()->where('id', $productId)->value('sku');
-
-        if (! $sku) {
-            return new Collection;
-        }
-
-        return CodOrder::query()
-            ->where('status', CodOrder::STATUS_CONFIRMED)
-            ->whereNull('order_id')
-            ->whereRaw("JSON_CONTAINS(payload, JSON_OBJECT('sku', ?), '$.items')", [(string) $sku])
-            ->whereNotExists(function ($query) use ($productId) {
-                $query->select(DB::raw(1))
-                    ->from('souk_tasks as st')
-                    ->whereColumn('st.cod_order_id', 'cod_orders.id')
-                    ->where('st.product_id', $productId)
-                    ->where('st.status', SoukTask::STATUS_PAID);
-            })
-            ->orderBy('id')
-            ->get(['id', 'payload']);
     }
 
     /**
@@ -534,10 +551,20 @@ class SoukService implements SoukServiceInterface
 
     /**
      * The oldest confirmed COD order that still needs one product
-     * from the souk: its status is confirmed, its store order
-     * contains the product, and no task for that order and product
-     * has already brought the goods in (paid). Returns
-     * [cod_order_id, qty] or null when no confirmed order needs it.
+     * from the souk: its status is confirmed and the cumulative
+     * demand up to it (confirmed orders in id order, store and
+     * WhatsApp/API alike) exceeds the cumulative supply — units a
+     * PAID task already brought in plus units a live task is
+     * bringing (N3). Returns [cod_order_id, uncovered qty of that
+     * order] or null when no confirmed order needs it.
+     *
+     * A PAID task expanded to cover several orders supplies the
+     * later ones too, even though it is linked to the oldest order
+     * only — so the per-order PAID check that used to live here
+     * created a duplicate task for an order whose goods were
+     * already bought. The returned qty is only the still-missing
+     * part of that order, so a task created for it never over-buys
+     * when a paid task covered the order only partly.
      *
      * An order whose task was rejected, expired or cancelled is not
      * excluded: rejection and expiry recreate a fresh task
@@ -546,46 +573,16 @@ class SoukService implements SoukServiceInterface
      */
     protected function confirmedOrderNeedingSouk(int $productId): ?array
     {
-        $row = DB::table('cod_orders as c')
-            ->join('order_items as oi', 'oi.order_id', '=', 'c.order_id')
-            ->where('c.status', CodOrder::STATUS_CONFIRMED)
-            ->where('oi.product_id', $productId)
-            ->whereNotExists(function ($query) use ($productId) {
-                $query->select(DB::raw(1))
-                    ->from('souk_tasks as st')
-                    ->whereColumn('st.cod_order_id', 'c.id')
-                    ->where('st.product_id', $productId)
-                    ->where('st.status', SoukTask::STATUS_PAID);
-            })
-            ->orderBy('c.id')
-            ->select('c.id as cod_order_id', 'oi.qty_ordered')
-            ->first();
+        $supply = $this->paidQtyForProduct($productId) + $this->liveQtyForProduct($productId);
 
-        if ($row) {
-            return [(int) $row->cod_order_id, max(1, (int) ($row->qty_ordered ?? 1))];
-        }
+        $cumulative = 0;
 
-        // M11: WhatsApp-created orders have no store order (order_id
-        // is null) — their items live in payload.items. Match the
-        // product by SKU in the payload instead of the order_items
-        // join, so a confirmed WhatsApp order can reach the panel too.
-        $sku = Product::query()->where('id', $productId)->value('sku');
+        foreach ($this->confirmedNeedsForProduct($productId) as $need) {
+            $cumulative += $need['qty'];
 
-        if (! $sku) {
-            return null;
-        }
-
-        foreach ($this->whatsappOrdersNeedingProduct($productId) as $candidate) {
-            $qty = 1;
-
-            foreach ((is_array($candidate->payload) ? ($candidate->payload['items'] ?? []) : []) as $item) {
-                if (is_array($item) && (string) ($item['sku'] ?? '') === (string) $sku) {
-                    $qty = max(1, (int) ($item['qty'] ?? $item['quantity'] ?? 1));
-                    break;
-                }
+            if ($cumulative > $supply) {
+                return [(int) $need['cod_order_id'], $cumulative - $supply];
             }
-
-            return [(int) $candidate->id, $qty];
         }
 
         return null;
@@ -1157,12 +1154,13 @@ class SoukService implements SoukServiceInterface
         // but have no live task covering them yet — store orders and
         // WhatsApp/API orders alike (the old join on order_items
         // never saw orders without a store order). Needs are grouped
-        // per product in order-id order, and a live task covers
-        // orders cumulatively up to its quantity (S3 expansion): an
-        // order is uncovered only when the live quantity runs out
-        // before its goods, so a task expanded to cover a second
-        // order stops counting that order. Orders whose goods a PAID
-        // task already brought in are out.
+        // per product in order-id order, and the supply — units a
+        // PAID task already brought in plus units a live task is
+        // bringing — covers orders cumulatively (S3 expansion, N3):
+        // an order is uncovered only when the cumulative demand up
+        // to it runs past that supply, so a task expanded to cover a
+        // second order stops counting that order, and a paid task
+        // covering several orders stops counting all of them.
         $uncoveredOrderIds = [];
 
         $confirmed = CodOrder::query()
@@ -1192,27 +1190,21 @@ class SoukService implements SoukServiceInterface
         }
 
         foreach ($needs as $productId => $orders) {
-            $paidOrderIds = SoukTask::query()
-                ->where('product_id', $productId)
-                ->where('status', SoukTask::STATUS_PAID)
-                ->pluck('cod_order_id')
-                ->all();
+            // N3: the supply is cumulative — units a PAID task
+            // already brought in plus units a live task is bringing.
+            // A paid task expanded to cover several orders supplies
+            // the later ones too, so skipping only its linked order
+            // (the old per-order check) counted a covered order as
+            // uncovered. An order is uncovered only when the
+            // cumulative demand up to it exceeds that supply.
+            $supply = $this->paidQtyForProduct($productId) + $this->liveQtyForProduct($productId);
 
-            $liveQty = (int) SoukTask::query()
-                ->where('product_id', $productId)
-                ->whereIn('status', SoukTask::OPEN_STATUSES)
-                ->sum('qty');
-
-            $coveredQty = 0;
+            $cumulativeQty = 0;
 
             foreach ($orders as $need) {
-                if (in_array($need['cod_order_id'], $paidOrderIds, true)) {
-                    continue;
-                }
+                $cumulativeQty += $need['qty'];
 
-                $coveredQty += $need['qty'];
-
-                if ($liveQty < $coveredQty) {
+                if ($cumulativeQty > $supply) {
                     $uncoveredOrderIds[$need['cod_order_id']] = true;
                 }
             }
