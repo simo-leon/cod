@@ -73,6 +73,13 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
         ->name('admin.cod.conversations.handoff');
 
     /**
+     * Hand a conversation back to the AI after an escalation (test
+     * issue 7): ai_enabled returns to true and the flow reopens.
+     */
+    Route::post('cod/conversations/{conversation}/resume-ai', [CodConversationController::class, 'resumeAi'])
+        ->name('admin.cod.conversations.resume-ai');
+
+    /**
      * COD System analytics (phase 7). Guarded by the `cod.analytics`
      * ACL key.
      */
@@ -125,6 +132,14 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
      */
     Route::post('cod/orders/{codOrder}/calls', [CodCallLogController::class, 'store'])
         ->name('admin.cod.orders.calls.store');
+
+    /**
+     * Re-send the WhatsApp confirmation message for one pending
+     * order (creative addition): the manual retry when the first
+     * send failed, instead of a re-import.
+     */
+    Route::post('cod/orders/{codOrder}/resend-confirmation', [CodOrderController::class, 'resendConfirmation'])
+        ->name('admin.cod.orders.resend-confirmation');
 
     /**
      * Souk (market sourcing) board. Guarded by the `cod.souk` ACL

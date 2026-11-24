@@ -72,7 +72,17 @@ class CodWhatsAppMessage extends Model
 
     protected $table = 'cod_whatsapp_messages';
 
-    protected $guarded = [];
+    protected $fillable = [
+        'cod_order_id',
+        'direction',
+        'provider',
+        'phone',
+        'body',
+        'message_id',
+        'status',
+        'sender',
+        'error',
+    ];
 
     public function codOrder(): BelongsTo
     {

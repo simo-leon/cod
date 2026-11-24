@@ -5,9 +5,11 @@ namespace App\Http\Controllers\Admin;
 use App\Cod\Confirmation\AssignmentServiceInterface;
 use App\Cod\Confirmation\CallLogServiceInterface;
 use App\Cod\Orders\OrderServiceInterface;
+use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Http\Controllers\Controller;
 use App\Models\CodOrder;
 use App\Models\SoukTask;
+use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\View\View;
@@ -76,7 +78,9 @@ class CodOrderController extends Controller
             'dashboardUrl' => route('admin.cod.index'),
             'confirmers' => $this->assignment->confirmers(),
             'canManageAssignment' => $canManage,
-            'unassignedCount' => $this->assignment->unassignedCount(),
+            // T9: the count is only computed (and passed) for staff who
+            // may see it — a confirmer never sees unassigned orders.
+            'unassignedCount' => $canManage ? $this->assignment->unassignedCount() : 0,
             'soukTasks' => $soukTasks,
             'canViewSouk' => bouncer()->hasPermission('cod.souk'),
         ]);
@@ -117,6 +121,18 @@ class CodOrderController extends Controller
 
         $codOrder->load(['order.items', 'callLogs.confirmer', 'assignedTo']);
 
+        // P-A3: the souk tasks linked to this COD order, so the
+        // confirmer sees whether the goods come from the souk.
+        $soukTasks = collect();
+
+        if (Schema::hasTable('souk_tasks')) {
+            $soukTasks = SoukTask::query()
+                ->with(['product', 'buyer'])
+                ->where('cod_order_id', $codOrder->id)
+                ->orderBy('id')
+                ->get();
+        }
+
         return view('admin::cod.order-show')->with([
             'codOrder' => $codOrder,
             'items' => $this->orderItems($codOrder),
@@ -128,7 +144,39 @@ class CodOrderController extends Controller
             'ordersUrl' => route('admin.cod.orders.index'),
             'myTasksUrl' => route('admin.cod.my-tasks.index'),
             'dashboardUrl' => route('admin.cod.index'),
+            'soukTasks' => $soukTasks,
+            'canViewSouk' => bouncer()->hasPermission('cod.souk'),
+            'soukUrl' => route('admin.cod.souk.index'),
         ]);
+    }
+
+    /**
+     * Re-send the WhatsApp confirmation message for one pending
+     * order (creative addition): when the first send failed, the
+     * confirmer used to have no manual action — the only retry was a
+     * re-import. The send is forced past the once-only guard; a
+     * failed send leaves confirmation_sent_at empty as before.
+     */
+    public function resendConfirmation(CodOrder $codOrder): RedirectResponse
+    {
+        abort_unless(
+            bouncer()->hasPermission('cod.confirmation') || bouncer()->hasPermission('cod.assignment'),
+            403
+        );
+
+        $user = auth()->guard('admin')->user();
+
+        if (bouncer()->hasPermission('cod.confirmation') && ! bouncer()->hasPermission('cod.assignment') && $codOrder->assigned_to !== $user->id) {
+            abort(403);
+        }
+
+        $result = app(WhatsAppServiceInterface::class)->sendConfirmation($codOrder, true);
+
+        if (! $result['success']) {
+            return back()->with('error', trans('admin::app.cod.order-show.resend-failed', ['error' => $result['message']]));
+        }
+
+        return back()->with('success', trans('admin::app.cod.order-show.resend-sent'));
     }
 
     /**

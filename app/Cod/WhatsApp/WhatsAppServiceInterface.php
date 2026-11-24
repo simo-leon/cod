@@ -74,7 +74,10 @@ interface WhatsAppServiceInterface
      *
      * @return array{success: bool, message: string, message_id: ?string}
      */
-    public function sendConfirmation(CodOrder $order): array;
+    /**
+     * @param  bool  $force  re-send even when a confirmation was already sent (manual resend button)
+     */
+    public function sendConfirmation(CodOrder $order, bool $force = false): array;
 
     /**
      * Send the reminder message for one COD order (reminder template

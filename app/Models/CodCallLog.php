@@ -34,7 +34,14 @@ class CodCallLog extends Model
         self::RESULT_POSTPONED,
     ];
 
-    protected $guarded = [];
+    protected $fillable = [
+        'cod_order_id',
+        'confirmer_id',
+        'result',
+        'note',
+        'callback_at',
+        'called_at',
+    ];
 
     protected $casts = [
         'callback_at' => 'datetime',

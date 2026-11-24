@@ -1253,12 +1253,11 @@ return [
     | All ACLs related to the COD System will be placed here. The
     | dashboard, orders list, confirmation tasks, per-confirmer page,
     | assignment rules pages and analytics page exist (phases 1-3
-    | and 7) and are guarded by their keys. The delivery and settings
-    | keys point at routes that do not exist yet; their pages arrive
-    | in later phases, and the Bouncer enforces them automatically
-    | once those routes are registered. The souk key guards the
-    | market-sourcing board (admin.cod.souk.index) and every souk
-    | action on it.
+    | and 7) and are guarded by their keys. The dead keys cod.delivery
+    | and cod.settings were removed (M27): they pointed at routes
+    | that never existed, so roles were granted phantom permissions.
+    | The souk key guards the market-sourcing board
+    | (admin.cod.souk.index) and every souk action on it.
     |
     */
     [
@@ -1282,11 +1281,6 @@ return [
         'route' => 'admin.cod.assignment.index',
         'sort' => 6,
     ], [
-        'key' => 'cod.delivery',
-        'name' => 'admin::app.acl.cod-delivery',
-        'route' => 'admin.cod.delivery.index',
-        'sort' => 3,
-    ], [
         'key' => 'cod.analytics',
         'name' => 'admin::app.acl.cod-analytics',
         'route' => 'admin.cod.analytics.index',
@@ -1296,11 +1290,6 @@ return [
         'name' => 'admin::app.acl.cod-conversations',
         'route' => 'admin.cod.conversations.index',
         'sort' => 5,
-    ], [
-        'key' => 'cod.settings',
-        'name' => 'admin::app.acl.cod-settings',
-        'route' => 'admin.cod.settings.index',
-        'sort' => 6,
     ], [
         'key' => 'cod.souk',
         'name' => 'admin::app.acl.cod-souk',

@@ -31,7 +31,15 @@ class SoukPayment extends Model
         self::TYPE_REIMBURSEMENT,
     ];
 
-    protected $guarded = [];
+    protected $fillable = [
+        'souk_task_id',
+        'buyer_id',
+        'paid_by',
+        'amount',
+        'type',
+        'note',
+        'paid_at',
+    ];
 
     protected $casts = [
         'amount' => 'decimal:2',

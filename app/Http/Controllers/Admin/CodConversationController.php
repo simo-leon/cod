@@ -6,6 +6,7 @@ use App\Cod\Conversations\ConversationServiceInterface;
 use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Http\Controllers\Controller;
 use App\Models\CodConversation;
+use App\Models\CodOrder;
 use App\Models\CodWhatsAppMessage;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
@@ -49,7 +50,31 @@ class CodConversationController extends Controller
             $state = null;
         }
 
+        // Creative: search by phone number and filter by the linked
+        // order's outcome, so the inbox can be used as a work list.
+        $phoneQuery = trim((string) $request->query('q', ''));
+        $orderStatus = $request->query('order_status');
+
+        if (! in_array($orderStatus, CodOrder::STATUSES, true)) {
+            $orderStatus = null;
+        }
+
         $query = CodConversation::query()->with('codOrder')->orderByDesc('last_message_at')->orderByDesc('id');
+
+        if ($phoneQuery !== '') {
+            $digits = preg_replace('/\D+/', '', $phoneQuery) ?? '';
+            $query->where(function ($q) use ($phoneQuery, $digits) {
+                $q->where('phone', 'like', '%'.$phoneQuery.'%');
+
+                if ($digits !== '') {
+                    $q->orWhere('phone', 'like', '%'.substr($digits, -9).'%');
+                }
+            });
+        }
+
+        if ($orderStatus !== null) {
+            $query->whereHas('codOrder', fn ($q) => $q->where('status', $orderStatus));
+        }
 
         $counts = [
             'all' => (clone $query)->count(),
@@ -67,6 +92,9 @@ class CodConversationController extends Controller
             'states' => CodConversation::STATES,
             'stateCounts' => $counts,
             'state' => $state,
+            'phoneQuery' => $phoneQuery,
+            'orderStatus' => $orderStatus,
+            'orderStatuses' => CodOrder::STATUSES,
             'dashboardUrl' => route('admin.cod.index'),
         ]);
     }
@@ -83,7 +111,9 @@ class CodConversationController extends Controller
 
         return view('admin::cod.conversation')->with([
             'conversation' => $conversation,
-            'messages' => $conversation->messages()->get(),
+            // M21: the thread is paginated — a long conversation used
+            // to load every message at once.
+            'messages' => $conversation->messages()->paginate(50)->withQueryString(),
             'indexUrl' => route('admin.cod.conversations.index'),
         ]);
     }
@@ -128,5 +158,20 @@ class CodConversationController extends Controller
         $this->conversations->escalate($conversation, 'Handed to a human from the conversations inbox.');
 
         return back()->with('success', trans('admin::app.cod.conversations.handed-to-human'));
+    }
+
+    /**
+     * Hand the conversation back to the AI (test issue 7): an
+     * escalated conversation used to stay with the human forever —
+     * even a brand-new product inquiry on the same phone got no AI
+     * answer. The button restores ai_enabled and reopens the flow.
+     */
+    public function resumeAi(CodConversation $conversation): RedirectResponse
+    {
+        abort_unless(bouncer()->hasPermission('cod.conversations'), 403);
+
+        $this->conversations->resumeAi($conversation);
+
+        return back()->with('success', trans('admin::app.cod.conversations.ai-resumed'));
     }
 }

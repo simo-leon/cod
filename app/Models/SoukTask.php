@@ -65,7 +65,30 @@ class SoukTask extends Model
         self::STATUS_VERIFIED,
     ];
 
-    protected $guarded = [];
+    protected $fillable = [
+        'product_id',
+        'cod_order_id',
+        'qty',
+        'status',
+        'buyer_id',
+        'controller_id',
+        'sale_price',
+        'purchase_price',
+        'over_cap',
+        'below_margin',
+        'override_approved',
+        'is_escalated',
+        'escalated_at',
+        'deadline_at',
+        'claimed_at',
+        'purchased_at',
+        'received_at',
+        'verified_at',
+        'paid_at',
+        'rejection_reason',
+        'note',
+        'cancel_reason',
+    ];
 
     protected $casts = [
         'sale_price' => 'decimal:2',

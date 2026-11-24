@@ -59,6 +59,11 @@ interface ConversationServiceInterface
     public function escalate(CodConversation $conversation, ?string $reason = null): void;
 
     /**
+     * Hand the conversation back to the AI after an escalation.
+     */
+    public function resumeAi(CodConversation $conversation): void;
+
+    /**
      * Count an unclear reply on the conversation. Returns the new count.
      */
     public function countUnclear(CodConversation $conversation): int;

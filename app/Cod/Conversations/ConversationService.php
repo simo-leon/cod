@@ -71,6 +71,13 @@ class ConversationService implements ConversationServiceInterface
      */
     public function startProductInquiry(CodConversation $conversation, array $product): string
     {
+        // Test issue 7: a new inquiry on an escalated conversation
+        // re-enables the AI — otherwise the new inquiry never gets an
+        // AI answer and the escalation banner stays forever.
+        if ($conversation->isEscalated()) {
+            $this->resumeAi($conversation);
+        }
+
         $collected = $conversation->collected ?? [];
         $collected['product'] = [
             'sku' => $product['sku'],
@@ -85,6 +92,22 @@ class ConversationService implements ConversationServiceInterface
         $conversation->save();
 
         return $this->questionFor($conversation);
+    }
+
+    /**
+     * Hand the conversation back to the AI after an escalation: the
+     * agent answers again, and the flow state reopens (collecting
+     * info, or awaiting confirmation when everything is already
+     * collected).
+     */
+    public function resumeAi(CodConversation $conversation): void
+    {
+        $conversation->ai_enabled = true;
+        $conversation->escalated_at = null;
+        $conversation->state = $conversation->nextField() === null
+            ? CodConversation::STATE_AWAITING_CONFIRMATION
+            : CodConversation::STATE_COLLECTING_INFO;
+        $conversation->save();
     }
 
     /**

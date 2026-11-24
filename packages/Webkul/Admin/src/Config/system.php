@@ -688,6 +688,11 @@ return [
                 'title' => 'admin::app.configuration.index.general.delivery-providers.settings.default-provider',
                 'type' => 'select',
                 'default' => 'vitis_express',
+                // M28: Speedaf is NOT offered here — DES-CBC is
+                // unavailable in this PHP/OpenSSL build, so no Speedaf
+                // call can ever succeed. It stays registered in the
+                // code for a server where DES works; re-add the option
+                // only after a live test-connection succeeds.
                 'options' => [
                     [
                         'title' => 'Vitis Express',
@@ -695,9 +700,6 @@ return [
                     ], [
                         'title' => 'Sendit',
                         'value' => 'sendit',
-                    ], [
-                        'title' => 'Speedaf Express',
-                        'value' => 'speedaf_express',
                     ],
                 ],
                 'channel_based' => true,
@@ -812,6 +814,12 @@ return [
                 'name' => 'api_key',
                 'title' => 'admin::app.configuration.index.general.delivery-providers.speedaf-express.api-key',
                 'info' => 'admin::app.configuration.index.general.delivery-providers.speedaf-express.api-key-info',
+                'type' => 'password',
+                'channel_based' => true,
+            ], [
+                'name' => 'shared_secret',
+                'title' => 'admin::app.configuration.index.general.delivery-providers.speedaf-express.shared-secret',
+                'info' => 'admin::app.configuration.index.general.delivery-providers.speedaf-express.shared-secret-info',
                 'type' => 'password',
                 'channel_based' => true,
             ], [
@@ -1013,6 +1021,13 @@ return [
                 'type' => 'text',
                 'depends' => 'status:1',
                 'channel_based' => true,
+            ], [
+                'name' => 'evolution_webhook_secret',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-webhook-secret',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp.evolution-webhook-secret-info',
+                'type' => 'password',
+                'depends' => 'status:1',
+                'channel_based' => true,
             ],
         ],
     ], [
@@ -1049,6 +1064,12 @@ return [
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.reminder-message-info',
                 'type' => 'textarea',
                 'default' => 'السلام عليكم {name}، ما زال الطلب ديالك رقم {order_id} ({total}) بلا تأكيد. واش نأكدو؟',
+                'channel_based' => true,
+            ], [
+                'name' => 'meta_reminder_template_name',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-reminder-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-reminder-template-name-info',
+                'type' => 'text',
                 'channel_based' => true,
             ], [
                 'name' => 'reminder_delay_minutes',
@@ -1388,6 +1409,13 @@ return [
                 'name' => 'claim_timeout_hours',
                 'title' => 'admin::app.configuration.index.general.souk.settings.claim-timeout-hours',
                 'info' => 'admin::app.configuration.index.general.souk.settings.claim-timeout-hours-info',
+                'type' => 'number',
+                'default' => 24,
+                'channel_based' => true,
+            ], [
+                'name' => 'purchase_timeout_hours',
+                'title' => 'admin::app.configuration.index.general.souk.settings.purchase-timeout-hours',
+                'info' => 'admin::app.configuration.index.general.souk.settings.purchase-timeout-hours-info',
                 'type' => 'number',
                 'default' => 24,
                 'channel_based' => true,

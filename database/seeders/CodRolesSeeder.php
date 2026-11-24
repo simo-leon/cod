@@ -28,9 +28,12 @@ use Webkul\User\Models\Role;
  *   reason), records payments to buyers, and cancels tasks.
  *
  * The `cod` key guards the COD dashboard page (route admin.cod.index);
- * the module keys (cod.orders, cod.confirmation, cod.delivery,
- * cod.analytics, cod.settings) have no pages yet — their routes arrive
- * in later phases and the Bouncer enforces them automatically then.
+ * the module keys (cod.orders, cod.confirmation, cod.analytics)
+ * guard real pages; the dead keys cod.delivery and cod.settings were
+ * removed (M27) — they pointed at routes that never existed.
+ * cod.conversations is granted to the supervisor only: confirmers
+ * work from their own orders and my-tasks, and the inbox shows every
+ * customer's messages, so it is not a confirmer page.
  *
  * Test admins use the same password pattern as the default admin
  * (admin@example.com / admin123). These are local test accounts only.
@@ -60,8 +63,8 @@ class CodRolesSeeder extends Seeder
                     'cod.orders',
                     'cod.confirmation',
                     'cod.assignment',
-                    'cod.delivery',
                     'cod.analytics',
+                    'cod.conversations',
                     'cod.souk',
                 ],
                 'admins' => [
@@ -95,7 +98,6 @@ class CodRolesSeeder extends Seeder
                     'dashboard',
                     'cod',
                     'cod.orders',
-                    'cod.delivery',
                 ],
                 'admins' => [
                     [

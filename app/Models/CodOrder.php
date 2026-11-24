@@ -73,7 +73,37 @@ class CodOrder extends Model
         self::SOURCE_WHATSAPP,
     ];
 
-    protected $guarded = [];
+    protected $fillable = [
+        'order_id',
+        'external_id',
+        'status',
+        'assigned_to',
+        'assigned_at',
+        'confirmation_attempts',
+        'callback_at',
+        'confirmation_sent_at',
+        'reminder_sent_at',
+        'reminder_count',
+        'whatsapp_unconfirmed_at',
+        'whatsapp_provider',
+        'last_reply_at',
+        'shipped_notification_sent_at',
+        'out_for_delivery_notification_sent_at',
+        'delivered_notification_sent_at',
+        'returned_notification_sent_at',
+        'store_status',
+        'customer_name',
+        'customer_phone',
+        'customer_phone_normalized',
+        'customer_email',
+        'city',
+        'address',
+        'grand_total',
+        'currency_code',
+        'items_count',
+        'source',
+        'payload',
+    ];
 
     protected $casts = [
         'grand_total' => 'decimal:2',

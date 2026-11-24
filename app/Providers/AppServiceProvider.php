@@ -7,6 +7,7 @@ use App\Listeners\AssignZeroStockToSouk;
 use App\Listeners\ImportOrderToCod;
 use App\Listeners\KrayinCrmListener;
 use App\Listeners\SendOrderToDeliveryProvider;
+use App\Models\CodOrder;
 use App\Models\OrderStatusHistory;
 use Barryvdh\Debugbar\Facades\Debugbar;
 use Illuminate\Support\Facades\Artisan;
@@ -146,9 +147,25 @@ class AppServiceProvider extends ServiceProvider
                 return;
             }
 
-            $productIds = $order->items->pluck('product_id')->filter()->unique()->values()->all();
+            // M7: match by this order first — the card used to show
+            // tasks of ANY order for the same product (wrong buyer /
+            // price / status), and hid this order's tasks once 50 newer
+            // tasks for the product existed. Only when this order has
+            // no linked task do we fall back to the same-product tasks,
+            // clearly labeled as such.
+            $souk = app(SoukServiceInterface::class);
+            $codOrder = CodOrder::query()->where('order_id', $order->id)->first();
 
-            $tasks = app(SoukServiceInterface::class)->tasksForOrderProductIds($productIds);
+            $tasks = $codOrder
+                ? $souk->tasksForCodOrder((int) $codOrder->id)
+                : collect();
+            $fallback = false;
+
+            if ($tasks->isEmpty()) {
+                $productIds = $order->items->pluck('product_id')->filter()->unique()->values()->all();
+                $tasks = $souk->tasksForOrderProductIds($productIds);
+                $fallback = true;
+            }
 
             if ($tasks->isEmpty()) {
                 return;
@@ -157,6 +174,7 @@ class AppServiceProvider extends ServiceProvider
             $manager->addTemplate('admin::cod.souk-order-card', [
                 'order' => $order,
                 'tasks' => $tasks,
+                'fallback' => $fallback,
             ]);
         });
 

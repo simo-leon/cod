@@ -51,13 +51,23 @@ class CodDashboardController extends Controller
         $canManage = bouncer()->hasPermission('cod.assignment');
         $scopedTo = ($isConfirmer && ! $canManage) ? $user->id : null;
 
+        // M19: staff without confirmation or assignment duties (souk
+        // buyer, warehouse controller, delivery manager) used to see
+        // the global order figures and the whole confirmer-rates
+        // table — another team's numbers. They now see only their own
+        // module: the dashboard hides the global cards and the rates
+        // table for them (the blade uses $staffOnly).
+        $staffOnly = ! $isConfirmer && ! $canManage && $user->role?->permission_type !== 'all';
+
         $assignedCounts = $scopedTo !== null
             ? $this->orders->assignedOrderCounts($scopedTo)
             : null;
 
-        $confirmerRates = $scopedTo !== null
-            ? [$this->analytics->confirmerRate($user)]
-            : $this->analytics->confirmerRates();
+        $confirmerRates = $staffOnly
+            ? []
+            : ($scopedTo !== null
+                ? [$this->analytics->confirmerRate($user)]
+                : $this->analytics->confirmerRates());
 
         $modules = [
             [
@@ -106,6 +116,11 @@ class CodDashboardController extends Controller
             'ordersUrl' => route('admin.cod.orders.index'),
             'analyticsUrl' => route('admin.cod.analytics.index'),
             'settingsUrl' => route('admin.configuration.index', 'general/cod_system'),
+            'staffOnly' => $staffOnly,
+            // H1/H2: red banners while the WhatsApp webhook is
+            // unprotected or WhatsApp is on with no real provider.
+            'webhookUnprotected' => $this->whatsApp->webhookUnprotected(),
+            'whatsappNoProvider' => $this->whatsApp->isEnabledWithoutRealProvider(),
             'canViewAnalytics' => bouncer()->hasPermission('cod.analytics'),
             'confirmerRates' => $confirmerRates,
             'myTasksUrl' => route('admin.cod.my-tasks.index'),

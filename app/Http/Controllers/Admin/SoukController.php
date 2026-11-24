@@ -34,18 +34,39 @@ class SoukController extends Controller
         abort_unless(bouncer()->hasPermission('cod.souk'), 403);
 
         $admin = auth()->guard('admin')->user();
+        $isManager = $this->souk->canManageSouk($admin);
+        $tasks = $this->souk->openTasks();
+
+        // M20: a plain buyer must not see other buyers' purchase
+        // prices or trust statistics — only a manager sees the whole
+        // board. A buyer sees their own statistics only.
+        $buyerStats = $isManager
+            ? $this->souk->allBuyerStats()
+            : [$this->souk->buyerStats($admin)];
 
         return view('admin::cod.souk')->with([
             'enabled' => $this->settings->isEnabled(),
             'claimTimeoutHours' => $this->settings->claimTimeoutHours(),
+            'purchaseTimeoutHours' => $this->settings->purchaseTimeoutHours(),
             'defaultPriceCap' => $this->settings->defaultPriceCap(),
             'defaultMinMarginPercent' => $this->settings->defaultMinMarginPercent(),
             'paymentModel' => $this->settings->paymentModel(),
-            'tasks' => $this->souk->openTasks(),
-            'myTasks' => $this->souk->isSoukBuyer($admin) ? $this->souk->tasksForBuyer($admin) : collect(),
-            'buyerStats' => $this->souk->allBuyerStats(),
+            'tasks' => $tasks,
+            // T10: anyone who may act as a buyer (role or full
+            // permissions) sees their own tasks — the old check used
+            // the role name only, so a super admin saw buyer buttons
+            // with an empty task list.
+            'myTasks' => $this->souk->canActAsBuyer($admin) ? $this->souk->tasksForBuyer($admin) : collect(),
+            'buyerStats' => $buyerStats,
             'isBuyer' => $this->souk->canActAsBuyer($admin),
-            'isManager' => $this->souk->canManageSouk($admin),
+            'isManager' => $isManager,
+            // P-A5: escalated tasks need attention — the board shows a
+            // banner with the count when there is at least one.
+            'escalatedCount' => $tasks->where('is_escalated', true)->count(),
+            // Creative: confirmed orders waiting for souk goods with no
+            // live task yet — a banner so they are noticed before the
+            // next scheduled scan.
+            'uncoveredOrdersCount' => $this->souk->uncoveredConfirmedOrdersCount(),
             'dashboardUrl' => route('admin.cod.index'),
             'settingsUrl' => route('admin.configuration.index', 'general/cod_system'),
         ]);

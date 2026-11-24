@@ -302,7 +302,7 @@ class WhatsAppService implements WhatsAppServiceInterface
         return $result;
     }
 
-    public function sendConfirmation(CodOrder $order): array
+    public function sendConfirmation(CodOrder $order, bool $force = false): array
     {
         if (! $this->isEnabled()) {
             return ['success' => false, 'message' => 'COD WhatsApp is disabled in the admin.', 'message_id' => null];
@@ -312,8 +312,9 @@ class WhatsAppService implements WhatsAppServiceInterface
             return ['success' => false, 'message' => 'Order is no longer pending confirmation.', 'message_id' => null];
         }
 
-        // Idempotency: exactly one confirmation message per order.
-        if ($order->confirmation_sent_at) {
+        // Idempotency: exactly one confirmation message per order —
+        // unless the resend button forces it.
+        if ($order->confirmation_sent_at && ! $force) {
             return ['success' => true, 'message' => 'Confirmation message was already sent for this order.', 'message_id' => null];
         }
 
@@ -364,7 +365,9 @@ class WhatsAppService implements WhatsAppServiceInterface
             $result = $provider->sendInteractive($phone, $text, self::BUTTONS);
         }
 
-        $this->logMessage($order, CodWhatsAppMessage::DIRECTION_OUT, $phone, $text, $result, $provider->name());
+        // T1: log the final text the customer saw (Evolution appends
+        // the numbered reply options to it).
+        $this->logMessage($order, CodWhatsAppMessage::DIRECTION_OUT, $phone, $result['text'] ?? $text, $result, $provider->name());
 
         if ($result['success']) {
             $order->confirmation_sent_at = now();
@@ -404,11 +407,13 @@ class WhatsAppService implements WhatsAppServiceInterface
         $text = $this->renderTemplate($this->reminderTemplate(), $order);
 
         // A reminder is business-initiated too: on Meta prefer the
-        // approved template (same template as the confirmation — a
-        // dedicated reminder template is an open improvement), plain
-        // text only works inside the 24-hour window.
-        if ($provider instanceof MetaWhatsAppProvider && $provider->getTemplateName()) {
-            $result = $provider->sendTemplate($phone, $provider->getTemplateName(), $provider->getTemplateLanguage(), [
+        // approved reminder template when one is configured (T8), else
+        // the confirmation template; plain text only works inside the
+        // 24-hour window.
+        $reminderTemplateName = core()->getConfigData(self::MESSAGES_CONFIG_KEY.'.meta_reminder_template_name');
+
+        if ($provider instanceof MetaWhatsAppProvider && ($reminderTemplateName || $provider->getTemplateName())) {
+            $result = $provider->sendTemplate($phone, $reminderTemplateName ?: $provider->getTemplateName(), $provider->getTemplateLanguage(), [
                 $order->external_id,
                 $order->customer_name ?? '',
                 $this->formatTotal($order),
@@ -418,7 +423,7 @@ class WhatsAppService implements WhatsAppServiceInterface
             $result = $provider->sendInteractive($phone, $text, self::BUTTONS);
         }
 
-        $this->logMessage($order, CodWhatsAppMessage::DIRECTION_OUT, $phone, $text, $result, $provider->name());
+        $this->logMessage($order, CodWhatsAppMessage::DIRECTION_OUT, $phone, $result['text'] ?? $text, $result, $provider->name());
 
         if ($result['success']) {
             $order->reminder_sent_at = now();
@@ -576,8 +581,11 @@ class WhatsAppService implements WhatsAppServiceInterface
             }
         }
 
-        // Evolution numbered text: a leading digit decides (1/2/3).
-        if (preg_match('/^([123])[\s\.\-\)]*/u', $clean, $matches)) {
+        // Evolution numbered text: only a message that IS a digit
+        // (optionally with punctuation) decides — "1- شكراً" used to
+        // confirm by its leading digit. Anything longer falls through
+        // to the word matcher below.
+        if (preg_match('/^([123])[\s\.\-\)]*$/u', $clean, $matches)) {
             return match ($matches[1]) {
                 '1' => 'confirmed',
                 '2' => 'postponed',
@@ -585,26 +593,39 @@ class WhatsAppService implements WhatsAppServiceInterface
             };
         }
 
-        $postponed = ['أجل', 'اجل', 'لاحق', 'بعدين', 'غدا', 'غداً', 'غد', 'delay', 'postpone', 'plus tard', 'demain', 'rappel', 'call me later', 'later'];
-        $canceled = ['ألغ', 'الغ', 'إلغاء', 'الغاء', 'cancel', 'annul', 'refus', 'رفض', 'لا أريد', 'لا اريد', 'ما بغيت', 'مابغيت', 'بغيتوش', 'بغيتش', 'non merci'];
-        $confirmed = ['أكد', 'اكد', 'أؤكد', 'اؤكد', 'نعم', 'موافق', 'أكيد', 'اكيد', 'oui', 'yes', 'confirm', 'ok', 'okay'];
+        // T3: matching is on whole words now, not substrings — "ok"
+        // used to match any word containing ok, and "أجل" matched
+        // inside "ما بغيتش نأجل" (the opposite meaning). Negations are
+        // checked first and win over any confirm word in the same
+        // message.
+        $negations = ['ما بغيت', 'مابغيت', 'ما بدي', 'ما بديت', 'لا أريد', 'لا اريد', 'ما خصني', 'بغيتوش', 'بغيتش', 'je ne veux pas', "i don't want"];
 
-        foreach ($postponed as $word) {
-            if (str_contains($clean, $word)) {
-                return 'postponed';
-            }
-        }
-
-        foreach ($canceled as $word) {
-            if (str_contains($clean, $word)) {
+        foreach ($negations as $phrase) {
+            if (str_contains($clean, $phrase)) {
                 return 'canceled';
             }
         }
 
-        foreach ($confirmed as $word) {
-            if (str_contains($clean, $word)) {
-                return 'confirmed';
-            }
+        // Moroccan negation around a confirm word: "ما نأكدش".
+        if (str_starts_with($clean, 'ما ') && str_ends_with($clean, 'ش')) {
+            return 'canceled';
+        }
+
+        $tokens = preg_split('/[\s\p{P}]+/u', $clean, -1, PREG_SPLIT_NO_EMPTY) ?: [];
+
+        $hasWord = fn (array $words) => (bool) array_intersect($tokens, $words);
+        $hasPhrase = fn (array $phrases) => (bool) array_filter($phrases, fn ($phrase) => str_contains($clean, $phrase));
+
+        if ($hasWord(['أجل', 'اجل', 'لاحق', 'بعدين', 'غدا', 'غداً', 'غد', 'delay', 'postpone', 'later', 'demain']) || $hasPhrase(['plus tard', 'call me later'])) {
+            return 'postponed';
+        }
+
+        if ($hasWord(['ألغ', 'الغ', 'إلغاء', 'الغاء', 'cancel', 'annul', 'refus', 'رفض', 'non']) || $hasPhrase(['non merci'])) {
+            return 'canceled';
+        }
+
+        if ($hasWord(['أكد', 'اكد', 'أؤكد', 'اؤكد', 'أكدو', 'اكدو', 'نعم', 'موافق', 'أكيد', 'اكيد', 'oui', 'yes', 'confirm', 'ok', 'okay', 'd’accord', 'daccord'])) {
+            return 'confirmed';
         }
 
         // A bare "لا" answers "واش نأكدو؟" with no: cancel.

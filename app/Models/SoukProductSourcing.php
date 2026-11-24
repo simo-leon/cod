@@ -32,7 +32,12 @@ class SoukProductSourcing extends Model
 
     protected $table = 'souk_product_sourcing';
 
-    protected $guarded = [];
+    protected $fillable = [
+        'product_id',
+        'mode',
+        'price_cap',
+        'min_margin_percent',
+    ];
 
     protected $casts = [
         'price_cap' => 'decimal:2',

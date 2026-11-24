@@ -383,18 +383,42 @@ class AnalyticsService implements AnalyticsServiceInterface
 
         $skus = [];
 
+        // M22: SKUs come from SQL (order_items joined to cod_orders),
+        // not from loading every order with its items. Payload-only
+        // orders (no linked store order) are scanned in chunks.
         if (Schema::hasTable('cod_orders')) {
-            $ordersQuery = CodOrder::query()->with(['order.items']);
+            $itemsQuery = DB::table('order_items')
+                ->join('cod_orders', 'cod_orders.order_id', '=', 'order_items.order_id')
+                ->whereNotNull('order_items.sku')
+                ->select('order_items.sku', 'order_items.name');
 
             if ($assignedTo !== null) {
-                $ordersQuery->where('assigned_to', $assignedTo);
+                $itemsQuery->where('cod_orders.assigned_to', $assignedTo);
             }
 
-            foreach ($ordersQuery->get() as $order) {
-                foreach ($this->orderItems($order) as $item) {
-                    $skus[$item['sku']] = $item['name'] !== '' ? $item['name'] : $item['sku'];
-                }
+            foreach ($itemsQuery->distinct()->get() as $item) {
+                $skus[(string) $item->sku] = ((string) $item->name) !== '' ? (string) $item->name : (string) $item->sku;
             }
+
+            $payloadQuery = CodOrder::query()->whereNull('order_id');
+
+            if ($assignedTo !== null) {
+                $payloadQuery->where('assigned_to', $assignedTo);
+            }
+
+            $payloadQuery->orderBy('id')->chunk(200, function ($orders) use (&$skus) {
+                foreach ($orders as $order) {
+                    if (! is_array($order->payload)) {
+                        continue;
+                    }
+
+                    foreach ($order->payload['items'] ?? [] as $item) {
+                        if (is_array($item) && ! empty($item['sku'])) {
+                            $skus[(string) $item['sku']] = ! empty($item['name']) ? (string) $item['name'] : (string) $item['sku'];
+                        }
+                    }
+                }
+            });
 
             ksort($skus);
         }
@@ -589,12 +613,21 @@ class AnalyticsService implements AnalyticsServiceInterface
                     'orders' => 0,
                     'confirmed' => 0,
                     'delivered' => 0,
+                    'canceled' => 0,
                     'delivered_qty' => 0,
                     'price_sum' => 0.0,
                     'price_qty' => 0,
                 ];
 
                 $rows[$sku]['orders']++;
+
+                // M6: the main count still counts every order (Simo has
+                // not decided otherwise) — but canceled orders are now
+                // shown in their own column, so the numbers are
+                // transparent instead of silently inflated.
+                if ($order->status === CodOrder::STATUS_CANCELED) {
+                    $rows[$sku]['canceled']++;
+                }
 
                 if ($item['name'] !== '' && $rows[$sku]['name'] === '') {
                     $rows[$sku]['name'] = $item['name'];
@@ -812,20 +845,31 @@ class AnalyticsService implements AnalyticsServiceInterface
 
         $rows = [];
 
-        foreach (Product::query()->with(['inventories', 'attribute_values'])->orderBy('sku')->get() as $product) {
-            $qty = (int) $product->inventories->sum('qty');
-            $price = is_numeric($product->price) ? (float) $product->price : null;
-            $managesStock = (bool) ($product->manage_stock ?? false);
+        // M22: stock quantities are aggregated in SQL, and products are
+        // read in chunks — the old code loaded every product with its
+        // inventories and attribute values at once.
+        $quantities = DB::table('product_inventories')
+            ->select('product_id', DB::raw('COALESCE(SUM(qty), 0) as qty'))
+            ->groupBy('product_id')
+            ->pluck('qty', 'product_id')
+            ->all();
 
-            $rows[] = [
-                'sku' => (string) $product->sku,
-                'name' => (string) ($product->name ?? $product->sku),
-                'qty' => $qty,
-                'price' => $price,
-                'value' => $price !== null ? round($qty * $price, 2) : null,
-                'low_stock' => $managesStock && $qty <= self::LOW_STOCK_THRESHOLD,
-            ];
-        }
+        Product::query()->with(['attribute_values'])->orderBy('sku')->chunk(200, function ($products) use (&$rows, $quantities) {
+            foreach ($products as $product) {
+                $qty = (int) ($quantities[$product->id] ?? 0);
+                $price = is_numeric($product->price) ? (float) $product->price : null;
+                $managesStock = (bool) ($product->manage_stock ?? false);
+
+                $rows[] = [
+                    'sku' => (string) $product->sku,
+                    'name' => (string) ($product->name ?? $product->sku),
+                    'qty' => $qty,
+                    'price' => $price,
+                    'value' => $price !== null ? round($qty * $price, 2) : null,
+                    'low_stock' => $managesStock && $qty <= self::LOW_STOCK_THRESHOLD,
+                ];
+            }
+        });
 
         return $rows;
     }

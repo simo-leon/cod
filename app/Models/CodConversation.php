@@ -48,7 +48,16 @@ class CodConversation extends Model
      */
     public const COLLECT_FIELDS = ['name', 'city', 'address', 'phone'];
 
-    protected $guarded = [];
+    protected $fillable = [
+        'phone',
+        'cod_order_id',
+        'product_sku',
+        'state',
+        'collected',
+        'ai_enabled',
+        'escalated_at',
+        'last_message_at',
+    ];
 
     protected $casts = [
         'collected' => 'array',
@@ -65,11 +74,19 @@ class CodConversation extends Model
     /**
      * Every WhatsApp message of this conversation, oldest first: the
      * messages table has no conversation id, messages are matched by
-     * the normalized phone number.
+     * the normalized phone number. M21: when the conversation is
+     * linked to one order, only that order's messages are shown —
+     * another order of the same customer used to leak into the thread.
      */
     public function messages(): HasMany
     {
-        return $this->hasMany(CodWhatsAppMessage::class, 'phone', 'phone')->oldest();
+        $relation = $this->hasMany(CodWhatsAppMessage::class, 'phone', 'phone');
+
+        if ($this->cod_order_id) {
+            $relation->where('cod_order_id', $this->cod_order_id);
+        }
+
+        return $relation->oldest();
     }
 
     /**

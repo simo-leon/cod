@@ -981,6 +981,34 @@ class SoukService implements SoukServiceInterface
     }
 
     /**
+     * Confirmed COD orders that still need souk goods but have no
+     * live task yet (creative addition): the souk board shows a
+     * banner with this count, so a new confirmed order for an
+     * out-of-stock product is noticed before the next 30-minute scan
+     * creates its task. Counts distinct orders, not products.
+     */
+    public function uncoveredConfirmedOrdersCount(): int
+    {
+        if (! $this->settings->isEnabled()) {
+            return 0;
+        }
+
+        return (int) DB::table('cod_orders as c')
+            ->join('order_items as oi', 'oi.order_id', '=', 'c.order_id')
+            ->where('c.status', CodOrder::STATUS_CONFIRMED)
+            ->whereRaw('(SELECT COALESCE(SUM(qty), 0) FROM product_inventories WHERE product_id = oi.product_id) - (SELECT COALESCE(SUM(qty), 0) FROM product_ordered_inventories WHERE product_id = oi.product_id) <= 0')
+            ->whereNotExists(function ($query) {
+                $query->select(DB::raw(1))
+                    ->from('souk_tasks as st')
+                    ->whereColumn('st.cod_order_id', 'c.id')
+                    ->whereColumn('st.product_id', 'oi.product_id')
+                    ->whereIn('st.status', SoukTask::OPEN_STATUSES);
+            })
+            ->distinct()
+            ->count('c.id');
+    }
+
+    /**
      * Tasks linked to one COD order.
      */
     public function tasksForCodOrder(int $codOrderId): Collection

@@ -31,7 +31,14 @@ class CodAssignmentRule extends Model
         self::TYPE_PRODUCT,
     ];
 
-    protected $guarded = [];
+    protected $fillable = [
+        'type',
+        'admin_id',
+        'weight',
+        'current_weight',
+        'product_sku',
+        'is_active',
+    ];
 
     protected $casts = [
         'weight' => 'integer',

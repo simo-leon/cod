@@ -415,7 +415,11 @@
                         roles: @json($roles),
 
                         data: {
-                            user: {},
+                            // Test issue 5: a new admin is active by
+                            // default — the empty object left the status
+                            // switch off, so a new admin could not log
+                            // in until someone edited them.
+                            user: { status: 1 },
                             images: [],
                         },
 
@@ -490,7 +494,7 @@
                         this.isUpdating = false;
 
                         this.data = {
-                            user: {},
+                            user: { status: 1 },
                             images: [],
                         };
                     },

@@ -87,5 +87,10 @@ interface SoukServiceInterface
 
     public function tasksForCodOrder(int $codOrderId): Collection;
 
+    /**
+     * Confirmed orders needing souk goods with no live task yet.
+     */
+    public function uncoveredConfirmedOrdersCount(): int;
+
     public function tasksForOrderProductIds(array $productIds): Collection;
 }

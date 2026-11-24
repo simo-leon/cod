@@ -78,37 +78,31 @@ class RemindUnconfirmedCodOrdersCommand extends Command
             $query->whereNull('reminder_sent_at');
         }
 
-        $candidates = $query
-            ->orderBy('id')
-            ->get()
-            // Due when the delay passed since the last contact: the
-            // confirmation message for the first reminder, the
-            // previous reminder afterwards.
-            ->filter(function (CodOrder $order) use ($delay) {
-                $since = $order->reminder_sent_at ?? $order->confirmation_sent_at;
-
-                return $since !== null && $since->lte(now()->subMinutes($delay));
-            });
-
-        if ($candidates->isEmpty()) {
-            $this->info('No unconfirmed orders due for a reminder.');
-
-            return ['sent' => 0, 'failed' => 0];
-        }
+        // T4: the delay is filtered in SQL (due when it passed since
+        // the last contact: the confirmation message for the first
+        // reminder, the previous reminder afterwards) and the orders
+        // are processed in chunks instead of loading every candidate.
+        $query->whereRaw('COALESCE(reminder_sent_at, confirmation_sent_at) <= ?', [now()->subMinutes($delay)]);
 
         $sent = 0;
         $failed = 0;
 
-        foreach ($candidates as $order) {
-            $result = $whatsapp->sendReminder($order);
+        $query->orderBy('id')->chunk(100, function ($orders) use ($whatsapp, &$sent, &$failed) {
+            foreach ($orders as $order) {
+                $result = $whatsapp->sendReminder($order);
 
-            if ($result['success']) {
-                $sent++;
-                $this->info("Order {$order->external_id}: reminder sent.");
-            } else {
-                $failed++;
-                $this->warn("Order {$order->external_id}: reminder failed — {$result['message']}");
+                if ($result['success']) {
+                    $sent++;
+                    $this->info("Order {$order->external_id}: reminder sent.");
+                } else {
+                    $failed++;
+                    $this->warn("Order {$order->external_id}: reminder failed — {$result['message']}");
+                }
             }
+        });
+
+        if ($sent === 0 && $failed === 0) {
+            $this->info('No unconfirmed orders due for a reminder.');
         }
 
         return ['sent' => $sent, 'failed' => $failed];

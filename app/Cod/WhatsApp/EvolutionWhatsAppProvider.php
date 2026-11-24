@@ -128,7 +128,13 @@ class EvolutionWhatsAppProvider implements WhatsAppProviderInterface
             $lines[] = ($index + 1).'- '.(string) $button['title'];
         }
 
-        return $this->postSendText($this->formatNumber($phone), implode("\n", $lines));
+        // T1: return the final text (with the numbered options) so the
+        // caller can log what the customer actually saw, not the
+        // template without the options.
+        $result = $this->postSendText($this->formatNumber($phone), implode("\n", $lines));
+        $result['text'] = implode("\n", $lines);
+
+        return $result;
     }
 
     /**

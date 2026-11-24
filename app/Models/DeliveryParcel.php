@@ -13,7 +13,18 @@ use Webkul\Sales\Models\Order;
  */
 class DeliveryParcel extends Model
 {
-    protected $guarded = [];
+    protected $fillable = [
+        'order_id',
+        'provider',
+        'parcel_code',
+        'status',
+        'last_status',
+        'error_message',
+        'payload',
+        'response',
+        'tracking_events',
+        'sent_at',
+    ];
 
     protected $casts = [
         'payload' => 'array',
