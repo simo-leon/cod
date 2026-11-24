@@ -291,6 +291,7 @@ return [
             'amount-placeholder' => 'المبلغ (درهم)',
             'already-paid' => 'المسجل كمخلص: :amount',
             'cancel' => 'ألغِ المهمة',
+            'cancel-reason-placeholder' => 'سبب الإلغاء (اختياري)',
             'my-tasks' => 'المهام ديالي',
             'paid' => 'مخلص',
             'rejection-reason' => 'سبب الرفض',

@@ -304,6 +304,14 @@
                                             <form method="POST" action="{{ route('admin.cod.souk.tasks.cancel', $task) }}">
                                                 @csrf
 
+                                                <input
+                                                    type="text"
+                                                    name="reason"
+                                                    maxlength="1000"
+                                                    placeholder="@lang('admin::app.cod.souk.cancel-reason-placeholder')"
+                                                    class="mb-1.5 w-full rounded-lg border border-gray-200 bg-white px-2 py-1.5 text-xs text-gray-800 dark:border-gray-800 dark:bg-gray-900 dark:text-white"
+                                                >
+
                                                 <button type="submit" class="w-full whitespace-nowrap rounded-lg border border-gray-300 px-2.5 py-1.5 text-xs font-semibold text-gray-700 hover:bg-gray-100 dark:border-gray-700 dark:text-gray-300 dark:hover:bg-gray-800">
                                                     @lang('admin::app.cod.souk.cancel')
                                                 </button>

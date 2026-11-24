@@ -291,6 +291,7 @@ return [
             'amount-placeholder' => 'Amount (DH)',
             'already-paid' => 'Already recorded as paid: :amount',
             'cancel' => 'Cancel task',
+            'cancel-reason-placeholder' => 'Reason for cancelling (optional)',
             'my-tasks' => 'My Tasks',
             'paid' => 'Paid',
             'rejection-reason' => 'Rejection Reason',
