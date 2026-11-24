@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
  * CodOrderImportController for the payload format.
  */
 Route::post('cod/orders', CodOrderImportController::class)
-    ->middleware(ForceJsonResponse::class)
+    ->middleware([ForceJsonResponse::class, 'throttle:60,1'])
     ->name('api.cod.orders.store');
 
 /**
@@ -36,11 +36,11 @@ Route::post('cod/orders', CodOrderImportController::class)
  * payload formats.
  */
 Route::post('cod/products', CodProductCreateController::class)
-    ->middleware(ForceJsonResponse::class)
+    ->middleware([ForceJsonResponse::class, 'throttle:60,1'])
     ->name('api.cod.products.store');
 
 Route::post('cod/products/{id}', CodProductUpdateController::class)
-    ->middleware(ForceJsonResponse::class)
+    ->middleware([ForceJsonResponse::class, 'throttle:60,1'])
     ->whereNumber('id')
     ->name('api.cod.products.update');
 
@@ -63,10 +63,13 @@ Route::post('cod/products/{id}', CodProductUpdateController::class)
  * and must always answer 200 quickly.
  */
 Route::get('cod/whatsapp/meta', [CodWhatsAppWebhookController::class, 'verifyMeta'])
+    ->middleware('throttle:120,1')
     ->name('api.cod.whatsapp.meta.verify');
 
 Route::post('cod/whatsapp/meta', [CodWhatsAppWebhookController::class, 'handleMeta'])
+    ->middleware('throttle:120,1')
     ->name('api.cod.whatsapp.meta');
 
 Route::post('cod/whatsapp/evolution', [CodWhatsAppWebhookController::class, 'handleEvolution'])
+    ->middleware('throttle:120,1')
     ->name('api.cod.whatsapp.evolution');

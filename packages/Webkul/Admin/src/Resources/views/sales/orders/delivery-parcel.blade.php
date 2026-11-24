@@ -110,6 +110,20 @@
                             </button>
                         </form>
                     @endif
+
+                    @if ($deliveryParcel && $deliveryParcel->status === 'sent' && $deliveryManager->supportsCancel($deliveryParcel))
+                        <form
+                            method="POST"
+                            action="{{ route('admin.sales.orders.cancel-delivery-parcel', $order->id) }}"
+                            onsubmit="return confirm(@js(trans('admin::app.sales.orders.view.delivery.cancel-confirm', ['code' => $deliveryParcel->parcel_code])));"
+                        >
+                            @csrf
+
+                            <button type="submit" class="secondary-button px-3 py-1.5 text-sm !text-red-600">
+                                @lang('admin::app.sales.orders.view.delivery.cancel')
+                            </button>
+                        </form>
+                    @endif
                 </div>
             @endif
         @endif

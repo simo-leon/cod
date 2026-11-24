@@ -35,9 +35,14 @@ class OrderService implements OrderServiceInterface
         Order::STATUS_OUT_FOR_DELIVERY => CodOrder::STATUS_SENT_TO_DELIVERY,
         Order::STATUS_DELIVERED => CodOrder::STATUS_DELIVERED,
         Order::STATUS_RETURNED => CodOrder::STATUS_RETURNED,
-        Order::STATUS_COMPLETED => CodOrder::STATUS_DELIVERED,
-        Order::STATUS_PROCESSING => CodOrder::STATUS_CONFIRMED,
-        Order::STATUS_PAID => CodOrder::STATUS_DELIVERED,
+        // H3: a store order that is processing / paid / completed was
+        // never confirmed by the customer (or a confirmer) — it must
+        // NOT become confirmed/delivered in COD on re-import. Only a
+        // store status of "confirmed" literally confirms, through the
+        // gate in storeCodOrder() below.
+        Order::STATUS_COMPLETED => CodOrder::STATUS_PENDING_CONFIRMATION,
+        Order::STATUS_PROCESSING => CodOrder::STATUS_PENDING_CONFIRMATION,
+        Order::STATUS_PAID => CodOrder::STATUS_PENDING_CONFIRMATION,
     ];
 
     /**
@@ -419,7 +424,19 @@ class OrderService implements OrderServiceInterface
             $codOrder->status = $alreadyConfirmed ? CodOrder::STATUS_CONFIRMED : $mappedStatus;
             $codOrder->source = $source;
         } elseif ($codOrder->status === CodOrder::STATUS_PENDING_CONFIRMATION) {
-            $codOrder->status = $mappedStatus;
+            // H3: sync the store status only towards non-confirmed
+            // states. A pending order is never upgraded to confirmed /
+            // delivered / sent-to-delivery by a re-import — only the
+            // confirmation path (call / WhatsApp) may confirm it, and
+            // only a store status of "confirmed" literally may sync
+            // it to confirmed. A cancellation from the store does sync.
+            $storeStatus = $snapshot['store_status'] ?? null;
+            $maySync = in_array($mappedStatus, [CodOrder::STATUS_PENDING_CONFIRMATION, CodOrder::STATUS_CANCELED], true)
+                || ($mappedStatus === CodOrder::STATUS_CONFIRMED && $storeStatus === Order::STATUS_CONFIRMED);
+
+            if ($maySync) {
+                $codOrder->status = $mappedStatus;
+            }
         }
 
         $codOrder->save();

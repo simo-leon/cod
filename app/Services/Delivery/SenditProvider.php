@@ -247,6 +247,22 @@ class SenditProvider implements DeliveryProviderInterface
         });
     }
 
+    /**
+     * M12: Sendit's documented API has no cancel endpoint (only
+     * GET|PUT /deliveries/{code} for details/update, and the update
+     * shape is unverified). A parcel cannot be cancelled through the
+     * API — cancel it from the Sendit dashboard instead.
+     */
+    public function supportsCancel(): bool
+    {
+        return false;
+    }
+
+    public function cancelParcel(string $parcelCode): array
+    {
+        return ['success' => false, 'message' => 'Sendit has no documented cancel endpoint — cancel parcel '.$parcelCode.' from the Sendit dashboard.'];
+    }
+
     public function testConnection(): array
     {
         if (! $this->isEnabled()) {
@@ -324,6 +340,17 @@ class SenditProvider implements DeliveryProviderInterface
             }
         }
 
+        // M15: the city matched nothing — the configured fallback
+        // district is a guess that could ship the parcel to the wrong
+        // city. Use it only when the admin configured one, and say so
+        // loudly in the log so the wrong-city shipment is visible.
+        if ($fallbackId !== null) {
+            Log::warning('Sendit: city did not match any district, using the configured fallback district', [
+                'city' => $city,
+                'fallback_district_id' => $fallbackId,
+            ]);
+        }
+
         return $fallbackId;
     }
 
@@ -347,6 +374,10 @@ class SenditProvider implements DeliveryProviderInterface
 
         foreach ($this->listCities() as $district) {
             if (mb_strtolower((string) ($district['ville'] ?? '')) === 'casablanca') {
+                Log::warning('Sendit: no pickup district configured, guessing the first Casablanca district', [
+                    'district_id' => (int) $district['id'],
+                ]);
+
                 return (int) $district['id'];
             }
         }

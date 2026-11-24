@@ -17,17 +17,21 @@ use Illuminate\Support\Facades\Log;
  *
  * Known gaps in the docs (2026-11-21), handled as documented below:
  * - The docs give no request-body example and no content type for
- *   POST /add-colis. We send JSON first; if the API rejects it with a
- *   validation-style error, we retry once as form-encoded and record
- *   which encoding worked on the DeliveryParcel record.
+ *   POST /add-colis. We send JSON only (see M14 note in createParcel).
  * - The docs do not say whether `city` is a name or a numeric id. We send
  *   the city name exactly as stored on the order.
  * - The documented add-colis success response
  *   {"code":"ok","message":"Le colis est ajouté avec succes"} contains
  *   NO parcel code field. We look for a code in the usual places
  *   (data.code, data.parcel_code, data.tracking_code, data.id, ...); if
- *   the response carries none, we store the order increment id
- *   (internal_id) as the parcel reference so tracking still has a key.
+ *   the response carries none, the parcel is recorded FAILED (M13) —
+ *   a fake tracking code equal to the order number would make
+ *   tracking fail silently forever.
+ * - The docs give no request-body example and no content type for
+ *   POST /add-colis. We send JSON only (M14): retrying a rejected
+ *   request as form-encoded could create a second parcel at the
+ *   carrier for the same internal_id, with no idempotency key to
+ *   tell them apart. A 400/422 is reported to the admin instead.
  * - There is no cancel/update/delete endpoint in the docs.
  *
  * The token is read from core_config on every call and is never logged,
@@ -75,19 +79,19 @@ class VitisExpressProvider implements DeliveryProviderInterface
         }
 
         $payload = [
-            'fullname'      => $data['fullname'],
-            'phone'         => $data['phone'],
-            'city'          => $data['city'],
-            'address'       => $data['address'] ?? '',
-            'price'         => $data['price'],
-            'product'       => collect($data['products'] ?? [])->pluck('name')->implode(', '),
-            'qty'           => collect($data['products'] ?? [])->pluck('qty')->implode(','),
-            'note'          => $data['note'] ?? '',
-            'change'        => 0,
-            'openpackage'   => (int) (bool) core()->getConfigData(self::CONFIG_KEY.'.openpackage'),
-            'from_stock'    => (int) (bool) core()->getConfigData(self::CONFIG_KEY.'.from_stock'),
-            'try_product'   => (int) (bool) core()->getConfigData(self::CONFIG_KEY.'.try_product'),
-            'internal_id'   => $data['internal_id'] ?? '',
+            'fullname' => $data['fullname'],
+            'phone' => $data['phone'],
+            'city' => $data['city'],
+            'address' => $data['address'] ?? '',
+            'price' => $data['price'],
+            'product' => collect($data['products'] ?? [])->pluck('name')->implode(', '),
+            'qty' => collect($data['products'] ?? [])->pluck('qty')->implode(','),
+            'note' => $data['note'] ?? '',
+            'change' => 0,
+            'openpackage' => (int) (bool) core()->getConfigData(self::CONFIG_KEY.'.openpackage'),
+            'from_stock' => (int) (bool) core()->getConfigData(self::CONFIG_KEY.'.from_stock'),
+            'try_product' => (int) (bool) core()->getConfigData(self::CONFIG_KEY.'.try_product'),
+            'internal_id' => $data['internal_id'] ?? '',
         ];
 
         $response = null;
@@ -108,44 +112,34 @@ class VitisExpressProvider implements DeliveryProviderInterface
                 );
             }
 
-            // The docs give no content type for add-colis: retry once as
-            // form-encoded, but only on a 400/422 validation-style error.
-            // On a 5xx the first attempt may already have created the
-            // parcel server-side, so retrying could duplicate it.
-            if (! in_array($response->status(), [400, 422], true)) {
-                return DeliveryResult::failed(
-                    'Vitis Express: '.$this->errorMessage($response),
-                    $this->safeBody($response)
-                );
-            }
-
-            try {
-                $response = $this->postForm('/add-colis', $payload, $token);
-            } catch (ConnectionException $e) {
-                return DeliveryResult::failed(
-                    'Connection to Vitis Express failed: '.$e->getMessage(),
-                    [],
-                    true
-                );
-            }
-
-            $usedForm = true;
-
-            if (! $this->isSuccessResponse($response)) {
-                return DeliveryResult::failed(
-                    'Vitis Express: '.$this->errorMessage($response),
-                    $this->safeBody($response),
-                    $usedForm
-                );
-            }
+            // M14: no automatic retry with another encoding. A 400/422
+            // may mean the parcel was already created server-side and
+            // only a later validation failed — re-sending the same
+            // add-colis could create a duplicate parcel at the carrier,
+            // and there is no idempotency key to prevent it. Report the
+            // error to the admin instead; they can re-send deliberately.
+            return DeliveryResult::failed(
+                'Vitis Express: '.$this->errorMessage($response).' (not retried automatically: re-sending could create a duplicate parcel).',
+                $this->safeBody($response)
+            );
         }
 
         $body = $this->safeBody($response);
-        $parcelCode = $this->extractParcelCode($body, $data['internal_id'] ?? null);
+        $parcelCode = $this->extractParcelCode($body, null);
+
+        // M13: no tracking code from the provider means the parcel
+        // cannot be tracked — record it failed, not "sent" with a fake
+        // code equal to the order number.
+        if ($parcelCode === null || $parcelCode === '') {
+            return DeliveryResult::failed(
+                'Vitis Express: the parcel was accepted but the response carried no tracking code, so it cannot be tracked.',
+                $body
+            );
+        }
 
         Log::info('Vitis Express: parcel created', [
-            'internal_id'        => $data['internal_id'] ?? null,
-            'parcel_code'        => $parcelCode,
+            'internal_id' => $data['internal_id'] ?? null,
+            'parcel_code' => $parcelCode,
             'used_form_encoding' => $usedForm,
         ]);
 
@@ -175,9 +169,9 @@ class VitisExpressProvider implements DeliveryProviderInterface
 
         return [
             'success' => true,
-            'status'  => is_array($last) ? ($last['status'] ?? null) : null,
-            'events'  => is_array($events) ? $events : [],
-            'error'   => null,
+            'status' => is_array($last) ? ($last['status'] ?? null) : null,
+            'events' => is_array($events) ? $events : [],
+            'error' => null,
         ];
     }
 
@@ -272,7 +266,7 @@ class VitisExpressProvider implements DeliveryProviderInterface
     {
         return Http::withHeaders([
             'api-Token' => $token,
-            'Accept'    => 'application/json',
+            'Accept' => 'application/json',
         ])->timeout(15);
     }
 
@@ -324,9 +318,11 @@ class VitisExpressProvider implements DeliveryProviderInterface
 
     /**
      * The docs show no parcel code in the add-colis success response, so
-     * look in the usual places and fall back to our own internal id.
+     * look in the usual places. Returns null when the response carries
+     * no code at all (M13: the caller records the parcel failed
+     * instead of inventing a tracking code).
      */
-    protected function extractParcelCode(array $body, ?string $fallback): ?string
+    protected function extractParcelCode(array $body, ?string $fallback = null): ?string
     {
         $data = $body['data'] ?? [];
 
@@ -348,6 +344,21 @@ class VitisExpressProvider implements DeliveryProviderInterface
             return $body['code'];
         }
 
-        return $fallback;
+        return null;
+    }
+
+    /**
+     * M12: Vitis Express has no cancel/update/delete endpoint in its
+     * documentation, so a parcel cannot be cancelled through the API.
+     * Cancel it from the Vitis dashboard instead.
+     */
+    public function supportsCancel(): bool
+    {
+        return false;
+    }
+
+    public function cancelParcel(string $parcelCode): array
+    {
+        return ['success' => false, 'message' => 'Vitis Express has no cancel endpoint in its API documentation — cancel parcel '.$parcelCode.' from the Vitis dashboard.'];
     }
 }

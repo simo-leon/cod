@@ -94,6 +94,19 @@ class SpeedafExpressProvider implements DeliveryProviderInterface
      */
     public const SHARED_SECRET = '5oQpOLF7';
 
+    /**
+     * T7: the shared signing secret, read from the admin configuration
+     * when set, with the published plugin value (the constant above)
+     * as the documented default — so the key no longer lives only in
+     * the git repository.
+     */
+    protected function sharedSecret(): string
+    {
+        $configured = core()->getConfigData(self::CONFIG_KEY.'.shared_secret');
+
+        return $configured ? (string) $configured : self::SHARED_SECRET;
+    }
+
     /** DES-CBC initialisation vector from the plugin (fixed bytes). */
     public const DES_IV = "\x12\x34\x56\x78\x90\xAB\xCD\xEF";
 
@@ -148,7 +161,7 @@ class SpeedafExpressProvider implements DeliveryProviderInterface
     public function desAvailable(): bool
     {
         return in_array('des-cbc', openssl_get_cipher_methods(), true)
-            && openssl_encrypt('test', 'des-cbc', self::SHARED_SECRET, 0, self::DES_IV) !== false;
+            && openssl_encrypt('test', 'des-cbc', $this->sharedSecret(), 0, self::DES_IV) !== false;
     }
 
     public function createParcel(array $data): DeliveryResult
@@ -327,6 +340,47 @@ class SpeedafExpressProvider implements DeliveryProviderInterface
         return [];
     }
 
+    /**
+     * M12: cancel a parcel through Speedaf's cancelOrder endpoint
+     * (body is an array of {customerCode, billCode, cancelReason,
+     * cancelBy, cancelTel}).
+     */
+    public function supportsCancel(): bool
+    {
+        return true;
+    }
+
+    public function cancelParcel(string $parcelCode): array
+    {
+        if (! $this->desAvailable()) {
+            return ['success' => false, 'message' => 'Speedaf Express: DES-CBC encryption is not available in this PHP/OpenSSL build, so the parcel cannot be cancelled from here.'];
+        }
+
+        $customerCode = $this->getCustomerCode();
+
+        if ($customerCode === null) {
+            return ['success' => false, 'message' => 'Speedaf Express: could not get the customer code for this API key.'];
+        }
+
+        try {
+            $result = $this->expressRequest('/open-api/express/order/cancelOrder', [[
+                'customerCode' => $customerCode,
+                'billCode' => $parcelCode,
+                'cancelReason' => 'Cancelled by the merchant.',
+                'cancelBy' => (string) (core()->getConfigData(self::CONFIG_KEY.'.sender_name') ?? ''),
+                'cancelTel' => (string) (core()->getConfigData(self::CONFIG_KEY.'.sender_phone') ?? ''),
+            ]], 30);
+        } catch (ConnectionException $e) {
+            return ['success' => false, 'message' => 'Connection to Speedaf Express failed: '.$e->getMessage()];
+        }
+
+        if (! $result['success']) {
+            return ['success' => false, 'message' => 'Speedaf Express: '.$result['error']];
+        }
+
+        return ['success' => true, 'message' => 'Parcel '.$parcelCode.' cancelled at Speedaf.'];
+    }
+
     public function testConnection(): array
     {
         if (! $this->desAvailable()) {
@@ -449,7 +503,7 @@ class SpeedafExpressProvider implements DeliveryProviderInterface
 
         $body = json_encode([
             'data' => $json,
-            'sign' => md5($timestamp.self::SHARED_SECRET.$json),
+            'sign' => md5($timestamp.$this->sharedSecret().$json),
         ]);
 
         $url = rtrim(self::OMS_BASE_URL, '/').$path.'?timestamp='.$timestamp.'&appCode='.self::APP_CODE;
@@ -515,14 +569,14 @@ class SpeedafExpressProvider implements DeliveryProviderInterface
 
         $envelope = json_encode([
             'data' => $json,
-            'sign' => md5($timestamp.self::SHARED_SECRET.$json),
+            'sign' => md5($timestamp.$this->sharedSecret().$json),
         ]);
 
         if (! $this->desAvailable()) {
             return null;
         }
 
-        $encrypted = openssl_encrypt($envelope, 'des-cbc', self::SHARED_SECRET, 0, self::DES_IV);
+        $encrypted = openssl_encrypt($envelope, 'des-cbc', $this->sharedSecret(), 0, self::DES_IV);
 
         return $encrypted === false ? null : $encrypted;
     }
@@ -533,7 +587,7 @@ class SpeedafExpressProvider implements DeliveryProviderInterface
      */
     protected function decrypt(string $data)
     {
-        $decrypted = openssl_decrypt($data, 'des-cbc', self::SHARED_SECRET, 0, self::DES_IV);
+        $decrypted = openssl_decrypt($data, 'des-cbc', $this->sharedSecret(), 0, self::DES_IV);
 
         if (! is_string($decrypted) || $decrypted === '') {
             return $data;

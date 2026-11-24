@@ -78,4 +78,20 @@ interface DeliveryProviderInterface
      * @return array{success: bool, message: string}
      */
     public function testConnection(): array;
+
+    /**
+     * Cancel a parcel that was created at the provider, when the
+     * provider offers cancellation (M12). Returns
+     * ['success' => bool, 'message' => string]. Providers without a
+     * cancel endpoint return success=false with an explanation —
+     * Vitis has no cancel endpoint in its documentation.
+     */
+    public function cancelParcel(string $parcelCode): array;
+
+    /**
+     * Whether this provider offers parcel cancellation through the
+     * API (M12): only providers with a cancel endpoint return true,
+     * so the admin only sees a cancel button that can work.
+     */
+    public function supportsCancel(): bool;
 }

@@ -198,6 +198,41 @@ class WhatsAppService implements WhatsAppServiceInterface
         return (bool) core()->getConfigData(self::CONFIG_KEY.'.status');
     }
 
+    /**
+     * Whether WhatsApp is switched on but no real provider can send:
+     * the log provider would "succeed" silently (H2). The admin
+     * dashboard shows a warning when this is true.
+     */
+    public function isEnabledWithoutRealProvider(): bool
+    {
+        return $this->isEnabled() && $this->resolveProvider() instanceof LogWhatsAppProvider;
+    }
+
+    /**
+     * Whether an incoming webhook could be forged because no secret
+     * protects it: Meta without an app secret, or Evolution without a
+     * webhook secret (H1). The admin dashboard shows a red banner
+     * while this is true.
+     */
+    public function webhookUnprotected(): bool
+    {
+        if (! $this->isEnabled()) {
+            return false;
+        }
+
+        $provider = $this->providerName();
+
+        if ($provider === self::PROVIDER_META) {
+            return empty(core()->getConfigData(self::CONFIG_KEY.'.meta_app_secret'));
+        }
+
+        if ($provider === self::PROVIDER_EVOLUTION) {
+            return empty(core()->getConfigData(self::CONFIG_KEY.'.evolution_webhook_secret'));
+        }
+
+        return false;
+    }
+
     public function getPhoneNumber(): ?string
     {
         $number = core()->getConfigData('general.general.whatsapp.phone_number');
@@ -216,7 +251,15 @@ class WhatsAppService implements WhatsAppServiceInterface
 
     public function sendMessage(string $phone, string $message): array
     {
-        $result = $this->resolveProvider()->sendText($phone, $message);
+        $provider = $this->resolveProvider();
+
+        if ($provider instanceof LogWhatsAppProvider) {
+            Log::warning('COD WhatsApp: message NOT sent, no WhatsApp provider is configured', ['phone' => $this->normalizePhone($phone)]);
+
+            return ['success' => false, 'message' => 'No WhatsApp provider is configured — the message was NOT sent. Configure Meta or Evolution in the admin.', 'message_id' => null];
+        }
+
+        $result = $provider->sendText($phone, $message);
 
         $this->logMessage(null, CodWhatsAppMessage::DIRECTION_OUT, $phone, $message, $result, null, CodWhatsAppMessage::SENDER_HUMAN);
 
@@ -235,7 +278,15 @@ class WhatsAppService implements WhatsAppServiceInterface
      */
     public function sendConversationMessage(CodConversation $conversation, string $text, string $sender): array
     {
-        $result = $this->resolveProvider()->sendText($conversation->phone, $text);
+        $provider = $this->resolveProvider();
+
+        if ($provider instanceof LogWhatsAppProvider) {
+            Log::warning('COD WhatsApp: conversation message NOT sent, no WhatsApp provider is configured', ['phone' => $conversation->phone]);
+
+            return ['success' => false, 'message' => 'No WhatsApp provider is configured — the message was NOT sent. Configure Meta or Evolution in the admin.', 'message_id' => null];
+        }
+
+        $result = $provider->sendText($conversation->phone, $text);
 
         $this->logMessage(
             $conversation->codOrder,
@@ -272,6 +323,16 @@ class WhatsAppService implements WhatsAppServiceInterface
         }
 
         $provider = $this->resolveProvider();
+
+        // H2: the log provider "succeeds" without sending anything —
+        // never mark a confirmation as sent when nothing left the
+        // server (same guard as sendStatusNotification).
+        if ($provider instanceof LogWhatsAppProvider) {
+            Log::warning('COD WhatsApp: confirmation NOT sent, no WhatsApp provider is configured', ['cod_order_id' => $order->id]);
+
+            return ['success' => false, 'message' => 'No WhatsApp provider is configured — the confirmation was NOT sent. Configure Meta or Evolution in the admin.', 'message_id' => null];
+        }
+
         $text = $this->renderTemplate($this->confirmationTemplate(), $order);
 
         if ($provider instanceof MetaWhatsAppProvider) {
@@ -330,6 +391,15 @@ class WhatsAppService implements WhatsAppServiceInterface
         }
 
         $provider = $this->resolveProvider();
+
+        // H2: same guard as sendConfirmation — a reminder that was
+        // never sent must not set reminder_sent_at / reminder_count.
+        if ($provider instanceof LogWhatsAppProvider) {
+            Log::warning('COD WhatsApp: reminder NOT sent, no WhatsApp provider is configured', ['cod_order_id' => $order->id]);
+
+            return ['success' => false, 'message' => 'No WhatsApp provider is configured — the reminder was NOT sent. Configure Meta or Evolution in the admin.', 'message_id' => null];
+        }
+
         $text = $this->renderTemplate($this->reminderTemplate(), $order);
 
         // A reminder is business-initiated too: on Meta prefer the

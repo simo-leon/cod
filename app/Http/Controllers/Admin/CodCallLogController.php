@@ -38,13 +38,17 @@ class CodCallLogController extends Controller
             'callback_at' => ['nullable', 'date'],
         ]);
 
-        $this->calls->recordCall(
-            $codOrder,
-            $user,
-            $data['result'],
-            $data['note'] ?? null,
-            $data['callback_at'] ?? null,
-        );
+        try {
+            $this->calls->recordCall(
+                $codOrder,
+                $user,
+                $data['result'],
+                $data['note'] ?? null,
+                $data['callback_at'] ?? null,
+            );
+        } catch (\InvalidArgumentException $e) {
+            return back()->with('error', $e->getMessage());
+        }
 
         return back()->with('success', trans('admin::app.cod.my-tasks.call-recorded'));
     }

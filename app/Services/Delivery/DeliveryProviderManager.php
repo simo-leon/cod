@@ -66,13 +66,14 @@ class DeliveryProviderManager
     /**
      * Build the normalized parcel data for an order from its real data.
      * No values are invented: names, phone, city and address come from
-     * the order's billing address (shipping address as fallback), the
+     * the order's shipping address (billing address as fallback — the
+     * parcel must go where the customer asked for delivery, H5), the
      * COD amount is the order grand total, products and quantities come
      * from the order items.
      */
     public function buildParcelData(Order $order): array
     {
-        $address = $order->billing_address ?: $order->shipping_address;
+        $address = $order->shipping_address ?: $order->billing_address;
 
         return [
             'fullname' => trim(($address->first_name ?? '').' '.($address->last_name ?? '')) ?: $order->customer_full_name,
@@ -114,13 +115,26 @@ class DeliveryProviderManager
                 return null;
             }
 
+            // M16: one live parcel per order across ALL providers — a
+            // provider switch must not ship the same order twice, and a
+            // "resend" click must not create a second parcel at the
+            // carrier. Only an explicit force (the admin re-send button,
+            // which shows the existing parcel first) creates another.
             $existing = DeliveryParcel::where('order_id', $order->id)
-                ->where('provider', $provider->getName())
                 ->where('status', 'sent')
+                ->latest()
                 ->first();
 
             if ($existing && ! $force) {
                 return $existing;
+            }
+
+            if ($existing && $force) {
+                Log::warning('Delivery: forced re-send, a sent parcel already exists for this order', [
+                    'order_id' => $order->id,
+                    'existing_parcel_id' => $existing->id,
+                    'existing_provider' => $existing->provider,
+                ]);
             }
 
             $data = $this->buildParcelData($order);
@@ -134,7 +148,9 @@ class DeliveryProviderManager
                 'last_status' => $result->success ? ($result->status ?? 'sent') : null,
                 'error_message' => $result->success ? null : $result->error,
                 'payload' => array_merge($data, ['used_form_encoding' => $result->usedFormEncoding]),
-                'response' => $result->raw,
+                // T11: store only a short summary of the provider reply,
+                // not the full raw response.
+                'response' => $this->trimRawResponse($result->raw),
                 'sent_at' => $result->success ? now() : null,
             ]);
         } catch (\Throwable $e) {
@@ -157,6 +173,80 @@ class DeliveryProviderManager
                 return null;
             }
         }
+    }
+
+    /**
+     * Whether the parcel's provider offers cancellation through the
+     * API (M12). The admin only shows the cancel button when this is
+     * true; Vitis and Sendit have no cancel endpoint.
+     */
+    public function supportsCancel(DeliveryParcel $parcel): bool
+    {
+        return $this->provider($parcel->provider)?->supportsCancel() ?? false;
+    }
+
+    /**
+     * Cancel a sent parcel at its provider and mark it cancelled.
+     * Returns ['success' => bool, 'message' => string]. Never throws.
+     */
+    public function cancelParcel(DeliveryParcel $parcel): array
+    {
+        $provider = $this->provider($parcel->provider);
+
+        if (! $provider) {
+            return ['success' => false, 'message' => 'Unknown delivery provider "'.$parcel->provider.'".'];
+        }
+
+        if (! $provider->supportsCancel()) {
+            return ['success' => false, 'message' => $provider->getLabel().' has no cancel endpoint — cancel the parcel from the provider dashboard.'];
+        }
+
+        if (! $parcel->parcel_code) {
+            return ['success' => false, 'message' => 'This parcel has no tracking code yet, so it cannot be cancelled at the provider.'];
+        }
+
+        try {
+            $result = $provider->cancelParcel($parcel->parcel_code);
+        } catch (\Throwable $e) {
+            Log::warning('Delivery: parcel cancellation failed', [
+                'parcel_id' => $parcel->id,
+                'error' => $e->getMessage(),
+            ]);
+
+            return ['success' => false, 'message' => $e->getMessage()];
+        }
+
+        if ($result['success']) {
+            $parcel->update(['status' => 'cancelled', 'last_status' => 'cancelled']);
+        }
+
+        return $result;
+    }
+
+    /**
+     * T11: keep only a short summary of a provider reply (code /
+     * message / status, capped) instead of the full raw response,
+     * which can carry customer data and large payloads.
+     */
+    protected function trimRawResponse(array $raw): array
+    {
+        $summary = [];
+
+        foreach (['code', 'message', 'status', 'error'] as $key) {
+            if (isset($raw[$key]) && is_scalar($raw[$key])) {
+                $summary[$key] = mb_substr((string) $raw[$key], 0, 200);
+            }
+        }
+
+        if (isset($raw['data']) && is_array($raw['data'])) {
+            foreach (['code', 'parcel_code', 'tracking_code', 'message', 'status'] as $key) {
+                if (isset($raw['data'][$key]) && is_scalar($raw['data'][$key])) {
+                    $summary['data_'.$key] = mb_substr((string) $raw['data'][$key], 0, 200);
+                }
+            }
+        }
+
+        return $summary;
     }
 
     /**

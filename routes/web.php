@@ -18,7 +18,9 @@ use Webkul\Core\Http\Middleware\NoCacheMiddleware;
  * Same middleware and admin URL prefix as the package admin routes.
  */
 Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => config('app.admin_url')], function () {
-    Route::get('delivery-providers/test-connection', [DeliveryProviderController::class, 'testConnection'])
+    // H7: POST, not GET — testing a connection calls an external
+    // API, so it must not be triggerable by a plain link/prefetch.
+    Route::post('delivery-providers/test-connection', [DeliveryProviderController::class, 'testConnection'])
         ->name('admin.delivery-providers.test-connection');
 
     Route::post('sales/orders/{id}/send-to-delivery', [DeliveryProviderController::class, 'sendParcel'])
@@ -26,6 +28,9 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
 
     Route::post('sales/orders/{id}/refresh-delivery-tracking', [DeliveryProviderController::class, 'refreshTracking'])
         ->name('admin.sales.orders.refresh-delivery-tracking');
+
+    Route::post('sales/orders/{id}/cancel-delivery-parcel', [DeliveryProviderController::class, 'cancelParcel'])
+        ->name('admin.sales.orders.cancel-delivery-parcel');
 
     /**
      * COD System dashboard (phase 1). Guarded by the `cod` ACL key.

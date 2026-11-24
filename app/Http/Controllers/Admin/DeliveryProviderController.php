@@ -18,6 +18,11 @@ class DeliveryProviderController extends Controller
      */
     public function testConnection(DeliveryProviderManager $manager): RedirectResponse
     {
+        // H7: like its siblings (sendParcel / refreshTracking), this
+        // calls an external, rate-limited API — any logged-in admin
+        // must not be able to trigger it.
+        abort_unless(bouncer()->hasPermission('sales.orders.edit'), 403);
+
         $provider = $manager->defaultProvider();
 
         if ($provider === null) {
@@ -70,6 +75,39 @@ class DeliveryProviderController extends Controller
                 .($parcel?->error_message ? ' '.$parcel->error_message : '')
             );
         }
+
+        return redirect()->back();
+    }
+
+    /**
+     * Cancel the latest sent parcel of one order at its provider
+     * (M12). Only shown for providers that support cancellation.
+     */
+    public function cancelParcel(int $id, DeliveryProviderManager $manager): RedirectResponse
+    {
+        abort_unless(bouncer()->hasPermission('sales.orders.edit'), 403);
+
+        $order = Order::findOrFail($id);
+
+        $parcel = DeliveryParcel::where('order_id', $order->id)
+            ->where('status', 'sent')
+            ->latest()
+            ->first();
+
+        if (! $parcel) {
+            session()->flash('error', trans('admin::app.sales.orders.view.delivery.refresh-no-parcel'));
+
+            return redirect()->back();
+        }
+
+        $result = $manager->cancelParcel($parcel);
+
+        session()->flash(
+            $result['success'] ? 'success' : 'error',
+            $result['success']
+                ? trans('admin::app.sales.orders.view.delivery.cancel-success', ['provider' => $manager->provider($parcel->provider)?->getLabel()])
+                : trans('admin::app.sales.orders.view.delivery.cancel-failed', ['message' => $result['message']])
+        );
 
         return redirect()->back();
     }

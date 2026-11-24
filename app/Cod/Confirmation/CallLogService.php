@@ -6,6 +6,7 @@ use App\Models\CodCallLog;
 use App\Models\CodOrder;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Collection;
+use Illuminate\Support\Facades\DB;
 use Webkul\User\Models\Admin;
 
 class CallLogService implements CallLogServiceInterface
@@ -26,27 +27,40 @@ class CallLogService implements CallLogServiceInterface
     {
         $callbackAt = $callbackAt ? Carbon::parse($callbackAt) : null;
 
-        $call = CodCallLog::create([
-            'cod_order_id' => $order->id,
-            'confirmer_id' => $confirmer->id,
-            'result' => $result,
-            'note' => $note ? trim($note) : null,
-            'callback_at' => $callbackAt,
-            'called_at' => now(),
-        ]);
+        // H4: a call may only move an order that is still waiting for
+        // confirmation. Without this guard one call could resurrect a
+        // canceled order or un-deliver a delivered one. The state is
+        // re-checked inside the transaction on the locked row, so a
+        // concurrent status change cannot slip through.
+        return DB::transaction(function () use ($order, $confirmer, $result, $note, $callbackAt) {
+            $locked = CodOrder::query()->where('id', $order->id)->lockForUpdate()->firstOrFail();
 
-        $order->confirmation_attempts = $order->confirmation_attempts + 1;
+            if (! in_array($locked->status, [CodOrder::STATUS_PENDING_CONFIRMATION, CodOrder::STATUS_WHATSAPP_UNCONFIRMED], true)) {
+                throw new \InvalidArgumentException('Calls can only be recorded on an order pending confirmation (current status: '.$locked->status.').');
+            }
 
-        match ($result) {
-            CodCallLog::RESULT_CONFIRMED => $order->status = CodOrder::STATUS_CONFIRMED,
-            CodCallLog::RESULT_REFUSED => $order->status = CodOrder::STATUS_CANCELED,
-            CodCallLog::RESULT_POSTPONED => $order->callback_at = $callbackAt,
-            default => null,
-        };
+            $call = CodCallLog::create([
+                'cod_order_id' => $locked->id,
+                'confirmer_id' => $confirmer->id,
+                'result' => $result,
+                'note' => $note ? trim($note) : null,
+                'callback_at' => $callbackAt,
+                'called_at' => now(),
+            ]);
 
-        $order->save();
+            $locked->confirmation_attempts = $locked->confirmation_attempts + 1;
 
-        return $call;
+            match ($result) {
+                CodCallLog::RESULT_CONFIRMED => $locked->status = CodOrder::STATUS_CONFIRMED,
+                CodCallLog::RESULT_REFUSED => $locked->status = CodOrder::STATUS_CANCELED,
+                CodCallLog::RESULT_POSTPONED => $locked->callback_at = $callbackAt,
+                default => null,
+            };
+
+            $locked->save();
+
+            return $call;
+        });
     }
 
     /**

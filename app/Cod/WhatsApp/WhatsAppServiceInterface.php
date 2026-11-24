@@ -27,6 +27,17 @@ interface WhatsAppServiceInterface
     public function isEnabled(): bool;
 
     /**
+     * Whether WhatsApp is on but no real provider can send (H2).
+     */
+    public function isEnabledWithoutRealProvider(): bool;
+
+    /**
+     * Whether an incoming webhook could be forged because no secret
+     * protects it (H1).
+     */
+    public function webhookUnprotected(): bool;
+
+    /**
      * The store WhatsApp number from the admin settings, or null when
      * none is set.
      */

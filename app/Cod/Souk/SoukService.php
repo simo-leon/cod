@@ -569,6 +569,29 @@ class SoukService implements SoukServiceInterface
                 return null;
             }
 
+            // H6: the pre-transaction status check ran on a stale
+            // model — re-check it on the locked row, so a task that
+            // was cancelled or paid in between cannot receive a
+            // payment. And never pay more than the purchase in total:
+            // the amount due is purchase_price x qty.
+            if (! in_array($locked->status, [SoukTask::STATUS_CLAIMED, SoukTask::STATUS_PURCHASED, SoukTask::STATUS_RECEIVED, SoukTask::STATUS_VERIFIED], true)) {
+                return null;
+            }
+
+            $alreadyPaid = (float) SoukPayment::query()->where('souk_task_id', $locked->id)->sum('amount');
+            $totalDue = (float) $locked->purchase_price * max(1, (int) $locked->qty);
+
+            if ($alreadyPaid + $amount > $totalDue + 0.001) {
+                Log::warning('Souk: payment refused, amount exceeds the purchase total', [
+                    'souk_task_id' => $locked->id,
+                    'already_paid' => $alreadyPaid,
+                    'attempted' => $amount,
+                    'total_due' => $totalDue,
+                ]);
+
+                return null;
+            }
+
             $payment = SoukPayment::create([
                 'souk_task_id' => $locked->id,
                 'buyer_id' => $locked->buyer_id,

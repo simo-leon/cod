@@ -34,6 +34,12 @@ use Illuminate\Support\Facades\Log;
  *   the sender phone (WhatsAppService::processInbound).
  *
  * Evolution (POST /api/cod/whatsapp/evolution):
+ * - Optional shared secret: when
+ *   general.cod_system.whatsapp.evolution_webhook_secret is set, the
+ *   request must carry it in the X-Evolution-Webhook-Secret header
+ *   (hash_equals); otherwise it is rejected (403). When no secret is
+ *   configured the endpoint accepts the configured instance only and
+ *   logs a warning — set the secret before production use.
  * - Event "messages.upsert": data.key.remoteJid (phone),
  *   data.key.fromMe (our own messages are ignored), data.message
  *   .conversation or .extendedTextMessage.text (or
@@ -108,6 +114,20 @@ class CodWhatsAppWebhookController extends Controller
      */
     public function handleEvolution(Request $request)
     {
+        $webhookSecret = core()->getConfigData(WhatsAppService::CONFIG_KEY.'.evolution_webhook_secret');
+
+        if (! empty($webhookSecret)) {
+            $given = $request->header('X-Evolution-Webhook-Secret');
+
+            if ($given === null || ! hash_equals((string) $webhookSecret, (string) $given)) {
+                Log::warning('COD WhatsApp (Evolution): webhook rejected, missing or wrong webhook secret.');
+
+                return response()->json(['message' => 'Invalid webhook secret.'], 403);
+            }
+        } elseif ($request->isMethod('post')) {
+            Log::warning('COD WhatsApp (Evolution): webhook received without a webhook secret configured — sender NOT verified.');
+        }
+
         $payload = $request->json()->all();
 
         if (($payload['event'] ?? null) !== 'messages.upsert') {
