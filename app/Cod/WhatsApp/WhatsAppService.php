@@ -624,7 +624,8 @@ class WhatsAppService implements WhatsAppServiceInterface
             return 'canceled';
         }
 
-        if ($hasWord(['أكد', 'اكد', 'أؤكد', 'اؤكد', 'أكدو', 'اكدو', 'نعم', 'موافق', 'أكيد', 'اكيد', 'oui', 'yes', 'confirm', 'ok', 'okay', 'd’accord', 'daccord'])) {
+        // T3 (round 2): 'واخا' is the Darija 'okay'.
+        if ($hasWord(['أكد', 'اكد', 'أؤكد', 'اؤكد', 'أكدو', 'اكدو', 'نعم', 'موافق', 'أكيد', 'اكيد', 'واخا', 'oui', 'yes', 'confirm', 'ok', 'okay', 'd’accord', 'daccord'])) {
             return 'confirmed';
         }
 
