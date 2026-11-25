@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-8189",
+   "price": 100,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à air chaud 4 fils pour station de soudure",
+     "description": "Pistolet à air chaud 4 fils pour station de soudure\n\nPistolet à air chaud pour station de soudure, de 4 fils.\n\nMots clés: soldering, rework, welding, gun, iron, hot, air.",
+     "short_description": "Pistolet à air chaud pour station de soudure, de 4 fils."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/402-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-37151",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à air chaud 7 fils pour station de soudure",
+     "description": "Pistolet à air chaud 7 fils pour station de soudure\n\nPistolet à air chaud pour station de soudure, de 7 fils, compatible avec la station de soudure 878AD ou similaire.\n\nMots clés: soldering, rework, welding, gun, iron, hot, air.",
+     "short_description": "Pistolet à air chaud pour station de soudure, de 7 fils, compatible avec la station de soudure 878AD ou similaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/402-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-19036",
+   "price": 650,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Station de Soudure à Air Chaud 878AD",
+     "description": "Station de Soudure à Air Chaud 878AD\n\n878AD est une station soudure à air chaud avec une puissance de chauffage de 700 W, une plage de températures allant de 100C à 450C, un volume d’air de 120 L / min. Capteur commandée par PID, chauffage rapide, température précise et stable. Convient pour le soudage et le dessoudage de surfaces montées avec des CI, tels que QFP, PLCC, SOP, BGA, etc. Système de refroidissement intelligent, apport d’air différé lorsque l’unité est éteinte, mise hors tension automatique lorsque la température descend sous 100 ° C, basse vibration, faible bruit. Protection ESD.\n\nCaractéristiques:\n\nModèle: Koocu 878AD\n\nTension nominale: 220V 50 / 60Hz AC\n\nPuissance électrique d’air chaud: 700W\n\nType de pompe: Diaphragme membraneuse\n\nDébit d’air: 120 l/min max\n\nBruit: <45dB\n\nPlage de température d’air chaud: 100 – 450 ℃\n\nPuissance électrique de fer à souder: 60W\n\nPlage de température du fer à souder: 200 ℃ – 480 ℃\n\nDimensions: 10x13x15cm\n\nMots clés: soldering, rework, welding, gun, iron, hot, air.",
+     "short_description": "Koocu 878AD est une station soudure à air chaud avec une puissance de chauffage de 700 W, une plage de températures allant de 100C à 450C, un volume d’air de 120 L / min"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/403-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42725",
+   "price": 550,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Station de Soudure à Air Chaud 878A",
+     "description": "Station de Soudure à Air Chaud 878A\n\nUne solution tout-en-un pour dessouder et ressouder les composants SMD (QFP, SOIC, BGA…), avec réglage précis de la température et du flux d’air.\n\n🔧 Caractéristiques techniques\n\nAlimentation : 220 V AC ±10 %, 50 Hz\n\nConsommation totale : 700 W max.\n\nPistolet Air Chaud\n\nPuissance : 650 W\n\nTempérature : 100 °C – 480 °C\n\nDébit d’air : jusqu’à 120 L/min\n\nBuses incluses : Ø 8 mm, 10 mm, 13 mm\n\nFer à Souder\n\nPuissance : 50 W (embout AT-900M)\n\nTempérature : 200 °C – 480 °C\n\nFuite de tension < 0,5 mV au bout de la panne\n\nAffichage & Contrôle\n\nÉcran LED pour air chaud et fer\n\nBoutons rotatifs de réglage température et débit\n\nSélecteur air chaud ↔ fer à souder\n\nDimensions : 155 × 100 × 135 mm\n\nPoids : ≃ 2,5 kg (avec accessoires)\n\n💡 Applications typiques\n\nDessoudage/retrait de composants SMD (BGA, QFP…)\n\nSoudure de précision sur cartes mères, modules FPGA, cartes graphiques\n\nThermorétraction de gaines isolantes\n\nRéparation électronique, prototypage et ateliers de formation\n\nSéchage et formage de plastiques légers\n\n⚙️ Utilisation & Réglages\n\nMise sous tension : branchez sur le secteur et mettez le commutateur sur “ON”.\n\nAir Chaud :\n\nSélectionnez le mode “Air” avec le bouton principal.\n\nRéglez la température en tournant le réglage “Temp”.\n\nAjustez le débit d’air via le réglage “Flow”.\n\nFer à Souder :\n\nSélectionnez le mode “Iron”.\n\nRéglez la température souhaitée.\n\nAttendez que l’écran confirme la montée en température.\n\nChangement d’outil :\n\nPassez le sélecteur sur l’outil désiré.\n\nLes autres réglages sont mémorisés et réaffichés automatiquement.\n\nArrêt & Sécurité :\n\nRamenez le commutateur principal sur “OFF”.\n\nLaissez refroidir les pannes et les buses avant de ranger.\n\nTravaillez toujours dans un espace ventilé et avec des gants isolants.\n\nConseil : pour prolonger la durée de vie de la panne et des buses, nettoyez-les régulièrement avec une éponge humide et évitez les chocs mécaniques.\n\nMots clés: soldering, rework, welding, gun, iron, hot, air.",
+     "short_description": "Koocu 878A est une station soudure à air chaud avec une puissance de chauffage de 650 W, une plage de températures allant de 100C à 480C, un volume d’air de 120 L / min"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/403-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24379",
+   "price": 600,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Station de Soudure à Air Chaud Koocu 852",
+     "description": "Station de Soudure à Air Chaud Koocu 852\n\nStation de soudure Smd à air chaud Koocu 852, avec support pour fer à souder.\n\nCaractéristiques:\n\nModèle Modèle Koocu 852\n\nTension nominale: 220V 50 / 60Hz AC\n\nPuissance électrique: 320W\n\nType de pompe: Diaphragme membraneuse\n\nDébit d’air: 24L/min\n\nPlage de température d’air chaud: 100 – 450 ℃\n\nPlage de température du fer à souder: 200 ℃ – 480 ℃\n\nNote: Avant la première utilisation, retirer les vis qui maintient la pompe située sous la station.\n\nMots clés: soldering, rework, welding, gun, iron.",
+     "short_description": "Station de soudure Smd à air chaud Koocu 852, avec support pour fer à souder."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/03/408-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7222",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Plaque PCB En Époxy Cuivré Simple Face 20x30cm",
+     "description": "Plaque PCB En Époxy Cuivré Simple Face 20x30cm\n\nPlaque PCB En Époxy Cuivré Simple Face 20x30cm ±1 A4, 1.6mm.",
+     "short_description": "Plaque PCB En Époxy Cuivré Simple Face 20x30cm ±1 A4, 1.6mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/420-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/420-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/420-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21136",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Plaque PCB Présensibilisée Simple Face 15x20cm",
+     "description": "Plaque PCB Présensibilisée Simple Face 15x20cm\n\nLe PCB 15x20cm monocouche présensibilisé est recouvert d’une couche de photoresist positif sur une face, prêt à être exposé aux UV puis développé et gravé. Idéal pour vos prototypes, petites séries et ateliers de formation, il simplifie le processus de fabrication et garantit des pistes fines et des détails nets.\n\n🔧 Caractéristiques techniques\n\nTaille : 150 × 200 mm\n\nSubstrat : FR-4, épaisseur 1,6 mm, cuivre 35 µm\n\nPhotoresist : positif, pré-sensibilisé sur une face \n\nFilm de protection : pellicule amovible pour éviter toute exposition prématurée\n\nExposition UV recommandée : 3–5 minutes à 365 nm\n\nPrécision : réalisation de pistes fines et motifs de haute netteté\n\n💡 Applications typiques\n\nPrototypage rapide de circuits simple face\n\nPetites séries et proof-of-concept\n\nAteliers et formation en électronique\n\nCréation de maquettes et tests fonctionnels\n\nProjets DIY, makers et hobbyistes.\n\nMots clés: board, FR4, ultraviolet, presensitized.",
+     "short_description": "Plaque PCB Présensibilisée monocouche est recouvert d’une couche de photoresist positif sur une face, prêt à être exposé aux UV puis développé et gravé."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/420-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35434",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Troisième Main avec Loupe",
+     "description": "Mini Troisième Main avec Loupe\n\nTroisième Main pour travaux de précision, avec Loupe.\n\nOutil auxiliaire utile dans le domaine de la soudure et de la modélisation.\n\nLes pinces de support et les pinces crocodiles sont réglables.\n\nDomaine d’application: soudage électronique, modélisation, philatélie, broderie, antiquités, observation biologique, lecture, etc.",
+     "short_description": "Troisième Main pour travaux de précision, avec Loupe."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/04/421-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42107",
+   "price": 380,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "LiitoKala Lii-500 Chargeur de Batterie Intelligent",
+     "description": "LiitoKala Lii-500 Chargeur de Batterie Intelligent\n\nLe LiitoKala Lii-500 est un chargeur/analyseur multi-chimie 4 baies, compatible Li-ion (3,7 V), Ni-MH et Ni-Cd. Doté d’un écran LCD unique par canal et de 2 boutons, il permet de charger, décharger ou tester chaque pile de façon indépendante, avec quatre niveaux de courant (300/500/700/1000 mA) et un port USB 5 V / 1 A en sortie pour alimenter un autre appareil.\n\n🔧 Caractéristiques techniques\n\nAlimentation : DC 12 V / 3 A via adaptateur secteur (100–240 VAC) ou prise allume-cigare 12 V (adaptateur auto fourni)\n\nChimies prises en charge :\n\nLi-ion (3,7 V) : 10440, 14500, 16340, 17355, 17500, 17670, 18490, 18650, 26500, 26650…\n\nNi-MH / Ni-Cd : AA, AAA, A, SC\n\nCourants de charge (sélection par bouton) : 300 mA / 500 mA / 700 mA / 1000 mA (par canal)\n\nCourants de décharge (mode Test) : 250 mA / 500 mA\n\nPort USB 5 V / 1 A : sortie USB type A pour alimenter un smartphone ou un module IoT\n\nÉcran & interface :\n\n4 touches de sélection de canal (1 – 4)\n\nMODE (Charge/Discharge/Test), CURRENT (sélection courant), 1 / 2 / 3 / 4 (affichage canal), LED bicolores (rouge = charge, vert = fin)\n\nFonctions : auto-stop en fin de charge, mesure de capacité (mAh), de résistance interne (IR), test rapide, inversion de polarité et détection de pile défectueuse\n\nDimensions : environ 159 × 93 × 37 mm\n\nPlage de température d’utilisation : 0 °C à +40 °C\n\n💡 Utilisation & Fonctions principales\n\nSélection de canal : appui sur 1–4 pour afficher et configurer chaque baie.\n\nMODE : passer en charge, décharge ou test capacité (mAh/Ω).\n\nCURRENT : choisir le courant de charge (300/500/700/1000 mA).\n\nFin de cycle : le module arrête automatiquement la charge et affiche la capacité injectée.\n\nTest de décharge : mesure la capacité en mAh et la résistance interne (en mΩ).\n\nPort USB : reste disponible même si tous les canaux sont occupés.\n\n🛠️ Brochage / Connexions\n\nConnecteur\nFonction\n\nDC Jack 5,5×2,1 mm\nEntrée 12 V DC (adaptateur secteur fourni)\n\nPrise allume-cigare\nEntrée 12 V DC (adaptateur auto fourni)\n\nUSB A\nSortie 5 V / 1 A pour charger un appareil USB\n\nRails des baies 1–4\nInsertion des piles (borne + au fond, sens opposé aux autres chargeurs)\n\nInsérez l’adaptateur 12 V dans le jack ou l’auto-adaptateur dans l’allume-cigare.\n\nChoisissez une baie, sélectionnez MODE et CURRENT, puis insérez la pile : la LED rouge s’allume.\n\nLe cycle se termine automatiquement : la LED verte indique “charge terminée”.\n\nPour un test / décharge, sélectionnez MODE → Discharge/Test et démarrez.\n\nCe chargeur intelligent vous offre un contrôle précis sur chaque canal et une interface simple pour vos batteries Li-ion, Ni-MH et Ni-Cd.\n\nMots clés: charger, balance, bms, tester, battery, meter, lithium, polymer.",
+     "short_description": "Le LiitoKala Lii-500 est un chargeur/analyseur multi-chimie 4 baies, compatible Li-ion (3,7 V), Ni-MH et Ni-Cd. Doté d’un écran LCD unique par canal et de 2 boutons"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/481-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/481-a-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/481-a-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3217",
+   "price": 140,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "LCR-T4 Testeur de Composants ESR Métre",
+     "description": "Testeur de Composants ESR Métre LCR-T4\n\nCet appareil Esr métre (esr meter) à la capacité de tester et détecter presque tous les composants électroniques tels que les résistances, les condensateurs, les bobines, les transistors (pnp, npn, NP mosfet, darlington, jfet …), les diodes, leds, les thyristors, les triacs … il mesure et détecte le composant automatiquement et avec une grande plage de mesure, et affiche les résultats dans un grand afficheur LCD (128 x 64), pour les condensateurs en plus de la mesure de la capacité, il mesure la valeur ESR (equivalent series resistance) qui sert à détecter les mauvais condensateurs, afin que vous puissiez déterminer d’utiliser ou modifier le condensateur, il est utilisé par les professionnels de réparation pour détecter les mauvais condensateurs.\n\nCliquez ici pour commander un boîtier en acrylique pour le testeur.\n\nCaractéristiques:\n\nAlimentation: batterie 9V (non inclut)\n\nArrêt automatique pour conserver la batterie.\n\nAfficheur Lcd: 128 X 64\n\nMesure de: résistance: 0.1ohm à 50Mohm, capacitance: 25pF à 100000 uF (100mF), inductance: 10uH à 20H\n\nDétecte automatiquement:\n\nLes transistors PNP et NPN avec le brochage (base, collecteur, emetteur) et calcule le gain d’amplification, et la tension Vbe.\n\nLes transistors Mosfet N channel et P-channel avec le brochage (source, grille, drain) et calcule la capacitance de Grille et la tension Vt.\n\nLes diodes et calcule la tension de seuil, diode zener moins de 4.5v.\n\nLes thyristor, triac, transistor (jfet, darlington..)\n\n…\n\nRemarque: Avant de tester un condensateur, assurez-vous qu’il est déchargé, pour ne pas endommager l’appareil.\n\nFiche technique: LCR-T4\n\nMots clés: esr, meter.",
+     "short_description": "Cet appareil a la capacité de tester et détecter presque tous les composants électroniques tels que les résistances, les condensateurs, les bobines, les transistors (pnp, npn, NP mosfet, darlington, jfet …), les diodes, leds, les thyristors, les triacs … il mesure et détecte le composant automatiquement et avec une grande plage de mesure, et affiche les résultats dans un grand afficheur LCD (128 x 64)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/515-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/515-1.png"
+   ]
+  }
+ ]
+}

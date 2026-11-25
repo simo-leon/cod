@@ -1,0 +1,201 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-37145",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fil de Séparation 0.03mm 100M JGS-9",
+     "description": "Fil de Séparation 0.03mm 100M\n\nLe fil de séparation (coupe) KOOCU JGS-9 est un fil diamanté de haute dureté, spécialement conçu pour la séparation des écrans LCD des téléphones mobiles. Avec un diamètre de 0.03 mm, il permet des coupes précises et efficaces sans endommager les composants environnants.\n\nCaractéristiques:\n\nMarque: KOOCU\n\nDiamètre: 0.03 mm\n\nLongueur: 100 m\n\nMatériau: Fil diamanté à haute dureté\n\nPropriétés: Haute résistance à l’abrasion, haute ténacité, haute résistance à la traction, et résistance aux températures élevées.\n\nComment ça marche: Le fil diamanté est utilisé pour couper les adhésifs et séparer les écrans des appareils électroniques. La haute dureté du fil permet de réaliser des coupes propres et précises, minimisant ainsi les risques de dommages aux écrans ou aux autres composants.\n\nApplications:\n\nRemplacement et réparation d’écrans de smartphones\n\nSéparation des écrans LCD et OLED\n\nMaintenance de dispositifs électroniques\n\nComment l’utiliser:\n\nPréparation: Placez l’appareil à démonter sur une surface stable.\n\nPositionnement: Insérez le fil de coupe entre l’écran et le boîtier de l’appareil.\n\nCoupe: Tirez doucement le fil à travers l’adhésif pour séparer l’écran du boîtier.\n\nRetrait: Enlevez l’écran séparé avec précaution.\n\nMots clés: copper, wire, seperation, display, adhesif.",
+     "short_description": "Le fil de séparation (coupe) KOOCU JGS-9 de 0.03mm en fil diamanté permet de couper précisément les écrans et autres composants électroniques délicats, idéal pour la réparation des smartphones."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/390-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3116",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bâton de colle 11X255 mm",
+     "description": "Bâton de colle 11X255 mm\n\nBâton de colle de diamètre 11mm, et 25.5cm de longueur, pour le pistolet à colle.\n\nMots clés: glue, gun, sticks.",
+     "short_description": "Bâton de colle de diamètre 11mm, et 255mm de longueur, pour le pistolet à colle."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/392-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3117",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fil à Souder, Étain Rosin Core",
+     "description": "Fil à Souder, Étain Rosin Core 1mm/0.8mm/0.3mm\n\nFil à Souder ( étain ) de haute qualité “Rosin Core”, diamètre 1mm/0.8mm/0.3mm, 40g/50g/100g/200g/500g, 2% flux.\n\nMots clés: solder.",
+     "short_description": "Fil à Souder ( étain ) de haute qualité “Rosin Core”, diamètre 1mm/0.8mm/0.3mm, 40g/50g/100g/200g, 2% flux."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/393-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3119",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Résine Flux de soudure",
+     "description": "Résine Flux de soudure\n\nRésine Flux de soudure est la solution idéale pour une soudure particulièrement propre et fiable. Permet d’éviter la corrosion. SMD PCB, BGA PGA.\n\nPoids : 75g.\n\nMots clés: solder.",
+     "short_description": "Résine Flux de soudure est la solution idéale pour une soudure particulièrement propre et fiable. Permet d’éviter la corrosion. SMD PCB, BGA PGA."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/395-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3122",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à Dessouder",
+     "description": "Pompe à Dessouder\n\nPompe à dessouder portable à usage général Idéale pour les techniciens en électronique.\n\nMatière : Corps métallique et embout en PTFE.\n\nEmbouts en pointes interchangeables.\n\nDimensions : 200 mm.\n\nMots clés: desolder, pump.",
+     "short_description": "Pompe à dessouder portable à usage général Idéale pour les techniciens en électronique.\n\nMatière : Corps métallique et embout en PTFE.\n\nEmbouts en pointes interchangeables.\n\nDimensions : 200 mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/398-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7252",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Troisième Main avec Loupe et Lampe",
+     "description": "Troisième Main avec Loupe et Lampe\n\nTroisième Main pour travaux de précision, avec Loupe 35X / 12X et Lampe à 2 led et support pour fer à souder.\n\nMots clés: soldering, third, hand, iron.",
+     "short_description": "Troisième Main pour travaux de précision, avec Loupe 35X / 12X et Lampe à 2 led et support pour fer à souder."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/421-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-11521",
+   "price": 380,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "ZT302 9999 counts Multimétre Digital Automatique",
+     "description": "Multimétre Digital Automatique ZT302 9999 counts\n\nLe ZT302 est un multimètre numérique professionnel à gamme automatique, offrant une précision élevée et des fonctionnalités avancées. Idéal pour les étudiants, les électriciens et les techniciens, il permet de mesurer avec fiabilité la tension, le courant, la résistance, la capacité, la fréquence, le cycle d’utilisation, ainsi que de tester les diodes et la continuité. Il intègre également une sortie d’onde carrée, des fonctions MAX/MIN et une mesure relative (REL).\n\nFonctionnalités:\n\nAffichage LCD rétroéclairé 9999 comptes\n\nMesure True RMS pour des lectures précises en AC\n\nGamme automatique et manuelle\n\nMesure de tension et courant AC/DC\n\nMesure de résistance, capacité, fréquence, cycle d’utilisation\n\nTest de diode et de continuité avec alarme sonore\n\nSortie d’onde carrée jusqu’à 5 kHz\n\nFonctions MAX/MIN et mesure relative (REL)\n\nArrêt automatique et indication de batterie faible\n\nTension DC : 9,999 mV à 999,9 V ±(0,5 % + 3)\n\nTension AC : 9,999 mV à 750,0 V ±(1,0 % + 3)\n\nCourant DC : 99,99 µA à 9,999 A ±(0,8 % à 1,0 % + 3)\n\nCourant AC : 99,99 µA à 9,999 A ±(1,0 % à 1,2 % + 3)\n\nRésistance : 99,99 Ω à 9,999 MΩ ±(0,5 % à 1,5 % + 3)\n\nCapacité : 9,999 nF à 9,999 mF ±(2,0 % à 5,0 % + 5)\n\nFréquence : 99,99 Hz à 9,999 MHz ±(0,1 % + 2)\n\nCycle d’utilisation : 1 % à 99 % ±(0,1 % + 2)\n\nCaractéristiques:\n\nAffichage : 9999 comptes avec rétroéclairage\n\nTaux d’échantillonnage : 3 fois par seconde\n\nAlimentation : 2 piles AAA 1,5 V (non incluses)\n\nDimensions : 161 × 81 × 39 mm\n\nPoids : environ 198 g (sans accessoires)\n\nSécurité : CAT III 600 V\n\nEmballage inclus:\n\n1 × Multimètre numérique ZT302\n\n1 × Jeu de cordons de mesure\n\n1 × Sac de rangement\n\n1 × Manuel d’utilisation\n\nMots clés: multimeter, meter, auto, range",
+     "short_description": "Multimétre Digital à gamme automatique ZT302, pour mesurer la tension ac/dc, courant ac/dc, température, capacité, résistance, hfe, fréquence, cycle…"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/513-9.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/513-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/513-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8193",
+   "price": 125,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "VC890C+ Multimétre Digital",
+     "description": "Multimétre Digital VC890C+\n\nMultimétre Digital VC890C+, pour mesurer la tension ac/dc, courant ac/dc, température, capacité, résistance, hfe.\n\nCaractéristiques\n\nAlimentation: batterie 9v.\n\nPlage de mesure:\n\nTension: 0 – 1000V DC, 0 – 700V AC\n\nRourant: 0 – 10A DC/AC\n\nRésistance: 0 – 200Mohm\n\nCapacté: 0 – 200uF\n\nTempérature: -20c – 1000c\n\nMesure de gain des transistors (hfe)\n\nMots clés: multimeter, meter, auto, range",
+     "short_description": "Multimétre Digital VC890C+, pour mesurer la tension ac/dc, courant ac/dc, température, capacité, résistance, hfe."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/514-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/514-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3219",
+   "price": 240,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "GM321 Thermomètre Numérique Non-Contact IR Laser",
+     "description": "Thermomètre Numérique Non-Contact IR Laser GM321\n\nThermométre Laser non-contact GM321 digital, permet de mesurer la température de n’importe quel objet sans le toucher, Il émet une ligne laser rouge pour viser et pour que l’utilisateur puisse voir quelle zone est mesurée, une plage de mesure élevée -50 à 400 ºC, des mesures précises affiché dans un afficheur lcd clair avec éclairage en cas d’utilisation dans des endroits obscur, alimenter par deux batteries AAA.\n\nPrécision: ± 1,5 ° C ou ± 1,5%.\n\nRésolution: 0.1C ou 0.1F.\n\nPlage de mesure: -50°C ~ 400°C (-58°F ~ 752°F).\n\nRapport de distance: 12: 1.\n\nEmissivité: 0.10-1.00 réglable (préréglé à 0.95).\n\nUnité C / F sélectionnable.\n\nLaser ON / OFF sélectionnable.\n\nCalibration automatique ± 5° C\n\nLCD avec Rétroéclairage ON / OFF sélectionnable.\n\nMise hors tension automatique aprés 20 secondes\n\nÉquipé d’un laser pour viser.\n\nLéger et facile à utiliser.\n\nTemps de réponse et longueur d’onde: 500ms et réponse à 95%.\n\nAlimentation par batterie 1.5V AAA * 2 (batterie non incluse).\n\nMots clés: thermometer, thermal, meter, temperrature, infrared, gm320.",
+     "short_description": "Thermométre Laser non-contact GM321 digital, permet de mesurer la température de n’importe quel objet sans le toucher, Il émet une ligne laser rouge pour viser et pour que l’utilisateur puisse voir quelle zone est mesurée, une plage de mesure élevée -50 à 400 ºC, des mesures précises affiché dans un afficheur lcd clair avec éclairage en cas d’utilisation dans des endroits obscur, alimenter par deux batteries AAA."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/516-5.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/516-6.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/516-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/516-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3223",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Testeur USB 8 en 1, 30V 5A, QC2.0 3.0",
+     "description": "Testeur USB 8 en 1, 30V 5A, QC2.0 3.0\n\nUn testeur USB equipé d’un voltmétre, ampèremètre, wattmétre, compteur d’énergie, capacimétre, thérmométre et un compteur de temps, sert a tester les appareils éléctronique et batteries, il peut surveiller les batteries ou les téléphones lors de la charge et mesurer la tension et le courant et calculer la puissance et capacité consommée, il peut tester la sortie d’un power bank, il peut mesurer facilement la tension de sortie du port USB et le courant de fonctionnement ou la tension de charge de l’appareil, détecte tout chargeur USB tel que PC USB, chargeur domestique, chargeur de voiture. elle prend en charge jusqu’à 5A et 30V, et affiche les résultats dans un afficheur Oled, utiliser aussi par les professionnels de réparation des smartphones pour détecter les problémes de chargement, connecteur…\n\nCliquez une fois sur le bouton RESET pour vérifier l’enregistrement des données des groupes paquet (heure, Wh, mAh). Appuyez longuement sur le bouton pendant 3 secondes pour effacer l’ensemble actuel de données enregistrées (heure, Wh, mAh).\n\nLa plage de mesure: tension: 4-30V, courant: 0A-5A, puissance: 0-150W, capacité: 0-99999mah, énergie: 0-999.999Wh, compteur de temps: 0-99 heures, Groupe de données: 1-9\n\nRésolution: tension 0.01V, courant 0.01A puissance 0.001W capacité 1mAH\n\nTempérature de fonctionnement: 0 – 60 dgree\n\nLe mode d’affichage: écran OLED\n\nDimensions: 73 mm * 25 mm * 13 mm.\n\nMots clés: tester, docteur, voltmeter, ammeter, capacimeter, wattmeter, multimetre, powerbank.",
+     "short_description": "Un testeur USB equipé d’un voltmétre, ampèremètre, wattmétre, compteur d’énergie, capacimétre, thérmométre et un compteur de temps, sert a tester les appareils éléctronique et batteries."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/518-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/518-5.png"
+   ]
+  }
+ ]
+}

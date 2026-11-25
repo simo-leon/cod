@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-34436",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "XH-W1219 Thermostat 12V Avec Double Afficheur",
+     "description": "XH-W1219 Thermostat 12V Avec Double Afficheur\n\nLe thermostat numérique XH-W1219 est un contrôleur de température doté d’un double affichage LED rouge et vert, idéal pour une utilisation dans les systèmes de chauffage et de refroidissement. Il est équipé d’une sonde NTC10K étanche pour mesurer la température de manière précise.\n\nCaractéristiques en détail\n\nPlage de contrôle de la température : -50°C à 110°C\n\nPrécision de contrôle : ±0.1°C\n\nTension de fonctionnement : 12V DC\n\nType de sortie : relais 10A max\n\nRéglage du différentiel de retour : 0.1°C à 30°C\n\nDélai de démarrage : 0-10 minutes\n\nCalibration de température : -10°C à 10°C\n\nDimensions : 60mm x 43mm x 16mm\n\nFonctionnement\n\nLe module utilise une sonde NTC pour mesurer la température. En fonction de la température mesurée et des paramètres configurés (mode de chauffage/refroidissement, différentiel de retour, etc.), il active ou désactive le relais pour contrôler les dispositifs de chauffage ou de refroidissement.\n\nApplications\n\nContrôle de la température dans les systèmes de chauffage\n\nRégulation de la température des aquariums\n\nSystèmes de refroidissement pour équipements électroniques\n\nIncubateurs\n\nBrochage\n\nLe module XH-W1219 dispose de quatre broches principales :\n\nVCC : Alimentation 12V DC\n\nGND : Masse\n\nRelais NO : Normalement ouvert (utilisé pour le contrôle de charge)\n\nRelais COM : Commun (utilisé pour le contrôle de charge)\n\nMots clés: Thermostat, XH-W1219, Arduino, Température, Temperature control, Dual display, Arduino tutorial, XH-W1219 module",
+     "short_description": "Le module thermostat XH-W1219 avec double affichage LED et sonde NTC10K permet de contrôler la température de -50°C à 110°C avec une précision de 0.1°C, idéal pour des applications de chauffage et de refroidissement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0138-A.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0138-A-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2914",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Buzzer Actif 5V",
+     "description": "Buzzer Actif 5V\n\nLe module buzzer actif 5V est un dispositif simple qui génère un son lorsqu’une tension continue est appliquée. Contrairement aux buzzers passifs, qui nécessitent un signal externe pour produire un son, les buzzers actifs contiennent un oscillateur intégré qui crée automatiquement le son lorsqu’ils sont alimentés. Cela les rend faciles à utiliser dans des circuits nécessitant des signaux audio simples.\n\nCaractéristiques en détail\n\nTension nominale : 5V DC\n\nPlage de tension de fonctionnement : 4V à 7V DC\n\nCourant nominal : <30 mA\n\nType de son : Bip continu\n\nFréquence de résonance : ~2300 Hz\n\nNiveau sonore : > 85 dB à 10 cm\n\nDimensions : 19mm x 15mm\n\nFonctionnement\n\nLe buzzer actif fonctionne en convertissant l’énergie électrique en son à travers un élément piézoélectrique interne. Lorsque la tension est appliquée, l’oscillateur interne active l’élément piézoélectrique, générant ainsi un son continu. Le buzzer produit un ton constant tant que la tension est appliquée.\n\nApplications\n\nCircuits d’alarme\n\nÉquipements de communication\n\nÉlectronique automobile\n\nÉquipements portables\n\nBrochage\n\nGND : Masse\n\nSignal (S) : Entrée de signal, connectée à une sortie numérique du microcontrôleur, active HIGH\n\nComment l’utiliser\n\nPour utiliser le buzzer actif 5V avec un Arduino, connectez la broche VCC à l’alimentation 5V de l’Arduino, la broche GND à la masse, et la broche de signal à une sortie numérique de l’Arduino.\n\nComment l’utiliser avec Arduino Uno\n\nExemple de code Arduino de base\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  digitalWrite(BUZZER_PIN, HIGH); // Activer le buzzer\r\n  delay(1000); // Attendre 1 seconde\r\n  digitalWrite(BUZZER_PIN, LOW); // Désactiver le buzzer\r\n  delay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code active et désactive le buzzer actif 5V à des intervalles d’une seconde, produisant un son d’une seconde suivi d’une seconde de silence.\n\nComposants nécessaires pour le code de base\n\nArduino Uno\n\nModule buzzer actif 5V\n\nCâbles de connexion\n\nExplication détaillée du code de base\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Le buzzer est activé pendant une seconde, puis désactivé pendant une seconde, créant un son intermittent.\n\nBrochage détaillé des connexions du code de base\n\nGND : GND (Arduino)\n\nSignal (S) : D8 (Arduino)\n\nExemple de code Arduino avancé pour contrôle sonore\n\n#define BUZZER_PIN 8\r\n#define BUTTON_PIN 7\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n  pinMode(BUTTON_PIN, INPUT_PULLUP);\r\n}\r\n\nvoid loop() {\r\n  int buttonState = digitalRead(BUTTON_PIN);\r\n  if (buttonState == LOW) {\r\n    digitalWrite(BUZZER_PIN, HIGH);\r\n  } else {\r\n    digitalWrite(BUZZER_PIN, LOW);\r\n  }\r\n}\n\nBut du code\n\nCe code permet de contrôler le buzzer avec un bouton. Lorsque le bouton est appuyé, le buzzer émet un son continu.\n\nComposants nécessaires pour le code avancé\n\nArduino Uno\n\nModule buzzer actif 5V\n\nBouton-poussoir\n\nCâbles de connexion\n\nExplication détaillée du code avancé\n\nInclusion des bibliothèques : Nécessaire pour contrôler l’écran LCD.\n\nInitialisation : La broche du buzzer est configurée en sortie et celle du bouton en entrée avec pull-up interne.\n\nBoucle principale : Lit l’état du bouton et active ou désactive le buzzer en conséquence.\n\nBrochage détaillé des connexions du code avancé\n\nGND : GND (Arduino)\n\nSignal (S) : D8 (Arduino)\n\nBouton : D7 (Arduino), autre borne à GND\n\nDifférence entre un buzzer actif et un buzzer passif\n\nBuzzer actif :\n\nFonctionnement : Un buzzer actif intègre un circuit oscillateur interne. Cela signifie qu’il peut générer un son continu ou intermittent lorsqu’il est alimenté par une tension continue (DC).\n\nUtilisation : Vous pouvez simplement connecter le buzzer actif à une source de tension pour qu’il produise du son. Il n’a pas besoin de circuits externes complexes.\n\nApplication : Utilisé dans des applications où un signal sonore simple et constant est nécessaire, comme les alarmes, les minuteries ou les avertisseurs.\n\nBuzzer passif :\n\nFonctionnement : Un buzzer passif fonctionne comme un haut-parleur miniature. Il n’a pas de circuit oscillateur interne, donc il nécessite un signal audio externe pour produire du son. Le signal doit être une onde sonore ou un signal de fréquence variable fourni par un microcontrôleur ou un circuit oscillateur externe.\n\nUtilisation : Nécessite un circuit externe pour générer le signal audio. Cela permet de produire des sons plus complexes et de contrôler le ton et la fréquence du son émis.\n\nApplication : Utilisé dans des applications où un contrôle précis du son est nécessaire, comme dans les systèmes de notification où différents sons sont utilisés pour différentes alertes.\n\nMots clés: piezo, speaker, music, sound, bip, alarm, Buzzer actif, 5V, Arduino, Bip continu, Signal sonore, Alarme, Arduino tutoriel, Module buzzer.",
+     "short_description": "Le module buzzer actif 5V génère un son continu lorsqu’une tension est appliquée, idéal pour des projets nécessitant des alarmes ou des notifications sonores."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/163-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3356",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Buzzer Alarme Électronique Actif SFM-27 3-24V 95dB",
+     "description": "Buzzer Alarme Électronique Actif SFM-27 3-24V 95dB\n\nLe buzzer alarme électronique actif SFM-27 est conçu pour des applications nécessitant un signal sonore fort et continu. Il est souvent utilisé dans des systèmes de sécurité et d’alarme.\n\nCaractéristiques en détail\n\nTension nominale : 12V DC\n\nPlage de tension de fonctionnement : 3V à 24V DC\n\nCourant nominal : ≤ 20 mA\n\nType de son : Continu ou intermittent\n\nFréquence de résonance : 3100 ± 500 Hz\n\nNiveau sonore : ≥ 95 dB à 10 cm\n\nTempérature de fonctionnement : -20°C à 80°C\n\nTempérature de stockage : -30°C à 70°C\n\nDimensions : Diamètre de 29 mm, Hauteur de 15 mm\n\nLongueur des fils : 105 mm\n\nCouleurs disponibles : Blanc, Noir\n\nFonctionnement\n\nLe buzzer actif SFM-27 fonctionne en convertissant l’énergie électrique en son via un élément piézoélectrique interne. Il produit un son continu ou intermittent lorsqu’une tension appropriée est appliquée.\n\nApplications\n\nSystèmes d’alarme\n\nÉquipements de communication\n\nÉlectronique automobile\n\nÉquipements portables\n\nBrochage\n\nVCC : Alimentation (3V à 24V)\n\nGND : Masse\n\nSignal (S) : Entrée de signal, active HIGH\n\nComment l’utiliser\n\nPour utiliser le buzzer avec un Arduino, connectez la broche VCC à l’alimentation 5V ou 12V de l’Arduino, la broche GND à la masse, et la broche de signal à une sortie numérique de l’Arduino.\n\nComment l’utiliser avec Arduino Uno\n\nExemple de code Arduino de base\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\npinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\ndigitalWrite(BUZZER_PIN, HIGH); // Activer le buzzer\r\ndelay(1000); // Attendre 1 seconde\r\ndigitalWrite(BUZZER_PIN, LOW); // Désactiver le buzzer\r\ndelay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code active et désactive le buzzer à des intervalles d’une seconde, produisant un son d’une seconde suivi d’une seconde de silence.\n\nComposants nécessaires pour le code de base\n\nArduino Uno\n\nModule buzzer actif SFM-27\n\nCâbles de connexion\n\nExplication détaillée du code de base\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Le buzzer est activé pendant une seconde, puis désactivé pendant une seconde, créant un son intermittent.\n\nBrochage détaillé des connexions du code de base\n\nVCC : 5V ou 12V (Arduino)\n\nGND : GND (Arduino)\n\nSignal (S) : D8 (Arduino)\n\nExemple de code Arduino avancé pour contrôle sonore\n\n#define BUZZER_PIN 8\r\n#define BUTTON_PIN 7\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n  pinMode(BUTTON_PIN, INPUT_PULLUP);\r\n}\r\n\nvoid loop() {\r\n  int buttonState = digitalRead(BUTTON_PIN);\r\n  if (buttonState == LOW) {\r\n    digitalWrite(BUZZER_PIN, HIGH);\r\n  } else {\r\n    digitalWrite(BUZZER_PIN, LOW);\r\n  }\r\n}\n\nBut du code\n\nCe code permet de contrôler le buzzer avec un bouton. Lorsque le bouton est appuyé, le buzzer émet un son continu.\n\nComposants nécessaires pour le code avancé\n\nArduino Uno\n\nModule buzzer actif SFM-27\n\nBouton-poussoir\n\nCâbles de connexion\n\nExplication détaillée du code avancé\n\nInclusion des bibliothèques : Nécessaire pour contrôler l’écran LCD.\n\nInitialisation : La broche du buzzer est configurée en sortie et celle du bouton en entrée avec pull-up interne.\n\nBoucle principale : Lit l’état du bouton et active ou désactive le buzzer en conséquence.\n\nBrochage détaillé des connexions du code avancé\n\nVCC : 5V ou 12V (Arduino)\n\nGND : GND (Arduino)\n\nSignal (S) : D8 (Arduino)\n\nBouton : D7 (Arduino), autre borne à GND\n\nMots clés: Buzzer actif, 3-24V, Arduino, Bip continu, Signal sonore, Alarme, Arduino tutoriel, Module buzzer",
+     "short_description": "Le buzzer actif SFM-27 génère un son continu ou intermittent lorsqu’une tension de 3 à 24V est appliquée, idéal pour des projets nécessitant des alarmes ou des notifications sonores."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/163-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/646-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/163-a-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/163-a-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2915",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Buzzer Passif 5V",
+     "description": "Buzzer Passif 5V\n\nLe buzzer passif 5V est un composant sonore utilisé dans de nombreux projets électroniques. Contrairement aux buzzers actifs, les buzzers passifs nécessitent un signal externe pour produire un son, ce qui permet de contrôler la tonalité ou la hauteur du son généré.\n\nCaractéristiques en détail\n\nTension nominale : 5V DC\n\nPlage de tension de fonctionnement : 3V à 5V DC\n\nCourant nominal : < 30 mA\n\nType de son : Dépend de l’entrée du signal\n\nFréquence de résonance : ~2300 Hz\n\nDimensions : Compact et adapté aux breadboards et PCB\n\nNombre de broches : 2 (VCC et GND)\n\nFonctionnement\n\nLe buzzer passif fonctionne en recevant un signal de tension variable qui est converti en son par un élément piézoélectrique. Il nécessite une entrée de signal, souvent générée par un microcontrôleur comme un Arduino, pour produire le son​.\n\nApplications\n\nAlarmes et systèmes de sécurité\n\nIndicateurs sonores pour équipements électroniques\n\nApplications portables et embarquées\n\nJouets électroniques\n\nComment l’utiliser\n\nPour utiliser le buzzer passif 5V avec un Arduino, connectez la broche VCC à l’alimentation 5V de l’Arduino, la broche GND à la masse, et la broche de signal à une sortie numérique de l’Arduino.\n\nComment l’utiliser avec Arduino Uno\n\nExemple de code Arduino de base\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  tone(BUZZER_PIN, 1000); // Génère une fréquence de 1000 Hz\r\n  delay(1000); // Attendre 1 seconde\r\n  noTone(BUZZER_PIN); // Arrête le son\r\n  delay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code génère un son de 1000 Hz pendant une seconde, suivi d’une seconde de silence, en boucle continue.\n\nComposants nécessaires pour le code de base\n\nArduino Uno\n\nModule buzzer passif 5V\n\nCâbles de connexion\n\nExplication détaillée du code de base\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Utilisation de la fonction tone() pour produire un son à une fréquence donnée, et noTone() pour arrêter le son.\n\nBrochage détaillé des connexions du code de base\n\nGND : GND (Arduino)\n\nSignal : D8 (Arduino)\n\nExemple de code Arduino avancé pour mélodies\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  tone(BUZZER_PIN, 440, 500); // Note A4\r\n  delay(500);\r\n  tone(BUZZER_PIN, 494, 500); // Note B4\r\n  delay(500);\r\n  tone(BUZZER_PIN, 523, 500); // Note C5\r\n  delay(500);\r\n  noTone(BUZZER_PIN); // Arrête le son\r\n  delay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code produit une séquence de notes musicales en utilisant des fréquences différentes, imitant une mélodie simple.\n\nComposants nécessaires pour le code avancé\n\nArduino Uno\n\nModule buzzer passif 5V\n\nCâbles de connexion\n\nExplication détaillée du code avancé\n\nInclusion des bibliothèques : Utilisation de la fonction tone() pour générer différentes notes.\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Génération de différentes notes avec des pauses entre chaque note.\n\nBrochage détaillé des connexions du code avancé\n\nGND : GND (Arduino)\n\nSignal : D8 (Arduino)\n\nDifférence entre un buzzer actif et un buzzer passif\n\nBuzzer actif :\n\nFonctionnement : Un buzzer actif intègre un circuit oscillateur interne. Cela signifie qu’il peut générer un son continu ou intermittent lorsqu’il est alimenté par une tension continue (DC).\n\nUtilisation : Vous pouvez simplement connecter le buzzer actif à une source de tension pour qu’il produise du son. Il n’a pas besoin de circuits externes complexes.\n\nApplication : Utilisé dans des applications où un signal sonore simple et constant est nécessaire, comme les alarmes, les minuteries ou les avertisseurs.\n\nBuzzer passif :\n\nFonctionnement : Un buzzer passif fonctionne comme un haut-parleur miniature. Il n’a pas de circuit oscillateur interne, donc il nécessite un signal audio externe pour produire du son. Le signal doit être une onde sonore ou un signal de fréquence variable fourni par un microcontrôleur ou un circuit oscillateur externe.\n\nUtilisation : Nécessite un circuit externe pour générer le signal audio. Cela permet de produire des sons plus complexes et de contrôler le ton et la fréquence du son émis.\n\nApplication : Utilisé dans des applications où un contrôle précis du son est nécessaire, comme dans les systèmes de notification où différents sons sont utilisés pour différentes alertes.\n\nMots clés: piezo, speaker, music, sound, bip, alarm, Buzzer passif, 5V, Arduino, Tonalité variable, Signal sonore, Alarme, Arduino tutoriel, Module buzzer.",
+     "short_description": "Le buzzer passif 5V nécessite un signal externe pour produire du son, permettant de contrôler la tonalité via un microcontrôleur comme Arduino, idéal pour des applications nécessitant des sons variés."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/164-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-26846",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Piézoélectrique Piézo Buzzer",
+     "description": "Piézoélectrique Buzzer\n\nLes buzzers piézoélectriques sont des composants sonores utilisés dans divers projets électroniques. Ils sont disponibles en différentes tailles : 15mm, 20mm, 35mm et 50mm, et utilisent des éléments en céramique piézoélectrique pour produire du son lorsqu’une tension est appliquée.\n\nCaractéristiques en détail\n\nDiamètre :\n\n15mm :\n\nFréquence de résonance : 4.1 kHz\n\nImpédance : 1000 Ohms\n\nCapacité : 8000pF @ 1kHz\n\nTempérature de fonctionnement : -20°C à 60°C\n\n20mm :\n\nFréquence de résonance : 6.5 kHz\n\nImpédance : 350 Ohms\n\nCapacité : 13000pF @ 120Hz\n\nTempérature de fonctionnement : -20°C à 70°C\n\n35mm :\n\nFréquence de résonance : 2.8 kHz\n\nImpédance : 300 Ohms\n\nCapacité : 30000pF @ 100Hz\n\nTempérature de fonctionnement : -20°C à 60°C\n\n50mm :\n\nFréquence de résonance : 2.6 kHz\n\nImpédance : 300 Ohms\n\nCapacité : 40000pF @ 100Hz\n\nTempérature de fonctionnement : -20°C à 60°C\n\nFonctionnement\n\nLe buzzer piézoélectrique fonctionne en recevant un signal de tension qui est converti en son par l’élément en céramique. Le signal peut être modulé pour produire différents tons et fréquences.\n\nApplications\n\nSystèmes d’alarme\n\nIndicateurs sonores pour équipements électroniques\n\nInstruments de musique\n\nÉquipements portables\n\nBrochage\n\nVCC : Alimentation (3V à 30V)\n\nGND : Masse\n\nComment l’utiliser\n\nPour utiliser un buzzer piézoélectrique avec un Arduino, connectez la broche VCC à l’alimentation 5V de l’Arduino, la broche GND à la masse, et la broche de signal à une sortie numérique de l’Arduino.\n\nComment l’utiliser avec Arduino Uno\n\nExemple de code Arduino de base\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  tone(BUZZER_PIN, 1000); // Génère une fréquence de 1000 Hz\r\n  delay(1000); // Attendre 1 seconde\r\n  noTone(BUZZER_PIN); // Arrête le son\r\n  delay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code génère un son de 1000 Hz pendant une seconde, suivi d’une seconde de silence, en boucle continue.\n\nComposants nécessaires pour le code de base\n\nArduino Uno\n\nBuzzer piézoélectrique 5V\n\nCâbles de connexion\n\nExplication détaillée du code de base\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Utilisation de la fonction tone() pour produire un son à une fréquence donnée, et noTone() pour arrêter le son.\n\nBrochage détaillé des connexions du code de base\n\nVCC : 5V (Arduino)\n\nGND : GND (Arduino)\n\nSignal : D8 (Arduino)\n\nExemple de code Arduino avancé pour mélodies\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  tone(BUZZER_PIN, 440, 500); // Note A4\r\n  delay(500);\r\n  tone(BUZZER_PIN, 494, 500); // Note B4\r\n  delay(500);\r\n  tone(BUZZER_PIN, 523, 500); // Note C5\r\n  delay(500);\r\n  noTone(BUZZER_PIN); // Arrête le son\r\n  delay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code produit une séquence de notes musicales en utilisant des fréquences différentes, imitant une mélodie simple.\n\nComposants nécessaires pour le code avancé\n\nArduino Uno\n\nBuzzer piézoélectrique 5V\n\nCâbles de connexion\n\nExplication détaillée du code avancé\n\nInclusion des bibliothèques : Utilisation de la fonction tone() pour générer différentes notes.\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Génération de différentes notes avec des pauses entre chaque note.\n\nBrochage détaillé des connexions du code avancé\n\nVCC : 5V (Arduino)\n\nGND : GND (Arduino)\n\nSignal : D8 (Arduino)\n\nMots clés: piezo, speaker, music, sound, bip, alarm, resonance.",
+     "short_description": "Le buzzer piézoélectrique 5V nécessite un signal externe pour produire du son, permettant de contrôler la tonalité via un microcontrôleur comme Arduino, idéal pour des applications nécessitant des sons variés."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/09/164-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2916",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module Buzzer Actif",
+     "description": "Module Buzzer Actif\n\nLe module buzzer actif 5V est un dispositif sonore simple qui génère un son lorsqu’une tension continue est appliquée. Contrairement aux buzzers passifs, qui nécessitent un signal externe pour produire un son, les buzzers actifs contiennent un oscillateur intégré qui crée automatiquement le son lorsqu’ils sont alimentés. Cela les rend faciles à utiliser dans des circuits nécessitant des signaux audio simples.\n\nCaractéristiques en détail\n\nTension nominale : 5V DC\n\nPlage de tension de fonctionnement : 3.5V à 5.5V DC\n\nCourant nominal : 30 mA à 5V\n\nType de son : Continu, ~2.5 kHz\n\nNiveau sonore : 85 dB à 10 cm\n\nTempérature de fonctionnement : -20°C à 70°C\n\nTempérature de stockage : -30°C à 105°C\n\nDimensions : 18.5 x 15 mm\n\nFonctionnement\n\nLe buzzer actif fonctionne en convertissant l’énergie électrique en son à travers un élément piézoélectrique interne. Lorsque la tension est appliquée, l’oscillateur interne active l’élément piézoélectrique, générant ainsi un son continu. Le buzzer produit un ton constant tant que la tension est appliquée.\n\nApplications\n\nCircuits d’alarme\n\nÉquipements de communication\n\nÉlectronique automobile\n\nÉquipements portables\n\nBrochage\n\nVCC : Alimentation (3.5V à 5.5V)\n\nGND : Masse\n\nSignal : Entrée de signal\n\nComment l’utiliser\n\nPour utiliser le buzzer actif 5V avec un Arduino, connectez la broche VCC à l’alimentation 5V de l’Arduino, la broche GND à la masse, et la broche de signal à une sortie numérique de l’Arduino.\n\nComment l’utiliser avec Arduino Uno\n\nExemple de code Arduino de base\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  digitalWrite(BUZZER_PIN, HIGH); // Activer le buzzer\r\n  delay(1000); // Attendre 1 seconde\r\n  digitalWrite(BUZZER_PIN, LOW); // Désactiver le buzzer\r\n  delay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code active et désactive le buzzer actif 5V à des intervalles d’une seconde, produisant un son d’une seconde suivi d’une seconde de silence.\n\nComposants nécessaires pour le code de base\n\nArduino Uno\n\nModule buzzer actif 5V\n\nCâbles de connexion\n\nExplication détaillée du code de base\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Le buzzer est activé pendant une seconde, puis désactivé pendant une seconde, créant un son intermittent.\n\nBrochage détaillé des connexions du code de base\n\nVCC : 5V (Arduino)\n\nGND : GND (Arduino)\n\nSignal : D8 (Arduino)\n\nExemple de code Arduino avancé pour contrôle sonore\n\n#define BUZZER_PIN 8\r\n#define BUTTON_PIN 7\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n  pinMode(BUTTON_PIN, INPUT_PULLUP);\r\n}\r\n\nvoid loop() {\r\n  int buttonState = digitalRead(BUTTON_PIN);\r\n  if (buttonState == LOW) {\r\n    digitalWrite(BUZZER_PIN, HIGH);\r\n  } else {\r\n    digitalWrite(BUZZER_PIN, LOW);\r\n  }\r\n}\n\nBut du code\n\nCe code permet de contrôler le buzzer avec un bouton. Lorsque le bouton est appuyé, le buzzer émet un son continu.\n\nComposants nécessaires pour le code avancé\n\nArduino Uno\n\nModule buzzer actif 5V\n\nBouton-poussoir\n\nCâbles de connexion\n\nExplication détaillée du code avancé\n\nInclusion des bibliothèques : Nécessaire pour contrôler l’écran LCD.\n\nInitialisation : La broche du buzzer est configurée en sortie et celle du bouton en entrée avec pull-up interne.\n\nBoucle principale : Lit l’état du bouton et active ou désactive le buzzer en conséquence.\n\nBrochage détaillé des connexions du code avancé\n\nVCC : 5V (Arduino)\n\nGND : GND (Arduino)\n\nSignal : D8 (Arduino)\n\nBouton : D7 (Arduino), autre borne à GND\n\nDifférence entre un buzzer actif et un buzzer passif\n\nBuzzer actif :\n\nFonctionnement : Un buzzer actif intègre un circuit oscillateur interne. Cela signifie qu’il peut générer un son continu ou intermittent lorsqu’il est alimenté par une tension continue (DC).\n\nUtilisation : Vous pouvez simplement connecter le buzzer actif à une source de tension pour qu’il produise du son. Il n’a pas besoin de circuits externes complexes.\n\nApplication : Utilisé dans des applications où un signal sonore simple et constant est nécessaire, comme les alarmes, les minuteries ou les avertisseurs.\n\nBuzzer passif :\n\nFonctionnement : Un buzzer passif fonctionne comme un haut-parleur miniature. Il n’a pas de circuit oscillateur interne, donc il nécessite un signal audio externe pour produire du son. Le signal doit être une onde sonore ou un signal de fréquence variable fourni par un microcontrôleur ou un circuit oscillateur externe.\n\nUtilisation : Nécessite un circuit externe pour générer le signal audio. Cela permet de produire des sons plus complexes et de contrôler le ton et la fréquence du son émis.\n\nApplication : Utilisé dans des applications où un contrôle précis du son est nécessaire, comme dans les systèmes de notification où différents sons sont utilisés pour différentes alertes.\n\nMots clés: piezo, speaker, music, sound, bip, alarm, Buzzer actif, 5V, Arduino, Bip continu, Signal sonore, Alarme, Arduino tutoriel, Module buzzer.",
+     "short_description": "Le module buzzer actif 5V génère un son continu lorsqu’une tension est appliquée, idéal pour des projets nécessitant des alarmes ou des notifications sonores."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/165-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2917",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module Buzzer Passif",
+     "description": "Module Buzzer Passif\n\nLe module buzzer passif 5V est un composant sonore utilisé dans divers projets électroniques. Contrairement aux buzzers actifs, les buzzers passifs nécessitent un signal externe pour produire un son, ce qui permet de contrôler la tonalité ou la hauteur du son généré.\n\nCaractéristiques en détail\n\nTension nominale : 5V DC\n\nPlage de tension de fonctionnement : 3.5V à 5.5V DC\n\nCourant nominal : 30 mA à 5V\n\nType de son : Dépend de l’entrée du signal\n\nFréquence de résonance : 2500 Hz ± 300 Hz\n\nNiveau sonore : 85 dB à 10 cm\n\nTempérature de fonctionnement : -20°C à 70°C\n\nDimensions : Compact et adapté aux breadboards et PCB\n\nFonctionnement\n\nLe buzzer passif fonctionne en recevant un signal de tension variable qui est converti en son par un élément piézoélectrique. Il nécessite une entrée de signal, souvent générée par un microcontrôleur comme un Arduino, pour produire le son.\n\nApplications\n\nAlarmes et systèmes de sécurité\n\nIndicateurs sonores pour équipements électroniques\n\nApplications portables et embarquées\n\nJouets électroniques\n\nBrochage\n\nVCC : Alimentation (3.5V à 5.5V)\n\nGND : Masse\n\nSignal (S) : Entrée de signal variable\n\nComment l’utiliser\n\nPour utiliser le buzzer passif 5V avec un Arduino, connectez la broche VCC à l’alimentation 5V de l’Arduino, la broche GND à la masse, et la broche de signal à une sortie numérique de l’Arduino.\n\nComment l’utiliser avec Arduino Uno\n\nExemple de code Arduino de base\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  tone(BUZZER_PIN, 1000); // Génère une fréquence de 1000 Hz\r\n  delay(1000); // Attendre 1 seconde\r\n  noTone(BUZZER_PIN); // Arrête le son\r\n  delay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code génère un son de 1000 Hz pendant une seconde, suivi d’une seconde de silence, en boucle continue.\n\nComposants nécessaires pour le code de base\n\nArduino Uno\n\nModule buzzer passif 5V\n\nCâbles de connexion\n\nExplication détaillée du code de base\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Utilisation de la fonction tone() pour produire un son à une fréquence donnée, et noTone() pour arrêter le son.\n\nBrochage détaillé des connexions du code de base\n\nVCC : 5V (Arduino)\n\nGND : GND (Arduino)\n\nSignal : D8 (Arduino)\n\nExemple de code Arduino avancé pour mélodies\n\n#define BUZZER_PIN 8\r\n\nvoid setup() {\r\n  pinMode(BUZZER_PIN, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  tone(BUZZER_PIN, 440, 500); // Note A4\r\n  delay(500);\r\n  tone(BUZZER_PIN, 494, 500); // Note B4\r\n  delay(500);\r\n  tone(BUZZER_PIN, 523, 500); // Note C5\r\n  delay(500);\r\n  noTone(BUZZER_PIN); // Arrête le son\r\n  delay(1000); // Attendre 1 seconde\r\n}\n\nBut du code\n\nCe code produit une séquence de notes musicales en utilisant des fréquences différentes, imitant une mélodie simple.\n\nComposants nécessaires pour le code avancé\n\nArduino Uno\n\nModule buzzer passif 5V\n\nCâbles de connexion\n\nExplication détaillée du code avancé\n\nInclusion des bibliothèques : Utilisation de la fonction tone() pour générer différentes notes.\n\nInitialisation : La broche du buzzer est configurée en sortie.\n\nBoucle principale : Génération de différentes notes avec des pauses entre chaque note.\n\nBrochage détaillé des connexions du code avancé\n\nVCC : 5V (Arduino)\n\nGND : GND (Arduino)\n\nSignal : D8 (Arduino)\n\nDifférence entre un buzzer actif et un buzzer passif\n\nBuzzer actif :\n\nFonctionnement : Un buzzer actif intègre un circuit oscillateur interne. Cela signifie qu’il peut générer un son continu ou intermittent lorsqu’il est alimenté par une tension continue (DC).\n\nUtilisation : Vous pouvez simplement connecter le buzzer actif à une source de tension pour qu’il produise du son. Il n’a pas besoin de circuits externes complexes.\n\nApplication : Utilisé dans des applications où un signal sonore simple et constant est nécessaire, comme les alarmes, les minuteries ou les avertisseurs.\n\nBuzzer passif :\n\nFonctionnement : Un buzzer passif fonctionne comme un haut-parleur miniature. Il n’a pas de circuit oscillateur interne, donc il nécessite un signal audio externe pour produire du son. Le signal doit être une onde sonore ou un signal de fréquence variable fourni par un microcontrôleur ou un circuit oscillateur externe.\n\nUtilisation : Nécessite un circuit externe pour générer le signal audio. Cela permet de produire des sons plus complexes et de contrôler le ton et la fréquence du son émis.\n\nApplication : Utilisé dans des applications où un contrôle précis du son est nécessaire, comme dans les systèmes de notification où différents sons sont utilisés pour différentes alertes.\n\nMots clés: piezo, speaker, music, sound, bip, alarm, Buzzer passif, 5V, Arduino, Tonalité variable, Signal sonore, Alarme, Arduino tutoriel, Module buzzer.",
+     "short_description": "Le buzzer passif 5V nécessite un signal externe pour produire du son, permettant de contrôler la tonalité via un microcontrôleur comme Arduino, idéal pour des applications nécessitant des sons variés."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/166-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34516",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Testeur pour Servo Moteur",
+     "description": "Testeur pour Servo Moteur\n\nIls fournissent un moyen simple de tester un servo pour vérifier s’il fonctionne ou d’exercer un servo intégré à un projet tel qu’un bras robotique sans avoir besoin de faire de programmation. Cela peut également être pratique pour l’intégration dans un projet simple tel qu’un accessoire d’Halloween où vous souhaitez que l’accessoire se balance continuellement d’avant en arrière. Ils peuvent également être utilisés comme entrée PWM pour un ESC (Electronic Speed Controller).\n\nPlage Vcc 4,8 – 6 V CC\n\nFréquence mesurée 49 Hz (50 Hz nominal)\n\nAmplitude d’impulsion PWM identique à Vcc\n\nDimensions L x L x H sans broches 35 x 31 x 24 mm",
+     "short_description": "Ils fournissent un moyen simple de tester un servo pour vérifier s’il fonctionne ou d’exercer un servo intégré à un projet tel qu’un bras robotique sans avoir besoin de faire de programmation."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0358.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7234",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Perchlorure de Fer pour Gravure de Pcb",
+     "description": "Perchlorure de Fer pour Gravure de Pcb\n\nPerchlorure de Fer (chlorure de fer) pour fabrication des circuits imprimés, 0.5 / 1 litre.",
+     "short_description": "Perchlorure de Fer (chlorure de fer) pour fabrication des circuits imprimés, 0.5 / 1 litre."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/387-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6542",
+   "price": 14,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bobine de Fil de Cuivre 0.1mm",
+     "description": "Bobine de Fil de Cuivre 0.1mm\n\nBobine de Fil de Cuivre 0.1mm.\n\nDiamètre de bobine de fil: 31.5mm\n\nÉpaisseur de bobine de fil: 19mm\n\nDiamètre du fil: 0.1mm\n\nLongueur de fil: environ 13m\n\nMatiére: Cuivre\n\nNote: Pas besoin d’enlever la laque, soudez directement.\n\nMots clés: copper, wire, solder.",
+     "short_description": "Bobine de Fil de Cuivre 0.1mm 13m."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/390-1.png"
+   ]
+  }
+ ]
+}

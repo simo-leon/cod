@@ -1,0 +1,202 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-45403",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fer à Souder Électrique V900B Koocu 60W 220V AC",
+     "description": "Fer à Souder Électrique Koocu V900B 60W 220V AC\n\nLe KOOCU V900B est un fer à souder professionnel de 60W conçu pour les amateurs d’électronique, les réparateurs et les bricoleurs exigeants. Grâce à sa pointe fine et précise, il permet des soudures nettes et propres sur les circuits imprimés, composants électroniques, et petits travaux électriques. Sa chauffe rapide et sa stabilité thermique élevée garantissent une utilisation efficace et confortable.\n\nCaractéristiques :\n\nPuissance : 60 Watts\n\nTension d’alimentation : 220V – 240V AC\n\nPointe fine de haute précision, idéale pour les petits composants\n\nManche ergonomique et isolé thermiquement pour une prise en main confortable\n\nChauffe rapide en quelques secondes\n\nCâble résistant à la chaleur pour une meilleure durabilité\n\nDesign léger et compact, facile à manipuler\n\nFonctionnement :\n\nLe KOOCU V900B utilise un élément chauffant de qualité assurant une montée rapide en température et un maintien stable. Il est prêt à souder en moins d’une minute. Parfait pour les travaux de réparation, d’assemblage de circuits ou d’entretien d’appareils électroniques.\n\nApplications :\n\nRéparation de circuits imprimés\n\nProjets Arduino et électroniques\n\nRéparation de câbles et connecteurs\n\nTravaux de modélisme et d’électricité fine\n\nAvantages :\n\nChauffe rapide et constante\n\nPrise en main confortable pour une utilisation prolongée\n\nPointe remplaçable et compatible avec les modèles standard\n\nExcellente précision pour soudures délicates\n\nMots clés: solder, soldering, iron.",
+     "short_description": "Le KOOCU V900B est un fer à souder professionnel de 60W conçu pour les amateurs d’électronique, les réparateurs et les bricoleurs exigeants."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/10/389-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-18544",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bobine de Fil de Cuivre 0.5mm",
+     "description": "Bobine de Fil de Cuivre 0.5mm\n\nBobine de Fil de Cuivre 0.5mm.\n\nDiamètre du fil: 0.5mm\n\nLongueur de fil: environ 10m\n\nMatiére: Cuivre\n\nNote: Pas besoin d’enlever la laque, soudez directement.\n\nMots clés: copper, wire, solder.",
+     "short_description": "Bobine de Fil de Cuivre 0.5mm, longueur: environ 10 métres."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/09/390-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3115",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à colle",
+     "description": "Pistolet à colle\n\nPistolet à colle (+3 bâtons de colle), utilisable avec des bâtons de colle de diamètre 10.8-11.3mm.\n\nCaractéristiques:\n\nModéle: GT-10\n\nAdapté pour les bâtons de colle de 10.8 à 11.3mm\n\nTension de fonctionnement: 110 – 220V AC\n\nTempérature de fonctionnement: 190-230 C\n\nCouleur: bleu / noir (aléatoire)\n\nMots clés: glue, gun.",
+     "short_description": "Pistolet à colle (+3 bâtons de colle), utilisable avec des bâtons de colle de diamètre 10.8-11.3mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/391-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/391-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/391-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3120",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Nettoyeur en Laiton Pour Fer à Souder",
+     "description": "Nettoyeur en Laiton Pour Fer à Souder\n\nNettoyeur en laiton pour fer à souder, cette boule est spécialement conçue pour résister à de très haute température.\n\nMots clés: iron, tip, cleaner.",
+     "short_description": "Nettoyeur en laiton pour fer à souder, cette boule est spécialement conçue pour résister à de très haute température."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/396-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-37019",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Nettoyeur Pour Panne de Fer à Souder",
+     "description": "Nettoyeur Pour Panne de Fer à Souder\n\nCe nettoyeur de pointe de fer à souder est conçu pour maintenir vos pointes de soudage propres et en bon état de fonctionnement. Il est équipé d’un tampon en laiton efficace pour enlever les résidus de soudure sans endommager la pointe. Le nettoyeur est livré dans un boîtier en métal pratique, facile à utiliser et à transporter.\n\nCaractéristiques\n\nMatériau : Tampon en laiton et boîtier en métal\n\nType de nettoyage : Nettoyage à sec, sans besoin d’eau\n\nDimensions :\n\nDiamètre du boîtier : 6 cm\n\nHauteur du boîtier : 3 cm\n\nCouleur : Laiton et argent\n\nComment l’utiliser\n\nPréparation :\n\nPlacez le nettoyeur de pointe sur votre poste de travail.\n\nNettoyage de la pointe :\n\nInsérez la pointe chaude du fer à souder dans le tampon en laiton.\n\nFrottez doucement pour enlever les résidus de soudure et les oxydes.\n\nRetirez la pointe et vérifiez qu’elle est propre avant de continuer à souder.\n\nEntretien :\n\nRemplacez le tampon en laiton lorsqu’il est saturé de résidus.\n\nGardez le boîtier fermé lorsqu’il n’est pas utilisé pour éviter la contamination.\n\nApplications :\n\nIdéal pour l’entretien des pointes de fer à souder dans les projets de soudure électronique, les réparations et le prototypage.\n\nConseils de Sécurité :\n\nUtilisez le nettoyeur uniquement avec la pointe chaude du fer à souder.\n\nÉvitez de toucher le tampon en laiton immédiatement après le nettoyage pour prévenir les brûlures.\n\nCe nettoyeur de pointe de fer à souder avec tampon en laiton est un outil essentiel pour maintenir vos équipements de soudure en excellent état, garantissant des soudures précises et de haute qualité.",
+     "short_description": "Nettoyeur de pointe de fer à souder avec tampon en laiton dans un boîtier en métal, pour un nettoyage à sec efficace et sans endommager la pointe."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/396-a-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/396-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3121",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tresse à déssouder 2mm longueur 1.5M",
+     "description": "Tresse à déssouder 2mm longueur 1.5M\n\nLa tresse à dessouder de 2 mm de large et 1,5 m de long est utilisée pour enlever la soudure rapidement et facilement. Fabriquée en cuivre, elle est légère et portable grâce à sa coque en plastique.\n\nCaractéristiques:\n\nMatériel: Cuivre\n\nLongueur du fil: 1,5 m\n\nLargeur du fil: 2 mm\n\nComment ça marche:\n\nLa tresse à dessouder absorbe la soudure fondue lorsqu’elle est chauffée avec un fer à souder. Le cuivre attire la soudure par capillarité, nettoyant ainsi les connexions soudées.\n\nApplications:\n\nRetrait de composants soudés sur des PCB\n\nCorrection d’erreurs de soudure\n\nMaintenance et réparation de circuits électroniques\n\nComment l’utiliser:\n\nPréparation: Chauffez le fer à souder.\n\nPositionnement: Placez la tresse sur la soudure à enlever.\n\nChauffage: Appliquez la pointe du fer à souder sur la tresse pour absorber la soudure.\n\nRetrait: Retirez la tresse et le fer une fois la soudure absorbée.\n\nMots clés: wick, desolder.",
+     "short_description": "La tresse à dessouder de 2 mm x 1,5 m en cuivre permet de retirer rapidement la soudure des circuits imprimés en absorbant la soudure fondue."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/397-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-37143",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tresse à déssouder 3.5mm longueur 1.5M",
+     "description": "Tresse à déssouder 3.5mm longueur 1.5M\n\nCette tresse à dessouder, large de 3,5 mm et longue de 1,5 m, permet d’éliminer rapidement l’excès de soudure ou de retirer les composants traversants/SMD sans abîmer les pistes. Son cuivre émaillé et ses fils fins assurent une capillarité optimale pour absorber la soudure fondue.\n\n🔧 Caractéristiques techniques\n\nLargeur de la tresse : 3,5 mm\n\nLongueur : 1,5 m\n\nMatériau conducteur : cuivre émaillé à haute pureté\n\nSubstrat : coton tressé résistant à la chaleur\n\nRevêtement : flux intégré (rosin-core) pour faciliter la capillarité\n\nTempérature de fonctionnement : jusqu’à 450 °C\n\nRésistance thermique : supporte les stations à air chaud et fers à souder 80–450 °C\n\n💡 Applications typiques\n\nRetrait de soudure en excès sur cartes électroniques (SMD et traversant)\n\nDétourage de composants défectueux ou remplacement de circuits intégrés\n\nNettoyage de points de soudure lors de réparations de cartes mères et modules\n\nRéalignement et réusinage de pistes fines\n\nPrototypage et retouche de circuits imprimés\n\n🛠️ Conseils d’utilisation\n\nChauffer la zone à déssouder avec le fer à 300–350 °C.\n\nPoser la tresse directement sur la soudure fondue, laisser agir 1–2 s puis retirer la tresse.\n\nRenouveler la surface de contact de la tresse (couper l’extrémité saturée) pour conserver son efficacité.\n\nUtiliser une pompe à dessouder si nécessaire pour les gros volumes de soudure.\n\nNettoyer les résidus de flux à l’alcool isopropylique après utilisation pour un résultat propre et fiable.\n\nMots clés: wick, desolder.",
+     "short_description": "Cette tresse à dessouder, large de 3,5 mm et longue de 1,5 m, permet d’éliminer rapidement l’excès de soudure ou de retirer les composants traversants/SMD sans abîmer les pistes."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/397-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-18283",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à Dessouder puissante",
+     "description": "Pompe à Dessouder puissante\n\nPompe à dessouder puissante portable à usage général Idéale pour les techniciens en électronique.\n\nForce d’aspiration: 32Hg-com\n\nPiston avec double joint d’huile\n\nAucune fuite d’air\n\nPoignée souple\n\nEmbouts en pointes interchangeables.\n\nMatière : ABS.\n\nMots clés: desolder, pump.",
+     "short_description": "Pompe à dessouder puissante portable à usage général Idéale pour les techniciens en électronique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/07/398-b-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/07/398-b-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8097",
+   "price": 28,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support métallique pour Fer à souder",
+     "description": "Support pour Fer à souder\n\nSupport pour Fer à souder.",
+     "short_description": "Support pour Fer à souder."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/400-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/400-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/400-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/400-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8191",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pointe pour fer à souder",
+     "description": "Pointe pour fer à souder 40W/60W\n\nCes embouts compatibles offrent une solution économique et durable pour vos fers à souder 40 W et 60 W à embout amovible.\n\nVersion 40 W : pointe conique fine de 1,0 mm, idéale pour les travaux de précision (composants traversants, CMS).\n\nVersion 60 W : pointe conique fine de 1,5 mm, adapté aux dépôts de soudure plus importants et aux réparations générales.\n\n🔧 Caractéristiques techniques\n\nMatériau : cœur cuivre haute conductivité avec placage fer (évite la corrosion) et couche nickel arrière\n\nCompatibilité : pour fers à souder 40 W (pointe 1,0 mm) et 60 W (chisel 1,5 mm) à embout amovible.\n\nTempérature de service : jusqu’à 450 °C\n\nFinition : embouts “Pb Free” (sans plomb)\n\nDurée de vie : ≥ 100 heures de travail intensif (varie selon usage)\n\n💡 Applications typiques\n\nVersion 1,0 mm / 40 W : soudure de petits composants CMS, fils fins, réparations micro-électroniques\n\nVersion 1,5 mm / 60 W : soudures plus volumineuses, cartes traversantes, rails de puissance, raccords mécaniques\n\n🛠️ Brochage / Installation\n\nDéclipsez l’embout usé de votre fer en le faisant coulisser ou en dévissant la bague de serrage.\n\nEnfichez l’embout neuf (40 W ou 60 W) sur l’élément chauffant, jusqu’en butée.\n\nReserrez la bague de fixation ou replacez la glissière pour assurer un bon contact thermique.\n\nÉtainnez légèrement la pointe avant première utilisation (revêtement d’étain) pour protéger le placage fer.\n\nConseil : pour prolonger la vie de votre embout, nettoyez-le souvent sur une éponge humide et ré-étamez-le après chaque session.\n\nMots clés: soldering, rework, welding, gun, iron, hot, tip, solder",
+     "short_description": "Ces embouts compatibles offrent une solution économique et durable pour vos fers à souder 40 W et 60 W à embout amovible."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/401-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/401-3.png"
+   ]
+  }
+ ]
+}

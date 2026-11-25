@@ -1,0 +1,103 @@
+{
+ "built_from": [
+  "new: 612",
+  "uncertain: 300"
+ ],
+ "total_products": 912,
+ "batched": 95,
+ "held_electronique": 817,
+ "held_no_category": 0,
+ "keyword_guessed": 1,
+ "keyword_guessed_skus": [
+  "microplanet-34516"
+ ],
+ "name_overrides": [
+  {
+   "sku": "microplanet-6201",
+   "name": "Ventilateur 30x30x9mm pour Raspberry Pi",
+   "override_to": "held:Électronique"
+  },
+  {
+   "sku": "microplanet-34556",
+   "name": "Ventilateur 24V DC 92x92x38mm 9238",
+   "override_to": "held:Électronique"
+  },
+  {
+   "sku": "microplanet-42124",
+   "name": "Ventilateur 12V DC 92x92x25mm 9225",
+   "override_to": "held:Électronique"
+  },
+  {
+   "sku": "microplanet-43644",
+   "name": "Dr Pen Ultima N2 Microneedling",
+   "override_to": 11
+  },
+  {
+   "sku": "microplanet-4655",
+   "name": "Mini Ventilateur 5V DC 40x40x10mm",
+   "override_to": "held:Électronique"
+  },
+  {
+   "sku": "microplanet-30843",
+   "name": "Ventilateur 5V DC 80x80x25mm 8025",
+   "override_to": "held:Électronique"
+  },
+  {
+   "sku": "microplanet-50877",
+   "name": "Ventilateur 24V DC 80x80x25mm 8025",
+   "override_to": "held:Électronique"
+  },
+  {
+   "sku": "microplanet-50879",
+   "name": "Ventilateur 12V DC 80x80x25mm 8025",
+   "override_to": "held:Électronique"
+  }
+ ],
+ "name_too_long": [],
+ "no_image": [],
+ "truncated_images": [],
+ "unmapped_categories": {
+  "Cartes de développement": 38,
+  "Développement": 320,
+  "Connecteurs": 60,
+  "Outillage, Accessoires": 132,
+  "Afficheurs": 25,
+  "Opto-électronique": 55,
+  "Modules, Capteurs": 256,
+  "Programmateurs": 25,
+  "Microcontrôleur, Mémoire": 9,
+  "Alimentation, Mesure": 140,
+  "Circuits intégrés": 48,
+  "Composants, Circuits intégrés": 182,
+  "LED": 31,
+  "Moteurs, Drivers": 53,
+  "Robotique, Outils": 104,
+  "Convertisseur DC-DC": 44,
+  "Robotique": 8,
+  "Câbles": 29,
+  "Matériel de prototypage": 15,
+  "Convertisseur AC-DC": 29,
+  "Batteries, Accessoires": 46,
+  "Bouttons, Commutateurs": 36,
+  "Composants passifs": 22,
+  "Diodes": 28,
+  "Transistors": 56,
+  "Régulateurs": 34,
+  "Kit Développement": 3,
+  "Kit MicroPlanet": 11,
+  "Kit Composants, Accessoires": 8,
+  "Convertisseur AC-AC": 2
+ },
+ "batch_files": [
+  "bulk-001.json",
+  "bulk-002.json",
+  "bulk-003.json",
+  "bulk-004.json",
+  "bulk-005.json",
+  "bulk-006.json",
+  "bulk-007.json",
+  "bulk-008.json",
+  "bulk-009.json",
+  "bulk-010.json"
+ ]
+}

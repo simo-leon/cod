@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6104",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "TDA2003A Amplificateur Audio de Voiture 10W",
+     "description": "TDA2003A Amplificateur Audio de Voiture 10W\n\nTDA2003A Amplificateur Audio de Voiture 10W.\n\nTrès faible nombre de composants externes\n\nFacilité d’assemblage\n\nÉconomies de coûts et d’espace.\n\nFiche technique",
+     "short_description": "TDA2003A Amplificateur Audio de Voiture 10W.\n\nTrès faible nombre de composants externes\n\nFacilité d’assemblage\n\nÉconomies de coûts et d’espace."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/624-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3343",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM386 Module Amplificateur Audio Gain X200",
+     "description": "Module Amplificateur Audio LM386 Gain X200\n\nModule Amplificateur Audio à base de LM386 avec un gain réglable allant jusqu’a X200.\n\nTension d’opération: 5-12V\n\nLeds d’indication\n\nDimensions: 41 x 13 mm\n\nFiche technique\n\nMots clés: amplifier.",
+     "short_description": "Module Amplificateur Audio à base de LM386 avec un gain réglable allant jusqu’a X200.\n\nTension d’opération: 5-12V\n\nLeds d’indication\n\nDimensions: 41 x 13 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/628-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3344",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM386 Amplificateur Audio 1W",
+     "description": "Amplificateur Audio LM386 1W\n\nLe circuit intégré LM386 est un amplificateur audio 1W\n\nFiche technique\n\nMots clés: amplifier.",
+     "short_description": "Le circuit intégré LM386 est un amplificateur audio 1W"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/629-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/629-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3348",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "TDA2030 Amplificateur Audio HIFI Mono 14W",
+     "description": "Amplificateur Audio HIFI Mono TDA2030 14W\n\nLe circuit intégré TDA2030 est un amplificateur audio HIFI Mono 14W.\n\nFiche technique\n\nMots clés: amplifier.",
+     "short_description": "Le circuit intégré TDA2030 est un amplificateur audio HIFI Mono 14W"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/631-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/631-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3350",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM358 Amplificateur Opérationnel Gain X100",
+     "description": "Amplificateur Opérationnel LM358 Gain X100\n\nModule amplificateur opérationnel à base de LM358 avec un gain réglable jusqu’à X100 à l’aide d’un potentiométre de précision, Idéal pour amplifier de petits signaux alternatifs ou audio.\n\nTension: 5-12V\n\nDimensions: 32 x 13 mm\n\nFiche technique\n\nMots clés: amplifier.",
+     "short_description": "Module amplificateur opérationnel à base de LM358 avec un gain réglable jusqu’à X100 à l’aide d’un potentiométre de précision, Idéal pour amplifier de petits signaux alternatifs ou audio.\n\nTension: 5-12V\n\nDimensions: 32 x 13 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/633-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17821",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte Générateur de Sonnette DingDong",
+     "description": "Carte générateur de Sonnette DingDong\n\nCarte générateur de sonnette audio avec un minimum de composants externes, appuyer sur le bouton une fois, la carte sonne 3 fois, environ 3 secondes.\n\nApplication: sonnette de porte, alarme…\n\nCaractéristiques:\n\nTension: 3-4,5 V\n\nHaut-parleur: 0,25-2W 8 ohms\n\nRésistance: 180K 1/4w\n\nVoix: Ding-dong\n\nTaille du produit: 2 * 1,2 cm / 0,79 * 0,47 pouce.\n\nMots clés: generator, pulse, oscillator, doorbell, ring, generator, music, musique.",
+     "short_description": "Carte générateur de sonnette audio avec un minimum de composants externes, appuyer sur le bouton une fois, la carte sonne 3 fois, environ 3 secondes."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/640-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20943",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte Générateur de Son 4 Sonnettes",
+     "description": "Carte Générateur de Son 4 Sonnettes\n\nCarte générateur de son (sonnette) audio avec un minimum de composants externes.\n\nSonettes:\n\nSifflet d’alarme: SEL1 = NC SEL2 = NC\n\nAlarme incendie: SEL1 = 1 SEL2 = NC\n\nVoix ambulance: SEL1 = 0 SEL2 = NC\n\nSon des mitrailleuses: SEL1 = x SEL2 = 1\n\nMots clés: generator, pulse, oscillator, doorbell, ring, generator, music, musique.",
+     "short_description": "Carte générateur de son (sonnette) audio avec un minimum de composants externes."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/640-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3351",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module Mini Lecteur MP3 Carte SD DFPlayer",
+     "description": "Module Mini Lecteur MP3 Carte SD DFPlayer\n\nDFPlayer Mini est un module MP3 compact qui peut être directement connecté au haut-parleur. Le module peut être utilisé seul avec un batterie, haut-parleur et clavier ou via un contrôle par port série en utilisant Arduino UNO ou tout microcontrôleur avec un module de port série. Le module lui-même a parfaitement intégré le décodage matériel MP3, WAV, WMA. Alors que le logiciel supporte le pilote de carte TF pour prendre en charge le système de fichiers FAT16, FAT32.\n\nprend en charge les taux d’échantillonnage: 8/11.025/12/16/22.05/24/32/44.1/48 (KHz)\n\nSortie DAC: 2,24 bits\n\nplage dynamique supportée: 90 dB\n\nSNR: 85 dB\n\nPrise en charge le système de fichiers: FAT16, FAT32 (capacité maximale supportée est 32G, 64M NORFLASH)\n\nModes de contrôle: port série, bouton AD\n\nLes données audio sont triées par dossier (supporte jusqu’à 100 dossiers)\n\n30 niveaux de réglable de volume\n\n6 niveaux de réglable d’égaliseur.",
+     "short_description": "DFPlayer Mini est un module MP3 compact qui peut être directement connecté au haut-parleur. Le module peut être utilisé seul avec un batterie, haut-parleur et clavier ou via un contrôle par port série en utilisant Arduino UNO ou tout microcontrôleur avec un module de port série. Le module lui-même a parfaitement intégré le décodage matériel MP3, WAV, WMA. Alors que le logiciel supporte le pilote de carte TF pour prendre en charge le système de fichiers FAT16, FAT32."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/641-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/641-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/641-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/641-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3352",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lecteur MP3 USB Carte SD avec Amplificateur audio",
+     "description": "Lecteur MP3 USB Carte SD avec Amplificateur audio\n\nLecteur MP3 supporte lecture depuis port USB ou carte micro SD, équipé d’un amplificateur audio, avec une sortie audio jack 3.5mm et des boutons de contrôle, donc pas besoin d’autres composants ou circuits, des écouteurs peut être branché via la sortie jack 3.5mm, ou des haut-parleurs de 4ohm 3W, il peut être alimenter par 5V via le port micro usb ou par batterie 3.7V, le port micro usb peut aussi être utilisé pour le chargement de batterie et transfert de données par câble usb,la puissance de sortie est 3W max sous 5V.\n\nSupporte carte SD: 16G max\n\nSupporte USB: 32G max\n\nBoutons pour contrôler: volume + et -, musique suivant et précédent, pause/play, répéter on/off, mode usb/sd.\n\nMots clés: player, amplifier.",
+     "short_description": "Lecteur MP3 supporte lecture depuis port USB ou carte SD, équipé d’un amplificateur audio, avec une sortie audio jack 3.5mm et des boutons de contrôle, donc pas besoin d’autres composants ou circuits, des écouteurs peut être branché via la sortie jack 3.5mm, ou des haut-parleurs de 4ohm 3W, il peut être alimenter par 5V via le port micro usb ou par batterie 3.7V, le port micro usb peut aussi être utilisé pour le chargement de batterie et transfert de données par câble usb,la puissance de sortie est 3W max sous 5V.\n\nSupporte carte SD: 16G max\n\nSupporte USB: 32G max\n\nBoutons pour contrôler: volume + et -, musique suivant et précédent, pause/play, répéter on/off, mode usb/sd"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/642-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3353",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "KY-037 Module Détecteur de Son / Voix",
+     "description": "Module Détecteur de Son / Voix KY-037\n\nModule KY-037 détecteur de son ou voix à base de LM393, équipée d’un microphone pour capter les sons autour, lorsque le module détecte un son, il produit un signal digital (sortie DO) et un signal analogique (sortie AO), la sensibilité de détection est réglable à l’aide d’un potentiomètre précis (il affecte uniquement DO).  par exemple, il peut être utilisé pour déclencher la lumiére par voix ou applaudissement…\n\nTension: 4-6V\n\nDimensions: 32 x 17 x 8 mm\n\nFiche technique\n\nMots clés: voice, audio, sensor.",
+     "short_description": "Module KY-037 détecteur de son ou voix à base de LM393, équipée d’un microphone pour capter les sons autour, lorsque le module détecte un son, il produit un signal digital (sortie DO) et un signal analogique (sortie AO), la sensibilité de détection est réglable par un potentiomètre précis (il affecte uniquement DO).  par exemple, il peut être utilisé pour déclencher la lumiére par voix ou applaudissement…\n\nTension: 4-6V\n\nDimensions: 32 x 17 x 8 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/643-1.png"
+   ]
+  }
+ ]
+}

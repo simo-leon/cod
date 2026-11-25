@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3355",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "ISD1820 Module Enregistreur de Voix À Microphone",
+     "description": "Module Enregistreur de Voix À Microphone avec Haut-parleur ISD1820\n\nModule Enregistreur de Voix À Microphone avec Haut-parleur ISD1820.\n\nCe module ISD1820 est un enregistreur de voix équipée d’un microphone et haut-parleur, il peut être seul ou contrôler par Arduino.\n\n10 secondes d’enregistrement vocal\n\nVoix de haute qualité naturelle\n\nModes: avec looping, jog playback, fonction de lecture unique\n\nHaut-parleur: 8 ohms 0.5W\n\nTension: 3-5V\n\nDimensions: 37 x 41 mm\n\nFiche technique",
+     "short_description": "Ce module est un enregistreur de voix équipée d’un microphone et haut-parleur, il peut être seul ou contrôler par Arduino.\n\n10 secondes d’enregistrement vocal\n\nVoix de haute qualité naturelle\n\nModes: avec looping, jog playback, fonction de lecture unique\n\nHaut-parleur: 8 ohms 0.5W\n\nTension: 3-5V\n\nDimensions: 37 x 41 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/645-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3358",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Microphone À Électret Standard",
+     "description": "Microphone À Électret Standard\n\nMicrophone à électret standard, il convertit le son en un signal électrique.\n\nDimensions: 9x7mm.",
+     "short_description": "Microphone à électret standard, il convertit le son en un signal électrique.\n\nDimensions: 9x7mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/648-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8099",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince Coupante 125mm",
+     "description": "Pince Coupante 125mm\n\nPince Coupante 125mm.",
+     "short_description": "Pince Coupante 125mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/899-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7318",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince à Long Nez 125mm",
+     "description": "Pince à Long Nez 125mm\n\nPince à Long Nez 125mm, une pince de coupe et de maintien utilisée par les artisans, les concepteurs de bijoux, les électriciens, les ingénieurs de réseaux et autres artisans pour plier, repositionner et couper des fils.",
+     "short_description": "Pince à Long Nez 125mm, une pince de coupe et de maintien utilisée par les artisans, les concepteurs de bijoux, les électriciens, les ingénieurs de réseaux et autres artisans pour plier, repositionner et couper des fils."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/900-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/900-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7335",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Colle Adhésive E8000 110mL",
+     "description": "Colle Adhésive E8000 110mL\n\nColle adhésive E8000 110mL, viscosité moyenne, utilisé pour écran tactile, cadre de téléphone mobile, résine époxy adhésif, bricolage, bijoux, art verre, bijoux en cristal…",
+     "short_description": "Colle adhésive E8000 110mL, viscosité moyenne, utilisé pour écran tactile, cadre de téléphone mobile, résine époxy adhésif, bricolage, bijoux, art verre, bijoux en cristal…"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/907-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-37137",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Loupe de Poche 45X 3X avec LED",
+     "description": "Loupe de Poche 45X 3X avec LED\n\nCette loupe de Marrywindix est équipée de deux lentilles offrant des grossissements de 3X et 45X, idéale pour la lecture et l’inspection détaillée. Conçue avec des matériaux écologiques et une poignée ergonomique antidérapante pour un confort d’utilisation optimal. Trois lumières LED blanches assurent une illumination suffisante en toutes circonstances.\n\nCaractéristiques:\n\nDimensions: 190x85x32 mm\n\nPoids: 140 g\n\nMatériaux: Verre optique, plastique écologique, LED\n\nGrossissement: 3X (lentille principale), 45X (lentille secondaire)\n\nDiamètre des lentilles: 75 mm (principale), 22 mm (secondaire)\n\nÉclairage: 3 LED blanches\n\nAlimentation: 3 piles AAA (non inclus)\n\nUtilisations:\n\nLecture de livres, journaux, menus\n\nInspection de petits objets, bricolage, collections\n\nMots clés: magnifier, handheld, microscope.",
+     "short_description": "Loupe manuelle Marrywindix avec grossissements 3X et 45X, éclairée par 3 LED blanches, idéale pour la lecture et l’inspection de petits objets. Confortable et écologique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/909-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/909-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-43644",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dr Pen Ultima N2 Microneedling",
+     "description": "Dr Pen Ultima N2 Microneedling\n\nLe Dr. Pen Ultima N2 est un stylo électrique de microneedling, sans fil grâce à sa batterie interne, qui stimule la régénération cutanée par micro-perforations. Livré avec 2 cartouches stériles 12-aiguilles, il allie ergonomie, réglages précis et hygiène optimale.\n\n🔧 Caractéristiques techniques\n\nAlimentation : batterie Li-ion 500 mAh intégrée (autonomie ~4 h)\n\nRecharge : port USB-C, 5 V ⎓ 1 A (adaptateur AC 100–240 V inclus)\n\nVitesse du moteur : jusqu’à 15 000 tr/min, 5 niveaux de réglage\n\nProfondeur d’aiguille : 0 – 2,5 mm (réglable par molette)\n\nCartouches : 2 × 12-aiguilles stériles jetables (montage bayonet)\n\nCorps du stylo : ABS + PC, design antidérapant\n\nDimensions : ~147 × 30 mm (longueur × Ø)\n\nPoids : ≃ 330 g (avec cartouche)\n\n💡 Indications & Applications\n\nRides, ridules et perte de fermeté\n\nCicatrices d’acné, vergetures et cicatrices post-chirurgicales\n\nTaches pigmentaires et irrégularités du teint\n\nGrain de peau, pores dilatés\n\nSymptômes de vieillissement (relâchement, perte d’élasticité)\n\nChute de cheveux et stimulation du cuir chevelu\n\n⚙️ Comment l’utiliser\n\nPréparation : nettoyez et désinfectez la zone à traiter, ainsi que la cartouche (alcool 70 %).\n\nInsertion de la cartouche : alignez et enclenchez la cartouche 12 aiguilles sur l’embout bayonet.\n\nRéglages :\n\nProfondeur : tournez la bague graduée de 0 mm à 2,5 mm selon la zone (visage, corps, cuir chevelu).\n\nVitesse : appuyez brièvement sur le bouton pour allumer, puis cliquez pour sélectionner 1–5.\n\nTraitement : déplacez le stylo uniformément sur la peau – 2–4 passages par zone – sans appuyer excessivement.\n\nNettoyage : retirez et jetez la cartouche, puis désinfectez l’embout du stylo.\n\nSoin post-traitement : appliquez un sérum apaisant ou une crème hydratante.\n\nConseil : commencez aux vitesses et profondeurs minimales, puis ajustez progressivement selon votre tolérance et la zone traitée.\n\nMots clés: microneedling, battery, cartridge, needle, skin, wrinkle, acne, therapy,.",
+     "short_description": "Le Dr. Pen Ultima N2 est un stylo électrique de microneedling, sans fil grâce à sa batterie interne, qui stimule la régénération cutanée par micro-perforations. Livré avec 2 cartouches stériles 12-aiguilles, il allie ergonomie, réglages précis et hygiène optimale."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/06/1080-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/06/1080-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/06/1080-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/07/1080-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-45537",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fer à Souder V503 Électrique Koocu 220V AC",
+     "description": "Fer à Souder V503 Électrique Koocu 220V AC\n\nLe KOOCU V503 40W ou 60W est un fer à souder compact et fiable, idéal pour les travaux de précision en électronique, réparation de cartes, assemblage de composants ou bricolage léger. Grâce à sa puissance de 40 W, il assure une montée rapide en température et un contrôle précis, adapté aux passionnés et aux professionnels.\n\nCaractéristiques principales :\n\nPuissance : 40W / 60W\n\nÉlément chauffant en céramique pour une montée rapide et une bonne stabilité thermique. \n\nPoignée ergonomique et légère, facilitant une utilisation prolongée sans fatigue. \n\nConception adaptée à des travaux précis : réparation mobile, électronique, circuits imprimés.\n\nVersions disponibles pour différentes alimentations (par exemple 220 V / 50 Hz) selon région.\n\nApplications :\n\nRéparation de téléphones, tablettes et autres appareils électroniques\n\nSoudure de composants SMD, cartes mères, connecteurs\n\nBricolage électronique et prototypage Arduino / Raspberry Pi\n\nTravaux nécessitant une précision thermique modérée à élevée\n\nPourquoi choisir ce modèle ?\n\nExcellent compromis entre puissance et maniabilité (40 W) pour usage régulier\n\nChauffe rapide et stabilité thermique grâce à la technologie céramique intégrée\n\nFormat léger et usage facile : parfait pour les ateliers, réparations mobiles ou usage amateur avancé\n\nMultiples variantes disponibles selon besoins (40 W, 60 W) : possibilité d’évolution\n\nMots clés: solder, soldering, iron.",
+     "short_description": "Le KOOCU V503 40W ou 60W est un fer à souder compact et fiable, idéal pour les travaux de précision en électronique,"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/07/388-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7229",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fer à Souder V502 Électrique Koocu 60W 220V AC",
+     "description": "Fer à Souder Électrique Koocu 60W 220V AC V502\n\nFer à Souder Électrique Koocu 60W 220V AC.\n\nTension: 220-240V AC\n\nPuissance: 60W\n\nModéle: V502\n\nMots clés: solder, soldering, iron.",
+     "short_description": "Fer à Souder Électrique Koocu 60W 220V AC."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/389-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/389-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-37016",
+   "price": 115,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fer à Souder Réglable Koocu V900C 60W 220V AC",
+     "description": "Fer à Souder Réglable Koocu 60W 220V AC\n\nLe fer à souder KOOCU V900C est conçu pour offrir une récupération de température sans précédent grâce à sa pointe de haute qualité. Ce fer à souder est idéal pour les projets de soudure précis, offrant une puissance de 60W et une tension de 220V. Sa conception ergonomique, ses matériaux anti-statiques, et sa température réglable garantissent une utilisation sûre et confortable.\n\nCaractéristiques\n\nMarque : KOOCU\n\nModèle : V900C\n\nPuissance : 60W\n\nTension : 220V\n\nMatériau : Plastique et métal durable\n\nSécurité : ESD safe (protection contre les décharges électrostatiques)\n\nTempérature : Température réglable\n\nCertification : Conforme aux directives RoHS et CE\n\nComment l’utiliser\n\nInstallation :\n\nBranchez le fer à souder à une prise électrique de 220V.\n\nAttendez que la pointe atteigne la température de fonctionnement.\n\nUtilisation :\n\nUtilisez le bouton de réglage pour ajuster la température selon les besoins de votre projet.\n\nUtilisez le fer à souder pour souder des composants électroniques avec précision.\n\nÉteignez le fer après utilisation pour éviter toute surchauffe.\n\nApplications :\n\nIdéal pour les réparations électroniques, les projets de bricolage et le prototypage.\n\nConseils de Sécurité :\n\nUtilisez des équipements de protection (gants, lunettes) lors de la soudure.\n\nÉvitez le contact direct avec la pointe chaude.\n\nTravaillez dans un espace bien ventilé pour éviter l’inhalation des fumées.\n\nLe fer à souder KOOCU V900C est une solution fiable et efficace pour tous vos besoins en soudure électronique, combinant sécurité et performance pour des résultats professionnels.\n\nMots clés: solder, soldering, iron.",
+     "short_description": "Le fer à souder KOOCU V900C est conçu pour offrir une récupération de température sans précédent grâce à sa pointe de haute qualité, et sa température réglable garantissent une utilisation sûre et confortable."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/389-a-1.png"
+   ]
+  }
+ ]
+}

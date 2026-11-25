@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-22127",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "TPA3110 Amplificateur Audio Stereo 30Wx2",
+     "description": "TPA3110 Amplificateur Audio Stereo 30Wx2\n\nTPA3110 Amplificateur Audio de puissance Stereo 2.0 30W + 30W.\n\nPuce : TPA3110 XH-A232\n\nTension d’alimentation: DC8V-26V\n\nCourant: +3A\n\npuissance de dissipation : 30W + 30W\n\nimpédance de sortie : 4-8ohm\n\nRapport signal/bruit : 100db\n\ntaille : 53*45*14mm canaux : 2 (2.0)\n\npoids : 21g\n\nMots clés: power, amplifier.",
+     "short_description": "TPA3110 Amplificateur Audio de puissance Stereo 2.0 30W + 30W."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/08/635-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/08/635-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17825",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte Générateur de Sonnette Happy Birthday",
+     "description": "Carte Générateur de Sonnette Happy Birthday\n\nCarte générateur de sonnette audio Happy Birthday en cycle, avec un minimum de composants externes.\n\nMots clés: generator, pulse, oscillator, doorbell, ring, generator, music, musique.",
+     "short_description": "Carte générateur de sonnette audio Happy Birthday en cycle, avec un minimum de composants externes."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/640-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/sonnette2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17764",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lecteur MP3 Bluetooth USB Carte SD avec Amplificateur audio",
+     "description": "Lecteur MP3 Bluetooth USB Carte SD avec Amplificateur audio\n\nLecteur MP3 supporte Bluetooth V2.1 et lecture depuis port USB ou carte micro SD, équipé d’un amplificateur audio, avec une sortie audio jack 3.5mm et des boutons de contrôle, donc pas besoin d’autres composants ou circuits, des écouteurs peut être branché via la sortie jack 3.5mm, ou des haut-parleurs de 4ohm 3W, il peut être alimenter par 5V via le port micro usb ou par batterie 3.7V, le port micro usb peut aussi être utilisé pour le chargement de batterie et transfert de données par câble usb,la puissance de sortie est 3W max sous 5V.\n\nInterface d’alimentation: mini interface USB\n\nTension d’alimentation: DC 5V\n\nEntrée audio: Bluetooth V2.1\n\nPrise audio: 3,5 mm\n\nImpédance applicable: 4-8 ohm\n\nFormat de lecture: MP3, WMA, WAV, FLAC\n\nBoutons pour contrôler: volume + et -, musique suivant et précédent, pause/play, répéter on/off, mode usb/sd.\n\nDimensions: 50 * 40mm\n\nMots clés: player, amplifier.",
+     "short_description": "Lecteur MP3 supporte Bluetooth V2.1 et lecture depuis port USB ou carte micro SD, équipé d’un amplificateur audio, avec une sortie audio jack 3.5mm et des boutons de contrôle."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/642-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3357",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Haut-parleurs 1W 8Ω",
+     "description": "Haut-parleurs 1W 8Ω\n\nHaut-parleurs 8Ω 1W.\n\nImpédance: 8Ω\n\nPuissance: 1W\n\ndimensions: 20x14x3.5mm\n\nMots clés: speaker.",
+     "short_description": "Haut-parleurs 8Ω 1W\n\nImpédance: 8Ω\n\nPuissance: 1W\n\ndimensions: 20x14x3.5mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/647-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42168",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Haut-parleurs 8Ω 0.5W 40mm",
+     "description": "Haut-parleurs 8Ω 0.5W 40mm\n\nCe haut-parleur compact de 40 mm de diamètre et 5 mm d’épaisseur offre une puissance nominale de 0,5 W pour une impédance de 8 Ω. Son profil ultra-plat le rend idéal pour les applications embarquées et les dispositifs à encombrement réduit.\n\n🔧 Caractéristiques techniques\n\nPuissance nominale : 0,5W\n\nImpédance : 8Ω\n\nDiamètre : 40mm\n\nÉpaisseur : 5mm\n\nType : haut-parleur plat (“flat speaker”)\n\n💡 Applications typiques\n\nIntégration dans boîtiers compacts (tablettes, panels)\n\nProjets DIY (micro-amplis, alarmes, sonnettes)\n\nKits éducatifs et maquettes de radio/son\n\nSystèmes d’alerte sonore et feedback utilisateur\n\nDispositifs portables (jouets, gadgets)\n\n🛠️ Brochage / Connexions\n\nBroche\nFonction\n\nCosses 2,8 mm (+)\nFil positif (haut-parleur)\n\nCosses 2,8 mm (–)\nFil négatif (haut-parleur)\n\nBranchez le fil positif sur la borne marquée « + » (souvent identifiée rouge) et le fil négatif sur la borne « – ». Respectez la polarité pour garantir la qualité et la longévité de votre haut-parleur.\n\nMots clés: speaker.",
+     "short_description": "Ce haut-parleur compact de 40 mm de diamètre et 5 mm d’épaisseur offre une puissance nominale de 0,5 W pour une impédance de 8 Ω"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/647-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50889",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Haut-parleurs 8Ω 3W 77mm",
+     "description": "🔊 Haut-parleur 77 mm 8 Ω / 3 W\n\nCe haut-parleur rond de 77 mm offre une impédance de 8 ohms et une puissance nominale de 3 W. Compact et facile à intégrer, il convient parfaitement aux petits amplificateurs, radios, interphones, systèmes d’alarme et montages audio DIY.\n\nSon châssis métallique assure une bonne rigidité, tandis que ses deux cosses permettent une connexion rapide par soudure.\n\n⭐ Points forts\n\n✅ Format compact de 77 mm\n\n✅ Impédance standard de 8 Ω\n\n✅ Puissance nominale de 3 W\n\n✅ Châssis métallique robuste\n\n✅ Deux cosses faciles à souder\n\n✅ Compatible avec de nombreux modules amplificateurs\n\n✅ Idéal pour la réparation et le prototypage audio\n\n🔧 Caractéristiques techniques\n\nType : haut-parleur électrodynamique\n\nForme : ronde\n\nDiamètre extérieur : environ 77 mm\n\nImpédance nominale : 8 Ω\n\nPuissance nominale : 3 W\n\nConnexion : deux cosses à souder\n\nChâssis : métal\n\nUtilisation : reproduction de musique, voix et signaux sonores\n\nAmplificateur requis : compatible avec une charge de 8 Ω\n\n⚙️ Principe de fonctionnement\n\nLe haut-parleur transforme le signal électrique fourni par un amplificateur en vibrations mécaniques, puis en ondes sonores.\n\nIl ne doit pas être connecté directement à une alimentation continue. Une source audio seule, comme un téléphone, un Arduino ou un module Bluetooth, peut également ne pas fournir assez de puissance : utilisez un amplificateur adapté.\n\n🔌 Guide de branchement\n\nHaut-parleur\nModule amplificateur\n\nPremière cosse\nSortie positive SPK+\n\nDeuxième cosse\nSortie négative SPK−\n\nCoupez l’alimentation du montage.\n\nReliez les deux cosses aux sorties haut-parleur de l’amplificateur.\n\nVérifiez que l’amplificateur accepte une charge de 8 Ω.\n\nCommencez avec un volume faible.\n\nAugmentez progressivement le volume sans provoquer de distorsion.\n\nRespectez les repères + et − lorsqu’ils sont présents. Avec un seul haut-parleur, l’inversion de polarité n’endommage généralement pas le composant, mais elle peut créer un déphasage lorsque plusieurs haut-parleurs sont utilisés.\n\n🎛️ Amplificateurs compatibles\n\nCe haut-parleur peut être associé à différents petits modules audio, notamment :\n\nModules PAM8403\n\nAmplificateurs LM386\n\nCartes audio Bluetooth amplifiées\n\nModules lecteurs MP3 avec sortie amplifiée\n\nPetits circuits d’interphone ou d’alarme\n\nAvec un amplificateur en pont comme le PAM8403, connectez le haut-parleur entre les deux sorties d’un même canal, par exemple L+ et L−. Ne reliez aucune de ces sorties directement à GND.\n\n🤖 Projets électroniques\n\nSynthèse vocale avec Arduino ou ESP32\n\nLecteur MP3 DIY\n\nRadio et récepteur audio\n\nSonnette électronique\n\nAlarmes et avertisseurs\n\nRobots interactifs\n\nBoîtes sonores\n\nProjets éducatifs\n\n🛠️ Réparation et intégration\n\nRemplacement de petits haut-parleurs\n\nRadios portables\n\nInterphones\n\nJouets sonores\n\nÉquipements de communication\n\nPetites enceintes\n\nSystèmes d’annonce vocale\n\n💡 Conseils pour un meilleur son\n\nInstallez le haut-parleur dans un petit boîtier acoustique.\n\nFixez-le correctement pour éviter les vibrations parasites.\n\nOrientez la membrane vers une ouverture ou une grille.\n\nÉvitez de dépasser 3 W en fonctionnement normal.\n\nRéduisez immédiatement le volume si le son devient déformé.\n\nAjoutez une grille pour protéger la membrane.\n\n⚠️ Précautions\n\nNe connectez jamais le haut-parleur directement au 5 V ou au 12 V.\n\nNe le commandez pas directement depuis une broche Arduino ou ESP32.\n\nUtilisez un amplificateur compatible avec une impédance de 8 Ω.\n\nÉvitez de toucher ou d’enfoncer la membrane.\n\nProtégez le haut-parleur contre l’eau, la poussière et les objets métalliques.\n\nCoupez l’alimentation avant toute modification du câblage.\n\nMots clés: speaker, enceinte.",
+     "short_description": "Haut-parleur rond de 77 mm, 8 Ω et 3 W, idéal pour les petits amplificateurs, radios, interphones et projets audio électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/647-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42467",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Microphone À Électret 9x7mm Avec Câble",
+     "description": "Microphone À Électret 9x7mm Avec Câble et connecteur\n\nCe micro électret miniature de 9x7mm capte avec finesse les signaux sonores pour vos projets audio embarqués. Livré avec un câble pré-câblé de 10 cm et un connecteur 2 broches 2,0mm, il s’intègre facilement à vos cartes Arduino, Raspberry Pi ou tout circuit d’amplification.\n\n🔧 Caractéristiques techniques\n\nType : capsule électret miniature\n\nDimensions capsule : 9 mm (Ø) × 7 mm (épaisseur)\n\nSensibilité : –42 dB ± 3 dB (0 dB = 1 V/Pa à 1 kHz)\n\nRéponse en fréquence : 100 Hz – 10 kHz\n\nImpédance de sortie : ≃ 2,2 kΩ\n\nTension d’alimentation : 2–10 V DC (via résistance de polarisation externe)\n\nCourant de polarisation : ~0,5 mA\n\nRapport signal/bruit : > 58 dB\n\nCâble : 10 cm, section 28 AWG, blindé partiel\n\nConnecteur : 2 broches 2,0 mm (pas 2,0 mm)\n\n💡 Applications typiques\n\nEnregistreur de son et dictaphones DIY\n\nCommande vocale et reconnaissance vocale sur Arduino/ESP32\n\nSystèmes d’alarme et détection de niveau sonore\n\nProjets IoT et capteurs sonores industriels\n\nKits éducatifs et prototypes multimédias\n\n🛠️ Brochage / Connexions\n\nBroche du connecteur\nFonction\nCommentaire\n\nVCC\nAlimentation (+2–10 V DC)\nÀ relier via une résistance de polarisation (2,2 kΩ)\n\nGND\nMasse\nRéférence commune\n\nPour exploiter correctement le microphone :\n\nPolarisation : insérez une résistance de ~2,2 kΩ entre VCC et la broche signal ; l’autre broche du condensateur de sortie est la masse.\n\nFiltrage : ajouter un condensateur de découplage 0,1 µF entre VCC et GND pour réduire le bruit électrique.\n\nLecture : connectez la broche signal à une entrée analogique (Arduino) ou à la base d’un amplificateur opérationnel pour préamplification.\n\nVotre microphone est maintenant prêt à capter les signaux sonores avec une bonne linéarité et un faible bruit de fond.",
+     "short_description": "Ce micro électret miniature de 9x7mm capte avec finesse les signaux sonores pour vos projets audio embarqués. Livré avec un câble pré-câblé de 10 cm et un connecteur 2 broches 2,0mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/648-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3359",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Audio Jack 3.5mm Femelle",
+     "description": "Connecteur Audio Jack 3.5mm Femelle\n\nConnecteur audio jack 3.5mm femelle dip PJ-313, avec 5 broches (L,R,GND voir image pour shéma).\n\nMots clés: connector.",
+     "short_description": "Connecteur audio jack 3.5mm femelle dip PJ-313, avec 5 broches (L,R,GND voir image pour shéma)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/649-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/649-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/649-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3361",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Audio Jack 3.5mm Mâle",
+     "description": "Connecteur Audio Jack 3.5mm Mâle\n\nConnecteur audio jack 3.5mm mâle, avec 3 entrées (L,R,GND).\n\nDimensions: 5x1cm\n\nMots clés: connector.",
+     "short_description": "Connecteur audio jack 3.5mm mâle, avec 3 entrées (L,R,GND)\n\nDimensions: 5x1cm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/650-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7324",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Outil à Dénuder / Coupe de Câbles",
+     "description": "Outil à Dénuder / Coupe de Câbles\n\nOutil à Dénuder / Coupe de Câbles, facile et pratique.",
+     "short_description": "Outil à Dénuder / Coupe de Câbles, facile et pratique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/903-1.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,207 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-11589",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîtier pour Testeur de Composants ESR Métre LCR-T4",
+     "description": "Boîtier pour Testeur de Composants ESR Métre LCR-T4\n\nBoîtier en acrylique pour Testeur de Composants ESR Métre LCR-T4.\n\nMots clés: esr, meter, case, acrylic.",
+     "short_description": "Boîtier en acrylique pour Testeur de Composants ESR Métre LCR-T4."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/515-A-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/515-A-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/515-A-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3222",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "USB Doctor Testeur USB Voltmétre et Ampèremètre",
+     "description": "USB Doctor Testeur USB Voltmétre et Ampèremètre\n\nUSB Doctor est un testeur USB equipé d’un voltmétre, ampèremètre, sert a tester les appareils éléctronique et batteries, il peut surveiller les batteries ou les téléphones lors de la charge et mesurer la tension et le courant consommée, il peut tester la sortie d’un power bank, il peut mesurer facilement la tension de sortie du port USB et le courant de fonctionnement ou la tension de charge de l’appareil, détecte tout chargeur USB tel que PC USB, chargeur domestique, chargeur de voiture. elle prend en charge jusqu’à 3A et 3.5-7V, et affiche les résultats dans un un afficheur lcd, utiliser aussi par les professionnels de réparation des smartphones pour détecter les problémes de chargement, connecteur…\n\nTension: 3V-7.5V\n\nCourant: 0A-3A\n\nRésolution: tension 0.01V, courant 0.01A.\n\nPrécision de mesure: tension <± 1%, courant <± 2%.\n\nShute de tension à pleine échelle: 0.2V.\n\nTempérature de fonctionnement: 0 – 60 dgree\n\nDimensions: 53mm x 35mm x14mm.\n\nMots clés: tester, docteur, voltmeter, ammeter, multimetre, powerbank.",
+     "short_description": "USB Doctor est un testeur USB equipé d’un voltmétre, ampèremètre, sert a tester les appareils éléctronique et batteries, il peut surveiller les batteries ou les téléphones lors de la charge et mesurer la tension et le courant consommée, il peut tester la sortie d’un power bank, il peut mesurer facilement la tension de sortie du port USB et le courant de fonctionnement ou la tension de charge de l’appareil, détecte tout chargeur USB tel que PC USB, chargeur domestique, chargeur de voiture. elle prend en charge jusqu’à 3A et 3.5-7V, et affiche les résultats dans un un afficheur lcd, utiliser aussi par les professionnels de réparation des smartphones pour détecter les problémes de chargement, connecteur…\n\nTension: 3V-7.5V\n\nCourant: 0A-3A\n\nRésolution: tension 0.01V, courant 0.01A.\n\nPrécision de mesure: tension <± 1%, courant <± 2%.\n\nShute de tension à pleine échelle: 0.2V.\n\nTempérature de fonctionnement: 0 – 60 dgree\n\nDimensions: 53mm x 35mm x14mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/517-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/517-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3225",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Voltmétre et Ampèremètre DC 100V 10A",
+     "description": "Voltmétre et Ampèremètre DC 100V 10A\n\nVoltmétre et ampèremètre digital avec grand plage de mesure, compacte et idéal pour vos projet.Caractéristiques:\n\nPlage de mesure de tension: 0-100V\n\nPlage de mesure de courant: 0-10A\n\nTension d’alimentation: 4,5-30 V DC\n\nCourant de fonctionnement: ≤20mA\n\nAfficheur: 0.28″ Deux couleurs bleu et rouge\n\nRésolution minimale (V): 0.1V\n\nRésolution minimale (A): 0.01A\n\nTaux de rafraîchissement: ≥100 mS / fois\n\nPrécision de mesure: 1% (± 1 chiffre)\n\nTempérature de fonctionnement: -15 à 70 ° c\n\nDimensions: 47 × 28 × 16 mm\n\nPoids: 29 g (net: 19 g)\n\nNote: le calibrage s’effectue en ajustant les petits potentiomètres à l’arrière d’appareil.\n\nMots clés: ammeter, voltmeter, multimétre, multimeter.",
+     "short_description": "Voltmétre et ampèremètre digital avec grand plage de mesure, compacte et idéal pour vos projet."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/519-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/519-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-11829",
+   "price": 140,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Voltmétre et Ampèremètre DC 100V 100A avec Shunt",
+     "description": "Voltmétre et Ampèremètre DC 100V 100A\n\nVoltmétre et ampèremètre digital avec grand plage de mesure 0-100V, 0-100A, compacte et idéal pour vos projet.\n\nNote: le multimètre doit être utilisé avec le shunt inclus, sinon il sera endommagé.\n\nBranchement:\n\nVous avez le choix d’utiliser le multimétre en mode “alimentation partagé” de 4 à 30V max, ou en mode “alimentation indépendante” en utilisant une alimentation de 4 à 30V max pour le multimétre et une tension de 0 à 100V max pour votre charge ou à mesurer. (voir shéma en image)\n\nCaractéristiques:\n\nPlage de mesure de tension: 0-100V\n\nPlage de mesure de courant: 0-100A\n\nTension d’alimentation: 4-30 V DC\n\nCourant de fonctionnement: ≤20mA\n\nRésistance de shynt externe: 75mOhm\n\nAfficheur: 0.28″ Deux couleurs bleu et rouge\n\nRésolution minimale (V): 0.1V\n\nRésolution minimale (A): 0.01A\n\nTaux de rafraîchissement: 300 mS / fois\n\nPrécision de mesure: 1% (± 1 chiffre)\n\nTempérature de fonctionnement: -15 à 70 ° c\n\nDimensions: 48 x 29 x 22 mm\n\nNote: le calibrage s’effectue en ajustant les petits potentiomètres à l’arrière d’appareil.\n\nMots clés: ammeter, voltmeter, multimétre, multimeter.",
+     "short_description": "Voltmétre et ampèremètre digital avec grand plage de mesure 0-100V, 0-100A, compacte et idéal pour vos projet."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/519-A-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/519-A-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/519-A-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42121",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Voltmétre et Ampèremètre AC 50-500V 10A",
+     "description": "Voltmétre et Ampèremètre AC 50-500V 10A\n\nVoltmétre et Ampèremètre AC 50-500V 10A, ce module mesure simultanément la tension (50–500 V AC) et le courant (0–10 A) sur un même circuit AC, sans alimentation externe : il s’auto-alimente sur la ligne mesurée. Compact et précis (classe 0.1), il s’intègre dans un pupitre ou coffret pour un suivi en temps réel.\n\n🔧 Caractéristiques techniques\n\nPlage tension AC : 50–500 V\n\nPlage courant AC : 0–10 A (shunt interne)\n\nPrécision : classe 0.1 (±0,1 % ±1 digit)\n\nAffichage : LCD rétroéclairé, V & A simultanés\n\nAuto-alimentation : via phase/neutre mesurés (AC)\n\nCertification : CE\n\nDimensions panneau : 48 × 29 × 22 mm (perçage 45 × 25 mm)\n\n💡 Applications typiques\n\nSurveillance de la tension et du courant sur installations domestiques ou industrielles\n\nContrôle de la consommation de machines, moteurs, pompes\n\nIntégration dans tableaux électriques, pupitres de commande\n\nDébogage et tests rapide de circuits AC\n\nProjets DIY de monitoring énergétique\n\n🛠️ Brochage / Câblage\n\nBroche\nFonction\nConnexion typique\n\nL+\nPhase (tension mesurée + et auto-alimentation)\nLigne phase AC 50–500 V\n\nN–\nNeutre (référence tension & alimentation)\nLigne neutre AC\n\nI+\nEntrée courant + (shunt interne)\nFil de charge (phase) – entrée série\n\nI–\nEntrée courant – (shunt interne)\nFil de charge (phase) – sortie série\n\nVeillez à connecter L+ / N– sur la ligne à mesurer pour alimenter le module, puis passez le fil de phase de votre charge à travers les bornes I+ → I– pour mesurer le courant correctement.\n\nMots clés: ammeter, voltmeter, multimétre, multimeter, rms, .",
+     "short_description": "Le module mesure simultanément la tension (50–500 V AC) et le courant (0–10 A) sur un même circuit AC, sans alimentation externe."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/519-b-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/519-b-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/519-b-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3337",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "PAM8403 Amplificateur Audio Stereo Mini 3Wx2",
+     "description": "Amplificateur Audio Stereo Mini PAM8403 3Wx2\n\nPAM8403 est une petite puce amplificateur audio stereo numérique classe D, qualité sonore haute définition, sortie audio de haute fidélité 3W + 3W, peut être alimenté par port usb 5V\n\nAmplificateur classe D\n\nAlimentation: 2.5 à 5V, (5.5v max) (n’oubliez pas d’ajouter un condensateur de filtration de 470uF ou plus)\n\nPuissance de sortie: 3W x 2 (avec haut-parleurs 4ohm)\n\nHaut-parleurs: 4 à 8 ohm (4ohm recommendé)\n\nEfficacité: Plus de 90%\n\nDimensions: 21 x 19 x 2mm\n\nFiche technique\n\nMots clés: amplifier.",
+     "short_description": "PAM8403 est une petite puce amplificateur audio stereo numérique classe D, qualité sonore haute définition, sortie audio de haute fidélité 3W + 3W, peut être alimenté par port usb 5V\n\nAmplificateur classe D\n\nAlimentation: 2.5 à 5V, (5.5v max) (n’oubliez pas d’ajouter un condensateur de filtration de 470uF ou plus)\n\nPuissance de sortie: 3W x 2 (avec haut-parleurs 4ohm)\n\nHaut-parleurs: 4 à 8 ohm (4ohm recommendé)\n\nEfficacité: Plus de 90%\n\nDimensions: 21 x 19 x 2mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/625-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/625-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3338",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "PAM8403 Amplificateur Audio Stereo Mini 3Wx2 5V",
+     "description": "Amplificateur Audio Stereo Mini PAM8403 3Wx2 5V\n\nPAM8403 est une petite puce amplificateur audio stereo numérique classe D, qualité sonore haute définition, sortie audio de haute fidélité 3W + 3W, avec potentiométre de réglage de volume, peut être alimenté par port usb 5V\n\nAmplificateur classe D\n\nAlimentation: 5V (5.5v max) (n’oubliez pas d’ajouter un condensateur de filtration de 470uF ou plus)\n\nPuissance de sortie: 3W x 2 (avec haut-parleurs 4ohm)\n\nHaut-parleurs: 4 à 8 ohm (4ohm recommendé)\n\nEfficacité: Plus de 90%\n\nDimensions: 29 x 20 x 16 mm\n\nFiche technique\n\nMots clés: amplifier.",
+     "short_description": "PAM8403 est une petite puce amplificateur audio stereo numérique classe D, qualité sonore haute définition, sortie audio de haute fidélité 3W + 3W, avec potentiométre de réglage de volume, peut être alimenté par port usb 5V\n\nAmplificateur classe D\n\nAlimentation: 5V (5.5v max) (n’oubliez pas d’ajouter un condensateur de filtration de 470uF ou plus)\n\nPuissance de sortie: 3W x 2 (avec haut-parleurs 4ohm)\n\nHaut-parleurs: 4 à 8 ohm (4ohm recommendé)\n\nEfficacité: Plus de 90%\n\nDimensions: 29 x 20 x 16 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/626-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/626-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/626-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3340",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "PAM8610 Amplificateur Audio Stereo HIFI 15Wx2",
+     "description": "Amplificateur Audio Stereo HIFI PAM8610 15Wx2\n\nAmplificateur Audio Stereo HIFI PAM8610 15Wx2, Un nouvel amplificateur de puissance numérique  et efficace, le PAM8610 est un amplificateur audio classe D de 15 W. Il offre un faible THD + N, ce qui lui permet d’obtenir une reproduction sonore de haute qualité. L’architecture réduite du nouveau filtre permet à l’appareil de piloter le haut-parleur directement, ne nécessitant aucun filtre de sortie passe-bas, afin d’économiser le coût du système et la zone PCB. Avec le même nombre de composants externes, l’efficacité du PAM8610 est beaucoup mieux que celle de classe AB. Il peut prolonger la durée de vie de la batterie, idéal pour les applications portables.\n\nAmplificateur classe D\n\nAlimentation: 6-12V (alimentation 12V 3A recommendée)\n\nCourant de repos: 20mA\n\nPuissance de sortie: 15W x 2 (haut-parleurs 4ohm), 10W x 2 (haut-parleurs 8ohm)\n\nHaut-parleurs: 4 à 8 ohm\n\nImpédance d’entrée: 15Kohm\n\nEfficacité: Plus de 90%\n\nDistorsion: moins de 0.1%\n\nDimensions: 28 x 22 x 2.5 mm\n\nFiche technique\n\nMots clés: power, amplifier.",
+     "short_description": "Amplificateur Audio Stereo HIFI PAM8610 15Wx2, Un nouvel amplificateur de puissance numérique  et efficace, le PAM8610 est un amplificateur audio classe D de 15 W. Il offre un faible THD + N, ce qui lui permet d’obtenir une reproduction sonore de haute qualité. L’architecture réduite du nouveau filtre permet à l’appareil de piloter le haut-parleur directement, ne nécessitant aucun filtre de sortie passe-bas, afin d’économiser le coût du système et la zone PCB. Avec le même nombre de composants externes, l’efficacité du PAM8610 est beaucoup mieux que celle de classe AB. Il peut prolonger la durée de vie de la batterie, idéal pour les applications portables.\n\nAmplificateur classe D\n\nAlimentation: 6-12V (alimentation 12V 3A recommendée)\n\nCourant de repos: 20mA\n\nPuissance de sortie: 15W x 2 (haut-parleurs 4ohm), 10W x 2 (haut-parleurs 8ohm)\n\nHaut-parleurs: 4 à 8 ohm\n\nImpédance d’entrée: 15Kohm\n\nEfficacité: Plus de 90%\n\nDistorsion: moins de 0.1%\n\nDimensions: 28 x 22 x 2.5 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/627-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/627-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/627-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3349",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "MAX9814 Amplificateur Audio À Microphone",
+     "description": "Amplificateur Audio À Microphone MAX9814\n\nAmplificateur à microphone professionnel MAX9814, faible bruit de sortie, petite taille, haute sensibilité, gain automatique 40dB, 50dB ou 60dB, prise en charge de 3,3 V et 5 V, module idéale pour transformer un son en signal analogique.\n\nTension d’alimentation : 2,7 v-5,5 v à 3 mA\n\nSortie : 2 Vpp sur polarisation 1,25 V\n\nRéponse en fréquence : 20 Hz – 20 KHz\n\nTaux d’attaque et de relâchement programmable\n\nGain automatique, sélectionnable max de 40dB, 50dB ou 60dB\n\nFaible densité de bruit d’entrée de 30 nV/\n\nFaible THD : 0,04 % (typique)\n\nFiche technique\n\nMots clés: mic, amplifier, voice.",
+     "short_description": "Amplificateur à microphone professionnel MAX9814, faible bruit de sortie, petite taille, haute sensibilité, gain automatique 40dB, 50dB ou 60dB, prise en charge de 3,3 V et 5 V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/632-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6332",
+   "price": 28,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "PAM8406 Amplificateur Audio Numérique Stéréo 5Wx2",
+     "description": "PAM8406 Amplificateur Audio Numérique Stéréo 5Wx2\n\nPAM8406 Amplificateur audio numérique stéréo 5Wx2, une bonne qualité sonore, avec un réglage du volume du canal gauche et droit.\n\nLa tension de fonctionnement: 2.5-5V, (limité à 5.5V)\n\nExcellente suppression du bruit, en absence d’entrée audio, vous n’entendrez aucun bruit.\n\nL’alimentation 5V peut produire une puissance de 5W + 5W, et directement des haut-parleurs 4Ω ou 8Ω.\n\nFiltre non-LC unique Classe D numérique, il peut être utilisé directement depuis le port USB de l’ordinateur.\n\nconception ultra-miniature, il peut facilement être placé dans un petit espace à l’intérieur d’une variété de produits numériques.\n\nhaute efficacité d’amplification.\n\nMots clés: amplifier, digital.",
+     "short_description": "PAM8406 Amplificateur audio numérique stéréo 5Wx2, une bonne qualité sonore, avec un réglage du volume du canal gauche et droit."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/634-1.png"
+   ]
+  }
+ ]
+}

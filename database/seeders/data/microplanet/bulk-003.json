@@ -1,0 +1,217 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3226",
+   "price": 28,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Voltmétre 100V DC (3 Fils)",
+     "description": "Voltmétre 100V DC (3 Fils)\n\nVoltmétre digital, compacte et idéal pour vos projet, avec 3 fils, un pour l’alimentation de voltmétre, un pour la tension à mesurer, et un fil négative commun.\n\nTension de fonctionnement: 4,0 ~ 30 V (avec une fonction de protection contre l’inversion de polarité)\n\nPlage de mesure de tension: 0-100V\n\nCourant de fonctionnement: <20mA\n\nAfficheur: 0,28″,  avec 4 options de couleurs\n\nTrou d’installation: 32,6 × 14 mm\n\nTaux de mesure: ≥200mS / fois\n\nPrécision: 3%\n\nTempérature de travail: -10 ~ + 65 ° C\n\nDimensions: 30 × 11.7 × 9.2 mm\n\nMots clés: voltmeter, multimetre.",
+     "short_description": "Voltmétre digital, compacte et idéal pour vos projet, avec 3 fils, un pour l’alimentation de voltmétre, un pour la tension à mesurer, et un fil négative commun.\n\nTension de fonctionnement: 4,0 ~ 30 V (avec une fonction de protection contre l’inversion de polarité)\n\nPlage de mesure de tension: 0-100V\n\nAfficheur: 0,28″,  avec 4 options de couleurs rouge/vert/jaune/bleu\n\nDimensions: 30 × 11.7 × 9.2 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/520-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/520-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/520-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/520-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/520-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3231",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Voltmétre 30V DC (2 Fils)",
+     "description": "Voltmétre 30V DC (2 Fils)\n\nVoltmétre digital, compacte et idéal pour vos projet, avec 2 fils, Le voltmètre est alimenté par la même tension mesurée, donc pas besoin d’une alimentation supplémentaire.\n\nTension de fonctionnement: 4,7 ~ 30 V\n\nPlage de mesure: 4,7 ~ 30 V (inférieure à 4.7V, la luminosité sera affaiblie, mais cela n’affectera pas la précision de la mesure)\n\nCourant de fonctionnement: <20mA\n\nAfficheur: 0,36″,  avec 3 options de couleurs rouge/vert/bleu\n\nErreur autorisée: 1% (± 1 chiffre)\n\nTaux de mesure: ≥200mS / fois\n\nTempérature de travail: -10 ~ + 65 ° C\n\nDimensions: 21,5 x 13 x 8 mm\n\nLongueur du fil conducteur: 15 cm\n\nPoids: 15 g (Poids net: 5 g).\n\nMots clés: voltmeter, multimetre.",
+     "short_description": "Voltmétre digital, compacte et idéal pour vos projet, avec 2 fils, Le voltmètre est alimenté par la même tension mesurée, donc pas besoin d’une alimentation supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/521-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/521-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/521-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/521-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/521-5.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/521-6.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6344",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Multimétre Oled 33V 10A, Tension, courant, capacité, puissance",
+     "description": "Multimétre Oled 7 en 1, 33V 10A, Tension, courant, capacité, puissance\n\nMultimètre, avec écran OLED clair, est multi-fonctionnel 7 en 1, utilisé pour tester commodément la tension, le courant, la puissance, la température, la capacité, le temps et l’énergie, avec un bouton pour changer l’ensemble des données affichées, ou réinitialiser les données accumulées à zéro (appui long).\n\nApplications: surveiller la consommation d’énergie, les chargeurs DIY, les voitures, test des batteries, etc.\n\nBranchement avec alimentation séparée\n\nBranchement avec alimentation du systéme\n\nCaractérstiques:\n\nAlimentation: 4 – 20V\n\nCouleur: noire\n\nAfficheur: 0,96″ OLED, chiffres Bleu\n\nGamme de mesure de tension: DC 0.00 – 33.00V (+/-) 0.3% + 2dgt\n\nGamme de mesure de courant: DC 0,000 – 10,00A (+/-) 0,8% + 3dgt\n\nPlage de mesure de temps: 0 – 99h:59min\n\nGamme de mesure de puissance: 0 – 99.00W\n\nPlage de mesure de température: -15 à 60 °C\n\nGamme de mesure de capacité: 0 – 99.999Ah\n\nGamme de mesure d’énergie: 0 – 999.99Wh\n\nTaille: 47 * 28 * 21mm\n\nPoids de l’article: 18g\n\nRemarque: Pour éviter toute erreur de mesure lors de la mesure de petits courants, vous pouvez débrancher les fils de courant et les fils d’alimentation, et continuer à appuyer sur le bouton tout en connectant l’alimentation jusqu’à ce que l’écran affiche “AAA”, puis relâchez le bouton.\n\nMots clés: multimeter, tester, testeur, display, voltmeter, ammeter, doctor.",
+     "short_description": "Multimètre, avec écran OLED clair, est multi-fonctionnel 7 en 1, utilisé pour tester commodément la tension, le courant, la puissance, la température, la capacité, le temps et l’énergie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/522-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/522-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/522-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34474",
+   "price": 390,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Oscilloscope DSO138 Avec Boitier",
+     "description": "Oscilloscope DSO138 Avec Boitier\n\nL’oscilloscope DSO138 est un instrument de mesure de signal portable affichant : fréquence, période, largeur d’impulsion, rapport cyclique, MAX./MIN./AVG./Peak-Peak/valeurs virtuelles. Il utilise le processeur ARM Cortex-M3 (STM32F103C8) et comprend un écran TFT couleur de 2,4″ avec une résolution de 320x240px avec boitier transparente incls.\n\nL’oscilloscope à les fonctions suivantes :\n\nDéplacement vertical réglable et avec notice.\n\nAvec les modes automatique, normal et ponctuel, il est facile de capturer la forme d’onde du moment.\n\nDisponible en déclenchement montant ou front.\n\nCourbe de déclenchement précédente observable (retard négatif).\n\nVous pouvez geler sur n’importe quel écran de forme d’onde (fonction de maintien).\n\nSource de signal de test d’onde carrée 1Hz/3.3V.\n\nAffichage numérique des paramètres de forme d’onde, y compris la fréquence, la période, la largeur d’impulsion, le rapport cyclique, max. /MIN /moyen /valeurs virtuelles.\n\nFonction de stockage de forme d’onde : il ne perdra pas la forme d’onde après la mise hors tension.\n\nDétection de court-circuit et de circuit ouvert : cela peut aider l’utilisateur à découvrir l’erreur de soudage.\n\nFonction de reconnaissance du contrôleur TFT.",
+     "short_description": "L’oscilloscope DSO138 est un instrument de mesure de signal portable affichant : fréquence, période, largeur d’impulsion, rapport cyclique, MAX./MIN./AVG./Peak-Peak/valeurs virtuelles."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0522-A.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0522-A-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0522-A-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6558",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Thermomètre Numérique LCD Avec Sonde",
+     "description": "Thermomètre Numérique LCD Avec Sonde\n\nThermomètre Numérique avec afficheur LCD et sonde de température.\n\nCaractéristiques:\n\nAlimentation par 2 piles bouton LR44 de 1.5V ( inclus)\n\nPlage de température: -50 ~ + 110 ° C\n\nLongueur de cable: 2m\n\nEnvironnement d’utilisation: température: -5 ~ + 50 °C, Humidité: 5% ~ 80%\n\nPrécision: ± 1 ° C\n\nTaille: 47 * 28 * 14mm\n\nPoids: 22g\n\nCouleur: Noir / blanc\n\nApplications: le réfrigérateur, le refroidisseur, surveiller la température, incubateur etc.\n\nMots clés: regulation, temperature, control, probe, digital.",
+     "short_description": "Thermomètre Numérique avec afficheur LCD et sonde de température."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/523-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/523-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/523-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/523-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/523-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6567",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Thermomètre Hygromètre Numérique LCD Avec Sonde",
+     "description": "Thermomètre Hygromètre Numérique LCD Avec Sonde\n\nThermomètre Hygromètre Numérique avec afficheur LCD et sonde.\n\nCaractéristiques:\n\nAlimentation par 2 piles bouton LR44 de 1.5V ( inclus)\n\nPlage de température: -50 ~ + 70 ° C\n\nPlage d’humidité: 10% RH ~ 99% RH\n\nLongueur de cable: 1.5m\n\nEnvironnement d’utilisation: température: -5 ~ + 50 °C, Humidité: 5% ~ 80%\n\nPrécision de température: ± 1 ° C\n\nPrécision d’humidité: ± 5%\n\nPériode d’échantillonnage: 10S\n\nTaille: 48 x 28.5 x 15.2mm\n\nCouleur: Noir / blanc\n\nApplications: le réfrigérateur, le refroidisseur, surveiller la température, incubateur etc.\n\nMots clés: regulation, temperature, control, probe, digital.",
+     "short_description": "Thermomètre Hygromètre Numérique avec afficheur LCD et sonde."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/524-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/524-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/524-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/524-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6573",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Thermomètre Hygromètre Numérique LCD",
+     "description": "Thermomètre Hygromètre Numérique LCD\n\nThermomètre Hygromètre Numérique avec afficheur LCD.\n\nCaractéristiques:\n\nAlimentation par 2 piles bouton LR44 de 1.5V ( inclus)\n\nPuissance: 0.15 mW\n\nPlage de température: -50 ~ + 70 ° C\n\nPlage d’humidité: 10% RH ~ 99% RH\n\nEnvironnement d’utilisation: température: -5 ~ + 50 °C, Humidité: 5% ~ 80%\n\nPrécision de température: ± 1 ° C\n\nPrécision d’humidité: ± 5%\n\nPériode d’échantillonnage: 10S\n\nTaille: 4.7cm x 2.7cm x 1.3cm\n\nCouleur: Noir/Blanc\n\nApplications: le réfrigérateur, le refroidisseur, surveiller la température, incubateur etc.\n\nMots clés: regulation, temperature, control, probe, digital.",
+     "short_description": "Thermomètre Hygromètre Numérique avec afficheur LCD."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/525-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/525-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/525-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/525-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34511",
+   "price": 370,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sonde Détecteur de Valeur PH Liquide 0-14",
+     "description": "Sonde Détecteur de Valeur PH Liquide 0-14\n\nSonde Détecteur de Valeur PH Liquide 0-14 avec électrode et connecteur BNC. Ceci est utilisé dans les tests de qualité de l’eau et l’aquaculture. L’échelle de pH totale va de 1 à 14, 7 étant considéré comme neutre. Un pH inférieur à 7 est dit acide et les solutions dont le pH est supérieur à 7 sont basiques ou alcalines.\n\nSPÉCIFICATION\n\nAlimentation du module : 5,00 V\n\nTaille du module : 43 x 32 mm (1,69 × 1,26″)\n\nPlage de mesure : 0 – 14PH\n\nTempérature de mesure : 0 – 60 ℃\n\nPrécision : ± 0,1 pH (25 ℃)\n\nTemps de réponse : ≤ 1min\n\nCapteur de pH avec connecteur BNC\n\nInterface pH2.0 (patch de 3 pieds)\n\nPotentiomètre de réglage du gain\n\nIndicateur d’alimentation LED",
+     "short_description": "Sonde Détecteur de Valeur PH Liquide 0-14 avec électrode et connecteur BNC. Ceci est utilisé dans les tests de qualité de l’eau et l’aquaculture. L’échelle de pH totale va de 1 à 14, 7 étant considéré comme neutre."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0526.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42002",
+   "price": 100,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Testeur TDS de qualité d’eau TDS-3",
+     "description": "Testeur TDS de qualité d’eau TDS-3\n\nLe testeur TDS TDS-3 est un testeur portable dédié à la qualité de l’eau, il mesure la teneur en solides dissous (TDS), et la température, puis affiche les valeurs sur un écran LCD. Livré avec un support amovible, il convient parfaitement aux aquariums, systèmes hydroponiques, osmoses inverses, piscines et réservoirs d’eau.\n\n🔧 Caractéristiques techniques :\n\nPlage TDS : 0 – 9999 PPM (résolution 1 PPM)\n\nPlage Température : 0 – 80 °C (résolution 0,1 °C)\n\nÉcran LCD: affiche TDS ou Température\n\nFonction HOLD : maintient la lecture au retrait de l’électrode\n\nArrêt automatique : après 2 minutes sans usage\n\nAlimentation : 2 × piles LR44 1,5 V (inclus)\n\nDimensions : 155 × 28 × 21 mm\n\nPoids : env. 50 g (sans piles)\n\n💡 Applications typiques :\n\nContrôle de la qualité de l’eau potable\n\nGestion d’aquariums et bassins\n\nSystèmes hydroponiques et jardins d’intérieur\n\nVérification des filtres d’osmose inverse\n\nEntretien de piscines et spas\n\nMots clés: water, quality, osmosis, reverse, EC.",
+     "short_description": "Le testeur TDS TDS-3 est un testeur portable dédié à la qualité de l’eau, il mesure la teneur en solides dissous (TDS), et la température, puis affiche les valeurs sur un écran LCD."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/526-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6114",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "TA7642 TO-92 Radio AM IC",
+     "description": "TA7642 TO-92 Radio AM\n\nLe TA7642 Radio AM, est adapté à la basse tension portable, radio, système de cassette et autre système AM sans fil.\n\nFiche technique",
+     "short_description": "Le TA7642 Radio AM, est adapté à la basse tension portable, radio, système de cassette et autre système AM sans fil."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/622-1.png"
+   ]
+  }
+ ]
+}
