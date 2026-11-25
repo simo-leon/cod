@@ -9,6 +9,7 @@ use App\Http\Controllers\Admin\CodDashboardController;
 use App\Http\Controllers\Admin\CodMyTasksController;
 use App\Http\Controllers\Admin\CodOrderController;
 use App\Http\Controllers\Admin\DeliveryProviderController;
+use App\Http\Controllers\Admin\PromotionProductController;
 use App\Http\Controllers\Admin\SoukController;
 use Illuminate\Support\Facades\Route;
 use Webkul\Core\Http\Middleware\NoCacheMiddleware;
@@ -181,4 +182,11 @@ Route::group(['middleware' => ['admin', NoCacheMiddleware::class], 'prefix' => c
      */
     Route::post('catalog/products/{product}/sourcing', [SoukController::class, 'updateSourcing'])
         ->name('admin.cod.souk.sourcing.update');
+
+    /**
+     * Cart promotions: per-product gift eligibility, toggled from
+     * the admin product edit page.
+     */
+    Route::post('catalog/products/{product}/promotion', [PromotionProductController::class, 'update'])
+        ->name('admin.promotions.product.update');
 });

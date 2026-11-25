@@ -212,6 +212,17 @@ return [
     ],
 
     'cod' => [
+        'promotions' => [
+            'product-card' => [
+                'title' => 'Cadeau offert',
+                'eligible' => 'Éligible comme cadeau offert',
+                'eligible-info' => 'Si coché, ce produit peut être offert en cadeau quand le panier atteint un palier et que le prix est dans la limite du palier. Décochez pour l’exclure du choix des cadeaux.',
+                'eligible-yes' => 'Ce produit peut être offert en cadeau.',
+                'eligible-no' => 'Ce produit est exclu des offres cadeaux.',
+                'save' => 'Enregistrer',
+                'saved' => 'Réglage du cadeau enregistré.',
+            ],
+        ],
         'orders' => [
             'title' => 'Commandes COD',
             'subtitle' => 'Commandes de la boutique importées dans le système COD, avec leur statut de confirmation.',
@@ -4861,6 +4872,7 @@ return [
                         'title' => 'Limites de Fichier',
                     ],
                 ],
+
                 'krayin-crm' => [
                     'title' => 'Krayin CRM',
                     'info' => 'Integrate and synchronize store orders and customers with Krayin CRM.',
@@ -5066,6 +5078,30 @@ return [
                         'default-product-cost-info' => 'Coût d\'une unité d\'un produit, utilisé quand aucun coût n\'est saisi pour son SKU ci-dessous. Laissez vide si les coûts diffèrent par produit — saisissez-les par SKU ci-dessous.',
                         'product-costs' => 'Coûts des produits par SKU',
                         'product-costs-info' => 'Une ligne par produit : SKU=coût en DH par unité, par ex. W8=120. Un coût saisi ici remplace le coût produit par défaut pour ce SKU. Le SKU doit correspondre exactement à celui des commandes.',
+                    ],
+                ],
+                'promotions' => [
+                    'title' => 'Promotions du panier',
+                    'info' => 'Seuil de livraison gratuite et cadeaux offerts par paliers, affichés sur le panier et la page de paiement.',
+                    'settings' => [
+                        'title' => 'Paramètres des promotions du panier',
+                        'title-info' => 'Ces paramètres s’appliquent uniquement à ce canal.',
+                        'status' => 'Activer les promotions du panier',
+                        'status-info' => 'Afficher la barre de progression de la livraison gratuite et le choix du cadeau offert sur le panier et la page de paiement.',
+                        'free-delivery-threshold' => 'Livraison gratuite à partir de (DH)',
+                        'free-delivery-threshold-info' => 'Total du panier (sans les cadeaux) à partir duquel la livraison est gratuite. Exemple : 300.',
+                        'tier-1-threshold' => 'Cadeau 1 — Total du panier à partir de (DH)',
+                        'tier-1-threshold-info' => 'Total du panier à partir duquel le client peut choisir le cadeau 1. Mettez 0 pour désactiver ce palier. Exemple : 400.',
+                        'tier-1-max-price' => 'Cadeau 1 — Prix maximum du cadeau (DH)',
+                        'tier-1-max-price-info' => 'Seuls les produits à ce prix ou moins peuvent être choisis comme cadeau 1. Exemple : 50.',
+                        'tier-2-threshold' => 'Cadeau 2 — Total du panier à partir de (DH)',
+                        'tier-2-threshold-info' => 'Total du panier à partir duquel le client peut choisir le cadeau 2. Mettez 0 pour désactiver ce palier. Exemple : 700.',
+                        'tier-2-max-price' => 'Cadeau 2 — Prix maximum du cadeau (DH)',
+                        'tier-2-max-price-info' => 'Seuls les produits à ce prix ou moins peuvent être choisis comme cadeau 2. Exemple : 100.',
+                        'tier-3-threshold' => 'Cadeau 3 — Total du panier à partir de (DH)',
+                        'tier-3-threshold-info' => 'Total du panier à partir duquel le client peut choisir le cadeau 3. Mettez 0 pour désactiver ce palier. Exemple : 0 (désactivé).',
+                        'tier-3-max-price' => 'Cadeau 3 — Prix maximum du cadeau (DH)',
+                        'tier-3-max-price-info' => 'Seuls les produits à ce prix ou moins peuvent être choisis comme cadeau 3.',
                     ],
                 ],
 

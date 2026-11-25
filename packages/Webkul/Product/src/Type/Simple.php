@@ -293,6 +293,15 @@ class Simple extends AbstractType
             return $validation;
         }
 
+        /**
+         * A custom price (e.g. a free gift at 0 DH from the cart
+         * promotions) is authoritative: never reset it to the
+         * product price.
+         */
+        if (! is_null($item->custom_price)) {
+            return $validation;
+        }
+
         $basePrice = round($this->getFinalPrice($item->quantity), 4);
 
         /**

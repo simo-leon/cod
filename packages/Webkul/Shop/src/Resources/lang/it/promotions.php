@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'free_delivery_title' => 'Free delivery',
+    'free_delivery_remaining' => 'Only :amount left for free delivery',
+    'free_delivery_unlocked' => 'You unlocked free delivery!',
+    'gift_title' => 'Your free gift',
+    'gift_choose' => 'Choose your free gift',
+    'gift_remaining' => 'Only :amount left for your free gift',
+    'gift_unlocked' => 'You unlocked a free gift!',
+    'gift_add_and_win' => 'Add & win',
+    'gift_free' => 'FREE',
+    'gift_badge' => 'Gift',
+    'gift_max_price' => 'Gifts under :amount',
+    'gift_empty' => 'No gift available in this price range.',
+    'next_tier' => 'Next gift at :amount',
+    'gift-added' => 'Your free gift was added to the cart.',
+    'tier-locked' => 'This gift tier is not unlocked yet.',
+    'already-gifted' => 'You already picked a gift for this tier.',
+    'invalid-tier' => 'This gift tier does not exist.',
+    'invalid-product' => 'This product cannot be a gift.',
+    'not-eligible' => 'This product is not part of the gift offers.',
+    'over-cap' => 'This gift costs more than the tier allows.',
+    'out-of-stock' => 'This gift is out of stock.',
+    'disabled' => 'Gift offers are disabled.',
+    'empty-cart' => 'Your cart is empty.',
+];

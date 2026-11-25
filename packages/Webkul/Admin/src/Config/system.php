@@ -907,6 +907,86 @@ return [
     ], [
 
         /**
+         * Cart Promotions — free delivery threshold + tiered free gifts
+         * (fouprix-style progress bars and gift picker on the cart and
+         * checkout pages). Everything is editable here; nothing is
+         * hard-coded. A gift tier is disabled when its threshold is 0.
+         * Example defaults: free delivery from 300 DH, gift 1 from
+         * 400 DH (gift under 50 DH), gift 2 from 700 DH (gift under
+         * 100 DH).
+         */
+        'key' => 'general.promotions',
+        'name' => 'admin::app.configuration.index.general.promotions.title',
+        'info' => 'admin::app.configuration.index.general.promotions.info',
+        'icon' => 'settings/checkout.svg',
+        'sort' => 10,
+    ], [
+        'key' => 'general.promotions.settings',
+        'name' => 'admin::app.configuration.index.general.promotions.settings.title',
+        'info' => 'admin::app.configuration.index.general.promotions.settings.title-info',
+        'sort' => 1,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.status',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.status-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'free_delivery_threshold',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.free-delivery-threshold',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.free-delivery-threshold-info',
+                'type' => 'number',
+                'default' => 300,
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_1_threshold',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-1-threshold',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-1-threshold-info',
+                'type' => 'number',
+                'default' => 400,
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_1_max_price',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-1-max-price',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-1-max-price-info',
+                'type' => 'number',
+                'default' => 50,
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_2_threshold',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-2-threshold',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-2-threshold-info',
+                'type' => 'number',
+                'default' => 700,
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_2_max_price',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-2-max-price',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-2-max-price-info',
+                'type' => 'number',
+                'default' => 100,
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_3_threshold',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-3-threshold',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-3-threshold-info',
+                'type' => 'number',
+                'default' => 0,
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_3_max_price',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-3-max-price',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-3-max-price-info',
+                'type' => 'number',
+                'default' => 0,
+                'channel_based' => true,
+            ],
+        ],
+    ], [
+
+        /**
          * COD System — WhatsApp (phase 4).
          *
          * Provider choice: Meta (official WhatsApp Cloud API, for

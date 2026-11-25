@@ -64,6 +64,33 @@
                     </p>
 
                     {!! view_render_event('bagisto.shop.checkout.mini-cart.drawer.header.after') !!}
+
+                    <!-- Cart promotions: free delivery progress -->
+                    <div
+                        v-if="cart.promotions && cart.promotions.enabled"
+                        class="mt-3 rounded-lg border border-zinc-200 bg-white p-3"
+                    >
+                        <p
+                            v-if="cart.promotions.free_delivery.unlocked"
+                            class="text-xs font-semibold text-green-600"
+                        >
+                            @lang('shop::promotions.free_delivery_unlocked')
+                        </p>
+
+                        <p
+                            v-else
+                            class="text-xs text-zinc-600"
+                        >
+                            @{{ "@lang('shop::promotions.free_delivery_remaining')".replace(':amount', cart.promotions.free_delivery.formatted_remaining) }}
+                        </p>
+
+                        <div class="mt-2 h-2 w-full overflow-hidden rounded-full bg-zinc-200">
+                            <div
+                                class="h-full rounded-full bg-blue-600 transition-all duration-300"
+                                :style="{ width: cart.promotions.free_delivery.progress + '%' }"
+                            ></div>
+                        </div>
+                    </div>
                 </x-slot>
 
                 <!-- Drawer Content -->

@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'free_delivery_title' => 'التوصيل المجاني',
+    'free_delivery_remaining' => 'بقي غير :amount للتوصيل المجاني',
+    'free_delivery_unlocked' => 'ربحت التوصيل المجاني!',
+    'gift_title' => 'الهدية ديالك',
+    'gift_choose' => 'اختار الهدية ديالك',
+    'gift_remaining' => 'بقي غير :amount للهدية ديالك',
+    'gift_unlocked' => 'ربحت هدية مجانية!',
+    'gift_add_and_win' => 'زيد و ربح',
+    'gift_free' => 'مجاني',
+    'gift_badge' => 'هدية',
+    'gift_max_price' => 'هدايا أقل من :amount',
+    'gift_empty' => 'ما كاينة حتى هدية فهاد الثمن.',
+    'next_tier' => 'الهدية الجاية فـ :amount',
+    'gift-added' => 'تزادت الهدية ديالك للسلة.',
+    'tier-locked' => 'هاد الشريحة باقي ما وصلتيش ليها.',
+    'already-gifted' => 'خديتي هدية لهاد الشريحة.',
+    'invalid-tier' => 'هاد الشريحة ما كايناش.',
+    'invalid-product' => 'هاد المنتج ما يمكنش يكون هدية.',
+    'not-eligible' => 'هاد المنتج ما داخلش فعروض الهدايا.',
+    'over-cap' => 'هاد الهدية غالية على سقف الشريحة.',
+    'out-of-stock' => 'هاد الهدية ما كايناش فالمخزون.',
+    'disabled' => 'عروض الهدايا معطلة.',
+    'empty-cart' => 'السلة ديالك خاوية.',
+];

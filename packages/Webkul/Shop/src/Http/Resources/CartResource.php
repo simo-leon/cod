@@ -2,6 +2,7 @@
 
 namespace Webkul\Shop\Http\Resources;
 
+use App\Services\Promotions\PromotionServiceInterface;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Webkul\Tax\Facades\Tax;
@@ -70,6 +71,7 @@ class CartResource extends JsonResource
             'have_stockable_items' => $this->haveStockableItems(),
             'payment_method' => $this->payment?->method,
             'payment_method_title' => core()->getConfigData('sales.payment_methods.'.$this->payment?->method.'.title'),
+            'promotions' => app(PromotionServiceInterface::class)->toArray($this->resource),
         ];
     }
 }

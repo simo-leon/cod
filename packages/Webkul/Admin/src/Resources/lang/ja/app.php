@@ -212,6 +212,17 @@ return [
     ],
 
     'cod' => [
+        'promotions' => [
+            'product-card' => [
+                'title' => 'Free Gift Offer',
+                'eligible' => 'Eligible as a free gift',
+                'eligible-info' => 'When checked, this product can be offered as a free gift when the cart reaches a gift tier and the product price is within the tier cap. Uncheck to exclude it from the gift picker.',
+                'eligible-yes' => 'This product can be offered as a free gift.',
+                'eligible-no' => 'This product is excluded from the gift offers.',
+                'save' => 'Save gift setting',
+                'saved' => 'Gift setting saved.',
+            ],
+        ],
         'orders' => [
             'title' => 'COD Orders',
             'subtitle' => 'Store orders imported into the COD System, with their confirmation status.',
@@ -4861,6 +4872,7 @@ return [
                         'title' => 'ファイル制限',
                     ],
                 ],
+
                 'krayin-crm' => [
                     'title' => 'Krayin CRM',
                     'info' => 'Integrate and synchronize store orders and customers with Krayin CRM.',
@@ -5066,6 +5078,30 @@ return [
                         'default-product-cost-info' => 'Cost of one unit of a product, used when no cost is entered for its SKU below. Leave empty if costs differ per product — enter them per SKU below.',
                         'product-costs' => 'Product Costs per SKU',
                         'product-costs-info' => 'One line per product: SKU=cost in DH per unit, e.g. W8=120. A cost entered here overrides the default product cost for that SKU. The SKU must match the one in the orders exactly.',
+                    ],
+                ],
+                'promotions' => [
+                    'title' => 'Cart Promotions',
+                    'info' => 'Free delivery threshold and tiered free gifts shown on the cart and checkout pages.',
+                    'settings' => [
+                        'title' => 'Cart Promotions Settings',
+                        'title-info' => 'These settings apply to this channel only.',
+                        'status' => 'Enable Cart Promotions',
+                        'status-info' => 'Show the free-delivery progress bar and the free-gift picker on the cart and checkout pages.',
+                        'free-delivery-threshold' => 'Free Delivery From (DH)',
+                        'free-delivery-threshold-info' => 'Cart total (without gifts) from which delivery is free. Example: 300.',
+                        'tier-1-threshold' => 'Gift 1 — Cart Total From (DH)',
+                        'tier-1-threshold-info' => 'Cart total from which the customer may choose gift 1. Set to 0 to disable this tier. Example: 400.',
+                        'tier-1-max-price' => 'Gift 1 — Maximum Gift Price (DH)',
+                        'tier-1-max-price-info' => 'Only products priced at or under this amount can be chosen as gift 1. Example: 50.',
+                        'tier-2-threshold' => 'Gift 2 — Cart Total From (DH)',
+                        'tier-2-threshold-info' => 'Cart total from which the customer may choose gift 2. Set to 0 to disable this tier. Example: 700.',
+                        'tier-2-max-price' => 'Gift 2 — Maximum Gift Price (DH)',
+                        'tier-2-max-price-info' => 'Only products priced at or under this amount can be chosen as gift 2. Example: 100.',
+                        'tier-3-threshold' => 'Gift 3 — Cart Total From (DH)',
+                        'tier-3-threshold-info' => 'Cart total from which the customer may choose gift 3. Set to 0 to disable this tier. Example: 0 (disabled).',
+                        'tier-3-max-price' => 'Gift 3 — Maximum Gift Price (DH)',
+                        'tier-3-max-price-info' => 'Only products priced at or under this amount can be chosen as gift 3.',
                     ],
                 ],
 

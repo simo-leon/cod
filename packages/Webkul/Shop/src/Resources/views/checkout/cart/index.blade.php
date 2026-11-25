@@ -166,6 +166,9 @@
 
                             {!! view_render_event('bagisto.shop.checkout.cart.cart_mass_actions.after') !!}
 
+                            <!-- Cart promotions: free delivery + free gifts -->
+                            @include('shop::checkout.promotions')
+
                             {!! view_render_event('bagisto.shop.checkout.cart.item.listing.before') !!}
 
                             <!-- Cart Item Listing Container -->
@@ -219,6 +222,13 @@
                                                     @{{ item.name }}
                                                 </p>
                                             </a>
+
+                                            <span
+                                                v-if="item.is_gift"
+                                                class="w-max rounded bg-green-600 px-2 py-0.5 text-[11px] font-bold text-white"
+                                            >
+                                                @lang('shop::promotions.gift_badge')
+                                            </span>
 
                                             {!! view_render_event('bagisto.shop.checkout.cart.item_name.after') !!}
 
@@ -605,6 +615,30 @@
                                     .catch(error => {});
                             }
                         });
+                    },
+
+                    addGift(productId) {
+                        if (! this.cart.promotions?.current_tier) {
+                            return;
+                        }
+
+                        this.$axios.post('{{ route('shop.api.checkout.cart.gift.store') }}', {
+                                product_id: productId,
+                                tier: this.cart.promotions.current_tier.tier,
+                            })
+                            .then(response => {
+                                this.cart = response.data.data;
+
+                                this.$emitter.emit('update-mini-cart', response.data.data);
+
+                                this.$emitter.emit('add-flash', { type: 'success', message: response.data.message });
+                            })
+                            .catch(error => {
+                                this.$emitter.emit('add-flash', {
+                                    type: 'error',
+                                    message: error.response?.data?.message,
+                                });
+                            });
                     },
 
                     moveToWishlistSelectedItems() {

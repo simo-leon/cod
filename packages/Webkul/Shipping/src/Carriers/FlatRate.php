@@ -2,6 +2,7 @@
 
 namespace Webkul\Shipping\Carriers;
 
+use App\Services\Promotions\PromotionServiceInterface;
 use Webkul\Checkout\Facades\Cart;
 use Webkul\Checkout\Models\CartShippingRate;
 
@@ -64,6 +65,35 @@ class FlatRate extends AbstractShipping
             $cartShippingRate->base_price = $this->getConfigData('default_rate');
         }
 
+        /**
+         * Cart promotions: free delivery from the admin threshold —
+         * the flat rate becomes 0 DH. The streamlined checkout
+         * auto-selects this first rate, so the customer pays no
+         * delivery fee and the order total shows 0 shipping.
+         */
+        if ($cart && $this->isFreeDelivery($cart)) {
+            $cartShippingRate->price = 0;
+            $cartShippingRate->base_price = 0;
+        }
+
         return $cartShippingRate;
+    }
+
+    /**
+     * Is delivery free for this cart under the cart promotions?
+     */
+    protected function isFreeDelivery($cart): bool
+    {
+        if (! app()->bound(PromotionServiceInterface::class)) {
+            return false;
+        }
+
+        try {
+            return app(PromotionServiceInterface::class)->isFreeDelivery($cart);
+        } catch (\Throwable $e) {
+            report($e);
+
+            return false;
+        }
     }
 }

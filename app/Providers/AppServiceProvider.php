@@ -7,8 +7,10 @@ use App\Listeners\AssignZeroStockToSouk;
 use App\Listeners\ImportOrderToCod;
 use App\Listeners\KrayinCrmListener;
 use App\Listeners\SendOrderToDeliveryProvider;
+use App\Listeners\SyncCartPromotions;
 use App\Models\CodOrder;
 use App\Models\OrderStatusHistory;
+use App\Services\Promotions\PromotionServiceInterface;
 use Barryvdh\Debugbar\Facades\Debugbar;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Auth;
@@ -114,6 +116,11 @@ class AppServiceProvider extends ServiceProvider
         Event::listen('eloquent.created: App\Models\CodOrder', [AssignZeroStockToSouk::class, 'handleCodOrderConfirmed']);
         Event::listen('eloquent.updated: App\Models\CodOrder', [AssignZeroStockToSouk::class, 'handleCodOrderConfirmed']);
 
+        // Cart promotions (free delivery + tiered free gifts): enforce
+        // the rules on every totals collection — drop stale gifts,
+        // force gift prices to 0, zero the delivery fee when free.
+        Event::listen('checkout.cart.collect.totals.before', [SyncCartPromotions::class, 'handle']);
+
         // Souk sourcing card on the admin product edit page (after
         // the product form): current stock, effective mode, and the
         // mode / cap / margin form.
@@ -133,6 +140,23 @@ class AppServiceProvider extends ServiceProvider
                 'effectiveMode' => $souk->effectiveMode($product),
                 'openTask' => $souk->openTaskForProduct((int) $product->id),
                 'canEditSourcing' => bouncer()->hasPermission('cod.souk'),
+            ]);
+        });
+
+        // Cart promotions card on the admin product edit page (after
+        // the product form): whether the product may be offered as a
+        // free gift.
+        Event::listen('bagisto.admin.catalog.product.edit.after', function (ViewRenderEventManager $manager) {
+            $product = $manager->getParam('product');
+
+            if (! $product) {
+                return;
+            }
+
+            $manager->addTemplate('admin::cod.promotion-product-card', [
+                'product' => $product,
+                'eligible' => app(PromotionServiceInterface::class)->isEligibleAsGift((int) $product->id),
+                'canEditPromotions' => bouncer()->hasPermission('catalog.products.edit'),
             ]);
         });
 

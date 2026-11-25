@@ -77,6 +77,8 @@
                     <!-- Included Checkout Summary Blade File For Mobile view -->
                     <div class="hidden max-md:order-2 max-md:block">
                         @include('shop::checkout.onepage.summary')
+
+                        @include('shop::checkout.promotions')
                     </div>
 
                     <div
@@ -97,6 +99,8 @@
                     <div class="sticky top-6 block h-max w-full max-w-[400px] rounded-xl border border-zinc-200 bg-white p-6 shadow-sm max-lg:static max-lg:max-w-full max-md:order-3 max-md:p-4">
                         <div class="block max-md:hidden">
                             @include('shop::checkout.onepage.summary')
+
+                            @include('shop::checkout.promotions')
                         </div>
 
                         <div
@@ -173,6 +177,41 @@
                                 this.canPlaceOrder = true;
 
                                 this.scrollToCurrentStep();
+                            })
+                            .catch(error => {});
+                    },
+
+                    addGift(productId) {
+                        if (! this.cart?.promotions?.current_tier) {
+                            return;
+                        }
+
+                        this.$axios.post('{{ route('shop.api.checkout.cart.gift.store') }}', {
+                                product_id: productId,
+                                tier: this.cart.promotions.current_tier.tier,
+                            })
+                            .then(response => {
+                                this.cart = response.data.data;
+
+                                this.$emitter.emit('add-flash', { type: 'success', message: response.data.message });
+                            })
+                            .catch(error => {
+                                this.$emitter.emit('add-flash', {
+                                    type: 'error',
+                                    message: error.response?.data?.message,
+                                });
+                            });
+                    },
+
+                    removeItem(itemId) {
+                        this.$axios.post('{{ route('shop.api.checkout.cart.destroy') }}', {
+                                '_method': 'DELETE',
+                                'cart_item_id': itemId,
+                            })
+                            .then(response => {
+                                this.cart = response.data.data;
+
+                                this.$emitter.emit('add-flash', { type: 'success', message: response.data.message });
                             })
                             .catch(error => {});
                     },

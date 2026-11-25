@@ -35,7 +35,11 @@ class CartItemResource extends JsonResource
             'base_image' => $this->getTypeInstance()->getBaseImage($this),
             'product_url_key' => $this->product->url_key,
             'options' => $this->formatAdditionalAttributes(),
-            'can_change_qty' => $this->product ? $this->product->getTypeInstance()->showQuantityBox() : false,
+            'can_change_qty' => ($this->resource->additional['is_gift'] ?? false)
+                ? false
+                : ($this->product ? $this->product->getTypeInstance()->showQuantityBox() : false),
+            'is_gift' => (bool) ($this->resource->additional['is_gift'] ?? false),
+            'gift_tier' => (int) ($this->resource->additional['gift_tier'] ?? 0),
         ];
     }
 

@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'free_delivery_title' => 'Livraison gratuite',
+    'free_delivery_remaining' => 'Plus que :amount pour la livraison gratuite',
+    'free_delivery_unlocked' => 'Vous avez débloqué la livraison gratuite !',
+    'gift_title' => 'Votre cadeau offert',
+    'gift_choose' => 'Choisissez votre cadeau offert',
+    'gift_remaining' => 'Plus que :amount pour votre cadeau offert',
+    'gift_unlocked' => 'Vous avez débloqué un cadeau offert !',
+    'gift_add_and_win' => 'Ajouter et gagner',
+    'gift_free' => 'GRATUIT',
+    'gift_badge' => 'Cadeau',
+    'gift_max_price' => 'Cadeaux de moins de :amount',
+    'gift_empty' => 'Aucun cadeau disponible dans cette gamme de prix.',
+    'next_tier' => 'Prochain cadeau à :amount',
+    'gift-added' => 'Votre cadeau offert a été ajouté au panier.',
+    'tier-locked' => 'Ce palier cadeau n’est pas encore débloqué.',
+    'already-gifted' => 'Vous avez déjà choisi un cadeau pour ce palier.',
+    'invalid-tier' => 'Ce palier cadeau n’existe pas.',
+    'invalid-product' => 'Ce produit ne peut pas être offert en cadeau.',
+    'not-eligible' => 'Ce produit ne fait pas partie des offres cadeaux.',
+    'over-cap' => 'Ce cadeau coûte plus que la limite du palier.',
+    'out-of-stock' => 'Ce cadeau est en rupture de stock.',
+    'disabled' => 'Les offres cadeaux sont désactivées.',
+    'empty-cart' => 'Votre panier est vide.',
+];
