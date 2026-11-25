@@ -1,0 +1,25 @@
+{
+ "built_from": [
+  "new: 56 from jeutopia-new-products.json",
+  "uncertain: 6 from jeutopia-uncertain.json"
+ ],
+ "total_products": 62,
+ "batched": 62,
+ "held_no_category": 0,
+ "keyword_guessed": 10,
+ "desc_images_added": 0,
+ "empty_description": [],
+ "oversized_images_dropped": [],
+ "name_too_long": [],
+ "no_image": [],
+ "unmapped_types": {},
+ "batch_files": [
+  "bulk-001.json",
+  "bulk-002.json",
+  "bulk-003.json",
+  "bulk-004.json",
+  "bulk-005.json",
+  "bulk-006.json",
+  "bulk-007.json"
+ ]
+}

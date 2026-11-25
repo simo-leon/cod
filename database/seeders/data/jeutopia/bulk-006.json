@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "jeutopia-15904119652433",
+   "price": 75.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jenga",
+     "description": "☀️🪵 Tour en Bois 54 Pièces – Jeu d'Équilibre 🎲\n\n🌴 Profitez de notre Offre Spéciale Été ! Relevez le défi avec cette tour en bois de 54 pièces et partagez des moments de rire en famille ou entre amis. Retirez les blocs un à un... sans faire tomber la tour ! 🤩\n\n✨ Offre spéciale été à prix exceptionnel ☀️🪵 54 blocs en bois de qualité🎲 Dés inclus pour encore plus de défis🧠 Développe la concentration, la logique et la coordination👨👩👧👦 Idéal pour les vacances, les soirées et les moments en famille 🌴🎉",
+     "short_description": "☀️🪵 Tour en Bois 54 Pièces – Jeu d'Équilibre 🎲"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/jenga_sans_cm_e31473da-5217-4084-9630-4f773ff81f37.png?v=1789091273"
+   ]
+  },
+  {
+   "sku": "jeutopia-15904119554129",
+   "price": 89.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Geometry Puzzle",
+     "description": "☀️🧩 Élastique Geometry Chess – Jeu de Logique 🎯\n\n🌴 Profitez de notre Offre Spéciale Été ! Stimulez la réflexion et la créativité avec Rubber Band Geometry Chess, un jeu éducatif qui permet aux enfants d'apprendre les formes géométriques tout en s'amusant. 🤩\n\n✨ Offre spéciale été à prix exceptionnel ☀️🧠 Développe la logique, la concentration et la réflexion📐 Apprentissage ludique des formes géométriques🎮 Jeu interactif pour jouer en famille ou entre amis👶 Convient aux enfants dès 3 ans👨👩👧👦 Idéal pour les vacances, les soirées et les moments en famille 🌴🎉",
+     "short_description": "☀️🧩 Élastique Geometry Chess – Jeu de Logique 🎯"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/Geometry_V2.png?v=1791419327"
+   ]
+  },
+  {
+   "sku": "jeutopia-15904119521361",
+   "price": 99.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Forklift",
+     "description": "🚜 Forklift Challenge – Le Jeu de Rapidité et de Coordination 🎯\n\nRelevez le défi avec Forklift Challenge ! 🤩 Utilisez votre chariot élévateur pour empiler les anneaux en suivant les cartes de défi. Le premier à réussir son empilement et à appuyer sur la sonnette remporte la partie ! 🔔 Un jeu amusant qui développe la coordination, la rapidité et la concentration.\n\n✨ 2 chariots élévateurs inclus 🚜🟢 Anneaux colorés à empiler🃏 Cartes de défis pour varier les parties🔔 Sonnette incluse pour des parties encore plus fun🧠 Développe la coordination, la motricité et les réflexes👨👩👧👦 Idéal pour jouer en famille ou entre amis",
+     "short_description": "🚜 Forklift Challenge – Le Jeu de Rapidité et de Coordination 🎯"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/Forklift_1.png?v=1785080069"
+   ]
+  },
+  {
+   "sku": "jeutopia-15904119488593",
+   "price": 65.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Éducation Bilingue (Arabe - Français)",
+     "description": "📚 Appareil Éducatif Interactif – Apprendre en S'Amusant 🎓\n\nTransformez l'apprentissage en une expérience ludique avec cet appareil éducatif interactif ! Grâce à ses cartes illustrées et à la prononciation audio, les enfants découvrent facilement les mots, les animaux, les objets et bien plus encore. 🤩\n\n✨ Prononciation audio des mots 🔊🧠 Développe le vocabulaire, la mémoire et la concentration🎨 Cartes éducatives colorées et faciles à utiliser📖 Favorise l'apprentissage tout en s'amusant🎁 Une excellente idée cadeau pour les petits apprenants 🌟",
+     "short_description": "📚 Appareil Éducatif Interactif – Apprendre en S'Amusant 🎓"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/Jouet_educatif_bilingue_Arabe_Francais.png?v=1795612513"
+   ]
+  },
+  {
+   "sku": "jeutopia-15904119291985",
+   "price": 35.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connect 4",
+     "description": "🎯 Connect 4 – Le jeu stratégique pour toute la famille !\nAffrontez vos amis ou vos proches dans ce classique incontournable 🎲. Faites preuve de stratégie et soyez le premier à aligner 4 jetons de la même couleur pour gagner 🏆. Simple à apprendre, mais passionnant à maîtriser, Connect 4 promet des heures de fun et de compétition saine 👨👩👧👦. Idéal pour les enfants à partir de 6 ans et parfait pour les soirées en famille ou entre amis !\n\n💡 Caractéristiques :\n\nJeu pour 2 joueurs 🎮\nFacile à installer et à ranger 🧩\nStimule la réflexion et la concentration 🧠\n📦 Livraison rapide et service client disponible 😊.",
+     "short_description": "🎯 Connect 4 – Le jeu stratégique pour toute la famille ! Affrontez vos amis ou vos proches dans ce classique incontournable 🎲."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/Connect4_z458fc.png?v=1783956412"
+   ]
+  },
+  {
+   "sku": "jeutopia-15904119226449",
+   "price": 25.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chess 3 en 1 Petit",
+     "description": "♟️ Chess 3 en 1 – Jeu de Stratégie Pliable\n\nProfitez de 3 jeux classiques en un seul coffret :\n✔️ Échecs\n✔️ Dames\n✔️ Backgammon\n\nPlateau pliable et compact, facile à ranger et à transporter. Parfait pour jouer en famille, entre amis ou en voyage.\n\n👨👩👧👦 Pour enfants et adultes\n🚚 Livraison disponible partout au Maroc\n\nUn indispensable pour des heures de réflexion et de divertissement ! ♟️✨",
+     "short_description": "♟️ Chess 3 en 1 – Jeu de Stratégie Pliable"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/Promotion_Black_Friday_Jeutopia_3-en-1.png?v=1794443325"
+   ]
+  },
+  {
+   "sku": "jeutopia-16384212467793",
+   "price": 149.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Enceinte Bluetooth",
+     "description": "🎤 Enceinte Bluetooth Ourson avec Micro – Lumières RGB\n\nOffrez à vos enfants un véritable mini karaoké avec cette adorable enceinte en forme d’ourson ! 🧸🎶\n\n✨ Lumières RGB multicolores pour une ambiance festive \n🎤 Microphone inclus pour chanter et s’amuser\n🔊 Connexion Bluetooth pour écouter leurs chansons préférées\n🎵 Design adorable avec un ourson lumineux\n🔋 Batterie rechargeable pour profiter de la musique\n🎁 Idéal comme cadeau pour les petits fans de musique !\n\n🎶 Chanter, danser et s’amuser : le mini karaoké parfait pour les enfants !",
+     "short_description": "🎤 Enceinte Bluetooth Ourson avec Micro – Lumières RGB"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/EnceinteoursonRGBavecmicrophoneetlogoJeutopia.png?v=1792341840"
+   ]
+  },
+  {
+   "sku": "jeutopia-16374911696977",
+   "price": 175.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de Tir Flottant Dark Shot",
+     "description": "🚀 Jeu de Tir Flottant Dark Shot 🎯\n\nUn jeu de tir amusant et futuriste pour des moments de fun en famille ! Visez les cibles flottantes avec le pistolet inclus et testez votre précision grâce à ses 2 modes de jeu. ✨\n\n✅ Cibles flottantes lumineuses\n✅ 2 modes de jeu\n✅ Pistolet et balles inclus\n\n🎁 Le cadeau idéal pour les petits amateurs de défis !",
+     "short_description": "🚀 Jeu de Tir Flottant Dark Shot 🎯"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/JeudetirflottantDarkShot.png?v=1792103113"
+   ]
+  },
+  {
+   "sku": "jeutopia-16327797702737",
+   "price": 135.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Voiture Télécommandée 4*4",
+     "description": "Voiture Télécommandée Rechargeable 1:14\n\nOffrez aux enfants une expérience de conduite amusante avec cette voiture télécommandée Rechargeable Super Racing Car au design sportif et réaliste. 🏎️🔥\n\nDisponible en 2 coloris : Noir et Blanc.\n\n✨ Caractéristiques :\n\n🎮 Télécommande incluse\n\n🚗 Design SUV sportif et réaliste\n\n↔️ Contrôle à distance pour diriger la voiture\n\n🛞 Grandes roues adaptées au jeu\n\n📏 Échelle 1:14\n\n⚫ Disponible en Noir\n\n⚪ Disponible en Blanc",
+     "short_description": "Voiture Télécommandée Rechargeable 1:14"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/WhatsAppImage2026-09-22at14.50.05.jpg?v=1790083240",
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/WhatsApp_Image_2026-09-22_at_14.50.04_1.jpg?v=1790083258"
+   ]
+  },
+  {
+   "sku": "jeutopia-15904122929233",
+   "price": 120.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fléchettes Magnétique",
+     "description": "Jeu de Fléchettes Magnétique\n\nTestez votre précision et défiez vos proches avec ce jeu de fléchettes magnétique. Facile à installer, il permet de jouer en toute sécurité grâce à ses fléchettes aimantées.\n\n🎯 Développe la précision et la concentration\n🧲 Fléchettes magnétiques sécurisées\n👨👩👧 Jouable seul ou à plusieurs\n🏠 Pour une utilisation en intérieur ou en extérieur\n👦 Dès 3 ans",
+     "short_description": "Jeu de Fléchettes Magnétique"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/Flechette.png?v=1785802807"
+   ]
+  }
+ ]
+}

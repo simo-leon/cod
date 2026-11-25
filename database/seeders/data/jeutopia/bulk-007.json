@@ -1,0 +1,42 @@
+{
+ "products": [
+  {
+   "sku": "jeutopia-15769120702545",
+   "price": 179.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack DUO – Hélicoptère + Voiture",
+     "description": "🚁🏎️ Pack Duo Télécommandé – Hélicoptère + Voiture RC\n\nFaites plaisir aux petits passionnés de vitesse et d’aventure avec ce Pack Duo 2 en 1 composé d’un hélicoptère télécommandé et d’une voiture RC sportive ! 🎮🔥\n\nDeux jouets télécommandés réunis dans un seul pack pour offrir encore plus de fun et de possibilités de jeu. L’enfant peut passer de la conduite au pilotage et développer sa coordination tout en s’amusant.\n\n✨ Les points forts :\n\n🚁 Hélicoptère télécommandé pour des moments de pilotage amusants\n🏎️ Voiture RC rapide au design sportif\n🔋 Produits rechargeables pour profiter du jeu encore et encore\n🧠 Développe la coordination, la concentration et les réflexes\n🎁 Pack idéal comme cadeau\n\n📦 Le pack comprend :\n\n1 hélicoptère télécommandé\n1 voiture télécommandée\n1 télécommande pour l’hélicoptère\n1 volant/télécommande pour la voiture\nAccessoires de recharge\n\n☀️ Offre spéciale été : 179 DH seulement\n🚚 Livraison gratuite\n\nUn seul pack, deux jouets, deux expériences… et beaucoup plus de plaisir ! 🚁🏎️",
+     "short_description": "🚁🏎️ Pack Duo Télécommandé – Hélicoptère + Voiture RC"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/BlackFridayFreeDeliveryDeal.png?v=1794444856"
+   ]
+  },
+  {
+   "sku": "jeutopia-16334985887825",
+   "price": 199.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Avion Acrobatique RC 360°",
+     "description": "✈️ Avion Acrobatique RC 360°\n\nDécouvrez cet avion télécommandé acrobatique rechargeable conçu pour offrir des moments de jeu pleins d’action ! Grâce à ses 4 moteurs, sa rotation à 360° et ses lumières LED, il permet de réaliser différentes figures et de profiter d’une expérience de pilotage amusante et dynamique. 🎮🚀\n\nSon design original et sa télécommande facile à utiliser en font un excellent cadeau pour les enfants et les amateurs de jouets télécommandés.\n\n🔋 Batterie Rechargeable🎮 Télécommande incluse🔄 Rotation 360°⚙️ 4 moteurs💡 Lumières LED",
+     "short_description": "✈️ Avion Acrobatique RC 360°"
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/1034/2662/1521/files/WhatsApp_Image_2026-11-11_at_23.49.44.jpg?v=1794444503"
+   ]
+  }
+ ]
+}
