@@ -1,0 +1,212 @@
+{
+ "products": [
+  {
+   "sku": "nove-10385304682693",
+   "price": 3499.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Redmi Note 17 5G 8GB 256GB",
+     "description": "Découvrez le Redmi Note 17 5G 8GB 256GB, un smartphone conçu pour vous accompagner au quotidien. Sa configuration 8GB 256GB offre une base adaptée à vos applications, à vos échanges et à vos contenus. Un choix pratique pour profiter d’une expérience mobile polyvalente, à la maison comme en déplacement.",
+     "short_description": "Découvrez le Redmi Note 17 5G 8GB 256GB, un smartphone conçu pour vous accompagner au quotidien. Sa configuration 8GB 256GB offre une base adaptée à vos applications, à vos échanges et à vos contenus."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/1_b7e7ede8-68ce-4e80-8c56-bf28a8420d91.jpg?v=1793117432",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/bg-screen01_f05b3736-18fd-446a-a1d9-5305f99210c3.png?v=1793117439"
+   ]
+  },
+  {
+   "sku": "nove-10385304617157",
+   "price": 2429.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Redmi 17 4GB 256GB",
+     "description": "Découvrez le Redmi 17 4GB 256GB, un smartphone conçu pour vous accompagner au quotidien. Sa configuration 4GB 256GB offre une base adaptée à vos applications, à vos échanges et à vos contenus. Un choix pratique pour profiter d’une expérience mobile polyvalente, à la maison comme en déplacement.",
+     "short_description": "Découvrez le Redmi 17 4GB 256GB, un smartphone conçu pour vous accompagner au quotidien. Sa configuration 4GB 256GB offre une base adaptée à vos applications, à vos échanges et à vos contenus."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/1_a4fa254d-4106-46a8-ad5d-fb759a3b0ab1.jpg?v=1793117455",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/xiaomiredmi174g-q82-w2560-h.webp?v=1793117464"
+   ]
+  },
+  {
+   "sku": "nove-10385304486085",
+   "price": 2059.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Redmi 17 4GB 128GB",
+     "description": "Découvrez le Redmi 17 4GB 128GB, un smartphone conçu pour vous accompagner au quotidien. Sa configuration 4GB 128GB offre une base adaptée à vos applications, à vos échanges et à vos contenus. Un choix pratique pour profiter d’une expérience mobile polyvalente, à la maison comme en déplacement.",
+     "short_description": "Découvrez le Redmi 17 4GB 128GB, un smartphone conçu pour vous accompagner au quotidien. Sa configuration 4GB 128GB offre une base adaptée à vos applications, à vos échanges et à vos contenus."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/1_6a6f83b5-a66e-4afc-a56f-f5766e886a80.jpg?v=1793117477",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/xiaomiredmi174g-q82-w2560-h_520635cd-7e65-4ef2-bbbb-dc970ea7971f.webp?v=1793117482"
+   ]
+  },
+  {
+   "sku": "nove-10385305174213",
+   "price": 2099.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "REDMI Pad 2 9.7 4G 4GB 128GB",
+     "description": "La REDMI Pad 2 9.7 4G associe un format pratique à une connectivité mobile et une capacité de stockage de 128 Go. Elle convient à la consultation de contenus, à la navigation, aux applications du quotidien et aux loisirs numériques, à la maison comme en déplacement.",
+     "short_description": "La REDMI Pad 2 9.7 4G associe un format pratique à une connectivité mobile et une capacité de stockage de 128 Go."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/Xiaomi-Redmi-Pad-2-9.7.webp?v=1793117264",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/89f70ae0ee4a7f2dc2942f02f670cc0c.png?v=1793117270"
+   ]
+  },
+  {
+   "sku": "nove-10385305043141",
+   "price": 400.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Redmi Smart Pen 1S",
+     "description": "Le Redmi Smart Pen 1S vous permet d’interagir avec votre tablette de façon plus naturelle. Il convient à la prise de notes, à l’annotation de documents et au dessin, pour accompagner vos activités créatives ou productives compatibles.",
+     "short_description": "Le Redmi Smart Pen 1S vous permet d’interagir avec votre tablette de façon plus naturelle."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/61b7eadcba7d1975ddf951043b8458ac.png?v=1793117289",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/jpg_1.webp?v=1793117293",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/jpg_3.webp?v=1793117304"
+   ]
+  },
+  {
+   "sku": "nove-10385304977605",
+   "price": 500.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Redmi Pad 2 Pro Keyboard French",
+     "description": "Optimisez l’utilisation de votre tablette avec ce clavier Redmi Pad 2 Pro en disposition française. Il facilite la saisie de textes, la rédaction de documents et le travail au quotidien, pour une expérience plus confortable lors des études ou des tâches professionnelles.",
+     "short_description": "Optimisez l’utilisation de votre tablette avec ce clavier Redmi Pad 2 Pro en disposition française."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/clavier-xiaomi-redmi-pad-2-pro-keyboard-french-mise-en-avant.webp?v=1793117340",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/1Redmi-Pad-2-Pro-Keyboard-3.webp?v=1793117315",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/0c154756baa6df3de17bc97f2b605358.jpg?v=1793117321"
+   ]
+  },
+  {
+   "sku": "nove-10385307107525",
+   "price": 3599.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mijia Air Conditioner Eco 2.6 kW 9000BTU",
+     "description": "Le Mijia Air Conditioner Eco 2.6 kW 9000 BTU est conçu pour contribuer au confort thermique des pièces adaptées à sa capacité. Il accompagne le rafraîchissement de votre intérieur pendant les périodes chaudes. Faites vérifier le dimensionnement de la pièce et l’installation par un professionnel.",
+     "short_description": "Le Mijia Air Conditioner Eco 2.6 kW 9000 BTU est conçu pour contribuer au confort thermique des pièces adaptées à sa capacité. Il accompagne le rafraîchissement de votre intérieur pendant les périodes chaudes."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/m0006.webp?v=1793116429",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/climatiseur-xiaomi-mijia-eco-2-6-kw-1.webp?v=1793116436",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/w_800_h_800_fit_crop.avif?v=1793116440",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/w_800_h_800_fit_crop_2bfdb2d6-f590-4a10-84b1-325544f6869b.avif?v=1793116445",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/JVM003057_2.webp?v=1793116457"
+   ]
+  },
+  {
+   "sku": "nove-10385307009221",
+   "price": 700.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mi Smart Standing Fan 2 Lite (White)",
+     "description": "Le Mi Smart Standing Fan 2 Lite apporte une ventilation agréable aux espaces de vie ou de travail. Son format sur pied facilite son installation dans une pièce et permet de profiter d’un meilleur confort lors des journées chaudes.",
+     "short_description": "Le Mi Smart Standing Fan 2 Lite apporte une ventilation agréable aux espaces de vie ou de travail."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/d4cd4b72e0bd4911107e16d3c8f019fa.png?v=1793116479",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/kWPx8Awcsebh-bo24K9kG1yeFZ2dU5s-kuj7AZ0V2Fn8IWV8HMUpmKH5JobHvctB2VdMJWHcanqmMR58-gDjoKzlkxhXZA2qosE-EkHRfg6OmWVOy4hgFWF8VXh_08SAwQCUy2B7y1V06o7ICIhfdNbLUXF3XfnYCgxKzN3DQ-anOggNC8DEAYo.webp?v=1793116484",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/section05-02.png?v=1793116488",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/section05-01.png?v=1793116495"
+   ]
+  },
+  {
+   "sku": "nove-10385308156101",
+   "price": 550.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "REDMI Headphones Neo",
+     "description": "Les REDMI Headphones Neo sont conçus pour écouter de la musique, des vidéos et des contenus audio au quotidien. Leur format casque permet de profiter de vos divertissements à la maison, au travail ou en déplacement, selon les fonctions prises en charge par le modèle.",
+     "short_description": "Les REDMI Headphones Neo sont conçus pour écouter de la musique, des vidéos et des contenus audio au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/2.jpg?v=1793116055",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/e0eeccc46cf57498f3c888f5dbee0287.png?v=1793116066",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/1555-343_2x_7a4afd23-d50a-4d96-a892-d9b993e99eb2.png?v=1793116073",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/1555-440_2x_55c09b24-8cb7-4b41-afcc-8275d9ec1fbc.png?v=1793116080"
+   ]
+  },
+  {
+   "sku": "nove-10385309139141",
+   "price": 299.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mophie 30W USB-C GaN Wall Adapter",
+     "description": "Le Mophie 30W USB-C GaN Wall Adapter est un adaptateur secteur conçu pour alimenter et recharger les appareils compatibles via USB-C. Sa puissance annoncée de 30W permet une recharge adaptée aux appareils compatibles. La vitesse de charge dépend des capacités de l’appareil et du câble utilisé.",
+     "short_description": "Le Mophie 30W USB-C GaN Wall Adapter est un adaptateur secteur conçu pour alimenter et recharger les appareils compatibles via USB-C. Sa puissance annoncée de 30W permet une recharge adaptée aux appareils compatibles."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/mophie-30w-usb-c-stromadapter-vit_2.webp?v=1793114964"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "products": [
+  {
+   "sku": "nove-10385306583237",
+   "price": 2499.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Xiaomi Vacuum Cleaner G20 Max",
+     "description": "Le Xiaomi Vacuum Cleaner G20 Max est un aspirateur pensé pour l’entretien quotidien de la maison. Sa conception sans fil facilite les déplacements d’une pièce à l’autre et permet de nettoyer les zones courantes sans dépendre d’une prise électrique à proximité.",
+     "short_description": "Le Xiaomi Vacuum Cleaner G20 Max est un aspirateur pensé pour l’entretien quotidien de la maison."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/07e9e4257526cb91519824eef2f6dc72.png?v=1793116717",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/5c14e3017fe89e64b5e4c3aa3061c8a6.png?v=1793116723"
+   ]
+  },
+  {
+   "sku": "nove-10385306419397",
+   "price": 3999.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Xiaomi Wet and Dry Vacuum W30 Pro",
+     "description": "Le Xiaomi Wet and Dry Vacuum W30 Pro est conçu pour faciliter le nettoyage des sols en combinant les usages adaptés aux salissures sèches et humides. Il accompagne l’entretien régulier de la maison et aide à simplifier les routines de nettoyage des surfaces compatibles.",
+     "short_description": "Le Xiaomi Wet and Dry Vacuum W30 Pro est conçu pour faciliter le nettoyage des sols en combinant les usages adaptés aux salissures sèches et humides."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/16a9e3a4ea55ac32bed95f07ba8da832.png?v=1793116805",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/Xiaomi-Wet-and-Dry-Vacuum-W30-Pro-Gris.webp?v=1793116810",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/d5b34d319f42a847e265ae7674b3d834.png?v=1793116814",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/16abc22c5a1bdde573f20b4390940d74.png?v=1793116822"
+   ]
+  },
+  {
+   "sku": "nove-10385306910917",
+   "price": 999.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Xiaomi Cordless Pressure Washer (White)",
+     "description": "Le Xiaomi Cordless Pressure Washer est un nettoyeur haute pression sans fil conçu pour faciliter le nettoyage de surfaces et d’équipements compatibles. Sa conception portable permet de l’utiliser dans différents espaces extérieurs, selon les recommandations du fabricant.",
+     "short_description": "Le Xiaomi Cordless Pressure Washer est un nettoyeur haute pression sans fil conçu pour faciliter le nettoyage de surfaces et d’équipements compatibles."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/f122c2d5e7032497ccc35d0b065a4ca9.png?v=1793116507",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/b8f4db6cee60f2e4d56cb7d87597a431.png?v=1793116512",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/90930ace87439a58cc0adab6ac38206f.png?v=1793116519",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/7ee3fa64245c0d63652428c43b5bc80d.png?v=1793116523"
+   ]
+  },
+  {
+   "sku": "nove-10385306812613",
+   "price": 1199.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mijia Vacuum Cleaner 4 C",
+     "description": "Le Mijia Vacuum Cleaner 4 C est une solution pratique pour l’entretien courant de votre intérieur. Son format facilite la prise en main et permet de nettoyer les surfaces adaptées dans les différentes pièces de la maison.",
+     "short_description": "Le Mijia Vacuum Cleaner 4 C est une solution pratique pour l’entretien courant de votre intérieur."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/8438660611adc48e3ad4c3abcea3a7d2.png?v=1793116536",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/bg-screen01.png?v=1793116544",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/6a9a71828f11d_1788506498.jpg?v=1793116548"
+   ]
+  },
+  {
+   "sku": "nove-10385307435205",
+   "price": 349.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Xiaomi Router 4A (Point d'acces)",
+     "description": "Le Xiaomi Router 4A (Point d'acces) est conçu pour fournir une connectivité réseau adaptée à la maison ou au bureau. Il permet de connecter les appareils compatibles au réseau et de faciliter les usages quotidiens comme la navigation, le streaming et le travail en ligne. Les performances dépendent de votre connexion internet et de l’environnement d’installation.",
+     "short_description": "Le Xiaomi Router 4A (Point d'acces) est conçu pour fournir une connectivité réseau adaptée à la maison ou au bureau."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/Mi-Router-4A.png?v=1793116335",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/3_fa8579f4-9940-4d86-a4a1-733994d8580c.jpg?v=1793116318"
+   ]
+  },
+  {
+   "sku": "nove-10385307271365",
+   "price": 470.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Xiaomi Smart TV Stick HD",
+     "description": "Le Xiaomi Smart TV Stick HD permet d’ajouter des fonctions de divertissement connecté à un téléviseur compatible via HDMI. Son format compact se transporte facilement et convient pour accéder à vos contenus numériques lorsque les applications et services sont disponibles.",
+     "short_description": "Le Xiaomi Smart TV Stick HD permet d’ajouter des fonctions de divertissement connecté à un téléviseur compatible via HDMI."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/xiaomi-mi-tv-stick.webp?v=1793116356",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/c7395d85ddf25b28d0eb18da95d68593.png?v=1793116375"
+   ]
+  },
+  {
+   "sku": "nove-10385307926725",
+   "price": 689.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Xiaomi Router AX3200 (Point d'acces)",
+     "description": "Le Xiaomi Router AX3200 (Point d'acces) est conçu pour fournir une connectivité réseau adaptée à la maison ou au bureau. Il permet de connecter les appareils compatibles au réseau et de faciliter les usages quotidiens comme la navigation, le streaming et le travail en ligne. Les performances dépendent de votre connexion internet et de l’environnement d’installation.",
+     "short_description": "Le Xiaomi Router AX3200 (Point d'acces) est conçu pour fournir une connectivité réseau adaptée à la maison ou au bureau."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/1_bd5bb8e0-6a24-4bae-bde5-9be804eb7d81.jpg?v=1793116146",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/2_5744258e-cc5a-4a9d-a16e-0fa01b211bfe.jpg?v=1793116157",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/10eless-Mouse-Lite-Noir.webp?v=1793116151"
+   ]
+  },
+  {
+   "sku": "nove-10385307795653",
+   "price": 339.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mi WiFi Range Extender AC1200 (Black)",
+     "description": "Le Mi WiFi Range Extender AC1200 aide à étendre la couverture du réseau Wi-Fi dans les zones où le signal du routeur est plus faible. Il peut améliorer la connectivité dans les pièces éloignées, selon la configuration du logement et les obstacles présents.",
+     "short_description": "Le Mi WiFi Range Extender AC1200 aide à étendre la couverture du réseau Wi-Fi dans les zones où le signal du routeur est plus faible."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/pms_1632483888.09274696.png?v=1793116174",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/2_b6c7ae0c-54a5-435f-aa87-747734b23bd2.jpg?v=1793116182"
+   ]
+  },
+  {
+   "sku": "nove-10385307762885",
+   "price": 449.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Xiaomi Router AX1800 (Point d'acces)",
+     "description": "Le Xiaomi Router AX1800 (Point d'acces) est conçu pour fournir une connectivité réseau adaptée à la maison ou au bureau. Il permet de connecter les appareils compatibles au réseau et de faciliter les usages quotidiens comme la navigation, le streaming et le travail en ligne. Les performances dépendent de votre connexion internet et de l’environnement d’installation.",
+     "short_description": "Le Xiaomi Router AX1800 (Point d'acces) est conçu pour fournir une connectivité réseau adaptée à la maison ou au bureau."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/Xiaomi-Mi-Router-AX1800-WiFi-6_1.webp?v=1793116219",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/WIFI63.webp?v=1793116213"
+   ]
+  },
+  {
+   "sku": "nove-10385307631813",
+   "price": 189.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Xiaomi Router 4C (Point d'acces)",
+     "description": "Le Xiaomi Router 4C (Point d'acces) est conçu pour fournir une connectivité réseau adaptée à la maison ou au bureau. Il permet de connecter les appareils compatibles au réseau et de faciliter les usages quotidiens comme la navigation, le streaming et le travail en ligne. Les performances dépendent de votre connexion internet et de l’environnement d’installation.",
+     "short_description": "Le Xiaomi Router 4C (Point d'acces) est conçu pour fournir une connectivité réseau adaptée à la maison ou au bureau."
+    }
+   },
+   "image_urls": [
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/Point-dacces-Xiaomi-Mi-Routeur-4C.webp?v=1793116246",
+    "https://cdn.shopify.com/s/files/1/0840/1177/8245/files/Xiaomi-routeur-r-p-teur-wi-fi-Mi-4C-dition-Gigabit-2-4GHz-DDR3-4-antennes-4_jpg.webp?v=1793116267"
+   ]
+  }
+ ]
+}

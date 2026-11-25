@@ -1,0 +1,55 @@
+{
+ "built_from": [
+  "new: 42 from nove-new-products.json",
+  "uncertain: 82 from nove-uncertain.json"
+ ],
+ "total_products": 124,
+ "batched": 124,
+ "held_no_category": 0,
+ "keyword_guessed": 21,
+ "desc_images_added": 27,
+ "empty_description": [
+  "nove-10441626058949",
+  "nove-10441625731269",
+  "nove-10441625632965",
+  "nove-10383219916997",
+  "nove-10383219851461",
+  "nove-10383219785925",
+  "nove-10441625829573",
+  "nove-10383219949765"
+ ],
+ "oversized_images_dropped": [
+  {
+   "sku": "nove-10441626058949",
+   "urls": [
+    "https://cdn.shopify.com/s/files/1/0704/6614/2282/files/Screenshot_2026-09-29_at_22-20-50_All_Specs_Features_of_Mijia_Front_Load_Washer_8kg_Xiaomi_Global.png?v=1790720485",
+    "https://cdn.shopify.com/s/files/1/0704/6614/2282/files/Screenshot_2026-09-29_at_22-15-04_All_Specs_Features_of_Mijia_Front_Load_Washer_8kg_Xiaomi_Global.png?v=1790720590"
+   ]
+  },
+  {
+   "sku": "nove-10383219785925",
+   "urls": [
+    "https://cdn.shopify.com/s/files/1/0704/6614/2282/files/Screenshot_2026-09-29_at_22-20-50_All_Specs_Features_of_Mijia_Front_Load_Washer_8kg_Xiaomi_Global.png?v=1790720485",
+    "https://cdn.shopify.com/s/files/1/0704/6614/2282/files/Screenshot_2026-09-29_at_22-15-04_All_Specs_Features_of_Mijia_Front_Load_Washer_8kg_Xiaomi_Global.png?v=1790720590"
+   ]
+  }
+ ],
+ "name_too_long": [],
+ "no_image": [],
+ "unmapped_types": {},
+ "batch_files": [
+  "bulk-001.json",
+  "bulk-002.json",
+  "bulk-003.json",
+  "bulk-004.json",
+  "bulk-005.json",
+  "bulk-006.json",
+  "bulk-007.json",
+  "bulk-008.json",
+  "bulk-009.json",
+  "bulk-010.json",
+  "bulk-011.json",
+  "bulk-012.json",
+  "bulk-013.json"
+ ]
+}
