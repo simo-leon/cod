@@ -1,0 +1,786 @@
+{
+ "products": [
+  {
+   "sku": "doshift-126162",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T190607.347.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T190420.981.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T190501.953.png"
+   ]
+  },
+  {
+   "sku": "doshift-126153",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T184949.547.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T184933.777.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T184920.560.png"
+   ]
+  },
+  {
+   "sku": "doshift-126108",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T145200.943.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T145122.769.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T145141.622.png"
+   ]
+  },
+  {
+   "sku": "doshift-126097",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T141056.144.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T141027.792.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T141043.215.png"
+   ]
+  },
+  {
+   "sku": "doshift-126072",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T110148.488.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T105720.656.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T110217.453.png"
+   ]
+  },
+  {
+   "sku": "doshift-126009",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T193601.497.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T193548.812.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T193534.876.png"
+   ]
+  },
+  {
+   "sku": "doshift-125995",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T174212.889.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T174150.287.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T175020.511.png"
+   ]
+  },
+  {
+   "sku": "doshift-125989",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T172243.109.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T172256.001.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T172310.951.png"
+   ]
+  },
+  {
+   "sku": "doshift-125980",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T170405.490.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T170442.849.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T170422.412.png"
+   ]
+  },
+  {
+   "sku": "doshift-125961",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T144350.001.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T144333.048.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T144317.528.png"
+   ]
+  },
+  {
+   "sku": "doshift-125948",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T134209.307.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T134150.794.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T134129.758.png"
+   ]
+  },
+  {
+   "sku": "doshift-125938",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T132758.431.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T132732.650.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T132745.592.png"
+   ]
+  },
+  {
+   "sku": "doshift-125921",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T122426.317.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T122315.316.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T122243.132.png"
+   ]
+  },
+  {
+   "sku": "doshift-125913",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T120332.526.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T120313.985.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T120258.578.png"
+   ]
+  },
+  {
+   "sku": "doshift-125906",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T114221.778.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T114202.540.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T114050.897.png"
+   ]
+  },
+  {
+   "sku": "doshift-125895",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T105647.655.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T105629.859.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T105534.223.png"
+   ]
+  },
+  {
+   "sku": "doshift-125883",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T101700.188.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T101632.505.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T101646.305.png"
+   ]
+  },
+  {
+   "sku": "doshift-125876",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T100050.915.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T100021.810.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T095947.536.png"
+   ]
+  },
+  {
+   "sku": "doshift-125820",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T213413.454.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T213358.650.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T213337.368.png"
+   ]
+  },
+  {
+   "sku": "doshift-125792",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T201241.683.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T201227.542.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T201158.443.png"
+   ]
+  },
+  {
+   "sku": "doshift-125783",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T191711.178.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T191117.468.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T191647.572.png"
+   ]
+  },
+  {
+   "sku": "doshift-125771",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T182747.959.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T182732.027.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T182703.980.png"
+   ]
+  },
+  {
+   "sku": "doshift-125762",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T180511.134.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T180458.306.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T180417.139.png"
+   ]
+  },
+  {
+   "sku": "doshift-125729",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T145639.234.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T145622.986.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T145606.298.png"
+   ]
+  },
+  {
+   "sku": "doshift-125720",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T143707.538.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T143722.474.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T143738.273.png"
+   ]
+  },
+  {
+   "sku": "doshift-125709",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T141604.970.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T141741.279.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T142211.295.png"
+   ]
+  },
+  {
+   "sku": "doshift-125449",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T153227.897.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T153200.051.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T143843.030.png"
+   ]
+  },
+  {
+   "sku": "doshift-125428",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T135258.608.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T135229.003.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T135245.571.png"
+   ]
+  },
+  {
+   "sku": "doshift-125409",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T123956.880.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T124023.119.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T122031.709.png"
+   ]
+  },
+  {
+   "sku": "doshift-125395",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T112307.120.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T112140.640.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T112157.339.png"
+   ]
+  },
+  {
+   "sku": "doshift-125385",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-99.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-97.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-98.png"
+   ]
+  },
+  {
+   "sku": "doshift-125378",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-95.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-93.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-94.png"
+   ]
+  },
+  {
+   "sku": "doshift-125366",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-91.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-89.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-90.png"
+   ]
+  },
+  {
+   "sku": "doshift-125306",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-87.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-84.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-85.png"
+   ]
+  },
+  {
+   "sku": "doshift-125290",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-83.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-81.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-82.png"
+   ]
+  },
+  {
+   "sku": "doshift-125269",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-74-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-75-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-72.png"
+   ]
+  },
+  {
+   "sku": "doshift-125261",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-71.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-76-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-69-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125252",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-65-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-77.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-63-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125233",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-62-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-78.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-60-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125226",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-55-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-80.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-57-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125096",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-52-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-48.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-51-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125082",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-47-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-49-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-50-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125074",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-43-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-44-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-45-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125061",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-36-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-34-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-41-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125055",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-40.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-38-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-39-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125042",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-33-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-32-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-30-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125026",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-29-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-28-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-27-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-125019",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-24-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-25-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-23-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-124794",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-75.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-74.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-73.png"
+   ]
+  },
+  {
+   "sku": "doshift-124771",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-64.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-65.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-66.png"
+   ]
+  },
+  {
+   "sku": "doshift-124710",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-57.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-56.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-54.png"
+   ]
+  },
+  {
+   "sku": "doshift-124701",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-52.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-51.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-50.png"
+   ]
+  },
+  {
+   "sku": "doshift-124695",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-46.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-49.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-45.png"
+   ]
+  },
+  {
+   "sku": "doshift-124676",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-38.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-37.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-36.png"
+   ]
+  },
+  {
+   "sku": "doshift-124664",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-34.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-32.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-31.png"
+   ]
+  },
+  {
+   "sku": "doshift-124637",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-29.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-28.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-27.png"
+   ]
+  },
+  {
+   "sku": "doshift-124629",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-24.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-23.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-22.png"
+   ]
+  },
+  {
+   "sku": "doshift-124605",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-20.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-19.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-18.png"
+   ]
+  },
+  {
+   "sku": "doshift-124596",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-16.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-15.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-14.png"
+   ]
+  },
+  {
+   "sku": "doshift-124564",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-9.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-7.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-6.png"
+   ]
+  },
+  {
+   "sku": "doshift-124555",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-4.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-5.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-124537",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-1-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-28.png"
+   ]
+  },
+  {
+   "sku": "doshift-124266",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T141004.307.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T142327.205.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T142920.232.png"
+   ]
+  },
+  {
+   "sku": "doshift-124253",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T133952.466.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T132313.091.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T132253.728.png"
+   ]
+  },
+  {
+   "sku": "doshift-124240",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T122506.720.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T122043.765.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T122029.343.png"
+   ]
+  },
+  {
+   "sku": "doshift-124135",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T213603.490.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T213521.292.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T213431.427.png"
+   ]
+  },
+  {
+   "sku": "doshift-124121",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T202653.936.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T202516.248.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T214647.938.png"
+   ]
+  },
+  {
+   "sku": "doshift-124104",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T192753.714.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T192646.899.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-06T192514.918.png"
+   ]
+  },
+  {
+   "sku": "doshift-124082",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-100.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-99.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-98.png"
+   ]
+  },
+  {
+   "sku": "doshift-124067",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-96.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-94.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-95.png"
+   ]
+  },
+  {
+   "sku": "doshift-124036",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-26.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-25.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-83.png"
+   ]
+  },
+  {
+   "sku": "doshift-124008",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-14.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-13.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-12.png"
+   ]
+  },
+  {
+   "sku": "doshift-124001",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-10.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-9.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-8.png"
+   ]
+  },
+  {
+   "sku": "doshift-123995",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-6.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-5.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-4.png"
+   ]
+  },
+  {
+   "sku": "doshift-123952",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-1.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre.png"
+   ]
+  },
+  {
+   "sku": "doshift-123933",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T212646.334.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T212623.717.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T212608.618.png"
+   ]
+  },
+  {
+   "sku": "doshift-123896",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T194834.107.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T194821.357.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T194802.125.png"
+   ]
+  },
+  {
+   "sku": "doshift-123889",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T192133.772.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T192121.298.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T192108.393.png"
+   ]
+  },
+  {
+   "sku": "doshift-123830",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T103619.781.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T103635.896.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T105736.346.png"
+   ]
+  },
+  {
+   "sku": "doshift-123748",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T165218.351.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T165158.080.png"
+   ]
+  },
+  {
+   "sku": "doshift-123740",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T163748.091.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T163710.765.png"
+   ]
+  },
+  {
+   "sku": "doshift-123712",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T150005.929.png",
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T150033.734.png"
+   ]
+  },
+  {
+   "sku": "doshift-122932",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/f1afdea8-0686-4712-8e40-fe4d79a68d8e.webp",
+    "https://doshift.ma/wp-content/uploads/2026/10/23e9d099-2043-4cba-9ee2-f6e803169b76.webp"
+   ]
+  },
+  {
+   "sku": "doshift-122762",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/c0a004d3-3220-40e7-ac11-5d5a188deeed.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/2918b20e-ad95-483d-8408-1a7e94fbf8b9.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122720",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/00909967-ac02-4a41-9ac3-857f6f1e5f0b.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/ce82ca76-fb7f-4553-a2bd-c49a1ddeb38d.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122700",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/20d1ebc9-0cd2-4cc8-9f0f-2fd0625a2aa1.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/65dfbf84-bfa1-4260-b76f-8f9cc8301cf8.webp",
+    "https://doshift.ma/wp-content/uploads/2026/10/f77bb3be-34c4-4bf5-b9fd-11e4994f72f3.webp"
+   ]
+  },
+  {
+   "sku": "doshift-122694",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/d3ea264e-f07d-4637-aedf-80673094224a.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/bfd5160a-6dbd-4304-9063-bde4e4859062.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122360",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/1860b6f8-9938-413c-be99-9b0d97ca984f.webp",
+    "https://doshift.ma/wp-content/uploads/2026/10/aa2865b0-9ddd-4865-8d49-033267b62817.webp"
+   ]
+  },
+  {
+   "sku": "doshift-122354",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/427d3526-4612-44ea-bbf8-6e9b6116217d.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/watermarked_img_8671010377564284742.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122348",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/ad94e359-74b1-4d72-bc39-00ca11d56a15.webp",
+    "https://doshift.ma/wp-content/uploads/2026/10/5eac58f1-a0df-4f21-ace7-9e4d80e508a3.webp"
+   ]
+  },
+  {
+   "sku": "doshift-122301",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/54e02f1b-ae53-4881-9af9-4b71cce750c0.webp",
+    "https://doshift.ma/wp-content/uploads/2026/10/c1767cf9-130f-45c2-ba38-bbf0f7e0fb53.webp"
+   ]
+  },
+  {
+   "sku": "doshift-122100",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/eeae0312-eff3-4398-85d5-85455e32aef9.webp",
+    "https://doshift.ma/wp-content/uploads/2026/10/9243bd16-ebd6-452f-8a5f-fb2da1a83ba4.webp"
+   ]
+  },
+  {
+   "sku": "doshift-122043",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/0c893dc4-c115-4f2c-b110-3c716bb7d6a7.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/fa5f7dfa-5f42-47da-8d69-52250bfdd64f.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/995ea3dd-2e3a-4713-8c0e-3666c60fde8e.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122032",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/887d7b64-be2a-42a0-8819-e13b6d5e2c4d.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/bfa19149-c6e6-4cf3-a93f-5ae13f96d0d8.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122021",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/d0413665-8036-4c55-8ace-6253f1f8e321.webp",
+    "https://doshift.ma/wp-content/uploads/2026/10/ac0c0c17-c5c8-4cbc-a90d-4fc65d67716b.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/e640175a-568e-4ece-bf1f-e9ddd9c614c9.webp"
+   ]
+  },
+  {
+   "sku": "doshift-121901",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/218d20a3-1980-4077-a810-cdb6a1aea811.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/fe927d5d-3947-4987-b612-23619fd19c3f.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-121885",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/c604d542-abeb-493c-960e-2de171a70eaa.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/800ed769-7745-4493-8f41-1287243bf273.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-121798",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/watermarked_img_17617238783630596116.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/fa2b800b-5ec8-49f3-9dca-4fe6fe7a009a.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-121792",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/fd8bb4cd-14fa-4829-bb2c-63f2c3ae0d93.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/613cc58a-d24b-471f-bd1c-5fb471755e2c.webp"
+   ]
+  },
+  {
+   "sku": "doshift-121785",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/60bbd13f-a1c8-4ed2-ae0a-6938c6fc0c77.webp",
+    "https://doshift.ma/wp-content/uploads/2026/10/55e720f4-0704-4c8d-94d8-70af88e03211.jpg"
+   ]
+  }
+ ]
+}

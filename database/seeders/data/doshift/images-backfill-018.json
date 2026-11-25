@@ -1,0 +1,798 @@
+{
+ "products": [
+  {
+   "sku": "doshift-115151",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/2ff50593-01f1-48e5-8134-7d34df90929c.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/61549d0f-d066-4d51-a715-f3aacbbaa2d6.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/1a2decf9-b9fc-4407-ab65-ba4274155ddf.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-115108",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/4b781eef-dd3a-4cad-b5b3-9501b360582a.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/b7209917-0639-42b1-a26e-640b1944adc3.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/93edb964-43f9-4960-a101-905e3ae97176.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-115090",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/73ca6d0b-39ae-4b71-af21-5b690935776e.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/e8489808-54af-40e5-8201-c14c5fd37b76.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/6ee959fd-ab24-487e-a56b-282388bf3e42.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-115073",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/2458316f-edce-4d31-99c3-27dfd9a3ab2b-1.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/10/2e9ef03e-1963-4cc0-9103-3f058ac3bf9d.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114877",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-09-03T134015.053.png",
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-09-03T134022.981.png"
+   ]
+  },
+  {
+   "sku": "doshift-114865",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/34f09801-996d-4927-af90-ba8408233cb8.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/0ded63cb-be12-4f56-ae4a-fbeef4f6fee8.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114844",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/fd0d7b69-d42e-4b70-863e-ae055777999a.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/58c184df-b935-4984-9595-4f9abb1fa524.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/4c247c66-594d-4f60-b28c-69876780e6c2.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114733",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/28f06280-b211-406d-b0b8-446abada399e.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/df06bebd-c34c-4567-8910-f2b1a034cbad.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/4bf9219e-7721-48b2-b6c3-cf5b39b10f85.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114475",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/1c80431b-1788-419f-bb17-ba9aebfe564b.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/786b70b6-387f-432a-9055-58273408fe9e.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114499",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/0ff409cf-4802-4678-a750-bc581714dda4-Copie.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/4c959ab1-a280-45a4-bb62-13b2cf8ffb27.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/9d2ce8d3-3c72-4b31-af3e-5e58746f76c9.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/6b969481-8768-4c1d-b007-b8f671e2aec5.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114299",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/30e47c66-2ed6-483a-9478-87a7095b27d8.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/4dcc16d5-b569-4961-ac74-f8c07462622c.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/176eac5d-1528-45d5-b621-bbc7945e7efb.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114260",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/09f83a2d-72db-4aed-83ee-b485a6680a4e.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/add73c1a-5144-4b76-b984-e5f0a91a12a1.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/73ed09e9-21f4-4ead-80a5-b08eb849094d.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114273",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/3321e1c4-8ac7-4ae3-8d6f-6c41c63a1f16.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/6a0d4a47-af93-4d93-a629-a5eb54bc714e.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/195f7e4b-dd97-4918-8ec2-d59bf2a14f3e.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114232",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/0e4baf83-884a-4433-9d1a-e0b136a890c5-1.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/c199e0e6-06a8-450c-b038-4659fba410e4.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/1bb421c6-edf4-4ad1-bd07-58c33af50aa9.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-113782",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/abed6ea4-16a6-4104-9551-b75777e6831c.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/7a3bcbf3-f81a-4563-a292-6b1bd65fda0e.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/974d6c29-e0b1-4a72-b52a-2f5fb79342f2.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/97595861-8ef2-44ca-9379-38cf04a205c1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-113225",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Gemini_Generated_Image_y74z7yy74z7yy74z.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/Gemini_Generated_Image_wnj1bhwnj1bhwnj1.jpg",
+    "https://doshift.ma/wp-content/uploads/2026/09/Gemini_Generated_Image_ssuu7fssuu7fssuu.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-111817",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-17T140857.379.png",
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-17T140849.056.png",
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-17T140839.740.png"
+   ]
+  },
+  {
+   "sku": "doshift-107464",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T135536.818.png",
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T135528.793.png",
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T135519.922.png"
+   ]
+  },
+  {
+   "sku": "doshift-107440",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T133203.517.png",
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T133154.837.png",
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T133143.382.png"
+   ]
+  },
+  {
+   "sku": "doshift-107485",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T141342.790.png",
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T141333.078.png",
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T141320.631.png"
+   ]
+  },
+  {
+   "sku": "doshift-107255",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T203613.480.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T203332.058.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T203323.354.png"
+   ]
+  },
+  {
+   "sku": "doshift-107247",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T201616.542.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T201608.294.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T201600.254.png"
+   ]
+  },
+  {
+   "sku": "doshift-107222",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T192807.147.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T192758.642.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T192751.037.png"
+   ]
+  },
+  {
+   "sku": "doshift-107170",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T154207.471.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T154159.151.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T154146.904.png"
+   ]
+  },
+  {
+   "sku": "doshift-107120",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T141314.131.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T141304.132.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T141255.531.png"
+   ]
+  },
+  {
+   "sku": "doshift-107114",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T140550.397.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T140542.269.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T140533.077.png"
+   ]
+  },
+  {
+   "sku": "doshift-107132",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T143638.917.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T143623.636.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T143615.109.png"
+   ]
+  },
+  {
+   "sku": "doshift-107107",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T135506.344.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T135455.488.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T135446.776.png"
+   ]
+  },
+  {
+   "sku": "doshift-107099",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T134827.209.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T134818.889.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T134810.818.png"
+   ]
+  },
+  {
+   "sku": "doshift-106745",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T203910.800.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T203902.665.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T203854.193.png"
+   ]
+  },
+  {
+   "sku": "doshift-106738",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T202956.466.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T202948.626.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T202940.842.png"
+   ]
+  },
+  {
+   "sku": "doshift-106729",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T201627.821.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T201620.884.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T201613.660.png"
+   ]
+  },
+  {
+   "sku": "doshift-106708",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T194713.490.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T194705.370.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T194657.355.png"
+   ]
+  },
+  {
+   "sku": "doshift-106699",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T193513.036.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T193502.957.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T193454.830.png"
+   ]
+  },
+  {
+   "sku": "doshift-106655",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T161626.793.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T161619.026.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T161610.529.png"
+   ]
+  },
+  {
+   "sku": "doshift-106647",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T160759.931.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T160750.843.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T160741.035.png"
+   ]
+  },
+  {
+   "sku": "doshift-106639",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T155934.629.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T155905.956.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T155858.005.png"
+   ]
+  },
+  {
+   "sku": "doshift-106624",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T153131.787.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T153122.546.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T153114.099.png"
+   ]
+  },
+  {
+   "sku": "doshift-106662",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T162445.759.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T162409.176.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T162401.593.png"
+   ]
+  },
+  {
+   "sku": "doshift-106608",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T145833.280.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T145825.177.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T145817.242.png"
+   ]
+  },
+  {
+   "sku": "doshift-106598",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T145148.221.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T145140.049.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T145132.154.png"
+   ]
+  },
+  {
+   "sku": "doshift-106590",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T144345.986.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T144338.115.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T144326.644.png"
+   ]
+  },
+  {
+   "sku": "doshift-106583",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T143704.196.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T143655.716.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T143647.549.png"
+   ]
+  },
+  {
+   "sku": "doshift-106616",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T151554.901.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T151547.206.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T151538.997.png"
+   ]
+  },
+  {
+   "sku": "doshift-106546",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T135544.883.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T135537.043.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T135527.957.png"
+   ]
+  },
+  {
+   "sku": "doshift-106332",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T203446.405.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T203439.205.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T203430.414.png"
+   ]
+  },
+  {
+   "sku": "doshift-106326",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T202527.088.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T202536.679.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T202517.880.png"
+   ]
+  },
+  {
+   "sku": "doshift-106311",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T201414.530.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T201405.179.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T201356.970.png"
+   ]
+  },
+  {
+   "sku": "doshift-106303",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T200503.661.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T200455.540.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T200447.765.png"
+   ]
+  },
+  {
+   "sku": "doshift-106295",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T195610.079.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T195602.311.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T195554.798.png"
+   ]
+  },
+  {
+   "sku": "doshift-106288",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T195131.648.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T195123.328.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T195115.232.png"
+   ]
+  },
+  {
+   "sku": "doshift-106339",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T204003.684.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T203956.636.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T203949.244.png"
+   ]
+  },
+  {
+   "sku": "doshift-106276",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T193448.708.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T193441.292.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T193433.621.png"
+   ]
+  },
+  {
+   "sku": "doshift-106268",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T192616.550.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T192609.078.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T192557.767.png"
+   ]
+  },
+  {
+   "sku": "doshift-106261",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T190432.565.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T190424.844.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T190416.780.png"
+   ]
+  },
+  {
+   "sku": "doshift-106216",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T181509.920.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T181501.184.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T181452.361.png"
+   ]
+  },
+  {
+   "sku": "doshift-106208",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T170613.650.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T170540.786.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T170531.458.png"
+   ]
+  },
+  {
+   "sku": "doshift-105286",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-25T140140.594.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-25T140132.018.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-25T140123.784.png"
+   ]
+  },
+  {
+   "sku": "doshift-105277",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-25T135230.820.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-25T135222.668.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-25T135214.389.png"
+   ]
+  },
+  {
+   "sku": "doshift-105129",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T201955.808.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T201947.895.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T201940.944.png"
+   ]
+  },
+  {
+   "sku": "doshift-105090",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T180928.866.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T180920.842.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T180911.067.png"
+   ]
+  },
+  {
+   "sku": "doshift-105084",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T180124.107.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T180115.259.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T180107.323.png"
+   ]
+  },
+  {
+   "sku": "doshift-105078",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T175621.099.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T175613.315.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T175602.939.png"
+   ]
+  },
+  {
+   "sku": "doshift-105061",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T172325.325.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T172317.341.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T172309.725.png"
+   ]
+  },
+  {
+   "sku": "doshift-105011",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T153222.287.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T153214.614.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T153207.398.png"
+   ]
+  },
+  {
+   "sku": "doshift-105002",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T152640.142.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T152631.126.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T152623.583.png"
+   ]
+  },
+  {
+   "sku": "doshift-104996",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T151825.118.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T151816.559.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T151809.303.png"
+   ]
+  },
+  {
+   "sku": "doshift-104953",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T142157.455.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T142149.456.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T142139.768.png"
+   ]
+  },
+  {
+   "sku": "doshift-104582",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-09-16T130739.849.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-09-16T130732.025.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-09-16T130724.932.png"
+   ]
+  },
+  {
+   "sku": "doshift-104399",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-22T150233.676.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-22T150225.228.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-22T150215.269.png"
+   ]
+  },
+  {
+   "sku": "doshift-104096",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T183714.093.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T183705.940.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T183657.356.png"
+   ]
+  },
+  {
+   "sku": "doshift-104081",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T182253.200.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T182244.624.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T182235.649.png"
+   ]
+  },
+  {
+   "sku": "doshift-104066",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T180825.599.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T180817.526.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T180808.710.png"
+   ]
+  },
+  {
+   "sku": "doshift-104054",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T175113.347.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T175102.212.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T175053.883.png"
+   ]
+  },
+  {
+   "sku": "doshift-104088",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T183158.342.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T183150.022.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T183141.782.png"
+   ]
+  },
+  {
+   "sku": "doshift-104060",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T175408.771.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T175400.986.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T175353.698.png"
+   ]
+  },
+  {
+   "sku": "doshift-104034",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T171123.712.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T171115.080.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T171107.063.png"
+   ]
+  },
+  {
+   "sku": "doshift-104018",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T165317.365.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T165308.773.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T165301.390.png"
+   ]
+  },
+  {
+   "sku": "doshift-103991",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T162609.486.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T162601.341.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T162544.030.png"
+   ]
+  },
+  {
+   "sku": "doshift-103967",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T160733.387.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T160725.872.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T160718.060.png"
+   ]
+  },
+  {
+   "sku": "doshift-103677",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-20T153048.052.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-20T153039.381.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-20T153030.053.png"
+   ]
+  },
+  {
+   "sku": "doshift-103445",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T195508.267.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T195457.539.png"
+   ]
+  },
+  {
+   "sku": "doshift-103400",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T180309.789.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T180300.126.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T180245.942.png"
+   ]
+  },
+  {
+   "sku": "doshift-103395",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T174627.066.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T174618.690.png"
+   ]
+  },
+  {
+   "sku": "doshift-103180",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T182023.392.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T182013.641.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T182004.000.png"
+   ]
+  },
+  {
+   "sku": "doshift-103174",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T175154.368.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T175145.679.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T175136.344.png"
+   ]
+  },
+  {
+   "sku": "doshift-103119",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T154225.816.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T154217.091.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T154209.408.png"
+   ]
+  },
+  {
+   "sku": "doshift-103039",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T140141.763.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T140133.682.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T140125.666.png"
+   ]
+  },
+  {
+   "sku": "doshift-103026",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T135039.093.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T135031.886.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T135025.726.png"
+   ]
+  },
+  {
+   "sku": "doshift-103020",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T134026.480.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T134014.719.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T134002.800.png"
+   ]
+  },
+  {
+   "sku": "doshift-103010",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T132151.812.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T132144.124.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T132134.428.png"
+   ]
+  },
+  {
+   "sku": "doshift-102849",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T195846.502.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T195837.958.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T195828.621.png"
+   ]
+  },
+  {
+   "sku": "doshift-102855",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T200438.228.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T200429.388.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T200421.052.png"
+   ]
+  },
+  {
+   "sku": "doshift-102826",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T181449.717.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T181440.812.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T181431.309.png"
+   ]
+  },
+  {
+   "sku": "doshift-102818",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T175052.410.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T175042.874.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T175029.835.png"
+   ]
+  },
+  {
+   "sku": "doshift-102804",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T172122.915.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T172145.747.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T172134.793.png"
+   ]
+  },
+  {
+   "sku": "doshift-102684",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T140119.924.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T140109.773.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T140059.071.png"
+   ]
+  },
+  {
+   "sku": "doshift-100988",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-10T143036.112.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-10T143027.880.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-10T143019.657.png"
+   ]
+  },
+  {
+   "sku": "doshift-100357",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T180008.983.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T180026.757.png"
+   ]
+  },
+  {
+   "sku": "doshift-100349",
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T173905.122.png",
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T173857.107.png"
+   ]
+  }
+ ]
+}

@@ -9,6 +9,7 @@ use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Event;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Str;
 use Illuminate\Validation\Rule;
@@ -30,7 +31,8 @@ use Webkul\Product\Repositories\ProductRepository;
  *                                  by default, nothing is published
  *                                  without Simo's approval).
  *   POST /api/cod/products/{id}  — update one product's per-locale
- *                                  content and/or stock.
+ *                                  content and/or stock, and/or append
+ *                                  images (append-only, never removes).
  *
  * How Bagisto stores product content (there is no product_translations
  * table): every translatable field is an EAV attribute value in
@@ -64,9 +66,10 @@ class ProductApiService
     public const HEADER = 'X-COD-Product-Key';
 
     /**
-     * Per-locale fields the API may write. Price, categories, images
-     * and status are handled separately (create only) and are never
-     * touched by the update endpoint.
+     * Per-locale fields the API may write. Price, categories and
+     * status are handled separately (create only) and are never
+     * touched by the update endpoint; images are attached on create
+     * and appended (never removed) on update via appendImages().
      */
     public const LOCALE_FIELDS = [
         'name',
@@ -311,7 +314,8 @@ class ProductApiService
     /**
      * Update one product's per-locale content and/or stock. Only the
      * fields present in $locales are written; anything not sent is
-     * left untouched. Returns the changed fields, e.g.
+     * left untouched. Images are appended separately via
+     * appendImages(). Returns the changed fields, e.g.
      * ['locales' => ['fr' => ['name']], 'stock' => [...]].
      */
     public function updateProduct(Product $product, array $locales, ?int $stock): array
@@ -333,6 +337,127 @@ class ProductApiService
         Event::dispatch('catalog.product.update.after', $product);
 
         return array_filter($updated);
+    }
+
+    /**
+     * Append images to an existing product, from remote URLs.
+     *
+     * Append-only: existing images are NEVER removed (Bagisto's
+     * ProductMediaRepository::upload() deletes any previous image
+     * not passed back in the files list, so the existing image ids
+     * are passed back as kept entries). A URL whose image is already
+     * attached is skipped — the store keeps no source URL, so the
+     * match is by content: the candidate is re-encoded to webp the
+     * same way the upload does, and its hash is compared with the
+     * stored files. That makes the call idempotent: re-running it
+     * adds nothing twice.
+     *
+     * @param  string[]  $imageUrls  Remote https URLs to append.
+     * @param  bool  $partial  When true (artisan backfill), one URL
+     *                         that fails to download is recorded and
+     *                         the rest still upload; when false (API
+     *                         endpoint), the first failure aborts the
+     *                         whole call with ProductImageException.
+     * @return array{added: int, skipped_already_attached: int, failed: array, total_images: int}
+     *
+     * @throws ProductImageException
+     */
+    public function appendImages(Product $product, array $imageUrls, bool $partial = false): array
+    {
+        $urls = array_values(array_unique(array_filter(array_map(
+            fn ($url) => is_string($url) ? trim($url) : '',
+            $imageUrls
+        ))));
+
+        $existing = $product->images()->orderBy('position')->get(['id', 'path']);
+
+        if (count($existing) + count($urls) > self::MAX_IMAGES) {
+            throw new ProductImageException('At most '.self::MAX_IMAGES.' images are allowed per product.');
+        }
+
+        $hashes = $this->existingImageHashes($existing);
+        $newFiles = [];
+        $skipped = 0;
+        $failed = [];
+
+        foreach ($urls as $url) {
+            try {
+                $file = $this->downloadImage($url);
+            } catch (ProductImageException $e) {
+                if (! $partial) {
+                    throw $e;
+                }
+
+                $failed[] = ['url' => $url, 'error' => $e->getMessage()];
+
+                continue;
+            }
+
+            $hash = md5((string) image_manager()->read($file)->encodeByExtension('webp'));
+
+            if (in_array($hash, $hashes, true)) {
+                $skipped++;
+
+                continue;
+            }
+
+            $hashes[] = $hash;
+            $newFiles[] = $file;
+        }
+
+        if (! empty($newFiles)) {
+            Event::dispatch('catalog.product.update.before', $product->id);
+
+            $files = [];
+
+            foreach ($existing as $image) {
+                $files[$image->id] = $image->id;
+            }
+
+            foreach ($newFiles as $file) {
+                $files[] = $file;
+            }
+
+            DB::transaction(function () use ($files, $product) {
+                $this->images->upload(['images' => ['files' => $files]], $product, 'images');
+            });
+
+            $product->refresh();
+
+            Event::dispatch('catalog.product.update.after', $product);
+        }
+
+        return [
+            'added' => count($newFiles),
+            'skipped_already_attached' => $skipped,
+            'failed' => $failed,
+            'total_images' => count($existing) + count($newFiles),
+        ];
+    }
+
+    /**
+     * Content hashes of a product's stored images, for the
+     * append-images dedupe: each stored file is a webp re-encode of
+     * its source, so the hash is of the stored bytes. A file that
+     * can no longer be read contributes no hash.
+     */
+    protected function existingImageHashes(Collection $images): array
+    {
+        $hashes = [];
+
+        foreach ($images as $image) {
+            try {
+                $contents = Storage::get($image->path);
+            } catch (\Throwable) {
+                continue;
+            }
+
+            if ($contents !== false && $contents !== null) {
+                $hashes[] = md5($contents);
+            }
+        }
+
+        return $hashes;
     }
 
     /**

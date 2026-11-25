@@ -31,8 +31,11 @@ Route::post('cod/orders', CodOrderImportController::class)
  *                              failures do not stop the rest).
  * POST /api/cod/products/{id} — update one product's per-locale
  *                              content (name, url_key, descriptions,
- *                              meta) and/or stock. Price, categories,
- *                              status and images are NOT accepted here.
+ *                              meta) and/or stock, and/or append
+ *                              images via `image_urls` (append-only,
+ *                              at most 10 images in total). Price,
+ *                              categories, status and multipart
+ *                              `images` are NOT accepted here.
  * Authenticated with the product secret key from the COD System admin
  * settings (X-COD-Product-Key header or Bearer token), generated with
  * `php artisan cod:generate-product-key`. See
