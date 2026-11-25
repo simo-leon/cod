@@ -377,4 +377,7 @@
             </div>
         </div>
     </div>
+
+    <!-- Estimated Delivery Timeline -->
+    @include('shop::checkout.onepage.delivery-timeline')
 </div>
