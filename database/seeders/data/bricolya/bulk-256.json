@@ -1,0 +1,211 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-161616",
+   "price": 799.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble de batterie Zendure SolarFlow 3m",
+     "description": "Connectez vos batteries à votre onduleur SolarFlow 800 avec ce câble de 0.7m, 3m ou 5m.\n\nLes connecteurs du câble de batterie sont conçus pour se verrouiller automatiquement. Un clic audible confirme que le câble est solidement fixé à vos batteries.",
+     "short_description": "Connectez vos batteries à votre onduleur SolarFlow 800 avec ce câble de 0.7m, 3m ou 5m.\n\nLes connecteurs du câble de batterie sont conçus pour se verrouiller automatiquement. Un clic audible confirme q"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/cable-de-batterie-zendure-solarflow-3m-5m-268882.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-161617",
+   "price": 1099.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble de batterie Zendure SolarFlow 5m",
+     "description": "Connectez vos batteries à votre onduleur SolarFlow 800 avec ce câble de 0.7m, 3m ou 5m.\n\nLes connecteurs du câble de batterie sont conçus pour se verrouiller automatiquement. Un clic audible confirme que le câble est solidement fixé à vos batteries.",
+     "short_description": "Connectez vos batteries à votre onduleur SolarFlow 800 avec ce câble de 0.7m, 3m ou 5m.\n\nLes connecteurs du câble de batterie sont conçus pour se verrouiller automatiquement. Un clic audible confirme q"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/cable-de-batterie-zendure-solarflow-3m-5m-268882.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-161646",
+   "price": 7699.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "SolarFlow 2400 AC",
+     "description": "Points clés\n\nAdoptez la nouvelle solution d’énergie intelligente\n\nPendant la journée, SolarFlow 2400 AC alimente votre maison en énergie solaire et stocke l’excédent dans la batterie. Le soir, la batterie fournit de l’énergie à votre maison via le SolarFlow 2400 AC. Cette gestion énergétique efficace réduit votre dépendance au réseau et vous permet de réaliser des économies.\n\nSolution de stockage domestique triphasée\n\nCapacité de batterie adaptée à vos besoins\n\n*Si la puissance utilisée dépasse 2400 W ou si la capacité d’un appareil individuel dépasse 15 kWh, veuillez consulter un électricien qualifié et placer le produit dans un endroit approprié.\n\nStockez plus d’énergie, maximisez vos économies\n\nGrâce à la technologie des semi-conducteurs de troisième génération, notre système atteint jusqu’à 93 % d’efficacité AC en cycle complet, optimisant ainsi vos économies d’énergie et améliorant votre efficacité énergétique.\n\n*Données basées sur les tests en laboratoire de Zendure.\n\nLe HEMS – Révolutionner l’efficacité pour un avenir durable\n\nLe HEMS, notre système de gestion énergétique piloté par IA, apprend vos habitudes de consommation et analyse des facteurs tels que les prévisions météorologiques, la capacité de la batterie et les tarifs dynamiques afin de développer des protocoles de gestion énergétique sur mesure. En s’adaptant en continu à votre usage, le HEMS vous permet d’économiser jusqu’à 42 % sur votre facture d’énergie, mois après mois.*\n\n*Données basées sur les tests en laboratoire de Zendure sous un modèle de tarification dynamique de l’électricité. Les économies réelles peuvent varier.\n\nCe que le HEMS peut faire pour vous\n\nJours nuageux : le système peut charger quand le prix est bas et décharger quand il est élevé.\n\nHiver : il protège l’état de charge optimal pour préserver les batteries.\n\nProfitez de Zen+ OS avec le HEMS et prenez le contrôle de votre énergie\n\nZen+ OS, intégré au SolarFlow 2400 AC et à divers appareils intelligents, vous offre une maîtrise totale de votre énergie.\n\nRéduisez les pertes énergétiques, maximisez l’efficacité\n\nLe SolarFlow 2400 AC est équipé d’une batterie 48 V, réduisant les pertes d’énergie de 25 % par rapport à un système 16 V.\n\nDesign innovant, puissance accrue\n\nChaque unité de batterie est dotée d’un système de gestion énergétique innovant permettant une charge et une décharge indépendantes.\n\nDe l’énergie à tout moment avec 2 400 W de secours hors réseau\n\nRestez alimenté même en cas de panne en connectant simplement vos appareils essentiels au SolarFlow 2400 AC.\n\nSécurisé et fiable",
+     "short_description": "Points clés\n\nAdoptez la nouvelle solution d’énergie intelligente\n\nPendant la journée, SolarFlow 2400 AC alimente votre maison en énergie solaire et stocke l’excédent dans la batterie. Le soir, la batter"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/onduleur-solarflow-2400-ac-2701653.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-161668",
+   "price": 10999.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Onduleur SolarFlow 800W + 1x Batterie AB1000S + Câble 0.7m + Shelly",
+     "description": "Le SolarFlow 800 est la solution plug-and-play idéale pour produire et stocker votre propre électricité solaire — que vous soyez propriétaire ou locataire, sur un balcon, une toiture ou une façade. Son micro-onduleur hybride de nouvelle génération génère jusqu’à 50 % de puissance en plus par rapport aux systèmes conventionnels, tout en réduisant vos factures et votre impact carbone.\n\n⚡ Jusqu’à +50 % de puissance\n\n🌿 −1 100 kg CO₂ / an\n\n🔋 Batteries Zendure 48 V\n\n☀️ Démarre dès 14 V\n\n📡 MPPT 1 200 W (2×600 W)\n\n🏠 Balcon · Toiture · Façade\n\nLa nouvelle génération de production solaire\n\nContrairement aux micro-onduleurs classiques, le SolarFlow 800 intègre un système AC bidirectionnel qui stocke intelligemment l’excédent d’énergie dans des batteries et répartit dynamiquement la puissance selon vos besoins. Résultat : moins de dépendance au réseau, plus d’économies, et une utilisation optimale de chaque kWh produit — y compris la nuit, via les batteries.\n\nInstallable partout, en quelques minutes\n\nLe SolarFlow 800 s’adapte à toutes les configurations : balcon, toiture plate ou inclinée, façade. Pas de permis, pas de technicien. Choisissez l’emplacement le plus ensoleillé de votre logement et commencez à produire votre propre électricité verte dès le premier jour.\n\nOptimisation maximale de la production et du stockage\n\nMPPT 1 200 W — Captation solaire maximale\n\nUn puissant régulateur MPPT de 1 200 W (2 × 600 W) garantit une extraction maximale de l’énergie solaire à chaque instant. L’excédent de production est automatiquement dirigé vers vos batteries — rien n’est gaspillé.\n\nDémarre dès 14 V — De l’aube au crépuscule\n\nLà où les systèmes classiques attendent 18 V pour démarrer, le SolarFlow 800 génère de l’énergie dès 14 V. Cela représente 10 à 20 % d’énergie supplémentaire captée chaque jour : tôt le matin, en fin de journée ou par faible ensoleillement.\n\nStockage 48 V — 25 % de pertes en moins\n\nCouplé aux batteries Zendure 48 V, le SolarFlow 800 réduit les pertes énergétiques de 25 % par rapport aux batteries 16 V standard. Son architecture DC avancée améliore également l’efficacité globale face aux solutions couplées en courant alternatif.\n\nRéduisez vos factures et votre empreinte carbone\n\nGrâce à la gestion intelligente de la production, du stockage et de l’auto-consommation, le SolarFlow 800 vous permet de tirer le meilleur parti de chaque kWh produit. Selon votre installation et votre profil de consommation, il peut vous faire économiser jusqu’à 1 100 kg de CO₂ par an.\n\nSpécifications techniques\n\nPuissance MPPT\n1 200 W (2 × 600 W)\n\nTension de démarrage\n14 V (vs 18 V pour les systèmes classiques)\n\nTension batterie\n48 V (Zendure)\n\nGain vs systèmes classiques\nJusqu’à +50 % de puissance\n\nRéduction des pertes batterie\n−25 % vs batteries 16 V\n\nRéduction CO₂\nJusqu’à 1 100 kg / an\n\nEmplacements d’installation\nBalcon, toiture plate/inclinée, façade\n\nSystème de distribution\nAC bidirectionnel\n\nCouplage batterie\nCourant continu (DC)\n\nCompatible\nPropriétaires & locataires",
+     "short_description": "La Solution Solaire\n\nSolarFlow 800 est la solution la plus simple pour entrer dans le solaire. Adapté aux propriétaires comme aux locataires, en maison ou en appartement, il s’installe facilement sur balcon, toiture (plate ou inclinée) ou façade, et transforme votre logement en source d’électricité verte.\n\nÉconomies et écologie\n\nRéduisez votre facture d’énergie et votre impact environnemental : jusqu’à 1 100 kg de CO₂ évités par an selon votre installation.\n\nUne technologie nouvelle génération\n\nCe micro-onduleur hybride génère jusqu’à 50 % de puissance en plus que les systèmes conventionnels. Grâce à son système AC bidirectionnel, il gère intelligemment production, stockage et auto-consommation pour maximiser chaque kWh produit, immédiatement ou différé via les batteries.\n\nStockage optimisé\n\nAssocié aux batteries Zendure 48 V, il réduit les pertes d’énergie de 25 % par rapport aux systèmes 16 V, grâce à son architecture couplée en courant continu.\n\nPerformances\n\nUn MPPT de 1 200 W (2 × 600 W) garantit une production maximale. Et grâce à son seuil de démarrage bas de 14 V (contre 18 V habituellement), il capte 10 à 20 % d’énergie supplémentaire, même par temps couvert, de l’aube au crépuscule.\n\nFiabilité\n\nConçu pour résister aux conditions difficiles, avec un haut niveau de sécurité."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/fd6cd0a3-de9f-4ceb-ab4b-c4356362332b.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/06/fec6c4ef-08f4-48ef-91c1-c8960ae11d05.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/06/98d71988-eafc-47a6-9161-4fb8013d43fc.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-162170",
+   "price": 209.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "PULVERISATEUR A BATTERIE 4V 1.0L HSPP3701 INGCO",
+     "description": "Pulvérisateur à Batterie INGCO HSPP3701 – 1L 4V\n\nLe pulvérisateur électrique INGCO HSPP3701 est spécialement conçu pour simplifier les travaux de pulvérisation au jardin comme à la maison. Contrairement aux pulvérisateurs manuels traditionnels, ce modèle fonctionne grâce à une batterie lithium intégrée de 4V qui fournit une pulvérisation constante sans effort de pompage.\n\nCompact, léger et ergonomique, il permet d’entretenir facilement les plantes d’intérieur, les fleurs, les terrasses, les balcons et les petits espaces verts. Sa buse réglable offre la possibilité de passer d’une fine brume à un jet ciblé selon les besoins.\n\nAvantages du produit\n\nPulvérisation automatique sans pompage manuel.\n\nBatterie lithium 4V rechargeable via USB.\n\nAutonomie pouvant atteindre 90 minutes.\n\nRéservoir de 1 litre idéal pour les petits travaux de jardinage.\n\nBuse ajustable pour différents types de pulvérisation.\n\nConception légère et ergonomique pour un usage confortable.\n\nUtilisation facile à une seule main.\n\nApplications\n\nArrosage des plantes d’intérieur et d’extérieur.\n\nHumidification des feuilles et fleurs.\n\nApplication d’engrais liquides.\n\nPulvérisation de produits phytosanitaires.\n\nNettoyage et désinfection des surfaces.\n\nEntretien des terrasses, balcons et petits jardins.\n\nCaractéristiques Techniques\n\nMarque : INGCO\n\nRéférence : HSPP3701\n\nType : Pulvérisateur à batterie\n\nCapacité du réservoir : 1 L\n\nTension : 4V\n\nType de batterie : Lithium-ion intégrée\n\nPression de travail : 1,4 bar\n\nAutonomie : jusqu’à 90 min\n\nRecharge : câble USB\n\nBuse : réglable\n\nPoids : environ 0,4 kg\n\nPourquoi choisir le HSPP3701 ?\n\nLe INGCO HSPP3701 constitue une solution moderne pour tous les utilisateurs souhaitant gagner du temps et améliorer leur confort lors des travaux de pulvérisation. Sa batterie rechargeable, son autonomie prolongée et sa facilité d’utilisation en font un excellent choix pour le jardinage, l’entretien domestique et les applications de nettoyage quotidiennes.",
+     "short_description": "Le pulvérisateur à batterie INGCO HSPP3701 est un outil pratique et moderne conçu pour l’entretien des plantes, des jardins, des terrasses et des espaces domestiques. Grâce à sa batterie lithium 4V intégrée, il assure une pulvérisation continue sans pompage manuel, offrant un confort d’utilisation optimal et une application uniforme des liquides.\n\nCapacité du réservoir : 1 L\n\nBatterie Lithium intégrée 4V\n\nPression de travail : 1,4 bar\n\nAutonomie jusqu’à 90 minutes\n\nBuse réglable : jet direct ou brumisation\n\nRecharge USB pratique\n\nUtilisation d’une seule main"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/HSPP3701.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-162703",
+   "price": 999.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dévidoir manuel mural 25m pour installation au sol ou au mur",
+     "description": "Longueur du tuyau : 25 m\n\nDiamètre du tuyau : 11 mm\n\nProtection contre le gel : Non",
+     "short_description": "Longueur du tuyau : 25 m\n\nDiamètre du tuyau : 11 mm\n\nProtection contre le gel : Non"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/18695-28.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/318695-28-2.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/18695-28-2.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/OZ-128749.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/5318695-28-2.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/18695-28-6.webp"
+   ]
+  },
+  {
+   "sku": "bricolya-162896",
+   "price": 1859.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coupe-branches télescopique StarCut Pro L + scie Gardena",
+     "description": "Le GARDENA StarCut Pro L + scie est le kit complet pour élaguer efficacement en hauteur, sans échelle et sans effort. Son manche télescopique réglable de 175 à 400 cm offre une portée totale allant jusqu’à 6,5 mètres. Avec sa transmission métallique démultipliant la puissance par 12, ses lames PowerCoating et sa scie incluse à triple affûtage, aucune branche — jusqu’à 32 mm de diamètre — ne lui résiste.\n\n📏 Portée jusqu’à 6,5 m\n\n✂️ Coupe jusqu’à Ø 32 mm\n\n⚙️ Puissance × 12 (engrenages métal)\n\n🪚 Scie triple affûtage incluse\n\n🔄 Angle de coupe réglable 200°\n\n🇩🇪 Fabriqué en Allemagne — Garantie 25 ans\n\nPortée jusqu’à 6,5 m — Élagage en hauteur sans échelle\n\nGrâce à son manche télescopique réglable en continu de 175 cm à 400 cm, le StarCut Pro L offre une portée totale allant jusqu’à 6,5 mètres selon la taille de l’utilisateur. Travaillez en toute sécurité depuis le sol, sans monter sur une échelle, même pour les arbres les plus grands. Un simple mécanisme de serrage permet d’ajuster la longueur rapidement et précisément.\n\nPuissance de coupe × 12 — Lames PowerCoating de précision\n\nTransmission métallique démultiplicatrice\n\nGrâce à ses engrenages entièrement en métal, le StarCut Pro L offre une puissance de coupe jusqu’à 12 fois supérieure à celle d’un coupe-branches sans engrenage. Coupez des branches jusqu’à 32 mm de diamètre — y compris du bois vert épais — sans effort excessif.\n\nLames bypass affûtées de précision + revêtement PowerCoating\n\nLe système de coupe bypass assure des coupes nettes et propres, idéales pour la santé des plantes. Le revêtement PowerCoating réduit les frottements, améliore l’efficacité de coupe, facilite le nettoyage et protège les lames contre la corrosion pour une longévité accrue.\n\nTête de coupe compacte anti-enchevêtrement\n\nLa tête angulaire compacte, équipée d’une bande de traction interne, évite les accrochages dans le feuillage et les branchages. Chaque coupe se fait de façon fluide, même au cœur d’une couronne dense.\n\nScie incluse — Double usage pour toutes les branches\n\nLa scie StarCut Pro fournie dans ce kit se fixe en un clic à l’échenilloir via un adaptateur robuste. Sa lame en acier haute qualité (34 cm) et sa denture triple affûtage avec crochet antidérapant permettent de venir à bout des branches trop épaisses pour le coupe-branches, en hauteur comme à la main. Elle s’utilise également de façon indépendante comme scie manuelle.\n\nConfort et ergonomie — Réglage de l’angle depuis le sol\n\nL’angle de coupe est réglable jusqu’à 200° directement depuis le sol, sans avoir à redescendre l’outil. La poignée inférieure ergonomique garantit une prise sécurisée, tandis que la poignée en T améliore la stabilité et le contrôle lors des coupes en hauteur prolongées.\n\nQualité allemande — Garantie commerciale 25 ans\n\nFabriqué en Allemagne selon les normes de qualité GARDENA, le StarCut Pro L est conçu pour durer. Ses lames PowerCoating conservent leur tranchant au fil du temps. Enregistrez votre produit sur gardena.com dans les 3 mois suivant l’achat pour bénéficier de la garantie commerciale de 25 ans.\n\nSpécifications techniques\n\nLongueur télescopique\n175 cm à 400 cm (réglage continu)\n\nPortée totale (utilisateur compris)\nJusqu’à 6,5 m\n\nDiamètre de coupe max.\n32 mm\n\nSystème de coupe\nBypass (coupe nette sur bois vert)\n\nTransmission\nEngrenages métalliques — puissance × 12\n\nRevêtement lames\nPowerCoating (anti-friction, anti-corrosion)\n\nAngle de coupe réglable\nJusqu’à 200° (réglage depuis le sol)\n\nScie incluse\nOui — lame 34 cm, triple affûtage, crochet antidérapant\n\nAdaptateur scie\nInclus — fixation rapide et solide\n\nOrigine\nFabriqué en Allemagne\n\nGarantie\n25 ans (après enregistrement sur gardena.com)\n\nContenu du pack\n\n1× Coupe-branches télescopique StarCut Pro L (175–400 cm)\n\n1× Scie StarCut Pro (lame 34 cm, triple affûtage)\n\n1× Adaptateur de fixation scie",
+     "short_description": "Le GARDENA StarCut Pro L + scie est le kit complet pour élaguer efficacement en hauteur, sans échelle et sans effort. Son manche télescopique réglable de 175 à 400 cm offre une portée totale allant jusqu’à 6,5 mètres. Avec sa transmission métallique démultipliant la puissance par 12, ses lames PowerCoating et sa scie incluse à triple affûtage, aucune branche — jusqu’à 32 mm de diamètre — ne lui résiste."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/OI-623793.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/JY-391827.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/MB-145866.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/WK-718611.webp",
+    "https://bricolya.com/wp-content/uploads/2026/06/WJ-594639.webp"
+   ]
+  },
+  {
+   "sku": "bricolya-163658",
+   "price": 5464.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Niveau Laser Bosch GLL 12V-100-33 CG",
+     "description": "Le Bosch GLL 12V-100-33 CG Professional est un laser lignes 3 × 360° à faisceau vert conçu pour les chantiers les plus exigeants. Avec une précision de ± 0,3 mm/m, une portée de 30 m (jusqu’à 100 m avec cellule), une protection IP65 et un pilotage mains libres via l’application Levelling Remote, il garantit des alignements parfaits — rapidement, précisément, et en toute autonomie.\n\n🟢 3 lignes vertes × 360° — Visibilité ×4\n\n🎯 Précision ± 0,3 mm/m\n\n📡 Portée 30 m — jusqu’à 100 m avec cellule\n\n📱 Pilotage mains libres — App Levelling Remote\n\n💧 IP65 — Boîtier caoutchouc chantier\n\n🔋 Double alimentation — 12V Li-Ion ou piles AA\n\n3 lignes vertes 360° — Alignement horizontal et vertical simultané\n\nLe GLL 12V-100-33 CG projette 3 lignes laser à 360° — une horizontale et deux verticales — permettant de réaliser simultanément des mises à niveau horizontales et verticales dans l’ensemble d’une pièce ou d’un grand espace. Plus besoin de repositionner l’outil : un seul placement suffit pour couvrir murs, plafond et sol en même temps.\n\nLes lignes laser vertes ultra-brillantes offrent une visibilité jusqu’à 4 fois supérieure aux lasers rouges classiques. Elles restent nettement visibles même dans des environnements lumineux, sur des surfaces claires ou en plein jour — un avantage décisif sur chantier.\n\nPilotage mains libres — Application Levelling Remote\n\nL’application gratuite Levelling Remote (iOS & Android) permet de contrôler les 3 lignes laser à distance, depuis n’importe quel point de la pièce. Activez ou désactivez chaque ligne, ajustez les paramètres et vérifiez l’état de la batterie — sans avoir à revenir constamment à l’outil. Idéal pour travailler seul sur de grandes surfaces ou dans des espaces difficiles d’accès.\n\nMode cellule de réception toujours activé\n\nLe mode cellule de réception est activé en permanence par défaut. Associé à la cellule LR 7 Professional (disponible séparément), la portée est étendue jusqu’à 100 mètres (rayon) — pour les chantiers extérieurs, les grandes halles ou les travaux de gros œuvre.\n\nRobustesse chantier — IP65 et boîtier renforcé caoutchouc\n\nLe GLL 12V-100-33 CG est conçu pour encaisser les conditions de chantier les plus rudes. Son boîtier à renforts caoutchouc et ses fenêtres laser protégées absorbent les chocs et les vibrations. La protection IP65 garantit une étanchéité totale à la poussière et une résistance aux projections d’eau — pour travailler sans crainte par tous les temps.\n\nMise à niveau automatique ± 4° en 4 secondes\n\nLe pendule à auto-nivellement se stabilise automatiquement dès que l’outil est posé sur une surface inclinée de ± 4° maximum, en seulement 4 secondes. Si l’inclinaison dépasse cette limite, l’outil émet un signal d’avertissement pour éviter toute erreur de mesure.\n\nDouble alimentation — Jamais en panne sur chantier\n\nLe système Dual Power du GLL 12V-100-33 CG offre deux modes d’alimentation interchangeables : une batterie Lithium-Ion 12V compatible avec toute la gamme Bosch Professional 12V, ou des piles alcalines AA (LR6) en secours. Si la batterie est déchargée en cours de travail, il suffit d’insérer des piles pour continuer immédiatement — sans interruption de chantier.\n\nApplications — Ce que vous pouvez réaliser\n\nAlignement de murs et cloisons : tracés droits sur toute la hauteur d’une pièce en un seul placement\n\nPose de carrelage et revêtements de sol : lignes de référence horizontales et verticales simultanées\n\nFaux-plafonds : projection horizontale à 360° pour un niveau parfait autour de la pièce\n\nConstruction d’escaliers : contrôle de l’aplomb et du niveau des marches\n\nPose de prises et interrupteurs : alignement précis en hauteur sur toute la longueur d’un mur\n\nGrands espaces et chantiers extérieurs : portée jusqu’à 100 m avec la cellule LR 7\n\nSpécifications techniques\n\nLignes laser\n3 × 360° (1 horizontale + 2 verticales)\n\nCouleur du faisceau\nVert — visibilité ×4 vs laser rouge\n\nPrécision\n± 0,3 mm/m\n\nPortée sans cellule\n30 m\n\nPortée avec cellule LR 7\n100 m (rayon)\n\nAuto-nivellement\n± 4° — stabilisation en 4 secondes\n\nClasse laser\n2\n\nIndice de protection\nIP65\n\nAlimentation\nBatterie Li-Ion 12V Bosch OU piles alcalines 4× AA (LR6)\n\nPilotage à distance\nApplication Levelling Remote (iOS & Android)\n\nFiletage trépied\n1/4» et 5/8»\n\nRéférence\n0601065400 (sans batterie) / 0601065401 (avec batterie 12V 2Ah + L-Boxx)\n\nGarantie\n3 ans après enregistrement sur bosch-pt.com (1 an sans inscription)\n\nContenu du pack\n\n1× Niveau laser Bosch GLL 12V-100-33 CG Professional\n\n1× Support universel LB 10 Professional\n\n4× Piles alcalines AA (LR6)\n\n1× Platine de visée laser (cible verte)\n\n1× Pochette de transport souple Bosch\n\nVersion 0601065401 : batterie 12V 2Ah + chargeur rapide GAL 12V-40 + clip de plafond DK20 + coffret L-Boxx",
+     "short_description": "Le Bosch GLL 12V-100-33 CG Professional est un laser lignes 3 × 360° à faisceau vert conçu pour les chantiers les plus exigeants. Avec une précision de ± 0,3 mm/m, une portée de 30 m (jusqu’à 100 m avec cellule), une protection IP65 et un pilotage mains libres via l’application Levelling Remote, il garantit des alignements parfaits — rapidement, précisément, et en toute autonomie."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/07/0601065401-GLL-12V-100-33-CG-en-MA-o464482v186-GLL-12V-100-33-CG-2Ah-ON-Dyn.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/07/0601065401-GLL-12V-100-33-CG-en-MA-o475497v186-GLL-12V-100-33-CG-Application-360degree-Line.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/07/0601065401-GLL-12V-100-33-CG-en-MA-o475498v186-GLL-12V-100-33-CG-Application-Cabinet-Alignment-T5.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-163662",
+   "price": 8700.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Niveau Laser Bosch GLL 18V-120-33 CG",
+     "description": "Le Bosch GLL 18V-120-33 CG Professional est le laser lignes de référence pour les chantiers les plus exigeants. Avec ses 3 lignes vertes 360°, une portée de 35 m (jusqu’à 120 m avec cellule), une autonomie record de 20 heures et son alimentation Triple Power (18V / 12V / piles C), il garantit des alignements précis à ± 0,3 mm/m — sans jamais s’arrêter.\n\n🟢 3 lignes vertes × 360° — Visibilité ×4\n\n🎯 Précision ± 0,3 mm/m\n\n📡 Portée 35 m — jusqu’à 120 m avec cellule\n\n🔋 Autonomie jusqu’à 20h — Triple Power 18V/12V/piles C\n\n📱 Pilotage mains libres — App Levelling Remote\n\n💧 IP65 — Boîtier caoutchouc + aimants intégrés\n\n3 lignes vertes 360° — Alignement horizontal et vertical simultané\n\nLe GLL 18V-120-33 CG projette 3 lignes laser à 360° — une horizontale et deux verticales — pour réaliser simultanément toutes les mises à niveau nécessaires dans une pièce ou un grand espace, d’un seul placement. Les lignes laser vertes ultra-brillantes (500–540 nm) offrent une visibilité jusqu’à 4 fois supérieure aux lasers rouges classiques — parfaitement lisibles en intérieur éclairé, sur surfaces claires, ou en conditions de chantier variable.\n\nSa portée de 35 m à l’œil nu (contre 30 m pour le GLL 12V) et jusqu’à 120 m de rayon avec la cellule de réception LR 7 Professional (en option) en fait l’outil idéal pour les grands halls, les plateaux ouverts et les chantiers extérieurs.\n\nTriple Power — Jamais à court d’énergie sur chantier\n\nL’alimentation Triple Power est l’avantage majeur du GLL 18V-120-33 CG par rapport aux modèles 12V. Il accepte trois sources d’énergie interchangeables sans outil :\n\nBatterie Li-Ion 18V ProCORE (4,0 Ah recommandée) — jusqu’à 20 heures d’autonomie en mode 3 lignes, ou jusqu’à 28 heures en mode économie d’énergie\n\nBatterie Li-Ion 12V — jusqu’à 8 heures d’autonomie, pour les utilisateurs déjà équipés en 12V Bosch\n\n4 piles alcalines type C (LR14) — en secours d’urgence, jusqu’à 8 heures en mode économie d’énergie\n\nPlus jamais d’interruption pour batterie déchargée : si l’une des sources est épuisée, il suffit de basculer sur une autre en quelques secondes.\n\nSupport magnétique intégré & réglage micrométrique — Précision sans compromis\n\nLe GLL 18V-120-33 CG embarque un support intégré avec aimants puissants permettant une fixation rapide, stable et sans trépied sur toute surface métallique — rail, ossature, profilé, équerre. Plus besoin d’emporter un support séparé sur chantier.\n\nRéglage micrométrique du pivot\n\nLa ligne verticale peut être déplacée avec précision grâce au réglage micrométrique — sans perdre le point de référence au sol. Idéal pour les ajustements fins en cours de travail, sans avoir à repositionner entièrement l’outil.\n\nTouches rétroéclairées — Visibles dans tous les environnements\n\nLes touches de commande à bords rétroéclairés permettent de sélectionner et d’activer/désactiver chaque ligne laser individuellement, même dans les espaces sombres ou en basse lumière. L’interrupteur marche/arrêt vertical se manie d’une seule main pour plus de stabilité lors de la manipulation.\n\nPilotage mains libres — Application Levelling Remote\n\nConnecté par Bluetooth, le GLL 18V-120-33 CG se pilote à distance via l’application gratuite Levelling Remote (iOS & Android). Activez ou désactivez chaque ligne, vérifiez l’état de la batterie et ajustez les paramètres — sans revenir à l’outil. Travaillez seul sur de grandes surfaces en toute confiance : les lignes restent visibles et contrôlables depuis n’importe quel point de la pièce.\n\nRobustesse chantier — IP65, boîtier caoutchouc, auto-nivellement 3 s\n\nLe boîtier à renforts caoutchouc et les fenêtres laser protégées absorbent les chocs et les vibrations du quotidien sur chantier. La protection IP65 garantit une étanchéité totale à la poussière et une résistance aux projections d’eau. Le pendule à auto-nivellement se stabilise en seulement 3 secondes (contre 4 s pour le modèle 12V) sur une plage de ± 4°, avec signal d’avertissement si la surface dépasse cette limite.\n\nApplications — Ce que vous pouvez réaliser\n\nCloisons sèches et ossatures : tracés à 360° sur toute la hauteur et longueur d’une grande pièce\n\nFaux-plafonds : ligne horizontale continue autour de la pièce entière en un seul placement\n\nCadres de fenêtres et portes : aplomb et niveau simultanés sur grandes hauteurs\n\nCanalisations et tuyauteries : alignement précis sur de longues distances\n\nPrises et interrupteurs électriques : hauteur de référence sur toute la longueur d’un mur\n\nGrands chantiers extérieurs : portée jusqu’à 120 m avec la cellule LR 7\n\nSpécifications techniques\n\nLignes laser\n3 × 360° (1 horizontale + 2 verticales)\n\nCouleur du faisceau\nVert 500–540 nm — visibilité ×4 vs laser rouge\n\nPrécision\n± 0,3 mm/m\n\nPortée sans cellule\n35 m (rayon)\n\nPortée avec cellule LR 7\n120 m (rayon) — soit 240 m de diamètre\n\nAuto-nivellement\n± 4° — stabilisation en 3 secondes\n\nClasse laser\n2\n\nIndice de protection\nIP65\n\nAlimentation (Triple Power)\nBatterie 18V Li-Ion OU batterie 12V Li-Ion OU 4× piles C (LR14)\n\nAutonomie max. (18V 4Ah)\n20 h en mode 3 lignes — jusqu’à 28 h en mode éco\n\nAutonomie max. (12V 2Ah / piles C)\n8 h en mode 3 lignes\n\nConnectivité\nBluetooth — Application Levelling Remote (iOS & Android)\n\nSupport intégré\nAimants puissants + réglage micrométrique du pivot\n\nTouches de commande\nRétroéclairées — sélection indépendante de chaque ligne\n\nFiletage trépied\n1/4» et 5/8»\n\nTempérature de service\n−10 °C à +40 °C\n\nPoids\n≈ 1,3 kg\n\nGarantie\n3 ans après enregistrement sur bosch-pt.com (1 an sans inscription)\n\nContenu du pack\n\n1× Niveau laser Bosch GLL 18V-120-33 CG Professional\n\n1× Platine de visée laser (cible verte)\n\n1× Clip de plafond DK 20 Professional\n\n1× Coffret de transport L-BOXX 136\n\nSelon la version : batterie ProCORE 18V 4,0 Ah + chargeur rapide GAL 18V-40 inclus (réf. 0601065100)",
+     "short_description": "Le Bosch GLL 18V-120-33 CG Professional est le laser lignes de référence pour les chantiers les plus exigeants. Avec ses 3 lignes vertes 360°, une portée de 35 m (jusqu’à 120 m avec cellule), une autonomie record de 20 heures et son alimentation Triple Power (18V / 12V / piles C), il garantit des alignements précis à ± 0,3 mm/m — sans jamais s’arrêter."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/07/0601065100-GLL-18V-120-33-CG-en-MA-o452665v186-o452665v12GLL-18V-120-33-CG-4Ah-ProCORE-ON-Dyn.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/07/0601065100-GLL-18V-120-33-CG-en-MA-o457366v186-GLL-18V-120-33-CG-18V-Application-CloseUp-Fine-Adjustment.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/07/0601065100-GLL-18V-120-33-CG-en-MA-o457388v186-GLL-18V-120-33-CG-18V-Application-Windows-Alignment-T2.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-163879",
+   "price": 599.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "INGCO VISSEUSE BRUSHLESS 20V 2 BATTERIES 50NM CDLI205062",
+     "description": "La INGCO CDLI205062 est une perceuse-visseuse sans fil brushless 20V conçue pour les travaux de perçage et de vissage intensifs — en atelier comme sur chantier. Avec un couple maximal de 50 Nm, un mandrin métal de 13 mm, 20+1 positions de couple et 2 batteries 2,0 Ah incluses, elle offre puissance, précision et endurance — pour ne jamais s’arrêter.\n\n⚙️ Moteur Brushless — Plus puissant, moins d’usure\n\n🔩 Couple max. 50 Nm\n\n🔧 Mandrin métal 13 mm — 20+1 positions\n\n⚡ 2 vitesses — 0–500 / 0–2 000 tr/min\n\n🔋 2× Batteries 2,0 Ah incluses\n\n🔗 Compatible INGCO SHARE 20V\n\nMoteur Brushless — Plus de puissance, moins d’usure, plus d’autonomie\n\nLe moteur sans balais (brushless) de la CDLI205062 est au cœur de ses performances. Contrairement à un moteur à charbons classique, il génère moins de chaleur, produit moins de friction et s’use beaucoup moins vite. Résultat : une puissance plus constante jusqu’à la fin de la charge, une autonomie accrue par batterie et une durée de vie de l’outil significativement plus longue — même en utilisation intensive et quotidienne.\n\nAvec un couple maximal de 50 Nm, la visseuse vient à bout des vissages les plus exigeants : vis longues dans le bois massif, boulons en métal, chevilles en béton ou matériaux composites durs.\n\n2 vitesses mécaniques — Vissage précis ou perçage rapide\n\nLa sélection de vitesse mécanique à 2 rapports permet d’adapter le régime au type de travail :\n\nVitesse 1 — 0 à 500 tr/min : couple élevé pour le vissage contrôlé dans le bois, le métal ou les matériaux composites, sans risquer de dépasser le niveau de serrage.\n\nVitesse 2 — 0 à 2 000 tr/min : régime élevé pour le perçage rapide dans le bois ou le métal, ou pour les vis courtes sur grandes surfaces.\n\nMandrin métal 13 mm — 20+1 positions de couple\n\nLe mandrin en métal de 13 mm garantit un serrage ferme et précis sur toute la gamme de forets et d’embouts — du plus fin au plus large. Les 20 positions de couple + 1 mode perçage permettent de régler très précisément la force de vissage en fonction du matériau travaillé :\n\nPositions basses (1–5) : vissage dans le contreplaqué fin, le placoplâtre, les matériaux fragiles\n\nPositions moyennes (6–15) : bois massif, MDF, matériaux composites\n\nPositions hautes (16–20) : métal, bois dur, vissage profond\n\nMode perçage (🔩) : perçage libre sans limitation de couple\n\n2 batteries 2,0 Ah — Travaillez sans interruption\n\nLe pack inclut 2 batteries lithium-ion 20V 2,0 Ah (réf. FBLI20011). Pendant que l’une est en cours d’utilisation, l’autre se recharge — éliminant les temps morts sur chantier. Chaque batterie est équipée d’un indicateur de charge LED intégré pour connaître le niveau en un coup d’œil, et d’une protection contre la surchauffe pour préserver la longévité des cellules.\n\nCompatible avec toute la gamme INGCO SHARE 20V\n\nCes batteries sont interchangeables avec tous les outils de la plateforme INGCO SHARE 20V — perceuse à percussion, scie circulaire, meuleuse, visseuse à chocs, lampe de chantier et plus. Un seul chargeur, un seul parc de batteries pour tout votre atelier.\n\nÉclairage LED & verrouillage de broche — Praticité au quotidien\n\nLa lampe de travail LED intégrée éclaire automatiquement la zone de perçage ou de vissage dès que la gâchette est actionnée — indispensable dans les endroits peu éclairés : placards, combles, gaines techniques ou sous une table. La fonction de verrouillage de broche permet de changer les embouts ou forets rapidement et en toute sécurité, d’une seule main.\n\nSpécifications techniques\n\nRéférence\nCDLI205062\n\nType de moteur\nBrushless (sans balais)\n\nTension\n20 V\n\nCouple maximal\n50 Nm\n\nVitesses à vide\n0–500 tr/min (V1) / 0–2 000 tr/min (V2)\n\nMandrin\nMétal autoserrant — 13 mm\n\nPositions de couple\n20 + 1 (mode perçage)\n\nVitesses mécaniques\n2 rapports\n\nVerrouillage de broche\nOui\n\nÉclairage LED\nIntégré\n\nBatteries incluses\n2× 20V 2,0 Ah Li-Ion (réf. FBLI20011)\n\nCompatibilité batteries\nPlateforme INGCO SHARE 20V (tous outils compatibles)\n\nProtection batterie\nIndicateur LED + protection contre surchauffe\n\nContenu du pack\n\n1× Perceuse-visseuse brushless INGCO CDLI205062 (20V)\n\n2× Batteries Li-Ion 20V 2,0 Ah (réf. FBLI20011)\n\n1× Chargeur rapide\n\nDocumentation et guide d’utilisation",
+     "short_description": "La INGCO CDLI205062 est une perceuse-visseuse sans fil brushless 20V conçue pour les travaux de perçage et de vissage intensifs — en atelier comme sur chantier. Avec un couple maximal de 50 Nm, un mandrin métal de 13 mm, 20+1 positions de couple et 2 batteries 2,0 Ah incluses, elle offre puissance, précision et endurance — pour ne jamais s’arrêter."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/07/CDLI205062.webp"
+   ]
+  }
+ ]
+}

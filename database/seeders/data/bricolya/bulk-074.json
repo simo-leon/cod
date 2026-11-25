@@ -1,0 +1,203 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-143321",
+   "price": 399.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince-clé multiprise pour sanitaires, 250 mm",
+     "description": "Largeur mm: 56,0\n\nPoids: 0,550 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 25,0\n\nLongueur mm: 266,0\n\nMatériaux: Chrome Vanadium\n\nPliers type: Pince multiprises\n\nNet Weight: 0,546 kg\n\nGross Weight: 0,561 kg",
+     "short_description": "Avantages du produit :\n\n• Pince-clé multiprise professionnelle simple et pratique, 250 mm\n\n• Grand confort d’utilisation : grâce au revêtement softgrip bi-matière\n\n• Ajustement possible des mâchoires directement sur la pièce et protection antipincement\n\n• Grande souplesse d’utilisation : utilisation possible sur les écrous jusqu’à 48 mm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02W3R-Sanitary-Wrench-Pliers-250-mm-Professional-en-MA-o586405v117-1600A02W3R-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02W3R-Sanitary-Wrench-Pliers-250-mm-Professional-en-MA-o586113v117-7822510-app-web-02.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02W3R-Sanitary-Wrench-Pliers-250-mm-Professional-en-MA-o586112v117-7822510-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143329",
+   "price": 185.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince droite à bec long VDE, 200 mm",
+     "description": "Largeur mm: 54,0\n\nPoids: 0,223 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 28,0\n\nLongueur mm: 205,0\n\nMatériaux: Chrome Vanadium\n\nPliers type: Pince à becs longs\n\nTensile strength ordinary steel wire: 1 600,0 N/mm²\n\nNet Weight: 0,223 kg\n\nGross Weight: 0,239 kg",
+     "short_description": "Avantages du produit :\n\n• Pince droite à bec long VDE de Bosch Professional – 200 mm – isolée, simple et pratique\n\n• Pratique à utiliser ; agrippe et coupe bien\n\n• Tête endurante et robuste en acier chrome-vanadium"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NE3-VDE-Long-Nose-Pliers-Straight-200-mm-Professional-ar-MA-o586379v117-1600A02NE3-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NE3-VDE-Long-Nose-Pliers-Straight-200-mm-Professional-ar-MA-o586110v117-7822508-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143331",
+   "price": 95.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis VDE, PZ3x125",
+     "description": "Largeur mm: 39,0\n\nPoids: 0,140 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 39,0\n\nLongueur mm: 245,0\n\nDiamètre de queue mm: 8,0\n\nMatériaux: S2\n\nProfile: PZ\n\nBlade diameter: 8,0 mm\n\nShaft length: 125,0 mm\n\nHandle diameter: 38,0 mm\n\nNet Weight: 0,140 kg\n\nGross Weight: 0,170 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis VDE PZ3x125 de Bosch Professional – isolé, simple et pratique\n\n• Précis et résistant, avec une tige fine et une tête robuste pour des vissages et dévissages parfaits\n\n• Faciles à manier et pratiques à utiliser grâce à leur revêtement softgrip et à leur forme ergonomique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02ND3-VDE-Screwdriver-PZ3x125-mm-Professional-ar-MA-o586370v117-1600A02ND3-bo-pro-u-f-1.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143335",
+   "price": 79.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis VDE, TX30x125",
+     "description": "Largeur mm: 39,0\n\nPoids: 0,107 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 39,0\n\nLongueur mm: 245,0\n\nDiamètre de queue mm: 6,0\n\nMatériaux: S2\n\nProfile: TX\n\nBlade diameter: 6,0 mm\n\nShaft length: 125,0 mm\n\nHandle diameter: 38,0 mm\n\nNet Weight: 0,107 kg\n\nGross Weight: 0,132 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis VDE TX30x125 de Bosch Professional – isolé, simple et pratique\n\n• Précis et résistant, avec une tige fine et une tête robuste pour des vissages et dévissages parfaits\n\n• Facile à manier et pratique à utiliser grâce à son revêtement softgrip et à sa forme ergonomique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NC9-VDE-Screwdriver-TX30x125-mm-Professional-ar-MA-o586366v117-1600A02NC9-bo-pro-u-f-1.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143340",
+   "price": 199.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince à bec long coudé 40° VDE, 200 mm",
+     "description": "Largeur mm: 54,0\n\nPoids: 0,220 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 33,0\n\nLongueur mm: 200,0\n\nMatériaux: Chrome Vanadium\n\nPliers type: Pince à becs longs\n\nTensile strength ordinary steel wire: 1 600,0 N/mm²\n\nNet Weight: 0,223 kg\n\nGross Weight: 0,240 kg",
+     "short_description": "Avantages du produit :\n\n• Pince à bec long coudé 40° VDE de Bosch Professional – 200 mm – isolée, simple et pratique\n\n• Pratique à utiliser ; agrippe et coupe bien\n\n• Tête endurante et robuste en acier chrome-vanadium"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NE4-VDE-Long-Nose-Pliers-Bent-40-200-mm-Professional-ar-MA-o586380v117-1600A02NE4-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NE4-VDE-Long-Nose-Pliers-Bent-40-200-mm-Professional-ar-MA-o586111v117-7822509-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143342",
+   "price": 79.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis VDE, SL/PH1x100",
+     "description": "Largeur mm: 31,0\n\nPoids: 0,056 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 31,0\n\nLongueur mm: 200,0\n\nDiamètre de queue mm: 4,500\n\nMatériaux: S2\n\nProfile: SL/PH\n\nBlade diameter: 4,500 mm\n\nShaft length: 100,0 mm\n\nHandle diameter: 31,0 mm\n\nNet Weight: 0,056 kg\n\nGross Weight: 0,081 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis VDE SL/PH1x100 de Bosch Professional – isolé, simple et pratique\n\n• Précis et résistant, avec une tige fine et une tête robuste pour des vissages et dévissages parfaits\n\n• Facile à manier et pratique à utiliser grâce à son revêtement softgrip et à sa forme ergonomique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02ND4-VDE-Screwdriver-SLPH1x100-mm-Professional-ar-MA-o586371v117-1600A02ND4-bo-pro-u-f-1.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143344",
+   "price": 55.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis, TX10x75",
+     "description": "Poids: 0,060 kg\n\nGRIFF: Multi-component handle\n\nDiamètre de queue mm: 4,0\n\nMatériaux: S2\n\nShort version additional information: Longueur de tige 75 mm. La taille est inscrite sur le manche, ce qui permet d’identifier rapidement le bon tournevis.\n\nProfile: TX\n\nBlade diameter: 4,0 mm\n\nShaft length: 75,0 mm\n\nHandle diameter: 27,0 mm\n\nNet Weight: 0,040 kg\n\nGross Weight: 0,060 kg",
+     "short_description": "Avantages du produit :\n\n• Le tournevis en acier Torx endurant pour professionnels\n\n• La pointe Torx de grande précision garantit de très bons résultats\n\n• La forme ergonomique du manche et le revêtement softgrip assurent un grand confort d’utilisation"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01V0A-Screwdriver-TX10x75-mm-Professional-ar-MA-o586334v117-1600A01V0A-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01V0A-Screwdriver-TX10x75-mm-Professional-ar-MA-o586082v117-7821620-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143347",
+   "price": 55.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis, SL3,5×75",
+     "description": "Poids: 0,075 kg\n\nGRIFF: Multi-component handle\n\nDiamètre de queue mm: 3,500\n\nMatériaux: Chrome Vanadium\n\nBlade width: 3,500 mm\n\nProfile: SL\n\nBlade diameter: 3,500 mm\n\nBlade thickness: 0,600 mm\n\nShaft length: 75,0 mm\n\nHandle diameter: 27,0 mm\n\nNet Weight: 0,042 kg\n\nGross Weight: 0,060 kg",
+     "short_description": "Avantages du produit :\n\n• Petit tournevis plat pour une grande variété d’applications\n\n• Longueur de tige 75 mm. La taille est inscrite sur le manche, ce qui permet d’identifier rapidement le bon tournevis"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TF8-Screwdriver-SL3.5X75-mm-Professional-ar-MA-o586319v117-1600A01TF8-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TF8-Screwdriver-SL3.5X75-mm-Professional-ar-MA-o586081v117-7821619-app-web-02.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TF8-Screwdriver-SL3.5X75-mm-Professional-ar-MA-o586080v117-7821619-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143351",
+   "price": 70.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis VDE SL4,5×100",
+     "description": "Largeur mm: 31,0\n\nPoids: 0,056 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 31,0\n\nLongueur mm: 200,0\n\nDiamètre de queue mm: 4,500\n\nMatériaux: S2\n\nBlade width: 4,500 mm\n\nProfile: SL\n\nBlade diameter: 4,500 mm\n\nBlade thickness: 1,0 mm\n\nShaft length: 100,0 mm\n\nHandle diameter: 31,0 mm\n\nNet Weight: 0,056 kg\n\nGross Weight: 0,081 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis VDE SL4,5×100 de Bosch Professional – isolé, simple et pratique\n\n• Précis et résistant, avec une tige fine et une tête robuste pour des vissages et dévissages parfaits\n\n• Faciles à manier et pratiques à utiliser grâce à leur revêtement softgrip et à leur forme ergonomique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NC2-VDE-Screwdriver-SL4.5x100-mm-Professional-ar-MA-o586359v117-1600A02NC2-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NC2-VDE-Screwdriver-SL4.5x100-mm-Professional-ar-MA-o586091v117-7821753-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143354",
+   "price": 80.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis, SL5,5×100",
+     "description": "Poids: 0,120 kg\n\nGRIFF: Multi-component handle\n\nDiamètre de queue mm: 5,500\n\nMatériaux: Chrome Vanadium\n\nShort version additional information: Longueur de tige 100 mm. La taille est inscrite sur le manche, ce qui permet d’identifier rapidement le bon tournevis.\n\nBlade width: 5,500 mm\n\nProfile: SL\n\nBlade diameter: 5,500 mm\n\nBlade thickness: 1,0 mm\n\nShaft length: 100,0 mm\n\nHandle diameter: 33,0 mm\n\nNet Weight: 0,110 kg\n\nGross Weight: 0,130 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis plat robuste pour travaux exigeants\n\n• L’écrou six pans intégré permet d’exercer un couple plus élevé\n\n• La forme ergonomique du manche et le revêtement softgrip assurent un grand confort d’utilisation"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TG0-Screwdriver-SL5.5x100-mm-Professional-ar-MA-o586321v117-1600A01TG0-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TG0-Screwdriver-SL5.5x100-mm-Professional-ar-MA-o586078v117-7821499-app-web-01.jpg"
+   ]
+  }
+ ]
+}

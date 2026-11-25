@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-138411",
+   "price": 5.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Couteau à lame cassable Jadever JDSK2918",
+     "description": "Taille de lame: 18mmx100mm\n\nLongueur: 150mm\n\nAvec bouton poussoir plat\n\nEmballé par boîte de couleur",
+     "short_description": "Taille de lame: 18mmx100mm\n\nLongueur: 150mm\n\nAvec bouton poussoir plat\n\nEmballé par boîte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDSK2918.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138569",
+   "price": 449.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Niveau Laser auto nivellant Jadever JDLE2M03",
+     "description": "Niveau laser vert\n\nPlage de travail : 0~30m\n\nPrécision de nivellement : ±2mm@5m\n\nPrécision de la ligne : ±2mm@5m\n\nTemps de nivellement : ≤3s\n\nAngle d’auto-nivellement : ≤4°\n\nType de laser : 520±5nm\n\nClasse de laser Ⅱ <1mW\n\nAvec fonction de verrouillage croisé au laser\n\nAvec fonction de ligne horizontale et verticale\n\nTempérature de fonctionnement : 0~+40℃\n\nTempérature de fonctionnement : -10~+50℃\n\nPiles LR6 AA(1.5V)*2\n\nSupport magnétique*1\n\nEmballé dans un sac en toile",
+     "short_description": "Niveau laser vert\n\nPlage de travail : 0~30m\n\nPrécision de nivellement : ±2mm@5m\n\nPrécision de la ligne : ±2mm@5m\n\nTemps de nivellement : ≤3s\n\nAngle d’auto-nivellement : ≤4°\n\nType de laser : 520±5nm\n\nClasse de laser Ⅱ <1mW\n\nAvec fonction de verrouillage croisé au laser\n\nAvec fonction de ligne horizontale et verticale\n\nTempérature de fonctionnement : 0~+40℃\n\nTempérature de fonctionnement : -10~+50℃\n\nPiles LR6 AA(1.5V)*2\n\nSupport magnétique*1\n\nEmballé dans un sac en toile"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDLE2M03.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138649",
+   "price": 650.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à graisse Jadever JDGG5540",
+     "description": "Pistolet à graisse\n\nMême qualité que Makita : P-90451\n\nCapacité : 400cc/14Oz\n\nMode de chargement : Cartouche 14Oz/400cc en vrac\n\nPression de travail : 4000psi\n\nPression de rupture : 8000psi\n\nMatériau : aluminium\n\n1/4″ DR\n\nChargement 3 voies : Cartouche 14Oz/vrac/distributeur\n\nInclus :\n\n1pcs tuyau de graisse en nylon haute pression de 18″\n\n1pcs support\n\nConvient pour perceuse sans fil au lithium-ion, visseuse à chocs, perceuse à percussion et perceuse électrique\n\nEmballé dans une boîte de couleur",
+     "short_description": "Pistolet à graisse\n\nMême qualité que Makita : P-90451\n\nCapacité : 400cc/14Oz\n\nMode de chargement : Cartouche 14Oz/400cc en vrac\n\nPression de travail : 4000psi\n\nPression de rupture : 8000psi\n\nMatériau : aluminium\n\n1/4″ DR\n\nChargement 3 voies : Cartouche 14Oz/vrac/distributeur\n\nInclus :\n\n1pcs tuyau de graisse en nylon haute pression de 18″\n\n1pcs support\n\nConvient pour perceuse sans fil au lithium-ion, visseuse à chocs, perceuse à percussion et perceuse électrique\n\nEmballé dans une boîte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDGG5540.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138659",
+   "price": 209.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pulvérisateur à dos Jadever JDKS1516",
+     "description": "16L\n\nLance en fibre de verre\n\nPression : 4.5BAR\n\nBuse réglable de jet à brume\n\nGrand réservoir spécialement conçu pour pulvériser de grandes surfaces\n\nEmballé dans une boîte de couleur",
+     "short_description": "16L\n\nLance en fibre de verre\n\nPression : 4.5BAR\n\nBuse réglable de jet à brume\n\nGrand réservoir spécialement conçu pour pulvériser de grandes surfaces\n\nEmballé dans une boîte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDKS1516.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138661",
+   "price": 249.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pulvérisateur à dos Jadever JDKS1520",
+     "description": "20L\n\nLance en fibre de verre\n\nPression : 4.5BAR\n\nBuse réglable de jet à brouillard\n\nGrand réservoir spécialement conçu pour pulvériser de grandes surfaces\n\nEmballé dans une boîte de couleur",
+     "short_description": "20L\n\nLance en fibre de verre\n\nPression : 4.5BAR\n\nBuse réglable de jet à brouillard\n\nGrand réservoir spécialement conçu pour pulvériser de grandes surfaces\n\nEmballé dans une boîte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDKS1520.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138902",
+   "price": 749.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "VISSEUSE sans fil sans balais BRUSHLESS JADEVER 20V JDCDP552",
+     "description": "VISSEUSE sans fil sans balais BRUSHLESS JADEVER 20V JDCDP552\n\nPuissance, légèreté et précision pour tous vos travaux\n\nLa visseuse sans fil JADEVER JDCDP552 est équipée d’un moteur Brushless (sans balais) garantissant une longévité accrue, une puissance constante et une consommation d’énergie optimisée. Compacte et ergonomique, elle est l’alliée idéale pour vos travaux de vissage et de perçage, que ce soit en atelier, sur chantier ou à domicile.\n\n✅ Caractéristiques techniques :\n\nMoteur : sans balais (Brushless)\n\nTension : 20 V\n\nVitesse à vide : 0–550 / 0–2000 tr/min\n\nCouple maximal : 50 Nm\n\nMandrin : plastique – capacité 0,8 à 10 mm\n\nRéglages de couple : 22 + 1\n\nEngrenage mécanique : 2 vitesses\n\nFonction : verrouillage de la broche\n\nÉclairage : lampe LED intégrée\n\nIndicateur LED : niveau de charge de la batterie\n\n🎁 Contenu de l’emballage :\n\n1 embout Cr-V\n\n2 batteries 1,5 Ah 20V (JDLBP515)\n\n1 chargeur (JDFCP518) – tension de charge 220-240 V ~ 50/60 Hz\n\n1 étui de transport pratique\n\n🔥 Points forts :\n\n⚡ Technologie Brushless : plus de puissance et de durabilité\n\n🔄 2 vitesses mécaniques pour s’adapter à chaque application\n\n🔧 22 + 1 réglages de couple pour un contrôle optimal\n\n🔋 Livrée avec 2 batteries 20V pour travailler sans interruption\n\n💡 Lampe LED intégrée pour plus de confort dans les zones sombres\n\n👜 Valise de transport pour un rangement et déplacement faciles\n\n📦 Applications idéales :\n\nMontage et démontage rapide\n\nTravaux de menuiserie et d’aménagement intérieur\n\nFixation sur métal, bois et plastique\n\nUsage professionnel et domestique\n\nProvenance des produits JADEVER VISSEUSE sans fil sans balais BRUSHLESS JADEVER 20V JDCDP552\n\nTous les produits de la marque JADEVER proviennent de JADEVER Maroc\n\nBricolya est distributeur officiel de la marque JADEVER.\n\nVous bénéficiez des services et de la garantie JADEVER.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel de produit.",
+     "short_description": "VISSEUSE sans fil sans balais BRUSHLESS JADEVER 20V JDCDP552"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/VISSEUSE-sans-fil-sans-balais-BRUSHLESS-JADEVER-20V-JDCDP552-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138907",
+   "price": 20.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse coupe métallique 75 mm, 3″ JDCE1401 JADEVER",
+     "description": "Brosse coupe métallique 75 mm, 3″ JDCE1401 JADEVER\n\nPour un travail de nettoyage et de préparation efficace\n\nLa brosse coupe métallique JADEVER JDCE1401 est idéale pour les travaux de finition, de nettoyage et de préparation des surfaces. Compacte et résistante, elle assure un brossage rapide et efficace sur différents supports.\n\n✅ Caractéristiques techniques :\n\nDiamètre : 75 mm (3″)\n\nFiletage : M14 × 2\n\nDiamètre du fil : 0,3 mm\n\nLongueur du fil : 23 mm\n\nVitesse max. : 12 500 tr/min\n\nEmballage : boîte colorée\n\n🔥 Applications recommandées :\n\nRabotage et nettoyage des surfaces métalliques\n\nÉbavurage et rodage des bords\n\nDétartrage et décapage de peinture\n\nNettoyage de cordons de soudure et élimination de la rouille\n\n🎯 Points forts :\n\n⚡ Grande vitesse (12 500 RPM) pour un travail rapide et efficace\n\n🔧 Filetage standard M14 compatible avec la plupart des meuleuses\n\n🛡️ Construction robuste pour une longue durée de vie\n\n📦 Livré dans une boîte colorée pour plus de praticité\n\nProvenance des produits Brosse coupe métallique 75 mm, 3″ JDCE1401 JADEVER\n\nTous les produits de la marque JADEVER proviennent de JADEVER Maroc\n\nBricolya est distributeur officiel de la marque JADEVER.\n\nVous bénéficiez des services et de la garantie JADEVER.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel de produit.",
+     "short_description": "Brosse coupe métallique 75 mm, 3″ JDCE1401 JADEVER"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/Brosse-coupe-metallique-75-mm-322-JDCE1401-JADEVER.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138910",
+   "price": 35.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse coupe métallique 100 mm, 4″ JDCE1402 JADEVER",
+     "description": "Brosse coupe métallique 100 mm, 4″ JDCE1402 JADEVER\n\nPerformance et durabilité pour vos travaux de finition\n\nLa brosse coupe métallique JADEVER JDCE1402 est conçue pour les professionnels comme pour les bricoleurs exigeants. Avec son diamètre de 100 mm, elle garantit un nettoyage efficace, rapide et précis des surfaces métalliques et des zones difficiles d’accès.\n\n✅ Caractéristiques techniques :\n\nDiamètre : 100 mm (4″)\n\nFiletage : M14 × 2\n\nDiamètre du fil : 0,3 mm\n\nLongueur du fil : 30 mm\n\nVitesse max. : 8 500 tr/min\n\nEmballage : boîte colorée\n\n🔥 Applications recommandées :\n\nRabotage et préparation des surfaces métalliques\n\nÉbavurage et rodage des bords\n\nDétartrage et décapage de peinture\n\nNettoyage de cordons de soudure et élimination de la rouille\n\n🎯 Points forts :\n\n⚡ Diamètre 100 mm pour couvrir une plus grande surface\n\n🔧 Filetage universel M14 compatible avec la majorité des meuleuses\n\n🛡️ Conception robuste pour résister aux travaux intensifs\n\n📦 Livrée dans une boîte colorée pratique et protégée\n\nProvenance des produits Brosse coupe métallique 100 mm, 4″ JDCE1402 JADEVER\n\nTous les produits de la marque JADEVER proviennent de JADEVER Maroc\n\nBricolya est distributeur officiel de la marque JADEVER.\n\nVous bénéficiez des services et de la garantie JADEVER.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel de produit.",
+     "short_description": "Brosse coupe métallique 100 mm, 4″ JDCE1402 JADEVER"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/Brosse-coupe-metallique-75-mm-322-JDCE1401-JADEVER.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138912",
+   "price": 1900.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "ASPIRATEUR 60L 2 MOTEUR 2*1200W JADEVER JDVR5A60",
+     "description": "ASPIRATEUR 60L 2 MOTEUR 2*120W JADEVER JDVR5A60\n\nPuissance extrême et grande capacité pour les environnements exigeants\n\nConçu pour les professionnels, l’aspirateur industriel JADEVER JDVR5A60 offre une puissance exceptionnelle grâce à ses 2 moteurs de 1200W chacun et son réservoir en acier inoxydable de 60L. Idéal pour les ateliers, chantiers et espaces industriels, il permet d’aspirer aussi bien les poussières fines que les déchets liquides, assurant un nettoyage complet et efficace.\n\n✅ Caractéristiques techniques :\n\nTension : 220 V – 240 V ~ 50/60 Hz\n\nPuissance d’entrée : 2 × 1200 W (fil de cuivre pur)\n\nDébit d’air : 3 m³/min\n\nPression d’aspiration : 20 kPa\n\nCapacité du réservoir : 60 L\n\nMatériau du réservoir : acier inoxydable\n\nLongueur du câble : 4 m\n\nType de nettoyage : humide & sec\n\n🎁 Accessoires inclus :\n\n1 tuyau flexible\n\n1 tube métallique (en 2 parties)\n\n1 sac filtrant en tissu\n\n1 brosse pour sols humides et secs\n\n1 suceur plat\n\n1 suceur rond\n\nEmballage : carton robuste\n\n🔥 Points forts :\n\n⚡ Double moteur (2×1200W) pour une puissance d’aspiration renforcée\n\n🛡️ Réservoir inox 60L : grande capacité et résistance\n\n💧 Convient pour nettoyage humide et sec\n\n🔧 Large gamme d’accessoires pour s’adapter à tous les besoins\n\n🚀 Débit d’air élevé pour un nettoyage rapide et efficace\n\n✅ Conception robuste, idéale pour un usage intensif\n\n📦 Applications recommandées :\n\nAteliers & garages\n\nChantiers de construction\n\nEspaces industriels et entrepôts\n\nNettoyage professionnel des grandes surfaces\n\nProvenance des produits ASPIRATEUR 60L 2 MOTEUR 2*120W JADEVER JDVR5A60\n\nTous les produits de la marque JADEVER proviennent de JADEVER Maroc\n\nBricolya est distributeur officiel de la marque JADEVER.\n\nVous bénéficiez des services et de la garantie JADEVER.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel de produit.",
+     "short_description": "ASPIRATEUR 60L 2 MOTEUR 2*120W JADEVER JDVR5A60"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/ASPIRATEUR-60L-2-MOTEUR-2120W-JADEVER-JDVR5A60.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138918",
+   "price": 249.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "PISTOLET À PEINTURE JADEVER 450W JDEG1A45",
+     "description": "PISTOLET À PEINTURE JADEVER 450W JDEG1A45\n\nPrécision et confort pour tous vos travaux de peinture\n\nLe pistolet à peinture électrique JADEVER JDEG1A45 est l’outil idéal pour vos projets de peinture à la maison ou sur chantier. Compact, puissant et facile à utiliser, il garantit une pulvérisation homogène pour un rendu professionnel.\n\n✅ Caractéristiques techniques :\n\nTension : 220-240 V ~ 50/60 Hz\n\nPuissance d’entrée : 450 W\n\nPression de pulvérisation : 0,1 – 0,2 bar\n\nViscosité max. : 100 DIN-s\n\nCapacité du récipient : 800 ml\n\nEmballage : boîte en carton\n\n🎁 Accessoires inclus :\n\n1 tasse à mesurer la viscosité\n\n1 aiguille de nettoyage de buse\n\n🔥 Points forts :\n\n⚡ Puissance 450W pour une application rapide et efficace\n\n🎯 Pulvérisation homogène pour un fini net et précis\n\n🛠️ Réglage adapté aux peintures et vernis de différentes viscosités\n\n🧴 Grand réservoir 800 ml pour limiter les recharges\n\n🧽 Entretien facile grâce à l’aiguille de nettoyage fournie\n\n📦 Applications recommandées :\n\nPeinture des murs intérieurs et extérieurs\n\nRénovation de meubles et menuiseries\n\nProjets de décoration et bricolage\n\nVernis et finitions sur bois et métal\n\nProvenance des produits PISTOLET À PEINTURE JADEVER 450W JDEG1A45\n\nTous les produits de la marque JADEVER proviennent de JADEVER Maroc\n\nBricolya est distributeur officiel de la marque JADEVER.\n\nVous bénéficiez des services et de la garantie JADEVER.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel de produit.",
+     "short_description": "PISTOLET À PEINTURE JADEVER 450W JDEG1A45"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/PISTOLET-A-PEINTURE-JADEVER-450W-JDEG1A45.jpg"
+   ]
+  }
+ ]
+}

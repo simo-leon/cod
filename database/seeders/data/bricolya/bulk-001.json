@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-13688",
+   "price": 24.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack de 2 Embrasses de rideaux A52",
+     "description": "Pack de 2 Embrasses A52 en métal est l’accessoire qui enserre joliment vos rideaux",
+     "short_description": "Pack de 2 Embrasses A52 en métal est l’accessoire qui enserre joliment vos rideaux"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/emb-9.jpg",
+    "https://bricolya.com/wp-content/uploads/2020/12/A52-GP-1-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-13763",
+   "price": 5.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "BOUTTON A POINTS",
+     "description": "Bouton à point fabriqués a partir de laiton cuivre de qualité supérieure pour toutes les armoires, portes de meubles, tiroirs, penderie, commode, meubles de chambre, meuble et placard de cuisine",
+     "short_description": "Bouton à point fabriqués a partir de laiton cuivre de qualité supérieure pour toutes les armoires, portes de meubles, tiroirs, penderie, commode, meubles de chambre, meuble et placard de cuisine"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/MC201630-1.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-13804",
+   "price": 19.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "TARJETTE 29-35",
+     "description": "Trajette en métal antirouille de qualité supérieure, avec longue durée de vie, même dans un environnement humide.\n\nLoquet idéal pour porte de maison, de bureau, de placard, de tiroir, de meuble, etc.\n\nVisitez Bricolya pour tous vos besoins de bricolage et outillage. www.bricolya.com\n\nMagasin d’outils en ligne bricolage détaillants et grossistes produits de bricolage menuiserie plomberie électricien Adhésif Quincaillerie Cadenas Eclairage Peinture et nettoyage Sanitaire plomberie Support TV construction sécurité EN PLUS D’UNE livraison gratuite\n\nConsultez bricolya.com/conditions-generales-de-vente/   afin de découvrir nos modes de paiement, tarifs de livraison et programme de fidélité.",
+     "short_description": "Trajette en métal antirouille de qualité supérieure, avec longue durée de vie, même dans un environnement humide."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/iuzrf.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-13880",
+   "price": 19.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cadenas 40mm E2",
+     "description": "Cadenas 40 mm en acier ultra résistant et durable",
+     "short_description": "Cadenas 40 mm en acier ultra résistant et durable"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/MC20183120S40.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-13942",
+   "price": 23.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cadenas 40mm L",
+     "description": "Cadenas 40mm L en acier ultra résistant et durable\n\nVisitez Bricolya pour tous vos besoins de bricolage et outillage. www.bricolya.com\n\nMagasin d’outils en ligne bricolage détaillants et grossistes produits de bricolage menuiserie plomberie électricien Adhésif Quincaillerie Cadenas Eclairage Peinture et nettoyage Sanitaire plomberie Support TV construction sécurité EN PLUS D’UNE livraison gratuite\n\nConsultez bricolya.com/conditions-generales-de-vente/   afin de découvrir nos modes de paiement, tarifs de livraison et programme de fidélité.",
+     "short_description": "Cadenas 40mm L en acier ultra résistant et durable"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/yzvhr.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-13943",
+   "price": 53.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cadenas carré chrome 70mm",
+     "description": "Cadenas en acier massif résistant a la corrosion. Chaque cadenas est livré avec 3 Clés de dimension 70 mm",
+     "short_description": "Cadenas en acier massif résistant a la corrosion. Chaque cadenas est livré avec 3 Clés de dimension 70 mm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/WhatsApp-Image-2021-03-17-at-09.54.27.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-13978",
+   "price": 74.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cadenas carré chromé 90mm",
+     "description": "Cadenas Carré Chromé 90 mm – Power – MC1832\n\nLe cadenas carré chromé 90 mm de la marque Power, référence MC1832, est un dispositif de sécurité robuste, conçu pour offrir une protection optimale contre les tentatives d’effraction. Fabriqué avec des matériaux de haute qualité, il allie fiabilité, durabilité et efficacité pour répondre aux besoins des professionnels comme des particuliers dans la sécurisation de biens, d’entrées, de conteneurs ou d’équipements industriels.\n\n1. Structure et conception\n\nCe cadenas se distingue par sa forme carrée compacte qui limite les prises pour les outils de coupe ou de crochetage. Son corps monobloc en acier massif assure une résistance accrue contre les chocs, le sciage, le perçage et les attaques mécaniques.\n\nLe revêtement chromé du cadenas confère non seulement une finition esthétique brillante, mais surtout une excellente résistance à la corrosion, ce qui permet une utilisation aussi bien en intérieur qu’en extérieur, y compris dans des environnements exposés à l’humidité ou aux intempéries.\n\nAvec une dimension de 90 mm, ce cadenas est de taille imposante, idéal pour sécuriser des zones à haut risque telles que des portails industriels, des grilles, des entrepôts, des rideaux métalliques ou des cadenas de chaînes.\n\n2. Anse renforcée et système de verrouillage\n\nL’anse du cadenas MC1832 est totalement encapsulée dans le corps, ce qui réduit les points vulnérables accessibles aux coupe-boulons ou autres outils de forçage. Cette configuration est appelée « cadenas blindé« , une caractéristique particulièrement prisée dans les environnements à haute exigence de sécurité.\n\nLe mécanisme de verrouillage à double ancrage garantit une fermeture ferme et sans jeu, empêchant toute rotation ou extraction forcée de l’anse. Ce système est conçu pour résister efficacement aux torsions et aux tractions extrêmes.\n\nLe cylindre de haute sécurité est équipé d’un mécanisme à goupilles, rendant le crochetage difficile. Le cadenas est livré avec 3 clés taillées avec précision, assurant une manipulation fluide et rapide. Le remplacement du barillet est également possible en cas de besoin.\n\n3. Caractéristiques techniques\n\nMarque : Power\n\nModèle : MC1832\n\nType : Cadenas carré blindé\n\nDimensions : 90 mm\n\nMatériau du corps : Acier massif chromé\n\nFinition : Chromée anticorrosion\n\nType d’anse : Anse protégée intégrée (blindée)\n\nSystème de verrouillage : Mécanisme à goupilles avec double ancrage\n\nClés fournies : 3 clés\n\nUtilisation : Intérieure / extérieure\n\n4. Applications recommandées\n\nLe cadenas carré MC1832 est idéal pour :\n\nSécuriser des portails et portes métalliques\n\nProtéger des entrepôts, hangars, containers maritimes\n\nVerrouiller des grilles, rideaux de fer ou box de stockage\n\nUtilisation dans les zones industrielles, chantier de construction, parcs logistiques\n\nGrâce à sa résistance exceptionnelle aux intempéries, ce cadenas peut être utilisé dans des conditions extérieures difficiles sans compromettre sa durabilité.\n\n5. Avantages clés\n\nRobustesse accrue grâce à son corps en acier monobloc\n\nSécurité maximale avec une anse totalement protégée\n\nProtection anti-corrosion assurée par la finition chromée\n\nManipulation facile avec des clés précises\n\nRésistance élevée au crochetage, perçage et sciage\n\nPolyvalence d’usage dans plusieurs contextes professionnels ou domestiques\n\nProvenance des produits COMPRESSEUR SILENCIEUX 100L POWER 4.6 HP\n\nTous les produits de la marque POWER proviennent de POWER Maroc\n\nBricolya est distributeur officiel de la marque POWER.\n\nVous bénéficiez des services et de la garantie POWER.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel de produit.",
+     "short_description": "Marque : Power\n\nModèle : MC1832\n\nType : Cadenas carré blindé\n\nDimensions : 90 mm\n\nMatériau du corps : Acier massif chromé\n\nFinition : Chromée anticorrosion\n\nType d’anse : Anse protégée intégrée (blindée)\n\nSystème de verrouillage : Mécanisme à goupilles avec double ancrage\n\nClés fournies : 3 clés\n\nUtilisation : Intérieure / extérieure"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/MC-1832-90-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-14116",
+   "price": 25.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Truelle Power",
+     "description": "Truelle de maçon pour travaux de ciment, plâtres.\n\nUne lame mince, en forme de triangle ou carrée, d’acier plus ou moins flexible, EN PLUS d’une manche de fer recourbé se terminant par une poignée en bois ou en plastique.\n\nLa manche est inséré dans la poignée et y est fixé a l’aide d’une virole.\n\nVisitez Bricolya pour tous vos besoins de bricolage et outillage. www.bricolya.com\n\nMagasin d’outils en ligne bricolage détaillants et grossistes produits de bricolage menuiserie plomberie électricien Adhésif Quincaillerie Cadenas Eclairage Peinture et nettoyage Sanitaire plomberie Support TV construction sécurité EN PLUS D’UNE livraison gratuite\n\nConsultez bricolya.com/conditions-generales-de-vente/   afin de découvrir nos modes de paiement, tarifs de livraison et programme de fidélité.",
+     "short_description": "Truelle de maçon pour travaux de ciment, plâtres."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/ERHEH.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-14141",
+   "price": 24.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet pour Silicone num 1",
+     "description": "Pistolet pour silicone résistant et léger facile à transporter avec une poignée ergonomique qui se tient bien dans votre main et apporte de la stabilité",
+     "short_description": "Pistolet pour silicone résistant et léger facile à transporter avec une poignée ergonomique qui se tient bien dans votre main et apporte de la stabilité"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/164134-1.png"
+   ]
+  },
+  {
+   "sku": "bricolya-14142",
+   "price": 23.2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet pour Silicone num 2",
+     "description": "Pistolet pour silicone résistant et léger facile à transporter avec une poignée ergonomique qui se tient bien dans votre main et apporte de la stabilité",
+     "short_description": "Pistolet pour silicone résistant et léger facile à transporter avec une poignée ergonomique qui se tient bien dans votre main et apporte de la stabilité"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/16413420B-1.png"
+   ]
+  }
+ ]
+}

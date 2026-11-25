@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-150622",
+   "price": 13.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "4341 Mèche Hss DBT1200804",
+     "description": "• HSS 4341 Diamètre 8 mmPâte blanche à rainure noire 1 pcs/set 135°Emballage par double plaquette thermoformée",
+     "short_description": "HSS 4341 Diamètre: 8► Emballé par double blister"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/DBT1200804.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150624",
+   "price": 20.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "4341 Mèche Hss DBT1201004",
+     "description": "• HSS 4341 Diamètre 10 mmPâte blanche à rainure noire 1 pcs/set 135°Emballage par double plaquette thermoformée",
+     "short_description": "HSS 4341 Diamètre 10► Emballé par double blister"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/DBT1201004.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150628",
+   "price": 30.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Diffusez diamant sec DMD0111513",
+     "description": "• 115(4\n\n• 1/2″)X 22\n\n• 2 mmLargeur de la lame: 12 mmConçu pour la coupe de pierre, y compris le béton, la brique, le calcaire, le granit et le marbre Convient pour la coupe à sec et humide Emballage par double blister",
+     "short_description": "115(4 .1/2″ »)X 22.2 mmLargeur de la lame: 12 mm► Emballé par double blister"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/DMD0111513.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150630",
+   "price": 75.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Diffusez diamant sec DMD011802",
+     "description": "• 180(7″)X 22,2 mmGrandeur de boite: 10 mmEmballer par boîte de couleur",
+     "short_description": "180 mm(7″) X 22,2 mmExtrêmement de la boite: 10 mm- Emballer par carte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/DMD011802.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150632",
+   "price": 109.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Diffusez diamant sec DMD0123013",
+     "description": "• 230(9″ »)X 22,2 mmGrandeur de boite: 12 mmEmballer sous double plaquette thermoformée",
+     "short_description": "230(9″ »)X 22,2 mmExtrêmement de la boite: 12 mm► Emballer sous double blister"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/DMD0123013.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150634",
+   "price": 109.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Diffusez diamant sec DMD012302",
+     "description": "• 230(9″)X 22,2 mmGrandeur de boite: 10 mmEmballer par boîte de couleur",
+     "short_description": "230(9″)X 22,2 mmExtrêmement de la boite: 10 mm- Emballer par carte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/DMD012302.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150646",
+   "price": 99.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur de batterieM 16 FCLI1613",
+     "description": "• Tension d’entrée: 220240 V~50/60 HzTension de sortie: 16 VProduit courant: 1\n\n• 3 AEmballé par boîte de couleur",
+     "short_description": "Tension d’entrée: 220240 V~50/60 Hz∙ Tension de sortie: 16 V► Courant de sortie: 1.3 A"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/FCLI1613.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150650",
+   "price": 449.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ponceuse à finition FS3216",
+     "description": "• Tension: 220240 V~50/60 HzPuissance d’entrée: 320 WVitesse de charge sans charge: 14000 rpmBase inférieure: 90 mmx 180 mmBase durable en aluminium avec papier de sable 5 pcs(AKFS 240101\n\n• 1) Avec brosses en carbone supplémentaire 1 set emballé par boîte de couleur",
+     "short_description": "Tension: 220240 V~50/60 HzPuissance d’entrée: 320 W Vitesse de charge nominale: 14000 rpm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/FS3216.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150652",
+   "price": 3190.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Outil multifonction taille-haie à essence 4 en 1 GMT55231",
+     "description": "• « Déplacement: 52 cm 3 Poussière nominale: 1\n\n• 4 Kw (2\n\n• 2 HP) Vitesse maximale: 10000 tr / min Chemin de coupé maximum: 420 mmDoublure de bobine: 2,4 mmx 4 m Diamètre de la lame: 255 mm(3 capacité du réservoir de carburant: 1200 ml Moteur 2 temps puissant Avec coupéherbe 1 pcs Avec coupébousse 1 pcs Avec 1 halehaie Avec 1 scie à chaîne Emballeré par boîte de couleur «",
+     "short_description": "52 cc.0 Pouvoir nominal: 1.4 Kw (2.2 HP) Vitesse maximale: 10000 tr/min"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/GMT55231.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150656",
+   "price": 49.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ciseau de béton HCC830416",
+     "description": "• Matériau: 40 Cr Taille: 4 mm*16 mm*305 mmTraitement thermique Limpid Powder enduit Poignée design unique Emballé par cintre en plastique",
+     "short_description": "Matériau: 40 Cr.4 mm*16 mm*305 mmExclusivité de la poignée de conception"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/HCC830416.jpg"
+   ]
+  }
+ ]
+}

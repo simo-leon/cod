@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-150825",
+   "price": 1050.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Perceuse compacte sans fil sans brosse CIDLI426981",
+     "description": "• Moteur sans brosse Tension: 42 VVitesse de charge sans charge: 0\n\n• 500/0\n\n• 2000 rpmTaux d’impact maximal: 30000 bpmCouple maximal: 69 NmCapacité du manchon en métal: 13 mmParamètres du couple & #160\n\n• : 22+1+1 Mécanique 2 speed engrenage Fonction de verrllage de la broche IntégréeLEDfeu de travail Inclure: 47 Accessoires Pcs 3 Pcs maçonnerie forets(4 mm,5 mm,6 mm)2 Pcs 150 mmBoutons de tournevis à impact(PH 2)1 Pcs 2,0 Ah batterie de batterie (FBLI 42201)1 Chargeur Pcs(FCLI 42021) Charges volts: 220240 V~50/60 HzEmballé par étui",
+     "short_description": "Moteur sans brosse Voltage: 42 VCouple maximal: 69 Nm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CIDLI426981.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150827",
+   "price": 3500.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé d’impact sans fil CIWLI20135",
+     "description": "• Moteur sans brosse Tension: 20 VConduite carrée: 3/4″Vitesse de charge sans charge: 0\n\n• 900/0\n\n• 1200/0\n\n• 1800 rpmTaux d’impact: 0\n\n• 1800/0\n\n• 2000/0\n\n• 2200 bpmCouple de fixation: 1350 NmCouple d’écrou: 1900 NmLuminaire de travail intégré Inclure: 2 Pcs 5,0 Ah batterie de batterie (FBLI 20031)1 Pcs 4 Achargeur(FCLI 20411)3 Prises Pcs(27 30 32 mm) Charges volts: 220240 V~50/60 HzEmballé par boîte en plastique",
+     "short_description": "Moteur sans brosse Voltage: 20 V► Conduite carrée: 3/4″"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CIWLI20135.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150829",
+   "price": 2500.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé d’impact sans fil 6 CIWLI20105",
+     "description": "• Moteur sans brosse Tension: 20 VConduite carrée: 3/4″Vitesse de charge sans charge: 0\n\n• 1200/0\n\n• 1600/0\n\n• 2100 rpmTaux d’impact: 0\n\n• 1800/0\n\n• 2000/0\n\n• 2200 bpmCouple de fixation: 1050 NmCouple d’écrou: 1200 NmIntégréeLEDfeu de travail Inclure: 1 Pcs clip ceinture 2 Pcs 5,0 Ah batterie de batterie (FBLI 20031)1 Chargeur Pcs(FCLI 20411) Charges volts: 220240 V~50/60 HzEmballé par étui",
+     "short_description": "Moteur sans brosse Voltage: 20 V► Conduite carrée: 3/4″"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CIWLI201056.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150833",
+   "price": 990.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé d’impact sans fil 1 CIWLI2035",
+     "description": "• Moteur sans brosse Tension: 20 VConduite carrée: 1/2″Vitesse de charge sans charge: 0- Oui\n\n• 1600/0- Oui\n\n• 1900/0- Oui\n\n• 2300 rpmTaux d’impact: 0- Oui\n\n• 2100/0- Oui\n\n• 2500/0- Oui\n\n• 2900 bpmCouple de fixation: 350 NmCouple de rupture: 450 NmIntégréeLEDfeu de travail Inclure: 1 Pcs 20 Vchargeur(FCLI 2001) Charges volts: 220-240 V~50/60 Hz 1 Pcs 2,0 Ah batterie de batterie (FBLI 20011)2 Prises Pcs(19,21 mm) Emballé par boîte de couleur",
+     "short_description": "Conduite carrée: 1/2″- Vitesse de charge nominale: 0- .1600/0- .1900/0- .2300 rpmTaux d’impact: 0- .2100/0- .2500/0- .2900 bpm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CIWLI20351.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150834",
+   "price": 749.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé d’impact sans fil CIWLI20351",
+     "description": "• Moteur sans brosse Tension: 20 VConduite carrée: 1/2″Vitesse de charge sans charge: 0\n\n• 1600/0\n\n• 1900/0\n\n• 2300 rpmTaux d’impact: 0\n\n• 2100/0\n\n• 2500/0\n\n• 2900 bpmCouple de fixation: 350 NmCouple de rupture: 450 NmIntégréeLEDfeu de travail Inclure: 1 Pcs 20 Vchargeur(FCLI 2001) Charges volts: 220240 V~50/60 Hz 1 Pcs 2,0 Ah batterie de batterie (FBLI 20011)2 Prises Pcs(19,21 mm) Emballé par boîte de couleur",
+     "short_description": "Conduite carrée: 1/2″ Vitesse de charge nominale: 0 .1600/0 .1900/0 .2300 rpmTaux d’impact: 0 .2100/0 .2500/0 .2900 bpm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CIWLI20351.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150836",
+   "price": 1990.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé d’impact sans fil 1 CIWLI2085",
+     "description": "• Moteur sans brosse Tension: 20 VConduite carrée: 1/2″Vitesse de charge sans charge: 0\n\n• 1600/0\n\n• 2100/0\n\n• 2400 rpmTaux d’impact: 0\n\n• 1500/0\n\n• 1800/0\n\n• 2200 bpmCouple de fixation: 850 NmCouple d’écrou: 1000 NmIntégréeLEDfeu de travail Inclure: 3 Pcs sockets profonds(22,24,27 mm)1 Pcs clip ceinture Batterie et chargeur vendus séparément Emballage par boîte de couleur",
+     "short_description": "Conduite carrée: 1/2″ Vitesse de charge nominale: 0 .1600/0 .2100/0 .2400 rpmTaux d’impact: 0 .1500/0 .1800/0 .2200 bpm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CIWLI20851.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150838",
+   "price": 1099.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé d’impact sans fil 1 CIWLI2045",
+     "description": "• Moteur sans brosse Tension: 20 VConduite carrée: 1/2″Vitesse de charge sans charge: 0- Oui\n\n• 1800/0- Oui\n\n• 2000/0- Oui\n\n• 2400 rpmTaux d’impact: 0- Oui\n\n• 2200/0- Oui\n\n• 2600/0- Oui\n\n• 3000 bpmCouple de fixation: 405 NmCouple de rupture: 555 NmIntégréeLEDfeu de travail Inclure: 3 Prises Pcs(17,19,21 mm) Batterie et chargeur vendus séparément Conditionnés par boîte de couleur",
+     "short_description": "Conduite carrée: 1/2″- Vitesse de charge nominale: 0- .1800/0- .2000/0- .2400 rpmTaux d’impact: 0- .2200/0- .2600/0- .3000 bpm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CIWLI20451.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150840",
+   "price": 1499.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé d’impact sans fil 1 CIWLI2055",
+     "description": "• Moteur sans brosse Tension: 20 VConduite carrée: 1/2″Vitesse de charge sans charge: 0- Oui\n\n• 1500/0- Oui\n\n• 2000/0- Oui\n\n• 2500 rpmTaux d’impact: 0- Oui\n\n• 2600/0- Oui\n\n• 3000/0- Oui\n\n• 3500 bpmCouple de fixation: 550 NmCouple de rupture: 700 NmIntégréeLEDfeu de travail Inclure: 1 Pcs clip ceinture 3 Prises Pcs(21,22,24 mm) Batterie et chargeur vendus séparément Conditionnés par boîte de couleur",
+     "short_description": "Conduite carrée: 1/2″- Vitesse de charge nominale: 0- .1200/0- .1800/0- .2200 rpmTaux d’impact: 0- .2400/0- .2800/0- .3300 bpm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/Ciwli2055.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150842",
+   "price": 1290.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé d’impact sans fil CIWLI42461",
+     "description": "• Moteur sans brosse Tension: 42 VConduite carrée: 1/2″Vitesse de charge sans charge: 0\n\n• 1600/0\n\n• 1900/0\n\n• 2300 rpmTaux d’impact: 0\n\n• 2100/0\n\n• 2500/0\n\n• 2900 bpmCouple de fixation: 460 NmCouple d’écrou: 600 NmInclure: 5 Prises Pcs(14,15,17,19,21 mm)1 Pcs 1/2″conducteur carré à 1/4″hexagonal 2 Boutons de tournevis Pcs 1 Batterie Pcs (FBLI 42201)1 Chargeur Pcs(FCLI 42021) Charges volts: 220240 V~50/60 HzEmballé par étui",
+     "short_description": "Conduite carrée: 1/2″ Vitesse de charge nominale: 0 .1600/0 .1900/0 .2300 rpm∙ Couple de fixation: 460 Nm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CIWLI42461.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150844",
+   "price": 1450.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sans fil 2 Pcs combo kit CKLI20286",
+     "description": "• Tension: 20 VAvec perceuse à chocs compacte sans fil sans fil de 1 pcs(CIDLI 206681) Avec clé d’impact sans fil de 1 pcs(CIWLI 20451) Perceuse à chocs compacte sans fil sans brosse(CIDLI 206681): Moteur sans brosse Vitesse de charge: 0\n\n• 500/0\n\n• 2000 rpmTaux d’impact maximal: 30000 bpmCouple maximal: 66 NmCapacité du manchon en métal: 13 mmParamètres du couple & #160\n\n• : 22+1+1 Mécanique 2 speed engrenage Fonction de verrllage de la broche IntégréeLEDclé d’impact sans fil(CIWLI 20451): Moteur sans brosse Tension: 20 VConduite carrée: 1/2″Vitesse de charge sans charge: 0\n\n• 1800/0\n\n• 2000/0\n\n• 2400 rpmTaux d’impact: 0\n\n• 2200/0\n\n• 2600/0\n\n• 3000 bpmCouple de fixation: 405 NmCouple de rupture: 555 NmInclure: 1 Pcs 20 Vchargeur(FCLI 2001) Charges volts: 220240 V~50/60 Hz 2 Pcs 2,0 Ah batterie de batterie (FBLI 20011)47 Accessoires Pcs 3 Prises Pcs(17 19 21 mm) Emballé par étui",
+     "short_description": "Tension: 20 VAvec perceuse à chocs sans fil compacte sans brosse de 1 pcs(CIDLI 206681 Avec 1 pcs Clé d’impact sans fil(CIWLI 20451)"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CKLI20286.jpg"
+   ]
+  }
+ ]
+}

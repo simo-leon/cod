@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-150773",
+   "price": 1449.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "polissoir sans fil APLI20151",
+     "description": "• Moteur sans brosse Tension: 20 VVitesse de charge sans charge: 2000- Oui\n\n• 4500 rpmDiamètre du tampon de polissage: 150 mmContrôle de vitesse variable Inclure: 1 Chonnet de polissage de Pcs 1 Pcs 4,0 Ah batterie(FBLI 20021)1 Pcs charge(FCLI 2001) Charges volts: 220-240 V~50/60 HzEmballé par sac en toile",
+     "short_description": "Tension: 20 V- Vitesse de charge nominale: 2000- .4500 rpmDiamètre du tampon de polissage: 150 mm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/APLI20151.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150775",
+   "price": 849.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "polissoir sans fil APLI2018",
+     "description": "• Moteur sans brosse Tension: 20 VVitesse de charge sans charge: 400\n\n• 2500 rpmDiamètre du tampon de polissage: 180 mmFil de broche: M 14 Contrôle de vitesse variable Inclure: 1 Pcs Dhandle 1 Pcs crochet et boucle de polissage 1 Pcs polissant capot Batterie et chargeur vendus séparément Emballage par boîte de couleur",
+     "short_description": "Tension: 20 V Vitesse de charge nominale: 800 .2300 rpmDiamètre du tampon de polissage: 180 mm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/APLI2018.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150778",
+   "price": 1349.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "polissoir sans fil APLI20181",
+     "description": "• Moteur sans brosse Tension: 20 VVitesse de charge sans charge: 400\n\n• 2500 rpmDiamètre du tampon de polissage: 180 mmFil de broche: M 14 Contrôle de vitesse variable Inclure: 1 Pcs Dhandle 1 Pcs crochet et boucle de polissage 1 Chonnet de polissage de Pcs 1 Pcs 4,0 Ah batterie(FBLI 20021)1 Chargeur Pcs(FCLI 2001) Charges volts: 220240 V~50/60 HzEmballé par sac en toile",
+     "short_description": "Tension: 20 V Vitesse de charge nominale: 800 .2300 rpmDiamètre du tampon de polissage: 180 mm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/APLI20181.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150780",
+   "price": 129.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Polissage et nettoyage APP25402",
+     "description": "• Matériel: laine pure et coton pur Diamètre: 254 mmConvient pourCOPLI 202548 COPLI 2025481 Le produit est fait de matière de laine de haute qualité, et la surface polie du produit est lisse et lisse sans burrs 2 pcs/set Emballé par boîte de couleur",
+     "short_description": "Matériel: laine et coton pur."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/APP25402.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150782",
+   "price": 1390.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "polissoir sans fil APLI42151",
+     "description": "• Moteur sans brosse Tension: 42 VVitesse de charge sans charge: 2000\n\n• 4500 rpmDiamètre du tampon de polissage: 150 mmContrôle de vitesse variable Inclure: 3 Pcs éponges tampons 1 Pcs 2,0 Ah batterie(FBLI 42201)1 Pcs charge(FCLI 42021) Charges volts: 220240 V~50/60 HzEmballé par sac en toile",
+     "short_description": "Tension: 42 V Vitesse de charge nominale: 2000 .4500 rpmDiamètre du tampon de polissage: 150 mm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/APLI42151.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150786",
+   "price": 650.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur sans fil CABLI203235",
+     "description": "• Tension: 20 VVitesse de charge hors charge: 15000 rpmVolume moyen d’air: 8\n\n• 5 m 3/min Vitesse maximale de l’air: 115 km/h Inclure: 1 Pcs 2,0 Ah batterie de batterie (FBLI 20011)1 Chargeur Pcs(FCLI 2001) Charges volts: 220240 V~50/60 HzEmballé par boîte de couleur",
+     "short_description": "Tension: 20 V Vitesse de charge nominale: 15000 rpmVitesse maximale d ‘ air: 115 km/h"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CABLI203235.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150788",
+   "price": 179.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur sans fil 2 CABLI2078",
+     "description": "• Tension: 20 VVitesse de charge sans charge: 18000 rpmVolume maximal d’air: 2\n\n• 7 m³/minInclure: 2 Pcs 2,0 Ah batterie de batterie (FBLI 20011)1 Chargeur Pcs(FCLI 2001) Charges volts: 220240 V~50/60 HzEmballé par boîte de couleur",
+     "short_description": "Tension: 20 V Vitesse de charge nominale: 18000 rpmVolume maximal d’air: 2.7 m³/min"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/INGCO-SOUFFLEUR-20V-SANS-BATTERIECHARGEUR-SI-CABLI20028-.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-150790",
+   "price": 1399.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Broyeur à angle sans fil CAGLI271532",
+     "description": "• Tension moteur sans brosse: 20 VPuissance d’entrée maximale: 1000 WVitesse de charge sans charge: 3000/6000/9000 rpmDiamètre du disque: 115 mmFil de broche: M 14 Inclure: 1 Régler le disque de coupe abrasif en métal(10(Pcs)2 Pcs 4,0 Ah batterie de batterie (FBLI 20021)1 Chargeur Pcs(FCLI 20411) Charges volts: 220-240 V~50/60 HzEmballé par étui",
+     "short_description": "Moteur sans brosse -Voltage: 20 VPuissance d’entrée maximale: 1000 W"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CAGLI271532.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150792",
+   "price": 1690.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Broyeur à angle sans fil CAGLI2211532",
+     "description": "• Tension moteur sans brosse: 20 VPuissance d’entrée maximale: 1200 WVitesse de charge sans charge: 3000/6000/9000 rpmDiamètre du disque: 115 mmFil de broche: M 14 Inclure: 1 Régler le disque de coupe abrasif en métal(10(Pcs)2 Pcs 5,0 Ah batterie de batterie (FBLI 20031)1 Chargeur Pcs(FCLI 20411) Charges volts: 220240 V~50/60 HzEmballé par étui",
+     "short_description": "Moteur sans brosse Voltage: 20 VPuissance d’entrée maximale: 1200 W"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CAGLI2211532.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150794",
+   "price": 1599.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Broyeur à angle sans fil CAGLI4108112",
+     "description": "• Tension moteur sans brosse: 42 VPuissance d’entrée maximale: 1080 WVitesse de charge sans charge: 3000/6000/9000 rpmDiamètre du disque: 115 mmFil de broche: M 14 Inclure: 1 Régler le disque de coupe abrasif en métal(10(Pcs)3 Disque de rabat Pcs(P 40/P 60/P 80)2 Pcs 2,0 Ah batterie de batterie (FBLI 42201)1 Chargeur Pcs(FCLI 42021) Charges volts: 220240 V~50/60 HzEmballé par étui",
+     "short_description": "Moteur sans brosse Voltage: 42 VPuissance d’entrée maximale: 1080 W"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/CAGLI4108112.jpg"
+   ]
+  }
+ ]
+}

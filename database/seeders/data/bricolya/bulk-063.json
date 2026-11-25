@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-138297",
+   "price": 59.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Agrafeuse Jadever JDGU3614",
+     "description": "Agrafeuse\nForce de conduite réglable\nFil: 0,7 mm\nCouronne: 11,3 mm\nLongueur: 4-14 mm\nEmballé par carte coulissante",
+     "short_description": "Agrafeuse\n\nForce de conduite réglable\n\nFil: 0,7 mm\n\nCouronne: 11,3 mm\n\nLongueur: 4-14 mm\n\nEmballé par carte coulissante"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDGU3614.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138305",
+   "price": 100.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bottes de pluie Jadever JDRB1L40",
+     "description": "Taille:40\nMatériau:100% PVC vierge\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\nEmballé par sac en polyéthylène",
+     "short_description": "Taille:40\n\nMatériau:100% PVC vierge\n\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\n\nEmballé par sac en polyéthylène"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDRB1L40.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138307",
+   "price": 100.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bottes de pluie Jadever JDRB1L41",
+     "description": "Taille:41\nMatériau:100% PVC vierge\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\nEmballé par sac en polyéthylène",
+     "short_description": "Taille:41\n\nMatériau:100% PVC vierge\n\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\n\nEmballé par sac en polyéthylène"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDRB1L41.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138309",
+   "price": 100.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bottes de pluie Jadever JDRB1L42",
+     "description": "Taille:42\nMatériau:100% PVC vierge\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\nEmballé par sac en polyéthylène",
+     "short_description": "Taille:42\n\nMatériau:100% PVC vierge\n\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\n\nEmballé par sac en polyéthylène"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDRB1L42.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138311",
+   "price": 100.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bottes de pluie Jadever JDRB1L43",
+     "description": "Taille:43\nMatériau:100% PVC vierge\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\nEmballé par sac en polyéthylène",
+     "short_description": "Taille:43\n\nMatériau:100% PVC vierge\n\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\n\nEmballé par sac en polyéthylène"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDRB1L43.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138313",
+   "price": 100.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bottes de pluie Jadever JDRB1L44",
+     "description": "Taille:44\nMatériau:100% PVC vierge\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\nEmballé par sac en polyéthylène",
+     "short_description": "Taille:44\n\nMatériau:100% PVC vierge\n\nRésistance élevée à l’huile, aux acides, aux alcalis 100% imperméable\n\nEmballé par sac en polyéthylène"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDRB1L44.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138315",
+   "price": 3.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouchon d’oreille Jadever JDEA1828",
+     "description": "Conforme à la structure de l’oreille, sûr et hygiénique\nFabriqué en mousse de polyuréthane, lisse et ultra souple\neffet de réduction de bruit supérieur, permet aux opérateurs de conserver une ouïe fine dans un environnement bruyant\nEmballé dans un sac en polyéthylène",
+     "short_description": "Conforme à la structure de l’oreille, sûr et hygiénique\n\nFabriqué en mousse de polyuréthane, lisse et ultra souple\n\neffet de réduction de bruit supérieur, permet aux opérateurs de conserver une ouïe fine dans un environnement bruyant\n\nEmballé dans un sac en polyéthylène"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDEA1828.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138319",
+   "price": 30.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Burin Jadever JDCC1302",
+     "description": "Taille: 25mm*18mm*300mm\nMatériau: acier au carbone 45#\nTraitement thermique\nEmballé par étiquette",
+     "short_description": "Taille: 25mm*18mm*300mm\n\nMatériau: acier au carbone 45#\n\nTraitement thermique\n\nEmballé par étiquette"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDCC1302.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138321",
+   "price": 30.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Burin à béton Jadever JDCC1304",
+     "description": "Taille: 4mm*18mm*300mm\nMatériau: acier au carbone 45#\nTraitement thermique\nEmballé par étiquette",
+     "short_description": "Taille: 4mm*18mm*300mm\n\nMatériau: acier au carbone 45#\n\nTraitement thermique\n\nEmballé par étiquette"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDCC1304.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-138431",
+   "price": 199.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble De Cisailles De Jardin De 3 Pièces Jadever JDPR3E03",
+     "description": "3pcs ensemble de cisailles de jardin\n\nInclure:\n\n1pcs 200mm/8 » Cisaille de taille\n\n1pcs 550mm/22 » Cisaille de haie\n\n1pcs 690mm/27 » Coupe-branches\n\nLame de traitement thermique Emballé par crochet en papier",
+     "short_description": "3pcs ensemble de cisailles de jardin\n\nInclure:\n\n1pcs 200mm/8 » Cisaille de taille\n\n1pcs 550mm/22 » Cisaille de haie\n\n1pcs 690mm/27 » Coupe-branches\n\nLame de traitement thermique Emballé par crochet en papier"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/08/JDPR3E03.jpg"
+   ]
+  }
+ ]
+}

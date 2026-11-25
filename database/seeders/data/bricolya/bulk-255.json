@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-151154",
+   "price": 150.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boite A Outils En Plastique 480Mm Jadever JDTB1319",
+     "description": "Produit: 19  » plastique Tool boîte 19 avalerie: 480mm (19″) x 280mm (11″) x 260mm (10.3″) Matériau: PP | PP Boucle plastique",
+     "short_description": "avalerie: 480mm (19″) x 280mm (11″) x 260mm (10.3″) Matériau: PP | PP Boucle plastique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/JDTB1319.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-151166",
+   "price": 225.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "kit de test électrique pince ampèremétrique numérique + multimètre numérique + détecteur de tension alternative JDDM94011",
+     "description": "3pcs/set, comprenant comme suit: | 1pcs pince ampèremétrique AC numérique (JDDM6501) | Affichage: True RMS 2000 comptes | Courant AC: 2A/20A/200A | Tension AC: 2V/20V/200V/600V | Tension DC: 200mV/2V/20V/200V/600V | Résistance: 200Ω/2kΩ/20kΩ/200kΩ/2MΩ/20MΩ | Maintien des données | Test de diode | maintien de la date 1pcs multimètre numérique (JDDM1501) | Affichage: True RMS 2000 comptes | Fonction intelligente | Tension DC 0,8~600V | Tension AC: 0,8~600V | Plage de résistance: 600kΩ | Plage automatique 1pcs détecteur de tension AC (JDTP3503) | Tension AC: 70~1000V | Fréquence: 50/60Hz | Mode d’alarme: alarme sonore et lumineuse | Lampe de poche: LED blanche | Avec 1pcs câble de test | Avec 6pcs piles R03 AAA | Emballé par double blister",
+     "short_description": "3pcs/set | 1pcs multimètre pince ampèremétrique numérique et 1pcs multimètre numérique et 1pcs détecteur de tension AC | Emballé par double blister | 3pcs/set, comprenant comme suit:1pcs pince ampèremétrique AC numérique (JDDM6501)Affichage: True RMS 2000 comptesCourant AC: 2A/20A/200ATension AC: 2V/20V/200V/600VTension DC: 200mV/2V/20V/200V/600VRésistance: 200Ω/2kΩ/20kΩ/200kΩ/2MΩ/20MΩMaintien des donnéesTest de diodemaintien de la date 1pcs multimètre numérique (JDDM1501)Affichage: True RMS 2000 comptesFonction intelligenteTension DC 0,8~600VTension AC: 0,8~600VPlage de résistance: 600kΩPlage automatique 1pcs détecteur de tension AC (JDTP3503)Tension AC: 70~1000VFréquence: 50/60HzMode d’alarme: alarme sonore et lumineuseLampe de poche: LED blancheAvec 1pcs câble de testAvec 6pcs piles R03 AAAEmballé par double blister"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/JDDM94011-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-151168",
+   "price": 450.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batterie au lithium-ion 4.0Ah 20V JADEVER",
+     "description": "Tension: 20V | Batterie Lithium-Ion 4.0Ah | Indicateur de puissance de la batterie LED | Une batterie s’adapte à tous les outils multiples P20S | Emballé dans une boîte de couleur",
+     "short_description": "Tension: 20V | Batterie Lithium-Ion 4.0Ah | Indicateur de puissance de la batterie LED | Tension: 20VBatterie Lithium-Ion 4.0AhIndicateur de puissance de la batterie LEDUne batterie s’adapte à tous les outils multiples P20SEmballé dans une boîte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/JDLBP540.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-151172",
+   "price": 25.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tuyau D’Air 5M JADEVER JDQG1905",
+     "description": "Matériel: PE | Longueur: 5M | Uniquement avec des connecteurs filetés. | Diamètre intérieur: 5mm | Diamètre extérieur: 8mm | Emballé par un sac en plastique",
+     "short_description": "Matériel: PE | Longueur:5M | Uniquement avec des connecteurs filetés. | Matériel: PELongueur: 5MUniquement avec des connecteurs filetés.Diamètre intérieur: 5mmDiamètre extérieur: 8mmEmballé par un sac en plastique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/JDQG1905.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-152113",
+   "price": 119.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "JADEVER CHARGEUR DE BATTERIE P20S JDFCP502",
+     "description": "Le chargeur JADEVER JDFCP502 est conçu spécifiquement pour alimenter les batteries lithium-ion 20V de la gamme sans fil Jadever. Destiné aux professionnels du bâtiment, aux ateliers de production et aux utilisateurs exigeants, il garantit une recharge rapide, stable et sécurisée des batteries utilisées avec les perceuses, visseuses, meuleuses, souffleurs et autres outils électroportatifs de la marque.\n\nSon architecture compacte intègre un système de ventilation actif qui régule la température tout au long du cycle de charge, réduisant ainsi l’usure prématurée des cellules et prolongeant significativement la durée de vie des batteries. La robustesse de sa conception le rend adapté aux environnements de travail intensifs, qu’il s’agisse d’un chantier ou d’un atelier.\n\nCompatible avec l’ensemble des batteries Jadever de la série P20S, le JDFCP502 assure une stabilité de charge optimale et embarque des protections contre les surtensions et les variations électriques, garantissant sécurité des équipements et continuité opérationnelle.\n\nAvantages principaux\n\n Recharge rapide et stable\n Cycle de charge optimisé pour les batteries lithium-ion 20V Jadever, avec maintien constant de la tension de sortie.\n\n Ventilation intégrée\n Système de refroidissement actif qui limite la montée en température et préserve l’intégrité des cellules sur le long terme.\n\n Protection électrique avancée\n Protections actives contre la surchauffe, les surtensions et les variations du réseau électrique.\n\n Conception robuste et compacte\n Format réduit et structure renforcée adaptés aux contraintes du chantier comme de l’atelier.\n\n Large compatibilité\n Prend en charge toutes les batteries Jadever série P20S utilisées avec les outils électroportatifs 20V de la marque.\n\nCaractéristiques techniques\n\n Marque\n JADEVER\n\n Référence\n JDFCP502\n\n Type de produit\n Chargeur de batterie lithium-ion\n\n Tension compatible\n 20V\n\n Courant de sortie\n 2A\n\n Compatibilité batteries\n Jadever série P20S\n\n Application\n Outils électroportatifs sans fil (perceuses, visseuses, meuleuses, souffleurs)\n\n Système de refroidissement\n Ventilation intégrée active\n\n Format\n Compact et léger\n\n Protections\n Surchauffe, surtension, variations électriques",
+     "short_description": "Le chargeur JADEVER JDFCP502 20V est conçu pour recharger efficacement et en toute sécurité les batteries lithium-ion de la gamme électroportative Jadever. Compact et robuste, il assure une charge stable et fiable pour l’ensemble de vos outils sans fil au quotidien.\n\nMarque\nJADEVER\n\nRéférence\nJDFCP502\n\nTension compatible\n20V\n\nCourant de sortie\n2A\n\nCompatibilité\nBatteries Jadever série P20S\n\nType de batterie\nLithium-ion"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/05/UJDFCP502-1024x887-1.png"
+   ]
+  },
+  {
+   "sku": "bricolya-152206",
+   "price": 1790.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "INGCO KIT COMBINÉ SANS FIL 3 PIÈCES [COSLI250181]",
+     "description": "Kit combiné sans fil INGCO 3 pièces, idéal pour les professionnels et les bricoleurs exigeants.\n\nRéférence: COSLI250181\n\nTension nominale: 20 V\n\nContenu du kit: perceuse-visseuse, visseuse à chocs et lampe de travail LED\n\nMoteurs haute performance à longue durée de vie\n\nCompatible avec toutes les batteries INGCO 20 V\n\nLivré avec batteries, chargeur et coffret de rangement\n\nEmballé dans une boîte de couleur",
+     "short_description": "Kit combiné sans fil INGCO 3 pièces, idéal pour les professionnels et les bricoleurs exigeants.\n\nRéférence: COSLI250181\n\nTension nominale: 20 V\n\nContenu du kit: perceuse-visseuse, visseuse à chocs et lampe de travail LED\n\nMoteurs haute performance à longue durée de vie\n\nCompatible avec toutes les batteries INGCO 20 V\n\nLivré avec batteries, chargeur et coffret de rangement\n\nEmballé dans une boîte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/05/100858970-5.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-152208",
+   "price": 1690.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "INGCO KIT COMBINÉ SANS FIL 4 PIÈCES [COSLI250383]",
+     "description": "Kit combiné sans fil INGCO 4 pièces pour une polyvalence maximale sur chantier.\n\nRéférence: COSLI250383\n\nTension nominale: 20 V\n\nContenu du kit: perceuse-visseuse, visseuse à chocs, meuleuse d’angle et lampe de travail LED\n\nCompatibilité batteries INGCO 20 V\n\nLivré avec batteries, chargeur et coffret de transport rigide\n\nEmballé dans une boîte de couleur",
+     "short_description": "Kit combiné sans fil INGCO 4 pièces pour une polyvalence maximale sur chantier.\n\nRéférence: COSLI250383\n\nTension nominale: 20 V\n\nContenu du kit: perceuse-visseuse, visseuse à chocs, meuleuse d’angle et lampe de travail LED\n\nCompatibilité batteries INGCO 20 V\n\nLivré avec batteries, chargeur et coffret de transport rigide\n\nEmballé dans une boîte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/05/0033200_cosli250383_550.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-152538",
+   "price": 590.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aspirateur Jadever 20L 1200W JDVR4A20",
+     "description": "L’aspirateur professionnel JDVR4A20 20L 1200W a été conçu pour répondre aux besoins de nettoyage les plus exigeants. Doté d’un moteur puissant de 1200W, il garantit une aspiration performante aussi bien pour les poussières fines que pour les liquides, ce qui le rend parfait pour une utilisation domestique, industrielle ou en atelier.\n\nSa cuve de 20 litres permet de travailler plus longtemps sans interruption, idéale pour les grands espaces et les travaux intensifs. Grâce à sa fonction eau et poussière, cet aspirateur multifonction s’adapte facilement aux garages, chantiers, ateliers de bricolage, bureaux ou véhicules.\n\nLe JDVR4A20 est équipé d’une fonction souffleur pratique pour nettoyer les coins difficiles d’accès, les feuilles, copeaux ou poussières accumulées. Son flexible robuste et ses accessoires inclus offrent un confort d’utilisation optimal sur différents types de surfaces : sols durs, tapis, moquettes et espaces étroits.\n\nPuissance : 1200W\n\nCapacité du réservoir : 20L\n\nFonction aspiration eau et poussière\n\nFonction souffleur intégrée\n\nGrande puissance d’aspiration\n\nUtilisation domestique et professionnelle\n\nDesign robuste et facile à déplacer\n\nChoisissez l’aspirateur JDVR4A20 pour profiter d’un nettoyage rapide, puissant et polyvalent au quotidien. Une solution idéale pour les travaux de bricolage, l’entretien des ateliers et le nettoyage en profondeur des espaces intérieurs et extérieurs.",
+     "short_description": "L’aspirateur eau et poussière JDVR4A20 20L 1200W est l’allié idéal pour le nettoyage intensif de la maison, du garage, de l’atelier ou du chantier. Grâce à sa puissance de 1200W et sa cuve grande capacité de 20 litres, il assure une aspiration efficace des poussières, liquides et débris. Compact, robuste et polyvalent, il dispose également d’une fonction souffleur pour atteindre les zones difficiles d’accès."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/05/jadever-JDVR4A20.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-161607",
+   "price": 13499.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batterie AB3000X pour SolarFlow 2400 AC",
+     "description": "Le HEMS – Révolutionner l’efficience pour un avenir durable\n\nLe HEMS, notre système de gestion énergétique piloté par IA, apprend vos habitudes de consommation et analyse des facteurs tels que les prévisions météorologiques, la capacité de la batterie et les tarifs dynamiques afin de développer des protocoles de gestion énergétique sur mesure. En s’adaptant en continu à votre usage, le HEMS vous permet d’économiser jusqu’à 42 % sur votre facture d’énergie, mois après mois.*\n\n*Données basées sur les tests en laboratoire de Zendure sous un modèle de tarification dynamique de l’électricité. Les économies réelles peuvent varier en fonction des tarifs locaux, de la configuration du système et des habitudes de consommation énergétique du foyer.\n\nAdoptez la nouvelle solution d’énergie intelligente\n\nPendant la journée, SolarFlow 2400 AC alimente votre maison en énergie solaire et stocke l’excédent dans la batterie. Le soir, la batterie fournit de l’énergie à votre maison via le SolarFlow 2400 AC. Cette gestion énergétique efficace réduit votre dépendance au réseau et vous permet de réaliser des économies.\n\nStockez plus d’énergie, maximisez vos économies\n\nGrâce à la technologie des semi-conducteurs de troisième génération, notre système atteint jusqu’à 93 % d’efficacité AC en cycle complet, optimisant ainsi vos économies d’énergie et améliorant votre efficacité énergétique.\n\n*Données basées sur les tests en laboratoire de Zendure.\n\nProfitez de Zen+ OS avec le HEMS et prenez le contrôle de votre énergie\n\nZen+ OS, intégré au SolarFlow 2400 AC et à divers appareils intelligents, vous offre une maîtrise totale de votre énergie. Bénéficiez d’une réactivité instantanée, d’une fiabilité inébranlable même sans connexion Internet, et d’une gestion énergétique précise qui réduit le gaspillage au minimum.\n\nRéduisez les pertes énergétiques, maximisez l’efficacité\n\nLe SolarFlow 2400 AC est équipé d’une batterie 48 V, réduisant les pertes d’énergie de 25 % par rapport à un système de batterie de 16 V. Économiser sur votre consommation d’énergie n’a jamais été aussi simple.\n\nDesign innovant, puissance accrue\n\nChaque unité de batterie est dotée d’un système de gestion énergétique innovant permettant une charge et une décharge indépendantes. Cette technologie élimine l’effet baril lors de la charge, améliore l’efficacité globale et optimise l’utilisation de l’énergie.\n\nSécurisé et fiable\n\nCapacité de batterie adaptée à vos besoins",
+     "short_description": "Le HEMS – Révolutionner l’efficience pour un avenir durable\n\nLe HEMS, notre système de gestion énergétique piloté par IA, apprend vos habitudes de consommation et analyse des facteurs tels que les prév"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/batterie-ab3000x-pour-solarflow-2400-ac-6887109.png",
+    "https://bricolya.com/wp-content/uploads/2026/06/batterie-ab3000x-pour-solarflow-2400-ac-7455356.png",
+    "https://bricolya.com/wp-content/uploads/2026/06/batterie-ab3000x-pour-solarflow-2400-ac-6579465.png",
+    "https://bricolya.com/wp-content/uploads/2026/06/batterie-ab3000x-pour-solarflow-2400-ac-9631615.png",
+    "https://bricolya.com/wp-content/uploads/2026/06/batterie-ab3000x-pour-solarflow-2400-ac-7953271.png",
+    "https://bricolya.com/wp-content/uploads/2026/06/batterie-ab3000x-pour-solarflow-2400-ac-6222885.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/06/batterie-ab3000x-pour-solarflow-2400-ac-8922179.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-161615",
+   "price": 399.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble de batterie Zendure SolarFlow 0.7m",
+     "description": "Connectez vos batteries à votre onduleur SolarFlow 800 avec ce câble de 0.7m, 3m ou 5m.\n\nLes connecteurs du câble de batterie sont conçus pour se verrouiller automatiquement. Un clic audible confirme que le câble est solidement fixé à vos batteries.",
+     "short_description": "Connectez vos batteries à votre onduleur SolarFlow 800 avec ce câble de 0.7m, 3m ou 5m.\n\nLes connecteurs du câble de batterie sont conçus pour se verrouiller automatiquement. Un clic audible confirme q"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/06/cable-de-batterie-zendure-solarflow-3m-5m-268882.jpg"
+   ]
+  }
+ ]
+}

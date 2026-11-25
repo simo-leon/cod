@@ -1,0 +1,228 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-143866",
+   "price": 690.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coupe-bordure BOSCH Easy GrassCut 26-06008C1J01",
+     "description": "Poids: 2,0 kg\n\nRégime à vide: 12,500 tr/min\n\nRégime à vide, jusqu’à: 12 500,0 tr/min\n\nPuissance du moteur: 280,0 W\n\nVitesse de coupe: 12 500,0 t/min\n\nLargeur de coupe (ligne): 26,0 cm\n\nBobine: 1,6 mm x 4 m\n\nBobine, épaisseur de fil: 1,600 mm\n\nNoise level: Le niveau sonore pondéré A de l’outil électroportatif est typiquement de : niveau de pression acoustique dB(A) ; niveau de puissance acoustique dB(A). Incertitude K = dB.\n\nDimensions de l’outil (largeur x longueur x hauteur): 1160 x 280 x 320 mm\n\nNiveau d’utilisation: Easy\n\nNet Weight: 2,0 kg\n\nGross Weight: 2,826 kg",
+     "short_description": "Légèreté et efficacité : largeur de coupe de 26 cm pour un travail rapide\n\nAvantages de produit:\n\n• Modèle léger et bien équilibré idéal pour un maniement facile et agréable\n\n• Bobine à avance semi-automatique rendant inutile tout ajustement manuel\n\n• Finition de grande qualité, puissant moteur et fil extrêmement résistant pour des résultats parfaits\n\n• Idéal pour tondre, enlever les herbes folles, pour tailler et dresser les bordures de jardin"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/06008C1J01-EasyGrassCut-26-en-MA-o358185v288-hbgrasscut-030-23.png",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008C1J01-EasyGrassCut-26-en-MA-o358202v117-hbgrasscut-034-3200x1800px.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008C1J01-EasyGrassCut-26-en-MA-o358187v117-hbgrasscut-031-3200x1800px.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008C1J01-EasyGrassCut-26-en-MA-o358195v288-hbgrasscut-032-3200x1800px-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143870",
+   "price": 1989.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tronçonneuse à chaîne BOSCH UniversalChain 35 + 2 eme Chaîne – 06008B8304",
+     "description": "Lubrification automatique: Oui\n\nPoids (avec chaîne et guide): 4,300 kg\n\nChaîne: Chaîne Oregon\n\nVitesse de la chaîne: 12,0 m/s\n\nPuissance du moteur: 1 800,0 W\n\nLargeur de coupe (ligne): 30,0 cm\n\nLongueur de guide: 35,0 cm\n\nEpaisseur des maillons: 1,100 mm\n\nUncertainty K: 2,0 dB\n\nSound pressure level: 96,0 dB(A)\n\nNoise level: Valeurs de mesure du niveau sonore relevées conformément à la norme 2000/14/CEE. Le niveau sonore pondéré A de l’outil électroportatif est typiquement de : niveau de pression acoustique 96 dB(A) ; niveau de puissance acoustique 104 dB(A). Incertitude K = 2 dB.\n\nSound power level: 104,0 dB(A)\n\nDimensions de l’outil (largeur x longueur x hauteur): 567 x 309 x 211 mm\n\nNiveau d’utilisation: Universal\n\nNet Weight: 4,120 kg\n\nGross Weight: 5,228 kg",
+     "short_description": "Puissante et facile à utiliser pour des découpes sans effort\n\nAvantages de produit:\n\n• Puissant moteur de 1 800 W et vitesse de chaîne de 12 m/s pour des coupes rapides\n\n• Conception légère (4,2 kg) et ergonomique pour un grand confort d’utilisation\n\n• Système SDS concentrique permettant de tendre ou remplacer la chaîne facilement et sans outil\n\n• Lubrification automatique pour un fonctionnement parfait sans interruptions\n\n• Idéale pour scier des branches et tronçonner des bûches, rondins ou du bois de chauffage"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8304-UniversalChain-35-en-MA-o359195v288-hbchainsaw015-without-Oregon-scaled.png",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8304-UniversalChain-35-en-MA-o359191v117-hbchainsaw012-3200x1800px-without-Oregon.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8304-UniversalChain-35-en-MA-o384364v117-o359190v12hbchainsaw011-3200x1800-without-Oregon.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143873",
+   "price": 2089.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tronçonneuse 40 cm UniversalChain 40 1800 W 06008B8402",
+     "description": "Lubrification automatique: Oui\n\nPoids (avec chaîne et guide): 4,400 kg\n\nChaîne: Chaîne Oregon\n\nVitesse de la chaîne: 12,0 m/s\n\nPuissance du moteur: 1 800,0 W\n\nLargeur de coupe (ligne): 35,0 cm\n\nLongueur de guide: 40,0 cm\n\nEpaisseur des maillons: 1,100 mm\n\nUncertainty K: 2,0 dB\n\nSound pressure level: 96,0 dB(A)\n\nNoise level: Valeurs de mesure du niveau sonore relevées conformément à la norme 2000/14/CEE. Le niveau sonore pondéré A de l’outil électroportatif est typiquement de : niveau de pression acoustique 96 dB(A) ; niveau de puissance acoustique 104 dB(A). Incertitude K = 2 dB.\n\nSound power level: 104,0 dB(A)\n\nDimensions de l’outil (largeur x longueur x hauteur): 415 x 274 x 216 mm\n\nNiveau d’utilisation: Universal\n\nNet Weight: 4,180 kg\n\nGross Weight: 5,286 kg",
+     "short_description": "Puissante et facile à utiliser pour des découpes sans effort\n\nAvantages de produit:\n\n• Puissant moteur de 1 800 W et vitesse de chaîne de 12 m/s pour des coupes rapides\n\n• Système SDS concentrique permettant de tendre ou remplacer la chaîne facilement et sans outil\n\n• Réservoir d’huile disposé latéralement avec bouchon imperdable pour des remplissages faciles\n\n• Conception légère (4,2 kg) et ergonomique pour un grand confort d’utilisation\n\n• Idéale pour scier des branches et tronçonner des bûches, rondins ou du bois de chauffage"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8402-UniversalChain-40-en-MA-o359195v288-hbchainsaw015-without-Oregon-scaled.png",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8402-UniversalChain-40-en-MA-o359191v288-hbchainsaw012-3200x1800px-without-Oregon-scaled.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8402-UniversalChain-40-en-MA-o384364v288-o359190v12hbchainsaw011-3200x1800-without-Oregon-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143874",
+   "price": 2339.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tronçonneuse Bosch- UniversalChain 35 1800 W 06008B8303",
+     "description": "Lubrification automatique: Oui\n\nPoids (avec chaîne et guide): 4,300 kg\n\nChaîne: Chaîne Oregon\n\nVitesse de la chaîne: 12,0 m/s\n\nPuissance du moteur: 1 800,0 W\n\nLargeur de coupe (ligne): 30,0 cm\n\nLongueur de guide: 35,0 cm\n\nVoltage: 0,0\n\nEpaisseur des maillons: 1,100 mm\n\nUncertainty K: 2,0 dB\n\nSound pressure level: 96,0 dB(A)\n\nNoise level: Valeurs de mesure du niveau sonore relevées conformément à la norme 2000/14/CEE. Le niveau sonore pondéré A de l’outil électroportatif est typiquement de : niveau de pression acoustique 96 dB(A) ; niveau de puissance acoustique 104 dB(A). Incertitude K = 2 dB.\n\nValeurs totales des vibrations: 4,0 1,500\n\nSound power level: 104,0 dB(A)\n\nDimensions de l’outil (largeur x longueur x hauteur): 570 x 268 x 213 mm\n\nProduct long description sub headline: L’UniversalChain est une tronçonneuse haute performance conçue pour offrir un confort d’utilisation maximal. À la fois légère et ergonomique, elle dispose d’une vitesse de chaîne élevée pour un travail rapide avec un maximum de confort.\n\nNiveau d’utilisation: Universal\n\nNet Weight: 3,506 kg\n\nGross Weight: 5,280 kg",
+     "short_description": "Puissante et facile à utiliser pour des découpes sans effort\n\nAvantages de produit:\n\n• Puissant moteur de 1 800 W et vitesse de chaîne de 12 m/s pour des coupes rapides\n\n• Conception légère (4,2 kg) et ergonomique pour un grand confort d’utilisation\n\n• Système SDS concentrique permettant de tendre ou remplacer la chaîne facilement et sans outil\n\n• Lubrification automatique pour un fonctionnement parfait sans interruptions\n\n• Idéale pour scier des branches et tronçonner des bûches, rondins ou du bois de chauffage"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8303-UniversalChain-35-en-MA-o359195v288-hbchainsaw015-without-Oregon-scaled.png",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8303-UniversalChain-35-en-MA-o384364v117-o359190v12hbchainsaw011-3200x1800-without-Oregon.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/06008B8303-UniversalChain-35-en-MA-o359191v288-hbchainsaw012-3200x1800px-without-Oregon-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-144091",
+   "price": 2289.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince ampèremétrique GFM 1000-15 True RMS 200 A AC | 0601077400",
+     "description": "Fabricant ‎Bosch Professional\n\nPile(s) / Batterie(s) : ‎2 AA – incluse(s)\n\nRéférence ‎0601077400\n\nTaille ‎0\n\nCouleur ‎Bleu\n\nStyle ‎Testeur de tension\n\nType d’alimentation ‎Alimenté par batterie\n\nQuantité d’articles ‎1\n\nCertification ‎IP54\n\nComposants inclus ‎GVT 1000-15, 2 piles 1,5 V LR03 (AAA), housse\n\nPiles incluses ? ‎Oui\n\nBatterie(s) / Pile(s) requise(s) ‎Oui\n\nType de batterie / pile ‎Alcaline\n\nDisponibilité des pièces détachées ‎1 An",
+     "short_description": "Multimètre fourche True RMS fiable et robuste avec écran LCD aux couleurs inversées pour des contrôles rapides du courant alternatif\n\nAvantages de produit:\n\n• Durabilité accrue avec indice de protection IP54 et prise en main confortable pour les chantiers difficiles\n\n• Mesure jusqu’à 200 A CA avec mâchoire ouverte pour un travail plus rapide\n\n• Conception compacte avec une solution de fixation magnétique compatible (MH 1 Professional) pour les travaux dans les endroits exigus"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/02/0601077400-GFM-1000-15-en-MA-o523716v186-GFM-1000-15-Dyn.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/0601077400-GFM-1000-15-en-MA-o557675v117-GFM-1000-15-Application-Leuchten-Hands0711.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/0601077400-GFM-1000-15-en-MA-o557679v186-GFM-1000-15-Application-MSpitze-0225.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/0601077400-GFM-1000-15-en-MA-o557673v186-GFM-1000-15-Application-Yoda-0827.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/0601077400-GFM-1000-15-en-MA-o557676v186-GFM-1000-15-Application-socket-1060.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/0601077400-GFM-1000-15-en-MA-o557678v117-GFM-1000-15-Application-Pruefen-0194.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-144324",
+   "price": 2250.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "POSTE À SOUDER ONDULEUR MMA 250A SI ING-MMA25069",
+     "description": "POSTE À SOUDER ONDULEUR MMA 250A SI – INGCO ING-MMA25069 (IGBT)\n\nDescription\n\nLe poste à souder onduleur MMA 250A INGCO ING-MMA25069 est conçu pour les travaux de soudage à l’électrode enrobée (MMA) en atelier comme sur chantier. Grâce à la technologie inverter IGBT, il offre un arc plus stable, une meilleure efficacité énergétique et un format plus pratique à transporter. Son afficheur LED permet de régler précisément l’intensité selon l’électrode et l’épaisseur à souder.\n\nPoints forts\n\nTechnologie IGBT inverter : arc stable, rendement élevé, consommation optimisée\n\nLarge plage de courant 15 à 250A : polyvalent pour plusieurs applications\n\nCycle de service performant : 250A à 60%\n\nAfficheur LED : réglage clair et rapide\n\nFonctions d’aide au soudage : Anti-stick / Hot Start / Arc Force\n\nHot Start : facilite l’amorçage\n\nArc Force : limite les collages et stabilise l’arc\n\nAnti-stick : réduit le collage de l’électrode\n\nCaractéristiques techniques\n\nType : Poste à souder MMA (électrode enrobée) – Inverter IGBT\n\nTension d’entrée : 1~ 220–240V\n\nFréquence : 50/60 Hz\n\nCourant de sortie : 15–250 A\n\nCourant max. : 250 A\n\nCycle de service : 250A @ 60%\n\nTension à vide : 80 V\n\nDiamètre électrodes compatible : 1,6 à 5,0 mm\n\nAffichage : LED\n\nAccessoires inclus\n\n1x Porte-électrode avec câble\n\n1x Pince de masse avec câble\n\n1x Brosse métallique\n\n1x Masque de soudure\n\nEmballage : boîte couleur\n\nApplications\n\nSoudage acier (travaux courants) : serrurerie, maintenance, réparation, structure métallique\n\nChantier & atelier : fabrication, assemblage, rénovation\n\nConseils d’utilisation\n\nAdapter l’intensité au diamètre de l’électrode (ex. 2.5 mm / 3.2 mm / 4.0 mm)\n\nUtiliser des câbles bien serrés et une bonne masse pour un arc stable\n\nPorter les EPI : gants, masque, vêtements adaptés",
+     "short_description": "POSTE À SOUDER ONDULEUR MMA 250A SI – INGCO ING-MMA25069 (IGBT)"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/02/POSTE-A-SOUDER-ONDULEUR-MMA-250A-SI-ING-MMA25069.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/POSTE-A-SOUDER-ONDULEUR-MMA-250A-SI-ING-MMA25069-.webp"
+   ]
+  },
+  {
+   "sku": "bricolya-145630",
+   "price": 6121.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Servante 7 tiroirs avec frein",
+     "description": "Harden 520605 – Servante 7 tiroirs avec frein \n\n La servante d’atelier Harden à 7 tiroirs protège vos outils grâce à son système de verrouillage interne à clé. Sa construction en acier à double paroi offre résistance et durabilité, avec une capacité de stockage de 10 450 pouces cubes pour organiser efficacement tout votre outillage. \n\n 7 tiroirs 10450 po³ Acier double paroi Verrouillage à clé \n\n⚙️ Construction en acier double paroi\n\n Cette construction robuste offre résistance et durabilité pour un usage intensif en atelier. \n\n🔧 Sécurité et mobilité\n\n Le système de verrouillage interne à clé protège les outils, tandis que la poignée latérale tubulaire à prise complète facilite le déplacement de la servante. \n\n🛡️ Protection de la surface\n\n Le tapis supérieur antidérapant à tissage ouvert protège la surface de l’armoire, et la garniture de tiroir en aluminium pleine largeur améliore l’adhérence. \n\n📋 Caractéristiques techniques\n\nMarque\nHarden\n\nRéférence\n520605\n\nType\nServante d’atelier\n\nNombre de tiroirs\n7\n\nCapacité de stockage\n10 450 po³\n\nMatériau\nAcier double paroi\n\nSécurité\nVerrouillage interne à clé\n\n📦 Contenu de la livraison\n\n1 × Servante d’atelier Harden 7 tiroirs\n\n🔨 Applications\n\nRangement et organisation d’outils\n\nAteliers professionnels et garages\n\nTransport d’outils sur roulettes\n\nProvenance des produits\n\n Le 520605 est un servante d’atelier de la marque Harden. Les caractéristiques techniques présentées correspondent aux informations publiées par le fabricant pour cette référence. \n\nMarque : Harden\n\nRéférence : 520605\n\nBricolya est distributeur de la marque Harden.\n\nVous bénéficiez des services et de la garantie applicables au produit Harden.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel officiel du produit.",
+     "short_description": "La servante d’atelier Harden à 7 tiroirs protège vos outils grâce à son système de verrouillage interne à clé. Sa construction en acier à double paroi offre résistance et durabilité, avec une capacité de stockage de 10 450 pouces cubes pour organiser efficacement tout votre outillage."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1686911237932.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1686911237395.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1686911237268.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1686911237678.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1686911237416.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-145638",
+   "price": 26.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coupe-câble 6″",
+     "description": "Harden 535538 – Coupe-câble 6″ \n\n Le coupe-câble Harden 6″ est doté d’une fonction de dénudage de fil à petite bouche, facilitant la coupe et le dénudage de câbles électriques fins dans un format compact. \n\n 6″ Dénudage intégré Compact \n\n⚙️ Fonction de dénudage\n\n La petite bouche de dénudage permet de dégainer les fils électriques fins avec précision. \n\n🔧 Format compact\n\n Ses 6 pouces en font un outil facile à transporter et à utiliser dans les espaces restreints. \n\n📋 Caractéristiques techniques\n\nMarque\nHarden\n\nRéférence\n535538\n\nType\nCoupe-câble\n\nLongueur\n6″\n\nFonction\nCoupe et dénudage\n\n📦 Contenu de la livraison\n\n1 × Coupe-câble Harden 6″\n\n🔨 Applications\n\nCoupe de câbles électriques\n\nDénudage de fils fins\n\nTravaux d’électricité\n\nProvenance des produits\n\n Le 535538 est un coupe-câble de la marque Harden. Les caractéristiques techniques présentées correspondent aux informations publiées par le fabricant pour cette référence. \n\nMarque : Harden\n\nRéférence : 535538\n\nBricolya est distributeur de la marque Harden.\n\nVous bénéficiez des services et de la garantie applicables au produit Harden.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel officiel du produit.",
+     "short_description": "Le coupe-câble Harden 6″ est doté d’une fonction de dénudage de fil à petite bouche, facilitant la coupe et le dénudage de câbles électriques fins dans un format compact."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1685354695424.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1685354695467.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1685354695416.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1685354695831.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1685354695965.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-145658",
+   "price": 42.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Joint universel 1/4″, 3/8″, 1/2″",
+     "description": "Harden 530554 – Joint universel 1/4″, 3/8″, 1/2″ \n\n Ce joint universel Harden est fabriqué en matériaux de haute qualité, offrant une gamme complète de styles, une bonne résistance à la corrosion et une installation ferme et durable. \n\n 1/4″, 3/8″, 1/2″ Anti-rouille Durable \n\n⚙️ Matériaux de haute qualité\n\n Le joint universel est fabriqué en matériaux résistants à la rouille pour une longue durée de vie. \n\n🔧 Installation ferme\n\n Le joint s’installe fermement sur la clé à cliquet ou la douille pour un fonctionnement fiable. \n\n📋 Caractéristiques techniques\n\nMarque\nHarden\n\nRéférence\n530554\n\nType\nJoint universel\n\nEntraînement\n1/4″, 3/8″ ou 1/2″\n\nRésistance\nAnti-corrosion\n\n📦 Contenu de la livraison\n\n1 × Joint universel Harden\n\n🔨 Applications\n\nAccès aux fixations en angle\n\nMécanique automobile\n\nTravaux d’atelier\n\nProvenance des produits\n\n Le 530554 est un joint universel de la marque Harden. Les caractéristiques techniques présentées correspondent aux informations publiées par le fabricant pour cette référence. \n\nMarque : Harden\n\nRéférence : 530554\n\nBricolya est distributeur de la marque Harden.\n\nVous bénéficiez des services et de la garantie applicables au produit Harden.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel officiel du produit.",
+     "short_description": "Ce joint universel Harden est fabriqué en matériaux de haute qualité, offrant une gamme complète de styles, une bonne résistance à la corrosion et une installation ferme et durable."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687142894312.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687142894606.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687142894114.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687142894448.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687142894906.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687142894823.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-145659",
+   "price": 52.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Barre d’extension 1/4″, 3/8″, 1/2″",
+     "description": "Harden 530552 – Barre d’extension 1/4″, 3/8″, 1/2″ \n\n Cette barre d’extension Harden bénéficie d’une finition chromée entièrement polie offrant une protection anticorrosion. Son système de dégagement rapide permet à l’utilisateur de retirer les extensions ou les prises d’une seule main, conforme aux spécifications ANSI. \n\n 1/4″, 3/8″, 1/2″ Finition chromée Dégagement rapide \n\n⚙️ Finition chromée polie\n\n La finition chromée entièrement polie protège la barre contre la corrosion. \n\n🔧 Dégagement rapide d’une seule main\n\n Le système de dégagement rapide permet de retirer extensions ou douilles facilement. \n\n🛡️ Conforme aux normes ANSI\n\n La barre d’extension est conforme ou dépasse les spécifications ANSI en vigueur. \n\n📋 Caractéristiques techniques\n\nMarque\nHarden\n\nRéférence\n530552\n\nType\nBarre d’extension\n\nEntraînement\n1/4″, 3/8″ ou 1/2″\n\nFinition\nChromée polie\n\n📦 Contenu de la livraison\n\n1 × Barre d’extension Harden\n\n🔨 Applications\n\nMécanique automobile\n\nAccès aux fixations en profondeur\n\nTravaux d’atelier\n\nProvenance des produits\n\n Le 530552 est une barre d’extension de la marque Harden. Les caractéristiques techniques présentées correspondent aux informations publiées par le fabricant pour cette référence. \n\nMarque : Harden\n\nRéférence : 530552\n\nBricolya est distributeur de la marque Harden.\n\nVous bénéficiez des services et de la garantie applicables au produit Harden.\n\nEn achetant sur Bricolya, vous êtes informé en cas de rappel officiel du produit.",
+     "short_description": "Cette barre d’extension Harden bénéficie d’une finition chromée entièrement polie offrant une protection anticorrosion. Son système de dégagement rapide permet à l’utilisateur de retirer les extensions ou les prises d’une seule main, conforme aux spécifications ANSI."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687140710971.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687140759783.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687140710365.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687140710359.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687140710692.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687140710438.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/02/pic1687140710649.jpg"
+   ]
+  }
+ ]
+}

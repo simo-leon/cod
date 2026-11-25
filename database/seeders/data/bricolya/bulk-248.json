@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-150638",
+   "price": 105.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Disque Diamant Turbo DMD032302",
+     "description": "• 230(9″)X 22,2 mmGrandeur de boite: 10 mmEmballer par boîte de couleur",
+     "short_description": "230(9″)X 22,2 mmExtrêmement de la boite: 10 mm- Emballer par carte de couleur"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/DMD032302.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150640",
+   "price": 190.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Disque Diamant Ultra Fin (Jante En Maille) HT DMD082301HT",
+     "description": "• 230(9″)X 22,2 MM Hauteur de la lame 10 mmÉpaisseur de la boiteuse 2 mmÉpaisseur de la matrice 1,4 mmMatière: 75 Cr 1 Avec plaque à mariée Emballer sous double blister",
+     "short_description": "230(9″)X 22,2 MM.10 mm► Épaisseur de la boite 2 mm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/DMD082301HT.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150642",
+   "price": 299.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Perceuse électrique ED55038",
+     "description": "• Tension: 220240 V~50/60 HzPuissance d’entrée: 550 WVitesse de charge sans charge: 0\n\n• 3300 rpmCapacité maximale de forage: 10 mmCommande de vitesse variable Interrupteur avant/arrière Avec brosses en carbone supplémentaire 1 set Emballé par boîte de couleur",
+     "short_description": "Tension: 220240 V~50/60 HzPuissance d’entrée: 550 WCapacité maximale de forage: 10 mm"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/ED55038.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150644",
+   "price": 199.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batterie au lithium-ion FBLI1620",
+     "description": "• Tension: 16 VLithiumIon 2\n\n• 0 Ah batterie Une batterie convient à tousM 16 Plusieurs outils emballés par boîte de couleur",
+     "short_description": "Tension: 16 V► LithiumIon 2 accumulateur .0 Ah , une batterie correspond à tousM 16 plusieurs outils"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/FBLI1620.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150648",
+   "price": 400.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur de batterieP 20 S FCLI2034",
+     "description": "• Tension d’entrée: 220240 V~50/60 HzTension de sortie: 21 VProduit courant: 4 AAccepte jusqu’à 2 pcsP 20 Sbatterie packs Double ports de batterie actifs pour recharger simultanément Packed by color box",
+     "short_description": "Tension d’entrée: 220240 V~50/60 Hz∙ Tension de sortie: 21 V► Courant de sortie: 4 A"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/FCLI2034.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150654",
+   "price": 3250.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à eau à essence GWP412",
+     "description": "• Diamètre du port d’aspiration et de décharge: 100 mm,4″ Flux max\n\n• : 1500 L/minMax\n\n• head levant: 29 m Max\n\n• suction tête: 8 m 7\n\n• 5 Moteur à essence HP Déplacement: 223 cc Réservoir de carburant: 3\n\n• 6 L Système de démarrage: Recoil emballé par boîte de carton",
+     "short_description": "Diamètre du port d’aspiration et de décharge: 100 mm,4″ ► Flux max.: 1400 L/min► Max. ascenseur de tête: 29 m"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/GWP412.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150666",
+   "price": 69.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Visière de protection faciale HFSPC32",
+     "description": "• Visière antimacformée conforme à la norme CEEN 1731 et ANSI/ISEA Z 87\n\n• 1 Brim protège le front contre les blessures extérieures Tête avec boutons réglables, avec bande de sueur antibactérienne emballée par étiquette",
+     "short_description": "Visière antiimpact , Bande de sueur antibactérienne , Tête avec boutons réglables"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/HFSPC32.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150668",
+   "price": 350.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet thermique sans fil HGLI2006",
+     "description": "• Tension: 20 V\n\n• Température: 300/550°C\n\n• Débit d’air: 100/200 L/min\n\n• Contenu: 1 la réduction des coûts,1 buse réflectrice,1 plaque d’autobus,1 grattoir\n\n• Batterie et chargeur vendus séparé\n\n• Emballage: boîte couleur",
+     "short_description": "Tension: 20 VTempérature: 30 .550°C∙ Débit d ‘ air: 100/200 L/min"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/HGLI2006.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150680",
+   "price": 65.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "2 Pcs pinces ensemble HKPS28216",
+     "description": "• 2 Ensemble de pinces Pcs Inclure: 8″ Pinces combinées 7″ Pinces de découpe diagonales Matériau: CrVTraitement de surface: finition noire et poli TPR poignée trois couleurs Emballé par carte coulissante",
+     "short_description": "2 Pcs/ensemble de matériaux: CrV► Emballé par carte coulissante"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/HKPS28216.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-150682",
+   "price": 79.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de tournevis et embouts 24 pcs HKSDB02482",
+     "description": "• 24 ensemble tournevis et bits de pcs Inclure: 1 pcsSL 6\n\n• 5 X 150 mm 1 pcs PH 2 X 150 mm 1 pcs 1/4″*100 mmtournevis tige magnétique 10 pcs 1/4″X 25 mmbits: PH 1 PH 2 PZ 1 PZ 2 SL 4 SL 6 H 4 H 5 T 20 T 251 pcs Visseuse de précision tige magnétique 10 PCS 4 X 28 mmBoutons de précision: PH 000 PH 00 PH 0 SL 1\n\n• 5 SL 2\n\n• 0 SL 2\n\n• 5 H 1\n\n• 5 H 2\n\n• 0 T 6 T 8 Emballage par double plaquette thermoformée",
+     "short_description": "Jeu de 24 tournevis et embouts Matériel: CRV Emballé par double blister"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/HKSDB02482.jpg"
+   ]
+  }
+ ]
+}

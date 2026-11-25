@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-140711",
+   "price": 159.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Multimètre numérique",
+     "description": "Multimètre numérique DM36002 INGCO :\n\nDescription technique du Multimètre numérique INGCO DM36002\n\nLe multimètre numérique INGCO DM36002 est un appareil de mesure électronique de haute précision, conçu pour les techniciens, électriciens, ingénieurs et bricoleurs exigeants. Polyvalent et robuste, il permet de mesurer avec fiabilité différentes grandeurs électriques, notamment la tension, le courant, la résistance, la continuité, la fréquence et bien plus encore. Cet outil combine performance, sécurité et facilité d’utilisation, répondant aux besoins des professionnels comme des amateurs avertis.\n\n1. Conception et ergonomie\n\nLe multimètre DM36002 arbore un design compact et ergonomique, facilitant sa manipulation et son transport. Son boîtier robuste est fabriqué à partir de matériaux ABS de haute qualité, offrant une résistance accrue aux chocs et aux conditions difficiles des chantiers.L’appareil est doté d’un écran LCD rétroéclairé de grande taille, garantissant une lecture claire et précise des valeurs, même dans les environnements peu éclairés. Les chiffres sont bien contrastés, ce qui améliore la visibilité et réduit les erreurs de lecture.\n\nLe sélecteur rotatif central permet de choisir facilement le mode de mesure souhaité. Sa texture antidérapante et sa course fluide assurent une utilisation confortable et précise. Les bornes d’entrée sont bien repérées par des couleurs distinctes (COM en noir, VΩmA en rouge, et 10A dédiée au courant fort), ce qui réduit les risques d’erreur de branchement.\n\n2. Fonctions de mesure\n\nLe DM36002 est un multimètre polyfonctionnel offrant une large gamme de mesures essentielles pour le diagnostic électrique et électronique :\n\nTension continue (DCV) : de 200 mV à 600 V\n\nTension alternative (ACV) : de 200 V à 600 V\n\nCourant continu (DCA) : de 200 µA à 10 A\n\nCourant alternatif (ACA) : jusqu’à 10 A\n\nRésistance : de 200 Ω à 20 MΩ\n\nTest de diodes et test de continuité (avec signal sonore)\n\nMesure de capacité : idéale pour tester les condensateurs\n\nMesure de fréquence et de cycle de service (Duty Cycle)**\n\nFonction de maintien de données (« Data Hold ») permettant de figer la valeur affichée\n\nIndication de polarité automatique et détection de surcharge\n\nGrâce à ces fonctions variées, le multimètre DM36002 s’adapte aussi bien aux travaux domestiques (vérification de prises, batteries, appareils électroménagers) qu’aux diagnostics plus techniques en électronique et maintenance industrielle.\n\n3. Précision et performances\n\nLe multimètre INGCO DM36002 se distingue par sa haute précision de mesure, avec une résolution fine et une stabilité remarquable. Les circuits internes sont conçus à base de composants de qualité (convertisseurs analogiques/numériques fiables, résistances calibrées, protection contre la surcharge).La précision typique pour les mesures de tension continue est de ±(0,5 % + 2 chiffres), ce qui en fait un outil fiable pour les mesures de diagnostic.\n\nLa fonction d’auto-calibration interne garantit des résultats cohérents dans le temps, tandis que la protection intégrée contre les surcharges protège à la fois l’appareil et l’utilisateur en cas de mauvaise manipulation.\n\n4. Sécurité et conformité\n\nLe DM36002 respecte les normes internationales de sécurité CAT II 600 V, garantissant une protection contre les surtensions et les erreurs de connexion dans les environnements domestiques et industriels légers.Il est également équipé d’un fusible de protection remplaçable pour les circuits de mesure de courant, évitant tout risque de dommage interne.\n\nLa conception interne inclut une isolation renforcée, un système de protection contre les inversions de polarité, et un signal sonore d’avertissement en cas de mauvaise utilisation. Ces dispositifs garantissent une utilisation sûre même pour les utilisateurs moins expérimentés.\n\n5. Alimentation et autonomie\n\nLe multimètre DM36002 fonctionne avec une pile 9V standard, facilement remplaçable. La faible consommation d’énergie du circuit électronique lui confère une autonomie prolongée, idéale pour un usage intensif sur chantier ou en laboratoire.Il dispose également d’une fonction d’arrêt automatique (Auto Power Off) après quelques minutes d’inactivité, contribuant à préserver la durée de vie de la batterie.\n\n6. Accessoires fournis\n\nLe DM36002 est livré avec :\n\nUn jeu de cordons de mesure haute qualité avec embouts protégés.\n\nUne pile 9V (préinstallée ou fournie séparément selon le pack).\n\nUn manuel d’utilisation multilingue clair et illustré.\n\nUne housse de protection souple pour le transport et le stockage.\n\n7. Domaines d’application\n\nCe multimètre est particulièrement adapté pour :\n\nLes travaux d’électricité domestique et industrielle\n\nLes diagnostics de circuits électroniques\n\nLa maintenance d’appareils électroménagers\n\nLes interventions sur systèmes automobiles (batteries, alternateurs)\n\nL’enseignement et la formation technique\n\nGrâce à sa polyvalence, sa précision et sa facilité d’utilisation, le DM36002 INGCO constitue un choix idéal pour tous ceux qui recherchent un instrument fiable et durable pour leurs travaux de mesure.\n\n8. Caractéristiques techniques résumées\n\nCaractéristique\nValeur\n\nTension DC\n200 mV – 600 V\n\nTension AC\n200 V – 600 V\n\nCourant DC\n200 µA – 10 A\n\nCourant AC\nJusqu’à 10 A\n\nRésistance\n200 Ω – 20 MΩ\n\nTest de continuité\nOui (buzzer sonore)\n\nTest de diode\nOui\n\nÉcran\nLCD rétroéclairé\n\nPrécision (DCV)\n±(0,5 % + 2 chiffres)\n\nAlimentation\nPile 9V\n\nCatégorie de sécurité\nCAT II 600 V\n\nFonction d’arrêt automatique\nOui\n\nDimensions\nEnviron 150 × 70 × 35 mm\n\nPoids\nEnviron 300 g",
+     "short_description": "Caractéristiques techniques résumées\n\nCaractéristique\nValeur\n\nTension DC\n200 mV – 600 V\n\nTension AC\n200 V – 600 V\n\nCourant DC\n200 µA – 10 A\n\nCourant AC\nJusqu’à 10 A\n\nRésistance\n200 Ω – 20 MΩ\n\nTest de continuité\nOui (buzzer sonore)\n\nTest de diode\nOui\n\nÉcran\nLCD rétroéclairé\n\nPrécision (DCV)\n±(0,5 % + 2 chiffres)\n\nAlimentation\nPile 9V\n\nCatégorie de sécurité\nCAT II 600 V\n\nFonction d’arrêt automatique\nOui\n\nDimensions\nEnviron 150 × 70 × 35 mm\n\nPoids\nEnviron 300 g"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/10/Digital-multimeter.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-140712",
+   "price": 30.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "DISQUE DIAMANT 115MM A EAU ET A SEC",
+     "description": "DISQUE DIAMANT 115MM À EAU ET À SEC DMD011152 – INGCO :\n\nDescription Technique du Disque Diamant 115 mm à Eau et à Sec DMD011152 – INGCO\n\nLe disque diamant 115 mm à eau et à sec DMD011152 de la marque INGCO est un outil de coupe de haute performance conçu pour répondre aux exigences des professionnels du bâtiment, des artisans et des bricoleurs exigeants. Alliant précision, durabilité et polyvalence, il est spécialement développé pour la coupe rapide et nette de matériaux durs tels que le béton, la céramique, le granit, le marbre, la pierre naturelle, la brique, et les matériaux de construction composites.\n\n1. Caractéristiques générales\n\nRéférence produit : DMD011152\n\nMarque : INGCO\n\nDiamètre externe : 115 mm\n\nDiamètre d’alésage : 22,23 mm\n\nÉpaisseur du segment : 1,8 mm\n\nHauteur du segment diamanté : 7 mm\n\nVitesse maximale : 13 300 tr/min\n\nType de coupe : À eau et à sec\n\nTechnologie de fabrication : Fritté à chaud avec segments diamantés haute densité\n\nCe disque est compatible avec la plupart des meuleuses d’angle standards du marché équipées d’un alésage de 22,23 mm, garantissant une installation rapide et sécurisée.\n\n2. Conception et matériaux\n\nLe DMD011152 est conçu à partir d’un alliage d’acier trempé à haute résistance, garantissant une stabilité structurelle optimale même à grande vitesse. Les segments diamantés, réalisés à partir de poudre de diamant synthétique de qualité industrielle, assurent une longévité accrue et une coupe continue sans perte de performance au fil du temps.\n\nLe disque bénéficie d’un équilibrage précis, limitant les vibrations et réduisant la fatigue de l’utilisateur. La liaison métallique entre les particules de diamant et le corps du disque est obtenue par procédé de frittage sous haute température, ce qui améliore la cohésion et la résistance à l’usure.\n\n3. Performances et utilisation\n\nGrâce à sa conception hybride, le disque DMD011152 permet une utilisation à sec ou avec arrosage à l’eau, selon les besoins du chantier :\n\nUtilisation à sec : adaptée pour les travaux rapides, sans préparation particulière, tout en conservant une excellente vitesse de coupe et une bonne dissipation de la chaleur.\n\nUtilisation à eau : permet de réduire la poussière, de prolonger la durée de vie du disque et d’obtenir une finition plus lisse, particulièrement recommandée pour les matériaux sensibles comme le marbre ou le carrelage.\n\nCe disque offre une excellente vitesse de coupe, même dans les matériaux les plus durs. Il garantit une coupure nette, sans éclats et une usure régulière, évitant les surchauffes ou les déformations.\n\n4. Domaines d’application\n\nLe disque diamant DMD011152 est idéal pour une large variété d’applications professionnelles et domestiques :\n\nDécoupe de béton armé, pierre, brique, granit, carrelage, céramique, ardoise, marbre, grès cérame, tuiles, et matériaux composites.\n\nTravaux de construction, rénovation, pose de carrelage, maçonnerie, plomberie, ou aménagement extérieur.\n\nUtilisation en atelier, sur chantier, ou dans des travaux de finition de précision.\n\nIl convient aussi bien aux professionnels du BTP qu’aux bricoleurs expérimentés cherchant un outil fiable et durable.\n\n5. Avantages du produit\n\nPolyvalence d’utilisation : compatible à eau et à sec.\n\nHaute durabilité : segments diamantés résistants à l’abrasion.\n\nCoupes rapides et précises : faible résistance à la coupe, rendement élevé.\n\nRéduction de la poussière et de la surchauffe : grâce à la conception ventilée.\n\nSécurité accrue : structure équilibrée et testée selon les normes européennes EN13236.\n\nÉconomie : longue durée de vie, excellent rapport qualité/prix.\n\nCompatibilité universelle : s’adapte à toutes les meuleuses standards de 115 mm.\n\n6. Recommandations d’utilisation\n\nToujours vérifier la vitesse maximale autorisée de la machine avant montage.\n\nMonter le disque dans le bon sens de rotation indiqué sur la face avant.\n\nPorter des équipements de protection individuelle (lunettes, masque, gants, casque antibruit).\n\nEn cas d’utilisation à sec, éviter une pression excessive pour préserver la durée de vie du disque.\n\nEn cas d’utilisation à eau, s’assurer d’un arrosage continu pour un refroidissement efficace.\n\n7. Entretien et stockage\n\nAprès usage, le disque doit être nettoyé et stocké dans un endroit sec, à l’abri de l’humidité et des chocs. Ne jamais utiliser un disque endommagé ou présentant des fissures. Un bon entretien garantit une durée de vie prolongée et des performances constantes.",
+     "short_description": "Caractéristiques générales\n\nRéférence produit : DMD011152\n\nMarque : INGCO\n\nDiamètre externe : 115 mm\n\nDiamètre d’alésage : 22,23 mm\n\nÉpaisseur du segment : 1,8 mm\n\nHauteur du segment diamanté : 7 mm\n\nVitesse maximale : 13 300 tr/min\n\nType de coupe : À eau et à sec\n\nTechnologie de fabrication : Fritté à chaud avec segments diamantés haute densité\n\nCe disque est compatible avec la plupart des meuleuses d’angle standards du marché équipées d’un alésage de 22,23 mm, garantissant une installation rapide et sécurisée."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/10/disque.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-140713",
+   "price": 35.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "DISQUE DIAMANT 125MM A EAU ET SEC INGCO",
+     "description": "DISQUE DIAMANT 125MM À EAU ET SEC INGCO DMD011252 :\n\nDescription Technique du Disque Diamant 125mm à Eau et à Sec INGCO DMD011252\n\nLe disque diamant 125 mm INGCO DMD011252 est un outil de coupe de haute performance conçu pour répondre aux exigences des professionnels du bâtiment, de la maçonnerie, de la plomberie et de la rénovation. Grâce à sa technologie avancée de fabrication et à la qualité supérieure de ses composants, ce disque allie précision, rapidité et durabilité, tout en garantissant une grande polyvalence d’utilisation. Adapté aussi bien à une utilisation à sec qu’à eau, il s’impose comme un choix incontournable pour les artisans recherchant un résultat net et régulier sur différents matériaux.\n\nCaractéristiques Techniques Principales\n\nMarque : INGCO\n\nRéférence : DMD011252\n\nType : Disque diamanté professionnel\n\nDiamètre extérieur : 125 mm (5 pouces)\n\nAlésage (trou central) : 22,23 mm\n\nÉpaisseur du segment : 2,0 mm (en moyenne selon le modèle)\n\nHauteur du segment : environ 7 à 10 mm\n\nType de coupe : Coupe à sec et à eau\n\nMatériaux compatibles : Béton, pierre naturelle, granite, marbre, carrelage, céramique, briques, béton armé, blocs, etc.\n\nType de bord : Bord continu (continuous rim) ou segmenté selon la série (ici, bord segmenté pour coupe rapide et refroidissement optimal).\n\nVitesse maximale : 12 200 tr/min (tours par minute)\n\nNorme de sécurité : Conforme aux standards EN13236\n\nMatériaux et Conception\n\nLe disque diamant INGCO DMD011252 est fabriqué à partir d’un alliage d’acier trempé de haute qualité, garantissant une résistance exceptionnelle aux chocs thermiques et mécaniques. Les segments diamantés sont élaborés à partir de poudres de diamant synthétique de grade industriel, soigneusement sélectionnées pour leur dureté et leur capacité de coupe.\n\nChaque segment est soudé au laser sur le corps du disque, assurant une liaison solide, stable et durable. Cette technologie de soudure laser empêche le décollement des segments même lors d’une utilisation prolongée à haute vitesse ou sur des matériaux durs comme le granite ou le béton armé.\n\nLe design segmenté du disque permet une meilleure évacuation de la poussière et des débris, ainsi qu’un refroidissement efficace du disque durant la coupe. Cela prolonge considérablement la durée de vie de l’outil et réduit les risques de surchauffe.\n\nPolyvalence d’Utilisation\n\nLe DMD011252 est conçu pour fonctionner à sec ou à eau, offrant ainsi une grande flexibilité selon le type de travail :\n\nCoupe à sec : idéale pour les chantiers rapides ou les zones où l’alimentation en eau est difficile. La conception segmentée permet un refroidissement naturel par circulation d’air.\n\nCoupe à eau : recommandée pour les travaux de précision ou les matériaux sensibles à la chaleur. L’eau réduit la formation de poussière, améliore la finition et augmente la durée de vie du disque.\n\nCe disque peut être monté sur la plupart des meuleuses d’angle standards de 125 mm, électriques ou sans fil. Il s’adapte également à certaines scies à matériaux portatives, selon le diamètre et l’alésage.\n\nApplications Recommandées\n\nLe disque diamant INGCO DMD011252 est parfaitement adapté pour :\n\nLa découpe de béton armé, dalles et bordures.\n\nLa taille de briques, tuiles et parpaings.\n\nLe tronçonnage de carrelage, faïence et céramique dure.\n\nLe sciage de pierre naturelle, granite, marbre ou travertin.\n\nLes travaux de construction, rénovation et plomberie nécessitant des coupes précises et nettes.\n\nGrâce à son tranchant affûté et sa robustesse, il permet des coupes nettes et régulières, sans éclats excessifs ni vibration importante.\n\nAvantages du Disque Diamant INGCO DMD011252\n\nHaute performance de coupe : grâce à ses segments diamantés de qualité supérieure, la vitesse de coupe est rapide, même sur des matériaux durs.\n\nDurabilité exceptionnelle : structure en acier trempé et soudure laser garantissent une longue durée de vie.\n\nPolyvalence : utilisable à sec ou à eau selon les besoins du chantier.\n\nCompatibilité universelle : convient à la plupart des meuleuses d’angle de 125 mm.\n\nSécurité accrue : équilibrage parfait et respect des normes de sécurité européenne EN13236.\n\nPrécision et finition : coupe propre et sans bavure, limitant les retouches.\n\nRapport qualité-prix : performance professionnelle à un prix accessible, fidèle à la réputation de la marque INGCO.\n\nConseils d’Utilisation et d’Entretien\n\nToujours vérifier la compatibilité du disque avec l’appareil avant montage.\n\nRespecter la vitesse maximale indiquée (12 200 tr/min).\n\nPorter les équipements de protection individuelle (lunettes, gants, masque antipoussière).\n\nEn coupe à sec, éviter la pression excessive pour ne pas surchauffer le disque.\n\nEn coupe à eau, maintenir un débit constant pour refroidir efficacement la lame.\n\nRanger le disque dans un endroit sec et à l’abri de la corrosion.",
+     "short_description": "Caractéristiques Techniques Principales\n\nMarque : INGCO\n\nRéférence : DMD011252\n\nType : Disque diamanté professionnel\n\nDiamètre extérieur : 125 mm (5 pouces)\n\nAlésage (trou central) : 22,23 mm\n\nÉpaisseur du segment : 2,0 mm (en moyenne selon le modèle)\n\nHauteur du segment : environ 7 à 10 mm\n\nType de coupe : Coupe à sec et à eau\n\nMatériaux compatibles : Béton, pierre naturelle, granite, marbre, carrelage, céramique, briques, béton armé, blocs, etc.\n\nType de bord : Bord continu (continuous rim) ou segmenté selon la série (ici, bord segmenté pour coupe rapide et refroidissement optimal).\n\nVitesse maximale : 12 200 tr/min (tours par minute)\n\nNorme de sécurité : Conforme aux standards EN13236"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/10/DIsque-diamond.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-140794",
+   "price": 599.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack 1 Batterie 20V 4Ah + 1 chargeur rapide SI",
+     "description": "Pack 1 Batterie 20V 4Ah + 1 Chargeur Rapide SI FBCPK1214 INGCO :\n\nDescription Technique du Pack Batterie + Chargeur INGCO SI FBCPK1214\n\nLe Pack INGCO SI FBCPK1214 est un ensemble complet conçu pour les professionnels comme pour les particuliers exigeants, regroupant une batterie lithium-ion 20V – 4Ah et un chargeur rapide performant. Ce kit fait partie de la gamme P20S d’INGCO, réputée pour sa puissance, sa durabilité et sa compatibilité universelle avec une large variété d’outils électroportatifs sans fil.\n\nGrâce à ce pack, vous bénéficiez d’une solution d’alimentation efficace, fiable et adaptée à tous vos travaux d’entretien, de bricolage ou de chantier. Que vous utilisiez une perceuse, une scie, une meuleuse ou tout autre outil 20V de la marque, cette combinaison batterie + chargeur garantit une performance continue et un temps d’arrêt minimal.\n\n1. Batterie Lithium-Ion INGCO 20V – 4Ah : Puissance et Endurance\n\nTechnologie lithium-ion\n\nLa batterie du pack repose sur la technologie Li-ion (Lithium-Ion), une innovation offrant un excellent rapport puissance/poids. Contrairement aux batteries traditionnelles (Ni-Cd ou Ni-MH), les batteries Li-ion ne présentent pas d’effet mémoire et conservent leur capacité maximale même après de nombreux cycles de charge et de décharge.\n\nTension et capacité\n\nTension nominale : 20 Volts\n\nCapacité : 4 Ampères-heures (Ah)\n\nCette combinaison procure une autonomie prolongée, permettant d’alimenter vos outils pendant une durée significative sans perte de puissance. Avec 4Ah, vous bénéficiez d’une réserve d’énergie suffisante pour réaliser des travaux intensifs et prolongés, que ce soit dans la menuiserie, la mécanique ou le bâtiment.\n\nPerformances constantes\n\nGrâce à un système électronique de gestion intégré (BMS – Battery Management System), la batterie INGCO régule automatiquement la tension, la température et le courant de décharge. Elle protège ainsi les cellules internes contre la surchauffe, la surcharge ou les courts-circuits. Ce dispositif garantit une longévité accrue et des performances constantes, même dans des conditions de travail difficiles.\n\nDesign compact et ergonomique\n\nLa batterie 20V – 4Ah INGCO a été pensée pour offrir un confort d’utilisation optimal. Son design compact et équilibré assure une prise en main facile, tout en limitant le poids total de l’outil. Son boîtier en plastique ABS renforcé protège les cellules internes contre les chocs, la poussière et l’humidité.Elle est également équipée d’un indicateur de charge LED, permettant de vérifier à tout moment le niveau d’énergie restant.\n\nCompatibilité universelle (P20S)\n\nFaisant partie de la plateforme INGCO P20S, cette batterie est 100 % compatible avec l’ensemble des outils 20V de la gamme : perceuses-visseuses, meuleuses, scies circulaires, souffleurs, tronçonneuses, etc. Cette compatibilité universelle représente un avantage économique et pratique, car vous pouvez utiliser une seule batterie pour plusieurs outils.\n\n2. Chargeur Rapide INGCO – Référence SI FBCPK1214\n\nPuissance et rapidité\n\nLe chargeur inclus dans le pack est un chargeur rapide conçu pour recharger efficacement les batteries 20V INGCO. Grâce à son courant de charge optimisé, il permet de recharger complètement une batterie 4Ah en environ 60 à 90 minutes, selon la température ambiante et l’état de la batterie.\n\nCaractéristiques techniques\n\nTension d’entrée : 220–240V ~ 50/60Hz\n\nTension de sortie : 20V\n\nCourant de charge : 2A à 3A (selon modèle)\n\nTemps de charge estimé : 1 à 1,5 heure pour 4Ah\n\nLe chargeur rapide INGCO est doté d’un système intelligent de détection automatique de la tension et de la température, garantissant une charge sécurisée et efficace.\n\nSécurité intégrée\n\nPour assurer la sécurité de l’utilisateur et la durabilité du matériel, le chargeur est équipé de multiples protections électroniques :\n\nProtection contre la surcharge\n\nProtection contre la surchauffe\n\nCoupure automatique en fin de charge\n\nIndicateur LED signalant l’état de charge (en cours / pleine / défectueuse)\n\nCes dispositifs empêchent toute surchauffe des cellules et assurent une charge optimale sans risque de dégradation prématurée.\n\nDesign robuste et compact\n\nFabriqué dans des matériaux de haute qualité, le chargeur INGCO se distingue par sa compacité et sa résistance aux chocs. Son format léger et sa stabilité sur surface plane en font un accessoire pratique pour les chantiers et les ateliers.\n\n3. Avantages du Pack INGCO SI FBCPK1214\n\n✅ Autonomie prolongée grâce à la batterie 4Ah haute capacité\n\n⚡ Recharge rapide et sécurisée avec un chargeur intelligent\n\n🔋 Compatibilité totale avec tous les outils 20V de la gamme INGCO P20S\n\n🧠 Technologie lithium-ion sans effet mémoire et avec faible autodécharge\n\n🛡️ Protection intégrée contre surcharge, court-circuit et surchauffe\n\n💪 Conception robuste et ergonomique, idéale pour un usage professionnel\n\n🌍 Économie et praticité : une seule batterie pour plusieurs outils\n\n4. Domaine d’utilisation\n\nCe pack s’adresse à un large public :\n\nProfessionnels du bâtiment et de la maintenance, pour leurs outils sans fil 20V.\n\nArtisans en menuiserie, plomberie, électricité, ou mécanique.\n\nBricoleurs exigeants, souhaitant une source d’énergie fiable et durable.\n\nUtilisateurs nomades, travaillant sur des sites sans accès permanent à une alimentation électrique.\n\n5. Contenu du pack\n\n1 Batterie INGCO P20S Lithium-Ion 20V – 4Ah\n\n1 Chargeur rapide INGCO 20V\n\nManuel d’utilisation",
+     "short_description": "Caractéristiques techniques\n\nTension d’entrée : 220–240V ~ 50/60Hz\n\nTension de sortie : 20V\n\nCourant de charge : 2A à 3A (selon modèle)\n\nTemps de charge estimé : 1 à 1,5 heure pour 4Ah\n\nLe chargeur rapide INGCO est doté d’un système intelligent de détection automatique de la tension et de la température, garantissant une charge sécurisée et efficace."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/10/pack-batterie.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-140829",
+   "price": 299.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "SAC A DOS POUR OUTILS HBP01028 INGCO",
+     "description": "Dimensions: 38 × 17 × 46 cm (L × l × H)\n\nCharge maximale conseillée: 8 kg\n\n• Matériau: Polyester Oxford 1680D(résistant, durable)\n\nStructure: Cadre rigide— facilite l’ouverture et l’accès rapide à l’intérieur\n\nRangement: Poches internes + poches externespour organiser outils & accessoires.",
+     "short_description": "Dimensions: 38 × 17 × 46 cm (L × l × H)\n\nCharge maximale conseillée: 8 kg\n\n• Matériau: Polyester Oxford 1680D(résistant, durable)\n\nStructure: Cadre rigide— facilite l’ouverture et l’accès rapide à l’intérieur\n\nRangement: Poches internes + poches externespour organiser outils & accessoires."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/05/Pistolet-pneumatique-dingqi-2025-12-05T165524.651.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/05/Pistolet-pneumatique-dingqi-2025-12-05T165822.510.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/05/Pistolet-pneumatique-dingqi-2025-12-05T170025.359.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-140872",
+   "price": 899.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble d’outils à main isolés de 16 pièces HKITH1601",
+     "description": "Ensemble d’outils à main isolés 16 pièces, 1000V, Certification VDE/GS Inclus : 1 pince mixte isolée de 200 mm ; 1 pince à bec long isolée de 200 mm ; 1 pince coupante diagonale isolée de 160 mm ; 1 pince à dénuder les fils isolés de 160 mm ; 4 tournevis à fente isolés : SL3x75 mm ; SL4,0x100mm ; SL5,5 x 125 mm ; SL6,5×150 mm ; 5 tournevis cruciformes isolés : PH00 x 50 mm ; PH0x60mm; PH1x80mm; PH2x100mm; PH3x150mm; 1 testeur de tension 30 x 70 mm ; 1 couteau à câble 50x180mm; 1 ruban électrique en vinyle emballé par un design unique BMC + boîte de couleur.",
+     "short_description": "Ensemble d’outils à main isolés 16 pièces | 1000 V, certification VDE/GS | 1000 V, certification VDE/GS"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/04/HKITH1601-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-140884",
+   "price": 549.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret à outils 168 pièces HKTHP21681",
+     "description": "Le coffret d’outils INGCO HKTHP21681 est une solution complète conçue pour les travaux de réparation, d’entretien et de bricolage. Grâce à ses 168 pièces soigneusement sélectionnées, ce kit polyvalent offre tous les outils indispensables pour intervenir efficacement à la maison, dans un atelier ou sur un chantier.\n\nLes outils sont rangés dans une mallette de transport résistante, facilitant le stockage, l’organisation et le transport de l’ensemble.\n\nCaractéristiques principales :\n\nEnsemble complet de 168 outils et accessoires.\n\nMallette robuste pour un rangement pratique.\n\nConvient aux travaux de bricolage, de maintenance et de réparation.\n\nOutils ergonomiques offrant une prise en main confortable.\n\nIdéal pour les professionnels et les utilisateurs domestiques.\n\nContenu du coffret :\n\n1 marteau arrache-clou de 8 oz\n\n1 pince universelle de 7″\n\n1 pince à bec long de 6″\n\n1 pince multiprise de 10″\n\n1 pince à dénuder de 8,5″\n\n2 tournevis standards\n\n2 tournevis courts\n\n4 tournevis de précision\n\n1 testeur de tension 100–500 V AC\n\n1 clé à molette de 8″\n\n1 mètre ruban en acier de 3 m\n\n1 mini scie à métaux\n\n8 clés hexagonales\n\n40 embouts de vissage\n\n9 douilles hexagonales 1/4″\n\n1 cutter à lame sécable de 18 mm avec 10 lames de rechange\n\n1 niveau à bulle de 225 mm\n\nVis, chevilles et accessoires divers\n\nLe INGCO HKTHP21681 est le choix idéal pour disposer d’un ensemble d’outils complet, fiable et toujours à portée de main pour tous vos projets.",
+     "short_description": "Le coffret d’outils INGCO HKTHP21681 comprend 168 pièces essentielles pour les travaux de bricolage, de maintenance et de réparation. Livré dans une mallette de transport robuste, il inclut marteau, pinces, tournevis, clés hexagonales, douilles, embouts, cutter et divers accessoires pour répondre aux besoins des professionnels comme des particuliers."
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/10/INGCO-COFFRET-A-OUTILS-168-PIECES-NR-HKTHP21681.png"
+   ]
+  },
+  {
+   "sku": "bricolya-140890",
+   "price": 1790.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Niveau laser 3D sans fil à autonivellement – HLL301201",
+     "description": "Tension: 16 V Lithium-ion\n\nPortée de travail: jusqu’à 35 m\n\nLignes laser: 1 horizontale 360° + 2 verticales 360° (couverture 3D)\n\nClasse laser: Classe II, < 1 m W (laser vert)\n\nAngle d’autonivellement: ≤ ± 4° (< 3 s)\n\nTempérature de fonctionnement: 0 °C → + 40 °C\n\n• Accessoires inclus: socle magnétique ajustable, base rotative avec pieds réglables, plaque cible, lunettes, télécommande, batterie 2.0 Ah, chargeur 220-240 V",
+     "short_description": "Tension: 16 V Lithium-ion\n\nPortée de travail: jusqu’à 35 m\n\nLignes laser: 1 horizontale 360° + 2 verticales 360° (couverture 3D)\n\nClasse laser: Classe II, < 1 m W (laser vert)\n\nAngle d’autonivellement: ≤ ± 4° (< 3 s)\n\nTempérature de fonctionnement: 0 °C → + 40 °C\n\n• Accessoires inclus: socle magnétique ajustable, base rotative avec pieds réglables, plaque cible, lunettes, télécommande, batterie 2.0 Ah, chargeur 220-240 V"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/05/Pistolet-pneumatique-dingqi-2026-01-27T122738.730.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-140899",
+   "price": 1550.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Nettoyeur haute pression 160 Bars 2000W",
+     "description": "INGCO Nettoyeur Haute Pression 160 Bars 2000W – HPWR20018\n\nDescription\n\nLe nettoyeur haute pression INGCO HPWR20018 combine puissance 2000W et pression maximale 160 bars pour un nettoyage rapide et efficace au quotidien. Idéal pour laver voitures, motos, terrasses, façades, murs, sols, portails et équipements extérieurs. Son système d’arrêt automatique améliore la sécurité et prolonge la durée de vie de l’appareil.\n\nPoints forts\n\n2000W : puissance adaptée aux travaux intensifs\n\n160 bars max : enlève facilement saletés incrustées\n\nDébit 6,0 L/min : bon rendement de nettoyage\n\nMoteur à balais de carbone + fil de cuivre pur\n\nArrêt automatique : sécurité + économie d’énergie\n\nTuyau haute pression super flexible 5 m : maniabilité\n\nCaractéristiques techniques\n\nMarque : INGCO\n\nRéférence : HPWR20018\n\nType : Nettoyeur haute pression\n\nTension : 220–240 V ~ 50/60 Hz\n\nPuissance : 2 000 W\n\nPression max : 160 bar (2 320 psi)\n\nDébit : 6,0 L/min\n\nMoteur : à balais de carbone\n\nTechnologie : fil cuivre pur\n\nFonction : système d’arrêt automatique\n\nInclus dans le pack\n\n1 × Pistolet pulvérisateur d’eau (AMSG028)\n\n1 × Tuyau haute pression super flexible 5 m\n\n1 × Vis d’arrivée d’eau\n\n1 × Bouteille de savon\n\nEmballage : boîte couleur\n\nUtilisations recommandées\n\nVoiture & moto, terrasse, murs, sols, clôtures, mobilier extérieur, équipements de jardin.",
+     "short_description": "INGCO Nettoyeur Haute Pression 160 Bars 2000W – HPWR20018"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/10/INGCO-NETTOYEUR-HAUTE-PRESSION-160-BARS-2000W-NR-HPWR20018.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-140920",
+   "price": 55.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pulvérisateur à pression 2L INGCO HSPP20202",
+     "description": "Pulvérisateur à pression manuel INGCO HSPP20202 – 2L\n\nLe pulvérisateur à pression INGCO HSPP20202 est un outil pratique et polyvalent conçu pour les travaux de jardinage, d’entretien et de nettoyage. Grâce à sa capacité de 2 litres et à sa pression de fonctionnement de 2,5 bars, il garantit une pulvérisation homogène pour une grande variété d’applications.\n\nSa pompe manuelle équipée d’un levier en aluminium robuste permet de générer rapidement la pression nécessaire. La buse réglable offre la possibilité de passer facilement d’un jet concentré à une fine brume selon le type de travail à réaliser.\n\nPoints forts\n\nRéservoir de 2 litres pour une bonne autonomie.\n\nPression de travail jusqu’à 2,5 bars pour une pulvérisation efficace.\n\nBuse réglable permettant un jet droit ou une pulvérisation en brouillard.\n\nSoupape de sécurité pour libérer la pression en toute sécurité.\n\nPompe manuelle avec levier en aluminium résistant à l’usage intensif.\n\nConception légère et ergonomique facilitant la manipulation.\n\nApplications\n\nArrosage des plantes et des fleurs.\n\nEntretien des jardins et espaces verts.\n\nApplication d’engrais liquides.\n\nPulvérisation de produits de nettoyage.\n\nDésinfection des surfaces et équipements.\n\nNettoyage automobile et domestique.\n\nCaractéristiques techniques\n\nMarque : INGCO\n\nRéférence : HSPP20202\n\nType : Pulvérisateur à pression manuel\n\nCapacité : 2 L\n\nPression maximale : 2,5 bars\n\nBuse : Réglable (jet direct / brumisation)\n\nLevier de pompe : Aluminium renforcé\n\nSoupape de sécurité : Oui\n\nUtilisation : Jardinage, nettoyage, désinfection\n\nPourquoi choisir le HSPP20202 ?\n\nCompact, léger et facile à utiliser, le pulvérisateur INGCO HSPP20202 constitue une solution fiable pour les particuliers comme pour les professionnels souhaitant réaliser des travaux de pulvérisation précis et efficaces. Sa construction robuste et ses fonctions de sécurité garantissent une utilisation confortable et durable.",
+     "short_description": "Le pulvérisateur à pression manuel INGCO HSPP20202 de 2 litres est idéal pour l’arrosage des plantes, l’entretien du jardin, le nettoyage et l’application de solutions liquides. Équipé d’une buse réglable, d’une pression de travail de 2,5 bars et d’une soupape de sécurité, il assure une pulvérisation uniforme et efficace tout en offrant un grand confort d’utilisation.\n\nCapacité : 2 litres\n\nPression de travail : 2,5 bars\n\nBuse réglable : jet droit ou brumisation\n\nSoupape de décompression de sécurité\n\nLevier de pompe robuste en aluminium\n\nUtilisation polyvalente : jardinage, nettoyage, désinfection"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2025/10/INGCO-PULVERISATEUR-A-PRESSION-2L-NR-HSPP20202.jpg"
+   ]
+  }
+ ]
+}

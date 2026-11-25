@@ -1,0 +1,204 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-143428",
+   "price": 75.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis VDE, PH1x100",
+     "description": "Largeur mm: 31,0\n\nPoids: 0,056 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 31,0\n\nLongueur mm: 200,0\n\nDiamètre de queue mm: 4,500\n\nMatériaux: S2\n\nProfile: PH\n\nBlade diameter: 4,500 mm\n\nShaft length: 100,0 mm\n\nHandle diameter: 31,0 mm\n\nNet Weight: 0,056 kg\n\nGross Weight: 0,081 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis VDE PH1x100 de Bosch Professional – isolé, simple et pratique\n\n• Précis et résistant, avec une tige fine et une tête robuste pour des vissages et dévissages parfaits\n\n• Faciles à manier et pratiques à utiliser grâce à leur revêtement softgrip et à leur forme ergonomique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NB8-VDE-Screwdriver-PH1x100-mm-Professional-ar-MA-o586354v117-1600A02NB8-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NB8-VDE-Screwdriver-PH1x100-mm-Professional-ar-MA-o586088v117-7821746-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143431",
+   "price": 89.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis, PH2x125",
+     "description": "Largeur mm: 34,0\n\nPoids: 0,200 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 34,0\n\nLongueur mm: 236,0\n\nShort version additional information: Longueur de tige 125 mm. La taille est inscrite sur le manche, ce qui permet d’identifier rapidement le bon tournevis.\n\nProfile: PH\n\nShaft length: 125,0 mm\n\nNet Weight: 0,150 kg\n\nGross Weight: 0,160 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis robustes pour travaux exigeants\n\n• Écrou six pans permettant d’exercer un couple plus élevé par effet de levier\n\n• Grand confort d’utilisation grâce au revêtement softgrip et à la forme ergonomique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TG3-Screwdriver-PH2X125-mm-Professional-ar-MA-o586324v117-1600A01TG3-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TG3-Screwdriver-PH2X125-mm-Professional-ar-MA-o586075v117-7821378-app-web-02.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TG3-Screwdriver-PH2X125-mm-Professional-ar-MA-o586074v117-7821378-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143438",
+   "price": 199.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé à six pans, 9 pièces",
+     "description": "Largeur mm: 242,0\n\nPoids: 0,360 kg\n\nHauteur [mm]: 59,0\n\nLongueur mm: 387,0\n\nMatériaux: S2\n\nProfile: Six pans\n\nNet Weight: 0,330 kg\n\nGross Weight: 0,340 kg",
+     "short_description": "Avantages du produit :\n\n• Clés à six pans mâles robustes et pratiques pour usage professionnel\n\n• L’extrémité sphérique du côté long permet une utilisation dans les espaces difficiles d’accès\n\n• La grande longueur de bras améliore l’effet de levier et permet de transmettre un couple plus élevé lors du serrage et desserrage des vis"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TH5-Allen-Key-Hex-9-pcs-Professional-en-MA-o586326v117-1600A01TH5-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TH5-Allen-Key-Hex-9-pcs-Professional-en-MA-o586006v117-7788686-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143446",
+   "price": 219.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince coupante diagonale à grand effet levier VDE, 200 mm",
+     "description": "Largeur mm: 60,0\n\nPoids: 0,317 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 30,0\n\nLongueur mm: 205,0\n\nMatériaux: Chrome Vanadium\n\nPliers type: Pince coupante diagonale à grand effet levier\n\nTensile strength ordinary steel wire: 1 600,0 N/mm²\n\nNet Weight: 0,317 kg\n\nGross Weight: 0,332 kg",
+     "short_description": "Avantages du produit :\n\n• Pince coupante diagonale à grand effet levier VDE de Bosch Professional – 200 mm – isolée, simple et pratique\n\n• Pratique à utiliser ; agrippe et coupe bien\n\n• Tête endurante et robuste en acier chrome-vanadium"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NE2-VDE-High-Leverage-Diagonal-Side-Cutters-200-mm-Professional-ar-MA-o586378v117-1600A02NE2-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NE2-VDE-High-Leverage-Diagonal-Side-Cutters-200-mm-Professional-ar-MA-o586108v117-7822137-app-web-02.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NE2-VDE-High-Leverage-Diagonal-Side-Cutters-200-mm-Professional-ar-MA-o586107v117-7822137-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143466",
+   "price": 605.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret de pinces VDE, 3 pièces",
+     "description": "GRIFF: Multi-component handle\n\nMatériaux: Chrome Vanadium\n\nTexte produit: Diagonal Side Cutters 160 mmCombination Pliers 180 mmLong-nose Pliers 200 mm\n\nDescription du coffret: Combination Pliers 180 mm;\n\nDiagonal Side Cutters 160 mm;\n\nLong-nose Pliers 200 mm.\n\nTools included in Kit (Products): Bosch 1 600 A02 NE1 VDE Combination Plier 180mmBosch 1 600 A02 NE3 VDE Long Nose Plier straight 200mmBosch 1 600 A02 ND9 VDE Diagonal Side Cutter 160mm\n\nTools included in Kit (Products) detailed infos: Bosch 1 600 A02 NE1 VDE Combination Plier 180mmPince universelle VDE 180 mmBosch 1 600 A02 NE3 VDE Long Nose Plier straight 200mmBosch 1 600 A02 ND9 VDE Diagonal Side Cutter 160mmPince coupante diagonale VDE de 160 mmPince droite à bec long VDE de 200 mm\n\nNet Weight: 0,729 kg\n\nGross Weight: 1,059 kg",
+     "short_description": "Avantages du produit :\n\n• Set de 3 pinces VDE de Bosch Professional – isolées, simples et pratiques\n\n• Pratique à utiliser ; agrippe et coupe bien\n\n• Tête endurante et robuste en acier chrome-vanadium"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NG0-VDE-Pliers-Set-3-pcs-Professional-ar-MA-o586396v117-1600A02NG0-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NG0-VDE-Pliers-Set-3-pcs-Professional-ar-MA-o586207v117-7826378-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143469",
+   "price": 140.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince coupante diagonale, 160 mm",
+     "description": "Largeur mm: 50,0\n\nPoids: 0,224 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 20,0\n\nLongueur mm: 163,0\n\nMatériaux: Chrome Vanadium\n\nPliers type: Pince coupante diagonale\n\nCutting diameter high hardness: 2,0 mm\n\nCutting diameter hard: 2,300 mm\n\nCutting diameter medium-hard: 2,800 mm\n\nCutting diameter soft: 4,0 mm\n\nTensile strength red copper: 266,0 N/mm²\n\nTensile strength iron nail: 715,0 N/mm²\n\nTensile strength high hardness steel: 2 030,0 N/mm²\n\nTensile strength ordinary steel wire: 1 298,0 N/mm²\n\nNet Weight: 0,210 kg\n\nGross Weight: 0,220 kg",
+     "short_description": "Avantages du produit :\n\n• Pince coupante diagonale robuste et durable pour usage professionnel\n\n• Grâce au mécanisme de levier optimisé, l’effort à exercer pour effectuer des coupes est moins important qu’avec une pince standard\n\n• Le revêtement en caoutchouc souple et les bords antidérapants garantissent un maniement sûr et agréable, surtout d’une seule main"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TH9-Diagonal-Side-Cutters-160-mm-Professional-ar-MA-o586330v117-1600A01TH9-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TH9-Diagonal-Side-Cutters-160-mm-Professional-ar-MA-o586105v117-7822135-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143472",
+   "price": 199.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé Allen Torx, 9 pièces",
+     "description": "Largeur mm: 242,0\n\nPoids: 0,360 kg\n\nHauteur [mm]: 59,0\n\nLongueur mm: 387,0\n\nMatériaux: S2\n\nProfile: Torx\n\nNet Weight: 0,300 kg\n\nGross Weight: 0,320 kg",
+     "short_description": "Avantages du produit :\n\n• Clés Torx pratiques et robustes pour usage professionnel\n\n• La grande longueur de bras améliore l’effet de levier et permet de transmettre un couple plus élevé lors du serrage et desserrage des vis\n\n• Les clés Torx sont fournies dans un coffret à ouverture facile permettant une identification rapide du contenu et un rangement pratique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TH4-Allen-Key-Torx-9-pcs-Professional-en-MA-o586325v117-1600A01TH4-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A01TH4-Allen-Key-Torx-9-pcs-Professional-en-MA-o586010v117-7818636-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143484",
+   "price": 79.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis VDE, PH2x125",
+     "description": "Largeur mm: 39,0\n\nPoids: 0,108 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 39,0\n\nLongueur mm: 245,0\n\nDiamètre de queue mm: 6,0\n\nMatériaux: S2\n\nProfile: PH\n\nBlade diameter: 6,0 mm\n\nShaft length: 125,0 mm\n\nHandle diameter: 38,0 mm\n\nNet Weight: 0,108 kg\n\nGross Weight: 0,133 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis VDE PH2x125 de Bosch Professional – isolé, simple et pratique\n\n• Précis et résistant, avec une tige fine et une tête robuste pour des vissages et dévissages parfaits\n\n• Faciles à manier et pratiques à utiliser grâce à leur revêtement softgrip et à leur forme ergonomique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NB9-VDE-Screwdriver-PH2x125-mm-Professional-ar-MA-o586356v117-1600A02NB9-bo-pro-u-f-1.jpg",
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02NB9-VDE-Screwdriver-PH2x125-mm-Professional-ar-MA-o586089v117-7821747-app-web-01.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143486",
+   "price": 79.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis VDE, SL/PZ1x100",
+     "description": "Largeur mm: 31,0\n\nPoids: 0,056 kg\n\nGRIFF: Multi-component handle\n\nHauteur [mm]: 31,0\n\nLongueur mm: 200,0\n\nDiamètre de queue mm: 4,500\n\nMatériaux: S2\n\nProfile: SL/PZ\n\nBlade diameter: 4,500 mm\n\nShaft length: 100,0 mm\n\nHandle diameter: 31,0 mm\n\nNet Weight: 0,056 kg\n\nGross Weight: 0,081 kg",
+     "short_description": "Avantages du produit :\n\n• Tournevis VDE SL/PZ1x100 de Bosch Professional – isolé, simple et pratique\n\n• Précis et résistant, avec une tige fine et une tête robuste pour des vissages et dévissages parfaits\n\n• Facile à manier et pratique à utiliser grâce à son revêtement softgrip et à sa forme ergonomique"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02ND6-VDE-Screwdriver-SLPZ1x100-mm-Professional-ar-MA-o586373v117-1600A02ND6-bo-pro-u-f-1.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-143490",
+   "price": 75.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Testeur de phase unipolaire, SL3x65",
+     "description": "Largeur mm: 20,0\n\nPoids: 0,029 kg\n\nHauteur [mm]: 24,0\n\nLongueur mm: 139,0\n\nDiamètre de queue mm: 3,0\n\nMatériaux: S2\n\nBlade width: 3,0 mm\n\nProfile: SL\n\nBlade diameter: 3,0 mm\n\nBlade thickness: 0,500 mm\n\nShaft length: 66,200 mm\n\nHandle diameter: 20,0 mm\n\nNet Weight: 0,029 kg\n\nGross Weight: 0,060 kg",
+     "short_description": "Avantages du produit :\n\n• Testeur de phase unipolaire Bosch Professional : isolé, simple et pratique\n\n• Avec tige en acier S2 isolée\n\n• Agréable à utiliser grâce à sa forme ergonomique et son clip de poche très solide"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2026/01/1600A02ND8-Single-Pole-Phase-Tester-SL3-Professional-en-MA-o586375v117-1600A02ND8-bo-pro-u-f-1.jpg"
+   ]
+  }
+ ]
+}

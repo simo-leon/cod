@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "bricolya-14263",
+   "price": 13.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis de poche",
+     "description": "Tournevis de poche multifonction fabriqué en acier inoxydable de haute qualité",
+     "short_description": "Tournevis de poche multifonction fabriqué en acier inoxydable de haute qualité"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/MC-12-6-1-scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-14268",
+   "price": 17.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau pour carelage 375g",
+     "description": "Marteau en caoutchouc simple et efficace d’un poids de 375g et 475g utilisé pour la pose de carrelage\n\nVisitez Bricolya pour tous vos besoins de bricolage et outillage. www.bricolya.com\n\nMagasin d’outils en ligne bricolage détaillants et grossistes produits de bricolage menuiserie plomberie électricien Adhésif Quincaillerie Cadenas Eclairage Peinture et nettoyage Sanitaire plomberie Support TV construction sécurité EN PLUS D’UNE livraison gratuite\n\nLa passation de la commande se fait en plusieurs étapes :\n\nRemplir son panier de produits,\n\nPuis, Renseigner ses informations d’identification pour activer sa commande.\n\nChoisir le lieu de livraison, et le mode de paiement qui lui convient,\n\nConfirmer son consentement par la validation définitive de sa commande, à travers la réception d’un mail de confirmation.\n\nLes modes de paiement:\n\nPour régler la commande, le Client choisit un moyen de paiement parmi ceux proposés par BRICOLYA au niveau de la page de paiement : paiement en espèces, ou par carte bancaire sur le site. Le montant à payer est affiché dans le récapitulatif final de la commande.\n\nEn cas de paiement par carte bancaire, les dispositions relatives à l’utilisation frauduleuse du moyen de paiement prévues dans les conventions conclues entre le Client et l’émetteur de la carte et entre BRICOLYA et son établissement bancaire s’appliquent.\n\nConsultez bricolya.com/conditions-generales-de-vente/   afin de découvrir notre programme de fidélité.",
+     "short_description": "Marteau en caoutchouc simple et efficace d’un poids de 375g et 475g utilisé pour la pose de carrelage"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/MC201311201-2.png"
+   ]
+  },
+  {
+   "sku": "bricolya-14271",
+   "price": 34.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie pour branches",
+     "description": "La scie est flexible et possède une lame droite de 610mm, solide et stable avec protège lame, efficace pour le sciage de bois frais et pour les branches épaisses",
+     "short_description": "La scie est flexible et possède une lame droite de 610mm, solide et stable avec protège lame, efficace pour le sciage de bois frais et pour les branches épaisses"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/MC20140120.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-14275",
+   "price": 19.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "LIME POUR BOIS 12 INCH",
+     "description": "Lime de 30cm fabriquée en acier de haute qualité pour la transformation du bois et affûtage permanent,\n\npoignée bi matière antidérapante – réduisant les vibrations\n\nVisitez Bricolya pour tous vos besoins de bricolage et outillage. www.bricolya.com\n\nMagasin d’outils en ligne bricolage détaillants et grossistes produits de bricolage menuiserie plomberie électricien Adhésif Quincaillerie Cadenas Eclairage Peinture et nettoyage Sanitaire plomberie Support TV construction sécurité EN PLUS D’UNE livraison gratuite\n\nConsultez bricolya.com/conditions-generales-de-vente/   afin de découvrir nos modes de paiement, tarifs de livraison et programme de fidélité.",
+     "short_description": "Lime de 30cm fabriquée en acier de haute qualité pour la transformation du bois et affûtage permanent,"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/sv.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-14282",
+   "price": 10.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "CLEF PLAT CRENO 10″",
+     "description": "Clé creno en acier chrome vanadium avec surface brillante taille 10",
+     "short_description": "Clé creno en acier chrome vanadium avec surface brillante taille 10"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/MC1821-2.jpeg"
+   ]
+  },
+  {
+   "sku": "bricolya-14828",
+   "price": 24.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack de 2 Embrasses de rideaux 1903 Doré et Bronze",
+     "description": "Pack de 2 Embrasses Doré et Bronze 1903 en métal est l’accessoire qui enserre joliment vos rideaux",
+     "short_description": "Pack de 2 Embrasses Doré et Bronze 1903 en métal est l’accessoire qui enserre joliment vos rideaux"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/1903-AB_GP.jpg",
+    "https://bricolya.com/wp-content/uploads/2021/03/em-marron-2.jpg",
+    "https://bricolya.com/wp-content/uploads/2021/03/em-dore-2.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-14953",
+   "price": 17.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau pour carelage 475g",
+     "description": "Marteau en caoutchouc simple et efficace d’un poids de 475g utilisé pour la pose de carrelage",
+     "short_description": "Marteau en caoutchouc simple et efficace d’un poids de 475g utilisé pour la pose de carrelage"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2020/12/MC-1311-1-2.png"
+   ]
+  },
+  {
+   "sku": "bricolya-16056",
+   "price": 99.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "SCOTCH FLEXTAPE 30CM*1.5M NOIR",
+     "description": "SCOTCH FLEXTAPE 30CM*1.5M NOIR\n\nVisitez Bricolya pour tous vos besoins de bricolage et outillage. www.bricolya.com\n\nMagasin d’outils en ligne bricolage détaillants et grossistes produits de bricolage menuiserie plomberie électricien Adhésif Quincaillerie Cadenas Eclairage Peinture et nettoyage Sanitaire plomberie Support TV construction sécurité EN PLUS D’UNE livraison gratuite SCOTCH FLEXTAPE\n\nLa passation de la commande se fait en plusieurs étapes :\n\nRemplir son panier de produits,\n\nPuis, Renseigner ses informations d’identification pour activer sa commande.\n\nChoisir le lieu de livraison, et le mode de paiement qui lui convient,\n\nConfirmer son consentement par la validation définitive de sa commande, à travers la réception d’un mail de confirmation.\n\nLes modes de paiement:\n\nPour régler la commande, le Client choisit un moyen de paiement parmi ceux proposés par BRICOLYA au niveau de la page de paiement : paiement en espèces, ou par carte bancaire sur le site. Le montant à payer est affiché dans le récapitulatif final de la commande.\n\nEn cas de paiement par carte bancaire, les dispositions relatives à l’utilisation frauduleuse du moyen de paiement prévues dans les conventions conclues entre le Client et l’émetteur de la carte et entre BRICOLYA et son établissement bancaire s’appliquent.\n\nConsultez bricolya.com/conditions-generales-de-vente/   afin de découvrir notre politique de retour et programme de fidélité.",
+     "short_description": "SCOTCH FLEXTAPE 30CM*1.5M NOIR"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2021/03/EC-5247-scaled.jpg",
+    "https://bricolya.com/wp-content/uploads/2021/03/EC-5247--scaled.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-16106",
+   "price": 16.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cadenas bicyclette MC12-18",
+     "description": "CADENAS POUR BICYCLETTE BRICOLYA\n\nVisitez Bricolya pour tous vos besoins de bricolage et outillage. www.bricolya.com\n\nMagasin d’outils en ligne bricolage détaillants et grossistes produits de bricolage menuiserie plomberie électricien Adhésif Quincaillerie Cadenas Eclairage Peinture et nettoyage Sanitaire plomberie Support TV construction sécurité EN PLUS D’UNE livraison gratuite\n\nLa passation de la commande se fait en plusieurs étapes :\n\nRemplir son panier de produits,\n\nPuis, Renseigner ses informations d’identification pour activer sa commande.\n\nChoisir le lieu de livraison, et le mode de paiement qui lui convient,\n\nConfirmer son consentement par la validation définitive de sa commande, à travers la réception d’un mail de confirmation.\n\nLes modes de paiement:\n\nPour régler la commande, le Client choisit un moyen de paiement parmi ceux proposés par BRICOLYA au niveau de la page de paiement : paiement en espèces, ou par carte bancaire sur le site. Le montant à payer est affiché dans le récapitulatif final de la commande.\n\nEn cas de paiement par carte bancaire, les dispositions relatives à l’utilisation frauduleuse du moyen de paiement prévues dans les conventions conclues entre le Client et l’émetteur de la carte et entre BRICOLYA et son établissement bancaire s’appliquent.\n\nConsultez bricolya.com/conditions-generales-de-vente/   afin de découvrir notre politique de retour et programme de fidélité.",
+     "short_description": "CADENAS POUR BICYCLETTE BRICOLYA"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2021/03/fgjfyj.jpg"
+   ]
+  },
+  {
+   "sku": "bricolya-16112",
+   "price": 30.0,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cadenas 50mm L MC1831 L50",
+     "description": "Cadenas 50mm L MC1831 L50",
+     "short_description": "Cadenas 50mm L MC1831 L50"
+    }
+   },
+   "image_urls": [
+    "https://bricolya.com/wp-content/uploads/2021/03/Cadenas-50mm-L-MC1831-L50-2.jpg",
+    "https://bricolya.com/wp-content/uploads/2021/03/Cadenas-50mm-L-MC1831-L50.jpg",
+    "https://bricolya.com/wp-content/uploads/2021/03/Cadenas-50mm-L-MC1831-L50-4.jpg",
+    "https://bricolya.com/wp-content/uploads/2021/03/Cadenas-50mm-L-MC1831-L50-3.jpg"
+   ]
+  }
+ ]
+}
