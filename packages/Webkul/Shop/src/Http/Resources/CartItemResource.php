@@ -2,6 +2,7 @@
 
 namespace Webkul\Shop\Http\Resources;
 
+use App\Services\Promotions\PromotionServiceInterface;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Support\Facades\File;
@@ -19,6 +20,7 @@ class CartItemResource extends JsonResource
     {
         return [
             'id' => $this->id,
+            'product_id' => $this->product_id,
             'quantity' => $this->quantity,
             'type' => $this->type,
             'name' => $this->name,
@@ -40,6 +42,11 @@ class CartItemResource extends JsonResource
                 : ($this->product ? $this->product->getTypeInstance()->showQuantityBox() : false),
             'is_gift' => (bool) ($this->resource->additional['is_gift'] ?? false),
             'gift_tier' => (int) ($this->resource->additional['gift_tier'] ?? 0),
+            'buy2_discount_amount' => $buy2Discount = app(PromotionServiceInterface::class)->buy2DiscountForItem((int) $this->id),
+            'formatted_buy2_discount_amount' => core()->formatPrice($buy2Discount),
+            'low_stock' => $this->product
+                ? app(PromotionServiceInterface::class)->lowStockForProduct($this->product)
+                : ['show' => false, 'qty' => 0],
         ];
     }
 

@@ -72,6 +72,7 @@ class CartResource extends JsonResource
             'payment_method' => $this->payment?->method,
             'payment_method_title' => core()->getConfigData('sales.payment_methods.'.$this->payment?->method.'.title'),
             'promotions' => app(PromotionServiceInterface::class)->toArray($this->resource),
+            'buy2' => app(PromotionServiceInterface::class)->buy2Array($this->resource),
         ];
     }
 }

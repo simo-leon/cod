@@ -24,4 +24,11 @@ return [
     'out-of-stock' => 'This gift is out of stock.',
     'disabled' => 'Gift offers are disabled.',
     'empty-cart' => 'Your cart is empty.',
+    'low_stock_badge' => 'Only :count left in stock',
+    'buy2_title' => 'Buy 2, the 3rd half price',
+    'buy2_applied' => '3rd item half price: -:amount',
+    'buy2_remaining' => 'Add :count more items to get the 3rd half price',
+    'buy2_unlocked' => 'You unlocked the 3rd half price!',
+    'buy2_item_badge' => '3rd half price',
+    'buy2_discount_line' => '3rd item half price',
 ];

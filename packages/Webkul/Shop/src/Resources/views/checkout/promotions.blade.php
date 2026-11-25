@@ -165,3 +165,51 @@
         </p>
     </div>
 </div>
+
+{{--
+    Buy-2-get-3rd-half: progress toward the next discounted item, or
+    the applied discount. Bound to cart.buy2 from the cart API
+    (CartResource). Its own enabled flag: it shows even when the
+    free-delivery/gift module above is disabled.
+--}}
+<div
+    v-if="cart.buy2 && cart.buy2.enabled"
+    class="mt-4 rounded-xl border border-amber-300 bg-amber-50 p-4 shadow-sm"
+>
+    <div class="flex flex-wrap items-center justify-between gap-2">
+        <p class="text-sm font-semibold text-zinc-800">
+            @lang('shop::promotions.buy2_title')
+        </p>
+
+        <p
+            v-if="cart.buy2.applied"
+            class="text-sm font-semibold text-green-600"
+        >
+            @{{ "@lang('shop::promotions.buy2_applied')".replace(':amount', cart.buy2.formatted_discount_amount) }}
+        </p>
+
+        <p
+            v-else
+            class="text-sm text-zinc-600"
+        >
+            @{{ "@lang('shop::promotions.buy2_remaining')".replace(':count', cart.buy2.units_needed) }}
+        </p>
+    </div>
+
+    <div
+        v-if="! cart.buy2.applied"
+        class="mt-2.5 h-2.5 w-full overflow-hidden rounded-full bg-zinc-200"
+    >
+        <div
+            class="h-full rounded-full bg-amber-500 transition-all duration-300"
+            :style="{ width: cart.buy2.progress + '%' }"
+        ></div>
+    </div>
+
+    <p
+        v-if="cart.buy2.applied"
+        class="mt-1.5 text-xs text-zinc-500"
+    >
+        @lang('shop::promotions.buy2_unlocked')
+    </p>
+</div>

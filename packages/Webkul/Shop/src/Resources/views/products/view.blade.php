@@ -515,6 +515,17 @@
                                             @lang('shop::app.products.view.out-of-stock')
                                         </span>
                                     @endif
+
+                                    {{-- Low-stock badge: shows when the stock is at or under the admin threshold. --}}
+                                    @php
+                                        $lowStock = app(\App\Services\Promotions\PromotionServiceInterface::class)->lowStockForProduct($product);
+                                    @endphp
+
+                                    @if ($lowStock['show'])
+                                        <span class="ml-2 inline-block rounded-full px-3 py-1 text-sm font-medium" style="background-color: #FEF3C7; color: #92400E;">
+                                            @lang('shop::promotions.low_stock_badge', ['count' => $lowStock['qty']])
+                                        </span>
+                                    @endif
                                 </div>
 
                                 <!-- Product Actions and Quantity Box -->

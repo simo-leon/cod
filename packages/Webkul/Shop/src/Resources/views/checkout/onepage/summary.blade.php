@@ -28,6 +28,23 @@
                 @{{ item.name }}
             </p>
 
+            <div class="mt-1.5 flex flex-wrap gap-1.5">
+                <span
+                    v-if="item.low_stock && item.low_stock.show"
+                    class="w-max rounded px-2 py-0.5 text-[11px] font-bold"
+                    style="background-color: #FEF3C7; color: #92400E;"
+                >
+                    @{{ "@lang('shop::promotions.low_stock_badge')".replace(':count', item.low_stock.qty) }}
+                </span>
+
+                <span
+                    v-if="item.buy2_discount_amount > 0"
+                    class="w-max rounded bg-green-600 px-2 py-0.5 text-[11px] font-bold text-white"
+                >
+                    @lang('shop::promotions.buy2_item_badge') -@{{ item.formatted_buy2_discount_amount }}
+                </span>
+            </div>
+
             {!! view_render_event('bagisto.shop.checkout.onepage.summary.item_name.after') !!}
 
             <p class="mt-2.5 flex flex-col text-[1.05rem] font-medium text-zinc-900 max-md:mt-1 max-md:text-base max-md:font-normal max-sm:text-sm">

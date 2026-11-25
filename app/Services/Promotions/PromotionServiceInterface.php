@@ -4,6 +4,7 @@ namespace App\Services\Promotions;
 
 use Webkul\Checkout\Contracts\Cart as CartContract;
 use Webkul\Checkout\Contracts\CartItem as CartItemContract;
+use Webkul\Product\Contracts\Product;
 
 /**
  * Cart promotions: free-delivery threshold + tiered free gifts
@@ -96,4 +97,96 @@ interface PromotionServiceInterface
      * The promotions payload for the cart API (CartResource).
      */
     public function toArray(?CartContract $cart): array;
+
+    /**
+     * Is the buy-2-get-3rd-half offer enabled (admin switch)?
+     */
+    public function isBuy2Enabled(): bool;
+
+    /**
+     * Discount percent applied to the cheapest unit of each buy-2
+     * group (0-100, default 50).
+     */
+    public function buy2DiscountPercent(): float;
+
+    /**
+     * Units per buy-2 group (default 3: buy 2, the 3rd is discounted).
+     */
+    public function buy2GroupSize(): int;
+
+    /**
+     * The buy-2 discount for the cart: per-item amounts plus totals.
+     * Units are the eligible non-gift units (price > 0, product
+     * toggled on); sorted cheapest first, the cheapest unit of each
+     * group of buy2GroupSize() units gets buy2DiscountPercent() off.
+     *
+     * Returns ['items' => [itemId => ['discount' => x,
+     * 'base_discount' => y]], 'total' => x, 'base_total' => y,
+     * 'units' => n, 'discounts_earned' => n].
+     */
+    public function buy2Discounts(?CartContract $cart): array;
+
+    /**
+     * The buy-2 discount amount (in cart currency) of one cart item,
+     * 0 when the item has none.
+     */
+    public function buy2DiscountForItem(int $itemId): float;
+
+    /**
+     * Enforce the buy-2 discount on the cart: add the computed
+     * discount to each item's discount_amount (on top of any cart
+     * rule discount), capped at the item total. Runs on
+     * checkout.cart.calculate.items.tax.before — after the cart
+     * rules reset the item discounts and before the tax calc and
+     * the totals summation — so the discount flows into tax, the
+     * cart totals and the order. Never dispatches cart events.
+     */
+    public function syncBuy2Discount(?CartContract $cart): void;
+
+    /**
+     * The buy-2 payload for the cart API (CartResource).
+     */
+    public function buy2Array(?CartContract $cart): array;
+
+    /**
+     * Is the low-stock badge enabled (admin switch)?
+     */
+    public function isLowStockEnabled(): bool;
+
+    /**
+     * Stock at or under which the low-stock badge shows (default 5).
+     */
+    public function lowStockThreshold(): int;
+
+    /**
+     * Low-stock badge state for one product: ['show' => bool,
+     * 'qty' => int]. Only simple products that manage stock and are
+     * saleable can show it, only when 0 < qty <= threshold, and
+     * only when Simo did not switch the badge off for the product.
+     */
+    public function lowStockForProduct(Product $product): array;
+
+    /**
+     * May the low-stock badge show for this product? A product
+     * without a promotion row shows it; Simo hides products from
+     * the admin product edit page.
+     */
+    public function showLowStockBadge(int $productId): bool;
+
+    /**
+     * Set the per-product low-stock badge flag (admin product edit page).
+     */
+    public function setShowLowStockBadge(int $productId, bool $show): void;
+
+    /**
+     * May this product count towards the buy-2 groups? A product
+     * without a promotion row counts; Simo excludes products from
+     * the admin product edit page.
+     */
+    public function isEligibleBuy2(int $productId): bool;
+
+    /**
+     * Set the per-product buy-2 eligibility (admin product edit page).
+     */
+    public function setEligibleBuy2(int $productId, bool $eligible): void;
 }

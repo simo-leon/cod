@@ -7,6 +7,7 @@ use App\Listeners\AssignZeroStockToSouk;
 use App\Listeners\ImportOrderToCod;
 use App\Listeners\KrayinCrmListener;
 use App\Listeners\SendOrderToDeliveryProvider;
+use App\Listeners\SyncBuy2Discount;
 use App\Listeners\SyncCartPromotions;
 use App\Models\CodOrder;
 use App\Models\OrderStatusHistory;
@@ -121,6 +122,14 @@ class AppServiceProvider extends ServiceProvider
         // force gift prices to 0, zero the delivery fee when free.
         Event::listen('checkout.cart.collect.totals.before', [SyncCartPromotions::class, 'handle']);
 
+        // Buy-2-get-3rd-half discount: recompute it after the cart
+        // rules (in the before event) reset the item discounts and
+        // before the tax calc and totals summation, so it flows into
+        // tax, the cart totals and the order. It must NOT run in the
+        // before event: the CartRule listener (CartRuleServiceProvider
+        // boots after AppServiceProvider) would wipe it there.
+        Event::listen('checkout.cart.calculate.items.tax.before', [SyncBuy2Discount::class, 'handle']);
+
         // Souk sourcing card on the admin product edit page (after
         // the product form): current stock, effective mode, and the
         // mode / cap / margin form.
@@ -145,7 +154,8 @@ class AppServiceProvider extends ServiceProvider
 
         // Cart promotions card on the admin product edit page (after
         // the product form): whether the product may be offered as a
-        // free gift.
+        // free gift, show the low-stock badge, and count towards the
+        // buy-2-get-3rd-half offer.
         Event::listen('bagisto.admin.catalog.product.edit.after', function (ViewRenderEventManager $manager) {
             $product = $manager->getParam('product');
 
@@ -153,9 +163,13 @@ class AppServiceProvider extends ServiceProvider
                 return;
             }
 
+            $promotions = app(PromotionServiceInterface::class);
+
             $manager->addTemplate('admin::cod.promotion-product-card', [
                 'product' => $product,
-                'eligible' => app(PromotionServiceInterface::class)->isEligibleAsGift((int) $product->id),
+                'eligible' => $promotions->isEligibleAsGift((int) $product->id),
+                'showLowStockBadge' => $promotions->showLowStockBadge((int) $product->id),
+                'eligibleBuy2' => $promotions->isEligibleBuy2((int) $product->id),
                 'canEditPromotions' => bouncer()->hasPermission('catalog.products.edit'),
             ]);
         });
