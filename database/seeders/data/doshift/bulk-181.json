@@ -1,29 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-91874",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mégaphone Portable Rechargeable 20W avec Fonction d’Enregistrement",
-     "description": "Diffusez votre voix avec puissance grâce à ce mégaphone portable rechargeable. Conçu pour les événements, les activités sportives, les écoles, les marchés ou la sécurité, il offre un son clair et puissant tout en restant léger et facile à transporter. Sa batterie lithium rechargeable et sa fonction d’enregistrement en font un outil pratique pour une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nType\nMégaphone portable rechargeable\n\nPuissance\n20 W\n\nNiveau sonore\nJusqu’à 100 dB\n\nAlimentation\nBatterie lithium rechargeable\n\nFonction\nEnregistrement et lecture vocale\n\nUtilisation\nIntérieur et extérieur\n\nApplications\nÉcoles, événements, sport, sécurité, marchés, guidage touristique\n\nPoignée\nErgonomique\n\nCouleur\nBleu et gris\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Diffusez votre voix avec puissance grâce à ce mégaphone portable rechargeable. Conçu pour les événements, les activités sportives, les écoles, les marchés ou la sécurité, il offre un son clair et puissant tout en…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T162659.866.png"
-   ]
-  },
-  {
-   "sku": "doshift-91867",
-   "price": 79,
+   "sku": "doshift-103400",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -31,167 +10,189 @@
    ],
    "locales": {
     "fr": {
-     "name": "Range-Couverts Égouttoir avec Bac Récupérateur",
-     "description": "Gardez vos couverts propres, secs et parfaitement organisés avec ce range-couverts pratique et compact. Son intérieur compartimenté permet de séparer facilement les fourchettes, cuillères, couteaux et petits ustensiles de cuisine.\n\nGrâce à ses ouvertures de drainage, l’eau s’écoule rapidement vers le bac inférieur amovible, évitant ainsi l’accumulation d’humidité sur votre plan de travail. Son design moderne blanc et jaune apporte une touche élégante et colorée à votre cuisine.\n\nCaractéristique\nDétail\n\nType de produit\nRange-couverts égouttoir\n\nUtilisation\nRangement des couverts et petits ustensiles de cuisine\n\nNombre de compartiments\n2 compartiments\n\nSystème de drainage\nOuvertures permettant l’évacuation de l’eau\n\nBac récupérateur\nOui, bac inférieur amovible\n\nMatière\nPlastique\n\nCouleur\nBlanc et jaune\n\nInstallation\nÀ poser sur le plan de travail ou près de l’évier\n\nEntretien\nFacile à vider et à nettoyer\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Gardez vos couverts propres, secs et parfaitement organisés avec ce range-couverts pratique et compact."
+     "name": "Pot de fleurs décoratif strié bleu marine",
+     "description": "Apportez une touche élégante et contemporaine à votre décoration avec ce pot de fleurs bleu marine. Sa couleur profonde, sa forme arrondie et son relief vertical mettent joliment en valeur vos plantes.\n\nCaractéristique\nDétail\n\nType\nPot de fleurs décoratif\n\nDesign\nModerne avec texture verticale striée\n\nForme\nCylindrique avec base arrondie\n\nCouleur\nBleu marine uniquement\n\nUtilisation\nPlantes vertes et compositions florales\n\nEmplacements conseillés\nSalon, chambre, bureau ou balcon abrité\n\nContenu\n1 pot bleu marine\n\nPlante incluse\nNon\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Apportez une touche élégante et contemporaine à votre décoration avec ce pot de fleurs bleu marine. Sa couleur profonde, sa forme arrondie et son relief vertical mettent joliment en valeur vos plantes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T161404.476.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T180317.766.png"
    ]
   },
   {
-   "sku": "doshift-91821",
+   "sku": "doshift-103395",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pot de fleurs décoratif strié blanc",
+     "description": "Apportez une touche moderne et épurée à votre décoration avec ce pot de fleurs blanc. Sa finition striée et sa forme arrondie mettent élégamment en valeur vos plantes tout en s’intégrant facilement à différents styles d’intérieur.\n\nCaractéristique\nDétail\n\nType\nPot de fleurs décoratif\n\nDesign\nModerne avec texture verticale striée\n\nForme\nCylindrique avec base arrondie\n\nCouleur\nBlanc uniquement\n\nUtilisation\nPlantes vertes et compositions florales\n\nEmplacements conseillés\nSalon, chambre, bureau ou balcon abrité\n\nContenu\n1 pot blanc\n\nPlante incluse\nNon\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Apportez une touche moderne et épurée à votre décoration avec ce pot de fleurs blanc."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T174638.675.png"
+   ]
+  },
+  {
+   "sku": "doshift-103180",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Lot de 3 Planches à Découper Effet Bambou avec Poignée Intégrée",
-     "description": "Apportez praticité et élégance à votre cuisine avec ce lot de 3 planches à découper au design effet bambou. Idéales pour couper, préparer ou présenter vos aliments, elles conviennent parfaitement à un usage quotidien.\n\nLeur poignée intégrée facilite la prise en main, tandis que leur bordure foncée apporte une touche moderne et soignée. Grâce aux 3 formats différents, vous pouvez choisir la planche adaptée selon vos besoins : légumes, pain, fruits, fromage ou présentation à table.\n\nCaractéristique\nDétail\n\nProduit\nLot de 3 planches à découper\n\nMatière / Finition\nEffet bambou\n\nNombre de pièces\n3 planches\n\nDesign\nBordure foncée avec finition moderne\n\nPoignée\nPoignée intégrée pour une prise facile\n\nUtilisation\nDécouper, préparer et servir les aliments\n\nIdéal pour\nLégumes, fruits, pain, fromage, apéritifs\n\nAvantage\nPratiques, légères et faciles à ranger\n\nEntretien\nFaciles à nettoyer après utilisation\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Apportez praticité et élégance à votre cuisine avec ce lot de 3 planches à découper au design effet bambou. Idéales pour couper, préparer ou présenter vos aliments, elles conviennent parfaitement à un usage quotidien."
+     "name": "Bracelet sport perforé pour montre connectée – Motif multicolore",
+     "description": "Apportez une touche colorée et sportive à votre montre connectée grâce à ce bracelet souple au motif éclaboussures multicolores. Ses nombreuses perforations favorisent la circulation de l’air et permettent d’ajuster facilement le bracelet selon la taille du poignet.\n\nLéger et agréable à porter, il convient aussi bien aux activités sportives qu’à une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nType de produit\nBracelet de remplacement pour montre connectée\n\nCouleur\nBlanc bleuté avec motifs multicolores\n\nMatière\nMatière souple\n\nDesign\nSportif et perforé\n\nFermeture\nBouton métallique\n\nAjustement\nPlusieurs positions disponibles\n\nUtilisation\nSport, travail et usage quotidien\n\nCompatibilité\nÀ vérifier selon le modèle et la taille de la montre\n\nContenu du pack\n1 bracelet en deux parties\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apportez une touche colorée et sportive à votre montre connectée grâce à ce bracelet souple au motif éclaboussures multicolores."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T150223.061.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T182030.480.png"
    ]
   },
   {
-   "sku": "doshift-91682",
+   "sku": "doshift-103174",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Planche à Découper Antidérapante avec Poignée Intégrée",
-     "description": "Préparez vos repas facilement avec cette planche à découper pratique et moderne. Sa surface lisse permet une découpe confortable des légumes, fruits, pains ou viandes, tandis que ses pieds antidérapants assurent une bonne stabilité pendant l’utilisation. Grâce à sa poignée intégrée, elle est facile à transporter, ranger ou accrocher dans la cuisine.\n\nCaractéristique\nDétail\n\nType de produit\nPlanche à découper\n\nUtilisation\nCuisine, découpe et préparation alimentaire\n\nCouleur\nVert\n\nPoignée\nIntégrée\n\nPieds\nAntidérapants\n\nSurface\nLisse et facile à nettoyer\n\nMatière\nPlastique durable\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Préparez vos repas facilement avec cette planche à découper pratique et moderne. Sa surface lisse permet une découpe confortable des légumes, fruits, pains ou viandes, tandis que ses pieds antidérapants assurent une…"
+     "name": "Bracelet Sport Perforé pour Montre Connectée – Rose Moucheté",
+     "description": "Personnalisez votre montre connectée avec ce bracelet sport au design rose corail moucheté. Ses nombreuses perforations favorisent une meilleure circulation de l’air et offrent un confort agréable pendant les activités sportives comme au quotidien.\n\nFabriqué en silicone souple, il épouse confortablement le poignet et résiste à une utilisation régulière. Son système de fermeture réglable permet d’adapter facilement le bracelet à votre poignet, tandis que son motif coloré apporte une touche moderne et originale à votre montre.\n\nAvant la commande, vérifiez le format et les dimensions compatibles avec votre modèle de montre.\n\nCaractéristique\nDétail\n\nType de produit\nBracelet pour montre connectée\n\nStyle\nSportif et moderne\n\nMatière\nSilicone souple\n\nCouleur\nRose corail moucheté bleu et violet\n\nDesign\nPerforé et respirant\n\nFermeture\nRéglable avec bouton métallique\n\nConfort\nSouple, léger et agréable à porter\n\nUtilisations\nSport, fitness, travail et usage quotidien\n\nEntretien\nNettoyage avec un chiffon légèrement humide\n\nContenu du pack\n1 bracelet en deux parties\n\nCompatibilité\nÀ vérifier selon le modèle et le format de la montre\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Personnalisez votre montre connectée avec ce bracelet sport au design rose corail moucheté."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T192054.826.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T175202.041.png"
    ]
   },
   {
-   "sku": "doshift-91675",
+   "sku": "doshift-103119",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Plateau Tressé Rond Décoratif – Marron & Blanc",
-     "description": "Ajoutez une touche naturelle et élégante à votre intérieur avec ce plateau tressé rond au design artisanal. Son mélange de couleurs marron et blanc apporte un style chaleureux, parfait pour une table, une cuisine, un salon ou une décoration bohème.\n\nIdéal pour présenter des fruits, du pain, des pâtisseries, ou simplement comme plateau décoratif pour bougies, plantes, clés ou petits accessoires.\n\nCaractéristique\nDétail\n\nType de produit\nPlateau décoratif\n\nForme\nRond\n\nDesign\nTressé\n\nCouleur\nMarron et blanc\n\nUtilisation\nFruits, pain, décoration, rangement\n\nStyle\nNaturel, bohème, artisanal\n\nPièces incluses\n1 plateau\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Ajoutez une touche naturelle et élégante à votre intérieur avec ce plateau tressé rond au design artisanal."
+     "name": "Trousse scolaire double compartiment – Motif musical bleu",
+     "description": "Pratique et originale, cette trousse scolaire permet de ranger facilement stylos, crayons, feutres et petits accessoires de papeterie. Son design bleu décoré de motifs musicaux apporte une touche moderne, tandis que ses compartiments zippés facilitent l’organisation des fournitures.\n\nCompacte et facile à transporter, elle convient parfaitement pour l’école, les études, le bureau ou les activités créatives.\n\nCaractéristique\nDétail\n\nType\nTrousse scolaire\n\nDesign\nMotifs inspirés de la musique\n\nCouleurs\nBleu et noir\n\nFermeture\nFermetures à glissière\n\nCompartiments\nDouble compartiment\n\nRangement\nStylos, crayons, feutres et petits accessoires\n\nMatière\nTissu textile\n\nUtilisation\nÉcole, études, bureau et loisirs créatifs\n\nFormat\nCompact et facile à transporter\n\nContenu du pack\n1 trousse\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Pratique et originale, cette trousse scolaire permet de ranger facilement stylos, crayons, feutres et petits accessoires de papeterie."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T190901.509.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T154233.665.png"
    ]
   },
   {
-   "sku": "doshift-91655",
-   "price": 179,
+   "sku": "doshift-103039",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Glacière à Boisson Portable avec Robinet – Bleu/Blanc",
-     "description": "Gardez vos boissons fraîches plus longtemps avec cette glacière à boisson pratique et facile à transporter. Idéale pour les pique-niques, le camping, les sorties en famille, les voyages ou les journées à la plage, elle permet de servir l’eau, le jus ou d’autres boissons facilement grâce à son robinet intégré.\n\nSon design compact avec poignée de transport facilite le déplacement, tandis que son corps isolant aide à conserver la fraîcheur pendant vos activités en extérieur comme à la maison.\n\nCaractéristique\nDétail\n\nProduit\nGlacière à boisson portable\n\nType\nGlacière avec robinet intégré\n\nUtilisation\nEau, jus et boissons fraîches\n\nCouleur\nBleu et blanc\n\nRobinet\nOui, pratique pour servir facilement\n\nPoignée\nOui, pour un transport facile\n\nCouvercle\nFermeture supérieure pratique\n\nMatériau\nPlastique isolant durable\n\nUsage recommandé\nMaison, pique-nique, camping, plage, voyage\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Gardez vos boissons fraîches plus longtemps avec cette glacière à boisson pratique et facile à transporter."
+     "name": "Bracelet sport respirant pour montre connectée – Vert foncé moucheté",
+     "description": "Personnalisez votre montre connectée avec ce bracelet sportif au look moderne. Sa finition vert foncé presque noir est rehaussée de petites touches multicolores pour un style original et discret.\n\nFabriqué en silicone souple, il dispose de nombreuses perforations qui favorisent l’aération du poignet. Ses différents points de réglage permettent de l’adapter facilement pour le sport, le travail ou les activités quotidiennes.\n\nCaractéristique\nDétail\n\nType de produit\nBracelet de remplacement pour montre connectée\n\nMatière\nSilicone souple\n\nCouleur principale\nVert foncé\n\nFinition\nMotif moucheté multicolore\n\nDesign\nSportif et moderne\n\nAération\nMultiples perforations\n\nAjustement\nPlusieurs positions de réglage\n\nFermeture\nBouton métallique\n\nUtilisation\nSport, travail et usage quotidien\n\nEntretien\nNettoyage avec un chiffon humide\n\nCompatibilité\nÀ vérifier selon le modèle et les connecteurs de la montre\n\nContenu du pack\n1 bracelet en deux parties\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Personnalisez votre montre connectée avec ce bracelet sportif au look moderne. Sa finition vert foncé presque noir est rehaussée de petites touches multicolores pour un style original et discret."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T183418.340.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T140150.402.png"
    ]
   },
   {
-   "sku": "doshift-91627",
-   "price": 459,
+   "sku": "doshift-103026",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Boîte Décorative Dorée avec Couvercle",
-     "description": "Ajoutez une touche de luxe à votre intérieur avec cette boîte décorative dorée au design raffiné. Son aspect brillant, ses détails en relief et son couvercle avec fermeture lui donnent un style élégant, idéal pour la décoration, le rangement ou la présentation de dattes, bonbons, biscuits, accessoires ou petits objets.\n\nParfaite pour le salon, la cuisine, la table d’invités ou les occasions spéciales, elle apporte une finition chic et orientale à votre décoration.\n\nCaractéristique\nDétail\n\nProduit\nBoîte décorative avec couvercle\n\nCouleur\nDoré\n\nDesign\nÉlégant avec motifs en relief\n\nFermeture\nCouvercle avec système de fermeture\n\nPoignées\nPoignées latérales décoratives\n\nUtilisation\nDécoration, rangement, présentation de friandises ou accessoires\n\nStyle\nLuxe, oriental, moderne\n\nEmplacement idéal\nSalon, cuisine, table, réception, événements\n\nRéférence Doshift\nAA29BB099",
-     "short_description": "Ajoutez une touche de luxe à votre intérieur avec cette boîte décorative dorée au design raffiné."
+     "name": "Bracelet sport respirant pour montre connectée – Beige moucheté",
+     "description": "Personnalisez votre montre connectée avec ce bracelet sportif au design original. Sa base beige clair est décorée de petites touches multicolores et de détails jaune fluo pour un style moderne et dynamique.\n\nFabriqué en silicone souple, il possède de nombreuses perforations qui favorisent l’aération du poignet. Ses différents points de réglage permettent d’adapter facilement le bracelet à votre poignet pour le sport comme pour un usage quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nBracelet de remplacement pour montre connectée\n\nMatière\nSilicone souple\n\nCouleur principale\nBeige clair\n\nDétails\nMotif moucheté multicolore et anneaux jaune fluo\n\nDesign\nSportif et moderne\n\nAération\nMultiples perforations respirantes\n\nAjustement\nPlusieurs positions de réglage\n\nFermeture\nBouton métallique\n\nUtilisation\nSport et usage quotidien\n\nEntretien\nNettoyage facile avec un chiffon humide\n\nCompatibilité\nÀ vérifier selon le modèle et les connecteurs de la montre\n\nContenu du pack\n1 bracelet en deux parties\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Personnalisez votre montre connectée avec ce bracelet sportif au design original. Sa base beige clair est décorée de petites touches multicolores et de détails jaune fluo pour un style moderne et dynamique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T171624.196.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T135047.638.png"
    ]
   },
   {
-   "sku": "doshift-91621",
-   "price": 239,
+   "sku": "doshift-103020",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Fer à Repasser Vapeur Elite 2200W – SW-6666-a",
-     "description": "Simplifiez votre repassage avec ce fer à repasser vapeur Elite, conçu pour offrir un repassage rapide, efficace et confortable au quotidien. Grâce à sa puissance de 2200W, il chauffe rapidement et aide à lisser les plis sur différents types de vêtements.\n\nSon design moderne en bleu et noir, sa poignée ergonomique et sa fonction vapeur permettent une utilisation pratique pour les chemises, pantalons, draps et autres textiles de maison.\n\nCaractéristique\nDétail\n\nProduit\nFer à repasser vapeur\n\nMarque\nElite\n\nModèle\nSW-6666-a\n\nPuissance\n2200W\n\nType\nSteam Iron\n\nCouleur\nBleu / Noir\n\nUtilisation\nRepassage des vêtements et textiles\n\nFonction\nVapeur + température réglable\n\nRéférence Doshift\nAA15BB099",
-     "short_description": "Simplifiez votre repassage avec ce fer à repasser vapeur Elite, conçu pour offrir un repassage rapide, efficace et confortable au quotidien."
+     "name": "Bracelet de Montre Connectée Perforé – Rose Multicolore",
+     "description": "Apportez une touche originale et colorée à votre montre connectée avec ce bracelet souple au design perforé. Son fond rose clair est décoré de petites projections multicolores pour un style moderne et dynamique.\n\nLes nombreuses perforations favorisent la circulation de l’air autour du poignet, tandis que les anneaux métalliques renforcent son look sportif. Grâce à ses différents trous de réglage, le bracelet s’adapte facilement au poignet pour un port confortable au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nBracelet de remplacement pour montre connectée\n\nCouleur principale\nRose clair\n\nMotif\nProjections multicolores\n\nDesign\nPerforé avec anneaux métalliques\n\nMatière\nMatière souple\n\nRéglage\nPlusieurs trous de réglage\n\nFermeture\nBouton métallique\n\nStyle\nSportif et décontracté\n\nContenu du pack\n1 bracelet en deux parties\n\nMontre incluse\nNon\n\nCompatibilité\nÀ vérifier selon le modèle et la taille de la montre\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apportez une touche originale et colorée à votre montre connectée avec ce bracelet souple au design perforé. Son fond rose clair est décoré de petites projections multicolores pour un style moderne et dynamique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T165854.591.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T134037.103.png"
    ]
   },
   {
-   "sku": "doshift-91615",
-   "price": 219,
+   "sku": "doshift-103010",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Fer à Repasser Vapeur Elite SW-1801-b – 1200W",
-     "description": "Simplifiez votre repassage au quotidien avec ce fer à repasser vapeur Elite. Compact, léger et pratique, il offre une puissance de 1200W pour un repassage rapide et efficace. Grâce à sa fonction vapeur, son pulvérisateur et sa température réglable, il s’adapte facilement à différents types de tissus.\n\nCaractéristique\nDétail\n\nType de produit\nFer à repasser vapeur\n\nMarque\nElite\n\nModèle\nSW-1801-b\n\nPuissance\n1200W\n\nFonction vapeur\nOui\n\nPulvérisateur\nOui\n\nTempérature réglable\nOui\n\nUtilisation\nVêtements, chemises, tissus du quotidien\n\nCouleur\nBleu et blanc\n\nRéférence\nAA13BB099",
-     "short_description": "Simplifiez votre repassage au quotidien avec ce fer à repasser vapeur Elite. Compact, léger et pratique, il offre une puissance de 1200W pour un repassage rapide et efficace."
+     "name": "Bracelet sport respirant pour montre connectée – Bleu marine & orange",
+     "description": "Apportez une touche sportive à votre montre connectée avec ce bracelet en silicone souple. Ses multiples perforations favorisent la circulation de l’air pendant le sport et les activités quotidiennes. Sa combinaison bleu marine et orange offre un style dynamique et moderne.\n\nFacile à ajuster, il assure un maintien confortable autour du poignet. Idéal pour remplacer un bracelet usé ou personnaliser votre montre selon votre style.\n\nCaractéristique\nDétail\n\nType de produit\nBracelet de remplacement pour montre connectée\n\nMatière\nSilicone souple\n\nCouleur\nBleu marine avec détails orange\n\nDesign\nSportif et bicolore\n\nAération\nMultiples perforations respirantes\n\nAjustement\nPlusieurs positions de réglage\n\nFermeture\nSystème à bouton métallique\n\nUtilisation\nSport, travail et usage quotidien\n\nEntretien\nNettoyage facile avec un chiffon humide\n\nCompatibilité\nÀ vérifier selon le modèle et les connecteurs de la montre\n\nContenu du pack\n1 bracelet en deux parties\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apportez une touche sportive à votre montre connectée avec ce bracelet en silicone souple. Ses multiples perforations favorisent la circulation de l’air pendant le sport et les activités quotidiennes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T164501.066.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T132200.636.png"
    ]
   },
   {
-   "sku": "doshift-91599",
-   "price": 189,
+   "sku": "doshift-102849",
+   "price": 509,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Carafe Isotherme Élégante Noir & Doré",
-     "description": "Ajoutez une touche de luxe à vos moments café et thé avec cette carafe isotherme au design raffiné noir et doré. Pratique et élégante, elle permet de garder vos boissons à bonne température tout en décorant parfaitement votre table, bureau ou salon.\n\nSon format ergonomique avec poignée dorée facilite le service, tandis que son bec verseur offre une utilisation simple au quotidien. Idéale pour le café, le thé, les infusions ou les boissons chaudes lors des petits-déjeuners, réunions ou moments en famille.\n\nCaractéristique\nDétail\n\nType de produit\nCarafe isotherme\n\nUtilisation\nCafé, thé, infusion, boissons chaudes\n\nCouleur\nNoir & doré\n\nDesign\nÉlégant, moderne et premium\n\nPoignée\nErgonomique avec finition dorée\n\nBec verseur\nOui\n\nIdéal pour\nMaison, bureau, réception, petit-déjeuner\n\nRéférence Doshift\nAA11BB099",
-     "short_description": "Ajoutez une touche de luxe à vos moments café et thé avec cette carafe isotherme au design raffiné noir et doré."
+     "name": "Caméra d’Action 4K Wi‑Fi avec Boîtier de Protection",
+     "description": "Capturez vos aventures et vos activités sportives avec cette caméra d’action compacte 4K. Son format léger permet de l’installer facilement sur différents supports adaptés au vélo, au casque ou à d’autres équipements.\n\nÉquipée d’une connexion Wi‑Fi, elle facilite le partage et la gestion des prises de vue depuis un appareil compatible. Son boîtier transparent protège la caméra pendant vos déplacements et vos activités en extérieur.\n\nCaractéristique\nDétail\n\nType de produit\nCaméra d’action\n\nRésolution annoncée\n4K\n\nConnectivité\nWi‑Fi\n\nCouleur\nNoir\n\nBoîtier\nBoîtier transparent de protection\n\nUtilisations\nSport, vélo, voyages et activités extérieures\n\nFormat\nCompact et portable\n\nContenu\nCaméra avec boîtier de protection\n\nRéférence Doshift\nAA33BB099",
+     "short_description": "Capturez vos aventures et vos activités sportives avec cette caméra d’action compacte 4K. Son format léger permet de l’installer facilement sur différents supports adaptés au vélo, au casque ou à d’autres équipements."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T160754.234.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T195854.094.png"
    ]
   }
  ]

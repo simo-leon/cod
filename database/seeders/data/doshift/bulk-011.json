@@ -1,6 +1,64 @@
 {
  "products": [
   {
+   "sku": "doshift-117534",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret de 6 Forets Étagés et Forets-Scies",
+     "description": "Réunissez plusieurs diamètres de perçage dans un même coffret. Cet ensemble comprend trois forets étagés gradués, permettant d’agrandir progressivement une ouverture jusqu’au palier souhaité, et trois forets-scies à corps dentelé pour compléter votre équipement. Les logements individuels gardent chaque pièce à sa place, tandis que le couvercle translucide facilite le repérage des outils avant utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de forets pour perceuse, livré dans un coffret de rangement\n\nComposition\n6 pièces : 3 forets coniques étagés et 3 forets-scies à corps dentelé\n\nDiamètres des forets étagés\nGraduations visibles correspondant aux plages 4–12, 4–20 et 4–32 mm\n\nFinition\nParties coupantes dorées et queues métalliques ; nuance d’acier et revêtement non confirmés\n\nRangement\nCoffret rouge à couvercle translucide, logements individuels et fermeture latérale noire\n\nSKU\n9900010929425",
+     "short_description": "Six forets réunis dans un coffret pour organiser vos outils et disposer de plusieurs diamètres de perçage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/1eb9ead7-6cc9-480b-8c3c-8142b17fa2ff.png"
+   ]
+  },
+  {
+   "sku": "doshift-117505",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis VIKACO — 3 Pièces",
+     "description": "Gardez les outils utiles à portée de main pour vos petits travaux de montage et de vissage. Ce VIKACO comprend deux grands tournevis à empreintes plates et cruciformes, ainsi qu’un petit tournevis complémentaire. Les manches profilés des grands modèles offrent une prise en main sample\n\nCaractéristique\nDétail\n\nType de produit\nJeu de tournevis manuels VIKACO, 3 pièces\n\nComposition\nDeux grands tournevis turquoise et gris, accompagnés d’un petit tournevis rouge et transparent\n\nEmbouts\nUn embout cruciforme et un embout plat visibles sur les grands tournevis\n\nMatériau annoncé\nMention « CR-V » sur l’emballage : chrome-vanadium ; manches de composition non précisée\n\nPrise en main\nGrands manches profilés avec reliefs longitudinaux et ouvertures de suspension\n\nSKU\n9900010929418",
+     "short_description": "Trois tournevis pour vos petits travaux, avec deux grands manches profilés et un tournevis de petit format."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/2c644cb4-31fd-4845-b8e7-83d45d4289c0.png"
+   ]
+  },
+  {
+   "sku": "doshift-117492",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 3 Plats Ronds en Inox à Bords Hauts 28 / 32 / 36 cm — Trois Chameaux",
+     "description": "Incontournable des cuisines familiales et des grandes tablées de fête, ce set de 3 plats ronds en acier inoxydable épais est conçu pour répondre à toutes les exigences de préparation, de cuisson et de présentation. Grâce à leurs bords hauts protecteurs de 4,5 cm, ces plats retiennent parfaitement les jus de cuisson et sauces généreuses sans déborder\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nEnsemble de 3 plats ronds de service et de cuisson en acier inoxydable (Stainless Steel Round Trays)\n\nDiamètres inclus\nTrio étagé grand format : 28 cm (moyen), 32 cm (grand) et 36 cm (format banquet / familial)\n\nProfondeur & Rebord\nBords hauts droits (~4,5 cm) avec lèvre supérieure roulée lisse anti-coupure et anti-débordement\n\nMatériau & Traitement\nAcier inoxydable alimentaire massif haute durabilité (High Quality Stainless Steel) poli miroir\n\nUsage & Polyvalence\nCuisson au four traditionnel, service de table (salades festives, pastillas, viandes) et préparation\n\nSKU\n9900010929401",
+     "short_description": "Set de 3 plats ronds inox bords hauts 28/32/36 cm Trois Chameaux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/0d8c3ce7-231e-45e8-be69-54a657e2007f.jpg"
+   ]
+  },
+  {
    "sku": "doshift-117482",
    "price": 279,
    "stock": 10,
@@ -116,79 +174,22 @@
    ]
   },
   {
-   "sku": "doshift-117165",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Perche à Selfie Télescopique UNME PYP-ZS13",
-     "description": "Spécialement développée pour répondre aux exigences des tournages en extérieur et des flux en direct, la perche UNME PYP-ZS13 associe la légèreté d’un mât en alliage d’aluminium à une amplitude de déploiement remarquable de 175 cm. Sa tête rotative à 360° permet de basculer instantanément d’un cadrage vertical pour les réseaux sociaux à un plan panoramique large sans aucune vibration. Dotée d’une télécommande sans fil amovible permettant de piloter l’obturateur à distance ou directement au pouce\n\nCaractéristique\nDétail\n\nType de produit\nPerche à selfie télescopique pour diffusion en direct (Live Broadcast Selfie Stick)\n\nMât & Portée\nMât télescopique multibrin en alliage d’aluminium anodisé déployable jusqu’à 175 cm\n\nTête & Fixation\nPince smartphone rabattable avec rotule orientable à 360° (modes portrait et paysage)\n\nAlimentation & Déclenchement\nTélécommande sans fil Bluetooth amovible encastrée dans le manche (pile bouton standard)\n\nConception & Prise en main\nPoignée cylindrique monobloc à cannelures antidérapantes et bague de jonction en métal argenté\n\nSKU\n9900010929241",
-     "short_description": "Perche live broadcast 175 cm aluminium avec télécommande sans fil détachable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/4c7d7447-288d-4d42-a97a-037cf4f6c053.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-116973",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chaise de Camping Pliante avec Accoudoirs",
-     "description": "Installez votre coin détente pour un pique-nique, une sortie de pêche ou une pause au jardin. Cette chaise de camping associe une assise en toile souple, un large dossier et deux accoudoirs pour vous installer et poser les bras. Sa structure pliante à croisillons facilite le rangement entre deux utilisations.\n\nCaractéristique\nDétail\n\nType de produit\nChaise de camping pliante avec dossier\n\nStructure\nArmature tubulaire noire à croisillons articulés\n\nAssise et dossier\nToile souple avec bordures noires et coutures apparentes\n\nAccoudoirs\nDeux accoudoirs en toile soutenus par l’armature\n\nConception\nAssise suspendue, dossier large et renforts aux passages des tubes\n\nSKU\n9900010929227",
-     "short_description": "Une chaise pliante avec dossier et accoudoirs pour vos pauses au jardin et vos sorties en plein air."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/7cad40de-5ede-4d71-95c6-9e7fdef2a575.png"
-   ]
-  },
-  {
-   "sku": "doshift-116931",
-   "price": 599,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Projecteur LED Studio Photo & Vidéo Yuanman YM-600-SS (100W, Télécommande)",
-     "description": "Illuminez vos créations audiovisuelles avec une qualité d’éclairage professionnelle grâce au projecteur LED de studio Yuanman YM-600-SS. Conçu pour les créateurs de contenu, photographes, vlogueurs YouTube/TikTok et streamers, cet éclairage continu de 100 Watts délivre une lumière puissante, homogène et sans scintillement pour éliminer les zones d’ombres et sublimer le piqué de vos caméras.\n\nCaractéristique\nDétail\n\nType de produit\nProjecteur d’éclairage continu LED COB professionnel pour studio photo et vidéo (YM-600-SS)\n\nPuissance & Éclairage\nPuissance 100W avec variation continue (stepless dimming) et température bicolore réglable\n\nRendu & Précision\nIndice de rendu des couleurs élevé (CRI ≥ 95) pour une restitution fidèle des teintes\n\nContrôle & Télécommande\nÉcran numérique au dos avec variateur rotatif et télécommande sans fil longue portée\n\nMonture & Fixation\nMonture universelle pour modificateurs de lumière (softbox/parapluie) et rotule pour trépied\n\nSKU\n9900010929173",
-     "short_description": "Projecteur LED continu de studio 100W bicolore avec variateur d’intensité, monture pour trépied et télécommande sans fil."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/349a7b76-ae07-4ef9-91c7-3bdf39a4f7b0.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-116885",
+   "sku": "doshift-117196",
    "price": 319,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Grille-Pain 2 Longues Fentes Inox General 1300W (Mod. YJT-168B)",
-     "description": "Savourez des petits-déjeuners croustillants et réussis avec le grille-pain 2 longues fentes General High Technology 1300W (Mod. YJT-168B). Conçu pour accueillir aussi bien 4 tranches de pain de mie que de longues tranches de baguette traditionnelle ou de pain de campagne grâce à ses fentes allongées à centrage automatique, il s’adapte à toutes vos envies de boulangerie.\n\nCaractéristique\nDétail\n\nType de produit\nGrille-pain électrique 2 longues fentes en acier inoxydable (Toaster 4 tranches)\n\nPuissance & Chauffe\nPuissance 1300 Watt avec thermostat électronique réglable (Electronic Browning Control)\n\nCapacité & Fentes\n2 fentes extra-longues pour 4 tranches de pain de mie ou 2 longues tranches de baguette\n\nFonctions & Sécurité\n\nFonctions décongélation, réchauffage, touche arrêt/annulation et parois latérales cool-touch\n\nNettoyage & Châssis\nCorps en acier inoxydable brossé cannelé avec tiroir ramasse-miettes coulissant amovible\n\nSKU\n9900010929135",
-     "short_description": "Grille-pain 1300W en acier inoxydable à 2 longues fentes pour 4 tranches avec contrôle électronique du brunissage."
+     "name": "Drone Quadricoptère Épée Volante Radiocommandée Sword EPP LED",
+     "description": "Inspiré des légendes fantastiques, le drone Sword réinvente le quadricoptère en adoptant l’allure spectaculaire d’une épée volante carénée. Taillé dans une mousse EPP haute résistance quasi-indestructible, il intègre ses 4 moteurs directement à l’intérieur de sa silhouette pour voler en intérieur comme en extérieur en toute sécurité.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nDrone quadricoptère acrobatique en forme d’épée volante (Remote Control Foam Flying Sword)\n\nSystème de propulsion\n4 rotors carénés intégrés au fuselage avec hélices bipales protégées (2 rouges, 2 noires)\n\nDouble système de pilotage\nTélécommande manette ergonomique 2.4 GHz bi-manche + Bracelet montre à capteur gestuel gravitationnel\n\nÉclairage & Effets visuels\nBandeaux LED RGB dynamiques intégrés sur toute la tranche de la lame pour le vol de nuit\n\nStructure & Matériaux\nChâssis monobloc en mousse EPP haute densité antichoc à finition gris moucheté et runes bleues\n\nSKU\n9900010929265",
+     "short_description": "Drone volant en forme d’épée en mousse antichoc EPP avec bandeaux LED lumineux, saltos 360° et double pilotage manette et bracelet gestuel."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/8d8d5959-fe75-4305-9fa2-e3ad29812d59.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/10/fd957335-8a8c-4de5-91a5-e6b36e63efec.jpg"
    ]
   }
  ]

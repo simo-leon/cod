@@ -1,8 +1,28 @@
 {
  "products": [
   {
-   "sku": "doshift-84339",
-   "price": 109,
+   "sku": "doshift-85378",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de Nuit Élégance Blanche en Dentelle avec Peignoir",
+     "description": "Apportez une touche d’élégance et de douceur à vos soirées avec cet ensemble de nuit raffiné composé d’une nuisette et d’un peignoir assorti. Sa dentelle délicate, ses détails en ruban satinés et ses finitions effet fourrure créent un style féminin et luxueux. Léger et confortable, il est idéal pour les moments de détente à la maison ou pour offrir en cadeau.\n\nCaractéristique\nDétail\n\nType\nEnsemble de nuit femme\n\nComposition\nPeignoir + nuisette\n\nMatière principale\nDentelle et tissu doux\n\nStyle\nÉlégant et romantique\n\nDétails\nRubans satinés et finitions effet fourrure\n\nManches\nLongues évasées\n\nCouleur\nSelon disponibilité\n\nUtilisation\nMaison, détente, nuit\n\nEntretien\nLavage délicat recommandé\n\nRéférence\nAA13BB099",
+     "short_description": "Apportez une touche d’élégance et de douceur à vos soirées avec cet ensemble de nuit raffiné composé d’une nuisette et d’un peignoir assorti."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T165451.227.png"
+   ]
+  },
+  {
+   "sku": "doshift-85344",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -11,192 +31,168 @@
    ],
    "locales": {
     "fr": {
-     "name": "Mascara Waterproof Curl Max Kiss Beauty",
-     "description": "Obtenez un regard intense et captivant grâce au mascara Curl Max Waterproof. Sa brosse haute précision attrape chaque cil dès la racine pour apporter volume, longueur et courbure en un seul passage. Sa formule résistante à l’eau assure une tenue longue durée sans bavures ni paquets, même lors des journées les plus chargées.\n\nCaractéristique\nDétail\n\nType\nMascara Waterproof\n\nMarque\nKiss Beauty\n\nModèle\nCurl Max\n\nEffet\nVolume, longueur et courbure\n\nRésistance\nEau et humidité\n\nApplication\nSans paquets\n\nTenue\nLongue durée\n\nConvient pour\nTous types de cils\n\nRéférence Doshift\nAA6BB599",
-     "short_description": "Obtenez un regard intense et captivant grâce au mascara Curl Max Waterproof. Sa brosse haute précision attrape chaque cil dès la racine pour apporter volume, longueur et courbure en un seul passage."
+     "name": "Ensemble de lingerie en dentelle avec robe assortie",
+     "description": "Apportez une touche d’élégance à votre collection avec cet ensemble de lingerie raffiné, conçu avec une dentelle florale délicate et un voile léger au tombé fluide. Sa coupe féminine met en valeur le style tout en gardant une sensation agréable et confortable à porter.\n\nL’ensemble comprend une nuisette légère avec détails en dentelle ainsi qu’une robe assortie transparente, idéale pour un look chic, élégant et harmonieux. Les finitions en dentelle sur les manches, le décolleté et les bordures ajoutent une touche premium au produit.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de lingerie avec robe assortie\n\nComposition de l’ensemble\nNuisette + robe légère\n\nMatière\nDentelle et voile transparent\n\nStyle\nÉlégant, féminin et raffiné\n\nFinition\nBordures et manches avec dentelle\n\nCoupe\nFluide et confortable\n\nUtilisation\nLingerie de nuit, tenue d’intérieur élégante\n\nCouleur\nRouge fuchsia\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Apportez une touche d’élégance à votre collection avec cet ensemble de lingerie raffiné, conçu avec une dentelle florale délicate et un voile léger au tombé fluide."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T191212.985.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T153519.058.png"
    ]
   },
   {
-   "sku": "doshift-84332",
-   "price": 109,
+   "sku": "doshift-85287",
+   "price": 789,
    "stock": 10,
    "status": 0,
    "categories": [
+    2,
     3,
-    11
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Duo Lip Oil & Lip Gloss Karité 2 en 1 – Hydratation et Brillance Intense",
-     "description": "Duo beauté pour des lèvres brillantes, hydratées et éclatantes au quotidien. Ce coffret contient un lip oil nourrissant et un lip gloss coloré pour apporter confort, douceur et effet glossy en une seule application. Format compact, pratique à transporter dans un sac à main ou une trousse beauté.\n\nCaractéristique\nDétail\n\nProduit\nLip Oil & Lip Gloss\n\nMarque\nKarité\n\nType\nDuo 2 en 1\n\nEffet\nHydratant, brillant, nourrissant\n\nUtilisation\nJour et nuit\n\nFinition\nGlossy et lumineuse\n\nTexture\nNon collante\n\nFormat\nCompact et portable\n\nRéférence Doshift\nAA6BB599",
-     "short_description": "Duo beauté pour des lèvres brillantes, hydratées et éclatantes au quotidien. Ce coffret contient un lip oil nourrissant et un lip gloss coloré pour apporter confort, douceur et effet glossy en une seule application."
+     "name": "Lampe COB Professionnelle YM-300Bi – Éclairage Studio pour Live, Photo & Vidéo",
+     "description": "La lampe COB professionnelle YM-300Bi est conçue pour offrir un éclairage puissant, stable et précis pour les créateurs de contenu, photographes, vidéastes et streamers. Elle permet d’obtenir une lumière claire et uniforme, idéale pour améliorer la qualité visuelle des vidéos, lives, portraits, interviews ou photos de produits.\n\nGrâce à sa température de couleur réglable de 3000K à 7500K, elle s’adapte facilement à différents besoins : lumière chaude pour une ambiance douce, lumière neutre pour un rendu naturel ou lumière froide pour un effet plus professionnel. Sa luminosité ajustable permet de contrôler l’intensité selon la scène, l’espace et le résultat souhaité.\n\nPratique et professionnelle, cette lampe est équipée d’un système de fixation pour support d’éclairage et d’une télécommande permettant de régler les paramètres à distance. C’est un excellent choix pour créer un setup studio propre, moderne et performant.\n\nCaractéristique\nDétail\n\nType de produit\nLampe COB professionnelle\n\nModèle\nYM-300Bi\n\nUtilisation\nLive, photo, vidéo, streaming, portraits, shooting produit\n\nSource lumineuse\nCOB\n\nTempérature de couleur\n3000K – 7500K\n\nLuminosité\nRéglable\n\nContrôle\nBoutons + télécommande\n\nInstallation\nSur support / trépied d’éclairage\n\nDesign\nCorps noir professionnel avec poignée\n\nIdéal pour\nCréateurs de contenu, photographes, vidéastes, studios\n\nRéférence\nAA65BB099",
+     "short_description": "La lampe COB professionnelle YM-300Bi est conçue pour offrir un éclairage puissant, stable et précis pour les créateurs de contenu, photographes, vidéastes et streamers."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T183131.179.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T135928.255.png"
    ]
   },
   {
-   "sku": "doshift-84317",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sérum Capillaire Professionnel Kiss Beauty® – Nutrition & Réparation Intense",
-     "description": "Offrez à vos cheveux un soin complet avec le sérum capillaire Kiss Beauty® Professional Hair Serum. Sa formule enrichie en huiles nourrissantes et protéines essentielles aide à hydrater, réparer et renforcer les cheveux au quotidien. Idéal pour les cheveux secs, ternes, cassants ou abîmés par la chaleur et les traitements chimiques.\n\nGrâce à sa texture légère et non grasse, ce sérum pénètre rapidement dans la fibre capillaire pour apporter douceur, brillance et protection sans alourdir les cheveux.\n\nCaractéristique\nDétail\n\nType\nSérum capillaire\n\nMarque\nKiss Beauty\n\nContenance\n100 ml\n\nUtilisation\nQuotidienne\n\nEffets\nHydratation, réparation, brillance\n\nConvient à\nTous types de cheveux\n\nTexture\nLégère et non grasse\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Offrez à vos cheveux un soin complet avec le sérum capillaire Kiss Beauty® Professional Hair Serum."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T175338.211.png"
-   ]
-  },
-  {
-   "sku": "doshift-84310",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sérum Capillaire Professionnel Collagen Pro – Kiss Beauty",
-     "description": "Offrez à vos cheveux un soin intensif grâce au Sérum Capillaire Collagen Pro Kiss Beauty. Enrichi en collagène, huile de ricin et vitamine E, il aide à nourrir, lisser et revitaliser les cheveux secs, ternes et abîmés.\n\nSa formule légère pénètre rapidement sans effet gras pour apporter douceur, brillance et protection au quotidien. Idéal pour réduire l’apparence des frisottis, faciliter le coiffage et améliorer la souplesse de la fibre capillaire.\n\nCaractéristique\nDétail\n\nMarque\nKiss Beauty\n\nGamme\nCollagen Pro\n\nType\nSérum capillaire professionnel\n\nPrincipaux actifs\nCollagène, Huile de Ricin, Vitamine E\n\nType de cheveux\nCheveux secs et abîmés\n\nEffets\nNourrit, hydrate, lisse et apporte de la brillance\n\nTexture\nLégère, non grasse\n\nUtilisation\nQuotidienne\n\nContenance\n100 ml\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Offrez à vos cheveux un soin intensif grâce au Sérum Capillaire Collagen Pro Kiss Beauty. Enrichi en collagène, huile de ricin et vitamine E, il aide à nourrir, lisser et revitaliser les cheveux secs, ternes et abîmés."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T174036.038.png"
-   ]
-  },
-  {
-   "sku": "doshift-84303",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sérum Capillaire Professionnel Kiss Beauty à la Biotine",
-     "description": "Offrez à vos cheveux un soin intensif avec le Sérum Capillaire Professionnel Kiss Beauty. Sa formule enrichie en biotine, huile de coco et huile d’olive aide à nourrir la fibre capillaire, réduire les frisottis et apporter une brillance éclatante dès les premières applications.\n\nCaractéristique\nDétail\n\nType\nSérum capillaire\n\nMarque\nKiss Beauty\n\nContenance\n100 ml\n\nPrincipaux ingrédients\nBiotine, Huile de Coco, Huile d’Olive\n\nTexture\nLégère et non grasse\n\nUtilisation\nQuotidienne\n\nConvient à\nTous types de cheveux\n\nEffets\nNutrition, douceur, brillance\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Offrez à vos cheveux un soin intensif avec le Sérum Capillaire Professionnel Kiss Beauty."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T172302.506.png"
-   ]
-  },
-  {
-   "sku": "doshift-84297",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gel Nettoyant Éclaircissant DermaDoc Skin Gel",
-     "description": "Offrez à votre peau un nettoyage profond et une sensation de fraîcheur au quotidien grâce au Gel Nettoyant Éclaircissant DermaDoc Skin Gel. Sa formule douce aide à éliminer les impuretés, l’excès de sébum et les résidus accumulés tout au long de la journée tout en laissant la peau propre, nette et éclatante.\n\nConçu pour le visage et le corps, ce gel nettoyant contribue à unifier l’apparence du teint et à révéler l’éclat naturel de la peau. Sa texture légère procure une sensation de confort après chaque utilisation, sans dessécher la peau.\n\nCaractéristique\nDétail\n\nType\nGel nettoyant éclaircissant\n\nUtilisation\nVisage et corps\n\nAction\nNettoyante, purifiante et illuminatrice\n\nType de peau\nTous types de peau\n\nUsage\nQuotidien\n\nTexture\nGel\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Offrez à votre peau un nettoyage profond et une sensation de fraîcheur au quotidien grâce au Gel Nettoyant Éclaircissant DermaDoc Skin Gel."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T170817.902.png"
-   ]
-  },
-  {
-   "sku": "doshift-84283",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gel Intime Neutre DermaDoc – Douceur & Protection au Quotidien",
-     "description": "Prenez soin de votre hygiène intime avec le Gel Intime Neutre DermaDoc. Sa formule douce à haute tolérance respecte l’équilibre naturel des zones sensibles pour une sensation durable de fraîcheur et de confort. Adapté à un usage quotidien, il nettoie délicatement sans agresser la peau grâce à sa composition sans savon, sans parfum et sans alcool.\n\nCaractéristique\nDétail\n\nType\nGel intime\n\nUtilisation\nHygiène intime quotidienne\n\nFormule\nHaute tolérance\n\nSans savon\nOui\n\nSans parfum\nOui\n\nSans alcool\nOui\n\nConvient aux peaux sensibles\nOui\n\nRéférence Doshift\nAA9BB099",
-     "short_description": "Prenez soin de votre hygiène intime avec le Gel Intime Neutre DermaDoc. Sa formule douce à haute tolérance respecte l’équilibre naturel des zones sensibles pour une sensation durable de fraîcheur et de confort."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T163730.029.png"
-   ]
-  },
-  {
-   "sku": "doshift-84268",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Shampooing Hydratant L’Oréal Paris Elseve Hyaluron Repulp 72H",
-     "description": "Offrez à vos cheveux une hydratation intense et durable avec le shampooing Elseve Hyaluron Repulp. Sa formule enrichie en acide hyaluronique aide à retenir l’hydratation au cœur de la fibre capillaire pour des cheveux visiblement plus souples, plus brillants et pleins de vitalité.\n\nIdéal pour les cheveux déshydratés, ce shampooing nettoie en douceur tout en apportant une sensation de fraîcheur et de légèreté. Dès les premières utilisations, les cheveux paraissent plus doux, plus disciplinés et mieux hydratés.\n\nCaractéristique\nDétail\n\nMarque\nL’Oréal Paris\n\nGamme\nElseve Hyaluron Repulp\n\nType\nShampooing hydratant\n\nAction\nHydratation et repulpation\n\nIngrédient clé\nAcide hyaluronique\n\nConvient pour\nCheveux déshydratés\n\nUtilisation\nQuotidienne\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Offrez à vos cheveux une hydratation intense et durable avec le shampooing Elseve Hyaluron Repulp."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T153909.180.png"
-   ]
-  },
-  {
-   "sku": "doshift-84257",
+   "sku": "doshift-85302",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
+    12
    ],
    "locales": {
     "fr": {
-     "name": "Shampoing Régulateur Dessange Douce Argile",
-     "description": "Retrouvez l’équilibre parfait entre fraîcheur et douceur avec le Shampoing Régulateur Douce Argile de Dessange. Sa formule enrichie en argile purifiante aide à absorber l’excès de sébum à la racine tout en respectant les longueurs et les pointes. Idéal pour les cheveux aux racines grasses et aux pointes sèches, il procure une sensation de légèreté durable dès les premières utilisations.\n\nCaractéristique\nDétail\n\nMarque\nDessange\n\nGamme\nDouce Argile\n\nType\nShampoing régulateur\n\nUtilisation\nCheveux aux racines grasses et pointes sèches\n\nAction\nPurifie, régule et adoucit\n\nTexture\nShampooing liquide\n\nUsage\nQuotidien\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Retrouvez l’équilibre parfait entre fraîcheur et douceur avec le Shampoing Régulateur Douce Argile de Dessange."
+     "name": "Bonnet Gel Anti-Migraine Mauve",
+     "description": "Offrez-vous un moment de soulagement et de détente avec ce bonnet gel anti-migraine conçu pour couvrir confortablement les yeux, le front, les tempes et la zone des sinus. Sa matière douce et extensible épouse la forme de la tête sans pression excessive, pour une sensation agréable pendant le repos, la relaxation ou les moments de fatigue.\n\nGrâce à son gel intégré, il peut être placé au frais avant utilisation afin de procurer une sensation froide apaisante. Idéal à la maison, au bureau, en voyage ou avant de dormir, il aide à créer une ambiance calme et relaxante lorsque vous ressentez une gêne au niveau de la tête ou des yeux.\n\nCaractéristique\nDétail\n\nType de produit\nBonnet gel anti-migraine / masque de relaxation\n\nUtilisation\nTête, yeux, front, tempes et zone des sinus\n\nMatière\nTissu doux extensible avec gel intégré\n\nCouleur\nMauve\n\nTaille\nTaille unique\n\nConfort\nSans velcro, ne tire pas les cheveux\n\nUsage recommandé\nRelaxation, repos, sommeil, fatigue visuelle, sensation de fraîcheur\n\nEntretien\nNettoyage doux en surface recommandé\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Offrez-vous un moment de soulagement et de détente avec ce bonnet gel anti-migraine conçu pour couvrir confortablement les yeux, le front, les tempes et la zone des sinus."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T152259.438.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T142618.832.png"
    ]
   },
   {
-   "sku": "doshift-84235",
-   "price": 69,
+   "sku": "doshift-85022",
+   "price": 469,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Gel Douche NIVEA Lemongrass & Oil – Fraîcheur Revitalisante au Quotidien",
-     "description": "Offrez à votre peau une sensation de fraîcheur intense avec le gel douche NIVEA Lemongrass & Oil. Sa formule enrichie en vitamines associe le parfum vivifiant de la citronnelle à des micro-gouttes d’huile nourrissante pour nettoyer la peau en douceur tout en préservant son hydratation naturelle.\n\nParfait pour une utilisation quotidienne, ce gel douche transforme chaque douche en un moment de bien-être, laissant la peau douce, fraîche et délicatement parfumée.\n\nCaractéristique\nDétail\n\nMarque\nNIVEA\n\nType\nGel douche\n\nGamme\nFresh Shower\n\nParfum\nCitronnelle & Huile\n\nUtilisation\nCorps\n\nType de peau\nTous types de peau\n\nFormule\nEnrichie en vitamines C & E\n\nContenance\n250 ml\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Offrez à votre peau une sensation de fraîcheur intense avec le gel douche NIVEA Lemongrass & Oil."
+     "name": "Piscine Familiale Rectangulaire Gonflable Bestway",
+     "description": "Profitez de l’été à la maison avec cette piscine familiale rectangulaire gonflable Bestway, idéale pour se rafraîchir dans le jardin, sur une terrasse ou dans un espace extérieur. Son format spacieux permet aux enfants et aux adultes de profiter d’un moment agréable en famille, sans avoir besoin d’une installation compliquée.\n\nAvec sa structure gonflable à plusieurs boudins, elle offre un bon maintien et un confort agréable pendant l’utilisation. Sa forme rectangulaire optimise l’espace intérieur pour jouer, s’asseoir ou se détendre dans l’eau.\n\nCaractéristique\nDétail\n\nProduit\nPiscine familiale gonflable\n\nMarque\nBestway\n\nModèle\nBlue Rectangular Family Pool\n\nForme\nRectangulaire\n\nCouleur\nBleu et blanc\n\nDimensions\n3,05 m × 1,83 m × 56 cm\n\nUtilisation\nJardin, terrasse, cour extérieure\n\nType\nPiscine gonflable familiale\n\nÂge recommandé\n6 ans et plus\n\nInstallation\nGonflage simple et rapide\n\nRéférence Doshift\nAA40BB099",
+     "short_description": "Profitez de l’été à la maison avec cette piscine familiale rectangulaire gonflable Bestway, idéale pour se rafraîchir dans le jardin, sur une terrasse ou dans un espace extérieur."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T142810.925.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-13T195430.586.png"
+   ]
+  },
+  {
+   "sku": "doshift-85016",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Skateboard Enfant “Never Give Up”",
+     "description": "Un skateboard enfant au design fun et coloré, parfait pour accompagner les premières sorties, les moments de jeu et les petites aventures en plein air. Avec son look vert menthe, ses roues rouges et son motif cartoon “Never Give Up”, il attire facilement l’attention et donne aux enfants plus d’envie de bouger, jouer et apprendre à rouler.\n\nSon format complet avec roues déjà montées permet une utilisation simple et pratique. Idéal pour les enfants qui veulent découvrir le skateboard, améliorer leur équilibre et profiter d’une activité sportive amusante.\n\nCaractéristique\nDétail\n\nProduit\nSkateboard enfant\n\nDesign\nMotif cartoon “Never Give Up”\n\nCouleur principale\nVert menthe\n\nRoues\nRoues rouges\n\nUtilisation\nLoisirs, jeu, apprentissage du skateboard\n\nPublic cible\nEnfants\n\nType\nPlanche complète avec roues montées\n\nStyle\nSportif, fun et coloré\n\nConseil d’utilisation\nUtiliser avec casque et protections\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Un skateboard enfant au design fun et coloré, parfait pour accompagner les premières sorties, les moments de jeu et les petites aventures en plein air."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-13T194235.493.png"
+   ]
+  },
+  {
+   "sku": "doshift-84999",
+   "price": 239,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Voiture de Police Télécommandée RC – SUV 4×4",
+     "description": "Offrez aux enfants une expérience de jeu dynamique avec cette voiture de police télécommandée RC au design SUV sportif. Avec sa carrosserie noir et blanc, ses détails réalistes et sa télécommande facile à prendre en main, elle est idéale pour créer des courses, des poursuites imaginaires et des moments de divertissement à la maison.\n\nSon style police avec gyrophare rouge et bleu apporte un effet visuel amusant, tandis que la télécommande permet de diriger la voiture facilement. Le pack comprend également une batterie rechargeable et un chargeur, pratique pour profiter du jouet sans avoir à remplacer les piles à chaque utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nVoiture télécommandée RC\n\nModèle\nSUV Police 4×4\n\nFonction\nContrôle à distance\n\nAccessoires inclus\nTélécommande, batterie rechargeable, chargeur\n\nDesign\nVoiture de police noir et blanc avec gyrophare\n\nUtilisation\nJeu d’intérieur, courses, jeux d’imagination\n\nPublic cible\nEnfants\n\nAlimentation\nBatterie rechargeable\n\nCouleur\nNoir et blanc\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Offrez aux enfants une expérience de jeu dynamique avec cette voiture de police télécommandée RC au design SUV sportif."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-13T190559.982.png"
+   ]
+  },
+  {
+   "sku": "doshift-84958",
+   "price": 229,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Voiture Télécommandée RC Sport avec Télécommande Volant",
+     "description": "Offrez aux enfants une expérience de conduite amusante avec cette voiture RC sport au design supercar. Son look bleu et noir, son grand aileron arrière et sa télécommande en forme de volant rendent le jeu plus réaliste et plus immersif.\n\nIdéale pour jouer à la maison, dans une chambre, un salon ou sur une surface lisse, cette voiture télécommandée est un excellent choix pour un cadeau ludique et dynamique.\n\nCaractéristique\nDétail\n\nType de produit\nVoiture télécommandée RC\n\nModèle\nVoiture sport avec télécommande volant\n\nCouleur\nBleu et noir\n\nTélécommande\nForme volant avec boutons de contrôle\n\nUtilisation\nJeu intérieur ou surface lisse\n\nDesign\nSupercar sportive avec aileron arrière\n\nPublic cible\nEnfants\n\nContenu\n1 voiture RC + 1 télécommande volant\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Offrez aux enfants une expérience de conduite amusante avec cette voiture RC sport au design supercar."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-13T173356.231.png"
+   ]
+  },
+  {
+   "sku": "doshift-84946",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Table de Billard Miniature – Set Snooker & Pool",
+     "description": "Offrez aux enfants et à toute la famille un vrai moment de divertissement à la maison avec cette mini table de billard Real Billiards. Compacte, colorée et facile à installer, elle permet de jouer au snooker et au pool dans un format pratique, idéal pour les chambres, salons ou espaces de jeux.\n\nSon design réaliste avec tapis vert, billes colorées, queues de billard et triangle offre une expérience de jeu amusante tout en développant la concentration, la précision et la coordination des enfants.\n\nCaractéristique\nDétail\n\nProduit\nMini table de billard\n\nType\nSet Snooker & Pool\n\nUtilisation\nJeu d’intérieur pour enfants et famille\n\nÂge recommandé\n3 ans et plus\n\nAccessoires inclus\nBilles, queues de billard, triangle et table de jeu\n\nDesign\nTable miniature avec tapis vert et coins colorés\n\nPublic cible\nEnfants, débutants, famille et amis\n\nPoints forts\nCompacte, ludique, facile à utiliser\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Offrez aux enfants et à toute la famille un vrai moment de divertissement à la maison avec cette mini table de billard Real Billiards."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-13T171415.658.png"
+   ]
+  },
+  {
+   "sku": "doshift-84939",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Micro Jouet Musical avec Lumières pour Enfants",
+     "description": "Offrez aux enfants un moment de jeu amusant avec ce micro jouet musical sur pied, idéal pour chanter, danser et s’amuser à la maison. Avec son design coloré, ses lumières intégrées et ses effets sonores, il transforme chaque moment en petite scène de spectacle.\n\nGrâce à sa hauteur adaptée aux enfants, son support stable et son micro facile à tenir, ce jouet encourage l’expression, la confiance et le jeu créatif. Il peut également être utilisé avec un téléphone pour jouer de la musique et accompagner les chansons.\n\nCaractéristique\nDétail\n\nType de produit\nMicro jouet musical pour enfants\n\nUtilisation\nChant, musique, jeu créatif\n\nÂge recommandé\n3 ans et plus\n\nFonctions\nLumière, son, musique\n\nSupport\nPied avec base stable\n\nHauteur\nEnviron 110 cm\n\nDimensions indiquées\n24,5 × 110 cm\n\nAlimentation\nFonctionne avec piles\n\nInstallation\nFacile à monter\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Offrez aux enfants un moment de jeu amusant avec ce micro jouet musical sur pied, idéal pour chanter, danser et s’amuser à la maison."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-13T170303.037.png"
    ]
   }
  ]

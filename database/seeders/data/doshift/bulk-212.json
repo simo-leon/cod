@@ -1,47 +1,104 @@
 {
  "products": [
   {
-   "sku": "doshift-71638",
-   "price": 129,
+   "sku": "doshift-78126",
+   "price": 199,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Débardeur Gainant Homme Amincissant & Sculptant – Taille XL",
-     "description": "Affinez instantanément votre silhouette avec ce débardeur gainant pour homme, conçu pour offrir maintien, confort et discrétion sous tous types de vêtements. Sa technologie de compression ciblée aide à aplatir l’abdomen, soutenir le dos et améliorer la posture tout au long de la journée.\n\nCaractéristiques\nDétails\n\nType de produit\nDébardeur gainant homme\n\nTaille\nXL\n\nFonction\nCompression abdominale, effet amincissant\n\nGenre\nHomme\n\nMatière\nTissu extensible respirant\n\nCoupe\nAjustée / sculptante\n\nUtilisation\nQuotidienne, sport, sous-vêtements\n\nEntretien\nLavable à la main ou en machine\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Affinez instantanément votre silhouette avec ce débardeur gainant pour homme, conçu pour offrir maintien, confort et discrétion sous tous types de vêtements."
+     "name": "Souris Sans Fil Rechargeable Ultra Fine et Silencieuse",
+     "description": "Profitez d’une navigation fluide et confortable avec cette souris sans fil au design élégant et moderne. Fine, légère et ergonomique, elle s’adapte parfaitement à votre main pour une utilisation quotidienne au bureau, à la maison ou en déplacement. Son fonctionnement silencieux permet de travailler sans distraction tout en offrant une excellente précision.\n\nCaractéristique\nDétail\n\nType\nSouris sans fil\n\nConnexion\nUSB sans fil\n\nUtilisation\nBureau, maison, gaming léger\n\nDesign\nUltra fin et ergonomique\n\nFonctionnement\nSilencieux\n\nCompatibilité\nWindows / macOS\n\nCouleur\nBeige et argent\n\nAlimentation\nRechargeable\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Profitez d’une navigation fluide et confortable avec cette souris sans fil au design élégant et moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-69.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-14T191512.349.png"
    ]
   },
   {
-   "sku": "doshift-71655",
-   "price": 169,
+   "sku": "doshift-78109",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    2,
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Ceinture Gainante Postpartum XL – Soutien Taille, Ventre & Dos",
-     "description": "Retrouvez confort et maintien au quotidien avec cette ceinture gainante multi-zones, conçue pour affiner la silhouette, soutenir la taille et offrir un excellent maintien abdominal. Idéale après l’accouchement, après une chirurgie ou pour un usage quotidien, elle épouse parfaitement les formes tout en restant discrète sous les vêtements.\n\nCaractéristiques\nDétails\n\nType\nCeinture gainante abdominale\n\nTaille\nXL\n\nFonction\nMaintien ventre, taille et dos\n\nUtilisation\nPostpartum, amincissement, soutien lombaire\n\nMatière\nTissu respirant extensible\n\nFermeture\nVelcro ajustable multi-niveaux\n\nCouleur\nBeige\n\nAvantages\nRespirante, confortable, discrète\n\nRéférence Doshift\nAA9BB599",
-     "short_description": "Retrouvez confort et maintien au quotidien avec cette ceinture gainante multi-zones, conçue pour affiner la silhouette, soutenir la taille et offrir un excellent maintien abdominal."
+     "name": "Support Magnétique Pliable et Rotatif 1080° pour Smartphone",
+     "description": "Optimisez votre confort d’utilisation avec ce support magnétique compact et ultra flexible. Grâce à sa rotation complète à 1080°, il permet de positionner facilement votre smartphone selon l’angle idéal pour la navigation GPS, les vidéos, les appels ou le travail. Son design pliable et discret s’intègre parfaitement dans votre voiture, bureau ou espace de travail.\n\nFabriqué en alliage métallique robuste, ce support offre une fixation stable et un maintien puissant compatible avec les smartphones magnétiques. Compact et léger, il se replie facilement lorsqu’il n’est pas utilisé.\n\nCaractéristique\nDétail\n\nType\nSupport magnétique pliable\n\nRotation\n1080° ajustable\n\nCompatibilité\nSmartphones magnétiques\n\nMatière\nAlliage métallique\n\nUtilisation\nVoiture, bureau, maison\n\nDimensions\n108 × 41 mm\n\nÉpaisseur base\n6.5 mm\n\nDiamètre anneau\n60 mm\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Optimisez votre confort d’utilisation avec ce support magnétique compact et ultra flexible."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-04-12T150250.219.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-14T173539.284.png"
    ]
   },
   {
-   "sku": "doshift-71586",
-   "price": 139,
+   "sku": "doshift-78101",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Power Bank Spicy 10000mAh Charge Rapide 22.5W avec Câbles Intégrés",
+     "description": "Profitez d’une recharge rapide et pratique partout avec cette power bank compacte et puissante. Équipée d’un affichage digital LED, de câbles intégrés Type-C et Lightning, ainsi que d’une charge rapide 22.5W, elle est idéale pour smartphones, tablettes et accessoires du quotidien. Son format léger et élégant vous accompagne facilement au bureau, en voyage ou en déplacement.\n\nCaractéristique\nDétail\n\nType de produit\nPower Bank Portable\n\nCapacité\n10000mAh\n\nPuissance\n22.5W Fast Charging\n\nConnectiques\nType-C / Lightning\n\nAffichage\nÉcran LED digital\n\nCompatibilité\nSmartphones, tablettes, écouteurs\n\nCouleur\nNoir\n\nUtilisation\nVoyage, bureau, quotidien\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Profitez d’une recharge rapide et pratique partout avec cette power bank compacte et puissante."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-14T171731.968.png"
+   ]
+  },
+  {
+   "sku": "doshift-78087",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble de Charge & Synchronisation LOSTAR USB vers Type-C",
+     "description": "Profitez d’une charge rapide et d’un transfert de données stable avec le câble LOSTAR USB vers Type-C. Conçu pour une utilisation quotidienne, ce câble robuste offre une excellente résistance à l’usure tout en assurant une connexion fiable pour vos smartphones, tablettes, power banks et autres appareils compatibles.\n\nSon design moderne jaune et noir apporte une touche élégante et dynamique, idéale pour la maison, le bureau ou la voiture.\n\nCaractéristique\nDétail\n\nType de produit\nCâble de charge & synchronisation\n\nConnectique\nUSB vers Type-C\n\nUtilisation\nCharge et transfert de données\n\nCompatibilité\nSmartphones, tablettes, power bank\n\nCouleur\nJaune et noir\n\nMatière\nPVC et connecteurs renforcés\n\nDesign\nFlexible et résistant\n\nRéférence Doshift\nAA1BB299",
+     "short_description": "Profitez d’une charge rapide et d’un transfert de données stable avec le câble LOSTAR USB vers Type-C."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-14T165851.361.png"
+   ]
+  },
+  {
+   "sku": "doshift-78076",
+   "price": 439,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Téléphone Sans Fil Panasonic KX-TG6813 avec Haut-Parleur Intégré",
+     "description": "Profitez d’une communication claire et confortable avec ce téléphone sans fil Panasonic KX-TG6813. Doté d’une fonction haut-parleur pratique, d’un écran lisible et d’un design élégant, il s’intègre parfaitement dans votre maison ou votre bureau. Sa portée fiable et son autonomie longue durée vous permettent de rester connecté en toute simplicité au quotidien.\n\nCaractéristique\nDétail\n\nMarque\nPanasonic\n\nModèle\nKX-TG6813\n\nType\nTéléphone sans fil\n\nFonction haut-parleur\nOui\n\nÉcran\nLCD lisible\n\nRépertoire\nJusqu’à 50 contacts\n\nMode Éco\nOui\n\nCouleur\nNoir\n\nUtilisation\nMaison / Bureau\n\nRéférence Doshift\nAA28BB099",
+     "short_description": "Profitez d’une communication claire et confortable avec ce téléphone sans fil Panasonic KX-TG6813."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-14T161439.253.png"
+   ]
+  },
+  {
+   "sku": "doshift-77749",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -49,148 +106,92 @@
    ],
    "locales": {
     "fr": {
-     "name": "Antenne Requin Universelle pour Voiture – Design Aérodynamique et Installation Facile",
-     "description": "Apportez une finition moderne à votre véhicule avec cette antenne requin universelle, conçue pour allier style et praticité. Son design aérodynamique s’intègre harmonieusement au toit de la voiture tout en améliorant l’apparence générale du véhicule\n\nCaractéristique\nDétail\n\nType de produit\nAntenne requin pour voiture\n\nUtilisation\nAccessoire extérieur automobile\n\nCompatibilité\nUniverselle selon le modèle du véhicule\n\nDesign\nAérodynamique\n\nInstallation\nFacile et rapide\n\nFixation\nÀ poser sur le toit du véhicule\n\nMatière\nPlastique rigide\n\nContenu\n1 antenne requin\n\nRéférence Doshift\nAA6BB299",
-     "short_description": "Apportez une finition moderne à votre véhicule avec cette antenne requin universelle, conçue pour allier style et praticité."
+     "name": "Décoration Latérale Chromée pour Voiture FXJ-11 – Lot de 2",
+     "description": "Donnez un style plus sportif et élégant à votre véhicule avec ces ornements latéraux chromés FXJ-11. Leur design à ailettes apporte une finition moderne aux ailes avant, aux portières ou à toute autre surface extérieure lisse.\n\nCaractéristique\nDétail\n\nType de produit\nDécoration latérale pour voiture\n\nModèle\nFXJ-11\n\nQuantité\nLot de 2 pièces\n\nCouleur\nChromé argenté\n\nDesign\nForme à ailettes\n\nFonction\nAccessoire décoratif extérieur\n\nÉclairage\nSans LED, sans lumière\n\nInstallation\nFixation adhésive, sans perçage\n\nEmplacement conseillé\nAiles avant, portières ou surface extérieure lisse\n\nDimensions\n120 × 45 × 10 mm\n\nEntretien avant pose\nNettoyer et sécher soigneusement la surface\n\nCompatibilité\nUniverselle, selon l’espace disponible sur le véhicule\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Donnez un style plus sportif et élégant à votre véhicule avec ces ornements latéraux chromés FXJ-11."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Design-sans-titre-2026-04-12T131053.590.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-12T215115.794.png"
    ]
   },
   {
-   "sku": "doshift-71564",
-   "price": 79,
+   "sku": "doshift-77738",
+   "price": 469,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Renforceur de Main à Ressort – Set de 2 Pièces pour Musculation des Doigts et de l’Avant-Bras",
-     "description": "Améliorez la force de vos mains et de vos avant-bras grâce à ce set de 2 renforceurs de main ergonomiques. Conçus pour l’entraînement musculaire, la rééducation et l’amélioration de la prise, ces hand grips offrent une résistance efficace pour développer la puissance des doigts, du poignet et de l’avant-bras.\n\nDotés d’une poignée en mousse haute densité antidérapante, ils assurent un confort optimal et une prise ferme pendant l’entraînement. Le ressort en acier robuste garantit une excellente durabilité et une résistance constante pour un travail musculaire efficace.\n\nCompact et facile à transporter, ce renforceur de main est idéal pour l’entraînement à la maison, au bureau, à la salle de sport ou en déplacement.\n\nCaractéristique\nDétail\n\nProduit\nRenforceur de main (Hand Grip)\n\nQuantité\nSet de 2 pièces\n\nLongueur\n13 cm\n\nLargeur\n9.5 cm\n\nMatériau poignée\nMousse haute élasticité antidérapante\n\nMatériau structure\nPlastique ABS\n\nRessort\nAcier carbone haute résistance\n\nFonction\nRenforcement des mains, doigts, poignets et avant-bras\n\nUtilisation\nFitness, musculation, rééducation, sport\n\nDesign\nErgonomique avec empreintes pour les doigts\n\nRéférence DOSHIFT\nAA2BB599",
-     "short_description": "Améliorez la force de vos mains et de vos avant-bras grâce à ce set de 2 renforceurs de main ergonomiques."
+     "name": "Caméra Embarquée Black Box Full HD 1080P avec Vision Nocturne et G-Sensor",
+     "description": "Sécurisez chaque trajet avec cette caméra embarquée Black Box, conçue pour enregistrer la route en continu avec une qualité Full HD 1080P. Grâce à sa vision nocturne, son grand angle 180° et son capteur G-Sensor, elle détecte automatiquement les chocs et verrouille les vidéos importantes en cas d’incident. Idéale pour garder une preuve vidéo fiable lors de vos déplacements quotidiens.\n\nCaractéristique\nDétail\n\nType de produit\nCaméra embarquée voiture\n\nRésolution\nFull HD 1080P\n\nVision nocturne\nOui\n\nCapteur de choc\nG-Sensor avec verrouillage automatique\n\nAngle de vue\n180°\n\nEnregistrement\nEn boucle\n\nUtilisation\nSurveillance routière et preuve vidéo\n\nInstallation\nFacile sur pare-brise\n\nRéférence Doshift\nAA30BB099",
+     "short_description": "Sécurisez chaque trajet avec cette caméra embarquée Black Box, conçue pour enregistrer la route en continu avec une qualité Full HD 1080P."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-12T133152.248.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-12T212154.034.png"
    ]
   },
   {
-   "sku": "doshift-71563",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Renforceur de Main à Ressort – Set de 2 Pièces pour Musculation des Doigts et de l’Avant-Bras",
-     "description": "Améliorez la force de vos mains et de vos avant-bras grâce à ce set de 2 renforceurs de main ergonomiques. Conçus pour l’entraînement musculaire, la rééducation et l’amélioration de la prise, ces hand grips offrent une résistance efficace pour développer la puissance des doigts, du poignet et de l’avant-bras.\n\nDotés d’une poignée en mousse haute densité antidérapante, ils assurent un confort optimal et une prise ferme pendant l’entraînement. Le ressort en acier robuste garantit une excellente durabilité et une résistance constante pour un travail musculaire efficace.\n\nCompact et facile à transporter, ce renforceur de main est idéal pour l’entraînement à la maison, au bureau, à la salle de sport ou en déplacement.\n\nCaractéristique\nDétail\n\nProduit\nRenforceur de main (Hand Grip)\n\nQuantité\nSet de 2 pièces\n\nLongueur\n13 cm\n\nLargeur\n9.5 cm\n\nMatériau poignée\nMousse haute élasticité antidérapante\n\nMatériau structure\nPlastique ABS\n\nRessort\nAcier carbone haute résistance\n\nFonction\nRenforcement des mains, doigts, poignets et avant-bras\n\nUtilisation\nFitness, musculation, rééducation, sport\n\nDesign\nErgonomique avec empreintes pour les doigts\n\nRéférence DOSHIFT\nAA2BB599",
-     "short_description": "Améliorez la force de vos mains et de vos avant-bras grâce à ce set de 2 renforceurs de main ergonomiques."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-12T134706.380.png"
-   ]
-  },
-  {
-   "sku": "doshift-71557",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Renforceur de Main à Ressort – Set de 2 Pièces pour Musculation des Doigts et de l’Avant-Bras",
-     "description": "Améliorez la force de vos mains et de vos avant-bras grâce à ce set de 2 renforceurs de main ergonomiques. Conçus pour l’entraînement musculaire, la rééducation et l’amélioration de la prise, ces hand grips offrent une résistance efficace pour développer la puissance des doigts, du poignet et de l’avant-bras.\n\nDotés d’une poignée en mousse haute densité antidérapante, ils assurent un confort optimal et une prise ferme pendant l’entraînement. Le ressort en acier robuste garantit une excellente durabilité et une résistance constante pour un travail musculaire efficace.\n\nCompact et facile à transporter, ce renforceur de main est idéal pour l’entraînement à la maison, au bureau, à la salle de sport ou en déplacement.\n\nCaractéristique\nDétail\n\nProduit\nRenforceur de main (Hand Grip)\n\nQuantité\nSet de 2 pièces\n\nLongueur\n13 cm\n\nLargeur\n9.5 cm\n\nMatériau poignée\nMousse haute élasticité antidérapante\n\nMatériau structure\nPlastique ABS\n\nRessort\nAcier carbone haute résistance\n\nFonction\nRenforcement des mains, doigts, poignets et avant-bras\n\nUtilisation\nFitness, musculation, rééducation, sport\n\nDesign\nErgonomique avec empreintes pour les doigts\n\nRéférence DOSHIFT\nAA2BB599",
-     "short_description": "Améliorez la force de vos mains et de vos avant-bras grâce à ce set de 2 renforceurs de main ergonomiques."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-12T132531.873.png"
-   ]
-  },
-  {
-   "sku": "doshift-71403",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte à bijoux blanche avec tiroirs et fermeture élégante",
-     "description": "Apportez une touche d’élégance et d’organisation à votre espace avec cette boîte à bijoux blanche au design raffiné. Conçue pour ranger soigneusement vos bagues, boucles d’oreilles, colliers, bracelets et petits accessoires, elle allie esthétique et praticité au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nBoîte de rangement pour bijoux\n\nUtilisation\nRangement de bagues, colliers, bracelets, boucles d’oreilles\n\nCouleur\nBlanc\n\nFermeture\nFermeture décorative à l’avant\n\nRangement\nCompartiments supérieurs + tiroirs\n\nStyle\nÉlégant et moderne\n\nEmplacement conseillé\nChambre, coiffeuse, dressing, bureau\n\nAvantage principal\nOrganisation pratique et protection des bijoux\n\nRéférence Doshift\nAA10BB399",
-     "short_description": "Apportez une touche d’élégance et d’organisation à votre espace avec cette boîte à bijoux blanche au design raffiné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-11T160745.509.png"
-   ]
-  },
-  {
-   "sku": "doshift-71214",
+   "sku": "doshift-77721",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Ensemble d’Accessoires de Salle de Bain 4 Pièces – Noir Mat et Bambou – Design Moderne et Élégant",
-     "description": "Apportez une touche naturelle et raffinée à votre salle de bain avec cet ensemble d’accessoires 4 pièces au style moderne. Son association harmonieuse entre le noir mat et le bambou crée un rendu élégant, sobre et tendance, parfait pour compléter différents styles d’intérieur.\n\nIdéal pour une salle de bain familiale, une suite parentale, un appartement ou même un espace invité, cet ensemble allie fonctionnalité, durabilité et style décoratif.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble d’accessoires de salle de bain\n\nNombre de pièces\n4 pièces\n\nContenu\nDistributeur de savon, porte-brosses à dents, gobelet, porte-savon\n\nStyle\nModerne\n\nCouleur\nNoir mat et finition aspect bambou\n\nUtilisation\nSalle de bain\n\nFonction\nOrganisation et décoration\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Apportez une touche naturelle et raffinée à votre salle de bain avec cet ensemble d’accessoires 4 pièces au style moderne."
+     "name": "Diffuseur de parfum d’ambiance solaire rotatif BKN – Forme aile d’aigle",
+     "description": "Apportez une touche élégante et parfumée à votre voiture avec ce diffuseur solaire rotatif au design aile d’aigle. Grâce à son panneau solaire intégré, il tourne automatiquement sous la lumière et diffuse le parfum de manière douce et continue, sans pile ni câble.\n\nCaractéristique\nDétail\n\nProduit\nDiffuseur de parfum d’ambiance\n\nDesign\nForme aile d’aigle\n\nFonction\nDiffusion de parfum + rotation solaire\n\nAlimentation\nÉnergie solaire\n\nUtilisation\nTableau de bord voiture, bureau, espace intérieur\n\nAvantage\nSans pile, sans câble, décoratif et pratique\n\nInstallation\nÀ poser simplement\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Apportez une touche élégante et parfumée à votre voiture avec ce diffuseur solaire rotatif au design aile d’aigle."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-10T155943.869.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-12T202324.602.png"
    ]
   },
   {
-   "sku": "doshift-71207",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set d’accessoires de salle de bain 4 pièces effet bambou et finition grise",
-     "description": "Apportez une touche moderne et élégante à votre salle de bain avec ce set d’accessoires 4 pièces au design sobre et raffiné. Composé d’un distributeur de savon, d’un porte-brosses à dents compartimenté, d’un gobelet et d’un porte-savon, cet ensemble allie esthétique contemporaine et praticité au quotidien.\n\nSa finition grise mate associée à un dessus effet bambou crée un style naturel et épuré, facile à intégrer dans différents univers de décoration. Idéal pour organiser proprement votre espace lavabo, ce set permet de garder vos essentiels à portée de main tout en valorisant votre salle de bain.\n\nCaractéristique\nDétail\n\nType de produit\nSet d’accessoires de salle de bain\n\nNombre de pièces\n4 pièces\n\nContenu\nDistributeur de savon, porte-brosses à dents, gobelet, porte-savon\n\nStyle\nModerne et épuré\n\nCouleur\nGris avec finition effet bambou\n\nUtilisation\nSalle de bain, lavabo, espace toilette\n\nFonction\nRangement et organisation des accessoires de salle de bain\n\nAtout principal\nDesign élégant et pratique\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Apportez une touche moderne et élégante à votre salle de bain avec ce set d’accessoires 4 pièces au design sobre et raffiné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-10T152123.416.png"
-   ]
-  },
-  {
-   "sku": "doshift-71145",
+   "sku": "doshift-77640",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    12
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Ceinture de Maintien avec Sangles Sous-Cuisses – Noire",
-     "description": "Profitez d’un maintien confortable et discret avec cette ceinture conçue pour être portée sous un short ou un pantalon. Sa conception enveloppante associe une large ceinture réglable à des sangles rembourrées pour offrir une bonne stabilité pendant vos activités quotidiennes ou sportives.\n\nFabriquée dans une matière souple et résistante, elle dispose de fermetures auto-agrippantes réglables permettant d’adapter facilement le serrage selon votre morphologie. Son intérieur rembourré aide à améliorer le confort pendant le port, tandis que sa couleur noire reste discrète sous les vêtements.\n\nIdéale pour la marche, les activités sportives légères et une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nType\nCeinture de maintien avec sangles sous-cuisses\n\nCouleur\nNoir\n\nPort\nSous un short ou un pantalon\n\nFermeture\nSystème auto-agrippant réglable\n\nConception\nCeinture large avec sangles de maintien\n\nConfort\nParties rembourrées\n\nAjustement\nRéglable selon la morphologie\n\nUtilisation\nQuotidien, marche et activités sportives\n\nEntretien\nNettoyage manuel recommandé\n\nContenu\n1 ceinture de maintien\n\nRéférence Doshift\nAA9BB099",
-     "short_description": "Profitez d’un maintien confortable et discret avec cette ceinture conçue pour être portée sous un short ou un pantalon."
+     "name": "Diffuseur Solaire Aromatique pour Voiture – Décoration Rotative Élégante",
+     "description": "Apportez une touche premium à votre voiture avec ce diffuseur aromatique solaire au design géométrique raffiné. Fonctionnant à l’énergie solaire, il tourne automatiquement avec la lumière tout en diffusant un parfum agréable pour un habitacle plus frais et élégant.\n\nCaractéristique\nDétail\n\nType\nDiffuseur aromatique décoratif\n\nUtilisation\nVoiture, bureau, maison\n\nFonction\nRotation solaire automatique\n\nAlimentation\nÉnergie solaire\n\nDesign\nForme diamant élégante\n\nInstallation\nÀ poser sur tableau de bord\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Apportez une touche premium à votre voiture avec ce diffuseur aromatique solaire au design géométrique raffiné."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-08-14T135212.964.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-12T153246.838.png"
+   ]
+  },
+  {
+   "sku": "doshift-77530",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aiguiseur de Couteaux Manuel 3 Niveaux",
+     "description": "Aiguisez vos couteaux facilement avec cet aiguiseur manuel compact et pratique. Sa poignée ergonomique assure une bonne prise en main, tandis que ses 3 fentes permettent un affûtage rapide, stable et précis pour un usage quotidien en cuisine.\n\nCaractéristique\nDétail\n\nProduit\nAiguiseur de couteaux manuel\n\nDimensions\n15 cm\n\nFonction\nAffûtage des couteaux\n\nNombre de fentes\n3 niveaux\n\nUtilisation\nCuisine, maison, préparation alimentaire\n\nPoignée\nErgonomique et confortable\n\nCouleurs\nNoir et rouge\n\nRéférence Doshift\nAA2BB099",
+     "short_description": "Aiguisez vos couteaux facilement avec cet aiguiseur manuel compact et pratique. Sa poignée ergonomique assure une bonne prise en main, tandis que ses 3 fentes permettent un affûtage rapide, stable et précis pour un…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-11T214115.957.png"
    ]
   }
  ]

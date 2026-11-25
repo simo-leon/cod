@@ -1,49 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-55504",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coque de Protection Rigide Transparente – Console & Manettes",
-     "description": "Protégez efficacement votre console et vos manettes grâce à cette coque rigide transparente conçue pour offrir une protection complète tout en préservant le design d’origine. Sa conception légère et parfaitement ajustée permet une installation simple et rapide, sans gêner l’accès aux boutons, ports ou commandes.Idéale pour un usage quotidien, elle protège contre les rayures, les chocs légers et l’usure, que ce soit à la maison ou lors de vos déplacements, tout en conservant une prise en main confortable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCoque de protection rigide\n\nCompatibilité\nConsole et manettes\n\nMatériau\nPC (polycarbonate)\n\nFinition\nTransparente\n\nProtection\nAnti-rayures, anti-chocs légers, anti-usure\n\nAccès boutons/ports\nDécoupes précises, aucun blocage\n\nInstallation\nFacile, sans outil\n\nUtilisation\nProtection quotidienne, maison & déplacement\n\nRéférence-DOSHIFT\nAA5BB599",
-     "short_description": "Protégez efficacement votre console et vos manettes grâce à cette coque rigide transparente conçue pour offrir une protection complète tout en préservant le design d’origine."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-02-07T172048-347.png"
-   ]
-  },
-  {
-   "sku": "doshift-55258",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rasoir Électrique Féminin Wet & Dry – Douceur, Précision & Élégance",
-     "description": "Profitez d’une peau douce et parfaitement lisse grâce à ce rasoir électrique féminin Wet & Dry, conçu pour une utilisation confortable même sur les zones sensibles. Sa tête de précision avec lames douces assure une coupe efficace et rapide sans irritation. Grâce à son design ergonomique et élégant, il offre une excellente prise en main pour un rasage précis, que ce soit sous la douche ou sur peau sèche. Rechargeable et pratique, il est idéal pour un usage quotidien à domicile ou en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRasoir électrique féminin\n\nUtilisation\nWet & Dry (sur peau sèche ou humide)\n\nPrécision\nTondeuse de précision intégrée\n\nZones adaptées\nZones sensibles (jambes, aisselles, maillot)\n\nLames\nLames douces anti-irritation\n\nDesign\nErgonomique et élégant\n\nPerformance\nRasage efficace et rapide\n\nAlimentation\nRechargeable (USB selon modèle)\n\nAvantage principal\nPeau douce et finition nette\n\nRéférence – DOSHIFT\nAA8BB099",
-     "short_description": "Profitez d’une peau douce et parfaitement lisse grâce à ce rasoir électrique féminin Wet & Dry, conçu pour une utilisation confortable même sur les zones sensibles."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/c082385a-f38f-4c70-bb4b-3dfd241a944d.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-55304",
-   "price": 129,
+   "sku": "doshift-60549",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -52,153 +11,186 @@
    ],
    "locales": {
     "fr": {
-     "name": "Poche à eau chaude électrique rechargeable – Design aléatoire",
-     "description": "Profitez d’une chaleur douce et réconfortante pendant les journées froides avec cette poche à eau chaude électrique rechargeable. Elle chauffe en seulement 5 à 10 minutes et peut conserver une chaleur agréable pendant plusieurs heures selon les conditions d’utilisation.\n\nSon revêtement doux et moelleux apporte davantage de confort et permet de l’utiliser pour réchauffer les mains, le ventre, le dos ou simplement pour profiter d’un moment cocooning à la maison, au bureau ou avant de dormir.\n\nCompacte, réutilisable et facile à transporter, elle constitue un accessoire pratique pour l’hiver.\n\nCaractéristique\nDétail\n\nType de produit\nPoche à eau chaude électrique rechargeable\n\nUtilisation\nRéchauffer le corps et apporter du confort\n\nTemps de chauffe\nEnviron 5 à 10 minutes\n\nDurée de chaleur\nEnviron 2 à 8 heures selon l’utilisation\n\nMatière extérieure\nTissu doux et moelleux\n\nSécurité\nProtection contre la surchauffe\n\nDesign\nAléatoire selon disponibilité\n\nFinition\nMotif décoratif imprimé\n\nAvantages\nPortable, réutilisable et pratique\n\nZones d’utilisation\nMains, ventre, dos\n\nIdéal pour\nMaison, bureau, hiver et détente\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Profitez d’une chaleur douce et réconfortante pendant les journées froides avec cette poche à eau chaude électrique rechargeable."
+     "name": "Lunettes de Soleil Unisexes – Monture Rectangulaire Élégante",
+     "description": "Apportez une touche élégante et contemporaine à votre style avec ces lunettes de soleil unisexes à monture rectangulaire. Leur design équilibré et structuré assure un excellent confort tout en s’adaptant facilement à différentes formes de visage. Polyvalentes et intemporelles, elles conviennent aussi bien aux tenues décontractées qu’aux looks plus soignés, pour un usage quotidien en toute occasion.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nRectangulaire\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nModerne / Intemporel\n\nUtilisation\nUsage quotidien, conduite, sorties extérieures\n\nRéférence-DOSHIFT\nAA4BB099",
+     "short_description": "Apportez une touche élégante et contemporaine à votre style avec ces lunettes de soleil unisexes à monture rectangulaire."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-09-07T144922.598.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-04T052301-387.png"
    ]
   },
   {
-   "sku": "doshift-55296",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pot Hermétique en Verre avec Couvercle en Bambou – Rangement Cuisine & Décoration",
-     "description": "Ce pot de rangement en verre transparent au design minimaliste est parfait pour organiser votre cuisine, salle de bain, salon ou coiffeuse. Son couvercle en bois apporte une touche naturelle et moderne, tout en assurant une fermeture efficace pour protéger le contenu. Idéal pour ranger des aliments secs, des épices, du café, des biscuits, mais aussi des accessoires comme du coton, des bijoux ou des petits objets du quotidien. À la fois pratique et décoratif, il s’intègre dans tous les types d’intérieurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPot de rangement\n\nMatériau principal\nVerre transparent\n\nCouvercle\nBois naturel\n\nStyle\nMinimaliste / Moderne\n\nUtilisation\nCuisine, salle de bain, salon, coiffeuse\n\nApplications\nCafé, épices, biscuits, coton, accessoires\n\nAvantages\nDesign simple, hygiénique, décoratif\n\nFermeture\nCouvercle ajusté\n\nEntretien\nLavage facile\n\nPublic\nMaison & organisation\n\nRéférence-doshift\nAA3BB599",
-     "short_description": "Ce pot de rangement en verre transparent au design minimaliste est parfait pour organiser votre cuisine, salle de bain, salon ou coiffeuse."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/97721f06-90a8-4cce-a624-f26414506a42.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-55290",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pot Décoratif en Verre avec Couvercle et Poignée Cristal – Style Élégant",
-     "description": "Ce pot décoratif en verre est conçu pour ajouter une touche d’élégance à votre intérieur. Son couvercle en bois surmonté d’une poignée effet cristal lui confère un style raffiné, idéal pour une cuisine, un salon, une coiffeuse ou une table d’appoint. Parfait pour ranger des sucreries, des bijoux, du café, des épices ou de petits accessoires, il associe esthétique et praticité dans un format compact.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPot / Boîte décorative\n\nMatériau principal\nVerre\n\nCouvercle\nBois\n\nPoignée\nEffet cristal + base dorée\n\nStyle\nÉlégant & moderne\n\nUsage\nRangement + décoration\n\nApplications\nCuisine, salon, chambre, coiffeuse\n\nContenu possible\nSucreries, épices, bijoux, accessoires\n\nEntretien\nNettoyage facile\n\nPublic\nMaison & décoration\n\nRéférence-doshift\nAA2BB099",
-     "short_description": "Ce pot décoratif en verre est conçu pour ajouter une touche d’élégance à votre intérieur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/7958dd4d-8c85-47e7-bcf7-84cf511e59b7.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-55283",
-   "price": 159,
+   "sku": "doshift-60542",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes de Soleil Unisexes – Design Angulaire & Style Affirmé",
+     "description": "Adoptez un style affirmé avec ces lunettes de soleil unisexes au design angulaire et résolument moderne. Leur monture épaisse et structurée apporte une forte personnalité tout en garantissant un excellent maintien et un confort optimal au quotidien. Parfaites pour un look urbain, tendance ou streetwear, elles s’intègrent facilement à toutes les tenues et renforcent votre allure avec caractère.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nAngulaire / Géométrique\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nTendance / Streetwear\n\nUtilisation\nUsage quotidien, sorties urbaines, activités extérieures\n\nRéférence-DOSHIFT\nAA4BB099",
+     "short_description": "Adoptez un style affirmé avec ces lunettes de soleil unisexes au design angulaire et résolument moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-04T051514-827.png"
+   ]
+  },
+  {
+   "sku": "doshift-60535",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes de Soleil Unisexes – Style Élégant & Polyvalent",
+     "description": "Adoptez un style élégant et polyvalent avec ces lunettes de soleil unisexes, spécialement conçues pour un usage quotidien. Leur monture classique et parfaitement équilibrée s’adapte aisément à différentes formes de visage, assurant un confort optimal tout au long de la journée. Polyvalentes et intemporelles, elles sont idéales pour la ville, la conduite ou les sorties en plein air, et complètent harmonieusement tous les styles, du plus décontracté au plus soigné.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nClassique\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nÉlégant / Décontracté\n\nUtilisation\nUsage quotidien, conduite, activités extérieures\n\nRéférence-DOSHIFT\nAA4B099",
+     "short_description": "Adoptez un style élégant et polyvalent avec ces lunettes de soleil unisexes, spécialement conçues pour un usage quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-04T051245-371.png"
+   ]
+  },
+  {
+   "sku": "doshift-60528",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes de Soleil Unisexes – Design Géométrique & Style Audacieux",
+     "description": "Affirmez votre style avec ces lunettes de soleil au caractère audacieux et résolument moderne. Leur monture géométrique marquée apporte une touche tendance qui sublime aussi bien les looks urbains que décontractés. Conçues avec une structure robuste et légère, elles offrent un excellent confort pour un port quotidien. Polyvalentes et stylées, elles s’adaptent parfaitement à toutes les occasions, des sorties en ville aux moments de détente en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de protection solaire\n\nConfiguration optique\nVerres teintés haute définition\n\nModèle\nRiviera Classic – Édition 2026\n\nProtection solaire\nIndice UV400 (Protection totale UVA / UVB)\n\nMatériau de la monture\nAcétate de qualité supérieure poli\n\nStyles disponibles\nCarré moderne, Rond vintage, Écaille, Cristal\n\nUtilisation\nConduite, Plage, Mode urbaine\n\nRéférence-DOSHIFT\nAA4B099",
+     "short_description": "Affirmez votre style avec ces lunettes de soleil au caractère audacieux et résolument moderne. Leur monture géométrique marquée apporte une touche tendance qui sublime aussi bien les looks urbains que décontractés."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-04T050813-499.png"
+   ]
+  },
+  {
+   "sku": "doshift-60635",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     8
    ],
    "locales": {
     "fr": {
-     "name": "Lampe de Table LED Dorée – Design Moderne avec Effet Feuilles d’Or",
-     "description": "Cette lampe de table LED allie élégance moderne et ambiance chaleureuse grâce à son design doré et son cylindre transparent parsemé de feuilles décoratives dorées. Elle diffuse une lumière agréable qui embellit instantanément un salon, une chambre, un bureau ou une table d’appoint. Son style luxueux s’intègre aussi bien dans une décoration contemporaine, glamour ou minimaliste, tout en apportant une touche premium à l’espace.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLampe de table décorative\n\nLumière\nLED\n\nStyle\nModerne / Élégant / Doré\n\nEffet décoratif\nFeuilles d’or\n\nUtilisation\nSalon, chambre, bureau, entrée, déco\n\nFonction\nAmbiance & décoration\n\nActivation\nBouton sur base\n\nMatériau\nMétal + cylindre transparent\n\nCouleur\nDoré premium\n\nAvantage\nApporte chaleur & esthétique\n\nEntretien\nNettoyage simple\n\nRéférence-doshift\nAA7BB099",
-     "short_description": "Cette lampe de table LED allie élégance moderne et ambiance chaleureuse grâce à son design doré et son cylindre transparent parsemé de feuilles décoratives dorées."
+     "name": "Support Livre Pliable en Bois – Design Artisanal & Spirituel",
+     "description": "Apportez une touche artisanale et spirituelle à votre intérieur avec ce support livre en bois finement découpé. Son design pliable, robuste et décoratif assure une stabilité parfaite tout en sublimant votre espace. Idéal pour la lecture ou la présentation de livres religieux et ouvrages divers, il combine esthétique traditionnelle et praticité moderne. Léger et facile à ranger, il s’adapte parfaitement à la maison, à la mosquée ou à tout espace de méditation.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nSupport livre pliable\n\nMatière\nBois MDF découpé au laser\n\nDesign\nMotif calligraphie décorative\n\nUtilisation\nLivre, Coran, Bible, ouvrages divers\n\nStructure\n2 pièces emboîtables\n\nPliable\nOui – rangement facile\n\nAvantages\nStable, décoratif, léger, pratique\n\nRéférence – DOSHIFT\nAA5BB099",
+     "short_description": "Apportez une touche artisanale et spirituelle à votre intérieur avec ce support livre en bois finement découpé. Son design pliable, robuste et décoratif assure une stabilité parfaite tout en sublimant votre espace."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-11T233248.068.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-12T190211-387.png"
    ]
   },
   {
-   "sku": "doshift-55264",
-   "price": 139,
+   "sku": "doshift-60343",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Set de Sabots de Coupe Kemei – 6 Guides de Longueur pour Tondeuse Électrique",
-     "description": "Ce set de sabots Kemei est conçu pour offrir une coupe précise et maîtrisée avec les tondeuses électriques compatibles. Les différents guides de longueur permettent de réaliser des dégradés, contours et coupes régulières selon le style souhaité. Faciles à installer et résistants, ils sont adaptés à une utilisation en salon comme à domicile. Un accessoire indispensable pour barbiers, coiffeurs et utilisateurs exigeants.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nKemei\n\nType\nSabots / Guides de coupe\n\nCompatibilité\nTondeuses électriques Kemei (selon modèle)\n\nQuantité\nSet de 6 sabots\n\nLongueurs incluses\n1.5 mm – 3 mm – 4.5 mm – 6 mm – 9 mm – 12 mm\n\nMatériau\nPlastique durable\n\nApplication\nCoupe / dégradé / égalisation\n\nNiveau\nProfessionnel & Usage personnel\n\nInstallation\nEmboîtement simple\n\nEntretien\nNettoyage rapide\n\nRéférence-doshift\nAA3BB599",
-     "short_description": "Ce set de sabots Kemei est conçu pour offrir une coupe précise et maîtrisée avec les tondeuses électriques compatibles."
+     "name": "Lunettes de Soleil Unisexes – Élégance Arrondie & Style Intemporel",
+     "description": "Adoptez un style intemporel avec ces lunettes de soleil unisexes à monture arrondie, conçues pour s’adapter naturellement à toutes les formes de visage. Leur design équilibré associe élégance et simplicité, garantissant un confort optimal tout au long de la journée. Faciles à porter et polyvalentes, elles complètent aussi bien les looks décontractés que les tenues plus soignées, idéales pour la ville, la conduite ou les sorties en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nArrondie\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nClassique / Intemporel\n\nUtilisation\nUsage quotidien, conduite, sorties extérieures\n\nRéférence-doshift\nAA4B099",
+     "short_description": "Adoptez un style intemporel avec ces lunettes de soleil unisexes à monture arrondie, conçues pour s’adapter naturellement à toutes les formes de visage."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/42bf4e24-e481-4b3f-920a-e84d4d40aa17.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T060250-217.png"
    ]
   },
   {
-   "sku": "doshift-55252",
-   "price": 69,
+   "sku": "doshift-60337",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8,
-    11
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Repousse-Cuticules en Acier – Outil de Manucure & Pédicure Professionnel",
-     "description": "Ce repousse-cuticules en acier est l’outil indispensable pour préparer l’ongle avant la pose de vernis, gel ou acrylique. Sa double tête permet de repousser délicatement les cuticules et de nettoyer les résidus autour de l’ongle pour une finition propre et professionnelle. Grâce à son manche antidérapant, il offre une excellente prise en main et un contrôle optimal. Idéal pour salons, écoles esthétiques et utilisation personnelle.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nRepousse-cuticules\n\nUtilisation\nManucure & pédicure\n\nMatériau\nAcier inoxydable\n\nPrise en main\nManche texturé antidérapant\n\nFonction\nPréparation de l’ongle / nettoyage\n\nPublic\nProfessionnels & débutants\n\nDomaines\nNail Art, pose gel, pose vernis\n\nEntretien\nLavable & réutilisable\n\nDurabilité\nLongue durée\n\nRéférence-doshift\nAA1BB099",
-     "short_description": "Ce repousse-cuticules en acier est l’outil indispensable pour préparer l’ongle avant la pose de vernis, gel ou acrylique."
+     "name": "Lunettes de Soleil Unisexes – Élégance Rectangulaire & Style Contemporain",
+     "description": "Apportez une touche élégante et contemporaine à votre style avec ces lunettes de soleil unisexes à monture rectangulaire. Leur design structuré et équilibré assure un confort optimal tout en s’adaptant harmonieusement à différentes formes de visage. Polyvalentes et faciles à porter, elles accompagnent aussi bien les tenues décontractées que les looks plus soignés, idéales pour un usage quotidien, la conduite ou les sorties en plein air.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nRectangulaire\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nModerne / Intemporel\n\nUtilisation\nUsage quotidien, conduite, sorties extérieures\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Apportez une touche élégante et contemporaine à votre style avec ces lunettes de soleil unisexes à monture rectangulaire."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/0e88c8c6-1092-426a-920b-cc2b3c71d41a.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T054130-209.png"
    ]
   },
   {
-   "sku": "doshift-55224",
-   "price": 209,
+   "sku": "doshift-60332",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Main d’Entraînement Manucure avec Support Flexible – Pour Pose de Capsules & Nail Art",
-     "description": "Cette main d’entraînement pour manucure est idéale pour l’apprentissage, la pratique professionnelle ou la formation au Nail Art. Grâce à son bras flexible et ajustable, elle peut être fixée sur une table ou un plan de travail afin de reproduire les conditions réelles de pose. Les doigts articulés permettent de positionner les capsules facilement pour la pose d’ongles gel, acrylique ou press-on. Parfaite pour les écoles de beauté, salons et apprenties techniciennes ongulaires.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nMain d’entraînement pour manucure\n\nUtilisation\nFormation, entraînement & démonstration\n\nSupport\nBras flexible + pince de fixation\n\nArticulations\nDoigts articulés\n\nCapsules\nFournies (incluse dans le kit)\n\nCompatibilité\nGel – Acrylique – Press-On – Nail Art\n\nFixation\nSur table / bureau\n\nPublic\nDébutants, étudiants, professionnels\n\nIdéal pour\nSalons, écoles esthétiques, centres de formation\n\nEntretien\nNettoyage simple\n\nRéférence-doshift\nAA12BB099",
-     "short_description": "Cette main d’entraînement pour manucure est idéale pour l’apprentissage, la pratique professionnelle ou la formation au Nail Art."
+     "name": "Lunettes de Soleil Unisexes – Style Angulaire & Attitude Moderne",
+     "description": "Affirmez votre personnalité avec ces lunettes de soleil unisexes au design angulaire et résolument moderne. Leur monture épaisse et structurée apporte une touche audacieuse à votre look tout en garantissant un excellent maintien et un confort optimal au quotidien. Parfaites pour un style urbain, tendance ou streetwear, elles s’intègrent facilement à toutes vos tenues et vous accompagnent aussi bien en ville que lors de vos sorties en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nAngulaire / Géométrique\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nTendance / Streetwear\n\nUtilisation\nUsage quotidien, sorties urbaines, activités extérieures\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Affirmez votre personnalité avec ces lunettes de soleil unisexes au design angulaire et résolument moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/3f8d5c2b-8f45-42db-bcc1-a9e5ba81c87e.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T053854-593.png"
    ]
   },
   {
-   "sku": "doshift-55212",
-   "price": 79,
+   "sku": "doshift-60315",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8,
-    11
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Correcteur d’Orteils en Silicone – Alignement & Confort pour les Pieds",
-     "description": "Ce correcteur d’orteils en silicone est conçu pour améliorer l’alignement des orteils et réduire l’inconfort causé par les déformations, le chevauchement ou les frottements. Grâce à sa texture douce et flexible, il épouse la forme du pied et procure un confort optimal lors de la marche ou en position statique. Idéal pour une utilisation quotidienne, il aide à prévenir les irritations, soulager la pression et favoriser un meilleur positionnement des orteils.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nCorrecteur d’orteils\n\nFonction\nAlignement & redressement des orteils\n\nMatériau\nSilicone souple et confortable\n\nTaille\nFree size (adaptable)\n\nQuantité\n1 paire\n\nConfort\nAnti-frottements & anti-douleurs\n\nUtilisation\nQuotidienne, marche & repos\n\nPublic\nUnisexe – Adultes\n\nEntretien\nLavable à l’eau\n\nRéférence-doshift\nAA2BB099",
-     "short_description": "Ce correcteur d’orteils en silicone est conçu pour améliorer l’alignement des orteils et réduire l’inconfort causé par les déformations, le chevauchement ou les frottements."
+     "name": "Lunettes de Soleil Unisexes – Élégance Moderne & Confort Quotidien",
+     "description": "Apportez une touche d’élégance moderne à toutes vos tenues avec ces lunettes de soleil au design unisexe parfaitement équilibré. Conçues pour convenir aussi bien aux hommes qu’aux femmes, elles offrent un style polyvalent qui s’adapte aussi bien à la vie urbaine qu’aux moments de détente en extérieur. Leur forme harmonieuse met en valeur le visage tout en garantissant un port léger et confortable, idéal pour un usage quotidien sous le soleil.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nStyle\nUnisexe (hommes & femmes)\n\nForme\nArrondie / ovale\n\nUsage\nVille, plage, sorties, quotidien\n\nConfort\nLégères, port agréable\n\nIdée cadeau\nConvient à tous les styles\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Apportez une touche d’élégance moderne à toutes vos tenues avec ces lunettes de soleil au design unisexe parfaitement équilibré."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/8a4e86fd-cc66-4fdc-95df-08b54afa4702.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T012542-692.png"
+   ]
+  },
+  {
+   "sku": "doshift-60322",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes de Soleil Géométriques Unisexes – Style Audacieux & Tendance",
+     "description": "Affirmez votre personnalité avec ces lunettes de soleil au design géométrique audacieux et résolument moderne. Leur monture marquée apporte une touche urbaine et tendance à toutes vos tenues, tandis que leur structure robuste assure un excellent confort pour un port quotidien. Polyvalentes, elles s’adaptent aussi bien à un look décontracté qu’à un style plus affirmé, pour accompagner toutes vos sorties en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nGéométrique\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nModerne / Tendance\n\nUtilisation\nUsage quotidien, sorties urbaines, activités extérieures\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Affirmez votre personnalité avec ces lunettes de soleil au design géométrique audacieux et résolument moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T051043-298.png"
    ]
   }
  ]

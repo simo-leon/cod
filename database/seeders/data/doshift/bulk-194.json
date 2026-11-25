@@ -1,102 +1,67 @@
 {
  "products": [
   {
-   "sku": "doshift-79684",
-   "price": 289,
+   "sku": "doshift-92636",
+   "price": 1049,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4,
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Bouilloire Électrique RAF 2L",
-     "description": "Préparez rapidement vos boissons chaudes avec cette bouilloire électrique RAF au design moderne et pratique. Sa grande capacité de 2 litres permet de chauffer l’eau facilement pour le thé, le café ou les infusions au quotidien.\n\nCaractéristiques\nDétails\n\nMarque\nRAF\n\nCapacité\n2.0 L\n\nPuissance\n1500 W\n\nMatière\nAcier inoxydable 304\n\nBase\nRotation 360°\n\nProtection\nAnti-chauffe à sec\n\nUtilisation\nThé, café, eau chaude\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA18BB099",
-     "short_description": "Préparez rapidement vos boissons chaudes avec cette bouilloire électrique RAF au design moderne et pratique."
+     "name": "Projecteur de Jeu Intelligent 2 en 1 avec 2 Manettes Sans Fil",
+     "description": "Transformez votre salon en véritable espace de divertissement grâce à ce projecteur intelligent 2 en 1, conçu pour profiter aussi bien de vos films et séries que de vos jeux vidéo. Son format compact et son support inclinable permettent d’ajuster facilement l’angle de projection selon votre installation.\n\nLe pack comprend deux manettes sans fil, idéales pour jouer à deux en famille ou entre amis. Grâce à sa connectivité Wi-Fi, le projecteur facilite l’accès à vos contenus multimédias et offre une expérience immersive sur grand écran.\n\nCaractéristique\nDétail\n\nType de produit\nProjecteur intelligent avec fonction jeu\n\nFonction\nVidéoprojecteur et console de jeu 2 en 1\n\nConnectivité des manettes\nSans fil 2,4 GHz\n\nNombre de manettes\n2 manettes incluses\n\nConnexion réseau\nWi-Fi 6\n\nAffichage\nProjection grand écran\n\nCompatibilité vidéo\nPrise en charge 4K indiquée\n\nFonction 3D\nOui\n\nOrientation\nSupport inclinable et réglable\n\nCommande\nTélécommande incluse\n\nUtilisations\nJeux vidéo, films, séries, vidéos et événements sportifs\n\nCouleur\nBlanc et noir\n\nAccessoires inclus\n2 manettes, télécommande, récepteur USB, câble d’alimentation et manuel\n\nRéférence Doshift\nAA87BB099",
+     "short_description": "Transformez votre salon en véritable espace de divertissement grâce à ce projecteur intelligent 2 en 1, conçu pour profiter aussi bien de vos films et séries que de vos jeux vidéo."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T192041.000.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T141317.058.png"
    ]
   },
   {
-   "sku": "doshift-79633",
-   "price": 289,
+   "sku": "doshift-92291",
+   "price": 1149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    5
    ],
    "locales": {
     "fr": {
-     "name": "Bouilloire Électrique RAF 2.0L Noir Élégant",
-     "description": "Préparez rapidement vos boissons chaudes avec cette bouilloire électrique RAF au design moderne et raffiné. Sa grande capacité de 2 litres et sa puissance élevée assurent une chauffe rapide pour le thé, le café ou les infusions au quotidien.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA17BB099\n\nMarque\nRAF\n\nType\nBouilloire électrique\n\nCapacité\n2 Litres\n\nPuissance\n1500W\n\nRotation\nBase 360°\n\nCouleur\nNoir\n\nAlimentation\n220-240V / 50-60Hz\n\nMatériau\nPlastique et acier inoxydable\n\nFonction sécurité\nArrêt automatique",
-     "short_description": "Préparez rapidement vos boissons chaudes avec cette bouilloire électrique RAF au design moderne et raffiné."
+     "name": "Walkie-Talkie Baofeng BF-C2 – Lot de 2",
+     "description": "Restez facilement en contact avec votre équipe grâce à ce lot de 2 talkies-walkies Baofeng BF-C2. Compacts, légers et simples à utiliser, ils conviennent parfaitement aux agents de sécurité, aux équipes de chantier, aux événements, au camping, à la randonnée et aux activités nécessitant une communication rapide.\n\nLeur batterie rechargeable offre une autonomie pouvant atteindre 12 à 18 heures, tandis que la recharge USB Type-C facilite leur utilisation au quotidien. La fonction VOX permet de communiquer en mode mains libres, et la lampe LED intégrée apporte un éclairage pratique en cas de besoin.\n\nCaractéristique\nDétail\n\nProduit\nWalkie-Talkie Baofeng BF-C2\n\nConditionnement\nLot de 2\n\nType\nTalkie-walkie portable PMR\n\nFréquence\n446 – 446.20 MHz\n\nPuissance de sortie\n0,5 W\n\nAutonomie\nJusqu’à 12 à 18 heures\n\nBatterie\nBatterie Li-ion rechargeable 1800 mAh\n\nRecharge\nUSB Type-C\n\nFonction VOX\nOui (communication mains libres)\n\nLampe LED\nOui\n\nCodes de confidentialité\nCTCSS / DCS\n\nConception\nCompacte, légère et robuste\n\nUtilisation\nSécurité, chantier, camping, randonnée, événements, entrepôts\n\nCouleur\nNoir\n\nContenu du colis\n2 × Walkies-talkies Baofeng BF-C2\n\nRéférence\nAA90BB099",
+     "short_description": "Restez facilement en contact avec votre équipe grâce à ce lot de 2 talkies-walkies Baofeng BF-C2."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T171033.357.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T193946.538.png"
    ]
   },
   {
-   "sku": "doshift-79627",
-   "price": 179,
+   "sku": "doshift-92284",
+   "price": 659,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    5
    ],
    "locales": {
     "fr": {
-     "name": "Boîte de Rangement Pliable HOME",
-     "description": "Organisez votre intérieur avec élégance grâce à cette boîte de rangement pliable HOME. Idéale pour ranger vêtements, jouets, couvertures, linge ou accessoires du quotidien, elle apporte une touche moderne et chaleureuse à chaque pièce de la maison. Son tissu résistant, ses poignées renforcées et son design pliable en font une solution pratique et esthétique pour garder votre espace bien ordonné.\n\nCaractéristique\nDétail\n\nType\nBoîte de rangement pliable\n\nMatière\nTissu renforcé\n\nCouleur\nBeige et marron\n\nUtilisation\nRangement maison\n\nPoignées\nCorde renforcée\n\nFonction\nPliable et pratique\n\nPièces compatibles\nChambre, salon, dressing, buanderie\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Organisez votre intérieur avec élégance grâce à cette boîte de rangement pliable HOME."
+     "name": "WALKIE-TALKIE BAOFENG BF-C2 1 pack = 2 Walkie-Talkies",
+     "description": "Restez connecté en toutes circonstances\n\nLe Baofeng BF-C2 est un talkie-walkie compact, léger et simple d’utilisation, idéal pour les professionnels de la sécurité, les chantiers, les événements, les activités de plein air et les communications quotidiennes. Grâce à sa batterie longue durée, sa recharge USB Type-C et sa conception robuste, il vous garantit une communication fiable lorsque vous en avez le plus besoin.\n\nCaractéristique\nDétail\n\nModèle\nBaofeng BF-C2\n\nType de produit\nTalkie-walkie portable PMR\n\nFréquence\n446 – 446.20 MHz\n\nPuissance de sortie\n0,5 W\n\nAutonomie\nJusqu’à 12 à 18 heures\n\nBatterie\nBatterie Li-ion rechargeable 1800 mAh\n\nRecharge\nUSB Type-C\n\nFonction VOX\nOui (communication mains libres)\n\nLampe LED\nOui\n\nCodes de confidentialité\nCTCSS / DCS\n\nConception\nCompacte, légère et robuste\n\nUtilisation\nSécurité, chantier, camping, randonnée, événements, entrepôts\n\nCouleur\nNoir\n\nContenu\n1 × Walkie-talkie Baofeng BF-C2\n\nRéférence\nAA45BB099",
+     "short_description": "Restez connecté en toutes circonstances"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T164451.601.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T192939.330.png"
    ]
   },
   {
-   "sku": "doshift-79406",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble d’Ustensiles de Cuisine 6 Pièces avec Support en Bois",
-     "description": "Organisez et modernisez votre cuisine avec cet élégant ensemble d’ustensiles de cuisine 6 pièces. Conçu avec des matériaux résistants et un design moderne effet bois, cet ensemble est idéal pour cuisiner au quotidien tout en gardant votre plan de travail bien organisé.\n\nLes ustensiles offrent une prise en main confortable et sont adaptés aux casseroles et poêles antiadhésives. Grâce à leur support compact en bois, tous vos accessoires restent facilement accessibles.\n\nCaractéristique\nDétail\n\nType\nEnsemble d’ustensiles de cuisine\n\nNombre de pièces\n6 pièces\n\nSupport\nInclus\n\nMatière des ustensiles\nSilicone / plastique résistant\n\nMatière du support\nEffet bois\n\nCouleur\nBeige et bois\n\nUtilisation\nCuisine quotidienne\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA17BB099",
-     "short_description": "Organisez et modernisez votre cuisine avec cet élégant ensemble d’ustensiles de cuisine 6 pièces."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T200417.747.png"
-   ]
-  },
-  {
-   "sku": "doshift-79371",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set d’Ustensiles de Cuisine 6 Pièces avec Support en Bambou",
-     "description": "Préparez vos plats avec élégance grâce à ce set d’ustensiles de cuisine pratique et moderne. Conçu avec des matériaux résistants à la chaleur et des manches ergonomiques effet bois, cet ensemble apporte une touche naturelle et raffinée à votre cuisine. Idéal pour cuisiner au quotidien sans abîmer vos poêles et casseroles antiadhésives.\n\nCaractéristique\nDétail\n\nType\nSet d’ustensiles de cuisine\n\nNombre de pièces\n6 pièces\n\nMatière des ustensiles\nSilicone / Nylon résistant\n\nMatière du support\nBambou\n\nCouleur\nNoir et bois\n\nRésistance à la chaleur\nOui\n\nCompatible lave-vaisselle\nOui\n\nUtilisation\nCuisine quotidienne\n\nRéférence Doshift\nAA17BB099",
-     "short_description": "Préparez vos plats avec élégance grâce à ce set d’ustensiles de cuisine pratique et moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T184540.761.png"
-   ]
-  },
-  {
-   "sku": "doshift-79393",
+   "sku": "doshift-92206",
    "price": 149,
    "stock": 10,
    "status": 0,
@@ -105,18 +70,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Organisateur de Bureau avec Distributeur de Mouchoirs – Design Compact",
-     "description": "Apportez plus d’ordre et d’élégance à votre espace avec cet organisateur multifonction. Son design moderne permet de ranger facilement vos télécommandes, lunettes, stylos, montres, accessoires et petits objets du quotidien, tout en gardant les mouchoirs toujours à portée de main grâce à son distributeur intégré.\n\nCompact et pratique, il s’adapte parfaitement au salon, au bureau, à la chambre ou à la salle de bain. Sa structure robuste et sa surface lisse facilitent le nettoyage et garantissent une utilisation durable au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nOrganisateur avec distributeur de mouchoirs\n\nUtilisation\nRangement d’accessoires + distribution de mouchoirs\n\nCompartiments\nPlusieurs espaces de rangement sur le dessus\n\nEmplacement idéal\nSalon, chambre, bureau, salle de bain\n\nMatière\nPlastique PP robuste\n\nDesign\nCompact, moderne et élégant\n\nNettoyage\nSurface lisse facile à nettoyer\n\nDimensions\n21 × 16 × 12 cm\n\nRéférence Doshift\nAA6BB599",
-     "short_description": "Apportez plus d’ordre et d’élégance à votre espace avec cet organisateur multifonction."
+     "name": "Cache-pot décoratif effet pierre mouchetée – Design moderne",
+     "description": "Apportez une touche d’élégance à votre intérieur ou votre extérieur avec ce cache-pot au design épuré et à la finition noire effet pierre mouchetée. Léger, résistant et intemporel, il met en valeur toutes vos plantes tout en s’intégrant harmonieusement à tous les styles de décoration. Idéal pour les salons, balcons, terrasses, bureaux ou jardins.\n\nCaractéristique\nDétail\n\nType\nCache-pot décoratif\n\nForme\nRonde\n\nCouleur\nNoir moucheté\n\nFinition\nEffet pierre\n\nMatériau\nPlastique résistant\n\nUtilisation\nIntérieur et extérieur\n\nEntretien\nNettoyage avec un chiffon humide\n\nStyle\nModerne et minimaliste\n\nRéférence\nAA7BB099",
+     "short_description": "Apportez une touche d’élégance à votre intérieur ou votre extérieur avec ce cache-pot au design épuré et à la finition noire effet pierre mouchetée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-18T142923.682.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T164115.539.png"
    ]
   },
   {
-   "sku": "doshift-79284",
-   "price": 309,
+   "sku": "doshift-92193",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -124,72 +89,108 @@
    ],
    "locales": {
     "fr": {
-     "name": "Set d’Ustensiles de Cuisine 6 Pièces avec Support en Bambou",
-     "description": "Apportez une touche moderne et élégante à votre cuisine avec ce set d’ustensiles 6 pièces en silicone et bambou. Résistants à la chaleur, pratiques au quotidien et faciles à ranger grâce à leur support en bambou compact, ces accessoires sont parfaits pour cuisiner sans abîmer vos casseroles et poêles.\n\nCaractéristique\nDétail\n\nType\nSet d’ustensiles de cuisine\n\nNombre de pièces\n6 pièces\n\nMatière des têtes\nSilicone\n\nMatière des manches\nBambou + revêtement antidérapant\n\nSupport\nBambou\n\nCouleur\nGris\n\nRésistance à la chaleur\nOui\n\nUtilisation\nCuisine quotidienne\n\nRéférence Doshift\nAA19BB099",
-     "short_description": "Apportez une touche moderne et élégante à votre cuisine avec ce set d’ustensiles 6 pièces en silicone et bambou."
+     "name": "Pot de fleur noir 5,5 pouces",
+     "description": "Apportez une touche de verdure à votre intérieur ou à votre extérieur avec ce pot de fleur noir au design simple et moderne. Sa finition sobre s’intègre facilement dans tous les styles de décoration, que ce soit dans un salon, une cuisine, un bureau, sur un balcon ou une terrasse.\n\nFabriqué en plastique léger, il est facile à déplacer et pratique pour accueillir différentes plantes décoratives, fleurs ou herbes aromatiques. Sa forme légèrement conique et son large rebord lui offrent une bonne stabilité tout en facilitant la manipulation.\n\nCaractéristique\nDétail\n\nType de produit\nPot de fleur\n\nTaille\n5,5 pouces\n\nCouleur\nNoir\n\nMatière\nPlastique\n\nForme\nRonde, légèrement conique\n\nUtilisation\nIntérieur et extérieur\n\nCompatibilité\nPlantes vertes, fleurs, cactus, succulentes, herbes aromatiques\n\nDesign\nModerne et minimaliste\n\nAvantages\nLéger, résistant, facile à déplacer\n\nEntretien\nFacile à nettoyer\n\nRéférence\nAA5BB599",
+     "short_description": "Apportez une touche de verdure à votre intérieur ou à votre extérieur avec ce pot de fleur noir au design simple et moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T150803.813.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T163408.173.png"
    ]
   },
   {
-   "sku": "doshift-79276",
-   "price": 279,
+   "sku": "doshift-92182",
+   "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Chauffage Soufflant Portable RAF 2000W",
-     "description": "Profitez d’une chaleur rapide et confortable avec le chauffage soufflant RAF 2000W, idéal pour réchauffer efficacement vos espaces en hiver. Compact, léger et facile à transporter grâce à sa poignée intégrée, il convient parfaitement à la maison, au bureau ou à la chambre.\n\nDoté de 2 niveaux de chauffe et d’une fonction ventilation, ce chauffage offre une utilisation simple et pratique au quotidien. Son thermostat réglable permet d’adapter facilement la température selon vos besoins tout en assurant une diffusion homogène de la chaleur.\n\nCaractéristique\nDétail\n\nType\nChauffage soufflant portable\n\nMarque\nRAF\n\nPuissance\n2000W\n\nRéglages\n2 niveaux\n\nFonction ventilation\nOui\n\nThermostat\nRéglable\n\nSécurité\nProtection anti-surchauffe\n\nCouleur\nBlanc\n\nUtilisation\nMaison, bureau, chambre\n\nRéférence Doshift\nAA17BB099",
-     "short_description": "Profitez d’une chaleur rapide et confortable avec le chauffage soufflant RAF 2000W, idéal pour réchauffer efficacement vos espaces en hiver."
+     "name": "Pot de fleurs décoratif noir effet moucheté",
+     "description": "Apportez une touche moderne et élégante à votre intérieur avec ce pot de fleurs au design raffiné. Sa finition noire mouchetée, sublimée par de fines rainures verticales couleur bronze, s’intègre facilement dans différents styles de décoration.\n\nSa forme évasée met parfaitement en valeur les plantes vertes, fleurs et petits arbustes. Il convient aussi bien au salon, à l’entrée, au bureau, au balcon qu’à la terrasse.\n\nCaractéristique\nDétail\n\nType de produit\nPot de fleurs décoratif\n\nCouleur\nNoir moucheté avec lignes verticales effet bronze\n\nForme\nRonde et légèrement évasée\n\nStyle\nModerne et élégant\n\nFinition\nTexturée avec motif rainuré\n\nUtilisation\nPlantes vertes, fleurs et petits arbustes\n\nEmplacement conseillé\nSalon, entrée, bureau, balcon ou terrasse couverte\n\nContenu\n1 pot de fleurs, plante non incluse\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Apportez une touche moderne et élégante à votre intérieur avec ce pot de fleurs au design raffiné."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T145106.980.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T162628.183.png"
    ]
   },
   {
-   "sku": "doshift-79180",
+   "sku": "doshift-92166",
    "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
-    7
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Convertisseur de courant pour voiture avec USB & Type-C",
-     "description": "Transformez facilement l’alimentation de votre voiture en une solution pratique pour recharger et alimenter vos appareils pendant vos déplacements. Ce convertisseur de courant au format porte-gobelet se branche directement sur la prise allume-cigare et offre une prise 220V, deux ports USB 3.0, un port Type-C ainsi qu’un affichage digital de tension.\n\nCompact et facile à installer dans l’habitacle, il est idéal pour les longs trajets, voyages, camping, travail mobile ou utilisation quotidienne en voiture.\n\nCaractéristique\nDétail\n\nType de produit\nConvertisseur de courant pour voiture\n\nAlimentation\nPrise allume-cigare voiture\n\nSortie principale\nPrise 220V intégrée\n\nPorts USB\n2 ports USB 3.0\n\nPort supplémentaire\n1 port Type-C\n\nAffichage\nÉcran digital de tension\n\nFormat\nPorte-gobelet compact\n\nUtilisation\nVoiture, voyage, camping, recharge en déplacement\n\nCouleur\nNoir avec détails rouges\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Transformez facilement l’alimentation de votre voiture en une solution pratique pour recharger et alimenter vos appareils pendant vos déplacements."
+     "name": "Pot de fleurs décoratif noir",
+     "description": "Apportez une touche moderne et élégante à votre intérieur avec ce pot de fleurs noir au design minimaliste. Sa forme arrondie et sa finition mate mettent parfaitement en valeur vos plantes vertes, fleurs ou compositions décoratives.\n\nPolyvalent, il s’intègre facilement dans un salon, une chambre, un bureau, une entrée ou sur une terrasse. Léger et pratique, il permet de créer une décoration végétale raffinée tout en s’adaptant à différents styles d’aménagement.\n\nCaractéristique\nDétail\n\nType\nPot de fleurs décoratif\n\nCouleur\nNoir\n\nForme\nArrondie, légèrement conique\n\nFinition\nMate\n\nStyle\nModerne et minimaliste\n\nUtilisation\nPlantes naturelles ou artificielles\n\nEmplacement\nSalon, chambre, bureau, entrée, terrasse couverte\n\nMatériau\nPlastique résistant\n\nEntretien\nNettoyage facile avec un chiffon humide\n\nContenu\n1 × Pot de fleurs (plante non incluse)",
+     "short_description": "Apportez une touche moderne et élégante à votre intérieur avec ce pot de fleurs noir au design minimaliste."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-23T155841.885.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T160624.746.png"
    ]
   },
   {
-   "sku": "doshift-79171",
+   "sku": "doshift-92157",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "iRig Adaptateur Audio Guitar pour Smartphone & Tablette",
-     "description": "Transformez votre smartphone en véritable ampli guitare avec l’iRig. Compact et facile à utiliser, cet adaptateur audio permet de connecter votre guitare électrique à votre téléphone, tablette ou ordinateur pour jouer, enregistrer et profiter d’effets professionnels partout.\n\nCaractéristique\nDétail\n\nType\nAdaptateur audio guitare\n\nCompatibilité\niOS / Android / PC / Mac\n\nConnexion\nJack 3.5 mm\n\nEntrée Instrument\nJack 6.35 mm\n\nSortie Audio\nCasque 3.5 mm\n\nCouleur\nNoir\n\nUtilisation\nGuitare, basse, enregistrement\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Transformez votre smartphone en véritable ampli guitare avec l’iRig. Compact et facile à utiliser, cet adaptateur audio permet de connecter votre guitare électrique à votre téléphone, tablette ou ordinateur pour jouer,…"
+     "name": "Pot de Fleur Décoratif Effet Marbré Noir & Blanc",
+     "description": "Apportez une touche d’élégance à votre intérieur avec ce pot de fleur décoratif au design contemporain. Son magnifique effet marbré noir et blanc s’intègre parfaitement à tous les styles de décoration, qu’ils soient modernes, minimalistes ou classiques. Idéal pour mettre en valeur vos plantes vertes, fleurs ou compositions décoratives.\n\nFabriqué avec une finition soignée, ce cache-pot allie esthétique et durabilité. Sa forme évasée assure une excellente stabilité tout en offrant suffisamment d’espace pour accueillir différentes variétés de plantes. Que ce soit dans un salon, une chambre, un bureau, une entrée ou sur une terrasse couverte, il sublimera instantanément votre espace.\n\nCaractéristique\nDétail\n\nType\nPot de fleur décoratif\n\nStyle\nModerne\n\nMotif\nEffet marbré noir et blanc\n\nCouleur\nNoir / Blanc\n\nForme\nRonde évasée\n\nUtilisation\nPlantes, fleurs, décoration intérieure\n\nEntretien\nAA6BB099",
+     "short_description": "Apportez une touche d’élégance à votre intérieur avec ce pot de fleur décoratif au design contemporain."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-18T203947.114.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T160137.139.png"
+   ]
+  },
+  {
+   "sku": "doshift-92150",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pot de fleurs noir au design moderne",
+     "description": "Apportez une touche élégante et naturelle à votre décoration avec ce pot de fleurs noir à finition mate. Son design sobre et intemporel met parfaitement en valeur vos plantes vertes, fleurs et petits arbustes.\n\nLéger et facile à déplacer, il s’intègre harmonieusement dans le salon, le bureau, l’entrée, le balcon ou la terrasse. Sa forme évasée et son large rebord offrent une présentation soignée adaptée à différents styles de décoration.\n\nCaractéristique\nDétail\n\nType de produit\nPot de fleurs\n\nCouleur\nNoir\n\nMatière\nPlastique\n\nFinition\nMate\n\nForme\nRonde et légèrement évasée\n\nStyle\nModerne et minimaliste\n\nUtilisation\nPlantes, fleurs et petits arbustes\n\nEmplacement\nIntérieur et extérieur\n\nEntretien\nNettoyage facile avec un chiffon humide\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apportez une touche élégante et naturelle à votre décoration avec ce pot de fleurs noir à finition mate. Son design sobre et intemporel met parfaitement en valeur vos plantes vertes, fleurs et petits arbustes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T155523.588.png"
+   ]
+  },
+  {
+   "sku": "doshift-91948",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Étagère Pliante en Bambou à 3 Niveaux",
+     "description": "Apportez une touche naturelle et élégante à votre intérieur avec cette étagère pliante en bambou à 3 niveaux. Conçue en bambou naturel, elle offre une solution de rangement pratique et décorative pour la cuisine, la salle de bain, le salon ou toute autre pièce de la maison. Son design pliable permet un rangement facile lorsqu’elle n’est pas utilisée.\n\nCaractéristique\nDétail\n\nMatériau\nBambou naturel\n\nNombre de niveaux\n3\n\nType\nÉtagère pliante\n\nCouleur\nBois naturel\n\nStructure\nPliable\n\nUtilisation\nCuisine, salle de bain, salon, chambre, bureau\n\nEntretien\nNettoyage avec un chiffon humide\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Apportez une touche naturelle et élégante à votre intérieur avec cette étagère pliante en bambou à 3 niveaux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T194353.778.png"
    ]
   }
  ]

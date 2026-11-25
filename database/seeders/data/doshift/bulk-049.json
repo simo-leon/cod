@@ -1,199 +1,203 @@
 {
  "products": [
   {
-   "sku": "doshift-83756",
-   "price": 129,
+   "sku": "doshift-84682",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Anti-Moustiques à Choc Électrique",
-     "description": "Profitez de vos soirées sans moustiques grâce à cette lampe anti-insectes pratique et efficace. Sa lumière UV attire les moustiques et insectes volants, puis les élimine par choc électrique, sans produits chimiques ni odeur.\n\nCaractéristique\nDétail\n\nType\nLampe anti-moustiques électrique\n\nFonction\nAttraction UV + choc électrique\n\nUtilisation\nIntérieur et extérieur\n\nDesign\nFormat lanterne avec poignée\n\nAvantage\nSans fumée, sans odeur, sans produits chimiques\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA6BB599",
-     "short_description": "Profitez de vos soirées sans moustiques grâce à cette lampe anti-insectes pratique et efficace."
+     "name": "L’Oréal Paris Elseve Fall Resist [Aminexil] – Huile Remplacement Anti-Chute",
+     "description": "Prenez soin de vos cheveux avec L’Oréal Elseve Fall Resist Aminexil Oil Replacement, une formule enrichie en Aminexil conçue pour aider à renforcer la fibre capillaire, nourrir les cheveux et réduire la casse. Sa texture légère apporte douceur et brillance sans alourdir les cheveux.\n\nCaractéristique\nDétail\n\nMarque\nL’Oréal Paris\n\nGamme\nElseve Fall Resist\n\nType\nHuile de remplacement pour cheveux\n\nActif principal\nAminexil\n\nBénéfices\nNourrit, renforce et aide à réduire la casse\n\nConvient pour\nCheveux fragiles et sujets à la chute\n\nTexture\nLégère et non grasse\n\nUtilisation\nSur cheveux humides ou secs, sans rinçage\n\nRésultat\nCheveux plus doux, brillants et faciles à coiffer\n\nContenance\nSelon l’emballage\n\nRéférence Doshift\nAA4BB399",
+     "short_description": "Prenez soin de vos cheveux avec L’Oréal Elseve Fall Resist Aminexil Oil Replacement, une formule enrichie en Aminexil conçue pour aider à renforcer la fibre capillaire, nourrir les cheveux et réduire la casse."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T161924.319.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T174652.009.png"
    ]
   },
   {
-   "sku": "doshift-83735",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Organisateur Mural Multifonction 3 Gobelets",
-     "description": "Optimisez l’espace de votre salle de bain avec cet organisateur mural pratique et élégant. Équipé de 3 gobelets amovibles pour toute la famille, il permet de ranger facilement les brosses à dents, dentifrices et accessoires du quotidien. Son étagère supérieure offre un espace supplémentaire pour vos produits de soin, tandis que les crochets intégrés et le porte-serviette facilitent l’organisation de votre espace.\n\nSon installation murale sans perçage permet un gain de place optimal tout en gardant vos accessoires propres, accessibles et bien rangés.\n\nCaractéristique\nDétail\n\nType\nOrganisateur mural de salle de bain\n\nCompartiments\n3 gobelets amovibles\n\nInstallation\nFixation murale sans perçage\n\nRangement supérieur\nOui\n\nPorte-serviette\nIntégré\n\nCrochets\n4 crochets multifonctions\n\nMatériau\nPlastique ABS\n\nUtilisation\nSalle de bain, lavabo, famille\n\nAvantages\nGain de place, rangement pratique, design moderne\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Optimisez l’espace de votre salle de bain avec cet organisateur mural pratique et élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T152836.579.png"
-   ]
-  },
-  {
-   "sku": "doshift-83749",
-   "price": 159,
+   "sku": "doshift-84674",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Anti-Moustiques USB Mosquito Trap",
-     "description": "Profitez de vos soirées en toute tranquillité grâce à cette lampe anti-moustiques USB Mosquito Trap. Équipée d’une lumière LED UV attractive, elle attire efficacement les moustiques et autres insectes volants pour les éliminer de manière silencieuse et sans produits chimiques. Son design compact et sa double fonction lampe d’éclairage en font l’accessoire idéal pour la maison, le jardin, la terrasse ou le camping.\n\nCaractéristique\nDétail\n\nType\nLampe anti-moustiques USB\n\nAlimentation\nUSB rechargeable\n\nÉclairage\nLED intégrée\n\nTechnologie\nAttraction UV des insectes\n\nZone de couverture\nJusqu’à 25 m²\n\nUtilisation\nIntérieur et extérieur\n\nFonction\nÉclairage + élimination des insectes\n\nAvantage\nSans produits chimiques\n\nNiveau sonore\nFonctionnement silencieux\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Profitez de vos soirées en toute tranquillité grâce à cette lampe anti-moustiques USB Mosquito Trap."
+     "name": "Gel Doux Nettoyant Purifiant SOSKIN 500 ml",
+     "description": "Prenez soin de votre peau au quotidien avec le gel nettoyant purifiant SOSKIN. Sa formule douce aide à éliminer les impuretés, l’excès de sébum et les résidus de pollution sans agresser la peau. Adapté au visage et au corps, il laisse une sensation de fraîcheur et de propreté après chaque utilisation.\n\nIdéal pour les peaux mixtes à grasses, ce nettoyant respecte l’équilibre cutané tout en procurant un nettoyage efficace pour une peau nette, douce et rééquilibrée.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA7BB099\n\nMarque\nSOSKIN\n\nProduit\nGel doux nettoyant purifiant\n\nUtilisation\nVisage & Corps\n\nType de peau\nPeaux mixtes à grasses\n\nTexture\nGel\n\nContenance\n500 ml\n\nUsage\nQuotidien\n\nAction\nNettoie les impuretés et l’excès de sébum\n\nRésultat\nPeau propre, fraîche et rééquilibrée",
+     "short_description": "Prenez soin de votre peau au quotidien avec le gel nettoyant purifiant SOSKIN. Sa formule douce aide à éliminer les impuretés, l’excès de sébum et les résidus de pollution sans agresser la peau."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T160210.067.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T173623.996.png"
    ]
   },
   {
-   "sku": "doshift-83564",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Organisateur d’Épices Mural 3 Compartiments",
-     "description": "Optimisez votre cuisine avec cet organisateur d’épices mural pratique et élégant. Grâce à ses 3 compartiments transparents, gardez vos épices, graines, sucre ou condiments préférés toujours à portée de main tout en économisant de l’espace sur votre plan de travail. Son design moderne s’intègre parfaitement à toutes les cuisines et assure une organisation propre et efficace.\n\nCaractéristique\nDétail\n\nType\nOrganisateur d’épices mural\n\nCompartiments\n3 bocaux intégrés\n\nMatériau\nPlastique robuste et transparent\n\nInstallation\nFixation murale\n\nUtilisation\nÉpices, sucre, sel, graines, condiments\n\nAvantage\nGain de place et accès rapide\n\nEntretien\nBocaux amovibles, nettoyage facile\n\nDesign\nModerne et compact\n\nRéférence Doshift\nAA11BB099",
-     "short_description": "Optimisez votre cuisine avec cet organisateur d’épices mural pratique et élégant. Grâce à ses 3 compartiments transparents, gardez vos épices, graines, sucre ou condiments préférés toujours à portée de main tout en…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T201914.311.png"
-   ]
-  },
-  {
-   "sku": "doshift-83497",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bouée Gonflable Crocodile Géante",
-     "description": "Profitez de moments de détente et d’amusement avec cette bouée gonflable en forme de crocodile. Son design réaliste et sa grande taille offrent une expérience ludique idéale pour la piscine, le lac ou les vacances à la plage. Équipée de poignées solides pour une meilleure stabilité, elle permet aux enfants comme aux adultes de s’amuser en toute tranquillité.\n\nCaractéristique\nDétail\n\nType\nBouée gonflable crocodile\n\nDesign\nCrocodile réaliste\n\nDimensions\n170 x 86 cm\n\nMatière\nPVC résistant\n\nPoignées\nOui, poignées renforcées\n\nUtilisation\nPiscine, plage, lac\n\nPublic\nEnfants et adultes\n\nAvantage\nGrande taille et excellente flottabilité\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Profitez de moments de détente et d’amusement avec cette bouée gonflable en forme de crocodile."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T180140.368.png"
-   ]
-  },
-  {
-   "sku": "doshift-82742",
-   "price": 249,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ventilateur de Refroidissement pour P-5",
-     "description": "Optimisez les performances de votre console avec ce ventilateur de refroidissement haute efficacité conçu pour PS5. Grâce à ses 3 puissants ventilateurs intégrés et son éclairage LED bleu, il aide à dissiper la chaleur rapidement pour maintenir une température idéale même lors des longues sessions de jeu.\n\nCaractéristique\nDétail\n\nType\nVentilateur de refroidissement pour console\n\nCompatibilité\nPS5\n\nNombre de ventilateurs\n3\n\nÉclairage\nLED bleu\n\nAlimentation\nUSB\n\nNiveau sonore\nFaible\n\nInstallation\nClip facile\n\nCouleur\nNoir transparent\n\nRéférence Doshift\nAA15BB099",
-     "short_description": "Optimisez les performances de votre console avec ce ventilateur de refroidissement haute efficacité conçu pour PS5."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-49.png"
-   ]
-  },
-  {
-   "sku": "doshift-82315",
-   "price": 269,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Baroness Rangement 12 Pièces – 12 Pots à Épices",
-     "description": "Organisez votre cuisine avec élégance grâce au rangement à épices Baroness 12 pièces. Son design moderne et compact permet de garder toutes vos épices à portée de main tout en apportant une touche raffinée à votre espace cuisine.\n\nCaractéristique\nDétail\n\nMarque\nBaroness\n\nType\nRangement à épices mural\n\nNombre de pots\n12 pots\n\nUtilisation\nCuisine / Organisation\n\nMatière\nPlastique résistant\n\nCouleur\nNoir et blanc\n\nInstallation\nMurale\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA16BB599",
-     "short_description": "Organisez votre cuisine avec élégance grâce au rangement à épices Baroness 12 pièces."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-13.png"
-   ]
-  },
-  {
-   "sku": "doshift-80508",
-   "price": 129,
+   "sku": "doshift-84668",
+   "price": 225,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8,
-    12
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Anti-Moustique Starry Sky USB",
-     "description": "Éliminez efficacement les moustiques tout en profitant d’un environnement calme et confortable grâce à cette lampe anti-moustique intelligente à aspiration puissante. Son design moderne avec lumière violette attire les insectes pour une protection optimale à la maison, au bureau ou en camping.\n\nCaractéristique\nDétail\n\nType\nLampe anti-moustique USB\n\nTechnologie\nAspiration + lumière UV\n\nAlimentation\nUSB\n\nAutonomie\nJusqu’à 60h\n\nFonctionnement\nSilencieux\n\nUtilisation\nIntérieur / extérieur\n\nCouleur\nBlanc et rose\n\nNettoyage\nBac collecteur amovible\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Éliminez efficacement les moustiques tout en profitant d’un environnement calme et confortable grâce à cette lampe anti-moustique intelligente à aspiration puissante."
+     "name": "Pack Anti-Taches Rayonnelle – Sérum + Crème Solaire SPF 50+",
+     "description": "Prenez soin de votre peau au quotidien avec le Pack Anti-Taches Rayonnelle. Cette combinaison associe un sérum anti-taches et une crème solaire SPF 50+ pour aider à réduire l’apparence des taches pigmentaires, unifier le teint et protéger la peau contre les agressions extérieures et les rayons UV.\n\nCaractéristique\nDétail\n\nProduit\nPack Anti-Taches\n\nMarque\nRayonnelle\n\nContenu\n1 Crème Solaire + 1 Sérum Anti-Taches\n\nProtection solaire\nSPF 50+\n\nType de peau\nTous types de peaux\n\nUtilisation\nQuotidienne\n\nAction\nAide à réduire l’apparence des taches et à unifier le teint\n\nProtection\nUVA / UVB\n\nTexture\nLégère et non grasse\n\nActifs mis en avant\nNiacinamide, extrait de réglisse\n\nFormat du sérum\n30 ml\n\nFormat de la crème solaire\n50 ml\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Prenez soin de votre peau au quotidien avec le Pack Anti-Taches Rayonnelle. Cette combinaison associe un sérum anti-taches et une crème solaire SPF 50+ pour aider à réduire l’apparence des taches pigmentaires, unifier…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T201945.165.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T172404.600.png"
    ]
   },
   {
-   "sku": "doshift-80353",
-   "price": 199,
+   "sku": "doshift-84648",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Humidificateur d’Air USB Aroma LED RGB",
-     "description": "Profitez d’un air plus frais et plus agréable grâce à cet humidificateur USB compact au design moderne. Idéal pour le bureau, la chambre, la voiture ou le salon, il diffuse une fine brume silencieuse tout en créant une ambiance relaxante avec son éclairage LED multicolore.\n\nSon format pratique et élégant s’intègre parfaitement dans tous les espaces pour améliorer votre confort au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nHumidificateur d’air USB\n\nType\nDiffuseur d’arôme & humidificateur\n\nÉclairage\nLED RGB multicolore\n\nAlimentation\nUSB\n\nUtilisation\nMaison, bureau, voiture\n\nFonction\nHumidification & aromathérapie\n\nNiveau sonore\nFaible / silencieux\n\nDesign\nCompact et moderne\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Profitez d’un air plus frais et plus agréable grâce à cet humidificateur USB compact au design moderne."
+     "name": "Gel Exfoliant Neutrogena Pureté Pamplemousse",
+     "description": "Offrez à votre peau une sensation immédiate de fraîcheur avec le gel exfoliant Neutrogena Pureté Pamplemousse. Enrichi en extrait de pamplemousse rose, il aide à éliminer les impuretés, désincruste les pores et laisse la peau propre, douce et éclatante. Sa formule exfoliante nettoie en profondeur sans agresser la peau, pour une routine quotidienne simple et efficace.\n\nCaractéristique\nDétail\n\nMarque\nNeutrogena\n\nProduit\nPureté Pamplemousse Gel Exfoliant\n\nType\nGel exfoliant visage\n\nExtrait\nPamplemousse rose\n\nType de peau\nPeaux à imperfections\n\nUtilisation\nQuotidienne\n\nTexture\nGel\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Offrez à votre peau une sensation immédiate de fraîcheur avec le gel exfoliant Neutrogena Pureté Pamplemousse."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T133014.525.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T164752.143.png"
    ]
   },
   {
-   "sku": "doshift-80165",
-   "price": 169,
+   "sku": "doshift-84641",
+   "price": 75,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Ventilateur Plafonnier LED 2-en-1 avec Télécommande – Culot B22",
-     "description": "Profitez d’un intérieur plus confortable avec ce ventilateur plafonnier 2-en-1, combinant ventilation et éclairage LED dans un seul appareil. Son format compact permet de l’installer directement sur une douille B22 à baïonnette, comme une ampoule classique, sans installation complexe.\n\nGrâce à sa télécommande, vous pouvez régler facilement la ventilation et l’éclairage à distance. Plusieurs vitesses de ventilation ainsi que 3 tonalités de lumière permettent d’adapter l’ambiance selon vos besoins, tandis que la minuterie 1 h / 2 h / 4 h facilite son utilisation au quotidien.\n\nIdéal pour le salon, la chambre, la cuisine, le bureau ou le couloir, il constitue une solution pratique pour profiter simultanément d’un éclairage agréable et d’une circulation d’air efficace.\n\nCaractéristique\nDétail\n\nType de produit\nVentilateur plafonnier avec éclairage LED\n\nFonction\nVentilation + éclairage 2-en-1\n\nCulot\nB22 à baïonnette\n\nCouleur\nBlanc\n\nCommande\nTélécommande incluse\n\nVitesses de ventilation\n3 niveaux\n\nÉclairage\nLED intégré\n\nCouleurs d’éclairage\n3 tonalités\n\nMinuterie\n1 h / 2 h / 4 h\n\nInstallation\nSur douille compatible B22\n\nUtilisation\nSalon, chambre, cuisine, bureau, couloir\n\nContenu du pack\nVentilateur plafonnier LED + télécommande\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Profitez d’un intérieur plus confortable avec ce ventilateur plafonnier 2-en-1, combinant ventilation et éclairage LED dans un seul appareil."
+     "name": "Mousse Nettoyante Onctueuse 2 en 1 Floriane",
+     "description": "Prenez soin de votre peau au quotidien avec la Mousse Nettoyante Onctueuse 2 en 1 Floriane. Sa texture légère et aérienne élimine efficacement les impuretés, l’excès de sébum et les traces de maquillage tout en respectant l’équilibre naturel de la peau.\n\nEnrichie en actifs hydratants et apaisants, cette mousse nettoie en douceur et laisse la peau fraîche, douce et éclatante après chaque utilisation. Sa formule sans sulfates convient parfaitement aux peaux sensibles, normales et mixtes.\n\nCaractéristique\nDétail\n\nType\nMousse nettoyante visage\n\nFonction\nNettoyage & démaquillage 2 en 1\n\nType de peau\nSensible, normale à mixte\n\nFormule\nSans sulfates\n\nActifs\nAcide hyaluronique, Niacinamide, Allantoïne, Vitamines C & E\n\nUtilisation\nQuotidienne\n\nZone d’application\nVisage\n\nTexture\nMousse onctueuse\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Prenez soin de votre peau au quotidien avec la Mousse Nettoyante Onctueuse 2 en 1 Floriane."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-09-07T153128.866.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T163310.802.png"
+   ]
+  },
+  {
+   "sku": "doshift-84634",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gel Douche Aromatique Tesori d’Oriente Thalasso Therapy",
+     "description": "Offrez-vous une véritable expérience de spa à domicile avec Tesori d’Oriente Thalasso Therapy. Inspiré des rituels de bien-être marins, ce gel douche aromatique nettoie délicatement la peau tout en laissant un parfum raffiné et relaxant. Sa formule enrichie en eau des îles Fidji et algues marines procure une sensation de fraîcheur et d’évasion à chaque utilisation.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA4BB599\n\nProduit\nGel douche aromatique\n\nMarque\nTesori d’Oriente\n\nGamme\nThalasso Therapy\n\nIngrédients mis en avant\nEau des îles Fidji & algues marines\n\nUtilisation\nQuotidienne\n\nType de peau\nTous types de peau\n\nParfum\nMarin et oriental\n\nOrigine du concept\nRituel de bien-être inspiré de la thalassothérapie",
+     "short_description": "Offrez-vous une véritable expérience de spa à domicile avec Tesori d’Oriente Thalasso Therapy."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T161946.256.png"
+   ]
+  },
+  {
+   "sku": "doshift-84626",
+   "price": 125,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "ADN Professional Argano Plex – Shampooing Réparateur à l’Huile d’Argan 100 ml",
+     "description": "Offrez à vos cheveux un soin complet grâce au shampooing ADN Professional Argano Plex. Sa formule enrichie en huile d’argan, huile de coco, vitamine E, kératine et biotine aide à nourrir, renforcer et protéger la fibre capillaire pour des cheveux plus doux, brillants et résistants.\n\nCaractéristique\nDétail\n\nProduit\nShampooing réparateur\n\nMarque\nADN Professional\n\nGamme\nArgano Plex\n\nContenance\n100 ml\n\nIngrédients clés\nHuile d’argan, huile de coco, vitamine E\n\nActifs complémentaires\nKératine & Biotine\n\nType de cheveux\nTous types de cheveux\n\nBienfaits\nNutrition, réparation et brillance\n\nUtilisation\nUsage quotidien\n\nTexture\nLiquide\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Offrez à vos cheveux un soin complet grâce au shampooing ADN Professional Argano Plex."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T160648.248.png"
+   ]
+  },
+  {
+   "sku": "doshift-84617",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "XSMART Conditioner Curly Hair – Soin Nourrissant pour Cheveux Bouclés",
+     "description": "Offrez à vos cheveux bouclés une hydratation intense et une douceur exceptionnelle avec XSMART Conditioner Curly Hair. Sa formule enrichie aide à nourrir les boucles, réduire les frisottis et améliorer la souplesse naturelle des cheveux pour un résultat brillant et soyeux.\n\nCaractéristique\nDétail\n\nProduit\nAprès-shampoing pour cheveux bouclés\n\nMarque\nXSMART Professional\n\nGamme\nCurly Hair\n\nAction\nHydratation et nutrition\n\nType de cheveux\nBouclés, ondulés, secs\n\nTexture\nCrème conditionnante\n\nUtilisation\nAprès shampoing\n\nBénéfices\nDouceur, brillance, définition des boucles\n\nSans\n0% Parabens\n\nContenance\nSelon emballage\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Offrez à vos cheveux bouclés une hydratation intense et une douceur exceptionnelle avec XSMART Conditioner Curly Hair."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T155150.029.png"
+   ]
+  },
+  {
+   "sku": "doshift-84604",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shampoing Violet Anti-Jaunissement Nelly",
+     "description": "Redonnez éclat et pureté à vos cheveux blancs, gris ou décolorés grâce au shampoing violet Nelly. Sa formule anti-jaunissement aide à neutraliser les reflets jaunes indésirables tout en laissant les cheveux doux, brillants et visiblement plus lumineux. Idéal pour un usage régulier afin de préserver une couleur froide et éclatante.\n\nCaractéristique\nDétail\n\nProduit\nShampoing Violet Anti-Jaunissement\n\nMarque\nNelly\n\nType\nShampoing capillaire violet\n\nAction\nNeutralise les reflets jaunes et cuivrés\n\nConvient pour\nCheveux blancs, gris et décolorés\n\nUtilisation\nUsage régulier\n\nEffets\nRavive l’éclat, apporte douceur et brillance\n\nTexture\nLiquide\n\nContenance\nSelon disponibilité\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Redonnez éclat et pureté à vos cheveux blancs, gris ou décolorés grâce au shampoing violet Nelly."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T152240.731.png"
+   ]
+  },
+  {
+   "sku": "doshift-84597",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gel Nettoyant Profond L’Oréal Paris Hyaluron Expert Oil Control",
+     "description": "Éliminez l’excès de sébum et profitez d’une peau fraîche et nette grâce au gel nettoyant Hyaluron Expert Oil Control. Sa formule enrichie en acide hyaluronique et acide salicylique aide à purifier la peau, désobstruer les pores et réduire la brillance au quotidien. Idéal pour les peaux mixtes à grasses, il nettoie en profondeur sans dessécher la peau et procure une sensation immédiate de fraîcheur.\n\nCaractéristique\nDétail\n\nMarque\nL’Oréal Paris\n\nGamme\nHyaluron Expert\n\nProduit\nGel nettoyant profond Oil Control\n\nFonction principale\nNettoie la peau et contrôle l’excès de sébum\n\nActifs principaux\nAcide hyaluronique + Acide salicylique\n\nBienfaits\nPurifie, hydrate et réduit la brillance\n\nType de peau\nPeaux mixtes à grasses\n\nTexture\nGel nettoyant\n\nUtilisation\nQuotidienne (matin et soir)\n\nFormat\nFlacon pompe\n\nApplication\nVisage humide, masser puis rincer\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Éliminez l’excès de sébum et profitez d’une peau fraîche et nette grâce au gel nettoyant Hyaluron Expert Oil Control."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T145229.243.png"
    ]
   }
  ]

@@ -1,145 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-103333",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Balea Lovely Fruits",
-     "description": "Découvrez une expérience fruitée avec la douche parfumée Balea Lovely Fruits. Son parfum doux et gourmand associe différentes notes de fruits pour rendre la douche plus agréable. Sa formule met également en avant l’huile de noyau de pêche.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nLovely Fruits\n\nType\nDouche parfumée\n\nParfum\nFruité et doux\n\nIngrédient mis en avant\nHuile de noyau de pêche\n\nUtilisation\nNettoyage quotidien du corps\n\nPrésentation\nFlacon avec bouchon\n\nCouleurs du flacon\nRose clair et orange\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Découvrez une expérience fruitée avec la douche parfumée Balea Lovely Fruits. Son parfum doux et gourmand associe différentes notes de fruits pour rendre la douche plus agréable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T134536.671.png"
-   ]
-  },
-  {
-   "sku": "doshift-103216",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Balea Mango Malaga",
-     "description": "Évadez-vous sous la douche avec Balea Mango Malaga. Ce gel douche offre un parfum gourmand de mangue associé à des notes de fruits tropicaux. Son univers coloré et exotique apporte une sensation de fraîcheur à votre routine corporelle quotidienne.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nMango Malaga\n\nType\nGel douche\n\nParfum\nMangue et fruits tropicaux\n\nTexture\nGel\n\nUtilisation\nNettoyage quotidien du corps\n\nPrésentation\nFlacon avec bouchon\n\nÉdition\nÉdition limitée\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Évadez-vous sous la douche avec Balea Mango Malaga. Ce gel douche offre un parfum gourmand de mangue associé à des notes de fruits tropicaux."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T205835.360.png"
-   ]
-  },
-  {
-   "sku": "doshift-103209",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Balea Floral Elegance",
-     "description": "Profitez d’une douche délicatement parfumée avec Balea Floral Elegance. Sa fragrance inspirée de fleurs élégantes crée une ambiance raffinée et relaxante. Sa formule contient de l’huile de coco pour accompagner agréablement votre routine quotidienne.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nFloral Elegance\n\nType\nDouche parfumée\n\nParfum\nNotes florales\n\nIngrédient mis en avant\nHuile de coco\n\nUtilisation\nNettoyage quotidien du corps\n\nPrésentation\nFlacon avec bouchon\n\nCouleur du flacon\nMauve et violet\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Profitez d’une douche délicatement parfumée avec Balea Floral Elegance. Sa fragrance inspirée de fleurs élégantes crée une ambiance raffinée et relaxante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T205309.665.png"
-   ]
-  },
-  {
-   "sku": "doshift-103203",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Balea Hibiscus Havana",
-     "description": "Apportez une touche tropicale à votre routine avec le gel douche Balea Hibiscus Havana. Son parfum floral inspiré de l’hibiscus et de la rose de Damas transforme chaque douche en un agréable moment de fraîcheur. Son flacon coloré et pratique trouve facilement sa place dans la salle de bain.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nHibiscus Havana\n\nType\nGel douche\n\nParfum\nHibiscus et rose de Damas\n\nTexture\nGel\n\nUtilisation\nNettoyage quotidien du corps\n\nPrésentation\nFlacon avec bouchon\n\nÉdition\nÉdition limitée\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Apportez une touche tropicale à votre routine avec le gel douche Balea Hibiscus Havana. Son parfum floral inspiré de l’hibiscus et de la rose de Damas transforme chaque douche en un agréable moment de fraîcheur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T204955.842.png"
-   ]
-  },
-  {
-   "sku": "doshift-103145",
-   "price": 829,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Booster de démarrage multifonction avec compresseur d’air",
-     "description": "Soyez prêt à faire face aux imprévus sur la route avec cet appareil automobile multifonction. Compact et pratique, il combine un booster de démarrage pour véhicules 12 V, un compresseur d’air, une batterie externe et un éclairage LED d’urgence.\n\nSon écran numérique facilite la consultation des informations, tandis que ses commandes intégrées permettent une utilisation simple. Le compresseur peut servir à gonfler les pneus de voiture ou de vélo ainsi que les ballons et autres équipements compatibles.\n\nGrâce à sa fonction batterie externe, l’appareil permet également de recharger vos appareils électroniques compatibles. Son éclairage LED avec mode SOS apporte une visibilité supplémentaire lors des situations d’urgence ou des interventions nocturnes.\n\nCaractéristique\nDétail\n\nType de produit\nBooster de démarrage multifonction\n\nCompatibilité\nVéhicules 12 V\n\nFonction principale\nAide au démarrage du véhicule\n\nGonflage\nCompresseur d’air intégré\n\nUtilisations\nPneus de voiture, pneus de vélo et ballons\n\nAffichage\nÉcran numérique\n\nBatterie externe\nRecharge des appareils compatibles\n\nÉclairage\nLampe LED intégrée\n\nMode d’urgence\nSignal lumineux SOS\n\nCouleur\nNoir\n\nAccessoires\nPinces, tuyau de gonflage et embouts\n\nRéférence Doshift\nAA65BB099",
-     "short_description": "Soyez prêt à faire face aux imprévus sur la route avec cet appareil automobile multifonction."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T164848.153.png"
-   ]
-  },
-  {
-   "sku": "doshift-103136",
-   "price": 829,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Booster de démarrage 12 V avec compresseur d’air",
-     "description": "Un appareil multifonction pratique conçu pour vous accompagner lors de vos déplacements. Il permet de démarrer un véhicule 12 V en cas de batterie faible et de gonfler rapidement les pneus grâce à son compresseur intégré.\n\nSon écran numérique facilite le contrôle du gonflage. Il peut également servir de batterie externe pour recharger vos appareils mobiles. Son éclairage LED avec mode SOS apporte une meilleure visibilité en cas d’urgence nocturne.\n\nCompact et facile à transporter, ce booster trouve facilement sa place dans le coffre de votre voiture.\n\nCaractéristique\nDétail\n\nType de produit\nBooster de démarrage multifonction\n\nFonction principale\nDémarrage d’urgence d’un véhicule\n\nCompatibilité\nVéhicules 12 V\n\nFonction gonflage\nCompresseur d’air intégré\n\nAffichage\nÉcran numérique\n\nUnités affichées\nBar, PSI, kPa et kg/cm²\n\nBatterie externe\nRecharge des appareils numériques\n\nÉclairage\nLampe LED intégrée\n\nMode d’urgence\nÉclairage SOS\n\nUtilisations\nDémarrage, gonflage des pneus et recharge mobile\n\nCouleur\nNoir avec détail rouge\n\nFormat\nCompact et portable\n\nRéférence Doshift\nAA65BB099",
-     "short_description": "Un appareil multifonction pratique conçu pour vous accompagner lors de vos déplacements."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T163856.699.png"
-   ]
-  },
-  {
-   "sku": "doshift-102862",
-   "price": 709,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mini Caméra Sport Portable 1080P WiFi",
-     "description": "Immortalisez vos activités quotidiennes avec cette mini caméra sport compacte et légère. Grâce à son format discret, elle peut être portée autour du cou avec sa fixation magnétique ou installée sur un vêtement à l’aide du clip arrière.\n\nSa résolution 1080P permet d’enregistrer vos sorties sportives, voyages, promenades et moments du quotidien. Le clip rotatif à 360° facilite l’ajustement de l’angle de prise de vue selon vos besoins.\n\nCaractéristique\nDétail\n\nType de produit\nMini caméra sport portable\n\nRésolution vidéo\n1080P\n\nConnectivité\nWiFi\n\nFormat vidéo indiqué\nH.264\n\nFixation principale\nCordon avec fixation magnétique\n\nFixation secondaire\nClip arrière portable\n\nRotation du clip\nRéglable à 360°\n\nCouleur\nBlanc\n\nUtilisations\nSport, vélo, randonnée, voyage et enregistrement quotidien\n\nContenu du pack\nCaméra, cordon magnétique et clip arrière\n\nRéférence Doshift\nAA53BB099",
-     "short_description": "Immortalisez vos activités quotidiennes avec cette mini caméra sport compacte et légère."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T201200.123.png"
-   ]
-  },
-  {
-   "sku": "doshift-102810",
-   "price": 929,
+   "sku": "doshift-105034",
+   "price": 619,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -148,52 +11,184 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes Intelligentes avec Caméra 8 MP et Commande Tactile",
-     "description": "Découvrez une nouvelle façon de capturer vos meilleurs moments grâce à ces lunettes intelligentes au design moderne. Leur caméra intégrée de 8 MP permet de prendre des photos et d’enregistrer des vidéos directement depuis les lunettes, tout en gardant les mains libres.\n\nGrâce à la commande tactile, l’utilisation est simple et intuitive. La transmission Wi-Fi facilite le transfert des données vers un appareil compatible, tandis que la fonction de reconnaissance d’objets offre une expérience connectée adaptée aux activités quotidiennes, aux voyages et à la création de contenu.\n\nLeur monture noire élégante s’intègre facilement à différents styles vestimentaires. Les branches épaisses accueillent discrètement les composants électroniques sans compromettre le confort d’utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nLunettes intelligentes connectées\n\nCouleur\nNoir\n\nType de monture\nMonture rectangulaire\n\nCaméra\nIntégrée\n\nRésolution annoncée\n8 MP\n\nFonctions multimédias\nPhotos, vidéos et enregistrement audio\n\nCommandes\nCommande tactile\n\nTransmission des données\nWi-Fi\n\nFonction intelligente\nReconnaissance d’objets\n\nUtilisation\nVoyage, promenade, création de contenu et moments du quotidien\n\nApplication\nApplication mobile compatible\n\nContenu du pack\nLunettes intelligentes et accessoires fournis selon le pack\n\nRéférence Doshift\nAA75BB099",
-     "short_description": "Découvrez une nouvelle façon de capturer vos meilleurs moments grâce à ces lunettes intelligentes au design moderne."
+     "name": "Station de charge multifonctionnelle avec écran intelligent",
+     "description": "Centralisez la recharge de vos appareils avec cette station de charge compacte et polyvalente. Elle combine plusieurs ports USB, un port USB-C PD, une zone de recharge sans fil sur le dessus ainsi qu’un écran couleur permettant de visualiser différentes informations de fonctionnement.\n\nSon interface frontale regroupe les connexions de manière claire afin de faciliter la recharge simultanée de plusieurs appareils : smartphones, écouteurs, montres connectées et autres équipements compatibles.\n\nGrâce à son écran numérique couleur, vous pouvez consulter rapidement les valeurs affichées pendant l’utilisation. Son format compact permet de l’installer facilement sur un bureau, un espace de travail ou un atelier électronique.\n\nCaractéristique\nDétail\n\nType\nStation de charge multifonctionnelle\n\nÉcran\nÉcran numérique couleur\n\nPorts USB-A\nMultiples ports USB-A\n\nUSB-C\nPort USB-C avec indication PD100W\n\nRecharge sans fil\nOui, zone située sur le dessus\n\nConnectiques supplémentaires\nSorties/connexions disponibles en façade\n\nCommandes\nBoutons de contrôle intégrés\n\nUtilisation\nRecharge et alimentation de plusieurs appareils compatibles\n\nInstallation\nBureau, maison ou atelier électronique\n\nCouleur\nNoir\n\nRéférence Doshift\nAA44BB099",
+     "short_description": "Centralisez la recharge de vos appareils avec cette station de charge compacte et polyvalente."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T173815.229.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T162032.021.png"
    ]
   },
   {
-   "sku": "doshift-102678",
+   "sku": "doshift-104969",
+   "price": 329,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Téléphone portable K-TEL 7610S – Simple, compact et pratique",
+     "description": "Le K-TEL 7610S est un téléphone portable classique conçu pour une utilisation simple au quotidien. Son format compact et son clavier physique à grandes touches facilitent la navigation, la composition des numéros et la gestion des appels.\n\nÉquipé d’un écran couleur et de touches d’appel clairement identifiables, il constitue une solution pratique pour les utilisateurs recherchant un téléphone fonctionnel, facile à prendre en main et sans fonctionnalités complexes.\n\nSon design sobre et léger permet de le transporter facilement dans une poche ou un sac, que ce soit comme téléphone principal ou téléphone d’appoint.\n\nCaractéristique\nDétail\n\nMarque\nK-TEL\n\nModèle\n7610S\n\nType\nTéléphone portable classique\n\nÉcran\nÉcran couleur\n\nCommandes\nClavier numérique physique\n\nNavigation\nBouton central de navigation\n\nTouches d’appel\nDécrocher et raccrocher\n\nDesign\nCompact et sobre\n\nCouleur\nNoir / bleu foncé\n\nUtilisation\nAppels et utilisation quotidienne\n\nRéférence Doshift\nAA20BB599",
+     "short_description": "Le K-TEL 7610S est un téléphone portable classique conçu pour une utilisation simple au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T144351.783.png"
+   ]
+  },
+  {
+   "sku": "doshift-104116",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Crayons de Couleur Faber-Castell Classic – Set de 48 avec Taille-Crayon",
+     "description": "Libérez votre créativité avec ce set de 48 crayons de couleur Faber-Castell Classic. Sa large palette permet de réaliser des dessins riches en nuances, du coloriage scolaire aux créations artistiques plus détaillées.\n\nLes crayons offrent des couleurs variées et lumineuses, idéales pour dessiner, colorier, réaliser des croquis ou décorer des projets créatifs. Le taille-crayon inclus permet de garder les mines bien taillées et prêtes à l’emploi.\n\nUn ensemble pratique pour les enfants, les étudiants, les amateurs de coloriage et les passionnés de dessin.\n\nCaractéristique\nDétail\n\nProduit\nCrayons de couleur\n\nMarque\nFaber-Castell\n\nGamme\nClassic Colour\n\nNombre de crayons\n48\n\nCouleurs\nAssortiment multicolore\n\nAccessoire inclus\nTaille-crayon\n\nUtilisations\nDessin, coloriage, croquis et loisirs créatifs\n\nPublic\nEnfants, étudiants et adultes\n\nContenu du pack\n48 crayons de couleur et 1 taille-crayon\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Libérez votre créativité avec ce set de 48 crayons de couleur Faber-Castell Classic. Sa large palette permet de réaliser des dessins riches en nuances, du coloriage scolaire aux créations artistiques plus détaillées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T192323.902.png"
+   ]
+  },
+  {
+   "sku": "doshift-104108",
    "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Bague Noire – Design Minimaliste & Élégant",
-     "description": "Adoptez un style sobre et moderne avec cette bague noire à finition brillante. Son design épuré et sa forme large lui donnent une allure masculine et élégante, facile à associer avec différents styles vestimentaires.\n\nParfaite pour être portée au quotidien comme pour compléter une tenue plus habillée, elle est disponible en plusieurs tailles : 17, 18, 19 et 20.\n\nCaractéristique\nDétail\n\nType\nBague\n\nCouleur\nNoir\n\nFinition\nBrillante\n\nDesign\nMinimaliste et épuré\n\nTailles disponibles\n17, 18, 19, 20\n\nStyle\nModerne et élégant\n\nUtilisation\nQuotidien, sorties, occasions\n\nMatière\nNon communiquée\n\nRéférence Doshift\nAA1BB599",
-     "short_description": "Adoptez un style sobre et moderne avec cette bague noire à finition brillante. Son design épuré et sa forme large lui donnent une allure masculine et élégante, facile à associer avec différents styles vestimentaires."
+     "name": "Crayons Plastiques Carioca Plastello – Boîte de 12 Couleurs",
+     "description": "Libérez la créativité des enfants avec les crayons plastiques Carioca Plastello. Ce coffret comprend 12 couleurs brillantes idéales pour réaliser des dessins, coloriages et activités créatives à la maison comme à l’école.\n\nLeur conception résistante assure une utilisation durable, tandis que leur formule permet de colorier confortablement tout en gardant les mains propres. Les différentes couleurs offrent un rendu vif pour donner vie à chaque création.\n\nCaractéristique\nDétail\n\nMarque\nCarioca\n\nGamme\nPlastello\n\nType\nCrayons plastiques\n\nNombre de crayons\n12\n\nCouleurs\nAssorties et brillantes\n\nPropriété\nSuper résistants\n\nDurée d’utilisation\nLongue durée\n\nUtilisation\nDessin, coloriage et activités créatives\n\nAvantage\nConçus pour garder les mains propres\n\nContenu du pack\n1 boîte de 12 crayons\n\nRéférence Doshift\nAA1BB899",
+     "short_description": "Libérez la créativité des enfants avec les crayons plastiques Carioca Plastello. Ce coffret comprend 12 couleurs brillantes idéales pour réaliser des dessins, coloriages et activités créatives à la maison comme à…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T134953.392.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T191826.471.png"
    ]
   },
   {
-   "sku": "doshift-101651",
-   "price": 199,
+   "sku": "doshift-104072",
+   "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Robe Longue Violette à Manches Transparentes – Élégante & Fluide",
-     "description": "Apportez une touche d’élégance à votre tenue avec cette robe longue violette au style féminin et raffiné. Sa coupe ample et fluide offre une silhouette confortable tout en restant élégante, idéale pour les sorties, les visites ou les occasions décontractées.\n\nSon véritable atout réside dans ses manches transparentes à pois, légèrement évasées et décorées de volants. L’encolure ronde est complétée par de petits boutons décoratifs qui apportent une finition délicate à l’ensemble.\n\nCaractéristiques\n\nCaractéristique\nDétail\n\nType de produit\nRobe longue pour femme\n\nCouleur\nViolet\n\nCoupe\nAmple et fluide\n\nLongueur\nLongue / Maxi\n\nEncolure\nRonde\n\nManches\nMi-longues, transparentes et évasées\n\nDétail des manches\nTulle/mesh à pois avec volants\n\nFermeture / décoration\nPetits boutons sur le devant\n\nStyle\nFéminin, élégant et décontracté\n\nUtilisation\nQuotidien, sorties, visites et occasions décontractées\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Apportez une touche d’élégance à votre tenue avec cette robe longue violette au style féminin et raffiné."
+     "name": "Cahier à spirale ultra rigide – 240 pages",
+     "description": "Pratique et résistant, ce cahier à spirale accompagne efficacement les élèves, étudiants et professionnels au quotidien. Sa couverture ultra rigide protège les feuilles, tandis que sa reliure métallique facilite l’ouverture et la consultation des pages.\n\nSon format compact de 16 × 22 cm se glisse facilement dans un sac. Les feuilles quadrillées 5 × 5 mm conviennent parfaitement à la prise de notes, aux exercices, aux calculs et à l’organisation des idées.\n\nCaractéristique\nDétail\n\nType de produit\nCahier à spirale\n\nCouverture\nUltra rigide\n\nNombre de pages\n240 pages\n\nNombre de feuilles\n120 feuilles\n\nRéglure\nQuadrillée 5 × 5 mm\n\nFormat\n16 × 22 cm\n\nGrammage du papier\n70 g/m²\n\nReliure\nSpirale métallique\n\nUtilisations\nÉcole, études, bureau et prise de notes\n\nCouleur\nBleu et jaune\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Pratique et résistant, ce cahier à spirale accompagne efficacement les élèves, étudiants et professionnels au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-12T202939.411.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T181302.429.png"
+   ]
+  },
+  {
+   "sku": "doshift-103983",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cahier de notes à spirale 5 sujets – 240 pages",
+     "description": "Organisez facilement vos cours, projets et prises de notes grâce à ce cahier pratique divisé en 5 sections distinctes. Ses séparateurs colorés permettent d’identifier rapidement chaque matière, tandis que sa reliure à spirale métallique assure une manipulation confortable des pages.\n\nAvec son format A4 et ses 240 pages, ce cahier convient parfaitement aux élèves, étudiants et professionnels recherchant un support polyvalent pour regrouper plusieurs sujets dans un seul cahier.",
+     "short_description": "Organisez facilement vos cours, projets et prises de notes grâce à ce cahier pratique divisé en 5 sections distinctes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T162236.559.png"
+   ]
+  },
+  {
+   "sku": "doshift-103805",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Feutres CARIOCA Jumbo Super Lavables – Set de 12 couleurs",
+     "description": "Donnez vie à toutes les créations avec ce set de 12 feutres CARIOCA Jumbo aux couleurs brillantes et variées. Leur format large assure une prise en main confortable, tandis que leur pointe maxi permet de colorier facilement de grandes surfaces et de réaliser des traits bien visibles.\n\nGrâce à leur encre super lavable, ces feutres sont parfaitement adaptés aux activités de dessin, de coloriage et aux loisirs créatifs à la maison comme à l’école.\n\nCaractéristique\nDétail\n\nMarque\nCARIOCA\n\nGamme\nJumbo Super Washable\n\nType\nFeutres de coloriage\n\nQuantité\n12 feutres\n\nNombre de couleurs\n12 couleurs assorties\n\nType de pointe\nPointe maxi\n\nFormat\nJumbo\n\nEncre\nSuper lavable\n\nCouleurs\nBrillantes et variées\n\nUtilisation\nDessin, coloriage et activités créatives\n\nParticularité\nSans gluten\n\nTest\nTesté dermatologiquement\n\nFabrication\nFabriqué en Italie\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Donnez vie à toutes les créations avec ce set de 12 feutres CARIOCA Jumbo aux couleurs brillantes et variées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-20T204155.810.png"
+   ]
+  },
+  {
+   "sku": "doshift-103799",
+   "price": 409,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Scolaire Enfant Spider-Man – Cartable Trolley + Sac Assorti",
+     "description": "Transformez chaque journée d’école en véritable aventure avec ce pack scolaire Spider-Man ! Son design rouge et noir avec masque 3D séduira tous les jeunes fans du célèbre super-héros.\n\nLe cartable trolley est équipé d’une poignée télescopique et de 2 roues pour permettre à l’enfant de transporter facilement ses fournitures sans surcharger son dos. Ses différents compartiments offrent suffisamment d’espace pour organiser cahiers, livres, trousse et accessoires scolaires. Les poches latérales permettent de garder une gourde à portée de main.\n\nLe petit sac assorti complète parfaitement l’ensemble. Pratique pour transporter le goûter, le déjeuner ou de petits effets personnels, il peut être porté séparément grâce à sa poignée.\n\nCaractéristique\nDétail\n\nProduit\nPack scolaire enfant\n\nComposition\nCartable trolley + petit sac assorti\n\nThème\nSpider-Man\n\nCouleurs\nRouge et noir\n\nDesign\nDécor Spider-Man avec effet masque 3D\n\nTransport\nPoignée télescopique et poignée supérieure\n\nRoulement\n2 roues\n\nRangement\nPlusieurs compartiments zippés\n\nPoches latérales\nOui, adaptées notamment au transport d’une gourde\n\nPetit sac\nIdéal pour le goûter, le déjeuner ou les accessoires\n\nUtilisation\nÉcole, sorties, voyages et activités quotidiennes\n\nPublic\nEnfant\n\nRéférence Doshift\nAA26BB099",
+     "short_description": "Transformez chaque journée d’école en véritable aventure avec ce pack scolaire Spider-Man ! Son design rouge et noir avec masque 3D séduira tous les jeunes fans du célèbre super-héros."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-20T200848.981.png"
+   ]
+  },
+  {
+   "sku": "doshift-103723",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Stylo à bille fantaisie Ours avec lunettes",
+     "description": "Ajoutez une touche amusante aux fournitures scolaires avec ce stylo décoré d’un adorable ours portant des lunettes bleues. Son design original et ses couleurs vives le rendent idéal pour écrire, dessiner ou prendre des notes avec plaisir.\n\nGrâce à son format pratique et à sa zone de prise en main, il convient parfaitement à une utilisation quotidienne à l’école, à la maison ou au bureau. Une excellente idée de petit cadeau pour les enfants et les amateurs de papeterie originale.\n\nCaractéristique\nDétail\n\nType de produit\nStylo à bille fantaisie\n\nDesign\nPersonnage ours avec lunettes\n\nMécanisme\nPointe rétractable\n\nCouleur\nBleu et blanc\n\nUtilisation\nÉcriture, dessin et prise de notes\n\nPublic\nEnfants et amateurs de papeterie\n\nEnvironnement d’utilisation\nÉcole, maison ou bureau\n\nContenu du pack\n1 stylo\n\nRéférence Doshift\nAA2BB099",
+     "short_description": "Ajoutez une touche amusante aux fournitures scolaires avec ce stylo décoré d’un adorable ours portant des lunettes bleues."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-20T165753.592.png"
+   ]
+  },
+  {
+   "sku": "doshift-103691",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 12 Feutres Aquarellables Multicolores",
+     "description": "Libérez votre créativité avec ce set de 12 feutres aux couleurs variées. Parfaits pour le dessin, le coloriage et les créations artistiques, ils permettent de réaliser facilement des illustrations colorées avec de jolis effets aquarelle.\n\nLeur format fin offre une prise en main confortable et facilite la réalisation de détails précis. Un ensemble pratique pour les activités créatives à la maison, à l’école ou pendant les loisirs.\n\nCaractéristique\nDétail\n\nType de produit\nFeutres aquarellables\n\nNombre de pièces\nSet de 12\n\nCouleurs\n12 couleurs assorties\n\nUtilisations\nDessin, coloriage et activités créatives\n\nFormat\nFeutres fins avec capuchons\n\nPublic\nEnfants et amateurs de loisirs créatifs\n\nContenu du pack\n12 feutres multicolores\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Libérez votre créativité avec ce set de 12 feutres aux couleurs variées. Parfaits pour le dessin, le coloriage et les créations artistiques, ils permettent de réaliser facilement des illustrations colorées avec de jolis…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-20T154411.591.png"
    ]
   }
  ]

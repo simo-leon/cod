@@ -1,194 +1,204 @@
 {
  "products": [
   {
-   "sku": "doshift-47008",
-   "price": 72,
+   "sku": "doshift-55258",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Adaptateur de USB 2.0 vers RJ45 LAN Ethernet reseau pour Apple Mac MacBook Air PC portable",
-     "description": "Le dongle réseau USB 2.0 est un adaptateur convertit RJ45 femelle VERS USB 2.0 mâle pour connecter l’Internet au PC via l’interface USB. L’adaptateur est parfait pour l’ordinateur qui n’a pas de port Ethernet.Prise en charge de 10 Mbps et 100 Mbps",
-     "short_description": "Le dongle réseau USB 2.0 est un adaptateur convertit RJ45 femelle VERS USB 2.0 mâle pour connecter l’Internet au PC via l’interface USB."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764600134-38_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46989",
-   "price": 282,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Haut-Parleur Konfulon F20 Noir Original + microphone",
-     "description": "Découvrez une expérience audio de qualité avec le haut-parleur portable sans fil Konfulon F20. \n\nCaractéristiques du Haut-Parleur :\n\nModèle : F20\n\nVersion Bluetooth : 5.0\n\nRéponse en fréquence : 120 Hz – 20 kHz\n\nTaille du produit : 95 x 95 x 106,5 mm\n\nEntrée : Type-C DC 5V/1A\n\nPoids du produit : 410g\n\nPuissance : 5W x 2 haut-parleurs\n\nFormats de fichier pris en charge : MP3, WMA, WAV\n\nCapacité de la batterie : 3,7V / 2000 mAh\n\nSource sonore externe : Entrée auxiliaire 3,5 mm\n\nAvec sa technologie Bluetooth 5.0, le Konfulon F20 offre une connexion sans fil stable et une qualité sonore impressionnante. Son design compact et léger le rend facile à transporter, idéal pour une utilisation en intérieur comme en extérieur. La batterie de 2000 mAh assure une longue durée de lecture, tandis que l’entrée auxiliaire 3,5 mm permet de connecter facilement d’autres sources audio.",
-     "short_description": "Découvrez une expérience audio de qualité avec le haut-parleur portable sans fil Konfulon F20."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764600109-34_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46947",
-   "price": 168,
-   "stock": 10,
-   "status": 0,
-   "categories": [
+    3,
+    8,
     11
    ],
    "locales": {
     "fr": {
-     "name": "Kemei Lisseur à Cheveux Professionnel Professional Hair Iron KM-2218",
-     "description": "Avec cette nouvelle plaque, grâce à l’émission automatique de vapeur d’eau et aux éléments chauffants en tourmaline, vous obtiendrez une parfaite fluidité. La tourmaline est une pierre semi-précieuse qui émet des ions négatifs dans la nature et, lorsqu’elle est soumise à des températures élevées, multiplie de manière significative l’émission d’ions négatifs qui, dans le cas des plaques de cheveux, permettent une excellente hydratation des cheveux, la cuticule est lissée et les écailles sont fermées, enfermant l’humidité naturelle à l’intérieur, cela se traduit par une plus grande brillance, une plus longue durée de peignage dans le temps et une plus grande performance de la couleur des cheveux, naturels et artificiels",
-     "short_description": "Avec cette nouvelle plaque, grâce à l’émission automatique de vapeur d’eau et aux éléments chauffants en tourmaline, vous obtiendrez une parfaite fluidité."
+     "name": "Rasoir Électrique Féminin Wet & Dry – Douceur, Précision & Élégance",
+     "description": "Profitez d’une peau douce et parfaitement lisse grâce à ce rasoir électrique féminin Wet & Dry, conçu pour une utilisation confortable même sur les zones sensibles. Sa tête de précision avec lames douces assure une coupe efficace et rapide sans irritation. Grâce à son design ergonomique et élégant, il offre une excellente prise en main pour un rasage précis, que ce soit sous la douche ou sur peau sèche. Rechargeable et pratique, il est idéal pour un usage quotidien à domicile ou en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRasoir électrique féminin\n\nUtilisation\nWet & Dry (sur peau sèche ou humide)\n\nPrécision\nTondeuse de précision intégrée\n\nZones adaptées\nZones sensibles (jambes, aisselles, maillot)\n\nLames\nLames douces anti-irritation\n\nDesign\nErgonomique et élégant\n\nPerformance\nRasage efficace et rapide\n\nAlimentation\nRechargeable (USB selon modèle)\n\nAvantage principal\nPeau douce et finition nette\n\nRéférence – DOSHIFT\nAA8BB099",
+     "short_description": "Profitez d’une peau douce et parfaitement lisse grâce à ce rasoir électrique féminin Wet & Dry, conçu pour une utilisation confortable même sur les zones sensibles."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764594783-24_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/c082385a-f38f-4c70-bb4b-3dfd241a944d.jpeg"
    ]
   },
   {
-   "sku": "doshift-46917",
-   "price": 149,
+   "sku": "doshift-55304",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
-    5
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Mini haut-parleur 2.0 – KISONLI – L-1060 – Portable – RGB – AUX/USB",
-     "description": "Découvrez le Kisonli L-1060, un mini haut-parleur 2.0 portable avec éclairage RGB. Idéal pour les gamers, il se connecte facilement via AUX ou USB et offre une qualité sonore optimale pour votre PC.",
-     "short_description": "Découvrez le Kisonli L-1060, un mini haut-parleur 2.0 portable avec éclairage RGB. Idéal pour les gamers, il se connecte facilement via AUX ou USB et offre une qualité sonore optimale pour votre PC."
+     "name": "Poche à eau chaude électrique rechargeable – Design aléatoire",
+     "description": "Profitez d’une chaleur douce et réconfortante pendant les journées froides avec cette poche à eau chaude électrique rechargeable. Elle chauffe en seulement 5 à 10 minutes et peut conserver une chaleur agréable pendant plusieurs heures selon les conditions d’utilisation.\n\nSon revêtement doux et moelleux apporte davantage de confort et permet de l’utiliser pour réchauffer les mains, le ventre, le dos ou simplement pour profiter d’un moment cocooning à la maison, au bureau ou avant de dormir.\n\nCompacte, réutilisable et facile à transporter, elle constitue un accessoire pratique pour l’hiver.\n\nCaractéristique\nDétail\n\nType de produit\nPoche à eau chaude électrique rechargeable\n\nUtilisation\nRéchauffer le corps et apporter du confort\n\nTemps de chauffe\nEnviron 5 à 10 minutes\n\nDurée de chaleur\nEnviron 2 à 8 heures selon l’utilisation\n\nMatière extérieure\nTissu doux et moelleux\n\nSécurité\nProtection contre la surchauffe\n\nDesign\nAléatoire selon disponibilité\n\nFinition\nMotif décoratif imprimé\n\nAvantages\nPortable, réutilisable et pratique\n\nZones d’utilisation\nMains, ventre, dos\n\nIdéal pour\nMaison, bureau, hiver et détente\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Profitez d’une chaleur douce et réconfortante pendant les journées froides avec cette poche à eau chaude électrique rechargeable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764594693-12_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-09-07T144922.598.png"
    ]
   },
   {
-   "sku": "doshift-46876",
-   "price": 299,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Écouteurs Sans Fil Open-Ear Oraimo OpenSnap OPN-373",
-     "description": "Profitez d’une écoute confortable toute la journée avec ces écouteurs sans fil open-ear Oraimo. Leur design clip-on assure un maintien stable sans entrer dans l’oreille, idéal pour les appels, la musique, le sport léger et l’utilisation quotidienne. Grâce à la technologie de basses renforcées et à la conscience des sons ambiants, ils offrent une expérience pratique, confortable et sécurisée.\n\nCaractéristique\nDétail\n\nType\nÉcouteurs sans fil open-ear\n\nModèle\nOpenSnap OPN-373\n\nMarque\nOraimo\n\nDesign\nClip-on, ouvert\n\nSon\nBasses renforcées\n\nUtilisation\nAppels, musique, sport, quotidien\n\nConfort\nPort longue durée\n\nSécurité\nPermet d’entendre les sons ambiants\n\nBoîtier\nÉtui de charge compact\n\nAvantage\nMaintien stable et confortable\n\nRéférence Doshift\nAA19BB899",
-     "short_description": "Profitez d’une écoute confortable toute la journée avec ces écouteurs sans fil open-ear Oraimo."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-04-28T182658.234.png"
-   ]
-  },
-  {
-   "sku": "doshift-46796",
+   "sku": "doshift-55296",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "JEDEL – Souris Sans Fil 2,4 Ghz – Noir",
-     "description": "Travaillez en toute liberté avec la souris sans fil JEDEL W400. Dotée d’une connexion stable 2,4 GHz avec nano récepteur USB, elle offre une précision jusqu’à 2400 DPI et une portée de 10 mètres. Son design ergonomique et ses 6 boutons assurent confort et efficacité pour une utilisation quotidienne sur ordinateur portable ou PC.\n\nCaractéristique\nDétail\n\nMarque\nJEDEL\n\nModèle\nW400\n\nType\nSouris sans fil 6D\n\nConnectivité\nNano récepteur USB\n\nFréquence\n2,4 GHz\n\nRésolution\n1600 / 2400 DPI\n\nDistance de fonctionnement\nJusqu’à 10 m\n\nDurée de vie des boutons\n3 millions de clics\n\nCompatibilité\nPC et ordinateurs portables\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Travaillez en toute liberté avec la souris sans fil JEDEL W400. Dotée d’une connexion stable 2,4 GHz avec nano récepteur USB, elle offre une précision jusqu’à 2400 DPI et une portée de 10 mètres."
+     "name": "Pot Hermétique en Verre avec Couvercle en Bambou – Rangement Cuisine & Décoration",
+     "description": "Ce pot de rangement en verre transparent au design minimaliste est parfait pour organiser votre cuisine, salle de bain, salon ou coiffeuse. Son couvercle en bois apporte une touche naturelle et moderne, tout en assurant une fermeture efficace pour protéger le contenu. Idéal pour ranger des aliments secs, des épices, du café, des biscuits, mais aussi des accessoires comme du coton, des bijoux ou des petits objets du quotidien. À la fois pratique et décoratif, il s’intègre dans tous les types d’intérieurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPot de rangement\n\nMatériau principal\nVerre transparent\n\nCouvercle\nBois naturel\n\nStyle\nMinimaliste / Moderne\n\nUtilisation\nCuisine, salle de bain, salon, coiffeuse\n\nApplications\nCafé, épices, biscuits, coton, accessoires\n\nAvantages\nDesign simple, hygiénique, décoratif\n\nFermeture\nCouvercle ajusté\n\nEntretien\nLavage facile\n\nPublic\nMaison & organisation\n\nRéférence-doshift\nAA3BB599",
+     "short_description": "Ce pot de rangement en verre transparent au design minimaliste est parfait pour organiser votre cuisine, salle de bain, salon ou coiffeuse."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589378-52_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/97721f06-90a8-4cce-a624-f26414506a42.jpeg"
    ]
   },
   {
-   "sku": "doshift-46786",
-   "price": 199,
+   "sku": "doshift-55290",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    6
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Tapis de souris gaming Royal Kludge RGB RS-07 Luminous XL 40*90*3 mm",
-     "description": "Soft microfiber surface optimized for both speed and control\n\n14-color lighting with five RGB effects\n\nRGB backlight – 360° lighting design enhances the mousepad integration with any backlit gaming peripherals.\n\nTouch control for on-the-fly backlight selection.\n\nSteady, rubber base\n\nUSB powered plug and play (1.8m braided cable)",
-     "short_description": "Soft microfiber surface optimized for both speed and control"
+     "name": "Pot Décoratif en Verre avec Couvercle et Poignée Cristal – Style Élégant",
+     "description": "Ce pot décoratif en verre est conçu pour ajouter une touche d’élégance à votre intérieur. Son couvercle en bois surmonté d’une poignée effet cristal lui confère un style raffiné, idéal pour une cuisine, un salon, une coiffeuse ou une table d’appoint. Parfait pour ranger des sucreries, des bijoux, du café, des épices ou de petits accessoires, il associe esthétique et praticité dans un format compact.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPot / Boîte décorative\n\nMatériau principal\nVerre\n\nCouvercle\nBois\n\nPoignée\nEffet cristal + base dorée\n\nStyle\nÉlégant & moderne\n\nUsage\nRangement + décoration\n\nApplications\nCuisine, salon, chambre, coiffeuse\n\nContenu possible\nSucreries, épices, bijoux, accessoires\n\nEntretien\nNettoyage facile\n\nPublic\nMaison & décoration\n\nRéférence-doshift\nAA2BB099",
+     "short_description": "Ce pot décoratif en verre est conçu pour ajouter une touche d’élégance à votre intérieur."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589365-50_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/7958dd4d-8c85-47e7-bcf7-84cf511e59b7.jpeg"
    ]
   },
   {
-   "sku": "doshift-46747",
-   "price": 78,
+   "sku": "doshift-55283",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Câble de charge – Baseus – Pudding Series – 2.4A – 1.2 m – Compatible iPhone/iPad",
-     "description": "Câble Lightning Baseus Pudding Series de 1,2 m, offrant une charge rapide jusqu’à 2,4 A et un transfert de données à 480 Mbps. Fabriqué en TPE durable, il résiste à plus de 20 000 pliages. Compatible avec tous les appareils Apple à connecteur Lightning, ce câble allie performance et longévité.",
-     "short_description": "Câble Lightning Baseus Pudding Series de 1,2 m, offrant une charge rapide jusqu’à 2,4 A et un transfert de données à 480 Mbps. Fabriqué en TPE durable, il résiste à plus de 20 000 pliages."
+     "name": "Lampe de Table LED Dorée – Design Moderne avec Effet Feuilles d’Or",
+     "description": "Cette lampe de table LED allie élégance moderne et ambiance chaleureuse grâce à son design doré et son cylindre transparent parsemé de feuilles décoratives dorées. Elle diffuse une lumière agréable qui embellit instantanément un salon, une chambre, un bureau ou une table d’appoint. Son style luxueux s’intègre aussi bien dans une décoration contemporaine, glamour ou minimaliste, tout en apportant une touche premium à l’espace.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLampe de table décorative\n\nLumière\nLED\n\nStyle\nModerne / Élégant / Doré\n\nEffet décoratif\nFeuilles d’or\n\nUtilisation\nSalon, chambre, bureau, entrée, déco\n\nFonction\nAmbiance & décoration\n\nActivation\nBouton sur base\n\nMatériau\nMétal + cylindre transparent\n\nCouleur\nDoré premium\n\nAvantage\nApporte chaleur & esthétique\n\nEntretien\nNettoyage simple\n\nRéférence-doshift\nAA7BB099",
+     "short_description": "Cette lampe de table LED allie élégance moderne et ambiance chaleureuse grâce à son design doré et son cylindre transparent parsemé de feuilles décoratives dorées."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589315-42_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-11T233248.068.png"
    ]
   },
   {
-   "sku": "doshift-46717",
-   "price": 84,
+   "sku": "doshift-55264",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Câble Baseus 66W USB-C 1 m – Charge Rapide Compatible Huawei Mate40 Pro",
-     "description": "Le câble Baseus 66 W est conçu pour offrir une charge rapide, stable et sécurisée à vos appareils USB-C. Compatible avec la technologie SuperCharge de Huawei, il permet d’alimenter efficacement des modèles tels que le Huawei Mate40 Pro, tout en préservant la batterie grâce à une gestion intelligente de la puissance.\n\nAvec sa longueur de 1 mètre, il offre un parfait équilibre entre mobilité et confort d’utilisation, que ce soit à la maison, au bureau ou en déplacement. Sa construction robuste et ses matériaux résistants garantissent une durabilité élevée, même en usage quotidien intensif.\n\nGrâce à sa capacité de charge jusqu’à 66 W, ce câble assure également une compatibilité avec de nombreux smartphones, tablettes et accessoires USB-C, offrant une vitesse optimale pour la charge comme pour la transmission de données. Un indispensable pour profiter pleinement de la charge rapide sur vos appareils Huawei et autres marques compatibles.\n\nMatériel: ABS + TPE\n\nCourant: 11 V / 6 A (max.66 W)\n\nTaux de transfert: 480 Mbit / s\n\nInterface d’entrée: USB",
-     "short_description": "Le câble Baseus 66 W est conçu pour offrir une charge rapide, stable et sécurisée à vos appareils USB-C."
+     "name": "Set de Sabots de Coupe Kemei – 6 Guides de Longueur pour Tondeuse Électrique",
+     "description": "Ce set de sabots Kemei est conçu pour offrir une coupe précise et maîtrisée avec les tondeuses électriques compatibles. Les différents guides de longueur permettent de réaliser des dégradés, contours et coupes régulières selon le style souhaité. Faciles à installer et résistants, ils sont adaptés à une utilisation en salon comme à domicile. Un accessoire indispensable pour barbiers, coiffeurs et utilisateurs exigeants.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nKemei\n\nType\nSabots / Guides de coupe\n\nCompatibilité\nTondeuses électriques Kemei (selon modèle)\n\nQuantité\nSet de 6 sabots\n\nLongueurs incluses\n1.5 mm – 3 mm – 4.5 mm – 6 mm – 9 mm – 12 mm\n\nMatériau\nPlastique durable\n\nApplication\nCoupe / dégradé / égalisation\n\nNiveau\nProfessionnel & Usage personnel\n\nInstallation\nEmboîtement simple\n\nEntretien\nNettoyage rapide\n\nRéférence-doshift\nAA3BB599",
+     "short_description": "Ce set de sabots Kemei est conçu pour offrir une coupe précise et maîtrisée avec les tondeuses électriques compatibles."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589224-36_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/42bf4e24-e481-4b3f-920a-e84d4d40aa17.jpeg"
    ]
   },
   {
-   "sku": "doshift-46712",
-   "price": 104,
+   "sku": "doshift-55252",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    8,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Cable USB Type C – USB Type C – Charge rapide 25W – SAMSUNG – 1 M – Noir",
-     "description": "Optimisez votre expérience de charge avec ce câble officiel Samsung USB Type-C à USB Type-C de 1 mètre de long, dans un élégant coloris noir. Conçu spécifiquement pour la performance et la fiabilité, ce câble est l’accessoire indispensable pour tous vos appareils compatibles USB-C.\n\nCaractéristiques Principales : \n\nCharge Ultra-Rapide 25W : Prenez en charge le protocole de Charge Rapide (Fast Charging) jusqu’à 25W pour recharger vos smartphones, tablettes et autres appareils Samsung compatibles (et autres marques) à la vitesse maximale.\n\nConnectivité Polyvalente USB-C : Équipé de connecteurs USB Type-C aux deux extrémités, il est idéal pour connecter votre appareil à un chargeur mural USB-C, une batterie externe, ou un ordinateur portable.\n\nTransfert de Données Rapide : En plus de la charge, ce câble permet une synchronisation et un transfert de données rapides et stables entre vos appareils.\n\nLongueur Idéale (1 M) : Sa longueur d’un mètre offre la flexibilité nécessaire pour une utilisation confortable à la maison, au bureau ou en déplacement, sans être encombrant.\n\nQualité et Fiabilité Samsung : Conçu par Samsung, il assure une compatibilité parfaite et une sécurité maximale pour la charge de vos appareils.",
-     "short_description": "Optimisez votre expérience de charge avec ce câble officiel Samsung USB Type-C à USB Type-C de 1 mètre de long, dans un élégant coloris noir."
+     "name": "Repousse-Cuticules en Acier – Outil de Manucure & Pédicure Professionnel",
+     "description": "Ce repousse-cuticules en acier est l’outil indispensable pour préparer l’ongle avant la pose de vernis, gel ou acrylique. Sa double tête permet de repousser délicatement les cuticules et de nettoyer les résidus autour de l’ongle pour une finition propre et professionnelle. Grâce à son manche antidérapant, il offre une excellente prise en main et un contrôle optimal. Idéal pour salons, écoles esthétiques et utilisation personnelle.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nRepousse-cuticules\n\nUtilisation\nManucure & pédicure\n\nMatériau\nAcier inoxydable\n\nPrise en main\nManche texturé antidérapant\n\nFonction\nPréparation de l’ongle / nettoyage\n\nPublic\nProfessionnels & débutants\n\nDomaines\nNail Art, pose gel, pose vernis\n\nEntretien\nLavable & réutilisable\n\nDurabilité\nLongue durée\n\nRéférence-doshift\nAA1BB099",
+     "short_description": "Ce repousse-cuticules en acier est l’outil indispensable pour préparer l’ongle avant la pose de vernis, gel ou acrylique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589207-35_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/0e88c8c6-1092-426a-920b-cc2b3c71d41a.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55224",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Main d’Entraînement Manucure avec Support Flexible – Pour Pose de Capsules & Nail Art",
+     "description": "Cette main d’entraînement pour manucure est idéale pour l’apprentissage, la pratique professionnelle ou la formation au Nail Art. Grâce à son bras flexible et ajustable, elle peut être fixée sur une table ou un plan de travail afin de reproduire les conditions réelles de pose. Les doigts articulés permettent de positionner les capsules facilement pour la pose d’ongles gel, acrylique ou press-on. Parfaite pour les écoles de beauté, salons et apprenties techniciennes ongulaires.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nMain d’entraînement pour manucure\n\nUtilisation\nFormation, entraînement & démonstration\n\nSupport\nBras flexible + pince de fixation\n\nArticulations\nDoigts articulés\n\nCapsules\nFournies (incluse dans le kit)\n\nCompatibilité\nGel – Acrylique – Press-On – Nail Art\n\nFixation\nSur table / bureau\n\nPublic\nDébutants, étudiants, professionnels\n\nIdéal pour\nSalons, écoles esthétiques, centres de formation\n\nEntretien\nNettoyage simple\n\nRéférence-doshift\nAA12BB099",
+     "short_description": "Cette main d’entraînement pour manucure est idéale pour l’apprentissage, la pratique professionnelle ou la formation au Nail Art."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/3f8d5c2b-8f45-42db-bcc1-a9e5ba81c87e.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55212",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Correcteur d’Orteils en Silicone – Alignement & Confort pour les Pieds",
+     "description": "Ce correcteur d’orteils en silicone est conçu pour améliorer l’alignement des orteils et réduire l’inconfort causé par les déformations, le chevauchement ou les frottements. Grâce à sa texture douce et flexible, il épouse la forme du pied et procure un confort optimal lors de la marche ou en position statique. Idéal pour une utilisation quotidienne, il aide à prévenir les irritations, soulager la pression et favoriser un meilleur positionnement des orteils.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nCorrecteur d’orteils\n\nFonction\nAlignement & redressement des orteils\n\nMatériau\nSilicone souple et confortable\n\nTaille\nFree size (adaptable)\n\nQuantité\n1 paire\n\nConfort\nAnti-frottements & anti-douleurs\n\nUtilisation\nQuotidienne, marche & repos\n\nPublic\nUnisexe – Adultes\n\nEntretien\nLavable à l’eau\n\nRéférence-doshift\nAA2BB099",
+     "short_description": "Ce correcteur d’orteils en silicone est conçu pour améliorer l’alignement des orteils et réduire l’inconfort causé par les déformations, le chevauchement ou les frottements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/8a4e86fd-cc66-4fdc-95df-08b54afa4702.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55206",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Orthèses de Soutien de la Voûte Plantaire – Correction & Confort Pour Votre Pied",
+     "description": "Améliorez votre confort au quotidien grâce à ces orthèses de soutien de la voûte plantaire conçues pour corriger la posture du pied et réduire la douleur liée aux pieds plats, fasciite plantaire ou mauvaise distribution du poids. Leur design semi-rigide offre un appui ciblé sur l’arche tout en restant confortable à porter dans vos chaussures ou même pieds nus à la maison. Fabriquées en TPU de qualité, elles aident à maintenir un alignement correct du pied et à prévenir la fatigue articulaire.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nOrthèses de soutien de la voûte plantaire\n\nFonction\nCorrection de l’alignement du pied\n\nSupport\nArche plantaire élevée\n\nMatériau\nTPU semi-rigide\n\nCompatibilité\nChaussures ouvertes/fermées ou pieds nus\n\nUtilisation\nMarche, travail, activités quotidiennes\n\nAvantages\nRéduction des douleurs & amélioration de la stabilité\n\nPublic\nAdulte – Unisexe\n\nEntretien\nLavable à l’eau\n\nRéférence-doshift\nAA6BB099",
+     "short_description": "Améliorez votre confort au quotidien grâce à ces orthèses de soutien de la voûte plantaire conçues pour corriger la posture du pied et réduire la douleur liée aux pieds plats, fasciite plantaire ou mauvaise distribution…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ffcafa5d-9d3b-4b49-891e-62eb82630695.jpeg"
    ]
   }
  ]

@@ -1,6 +1,26 @@
 {
  "products": [
   {
+   "sku": "doshift-123909",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac de Voyage Bicolore Extensible et Multifonctionnel",
+     "description": "Partez l’esprit tranquille avec ce grand sac de voyage vert kaki alliant robustesse, élégance et modernité. Équipé de poignées renforcées et d’une conception ingénieuse, il offre un confort de transport optimal. Son compartiment inférieur zippé extensible et ses multiples poches s’adaptent parfaitement à toutes vos affaires pour le sport, les voyages ou le quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSac de voyage / Fourre-tout\n\nMarque\nFEIFANLTUO\n\nModèle\nSac de voyage extensible multifonctionnel\n\nCouleur\nVert Kaki\n\nCompatibilité\nBagage cabine, déplacements de week-end, salle de sport, activités du quotidien\n\nFonctionnalités\nCompartiment inférieur extensible, double poignée renforcée, poche frontale zippée\n\nAvantages\nGrande capacité modulable, transport polyvalent, design sportif et résistant\n\nContenu de la boîte\n1 sac de voyage\n\nDimensions du produit (cm)\n\n• Longueur : 41,0 cm\n\n• Largeur : 22,0 cm\n\n• Hauteur : 28,0 cm\n\nSKU\n700000000000107",
+     "short_description": "Partez l’esprit tranquille avec ce grand sac de voyage vert kaki alliant robustesse, élégance et modernité. Équipé de poignées renforcées et d’une conception ingénieuse, il offre un confort de transport optimal. Son compartiment inférieur zippé extensible et ses multiples poches s’adaptent parfaitement à toutes vos affaires pour le sport, les voyages ou le quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T202254.771.png"
+   ]
+  },
+  {
    "sku": "doshift-123881",
    "price": 1529,
    "stock": 10,
@@ -17,6 +37,44 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T184241.774.png"
+   ]
+  },
+  {
+   "sku": "doshift-123847",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de Société Stratégique Abalone – Classique de Réflexion et Tactique pour 2 Joueurs",
+     "description": "Entrez dans l’arène tactique avec Abalone, le jeu de société primé incontournable pour les amateurs de stratégie. Le principe est simple mais redoutable : poussez et éjectez les billes de votre adversaire hors du plateau hexagonal tout en protégeant les vôtres. Un jeu captivant qui allie anticipation, ruse et réflexion, idéal pour des parties intenses en famille ou entre amis.\n\nCaractéristique\nDétail\n\nType de produit\nJeu de société / Jeu de stratégie combinatoire\n\nMarque\nAbalone\n\nModèle\nÉdition Classique (Boîte Hexagonale / Awards)\n\nCouleur\nNoir et Blanc (billes) / Noir (plateau et boîte)\n\nCompatibilité\n2 joueurs, à partir de 8 ans\n\nFonctionnalités\nPlateau hexagonal alvéolé, mécanisme de poussée des lignes de billes (Sumito)\n\nAvantages\nRègles simples à comprendre mais profondeur tactique immense, nombreuses récompenses internationales (Jeu de la décennie à Cannes)\n\nContenu de la boîte\n1 plateau hexagonal, 14 billes noires, 14 billes blanches, règle du jeu\n\nSKU\n700000000000121",
+     "short_description": "Entrez dans l’arène tactique avec Abalone, le jeu de société primé incontournable pour les amateurs de stratégie. Le principe est simple mais redoutable : poussez et éjectez les billes de votre adversaire hors du plateau hexagonal tout en protégeant les vôtres. Un jeu captivant qui allie anticipation, ruse et réflexion, idéal pour des parties intenses en famille ou entre amis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T114934.621.png"
+   ]
+  },
+  {
+   "sku": "doshift-123759",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret Cadeau MoYu Meilong WCA – Set de 4 Cubes et Puzzles de Vitesse Multifacettes",
+     "description": "Découvrez le défi ultime du Speedcubing avec ce magnifique coffret cadeau MoYu Meilong ! Idéal pour les débutants passionnés comme pour les experts de la discipline, ce set réunit 4 puzzles de compétition de haute qualité (Pyraminx, Skewb, Megaminx et Square-1). Conçus pour une rotation fluide et ultra-rapide, ils garantissent des heures de stimulation mentale et de plaisir.\n\nCaractéristique\nDétail\n\nType de produit\nCoffret de cubes de vitesse / Puzzles logiques\n\nMarque\nMoYu (Série MeiLong)\n\nModèle\nWCA Puzzle 4-Cube Gift Box (Jinzita, Xiezhan, Wumofang, Square-1)\n\nCouleur\nStickerless (Lignes jaunes / Plastique noir de base)\n\nCompatibilité\nCompétitions WCA, entraînement, développement de la logique, cadeau idéal\n\nFonctionnalités\nMécanisme de coupe de coins optimisé, rotation fluide, design ergonomique\n\nAvantages\nEnsemble complet de 4 formes différentes, excellente maniabilité, parfait pour progresser et collectionner\n\nContenu de la boîte\n1 Pyraminx, 1 Skewb, 1 Megaminx, 1 Square-1\n\nSKU\n700000000000119",
+     "short_description": "Découvrez le défi ultime du Speedcubing avec ce magnifique coffret cadeau MoYu Meilong ! Idéal pour les débutants passionnés comme pour les experts de la discipline, ce set réunit 4 puzzles de compétition de haute qualité (Pyraminx, Skewb, Megaminx et Square-1). Conçus pour une rotation fluide et ultra-rapide, ils garantissent des heures de stimulation mentale et de plaisir."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T190733.270.png"
    ]
   },
   {
@@ -135,63 +193,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/10/6b5f182a-89ab-4cee-b3a1-8a55276aabe7.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-122750",
-   "price": 49,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte Hermétique en Verre Carrée Haute 800 ml",
-     "description": "Avec sa généreuse contenance de 800 ml et ses parois profondes, la boîte carrée AZATECH NEG-GLF-506-24 est conçue pour stocker et réchauffer des plats cuisinés complets, des currys ou des gratins pour deux personnes. Fabriquée en verre borosilicate inaltérable, elle permet de cuire vos recettes directement au four avant de les fermer hermétiquement pour une conservation optimale au réfrigérateur.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBoîte de conservation et de cuisson hermétique carrée haute capacité en verre\n\nCapacité\nVolume utile 800 ml (plats en sauce, gratins généreux et salades composées)\n\nMatériaux\nVerre borosilicate thermo-résistant sain (sans BPA ni phtalates) et silicone\n\nFermeture\nCouvercle à 4 charnières clipsables renforcées avec valve d’échappement vapeur\n\nUsage\nConservation hermétique au frais, cuisson au four et réchauffage au micro-ondes\n\nSKU\n9900010930971",
-     "short_description": "Boîte carrée haute 800 ml en verre borosilicate avec couvercle 4 clips étanche et valve micro-ondes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/5dd94344-a001-42a0-b210-3f3dececa8e5.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-122740",
-   "price": 39,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte Hermétique en Verre Carrée 520 ml",
-     "description": "Format polyvalent par excellence pour emporter son déjeuner au bureau ou stocker les restes familiaux au frais, la boîte en verre AZATECH NEG-GLF-507-36 de 520 ml garantit une conservation saine sans transfert d’odeur ni de goût. Son verre borosilicate robuste passe sans transition du congélateur au four ou au micro-ondes.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBoîte de conservation et de cuisson hermétique carrée moyenne en verre\n\nCapacité\nVolume utile 520 ml (repas individuel, accompagnements et desserts)\n\nMatériaux\nVerre borosilicate thermo-résistant haute densité et joint silicone étanche\n\nFermeture\nCouvercle à 4 rabats de sécurité et clapet de décompression vapeur\n\nCompatibilité\nRésiste aux chocs thermiques (compatible four, micro-ondes et congélation)\n\nSKU\n9900010930964",
-     "short_description": "Boîte en verre borosilicate 520 ml carrée avec couvercle hermétique à valve vapeur et joint vert."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/3477c08f-fe3a-4aae-a8e0-b13e147a4b74.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-122730",
-   "price": 35,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte Hermétique en Verre Carrée 320 ml",
-     "description": "Idéale pour conserver les sauces, restes de repas, collations ou portions pour bébé, la boîte hermétique AZATECH NEG-GLF-508-48 de 320 ml offre une résistance thermique extrême du congélateur jusqu’au four. Son couvercle à quatre rabats et joint silicone garantit une étanchéité totale aux liquides et odeurs, tandis que sa valve vapeur intégrée permet de réchauffer vos plats au micro-ondes sans retirer le couvercle pour éviter toute projection.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBoîte de conservation et de cuisson hermétique carrée en verre borosilicate\n\nCapacité\nVolume utile 320 ml (format portion individuelle, sauces et purées bébé)\n\nMatériaux\nVerre borosilicate thermo-résistant (-20°C à +400°C) et joint silicone vert d’eau\n\nFermeture\nCouvercle transparent à 4 clapets verrouillables et valve d’aération vapeur\n\nCompatibilité\nFour traditionnel (sans couvercle), micro-ondes, congélateur et lave-vaisselle\n\nSKU\n9900010930957",
-     "short_description": "Boîte carrée 320 ml en verre borosilicate avec couvercle 4 clips étanche et valve micro-ondes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/27405424-37f7-43d4-99c1-02e3180fb12b.jpg"
    ]
   }
  ]

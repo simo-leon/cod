@@ -1,8 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-118725",
-   "price": 159,
+   "sku": "doshift-122932",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -10,18 +10,94 @@
    ],
    "locales": {
     "fr": {
-     "name": "Bol de Remplacement pour Blender Prestige HP-09A (1,5 L)",
-     "description": "Prolongez la durée de vie de votre mixeur grâce à ce bol de remplacement complet Prestige HP-09A d’une capacité utile de 1,5 litre (48 oz). Fabriqué en verre épais, robuste et résistant aux chocs thermiques et mécaniques, il est idéal pour broyer la glace, préparer des smoothies onctueux, mixer des soupes chaudes ou émulsionner des sauces.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBol de remplacement universel complet pour blender\n\nCapacité\n1,4 à 1,5 Litre (Graduation 48 oz / 6 tasses)\n\nMatériaux\nVerre épais renforcé résistant aux chocs et plastique ABS\n\nLames\nCouteau en étoile à 4 ailettes en acier inoxydable\n\nFermeture\nCouvercle hermétique avec bouchon doseur amovible\n\nSKU\n9900010929678",
-     "short_description": "Bol de rechange blender 1,5 L (48 oz) en verre robuste avec bloc lames inox et couvercle doseur."
+     "name": "Lampe de Bureau Enfant 4-en-1 Lapin Rose avec Taille-Crayon et Pot à Stylos",
+     "description": "Conçue pour rendre le bureau des enfants à la fois ludique, ordonné et parfaitement éclairé, cette lampe multifonctionnelle en forme de lapin rose réunit quatre accessoires essentiels en un seul objet compact. Son col de cygne souple permet d’orienter précisément le faisceau LED doux pour la lecture ou les devoirs sans fatiguer les yeux.\n\nCaractéristique\nSpécification Détaillée\n\nType\nLampe de bureau enfant multifonctionnelle 4-en-1 motif lapin kawaii\n\nFonctions\nÉclairage LED de lecture, taille-crayon intégré, pot à crayons et veilleuse\n\nÉclairage\nLampe circulaire à lumière douce anti-scintillement et col flexible 360°\n\nAlimentation\nBatterie rechargeable intégrée via port USB avec câble inclus\n\nMatériaux\nPolymère ABS lisse rose pastel sans arêtes vives et composants acier\n\nSKU\n99000057869002",
+     "short_description": "Lampe de bureau enfant 4-en-1 lapin rose avec col flexible, taille-crayon, pot à crayons et veilleuse."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-13-01.webp"
+    "https://doshift.ma/wp-content/uploads/2026/10/a458106a-37ec-4a12-a832-e634b4a61c32.webp"
    ]
   },
   {
-   "sku": "doshift-118698",
-   "price": 69,
+   "sku": "doshift-122762",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte Hermétique en Verre Rectangulaire 370 ml Couvercle Rose",
+     "description": "Élégante et pratique avec son couvercle opaque teinté rose poudré, la boîte hermétique AZATECH NEG-GLF-504-48 de 370 ml constitue la lunch box idéale pour transporter collations, fruits frais coupés, desserts ou petites portions cuisinées. Sa cuve en verre borosilicate neutre ne retient ni odeurs ni taches de sauce, tandis que son couvercle étanche à quatre clips et clapet vapeur escamotable évite tout risque de fuite dans votre sac\n\nCaractéristique\nSpécification Détaillée\n\nType\nBoîte de conservation hermétique rectangulaire en verre à couvercle coloré\n\nCapacité\nVolume utile 370 ml (format goûter, fruits coupés, lunch box individuelle)\n\nMatériaux\nVerre borosilicate transparent haute résistance et couvercle opaque rose poudré\n\nFermeture\nCouvercle hermétique à 4 verrous rabattables avec clapet à bascule vapeur\n\nSécurité\nVerre sain sans porosité, joint silicone anti-fuite et plastique sans BPA\n\nSKU\n9900010930995",
+     "short_description": "Boîte rectangulaire 370 ml en verre borosilicate avec couvercle étanche rose poudré et clapet vapeur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/0cabf8cc-f07a-4ba0-8f92-1e4b9a0732a7.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122720",
+   "price": 225,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Gamer 4-en-1 C53 (Clavier, Souris, Casque et Tapis)",
+     "description": "Conçu pour équiper immédiatement les joueurs et télétravailleurs avec un ensemble cohérent et performant, le pack 4-en-1 C53 réunit tous les périphériques indispensables sur un seul bureau. Le clavier à sensation mécanique et rétroéclairage arc-en-ciel offre une frappe rapide et silencieuse, complété par une souris optique réactive à haute précision.\n\nCaractéristique\nSpécification Détaillée\n\nType\nEnsemble complet d’accessoires gaming 4-en-1 filaire USB\n\nClavier\nClavier 104 touches sensation mécanique avec rétroéclairage LED Rainbow\n\nSouris\nSouris optique gaming ergonomique 6D rétroéclairée RVB multi-DPI\n\nCasque\nCasque micro arceau rembourré noir et rouge avec micro perche orientable\n\nTapis\nTapis de souris en tissu micro-tissé doux avec base en caoutchouc antidérapant\n\nSKU\n9900010930940",
+     "short_description": "Ensemble gaming 4-en-1 avec clavier sensation mécanique rétroéclairé, souris RVB, casque micro et tapis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/2ed6efe1-66b8-4975-a013-f38e4e185b1c.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122700",
+   "price": 439,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batterie Externe Solaire 60000 mAh QC3.0 SPACEX TITAN",
+     "description": "Véritable station d’énergie portable conçue pour les grands voyageurs, campeurs et professionnels de terrain, la batterie externe SPACEX TITAN SP116 délivre une réserve titanesque de 60000 mAh. Grâce à la technologie Fast Charge QC3.0 et ses quatre sorties USB indépendantes, elle recharge simultanément plusieurs smartphones, tablettes ou lampes de camping à vitesse maximale.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBatterie externe solaire ultra-haute capacité avec charge rapide QC3.0\n\nCapacité\n60000 mAh (recharge 12 à 15 fois un smartphone standard)\n\nSorties\n4 ports USB-A Fast Charge orange permettant de charger 4 appareils simultanément\n\nRecharge\nDouble port d’entrée (USB Type-C + Micro-USB) et panneau photovoltaïque\n\nAffichage\nÉcran numérique LED indiquant le pourcentage (25-50-75-100%) et témoin solaire\n\nSKU\n9900010930933",
+     "short_description": "Batterie externe solaire 60000 mAh avec 4 sorties USB rapides, écran digital et anse de transport orange."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/01714bdc-d267-4693-9e1b-1b52bdbef80f.webp"
+   ]
+  },
+  {
+   "sku": "doshift-122694",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sacoche Bandoulière Homme Multi-Poches Fashion Bicolore",
+     "description": "Conçue pour garder l’ensemble de vos effets personnels à portée de main en toute sécurité, la sacoche homme Fashion allie légèreté, compacité et agencement pratique. Ses trois compartiments zippés indépendants permettent de classer méthodiquement smartphone, papiers, clés et lunettes sans les rayer.\n\nCaractéristique\nSpécification Détaillée\n\nType\nSacoche bandoulière compacte multi-compartiments pour homme\n\nMatériaux\nToile polyester Oxford imperméabilisée bicolore noir et bleu marine\n\nCompartiments\n1 compartiment principal zippé + 2 poches frontales étagées zippées\n\nPortage\nBandoulière sangle réglable amovible et poignée supérieure rigide crantée\n\nFermetures\nFermetures à glissière renforcées avec tirette textile brodée « FASHION »\n\nSKU\n9900010930926",
+     "short_description": "Sacoche bandoulière homme compacte 24 × 18 cm bicolore noir et bleu avec 3 poches zippées et poignée rigide."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/b3a621e0-cf55-4d18-986d-a14351445d44.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122360",
+   "price": 299,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -30,37 +106,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Râpe à Pieds Anti-Callosités en Acier Inoxydable",
-     "description": "Retrouvez des pieds doux, lisses et nets en quelques instants grâce à cette râpe à pieds manuelle professionnelle. Conçue pour éliminer sans effort les callosités tenaces, les durillons et les talons fendillés, elle intègre une large surface râpeuse en acier inoxydable haute densité dotée de micro-perforations affûtées.\n\nCaractéristique\nSpécification Détaillée\n\nType\nRâpe pédicure manuelle anti-callosités\n\nMatériaux\nAcier inoxydable chirurgical et plastique ABS résistant\n\nSurface\nGrille micro-lames perforée haute précision\n\nErgonomie\nManche galbé avec empreinte d’appui pour le pouce\n\nEntretien\nRinçage intégral sous l’eau et désinfection facile\n\nSKU\n9900010929654",
-     "short_description": "Râpe pédicure 24 cm en inox chirurgical et manche ergonomique blanc pour éliminer callosités et corne en douceur."
+     "name": "Tondeuse Professionnelle Sans Fil avec Écran LED CESAR CS-8055",
+     "description": "Conçue pour les barbiers et les coupes nettes à domicile, la tondeuse sans fil CESAR CS-8055 combine un moteur puissant et une lame en acier haute précision pour une coupe fluide sans tiraillement. Son levier d’ajustement latéral permet de régler la longueur de coupe pour réussir fondus et dégradés parfaits.\n\nCaractéristique\nSpécification Détaillée\n\nType\nTondeuse à cheveux et barbe professionnelle sans fil rechargeable\n\nAffichage\nÉcran numérique LED indiquant le pourcentage de batterie restante et lubrification\n\nLames\nTête de coupe en acier haute précision avec levier d’ajustement latéral conique\n\nAlimentation\nBatterie lithium haute capacité rechargeable par port USB Type-C\n\nErgonomie\nCorps profilé texturé noir mat avec empreinte antidérapante pour le pouce\n\nSKU\n9900010930872",
+     "short_description": "Tondeuse professionnelle sans fil noire avec écran LED de batterie et levier de dégradé."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-13-01.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/14656342-8aaf-4aed-ab9a-486b9d0f346a.webp"
    ]
   },
   {
-   "sku": "doshift-118646",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support de Bureau Télescopique pour Téléphone & Tablette LBT L-321",
-     "description": "Idéal pour le télétravail, les visioconférences Zoom, le visionnage de vidéos en streaming ou la cuisine mains libres, le support de bureau LBT L-321 maintient fermement vos smartphones et tablettes à la hauteur exacte de votre regard. Doté d’une tige télescopique en métal réglable en hauteur et d’une rotule inclinable à 360°, il permet de positionner votre écran au millimètre près en mode portrait ou paysage afin de soulager durablement les tensions du cou et des cervicales.\n\nCaractéristique\nSpécification Détaillée\n\nType\nSupport de bureau universel lesté pour smartphones et tablettes (Desk Tablet Stand)\n\nRéglage\nMât télescopique réglable en hauteur (Free Lift) et rotule d’inclinaison orientable à 360°\n\nCompatibilité\nTous smartphones et tablettes tactiles de 4,7 à 12,9 pouces (iPad, iPhone, Galaxy Tab)\n\nMatériaux\nColonne en alliage d’aluminium renforcé, coque ABS finition noire et coussinets silicone\n\nBase\nSocle circulaire lourdement lesté anti-basculement (Anti-Dumping) avec patin antidérapant\n\nSKU\n9900010929623",
-     "short_description": "Support de bureau lesté en métal noir pour smartphone et tablette avec mât télescopique et rotule orientable à 360°."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/1d4855cc-a02a-465b-a29b-e68dd01f7211.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-118638",
-   "price": 429,
+   "sku": "doshift-122354",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -68,37 +125,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Multiprise Connectée Wi-Fi 2500W LDNIO SCW3451 / SEW3452 (3 Prises + 4 USB 30W PD)",
-     "description": "Caractéristique\nSpécification Détaillée\n\nType\nMultiprise intelligente connectée Wi-Fi avec charge rapide USB (Wi-Fi Smart Power Strip)\n\nPuissance\nPuissance totale secteur de 2500 W (10A / 250V~) et charge rapide USB jusqu’à 30 W Max\n\nConnectivité\nModule Wi-Fi 2,4 GHz intégré, contrôle à distance via application smartphone et assistants vocaux\n\nPrises\n3 prises secteur indépendantes contrôlables individuellement à distance avec sécurité enfant\n\nPorts USB\n4 ports : 1 USB-C (PD 30W) + 1 USB-A (QC3.0 18W) + 2 USB-A (Auto-ID 5V/2.4A) pilotables en bloc\n\nSKU\n9900010929616",
-     "short_description": "Multiprise connectée Wi-Fi 2500W blanche avec 3 prises pilotables séparément, 4 ports USB (PD 30W) et câble 2 m."
+     "name": "Lampe de Table Tactile Rechargeable Cristal et Laiton Doré",
+     "description": "Mêlant l’épure d’une lanterne contemporaine et la brillance d’un cristal taillé, cette lampe de table tactile sans fil diffuse une lumière chaleureuse réglable sur trois intensités d’un simple effleurement du socle. Sa batterie rechargeable intégrée offre jusqu’à 12 heures d’autonomie pour illuminer vos tables de chevet, tables de salon ou dîners en terrasse.\n\nCaractéristique\nSpécification Détaillée\n\nType\nLampe d’ambiance et veilleuse LED sans fil tactile avec anse en arche\n\nÉclairage\nGlobe diffuseur en cristal taillé facetté avec 3 niveaux d’intensité lumineuse\n\nAlimentation\nBatterie rechargeable intégrée haute autonomie (jusqu’à 12 heures d’usage)\n\nCommande\nCapteur tactile tactile switch sur le socle circulaire pour allumer et varier\n\nMatériaux\nSocle et anse arche en fer laqué doré mat et diffuseur sphérique en acrylique\n\nSKU\n9900010930865",
+     "short_description": "Lampe de table tactile sans fil en laiton doré et globe cristal avec 3 intensités et batterie 12h."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/5ba5bb4a-2ad2-457f-84c1-b1e6b60ec2b3.webp"
+    "https://doshift.ma/wp-content/uploads/2026/10/26eb7018-29c5-4adb-a809-ae95f91df1fc.jpg"
    ]
   },
   {
-   "sku": "doshift-118616",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe Frontale Tactique LED & COB Rechargeable USB avec Étui Rigide",
-     "description": "Conçue pour les interventions nocturnes, le bivouac, la pêche, les chantiers et la randonnée en conditions extrêmes, cette lampe frontale tactique combine deux technologies d’éclairage complémentaires sur un même châssis tout-terrain. Son groupe optique central à 4 LED ultra-puissantes perce l’obscurité jusqu’à plus de 100 mètres avec un faisceau concentré précis\n\nCaractéristique\nSpécification Détaillée\n\nType\nLampe frontale tactique rechargeable double faisceau avec boîte rigide (Rechargeable Headlamp)\n\nOptique\nSystème hybride : cluster central de 4 LED spot longue portée + 2 panneaux latéraux COB grand angle 180°\n\nModes\nÉclairage multi-modes réglable : Spot focalisé, Flood COB diffus, Combo pleine puissance et Flash stroboscopique\n\nChâssis\nBoîtier en polymère ABS antichoc couleur sable du désert / kaki militaire avec tête inclinable à 60°\n\nAlimentation\nBatterie lithium rechargeable intégrée via port USB protégé et bandeau élastique ajustable inclus\n\nSKU\n9900010929609",
-     "short_description": "Lampe frontale tactique couleur sable avec 4 LED spot, 2 panneaux COB latéraux, batterie USB et boîte rigide de rangement."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/5c697524-0573-485b-aa70-f7c856c314d7.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-117748",
-   "price": 179,
+   "sku": "doshift-122348",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,89 +144,51 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Ventilateur Plafonnier LED 45W à Culot E27 Oásis Market (avec Télécommande)",
-     "description": "Révolutionnez le confort thermique et l’éclairage de votre intérieur sans aucun travaux grâce à la lampe ventilateur de plafond Oásis Market 45W. Conçue pour se visser directement dans n’importe quelle douille E27 standard à la manière d’une simple ampoule, elle combine un plafonnier LED puissant et un ventilateur motorisé ultra-silencieux.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nPlafonnier 2-en-1 combiné ventilateur silencieux et éclairage LED à visser (Socket Fan Light E27)\n\nCulot & Installation\nCulot à vis universel standard E27 (se visse directement dans toute douille classique sans perçage ni câblage)\n\nÉclairage & Puissance\nÉclairage LED 45 W haute efficacité (85% d’économie d’énergie) avec variateur d’intensité (dimmable)\n\nTempérature de couleur\nLumière CCT 3 teintes réglables : Blanc Chaud (3000K), Blanc Neutre (4000K) et Blanc Froid (6500K)\n\nVentilation & Moteur\nMoteur en cuivre ultra-silencieux à flux d’air puissant (Silent Motor) réglable sur 3 vitesses\n\nSKU\n9900010929524",
-     "short_description": "Lampe ventilateur de plafond LED 45W à visser sur culot E27 standard avec télécommande, 3 teintes de lumière et 3 vitesses d’air."
+     "name": "Chauffage Électrique à Quartz 800W White-House",
+     "description": "Conçu pour apporter une chaleur douce et instantanée sans assécher l’air ni faire de bruit, le radiateur à quartz White-House GR-90D diffuse un rayonnement thermique immédiat grâce à ses deux tubes halogènes de 400W. Son sélecteur rotatif permet d’adapter la consommation entre 400W et 800W selon vos besoins, tandis que son réflecteur arrière optimise la projection de chaleur dans la pièce.\n\nCaractéristique\nSpécification Détaillée\n\nType\nRadiateur électrique d’appoint rayonnant à tubes de quartz\n\nPuissance\n800W réglable sur 2 allures de chauffe (400W / 800W)\n\nÉléments\n2 tubes chauffants en quartz avec réflecteur métallique ondulé arrière\n\nSécurité\nGrille de protection métallique anti-brûlure et sécurité anti-basculement\n\nCommandes\nMolette rotative frontale de sélection et poignée de transport intégrée\n\nSKU\n9900010930858",
+     "short_description": "Chauffage électrique d’appoint 800W à 2 tubes quartz avec 2 puissances et sécurité anti-basculement."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/58743bda-9c43-4bc3-b4dd-7473e1b4cef7.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/10/46439416-3dd0-4876-81dd-0cc6bc6d409e.webp"
    ]
   },
   {
-   "sku": "doshift-117584",
-   "price": 99,
+   "sku": "doshift-122301",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Dessous de Plat et Dessous de Verre Arbre Pliable en Bois Massif (Set Arbre Décoratif)",
-     "description": "Caractéristique\nSpécification Détaillée\n\nType de produit\nEnsemble de dessous de plat et sous-verres isolants pliables en forme d’arbre (Wooden Tree Trivet Set)\n\nMécanisme de déploiement\nLamelles articulées en éventail : repliées en forme de sapin sur le support, déployables à plat sous l’effet du poids\n\nComposition du set\n1 mât-support vertical à socle rond + ensemble de 4 dessous de plat / sous-verres floraux amovibles\n\nRésistance thermique\nBois dense thermo-isolant protégeant plans de travail et tables en marbre contre les brûlures et traces de chaleur\n\nMatériau & Ébénisterie\nBois massif naturel tourné et huilé (teinte noyer chaud satiné), arêtes polies et chanfreinées\n\nSKU\n9900010929487",
-     "short_description": "Ensemble de 4 dessous de plat pliables en bois massif avec support vertical sculpté en forme d’arbre décoratif gain de place."
+     "name": "Housse de Protection pour Ordinateur Portable 14-15.6″ en Tissu Chiné",
+     "description": "Conçue pour protéger votre ordinateur portable des chocs, des rayures et des projections d’eau lors de vos déplacements quotidiens, cette housse élégante en tissu chiné allie sobriété professionnelle et haute sécurité. Son compartiment principal molletonné absorbe les vibrations et impacts, tandis que sa doublure intérieure ultra-douce préserve le châssis de votre machine.\n\nCaractéristique\nSpécification Détaillée\n\nType\nHousse pochette de protection fine antichoc pour ordinateur portable\n\nCompatibilité\nOrdinateurs portables, ultrabooks et MacBook de 14 à 15,6 pouces\n\nMatériaux\nToile polyester Oxford chinée imperméabilisée et doublure polaire douce\n\nCompartiments\n1 compartiment principal zippé rembourré + 1 poche frontale zippée\n\nProtection\nMatelassage mousse haute densité à mémoire de forme et angles renforcés\n\nSKU\n9900010930834",
+     "short_description": ": Housse d’ordinateur 14-15,6″ en tissu chiné marron avec intérieur rembourré antichoc et poche frontale zippée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/f795b34e-de53-4775-aa9f-1da2219711c3.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/10/2d970772-6b4e-4ee8-9ba5-f006934654f5.webp"
    ]
   },
   {
-   "sku": "doshift-117569",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de Service à Fromage 3 Pièces en Bambou avec Couteau & Fourchette Inox",
-     "description": "Conçu pour sublimer la dégustation des fromages, charcuteries et tapas lors de vos réceptions, ce service 3 pièces allie la chaleur authentique du bambou naturel à l’efficacité de l’acier inoxydable. Sa planche ergonomique à manche permet de découper et de présenter vos sélections gourmandes avec élégance, directement de la cuisine à la table basse.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nService à fromage et charcuterie 3 pièces avec planche palette et couverts assortis (3-Piece Cheese Board Set)\n\nComposition du set\n3 éléments : Planche à découper en bambou avec manche + Couteau pelle à fromage + Fourchette 2 dents\n\nMatériau de la planche\nBois de bambou naturel compressé de qualité alimentaire, imputrescible et doux pour le tranchant des lames\n\nCouverts de service\nLames en acier inoxydable massif inoxydable poli avec manches cylindriques ergonomiques en bambou massif\n\nPraticité & Rangement\nManche profilé avec orifice de suspension et lacet en cuir marron pour accroche murale\n\nSKU\n9900010929470",
-     "short_description": "Service à fromage 3 pièces en bambou naturel avec planche palette à suspendre, couteau pelle et fourchette à 2 dents en inox."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/b204d601-7f2a-4a4b-a7a2-3607c3799394.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-117550",
+   "sku": "doshift-122100",
    "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Réchaud à Gaz Portable 1 Feu avec Mallette Happy Home BDZ-155-A (2500W)",
-     "description": "Indispensable pour la cuisine en plein air, le camping, les sorties en mer, les pique-niques ou comme solution de secours fiable en cas de coupure de courant à la maison, le réchaud à gaz portable Happy Home BDZ-155-A offre une cuisson puissante et instantanée où que vous soyez. Doté d’un brûleur haute puissance de 2500 W et d’un allumage piézo-électrique qui évite l’usage d’allumettes ou de briquet, il permet de faire bouillir de l’eau, saisir des grillades ou mijoter un plat en quelques minutes.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nRéchaud à gaz butane portable 1 feu avec mallette rigide (Portable Gas Stove)\n\nPuissance & Brûleur\nBrûleur vortex haute performance de 2,2 à 2,5 kW (~8000 BTU) à flamme rotative réglable\n\nSystème d’allumage\nAllumage automatique piézo-électrique instantané intégré à la molette (sans allumette)\n\nSécurité d’alimentation\nLevier de verrouillage mécanique de cartouche et soupape de coupure automatique en cas de surpression\n\nAlimentation & Autonomie\nCompatible cartouches de gaz butane standard 220g / 227g type MSF-1a (consommation : ~155 g/h)\n\nSKU\n9900010929449",
-     "short_description": "Réchaud à gaz portable 2500 W avec allumage piézo automatique, sécurité anti-surpression et mallette rigide de transport."
+     "name": "Sac à Dos Scolaire Fille Princesse Relief 3D Rose et Violet",
+     "description": "Idéal pour accompagner les élèves de la maternelle au primaire, ce cartable princesse associe un visuel féerique en relief 3D thermoformé à une robustesse adaptée au quotidien scolaire. Sa conception à double compartiment zippé permet d’organiser facilement les grands cahiers A4, les livres et la trousse, tandis que ses poches latérales en filet gardent la gourde à portée de main.\n\nCaractéristique\nSpécification Détaillée\n\nType\nCartable et sac à dos scolaire pour fille avec panneau frontal 3D\n\nCompartiments\n2 grands compartiments zippés étagés (format A4) et 2 poches latérales filet\n\nMatériaux\nToile Oxford polyester imperméable rose et coque frontale rigide thermoformée\n\nFermetures\nFermetures à glissière renforcées bicolores avec tirettes ergonomiques souples\n\nErgonomie\nBretelles matelassées respirantes ajustables et poignée supérieure rembourrée\n\nSKU\n9900004552332",
+     "short_description": "Sac à dos scolaire fille 40 × 30 cm rose et bleu avec motif princesse en relief 3D et 2 compartiments zippés."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/9d0f5acd-e72e-4775-9e4e-a0f68c484a3e.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-117211",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte de Rangement Chaussures Pliable Sous Lit — Double Ouverture Zippée Transparente",
-     "description": "Optimisez l’espace de votre chambre et protégez vos souliers préférés de la poussière grâce à cette boîte de rangement sous lit grand format. Pensée pour un accès instantané au quotidien, elle dispose d’une conception ingénieuse à double fermeture éclair : un grand couvercle transparent supérieur pour ordonner vos paires par saison\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nBac / Organiseur de rangement pliable pour chaussures sous lit et dressing\n\nSystème d’accès double\nDouble ouverture zippée : grand couvercle supérieur complet + volet d’accès frontal rapide\n\nVisibilité & Aération\nFenêtres panoramiques en PVC transparent et parois en maille textile blanche respirante anti-poussière\n\nCapacité & Compartimentage\nLoge 4 à 6 paires d’adultes (baskets, escarpins, mocassins) avec cloisons séparatrices souples\n\nManiabilité & Structure\nPoignées de tirage latérales renforcées en sangle blanche, armature pliable à plat à vide\n\nSKU\n9900010929272",
-     "short_description": "Bac de rangement chaussures extra-plat sous lit avec parois aérées en filet, double ouverture transparente zippée et poignées de tirage."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/32e0822e-7ebd-404f-bdf0-240487f0cd7f.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/10/8d766ee4-389a-4ce3-9436-3bba28951640.webp"
    ]
   }
  ]

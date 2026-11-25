@@ -1,65 +1,66 @@
 {
  "products": [
   {
-   "sku": "doshift-46742",
-   "price": 189,
+   "sku": "doshift-54904",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Nokia 106 Dual Sim Dark Gray",
-     "description": "Beschrijving van de Nokia 106 Dual Sim Black Vind je de uitgebreide functionaliteiten van een smartphone niet nodig, maar wil je wel overal bereikbaar zijn? De Nokia 105 (2019) Black is dan een goede keuze! Deze mobiele telefoon doet precies waar een telefoon voor gemaakt is: bellen. Daarnaast heeft het toestel een zacht prijsje, dus dat is mooi meegenomen. De telefoon is te bedienen met fysieke knoppen. Verder is",
-     "short_description": "Beschrijving van de Nokia 106 Dual Sim Black Vind je de uitgebreide functionaliteiten van een smartphone niet nodig, maar wil je wel overal bereikbaar zijn? De Nokia 105 (2019) Black is dan een goede keuze!"
+     "name": "Mini Machine à Coudre Portable, qualité supérieure",
+     "description": "Pratique et rapide : Vous pouvez coudre sans vous déshabiller",
+     "short_description": "Pratique et rapide : Vous pouvez coudre sans vous déshabiller"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589308-41_2.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/1768058727-1_1.webp"
    ]
   },
   {
-   "sku": "doshift-46732",
-   "price": 229,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Nokia 150 TÉLÉPHONE PORTABLE, Écran Clair et Clavier Confortable, Couleur aléatoir",
-     "description": "Écran: 2.4″ QVGA – Système opérateur: S30+ – Mémoire: 32Mo – Stockage: Prise en charge des cartes MicroSD jusqu’à 32 Go – Capacité Batterie: 1450mAh – Appareil photo 0.3MP avec flash – lecteur MP3, Enregistreur vocal (nécessite une carte MicroSD) – Double SIM – Radio FM double modes filaire et sans fil – Résistant à l’eau: IP52 – Couleur aléatoir",
-     "short_description": "Écran: 2.4″ QVGA – Système opérateur: S30+ – Mémoire: 32Mo – Stockage: Prise en charge des cartes MicroSD jusqu’à 32 Go – Capacité Batterie: 1450mAh – Appareil photo 0.3MP avec flash – lecteur MP3, Enregistreur vocal…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589294-39_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46673",
+   "sku": "doshift-54890",
    "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    13
+    10,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Gants demi-doigts sport 2pcs unisexes",
-     "description": "Les gants de sport à demi-doigt pour hommes et femmes sont fabriqués avec des matériaux de haute qualité pour garantir confort et durabilité.\n\nLe design à demi-doigt permet une adhérence optimale tout en laissant les doigts libres.\n\nIls offrent un soutien essentiel, minimisant les frottements et les ampoules.\n\nDotés de coutures renforcées et de matériaux respirants, ils permettent une évacuation efficace de la transpiration.\n\nLa conception unisexe les rend adaptés à la fois pour les hommes et les femmes.\n\nPâte réglable en toute sécurité, tissu perforé confortable et respirant, paume anti-glisse et durable, processus de couture résistant à l’usure.\n\nModèle: Gants, Poids (kg): 0.3, Couleur: multi-couleur, Matière principale: Polyester.",
-     "short_description": "Les gants de sport à demi-doigt pour hommes et femmes sont fabriqués avec des matériaux de haute qualité pour garantir confort et durabilité."
+     "name": "Chaussettes Gel Talon – Protection & Confort des Pieds",
+     "description": "Offrez plus de confort à vos talons au quotidien avec ces chaussettes gel talon au design ouvert. Grâce à leur coussinet en gel intégré, elles aident à réduire les frottements, amortir les pressions et protéger la zone du talon pendant la marche, le sport ou les activités de tous les jours.\n\nLeur matière souple et respirante assure un port agréable, tandis que la conception ouverte au niveau des orteils permet une meilleure liberté de mouvement. Idéales à porter à la maison, avec des chaussures ou après une longue journée debout.\n\nCaractéristique\nDétail\n\nProduit\nChaussettes gel talon\n\nDesign\nOuvert au niveau des orteils\n\nMatière\nTissu extensible avec coussinet en gel\n\nUtilisation\nProtection du talon, marche, sport, usage quotidien\n\nAvantages\nAide à réduire les frottements et les pressions\n\nConfort\nSouple, respirant et discret\n\nContenu\n1 paire\n\nCouleur\nBleu\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Offrez plus de confort à vos talons au quotidien avec ces chaussettes gel talon au design ouvert."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589085-27_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-06-17T165918.260.png"
    ]
   },
   {
-   "sku": "doshift-46617",
-   "price": 139,
+   "sku": "doshift-54889",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support de rangement de bijoux avec miroir, boite de boucles d’oreilles",
+     "description": "Nom de l’article : Boîte de rangementMatériau : ABSCaractéristiques : Quatre couches, avec miroir,Taille de stockage de bijoux : 11.5 cm x 6.5 cm x 23.5 cm",
+     "short_description": "Nom de l’article : Boîte de rangementMatériau : ABSCaractéristiques : Quatre couches, avec miroir,Taille de stockage de bijoux : 11.5 cm x 6.5 cm x 23.5 cm"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057953-19_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-54888",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -67,56 +68,97 @@
    ],
    "locales": {
     "fr": {
-     "name": "Ceinture minceur – GAINE NOIRE – STANDARD – SBR – Tissu éponge – Resserrement des fesses",
-     "description": "Découvrez notre ceinture minceur noire en SBR et tissu éponge, taille standard . Elle offre un maintien optimal, sculpte la taille et remonte les fesses pour un effet amincissant. Idéale pour un look affiné et confortable au quotidien.",
-     "short_description": "Découvrez notre ceinture minceur noire en SBR et tissu éponge, taille standard . Elle offre un maintien optimal, sculpte la taille et remonte les fesses pour un effet amincissant."
+     "name": "Rasoir Électrique de Précision pour Visage – Épilateur Portable Indolore",
+     "description": "Obtenez une peau parfaitement lisse en quelques secondes grâce à ce rasoir électrique de précision spécialement conçu pour le visage. Compact, élégant et facile à utiliser, il élimine efficacement les poils indésirables du menton, de la lèvre supérieure, des joues ou du cou sans irritation ni douleur.\n\nSa tête de coupe rotative de haute précision assure un rasage doux et uniforme, tout en respectant les peaux sensibles. Son format compact en forme de rouge à lèvres permet de le transporter facilement dans un sac à main ou une trousse de maquillage pour des retouches rapides à tout moment de la journée.\n\nIdéal pour une utilisation quotidienne, ce mini épilateur facial offre une solution rapide, discrète et efficace pour garder un visage impeccable.\n\nCaractéristique\nDétail\n\nType de produit\nRasoir électrique de précision visage\n\nUtilisation\nLèvre supérieure, menton, joues, cou\n\nTechnologie\nTête rotative de coupe de précision\n\nFonction\nÉlimination douce des poils du visage\n\nDesign\nFormat compact type rouge à lèvres\n\nUtilisation\nSans douleur, adapté aux peaux sensibles\n\nPortabilité\nLéger et facile à transporter\n\nAlimentation\nbatterie\n\nRéférence DOSHIFT\nAA5BB099",
+     "short_description": "Obtenez une peau parfaitement lisse en quelques secondes grâce à ce rasoir électrique de précision spécialement conçu pour le visage."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589003-15_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-11T225911.735.png"
    ]
   },
   {
-   "sku": "doshift-46576",
-   "price": 179,
+   "sku": "doshift-54718",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    7
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Mini Compresseur de Roue voiture",
-     "description": "Le Mini compresseur d’air de 250 PSI est parfait en cas d’urgence routière inattendue. Il est idéal pour gonfler les pneus de voiture et de vélo balles de sport et autres travaux de gonflage. Notre article est très facile à utiliser. Branchez simplement l’allume-cigare de votre voiture pour l’alimentation et glissez l’adaptateur universel sur n’importe quelle Valve de pneu et vous êtes prêt à gonfler!\n\nCaractéristique\n\nTout Neuf Et Durable\n\nExcellent Pour Les Urgences En Bordure de route\n\nParfait pour les voitures, les vélos et les gonfleurs\n\nUn gonflage approprié des pneus vous permet d’économiser de l’argent avec un meilleur kilométrage d’essence et une durée de vie plus longue des pneus\n\nVous évite un voyage à la Station-service\n\nFonctionne à partir de la prise allume-cigare d’un DC- 12V\n\nInterrupteur et jauge intégrés\n\nAvec buse de gonflage et aiguille de sport\n\nConception appropriée pour installer le tuyau et le cordon\n\nIdéal pour gonfler tous les pneus de véhicule et autres gonflables haute pression",
-     "short_description": "Le Mini compresseur d’air de 250 PSI est parfait en cas d’urgence routière inattendue. Il est idéal pour gonfler les pneus de voiture et de vélo balles de sport et autres travaux de gonflage."
+     "name": "Porte-Documents Bureau – Plateau Organisateur A4 Empilable",
+     "description": "Optimisez votre espace de travail avec ce plateau porte-documents pratique et moderne. Conçu pour accueillir des feuilles format A4, dossiers ou courriers, il permet de garder votre bureau organisé et vos documents à portée de main. Sa conception empilable permet d’ajouter plusieurs niveaux selon vos besoins, idéal pour le tri professionnel. Parfait pour les bureaux, écoles, administrations ou home-office.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType de produit\nPlateau porte-documents\n\nFormat compatible\nA4 & dossiers\n\nFonction\nTri & organisation\n\nSystème\nEmpilable (multi-plateaux)\n\nMatériau\nPlastique renforcé\n\nDesign\nErgonomique & pratique\n\nUtilisation\nBureau, administration, home-office\n\nColoris\nGris (selon disponibilités)\n\nEntretien\nNettoyage facile\n\nInstallation\nSans montage, prêt à l’emploi\n\nPoids\nLéger\n\nMarque / Modèle\nStandard\n\nRéférence-doshift\nAA2BB099",
+     "short_description": "Optimisez votre espace de travail avec ce plateau porte-documents pratique et moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764582030-6_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/a8d18480-9638-4bef-989a-e680aa231dba.jpeg"
    ]
   },
   {
-   "sku": "doshift-46556",
-   "price": 69,
+   "sku": "doshift-54696",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    7
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Housse de Pommeau de Levier de Vitesse Antidérapante en Silicone – Confort et Protection Universelle",
-     "description": "La housse de pommeau de levier de vitesse en silicone est un accessoire essentiel pour améliorer le confort et la prise en main lors de la conduite. Fabriquée en silicone souple et flexible, elle s’adapte facilement à la majorité des pommeaux de vitesse tout en protégeant contre l’usure, les rayures et la chaleur.\n\nGrâce à sa surface texturée avec points antidérapants, elle offre une excellente adhérence, même par temps chaud ou humide. Douce au toucher et agréable à utiliser, cette housse apporte également une touche moderne et soignée à l’intérieur de votre véhicule.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nHousse de pommeau de levier de vitesse\n\nMatériau\nSilicone souple et flexible\n\nTexture\nSurface à points antidérapants\n\nConfort\nDoux au toucher, prise en main agréable\n\nFonction\nAméliore l’adhérence et protège le pommeau\n\nCompatibilité\nUniverselle – convient à la majorité des véhicules\n\nInstallation\nSimple et rapide, sans outils\n\nEntretien\nLavable et facile à nettoyer\n\nUtilisation\nConduite quotidienne, ville et route\n\nRéférence-doshift\nAA0BB899",
-     "short_description": "La housse de pommeau de levier de vitesse en silicone est un accessoire essentiel pour améliorer le confort et la prise en main lors de la conduite."
+     "name": "Sac de Rangement XL à Carreaux – Grande Capacité – Couleurs Selon Disponibilité",
+     "description": "Ce sac de rangement XL à carreaux est idéal pour transporter, organiser et stocker vos vêtements, couvertures, linge de maison, accessoires ou courses. Conçu avec une matière robuste et imperméable, il offre une très grande capacité tout en restant pliable, facile à transporter et à ranger. Que ce soit pour le demenagement, le voyage, le stockage domestique ou le coffre de voiture, c’est l’indispensable du quotidien !\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType de produit\nSac de rangement XL\n\nMatière\nPolyéthylène tissé renforcé\n\nCapacité\nTrès grande capacité de stockage\n\nFermeture\nFermeture zippée robuste\n\nPoignées\nPoignées renforcées pour transport\n\nUsage\nMaison, déménagement, voyage, linge, coffre voiture\n\nAvantages\nRésistant – Imperméable – Pliable – Léger\n\nCouleurs disponibles\nNoir, Bleu, Vert, Rouge, Beige (selon stock)\n\nFormat\nXL\n\nEntretien\nLavable facilement à l’éponge\n\nRéférence-doshift\nAA5BB599",
+     "short_description": "Ce sac de rangement XL à carreaux est idéal pour transporter, organiser et stocker vos vêtements, couvertures, linge de maison, accessoires ou courses."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_kheonykheonykheo-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/unnamed-54-1.jpg"
    ]
   },
   {
-   "sku": "doshift-45772",
-   "price": 99,
+   "sku": "doshift-54335",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Parapluie Bouteille DECO – Compact, Élégant & Ultra-Pratique",
+     "description": "Le Parapluie Bouteille DECO se distingue par son design innovant en forme de bouteille, alliant style moderne et praticité quotidienne. Facile à transporter, il se glisse parfaitement dans un sac sans mouiller vos affaires grâce à son étui étanche intégré. Idéal pour les déplacements urbains, il offre une protection efficace contre la pluie tout en apportant une touche élégante et originale.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nParapluie compact\n\nDesign\nForme bouteille élégante\n\nOuverture\nManuelle\n\nTissu\nToile imperméable haute résistance\n\nStructure\nArmature solide anti-vent\n\nÉtui\nÉtui bouteille étanche anti-goutte\n\nPortabilité\nUltra-compact et léger\n\nUtilisation\nQuotidienne, voyage, travail, école\n\nStyle\nModerne & minimaliste\n\nCouleur\nBleu (selon disponibilité)\n\nRéférence-doshift\nAA6BB599",
+     "short_description": "Le Parapluie Bouteille DECO se distingue par son design innovant en forme de bouteille, alliant style moderne et praticité quotidienne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_j9ztq5j9ztq5j9zt-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-54321",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Balai Serpillière Scratch S6 avec Seau – Nettoyage 360° Clean Max",
+     "description": "Le balai serpillière Scratch S6 est une solution de nettoyage moderne et efficace, conçue pour simplifier l’entretien de votre maison. Grâce à son design intégré lavage + essorage, son seau double compartiment et sa tête rotative à 360°, il permet de nettoyer facilement tous types de sols, même les zones difficiles d’accès. Pratique, hygiénique et ergonomique, le Scratch S6 est idéal pour un usage quotidien sans effort ni contact direct avec l’eau sale.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBalai serpillière avec seau\n\nModèle\nScratch S6\n\nSystème\nLavage et essorage intégrés\n\nCompartiments\nDouble compartiment (eau propre / eau sale)\n\nRotation\nTête pivotante 360°\n\nDesign\nSeau compact avec poignée\n\nUtilisation\nNettoyage des sols (carrelage, marbre, parquet, etc.)\n\nConfort\nSans contact avec l’eau\n\nMarque\nHousework – Cleaning Expert\n\nFonction spéciale\nClean Max\n\nRéférence-doshift\nAA12BB099",
+     "short_description": "Le balai serpillière Scratch S6 est une solution de nettoyage moderne et efficace, conçue pour simplifier l’entretien de votre maison."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/001e35a6-4de8-469b-8fdb-4fb40c7d06eb-1.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-54309",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -125,70 +167,34 @@
    ],
    "locales": {
     "fr": {
-     "name": "Gants Moto Thermiques & Antidérapants – Confort, Sécurité et Style",
-     "description": "Découvrez les gants parfaits pour la conduite moto, le vélo ou les activités extérieures. Leur conception moderne allie chaleur, confort et sécurité. Grâce à leur tissu coupe-vent, leur doublure thermique et leur excellente adhérence, ils garantissent une prise en main optimale du guidon tout en gardant vos mains au chaud. Leur fermeture zippée offre un ajustement parfait et un look moderne adapté à tous les styles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nGants thermiques coupe-vent pour moto / vélo\n\nMatériau\nTissu Coupe-Wind, épais et résistant aux intempéries\n\nDoublure\nDoublure thermique chaude – maintien de la chaleur\n\nAdhérence\nPaume antidérapante pour meilleure tenue du guidon\n\nFermeture\nFermeture zippée robuste et pratique\n\nStyle\nDesign moderne et confortable\n\nProtection\nRésistance au vent, au froid et aux éclaboussures\n\nDimensions\nTaille universelle (unisex)\n\nUtilisation\nMoto, scooter, vélo, randonnée, activités hivernales\n\nDurabilité\nCoutures renforcées & matériaux résistants\n\nConfort\nAjustement ergonomique + liberté de mouvement\n\nAvantage clé\nChauds, adhérents, pratiques et stylés\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Découvrez les gants parfaits pour la conduite moto, le vélo ou les activités extérieures. Leur conception moderne allie chaleur, confort et sécurité."
+     "name": "Chargeur Voiture 4-en-1 Starry Sky – Fast Charging USB & Type-C 66W",
+     "description": "Le chargeur voiture Starry Sky 4-en-1 est un accessoire polyvalent et innovant qui combine charge rapide et ambiance lumineuse élégante. Compatible avec USB, Type-C et iOS, il permet de recharger plusieurs appareils simultanément tout en profitant d’un effet projection “Starry Sky” unique dans votre véhicule. Grâce à la technologie PD 3.0, il assure une charge rapide, stable et sécurisée pour smartphones, tablettes et autres appareils électroniques, idéal pour les trajets quotidiens comme les longs voyages.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nChargeur voiture multifonction\n\nModèle\nStarry Sky Lamp\n\nFonctions\nCharge + projection lumineuse\n\nNombre de ports\n4-en-1\n\nPorts\nUSB + Type-C + iOS\n\nTechnologie\nFast Charging / PD 3.0\n\nCompatibilité\nAndroid, iPhone, tablettes, GPS, accessoires USB\n\nUtilisation\nVoiture (prise allume-cigare)\n\nSécurité\nProtection contre surtension et surcharge\n\nDesign\nCompact avec éclairage Starry Sky\n\nRéférence-doshift\nAA9BB099",
+     "short_description": "Le chargeur voiture Starry Sky 4-en-1 est un accessoire polyvalent et innovant qui combine charge rapide et ambiance lumineuse élégante."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_pchqbypchqbypchq-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_etsnietsnietsnie-1-1-1.png"
    ]
   },
   {
-   "sku": "doshift-45735",
-   "price": 189,
+   "sku": "doshift-54327",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2,
+    4,
+    5
    ],
    "locales": {
     "fr": {
-     "name": "Bouilloire Électrique Rapide 1.8L – Acier Inoxydable – 2200W, Rotation 360°",
-     "description": "Profitez d’une ébullition rapide et efficace avec cette bouilloire électrique de 1,8 litre, idéale pour préparer thé, café, tisanes ou eau chaude en quelques instants. Conçue en acier inoxydable, elle associe résistance, élégance et praticité pour un usage quotidien à la maison ou au bureau.\n\nGrâce à sa puissance de 2200W, elle chauffe l’eau rapidement pour vous faire gagner du temps. Sa base rotative à 360° facilite la prise en main et convient aussi bien aux droitiers qu’aux gauchers. Son design compact avec poignée ergonomique assure une utilisation confortable et sécurisée.\n\nSon corps en acier inoxydable apporte une bonne durabilité et un aspect moderne qui s’intègre facilement dans toutes les cuisines. Avec sa capacité de 1,8L, elle convient parfaitement aux besoins d’une famille ou d’un usage régulier.\n\nCaractéristique\nDétail\n\nType de produit\nBouilloire électrique\n\nCapacité\n1,8 L\n\nPuissance\n2200W\n\nMatière\nAcier inoxydable\n\nRotation de la base\n360°\n\nPoignée\nErgonomique\n\nUtilisation\nThé, café, tisanes, eau chaude\n\nDesign\nModerne et compact\n\nAlimentation\nÉlectrique\n\nRéférence Doshift\nAA10BB699",
-     "short_description": "Profitez d’une ébullition rapide et efficace avec cette bouilloire électrique de 1,8 litre, idéale pour préparer thé, café, tisanes ou eau chaude en quelques instants."
+     "name": "Écouteurs Bluetooth REVOOX WAVE – RBE-P09 (Noir)",
+     "description": "Les écouteurs Bluetooth REVOOX WAVE (RBE-P09) offrent une expérience audio fluide et stable grâce à la technologie Bluetooth 5.3, garantissant une connexion rapide et une faible latence. Leur design compact et élégant en couleur noire les rend parfaits pour une utilisation quotidienne : appels, musique, travail ou sport. Avec leur boîtier de charge pratique et leur port Type-C, ils assurent une recharge rapide et une autonomie adaptée à vos besoins.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nREVOOX\n\nModèle\nWAVE – RBE-P09\n\nTechnologie Bluetooth\nBluetooth V5.3\n\nDistance de transmission\nJusqu’à 10 mètres\n\nCapacité batterie (boîtier)\n200 mAh\n\nPort de charge\nType-C\n\nAutonomie en conversation\n3,5 à 4 heures\n\nTemps de charge\nEnviron 1,5 heure\n\nUtilisation\nAppels & musique\n\nCouleur\nNoir\n\nRéférence-DOSHIFT\nAA12BB599",
+     "short_description": "Les écouteurs Bluetooth REVOOX WAVE (RBE-P09) offrent une expérience audio fluide et stable grâce à la technologie Bluetooth 5.3, garantissant une connexion rapide et une faible latence."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-08T153736.331.png"
-   ]
-  },
-  {
-   "sku": "doshift-45730",
-   "price": 229,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Étagère Murale de Cuisine Multi-Niveaux – Sans Perçage – Rangement Vertical (Couleur selon disponibilité)",
-     "description": "Cette étagère murale multi-niveaux est la solution idéale pour organiser la cuisine sans encombrer le plan de travail. Conçue pour être suspendue, elle optimise l’espace grâce à son rangement vertical pratique. Son tiroir intégré permet de stocker les plats et ustensiles à l’abri des odeurs tout en offrant un accès rapide. Facile à installer sans perçage, elle peut être déplacée ou repositionnée selon les besoins. Fabriquée en ABS durable, elle est simple à nettoyer, sèche rapidement et garantit une utilisation quotidienne confortable. Parfaite pour garder une cuisine propre, ordonnée et fonctionnelle.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nPlats de Service\n\nType de produit\nÉtagère murale de cuisine multi-niveaux\n\nInstallation\nSans perçage – fixation simple et repositionnable\n\nFonction principale\nRangement vertical pour gain d’espace\n\nTiroir intégré\nOui – pour plats et ustensiles\n\nAvantages\nRéduit l’encombrement, accès facile, hygiénique\n\nMatériau principal\nABS durable\n\nCouleur\nVert (selon disponibilité)\n\nEntretien\nFacile à nettoyer, séchage rapide\n\nUtilisation\nCuisine, rangement d’ingrédients et ustensiles\n\nInstallation requise\nAucun perçage",
-     "short_description": "Cette étagère murale multi-niveaux est la solution idéale pour organiser la cuisine sans encombrer le plan de travail. Conçue pour être suspendue, elle optimise l’espace grâce à son rangement vertical pratique."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_g24g9pg24g9pg24g-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-45720",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse Autoadhésive Insonorisée pour Porte – Imperméable & Anti-Vent (Couleur Selon Disponibilité)",
-     "description": "La brosse autoadhésive insonorisée pour porte est l’accessoire idéal pour améliorer l’isolation de votre maison. Conçue en ABS noir avec une bande en caoutchouc de haute qualité, elle protège efficacement contre le vent, la poussière, l’eau et le bruit extérieur. Facile à installer sans outil, elle se découpe à la longueur souhaitée et s’adapte parfaitement aux portes coulissantes, fenêtres, placards et portes de sécurité. Durable, imperméable et anti-vieillissement, elle réduit les frottements et prolonge la durée de vie des ouvertures tout en renforçant le confort intérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBande brosse autoadhésive insonorisée pour porte\n\nMatériau\nABS + caoutchouc\n\nCouleur\nSelon disponibilité\n\nPoids\n0,2 kg\n\nFonctions principales\nInsonorisante, imperméable, coupe-vent, anti-poussière, anti-vieillissement\n\nInstallation\nAutoadhésive, facile à couper et à poser sans outils\n\nRéduction du bruit\nOui – diminue les sons extérieurs et les impacts de portes coulissantes\n\nProtection\nProtège portes et fenêtres contre l’abrasion\n\nCompatibilité\nPortes coulissantes, fenêtres coulissantes, portes de placard, portes de sécurité\n\nUtilisation\nIsolation, protection, réduction du bruit et des infiltrations",
-     "short_description": "La brosse autoadhésive insonorisée pour porte est l’accessoire idéal pour améliorer l’isolation de votre maison."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764358405-405_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_4bgq6p4bgq6p4bgq-1.png"
    ]
   }
  ]

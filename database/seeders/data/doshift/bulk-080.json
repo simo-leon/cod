@@ -1,187 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-60210",
-   "price": 359,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coffret Parfumé 3-en-1 – Rituel Olfactif Complet & Élégant",
-     "description": "Offrez une expérience parfumée complète grâce à ce coffret élégant réunissant trois essentiels complémentaires. Conçu pour accompagner chaque moment de la journée, ce trio permet de superposer les textures et les intensités afin de créer un sillage personnalisé, du plus léger au plus concentré. La brume apporte fraîcheur, l’eau de parfum structure la fragrance et l’huile parfumée prolonge la tenue. Idéal pour une routine quotidienne raffinée ou comme cadeau élégant et intemporel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nComposition du coffret\nEau De Parfum · Body Mist · Perfume Oil\n\nContenances\nEau De Parfum 60 ml · Body Mist 250 ml · Perfume Oil 12 ml\n\nType de produits\nParfum vaporisateur (EDP) · Brume corporelle · Huile parfumée\n\nUtilisation recommandée\nBrume sur le corps, EDP sur les points de pulsation, huile en touche finale\n\nSuperposition\nOui, formats conçus pour être combinés\n\nOccasions\nUsage quotidien · Sorties · Cadeau\n\nPublic\nMixte\n\nRéférence-DOSHIFT\nAA25BB099",
-     "short_description": "Offrez une expérience parfumée complète grâce à ce coffret élégant réunissant trois essentiels complémentaires."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T033335-354.png"
-   ]
-  },
-  {
-   "sku": "doshift-60197",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Filtre CPL 67 mm à Clip pour Smartphone – Large Compatibilité",
-     "description": "Améliorez instantanément la qualité de vos photos et vidéos mobiles avec ce filtre CPL 67 mm à clip, conçu pour réduire les reflets indésirables sur les surfaces brillantes comme l’eau, le verre ou les écrans. Il aide aussi à renforcer le contraste et à rendre les couleurs plus riches et naturelles, pour un rendu plus propre et plus professionnel.\n\nCaractéristique\nDétail\n\nType de produit\nFiltre CPL pour smartphone\n\nDiamètre\n67 mm\n\nSystème de fixation\nClip / pince universelle\n\nFonction principale\nRéduction des reflets et amélioration du contraste\n\nCompatibilité\nCompatible avec la plupart des objectifs de téléphone portable\n\nUtilisation\nPhoto et vidéo mobile\n\nAccessoires inclus\nClip universel, filtre CPL, chiffon de nettoyage, cache objectif, étui de rangement\n\nCouleur\nNoir\n\nRéférence Doshift\nAA28BB099",
-     "short_description": "Améliorez instantanément la qualité de vos photos et vidéos mobiles avec ce filtre CPL 67 mm à clip, conçu pour réduire les reflets indésirables sur les surfaces brillantes comme l’eau, le verre ou les écrans."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T021943-739.png"
-   ]
-  },
-  {
-   "sku": "doshift-60173",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chapelet de Prière Élégant – Sérénité et Spiritualité au Quotidien",
-     "description": "Apporte calme, recueillement et raffinement à chaque moment de prière grâce à ce chapelet de prière (Tasbih) soigneusement conçu. Sa prise en main confortable et son enfilage fluide facilitent le dhikr et la méditation, permettant une utilisation agréable au quotidien. Avec sa finition soignée et sa pampille décorative, il constitue à la fois un accessoire spirituel essentiel et un objet élégant, idéal pour un usage personnel ou comme cadeau symbolique empreint de sens.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nChapelet de prière (Tasbih)\n\nNombre de perles\n99 perles\n\nMatériau\nPerles polies à finition lisse\n\nMontage\nFil résistant avec pampille décorative\n\nUtilisation\nPrière, dhikr, méditation\n\nPrise en main\nConfortable et fluide\n\nEntretien\nNettoyage doux avec chiffon sec\n\nRéférence-doshift\nAA0BB799",
-     "short_description": "Apporte calme, recueillement et raffinement à chaque moment de prière grâce à ce chapelet de prière (Tasbih) soigneusement conçu."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-04-01T201746.686.png"
-   ]
-  },
-  {
-   "sku": "doshift-60166",
-   "price": 100,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tasbih Perles de Prière – Méditation & Sérénité",
-     "description": "Apportez paix et concentration à vos moments spirituels avec ce tasbih élégant aux perles raffinées, conçu pour accompagner vos instants de méditation et de prière. Son design soigné et sa finition délicate en font un accessoire à la fois spirituel et esthétique.\n\nIdéal pour la prière quotidienne, la lecture et la dévotion, il favorise la concentration et la sérénité intérieure. Léger et agréable en main, il peut être utilisé à la maison, à la mosquée ou offert en cadeau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nTasbih / Chapelet de prière\n\nUtilisation\nMéditation, prière, lecture spirituelle\n\nPerles\nFinition lisse et brillante\n\nAccessoire\nPompon décoratif\n\nCouleur\nBleu (selon modèle)\n\nPrise en main\nConfortable et légère\n\nIdéal pour\nConcentration & sérénité\n\nUsage\nMaison, mosquée, cadeau spirituel\n\nRéférence – DOSHIFT\nAA2BB999",
-     "short_description": "Apportez paix et concentration à vos moments spirituels avec ce tasbih élégant aux perles raffinées, conçu pour accompagner vos instants de méditation et de prière."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/140d4705-19e0-42a1-8314-a916ce65fa28.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-60159",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tapis de Prière Islamique – Confort, Sérénité et Élégance Spirituelle",
-     "description": "Apportez un espace de recueillement serein et harmonieux à chaque prière grâce à ce tapis de prière islamique soigneusement conçu. Il offre une surface douce et agréable, assurant un confort optimal lors des différentes positions de la prière quotidienne.\n\nSes motifs inspirés de l’architecture islamique subliment les moments spirituels et créent une atmosphère apaisante, aussi bien à la maison qu’à la mosquée. Léger et facile à plier, il s’adapte parfaitement à un usage quotidien, aux déplacements ou comme cadeau spirituel plein de sens.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nTapis de prière islamique\n\nUtilisation\nPrière quotidienne, méditation, lecture du Coran\n\nMatière\nTissu doux et agréable au toucher\n\nConfort\nSurface rembourrée pour une meilleure posture\n\nDesign\nMotifs islamiques élégants et intemporels\n\nEntretien\nFacile à nettoyer et à entretenir\n\nTransport\nLéger, pliable et facile à transporter\n\nRéférence-DOSHIFT\nAA4BB599",
-     "short_description": "Apportez un espace de recueillement serein et harmonieux à chaque prière grâce à ce tapis de prière islamique soigneusement conçu."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T185934-510.png"
-   ]
-  },
-  {
-   "sku": "doshift-60154",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Caniveau de Sol Poussoir Anti-Odeur 10×10 cm – Évacuation Intelligente & Hygiène Optimale",
-     "description": "Optimisez l’évacuation de l’eau tout en bloquant efficacement les remontées d’odeurs grâce à ce caniveau de sol à mécanisme poussoir intelligent. Son système s’ouvre automatiquement sous le passage de l’eau et se referme une fois l’écoulement terminé, empêchant ainsi les mauvaises odeurs, les insectes et les remontées d’air.\n\nAvec son format compact 10 × 10 cm, il s’intègre facilement dans les espaces réduits tout en garantissant une installation discrète, propre et durable. Idéal pour les salles de bain, douches, cuisines ou balcons, il combine performance, hygiène et facilité d’entretien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCaniveau / siphon de sol poussoir\n\nDimensions\n10 × 10 cm\n\nSystème anti-odeur\nMécanisme poussoir automatique\n\nFonctionnement\nOuverture sous passage de l’eau, fermeture automatique\n\nInstallation\nÀ encastrer au sol\n\nUtilisation\nSalle de bain, douche, cuisine, balcon\n\nAvantage principal\nEmpêche les odeurs et les insectes\n\nEntretien\nNettoyage simple et rapide\n\nRéférence-DOSHIFT\nAA6BB099",
-     "short_description": "Optimisez l’évacuation de l’eau tout en bloquant efficacement les remontées d’odeurs grâce à ce caniveau de sol à mécanisme poussoir intelligent."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-01-31T192905-986.png"
-   ]
-  },
-  {
-   "sku": "doshift-60148",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Extension de Robinet Flexible 360° – Précision, Confort et Économie d’Eau",
-     "description": "Optimisez l’utilisation de votre robinet grâce à cette extension flexible à rotation complète, conçue pour diriger l’eau avec précision et améliorer le confort au quotidien. Sa rotation multidirectionnelle à 360° permet d’atteindre facilement chaque recoin de l’évier, idéale pour le lavage, le rinçage et le nettoyage.\n\nDotée d’une tête filtrante réglable, elle offre un jet maîtrisé qui réduit les éclaboussures, améliore l’efficacité et contribue à une utilisation plus économique de l’eau. Facile à installer sans outils, elle convient parfaitement à la cuisine comme à la salle de bain.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nExtension de robinet flexible\n\nRotation\n360° multidirectionnelle\n\nTête\nFiltrante réglable\n\nFonction\nOrientation précise du jet d’eau\n\nInstallation\nFacile, sans outils\n\nCompatibilité\nRobinets standards\n\nUtilisation\nCuisine et salle de bain\n\nRéférence-doshift\nAA2BB899",
-     "short_description": "Optimisez l’utilisation de votre robinet grâce à cette extension flexible à rotation complète, conçue pour diriger l’eau avec précision et améliorer le confort au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-01-31T202212-649.png"
-   ]
-  },
-  {
-   "sku": "doshift-60136",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coffret Parfumé Capri – Fraîcheur & Douceur au Quotidien",
-     "description": "Apportez une touche de fraîcheur et d’élégance à votre routine quotidienne grâce à ce coffret parfumé Capri, composé d’une brume parfumée et d’une lotion pour le corps assortie.La brume diffuse un parfum léger, féminin et raffiné, idéal pour une sensation de fraîcheur instantanée, tandis que la lotion hydrate la peau en profondeur tout en prolongeant délicatement le sillage parfumé.\n\nCette combinaison harmonieuse est parfaite pour un usage quotidien, après la douche ou à tout moment de la journée, et constitue également une excellente idée cadeau, grâce à sa présentation soignée et prête à offrir.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCoffret parfumé femme\n\nContenu\nBrume parfumée + lotion parfumée pour le corps\n\nBrume parfumée\n250 ml\n\nLotion parfumée\n236 ml\n\nParfum\nCapri\n\nFonction\nParfumer et hydrater la peau\n\nUtilisation\nUsage quotidien\n\nPrésentation\nCoffret prêt à offrir\n\nRéférence-doshift\nAA6BB599",
-     "short_description": "Apportez une touche de fraîcheur et d’élégance à votre routine quotidienne grâce à ce coffret parfumé Capri, composé d’une brume parfumée et d’une lotion pour le corps assortie.La brume diffuse un parfum léger, féminin…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-01T033827-704.png"
-   ]
-  },
-  {
-   "sku": "doshift-60184",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Manettes Gâchettes Gaming pour Smartphone",
-     "description": "Améliorez instantanément votre précision et votre réactivité en jeu grâce à ces gâchettes ergonomiques conçues pour les jeux mobiles compétitifs. Optimisez vos performances avec un déclenchement rapide et précis, idéal pour les jeux de tir et d’action. Fixez-les facilement sur votre smartphone et profitez d’un contrôle à 4 doigts pour tirer, viser et bouger simultanément sans gêner l’écran. Design compact, léger et antidérapant pour une prise en main confortable et stable, même pendant les longues sessions de jeu.\n\nCaractéristique\nDétail\n\nType\nGâchettes gaming pour smartphone\n\nCompatibilité\nCompatible avec la majorité des smartphones (mode paysage)\n\nInstallation\nSystème à clip, fixation rapide sans outil\n\nUtilisation\nJeux FPS, Battle Royale, jeux d’action\n\nMatériau\nStructure robuste avec bouton réactif\n\nAvantage principal\nAméliore la précision et la rapidité de tir\n\nContenu\nLot de 2 gâchettes",
-     "short_description": "Améliorez instantanément votre précision et votre réactivité en jeu grâce à ces gâchettes ergonomiques conçues pour les jeux mobiles compétitifs."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-20T172413.154.png"
-   ]
-  },
-  {
-   "sku": "doshift-59980",
-   "price": 839,
+   "sku": "doshift-61680",
+   "price": 299,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -189,13 +10,189 @@
    ],
    "locales": {
     "fr": {
-     "name": "L’Héritage Sacré – Tableau de Prestige de la Kaaba",
-     "description": "Apportez une atmosphère de sérénité, de foi et de spiritualité à votre intérieur avec L’Héritage Sacré, un tableau de prestige représentant le Masjid al-Haram et la Kaaba. Cette œuvre d’art raffinée se distingue par ses détails en relief d’une grande précision, mettant en valeur l’architecture sacrée de La Mecque avec élégance et respect.\n\nSa finition argentée luxueuse, associée à des ornements géométriques délicats et des cristaux scintillants, confère à ce tableau une présence majestueuse qui illumine votre espace. Plus qu’un objet décoratif, il incarne un hommage quotidien à la foi, idéal pour un salon, une salle à manger ou un coin de prière. Livré avec son support d’exposition, il est également parfait comme cadeau spirituel de grande valeur pour les occasions importantes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTableau décoratif spirituel\n\nThème\nKaaba – Masjid al-Haram (La Mecque)\n\nDesign\nReprésentation en relief haute précision\n\nFinition\nArgentée luxueuse\n\nDétails décoratifs\nMotifs géométriques et cristaux étincelants\n\nSupport\nChevalet décoratif inclus\n\nUtilisation\nSalon, salle à manger, coin de prière\n\nStyle\nSpirituel, élégant et prestigieux\n\nOccasion\nAïd, mariage, pendaison de crémaillère\n\nRéférence-doshift\nAA63BB099",
-     "short_description": "Apportez une atmosphère de sérénité, de foi et de spiritualité à votre intérieur avec L’Héritage Sacré, un tableau de prestige représentant le Masjid al-Haram et la Kaaba."
+     "name": "Lamacom Poêle en inox 3 PLY (Diam 28 cm)",
+     "description": "Cette poêle 3 PLY allie durabilité, confort design et plaisir , parfaitement adaptée pour une cuisson saine et homogène de tous vos plats.\n\n100% en Inox 18/10 de haute qualité\n\nConception TRI-PLY : pour une cuisson intégrale et homogène du fond jusqu’en haut des parois grâce à ses 3 couches.\n\nManche en Inox , riveté et ergonomique : ne chauffe pas durant la cuisson.\n\nRobuste et durable : dure longtemps et résiste à toutes les épreuves.\n\nPolissage effet miroir : pour une élégance raffinée et un nettoyage facile.",
+     "short_description": "Cette poêle 3 PLY allie durabilité, confort design et plaisir , parfaitement adaptée pour une cuisson saine et homogène de tous vos plats."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Gemini_Generated_Image_1fuy1d1fuy1d1fuy-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-61764",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Solude 8 pièces 19-164 mm Scie cloche en acier au carbone, forets pour plâtre et bois, jeu de scies cloche",
+     "description": "Réalisez des découpes nettes et précises sur bois, plastique et plaques fines grâce à ce coffret de scies cloche complet. Idéal pour les travaux de bricolage, d’installation électrique ou de menuiserie, il permet de percer facilement différents diamètres avec un seul kit.\n\nLes lames en acier robuste assurent une bonne résistance à l’usure et une coupe efficace. Le coffret rigide facilite le rangement et le transport, tout en protégeant les accessoires. Compatible avec la plupart des perceuses standards, ce kit est conçu pour offrir polyvalence et praticité au quotidien.\n\nCaractéristique\nDétail\n\nType\nCoffret de scies cloche\n\nMatériau\nAcier robuste\n\nUtilisation\nBois, plastique, plaques fines\n\nCompatibilité\nPerceuse standard\n\nContenu\nPlusieurs diamètres + mandrin + clé Allen\n\nRangement\nCoffret rigide de protection\n\nUsage\nBricolage, installation, menuiserie\n\nRéférence-doshift\nAA6BB099",
+     "short_description": "Réalisez des découpes nettes et précises sur bois, plastique et plaques fines grâce à ce coffret de scies cloche complet."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-78.png"
+   ]
+  },
+  {
+   "sku": "doshift-61735",
+   "price": 809,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Friteuse à Air Chaud 10L 2200W – Puissance & Cuisson Saine MA-924",
+     "description": "Cuisinez sainement et efficacement grâce à cette friteuse à air chaud performante de 2200W, conçue pour préparer des plats croustillants avec peu ou sans huile. Sa grande capacité de 10 litres est idéale pour les familles ou les repas en groupe. Dotée d’un écran LCD tactile, elle permet un réglage précis de la température jusqu’à 200°C ainsi qu’un minuteur automatique pour une cuisson maîtrisée. Son design moderne et sa puissance élevée garantissent une cuisson homogène et des résultats dignes d’une cuisine professionnelle à domicile.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nMA-924\n\nCapacité\n10 Litres\n\nPuissance\n2200W\n\nVoltage\n220-240V / 50-60Hz\n\nTempérature\nJusqu’à 200°C\n\nContrôle\nÉcran LCD tactile\n\nFonctions\nCuisson, Friture sans huile, Arrêt automatique\n\nSécurité\nProtection contre la surchauffe\n\nRéférence – DOSHIFT\nAA63BB099",
+     "short_description": "Cuisinez sainement et efficacement grâce à cette friteuse à air chaud performante de 2200W, conçue pour préparer des plats croustillants avec peu ou sans huile."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-15T022746-564.png"
+   ]
+  },
+  {
+   "sku": "doshift-61656",
+   "price": 659,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aspirateur Balai Multifonction Flexible – Nettoyage Complet & Accès Facile",
+     "description": "Nettoyez efficacement toutes les surfaces de votre intérieur grâce à cet aspirateur balai polyvalent, conçu pour s’adapter à chaque situation du quotidien. Son tube flexible articulé permet d’atteindre facilement les zones difficiles d’accès, notamment sous les meubles, tandis que ses brosses motorisées assurent un nettoyage en profondeur sur sols durs, tapis et recoins étroits.Profitez d’une grande liberté de mouvement grâce à sa conception modulaire : utilisez-le en aspirateur balai, en aspirateur à main ou avec des accessoires spécifiques selon vos besoins. Son bac transparent sans sac et son système de filtration facilitent l’entretien tout en garantissant une aspiration constante et performante. Livré avec plusieurs embouts, c’est l’allié idéal pour un intérieur propre sans effort.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAspirateur balai multifonction\n\nUtilisation\nSols durs, tapis, meubles, coins et surfaces multiples\n\nTube flexible\nOui, articulé pour accès sous les meubles\n\nBrosses\nBrosses motorisées multi-surfaces\n\nModes d’utilisation\nBalai, aspirateur à main, avec accessoires\n\nAccessoires inclus\nBrosse principale, suceur plat, embout étroit, tête large\n\nBac à poussière\nTransparent, amovible, facile à vider\n\nEntretien\nFacile, sans sac\n\nRéférence-DOSHIFT\nAA48BB099",
+     "short_description": "Nettoyez efficacement toutes les surfaces de votre intérieur grâce à cet aspirateur balai polyvalent, conçu pour s’adapter à chaque situation du quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-04-21T161359.080.png"
+   ]
+  },
+  {
+   "sku": "doshift-61650",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Plafonnier LED Surface 20W – Éclairage Moderne, Uniforme & Économique",
+     "description": "Apportez un éclairage moderne et efficace à vos espaces grâce à ce plafonnier LED surface diffusant une lumière homogène et confortable. Son design fin et discret s’intègre facilement à tous les styles d’intérieur, qu’il s’agisse d’un salon, d’une chambre, d’un bureau, d’un couloir ou d’un espace professionnel.Conçu pour une installation simple en surface, il offre une excellente performance lumineuse tout en réduisant la consommation d’énergie jusqu’à 80 %, faisant de ce plafonnier une solution durable, fiable et économique pour un éclairage quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPlafonnier LED surface\n\nPuissance\n20W\n\nTempérature de couleur\n3000K (blanc chaud) / 6500K (blanc froid)\n\nÉconomie d’énergie\nJusqu’à 80 %\n\nInstallation\nMontage en surface (plafond / mur)\n\nDiffusion\nLumière uniforme et confortable\n\nUsage\nIntérieur : salon, chambre, bureau, couloir, boutique\n\nRéférence-DOSHIFT\nAA4BB599",
+     "short_description": "Apportez un éclairage moderne et efficace à vos espaces grâce à ce plafonnier LED surface diffusant une lumière homogène et confortable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-07T182541-512.png"
+   ]
+  },
+  {
+   "sku": "doshift-61577",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Souris Filaire USB Optique – Simplicité, Précision & Fiabilité",
+     "description": "Améliorez votre productivité au quotidien grâce à cette souris filaire USB conçue pour offrir une connexion stable, un suivi optique précis et une utilisation immédiate sans configuration. Son design fonctionnel avec deux boutons et une molette de défilement assure un contrôle naturel et fluide, idéal pour la navigation, le travail bureautique et les tâches courantes.Plug & Play, elle se connecte instantanément à votre ordinateur de bureau ou portable, garantissant une expérience fiable et sans interruption.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nConnexion\nFilaire USB\n\nSuivi\nOptique (Optical Tracking)\n\nLongueur du câble\nStandard\n\nCommandes\n2 boutons + molette de défilement\n\nCompatibilité\nPC & ordinateurs portables (USB)\n\nUsage\nBureautique, navigation quotidienne\n\nRéférence-DOSHIFT\nAA1BB199",
+     "short_description": "Améliorez votre productivité au quotidien grâce à cette souris filaire USB conçue pour offrir une connexion stable, un suivi optique précis et une utilisation immédiate sans configuration."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-07T061401-354.png"
+   ]
+  },
+  {
+   "sku": "doshift-61565",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Souris Filaire Ergonomique – Précision 1200 DPI & Confort Quotidien",
+     "description": "Améliorez votre expérience de jeu et de travail avec cette souris filaire conçue pour allier performance, précision et confort. Son design ergonomique épouse naturellement la main afin de réduire la fatigue lors d’une utilisation prolongée, tandis que son capteur optique haute précision garantit des mouvements fluides et réactifs.Polyvalente, elle convient aussi bien aux sessions gaming occasionnelles qu’à un usage bureautique intensif, offrant une prise en main stable et un contrôle fiable dans toutes les situations.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nSouris filaire\n\nUtilisation\nGaming & bureautique\n\nRésolution\n1200 DPI\n\nCapteur\nOptique haute précision\n\nPrise en main\nErgonomique, confortable\n\nConnexion\nUSB – Plug & Play\n\nCompatibilité\nWindows, macOS, Linux\n\nRéférence-DOSHIFT\nAA1BB899",
+     "short_description": "Améliorez votre expérience de jeu et de travail avec cette souris filaire conçue pour allier performance, précision et confort."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-07T053022-075.png"
+   ]
+  },
+  {
+   "sku": "doshift-61559",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Souris Optique USB M66 – Design Angulaire & Utilisation Fluide",
+     "description": "Optimisez votre navigation quotidienne avec la souris optique USB M66, au design angulaire moderne pensé pour offrir précision, confort et réactivité. Sa prise en main naturelle assure un contrôle fluide aussi bien au bureau qu’à la maison, tandis que son éclairage intégré apporte une touche dynamique à votre espace de travail ou de jeu. Simple à installer grâce au Plug & Play, elle garantit une utilisation fiable pour la navigation, le multimédia et le gaming occasionnel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nProduit\nSouris optique USB (Modèle M66)\n\nType\nFilaire\n\nConnexion\nUSB\n\nCapteur\nOptique\n\nCompatibilité\nPC / Laptop (Windows, macOS, Linux)\n\nInstallation\nPlug & Play (sans pilote)\n\nErgonomie\nPrise en main confortable\n\nUsage recommandé\nBureau, navigation, multimédia, gaming occasionnel\n\nRéférence-DOSHIFT\nAA2BB099",
+     "short_description": "Optimisez votre navigation quotidienne avec la souris optique USB M66, au design angulaire moderne pensé pour offrir précision, confort et réactivité."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-07T051256-068.png"
+   ]
+  },
+  {
+   "sku": "doshift-61514",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Souris optique sans fil – RAPOO – M10 Plus – 1000 DPI – Autonomie 12 mois – USB 3.0",
+     "description": "Découvrez la souris optique sans fil RAPOO M10 Plus, offrant une connexion fiable de 2,4 GHz et un capteur haute résolution de 1000 DPI. Sa conception compacte et confortable assure une utilisation agréable, avec jusqu’à 12 mois d’autonomie. Idéale pour un usage quotidien, elle fonctionne jusqu’à 10 mètres de distance.",
+     "short_description": "Découvrez la souris optique sans fil RAPOO M10 Plus, offrant une connexion fiable de 2,4 GHz et un capteur haute résolution de 1000 DPI."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/AAAMC70151_img1.webp"
+   ]
+  },
+  {
+   "sku": "doshift-61503",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Souris gaming filaire Razer Deathadder Essential – Noir (8886419333265)",
+     "description": "Précision, réactivité et confort réunis dans une seule souris. La Razer DeathAdder Essential offre un capteur optique de 6 400 DPI pour des mouvements ultra-précis, idéale pour les gamers exigeants. Son design ergonomique pour droitier garantit une prise en main naturelle, même pendant les sessions prolongées. Équipée de 5 boutons programmables et de switchs mécaniques durables (jusqu’à 10 millions de clics), elle assure une performance fiable et personnalisée. Le rétroéclairage vert ajoute une touche de style emblématique. Avec un câble de 1,8 m et un poids équilibré de 96 g, elle combine liberté de mouvement et stabilité pour une expérience de jeu fluide.",
+     "short_description": "Précision, réactivité et confort réunis dans une seule souris. La Razer DeathAdder Essential offre un capteur optique de 6 400 DPI pour des mouvements ultra-précis, idéale pour les gamers exigeants."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/souris-gaming-filaire-razer-deathadder-essential-noir-8886419333265.webp"
    ]
   }
  ]

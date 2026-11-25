@@ -1,7 +1,64 @@
 {
  "products": [
   {
-   "sku": "doshift-124036",
+   "sku": "doshift-126327",
+   "price": 105,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret Clé à Cliquet et Douilles Métriques (8 à 24 mm) – Kit d’Outillage Mécanique avec Rallonges et Poignée Ergonomique Rouge et Noir",
+     "description": "Réalisez vos travaux de bricolage, d’entretien et de mécanique avec précision grâce à ce coffret complet comprenant une clé à cliquet, une rallonge et un assortiment de douilles de 8 à 24 mm. Doté d’une poignée bi-matière rouge et noire antidérapante et d’un support de rangement pratique, il offre un excellent couple de serrage et une grande polyvalence.\n\nCaractéristique\nDétail\n\nType de produit\nCoffret clé à cliquet et douilles / Kit d’outillage mécanique\n\nMarque\nNon spécifié\n\nModèle\nAssortiment douilles 8-24 mm avec clé à cliquet et rallonge\n\nCouleur\nArgenté (acier), Noir et Rouge\n\nCompatibilité\nÉcrous et boulons métriques de 8 mm, 10 mm, 12 mm, 13 mm, 14 mm, 15 mm, 17 mm, 19 mm, 21 mm et 24 mm ; mécanique auto/moto, bricolage, montage et maintenance\n\nFonctionnalités\nClé à cliquet réversible avec poignée ergonomique rouge et noire, rallonge d’extension moletée pour zones difficiles d’accès, douilles métriques gravées (8, 10, 12, 13, 14, 15, 17, 19, 21, 24 mm), support de rangement noir avec clips rouges\n\nAvantages\nLarge plage de dimensions couvrant les formats courants, prise en main confortable et antidérapante, accès facilité aux vis encastrées grâce à la rallonge, rangement ordonné\n\nContenu de la boîte\n1 clé à cliquet, 1 rallonge, 10 douilles métriques (8 à 24 mm), 1 support de rangement noir\n\nDimensions du produit (cm)\nDouilles : 8 mm, 10 mm, 12 mm, 13 mm, 14 mm, 15 mm, 17 mm, 19 mm, 21 mm, 24 mm\n\nSKU\n700000000000199",
+     "short_description": "Réalisez vos travaux de bricolage, d’entretien et de mécanique avec précision grâce à ce coffret complet comprenant une clé à cliquet, une rallonge et un assortiment de douilles de 8 à 24 mm. Doté d’une poignée bi-matière rouge et noire antidérapante et d’un support de rangement pratique, il offre un excellent couple de serrage et une grande polyvalence."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-19T121703.950.png"
+   ]
+  },
+  {
+   "sku": "doshift-126314",
+   "price": 135,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte de Rangement en Céramique à Motif Floral et Oiseaux – Pot Décoratif avec Couvercle et Poignée Cristal",
+     "description": "Sublimez votre intérieur avec cette boîte de rangement décorative en céramique ornée d’un délicat motif floral, de feuillages et d’oiseaux. Dotée d’une finition dorée élégante et d’un bouton de préhension en cristal facetté sur le couvercle, elle allie raffinement et praticité pour ranger vos petits objets, sucreries ou accessoires.\n\nCaractéristique\nDétail\n\nType de produit\nBoîte de rangement décorative / Pot en céramique avec couvercle\n\nMarque\nNon spécifié\n\nModèle\nPot décoratif floral avec prise cristal et liseré doré\n\nCouleur\nBlanc crème / Ivoire avec motifs floraux multicolores, accents dorés et poignée transparente\n\nCompatibilité\nSalon, salle à manger, cuisine, coiffeuse, décoration intérieure, idée cadeau\n\nFonctionnalités\nCorps bombé en céramique émaillée, couvercle assorti avec bouton facetté façon cristal, bordure dorée décorative, illustration florale et oiseaux détaillée, livré en coffret illustré\n\nAvantages\nEsthétique chic et vintage apportant une touche décorative soignée, couvercle protégeant le contenu de la poussière, présentation en boîte idéale pour offrir\n\nContenu de la boîte\n1 boîte en céramique avec couvercle et poignée cristal, 1 coffret de présentation\n\nDimensions du produit (cm)\n\n Diamètre / Largeur : ~10,0 à 12,0 cm\n\n Hauteur totale (avec bouton) : ~13,0 à 15,0 cm\n\nSKU\n700000000000180",
+     "short_description": "Sublimez votre intérieur avec cette boîte de rangement décorative en céramique ornée d’un délicat motif floral, de feuillages et d’oiseaux. Dotée d’une finition dorée élégante et d’un bouton de préhension en cristal facetté sur le couvercle, elle allie raffinement et praticité pour ranger vos petits objets, sucreries ou accessoires."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-19T111923.171.png"
+   ]
+  },
+  {
+   "sku": "doshift-126305",
+   "price": 345,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gaufrier Électrique 4 Gaufres – Appareil à Gaufres Noir avec Plaques Antiadhésives et Poignée Isolante",
+     "description": "Préparez de délicieuses gaufres dorées et croustillantes en quelques minutes avec ce gaufrier électrique noir capable de cuire jusqu’à 4 gaufres simultanément[cite: 20]. Doté de plaques à empreintes profondes et d’une poignée ergonomique, il est idéal pour vos petits-déjeuners, goûters et desserts gourmands.\n\nCaractéristique\nDétail\n\nType de produit\nGaufrier électrique / Appareil à gaufres\n\nMarque\nNon spécifié\n\nModèle\nGaufrier 4 compartiments rectangulaires\n\nCouleur\nNoir\n\nCompatibilité\nCuisine domestique, préparation de gaufres sucrées ou salées, petits-déjeuners, brunchs et desserts\n\nFonctionnalités\nCapacité de cuisson de 4 gaufres en une seule tournée, plaques chauffantes à alvéoles profondes, poignée ergonomique avec loquet de fermeture, boîtier compact à ouverture articulée\n\nAvantages\nGain de temps grâce aux 4 empreintes simultanées, cuisson homogène avec alvéoles idéales pour retenir nappages, fruits ou sirops, prise en main sécurisée et pratique\n\nContenu de la boîte\n1 gaufrier électrique 4 gaufres, notice d’utilisation\n\nDimensions du produit (cm)\n\n Longueur : ~24,0 à 28,0 cm\n\n Largeur / Profondeur : ~22,0 à 26,0 cm\n\n Hauteur (fermé) : ~9,0 à 12,0 cm\n\nSKU\n700000000000186",
+     "short_description": "Préparez de délicieuses gaufres dorées et croustillantes en quelques minutes avec ce gaufrier électrique noir capable de cuire jusqu’à 4 gaufres simultanément. Doté de plaques à empreintes profondes et d’une poignée ergonomique, il est idéal pour vos petits-déjeuners, goûters et desserts gourmands."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-19T105133.154.png"
+   ]
+  },
+  {
+   "sku": "doshift-126230",
    "price": 179,
    "stock": 10,
    "status": 0,
@@ -10,117 +67,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Gaufrier Électrique Compact – Appareil à Gaufres Antiadhésif",
-     "description": "Régalez-vous à tout moment de la journée avec ce gaufrier électrique compact et design. Doté de plaques antiadhésives pour un démoulage facile et un nettoyage rapide, il permet de préparer de délicieuses gaufres dorées et croustillantes en quelques minutes. L’appareil idéal pour vos petits-déjeuners et goûters gourmands.\n\nCaractéristique\nDétail\n\nType de produit\nGaufrier électrique / Appareil de cuisson\n\nMarque\nNon spécifié (Série Eat Good Feel Good)\n\nModèle\nGaufrier compact rond\n\nCouleur\nRouge et Noir\n\nCompatibilité\nCuisine domestique, petits-déjeuners, goûters, collations\n\nFonctionnalités\nPlaques de cuisson antiadhésives, design compact et léger, certification CE et RoHS, chauffe rapide\n\nAvantages\nFacile à utiliser et à ranger, nettoyage sans effort grâce au revêtement antiadhésif, gaufres uniformément cuites\n\nContenu de la boîte\n1 gaufrier électrique, 1 notice d’utilisation\n\nDimensions du produit (cm)\n\n Longueur : 16,5 cm\n\nLargeur : 12,5 cm\n\nHauteur : 8,5 cm\n\nSKU\n700000000000067",
-     "short_description": "Régalez-vous à tout moment de la journée avec ce gaufrier électrique compact et design. Doté de plaques antiadhésives pour un démoulage facile et un nettoyage rapide, il permet de préparer de délicieuses gaufres dorées et croustillantes en quelques minutes. L’appareil idéal pour vos petits-déjeuners et goûters gourmands."
+     "name": "Batteur à Main Électrique – Mixeur de Cuisine Professionnel en Acier Inoxydable avec Fouets et Crochets Pétrisseurs",
+     "description": "Préparez vos pâtes, crèmes et pâtisseries en toute simplicité avec le batteur à main électrique. Alliant un corps ergonomique en acier inoxydable et noir, un moteur puissant et des accessoires interchangeables (fouets et crochets à pétrir), il offre des performances de mixage optimales pour toutes vos recettes.\n\nCaractéristique\nDétail\n\nType de produit\nBatteur à main électrique / Mixeur de cuisine\n\nMarque\nNon spécifié\n\nModèle\nBatteur à main multiprise avec accessoires\n\nCouleur\nAcier Inoxydable et Noir\n\nCompatibilité\nCuisine domestique, préparation de pâtisseries, crèmes, pâtes à gâteaux et pains\n\nFonctionnalités\nVitesses ajustables, boutons de commande intuitifs sur le dessus, système d’éjection rapide des accessoires, grille de ventilation latérale, poignée ergonomique confortable\n\nAvantages\nPolyvalence grâce aux doubles jeux d’accessoires (fouets et crochets), nettoyage facile, design moderne et robuste en inox\n\nContenu de la boîte\n1 batteur à main électrique RAF, 2 fouets en métal, 2 crochets pétrisseurs, notice d’utilisation\n\nDimensions du produit (cm)\n\n Longueur : ~18,0 à 20,0 cm\n\n Largeur / Profondeur : ~8,0 à 10,0 cm\n\n Hauteur : ~14,0 à 16,0 cm\n\nSKU\n700000000000069",
+     "short_description": "Préparez vos pâtes, crèmes et pâtisseries en toute simplicité avec le batteur à main électrique . Alliant un corps ergonomique en acier inoxydable et noir, un moteur puissant et des accessoires interchangeables (fouets et crochets à pétrir), il offre des performances de mixage optimales pour toutes vos recettes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-27.png"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T215005.328.png"
    ]
   },
   {
-   "sku": "doshift-124008",
-   "price": 95,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris Filaire HP M10 Wired Mouse",
-     "description": "Simplifiez votre espace de travail au quotidien avec la souris filaire HP M10. Conçue pour offrir une prise en main confortable et ambidextre, elle garantit un suivi optique fluide et réactif. Idéale pour le bureau, l’école ou la maison, elle se connecte instantanément en USB sans aucun pilote requis.\n\nCaractéristique\nDétail\n\nType de produit\nSouris filaire\n\nMarque\nHP\n\nModèle\nHP M10 Wired Mouse\n\nCouleur\nNoir\n\nCompatibilité\nOrdinateurs portables et de bureau (Windows, Mac, Linux)\n\nFonctionnalités\nCapteur optique haute précision, design ambidextre, connexion filaire USB Plug-and-Play\n\nAvantages\nFiabilité sans pile, prise en main ergonomique et confortable, installation instantanée\n\nContenu de la boîte\n1 souris filaire HP M10\n\nDimensions du produit (cm)\n\nLongueur : 10,0 cm\n\nLargeur : 6,0 cm\n\nHauteur : 3,7 cm\n\nSKU\n700000000000154",
-     "short_description": "Simplifiez votre espace de travail au quotidien avec la souris filaire HP M10. Conçue pour offrir une prise en main confortable et ambidextre, elle garantit un suivi optique fluide et réactif. Idéale pour le bureau, l’école ou la maison, elle se connecte instantanément en USB sans aucun pilote requis."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-15.png"
-   ]
-  },
-  {
-   "sku": "doshift-124001",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris Sans Fil HP Wireless Mouse S9000",
-     "description": "Optimisez votre productivité et votre confort au quotidien avec la souris sans fil HP S9000. Dotée de 6 boutons pratiques, d’un design ergonomique et d’une technologie sans fil 2.4GHz stable via micro-récepteur USB, elle offre un contrôle précis et fluide pour le bureau, le télétravail ou le divertissement.\n\nCaractéristique\nDétail\n\nType de produit\nSouris sans fil\n\nMarque\nHP\n\nModèle\nWireless Mouse S9000\n\nCouleur\nGris / Noir texturé\n\nCompatibilité\nOrdinateurs portables et de bureau (Windows, Mac)\n\nFonctionnalités\nTechnologie sans fil 2.4GHz, 6 boutons intégrés (dont touches de navigation), micro-récepteur USB\n\nAvantages\nConfort ergonomique, prise en main antidérapante, navigation rapide et fluide\n\nContenu de la boîte\n1 souris sans fil HP S9000, 1 micro-récepteur USB\n\nDimensions du produit (cm)\n\nLongueur : 10,5 cm\n\nLargeur : 6,8 cm\n\n Hauteur : 3,8 cm\n\nSKU\n700000000000155",
-     "short_description": "Optimisez votre productivité et votre confort au quotidien avec la souris sans fil HP S9000. Dotée de 6 boutons pratiques, d’un design ergonomique et d’une technologie sans fil 2.4GHz stable via micro-récepteur USB, elle offre un contrôle précis et fluide pour le bureau, le télétravail ou le divertissement."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-11.png"
-   ]
-  },
-  {
-   "sku": "doshift-123995",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris Sans Fil Dell Wireless Mouse WM126",
-     "description": "Simplifiez votre quotidien bureautique et vos déplacements avec la souris sans fil Dell WM126. Compacte, confortable et conçue pour une prise en main naturelle, elle offre une connexion sans fil stable et un suivi précis. Idéale pour le bureau, la maison ou en voyage avec votre ordinateur portable.\n\nCaractéristique\nDétail\n\nType de produit\nSouris sans fil\n\nMarque\nDELL\n\nModèle\nWM126\n\nCouleur\nNoir / Gris foncé\n\nCompatibilité\nOrdinateurs portables et de bureau (Windows, Mac, Linux)\n\nFonctionnalités\nTechnologie sans fil RF 2,4 GHz, nano-récepteur USB, Dell Universal Pairing, autonomie longue durée (jusqu’à 1 an)\n\nAvantages\nDesign confortable et ergonomique, installation Plug-and-Play rapide, idéale pour les déplacements\n\nContenu de la boîte\n1 souris sans fil Dell WM126, 1 nano-récepteur USB\n\nDimensions du produit (cm)\n\nLongueur : 9,5 cm\n\nLargeur : 5,8 cm\n\n Hauteur : 3,6 cm\n\nSKU\n700000000000156",
-     "short_description": "Simplifiez votre quotidien bureautique et vos déplacements avec la souris sans fil Dell WM126. Compacte, confortable et conçue pour une prise en main naturelle, elle offre une connexion sans fil stable et un suivi précis. Idéale pour le bureau, la maison ou en voyage avec votre ordinateur portable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-7.png"
-   ]
-  },
-  {
-   "sku": "doshift-123952",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac de Voyage Bicolore Extensible et Multifonctionnel – Grand Fourre-Tout Rose pour Sport, Week-end et Loisirs",
-     "description": "Partez l’esprit tranquille avec ce grand sac de voyage rose alliant robustesse, élégance et modernité. Équipé de poignées renforcées et d’une conception ingénieuse, il offre un confort de transport optimal. Son compartiment inférieur zippé extensible et ses multiples poches s’adaptent parfaitement à toutes vos affaires pour le sport, les voyages ou le quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSac de voyage / Fourre-tout\n\nMarque\nFEIFANLTUO\n\nModèle\nSac de voyage extensible multifonctionnel\n\nCouleur\nRose\n\nCompatibilité\nBagage cabine, déplacements de week-end, salle de sport, activités du quotidien\n\nFonctionnalités\nCompartiment inférieur extensible, double poignée renforcée, poche frontale zippée\n\nAvantages\nGrande capacité modulable, transport polyvalent, design élégant, résistant et pratique\n\nContenu de la boîte\n1 sac de voyage\n\nDimensions du produit (cm)\n\n• Longueur : 41,0 cm\n\n• Largeur : 22,0 cm\n\n• Hauteur : 28,0 cm\n\nSKU\n700000000000162",
-     "short_description": "Partez l’esprit tranquille avec ce grand sac de voyage rose alliant robustesse, élégance et modernité. Équipé de poignées renforcées et d’une conception ingénieuse, il offre un confort de transport optimal. Son compartiment inférieur zippé extensible et ses multiples poches s’adaptent parfaitement à toutes vos affaires pour le sport, les voyages ou le quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-3.png"
-   ]
-  },
-  {
-   "sku": "doshift-123933",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac de Voyage Bicolore Extensible et Multifonctionnel – Grand Fourre-Tout Bleu et Gris pour Sport et Week-end",
-     "description": "Le compagnon idéal de vos déplacements ! Ce sac de voyage bicolore allie parfaitement élégance, robustesse et praticité. Grâce à son compartiment inférieur extensible et à ses grands volumes, il s’adapte en un clin d’œil à vos week-ends, vos séances de sport ou votre quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSac de voyage / Fourre-tout\n\nMarque\ndsdsp\n\nModèle\nSac de voyage bicolore extensible\n\nCouleur\nBleu clair et Gris\n\nCompatibilité\nBagage cabine, déplacements de week-end, salle de sport, activités du quotidien\n\nFonctionnalités\nCompartiment inférieur extensible, double poignée renforcée, poches frontales zippées\n\nAvantages\nGrande capacité modulable, transport polyvalent, design sportif, résistant et pratique\n\nContenu de la boîte\n1 sac de voyage\n\nDimensions du produit (cm)\n\n Longueur : 41,0 cm\n\nLargeur : 22,0 cm\n\nHauteur : 28,0 cm\n\nSKU\n700000000000160",
-     "short_description": "Le compagnon idéal de vos déplacements ! Ce sac de voyage bicolore allie parfaitement élégance, robustesse et praticité. Grâce à son compartiment inférieur extensible et à ses grands volumes, il s’adapte en un clin d’œil à vos week-ends, vos séances de sport ou votre quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T212659.456.png"
-   ]
-  },
-  {
-   "sku": "doshift-123896",
-   "price": 209,
+   "sku": "doshift-126221",
+   "price": 75,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -129,58 +87,38 @@
    ],
    "locales": {
     "fr": {
-     "name": "Sac à Dos Scolaire et Casual Multicompartiments – Cartable Tendance",
-     "description": "Alliez style et praticité au quotidien avec ce charmant sac à dos coloré, parfait pour l’école, les études ou les loisirs. Doté de multiples poches zippées, de sangles de fermeture à boucle et d’accessoires décoratifs ludiques incluant un adorable petit ours en peluche, il offre un grand confort de port et une organisation optimale pour toutes vos affaires.\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos / Cartable scolaire\n\nMarque\nNon spécifié\n\nModèle\nSac à dos casual multicompartiments avec accessoires\n\nCouleur\nBleu / Indigo et Blanc cassé\n\nCompatibilité\nÉcole, collège, lycée, université, sorties quotidiennes, voyages\n\nFonctionnalités\nPoches frontales multiples, bretelles réglables, fermetures à boucle sécurisées, passants pour badges décoratifs\n\nAvantages\nDesign kawaii et tendance, grand espace de rangement, léger et confortable sur les épaules\n\nContenu de la boîte\n1 sac à dos, 1 pendentif ours en peluche, badges décoratifs\n\nDimensions du produit (cm)\n\n• Hauteur : 40,0 cm\n\n• Largeur : 30,0 cm\n\n• Profondeur : 13,0 cm\n\nSKU\n700000000000106",
-     "short_description": "Alliez style et praticité au quotidien avec ce charmant sac à dos coloré, parfait pour l’école, les études ou les loisirs. Doté de multiples poches zippées, de sangles de fermeture à boucle et d’accessoires décoratifs ludiques incluant un adorable petit ours en peluche, il offre un grand confort de port et une organisation optimale pour toutes vos affaires."
+     "name": "Boîte à Bijoux de Voyage en Forme de Cœur – Écrin de Rangement Vert Menthe avec Intérieur Velours",
+     "description": "Rangez et protégez vos bijoux précieux lors de vos déplacements avec cette élégante boîte à bijoux de voyage en forme de cœur de couleur vert menthe. Dotée d’un intérieur doux en velours beige, de compartiments modulables, de rouleaux pour bagues et de crochets pour colliers, elle combine charme et fonctionnalité.\n\nCaractéristique\nDétail\n\nType de produit\nBoîte à bijoux / Écrin de voyage\n\nMarque\nNon spécifié\n\nModèle\nBoîte à bijoux portable en forme de cœur\n\nCouleur\nVert Menthe (extérieur) et Beige (intérieur)\n\nCompatibilité\nVoyages, déplacements, coiffeuse, rangement de bagues, boucles d’oreilles et colliers\n\nFonctionnalités\nDesign en forme de cœur, fermeture éclair sécurisée, doublure intérieure en velours doux, compartiments de rangement cloisonnés dans la partie inférieure, crochets de suspension et pochette élastique sur le panneau supérieur, supports pour bagues et puces\n\nAvantages\nProtection optimale contre les rayures et les nœuds, format compact idéal pour le sac à main ou la valise, design esthétique et raffiné\n\nContenu de la boîte\n1 boîte à bijoux de voyage en forme de cœur\n\nDimensions du produit (cm)\n\n Longueur : ~10,0 à 12,0 cm\n\n Largeur : ~10,0 à 12,0 cm\n\n Hauteur : ~4,5 à 5,5 cm\n\nSKU\n700000000000007",
+     "short_description": "Rangez et protégez vos bijoux précieux lors de vos déplacements avec cette élégante boîte à bijoux de voyage en forme de cœur de couleur vert menthe. Dotée d’un intérieur doux en velours beige, de compartiments modulables, de rouleaux pour bagues et de crochets pour colliers, elle combine charme et fonctionnalité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T194851.077.png"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T211810.047.png"
    ]
   },
   {
-   "sku": "doshift-123889",
-   "price": 209,
+   "sku": "doshift-126211",
+   "price": 519,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    7,
+    13
    ],
    "locales": {
     "fr": {
-     "name": "Sac à Dos Scolaire et Casual Multicompartiments – Cartable Tendance",
-     "description": "Alliez style et praticité au quotidien avec ce charmant sac à dos coloré, parfait pour l’école, les études ou les loisirs. Doté de multiples poches zippées, de sangles de fermeture à boucle et d’accessoires décoratifs ludiques incluant un adorable petit ours en peluche, il offre un grand confort de port et une organisation optimale pour toutes vos affaires.\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos / Cartable scolaire\n\nMarque\nNon spécifié\n\nModèle\nSac à dos casual multicompartiments avec accessoires\n\nCouleur\nViolet et Blanc cassé\n\nCompatibilité\nÉcole, collège, lycée, université, sorties quotidiennes, voyages\n\nFonctionnalités\nPoches frontales multiples, bretelles réglables, fermetures à boucle sécurisées, passants pour badges décoratifs\n\nAvantages\nDesign kawaii et tendance, grand espace de rangement, léger et confortable sur les épaules\n\nContenu de la boîte\n1 sac à dos, 1 pendentif ours en peluche, badges décoratifs\n\nDimensions du produit (cm)\n\n• Longueur / Hauteur : 40,0 cm\n\n• Largeur : 30,0 cm\n\n• Profondeur / Épaisseur : 13,0 cm\n\nSKU\n700000000000157",
-     "short_description": "Alliez style et praticité au quotidien avec ce charmant sac à dos coloré, parfait pour l’école, les études ou les loisirs. Doté de multiples poches zippées, de sangles de fermeture à boucle et d’accessoires décoratifs ludiques incluant un adorable petit ours en peluche, il offre un grand confort de port et une organisation optimale pour toutes vos affaires."
+     "name": "Caméra de Surveillance USB / Action Cam – Mini Caméra Noire avec Support de Fixation pour Guidon et Cordon Spiralé",
+     "description": "Capturez vos trajets ou surveillez vos activités avec cette mini caméra USB polyvalente de couleur noire. Équipée d’un support de fixation réglable type collier (idéal pour guidon ou tube), d’un câble spiralé et d’une connectivité USB, elle offre une solution compacte et pratique pour le sport ou l’enregistrement embarqué.\n\nCaractéristique\nDétail\n\nType de produit\nMini caméra USB / Caméra de sport / Action cam\n\nMarque\nNon spécifié\n\nModèle\nMini caméra compacte avec support tubulaire\n\nCouleur\nNoir\n\nCompatibilité\nVélos, trottinettes, guidons, tubes de diamètre adapté, ordinateurs et appareils compatibles USB\n\nFonctionnalités\nObjectif compact cerclé de rouge, support de fixation orientable avec collier de serrage, câble d’alimentation/données spiralé anti-emmêlement, connecteur USB standard\n\nAvantages\nInstallation facile et rapide sur guidon ou support tubulaire, design compact et léger, orientation réglable de l’angle de vue\n\nContenu de la boîte\n1 mini caméra USB, 1 support de fixation pour tube/guidon, câble intégré\n\nDimensions du produit (cm)\n\n Caméra (boîtier) : ~7,0 × 3,0 × 3,0 cm\n\n Diamètre du support de fixation : Ajustable (standard guidon/tige ~2,0 à 3,0 cm)\n\n Longueur du câble USB spiralé : ~50,0 à 150,0 cm (extensible)\n\nSKU\n700000000000008",
+     "short_description": "Capturez vos trajets ou surveillez vos activités avec cette mini caméra USB polyvalente de couleur noire. Équipée d’un support de fixation réglable type collier (idéal pour guidon ou tube), d’un câble spiralé et d’une connectivité USB, elle offre une solution compacte et pratique pour le sport ou l’enregistrement embarqué."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T192153.856.png"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T204801.384.png"
    ]
   },
   {
-   "sku": "doshift-123830",
-   "price": 105,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11,
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rasoir Anti-Callosités et Coupe-Cors en Inox – Outil de Pédicure Professionnel avec Lame",
-     "description": "Prenez soin de vos pieds à la maison avec ce rasoir anti-callosités professionnel. Conçu en acier inoxydable robuste avec un manche ergonomique et antidérapant, il élimine efficacement et en douceur les peaux mortes, les cors et les callosités sous les pieds. Idéal pour retrouver des pieds doux, lisses et soignés en toute simplicité.\n\nCaractéristique\nDétail\n\nType de produit\nRasoir anti-callosités / Coupe-cors\n\nMarque\nMade for You\n\nModèle\nCorn Plane / Rasoir pour pieds\n\nCouleur\nArgent / Métallique\n\nCompatibilité\nSoins des pieds, pédicure à domicile ou en institut\n\nFonctionnalités\nTête amovible en acier inoxydable, lame interchangeable, manche ergonomique\n\nAvantages\nÉlimination rapide et efficace des peaux dures, facile à nettoyer, durable et hygiénique\n\nContenu de la boîte\n1 rasoir anti-callosités avec lame intégrée\n\nSKU\n700000000000118",
-     "short_description": "Prenez soin de vos pieds à la maison avec ce rasoir anti-callosités professionnel. Conçu en acier inoxydable robuste avec un manche ergonomique et antidérapant, il élimine efficacement et en douceur les peaux mortes, les cors et les callosités sous les pieds. Idéal pour retrouver des pieds doux, lisses et soignés en toute simplicité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T103355.901.png"
-   ]
-  },
-  {
-   "sku": "doshift-123748",
-   "price": 529,
+   "sku": "doshift-126190",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -188,13 +126,73 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lanterne Cheminée LED Décorative – Effet Flamme Réaliste et Design Rétro",
-     "description": "Apportez une ambiance chaleureuse et cosy à votre intérieur avec cette lanterne cheminée LED au design rétro élégant. Dotée d’un effet de flamme dansante et de fausses bûches incandescentes ultra-réalistes, elle recrée tout le charme d’un feu de cheminée traditionnel en toute sécurité. Idéale pour sublimer votre décoration de salon ou de chambre sans contrainte.\n\nCaractéristique\nDétail\n\nType de produit\nLanterne cheminée décorative\n\nMarque\nNon spécifié\n\nModèle\nLED Fireplace Lantern\n\nCouleur\nNoir effet vieilli\n\nCompatibilité\nDécoration intérieure, salon, chambre, bureau\n\nFonctionnalités\nÉclairage LED à effet de flammes, bûches réalistes, structure sur pieds au design classique\n\nAvantages\nAmbiance cocooning immédiate, sans chaleur excessive, sans fumée ni danger, parfaite pour toutes les pièces\n\nContenu de la boîte\n1 lanterne cheminée LED\n\nSKU\n700000000000117",
-     "short_description": "Apportez une ambiance chaleureuse et cosy à votre intérieur avec cette lanterne cheminée LED au design rétro élégant. Dotée d’un effet de flamme dansante et de fausses bûches incandescentes ultra-réalistes, elle recrée tout le charme d’un feu de cheminée traditionnel en toute sécurité. Idéale pour sublimer votre décoration de salon ou de chambre sans contrainte."
+     "name": "Étagère à Épices Tournante à Niveaux – Support de Rangement Noir avec Pots à Épices en Verre",
+     "description": "Organisez vos condiments et facilitez la préparation de vos plats avec cette étagère à épices tournante de couleur noire. Fournie avec plusieurs pots en verre transparents dotés de couvercles noirs assortis, elle offre un accès rapide et un rangement esthétique sur le plan de travail de votre cuisine.\n\nCaractéristique\nDétail\n\nType de produit\nÉtagère à épices / Support de rangement rotatif\n\nMarque\nNon spécifié\n\nModèle\nOrganisateur d’épices rotatif à multi-niveaux\n\nCouleur\nNoir\n\nCompatibilité\nCuisine, plan de travail, placards\n\nFonctionnalités\nStructure de support rotative inclinable, plusieurs rangées de pots, flacons en verre transparent avec bouchons noirs à vis et tamis intégrés\n\nAvantages\nVisibilité immédiate des épices grâce au verre transparent, gain de place ergonomique, sélection facile des condiments pendant la cuisine\n\nContenu de la boîte\n1 support de rangement rotatif, pots à épices en verre avec couvercles\n\nDimensions du produit (cm)\n\n Largeur / Profondeur : ~20,0 à 25,0 cm\n\n Hauteur : ~25,0 à 30,0 cm\n\nSKU\n700000000000063",
+     "short_description": "Organisez vos condiments et facilitez la préparation de vos plats avec cette étagère à épices tournante de couleur noire. Fournie avec plusieurs pots en verre transparents dotés de couvercles noirs assortis, elle offre un accès rapide et un rangement esthétique sur le plan de travail de votre cuisine."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T165233.778.png"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T200102.168.png"
+   ]
+  },
+  {
+   "sku": "doshift-126182",
+   "price": 175,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac de Sport et de Voyage – Sac Duffel Bicolore Vert Sauge et Blanc avec Poignées et Bandoulière",
+     "description": "Transportez vos affaires avec élégance et praticité grâce à ce sac de sport et de voyage . Conçu dans un coloris bicolore vert sauge et blanc très tendance, il dispose de poignées renforcées, d’une poche frontale zippée et d’un grand compartiment principal, idéal pour vos séances de sport ou vos déplacements.\n\nCaractéristique\nDétail\n\nType de produit\nSac de sport / Sac de voyage / Duffel bag\n\nMarque\nNon spécifié\n\nModèle\nSac de transport multifonction bicolore\n\nCouleur\nVert Sauge et Blanc\n\nCompatibilité\nSalle de sport, fitness, voyages, déplacements courts, activités de plein air\n\nFonctionnalités\nGrand compartiment principal zippé, poche avant zippée, poches latérales en résille, poignées de transport renforcées avec patte de confort\n\nAvantages\nGrande capacité de rangement, design moderne et épuré, légèreté et polyvalence pour un usage quotidien ou en voyage\n\nContenu de la boîte\n1 sac de sport King\n\nDimensions du produit (cm)\n\n Longueur : ~45,0 à 50,0 cm\n\n Largeur / Profondeur : ~20,0 à 25,0 cm\n\n Hauteur : ~25,0 à 30,0 cm\n\nSKU\n700000000000295",
+     "short_description": "Transportez vos affaires avec élégance et praticité grâce à ce sac de sport et de voyage. Conçu dans un coloris bicolore vert sauge et blanc très tendance, il dispose de poignées renforcées, d’une poche frontale zippée et d’un grand compartiment principal, idéal pour vos séances de sport ou vos déplacements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T194314.484.png"
+   ]
+  },
+  {
+   "sku": "doshift-126162",
+   "price": 175,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac de Sport et de Voyage – Sac Duffel Bicolore Gris et Blanc avec Poignées et Bandoulière",
+     "description": "Transportez vos affaires avec élégance et praticité grâce à ce sac de sport et de voyage « King ». Conçu dans un coloris bicolore gris et blanc épuré, il dispose de poignées renforcées, d’une poche frontale zippée et d’un grand compartiment principal, idéal pour vos séances de sport ou vos déplacements.\n\nCaractéristique\nDétail\n\nType de produit\nSac de sport / Sac de voyage / Duffel bag\n\nMarque\nNon spécifié\n\nModèle\nSac de transport multifonction bicolore\n\nCouleur\nGris et Blanc\n\nCompatibilité\nSalle de sport, fitness, voyages, déplacements courts, activités de plein air\n\nFonctionnalités\nGrand compartiment principal zippé, poche avant zippée, poches latérales en résille, poignées de transport renforcées avec patte de confort, étiquette d’identification suspendue\n\nAvantages\nGrande capacité de rangement, design moderne et soigné, légèreté et polyvalence pour un usage quotidien ou en voyage\n\nContenu de la boîte\n1 sac de sport King\n\nDimensions du produit (cm)\n\n Longueur : ~45,0 à 50,0 cm\n\n Largeur / Profondeur : ~20,0 à 25,0 cm\n\n Hauteur : ~25,0 à 30,0 cm\n\nSKU\n700000000000294",
+     "short_description": "Transportez vos affaires avec élégance et praticité grâce à ce sac de sport et de voyage. Conçu dans un coloris bicolore gris et blanc épuré, il dispose de poignées renforcées, d’une poche frontale zippée et d’un grand compartiment principal, idéal pour vos séances de sport ou vos déplacements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T185959.844.png"
+   ]
+  },
+  {
+   "sku": "doshift-126153",
+   "price": 175,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac de Sport et de Voyage – Sac Duffel Multicolore Bleu, Blanc et Jaune avec Bandoulière",
+     "description": "Transportez vos affaires avec style et confort grâce à ce sac de sport et de voyage « King ». Alliant un design moderne aux teintes bleu, blanc et jaune, des poignées robustes, une bandoulière ajustable et des compartiments pratiques, il est parfait pour la salle de sport, les weekends ou les déplacements.\n\nCaractéristique\nDétail\n\nType de produit\nSac de sport / Sac de voyage / Duffel bag\n\nMarque\nNon spécifié\n\nModèle\nSac de transport multifonction\n\nCouleur\nBleu, Blanc et Jaune\n\nCompatibilité\nSalle de sport, fitness, voyages, déplacements courts, activités de plein air\n\nFonctionnalités\nGrand compartiment principal zippé avec liseré jaune contrasté, poignées de transport renforcées avec empiecement de confort, bandoulière amovible et réglable avec mousquetons, poches latérales et frontales\n\nAvantages\nGrande capacité de rangement, design moderne et soigné, options de porté multiples (main ou épaule) pour un confort optimal\n\nContenu de la boîte\n1 sac de sport King, 1 bandoulière amovible\n\nDimensions du produit (cm)\n\n Longueur : ~45,0 à 50,0 cm\n\n Largeur / Profondeur : ~20,0 à 25,0 cm\n\n Hauteur : ~25,0 à 30,0 cm\n\nSKU\n700000000000034",
+     "short_description": "Transportez vos affaires avec style et confort grâce à ce sac de sport et de voyage . Alliant un design moderne aux teintes bleu, blanc et jaune, des poignées robustes, une bandoulière ajustable et des compartiments pratiques, il est parfait pour la salle de sport, les weekends ou les déplacements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-18T185007.629.png"
    ]
   }
  ]

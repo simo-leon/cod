@@ -1,27 +1,65 @@
 {
  "products": [
   {
-   "sku": "doshift-42617",
+   "sku": "doshift-43563",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe de lecture led animaux de bande dessinée pour étudiants (Couleur selon disponibilité)",
+     "description": "Lampe de bureau LED sans stroboscope, idéale pour la lecture nocturne.\n\nLe cou est flexible et s’ajuste à l’angle souhaité.\n\nÉconome en énergie et durable, elle offre 6 à 8 heures d’utilisation continue après une charge complète.\n\nFabriquée en ABS, elle pèse 0,4 kg.\n\nDisponible en plusieurs couleurs.\n\nModèle : Lampe de bureau.",
+     "short_description": "Lampe de bureau LED sans stroboscope, idéale pour la lecture nocturne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348382-316_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43555",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de 4 couvercles de prise électrique sécurisés pour enfants",
+     "description": "Ces couvercles de prise électrique sont conçus pour empêcher les enfants d’accéder aux prises électriques.\n\nIls sont fabriqués en plastique de haute qualité, résistant aux chocs et à l’usure.\n\nIls s’installent facilement et sans effort dans toutes les prises standard.\n\nLeur design discret s’intègre harmonieusement dans votre décor intérieur.\n\nIls sont compatibles avec la plupart des prises électriques domestiques.\n\nIls peuvent être facilement retirés par les adultes sans outils.\n\nLeur couleur est blanche.\n\nIls sont faits de plastique.\n\nLeur poids est de 0.3 kg.",
+     "short_description": "Ces couvercles de prise électrique sont conçus pour empêcher les enfants d’accéder aux prises électriques."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348369-314_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43540",
    "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Paire Gants en silicone magiques pour le lavage de la vaisselle-Mauve(Couleur selon disponibilité)",
-     "description": "Silicone de qualité alimentaire: Ces gants de vaisselle doux sont fabriqués à partir de silicone de qualité alimentaire intrinsèquement antibactérien.Parce qu’il est non poreux comme les éponges et les lingettes ordinaires. Remarque: il n’absorbe pas l’eau.Multifonction: Les gants peuvent être fabriqués avec des gants de nettoyage pour le bain, le sol, la voiture ou la cuisine, ou des gants de silicone de massage pour animaux de compagnie.Conception améliorée: les gants magiques ont une conception antidérapante et non collante. En utilisant les gants avec un lave-vaisselle, ce sera plus confortable pour nettoyer la cuisine, la voiture, la salle de bain, etc. Comparé aux gants en latex traditionnels, plus durable, de meilleure qualité, indéchirable, résistant à la chaleur.Apparence unique: design mignon avec formes et couleurs . Matériel: Gel de silice Utilisation: Lave-linge Matériel extérieur: silicone Épaisseur: Épais Il est très élastique, élastique et ne se déchire pas facilement. Facile à nettoyer, il suffit de rincer à l’eau ou de la mettre au lave-vaisselle. Avec un trou de suspension, pratique pour stocker et économiser de l’espace.",
-     "short_description": "Silicone de qualité alimentaire: Ces gants de vaisselle doux sont fabriqués à partir de silicone de qualité alimentaire intrinsèquement antibactérien.Parce qu’il est non poreux comme les éponges et les lingettes…"
+     "name": "Stylo ventouse créatif encre bleu (Couleur selon disponibilité)",
+     "description": "Le stylo fixe à ventouse créatif est un stylo à bille bleu de 14,5 cm de long.\n\nIl est doté d’une ventouse intégrée pour une fixation solide sur différentes surfaces.\n\nLe stylo est composé de plastique et pèse 0,3 kg.\n\nIl est vendu avec un seul stylo.\n\nL’encre est bleue et fluide, assurant une écriture nette et lisible.\n\nLe stylo est ergonomique et confortable à tenir.",
+     "short_description": "Le stylo fixe à ventouse créatif est un stylo à bille bleu de 14,5 cm de long."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345732-110_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348333-310_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42546",
-   "price": 129,
+   "sku": "doshift-45109",
+   "price": 95,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -29,94 +67,94 @@
    ],
    "locales": {
     "fr": {
-     "name": "Mini alarme horloge rouge 7x5cm (Couleur selon disponibilité)",
-     "description": "Ce réveil rond est mignon.\n\nIl est fait de matériaux de qualité supérieure et est durable pour une utilisation à long terme.\n\nIl peut être placé sur une table pour afficher l’heure.\n\nC’est aussi une décoration pour votre chambre.\n\nIl est disponible en rouge et est fabriqué en ABS.\n\nIl mesure 7x5cm.",
-     "short_description": "Ce réveil rond est mignon."
+     "name": "Sac Isotherme Thermique Étanche – Glacière Portable 6L (19 × 23 cm) – Sac à Déjeuner Pratique",
+     "description": "Ce sac isotherme thermique est la solution idéale pour transporter vos repas tout en conservant leur température. Fabriqué en tissu Oxford imperméable de haute qualité, il assure une excellente isolation thermique tout en étant résistant, léger et facile à entretenir.\n\nAvec une capacité d’environ 6 litres, il permet de garder vos aliments au frais jusqu’à 8 heures ou au chaud jusqu’à 4 heures, ce qui le rend parfait pour le travail, l’école, les pique-niques, les voyages ou les sorties quotidiennes. Son design compact et waterproof protège efficacement vos repas contre l’humidité et les éclaboussures.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSac isotherme / sac à déjeuner\n\nDimensions\n19 × 23 cm\n\nCapacité\nEnviron 6 litres\n\nMatériau\nTissu Oxford imperméable\n\nIsolation thermique\nGarde au frais jusqu’à 8 h\n\nConservation chaleur\nGarde au chaud jusqu’à 4 h\n\nÉtanchéité\nWaterproof\n\nEntretien\nFacile à nettoyer, ne se froisse pas\n\nRésistance\nRobuste et durable\n\nUtilisation\nTravail, école, pique-nique, voyage\n\nDesign\nCompact, pratique et léger\n\nRéférence-doshift\nAA3BB399",
+     "short_description": "Ce sac isotherme thermique est la solution idéale pour transporter vos repas tout en conservant leur température."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345617-97_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_kxqp6hkxqp6hkxqp-1.png"
    ]
   },
   {
-   "sku": "doshift-42533",
+   "sku": "doshift-45098",
    "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
-    7
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Serviette Double Face Auto et Maison 50×70 cm",
-     "description": "Fonction : lavage de voiture, séchage, cirage/polissage de votre voiture, bateau, moto, écran de télévision / écran d’ordinateur, etc. Multi-usage pour le nettoyage de la salle de bain, du bureau, des miroirs, des fenêtres, des surfaces, des intérieurs de voiture. Matériaux très doux et agréable au toucher. Ne laisse pas de peluches ou de traces après le nettoyage. Utilisation double face, facile à nettoyer. La serviette de nettoyage de séchage en microfibre d’absorption d’eau est plus forte que la serviette normale. peut absorber jusqu’à près de 10 fois leur poids en liquide.",
-     "short_description": "Fonction : lavage de voiture, séchage, cirage/polissage de votre voiture, bateau, moto, écran de télévision / écran d’ordinateur, etc."
+     "name": "Brosse de bain dorsale en silicone 60 x 11,5 cm – Rose / Bleu",
+     "description": "Nettoyez, exfoliez et massez votre peau en toute simplicité avec cette brosse de bain dorsale en silicone de 60 x 11,5 cm, conçue pour atteindre facilement le dos, les épaules et la nuque. Grâce à ses poignées intégrées, elle offre une prise en main confortable et permet une utilisation pratique sous la douche ou dans le bain.\n\nDisponible en rose et bleu, cette brosse de bain est dotée d’une double texture qui aide à nettoyer efficacement la peau tout en procurant un massage doux et agréable. Sa matière en silicone est souple, résistante, hygiénique, facile à rincer et sèche rapidement après usage.\n\nAvec son format de 60 x 11,5 cm, elle couvre une large zone du corps pour un nettoyage plus pratique au quotidien. Un accessoire idéal pour compléter votre routine de bain et laisser la peau propre, douce et rafraîchie.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse de bain dorsale en silicone\n\nDimensions\n60 x 11,5 cm\n\nCouleurs\nRose / Bleu\n\nMatière\nSilicone\n\nUtilisation\nNettoyage du dos, exfoliation douce, massage\n\nDesign\nDouble face texturée avec poignées\n\nEntretien\nFacile à rincer, séchage rapide\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Nettoyez, exfoliez et massez votre peau en toute simplicité avec cette brosse de bain dorsale en silicone de 60 x 11,5 cm, conçue pour atteindre facilement le dos, les épaules et la nuque."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345595-94_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-03-27T145915.739.png"
    ]
   },
   {
-   "sku": "doshift-42528",
+   "sku": "doshift-43501",
    "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "bas de porte adhésif sous la porte Bandes de balayage(Couleur selon disponibilité)",
-     "description": "Fine Matériau : fabriqué en silicone de haute qualité, respectueux de l’environnement, non toxique, sans danger et imperméable à l’eau, isolation acoustique, coupe vent, étanche à la poussière et résistant aux intempériesÉconomie d’énergie : l’énergie efficace joint de porte balayage aide à contrôler les projets de l’invasion, les insectes, invasion d’air chaud froid, l’humidité et du son tampons, les odeurs.Durable et flexible : surface lisse n’est pas facile de se déformer, flexible avec modérée douceur ne seront pas rayer ou Streak le sol, combler le fossé entre la porte et le sol, adaptée pour un écart entre 0–28 mm et une longueur de 92cm.",
-     "short_description": "Fine Matériau : fabriqué en silicone de haute qualité, respectueux de l’environnement, non toxique, sans danger et imperméable à l’eau, isolation acoustique, coupe vent, étanche à la poussière et résistant aux…"
+     "name": "Boîte de Rangement d’Œufs – Non spécifié – 2 Étages – Amovible – Facile à Installer – Cuisine",
+     "description": "Cette boîte de rangement d’œufs à 2 étages optimise l’espace dans votre cuisine. Facile à installer et à nettoyer, elle peut contenir de 11 à 15 œufs. Fabriquée en matériau alimentaire durable, elle s’adapte à tous types de réfrigérateurs. Idéale pour garder vos œufs en ordre et à portée de main.",
+     "short_description": "Cette boîte de rangement d’œufs à 2 étages optimise l’espace dans votre cuisine. Facile à installer et à nettoyer, elle peut contenir de 11 à 15 œufs."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345587-93_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348257-301_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42474",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support Téléphone Universel Flexible – Stabilité & Confort d’Utilisation",
-     "description": "Améliorez votre confort d’utilisation en gardant votre smartphone parfaitement visible et sécurisé, aussi bien en voiture qu’au bureau. Ce support téléphone flexible est doté d’une ventouse puissante assurant une fixation stable, ainsi que d’un bras ajustable permettant d’orienter l’écran selon vos besoins. Son système de maintien latéral avec appui inférieur garantit une excellente stabilité tout en protégeant votre appareil contre les rayures. Compatible avec la majorité des smartphones, il facilite l’utilisation du GPS, des appels mains libres ou du multimédia en toute sécurité et praticité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétails\n\nType de produit\nSupport téléphone universel\n\nFixation\nVentouse haute adhérence\n\nBras\nFlexible et ajustable\n\nMaintien\nPinces latérales avec appui inférieur\n\nRotation / angle\nOrientation réglable pour une vue optimale\n\nCompatibilité\nSmartphones de différentes tailles\n\nUtilisation\nVoiture, bureau, maison\n\nAvantages\nStabilité, accès facile à l’écran, idéal pour GPS et appels mains libres\n\nCouleur\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA6BB599",
-     "short_description": "Améliorez votre confort d’utilisation en gardant votre smartphone parfaitement visible et sécurisé, aussi bien en voiture qu’au bureau."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-02-05T202347-237.png"
-   ]
-  },
-  {
-   "sku": "doshift-42403",
+   "sku": "doshift-43493",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bandeau de maquillage – Non spécifié – Turban ajustable – Maintien des cheveux – Accessoire de beauté femme",
+     "description": "Ce bandeau de maquillage est idéal pour maintenir vos cheveux en place lors du nettoyage du visage, de la douche ou du maquillage. Réglable grâce à un ruban magique, il convient aussi bien pour un usage personnel que professionnel dans les spas. Un accessoire pratique pour toutes les femmes.",
+     "short_description": "Ce bandeau de maquillage est idéal pour maintenir vos cheveux en place lors du nettoyage du visage, de la douche ou du maquillage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348241-299_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43485",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     8
    ],
    "locales": {
     "fr": {
-     "name": "Mini ventouse professionnelle pour lever et déplacer le verre (Couleur selon disponibilité)",
-     "description": "Mini ventouse d’adhérence à toute surface lisse, verre.\n\nTrès simple d’utilisation.\n\nPeut être utilisée pour :\n\n– réparation par aspiration\n\n– outil de ventouse de séparation d’écran de téléphone\n\n– débosseler sa carrosserie\n\n– ouvrir les portes coincées\n\n– soulever des surfaces vitrées ou des feuilles de plastique, métal et autres surfaces planes.\n\nUtilisation :\n\n– Placez la ventouse sur le choc\n\n– Baissez la poignée\n\n– Relevez la poignée.\n\nAdhérence maximale : 15 kg.\n\nDiamètre : 57 mm.\n\nFacile à séparer le couvercle arrière en verre ou l’écran.\n\nConception compacte et légère.\n\nModèle: Mini Ventouse.\n\nPoids : 0.2 kg.\n\nCouleur : rouge.\n\nMatière principale : abc.",
-     "short_description": "Mini ventouse d’adhérence à toute surface lisse, verre."
+     "name": "Canne-Siège Pliable 2 en 1 – Appui de Marche et Siège Portable",
+     "description": "Pratique, légère et facile à transporter, cette canne-siège pliante 2 en 1 est conçue pour offrir un soutien à la marche ainsi qu’une assise d’appoint à tout moment. Idéale pour les personnes âgées, les files d’attente, les sorties, les voyages ou les événements en extérieur, elle se transforme rapidement en petit siège stable et confortable.\n\nSa structure en métal robuste assure une bonne solidité au quotidien, tandis que son assise rembourrée offre un meilleur confort d’utilisation. La poignée ergonomique facilite la prise en main, et les embouts antidérapants apportent plus de stabilité sur différentes surfaces. Compacte une fois repliée, elle se range et se transporte facilement.\n\nUn accessoire ingénieux pour allier mobilité, confort et praticité dans la vie de tous les jours.\n\nCaractéristique\nDétail\n\nType de produit\nCanne-siège pliante 2 en 1\n\nFonction\nAide à la marche et siège d’appoint\n\nMatière de la structure\nMétal\n\nMatière de l’assise\nAssise rembourrée\n\nPoignée\nErgonomique avec revêtement confortable\n\nPieds\nEmbouts antidérapants\n\nUtilisation\nIntérieur et extérieur\n\nAvantages\nPliable, légère, pratique et facile à transporter\n\nPublic conseillé\nAdultes, seniors, personnes recherchant un appui ponctuel\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Pratique, légère et facile à transporter, cette canne-siège pliante 2 en 1 est conçue pour offrir un soutien à la marche ainsi qu’une assise d’appoint à tout moment."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345366-67_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-03T174957.764.png"
    ]
   },
   {
-   "sku": "doshift-42338",
-   "price": 138,
+   "sku": "doshift-43475",
+   "price": 73,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -124,72 +162,32 @@
    ],
    "locales": {
     "fr": {
-     "name": "Pochette de Rangement pour Chaussures – Élégante & Pratique",
-     "description": "Organisez et protégez vos chaussures avec style grâce à cette pochette de rangement pour chaussures, idéale pour les voyages comme pour la maison. Conçue en matériau léger et résistant, elle permet de séparer efficacement vos chaussures propres du reste de vos affaires.Son panneau en maille respirante favorise l’aération, limite les odeurs et permet de voir rapidement le contenu. Compacte, élégante et facile à transporter, cette pochette est l’accessoire indispensable pour garder vos bagages propres et bien organisés.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPochette de rangement pour chaussures\n\nUtilisation\nVoyage, valise, rangement à domicile\n\nCapacité\n1 paire de chaussures\n\nMatériau\nTissu léger, résistant et durable\n\nPanneau frontal\nMaille respirante (anti-odeurs)\n\nFermeture\nFermeture éclair robuste\n\nTransport\nPoignée supérieure intégrée\n\nDesign\nCompact, moderne et élégant\n\nCouleur\nRose\n\nAvantages\nProtège les vêtements, facilite l’organisation\n\nRéférence-doshift\nAA6BB099",
-     "short_description": "Organisez et protégez vos chaussures avec style grâce à cette pochette de rangement pour chaussures, idéale pour les voyages comme pour la maison."
+     "name": "Robinet Rotatif 360° avec Filtre Anti-Éclaboussures – Buse Extensible Réglable",
+     "description": "Optimisez votre confort au quotidien avec ce robinet rotatif à 360 degrés doté d’une buse extensible anti-éclaboussures et d’un filtre intégré. Conçu pour la cuisine comme pour la salle de bain, il offre une rotation fluide, un débit d’eau maîtrisé et une protection anti-fuite efficace. Grâce à son connecteur universel et à sa conception robuste en acier inoxydable et ABS, ce pulvérisateur s’installe facilement sur la majorité des robinets et garantit une utilisation durable, même en zones à eau dure.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nRobinet rotatif / Buse extensible anti-éclaboussures\n\nRotation\n360° réglable pour une utilisation flexible\n\nFonction principale\nRéduction des éclaboussures, économie d’eau\n\nFiltration\nFiltre intégré anti-impuretés\n\nSystème anti-fuite\nJoint d’étanchéité intégré – protection 100 % anti-fuite\n\nCompatibilité\nConnecteur universel multi-standards\n\nUtilisation\nCuisine, salle de bain, lavabo, toilettes\n\nMatériaux\nAcier inoxydable + ABS\n\nFinition\nBrillante\n\nCouleur\nvert\n\nInstallation\nSimple, sans outils\n\nEntretien\nFacile à nettoyer, adapté aux zones à eau dure\n\nRéférence-doshift\nAA1BB099",
+     "short_description": "Optimisez votre confort au quotidien avec ce robinet rotatif à 360 degrés doté d’une buse extensible anti-éclaboussures et d’un filtre intégré."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/ChatGPT-Image-30-dec.-2025-19_39_23-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_awnstrawnstrawns-1.png"
    ]
   },
   {
-   "sku": "doshift-42326",
-   "price": 149,
+   "sku": "doshift-43471",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Chaise Pliante Outdoor Camouflage avec Porte-Gobelet",
-     "description": "Profitez pleinement de vos moments en extérieur avec cette chaise pliante outdoor au design camouflage pratique et confortable. Idéale pour le camping, les pique-niques, la pêche, la plage ou les sorties en plein air, elle offre une assise stable et confortable grâce à sa structure robuste en métal et son tissu résistant. Son porte-gobelet intégré ajoute encore plus de praticité pour garder votre boisson à portée de main.\n\nFacile à plier et à transporter, cette chaise compacte se range rapidement après utilisation. Son style camouflage moderne apporte une touche aventurière parfaite pour toutes vos activités outdoor.\n\nCaractéristique\nDétail\n\nType\nChaise pliante outdoor\n\nMotif\nCamouflage\n\nStructure\nMétal renforcé\n\nTissu\nRésistant et durable\n\nFonction\nPliable et transportable\n\nAccessoire\nPorte-gobelet intégré\n\nUtilisation\nCamping, pêche, plage, jardin, pique-nique\n\nCouleur\nCamouflage vert\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Profitez pleinement de vos moments en extérieur avec cette chaise pliante outdoor au design camouflage pratique et confortable."
+     "name": "Bac en acier inoxydable 27 × 17 × 6 cm",
+     "description": "Préparez, organisez et servez vos aliments facilement avec ce bac en acier inoxydable compact et pratique. Sa conception résistante permet une utilisation quotidienne en cuisine, que ce soit pour la préparation, le stockage temporaire, la présentation ou le service. Facile à nettoyer, il offre une surface lisse et hygiénique, idéale pour un usage domestique ou professionnel.\n\nCaractéristique\nDétail\n\nProduit\nBac alimentaire\n\nMatière\nAcier inoxydable\n\nDimensions\n27 × 17 × 6 cm\n\nUtilisation\nPréparation, rangement, présentation et service\n\nEntretien\nFacile à nettoyer\n\nAvantage\nRésistant, hygiénique et réutilisable\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Préparez, organisez et servez vos aliments facilement avec ce bac en acier inoxydable compact et pratique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-05-08T211150.059.png"
-   ]
-  },
-  {
-   "sku": "doshift-42245",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Verrou de Sécurité pour Porte Coulissante – Anti-ouverture",
-     "description": "Protégez facilement vos portes coulissantes grâce à ce verrou de sécurité ingénieux et robuste. Conçu pour empêcher l’ouverture accidentelle ou non désirée des portes, il s’installe en quelques secondes sans outils. Son design à double bouton offre une excellente stabilité et évite les glissements, tandis que ses bords arrondis garantissent une utilisation sûre, sans risque de blessure. Idéal pour sécuriser les enfants, renforcer une porte de balcon, fenêtre coulissante ou même une armoire coulissante.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVerrou de sécurité pour portes coulissantes\n\nDesign\nDouble bouton pour un verrouillage plus sûr\n\nSolidité\nStructure robuste et durable\n\nSécurité\nEmpêche l’ouverture non désirée (enfants, animaux, sécurité maison)\n\nBords\nBords arrondis pour une utilisation confortable et sans danger\n\nMatériau\nPlastique ABS résistant\n\nInstallation\nClip-in, sans outils – facile à installer et retirer\n\nCompatibilité\nPortes coulissantes, fenêtres coulissantes, armoires coulissantes\n\nDimensions\n11 cm x 7 cm\n\nCouleur\nGris\n\nUtilisation\nSécurisation maison, balcon, fenêtres, chambres, armoires\n\nAvantages\nLéger, solide, simple à utiliser, protection instantanée\n\nRéférence Doshift\nAA1BB199",
-     "short_description": "Protégez facilement vos portes coulissantes grâce à ce verrou de sécurité ingénieux et robuste. Conçu pour empêcher l’ouverture accidentelle ou non désirée des portes, il s’installe en quelques secondes sans outils."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1-4.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42161",
-   "price": 233,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Housse deMoto résistante à l eau et au soleil double face",
-     "description": "Protégez-vous moto des rayons UVet préservez la couleur de votre moto Résistant au soleil et à l’eauCouleur principale: grisTissu déperlantFlexible à l’avant / à l’arrière et sangle de fixation du train de roulementProtège des rayuresIl protège votre moto contre des facteurs climatiquesmetez votre moto en bonne etat",
-     "short_description": "Protégez-vous moto des rayons UVet préservez la couleur de votre moto Résistant au soleil et à l’eauCouleur principale: grisTissu déperlantFlexible à l’avant / à l’arrière et sangle de fixation du train de…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345072-34_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-05-02T183251.830.png"
    ]
   }
  ]

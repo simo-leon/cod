@@ -1,188 +1,27 @@
 {
  "products": [
   {
-   "sku": "doshift-75885",
-   "price": 979,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Projecteur Solaire Extérieur Étanche 600W avec Panneau Solaire et Télécommande",
-     "description": "Profitez d’un éclairage puissant et économique pour vos espaces extérieurs avec ce projecteur solaire 600W. Idéal pour jardin, terrasse, garage, cour, entrée ou chantier, il fonctionne à l’énergie solaire pour réduire la consommation électrique tout en offrant une lumière efficace au quotidien.\n\nUn choix pratique, écologique et économique pour sécuriser et illuminer vos espaces sans installation électrique compliquée.\n\nCaractéristique\nDétail\n\nProduit\nProjecteur solaire extérieur\n\nPuissance\n600W\n\nAlimentation\nÉnergie solaire\n\nAccessoires inclus\nPanneau solaire + télécommande\n\nUtilisation\nJardin, terrasse, garage, cour, entrée, extérieur\n\nFonction\nÉclairage puissant à distance\n\nInstallation\nSimple et pratique\n\nRésistance\nÉtanche, adapté à l’extérieur\n\nAvantage\nÉconomique et écologique\n\nRéférence Doshift\nAA81BB599",
-     "short_description": "Profitez d’un éclairage puissant et économique pour vos espaces extérieurs avec ce projecteur solaire 600W."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-02T212249.331.png"
-   ]
-  },
-  {
-   "sku": "doshift-75877",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse nettoyante anti-buée et anti-film gras pour pare-brise auto",
-     "description": "Nettoyez rapidement votre pare-brise, vos vitres latérales et vos rétroviseurs avec cette brosse compacte conçue pour enlever le film gras, la buée, les traces d’eau et les saletés légères. Sa prise en main ergonomique permet une utilisation simple et confortable, même dans les zones difficiles d’accès.\n\nIdéale pour améliorer la visibilité par temps de pluie, de nuit ou lorsque le pare-brise devient flou à cause de l’humidité. Son format pratique se garde facilement dans la voiture pour un nettoyage rapide à tout moment.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse nettoyante pour vitres auto\n\nUtilisation\nPare-brise, vitres, rétroviseurs\n\nFonction\nNettoyage du film gras, buée, traces et saletés légères\n\nDesign\nErgonomique et facile à tenir\n\nFormat\nCompact, pratique à ranger dans la voiture\n\nApplication\nIntérieur et extérieur du véhicule\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Nettoyez rapidement votre pare-brise, vos vitres latérales et vos rétroviseurs avec cette brosse compacte conçue pour enlever le film gras, la buée, les traces d’eau et les saletés légères."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-02T210513.303.png"
-   ]
-  },
-  {
-   "sku": "doshift-75822",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ventilateur Portable Tour de Cou Rechargeable",
-     "description": "Profitez d’un peu de fraîcheur tout en gardant les mains libres avec ce ventilateur portable tour de cou. Son format ergonomique se porte simplement autour du cou et diffuse l’air à proximité du visage, idéal pendant les journées chaudes.\n\nSon design compact et moderne permet de l’utiliser facilement à la maison, au bureau, pendant les déplacements, les promenades ou les activités en extérieur. Rechargeable, il évite l’utilisation de piles jetables et peut être emporté facilement dans un sac.\n\nCaractéristique\nDétail\n\nType de produit\nVentilateur portable tour de cou\n\nUtilisation\nRafraîchissement personnel\n\nInstallation\nAutour du cou\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nFonctionnement\nMains libres\n\nConception\nSans pales apparentes\n\nForme\nErgonomique en U\n\nCouleur\nBlanc\n\nFinition\nDétail décoratif couleur rose doré\n\nPortabilité\nCompact et facile à transporter\n\nUtilisations\nMaison, bureau, voyage, extérieur, sport\n\nContenu du pack\n1 ventilateur tour de cou\n\nRéférence Doshift\nAA6BB599",
-     "short_description": "Profitez d’un peu de fraîcheur tout en gardant les mains libres avec ce ventilateur portable tour de cou."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-09-07T150612.985.png"
-   ]
-  },
-  {
-   "sku": "doshift-75804",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bac Gastronorme en Acier Inoxydable – 33 x 18 x 5 cm",
-     "description": "Optimisez la préparation, le stockage et le service de vos aliments avec ce bac gastronorme en acier inoxydable. Robuste, hygiénique et facile à nettoyer, il est idéal pour une utilisation en cuisine professionnelle, restaurant, buffet, traiteur ou à la maison.\n\nSa finition lisse en inox assure une bonne résistance à l’usage quotidien, tandis que son format pratique permet de conserver, préparer ou présenter différents aliments avec efficacité.\n\nCaractéristique\nDétail\n\nType de produit\nBac gastronorme\n\nMatière\nAcier inoxydable\n\nDimensions\n33 x 18 x 5 cm\n\nUtilisation\nPréparation, stockage, cuisson, service\n\nSurface\nLisse et facile à nettoyer\n\nAvantages\nRobuste, durable, hygiénique\n\nCompatible\nCuisine professionnelle et usage domestique\n\nRéférence Doshift\nAA5BB599",
-     "short_description": "Optimisez la préparation, le stockage et le service de vos aliments avec ce bac gastronorme en acier inoxydable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-02T185431.849.png"
-   ]
-  },
-  {
-   "sku": "doshift-75743",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mini Relais Sans Fil 433 MHz – Télécommande ON/OFF (1+2)",
-     "description": "Contrôlez vos équipements à distance en toute simplicité avec ce mini relais sans fil 433 MHz. Compact et facile à utiliser, il permet d’allumer ou d’éteindre différents appareils en un seul clic grâce à sa télécommande pratique. Idéal pour automatiser votre quotidien, il offre une transmission stable et une utilisation intuitive, que ce soit pour un garage, un portail, un éclairage ou d’autres dispositifs électriques.\n\nCaractéristique\nDétail\n\nType\nMini relais sans fil + télécommande\n\nFréquence\n433 MHz RF\n\nFonction\nON / OFF à distance\n\nConfiguration\nÉmetteur + Récepteur (1+2)\n\nPortée\nJusqu’à 50-100 m (selon environnement)\n\nAlimentation\npile,Faible consommation\n\nUtilisation\nGarage, portail, éclairage, pompe…\n\nInstallation\nSimple et rapide\n\nNombre de boutons\n2 (ON / OFF)\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Contrôlez vos équipements à distance en toute simplicité avec ce mini relais sans fil 433 MHz."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-02T153415.466.png"
-   ]
-  },
-  {
-   "sku": "doshift-75667",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Robinet Double Sortie Chromé pour Machine à Laver & Usage Quotidien",
-     "description": "Optimisez votre installation d’eau avec ce robinet double contrôle pratique et élégant. Conçu pour connecter simultanément une machine à laver et une utilisation manuelle, il offre une gestion indépendante des sorties d’eau pour plus de confort au quotidien. Sa finition chromée anti-corrosion apporte une touche moderne tout en garantissant une excellente durabilité.\n\nIdéal pour les buanderies, salles de bain, cuisines ou espaces de lavage, ce robinet robuste permet un branchement rapide et sécurisé grâce à sa double sortie fonctionnelle. Son design compact s’intègre facilement dans tous les environnements.\n\nCaractéristique\nDétail\n\nType\nRobinet double sortie\n\nUtilisation\nMachine à laver + usage manuel\n\nContrôle\nCommandes indépendantes\n\nFinition\nChromée brillante\n\nRésistance\nAnti-corrosion\n\nInstallation\nMurale\n\nMatériau\nMétal robuste\n\nCouleur\nArgent chromé\n\nAvantage\nDouble connexion pratique\n\nRéférence Doshift\nAA6BB999",
-     "short_description": "Optimisez votre installation d’eau avec ce robinet double contrôle pratique et élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/01_white_background-5.png"
-   ]
-  },
-  {
-   "sku": "doshift-75616",
+   "sku": "doshift-87802",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    7,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Télécommande Universelle Sans Fil 433 MHz – Duplicateur pour Porte de Garage et Portail Électrique",
-     "description": "Simplifiez l’ouverture de votre portail ou porte de garage avec cette télécommande universelle sans fil 433 MHz. Compacte, pratique et facile à transporter grâce à son porte-clés intégré, elle permet de dupliquer une télécommande compatible pour contrôler rapidement vos accès électriques.\n\nIdéale comme télécommande de remplacement ou comme duplicateur supplémentaire pour la maison, le garage, le parking ou le local professionnel.\n\nCaractéristique\nDétail\n\nProduit\nTélécommande universelle sans fil\n\nFréquence\n433 MHz\n\nUtilisation\nPorte de garage, portail électrique, rideau métallique compatible\n\nFonction\nDuplicateur / remplacement de télécommande\n\nNombre de boutons\n4 boutons\n\nFormat\nCompact avec porte-clés\n\nAlimentation\nPile intégrée/remplaçable selon modèle\n\nAvantage\nPratique, légère et facile à transporter\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Simplifiez l’ouverture de votre portail ou porte de garage avec cette télécommande universelle sans fil 433 MHz."
+     "name": "Mortier et Pilon en Bambou – Pour Épices, Herbes et Ail",
+     "description": "Préparez vos épices, herbes, ail et sauces maison facilement avec ce mortier et pilon en bambou. Son design naturel et robuste apporte une touche élégante à votre cuisine tout en restant pratique pour une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nProduit\nMortier et pilon\n\nMatière\nBambou naturel\n\nUtilisation\nÉpices, herbes, ail, graines\n\nDesign\nCompact et pratique\n\nEntretien\nNettoyage facile à la main\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Préparez vos épices, herbes, ail et sauces maison facilement avec ce mortier et pilon en bambou."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T202434.311.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T145307.197.png"
    ]
   },
   {
-   "sku": "doshift-75601",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Télécommande pour ouvre-porte de garage – Duplicateur sans fil 4 boutons",
-     "description": "Simplifiez l’accès à votre garage ou portail grâce à cette télécommande clonable à 4 boutons. Compacte, fiable et facile à utiliser, elle permet de copier rapidement le signal de votre télécommande d’origine pour un usage quotidien pratique et sécurisé. Idéale comme remplacement ou double, elle offre une solution économique sans compromis sur la performance.\n\nCaractéristique\nDétail\n\nType\nTélécommande clonable\n\nNombre de boutons\n4 boutons (A, B, C, D)\n\nFonction\nDuplication sans fil\n\nUtilisation\nGarage, portail électrique\n\nPortée\nLongue portée (selon installation)\n\nCompatibilité\nLarge compatibilité (selon fréquence)\n\nAlimentation\nPile intégrée\n\nDesign\nCompact et léger\n\nAccessoire\nDragonne incluse\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Simplifiez l’accès à votre garage ou portail grâce à cette télécommande clonable à 4 boutons."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T195037.803.png"
-   ]
-  },
-  {
-   "sku": "doshift-75545",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Télécommande universelle compacte longue portée",
-     "description": "Contrôlez facilement vos équipements à distance grâce à cette télécommande compacte et performante. Conçue pour une utilisation simple et rapide, elle offre une prise en main confortable et une excellente portée, idéale pour portails, garages ou systèmes domotiques.\n\nAvec ses 4 boutons intuitifs, vous pouvez gérer plusieurs appareils avec un seul accessoire. Sa taille mini (60 mm) permet de la transporter partout : poche, porte-clés ou voiture.\n\nSa portée allant jusqu’à 100 mètres (en espace ouvert) garantit un fonctionnement fiable même à distance, pour plus de confort au quotidien.\n\nCaractéristique\nDétail\n\nType\nTélécommande sans fil\n\nBoutons\n4 boutons\n\nPortée\nJusqu’à 100 m\n\nDimensions\n60 × 35 × 12 mm\n\nUtilisation\nPortail / Garage / Alarme\n\nAlimentation\nPile\n\nDesign\nCompact, portable\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Contrôlez facilement vos équipements à distance grâce à cette télécommande compacte et performante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T160948.636.png"
-   ]
-  },
-  {
-   "sku": "doshift-75534",
-   "price": 219,
+   "sku": "doshift-87760",
+   "price": 559,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -190,13 +29,167 @@
    ],
    "locales": {
     "fr": {
-     "name": "Boîte Rotative Multi-Grains 360° – 6 Compartiments",
-     "description": "Organisez vos aliments secs avec cette boîte rotative multi-grains pratique, compacte et facile à utiliser. Grâce à ses 6 compartiments séparés, elle permet de stocker riz, céréales, lentilles, haricots, graines, pois chiches et autres légumineuses tout en gardant chaque aliment bien séparé.\n\nSon système rotatif à 360° facilite la sélection du compartiment souhaité. Il suffit de tourner la boîte, puis d’actionner le bouton de distribution pour verser proprement la quantité désirée. Sa façade transparente permet de voir rapidement le contenu et le niveau de remplissage.\n\nIdéale pour optimiser l’espace dans la cuisine, cette boîte offre un rangement organisé, propre et pratique au quotidien.\n\nCaractéristiques\nDétails\n\nType de produit\nBoîte rotative multi-grains\n\nUtilisation\nRiz, céréales, graines, haricots, lentilles, pois chiches et légumineuses\n\nNombre de compartiments\n6 compartiments séparés\n\nCapacité\nEnviron 1,42 L par compartiment\n\nRotation\n360°\n\nDistribution\nBouton de dosage pratique\n\nOuverture\nSystème fermé après relâchement\n\nDesign\nFaçade transparente avec corps rotatif\n\nAvantages\nRangement organisé, gain de place, utilisation propre et rapide\n\nRéférence Doshift\nAA13BB099",
-     "short_description": "Organisez vos aliments secs avec cette boîte rotative multi-grains pratique, compacte et facile à utiliser."
+     "name": "Caméra IP 360° 5MP Étanche avec Audio & Vision Couleur",
+     "description": "Surveillez votre maison, votre bureau ou votre commerce avec cette caméra IP 360° 5MP, conçue pour offrir une image claire, une couverture panoramique et un suivi fiable jour comme nuit. Grâce à sa fonction audio intégrée, sa vision couleur et sa conception étanche, elle convient parfaitement pour une installation intérieure ou extérieure.\n\nCaractéristique\nDétail\n\nType de produit\nCaméra IP de surveillance\n\nRésolution\n5MP\n\nAngle de vision\n360°\n\nAudio\nIntégré\n\nImage\nCouleur\n\nÉtanchéité\nOui\n\nUtilisation\nIntérieur / extérieur\n\nAccès à distance\nSmartphone / tablette / PC\n\nInstallation\nMurale\n\nRéférence Doshift\nAA38BB099",
+     "short_description": "Surveillez votre maison, votre bureau ou votre commerce avec cette caméra IP 360° 5MP, conçue pour offrir une image claire, une couverture panoramique et un suivi fiable jour comme nuit."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T142512.905.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T140059.871.png"
+   ]
+  },
+  {
+   "sku": "doshift-87754",
+   "price": 669,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aspirateur Balai Sans Fil BONANA BO-5067 – 1200W – 2 en 1",
+     "description": "L’aspirateur balai sans fil BONANA BO-5067 est conçu pour un nettoyage rapide, pratique et efficace au quotidien. Léger et maniable, il s’utilise aussi bien comme aspirateur balai pour les sols que comme aspirateur à main pour les canapés, escaliers, coins difficiles ou voiture.\n\nGrâce à sa puissance maximale de 1200W, sa batterie Li-ion et son système de filtration HEPA, il permet d’aspirer poussières, miettes et saletés tout en offrant une utilisation confortable sans câble. Son réservoir de 0,6 L et ses accessoires inclus le rendent pratique pour différents besoins de nettoyage à la maison.\n\nCaractéristique\nDétail\n\nType\nAspirateur balai sans fil\n\nMarque\nBONANA\n\nModèle\nBO-5067\n\nPuissance\n1200W max\n\nFonction\n2 en 1 : aspirateur balai et aspirateur à main\n\nBatterie\nLi-ion\n\nAutonomie\nJusqu’à 35 minutes\n\nTemps de charge\n4 à 5 heures\n\nCapacité du réservoir\n0,6 L\n\nFiltration\nHEPA\n\nUtilisation\nSols, tapis, canapé, voiture, coins difficiles\n\nAccessoires inclus\nSupport mural, brosse 2 en 1, suceur plat\n\nHauteur en mode balai\n110 cm\n\nLongueur en mode à main\n44 cm\n\nRéférence\nAA49BB599",
+     "short_description": "L’aspirateur balai sans fil BONANA BO-5067 est conçu pour un nettoyage rapide, pratique et efficace au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T135654.490.png"
+   ]
+  },
+  {
+   "sku": "doshift-87766",
+   "price": 709,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aspirateur Balai Sans Fil Pliable 3 en 1 Schleizer SLZ-018VC",
+     "description": "Découvrez l’aspirateur balai sans fil pliable Schleizer SLZ-018VC, un appareil pratique et polyvalent conçu pour simplifier le nettoyage quotidien. Grâce à son format 3 en 1, il peut être utilisé comme aspirateur balai pour les sols, aspirateur à main pour les meubles ou la voiture, et en mode pliable pour atteindre facilement les zones difficiles.\n\nSon design moderne chrome et mat, sa puissance maximale de 1400W et sa batterie rechargeable offrent une utilisation confortable, efficace et sans contrainte de câble. Léger, compact et facile à ranger, il convient parfaitement pour la maison, les escaliers, les tapis, les sols durs et l’intérieur de voiture.\n\nCaractéristique\nDétail\n\nProduit\nAspirateur balai sans fil pliable\n\nMarque\nSchleizer\n\nModèle\nSLZ-018VC\n\nType\nAspirateur 3 en 1\n\nUtilisation\nBalai, à main et pliable\n\nPuissance max\n1400W\n\nBatterie\nRechargeable\n\nDesign\nChrome & mat\n\nFonction pliable\nOui\n\nUtilisation recommandée\nSols, tapis, canapé, voiture, escaliers\n\nAccessoires visibles\nEmbout fin, chargeur\n\nCouleur\nGris chrome / noir\n\nRéférence Doshift\nAA53BB099",
+     "short_description": "Découvrez l’aspirateur balai sans fil pliable Schleizer SLZ-018VC, un appareil pratique et polyvalent conçu pour simplifier le nettoyage quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T140840.481.png"
+   ]
+  },
+  {
+   "sku": "doshift-87603",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Imprimante Type-C 1,5 m",
+     "description": "Connectez facilement votre ordinateur, laptop ou appareil compatible Type-C à votre imprimante grâce à ce câble pratique et fiable. Avec sa longueur de 1,5 m, il offre une utilisation confortable au bureau, à la maison ou dans un espace de travail professionnel.\n\nIdéal pour assurer une connexion stable entre votre appareil et votre imprimante, ce câble permet une transmission de données fluide pour vos impressions quotidiennes.\n\nCaractéristique\nDétail\n\nProduit\nCâble imprimante Type-C\n\nLongueur\n1,5 m\n\nConnecteur 1\nType-C\n\nConnecteur 2\nConnecteur imprimante\n\nCouleur\nNoir\n\nUtilisation\nConnexion ordinateur / imprimante\n\nCompatibilité\nImprimantes et scanners compatibles\n\nRéférence Doshift\nAA2BB599",
+     "short_description": "Connectez facilement votre ordinateur, laptop ou appareil compatible Type-C à votre imprimante grâce à ce câble pratique et fiable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-24T171356.913.png"
+   ]
+  },
+  {
+   "sku": "doshift-87608",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble USB-C vers USB-B pour imprimante – 3 m",
+     "description": "Connectez facilement votre ordinateur équipé d’un port USB-C à une imprimante dotée d’un port USB-B. Grâce à sa longueur de 3 mètres, ce câble offre une installation plus flexible à la maison comme au bureau.\n\nSa gaine tressée apporte une finition robuste et aide à limiter les torsions lors de son utilisation ou de son rangement. Avant l’achat, vérifiez simplement la présence d’un port USB-B sur votre imprimante.\n\nCaractéristique\nDétail\n\nType de produit\nCâble de connexion pour imprimante\n\nConnecteur 1\nUSB-C mâle\n\nConnecteur 2\nUSB-B mâle, type imprimante\n\nLongueur\n3 m\n\nRevêtement\nGaine tressée\n\nCouleur\nNoir\n\nUtilisation\nConnexion entre un appareil USB-C et une imprimante USB-B\n\nContenu du pack\n1 câble USB-C vers USB-B\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Connectez facilement votre ordinateur équipé d’un port USB-C à une imprimante dotée d’un port USB-B. Grâce à sa longueur de 3 mètres, ce câble offre une installation plus flexible à la maison comme au bureau."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-09-15T125214.230.png"
+   ]
+  },
+  {
+   "sku": "doshift-87563",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Manette de Jeu Sans Fil – Double Joystick",
+     "description": "Profitez d’une expérience de jeu fluide et confortable avec cette manette de jeu sans fil, conçue pour offrir une bonne prise en main et une liberté de mouvement pendant vos sessions gaming. Son design ergonomique avec double joystick, croix directionnelle et boutons d’action permet une utilisation simple, pratique et intuitive.\n\nIdéale pour les jeux d’action, de sport, de course ou d’aventure, elle convient parfaitement pour remplacer une ancienne manette ou ajouter une manette supplémentaire à votre setup gaming.\n\nCaractéristique\nDétail\n\nProduit\nManette de jeu\n\nType\nSans fil\n\nCouleur\nNoir\n\nCommandes\nDouble joystick + croix directionnelle + boutons d’action\n\nUtilisation\nJeux vidéo, gaming, remplacement ou manette supplémentaire\n\nErgonomie\nPrise en main confortable\n\nDesign\nLéger et pratique\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Profitez d’une expérience de jeu fluide et confortable avec cette manette de jeu sans fil, conçue pour offrir une bonne prise en main et une liberté de mouvement pendant vos sessions gaming."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-24T160446.942.png"
+   ]
+  },
+  {
+   "sku": "doshift-87465",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Lave-Linge Pliable et Portable avec Panier d’Essorage",
+     "description": "Simplifiez le lavage des petits vêtements avec ce mini lave-linge pliable et compact. Pratique pour les appartements, studios, voyages ou espaces réduits, il permet de laver facilement les chaussettes, sous-vêtements, vêtements de bébé et autres textiles légers.\n\nSa structure pliable réduit considérablement son encombrement après utilisation, facilitant ainsi son rangement dans un placard ou sur une étagère. Le panier amovible permet d’égoutter les vêtements après le lavage, tandis que le panneau de commande frontal offre une utilisation simple et rapide.\n\nCaractéristique\nDétail\n\nType de produit\nMini lave-linge portable\n\nConception\nPliable et compacte\n\nCouleur\nBleu avec couvercle noir\n\nUtilisation recommandée\nSous-vêtements, chaussettes, vêtements de bébé et textiles légers\n\nPanier intérieur\nPanier d’essorage ou d’égouttage amovible\n\nCommandes\nPanneau de commande frontal\n\nCouvercle\nRabattable\n\nInstallation\nUtilisation sur une surface stable, à proximité d’un point d’eau\n\nRangement\nSe replie pour réduire l’encombrement\n\nContenu du pack\n1 mini lave-linge pliable et 1 panier amovible\n\nRéférence Doshift\nAA17BB099",
+     "short_description": "Simplifiez le lavage des petits vêtements avec ce mini lave-linge pliable et compact."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-08-03T150037.183.png"
+   ]
+  },
+  {
+   "sku": "doshift-87461",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Souris Logitech M185 Sans Fil – Gris",
+     "description": "La Logitech M185 est une souris sans fil compacte, pratique et confortable, idéale pour une utilisation quotidienne au bureau, à la maison ou en déplacement. Grâce à sa connexion sans fil fiable avec récepteur nano USB, elle offre une liberté de mouvement jusqu’à 10 mètres et un suivi fluide pour travailler plus facilement.\n\nSon design ambidextre convient aussi bien aux droitiers qu’aux gauchers, tandis que son format compact assure une bonne prise en main. Avec une autonomie pouvant atteindre 12 mois, elle est conçue pour une utilisation simple, durable et efficace.\n\nCaractéristique\nDétail\n\nMarque\nLogitech\n\nModèle\nM185\n\nType\nSouris sans fil\n\nCouleur\nGris / Noir\n\nConnexion\nSans fil avec récepteur nano USB\n\nPortée sans fil\nJusqu’à 10 m\n\nAutonomie\nJusqu’à 12 mois\n\nDesign\nCompact et confortable\n\nUtilisation\nBureau, maison, ordinateur portable\n\nCompatibilité\nPC, laptop et appareils compatibles USB\n\nRéférence\nAA11BB099",
+     "short_description": "La Logitech M185 est une souris sans fil compacte, pratique et confortable, idéale pour une utilisation quotidienne au bureau, à la maison ou en déplacement."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-24T133114.683.png"
+   ]
+  },
+  {
+   "sku": "doshift-87471",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clavier + Souris Sans Fil Logitech MK220 Wireless (FR)",
+     "description": "Profitez d’un espace de travail plus propre et plus confortable avec le pack Logitech MK220 Wireless (FR). Ce combo comprend un clavier compact avec pavé numérique intégré et une souris sans fil légère, idéale pour le bureau, la maison ou les études.\n\nGrâce à sa connexion sans fil stable, vous bénéficiez d’une utilisation pratique sans câbles encombrants. Le clavier offre une frappe agréable au quotidien, tandis que la souris assure une prise en main simple et confortable.\n\nCaractéristique\nDétail\n\nProduit\nClavier + souris sans fil\n\nMarque\nLogitech\n\nModèle\nMK220 Wireless\n\nDisposition\nFR\n\nConnexion\nSans fil\n\nClavier\nCompact avec pavé numérique intégré\n\nSouris\nSans fil, légère et confortable\n\nUtilisation\nBureau, maison, études\n\nInstallation\nPlug & Play\n\nCouleur\nNoir\n\nRéférence Doshift\nAA17BB599",
+     "short_description": "Profitez d’un espace de travail plus propre et plus confortable avec le pack Logitech MK220 Wireless (FR)."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-24T135717.765.png"
    ]
   }
  ]

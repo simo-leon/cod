@@ -1,86 +1,86 @@
 {
  "products": [
   {
-   "sku": "doshift-33910",
-   "price": 79,
+   "sku": "doshift-41637",
+   "price": 239,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
     4
    ],
    "locales": {
     "fr": {
-     "name": "Adaptateur HDMI vers VGA avec Audio – PC, TV, Projecteur",
-     "description": "Cet adaptateur HDMI vers VGA avec audio est conçu pour connecter facilement vos appareils HDMI à un moniteur, projecteur ou téléviseur VGA, tout en transmettant le son et les données de manière fiable.\n\nCaractéristiques principales :\n\nCompatibilité étendue : fonctionne avec ordinateurs, ordinateurs portables, PC, téléviseurs, moniteurs et projecteurs.\n\nAudio intégré : permet la transmission du son en plus de la vidéo.\n\nLongueur du câble : environ 120 cm (<4 pieds).\n\nFonctionnalités avancées : transmission de données et fonction de charge.\n\nPuce IC intégrée : garantit une conversion stable et de haute qualité.\n\nDesign pratique : non rétractable, prêt à l’emploi, avec options OEM personnalisables.\n\nEmballage : disponible en vrac, blister ou carte-tête selon vos besoins.\n\nUn adaptateur fiable et polyvalent pour vos besoins audio-visuels et de connexion entre appareils HDMI et VGA.",
-     "short_description": "Cet adaptateur HDMI vers VGA avec audio est conçu pour connecter facilement vos appareils HDMI à un moniteur, projecteur ou téléviseur VGA, tout en transmettant le son et les données de manière fiable."
+     "name": "Adaptateur WiFi USB AC1300 High Gain – Double Antenne Haute Portée",
+     "description": "Optimisez instantanément la connexion Internet de votre PC avec l’adaptateur WiFi USB LB-LINK AC1300 High Gain, équipé de deux antennes externes longue portée pour une réception puissante et stable.Grâce à la technologie dual band 2.4 GHz + 5 GHz, il offre une vitesse allant jusqu’à 1300 Mbps, idéale pour le streaming HD, les jeux en ligne, le télétravail et les téléchargements rapides.Compatible Windows 10/11 et Linux, il se connecte facilement grâce à son installation rapide via pilote téléchargeable.Sa double antenne rotative à 180° assure une couverture réseau élargie, même à distance ou derrière des murs, pour une performance optimale dans toutes les situations.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAdaptateur WiFi USB haute performance\n\nModèle\nBL-WDN1300H (AC1300 High Gain)\n\nNormes WiFi\nIEEE 802.11 a/b/g/n/ac\n\nVitesse WiFi\nJusqu’à 1300 Mbps (867 Mbps en 5 GHz + 400 Mbps en 2.4 GHz)\n\nDouble bande\n2.4 GHz et 5 GHz\n\nAntennes\n2 antennes WiFi haute puissance – rotatives à 180°\n\nTechnologie\nMU-MIMO – améliore la vitesse avec plusieurs appareils connectés\n\nInstallation\nLogiciel pilote téléchargeable (plug & play rapide)\n\nCompatibilité\nWindows 10 / 11, Linux\n\nMode Station\nOui – se connecte à un routeur pour accéder au WiFi\n\nUtilisation\nPC de bureau, ordinateurs portables, réseau longue distance\n\nUSB\nUSB haute vitesse\n\nAvantages réseau\nSignal renforcé, bonne stabilité, meilleur streaming HD\n\nCouleur\nNoir\n\nMarque\nLB-LINK\n\nRéférence\nAA16BB099",
+     "short_description": "Optimisez instantanément la connexion Internet de votre PC avec l’adaptateur WiFi USB LB-LINK AC1300 High Gain, équipé de deux antennes externes longue portée pour une réception puissante et stable.Grâce à la…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/9900001257025.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/ab489.jpeg"
    ]
   },
   {
-   "sku": "doshift-33891",
+   "sku": "doshift-41630",
    "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    6
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Support d’Alimentation Sans Fil pour Manettes Playstation 4 – Noir",
-     "description": "Gardez vos manettes PS4 toujours prêtes à l’action avec ce support de charge sans fil spécialement conçu pour les manettes DualShock 4, compatibles PS4, PS4 Slim et PS4 Pro. Son design élégant et fonctionnel permet de charger deux manettes simultanément tout en affichant l’état de charge en temps réel via une lentille semi-transparente à l’avant.\n\nCaractéristiques principales :\n\nCompatibilité : DualShock 4 pour PS4, PS4 Slim et PS4 Pro.\n\nDouble charge simultanée : chargez deux manettes en même temps.\n\nIndicateur LED : lentille semi-transparente affichant l’état de charge (vert/rouge).\n\nAlimentation universelle : tension d’entrée DC 5V, compatible avec tout port USB standard.\n\nDesign pratique : apparence élégante et installation facile, idéal pour tout setup gaming.\n\nInstructions d’utilisation :\n\nBranchez le câble USB du chargeur à votre PS4 ou une autre source USB 5V.\n\nPlacez les manettes verticalement en veillant à insérer correctement le port EXT dans la borne.\n\nL’icône LED passe du vert au rouge pendant le chargement et revient au vert une fois complet.\n\nUn accessoire indispensable pour tout joueur PS4 souhaitant garder ses manettes prêtes à jouer en permanence.",
-     "short_description": "Gardez vos manettes PS4 toujours prêtes à l’action avec ce support de charge sans fil spécialement conçu pour les manettes DualShock 4, compatibles PS4, PS4 Slim et PS4 Pro."
+     "name": "Adaptateur WiFi USB LB-LINK AC650 High Gain – Double Bande & Antenne 6dBi",
+     "description": "Boostez instantanément la connexion Internet de votre ordinateur avec l’adaptateur WiFi USB LB-LINK AC650 High Gain, conçu pour offrir une vitesse élevée, une portée renforcée et une installation ultra-simple.Grâce à son antenne externe 6 dBi, il capte les signaux WiFi même à travers les murs et dans les zones éloignées du routeur.Compatible Windows, léger et portable, il est idéal pour les ordinateurs de bureau, PC portables, et pour créer un hotspot WiFi (mode AP).\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAdaptateur WiFi USB haute performance\n\nModèle\nBL-WDN650A (AC650 High Gain)\n\nNormes WiFi\nIEEE 802.11 a/b/g/n/ac\n\nVitesse WiFi\nJusqu’à 650 Mbps (433 Mbps + 200 Mbps)\n\nDouble bande\n2.4 GHz & 5 GHz\n\nAntenne\nAntenne externe 6 dBi – haute portée\n\nCompatibilité\nWindows (Plug & Play – pas de CD requis)\n\nInstallation\nAuto-installation immédiate\n\nFonction Soft AP\nOui – permet de créer un hotspot WiFi (non compatible Windows 10 pour AP)\n\nUtilisation\nPC Bureau, Laptop, routeur WiFi, partage de connexion\n\nTechnologie\nUSB 2.0 portable\n\nPortée améliorée\nSignal stable même à travers les murs\n\nModes\n• Station Mode (connexion WiFi) • AP Mode (point d’accès WiFi)\n\nCouleur\nBlanc\n\nMarque\nLB-LINK\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Boostez instantanément la connexion Internet de votre ordinateur avec l’adaptateur WiFi USB LB-LINK AC650 High Gain, conçu pour offrir une vitesse élevée, une portée renforcée et une installation ultra-simple.Grâce à…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/6972520251269.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/ab488.jpeg"
    ]
   },
   {
-   "sku": "doshift-33522",
+   "sku": "doshift-41652",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Panier à Linge 3 Compartiments Amovible – Tri Facile et Design Pratique",
-     "description": "Tri Intelligent & Design Moderne avec Panier 3 Compartiments\n\nDark / Light / Color • 120L • Pliable & Robuste\n\n🔥 76% du stock déjà commandé !\n\n✨\n\n⭐\n\n💫\n\n✨\n\n🧺\n\nVotre Routine Linge Simplifiée\n\nSimplifiez votre quotidien avec ce panier à linge pliable 3 en 1.\n\nTri facile, transport sans effort et design moderne, prêt pour chaque pièce de votre maison.\n\n🗂️\n\nTri Intelligent\n\n3 sections Dark / Light / Color\n\n🎒\n\nTransport Facile\n\nSacs détachables & poignées solides\n\n📦\n\nGain de Place\n\nPliable, léger & design moderne\n\n🌟\n\nPourquoi Ils Adorent\n\n✓\n\n3 Compartiments Amovibles\n\nPratique\n\nTri automatique avant lavage, fini le désordre\n\n✓\n\nCadre Aluminium + Oxford 600D\n\nStructure robuste & tissu imperméable facile à nettoyer\n\n✓\n\nSacs Intérieurs Détachables\n\nPopulaire\n\nTransport direct à la machine sans transvaser\n\n✓\n\nDesign Pliable & Compact\n\nRangement rapide, idéal pour petits espaces\n\n✓\n\nPoignées de Transport Solides\n\nConfort\n\nManipulation légère et sans effort\n\n⭐⭐⭐⭐⭐\n\n4.9/5\n\nNote Clients\n\n0\n\nFoyers Équipés\n\n🚚\n\nLivraison\n24-48h\n\n📋\n\nCaractéristiques\n\n📶\n\n120L Capacité\n\n🧵\n\nOxford 600D\n\n📐\n\n65×60 cm\n\n🔽\n\nPliable\n\n🎯\n\nUsages Recommandés\n\n▼\n\nBuanderie\n\nChambre\n\nSalle de bain\n\nAppartement\n\nMaison\n\n🔧\n\nSpécifications Techniques\n\n▼\n\nModèle: Panier à linge 3 compartiments amovible\n\nStructure: Cadre en aluminium tubulaire démontable\n\nTissu: Oxford 600D imperméable, lavable & durable\n\nCompartiments: 3 sections claires (Dark / Light / Color)\n\nCapacité: Environ 120 litres au total\n\nDimensions: 65 × 60 cm (H×L)\n\nTransport: Sacs intérieurs détachables + poignées intégrées\n\nDesign: Pliable, moderne, coloris Gris / Noir / Beige\n\nRéférence: AA7BB099\n\n📦\n\nDans la Boîte\n\n▼\n\n✓ 1x Cadre aluminium pliable\n\n✓ 3x Sacs intérieurs amovibles (Dark, Light, Color)\n\n✓ 4x Poignées de transport intégrées\n\n✓ Notice d’assemblage FR/AR\n\n✓ Garantie qualité incluse\n\n🚚\n\nPaiement à la livraison\n\n↩️\n\nRetour 15j Gratuit\n\n📞\n\nSupport WhatsApp\n\n⭐\n\nGarantie Satisfait\n\n/* 🎨 VARIABLES & RESET – LIGHT MODE ONLY */\n\n*, *::before, *::after { box-sizing: border-box; }\n\n.dt-product-vivant {\n\n–dt-hero-bg: linear-gradient(135deg, #0094B0 0%, #005f73 100%);\n\n–dt-primary: #e63946;\n\n–dt-primary-light: #ff4d5a;\n\n–dt-secondary: #1d3557;\n\n–dt-accent: #ffd700;\n\n–dt-accent-light: #ffed4a;\n\n–dt-success: #00d9a5;\n\n–dt-light: #f8f9fa;\n\n–dt-dark: #1a1a2e;\n\n–dt-gray: #6c757d;\n\n–dt-radius: 14px;\n\n–dt-shadow: 0 10px 30px rgba(0,0,0,0.12);\n\nfont-family: -apple-system, BlinkMacSystemFont, ‘Segoe UI’, Roboto, Helvetica, Arial, sans-serif;\n\ncolor: var(–dt-dark);\n\nline-height: 1.6;\n\nmax-width: 100%;\n\nmargin: 0;\n\npadding: 0;\n\noverflow-x: hidden;\n\nbackground: #ffffff;\n\n}\n\n/* 🔥 HERO BANNER */\n\n.dt-hero-banner {\n\nbackground: var(–dt-hero-bg);\n\ncolor: white;\n\npadding: 24px 16px;\n\nborder-radius: 0;\n\nmargin: 0 0 8px 0;\n\nposition: relative;\n\noverflow: hidden;\n\nbox-shadow: var(–dt-shadow);\n\nanimation: dt-slideUp 0.6s ease-out;\n\n}\n\n@keyframes dt-slideUp {\n\nfrom { opacity: 0; transform: translateY(30px); }\n\nto { opacity: 1; transform: translateY(0); }\n\n}\n\n.dt-floating-badge {\n\nposition: absolute;\n\nbackground: var(–dt-accent);\n\ncolor: var(–dt-dark);\n\npadding: 5px 12px;\n\nborder-radius: 20px;\n\nfont-weight: 800;\n\nfont-size: 0.8rem;\n\nbox-shadow: 0 4px 15px rgba(0,0,0,0.2);\n\nz-index: 2;\n\ntop: 12px;\n\nleft: 50%;\n\ntransform: translateX(-50%);\n\nanimation: dt-float 3s ease-in-out infinite;\n\n}\n\n@keyframes dt-float {\n\n0%, 100% { transform: translate(-50%, 0); }\n\n50% { transform: translate(-50%, -6px); }\n\n}\n\n.dt-banner-title {\n\nfont-size: 1.3rem;\n\nfont-weight: 800;\n\nmargin: 0 0 6px 0;\n\nline-height: 1.3;\n\ncolor: #ffffff;\n\n}\n\n.dt-highlight {\n\nbackground: var(–dt-accent);\n\ncolor: var(–dt-dark);\n\npadding: 2px 6px;\n\nborder-radius: 5px;\n\ndisplay: inline-block;\n\n}\n\n.dt-banner-subtitle {\n\nfont-size: 0.9rem;\n\nopacity: 0.95;\n\nmargin: 0 0 12px 0;\n\n}\n\n.dt-progress-bar {\n\nheight: 6px;\n\nbackground: rgba(255,255,255,0.3);\n\nborder-radius: 10px;\n\noverflow: hidden;\n\nmargin: 10px 0;\n\n}\n\n.dt-progress-fill {\n\nheight: 100%;\n\nbackground: var(–dt-accent);\n\nborder-radius: 10px;\n\nanimation: dt-fillBar 1.5s ease-out;\n\nbox-shadow: 0 0 10px rgba(255,215,0,0.5);\n\n}\n\n@keyframes dt-fillBar {\n\nfrom { width: 0; }\n\nto { width: 78%; }\n\n}\n\n.dt-progress-text {\n\nfont-size: 0.8rem;\n\nmargin: 0;\n\nfont-weight: 600;\n\n}\n\n.dt-sparkles {\n\nposition: absolute;\n\nwidth: 100%;\n\nheight: 100%;\n\ntop: 0;\n\nleft: 0;\n\npointer-events: none;\n\n}\n\n.dt-sparkle {\n\nposition: absolute;\n\nfont-size: 1.1rem;\n\nanimation: dt-sparkle 2s infinite;\n\nanimation-delay: calc(var(–i) * 0.3s);\n\n}\n\n.dt-sparkle:nth-child(1) { top: 18%; left: 8%; }\n\n.dt-sparkle:nth-child(2) { top: 62%; left: 4%; }\n\n.dt-sparkle:nth-child(3) { top: 28%; right: 8%; }\n\n.dt-sparkle:nth-child(4) { top: 72%; right: 12%; }\n\n@keyframes dt-sparkle {\n\n0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }\n\n50% { opacity: 1; transform: scale(1) rotate(180deg); }\n\n}\n\n/* 📱 SECTIONS */\n\n.dt-section {\n\npadding: 20px 16px;\n\nmargin: 0;\n\nanimation: dt-fadeIn 0.6s ease-out;\n\n}\n\n@keyframes dt-fadeIn {\n\nfrom { opacity: 0; }\n\nto { opacity: 1; }\n\n}\n\n.dt-section-header {\n\ndisplay: flex;\n\nalign-items: center;\n\ngap: 8px;\n\nmargin-bottom: 12px;\n\n}\n\n.dt-emoji-bounce {\n\nfont-size: 1.6rem;\n\nanimation: dt-bounce 2s infinite;\n\n}\n\n@keyframes dt-bounce {\n\n0%, 100% { transform: translateY(0); }\n\n50% { transform: translateY(-5px); }\n\n}\n\n.dt-section-title {\n\nfont-size: 1.2rem;\n\ncolor: var(–dt-secondary);\n\nmargin: 0;\n\nfont-weight: 700;\n\n}\n\n.dt-desc-text {\n\nfont-size: 0.95rem;\n\ncolor: #444;\n\nmargin-bottom: 16px;\n\nline-height: 1.6;\n\n}\n\n.dt-text-gradient {\n\nbackground: var(–dt-gradient-1);\n\n-webkit-background-clip: text;\n\n-webkit-text-fill-color: transparent;\n\nbackground-clip: text;\n\n}\n\n.dt-reveal-text mark {\n\nbackground: var(–dt-accent-light);\n\npadding: 2px 5px;\n\nborder-radius: 4px;\n\ncolor: var(–dt-dark);\n\n}\n\n/* 💳 CARTES BÉNÉFICES */\n\n.dt-benefits-cards {\n\ndisplay: grid;\n\ngrid-template-columns: 1fr;\n\ngap: 10px;\n\n}\n\n.dt-benefit-card {\n\nbackground: white;\n\npadding: 14px;\n\nborder-radius: 10px;\n\ntext-align: center;\n\nbox-shadow: 0 3px 12px rgba(0,0,0,0.08);\n\nposition: relative;\n\noverflow: hidden;\n\nanimation: dt-cardSlide 0.6s ease-out backwards;\n\nanimation-delay: calc(var(–delay) * 0.1s);\n\nborder: 2px solid transparent;\n\ntransition: all 0.3s ease;\n\n}\n\n@keyframes dt-cardSlide {\n\nfrom { opacity: 0; transform: translateX(-20px); }\n\nto { opacity: 1; transform: translateX(0); }\n\n}\n\n.dt-benefit-card:active {\n\ntransform: scale(0.98);\n\nborder-color: var(–dt-primary);\n\n}\n\n.dt-card-icon {\n\nfont-size: 2.2rem;\n\nmargin-bottom: 6px;\n\n}\n\n.dt-icon-bounce {\n\ndisplay: inline-block;\n\nanimation: dt-iconBounce 2s infinite;\n\n}\n\n@keyframes dt-iconBounce {\n\n0%, 100% { transform: scale(1); }\n\n50% { transform: scale(1.1); }\n\n}\n\n.dt-benefit-card h4 {\n\nmargin: 0 0 2px 0;\n\ncolor: var(–dt-secondary);\n\nfont-size: 1rem;\n\n}\n\n.dt-benefit-card p {\n\nmargin: 0;\n\nfont-size: 0.85rem;\n\ncolor: var(–dt-gray);\n\n}\n\n.dt-card-glow {\n\nposition: absolute;\n\ntop: -50%;\n\nleft: -50%;\n\nwidth: 200%;\n\nheight: 200%;\n\nbackground: radial-gradient(circle, rgba(230,57,70,0.1) 0%, transparent 70%);\n\nopacity: 0;\n\ntransition: opacity 0.3s;\n\n}\n\n.dt-benefit-card:active .dt-card-glow { opacity: 1; }\n\n/* ✅ FEATURES INTERACTIVES */\n\n.dt-section-features {\n\nbackground: var(–dt-light);\n\nborder-radius: 0;\n\nmargin: 0;\n\npadding: 20px 16px;\n\n}\n\n.dt-features-interactive {\n\ndisplay: flex;\n\nflex-direction: column;\n\ngap: 8px;\n\n}\n\n.dt-feature-item {\n\nbackground: white;\n\npadding: 12px;\n\nborder-radius: 10px;\n\ndisplay: flex;\n\nflex-direction: column;\n\ngap: 4px;\n\nbox-shadow: 0 2px 8px rgba(0,0,0,0.05);\n\ntransition: all 0.3s ease;\n\ncursor: pointer;\n\n}\n\n.dt-tap-effect:active {\n\ntransform: scale(0.98);\n\nbox-shadow: 0 4px 12px rgba(0,0,0,0.1);\n\n}\n\n.dt-feature-check {\n\ncolor: var(–dt-success);\n\nfont-weight: bold;\n\nfont-size: 1.2rem;\n\n}\n\n.dt-feature-content {\n\ndisplay: flex;\n\nalign-items: center;\n\ngap: 6px;\n\n}\n\n.dt-feature-content strong {\n\ncolor: var(–dt-secondary);\n\nfont-size: 0.9rem;\n\n}\n\n.dt-feature-tag {\n\nbackground: var(–dt-primary);\n\ncolor: white;\n\npadding: 2px 6px;\n\nborder-radius: 8px;\n\nfont-size: 0.65rem;\n\nfont-weight: 700;\n\n}\n\n.dt-feature-tag.hot { background: var(–dt-gradient-1); }\n\n.dt-feature-tag.gift { background: var(–dt-success); }\n\n.dt-feature-item p {\n\nmargin: 0;\n\nfont-size: 0.8rem;\n\ncolor: var(–dt-gray);\n\npadding-left: 20px;\n\n}\n\n/* 📊 PREUVE SOCIALE */\n\n.dt-social-proof-vivant {\n\ndisplay: grid;\n\ngrid-template-columns: 1fr;\n\ngap: 8px;\n\npadding: 16px;\n\nmargin: 0;\n\n}\n\n.dt-proof-card {\n\nbackground: white;\n\npadding: 12px;\n\nborder-radius: 10px;\n\ntext-align: center;\n\nbox-shadow: var(–dt-shadow);\n\nanimation: dt-scaleIn 0.5s ease-out backwards;\n\n}\n\n.dt-proof-card-1 { animation-delay: 0.1s; border-top: 3px solid var(–dt-accent); }\n\n.dt-proof-card-2 { animation-delay: 0.2s; border-top: 3px solid var(–dt-primary); }\n\n.dt-proof-card-3 { animation-delay: 0.3s; border-top: 3px solid var(–dt-success); }\n\n@keyframes dt-scaleIn {\n\nfrom { opacity: 0; transform: scale(0.8); }\n\nto { opacity: 1; transform: scale(1); }\n\n}\n\n.dt-proof-rating { font-size: 1.1rem; margin-bottom: 2px; }\n\n.dt-proof-score { font-size: 1.6rem; font-weight: 800; color: var(–dt-primary); line-height: 1; }\n\n.dt-proof-number { font-size: 1.8rem; font-weight: 800; background: var(–dt-gradient-1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }\n\n.dt-proof-label { font-size: 0.8rem; color: var(–dt-gray); margin-top: 3px; }\n\n.dt-proof-icon { font-size: 2.2rem; margin-bottom: 2px; }\n\n.dt-proof-text { font-size: 0.85rem; color: var(–dt-dark); }\n\n.dt-proof-text strong { color: var(–dt-primary); font-size: 1rem; }\n\n/* ⚙️ SPECS */\n\n.dt-section-specs {\n\nbackground: white;\n\nmargin: 0;\n\nborder-radius: 0;\n\npadding: 20px 16px;\n\n}\n\n.dt-specs-swipe {\n\ndisplay: flex;\n\ngap: 8px;\n\noverflow-x: auto;\n\npadding: 8px 0;\n\nmargin-bottom: 10px;\n\nscrollbar-width: none;\n\n-ms-overflow-style: none;\n\n}\n\n.dt-specs-swipe::-webkit-scrollbar { display: none; }\n\n.dt-spec-chip {\n\nflex-shrink: 0;\n\nbackground: var(–dt-light);\n\npadding: 8px 14px;\n\nborder-radius: 18px;\n\ndisplay: flex;\n\nalign-items: center;\n\ngap: 5px;\n\nfont-size: 0.85rem;\n\nfont-weight: 600;\n\ncolor: var(–dt-secondary);\n\nborder: 2px solid transparent;\n\ntransition: all 0.3s ease;\n\n}\n\n.dt-spec-chip:active {\n\nborder-color: var(–dt-primary);\n\ntransform: scale(0.95);\n\n}\n\n.dt-spec-chip-icon { font-size: 1.1rem; }\n\n/* Accordion */\n\n.dt-specs-accordion { display: flex; flex-direction: column; gap: 6px; }\n\n.dt-accordion-item { background: var(–dt-light); border-radius: 8px; overflow: hidden; }\n\n.dt-accordion-summary {\n\npadding: 10px 12px;\n\ndisplay: flex;\n\nalign-items: center;\n\ngap: 8px;\n\ncursor: pointer;\n\nlist-style: none;\n\nfont-weight: 600;\n\ncolor: var(–dt-secondary);\n\ntransition: background 0.3s;\n\n}\n\n.dt-accordion-summary:active { background: rgba(230,57,70,0.1); }\n\n.dt-accordion-summary::-webkit-details-marker { display: none; }\n\n.dt-accordion-icon { font-size: 1.2rem; }\n\n.dt-accordion-arrow { margin-left: auto; transition: transform 0.3s; }\n\n.dt-accordion-item[open] .dt-accordion-arrow { transform: rotate(180deg); }\n\n.dt-accordion-content { padding: 0 12px 12px 38px; animation: dt-slideDown 0.3s ease-out; }\n\n@keyframes dt-slideDown {\n\nfrom { opacity: 0; transform: translateY(-10px); }\n\nto { opacity: 1; transform: translateY(0); }\n\n}\n\n.dt-accordion-list { margin: 0; padding: 0; list-style: none; }\n\n.dt-accordion-list li { padding: 5px 0; color: var(–dt-gray); font-size: 0.85rem; }\n\n.dt-zones-grid { display: flex; flex-wrap: wrap; gap: 6px; }\n\n.dt-zone-tag { background: white; padding: 5px 10px; border-radius: 12px; font-size: 0.8rem; font-weight: 600; color: var(–dt-secondary); box-shadow: 0 2px 5px rgba(0,0,0,0.05); }\n\n/* 🎁 TRUST BADGES */\n\n.dt-trust-vivant {\n\ndisplay: grid;\n\ngrid-template-columns: repeat(2, 1fr);\n\ngap: 8px;\n\npadding: 16px 16px 24px 16px;\n\nmargin: 0;\n\n}\n\n.dt-trust-item {\n\nbackground: white;\n\npadding: 10px;\n\nborder-radius: 10px;\n\ntext-align: center;\n\ndisplay: flex;\n\nflex-direction: column;\n\nalign-items: center;\n\ngap: 4px;\n\nbox-shadow: 0 2px 8px rgba(0,0,0,0.06);\n\nanimation: dt-trustPulse 2s infinite backwards;\n\nanimation-delay: calc(var(–delay, 0) * 0.2s);\n\n}\n\n@keyframes dt-trustPulse {\n\n0%, 100% { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }\n\n50% { box-shadow: 0 4px 15px rgba(230,57,70,0.2); }\n\n}\n\n.dt-trust-icon { font-size: 1.6rem; }\n\n.dt-trust-item span:last-child { font-size: 0.75rem; font-weight: 600; color: var(–dt-secondary); }\n\n/* 📱 TABLET & DESKTOP (Restitution d’un cadre centré) */\n\n@media (min-width: 640px) {\n\n.dt-benefits-cards { grid-template-columns: repeat(3, 1fr); }\n\n.dt-social-proof-vivant { grid-template-columns: repeat(3, 1fr); }\n\n.dt-trust-vivant { grid-template-columns: repeat(4, 1fr); }\n\n.dt-banner-title { font-size: 1.5rem; }\n\n}\n\n@media (min-width: 768px) {\n\n.dt-product-vivant { max-width: 100%; margin: 0; padding: 0; }\n\n.dt-hero-banner {\n\nmax-width: 760px;\n\nmargin: 16px auto 0 auto;\n\npadding: 28px 24px;\n\nborder-radius: var(–dt-radius);\n\n}\n\n.dt-section {\n\nmax-width: 760px;\n\nmargin: 0 auto;\n\npadding: 24px 20px;\n\n}\n\n.dt-section-features, .dt-section-specs {\n\nmax-width: 760px;\n\nmargin: 16px auto;\n\nborder-radius: var(–dt-radius);\n\npadding: 24px 20px;\n\n}\n\n.dt-social-proof-vivant, .dt-trust-vivant {\n\nmax-width: 760px;\n\nmargin: 0 auto;\n\npadding: 20px;\n\n}\n\n.dt-banner-title { font-size: 1.8rem; }\n\n}\n\n/* 🎨 ACCESSIBILITÉ */\n\n@media (prefers-reduced-motion: reduce) {\n\n* {\n\nanimation-duration: 0.01ms !important;\n\nanimation-iteration-count: 1 !important;\n\ntransition-duration: 0.01ms !important;\n\n}\n\n}",
-     "short_description": "Tri Intelligent & Design Moderne avec Panier 3 Compartiments"
+     "name": "Lot de 3 boîtes de conservation hermétiques transparentes",
+     "description": "Gardez vos aliments bien conservés grâce à ce lot de 3 boîtes de conservation hermétiques en différentes tailles. Pratiques au quotidien, elles permettent de stocker, transporter et organiser facilement vos repas, fruits, légumes, snacks ou restes alimentaires.\n\nLeur design transparent permet de voir rapidement le contenu, tandis que la fermeture à clips aide à mieux préserver la fraîcheur des aliments. Grâce à leurs 3 formats complémentaires, ces boîtes s’adaptent à plusieurs usages à la maison, au bureau ou pour la préparation des repas.\n\nCaractéristique\nDétail\n\nType de produit\nLot de boîtes de conservation\n\nQuantité\n3 boîtes\n\nCouleur\nTransparent avec clips noirs\n\nForme\nRectangulaire\n\nUtilisation\nConservation, rangement et transport des aliments\n\nFermeture\nCouvercle avec clips\n\nPetite taille\n12 x 9,5 x 5 cm\n\nTaille moyenne\n17,5 x 12,5 x 6,5 cm\n\nGrande taille\n21,5 x 15,5 x 7,5 cm\n\nContenu du pack\n1 petite boîte + 1 boîte moyenne + 1 grande boîte\n\nRéférence\nAA6BB099",
+     "short_description": "Gardez vos aliments bien conservés grâce à ce lot de 3 boîtes de conservation hermétiques en différentes tailles."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/orio4.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-09-07T101616.859.png"
    ]
   },
   {
-   "sku": "doshift-33526",
-   "price": 149,
+   "sku": "doshift-41371",
+   "price": 229,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Panier à Linge Pliable – Gris",
-     "description": "Apportez de l’ordre et du style à votre maison avec ce Panier à Linge Pliable Gris, conçu pour allier praticité, solidité et design moderne. Fabriqué avec une structure en alliage d’aluminium robuste et un sac en tissu Oxford de qualité, ce panier est à la fois résistant et élégant.\n\nGrâce à sa grande capacité (60cm x 38cm x 35cm), il peut accueillir facilement vêtements, serviettes ou draps, ce qui le rend idéal pour les familles, les colocations ou les étudiants. Son design pliable et léger permet de le ranger sans encombrer lorsqu’il n’est pas utilisé, tandis que le cadre croisé stable garantit qu’il reste bien droit même lorsqu’il est plein.\n\nSon style gris moderne avec l’inscription “LAUNDRY” apporte une touche tendance qui s’intègre parfaitement dans toutes les pièces : chambre, salle de bain ou buanderie. C’est la solution idéale pour joindre esthétique et fonctionnalité au quotidien.\n\n✅ Caractéristiques :\n\nStructure solide : alliage d’aluminium avec embouts antidérapants\n\nTissu Oxford résistant – respirant et facile à nettoyer\n\nGrande capacité : 60cm (H) x 38cm (L) x 35cm (P)\n\nDesign pliable – rangement compact lorsqu’il n’est pas utilisé\n\nFinition moderne en gris avec l’inscription “LAUNDRY”\n\nAvec ce panier pliable, gardez votre linge organisé tout en ajoutant une touche élégante et pratique à votre intérieur.",
-     "short_description": "Apportez de l’ordre et du style à votre maison avec ce Panier à Linge Pliable Gris, conçu pour allier praticité, solidité et design moderne."
+     "name": "Panneau LED RL-16 avec Télécommande – Éclairage Réglable",
+     "description": "Améliorez facilement la qualité de votre éclairage avec le panneau LED RL-16. Son grand diffuseur offre une lumière homogène, idéale pour la création de contenu, les photos, les vidéos, le maquillage, les visioconférences ou le travail à domicile.\n\nGrâce au réglage de la luminosité, vous pouvez adapter l’intensité de l’éclairage selon vos besoins et votre environnement. Le réglage CCT permet également de modifier la tonalité de la lumière pour obtenir un rendu plus chaud ou plus froid.\n\nLe RL-16 est équipé d’un support à pince réglable, pratique pour le fixer directement sur une table ou un bureau sans encombrer votre espace. Sa télécommande permet de contrôler facilement les principaux réglages à distance.\n\nCaractéristique\nDétail\n\nModèle\nRL-16\n\nType\nPanneau d’éclairage LED\n\nLuminosité\nRéglable de 5 % à 100 %\n\nTempérature de couleur\nRéglable – CCT\n\nIndice de rendu des couleurs\nRA96+ annoncé\n\nCommande\nTélécommande\n\nFixation\nSupport à pince réglable\n\nOrientation\nSupport articulé réglable\n\nUtilisations\nPhoto, vidéo, streaming, maquillage, visioconférence, bureau\n\nCouleur\nBlanc et noir\n\nInstallation\nSur table ou bureau à l’aide de la pince\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Améliorez facilement la qualité de votre éclairage avec le panneau LED RL-16. Son grand diffuseur offre une lumière homogène, idéale pour la création de contenu, les photos, les vidéos, le maquillage, les…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/Nouveau-projet-2026-08-22T155944.288.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-08-15T161038.519.png"
    ]
   },
   {
-   "sku": "doshift-33378",
-   "price": 99,
+   "sku": "doshift-41282",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -90,76 +90,38 @@
    ],
    "locales": {
     "fr": {
-     "name": "Genouillères de maintien ajustables – Lot de 2",
-     "description": "Profitez d’un maintien confortable pendant vos activités physiques avec ce lot de deux genouillères. Leur conception longue enveloppe le genou, tandis que la sangle supérieure ajustable permet d’adapter le serrage selon vos préférences.\n\nLe tissu extensible épouse naturellement la forme de la jambe sans limiter les mouvements. Les zones tricotées et texturées favorisent une utilisation agréable lors du sport, de la marche, de la randonnée ou des exercices quotidiens.\n\nCaractéristique\nDétail\n\nProduit\nGenouillères de maintien\n\nQuantité\nLot de 2 pièces\n\nCouleur\nNoir avec finitions vertes\n\nMatière\nTextile tricoté extensible\n\nAjustement\nSangle supérieure réglable\n\nZone ciblée\nGenou\n\nConception\nLongue et enveloppante\n\nUtilisations\nFitness, course, marche, randonnée et exercices\n\nEntretien\nLavage doux recommandé\n\nTaille\nNon précisée\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Profitez d’un maintien confortable pendant vos activités physiques avec ce lot de deux genouillères."
+     "name": "Masseur Circulaire 360° Relax & Bien-Être",
+     "description": "Profitez d’un massage profond et relaxant à domicile grâce au masseur circulaire 360°. Conçu pour cibler efficacement les muscles fatigués, il aide à améliorer la circulation et à soulager les tensions après le sport, le travail ou une longue journée. Sa forme ergonomique et ses rouleaux texturés offrent une expérience de massage confortable et agréable sur différentes zones du corps.\n\nIdéal pour les jambes, bras, cou, épaules et dos, ce masseur manuel est léger, pratique et facile à utiliser au quotidien. Son design compact permet de l’emporter partout pour un moment de détente à tout moment.\n\nCaractéristique\nDétail\n\nType\nMasseur manuel circulaire\n\nUtilisation\nJambes, bras, cou, dos, épaules\n\nTechnologie\nMassage 360° à rouleaux\n\nEffet\nRelaxation musculaire & stimulation de la circulation\n\nDesign\nErgonomique et léger\n\nUtilisation\nMaison, sport, bureau\n\nMatériau\nPlastique robuste\n\nCouleur\nBlue ciel & beige\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Profitez d’un massage profond et relaxant à domicile grâce au masseur circulaire 360°."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/Nouveau-projet-2026-08-22T181756.925.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-05-08T181339.610.png"
    ]
   },
   {
-   "sku": "doshift-33234",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Cadenas sécurisé haute résistance",
-     "description": "Protégez vos portes, portails, garages et espaces de stockage avec ce cadenas robuste à corps noir et anse en acier trempé. Son design solide offre une sécurité renforcée, idéal pour une utilisation quotidienne en intérieur comme en extérieur.\n\nCaractéristiques\nDétails\n\nType\nCadenas de sécurité\n\nMatière\nCorps renforcé + anse en acier trempé\n\nCouleur\nNoir / chrome\n\nDimensions\n70 × 102 mm\n\nAnse\n63 mm, ouverture 48 mm\n\nUtilisation\nPortail, garage, entrepôt, casier, coffre\n\nAccessoires\nClés incluses\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Protégez vos portes, portails, garages et espaces de stockage avec ce cadenas robuste à corps noir et anse en acier trempé."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/Nouveau-projet-2026-05-29T162826.497.png"
-   ]
-  },
-  {
-   "sku": "doshift-30513",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Panier à Linge Mural Pliable – Sac à Linge Suspendu avec Poignée Portable",
-     "description": "Optimisez l’espace de votre salle de bain ou buanderie avec ce panier à linge mural pliable pratique et élégant. Conçu pour être suspendu au mur grâce à son crochet robuste, il permet de garder vos vêtements sales organisés tout en économisant de la place au sol.\n\nFabriqué en tissu épais et résistant, il est respirable, durable et facile à nettoyer. Sa conception pliable offre un gain de place lorsqu’il n’est pas utilisé, tandis que sa poignée intégrée vous permet de transporter facilement le linge jusqu’à la machine.\n\nQue ce soit pour une salle de bain, une chambre ou un petit appartement, ce sac à linge mural est la solution idéale pour allier praticité et gain de place.\n\n📌 Caractéristiques principales :\n\n✔️ Installation murale – Crochet solide inclus, idéal pour économiser de l’espace.\n\n✔️ Pliable et portable – Facile à plier et à transporter grâce à sa poignée.\n\n✔️ Grande capacité – Suffisamment spacieux pour accueillir vêtements, serviettes ou draps.\n\n✔️ Tissu durable et respirant – Résistant à l’humidité et conçu pour durer.\n\n✔️ Design minimaliste – S’intègre parfaitement à tout style de décoration intérieure.",
-     "short_description": "Optimisez l’espace de votre salle de bain ou buanderie avec ce panier à linge mural pliable pratique et élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/20250826_1124_Laundry-Day_remix_01k3jyee6jf79apga23js6p621.png"
-   ]
-  },
-  {
-   "sku": "doshift-30267",
-   "price": 99,
+   "sku": "doshift-41027",
+   "price": 359,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    7
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Flamingo Headlight Restorer F097 – Rénovateur Optiques de Phares 300ml",
-     "description": "Redonnez éclat et transparence à vos phares avec le Flamingo Headlight Restorer. Sa formule avancée élimine efficacement le voile terne, l’oxydation et le jaunissement causés par le temps et les conditions climatiques, pour des phares aussi clairs que neufs.\n\nFacile à utiliser, ce rénovateur agit en une seule étape sans besoin de ponçage. Il améliore instantanément la visibilité de nuit, prolonge la durée de vie de vos optiques et contribue à une conduite plus sûre.\n\nIdéal pour tous types de véhicules, il restaure rapidement vos phares ternis et leur redonne brillance et transparence.\n\n⭐ Avantages clés :\n\n✨ Restaure la clarté des phares ternis, jaunis ou oxydés.\n\n⚡ Action rapide et efficace en une seule étape, sans ponçage.\n\n🌙 Améliore la visibilité nocturne et la sécurité de conduite.\n\n🛡️ Protège contre l’oxydation future et prolonge la durée de vie des phares.\n\n🚗 Convient à tous types de véhicules (voitures, motos, etc.).\n\n💧 Format pratique de 300 ml, facile à appliquer.",
-     "short_description": "Redonnez éclat et transparence à vos phares avec le Flamingo Headlight Restorer. Sa formule avancée élimine efficacement le voile terne, l’oxydation et le jaunissement causés par le temps et les conditions climatiques,…"
+     "name": "Android TV Stick FHD – Transformez votre TV en Smart TV instantanément",
+     "description": "Profitez d’une expérience de divertissement complète en transformant votre télévision classique en Smart TV performante. Compact et puissant, ce TV Stick vous donne accès à vos plateformes préférées en quelques secondes, directement depuis votre écran.\n\nGrâce à sa connexion Wi-Fi rapide et stable, profitez d’un streaming fluide en Full HD 1080p, idéal pour vos films, séries et applications. Son installation simple vous permet de commencer immédiatement, sans configuration complexe.\n\nAvec sa télécommande intuitive, naviguez facilement entre vos contenus favoris et profitez d’un contrôle rapide et efficace.\n\nCaractéristique\nDétail\n\nType de produit\nTV Stick Android\n\nRésolution\nFull HD 1080p\n\nConnectivité\nWi-Fi\n\nInterface\nHDMI\n\nUtilisation\nStreaming, applications, casting\n\nInstallation\nPlug & Play\n\nFormat\nCompact et portable\n\nCompatibilité\nTV avec port HDMI\n\nRéférence Doshift\nAA19BB099",
+     "short_description": "Profitez d’une expérience de divertissement complète en transformant votre télévision classique en Smart TV performante."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/20250825_1308_Headlight-Restorer-Bottle_remix_01k3ghz9r7f3yr932kp3wxe674.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/c680e298-66d9-4e10-9a37-5063fec2d1be.jpg"
    ]
   },
   {
-   "sku": "doshift-30098",
-   "price": 99,
+   "sku": "doshift-40894",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -167,33 +129,73 @@
    ],
    "locales": {
     "fr": {
-     "name": "Panier à Linge Mural Étanche – Pliable, Grande Capacité & Gain de Place",
-     "description": "Apportez organisation et modernité à votre salle de bain ou buanderie avec ce panier à linge mural étanche. Conçu pour être à la fois pratique, esthétique et robuste, il se fixe facilement au mur pour libérer de l’espace au sol et garder votre intérieur toujours propre et ordonné.\n\nFabriqué en tissu Oxford imperméable de haute qualité, ce panier protège vos vêtements de l’humidité et des éclaboussures, même dans les environnements les plus humides. Sa conception pliable permet de le ranger ou de le transporter facilement grâce à sa poignée renforcée.\n\nSon grande capacité est idéale pour stocker les vêtements de toute la famille, tandis que son couvercle à rabat maintient le linge à l’abri de la poussière et des regards.\n\nPolyvalent, il peut être utilisé non seulement pour le linge, mais aussi comme panier de rangement pour jouets, draps, serviettes ou accessoires divers.\n\n✅ Caractéristiques principales :\n\nDesign mural : fixation facile, gain de place optimal.\n\nÉtanche & anti-humidité : protège le linge dans la salle de bain.\n\nGrande capacité : parfait pour une utilisation familiale.\n\nCouvercle à rabat : maintien du linge à l’abri de la poussière.\n\nPliable & portable : facile à ranger ou à transporter.\n\nPolyvalent : linge, jouets, serviettes, accessoires.\n\nStyle moderne : couleur grise élégante qui s’adapte à tout intérieur.\n\n📐 Dimensions :\n\nHauteur : env. 55 cm\n\nLargeur : env. 40 cm\n\nProfondeur : env. 20 cm",
-     "short_description": "Apportez organisation et modernité à votre salle de bain ou buanderie avec ce panier à linge mural étanche."
+     "name": "Set de 3 bocaux de rangement décoratifs avec couvercle",
+     "description": "Apportez une touche d’élégance à votre cuisine, salon ou coin café avec ce set de 3 bocaux de rangement décoratifs. Grâce à leur design raffiné et leur finition rose doré, ces bocaux allient parfaitement style et praticité.\n\nLe lot comprend 3 tailles différentes, idéales pour organiser plusieurs types de contenus selon vos besoins. Vous pouvez les utiliser pour ranger du sucre, café, biscuits, bonbons, snacks ou d’autres petits articles du quotidien. Leur couvercle apporte une belle finition visuelle et permet un rangement plus propre et harmonieux.\n\nAvec leur look chic et moderne, ces bocaux s’intègrent facilement dans différents styles d’intérieur et ajoutent une note décorative à votre espace.\n\nCaractéristique\nDétail\n\nProduit\nSet de 3 bocaux de rangement\n\nType\nBocaux décoratifs avec couvercle\n\nQuantité\n3 pièces\n\nCouleur\nRose doré\n\nDesign\nMotif géométrique décoratif\n\nDiamètre\n9,5 cm pour les 3 bocaux\n\nHauteur petit bocal\n9 cm\n\nHauteur bocal moyen\n13 cm\n\nHauteur grand bocal\n16 cm\n\nUtilisation\nRangement de sucre, café, biscuits, bonbons, snacks, petits accessoires\n\nEmplacement conseillé\nCuisine, plan de travail, coin café, étagère, salon\n\nStyle\nÉlégant, moderne, décoratif\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Apportez une touche d’élégance à votre cuisine, salon ou coin café avec ce set de 3 bocaux de rangement décoratifs."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/image-2025-08-24T181021.639.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-09-07T133439.514.png"
    ]
   },
   {
-   "sku": "doshift-29984",
-   "price": 69,
+   "sku": "doshift-40868",
+   "price": 331,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
+    3,
     4
    ],
    "locales": {
     "fr": {
-     "name": "Coque AirPods – Design Boisson Citron",
-     "description": "Apportez une touche de fraîcheur à vos écouteurs avec cet étui AirPods en forme de boisson citron glacé ! Original et tendance, il allie style, protection et praticité pour vos AirPods.\n\n✅ Points forts :\n\nDesign unique & fun : forme de boisson citron 🍋 avec détails en relief colorés.\n\nProtection optimale : fabriqué en silicone souple et résistant, absorbe les chocs et protège contre les rayures, la poussière et les éclaboussures.\n\nPrise en main confortable : texture douce, agréable au toucher et antidérapante.\n\nAccès facile : ouverture précise pour le port de charge, pas besoin de retirer l’étui.\n\nTransport pratique : livré avec un anneau porte-clés pour accrocher à votre sac, pantalon ou trousseau de clés.\n\n📋 Fiche Technique :\n\nMatière : Silicone premium de haute qualité\n\nCouleur : Jaune avec détails verts & citron en relief\n\nStyle : Boisson citron glacé 🍹\n\nInclus : Étui + porte-clés/anneau",
-     "short_description": "Apportez une touche de fraîcheur à vos écouteurs avec cet étui AirPods en forme de boisson citron glacé ! Original et tendance, il allie style, protection et praticité pour vos AirPods."
+     "name": "Câble HDTV PREMIUM – Câble HDMI Haute Vitesse 4K × 2K Version 2.0",
+     "description": "Le câble HDTV PREMIUM est conçu pour offrir une qualité d’image exceptionnelle en ultra-haute définition. Compatible avec la résolution 4K × 2K, le HDR, le Deep Color et la 3D, il garantit une transmission fluide, stable et sans perte. Grâce à sa construction robuste en alliage d’aluminium, ses connecteurs plaqués or 24K et son débit élevé, il assure une performance optimale pour les TV, box TV, lecteurs multimédias, consoles de jeux et projecteurs. Idéal pour les installations longues (jusqu’à 25 m ou 30 m), tout en offrant une haute fidélité audio et vidéo.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nNom du Produit\nHDTV PREMIUM – High Speed HDTV Cable\n\nVersion HDMI\nHDMI 2.0V\n\nRésolution Supportée\n4K × 2K Ultra HD (2160P)\n\nDébit de Transmission\nJusqu’à 18 Gbps\n\nMode Vidéo\n4K UHD, 3D Ultra HD\n\nTechnologie Couleur\nDeep Color\n\nCompatibilité Audio\nDolby True-HD, DTS-HD, Master Audio, jusqu’à 32 canaux\n\nDouble Affichage\nSupport Dual Screen Display\n\nSupport Voix\nTransmission de 4 signaux vocaux simultanés\n\nMatériau du Connecteur\nPlaqué or 24K\n\nMatériau du Corps du Connecteur\nAlliage d’aluminium durable\n\nDurabilité du Câble\nHaute résistance et réduction des interférences\n\nVitesse Réseau Ethernet\nSupport 10/100 Mbps\n\nLongueurs Disponibles\n25M et 30M (selon emballage)\n\nCompatibilité Appareils\nPS4/PS5, Blu-ray, Box TV, Lecteur multimédia, Projecteur, TV HD/4K\n\nNormes & Certifications\nCE, RoHS, Recyclage\n\nUtilisations Principales\nTV Box, TV, Player, LCD Display, Projecteur\n\nRéférence DOSHIFT\nAA26BB099",
+     "short_description": "Le câble HDTV PREMIUM est conçu pour offrir une qualité d’image exceptionnelle en ultra-haute définition."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/jvlaaal-2025-08-24T121014.436.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_so93xnso93xnso93.png"
+   ]
+  },
+  {
+   "sku": "doshift-40851",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble HDMI 4K UHD Haute Vitesse — Version 2.0",
+     "description": "Ce câble HDMI 4K UHD est conçu pour offrir une transmission vidéo et audio de très haute qualité. Compatible avec les résolutions jusqu’à 2160P Ultra HD, il garantit une image nette, fluide et riche en couleurs grâce au support Deep Color, au 3D UHD et à un débit allant jusqu’à 18 Gbps. Son connecteur plaqué or 24K et sa conception en alliage d’aluminium assurent une excellente durabilité et une transmission stable.Idéal pour les TV 4K, box TV, lecteurs multimédias, projecteurs, consoles (PS4/PS5), et écrans d’ordinateur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nNom du Produit\nCâble HDMI Haute Vitesse 4K UHD\n\nModèle\nHW1910\n\nVersion HDMI\n2.0\n\nRésolution Supportée\n2160P Ultra HD (4K × 2K)\n\nDébit\n18 Gbps\n\nFréquence\n60 Hz (4K @ 60Hz)\n\nTechnologies Supportées\n3D Ultra HD / Deep Color\n\nCompatibilités Audio\nDolby True-HD, DTS-HD, Master Audio, jusqu’à 32 canaux\n\nDouble Affichage\nOui (Dual Screen Display)\n\nMatériaux du Connecteur\nPlaqué or 24K + corps en alliage d’aluminium\n\nDurabilité\nHaute résistance + précision du signal\n\nLongueurs Disponibles\n5M, 10M (cochées sur la boîte)\n\nCompatibilité Appareils\nTV, TV Box, PS4/console, Player, Projecteur, LCD/Moniteur\n\nSupport Réseau\nEthernet haute vitesse 10/100 Mb/s\n\nFonctionnalités\nTransmission à faible interférence, haute stabilité\n\nNormes & Certifications\nCE, RoHS, Recyclage, VRS\n\nRéférence DOSHIFT\nAA6BB599",
+     "short_description": "Ce câble HDMI 4K UHD est conçu pour offrir une transmission vidéo et audio de très haute qualité."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_3xztes3xztes3xzt.png"
+   ]
+  },
+  {
+   "sku": "doshift-40720",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur USB 3.0 vers HDMI/Vidéo Full HD 1080P – Connexion Facile et Polyvalente",
+     "description": "Cet adaptateur vidéo portable est l’outil idéal pour étendre votre espace de travail ou partager du contenu multimédia depuis votre ordinateur (PC, ordinateur portable ou Mac) vers un écran plus grand. Grâce à sa connexion USB 3.0 haut débit, il permet une transmission de signal stable et supporte la résolution Full HD 1080P. Que vous ayez besoin de connecter un moniteur, un projecteur ou un téléviseur, cet adaptateur compact est conçu pour simplifier vos connexions. Son design discret et sa compatibilité étendue avec divers systèmes d’exploitation (Windows et Mac OS) en font une solution vidéo fiable et indispensable pour les professionnels et les particuliers.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de Produit\nAdaptateur Vidéo (USB vers Sortie Écran)\n\nInterface d’Entrée\nUSB 3.0\n\nSorties Supportées\nHDMI (Clairement visible sur le boîtier)\n\nRésolution Maximale\nFull HD 1080P\n\nTechnologie Vidéo\nPrise en charge HDCP (High-Bandwidth Digital Content Protection)\n\nCompatibilité OS\nWindows (2000, XP, Vista, 7, 8), Mac OS\n\nPolyvalence\nPeut être utilisé pour connecter un PC\n\n/ordinateur portable à un moniteur, projecteur ou TV.\n\nCertification\nFC, CE (Indiqué sur l’emballage)\n\nCouleur\nNoir (Adaptateur)\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Cet adaptateur vidéo portable est l’outil idéal pour étendre votre espace de travail ou partager du contenu multimédia depuis votre ordinateur (PC, ordinateur portable ou Mac) vers un écran plus grand."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/ChatGPT-Image-20-nov.-2025-16_06_50.png"
    ]
   }
  ]

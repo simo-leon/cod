@@ -1,27 +1,68 @@
 {
  "products": [
   {
-   "sku": "doshift-96606",
-   "price": 129,
+   "sku": "doshift-114273",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Solaire LED Extérieure avec Détecteur de Mouvement",
-     "description": "Éclairez facilement votre entrée, jardin, terrasse ou garage avec cette lampe solaire LED extérieure. Grâce à son panneau solaire intégré, elle se recharge pendant la journée et fonctionne sans branchement électrique.\n\nSon détecteur de mouvement active automatiquement l’éclairage lorsqu’un passage est détecté, apportant davantage de visibilité et de sécurité autour de la maison. Son support articulé permet d’ajuster l’orientation de la lampe afin de diriger la lumière vers la zone souhaitée.\n\nLa lampe dispose de 6 zones LED lumineuses, d’une batterie rechargeable de 1200 mAh et d’une télécommande pratique pour contrôler son fonctionnement à distance.\n\nCaractéristique\nDétail\n\nType de produit\nLampe solaire LED extérieure\n\nAlimentation\nÉnergie solaire\n\nBatterie\nRechargeable, 1200 mAh\n\nÉclairage\n6 zones LED\n\nDétection\nCapteur de mouvement intégré\n\nCommande\nBouton intégré et télécommande\n\nInstallation\nFixation murale\n\nOrientation\nSupport articulé et réglable\n\nUtilisation\nEntrée, jardin, terrasse, garage, cour et allée\n\nCouleur\nNoir\n\nBranchement électrique\nNon requis\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Éclairez facilement votre entrée, jardin, terrasse ou garage avec cette lampe solaire LED extérieure. Grâce à son panneau solaire intégré, elle se recharge pendant la journée et fonctionne sans branchement électrique."
+     "name": "ME19 Ultra 3 Smartwatch (3 Straps, 2.21″ AMOLED)",
+     "description": "La ME19 Ultra 3 est une montre connectée avec écran AMOLED géant de 2,21 pouces, 3 bracelets interchangeables et recharge sans fil conçue pour les appels mains libres et le suivi d’activité au quotidien.\n\nCaractéristique\nDétail\n\nType & Modèle\nMontre connectée – ME19 Ultra 3\n\nÉcran\nÉcran tactile géant AMOLED 2,21 pouces HD sans bordures\n\nBracelets inclus\n3 bracelets interchangeables (silicone ondulé + tissu boucle alpine)\n\nDimensions boîtier\n4,9 × 4,4 × 1,4 cm (49 × 44 × 14 mm)\n\nFonctions clés\nAppels Bluetooth, recharge sans fil magnétique, suivi santé et sport\n\nRéférence\n9900010718159",
+     "short_description": "Montre connectée AMOLED 2,21″ avec 3 bracelets et recharge sans fil."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T200657.262.png"
+    "https://doshift.ma/wp-content/uploads/2026/09/e70bfe16-8e08-446d-813a-7fa3f1802c4a.jpg"
    ]
   },
   {
-   "sku": "doshift-96532",
-   "price": 129,
+   "sku": "doshift-114232",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Microphone Speaker karaoké sans fil avec haut-parleur intégré",
+     "description": "Le Wster WS-910 est un microphone karaoké portable 2-en-1 avec haut-parleur intégré, anneau lumineux LED et modificateur de voix magique conçu pour le divertissement musical des enfants et de toute la famille au quotidien.\n\nCaractéristique\nDétail\n\nType\nMicrophone karaoké sans fil avec haut-parleur intégré\n\nMarque & Modèle\nWster WS-910\n\nPuissance haut-parleur\n5 W (son stéréo clair avec effet écho réglable)\n\nConnectivité\nBluetooth 5.0, port USB, carte TF / MicroSD, entrée AUX 3,5 mm\n\nÉclairage\nAnneau lumineux LED multicolore (veilleuse / ambiance festive)\n\nEffets vocaux\nModificateur de voix magique (M-Voice : 4 modes vocaux amusants)\n\nBatterie\nRechargeable Lithium 1200 mAh (autonomie 4 à 6 heures)\n\nTemps de charge\n~2 à 3 heures via câble USB inclus\n\nDimensions\n21 × 8 × 8 cm (210 × 80 × 80 mm)\n\nPoids\n~250 g (prise en main légère et adaptée aux enfants)\n\nMatériaux\nPlastique ABS renforcé et bonnette en mousse acoustique\n\nCouleur\nNoir avec anneau LED multicolore\n\nCompatibilité\nSmartphones (Android, iOS), tablettes, PC, applications de karaoké\n\nRéférence\n9900010718135",
+     "short_description": "Micro karaoké sans fil 2-en-1 avec haut-parleur et effets de voix."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/5b783d15-a1cf-4710-9344-0ad9b47ed96b.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-113782",
+   "price": 479,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Microphone avec Suspension et Filtre Anti-Pop BOOMARM-MIC-PRO X2",
+     "description": "Ce bras articulé en acier est un support de microphone réglable à 360° conçu pour le streaming, le podcast et l’enregistrement vocal au quotidien.\n\nCaractéristique\nDétail\n\nType\nBras articulé pour microphone (Boom Arm)\n\nPortée / Longueur\nPortée totale 70 à 80 cm (700 à 800 mm)\n\nÉpaisseur de pince\nCompatible bureaux jusqu’à 5,5 cm (55 mm)\n\nCapacité de charge\nJusqu’à 1,5 kg (1500 g)\n\nRotation\nRotation complète à 360° et inclinaison multi-angles\n\nRessorts\nDoubles ressorts de suspension en acier renforcé\n\nAccessoires inclus\nBras articulé + pince de table + suspension araignée + filtre anti-pop\n\nMatériaux\nAcier haute résistance et métal laqué\n\nCouleur\nNoir mat\n\nCompatibilité\nMicrophones standards (pas de vis 3/8″ et 5/8″)\n\nRéférence\n9900010718081",
+     "short_description": "Noir mat. Acier réglable à 360° avec pince de table (max. 5,5 cm). Portée : 70 à 80 cm ."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/06a3c04a-6666-4b7b-8144-4e07d5880352.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-113225",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -29,171 +70,127 @@
    ],
    "locales": {
     "fr": {
-     "name": "Visière Anti-Éblouissement Voiture Jour & Nuit – Double Filtre Rabattable",
-     "description": "Améliorez votre confort de conduite grâce à cette visière anti-éblouissement double fonction. Elle se fixe facilement sur le pare-soleil de votre véhicule et dispose de deux écrans rabattables adaptés aux différentes conditions de luminosité.\n\nL’écran orange aide à atténuer l’intensité des rayons du soleil pendant la journée, tandis que l’écran jaune améliore le confort visuel lors des trajets de nuit, notamment face aux phares et aux éclairages urbains.\n\nSon système de clip pratique permet une installation rapide, sans outils et sans modification du véhicule. Chaque filtre peut être relevé ou abaissé indépendamment selon vos besoins.\n\nCaractéristique\nDétail\n\nType de produit\nVisière anti-éblouissement pour voiture\n\nUtilisation\nConduite de jour et de nuit\n\nNombre d’écrans\n2 écrans rabattables\n\nÉcran orange\nUtilisation de jour contre la forte luminosité\n\nÉcran jaune\nUtilisation de nuit contre les phares et éclairages\n\nSystème de fixation\nClip sur le pare-soleil du véhicule\n\nInstallation\nRapide et sans outils\n\nRéglage\nÉcrans relevables et abaissables indépendamment\n\nCompatibilité\nConvient à la majorité des pare-soleil automobiles\n\nMatière\nPlastique teinté avec support en plastique\n\nCouleur\nJaune et orange\n\nContenu\n1 visière double jour et nuit\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Améliorez votre confort de conduite grâce à cette visière anti-éblouissement double fonction."
+     "name": "Cric ciseau manuel 1.5 Tonne",
+     "description": "Cric ciseau manuel 1.5 Tonne .\n\nUn cric mécanique simple, robuste et facile à utiliser pour changer une roue ou effectuer un dépannage rapide. Sa structure en acier supporte jusqu’à 1,5 tonne et offre une bonne stabilité, et sa manivelle permet de lever la voiture sans forcer.\n\nCaractéristique\n   Détail\n\nType\nCric ciseau manuel\n\nCapacité\n1.5 Tonne\n\nMatériau\nAcier\n\nCouleur\nNoir\n\nContenu\nCric + manivelle\n\nHauteur min.\n100 mm (10 cm)\n\nHauteur max.\n385 mm (38,5 cm)\n\nRéférence\n9900010717985",
+     "short_description": "Finition noire. Hauteur de levage réglable : de 10 à 38,5 cm (100/385 mm)."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T175521.510.png"
+    "https://doshift.ma/wp-content/uploads/2026/09/Gemini_Generated_Image_fxh6fofxh6fofxh6.jpg"
    ]
   },
   {
-   "sku": "doshift-96483",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rasoir pour femme 6 lames avec 10 cartouches – Rose",
-     "description": "Profitez d’un rasage précis et confortable avec ce rasoir pour femme doté de 6 lames. Sa tête mobile suit naturellement les courbes du corps, tandis que sa bande lubrifiante facilite la glisse sur la peau.\n\nSon manche ergonomique offre une prise en main stable et agréable. Le coffret comprend 1 rasoir et 10 cartouches de rechange, pour une utilisation durable au quotidien. Idéal pour le rasage des jambes, des aisselles et des autres zones du corps.\n\nCaractéristique\nDétail\n\nType de produit\nRasoir manuel pour femme\n\nNombre de rasoirs\n1\n\nNombre de cartouches\n10 cartouches\n\nNombre de lames\n6 lames par cartouche\n\nTête\nFlexible et pivotante\n\nBande lubrifiante\nOui\n\nManche\nErgonomique avec surface antidérapante\n\nZones d’utilisation\nJambes, aisselles et corps\n\nCouleur\nRose\n\nContenu du coffret\n1 rasoir + 10 cartouches\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Profitez d’un rasage précis et confortable avec ce rasoir pour femme doté de 6 lames. Sa tête mobile suit naturellement les courbes du corps, tandis que sa bande lubrifiante facilite la glisse sur la peau."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T165032.618.png"
-   ]
-  },
-  {
-   "sku": "doshift-96436",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Kit de soin capillaire 4 pièces avec serviette microfibre – Rose",
-     "description": "Transformez votre routine beauté avec ce kit de soin capillaire complet, idéal après la douche ou pendant vos moments de détente. La serviette à capuche enveloppe les cheveux confortablement et aide à absorber l’humidité sans avoir besoin de les frotter fortement.\n\nLe kit comprend également une brosse à cheveux, un accessoire double face en silicone pour le nettoyage ou l’application des soins, ainsi qu’un petit accessoire de massage en silicone. Son format léger et pratique permet de l’utiliser facilement à la maison, à la salle de sport ou en voyage.\n\nCaractéristique\nDétail\n\nType de produit\nKit de soin capillaire et beauté\n\nNombre de pièces\n4 pièces\n\nContenu du kit\n1 serviette à capuche, 1 brosse à cheveux, 1 accessoire double face et 1 accessoire de massage\n\nMatière de la serviette\nTextile doux de type microfibre\n\nMatière des accessoires\nSilicone et plastique\n\nFermeture\nBouton de maintien\n\nUtilisation\nSéchage des cheveux, démêlage et soins du visage ou du cuir chevelu\n\nCouleur\nRose\n\nEntretien\nLavage doux recommandé et séchage à l’air libre\n\nRéférence Doshift\nAA2BB799",
-     "short_description": "Transformez votre routine beauté avec ce kit de soin capillaire complet, idéal après la douche ou pendant vos moments de détente."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T153244.449.png"
-   ]
-  },
-  {
-   "sku": "doshift-96082",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse Électrique pour Enfants GW-9766 – Rechargeable USB",
-     "description": "Réalisez facilement les coupes de cheveux de votre enfant à la maison avec la tondeuse GW-9766. Son format compact et sa prise en main confortable facilitent le passage autour des oreilles, de la nuque et des contours.\n\nConçue pour une utilisation familiale, elle dispose d’une lame métallique précise et d’un fonctionnement simple grâce à son bouton marche/arrêt. Sa batterie rechargeable par USB permet de l’utiliser sans câble et de la transporter facilement pendant les déplacements.\n\nCaractéristique\nDétail\n\nType de produit\nTondeuse électrique pour enfants\n\nMarque\nGW\n\nModèle\nGW-9766\n\nUtilisation\nCoupe de cheveux et finitions\n\nType de lame\nLame métallique\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nFonctionnement\nSans fil\n\nCommande\nBouton marche/arrêt\n\nCouleur\nVert clair\n\nFormat\nCompact et ergonomique\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Réalisez facilement les coupes de cheveux de votre enfant à la maison avec la tondeuse GW-9766. Son format compact et sa prise en main confortable facilitent le passage autour des oreilles, de la nuque et des contours."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-24T134617.807.png"
-   ]
-  },
-  {
-   "sku": "doshift-96065",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brûleur d’Encens Électrique Décoratif Doré",
-     "description": "Apportez une ambiance chaleureuse et raffinée à votre intérieur grâce à ce brûleur d’encens décoratif au design oriental élégant. Sa forme sphérique ajourée favorise la diffusion du parfum, tandis que sa finition métallique brillante en fait également un bel objet de décoration.\n\nCompact et facile à utiliser, il dispose d’un interrupteur intégré sur la base et fonctionne sur secteur. Il convient parfaitement pour parfumer le salon, la chambre, le bureau ou un espace de méditation.\n\nCaractéristique\nDétail\n\nType de produit\nBrûleur d’encens électrique décoratif\n\nModèle\nWF-014\n\nUtilisation\nEncens et charbon\n\nAlimentation\n220–240 V\n\nFréquence\n50–60 Hz\n\nInterrupteur\nMarche/arrêt intégré à la base\n\nDimensions\n10,5 × 10,5 × 14,6 cm\n\nForme\nSphérique avec couvercle ajouré\n\nFinition\nMétallique brillante\n\nCouleur\nSelon disponibilité\n\nUtilisation recommandée\nSalon, chambre, bureau ou espace de méditation\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Apportez une ambiance chaleureuse et raffinée à votre intérieur grâce à ce brûleur d’encens décoratif au design oriental élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-24T133150.577.png"
-   ]
-  },
-  {
-   "sku": "doshift-95651",
+   "sku": "doshift-111817",
    "price": 199,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Attelle de soutien complète pour épaule, cou et poignet – SIBOTE ST-7531",
-     "description": "Cette attelle de maintien est conçue pour stabiliser efficacement l’épaule et le bras tout en offrant un confort optimal au quotidien. Son système de sangles réglables permet d’adapter le niveau de compression selon les besoins et assure un maintien personnalisé.\n\nFabriquée dans un tissu doux, léger et respirant, elle favorise la circulation de l’air et limite l’accumulation de transpiration. Son large support accueille confortablement l’avant-bras et le poignet, tandis que la sangle d’épaule aide à maintenir le bras dans une position stable.\n\nIdéale pendant une période de repos ou de récupération, cette attelle peut être portée à la maison, au bureau ou lors de déplacements légers.\n\nCaractéristique\nDétail\n\nType de produit\nAttelle de soutien pour épaule et bras\n\nZones soutenues\nÉpaule, bras, cou et poignet\n\nModèle\nST-7531\n\nMarque\nSIBOTE\n\nCouleur\nBeige avec bordures blanches\n\nMatière\nTissu souple, léger et respirant\n\nAjustement\nSangles réglables\n\nNiveau de maintien\nCompression ajustable\n\nUtilisation\nRepos, récupération et activités quotidiennes légères\n\nConfort\nSupport rembourré et conception ergonomique\n\nEntretien\nNettoyage doux recommandé\n\nPrécaution\nContient du latex de caoutchouc naturel pouvant provoquer des réactions allergiques\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Cette attelle de maintien est conçue pour stabiliser efficacement l’épaule et le bras tout en offrant un confort optimal au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-22T205852.163.png"
-   ]
-  },
-  {
-   "sku": "doshift-95644",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Niveau à Bulle Compact à 3 Fioles – Jaune et Noir",
-     "description": "Obtenez des mesures précises lors de vos travaux grâce à ce niveau à bulle compact. Équipé de 3 fioles de mesure, il permet de vérifier facilement l’alignement horizontal, vertical et incliné à 45°.\n\nSon format léger et pratique facilite son transport dans une boîte à outils. Il convient parfaitement aux travaux de bricolage, à l’installation d’étagères, à la pose de cadres, au montage de meubles, à la menuiserie et aux petits travaux de rénovation.\n\nCaractéristique\nDétail\n\nType de produit\nNiveau à bulle compact\n\nNombre de fioles\n3\n\nTypes de mesure\nHorizontale, verticale et inclinée à 45°\n\nCouleur\nJaune et noir\n\nMatériau\nPlastique\n\nFormat\nCompact et portable\n\nUtilisation\nÉtagères, cadres, meubles, menuiserie et rénovation\n\nPublic concerné\nBricoleurs et professionnels\n\nContenu\n1 niveau à bulle\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Obtenez des mesures précises lors de vos travaux grâce à ce niveau à bulle compact. Équipé de 3 fioles de mesure, il permet de vérifier facilement l’alignement horizontal, vertical et incliné à 45°."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-22T204351.798.png"
-   ]
-  },
-  {
-   "sku": "doshift-95628",
-   "price": 459,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Jeu de Douilles 21 Pièces avec Cliquet Réversible 1/2″",
-     "description": "Équipez-vous pour vos travaux de mécanique et de bricolage avec ce jeu de douilles 21 pièces. Conçu en acier chrome-vanadium CR-V, cet ensemble offre une bonne résistance à l’usure et convient aux opérations de serrage et de desserrage courantes.\n\nLe cliquet réversible 1/2″ permet de changer rapidement le sens de rotation, tandis que sa poignée ergonomique antidérapante assure une prise en main confortable et stable. Les différentes douilles permettent de travailler sur plusieurs tailles d’écrous et de boulons.\n\nPratique pour l’entretien automobile, la réparation de motos, de vélos, le montage de meubles et les travaux d’atelier.\n\nCaractéristique\nDétail\n\nType de produit\nJeu de douilles avec clé à cliquet\n\nNombre de pièces\n21 pièces\n\nType de cliquet\nRéversible\n\nCarré d’entraînement\n1/2″\n\nMatériau\nAcier chrome-vanadium CR-V\n\nPoignée\nErgonomique et antidérapante\n\nAccessoires inclus\nCliquet, douilles multi-tailles et rallonge\n\nUtilisation\nAutomobile, moto, vélo, atelier et bricolage\n\nCouleur\nArgenté, noir et orange\n\nRéférence Doshift\nAA29BB099",
-     "short_description": "Équipez-vous pour vos travaux de mécanique et de bricolage avec ce jeu de douilles 21 pièces."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-22T193312.274.png"
-   ]
-  },
-  {
-   "sku": "doshift-95062",
-   "price": 459,
-   "stock": 10,
-   "status": 0,
-   "categories": [
     3
    ],
    "locales": {
     "fr": {
-     "name": "Boîte à Monnaie Métallique avec Serrure – Bleu",
-     "description": "Gardez votre argent, vos pièces et vos petits objets de valeur en sécurité grâce à cette boîte à monnaie métallique. Solide et pratique, elle est équipée d’une fermeture à clé qui limite les accès non autorisés.\n\nSa poignée métallique rabattable facilite le transport, tandis que son format compact permet de l’utiliser facilement dans un commerce, un bureau, une association, un marché ou à la maison. Son intérieur offre un espace pratique pour organiser billets, pièces, reçus et autres petits objets.\n\nCaractéristique\nDétail\n\nType de produit\nBoîte à monnaie sécurisée\n\nMatière\nMétal\n\nCouleur\nBleu\n\nFermeture\nSerrure à clé\n\nPoignée\nPoignée métallique rabattable\n\nOrganisation intérieure\nEspace pour billets, pièces et petits objets\n\nUtilisation\nCommerce, bureau, marché, événement ou maison\n\nAvantages\nRobuste, transportable et facile à ranger\n\nDimensions\nNon précisées\n\nRéférence Doshift\nAA29BB099",
-     "short_description": "Gardez votre argent, vos pièces et vos petits objets de valeur en sécurité grâce à cette boîte à monnaie métallique. Solide et pratique, elle est équipée d’une fermeture à clé qui limite les accès non autorisés."
+     "name": "Lampe de Table LED Rechargeable – Design Cuivré Élégant",
+     "description": "Apportez une touche moderne et chaleureuse à votre intérieur avec cette lampe de table LED au fini cuivré. Son design minimaliste associe une structure métallique élégante à un diffuseur blanc qui produit un éclairage doux et agréable.\n\nGrâce à son port de recharge USB-C, elle s’intègre facilement sur une table de chevet, un bureau, une console ou une table de restaurant, sans encombrer votre espace. Son format compact et son style raffiné en font à la fois une source d’éclairage pratique et un véritable élément décoratif.\n\nIdéale pour créer une ambiance cosy dans une chambre, un salon, un bureau, un café ou un espace de détente.\n\nCaractéristique\nDétail\n\nType de produit\nLampe de table LED\n\nStyle\nModerne et minimaliste\n\nCouleur\nCuivré / Rose gold et blanc\n\nÉclairage\nLumière douce et chaleureuse\n\nDiffuseur\nBlanc\n\nStructure\nFinition métallique effet cuivre\n\nRecharge\nPort USB-C\n\nInstallation\nÀ poser\n\nUtilisation\nChambre, salon, bureau, restaurant, café, décoration\n\nFormat\nCompact et peu encombrant\n\nContenu\n1 lampe de table\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Apportez une touche moderne et chaleureuse à votre intérieur avec cette lampe de table LED au fini cuivré."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-21T181333.574.png"
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-17T140830.327.png"
+   ]
+  },
+  {
+   "sku": "doshift-107464",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de Sacs 3 Pièces Rouge & Noir – Sac à Dos, Sac Bandoulière et Pochette",
+     "description": "Pratique et polyvalent, cet ensemble de 3 pièces est idéal pour accompagner vos journées à l’école, au travail ou lors de vos déplacements. Son design moderne associe un élégant coloris rouge avec finitions noires pour un style sobre et dynamique.\n\nLe sac à dos dispose de plusieurs compartiments zippés permettant d’organiser facilement vos affaires. Ses bretelles facilitent le transport au quotidien, tandis que sa poignée supérieure permet également de le porter à la main.\n\nLe sac bandoulière assorti est parfait pour garder vos petits objets essentiels facilement accessibles. Sa sangle réglable permet d’adapter le porté selon vos préférences.\n\nUne petite pochette zippée assortie complète l’ensemble pour ranger vos accessoires, monnaie, clés ou autres petits objets.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de sacs 3 pièces\n\nContenu\n1 sac à dos + 1 sac bandoulière + 1 pochette\n\nCouleur\nRouge et noir\n\nDesign\nModerne et assorti\n\nFermeture\nFermetures zippées\n\nSac à dos\nPlusieurs compartiments de rangement\n\nBretelles\nBretelles de sac à dos\n\nPoignée\nPoignée supérieure\n\nSac secondaire\nSac bandoulière assorti\n\nBandoulière\nRéglable\n\nPochette\nPetite pochette zippée assortie\n\nUtilisation\nÉcole, travail, déplacements et usage quotidien\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Pratique et polyvalent, cet ensemble de 3 pièces est idéal pour accompagner vos journées à l’école, au travail ou lors de vos déplacements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T135545.593.png"
+   ]
+  },
+  {
+   "sku": "doshift-107440",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble Sac à Dos 3 Pièces – Bleu & Noir",
+     "description": "Un ensemble pratique et moderne conçu pour vous accompagner au quotidien. Ce pack assorti comprend un grand sac à dos, un sac bandoulière et une petite pochette, offrant plusieurs solutions de rangement selon vos besoins.\n\nSon design bleu avec finitions noires apporte un style sobre et polyvalent, adapté aussi bien aux études qu’au travail, aux déplacements ou aux voyages. Les différentes pièces peuvent être utilisées ensemble ou séparément.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de sacs\n\nNombre de pièces\n3\n\nContenu\n1 sac à dos + 1 sac bandoulière + 1 pochette\n\nCouleur\nBleu et noir\n\nStyle\nModerne et polyvalent\n\nFermeture\nZippée\n\nPort du sac principal\nBretelles + poignée supérieure\n\nSac secondaire\nBandoulière réglable\n\nPochette\nFormat compact avec dragonne\n\nUtilisation\nÉcole, travail, déplacements, voyage\n\nMatière\nTextile aspect tissu\n\nRéférence\nAA6BB599",
+     "short_description": "Un ensemble pratique et moderne conçu pour vous accompagner au quotidien. Ce pack assorti comprend un grand sac à dos, un sac bandoulière et une petite pochette, offrant plusieurs solutions de rangement selon vos…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T133212.374.png"
+   ]
+  },
+  {
+   "sku": "doshift-107485",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set Sac à Dos 3 Pièces – Bordeaux & Noir",
+     "description": "Un ensemble pratique et élégant conçu pour accompagner vos journées à l’école, à l’université, au travail ou lors de vos déplacements. Ce set 3 pièces associe un grand sac à dos, une sacoche bandoulière et une petite pochette assortie pour mieux organiser vos affaires au quotidien.\n\nLe sac à dos dispose de plusieurs espaces zippés permettant de ranger facilement documents, accessoires et effets personnels. La sacoche peut être portée en bandoulière pour garder vos indispensables à portée de main, tandis que la petite pochette est idéale pour les petits accessoires.\n\nCaractéristique\nDétail\n\nType\nEnsemble de sacs\n\nNombre de pièces\n3 pièces\n\nContenu\n1 sac à dos + 1 sacoche bandoulière + 1 petite pochette\n\nCouleur\nBordeaux et noir\n\nFermeture\nFermetures zippées\n\nSac à dos\nGrand format avec plusieurs compartiments\n\nSacoche\nFormat compact avec bandoulière\n\nPochette\nPetite pochette assortie\n\nBretelles\nRéglables\n\nStyle\nModerne et polyvalent\n\nUtilisation\nÉcole, université, travail, voyage et quotidien\n\nRéférence\nAA6BB599",
+     "short_description": "Un ensemble pratique et élégant conçu pour accompagner vos journées à l’école, à l’université, au travail ou lors de vos déplacements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-01T141350.942.png"
+   ]
+  },
+  {
+   "sku": "doshift-107255",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble Sac à Dos 3 Pièces – Rouge & Noir",
+     "description": "Un ensemble pratique et élégant conçu pour accompagner vos déplacements au quotidien. Il se compose d’un grand sac à dos, d’une pochette intermédiaire et d’une petite pochette zippée, le tout dans un design assorti rouge avec des détails noirs.\n\nLe sac à dos offre un format polyvalent adapté aux études, au travail, aux sorties ou aux voyages. Les pochettes permettent de mieux organiser les petits accessoires et objets personnels tout en conservant un style harmonieux.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble sac à dos avec pochettes\n\nNombre de pièces\n3 pièces\n\nPièce principale\n1 sac à dos\n\nAccessoires inclus\n1 pochette moyenne + 1 petite pochette\n\nCouleur\nRouge avec détails noirs\n\nFermeture\nZippée\n\nPoignée\nPoignée supérieure\n\nBretelles\nOui\n\nStyle\nModerne et polyvalent\n\nUtilisation\nÉcole, travail, quotidien, déplacements, voyage\n\nContenu du pack\n1 sac à dos + 2 pochettes assorties\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Un ensemble pratique et élégant conçu pour accompagner vos déplacements au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T203345.833.png"
+   ]
+  },
+  {
+   "sku": "doshift-107247",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set 3 en 1 Sac à dos + Pochette + Trousse – Bleu",
+     "description": "Optez pour un ensemble pratique et élégant pour accompagner votre quotidien. Ce set 3 en 1 comprend un sac à dos, une pochette et une trousse assortie, idéals pour organiser facilement vos affaires. Son design moderne et sa couleur bleu sobre en font un choix parfait pour le travail, les études, les déplacements et l’usage quotidien.\n\nLe sac à dos offre un espace de rangement pratique pour vos essentiels, tandis que la pochette et la trousse permettent de garder vos petits objets bien organisés. Un ensemble utile, polyvalent et facile à porter au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nSet 3 en 1\n\nContenu du pack\n1 sac à dos + 1 pochette + 1 trousse\n\nCouleur\nBleu\n\nStyle\nModerne et sobre\n\nUtilisation\nTravail, études, déplacements, quotidien\n\nType\nEnsemble de rangement et transport\n\nFermeture\nZippée\n\nAvantage\nOrganisation pratique des affaires\n\nPublic\nAdulte / usage mixte\n\nRéférence\nAA6BB599",
+     "short_description": "Optez pour un ensemble pratique et élégant pour accompagner votre quotidien. Ce set 3 en 1 comprend un sac à dos, une pochette et une trousse assortie, idéals pour organiser facilement vos affaires."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T201625.566.png"
    ]
   }
  ]

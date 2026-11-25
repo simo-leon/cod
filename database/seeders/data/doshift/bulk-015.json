@@ -1,6 +1,106 @@
 {
  "products": [
   {
+   "sku": "doshift-114792",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac Repas Isotherme Enfant Zootopie Enfant (Judy)",
+     "description": "Ce sac repas isotherme à l’effigie de Judy Hopps de Zootopie dispose de deux compartiments zippés et d’une doublure thermique étanche conçus pour garder le goûter et le déjeuner des enfants au frais toute la journée.\n\nCaractéristique\nDétail\n\nType & Thème\nSac repas isotherme enfant – Zootopie (Judy Hopps)\n\nCompartiments\nDouble compartiment zippé séparé (étage supérieur et inférieur)\n\nIsolation thermique\nDoublure intérieure isotherme étanche (maintien chaud et frais)\n\nDimensions\n24 × 20 × 15 cm (240 × 200 × 150 mm)\n\nTransport\nPoignée supérieure renforcée et bandoulière rose réglable\n\nRéférence\n9900010718357",
+     "short_description": "Sac à goûter isotherme 2 compartiments avec bandoulière Zootopie."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/8590b56d-2916-4855-b6ee-261540d14bf8.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114586",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Fibre Optique 10 Mètres",
+     "description": "Ce câble de fibre optique monomode de 50 mètres avec connecteurs SC/APC est une jarretière haut débit conçue pour relier votre prise murale optique à votre box internet avec un signal ultra-rapide et sans perte.\n\nCaractéristique\nDétail\n\nType & Modèle\nCâble fibre optique monomode (Jarretière optique Simplex)\n\nLongueur\n10 mètres\n\nConnecteurs\nSC/APC mâle vers SC/APC mâle (embouts verts biseautés)\n\nGaine & Matériau\nGaine blanche LSZH souple et renforcée\n\nCompatibilité\nUniverselle avec toutes les box internet et routeurs fibre optique\n\nRéférence\n9900010718289",
+     "short_description": "Câble fibre optique 10 m monomode SC/APC haute vitesse."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/adf46217-fedd-43ec-8dad-bb927fbe5b9a.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114579",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Fibre Optique 25 Mètres",
+     "description": "Ce câble de fibre optique monomode de 25 mètres avec connecteurs SC/APC est une jarretière haut débit conçue pour relier votre prise murale optique à votre box internet avec un signal ultra-rapide et sans perte.\n\nCaractéristique\nDétail\n\nType & Modèle\nCâble fibre optique monomode (Jarretière optique Simplex)\n\nLongueur\n25 mètres\n\nConnecteurs\nSC/APC mâle vers SC/APC mâle (embouts verts biseautés)\n\nGaine & Matériau\nGaine blanche LSZH souple et renforcée (Ø 3,0 mm)\n\nCompatibilité\nUniverselle avec toutes les box internet et routeurs fibre optique\n\nRéférence\n9900010718272",
+     "short_description": "Câble fibre optique 25 m monomode SC/APC haute vitesse."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/adf46217-fedd-43ec-8dad-bb927fbe5b9a.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114576",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Fibre Optique 30 Mètres",
+     "description": "Ce câble de fibre optique monomode de 30 mètres avec connecteurs SC/APC est une jarretière haut débit conçue pour relier votre prise murale optique à votre box internet avec un signal ultra-rapide et sans perte.\n\nCaractéristique\nDétail\n\nType & Modèle\nCâble fibre optique monomode (Jarretière optique Simplex)\n\nLongueur\n30 mètres\n\nConnecteurs\nSC/APC mâle vers SC/APC mâle (embouts verts biseautés)\n\nGaine & Matériau\nGaine blanche LSZH souple et renforcée\n\nCompatibilité\nUniverselle avec toutes les box internet et routeurs fibre optique\n\nRéférence\n9900010718265",
+     "short_description": "Câble fibre optique 30 m monomode SC/APC haute vitesse."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/adf46217-fedd-43ec-8dad-bb927fbe5b9a.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-114570",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Fibre Optique 35 Mètres",
+     "description": "Ce câble de fibre optique monomode de 35 mètres avec connecteurs SC/APC est une jarretière haut débit conçue pour relier votre prise murale optique à votre box internet avec un signal ultra-rapide et sans perte.\n\nCaractéristique\nDétail\n\nType & Modèle\nCâble fibre optique monomode (Jarretière optique Simplex)\n\nLongueur\n35 mètres\n\nConnecteurs\nSC/APC mâle vers SC/APC mâle (embouts verts biseautés)\n\nGaine & Matériau\nGaine blanche LSZH souple et renforcée\n\nCompatibilité\nUniverselle avec toutes les box internet et routeurs fibre optique\n\nRéférence\n9900010718258",
+     "short_description": "Câble fibre optique 35 m monomode SC/APC haute vitesse."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/adf46217-fedd-43ec-8dad-bb927fbe5b9a.jpg"
+   ]
+  },
+  {
    "sku": "doshift-114559",
    "price": 129,
    "stock": 10,
@@ -95,102 +195,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/09/087a539a-ab98-4111-bc8c-3ec39ccc3d6f.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-113769",
-   "price": 519,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Microphone Yanmai Mic Pro X1",
-     "description": "Le Yanmai Mic Pro X1 est un microphone USB conçu pour le streaming, les discussions en jeu et la création de contenu au quotidien.\n\nCaractéristique\nDétail\n\nType\nMicrophone à condensateur USB\n\nModèle\nYanmai Mic Pro X1\n\nDirectivité\nCardioïde (anti-bruit)\n\nFonction Mute\nBouton tactile Touch-Mute avec LED\n\nRésolution audio\n192 kHz / 24-bit (puce DSP)\n\nConnectique\nCâble USB Plug & Play\n\nAccessoires inclus\nSuspension araignée antichoc + filtre anti-pop + trépied\n\nDimensions micro\n16,5 × 4,5 cm (165 × 45 mm)\n\nHauteur sur pied\n26 cm (260 mm)\n\nMatériaux\nMétal et acier renforcé\n\nCouleur\nNoir mat\n\nRéférence\n9900010718074",
-     "short_description": "Le Yanmai Mic Pro X1 est un microphone USB conçu pour le streaming, les discussions en jeu et la création de contenu au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/a74cf6ab-813c-47da-a497-800f666f5ff2.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-113749",
-   "price": 219,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gaufrier Électrique Fress PN-600",
-     "description": "Gaufrier électrique compact de 750 W à 850 W équipé de plaques antiadhésives effet pierre, conçu pour préparer rapidement deux gaufres croustillantes et dorées sans attacher ni salir.\n\nCaractéristique\nDétail\n\nType\nGaufrier électrique double\n\nMarque & Modèle\nFress PN-600\n\nPuissance\n750 W – 850 W (220–240 V)\n\nCapacité\n2 gaufres belges simultanées\n\nPlaques\nRevêtement antiadhésif effet pierre (granit)\n\nDimensions\n23 × 22 × 9 cm (230 × 220 × 90 mm)\n\nSécurité\n\nPoignée isolante avec loquet de verrouillage et pieds antidérapants\n\nCouleur\nNoir\n\nRéférence\n9900010718067",
-     "short_description": "Noir. Plaques antiadhésives effet pierre. Format : 23 × 22 × 9 cm. Puissance : 750–850 W."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/a1073c9a-2a15-4c8a-b678-ddec156e2e05.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-113547",
-   "price": 339,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chaise Percée Pliante / Toilette Portable",
-     "description": "Chaise percée pliante robuste et hygiénique avec seau amovible et assise ergonomique, idéale pour le camping et les voyages ou pour assister facilement les personnes à mobilité réduite à la maison.\n\nCaractéristique\nDétail\n\nType\nChaise percée pliante / Toilette portable\n\nCapacité de charge\nJusqu’à 120 kg\n\nMatériaux\nChâssis en acier renforcé + lunette PP robuste\n\nDimensions dépliée\n38 × 36 × 42 cm (380 × 360 × 420 mm)\n\nDimensions pliée\n38 × 70 × 8 cm (380 × 700 × 80 mm)\n\nSeau & Couvercle\nSeau amovible avec anse et couvercle hermétique\n\nCouleur\nChâssis gris métallisé, siège bleu ciel, seau noir\n\nPieds\n4 embouts en caoutchouc antidérapants\n\nUtilisation\nCamping, voyages, personnes âgées, mobilité réduite, urgences\n\nRéférence\n9900010718043",
-     "short_description": "Bleu ciel et gris. Pliante avec seau amovible. Dépliée : 38 × 36 × 42 cm . Charge max : 120 kg."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/565f90d7-b38f-4961-beee-7972c8b1006a.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-113507",
-   "price": 369,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Téléphone portable à clapet Samsung GT-C3520 (Duos)",
-     "description": "Téléphone à clapet classique, compact et simple d’utilisation, idéal pour téléphoner en toute sérénité grâce à une excellente autonomie, un son clair et un clavier à grandes touches bien lisibles.\n\nCaractéristique\nDétail\n\nType\nTéléphone portable à clapet (Flip phone)\n\nMarque & Modèle\nSamsung GT-C3520 (Duos)\n\nÉcran\nÉcran couleur TFT 2,4 pouces (240 × 320 pixels)\n\nCarte SIM\nDouble SIM (Duos) / Réseau GSM 2G\n\nDimensions (fermé)\n10,2 × 5,2 × 1,68 cm (102 × 52 × 16,8 mm)\n\nPoids\n~97 g (léger et compact)\n\nBatterie\nLi-Ion 800 mAh (autonomie longue durée en veille)\n\nMultimédia\nAppareil photo 1.3 MP, Radio FM, Bluetooth, fente MicroSD\n\nCouleur\nGris argenté texturé\n\nRéférence\n9900010718029",
-     "short_description": "Gris argenté. Format clapet compact : 10,2 × 5,2 × 1,68 cm . Écran 2,4″."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/af6ac2ed-1711-46d0-b479-a67d0cefb00a.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-113457",
-   "price": 229,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Étagère à Épices en Bambou avec 12 Pots en Verre",
-     "description": "Étagère en bambou naturel avec 12 pots en verre pour organiser et garder vos épices à portée de main avec élégance.12 pots hermétiques : bocaux en verre épais avec couvercles en bambou pour préserver les arômes.Support en bambou naturel, robuste, durable et résistant à l’humidité de la cuisine.Gain de place format compact à 2 niveaux pour libérer le plan de travail.\n\nCaractéristique\nDétail\n\nType\nÉtagère à épices avec 12 pots\n\nContenu\n1 étagère + 12 pots en verre avec couvercles\n\nMatériaux\nBambou naturel + verre transparent épais\n\nDimensions étagère\n31 × 26 × 6 cm (310 × 260 × 60 mm)\n\nDimensions pots\n10,5 × 4,5 cm (105 × 45 mm) — ~100 ml chacun\n\nCouleur\nBois naturel et verre transparent\n\nRéférence\n9900010718005",
-     "short_description": "Bambou naturel et verre transparent. Étagère : 31 × 26 × 6 cm . Pots : 10,5 × 4,5 cm ."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/Gemini_Generated_Image_k4mqaok4mqaok4mq.jpg"
    ]
   }
  ]

@@ -1,7 +1,83 @@
 {
  "products": [
   {
-   "sku": "doshift-75219",
+   "sku": "doshift-86605",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de Cuisine en Bambou – Planche + 3 Ustensiles",
+     "description": "Apportez une touche naturelle et pratique à votre cuisine avec ce set en bambou complet. Il comprend une planche de découpe élégante et 3 ustensiles indispensables pour préparer, mélanger et servir vos repas au quotidien. Léger, solide et agréable à utiliser, il convient parfaitement pour une cuisine simple, propre et organisée.\n\nCaractéristique\nDétail\n\nType\nSet de cuisine en bambou\n\nComposition\n1 planche + 3 ustensiles\n\nUstensiles inclus\nCuillère, spatule ajourée, spatule courbée\n\nMatière\nBambou\n\nUtilisation\nDécoupe, préparation, mélange et service\n\nDesign\nNaturel, élégant et pratique\n\nEntretien\nLavage à la main recommandé\n\nAvantage\nLéger, durable et idéal pour une utilisation quotidienne\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Apportez une touche naturelle et pratique à votre cuisine avec ce set en bambou complet."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-20T131111.815.png"
+   ]
+  },
+  {
+   "sku": "doshift-86452",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Porte-gobelet adaptatif pour vélo – Support bouteille réglable",
+     "description": "Gardez votre boisson toujours à portée de main pendant vos trajets grâce à ce porte-gobelet adaptatif pour vélo. Son système de fixation au guidon permet une installation simple et stable, tandis que sa structure robuste maintient fermement la gourde ou la bouteille pendant vos déplacements.\n\nIdéal pour le vélo, VTT, trottinette, poussette ou autres supports compatibles, il offre une solution pratique pour les sorties sportives, les trajets quotidiens et les balades.\n\nCaractéristique\nDétail\n\nProduit\nPorte-gobelet / support bouteille adaptatif\n\nUtilisation\nVélo, VTT, trottinette, poussette, guidon compatible\n\nFixation\nAu guidon avec collier de serrage\n\nCompatibilité\nGourde, bouteille, gobelet adapté\n\nRotation\n360°\n\nDimensions\n16,5 × 8,5 cm\n\nDiamètre compatible\n20 à 40 mm\n\nMatière\nPlastique robuste avec tiges métalliques\n\nInstallation\nSimple avec vis et clé incluses\n\nCouleur\nNoir\n\nRéférence Doshift\nAA5BB599",
+     "short_description": "Gardez votre boisson toujours à portée de main pendant vos trajets grâce à ce porte-gobelet adaptatif pour vélo."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-19T144136.015.png"
+   ]
+  },
+  {
+   "sku": "doshift-86340",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Raquette Électrique Anti-Moustiques Rechargeable USB-C – Version Blanche",
+     "description": "Protégez votre intérieur des moustiques avec cette raquette électrique anti-moustiques rechargeable, pratique et élégante en version blanche. Elle peut être utilisée à la main pour éliminer rapidement les insectes volants ou posée sur son socle pour fonctionner comme une lampe anti-moustiques.\n\nGrâce à sa LED intégrée, elle attire les moustiques même dans l’obscurité. Sa maille de sécurité à 3 couches assure une utilisation plus sûre au quotidien, tandis que sa batterie 1200 mAh rechargeable par USB-C offre une autonomie pratique pour une utilisation régulière.\n\nCaractéristique\nDétail\n\nType de produit\nRaquette électrique anti-moustiques rechargeable\n\nVersion\nBlanche\n\nUtilisation\nAnti-moustiques / lampe anti-insectes\n\nModes\nMode manuel et mode socle\n\nBatterie\n1200 mAh\n\nRecharge\nUSB-C\n\nTemps de charge\nEnviron 4 heures\n\nAutonomie\nJusqu’à 30 jours en mode manuel selon utilisation\n\nÉclairage\nLED intégrée\n\nSécurité\nMaille de protection à 3 couches\n\nAccessoire\nSocle de pose inclus\n\nAdaptateur secteur\nNon inclus\n\nRéférence Doshift\nAA11BB099",
+     "short_description": "Protégez votre intérieur des moustiques avec cette raquette électrique anti-moustiques rechargeable, pratique et élégante en version blanche."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-18T203947.431.png"
+   ]
+  },
+  {
+   "sku": "doshift-86325",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret Montres & Bijoux Femme – Smartwatch Noire & Montre Bijou Dorée",
+     "description": "Apportez une touche d’élégance à chaque tenue avec ce coffret complet de montres et bijoux pour femme. Il associe une smartwatch noire au style moderne à une magnifique montre bijou dorée ornée de strass, pour varier facilement entre look contemporain et tenue chic.\n\nLe coffret est complété par plusieurs bijoux assortis : collier avec pendentif, bracelet, bague et boucles d’oreilles. L’ensemble doré et brillant crée un style harmonieux, idéal à porter au quotidien, lors d’une soirée ou pour une occasion spéciale.\n\nGrâce à son mélange de noir élégant, doré et détails scintillants, ce coffret constitue également une excellente idée cadeau pour femme.\n\nCaractéristique\nDétail\n\nType\nCoffret montres & bijoux femme\n\nSmartwatch\nModèle noir avec bracelet noir\n\nMontre bijou\nMontre analogique dorée\n\nMouvement montre bijou\nQuartz\n\nStyle\nÉlégant, moderne et raffiné\n\nCouleurs principales\nNoir & doré\n\nFinition montre bijou\nDorée avec détails brillants / strass\n\nBracelet\nBijou doré avec détails scintillants\n\nCollier\nChaîne dorée avec pendentif\n\nBague\nBague dorée ornée de strass\n\nBoucles d’oreilles\nPaire assortie dorée avec strass\n\nBracelet supplémentaire\nBracelet noir pour montre\n\nUtilisation\nQuotidien, soirées, occasions spéciales, cadeau\n\nPublic\nFemme\n\nContenu\nSmartwatch + montre bijou + bijoux assortis + accessoires présentés\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Apportez une touche d’élégance à chaque tenue avec ce coffret complet de montres et bijoux pour femme."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-08-13T135117.001.png"
+   ]
+  },
+  {
+   "sku": "doshift-86291",
    "price": 99,
    "stock": 10,
    "status": 0,
@@ -10,154 +86,93 @@
    ],
    "locales": {
     "fr": {
-     "name": "Support Égouttoir pour Robinet – Plateau Porte-Éponge 28,4 × 10,5 cm",
-     "description": "Organisez votre espace évier avec ce support égouttoir pratique à installer autour du robinet. Idéal pour ranger les éponges, brosses ou petits accessoires de nettoyage, il permet de garder le plan de travail propre, sec et bien ordonné.\n\nCaractéristique\nDétail\n\nType de produit\nSupport égouttoir pour robinet\n\nUtilisation\nRangement d’éponge, brosse, savon ou accessoires d’évier\n\nInstallation\nAutour du robinet compatible\n\nDesign\nPlateau ajouré avec évacuation d’eau\n\nDimensions\n28,4 × 10,5 cm\n\nAvantage\nGarde l’évier propre, sec et organisé\n\nCompatibilité\nRobinet arrondi / robinet de cuisine compatible\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Organisez votre espace évier avec ce support égouttoir pratique à installer autour du robinet."
+     "name": "Bouée Gonflable Bébé Canard – Siège Flottant avec Poignées",
+     "description": "Offrez à votre bébé des moments de baignade amusants avec cette bouée gonflable en forme de canard. Son design coloré et ludique attire l’attention des enfants, tandis que son assise centrale et ses poignées intégrées offrent une meilleure stabilité pendant l’utilisation.\n\nIdéale pour la piscine, la plage ou les vacances d’été, cette bouée est légère, facile à gonfler et pratique à transporter. À utiliser toujours sous la surveillance d’un adulte.\n\nCaractéristique\nDétail\n\nType de produit\nBouée gonflable bébé\n\nDesign\nForme canard\n\nUtilisation\nPiscine, plage, vacances, jardin\n\nAssise\nOuverture centrale confortable\n\nPoignées\n2 poignées intégrées\n\nMatière\nPVC gonflable\n\nDimensions\n30 x 18,5 x 16 pouces\n\nDimensions approximatives\n76 x 47 x 41 cm\n\nCouleur\nJaune et orange\n\nAvantage\nLudique, légère et facile à transporter\n\nSécurité\nÀ utiliser sous surveillance d’un adulte\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Offrez à votre bébé des moments de baignade amusants avec cette bouée gonflable en forme de canard."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T210045.776.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-18T180602.885.png"
    ]
   },
   {
-   "sku": "doshift-75197",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Distributeur d’eau électrique rechargeable pour bonbonne",
-     "description": "Simplifiez le service de l’eau au quotidien avec ce distributeur électrique pratique, conçu pour s’installer directement sur une bonbonne. Son bouton tactile permet de servir l’eau facilement, sans effort et sans soulever de charges lourdes. Compact et moderne, il convient parfaitement à la maison, au bureau, à la cuisine ou aux espaces de travail.\n\nGrâce à son format léger et sa sortie d’eau inclinée, il offre une utilisation confortable pour remplir verres, bouteilles ou carafes. Sa conception rechargeable le rend pratique pour une utilisation régulière, tout en gardant un plan de travail propre et organisé.\n\nCaractéristique\nDétail\n\nType de produit\nDistributeur d’eau électrique\n\nUtilisation\nBonbonne d’eau\n\nCommande\nBouton tactile\n\nHauteur\n190 mm\n\nLargeur\n105 mm\n\nBase\n64 mm\n\nSortie d’eau\n14,5 mm\n\nAlimentation\nRechargeable\n\nInstallation\nDirectement sur la bonbonne\n\nUsage recommandé\nMaison, bureau, cuisine, espace de travail\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Simplifiez le service de l’eau au quotidien avec ce distributeur électrique pratique, conçu pour s’installer directement sur une bonbonne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T202011.970.png"
-   ]
-  },
-  {
-   "sku": "doshift-75235",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mini poubelle de table avec couvercle basculant – Design compact",
-     "description": "Gardez votre espace propre avec cette mini poubelle de table pratique et élégante. Son format compact est idéal pour une coiffeuse, un bureau, une salle de bain ou une table de maquillage. Elle permet de jeter facilement cotons, mouchoirs, papiers, lingettes et petits déchets du quotidien tout en gardant un espace bien organisé.\n\nSon couvercle basculant offre une utilisation simple et discrète, tandis que son design moderne s’intègre facilement dans différents styles de décoration. Facile à vider et à nettoyer, elle combine praticité, esthétique et gain de place.\n\nCaractéristique\nDétail\n\nType de produit\nMini poubelle de table\n\nUtilisation\nBureau, coiffeuse, salle de bain, chambre, espace maquillage\n\nFonction\nCollecte de petits déchets du quotidien\n\nCouvercle\nBasculant / amovible selon utilisation\n\nDesign\nCompact, moderne et décoratif\n\nFormat\nGain de place\n\nEntretien\nFacile à vider et à nettoyer\n\nMatière\nPlastique résistant\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA6BB599",
-     "short_description": "Gardez votre espace propre avec cette mini poubelle de table pratique et élégante. Son format compact est idéal pour une coiffeuse, un bureau, une salle de bain ou une table de maquillage."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T211858.651.png"
-   ]
-  },
-  {
-   "sku": "doshift-75181",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Carafe en verre avec couvercle et poignée ergonomique",
-     "description": "Servez vos boissons avec élégance grâce à cette carafe en verre transparente, pratique pour l’eau, le jus, les boissons fraîches ou même les huiles et sauces en cuisine. Son couvercle facilite le versement tout en aidant à protéger le contenu, tandis que sa poignée ergonomique assure une prise en main confortable et stable.\n\nAvec son design moderne et épuré, elle s’intègre facilement sur une table, un plan de travail ou lors d’un service quotidien. Pratique, élégante et polyvalente, elle convient aussi bien pour la maison que pour une utilisation professionnelle.\n\nCaractéristique\nDétail\n\nType de produit\nCarafe avec couvercle\n\nMatière\nVerre transparent avec couvercle\n\nUtilisation\nEau, jus, boissons fraîches, huile, sauces\n\nPoignée\nErgonomique pour une prise confortable\n\nCouvercle\nPratique pour un versement maîtrisé\n\nDesign\nModerne, transparent et élégant\n\nAvantage\nService facile, propre et stable\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Servez vos boissons avec élégance grâce à cette carafe en verre transparente, pratique pour l’eau, le jus, les boissons fraîches ou même les huiles et sauces en cuisine."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T192243.288.png"
-   ]
-  },
-  {
-   "sku": "doshift-75175",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Organisateur mural multifonction avec crochets et porte-serviettes",
-     "description": "Optimisez votre espace avec cet organisateur mural multifonction, idéal pour garder vos accessoires du quotidien bien rangés et toujours à portée de main. Grâce à ses 3 compartiments supérieurs, il permet de ranger facilement éponges, brosses, ustensiles ou petits accessoires de salle de bain.\n\nSes 3 crochets intégrés sont pratiques pour suspendre serviettes, gants, brosses ou accessoires, tandis que la barre inférieure sert de porte-serviettes ou support pour torchons. Son design compact et moderne s’adapte parfaitement à la cuisine, la salle de bain ou la buanderie.\n\nFacile à installer et pratique au quotidien, il aide à organiser l’espace tout en gardant un intérieur propre, fonctionnel et élégant.\n\nCaractéristiques\nDétails\n\nType de produit\nOrganisateur mural multifonction\n\nUtilisation\nCuisine, salle de bain, buanderie\n\nCompartiments\n3 compartiments supérieurs\n\nCrochets\n3 crochets intégrés\n\nSupport inférieur\nBarre porte-serviettes / porte-torchons\n\nInstallation\nFixation murale\n\nAvantage\nGain de place et rangement pratique\n\nDesign\nCompact, moderne et fonctionnel\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Optimisez votre espace avec cet organisateur mural multifonction, idéal pour garder vos accessoires du quotidien bien rangés et toujours à portée de main."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T190747.948.png"
-   ]
-  },
-  {
-   "sku": "doshift-75163",
+   "sku": "doshift-86226",
    "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse à cheveux professionnelle rechargeable USB avec écran LED – DN-1930",
-     "description": "Profitez d’une coupe nette et précise avec cette tondeuse à cheveux professionnelle rechargeable. Conçue pour les contours, les finitions et les coupes régulières, elle offre une prise en main confortable et une utilisation pratique à la maison ou en salon. Sa batterie 1200 mAh assure une bonne autonomie, tandis que l’écran LED permet de suivre facilement l’état de charge. Rechargeable par USB, elle est idéale pour une utilisation quotidienne, en déplacement ou pour un usage professionnel.\n\nCaractéristique\nDétail\n\nProduit\nTondeuse à cheveux professionnelle\n\nModèle\nDN-1930\n\nUtilisation\nCoupe, contour, finition barbe et cheveux\n\nBatterie\n1200 mAh\n\nAutonomie indiquée\nJusqu’à 2 h\n\nAffichage\nÉcran LED avec statut de batterie\n\nRecharge\nUSB\n\nDesign\nCompact, ergonomique et professionnel\n\nUsage\nMaison, salon, voyage\n\nRéférence Doshift\nAA9BB599",
-     "short_description": "Profitez d’une coupe nette et précise avec cette tondeuse à cheveux professionnelle rechargeable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T182245.687.png"
-   ]
-  },
-  {
-   "sku": "doshift-75156",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
     3
    ],
    "locales": {
     "fr": {
-     "name": "Support de cou en U pour caméra et smartphone – DINEX DN-24",
-     "description": "Libérez vos mains et filmez facilement vos activités avec ce support de cou en U pratique et stable. Conçu pour maintenir une caméra d’action, un smartphone ou une petite caméra, il permet de capturer des vidéos en vue immersive tout en gardant une grande liberté de mouvement.\n\nUn accessoire simple, léger et efficace pour créer du contenu mains libres, à la maison comme en extérieur.\n\nCaractéristique\nDétail\n\nProduit\nSupport de cou en U\n\nModèle\nDN-24\n\nMarque\nDINEX\n\nUtilisation\nFilmage mains libres\n\nCompatibilité\nCaméra d’action, smartphone, petite caméra\n\nDesign\nForme ergonomique en U\n\nRéglage\nAngle ajustable\n\nAvantage\nStable sans secousse\n\nConfort\nLéger et agréable à porter\n\nUsage recommandé\nVlog, sport, vélo, pêche, voyage, quotidien\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Libérez vos mains et filmez facilement vos activités avec ce support de cou en U pratique et stable."
+     "name": "Mini climatiseur portable S10 – Refroidisseur d’air compact avec affichage LED",
+     "description": "Profitez d’un air plus frais au quotidien avec ce mini climatiseur portable S10. Compact et pratique, il s’installe facilement sur un bureau, une table de chevet ou dans un petit espace de vie. Son ventilateur avec lumière bleue apporte une sensation de fraîcheur agréable, avec possibilité d’utilisation avec ou sans eau selon le besoin.\n\nIdéal pour la maison, le bureau, la chambre ou les journées chaudes, il combine format compact, commande tactile et affichage LED pour une utilisation simple et moderne.\n\nCaractéristique\nDétail\n\nType de produit\nMini climatiseur portable / refroidisseur d’air\n\nModèle\nS10\n\nUtilisation\nBureau, chambre, salon, maison, espace de travail\n\nFonction principale\nRafraîchissement de l’air\n\nModes d’utilisation\nAvec ou sans eau\n\nRefroidissement sans eau\nEnviron 1 à 2°C selon indication fabricant\n\nRefroidissement avec eau\nEnviron 4 à 6°C selon indication fabricant\n\nAffichage\nÉcran LED digital\n\nCommandes\nBoutons tactiles sur panneau frontal\n\nDesign\nCompact, moderne, blanc et noir avec éclairage bleu\n\nGrille frontale\nGrille verticale avec ventilateur visible\n\nAvantages\nPortable, facile à utiliser, gain de place\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Profitez d’un air plus frais au quotidien avec ce mini climatiseur portable S10. Compact et pratique, il s’installe facilement sur un bureau, une table de chevet ou dans un petit espace de vie."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T174426.600.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-18T170429.563.png"
    ]
   },
   {
-   "sku": "doshift-75126",
-   "price": 579,
+   "sku": "doshift-86192",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Lecteur Code-Barres Sans Fil 2.4G – Scanner 1D CCD Rechargeable",
-     "description": "Scannez rapidement vos codes-barres avec ce lecteur sans fil 2.4G conçu pour les commerces, entrepôts, caisses, bureaux et espaces de stockage. Pratique et ergonomique, il permet de lire les codes imprimés, les codes sur papier ainsi que certains codes affichés sur écran.\n\nGrâce à sa connexion filaire et sans fil, il offre une utilisation flexible selon vos besoins. Sa transmission 2.4G facilite le travail à distance, tandis que sa mémoire intégrée permet de stocker les données lorsque la connexion n’est pas disponible. Son design robuste, sa batterie lithium haute capacité et sa prise en main confortable en font un outil fiable pour un usage quotidien.\n\nCaractéristique\nDétail\n\nType\nLecteur code-barres sans fil\n\nTechnologie\nScanner 1D CCD\n\nConnexion\nSans fil 2.4G et filaire USB\n\nTransmission\n2.4G longue portée\n\nModes\nNormal, stockage, jamais manqué\n\nLecture\nCodes imprimés, papier et écran\n\nMémoire\nMémoire intégrée\n\nBatterie\nLithium haute capacité\n\nUtilisation\nCommerce, caisse, stock, entrepôt, bureau\n\nAvantages\nRapide, pratique, ergonomique, fiable\n\nContenu\nScanner, câble USB, récepteur 2.4G, guide rapide, carte de fonctions\n\nRéférence Doshift\nAA40BB099",
-     "short_description": "Scannez rapidement vos codes-barres avec ce lecteur sans fil 2.4G conçu pour les commerces, entrepôts, caisses, bureaux et espaces de stockage."
+     "name": "Chaise Repas Portable Bébé avec Plateau Amovible",
+     "description": "Pratique et confortable, cette chaise repas portable est idéale pour accompagner bébé à la maison, en déplacement ou lors des sorties en famille. Son design compact permet une installation facile, tandis que le plateau blanc amovible offre un espace propre et pratique pour les repas et les goûters.\n\nGrâce à sa structure métallique pliable, ses pieds stables et ses sangles de maintien, elle permet à bébé de profiter de ses repas confortablement tout en restant bien installé. Son tissu rembourré apporte un bon confort d’assise et son format léger facilite le transport et le rangement.\n\nCaractéristique\nDétail\n\nType de produit\nChaise repas portable pour bébé\n\nUtilisation\nRepas, goûter, sorties, voyage\n\nPlateau\nAmovible et facile à nettoyer\n\nStructure\nPliable avec armature métallique\n\nAssise\nTissu rembourré confortable\n\nMaintien\nSangles de sécurité intégrées\n\nRangement\nCompact et facile à transporter\n\nCouleur\nGris clair avec plateau blanc\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Pratique et confortable, cette chaise repas portable est idéale pour accompagner bébé à la maison, en déplacement ou lors des sorties en famille."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T161917.029.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-18T153618.045.png"
    ]
   },
   {
-   "sku": "doshift-75115",
+   "sku": "doshift-86181",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de coussins ergonomiques pour voiture – Appuie-tête + support lombaire",
+     "description": "Améliorez votre confort en voiture avec ce set de 2 coussins ergonomiques conçu pour soutenir la nuque et le dos pendant la conduite. Son design courbé épouse naturellement la forme du siège et aide à garder une posture plus confortable au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSet de coussins ergonomiques\n\nUtilisation\nSiège voiture, chaise de bureau, fauteuil\n\nContenu\n1 coussin appuie-tête + 1 coussin lombaire\n\nFonction\nSoutien de la nuque et du dos\n\nMatière\nTissu doux avec rembourrage confortable\n\nDesign\nForme ergonomique courbée\n\nInstallation\nSimple à placer sur le siège\n\nCouleur\nNoir\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Améliorez votre confort en voiture avec ce set de 2 coussins ergonomiques conçu pour soutenir la nuque et le dos pendant la conduite."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-18T151955.768.png"
+   ]
+  },
+  {
+   "sku": "doshift-86175",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tente de jeu enfant pliable motif Stitch – 86×86×86 cm",
+     "description": "Offrez aux enfants un petit espace de jeu amusant et confortable avec cette tente pliable au design Stitch. Légère et facile à installer, elle est idéale pour créer un coin lecture, un espace de détente ou un petit abri de jeu à la maison, au jardin ou à la plage. Ses côtés en maille permettent une bonne aération, tandis que l’ouverture frontale facilite l’accès.\n\nCaractéristique\nDétail\n\nType de produit\nTente de jeu pour enfant\n\nDesign\nMotif Stitch avec illustrations décoratives\n\nÂge recommandé\n3 ans et plus\n\nDimensions\n86 × 86 × 86 cm\n\nStructure\nPliable et facile à ranger\n\nUtilisation\nChambre, salon, jardin, plage, sorties familiales\n\nAération\nFenêtres latérales en maille respirante\n\nOuverture\nPorte frontale avec rideau enroulable\n\nAvantages\nLégère, pratique, décorative et amusante\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Offrez aux enfants un petit espace de jeu amusant et confortable avec cette tente pliable au design Stitch."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-18T150738.941.png"
+   ]
+  },
+  {
+   "sku": "doshift-86138",
    "price": 149,
    "stock": 10,
    "status": 0,
@@ -166,32 +181,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Raquette Électrique Anti-Moustiques Rechargeable 2-en-1",
-     "description": "Profitez d’un environnement plus sain et plus confortable grâce à cette raquette électrique anti-moustiques rechargeable. Conçue pour éliminer rapidement les moustiques et autres insectes volants, elle combine une utilisation manuelle efficace avec un mode lampe UV attractif pour une protection continue, de jour comme de nuit.\n\nSon design ergonomique permet une prise en main confortable, tandis que son fonctionnement rechargeable évite l’achat fréquent de piles. Idéale pour la maison, la chambre, le salon, la cuisine, le bureau, le camping ou les soirées en extérieur.\n\nCaractéristique\nDétail\n\nType\nRaquette électrique anti-moustiques\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nFonction\nÉlimination des insectes + lampe UV\n\nRotation\nJusqu’à 180°\n\nUtilisation\nIntérieur / Extérieur\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Profitez d’un environnement plus sain et plus confortable grâce à cette raquette électrique anti-moustiques rechargeable."
+     "name": "Ventilateur de Bureau USB Rotatif 360° avec Lumière Ambiante",
+     "description": "Apportez une fraîcheur agréable à votre espace avec ce ventilateur de bureau compact et pratique. Son design moderne rose et blanc s’intègre facilement dans une chambre, un bureau ou un coin de travail. Alimenté par USB, il peut être utilisé avec un ordinateur, un chargeur ou une power bank. Sa rotation à 360° permet d’orienter l’air selon vos besoins, tandis que sa lumière ambiante réglable ajoute une touche douce et décorative.\n\nCaractéristique\nDétail\n\nType de produit\nVentilateur de bureau portable\n\nAlimentation\nUSB\n\nRotation\n360°\n\nFonction\nVentilation silencieuse\n\nLumière\nAmbiante réglable\n\nUtilisation\nMaison, bureau, chambre, espace de travail\n\nDesign\nCompact et décoratif\n\nCouleur\nRose et blanc\n\nDimensions\n25 × 22 × 7 cm\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Apportez une fraîcheur agréable à votre espace avec ce ventilateur de bureau compact et pratique. Son design moderne rose et blanc s’intègre facilement dans une chambre, un bureau ou un coin de travail."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-06-11T165304.938.png"
-   ]
-  },
-  {
-   "sku": "doshift-75043",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac Lunch Box Élégance Grise",
-     "description": "Optimisez votre pause déjeuner avec ce sac isotherme au design minimaliste et sophistiqué. Conçu pour le professionnel moderne, ce modèle allie une esthétique Bauhaus épurée à une fonctionnalité technique de pointe.\n\nCaractéristique\nDétail\n\nIsolation\nMaintien chaud/froid\n\nMatériaux\nToile coton + cuir\n\nErgonomie\nPoignées renforcées\n\nFormat\nCompact et pratique\n\nDesign\nMinimaliste et élégant\n\nRéférence-doshift\nAA2BB799",
-     "short_description": "Optimisez votre pause déjeuner avec ce sac isotherme au design minimaliste et sophistiqué. Conçu pour le professionnel moderne, ce modèle allie une esthétique Bauhaus épurée à une fonctionnalité technique de pointe."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-70.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-18T135248.858.png"
    ]
   }
  ]

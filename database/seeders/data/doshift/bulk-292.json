@@ -1,179 +1,123 @@
 {
  "products": [
   {
-   "sku": "doshift-42353",
-   "price": 159,
+   "sku": "doshift-44299",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de Nettoyage Cuisine avec Brosse Éclatante Écarlate(Couleur selon disponibilité)",
+     "description": "notre ensemble de nettoyage de cuisine haut de gamme, conçu pour vous offrir une expérience de nettoyage efficace et agréable. Notre ensemble comprend une brosse spécialement conçue et des outils de nettoyage, le tout dans une teinte élégante de rouge vif pour égayer votre espace de cuisine.La brosse de nettoyage est ergonomique et dotée de poils robustes mais doux, ce qui la rend idéale pour éliminer les saletés tenaces tout en préservant l’intégrité de vos surfaces de cuisine. Que ce soit pour déloger les résidus collants sur les comptoirs, les éclaboussures sur les plaques de cuisson ou les taches sur les éviers, notre brosse est le partenaire parfait pour rendre votre cuisine étincelante.L’ensemble comprend également une gamme d’outils de nettoyage spécialement adaptés à diverses tâches. Chaque outil est soigneusement conçu pour répondre aux besoins spécifiques de votre cuisine. Des coins difficiles d’accès aux espaces restreints, notre ensemble vous offre la polyvalence dont vous avez besoin pour maintenir votre cuisine propre et accueillante.Le rouge vif de notre ensemble de nettoyage ajoute une touche de style à votre espace tout en reflétant l’énergie et la passion que vous mettez dans vos préparations culinaires. Fabriqué avec des matériaux durables et de haute qualité, cet ensemble est conçu pour durer, offrant ainsi une solution de nettoyage fiable et élégante à long terme.",
+     "short_description": "notre ensemble de nettoyage de cuisine haut de gamme, conçu pour vous offrir une expérience de nettoyage efficace et agréable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354891-80_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44295",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pomme de douche multifonction (Couleur selon disponibilité)",
+     "description": "Le robinet de bidet portable est un pulvérisateur à main qui peut être utilisé pour les animaux de compagnie, les toilettes et les douches.\n\nIl est fait de plastique et pèse 0.3 kg.\n\nLe kit comprend une pièce.",
+     "short_description": "Le robinet de bidet portable est un pulvérisateur à main qui peut être utilisé pour les animaux de compagnie, les toilettes et les douches."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354882-79_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44279",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Manchon de genou avec sangles réglables pour sport et entraînement ( 1 pièce) (Couleur selon disponibilité)",
+     "description": "Cette genouillère offre une compression optimale pour soutenir les articulations lors de la course, des entraînements ou toute activité sportive. Équipée de sangles réglables pour un ajustement confortable et sécurisé tout au long de la journée. Fabriquée avec des matériaux de haute qualité pour garantir confort et durabilité, elle est idéale pour un usage quotidien et tous types de sports.\n\nCaractéristiques :\n\nCompression optimale : Offre un excellent soutien pour les articulations et les muscles.\n\nSangles réglables : Assurent un ajustement personnalisé et un maintien sécurisé.\n\nMatériaux de haute qualité : Confortables, respirants et durables pour une utilisation prolongée.\n\nPolyvalence : Convient pour la course, l’entraînement, et diverses activités sportives.\n\nDesign ergonomique : Léger et facile à porter tout au long de la journée.",
+     "short_description": "Cette genouillère offre une compression optimale pour soutenir les articulations lors de la course, des entraînements ou toute activité sportive."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354862-76_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44271",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Nettoyage toop super doux poussière collante (Couleur selon disponibilité)",
+     "description": "Ce gel nettoyant est conçu pour nettoyer les endroits difficiles d’accès comme l’évent de sortie d’air de la voiture, le tableau de bord, le climatiseur, le clavier, le nettoyeur de maison, etc.\n\nIl absorbe la poussière sans laisser de traces sur les mains.\n\nIl est flexible, ne colle pas aux mains et ne laisse pas de résidus.\n\nIl est réutilisable, sans besoin de nettoyage, respectueux de l’environnement, non toxique pour la peau et sans danger.\n\nIl est disponible en modèle nettoyant, pèse 0.1 kg et est fabriqué en silicone.",
+     "short_description": "Ce gel nettoyant est conçu pour nettoyer les endroits difficiles d’accès comme l’évent de sortie d’air de la voiture, le tableau de bord, le climatiseur, le clavier, le nettoyeur de maison, etc."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354846-74_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44189",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
     11
    ],
    "locales": {
     "fr": {
-     "name": "Ponceuse Électrique Ongles – Manucure & Pédicure Complète couleur selon la disponibilité",
-     "description": "Cette ponceuse électrique pour ongles est l’outil idéal pour réaliser une manucure et pédicure professionnelles à domicile. Conçue pour un usage simple et sécurisé, elle permet de limer, polir, nettoyer et retirer les cuticules avec une grande précision. Grâce à sa vitesse réglable, son design ergonomique et son fonctionnement sans fil, elle offre un confort optimal et un contrôle parfait, aussi bien pour les débutantes que pour les professionnelles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPonceuse électrique pour ongles\n\nUtilisation\nManucure & Pédicure complète\n\nVitesse\nRéglable pour un contrôle précis\n\nAlimentation\nBranchable\n\nMobilité\nPortable et légère\n\nEmbouts inclus\n4 embouts interchangeables\n\nFonctions\nLimage, polissage, nettoyage, retrait des cuticules\n\nDesign\nErgonomique et facile à prendre en main\n\nNiveau sonore\nFaible vibration et fonctionnement silencieux\n\nCouleur\nRose\n\nPublic cible\nUsage personnel et professionnel\n\nRéférence-doshift\nAA5BB099",
-     "short_description": "Cette ponceuse électrique pour ongles est l’outil idéal pour réaliser une manucure et pédicure professionnelles à domicile."
+     "name": "Cheveux Séchage – Casquette Tête Emballage Microfibre(Couleur selon disponibilité)",
+     "description": "La serviette sèche-cheveux est un accessoire pratique conçu pour accélérer le séchage de vos cheveux après la douche. Grâce à sa conception absorbante et douce, elle absorbe l’excès d’humidité de vos cheveux en un temps record, réduisant ainsi le temps nécessaire pour les sécher avec un sèche-cheveux traditionnel.\n\nSon bonnet de sèche permet de maintenir la serviette en place tout en vous permettant de vaquer à d’autres occupations pendant que vos cheveux sèchent naturellement.\n\nSéchage rapide : La serviette est fabriquée à partir de matériaux absorbants de haute qualité qui aident à éliminer l’humidité de vos cheveux plus rapidement que les serviettes ordinaires.\n\nConfortable : La matière douce et légère de la serviette garantit un confort optimal pendant que vos cheveux sèchent.Bonnet de sèche ajustable : Le bonnet est doté d’une sangle ajustable pour s’adapter à différentes tailles de tête, permettant ainsi un ajustement sûr et confortable.\n\nPratique : Vous pouvez porter la serviette sèche-cheveux tout en effectuant vos tâches quotidiennes, ce qui libère vos mains et vous permet de gagner du temps.Protection des cheveux : En réduisant l’exposition à la chaleur directe d’un sèche-cheveux, la serviette sèche-cheveux peut aider à minimiser les dommages potentiels causés par la chaleur.\n\nIdéal pour tous les types de cheveux : Que vos cheveux soient longs, courts, bouclés ou lisses, la serviette sèche-cheveux convient à tous les types de cheveux.\n\nOptez pour cette serviette sèche-cheveux pratique et innovante pour réduire le temps de séchage de vos cheveux tout en prenant soin d’eux de manière douce et efficace. Que vous soyez pressé ou que vous préfériez éviter la chaleur excessive, cette serviette sera un ajout précieux à votre routine de soins capillaires.",
+     "short_description": "La serviette sèche-cheveux est un accessoire pratique conçu pour accélérer le séchage de vos cheveux après la douche."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1d3c7013-04ea-421e-96c6-8dacb07d77cc-1-1.jpeg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354684-56_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42333",
-   "price": 129,
+   "sku": "doshift-44184",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    13
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Raquette de badminton légère confort(Couleur selon disponibilité)",
-     "description": "Raquette de badminton légère et robuste en alliage de fer de haute qualité.\n\nDesign ergonomique avec une poignée confortable.\n\nLivrée avec un sac de rangement.\n\nPoids : 0.1 kg\n\nCouleur : noir",
-     "short_description": "Raquette de badminton légère et robuste en alliage de fer de haute qualité."
+     "name": "Râpe multifonction Râpe à légumes rotative améliorée trancheur",
+     "description": "Découvrez la râpe à légumes rotative GENERIC, conçue en ABS de haute qualité avec des lames en acier inoxydable. Multifonctionnelle, elle permet de hacher, trancher et moudre fruits et légumes facilement. Sa construction robuste et sa poignée antidérapante garantissent une utilisation pratique et durable.",
+     "short_description": "Découvrez la râpe à légumes rotative GENERIC, conçue en ABS de haute qualité avec des lames en acier inoxydable. Multifonctionnelle, elle permet de hacher, trancher et moudre fruits et légumes facilement."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345255-53_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354675-55_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42329",
+   "sku": "doshift-44175",
    "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bavoir pratique et confortable avec poche pour attraper les aliments, de qualité (Couleur selon disponibilité))",
-     "description": "Bavoir imperméable pour bébé avec une poche amovible pour les aliments.\n\nFacile à nettoyer.\n\nPeut être utilisé sans la poche, par exemple pour la peinture ou autres activités.\n\nJoli motif et matière douce.\n\nImperméable et facile à essuyer.\n\nNe peut pas être mis à la machine à laver.\n\nLa poche détachable est solide et facile à nettoyer.\n\nAdapté aux bébés de 6 mois à 3 ans.\n\nModèle: Bavoir.\n\nPoids: 0.1 kg.\n\nCouleur: multi-couleur.\n\nMatière: silicone + imperméable.",
-     "short_description": "Bavoir imperméable pour bébé avec une poche amovible pour les aliments."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345249-52_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42321",
-   "price": 229,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Organiseur de Bureau Métallique 4 Niveaux – Bac à Documents Mesh JS4001",
-     "description": "Organisez votre espace de travail avec ce bac à documents 4 niveaux en métal mesh. Idéal pour classer papiers, dossiers, cahiers et accessoires de bureau tout en gardant un bureau propre et professionnel.\n\nCaractéristiques\nDétails\n\nType\nBac à documents / organiseur de bureau\n\nNiveaux\n4 tiers\n\nMatière\nMétal mesh résistant\n\nCouleur\nNoir\n\nUtilisation\nBureau, maison, école\n\nAvantages\nSolide, élégant, gain de place\n\nRéférence Doshift\nAA14BB099",
-     "short_description": "Organisez votre espace de travail avec ce bac à documents 4 niveaux en métal mesh. Idéal pour classer papiers, dossiers, cahiers et accessoires de bureau tout en gardant un bureau propre et professionnel."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-05-20T153455.365.png"
-   ]
-  },
-  {
-   "sku": "doshift-42316",
-   "price": 319,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse de Nettoyage Électrique – USB Rechargeable – 6 Têtes – Étanche – Ergonomique – Rotative(Couleur selon disponibilité)",
-     "description": "Cette brosse de nettoyage électrique USB rechargeable est idéale pour la cuisine et la salle de bain. Avec 6 têtes interchangeables, elle offre un nettoyage en profondeur grâce à son système rotatif. Son design ergonomique et étanche assure une utilisation confortable et sécurisée, même dans les zones humides. Compacte, elle se range facilement.",
-     "short_description": "Cette brosse de nettoyage électrique USB rechargeable est idéale pour la cuisine et la salle de bain. Avec 6 têtes interchangeables, elle offre un nettoyage en profondeur grâce à son système rotatif."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345222-49_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42297",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Kit de 21 boîte à Couture Portable Complet pour la Maison et les Voyages(Couleur selon disponibilité)",
-     "description": "Compact et Portable : Petit sac à coudre facile à transporter et à ranger, parfait pour une utilisation à domicile, en voyage ou à l’école.Organisation Optimale : Compartiments internes bien conçus pour garder vos outils de couture bien rangés et facilement accessibles.Polyvalent : Idéal pour les étudiants, les débutants, et les amateurs de couture, ainsi que pour des réparations rapides et des projets créatifs.Matériaux de Qualité : Fabriqué à partir de matériaux durables et résistants, garantissant une longue durée de vie et une protection efficace de vos outils.Design Élégant : Esthétique simple et moderne qui s’intègre facilement dans n’importe quel espace de travail ou de rangement.Accessoires Inclus : Contient une sélection d’outils de couture essentiels tels que , du fil, des ciseaux, un dé à coudre, des épingles, et un mètre ruban.Facilité d’Utilisation : Fermeture à glissière ou à bouton-pression pour un accès rapide et sécurisé à vos fournitures de couture.",
-     "short_description": "Compact et Portable : Petit sac à coudre facile à transporter et à ranger, parfait pour une utilisation à domicile, en voyage ou à l’école.Organisation Optimale"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345164-45_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42292",
-   "price": 549,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chaises Plage – Non spécifié – Ensemble de 2 – Pliable – Ergonomique – 1 place(Couleur selon disponibilité)",
-     "description": "Ces chaises pliantes sont idéales pour vos moments de détente en extérieur. Légères et durables, elles se transportent facilement et se déplient rapidement. Avec un dossier inclinable et un porte-gobelet intégré, elles offrent confort et praticité pour vos sorties à la plage, en camping ou dans le jardin.",
-     "short_description": "Ces chaises pliantes sont idéales pour vos moments de détente en extérieur. Légères et durables, elles se transportent facilement et se déplient rapidement."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345155-44_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43744",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosses à Poils Durs – Non spécifié – Ensemble de 2 – Construction Robuste – Polyvalence Inégalée – 20x10cm(Couleur selon disponibilité)",
-     "description": "Cet ensemble de 2 brosses à poils durs est parfait pour nettoyer toutes les surfaces de votre maison. Leur construction robuste assure une durabilité exceptionnelle, tandis que leur polyvalence vous permet d’atteindre les coins difficiles d’accès. Idéales pour la cuisine, la salle de bain et plus encore.",
-     "short_description": "Cet ensemble de 2 brosses à poils durs est parfait pour nettoyer toutes les surfaces de votre maison."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349324-356_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43739",
-   "price": 59,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bandeau – Élastique jusqu’à 11,4 pouces – Confortable – Noir",
-     "description": "‘- Ce bandeau sportif allie style et performance pour accompagner vos séances d’entraînement ou vos journées décontractées.\n\n– Conçu dans une matière douce, légère et extensible, il s’adapte parfaitement à toutes les morphologies sans glisser, assurant un maintien optimal même lors des mouvements les plus dynamiques. Idéal pour le yoga, la course, le fitness ou le cyclisme, il absorbe efficacement la transpiration afin de garder votre front au sec et votre concentration intacte.\n\n– Ses couleurs vives et tendances apportent une touche d’énergie et de charme à votre tenue, que vous soyez à la salle de sport ou simplement en promenade. À la fois fonctionnel et esthétique, ce bandeau est l’accessoire indispensable pour allier confort, praticité et élégance sportive.",
-     "short_description": "‘- Ce bandeau sportif allie style et performance pour accompagner vos séances d’entraînement ou vos journées décontractées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349318-355_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43718",
-   "price": 75,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -182,13 +126,70 @@
    ],
    "locales": {
     "fr": {
-     "name": "Serviette Auto et Maison, Double Face 50×70 cm de Qualité (Couleur selon disponibilité)",
-     "description": "• Fonction : lavage de voiture, séchage, cirage/polissage de votre voiture, bateau, moto, écran de télévision / écran d’ordinateur, etc.\n\n• Multi-usage pour le nettoyage de la salle de bain, du bureau, des miroirs, des fenêtres, des surfaces, des intérieurs de voiture.\n\n• Chiffon de nettoyage en microfibre de 50 x 70 cm, chiffon de séchage pour voiture.\n\n• Matériaux très doux et agréable au toucher. Ne laisse pas de peluches ou de traces après le nettoyage. Utilisation double face, facile à nettoyer.\n\n• La serviette de nettoyage de séchage en microfibre d’absorption d’eau est plus forte que la serviette normale. peut absorber jusqu’à près de 10 fois leur poids en liquide.",
-     "short_description": "• Fonction : lavage de voiture, séchage, cirage/polissage de votre voiture, bateau, moto, écran de télévision / écran d’ordinateur, etc."
+     "name": "6pcs mousqueton crochets d’aluminium multicouleur(Couleur selon disponibilité)",
+     "description": "Ce produit est un lot de 6 mousquetons en alliage d’aluminium.\n\nIls sont neufs et de haute qualité.\n\nChaque mousqueton est doté d’une porte à ressort pour une fixation rapide et sécurisée.\n\nIls s’ouvrent et se ferment en douceur.\n\nIdéal pour les activités de plein air comme le camping, la pêche, la randonnée, le voyage, etc.\n\nIls peuvent également servir de porte-clés.\n\nLes mousquetons mesurent 38x22x4mm.\n\nLe poids total du lot est de 0.1 kg.",
+     "short_description": "Ce produit est un lot de 6 mousquetons en alliage d’aluminium."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349273-350_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354661-53_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44170",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Couteau de grande utilité lame rétractable rasoir coupeur de papier peint boîte carton",
+     "description": "Ce couteau est doté d’une poignée antidérapante pour une prise en main confortable.\n\nIl dispose d’un système d’autoblocage performant pour des coupes plus puissantes.\n\nLa lame est en acier à haute teneur en carbone SK5, ce qui la rend plus aiguisée.\n\nElle est dotée d’une conception à double lame et a subi un traitement thermique spécial pour atteindre une dureté supérieure à HRC60°.\n\nLe couteau est en alliage de zinc, de couleur argent et mesure environ 98 mm de long.\n\nIl pèse 0,3 kg et est de couleur blanche.\n\nLa matière principale est l’acier.",
+     "short_description": "Ce couteau est doté d’une poignée antidérapante pour une prise en main confortable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354654-52_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44151",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Corbeille à pédales polyvalente 10l parfaite pour toutes les pièces (Couleur selon disponibilité)",
+     "description": "Cette poubelle a une capacité de 10 litres.\n\nElle est équipée d’une pédale robuste pour une ouverture sans contact.\n\nSon couvercle se referme de manière étanche.\n\nElle possède un seau amovible pour faciliter le nettoyage.\n\nLa poubelle est disponible en couleur marron et est fabriquée en plastique.\n\nElle est écologique et est conçue pour un usage domestique.\n\nSon poids est de 0.3 kg.",
+     "short_description": "Cette poubelle a une capacité de 10 litres."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354630-49_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44129",
+   "price": 299,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tire-lait manuel notre bébé kite 180ml",
+     "description": "Le Tire Lait Manuel Notre Bébé Kite 180ml – 6oz est conçu pour faciliter l’allaitement.\n\nIl est efficace et confortable.\n\nSa membrane douce en silicone s’adapte parfaitement au sein pour un confort optimal et stimule la production de lait.\n\nLa poignée ergonomique permet une utilisation facile d’une seule main.\n\nIl est facile à démonter, à laver et à stériliser.\n\nLéger, compact et discret, il est pratique à transporter.\n\nIl pèse 0.1 kg et est disponible en plusieurs couleurs.",
+     "short_description": "Le Tire Lait Manuel Notre Bébé Kite 180ml – 6oz est conçu pour faciliter l’allaitement."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354592-44_1.jpg"
    ]
   }
  ]

@@ -1,143 +1,164 @@
 {
  "products": [
   {
-   "sku": "doshift-57617",
+   "sku": "doshift-62708",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Montre Connectée Series 11 Pro Max",
+     "description": "Découvrez la puissance et l’élégance au poignet avec la Series 11 Pro Max. Suivez votre santé, vos activités sportives et vos notifications en temps réel grâce à son grand écran tactile HD et ses nombreuses fonctionnalités intelligentes. Son design moderne et confortable s’adapte parfaitement à votre quotidien, au travail comme pendant vos entraînements.\n\nCaractéristique\nDétail\n\nType\nMontre connectée\n\nModèle\nSeries 11 Pro Max\n\nÉcran\nTactile HD\n\nConnectivité\nBluetooth\n\nFonctions santé\nFréquence cardiaque, sommeil, activité\n\nFonctions sport\nMulti-sports\n\nNotifications\nAppels, SMS, applications\n\nAutonomie\nLongue durée\n\nCompatibilité\nAndroid & iPhone\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Découvrez la puissance et l’élégance au poignet avec la Series 11 Pro Max. Suivez votre santé, vos activités sportives et vos notifications en temps réel grâce à son grand écran tactile HD et ses nombreuses…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-05-09T155128.914.png"
+   ]
+  },
+  {
+   "sku": "doshift-62664",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 3 Plateaux en Bambou",
+     "description": "Découvrez ce set de 3 plateaux en bambou marron, idéal pour allier praticité et style naturel dans votre intérieur. Fabriqués en bambou robuste, ces plateaux sont légers, durables et parfaits..",
+     "short_description": "Découvrez ce set de 3 plateaux en bambou marron, idéal pour allier praticité et style naturel dans votre intérieur. Fabriqués en bambou robuste, ces plateaux sont légers, durables et parfaits.."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/alpha-55-set-de-3-plateaux-en-bambou-1208299963.webp"
+   ]
+  },
+  {
+   "sku": "doshift-62590",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte Rangement de Bijoux Avec Serrure En Cuir a Grande Capacité Rose",
+     "description": "Cette boîte à bijoux est un compartiment mobile multicouche à deux couches avec une grande capacité et différentes dispositions, y compris diverses salles de stockage, des crochets pour colliers, des porte-bagues, des cartes pour boucles d’oreilles et un espace mobile supplémentaire.\n\nVous pouvez organiser méthodiquement tout ce que vous aimez dans cette boîte.Il peut également organiser vos comptoirs, économiser beaucoup d’espace et rendre votre pièce plus propre.\n\nIl est fait d’artificiel de haute qualité et doublé de peluche douce, qui peut protéger vos bijoux des rayures et des pertes.Le verrou avancé permet de le fermer fermement et de l’ouvrir facilement.\n\nVos proches seront plus heureux en recevant de tels cadeaux exquis pour la Saint-Valentin, la fête des mères, Noël, le jour de l’An, les anniversaires, les mariages et autres occasions.",
+     "short_description": "Cette boîte à bijoux est un compartiment mobile multicouche à deux couches avec une grande capacité et différentes dispositions, y compris diverses salles de stockage, des crochets pour colliers, des porte-bagues, des…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-11T213356.940.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-62584",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte à Bijoux Transparente en Acrylique – 3 Tiroirs Velours & Design Empilable",
+     "description": "Organisez vos bijoux avec élégance grâce à cette boîte à bijoux en acrylique transparent dotée de 3 tiroirs doublés en velours. Son design clair et moderne permet de visualiser facilement vos accessoires tout en les protégeant de la poussière et des rayures. Idéale pour ranger boucles d’oreilles, bagues, bracelets et colliers, elle est également empilable, ce qui permet d’optimiser l’espace sur votre coiffeuse ou dans votre dressing. Pratique, esthétique et fonctionnelle, elle apporte une touche raffinée à votre espace beauté.",
+     "short_description": "Organisez vos bijoux avec élégance grâce à cette boîte à bijoux en acrylique transparent dotée de 3 tiroirs doublés en velours."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/a3ae44cf-d373-44f6-af2d-a56ee59e5b5c.avif"
+   ]
+  },
+  {
+   "sku": "doshift-62452",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "support Téléphone Voiture à Ventouse – Fixation Stable & Orientation Ajustable",
+     "description": "Maintenez votre smartphone bien en place pendant la conduite grâce à ce support téléphone voiture fiable, stable et simple à utiliser. Conçu pour un usage quotidien, il assure un maintien sécurisé de votre appareil tout en offrant une orientation ajustable pour une visibilité optimale de l’écran. Son système de fixation par ventouse permet une installation rapide sur le pare-brise ou le tableau de bord, sans outils, idéale pour la navigation GPS, les appels mains libres et l’utilisation multimédia en toute sécurité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSupport téléphone voiture\n\nFixation\nVentouse (pare-brise / tableau de bord)\n\nMécanisme de verrouillage\nLevier de blocage sur la ventouse\n\nMaintien du téléphone\nPinces latérales ajustables + support inférieur\n\nRéglages\nBras articulé + rotule pour rotation multi-angles\n\nOrientation\nPortrait / Paysage\n\nUsage\nNavigation GPS, appels mains libres, multimédia\n\nInstallation\nRapide, sans outils\n\nSurface de contact\nZone de maintien texturée pour une meilleure adhérence\n\nRéférence – DOSHIFT\nAA2BB899",
+     "short_description": "Maintenez votre smartphone bien en place pendant la conduite grâce à ce support téléphone voiture fiable, stable et simple à utiliser."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/image-2026-02-09T173504-715.png"
+   ]
+  },
+  {
+   "sku": "doshift-62393",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cache-oreilles Lapin Femme – Doux, Chaud & Ludique",
+     "description": "Ajoute une touche adorable et originale à tes tenues d’hiver avec ces cache-oreilles lapin pour femme. Conçus en matière douce et moelleuse, ils gardent les oreilles bien au chaud tout en offrant un look ludique grâce aux oreilles de lapin mobiles. Parfaits pour affronter le froid avec style, ils conviennent aussi bien aux sorties quotidiennes qu’aux moments cocooning. Une excellente idée cadeau pour les filles et les femmes qui aiment allier confort, chaleur et fantaisie.",
+     "short_description": "Ajoute une touche adorable et originale à tes tenues d’hiver avec ces cache-oreilles lapin pour femme."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/61vsJvPaOL._SY879_.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-62344",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte à pain en bois avec couvercle transparent pour conserver le pain, boulangerie et pâtisserie",
+     "description": "Fabriquée à partir de matériaux naturels tels que le bambou et le bois, cette boîte à pain croustillante conserve la fraîcheur de votre pain, empêche la moisissure et l’humidité, reste inodore et sans saveur, et est plus stable et plus sûre que les boîtes à pain traditionnelles, de sorte que vous pouvez stocker vos aliments dans ce conteneur en toute confiance.",
+     "short_description": "Fabriquée à partir de matériaux naturels tels que le bambou et le bois, cette boîte à pain croustillante conserve la fraîcheur de votre pain, empêche la moisissure et l’humidité, reste inodore et sans saveur, et est…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-10T211422.765.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-62325",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Miroir De Maquillage rectangulaire Avec Poignée",
-     "description": "Miroir de maquillage, Miroir de Voyage poignée pliante, rectangle, cadre en plastique\n\nCe miroir vous aidera à voir des choses que vous ne saviez jamais être là avec de grandes surfaces\n\nAvec surface haute définition pour appliquer le maquillage du visage, l’entretien des sourcils, des lèvres, des points noirs, des boutons, du dissolvant d’acné\n\nDesign pliable autoportant et peut être fixé, il fonctionne bien\n\nProduit génial pour voyage, maison, salle de bain, dortoir, camping, maquillage. Compact et facile à emballer pour le voyage.\n\nMatériau: plastique plaqué argent + verre\n\nLe forfait comprend",
-     "short_description": "Miroir de maquillage, Miroir de Voyage poignée pliante, rectangle, cadre en plastique"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/1-62.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-57586",
-   "price": 369,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Table Carrée Pliable 60×60 cm – Jardin – Effet Bois (Símil Madera)",
-     "description": "Pratique et fonctionnelle, cette table carrée pliable effet bois est idéale pour le jardin, la terrasse, le balcon ou même un usage intérieur. Grâce à son système pliable, elle se range facilement et permet un gain de place optimal. Son design símil bois apporte une touche naturelle et élégante tout en offrant la résistance et la facilité d’entretien d’un matériau moderne. Parfaite pour les repas en extérieur, les cafés ou les petits espaces.",
-     "short_description": "Pratique et fonctionnelle, cette table carrée pliable effet bois est idéale pour le jardin, la terrasse, le balcon ou même un usage intérieur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/D_Q_NP_2X_953759-MLA81647744438_012025-R.webp"
-   ]
-  },
-  {
-   "sku": "doshift-57575",
-   "price": 629,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Jeu de 3 Tables Gigognes d’Appoint – Structure en Fer & Plateau en Bois",
-     "description": "Apportez une touche moderne et fonctionnelle à votre intérieur avec ce jeu de 3 tables gigognes auxiliaires alliant une structure en fer robuste et des plateaux en bois élégants. Pratiques et polyvalentes, ces tables peuvent être utilisées ensemble ou séparément selon vos besoins : table d’appoint, table basse, support décoratif ou table de chevet. Leur design épuré s’adapte parfaitement au salon, à la chambre ou au bureau, tout en optimisant l’espace grâce à leur rangement imbriqué.",
-     "short_description": "Apportez une touche moderne et fonctionnelle à votre intérieur avec ce jeu de 3 tables gigognes auxiliaires alliant une structure en fer robuste et des plateaux en bois élégants."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/juego-de-3-mesas-nido-auxiliares-hierro-madera-juego-de-3-mesas-nido-auxiliares-hierro-madera.webp"
-   ]
-  },
-  {
-   "sku": "doshift-57684",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
     3
    ],
    "locales": {
     "fr": {
-     "name": "Bol isotherme avec couvercle et poignée – Multi-usage pour repas 15 CM",
-     "description": "Gardez vos préparations à bonne température avec ce bol isotherme pratique et élégant, idéal pour les soupes, nouilles, bouillies, lait ou autres boissons chaudes. Son intérieur en acier inoxydable aide à mieux conserver la chaleur, tandis que son couvercle avec ouverture intégrée limite les éclaboussures. Sa poignée latérale assure une prise en main confortable pour une utilisation quotidienne à la maison, au bureau ou en déplacement.\n\nCaractéristique\nDétail\n\nType de produit\nBol isotherme avec couvercle\n\nUtilisation\nSoupe, nouilles, porridge, lait, boissons chaudes\n\nMatière intérieure\nAcier inoxydable\n\nMatière extérieure\nPlastique\n\nCouvercle\nOui\n\nPoignée\nOui\n\nForme\nRonde\n\nEntretien\nNettoyage facile\n\nCouleur\nblue\n\nContenu\n1 bol isotherme avec couvercle\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Gardez vos préparations à bonne température avec ce bol isotherme pratique et élégant, idéal pour les soupes, nouilles, bouillies, lait ou autres boissons chaudes."
+     "name": "Porte-Essuie-Tout en Bois Naturel – Élégance & Praticité pour Votre Cuisine",
+     "description": "Ajoutez une touche naturelle et raffinée à votre cuisine avec ce porte-essuie-tout en bois au design moderne et minimaliste. Conçu pour offrir stabilité, praticité et esthétique, il permet un déroulement facile du papier à une seule main tout en s’intégrant harmonieusement à tous les styles d’intérieur.\n\nFabriqué en bois naturel robuste et durable, il apporte une ambiance chaleureuse à votre espace tout en restant fonctionnel au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nPorte-essuie-tout en bois\n\nMatériau\nBois naturel\n\nUtilisation\nCuisine, salle à manger, bureau\n\nFonction\nMaintien et déroulement facile du papier\n\nDesign\nModerne, élégant et minimaliste\n\nAvantages\nStable, durable et écologique\n\nEntretien\nNettoyage simple avec chiffon sec\n\nCompatibilité\nConvient aux rouleaux standards\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Ajoutez une touche naturelle et raffinée à votre cuisine avec ce porte-essuie-tout en bois au design moderne et minimaliste."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-04-13T145532.814.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-05-23T145954.591.png"
    ]
   },
   {
-   "sku": "doshift-57663",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte à Bijoux de Voyage Portable – Organisateur Multi-Compartiments (YGQZM)",
-     "description": "Cette boîte à bijoux portable YGQZM est conçue pour organiser et protéger efficacement vos accessoires lors de vos déplacements ou au quotidien. Grâce à son espace de rangement ajustable, elle permet de ranger facilement bracelets, boucles d’oreilles, montres, bagues et colliers, tout en évitant le désordre.\n\nÉquipée d’un plateau de rangement pour boucles d’oreilles à plusieurs compartiments, elle offre une vue claire et pratique de vos bijoux. Sa structure solide et résistante à la pression protège le contenu contre l’écrasement. L’intérieur est doublé d’un velours de haute qualité, avec des crochets pour colliers et une pochette resserrée empêchant les nœuds, les frottements et l’usure. Avec ses quatre compartiments, cette boîte répond parfaitement aux besoins quotidiens et peut accueillir aussi bien de grandes boucles d’oreilles, des broches que d’autres accessoires précieux.",
-     "short_description": "Cette boîte à bijoux portable YGQZM est conçue pour organiser et protéger efficacement vos accessoires lors de vos déplacements ou au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/41V1NDjRQWL._AC_SL1024_.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-57623",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Miroir Compact Double Face Weisen WSK-081-5 – Élégant & Pratique",
-     "description": "Le miroir compact double face Weisen WSK-081-5 séduit par ses couleurs vives, son design élégant aux coins arrondis et sa grande fonctionnalité. Conçu pour un usage quotidien, il dispose de deux faces : une face avec grossissement x2 pour les détails de maquillage et une face miroir standard pour une utilisation classique.\n\nAgréable à tenir en main, ce miroir se distingue par son format compact, idéal pour l’emporter partout. Il se glisse facilement dans une pochette, un sac à main ou un clutch, devenant ainsi l’accessoire indispensable pour les retouches rapides à tout moment de la journée.",
-     "short_description": "Le miroir compact double face Weisen WSK-081-5 séduit par ses couleurs vives, son design élégant aux coins arrondis et sa grande fonctionnalité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/2781389_1000.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-57605",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gobelet en Verre Réutilisable – Design Moderne & Confort Isolant",
-     "description": "Apportez du style à vos pauses café avec ce gobelet en verre élégant, pensé pour combiner esthétisme et praticité. Son manchon isolant antidérapant garantit une prise en main confortable tout en protégeant de la chaleur, idéal au bureau, à la maison ou en déplacement.\n\nParfait pour café, thé, latte ou boissons froides, il devient rapidement un accessoire tendance et fonctionnel pour votre quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nGobelet réutilisable avec couvercle\n\nMatériau principal\nVerre\n\nManchon\nIsolant, antidérapant, prise en main confortable\n\nCouvercle\nAvec ouverture pour boire, anti-éclaboussures\n\nUtilisation\nBoissons chaudes et froides\n\nEntretien\nFacile à nettoyer\n\nStyle\nModerne, élégant\n\nIdéal pour\nBureau, maison, déplacements\n\nRéférence – DOSHIFT\nAA1BB299",
-     "short_description": "Apportez du style à vos pauses café avec ce gobelet en verre élégant, pensé pour combiner esthétisme et praticité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-02-17T002224-792.png"
-   ]
-  },
-  {
-   "sku": "doshift-57598",
+   "sku": "doshift-62314",
    "price": 169,
    "stock": 10,
    "status": 0,
@@ -147,18 +168,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Table d’appoint moderne multifonction – Design compact et élégant",
-     "description": "Apportez une touche contemporaine à votre intérieur avec cette table d’appoint au design épuré, idéale pour le salon, la chambre, le bureau ou tout espace de détente. Son plateau effet bois naturel associé à une structure métallique blanche lui confère un style moderne et raffiné, parfait pour compléter tout type de décoration.\n\nGrâce à son format compact, cette table est parfaite pour poser un ordinateur portable, une tasse, des livres, une lampe ou divers accessoires du quotidien. Sa base stable et son pied incurvé assurent une excellente solidité tout en optimisant l’espace.\n\nPratique, légère et facile à déplacer, elle convient parfaitement comme table d’appoint canapé, table de chevet ou support de travail.\n\nCaractéristiques\nDétails\n\nType de produit\nTable d’appoint / table portable\n\nStyle\nModerne et minimaliste\n\nMatériau plateau\nBois MDF finition effet bois\n\nMatériau structure\nMétal peint\n\nCouleur\nBois naturel + blanc\n\nDimensions\nLongueur 45 cm x Largeur 30 cm x Hauteur 60 cm\n\nUtilisation\nSalon, chambre, bureau, canapé\n\nEntretien\nNettoyage facile avec chiffon humide\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Apportez une touche contemporaine à votre intérieur avec cette table d’appoint au design épuré, idéale pour le salon, la chambre, le bureau ou tout espace de détente."
+     "name": "Réchaud électrique à plaque chauffante, fourneau électrique, Plaque de cuisson 1000W",
+     "description": "Cuisinière électrique sûre à économie d’énergie pour faire du thé, du café, du lait à la maison 1000W\n\nLe poêle électrique est en acier laminé à froid, et il est sûr et non toxique. Il peut être utilisé pour faire du café, du thé, du lait, etc. Il est durable pour une utilisation de longue durée.\n\nCaractéristique:\n\nFabriqué en acier laminé à froid de haute qualité, il est sûr et non toxique.Il est propre, beau, anti-corrosion, anti-fumée et facile à nettoyer.Chauffez rapidement vos aliments, sûrs et durables pour une utilisation de longue durée.Le poêle électrique peut économiser de l’énergie, économiser de l’énergie et il est écologique. Il peut être utilisé pour faire bouillir du café, du thé, du lait, etc.; Il est anti-brûlure.",
+     "short_description": "Cuisinière électrique sûre à économie d’énergie pour faire du thé, du café, du lait à la maison 1000W"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-04-15T202010.223.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-10T210024.918.jpg"
    ]
   },
   {
-   "sku": "doshift-57502",
-   "price": 339,
+   "sku": "doshift-62309",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -167,32 +188,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Grill à Panini Électrique – Plaques Antiadhésives, 1400W",
-     "description": "Préparez facilement de délicieux paninis, sandwichs grillés et snacks chauds grâce à ce grill électrique pratique et performant. Conçu pour une cuisson rapide et homogène, il permet de griller vos aliments en quelques minutes seulement tout en conservant leur texture croustillante.\n\nSes plaques antiadhésives permettent une cuisson sans accroche et facilitent le nettoyage. Compact et simple d’utilisation, il convient parfaitement pour préparer des paninis, sandwiches, légumes grillés ou même de la viande.\n\nCaractéristique\nDétails\n\nType\nGrill / Appareil à panini\n\nPuissance\n1400 W\n\nAlimentation\n220-240V / 50-60Hz\n\nPlaques\nAntiadhésives\n\nUtilisation\nPaninis, sandwichs, viande, légumes\n\nSécurité\nPoignée isolante anti-chaleur\n\nIndicateurs\nVoyants lumineux\n\nEntretien\nNettoyage facile\n\nBase\nPieds antidérapants\n\nRéférence\nAA21BB099",
-     "short_description": "Préparez facilement de délicieux paninis, sandwichs grillés et snacks chauds grâce à ce grill électrique pratique et performant."
+     "name": "Plaque Électrique Portable – 1000W-Couleur Aléatoire",
+     "description": "Cuisinez rapidement et facilement avec cette plaque électrique compacte idéale pour la maison, le bureau, le camping ou les petits espaces. Grâce à sa puissance de 1000W et son thermostat réglable, elle permet de chauffer efficacement casseroles et poêles pour préparer vos repas en toute simplicité.\n\nSon design compact et stable la rend pratique à transporter et à utiliser partout où vous avez besoin d’une source de cuisson supplémentaire. Le voyant lumineux indique clairement lorsque la plaque est en fonctionnement, tandis que la surface métallique assure une bonne diffusion de la chaleur.\n\nCaractéristique\nDétail\n\nType de produit\nPlaque électrique portable\n\nPuissance\n1000 W\n\nNombre de foyers\n1 foyer\n\nContrôle de température\nBouton réglable\n\nIndicateur\nVoyant lumineux de fonctionnement\n\nSurface chauffante\nRésistance spirale en métal\n\nUtilisation\nCuisine, camping, studio, bureau\n\nAlimentation\nÉlectrique\n\nRéférence DOSHIFT\nAA7BB599",
+     "short_description": "Cuisinez rapidement et facilement avec cette plaque électrique compacte idéale pour la maison, le bureau, le camping ou les petits espaces."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-16T155647.964.png"
-   ]
-  },
-  {
-   "sku": "doshift-57303",
-   "price": 71,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "RIGA Laisse cuir noir pour chien ceinture de chien Taille 12mm longueur 110cm",
-     "description": "Laisse en cuir apporte sécurité à votre chien. Facile à accrocher. Elle est classique et élégante. Ces différents coloris apportent une note de modernité.\n\nType: laisse en cuircouleur: noirtaille: 12mm x 110cm",
-     "short_description": "Laisse en cuir apporte sécurité à votre chien. Facile à accrocher. Elle est classique et élégante. Ces différents coloris apportent une note de modernité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/1769114035-21_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/AAANH01160_img1.webp"
    ]
   }
  ]

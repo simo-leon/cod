@@ -1,66 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-122301",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Housse de Protection pour Ordinateur Portable 14-15.6″ en Tissu Chiné",
-     "description": "Conçue pour protéger votre ordinateur portable des chocs, des rayures et des projections d’eau lors de vos déplacements quotidiens, cette housse élégante en tissu chiné allie sobriété professionnelle et haute sécurité. Son compartiment principal molletonné absorbe les vibrations et impacts, tandis que sa doublure intérieure ultra-douce préserve le châssis de votre machine.\n\nCaractéristique\nSpécification Détaillée\n\nType\nHousse pochette de protection fine antichoc pour ordinateur portable\n\nCompatibilité\nOrdinateurs portables, ultrabooks et MacBook de 14 à 15,6 pouces\n\nMatériaux\nToile polyester Oxford chinée imperméabilisée et doublure polaire douce\n\nCompartiments\n1 compartiment principal zippé rembourré + 1 poche frontale zippée\n\nProtection\nMatelassage mousse haute densité à mémoire de forme et angles renforcés\n\nSKU\n9900010930834",
-     "short_description": ": Housse d’ordinateur 14-15,6″ en tissu chiné marron avec intérieur rembourré antichoc et poche frontale zippée."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/2d970772-6b4e-4ee8-9ba5-f006934654f5.webp"
-   ]
-  },
-  {
-   "sku": "doshift-122043",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chauffe-Cire Roll-On Professionnel VGR",
-     "description": "Alliez élégance et praticité lors de vos déplacements avec ce grand sac de voyage bicolore. Doté d’une conception ingénieuse et d’un compartiment inférieur zippé extensible, il s’adapte à toutes vos exigences de rangement. Idéal pour vos escapades de week-end, vos séances de sport ou votre quotidien, il offre un design moderne avec ses tons gris et rose poudré et ses finitions siglées J.R.\n\nCaractéristique.\nDescription\n\nMarque\n\nJ.R\n\nModèle\nSac de voyage bicolore extensible / Grand fourre-tout multifonctionnel\n\nCouleur\n\nGris et Rose poudré\n\nDimensions\nNon spécifié\n\nCompatibilité\nBagage cabine, déplacements de week-end, salle de sport, usage quotidien\n\nFonctionnalités\n\nCompartiment inférieur extensible, double poignée de transport renforcée, poches frontales, fermeture principale zippée\n\nsku\n\n700000000000122",
-     "short_description": "Chauffe-cire roll-on ergonomique blanc et rouge pour cartouches standards de 100 ml avec fenêtre de contrôle."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/9395692a-850d-4398-92f0-fa9d6680f334.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-122032",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boxer Gainant Taille Haute pour Homme SHAPERSHARK",
-     "description": "Conçu pour sculpter instantanément la silhouette masculine sous n’importe quelle tenue, le boxer gainant taille haute SHAPERSHARK aplatit le ventre, affine la taille et raffermit les cuisses en toute discrétion. Sa bande compressive haute gaine la sangle abdominale tout en soutenant le bas du dos pour améliorer la posture.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBoxer short gainant amincissant taille haute pour homme\n\nCompression\nCeinture haute compressive abdominale avec soutien lombaire et fessier\n\nMatériaux\nMicrofibre élastique respirante (Nylon et Élasthanne / Spandex)\n\nFonctions\nEffet ventre plat, maintien des cuisses, galbe fessier et anti-roulement\n\nUsage\nQuotidien sous costume, sport, fitness, running et post-opératoire\n\nSKU\n9900010930773",
-     "short_description": "Boxer gainant taille haute pour homme en microfibre compressive avec maintien ventre plat et fessier."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/b0218891-0c9d-460f-8485-c4f168407efb.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-122021",
-   "price": 579,
+   "sku": "doshift-125921",
+   "price": 299,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -68,18 +10,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Réchaud à Gaz 4 Feux à Poser avec Couvercle RAF",
-     "description": "Conçu pour offrir une cuisson puissante, économique et polyvalente à la maison, en terrasse ou en camping, le réchaud à gaz RAF R.8508 dispose de quatre foyers indépendants à diffusion de chaleur homogène. Sa table de cuisson en acier inoxydable facile à nettoyer résiste aux hautes températures et aux projections, tandis que ses deux grilles émaillées assurent une parfaite stabilité pour tous types de casseroles, poêles et tajines.\n\nCaractéristique\nSpécification Détaillée\n\nType\nRéchaud à gaz de table 4 foyers avec couvercle de protection rabattable\n\nBrûleurs\n4 brûleurs à gaz haute puissance (flamme bleue uniforme, basse consommation)\n\nMatériaux\nChâssis en acier émaillé noir, table inox brossé et grilles en acier émaillé\n\nCommandes\n4 manettes rotatives frontales indépendantes avec repères ON/OFF\n\nDimensions\nLargeur 490 mm × Profondeur 490 mm × Hauteur ~120 mm (couvercle fermé)\n\nSKU\n9900010930766",
-     "short_description": "Réchaud à gaz de table 4 feux RAF R.8508 avec capot."
+     "name": "Étagère de Rangement Modulaire Asymétrique – Meuble de Présentation à Niveaux Multiples Noir",
+     "description": "Optimisez votre espace avec cette étagère de rangement modulaire au design asymétrique moderne. Dotée d’une structure centrale robuste et de plateaux étagés de chaque côté, elle offre une solution élégante et fonctionnelle pour exposer vos objets ou organiser vos accessoires.\n\nCaractéristique\nDétail\n\nType de produit\nÉtagère de rangement / Meuble de présentation modulaire\n\nMarque\nNon spécifié\n\nModèle\nÉtagère multi-niveaux à structure centrale\n\nCouleur\nNoir / Gris foncé\n\nCompatibilité\nSalon, bureau, magasin, espaces de vie intérieurs\n\nFonctionnalités\nMontant central perforé pour fixation réglable des tablettes, disposition asymétrique des étagères de part et d’autre, pieds stabilisateurs surélevés\n\nAvantages\nDesign contemporain original, grand volume de rangement sur plusieurs niveaux, structure métallique stable et robuste\n\nContenu de la boîte\n1 structure d’étagère modulaire, plateaux de rangement, kit de visserie, notice d’assemblage\n\nDimensions du produit (cm)\n\n Longueur totale : ~50,5 cm\n\n Largeur / Profondeur : ~21,0 cm\n\n Hauteur totale : ~50,0 cm\n\nSKU\n700000000000044",
+     "short_description": "Optimisez votre espace avec cette étagère de rangement modulaire au design asymétrique moderne. Dotée d’une structure centrale robuste et de plateagères étagées de chaque côté, elle offre une solution élégante et fonctionnelle pour exposer vos objets ou organiser vos accessoires."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/de1f0293-cecf-45d0-957f-6723c489662d.webp"
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T122446.661.png"
    ]
   },
   {
-   "sku": "doshift-121901",
-   "price": 209,
+   "sku": "doshift-125913",
+   "price": 195,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -87,18 +29,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Étagère d’Angle 3 Niveaux en Métal Effet Granit Noir",
-     "description": "Conçue pour exploiter intelligemment les coins inutilisés de la salle de bain, de la douche ou de la cuisine, l’étagère d’angle à 3 niveaux AZATECH NEG-204-24 combine gain de place et finition granité noir moucheté ultra-résistante. Ses trois corbeilles triangulaires ajourées évacuent instantanément l’eau tout en maintenant vos shampoings, crèmes ou pots d’épices grâce à leurs rebords hauts.\n\nCaractéristique\nSpécification Détaillée\n\nType\nÉtagère d’angle 3 niveaux triangulaire à poser ou à fixer au mur\n\nMatériaux\nAcier robuste avec revêtement thermolaqué noir moucheté blanc (effet granit)\n\nCapacité\n3 paniers d’angle profonds ajourés (stocke 12 à 15 flacons ou bocaux)\n\nDimensions\nHauteur 54 cm × Côtés d’angle 23 cm × Façade arrondie 31 cm\n\nConditionnement\nÉtagère d’angle 3 étages (Colisage grossiste B2B : 24 pièces / carton)\n\nSKU\n9900010930759",
-     "short_description": "Étagère d’angle 3 niveaux en métal noir moucheté granit 54 × 23 × 23 cm à paniers ajourés."
+     "name": "Étagère à Fruits et Légumes en Bambou – Organisateur à 2 Niveaux Empilable pour Cuisine",
+     "description": "Optimisez le rangement de votre cuisine tout en apportant une touche naturelle et chaleureuse avec cet organisateur à deux niveaux en bambou. Doté de bacs ajourés inclinés et d’une structure robuste, il est idéal pour stocker vos fruits, légumes ou accessoires de cuisine avec élégance.\n\nCaractéristique\nDétail\n\nType de produit\nÉtagère de rangement / Corbeille à fruits à 2 niveaux\n\nMarque\nNon spécifié\n\nModèle\nOrganisateur de comptoir 2 étages en bois de bambou\n\nCouleur\nBois naturel / Bambou\n\nCompatibilité\nCuisine, plan de travail, cellier, table à manger\n\nFonctionnalités\nStructure à double bacs superposés, conception à lattes ajourées pour une meilleure ventilation des aliments, pieds de support inclinés avec visserie métallique apparente\n\nAvantages\nGain de place vertical sur le plan de travail, design esthétique et éco-responsable en bambou, accès facile aux produits grâce à l’ouverture frontale des bacs\n\nContenu de la boîte\n1 étagère en bambou à 2 niveaux, kit de montage, notice d’utilisation\n\nDimensions du produit (cm)\n\n Longueur : ~30,0 cm\n\n Largeur / Profondeur : ~21,0 à 25,0 cm\n\n Hauteur totale : ~26,5 cm (avec paniers d’une hauteur d’environ 9,0 cm chacun)\n\nSKU\n700000000000043",
+     "short_description": "Optimisez le rangement de votre cuisine tout en apportant une touche naturelle et chaleureuse avec cet organisateur à deux niveaux en bambou. Doté de bacs ajourés inclinés et d’une structure robuste, il est idéal pour stocker vos fruits, légumes ou accessoires de cuisine avec élégance."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/e02d64ec-a663-475d-8fd7-8dde6b39e8e7.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T120347.459.png"
    ]
   },
   {
-   "sku": "doshift-121885",
-   "price": 219,
+   "sku": "doshift-125906",
+   "price": 285,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,18 +48,18 @@
    ],
    "locales": {
     "fr": {
-     "name": ". Étagère de Rangement Rectangulaire 3 Niveaux en Métal",
-     "description": "Polyvalente et robuste, l’étagère métallique à 3 niveaux AZATECH NEG-202#-24 optimise le rangement vertical dans la salle de bain comme dans la cuisine. Ses trois paniers rectangulaires finement ajourés empêchent toute stagnation d’eau ou de poussière tout en maintenant fermement flacons de soin, parfums, pots à épices ou huiles de cuisson.\n\nCaractéristique\nSpécification Détaillée\n\nType\nÉtagère organisatrice 3 niveaux rectangulaire à poser ou à fixer au mur\n\nMatériaux\nAcier robuste avec revêtement thermolaqué bronze foncé / noir mat antirouille\n\nCapacité\n3 paniers rectangulaires ajourés (stocke 15 à 18 flacons ou pots d’épices)\n\nDimensions\nHauteur 54 cm × Largeur 32 cm × Profondeur 14 cm (espacement 20 cm)\n\nConditionnement\nÉtagère 3 étages (Colisage grossiste B2B : 24 pièces / carton)\n\nSKU\n9900010930735",
-     "short_description": "Étagère rectangulaire 3 niveaux en métal traité 54 × 32 × 14 cm à paniers ajourés."
+     "name": "Cafetière Électrique Filtrante – Machine à Café Double Tasse Noire avec Tasses Incluses",
+     "description": "Préparez deux tasses de café savoureux simultanément avec cette cafetière électrique filtrante . Avec son design compact en noir élégant et ses deux tasses blanches assorties incluses, elle est idéale pour partager un moment café en toute simplicité à la maison ou au bureau.\n\nCaractéristique\nDétail\n\nType de produit\nCafetière électrique filtrante / Machine à café double tasse\n\nMarque\nSonifer\n\nModèle\nCafetière filtre double tasses\n\nCouleur\nNoir (corps de la machine) et Blanc (tasses)\n\nCompatibilité\nCafé moulu, usage domestique ou bureau\n\nFonctionnalités\nSystème de double écoulement pour remplir deux tasses en même temps, réservoir d’eau intégré, porte-filtre permanent, design compact et moderne\n\nAvantages\nPratique pour préparer deux tasses directement sans carafe supplémentaire, gain de place, entretien et nettoyage faciles\n\nContenu de la boîte\n1 cafetière électrique Sonifer, 2 tasses en céramique blanche, filtre, notice d’utilisation\n\nDimensions du produit (cm)\n\n Largeur / Profondeur : ~18,0 à 20,0 cm\n\n Hauteur : ~22,0 à 25,0 cm\n\nSKU\n700000000000065",
+     "short_description": "Préparez deux tasses de café savoureux simultanément avec cette cafetière électrique filtrante . Avec son design compact en noir élégant et ses deux tasses blanches assorties incluses, elle est idéale pour partager un moment café en toute simplicité à la maison ou au bureau."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/ef87b5cb-845c-4f15-8c54-ad479ec7c6e6.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T114239.242.png"
    ]
   },
   {
-   "sku": "doshift-121798",
-   "price": 89,
+   "sku": "doshift-125895",
+   "price": 419,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -125,18 +67,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Support Égouttoir et Range-Assiettes 6 Compartiments en Bambou",
-     "description": "Compact, modulable et naturel, le support en bambou à 6 compartiments AZATECH NEG-WDD-601-100 met fin à l’empilement instable de votre vaisselle. Ses quatorze tourillons verticaux maintiennent fermement assiettes, couvercles de faitouts, planches à découper ou plaques de cuisson à la verticale pour un séchage rapide à l’air libre ou un rangement ordonné dans vos placards et tiroirs profonds.\n\nCaractéristique\nSpécification Détaillée\n\nType\nÉgouttoir et support organisateur vertical pour assiettes, couvercles et planches\n\nCapacité\n6 compartiments de rangement (formés par 2 rangées de 7 tourillons verticaux)\n\nMatériaux\nBambou naturel massif imputrescible à finition vernie hydrofuge\n\nDimensions\nLongueur 30 cm × Largeur 12,5 cm × Hauteur 10,5 cm (écartement fente 3,5 cm)\n\nConditionnement\nRack démontable/emboîtable (Colisage grossiste B2B : 100 pièces / carton)\n\nSKU\n9900010930704",
-     "short_description": "Support range-assiettes et égouttoir en bambou 30 × 12,5 cm à 6 compartiments verticaux."
+     "name": "Centrifugeuse Électrique – Extracteur de Jus Rouge et Noir avec Réservoirs et Sélecteur de Vitesse",
+     "description": "Préparez de délicieux jus de fruits et de légumes frais chaque jour avec cette centrifugeuse électrique . Dotée d’un corps élégant rouge et noir, d’un large goulot d’insertion, de sélecteurs de vitesse et de bacs de récupération transparents, elle offre une extraction rapide et efficace pour toute la famille.\n\nCaractéristique\nDétail\n\nType de produit\nCentrifugeuse électrique / Extracteur de jus\n\nMarque\nSLIVERS CREST\n\nModèle\nCentrifugeuse multifonction avec bacs et variateur de vitesse\n\nCouleur\nRouge et Noir\n\nCompatibilité\nCuisine domestique, préparation de jus de fruits et légumes frais\n\nFonctionnalités\nBouton rotatif de réglage de la vitesse avec positions multiples, bras de verrouillage de sécurité en métal, grand collecteur de pulpe, pichet verseur de jus transparent, cheminée d’introduction avec poussoir\n\nAvantages\nExtraction rapide, séparation efficace du jus et de la pulpe, utilisation et nettoyage faciles grâce aux éléments amovibles, design moderne\n\nContenu de la boîte\n1 bloc moteur centrifugeuse Slivers Crest, couvercle avec cheminée et poussoir, bac à pulpe, pichet à jus, notice d’utilisation\n\nDimensions du produit (cm)\n\n Largeur : ~30,0 à 35,0 cm\n\n Profondeur : ~20,0 à 25,0 cm\n\n Hauteur : ~35,0 à 40,0 cm\n\nSKU\n700000000000064",
+     "short_description": "Préparez de délicieux jus de fruits et de légumes frais chaque jour avec cette centrifugeuse électrique . Dotée d’un corps élégant rouge et noir, d’un large goulot d’insertion, de sélecteurs de vitesse et de bacs de récupération transparents, elle offre une extraction rapide et efficace pour toute la famille."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/9e321cbb-f385-4c8e-94c0-fa6583bc2593.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T105712.919.png"
    ]
   },
   {
-   "sku": "doshift-121792",
-   "price": 139,
+   "sku": "doshift-125883",
+   "price": 239,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -144,18 +86,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lot de 3 Planches à Découper en Bambou Tailles Assorties",
-     "description": "Complet et hygiénique, le lot de 3 planches à découper en bambou AZATECH NEG-WDD-613-20 couvre l’intégralité de vos besoins de préparation culinaire et de dressage. Ses deux planches rectangulaires à poignée intégrée offrent de larges surfaces robustes pour émincer légumes et viandes sans émousser vos couteaux, tandis que la troisième planche à manche long et rigole périphérique excelle pour le découpage des pièces rôties ou le service de charcuteries à table.\n\nCaractéristique\nSpécification Détaillée\n\nType\nEnsemble de 3 planches à découper et de présentation en bambou\n\nContenu\n1 planche à manche long + 1 planche moyenne + 1 grande planche à poignée\n\nMatériaux\nBambou naturel massif lamellé vertical haute résistance aux lames\n\nDimensions\nGrande (38 × 26 cm), Moyenne (32 × 22 cm), Modèle à manche (35 × 18 cm)\n\nConditionnement\nPack de 3 planches (Colisage grossiste B2B : 20 lots / carton)\n\nSKU\n9900010930698",
-     "short_description": "Lot de 3 planches à découper en bambou massif de tailles assorties avec poignées et rigole à jus."
+     "name": "Bouilloire Électrique – Bouilloire Sans Fil Design Blanc et Or Rose avec Affichage",
+     "description": "Apportez une touche d’élégance à votre cuisine avec cette bouilloire électrique  au design moderne blanc et or rose. Dotée d’une poignée ergonomique, d’un corps texturé et d’une fenêtre de contrôle avec écran, elle allie esthétisme et rapidité pour faire bouillir votre eau au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nBouilloire électrique / Bouilloire sans fil\n\nMarque\nBrittany\n\nModèle\nBouilloire électrique design texturé\n\nCouleur\nBlanc et Or Rose / Cuivré\n\nCompatibilité\nCuisine domestique, préparation de thé, café et infusions\n\nFonctionnalités\nCorps texturé avec finitions dorées, affichage numérique / panneau de contrôle en façade, couvercle amovible, poignée ergonomique, socle d’alimentation avec câble électrique\n\nAvantages\nChauffe rapide, design sophistiqué qui s’intègre parfaitement dans les cuisines modernes, manipulation sans fil pratique\n\nContenu de la boîte\n1 bouilloire électrique Brittany, 1 socle d’alimentation, notice d’utilisation\n\nDimensions du produit (cm)\n\n Diamètre de la base : ~15,0 à 18,0 cm\n\n Hauteur totale : ~22,0 à 25,0 cm\n\nSKU\n700000000000288",
+     "short_description": "Apportez une touche d’élégance à votre cuisine avec cette bouilloire électrique  au design moderne blanc et or rose. Dotée d’une poignée ergonomique, d’un corps texturé et d’une fenêtre de contrôle avec écran, elle allie esthétisme et rapidité pour faire bouillir votre eau au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/699a207c-8d55-42b5-a522-7eb25731e33a.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T101717.216.png"
    ]
   },
   {
-   "sku": "doshift-121785",
-   "price": 129,
+   "sku": "doshift-125876",
+   "price": 345,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -163,18 +105,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Plateau Tournant Rond Lazy Susan en Bambou 360°",
-     "description": "Idéal pour le partage convivial à table ou l’organisation intelligente des placards de cuisine, le plateau tournant Lazy Susan AZATECH NEG-WDD-616-50 pivote à 360° d’un simple geste. Sa large surface en bambou massif de 30 cm permet à chaque convive d’accéder aisément aux sauces, tapas, fromages et mignardises sans avoir à passer les plats.\n\nCaractéristique\nSpécification Détaillée\n\nType\nPlateau de service tournant rond (« Lazy Susan ») à rotation 360°\n\nMatériaux\nBambou naturel massif lamellé-collé et axe de rotation métallique central\n\nMécanisme\nSocle circulaire rotatif en bambou (Ø 14 cm) fixé sur roulement fluide\n\nDimensions\nDiamètre plateau 30 cm × Hauteur totale 3,0 cm (socle rotatif inclus)\n\nConditionnement\nPlateau tournant assemblé (Colisage grossiste B2B : 50 pièces / carton)\n\nSKU\n9900010930681",
-     "short_description": "Plateau tournant rond Lazy Susan Ø 30 cm en bambou massif avec rotation fluide à 360°"
+     "name": "Aspirateur Balai Sans Fil – Aspirateur Cyclonique 2-en-1 avec Accessoires Rouge et Noir",
+     "description": "Simplifiez l’entretien de votre maison avec cet aspirateur balai sans fil au design élégant rouge et noir. Léger et polyvalent, il se transforme facilement en aspirateur à main et comprend plusieurs accessoires pour nettoyer efficacement les sols, les tapis et les recoins difficiles.\n\nCaractéristique\nDétail\n\nType de produit\nAspirateur balai sans fil / Aspirateur à main 2-en-1\n\nMarque\nSonifer\n\nModèle\nAspirateur balai cyclonique avec kit d’embouts\n\nCouleur\nRouge, Noir et Argent\n\nCompatibilité\nSols durs, tapis, ameublement, recoins et espaces exigus\n\nFonctionnalités\nFonctionnement sans fil, réservoir à poussière transparent, tube d’extension rigide, brosse principale pour sol, brosse de nettoyage et suceur pour coins\n\nAvantages\nGrande liberté de mouvement sans cordon, format convertible pour un nettoyage du sol au plafond, vidage facile et rapide du bac à poussière\n\nContenu de la boîte\n1 bloc moteur aspirateur Sonifer, 1 tube d’extension, têtes de brosse interchangeables, chargeur, notice d’utilisation\n\nDimensions du produit (cm)\n\n Longueur du tube d’extension : ~60,0 cm\n\n Hauteur totale assemblée : ~105,0 à 110,0 cm\n\n Largeur de la brosse principale : ~22,0 cm\n\nSKU\n700000000000066",
+     "short_description": "Simplifiez l’entretien de votre maison avec cet aspirateur balai sans fil au design élégant rouge et noir. Léger et polyvalent, il se transforme facilement en aspirateur à main et comprend plusieurs accessoires pour nettoyer efficacement les sols, les tapis et les recoins difficiles."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/ceca5ca7-abad-41b5-8465-ac10bff472e4.webp"
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-17T100108.673.png"
    ]
   },
   {
-   "sku": "doshift-121777",
-   "price": 99,
+   "sku": "doshift-125820",
+   "price": 215,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -182,13 +124,70 @@
    ],
    "locales": {
     "fr": {
-     "name": "Planche et Dessous de Plat Rond en Bambou Rainuré",
-     "description": "Polyvalent et robuste, le plateau rond en bambou AZATECH NEG-WDD-615-50 fait office à la fois de planche à pain ramasse-miettes et de grand dessous de plat isolant pour la table. Ses neuf sillons circulaires concentriques favorisent la circulation de l’air sous les récipients brûlants tout en retenant les miettes lors de la découpe.\n\nCaractéristique\nSpécification Détaillée\n\nType\nPlanche à pain ronde et grand dessous de plat à sillons concentriques\n\nMatériaux\nBambou naturel massif lamellé résistant à la chaleur et aux coupures\n\nConception\nDisque circulaire usiné de 9 sillons concentriques en cible\n\nDimensions\nDiamètre 26 cm × Épaisseur 1,5 cm (grande assise pour cocottes et pains)\n\nConditionnement\nDisque monobloc réversible (Colisage grossiste B2B : 50 pièces / carton)\n\nSKU\n9900010930674",
-     "short_description": "Planche ronde et dessous de plat Ø 26 cm en bambou massif avec 9 sillons concentriques."
+     "name": "Chauffage d’Appoint Halogène – Radiateur Chauffant Vertical Blanc avec Boutons de Commande",
+     "description": "Réchauffez rapidement vos espaces de vie avec ce radiateur d’appoint halogène vertical de la marque. Doté d’un boîtier blanc épuré, d’une poignée de transport intégrée, de boutons de commande frontaux et d’une grille de protection métallique, il offre une chaleur instantanée et un confort thermique appréciable pour l’hiver.\n\nCaractéristique\nDétail\n\nType de produit\nChauffage d’appoint / Radiateur halogène vertical\n\nMarque\nRAF\n\nModèle\nChauffage halogène vertical avec interrupteurs\n\nCouleur\nBlanc\n\nCompatibilité\nPièces intérieures, salons, chambres, bureaux\n\nFonctionnalités\nTubes chauffants halogènes, boutons interrupteurs de contrôle en façade, grille de protection métallique ajourée, poignée de transport ergonomique sur le dessus\n\nAvantages\nMontée en température rapide et directe, manipulation aisée grâce aux commandes frontales, design compact et facilement transportable\n\nContenu de la boîte\n1 chauffage d’appoint halogène , notice d’utilisation\n\nDimensions du produit (cm)\n\n Largeur : ~25,0 cm\n\n Profondeur (socle) : ~15,0 à 18,0 cm\n\n Hauteur : ~35,0 à 40,0 cm\n\nSKU\n700000000000173",
+     "short_description": "Réchauffez rapidement vos espaces de vie avec ce radiateur d’appoint halogène vertical de la marque . Doté d’un boîtier blanc épuré, d’une poignée de transport intégrée, de boutons de commande frontaux et d’une grille de protection métallique, il offre une chaleur instantanée et un confort thermique appréciable pour l’hiver."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/b925559d-de3e-4082-b121-a4676251a530.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T213427.808.png"
+   ]
+  },
+  {
+   "sku": "doshift-125792",
+   "price": 345,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chauffage d’Appoint Halogène – Radiateur Soufflant / Chauffant Vertical Oscillant Gris et Argent",
+     "description": "Réchauffez rapidement votre intérieur avec ce radiateur d’appoint halogène vertical. Doté d’une poignée de transport, d’un thermostat réglable avec plusieurs niveaux de chauffe et d’une conception oscillante sécurisée, il diffuse une chaleur enveloppante idéale pour les pièces à vivre ou les bureaux.\n\nCaractéristique\nDétail\n\nType de produit\nChauffage d’appoint / Radiateur halogène\n\nMarque\nNon spécifié\n\nModèle\nChauffage halogène vertical oscillant\n\nCouleur\nGris et Argent\n\nCompatibilité\nPièces intérieures, salons, chambres, bureaux\n\nFonctionnalités\nTubes chauffants halogènes, sélecteur rotatif de puissance multi-niveaux, grille de protection métallique, fonction d’oscillation, poignée de transport ergonomique\n\nAvantages\nChauffe instantanée, répartition homogène de la chaleur grâce à l’oscillation, facile à déplacer d’une pièce à l’autre\n\nContenu de la boîte\n1 chauffage d’appoint halogène, notice d’utilisation\n\nDimensions du produit (cm)\n\n Largeur : ~25,0 à 30,0 cm\n\n Profondeur (socle) : ~25,0 cm\n\n Hauteur : ~50,0 à 55,0 cm\n\nSKU\n700000000000175",
+     "short_description": "Réchauffez rapidement votre intérieur avec ce radiateur d’appoint halogène vertical. Doté d’une poignée de transport, d’un thermostat réglable avec plusieurs niveaux de chauffe et d’une conception oscillante sécurisée, il diffuse une chaleur enveloppante idéale pour les pièces à vivre ou les bureaux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T201253.584.png"
+   ]
+  },
+  {
+   "sku": "doshift-125783",
+   "price": 419,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aspirateur Balai Sans Fil – Aspirateur Cyclonique 2-en-1 avec Accessoires Multi-Usages Rouge et Noir",
+     "description": "Simplifiez l’entretien de votre intérieur avec cet aspirateur balai sans fil  au design moderne rouge et noir. Léger, polyvalent et doté d’une technologie cyclonique avec plusieurs embouts interchangeables, il se transforme facilement en aspirateur à main pour un nettoyage efficace du sol au plafond.\n\nCaractéristique\nDétail\n\nType de produit\nAspirateur balai sans fil / Aspirateur cyclonique 2-en-1\n\nMarque\nItimat\n\nModèle\nAspirateur balai avec kit d’accessoires et tube en aluminium\n\nCouleur\nRouge, Noir et Argent\n\nCompatibilité\nSols durs, tapis, canapés, recoins étroits, intérieur de voiture\n\nFonctionnalités\nFonctionnement sans fil, bloc moteur cyclonique avec bac à poussière transparent, tube d’extension rigide, suceur plat, brosse ameublement et embouts spécialisés\n\nAvantages\nGrande maniabilité sans cordon, format convertible pour atteindre les zones hautes ou exigües, vidage facile du bac à poussière, design ergonomique\n\nContenu de la boîte\n1 bloc moteur aspirateur, 1 tube d’extension, 1 brosse principale pour sol, kit de plusieurs embouts et suceurs, chargeur, notice d’utilisation\n\nDimensions du produit (cm)\n\n Longueur du tube d’extension : ~60,0 à 70,0 cm\n\n Hauteur totale assemblée : ~105,0 à 115,0 cm\n\n Largeur de la brosse principale : ~22,0 à 25,0 cm\n\nSKU\n700000000000183",
+     "short_description": "Simplifiez l’entretien de votre intérieur avec cet aspirateur balai sans fil  au design moderne rouge et noir. Léger, polyvalent et doté d’une technologie cyclonique avec plusieurs embouts interchangeables, il se transforme facilement en aspirateur à main pour un nettoyage efficace du sol au plafond."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T191723.446.png"
+   ]
+  },
+  {
+   "sku": "doshift-125771",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Porte-Manteau Mural – Patère Murale 5 Crochets en Métal Beige et Bois",
+     "description": "Organisez votre entrée, votre chambre ou votre couloir avec style grâce à ce porte-manteau mural . Alliant une longue plaque en métal beige clair et cinq patères cylindriques en bois chaleureux, il se fixe facilement au mur pour suspendre manteaux, écharpes et accessoires avec élégance.\n\nCaractéristique\nDétail\n\nType de produit\nPorte-manteau mural / Patère murale\n\nMarque\n5five Simply Smart\n\nModèle\nPatère murale 5 crochets métal et bois\n\nCouleur\nBeige Clair et Bois Naturel / Marron\n\nCompatibilité\nMurs intérieurs (entrée, couloir, chambre, salle de bain)\n\nFonctionnalités\nPlaque support en métal avec trous de fixation aux extrémités, 5 patères cylindriques en bois espacées pour suspendre les affaires, design épuré et moderne\n\nAvantages\nOptimisation de l’espace mural, fixation solide, esthétique chaleureuse associant le métal et le bois, idéal pour suspendre vêtements et accessoire\n\nContenu de la boîte\n1 porte-manteau mural 5 crochets\n\nDimensions du produit (cm)\n\n Longueur : ~45,0 cm\n\n Largeur / Profondeur : ~6,0 à 8,0 cm\n\n Hauteur : ~10,0 cm\n\nSKU\n700000000000229",
+     "short_description": "Organisez votre entrée, votre chambre ou votre couloir avec style grâce à ce porte-manteau mural . Alliant une longue plaque en métal beige clair et cinq patères cylindriques en bois chaleureux, il se fixe facilement au mur pour suspendre manteaux, écharpes et accessoires avec élégance."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T183702.787.png"
    ]
   }
  ]

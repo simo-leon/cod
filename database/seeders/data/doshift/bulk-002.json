@@ -153,6 +153,25 @@
    ]
   },
   {
+   "sku": "doshift-124784",
+   "price": 59,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ballon de Football Bleu – Ballon Souple aux Couleurs et Logo du Real Madrid",
+     "description": "Affichez votre passion pour le football et votre club favori avec ce ballon bleu aux couleurs du Real Madrid. Conçu pour le jeu récréatif, la détente ou les jeunes supporters, il arbore fièrement le blason officiel du club et offre un toucher agréable pour s’amuser en extérieur comme en intérieur.\n\nCaractéristique\nDétail\n\nType de produit\nBallon de football / Ballon de loisir\n\nMarque\nNon spécifié (Produit sous licence / style club)\n\nModèle\nBallon de football aux motifs du Real Madrid\n\nCouleur\nBleu, Blanc et Doré\n\nCompatibilité\nJeux de plein air, jardin, plage, entraînement loisir, supporters\n\nFonctionnalités\nBlason du club imprimé avec couronne royale, surface synthétique lisse et résistante\n\nAvantages\nIdéal pour les fans de football, excellente idée cadeau, toucher souple et agréable\n\nContenu de la boîte\n1 ballon de football\n\nSKU\n9900004550200",
+     "short_description": "Affichez votre passion pour le football et votre club favori avec ce ballon bleu aux couleurs du Real Madrid. Conçu pour le jeu récréatif, la détente ou les jeunes supporters, il arbore fièrement le blason officiel du club et offre un toucher agréable pour s’amuser en extérieur comme en intérieur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-67.png"
+   ]
+  },
+  {
    "sku": "doshift-124689",
    "price": 105,
    "stock": 10,
@@ -169,25 +188,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-44.png"
-   ]
-  },
-  {
-   "sku": "doshift-124338",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Jeu de Tapis de Sol pour Voiture Effet Aluminium – Set 5 Pièces Universel Antidérapant",
-     "description": "Protégez et customisez l’habitacle de votre véhicule avec ce set de 5 tapis de sol pour voiture à l’effet aluminium damé. Conçus pour toutes les saisons et résistants à l’usure, ils offrent une protection optimale contre la saleté, l’eau et la boue tout en apportant un look sportif et moderne à votre intérieur.\n\nCaractéristique\nDétail\n\nType de produit\nTapis de sol universels pour voiture\n\nMarque\nNon spécifié\n\nModèle\nKHF-7008 (Set de 5 pièces)\n\nCouleur\nArgenté (Effet aluminium damé)\n\nCompatibilité\nUniverselle (adaptable pour la plupart des véhicules, voitures, berlines, SUV)\n\nFonctionnalités\nSet complet de 5 pièces, protection toutes saisons, surface texturée antidérapante, entretien facile\n\nAvantages\nDesign sportif type plaque de tôle, protège efficacement les sols d’origine contre l’humidité et les salissures\n\nContenu de la boîte\n1 set de 5 tapis de sol (avant et arrière)\n\nDimensions du produit (cm)\n\n Tapis avant (x2) :\n\n– Longueur : 70,0 cm\n\n– Largeur : 50,0 cm\n\nTapis arrière (x2) :\n\n– Longueur : 45,0 cm\n\n– Largeur : 45,0 cm\n\nÉpaisseur : 1,5 cm\n\nSKU\n990007000671",
-     "short_description": "Protégez et customisez l’habitacle de votre véhicule avec ce set de 5 tapis de sol pour voiture à l’effet aluminium damé. Conçus pour toutes les saisons et résistants à l’usure, ils offrent une protection optimale contre la saleté, l’eau et la boue tout en apportant un look sportif et moderne à votre intérieur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T214537.580.png"
    ]
   }
  ]

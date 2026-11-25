@@ -1,64 +1,7 @@
 {
  "products": [
   {
-   "sku": "doshift-52288",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Economiseur d’énergie électrique",
-     "description": "Découvrez les avantages d’un éconimiseur d’énergie électrique. Vous pouvez l’utiliser dans nombreux endroits, tels que votre maison, bureau ou votre entreprise. Il permer non seulementd’économiser de l’énergie électrique, mais il protège également les appareils électriques des courants forts et faibles qui les endommagent. Il suffit de le connecter à l’électricité et il démarrera automatiquement le processus d’économisation. Lorsque vous installez l’appareil, il tire entre 30% et 50% de votre consommation et l’empêche d’aller au compteur principale. Les mêmes appareils électriques, la même consommation quotidienne d’électricité, mais pas le même coût de la facture d’électricité\n\npoids144gVoltage: 90v-250vCharge effective: 15,000 W",
-     "short_description": "Découvrez les avantages d’un éconimiseur d’énergie électrique. Vous pouvez l’utiliser dans nombreux endroits, tels que votre maison, bureau ou votre entreprise."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1766837178-16_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-52286",
-   "price": 86,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Semelles Médical d’augmentation de hauteur",
-     "description": "Une semelle intérieure à air adaptée aux personnes spéciales, Dawit Al Hajj, est une semelle intérieure qui vous permet d’agrandir votre pied.",
-     "short_description": "Une semelle intérieure à air adaptée aux personnes spéciales, Dawit Al Hajj, est une semelle intérieure qui vous permet d’agrandir votre pied."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1766837173-14_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-52124",
-   "price": 289,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lanterne de Cheminée LED Décorative – Flamme Artificielle Sans Chaleur, Portable à Piles ou USB",
-     "description": "Cette lanterne de cheminée LED à flamme artificielle recrée l’effet d’un feu réaliste sans chaleur ni danger. Son design rétro élégant apporte une ambiance chaleureuse et cosy à votre intérieur. Fonctionnant sans flamme réelle, elle est idéale pour la décoration de table, de cheminée ou d’événements festifs comme Noël, Halloween ou l’automne.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLanterne de cheminée LED décorative\n\nEffet lumineux\nFlamme artificielle réaliste\n\nChaleur\nAucune (décorative uniquement)\n\nAlimentation\n3 piles AA (non incluses) ou câble USB\n\nSécurité\nSans flamme réelle, sans risque\n\nUtilisation\nDécoration intérieure et extérieure\n\nOccasions\nNoël, Halloween, automne, maison\n\nDesign\nRétro, style mini cheminée\n\nDimensions\nEnviron 33 × 20,3 × 10,5 cm\n\nMobilité\nPortable et facile à déplacer\n\nInstallation\nÀ poser (table, cheminée, meuble)\n\nAvantage clé\nAmbiance chaleureuse sans danger\n\nRéférence Doshift\nAA16BB099",
-     "short_description": "Cette lanterne de cheminée LED à flamme artificielle recrée l’effet d’un feu réaliste sans chaleur ni danger. Son design rétro élégant apporte une ambiance chaleureuse et cosy à votre intérieur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_ng278bng278bng27-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-52131",
+   "sku": "doshift-54509",
    "price": 139,
    "stock": 10,
    "status": 0,
@@ -68,96 +11,37 @@
    ],
    "locales": {
     "fr": {
-     "name": "Brosse Anti-Poils Réutilisable avec Base Auto-Nettoyante",
-     "description": "Éliminez facilement les poils d’animaux sur vos canapés, vêtements, tapis, coussins et sièges auto avec cette brosse anti-poils réutilisable. Sa surface double face permet un nettoyage rapide et efficace sans rouleaux adhésifs ni recharges jetables.\n\nIdéale pour une utilisation quotidienne à la maison, en voiture ou en voyage, cette brosse offre une solution propre, durable et facile à utiliser pour garder vos textiles nets.\n\nCaractéristique\nDétail\n\nProduit\nBrosse anti-poils réutilisable\n\nFonction\nRetire les poils d’animaux, peluches et fibres sur textiles\n\nType\nBrosse double face avec base auto-nettoyante\n\nUtilisation\nCanapés, vêtements, tapis, coussins, sièges auto\n\nAvantage principal\nNettoyage rapide sans rouleau adhésif ni recharge\n\nRéutilisable\nOui\n\nBase incluse\nOui, base auto-nettoyante pour retirer les poils de la brosse\n\nMini brosse incluse\nOui, pratique pour voyage, voiture ou petits textiles\n\nCouleur\nBleu et blanc\n\nMatière\nPlastique ABS + surface textile nettoyante\n\nEntretien\nInsérer la brosse dans la base puis la retirer pour enlever les poils\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Éliminez facilement les poils d’animaux sur vos canapés, vêtements, tapis, coussins et sièges auto avec cette brosse anti-poils réutilisable."
+     "name": "RS20 PRO – Huile Pénétrante Anti-Rouille 480ml",
+     "description": "La RS20 PRO est une huile pénétrante hautes performances conçue pour éliminer la rouille, débloquer les pièces grippées et lubrifier les mécanismes. Idéale pour ateliers, garages, usage domestique ou marin, elle garantit une action rapide et durable tout en étant sans silicone.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nModèle\nRS20 PRO\n\nFonction\nHuile pénétrante / anti-rouille / lubrification\n\nVolume\n480ml \n\nFormule\nSans silicone\n\nActions principales\nDégrippe, lubrifie, protège\n\nDomaines d’usage\nGarage, maison, auto, marine\n\nEffets\nStop grincements, débloque écrous/boulons, protège contre corrosion\n\nPénétration rapide\nOui\n\nSéchage\nRapide\n\nProtection anti-rouille\nOui\n\nNettoyage\nCompatible surfaces métalliques\n\nRéférence-doshift\nAA6BB099",
+     "short_description": "La RS20 PRO est une huile pénétrante hautes performances conçue pour éliminer la rouille, débloquer les pièces grippées et lubrifier les mécanismes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-04-24T171614.922.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_wsjjolwsjjolwsjj-1-1.png"
    ]
   },
   {
-   "sku": "doshift-51774",
-   "price": 229,
+   "sku": "doshift-54358",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    6
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Station de Charge RGB pour Nintendo Switch 2 – Chargeur 4 Joy-Con USB-C",
-     "description": "La station de charge RGB pour Nintendo Switch 2 est l’accessoire indispensable pour un setup gaming propre, organisé et stylé. Conçue spécialement pour la Nintendo Switch 2 (édition 2025), elle permet de recharger simultanément jusqu’à 4 manettes Joy-Con.Son éclairage LED RGB réglable apporte une touche gaming moderne, tandis que sa conception compacte, légère et robuste en fait un support idéal pour un usage quotidien. Facile à utiliser, il suffit de brancher le câble USB-C et d’insérer les Joy-Con pour lancer la charge automatiquement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nStation de charge pour manettes\n\nCompatibilité\nNintendo Switch 2 (2025)\n\nManettes compatibles\nJoy-Con Switch 2\n\nCapacité de charge\nJusqu’à 4 Joy-Con simultanément\n\nType de charge\nCharge filaire\n\nConnectique\nUSB Type-C\n\nÉclairage\nLED RGB réglable\n\nIndicateur de charge\nOui (LED intégrée)\n\nMatériaux\nABS + PP haute qualité\n\nDesign\nCompact, gaming, moderne\n\nInstallation\nPlug & Play (aucune configuration requise)\n\nUtilisation\nDomestique / Setup gaming\n\nPortabilité\nLéger et facile à transporter\n\nAlimentation\nVia câble USB-C\n\nCouleur\nNoir (RGB multicolore)\n\nRéférence-doshift\nAA14BB099",
-     "short_description": "La station de charge RGB pour Nintendo Switch 2 est l’accessoire indispensable pour un setup gaming propre, organisé et stylé."
+     "name": "Perche Selfie Multifonction R16D avec Trépied & Poignée",
+     "description": "La perche selfie R16D est un accessoire indispensable pour les amateurs de photos, vidéos, vlogs et appels vidéo. Grâce à son design 2-en-1, elle peut être utilisée comme perche selfie classique ou comme trépied stable pour des prises de vue mains libres. Sa poignée ergonomique, son format pliable et compact, ainsi que sa compatibilité avec la majorité des smartphones en font un outil pratique, solide et facile à transporter au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPerche selfie multifonction\n\nModèle\nR16D\n\nFonctions\nPerche selfie + Trépied\n\nPoignée\nGrip ergonomique intégré\n\nSupport téléphone\nAjustable et sécurisé\n\nUtilisation\nPhotos, vidéos, vlogs, appels\n\nDesign\nPliable et compact\n\nMatériau\nAlliage métallique + ABS\n\nStabilité\nExcellente (mode trépied)\n\nCompatibilité\nSmartphones Android & iPhone\n\nCouleur\nNoir\n\nRéférence-doshift\nAA12BB099",
+     "short_description": "La perche selfie R16D est un accessoire indispensable pour les amateurs de photos, vidéos, vlogs et appels vidéo."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_1q7v5p1q7v5p1q7v-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-7-janv.-2026-20_10_11-1.png"
    ]
   },
   {
-   "sku": "doshift-51660",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Manette Gaming USB 2.0 L6000 – Gamepad Double Shock",
-     "description": "La manette gaming USB L6000 est idéale pour les amateurs de jeux sur PC et consoles compatibles USB. Dotée de la technologie Double Shock (vibration), elle offre une immersion renforcée et un excellent confort de prise en main. Son design ergonomique, ses sticks analogiques précis et sa connexion USB 2.0 plug & play en font un excellent choix pour le gaming à petit budget, aussi bien pour les jeux d’action, de sport ou d’aventure.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nL6000\n\nType\nManette / Gamepad filaire\n\nTechnologie\nDouble Shock (vibration)\n\nConnexion\nUSB 2.0\n\nCompatibilité\nPC (Windows), consoles compatibles USB\n\nBoutons\n12 boutons + Start / Select\n\nSticks analogiques\n2 sticks analogiques\n\nD-Pad\nDirectionnel 4 voies\n\nInstallation\nPlug & Play (sans pilote)\n\nDesign\nErgonomique, antidérapant\n\nCouleur\nNoir\n\nLongueur du câble\nEnviron 1,5 m\n\nUtilisation\nGaming PC / émulateurs\n\nRéférence-Doshift\nAA6BB099",
-     "short_description": "La manette gaming USB L6000 est idéale pour les amateurs de jeux sur PC et consoles compatibles USB."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-23-dec.-2025-17_33_32-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-51654",
-   "price": 389,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clavier Mécanique Gaming T-WOLF T30 – Compact & Performant",
-     "description": "Le clavier mécanique T-WOLF T30 est conçu pour les gamers et utilisateurs exigeants qui recherchent performance, confort et design compact. Grâce à son format compact, ses switches mécaniques réactifs et sa connexion filaire stable, il offre une frappe précise idéale pour le gaming, la bureautique et la programmation. Son design moderne et robuste en fait un excellent choix pour un setup gaming ou professionnel, tout en restant accessible en prix.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nT-WOLF\n\nModèle\nT30\n\nType\nClavier mécanique\n\nFormat\nCompact (60% / TKL selon version)\n\nSwitches\nSwitches mécaniques\n\nRétroéclairage\nLED / RGB (selon version)\n\nConnexion\nFilaire USB\n\nDisposition\nQWERTY\n\nTouches\nKeycaps résistantes\n\nErgonomie\nDesign compact, gain de place\n\nUtilisation\nGaming, bureautique, programmation\n\nCompatibilité\nWindows, macOS\n\nCouleur\nNoir\n\nRéférence-doshift\nAA28BB099",
-     "short_description": "Le clavier mécanique T-WOLF T30 est conçu pour les gamers et utilisateurs exigeants qui recherchent performance, confort et design compact."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-23-dec.-2025-17_00_33-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-51646",
-   "price": 289,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clavier Mécanique Personnalisé RGB – Compact & Performant",
-     "description": "Optimisez votre expérience de frappe et de jeu avec ce clavier mécanique personnalisé au design compact, pensé pour les passionnés de performance, de style et de précision. Doté d’un rétroéclairage RGB dynamique, de switches mécaniques personnalisables et d’une connectivité USB-C détachable, il offre un confort de frappe exceptionnel et une excellente réactivité. Son format compact libère de l’espace sur le bureau tout en conservant l’essentiel pour le gaming, la programmation et le travail professionnel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de clavier\nClavier mécanique personnalisé\n\nFormat\nCompact (60% / 65% selon configuration)\n\nSwitches\nSwitches mécaniques personnalisables\n\nRétroéclairage\nRGB multicolore avec effets lumineux\n\nTouches\nKeycaps ergonomiques haute qualité\n\nErgonomie\nHauteur optimisée pour un meilleur confort\n\nConnectivité\nUSB-C détachable\n\nCompatibilité\nWindows, macOS, Linux\n\nUtilisation\nGaming, bureautique, programmation\n\nDesign\nModerne, compact et élégant\n\nCouleurs\nMulticolore (blanc, bleu, orange)\n\nMatériau\nPlastique renforcé + composants mécaniques\n\nRéférence-Doshift\nAA18BB099",
-     "short_description": "Optimisez votre expérience de frappe et de jeu avec ce clavier mécanique personnalisé au design compact, pensé pour les passionnés de performance, de style et de précision."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_8xv9b68xv9b68xv9-1-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-51628",
+   "sku": "doshift-54347",
    "price": 149,
    "stock": 10,
    "status": 0,
@@ -167,18 +51,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Perche à Selfie Trépied Z5s – Version Blanche",
-     "description": "Capturez vos selfies, vidéos et lives plus facilement avec la perche à selfie trépied Z5s. Compacte et pliable, elle combine une perche télescopique, un support téléphone rotatif et un trépied intégré pour une utilisation pratique partout : voyage, vlog, appels vidéo, photos de groupe ou création de contenu.\n\nSa télécommande Bluetooth détachable permet de prendre des photos à distance sans toucher le téléphone. Son design blanc moderne la rend élégante, légère et facile à transporter.\n\nCaractéristique\nDétail\n\nProduit\nPerche à selfie avec trépied intégré\n\nModèle\nZ5s\n\nCouleur\nBlanc\n\nFonction principale\nSelfie, vidéo, live, appel vidéo, photo de groupe\n\nConnexion\nTélécommande Bluetooth détachable\n\nRotation\nSupport téléphone rotatif 360°\n\nStructure\nTige télescopique extensible\n\nBase\nTrépied pliable intégré\n\nDesign\nCompact, léger et facile à transporter\n\nUtilisation\nVoyage, bureau, maison, extérieur, création de contenu\n\nCompatibilité\nSmartphones standards\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Capturez vos selfies, vidéos et lives plus facilement avec la perche à selfie trépied Z5s."
+     "name": "Selfie Stick R1-L – Compact, Solide & Idéal pour Vos Photos",
+     "description": "Le Selfie Stick R1-L est l’accessoire indispensable pour réussir vos selfies, vidéos et appels vidéo en toute simplicité. Grâce à son design compact et pliable, il se transporte facilement dans un sac ou une poche. Robuste et léger, il offre une prise en main confortable et une excellente stabilité pour capturer des images nettes lors de vos voyages, sorties ou contenus pour les réseaux sociaux.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nR1-L\n\nType de produit\nSelfie stick\n\nMatériau\nAlliage robuste + plastique renforcé\n\nDesign\nPliable et compact\n\nCompatibilité\nSmartphones Android & iOS\n\nUtilisation\nSelfies, vidéos, appels vidéo, vlogs\n\nPrise en main\nErgonomique et antidérapante\n\nTransport\nFacile à ranger et à transporter\n\nCouleur\nNoir\n\nRéférence-doshift\nAA9BB099",
+     "short_description": "Le Selfie Stick R1-L est l’accessoire indispensable pour réussir vos selfies, vidéos et appels vidéo en toute simplicité. Grâce à son design compact et pliable, il se transporte facilement dans un sac ou une poche."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-06-27T150451.038.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_caicj0caicj0caic-1-1.png"
    ]
   },
   {
-   "sku": "doshift-51590",
-   "price": 269,
+   "sku": "doshift-54367",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -187,13 +71,131 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Vidéo LED RGB Rechargeable – Éclairage Annulaire Portable pour Selfies & Diffusion en Direct",
-     "description": "La lampe vidéo LED RGB rechargeable est l’accessoire idéal pour améliorer instantanément la qualité de vos photos et vidéos. Conçue pour les créateurs de contenu, vloggers, maquilleurs, streameurs et utilisateurs de réseaux sociaux, elle offre un éclairage annulaire puissant avec effets RGB dynamiques, parfait pour TikTok, YouTube, Instagram ou les lives.Grâce à sa température de couleur réglable, sa luminosité ajustable et sa fonction de stabilisation, elle garantit des images nettes, bien éclairées et professionnelles. Son design compact, ergonomique et portable permet une utilisation facile à la maison comme en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLampe vidéo LED RGB portable\n\nType d’éclairage\nAnneau lumineux LED RGB\n\nModes lumineux\n45 modes RGB (flash, fondu, pulsation, ambiance, fête…)\n\nTempérature de couleur\n2500K – 8500K\n\nRéglage de luminosité\n10 % à 100 %\n\nFonction stabilisation\nOui (poignée stabilisatrice intégrée)\n\nUtilisation\nSelfies, vidéos, streaming, maquillage, photographie\n\nCompatibilité\nSmartphones, caméras, GoPro\n\nAlimentation\nBatterie rechargeable\n\nCapacité batterie\n4400 mAh\n\nAutonomie\nEnviron 2 à 3 heures\n\nRecharge\nUSB\n\nDesign\nErgonomique, compact et portable\n\nUsage\nIntérieur & extérieur\n\nRéférence-doshift\nAA15BB099",
-     "short_description": "La lampe vidéo LED RGB rechargeable est l’accessoire idéal pour améliorer instantanément la qualité de vos photos et vidéos."
+     "name": "Perche Selfie Compacte R1-L – Légère & Pratique",
+     "description": "La perche selfie R1-L est l’accessoire idéal pour capturer facilement vos selfies, vidéos et appels vidéo. Grâce à son design compact et pliable, elle se glisse facilement dans un sac ou une poche. Simple d’utilisation, légère et robuste, elle convient parfaitement à un usage quotidien, que ce soit en déplacement, en voyage ou à la maison.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPerche selfie\n\nModèle\nR1-L\n\nUtilisation\nSelfies, vidéos, appels vidéo\n\nDesign\nCompact et pliable\n\nPoignée\nErgonomique\n\nSupport téléphone\nAjustable\n\nMatériau\nABS robuste\n\nCompatibilité\nSmartphones Android & iPhone\n\nCouleur\nNoir\n\nRéférence-doshift\nAA8BB099",
+     "short_description": "La perche selfie R1-L est l’accessoire idéal pour capturer facilement vos selfies, vidéos et appels vidéo. Grâce à son design compact et pliable, elle se glisse facilement dans un sac ou une poche."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_7ianys7ianys7ian-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-7-janv.-2026-20_18_20-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-54352",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble de Charge 3-en-1 Super Rapide 120W – 6A (Zinc Alloy)",
+     "description": "Le câble de charge 3-en-1 120W est la solution idéale pour charger plusieurs appareils avec un seul câble. Grâce à sa puissance élevée de 120W (6A), il assure une charge ultra-rapide et stable pour smartphones, tablettes et autres appareils compatibles. Sa conception en alliage de zinc renforcé garantit une excellente durabilité, tandis que l’indicateur LED permet de visualiser facilement l’état de charge. Pratique, robuste et économique, il est parfait pour un usage quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCâble de charge & données\n\nConfiguration\n3-en-1\n\nConnecteurs\nUSB → Micro-USB / Type-C / Lightning\n\nPuissance maximale\n120W\n\nCourant\n6A\n\nTechnologie\nCharge rapide (Quick Charge)\n\nMatériau\nAlliage de zinc + câble renforcé\n\nIndicateur\nLED Soft Indicator\n\nUtilisation\nCharge & transfert de données\n\nCompatibilité\nAndroid, iPhone, appareils USB\n\nCouleur\nOrange\n\nModèle\nS-219\n\nRéférence-doshift\nAA1BB299",
+     "short_description": "Le câble de charge 3-en-1 120W est la solution idéale pour charger plusieurs appareils avec un seul câble."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-7-janv.-2026-20_01_50-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-54303",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lecteur de Glycémie Numérique – Blood Glucose Monitor",
+     "description": "Le lecteur de glycémie numérique est conçu pour un suivi simple, rapide et fiable du taux de sucre dans le sang. Grâce à une lecture en seulement 5 secondes et à une micro-collecte de sang, il offre un confort d’utilisation optimal au quotidien. Son écran large et lisible facilite la lecture des résultats, tandis que sa mémoire interne étendue permet de conserver l’historique des mesures. Idéal pour un usage personnel à domicile.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLecteur de glycémie (Blood Glucose Monitor)\n\nTemps de mesure\nEnviron 5 secondes\n\nMéthode\nMicro-collecte de sang\n\nAffichage\nÉcran numérique large\n\nLisibilité\nChiffres clairs et visibles\n\nMémoire\nCapacité étendue pour l’historique\n\nUtilisation\nSuivi du taux de glucose\n\nErgonomie\nCompact et facile à utiliser\n\nAlimentation\nBatterie (selon modèle)\n\nUsage\nDomestique / personnel\n\nRéférence-doshift\nAA9BB099",
+     "short_description": "Le lecteur de glycémie numérique est conçu pour un suivi simple, rapide et fiable du taux de sucre dans le sang."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_epvcr1epvcr1epvc-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-54206",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dôme Diffuseur Pliable AK-R22 pour Flash Godox Rond",
+     "description": "Optimisez vos prises de vue avec le dôme diffuseur pliable AK-R22, conçu pour adoucir la lumière de votre flash et offrir un éclairage homogène et naturel. Idéal pour les photographes professionnels et amateurs, cet accessoire améliore la diffusion lumineuse en réduisant les ombres dures et en créant un rendu plus doux et équilibré.\n\nCompact, léger et facile à transporter, il se fixe rapidement sur les flashes compatibles à tête ronde Godox. Sa conception pliable permet un rangement pratique tout en garantissant une performance optimale en studio comme en déplacement.\n\nCaractéristique\nDétail\n\nType de produit\nDôme diffuseur pliable pour flash\n\nModèle\nAK-R22\n\nCompatibilité\nFlashs Godox à tête ronde\n\nFonction\nDiffusion douce et uniforme de la lumière\n\nDesign\nPliable et portable\n\nMatière\nSilicone / matériau diffusant haute qualité\n\nUtilisation\nStudio photo, portrait, événementiel\n\nRéférence Doshift\nAA19BB199",
+     "short_description": "Optimisez vos prises de vue avec le dôme diffuseur pliable AK-R22, conçu pour adoucir la lumière de votre flash et offrir un éclairage homogène et naturel."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-04-14T143418.906.png"
+   ]
+  },
+  {
+   "sku": "doshift-54184",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Humidificateur d’Air Galaxie – Brume Apaisante & Design Spatial",
+     "description": "Améliorez le confort de votre intérieur tout en apportant une touche décorative originale grâce à cet humidificateur d’air au design inspiré de l’univers spatial. Il diffuse une brume fine et continue qui contribue à maintenir un niveau d’humidité agréable, idéal pour la maison, le bureau ou la chambre. Son format compact et son effet visuel apaisant créent une atmosphère relaxante, parfaite pour la détente, le travail ou le sommeil.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nHumidificateur d’air décoratif\n\nFonction principale\nDiffusion de brume fine pour humidifier l’air\n\nCapacité du réservoir\n330 ml\n\nDesign\nForme de planète, style moderne et décoratif\n\nUtilisation\nMaison, bureau, chambre\n\nEffet\nAméliore le confort respiratoire et l’ambiance\n\nAvantages\nCompact, esthétique, facile à utiliser\n\nRéférence-doshift\nAA16BB999",
+     "short_description": "Améliorez le confort de votre intérieur tout en apportant une touche décorative originale grâce à cet humidificateur d’air au design inspiré de l’univers spatial."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/116acb93-c7bc-433a-b9de-86a3bcae062a.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-54177",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis de Souris Gaming X-2 – Précision & Confort",
+     "description": "Le tapis de souris X-2 est conçu pour offrir une glisse fluide et précise, idéale aussi bien pour le travail que pour le gaming. Grâce à sa surface optimisée, il améliore la réactivité de la souris tout en assurant un excellent confort d’utilisation. Son design moderne et coloré apporte une touche stylée à votre bureau ou setup gaming.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTapis de souris\n\nModèle\nX-2\n\nSurface\nLisse et précise\n\nCompatibilité\nSouris optique & laser\n\nBase\nAntidérapante\n\nDesign\nModerne / Gaming\n\nUtilisation\nBureau, gaming, études\n\nDimensions\nStandard\n\nCouleurs\nMotifs variés (selon disponibilité)\n\nEntretien\nFacile à nettoyer\n\nreference-doshift\nAA0BB799",
+     "short_description": "Le tapis de souris X-2 est conçu pour offrir une glisse fluide et précise, idéale aussi bien pour le travail que pour le gaming."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_xtb7daxtb7daxtb7-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-54117",
+   "price": 779,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Volant Gaming PXN avec Pédales – Expérience de Conduite Réaliste",
+     "description": "Plongez au cœur de l’action avec le volant gaming PXN, conçu pour offrir une expérience de conduite immersive et réaliste. Grâce à son design ergonomique, sa prise en main confortable et ses pédales incluses, ce volant est idéal pour les jeux de course. Il reproduit fidèlement les sensations de conduite pour vous permettre de maîtriser chaque virage, accélération et freinage. Un excellent choix pour les amateurs de simulation automobile, aussi bien débutants que passionnés.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nPXN\n\nType de produit\nVolant gaming avec pédales\n\nAngle de rotation\nVolant large pour conduite réaliste\n\nCommandes\nBoutons intégrés + palettes\n\nPédales\nAccélérateur et frein inclus\n\nFixation\nVentouses antidérapantes\n\nCompatibilité\nPC / Consoles (selon modèle)\n\nUtilisation\nJeux de course & simulation\n\nDesign\nSport, inspiré des voitures réelles\n\nCouleur\nNoir avec finitions argentées\n\nAlimentation\nUSB\n\nreference-doshift\nAA63BB099",
+     "short_description": "Plongez au cœur de l’action avec le volant gaming PXN, conçu pour offrir une expérience de conduite immersive et réaliste."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/38c5236e-0d6c-4b1b-a3e1-c4e95d4916b3.jpeg"
    ]
   }
  ]

@@ -1,196 +1,197 @@
 {
  "products": [
   {
-   "sku": "doshift-75028",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Trousse de Maquillage Matelassée Rose Pastel",
-     "description": "Découvrez l’alliance parfaite du raffinement et de la praticité avec notre trousse de toilette matelassée. Conçue pour celles qui recherchent un accessoire à la fois chic et fonctionnel, cette trousse se distingue par son fini rose poudré et son iconique nœud noir en ruban gros-grain.\n\nCaractéristique\nDétail\n\nDesign\nMatelassé à losanges\n\nDétails\nNœud décoratif + zip robuste\n\nFormat\nSpacieux\n\nUtilisation\nMaquillage / voyage\n\nRéférence-doshift\nAA1BB999",
-     "short_description": "Découvrez l’alliance parfaite du raffinement et de la praticité avec notre trousse de toilette matelassée."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/5-57.png"
-   ]
-  },
-  {
-   "sku": "doshift-75013",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac de Voyage et de Sport Matelassé Vert Menthe",
-     "description": "Redéfinissez votre style de vie actif avec une touche de douceur et de modernité. Ce sac de voyage, à la teinte vert menthe rafraîchissante, n’est pas qu’un simple accessoire de transport.\n\nCaractéristique\nDétail\n\nTexture\nMatelassé à motifs cœurs\n\nMatériau\nNylon léger et résistant\n\nTransport\nDouble poignée renforcée\n\nRangement\nCompartiment principal + poche zippée\n\nCouleur\nVert menthe\n\nRéférence-doshift\nAA7BB599",
-     "short_description": "Redéfinissez votre style de vie actif avec une touche de douceur et de modernité. Ce sac de voyage, à la teinte vert menthe rafraîchissante, n’est pas qu’un simple accessoire de transport."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-66.png"
-   ]
-  },
-  {
-   "sku": "doshift-74949",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Câble USB-C vers VGA – Connexion Rapide et Stable Full HD",
-     "description": "Optimisez votre affichage en connectant facilement votre ordinateur portable, tablette ou smartphone compatible USB-C à un écran, moniteur ou projecteur VGA. Ce câble pratique assure une transmission fluide du signal pour une expérience visuelle nette et sans interruption, idéale pour le travail, les présentations ou le divertissement.\n\nCaractéristique\nDétail\n\nType de produit\nCâble adaptateur vidéo\n\nConnecteur d’entrée\nUSB-C mâle\n\nConnecteur de sortie\nVGA mâle\n\nFonction\nConnecter un appareil USB-C à un écran, moniteur ou projecteur VGA\n\nRésolution supportée\nJusqu’à 1080P Full HD\n\nInstallation\nPlug & Play, sans pilote\n\nTransmission\nSignal vidéo stable et fluide\n\nUtilisation\nBureau, présentation, projection, télétravail\n\nCompatibilité\nOrdinateurs, laptops, tablettes et appareils USB-C compatibles\n\nDesign\nLéger, compact et facile à transporter\n\nConception\nDurable et résistante\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Optimisez votre affichage en connectant facilement votre ordinateur portable, tablette ou smartphone compatible USB-C à un écran, moniteur ou projecteur VGA."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-28T171450.012.png"
-   ]
-  },
-  {
-   "sku": "doshift-74929",
+   "sku": "doshift-86124",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Ventilateur Portable à Motif Ours",
+     "description": "Ajoutez une touche de fraîcheur à votre quotidien avec ce mini ventilateur portable au design mignon. Compact et léger, il est facile à transporter et pratique pour une utilisation à la maison, au bureau, en voyage ou pendant les sorties. Son format à main permet une prise en main confortable, tandis que son affichage intégré aide à suivre l’état de la batterie.\n\nCaractéristique\nDétail\n\nType\nMini ventilateur portable\n\nDesign\nMotif ours avec oreilles arrondies\n\nUtilisation\nMaison, bureau, voyage, sorties\n\nFormat\nCompact et facile à transporter\n\nAffichage\nIndicateur de batterie intégré\n\nCommande\nBouton de contrôle sur la poignée\n\nPrise en main\nPoignée ergonomique\n\nCouleur\nVert clair\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Ajoutez une touche de fraîcheur à votre quotidien avec ce mini ventilateur portable au design mignon."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-18T132529.920.png"
+   ]
+  },
+  {
+   "sku": "doshift-85879",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Microphone Sans Fil M6 Type-C – Compact & Plug and Play",
+     "description": "Améliorez la qualité de vos enregistrements avec le Microphone Sans Fil M6, un micro compact et pratique conçu pour les créateurs de contenu, vlogs, lives, interviews, cours en ligne et vidéos sur smartphone. Grâce à sa connexion Type-C, il se branche facilement à votre téléphone compatible, sans installation compliquée.\n\nSon format léger avec clip permet une utilisation confortable au quotidien, tandis que sa technologie de réduction du bruit aide à obtenir un son plus clair dans différents environnements.\n\nCaractéristique\nDétail\n\nProduit\nMicrophone sans fil\n\nModèle\nM6\n\nConnexion\nType-C\n\nUtilisation\nVlog, live, interview, cours en ligne, enregistrement vidéo\n\nFonction\nRéduction du bruit\n\nInstallation\nPlug & Play\n\nDesign\nCompact, léger et portable\n\nCompatibilité\nSmartphones avec port Type-C\n\nContenu\nMicrophone(s) + récepteur Type-C selon pack\n\nRéférence\nAA11BB099",
+     "short_description": "Améliorez la qualité de vos enregistrements avec le Microphone Sans Fil M6, un micro compact et pratique conçu pour les créateurs de contenu, vlogs, lives, interviews, cours en ligne et vidéos sur smartphone."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T150942.545.png"
+   ]
+  },
+  {
+   "sku": "doshift-85738",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Casque audio filaire Lenovo avec microphone – Jack 3,5 mm",
+     "description": "Profitez d’un son clair et d’une communication fluide avec ce casque audio filaire Lenovo. Simple à brancher grâce à sa prise jack 3,5 mm, il est idéal pour les appels, les cours en ligne, le télétravail, le gaming léger ou l’utilisation quotidienne sur ordinateur et smartphone compatible. Son microphone intégré permet de parler facilement, tandis que son design léger offre un bon confort pendant l’utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nCasque audio filaire\n\nConnexion\nJack 3,5 mm\n\nMicrophone\nIntégré avec tige ajustable\n\nUtilisation\nAppels, cours en ligne, télétravail, gaming, multimédia\n\nDesign\nLéger et confortable\n\nInstallation\nPlug & Play, prêt à l’emploi\n\nCompatibilité\nAppareils avec entrée jack 3,5 mm\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Profitez d’un son clair et d’une communication fluide avec ce casque audio filaire Lenovo."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-16T204358.876.png"
+   ]
+  },
+  {
+   "sku": "doshift-85711",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de bain modeste 3 pièces bordeaux",
+     "description": "Élégant et confortable, cet ensemble de bain modeste 3 pièces est idéal pour profiter de la piscine, de la plage ou des sorties estivales avec style. Il se compose d’une tunique longue à manches longues avec un joli effet drapé sur le côté, d’un legging assorti et d’un couvre-chef coordonné. Son tissu extensible offre une bonne liberté de mouvement tout en gardant une coupe couvrante et moderne.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de bain modeste\n\nNombre de pièces\n3 pièces\n\nComposition du pack\nTunique + legging + couvre-chef\n\nHaut\nTunique longue à manches longues\n\nDesign\nCoupe drapée avec détail latéral\n\nBas\nLegging assorti\n\nUtilisation\nPiscine, plage, détente, voyage\n\nStyle\nModeste, élégant, confortable\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Élégant et confortable, cet ensemble de bain modeste 3 pièces est idéal pour profiter de la piscine, de la plage ou des sorties estivales avec style."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-16T200749.531.png"
+   ]
+  },
+  {
+   "sku": "doshift-85616",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tenue Modeste 2 Pièces Rose avec Fermeture Zippée",
+     "description": "Cette tenue modeste 2 pièces est idéale pour les sorties à la plage, à la piscine ou pour les loisirs d’été. Son design ample offre une bonne liberté de mouvement, tandis que sa fermeture zippée frontale facilite l’enfilage. Le tissu léger et confortable assure une sensation agréable au quotidien. Les détails noirs sur les manches ajoutent une touche sportive et moderne.\n\nCaractéristique\nDétail\n\nType de produit\nTenue modeste / ensemble 2 pièces\n\nComposition\nTunique longue + pantalon assorti\n\nFermeture\nZip frontal pratique\n\nCoupe\nAmple et confortable\n\nManches\nLongues avec bandes noires\n\nStyle\nSportif, modeste et élégant\n\nUtilisation\nPlage, piscine, loisirs, voyage\n\nCouleur\nRose avec détails noirs\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Cette tenue modeste 2 pièces est idéale pour les sorties à la plage, à la piscine ou pour les loisirs d’été."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-16T155117.912.png"
+   ]
+  },
+  {
+   "sku": "doshift-85602",
+   "price": 369,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Burkini Long Zippé Noir & Turquoise",
+     "description": "Burkini élégant et couvrant, idéal pour la plage, la piscine ou les moments de détente au bord de l’eau. Son design long avec fermeture zippée offre une utilisation pratique, tandis que ses motifs turquoise apportent une touche moderne et raffinée. Léger et confortable, il permet une bonne liberté de mouvement tout en gardant un style discret et chic.\n\nCaractéristique\nDétail\n\nType de produit\nBurkini long zippé\n\nStyle\nCouvrant, moderne et confortable\n\nCouleur\nNoir avec motifs turquoise\n\nFermeture\nZip frontal pratique\n\nManches\nLongues avec poignets ajustés\n\nUtilisation\nPlage, piscine, vacances, activités aquatiques\n\nAvantages\nLéger, confortable, facile à enfiler\n\nTailles\nSelon disponibilité\n\nRéférence Doshift\nAA23BB099",
+     "short_description": "Burkini élégant et couvrant, idéal pour la plage, la piscine ou les moments de détente au bord de l’eau."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-16T153337.717.png"
+   ]
+  },
+  {
+   "sku": "doshift-85594",
+   "price": 399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de bain couvrant bleu marine avec manches imprimées",
+     "description": "Profitez de vos sorties plage et piscine avec cet ensemble de bain couvrant, conçu pour offrir confort, protection et style. Son design moderne associe une coupe longue, une fermeture zippée pratique et des manches imprimées bleu ciel pour un look élégant et sportif. Idéal pour rester à l’aise tout en gardant une tenue couvrante et légère.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de bain couvrant\n\nStyle\nSportif, moderne et élégant\n\nCouleur\nBleu marine avec manches imprimées bleu et blanc\n\nFermeture\nZippée à l’avant\n\nCapuche\nOui, couvrante\n\nUtilisation\nPlage, piscine, vacances, activités aquatiques\n\nConfort\nLéger, pratique et agréable à porter\n\nRéférence Doshift\nAA25BB099",
+     "short_description": "Profitez de vos sorties plage et piscine avec cet ensemble de bain couvrant, conçu pour offrir confort, protection et style."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-16T152527.679.png"
+   ]
+  },
+  {
+   "sku": "doshift-85576",
+   "price": 289,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble Burkini 2 Pièces Imprimé Multicolore avec Capuche",
+     "description": "Profitez d’un look coloré, confortable et couvrant avec cet ensemble burkini 2 pièces. Il se compose d’une tunique longue à fermeture zippée avec capuche intégrée et d’un pantalon assorti bleu marine. Son imprimé multicolore dynamique apporte une touche moderne et estivale, idéal pour la piscine, la plage ou les sorties aquatiques.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble burkini / tenue couvrante\n\nNombre de pièces\n2 pièces\n\nComposition\nTunique longue + pantalon\n\nFermeture\nZip frontal pratique\n\nCapuche\nIntégrée\n\nManches\nLongues avec finition élastique\n\nPantalon\nBleu marine avec bas élastique\n\nStyle\nImprimé multicolore moderne\n\nUtilisation\nPlage, piscine, vacances, activités aquatiques\n\nAvantages\nConfortable, couvrant, facile à porter\n\nRéférence Doshift\nAA18BB099",
+     "short_description": "Profitez d’un look coloré, confortable et couvrant avec cet ensemble burkini 2 pièces. Il se compose d’une tunique longue à fermeture zippée avec capuche intégrée et d’un pantalon assorti bleu marine."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-16T145500.037.png"
+   ]
+  },
+  {
+   "sku": "doshift-85352",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     3,
-    8
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Tournevis Professionnels 6 Pièces – Précision, Confort et Durabilité",
-     "description": "Optimisez vos travaux de bricolage avec cet ensemble de tournevis polyvalent, conçu pour offrir précision, robustesse et confort d’utilisation au quotidien. Grâce à ses embouts variés et sa conception ergonomique, ce kit est idéal pour toutes vos interventions, que ce soit à la maison, à l’atelier ou en extérieur.\n\nChaque tournevis est équipé d’un manche antidérapant assurant une excellente prise en main, même lors d’une utilisation prolongée. Les tiges en acier résistant garantissent une grande durabilité et une performance fiable dans le temps. Adapté aussi bien aux amateurs qu’aux professionnels, cet ensemble vous accompagne dans tous vos projets avec efficacité.\n\nCaractéristique\nDétail\n\nType\nJeu de tournevis\n\nNombre de pièces\n6 pièces\n\nTypes d’embouts\nPlat et cruciforme (Phillips)\n\nMatériau\nAcier haute résistance\n\nPoignée\nErgonomique antidérapante\n\nUtilisation\nBricolage, réparation, montage\n\nAvantages\nPrécision, confort, durabilité\n\nRéférence Doshift\nAA2BB699",
-     "short_description": "Optimisez vos travaux de bricolage avec cet ensemble de tournevis polyvalent, conçu pour offrir précision, robustesse et confort d’utilisation au quotidien."
+     "name": "Débardeur côtelé confort avec bretelles réglables – Rose",
+     "description": "Ajoutez une touche douce et élégante à votre garde-robe avec ce débardeur côtelé au design féminin et confortable. Sa matière extensible épouse naturellement la silhouette tout en offrant une sensation agréable au quotidien.\n\nDoté de bretelles réglables avec détail chaîne dorée, il apporte une finition chic et moderne. Son bord en dentelle délicate ajoute une note raffinée, idéale pour le porter sous une veste, un gilet ou simplement comme top léger à la maison.\n\nCaractéristique\nDétail\n\nType de produit\nDébardeur / caraco femme\n\nMatière\nTissu côtelé doux et extensible\n\nDesign\nBordure dentelle délicate\n\nBretelles\nRéglables avec détail chaîne dorée\n\nConfort\nCoupe légère et agréable au quotidien\n\nDoublure\nBonnets doublés avec coussinets amovibles\n\nTaille\nS-M\n\nCouleur\nRose\n\nUtilisation\nÀ porter seul ou sous un vêtement\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Ajoutez une touche douce et élégante à votre garde-robe avec ce débardeur côtelé au design féminin et confortable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-28T162545.135.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T155105.744.png"
    ]
   },
   {
-   "sku": "doshift-74792",
-   "price": 109,
+   "sku": "doshift-85360",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
-    4
+    3,
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Support Téléphone pour Manette PS4 – Ajustable & Pratique",
-     "description": "Profitez de vos jeux mobiles plus confortablement grâce à ce support téléphone pour manette PS4. Il permet de fixer votre smartphone directement au-dessus de la manette afin de garder l’écran bien visible pendant vos sessions de jeu.\n\nSon système de maintien accueille le téléphone en position horizontale tandis que l’angle réglable permet d’adapter facilement l’orientation de l’écran selon votre position. Compact et léger, il se transporte facilement pour jouer à la maison, au bureau ou en déplacement.\n\nCaractéristique\nDétail\n\nType\nSupport / pince pour smartphone\n\nUtilisation\nFixation du téléphone sur une manette PS4\n\nCompatibilité indiquée\nManette P4 / PS4\n\nPosition du smartphone\nHorizontale\n\nRéglage\nAngle du support ajustable\n\nInstallation\nFixation directe sur la manette\n\nCouleur\nNoir\n\nFormat\nCompact et portable\n\nContenu\n1 support téléphone\n\nManette incluse\nNon\n\nSmartphone inclus\nNon\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Profitez de vos jeux mobiles plus confortablement grâce à ce support téléphone pour manette PS4."
+     "name": "Nuisette en Dentelle Femme – Couleur selon disponibilité",
+     "description": "Apportez une touche d’élégance et de confort à vos soirées avec cette nuisette en dentelle raffinée. Conçue dans un tissu doux et léger, elle offre une sensation agréable sur la peau tout en sublimant la silhouette grâce à sa coupe fluide et féminine.\n\nCaractéristique\nDétail\n\nType\nNuisette femme en dentelle\n\nStyle\nÉlégant et féminin\n\nMatière\nTissu doux, léger et respirant\n\nBretelles\nAjustables\n\nCoupe\nFluide et confortable\n\nDétails\nFinitions en dentelle raffinée\n\nUtilisation\nNuit, détente à la maison\n\nTailles\nSelon disponibilité\n\nCouleurs\nBeige, Noir, Blanc et Rouge (selon disponibilité)\n\nEntretien\nLavage à la main recommandé\n\nPublic cible\nFemme\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Apportez une touche d’élégance et de confort à vos soirées avec cette nuisette en dentelle raffinée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-08-08T192215.189.png"
-   ]
-  },
-  {
-   "sku": "doshift-74783",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support de Charge Sans Fil Rapide 15W – Design Vertical",
-     "description": "Rechargez votre smartphone facilement avec ce support de charge sans fil pratique et élégant. Sa conception verticale permet de garder l’écran visible pendant la charge, idéale pour le bureau, la table de nuit ou l’espace de travail. Compatible avec les appareils Qi, il offre une charge rapide jusqu’à 15W selon le téléphone et l’adaptateur utilisé.\n\nCaractéristique\nDétail\n\nType de produit\nSupport de charge sans fil\n\nPuissance de charge\nJusqu’à 15W\n\nCompatibilité\nSmartphones compatibles Qi\n\nPosition de charge\nVerticale et horizontale\n\nTechnologie\nDouble bobine\n\nIndicateur\nLED lumineuse\n\nProtection\nProtection intelligente contre la surcharge et la surchauffe\n\nUtilisation\nBureau, chambre, table de nuit, espace de travail\n\nDesign\nCompact, moderne et stable\n\nRéférence Doshift\nAA10BB599",
-     "short_description": "Rechargez votre smartphone facilement avec ce support de charge sans fil pratique et élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-08-24T134436.209.png"
-   ]
-  },
-  {
-   "sku": "doshift-74775",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support tablette voiture pour appui-tête – Universel et pliable",
-     "description": "Transforme les trajets en voiture en moments plus confortables avec ce support tablette pratique pour appui-tête. Il se fixe facilement derrière le siège avant et permet aux passagers arrière de regarder des vidéos, suivre des dessins animés ou utiliser une tablette sans la tenir à la main. Son design discret et pliable reste peu encombrant lorsqu’il n’est pas utilisé, idéal pour les voyages, les enfants et les longs déplacements.\n\nCaractéristique\nDétail\n\nType\nSupport tablette voiture\n\nInstallation\nFixation sur appui-tête\n\nUtilisation\nTablette, smartphone grand format, écran portable\n\nFonction principale\nMaintenir l’appareil stable pour les passagers arrière\n\nDesign\nPliable, discret et peu encombrant\n\nRotation / Ajustement\nPosition réglable selon l’angle de visionnage\n\nAvantage\nPermet de regarder des vidéos sans tenir l’appareil\n\nCompatibilité\nLa plupart des appuis-tête avec tiges réglables\n\nUtilisation idéale\nVoyages, enfants, longs trajets, usage quotidien\n\nCouleur\nNoir\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Transforme les trajets en voiture en moments plus confortables avec ce support tablette pratique pour appui-tête."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-27T191057.254.png"
-   ]
-  },
-  {
-   "sku": "doshift-74655",
-   "price": 459,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "POWER BANK 40000 MAH SP-15 – Batterie Solaire 3-en-1",
-     "description": "Stockez une réserve massive de 40 000 mAh, capable de redonner vie à vos smartphones et tablettes plus de dix fois consécutives. Libérez-vous de l’encombrement en utilisant les trois câbles de charge intégrés (USB-C, Lightning et Micro-USB) qui se logent discrètement dans le châssis. Captez l’énergie naturelle du soleil grâce à son panneau photovoltaïque frontal pour maintenir vos appareils actifs, même loin de toute prise secteur.\n\nCaractéristiques\nDétail\n\nCapacité\n40 000 mAh (8–10 charges)\n\nCharge rapide\n22.5W\n\nCâbles\n3 intégrés (USB-C, Lightning, Micro-USB)\n\nSolaire\nRecharge d’appoint\n\nÉclairage\nDouble LED\n\nConnectivité\nJusqu’à 6 appareils\n\nTransport\nPoignée ergonomique\n\nAffichage\nIndicateur LED (niveau batterie)\n\nRéf. Doshift\nAA2BB6099",
-     "short_description": "Stockez une réserve massive de 40 000 mAh, capable de redonner vie à vos smartphones et tablettes plus de dix fois consécutives. Libérez-vous de l’encombrement en utilisant les trois câbles de charge intégrés (USB-C,…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-62.png"
-   ]
-  },
-  {
-   "sku": "doshift-74639",
-   "price": 479,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Power Bank Solaire Spicy SP-19 50000mAh",
-     "description": "Profitez d’une source d’énergie fiable où que vous soyez avec le Power Bank Solaire Spicy SP-19. Grâce à sa grande capacité de 50000mAh, rechargez vos smartphones, tablettes et autres appareils plusieurs fois sans chercher une prise électrique. Son panneau solaire intégré offre une solution pratique pour les voyages, le camping, les randonnées et les situations d’urgence.\n\nCaractéristique\nDétail\n\nType\nPower Bank Solaire\n\nMarque\nSpicy\n\nModèle\nSP-19\n\nCapacité\n50000mAh\n\nPuissance\n22.5W\n\nCharge Rapide\nPD / QC 3.0\n\nAffichage\nÉcran LED\n\nRecharge Solaire\nOui\n\nLampe LED\nOui\n\nConnectique\nUSB, Type-C, Lightning\n\nUtilisation\nVoyage, Camping, Bureau, Urgence\n\nRéférence Doshift\nAA30BB099",
-     "short_description": "Profitez d’une source d’énergie fiable où que vous soyez avec le Power Bank Solaire Spicy SP-19."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-41.png"
-   ]
-  },
-  {
-   "sku": "doshift-74340",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Drap housse avec 2 taies d’oreiller – 160 x 200 cm",
-     "description": "Habillez votre lit avec confort et simplicité grâce à ce drap housse accompagné de 2 taies d’oreiller assorties. Son tissu doux et agréable offre un toucher confortable au quotidien, tandis que son bonnet extensible assure une bonne tenue sur le matelas. Pratique, respirant et facile à entretenir, il est idéal pour une chambre moderne et soignée.\n\nCaractéristique\nDétail\n\nType de produit\nDrap housse avec taies d’oreiller\n\nComposition du set\n1 drap housse + 2 taies d’oreiller assorties\n\nDimensions du drap housse\n160 x 200 cm\n\nBonnet\nJusqu’à 30 cm\n\nDimensions des taies\n50 x 70 cm\n\nTissu\nDoux et agréable\n\nConfort\nRespirant et confortable\n\nUtilisation\nChambre à coucher, lit double\n\nAvantages\nBonne tenue, résistant, pratique et facile à entretenir\n\nEntretien\nLavage simple selon les instructions du textile\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Habillez votre lit avec confort et simplicité grâce à ce drap housse accompagné de 2 taies d’oreiller assorties."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-25T181843.208.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T161623.106.png"
    ]
   }
  ]

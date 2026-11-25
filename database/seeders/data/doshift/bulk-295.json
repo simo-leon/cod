@@ -1,27 +1,85 @@
 {
  "products": [
   {
-   "sku": "doshift-43175",
-   "price": 139,
+   "sku": "doshift-45514",
+   "price": 59,
    "stock": 10,
    "status": 0,
    "categories": [
-    7
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Pare-soleil rétractable pliable pour voiture",
-     "description": "Le pare-soleil de pare-brise est composé de ABS et est de couleur argent et gris.\n\nIl mesure 155x70cm et pèse 400g.\n\nIl est doté d’une ventouse améliorée et agrandie qui offre une meilleure stabilité et une force d’adsorption plus forte.\n\nLa conception en éventail à fixation en quatre points permet une bonne isolation thermique et un effet d’ombrage.\n\nIl est composé d’une couche extérieure de film aluminisé, d’une couche intérieure de photocatalyseur et d’une feuille d’aluminium réfléchissante.\n\nIl peut être coupé librement en fonction de la taille du pare-brise.\n\nIl offre 5 cm d’espace réservé aux deux extrémités.",
-     "short_description": "Le pare-soleil de pare-brise est composé de ABS et est de couleur argent et gris."
+     "name": "Coupe-ongles en Acier Inoxydable – Couleur Selon Disponibilité",
+     "description": "Assurez une coupe nette et précise grâce à ce coupe-ongles robuste et ergonomique. Conçu en acier inoxydable de haute qualité, il garantit une excellente résistance à la corrosion et une longue durée d’utilisation. Son levier solide offre une pression optimale pour une coupe facile et sans effort, tandis que sa surface antidérapante assure une prise en main confortable et sécurisée.\n\nCompact et pratique, il se glisse facilement dans une trousse de toilette ou un sac pour une utilisation à domicile ou en déplacement. Idéal pour un usage quotidien, il convient aussi bien aux mains qu’aux pieds.\n\nCaractéristique\nDétail\n\nType\nCoupe-ongles manuel\n\nMatériau\nAcier inoxydable\n\nUtilisation\nOngles mains et pieds\n\nPrise en main\nErgonomique et antidérapante\n\nFormat\nCompact et portable\n\nEntretien\nNettoyage simple\n\nCouleur\nSelon disponibilité\n\nRéférence-doshift\nAA2BB099",
+     "short_description": "Assurez une coupe nette et précise grâce à ce coupe-ongles robuste et ergonomique. Conçu en acier inoxydable de haute qualité, il garantit une excellente résistance à la corrosion et une longue durée d’utilisation."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764347402-228_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-02-28T170625.705.png"
    ]
   },
   {
-   "sku": "doshift-43165",
-   "price": 134,
+   "sku": "doshift-43803",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Appareil d’exercice – Non spécifié – Ventouse – Abdominaux – Étirements – Fitness(Couleur selon disponibilité)",
+     "description": "Appareil d’exercice pratique avec ventouse pour un maintien stable. Idéal pour les abdominaux, les étirements et le renforcement musculaire à domicile. Compact et portable, il s’adapte à tous vos besoins d’entraînement.",
+     "short_description": "Appareil d’exercice pratique avec ventouse pour un maintien stable. Idéal pour les abdominaux, les étirements et le renforcement musculaire à domicile. Compact et portable, il s’adapte à tous vos besoins d’entraînement."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764349425-368_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45504",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Réchaud à Gaz Portable en Métal Noir – Compact, Écologique & Idéal pour le Plein Air",
+     "description": "Ce réchaud à gaz portable est l’outil indispensable pour cuisiner facilement en extérieur. Fabriqué en métal noir robuste, il résiste parfaitement à la chaleur et aux conditions d’utilisation en plein air. Grâce à son contrôle précis de la puissance de feu, il permet une cuisson maîtrisée, que ce soit pour un barbecue, du camping ou une randonnée. Léger, compact et facile à transporter, il se glisse facilement dans un sac et s’installe en quelques secondes, pour des repas chauds n’importe où.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nRéchaud à gaz portable\n\nType de produit\nRéchaud de plein air – camping / barbecue\n\nMatériau\nMétal robuste résistant à la chaleur\n\nCouleur\nNoir\n\nDimensions\n125 × 125 × 175 mm\n\nÉcologique\nFaible consommation de gaz\n\nContrôle de flamme\nRéglage précis de la puissance de feu\n\nUtilisation\nCamping, randonnée, barbecue, pique-nique, outdoor\n\nPortabilité\nCompact, léger, facile à transporter\n\nDurabilité\nConçu pour résister aux utilisations en extérieur",
+     "short_description": "Ce réchaud à gaz portable est l’outil indispensable pour cuisiner facilement en extérieur. Fabriqué en métal noir robuste, il résiste parfaitement à la chaleur et aux conditions d’utilisation en plein air."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764358049-358_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45472",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pulvérisateur Haute Pression Sans Fil 24V – Portable, Léger & Puissant x3 battries",
+     "description": "Le pulvérisateur haute pression 24V sans fil est l’outil idéal pour le nettoyage efficace de votre voiture, l’arrosage du jardin, le lavage des sols, des fenêtres ou encore les travaux agricoles légers. Grâce à son moteur puissant et sa batterie amovible, il offre une excellente autonomie et une pression stable. Son poids ultra léger de seulement 0,3 kg garantit une prise en main facile et un confort d’utilisation optimal, même pendant une longue durée. Compact, sans câble et facile à transporter, il s’adapte parfaitement à tous vos besoins domestiques.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétails\n\nType\nOreiller ergonomique orthopédique\n\nMousse\nMousse mémoire de forme haute densité\n\nSoutien\nCervical & tête (alignement colonne)\n\nConfort\nRéduction des points de pression\n\nUsage\nSommeil sur dos / côté / ventre\n\nHousse\nRespirante & douce\n\nHygiène\nHousse amovible et lavable en machine\n\nMatériau housse\nTissu microfibre hypoallergénique\n\nAvantages\nAméliore le sommeil, réduit raideurs & douleurs\n\nDimension\nStandard ergonomique (approx.)\n\nRespirabilité\nOui – ventilation intégrée\n\nPublic\nAdultes / usage quotidien\n\nCouleur\nBlanc & noir\n\nRéférence-doshift\nAA16BB099",
+     "short_description": "Le pulvérisateur haute pression 24V sans fil est l’outil idéal pour le nettoyage efficace de votre voiture, l’arrosage du jardin, le lavage des sols, des fenêtres ou encore les travaux agricoles légers."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-03-31T201458.250.png"
+   ]
+  },
+  {
+   "sku": "doshift-45463",
+   "price": 107,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -29,17 +87,55 @@
    ],
    "locales": {
     "fr": {
-     "name": "Pichet thermique inox 220 ml café et lait chaud",
-     "description": "Le pot à café et chocolat est en acier inoxydable de haute qualité.\n\nIl a une capacité de 220 ml et est doté d’un bec verseur.\n\nIl est également muni d’une poignée isolée et possède un contrôle précis.\n\nLe pot est multi-couleur et pèse 0.3 kg.",
-     "short_description": "Le pot à café et chocolat est en acier inoxydable de haute qualité."
+     "name": "Distributeur automatique 3-en-1 – Non spécifié – Non spécifié – Matériaux sûrs – Intérieur – Facile à nettoyer (Couleur selon disponibilité)",
+     "description": "Ce distributeur automatique 3-en-1 pour chats et chiens offre un accès pratique à la nourriture et à l’eau. Fabriqué avec des matériaux durables, il assure une hydratation continue et un entretien facile. Idéal pour le bien-être de vos animaux, il combine un récipient spacieux et un abreuvoir pour un usage quotidien.",
+     "short_description": "Ce distributeur automatique 3-en-1 pour chats et chiens offre un accès pratique à la nourriture et à l’eau. Fabriqué avec des matériaux durables, il assure une hydratation continue et un entretien facile."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764347383-226_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357982-349_1.jpg"
    ]
   },
   {
-   "sku": "doshift-43155",
+   "sku": "doshift-45418",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouteille d’eau de sport de motivation colorée étanche pour voyage en plein air couleur aleatoire",
+     "description": "Cette bouteille d’eau est fabriquée à partir de plastique de haute qualité, ce qui lui confère une durabilité et une résistance supérieures. Le matériau est également sûr et sans BPA, ce qui garantit que l’eau reste fraîche et saine à tout moment.Son design portable et léger en fait un compagnon de voyage idéal. Vous pouvez l’emporter partout avec vous, que ce soit au bureau, à l’école, en randonnée, en voyage, à la salle de sport ou dans toutes vos activités quotidiennes.La bouteille est étanche à l’air, ce qui signifie qu’elle préserve la fraîcheur de vos boissons tout en évitant les fuites et les déversements indésirables, ce qui en fait une option sûre pour transporter des boissons chaudes ou froides.Son bouchon hermétique assure une ouverture et une fermeture faciles, et permet également de boire sans éclaboussures.",
+     "short_description": "Cette bouteille d’eau est fabriquée à partir de plastique de haute qualité, ce qui lui confère une durabilité et une résistance supérieures."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357878-339_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45414",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gants de Ménage Longs Imperméables à Motif Floral – Protection Confortable pour Nettoyage Quotidien",
+     "description": "Apportez une touche pratique et élégante à vos tâches ménagères avec ces gants de nettoyage longs à motif floral. Conçus pour protéger efficacement les mains et les avant-bras, ils offrent une excellente barrière contre l’eau, les éclaboussures et les produits d’entretien du quotidien. Leur manchette longue avec finition florale aide à garder les bras au sec, tandis que la matière souple assure un bon confort d’utilisation.\n\nIdéals pour la vaisselle, le nettoyage de la cuisine, la salle de bain, la lessive ou d’autres travaux ménagers, ces gants allient protection, flexibilité et style. Leur design ergonomique permet une bonne prise en main pour manipuler facilement éponges, chiffons et accessoires de nettoyage.\n\nCaractéristique\nDétail\n\nType de produit\nGants de ménage longs\n\nUtilisation\nVaisselle, nettoyage, lessive, entretien domestique\n\nMatière\nCaoutchouc / matière imperméable\n\nDesign\nManchette longue avec motif floral\n\nCouleur\nViolet et blanc à fleurs bleues\n\nAvantage principal\nProtège les mains et les avant-bras de l’eau et des éclaboussures\n\nConfort\nSouple, léger et agréable à porter\n\nRéférence Doshift\nAA1BB799",
+     "short_description": "Apportez une touche pratique et élégante à vos tâches ménagères avec ces gants de nettoyage longs à motif floral."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-01T171458.768.png"
+   ]
+  },
+  {
+   "sku": "doshift-45375",
    "price": 79,
    "stock": 10,
    "status": 0,
@@ -48,114 +144,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Coussin de Siège WC Portable Pliable – Confortable, Étanche et Réutilisable",
-     "description": "Apportez plus de confort et d’hygiène à vos déplacements avec ce coussin de siège WC portable pliable. Conçu en matériau souple, doux pour la peau et résistant, il offre une assise agréable tout en protégeant du froid et de l’humidité. Son design pliable permet un transport facile et un rangement compact, idéal pour les voyages, sorties en famille, camping ou usage quotidien.\n\nGrâce à sa surface imperméable, il se nettoie rapidement d’un simple coup de chiffon. Sa texture antidérapante assure une bonne stabilité sur la majorité des toilettes standards. Léger, durable et pratique, il convient parfaitement aux enfants comme aux adultes.\n\nCaractéristique\nDétail\n\nType\nCoussin de siège WC portable pliable\n\nMatière\nSilicone / matériau souple imperméable\n\nCouleur\nRose\n\nDimensions extérieures\n37 × 42 cm\n\nDimensions intérieures\n19 × 25 cm\n\nPropriétés\nDoux, pliable, étanche, réutilisable\n\nEntretien\nNettoyage facile avec chiffon humide\n\nUtilisation\nMaison, voyage, camping, enfants\n\nRéférence Doshift\nAA2BB499",
-     "short_description": "Apportez plus de confort et d’hygiène à vos déplacements avec ce coussin de siège WC portable pliable."
+     "name": "Bouteille spray pour huile ou vinaigre(Couleur selon disponibilité)",
+     "description": "Bouteille de pulvérisation d’huile d’olive vinaigre pulvérisateur cuisson BBQ outil distributeur d’huile  bouteille en verre étanche accessoires de cuisineUTILISATION POLYVALENTEPulvérisateur de brumisateur d’huile remplissez ce pulvérisateur avec vos huiles préférées, vinaigre, jus de citron et de citron vert, sherry ou vin marsala. Il est idéal pour les salades, les pains, la pâtisserie ou la cuisine.L’ENVIRONNEMENTLe spray d’huile réutilisable vous offre la commodité et les avantages pour la santé sous une forme plus économique et environnementaleFACILE À UTILISERAction de pompage Simple qui produit une fine brume, pulvérisation plus uniforme et contrôle la quantité d’huile par temps utilisée en cuisine.CONCEPTION DE HAUTE QUALITÉContrairement aux autres bouteilles de vinaigre et pulvérisateurs d’huile, les nôtres sont sans BPA en verre avec acier inoxydable! Il est parfait pour pulvériser les ingrédients au lieu d’utiliser des pinceaux pour rôtir, faire sauter, cuire au four, cuisiner",
+     "short_description": "Bouteille de pulvérisation d’huile d’olive vinaigre pulvérisateur cuisson BBQ outil distributeur d’huile  bouteille en verre étanche accessoires de cuisineUTILISATION POLYVALENTEPulvérisateur de brumisateur d’huile…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-14T175517.295.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357767-330_1.jpg"
    ]
   },
   {
-   "sku": "doshift-43140",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pince à Dénuder Automatique – ABC Power",
-     "description": "La Pince à Dénuder Automatique ABC Power est un outil professionnel conçu pour dénuder facilement et rapidement différents types de fils électriques. Grâce à son mécanisme automatique, elle ajuste la pression selon l’épaisseur du câble, garantissant un travail propre, précis et sans endommager le conducteur. Idéale pour les électriciens, techniciens, bricoleurs et ateliers.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPince à dénuder automatique\n\nMarque\nABC Power\n\nUtilisation\nDénudage de câbles et fils électriques\n\nPrécision\nAjustement automatique selon le diamètre du fil\n\nErgonomie\nPoignée confortable anti-glisse\n\nMatériau\nAlliage + poignée plastique renforcée\n\nApplication\nBricolage, électricité, atelier, installation\n\nAvantages\nRapidité, précision, sans effort\n\nCouleur\nOrange / Noir (selon disponibilité)\n\nRéférence-doshift\nAA8BB099",
-     "short_description": "La Pince à Dénuder Automatique ABC Power est un outil professionnel conçu pour dénuder facilement et rapidement différents types de fils électriques."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_innnv2innnv2innn-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-43101",
-   "price": 132,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Agrafeuse manuelle 13/4-6-8 mm pour décoration, garniture et habillage d’étagères",
-     "description": "Cette agrafeuse manuelle est l’outil idéal pour les travaux de décoration, de fixation et de finition. Compatible avec des agrafes de type 13 en tailles 4 mm, 6 mm et 8 mm, elle convient parfaitement pour la pose de garnitures, l’habillage d’étagères, les travaux de tapisserie légère ainsi que diverses applications de bricolage.\n\nCaractéristique\nDétail\n\nType de produit\nAgrafeuse manuelle\n\nType d’agrafes\n13\n\nTailles compatibles\n4 mm / 6 mm / 8 mm\n\nUtilisation\nDécoration, garniture, habillage d’étagères\n\nApplication\nBricolage, tapisserie légère, fixation\n\nPrise en main\nErgonomique\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Cette agrafeuse manuelle est l’outil idéal pour les travaux de décoration, de fixation et de finition."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764347269-213_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43090",
-   "price": 145,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Antenne Requin Universelle pour Voiture – Design Aérodynamique et Installation Facile",
-     "description": "Apportez une finition moderne à votre véhicule avec cette antenne requin universelle, conçue pour allier style et praticité. Son design aérodynamique s’intègre harmonieusement au toit de la voiture tout en améliorant l’apparence générale du véhicule\n\nCaractéristique\nDétail\n\nType de produit\nAntenne requin pour voiture\n\nUtilisation\nAccessoire extérieur automobile\n\nCompatibilité\nUniverselle selon le modèle du véhicule\n\nDesign\nAérodynamique\n\nInstallation\nFacile et rapide\n\nFixation\nÀ poser sur le toit du véhicule\n\nMatière\nPlastique rigide\n\nContenu\n1 antenne requin\n\nRéférence Doshift\nAA6BB299",
-     "short_description": "Apportez une finition moderne à votre véhicule avec cette antenne requin universelle, conçue pour allier style et praticité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Design-sans-titre-2026-04-12T125549.414.png"
-   ]
-  },
-  {
-   "sku": "doshift-43023",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble d’Ustensiles de Cuisine 11 Pièces avec Porte-Louche en Silicone(Couleur selon disponibilité)",
-     "description": "NETTOYAGE FACILE: Cet ensemble d’ustensiles en silicone de qualité supérieure est facile à laver et à sécher d’un simple coup d’essuyage et rincez à l’eau chaude. L’ensemble d’ustensiles de cuisine peut être lavé à la main sans crainte de déformation, d’entailles ou d’éclats dans les poignées en bois. Attention : ne le lavez pas au lave-vaisselle. Toujours laver à la main. Silicone de haute qualité : les spatules de cuisine sont fabriquées en silicone de qualité alimentaire avec une résistance à haute température.  ORIENTÉ CONFORT : les poignées en bois de hêtre massif de cet ensemble de cuillères à mélanger sont confortables et douces au toucher. Les ustensiles de cuisine à manche en bois empêchent le transfert de chaleur pendant la cuisson pour protéger vos mains des brûlures. Cet ensemble de cuisine comprend également un élégant conteneur organisateur. CONFORTABLE ET ÉLÉGANT : cette gamme d’ustensiles de cuisine et d’ustensiles comprend des ustensiles en silicone noir élégants avec des poignées en bois de hêtre. Cet ensemble d’ustensiles de cuisine est durable mais lisse et n’endommagera pas votre batterie de cuisine avec des rayures. Il a des trous de suspension et des verrous à clip pour simplement accrocher et sécher après le lavage.",
-     "short_description": "NETTOYAGE FACILE: Cet ensemble d’ustensiles en silicone de qualité supérieure est facile à laver et à sécher d’un simple coup d’essuyage et rincez à l’eau chaude."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346571-197_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42272",
-   "price": 116,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Oreiller de Voyage Ergonomique Bleu – Confort Cervical Premium",
-     "description": "Profitez d’un confort optimal lors de vos voyages, siestes au bureau ou trajets en voiture grâce à cet oreiller ergonomique spécialement conçu pour soutenir la nuque et les épaules. Sa forme en U épouse parfaitement les courbes du cou, réduisant les tensions et améliorant la posture. Ultra-doux, respirant et agréable au toucher, il assure détente et relaxation où que vous soyez.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nOreiller de voyage ergonomique en forme de U\n\nSupport cervical\nConçu pour maintenir la nuque et réduire la fatigue\n\nZones ciblées\nNuque – épaules – cervicales – haut du dos\n\nMatériau\nMousse douce + tissu microfibre respirant\n\nConfort\nTexture ultra-douce, agréable sur la peau\n\nFixation\nBouton de fermeture pour maintenir l’oreiller en place\n\nDesign\nForme ergonomique adaptée à toutes les morphologies\n\nUtilisations\nVoyage, voiture, avion, train, bureau, maison\n\nAvantages\nRéduit les douleurs cervicales – relaxation épaules – soutien tête\n\nEntretien\nLavable facilement\n\nCouleur\nBleu\n\nPortabilité\nLéger, compact, facile à transporter\n\nRéférence Doshift\nAA6BB999",
-     "short_description": "Profitez d’un confort optimal lors de vos voyages, siestes au bureau ou trajets en voiture grâce à cet oreiller ergonomique spécialement conçu pour soutenir la nuque et les épaules."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_1vvzqr1vvzqr1vvz-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-42996",
-   "price": 147,
+   "sku": "doshift-43788",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -163,18 +163,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Filtres de rechange pour peigne à poux électrique, le traitement innovant anti-poux v-comb",
-     "description": "Le V-Comb est un peigne anti-poux réutilisable et non allergène pour enfants et adultes.\n\nIl élimine les poux et leurs œufs (poncés) sans avoir besoin de produits chimiques nocifs ou de shampooings spéciaux contre les poux.\n\nLe V-Comb utilise un peigne rond en acier inoxydable dentelé et une puissance d’aspiration douce pour soulever les poux et les œufs.\n\nIl comprend un filtre anti-poux jetable, une unité de filtration éclairée par LED et 2 filtres de capture jetables.\n\nLe V-Comb est fait de plastique et pèse 0.2 kg.",
-     "short_description": "Le V-Comb est un peigne anti-poux réutilisable et non allergène pour enfants et adultes."
+     "name": "Peigne anti-poux manuel (Couleur selon disponibilité)",
+     "description": "Peigne métallique à pointes arrondies pour retirer et détruire les poux et les lentes.\n\nTraitement indolore et 100% efficace.\n\nUtiliser sur cheveux secs ou légèrement humides.\n\nPasser le peigne sur chaque mèche de cheveux jusqu’à ce qu’elle soit débarrassée des lentes et des poux.\n\nNettoyer le peigne à l’alcool à 70° après chaque utilisation.\n\nModèle: YH8003.\n\nPoids: 1 kg.\n\nMatière: Acier inoxydable + Plastique.",
+     "short_description": "Peigne métallique à pointes arrondies pour retirer et détruire les poux et les lentes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346483-191_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764349400-365_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42991",
-   "price": 82,
+   "sku": "doshift-45357",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -182,13 +182,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Distributeur d’Œufs à 2 Niveaux – Rangement Automatique et Compact",
-     "description": "Gardez vos œufs bien organisés et facilement accessibles grâce à ce distributeur d’œufs à deux niveaux. Son design incliné permet aux œufs d’avancer naturellement vers l’avant au fur et à mesure de leur utilisation.\n\nCompact et pratique, il permet d’optimiser l’espace dans le réfrigérateur, sur une étagère ou sur le plan de travail de la cuisine. Son format vertical à deux étages offre un rangement ordonné tout en limitant l’encombrement.\n\nCaractéristique\nDétail\n\nProduit\nDistributeur / organisateur d’œufs\n\nType\nRangement automatique par gravité\n\nNombre de niveaux\n2 niveaux\n\nCouleur\nBlanc\n\nStructure\nSupport avec montants métalliques\n\nUtilisation\nRangement et distribution des œufs\n\nInstallation\nÀ poser\n\nEmplacement\nRéfrigérateur, cuisine, étagère ou garde-manger\n\nFonctionnement\nLes œufs avancent vers l’avant au fur et à mesure de leur retrait\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Gardez vos œufs bien organisés et facilement accessibles grâce à ce distributeur d’œufs à deux niveaux. Son design incliné permet aux œufs d’avancer naturellement vers l’avant au fur et à mesure de leur utilisation."
+     "name": "Tapis pour robinet de cuisine,pour cuisine et salle de bain(Couleur selon disponibilité)",
+     "description": "Ce tapis de robinet est fabriqué en silicone de haute qualité, durable et résistant à l’eau.\n\nIl protège l’évier contre les éclaboussures, les rayures et les dommages causés par les ustensiles de cuisine.\n\nSa surface texturée assure une adhérence sûre pour vos ustensiles et accessoires.\n\nLes rainures de drainage permettent à l’eau de s’écouler facilement, évitant la stagnation de l’eau et maintenant l’évier propre et sec.\n\nIl est très absorbant et absorbe rapidement l’eau résiduelle des ustensiles fraîchement lavés, réduisant ainsi le temps de séchage.\n\nIl convient non seulement pour la cuisine mais aussi pour la salle de bain, offrant une protection contre les éclaboussures et les dommages causés par les produits de toilette.\n\nLe tapis est disponible en bleu, gris et rose.\n\nIl mesure 37x14cm et pèse 0.3 kg.\n\nIl est fait de silicone.",
+     "short_description": "Ce tapis de robinet est fabriqué en silicone de haute qualité, durable et résistant à l’eau."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T183555.867.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357736-326_1.jpg"
    ]
   }
  ]

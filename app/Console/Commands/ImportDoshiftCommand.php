@@ -14,16 +14,19 @@ use Illuminate\Support\Facades\DB;
  * 1,488 clearly new + 2,075 uncertain, 158 confirmed duplicates
  * excluded; Simo decided to import all 3,563). The batch payloads
  * live in the repo itself (database/seeders/data/doshift/,
- * bulk-001.json … bulk-334.json, 10 products each, French copy
+ * bulk-001.json … bulk-351.json, 10 products each, French copy
  * only — AR/EN + the selling rewrite is a later pass via the
  * per-product update endpoint, before activation), so Simo runs
  * the import himself on the host via SSH at deploy time, with no
  * API calls from anywhere else.
  *
- * Held out of the bundles (not imported): the Jouets-only products
- * and the products with no mappable category — they need new live
- * categories first (see ~/workspace/doshift-products/
- * jouets-awaiting-category.json and needs-category-review.json).
+ * Held out of the bundles (not imported): 54 products with no
+ * mappable category at all (see ~/workspace/doshift-products/
+ * needs-category-review.json) — they need a human decision on
+ * their category first. The Jouets-only products (live category
+ * 14) and the back-to-school products (live category 15) ARE
+ * included since the two categories were created live on
+ * 2026-11-25.
  *
  * Idempotent and resumable: a product whose SKU (doshift-<id>)
  * already exists in the database is SKIPPED, never created twice,
@@ -40,7 +43,8 @@ use Illuminate\Support\Facades\DB;
  * as POST /api/cod/products/bulk, so the command and the endpoint
  * can never drift apart.
  *
- * Full run: 3,337 products in 334 batches, ~40 minutes (images
+ * Full run: 3,509 products in 351 batches, ~95 minutes
+ * (~1.5 hours at the measured ~1.6 s/product — images
  * download from doshift.ma). Run it under nohup or tmux/screen so
  * a dropped SSH session does not kill it, e.g.:
  *
@@ -55,7 +59,7 @@ class ImportDoshiftCommand extends Command
     protected $signature = 'jemla:import-doshift
         {--limit= : Maximum number of products to process (for testing; default: all)}';
 
-    protected $description = 'Import the bundled doshift catalogue (3,337 products in 334 batches, inactive, stock 10) — idempotent, resumable';
+    protected $description = 'Import the bundled doshift catalogue (3,509 products in 351 batches, inactive, stock 10) — idempotent, resumable';
 
     /**
      * Bundled batch payloads, relative to the project root.

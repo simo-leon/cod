@@ -1,84 +1,105 @@
 {
  "products": [
   {
-   "sku": "doshift-93494",
-   "price": 219,
+   "sku": "doshift-94747",
+   "price": 309,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Support d’Accoudoir Ergonomique Réglable pour Bureau – Blanc",
-     "description": "Travaillez plus confortablement grâce à ce support d’accoudoir ergonomique réglable. Conçu pour réduire la pression exercée sur les coudes, les épaules et les poignets, il améliore votre posture et limite la fatigue pendant les longues heures de travail, d’étude ou de jeu. Son bras articulé multidirectionnel s’ajuste facilement à votre position, tandis que sa pince robuste permet une installation rapide sur la plupart des bureaux sans les abîmer. Son coussin rembourré offre un excellent maintien du bras pour un confort optimal au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSupport d’accoudoir ergonomique pour bureau\n\nCouleur\nBlanc\n\nMatériau\nMétal, plastique ABS et coussin rembourré\n\nFixation\nPince de serrage pour bureau\n\nRéglage\nBras articulé multidirectionnel\n\nRotation\nOrientable pour un positionnement optimal\n\nUtilisation\nBureau, télétravail, gaming, étude, lecture\n\nCompatibilité\nConvient à la majorité des bureaux à plateau plat\n\nInstallation\nSans perçage, montage rapide\n\nAvantages\nRéduit la pression sur les coudes, les épaules et les poignets\n\nConfort\nCoussin ergonomique à revêtement doux\n\nStabilité\nStructure robuste avec fixation sécurisée\n\nEntretien\nNettoyage simple avec un chiffon humide\n\nContenu du colis\n1 × Support d’accoudoir ergonomique blanc\n\nRéférence Doshift\nAA13BB099",
-     "short_description": "Travaillez plus confortablement grâce à ce support d’accoudoir ergonomique réglable."
+     "name": "Téléphone à Clapet IT-FLY IF3590 – Rose",
+     "description": "Le IT-FLY IF3590 est un téléphone à clapet compact, simple et pratique, idéal pour les appels et les besoins essentiels du quotidien. Son format pliable protège naturellement l’écran et le clavier tout en facilitant son transport dans une poche ou un sac.\n\nSon écran couleur offre une lecture claire, tandis que ses touches physiques bien espacées permettent une utilisation confortable. Avec son design rose élégant et son interface intuitive, il convient parfaitement aux personnes recherchant un téléphone fiable, facile à prendre en main et sans fonctionnalités compliquées.\n\nCaractéristique\nDétail\n\nProduit\nTéléphone portable à clapet\n\nMarque\nIT-FLY\n\nModèle\nIF3590\n\nCouleur\nRose\n\nType d’écran\nÉcran couleur\n\nClavier\nTouches physiques larges et faciles à utiliser\n\nFormat\nCompact, pliable et facile à transporter\n\nUtilisation\nAppels et messages du quotidien\n\nAvantage\nLe clapet protège l’écran et le clavier\n\nPublic conseillé\nPersonnes recherchant un téléphone simple et pratique\n\nRéférence Doshift\nAA19BB099",
+     "short_description": "Le IT-FLY IF3590 est un téléphone à clapet compact, simple et pratique, idéal pour les appels et les besoins essentiels du quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-16T132057.185.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-20T160709.829.png"
    ]
   },
   {
-   "sku": "doshift-93359",
+   "sku": "doshift-94247",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Robe de nuit ample à motif oursons",
+     "description": "Profitez d’un confort optimal avec cette jolie robe de nuit au style doux et décontracté. Sa coupe ample offre une grande liberté de mouvement, tandis que son encolure carrée froncée et ses manches courtes bouffantes apportent une touche féminine.\n\nSon imprimé composé de petits oursons donne un aspect tendre et original, idéal pour les moments de détente à la maison ou pour passer des nuits confortables.\n\nCaractéristique\nDétail\n\nType de produit\nRobe de nuit / tenue d’intérieur\n\nCouleur\nBlanc cassé\n\nMotif\nPetits oursons imprimés\n\nCoupe\nAmple et confortable\n\nEncolure\nCarrée et froncée\n\nManches\nCourtes et bouffantes\n\nStyle\nFéminin et décontracté\n\nUtilisation\nNuit, détente et maison\n\nEntretien\nLavage doux recommandé\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Profitez d’un confort optimal avec cette jolie robe de nuit au style doux et décontracté."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T174501.900.png"
+   ]
+  },
+  {
+   "sku": "doshift-94225",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     3,
-    8
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Pistolet à Étiqueter pour Vêtements avec Aiguilles et Attaches",
-     "description": "Optimisez l’étiquetage de vos vêtements avec ce pistolet à étiqueter manuel, conçu pour fixer rapidement et proprement les étiquettes sur les textiles. Idéal pour les boutiques, magasins de prêt-à-porter, ateliers de couture, dépôts et entrepôts, il garantit une utilisation simple, rapide et efficace.\n\nLivré avec un lot d’attaches en plastique et des aiguilles de rechange, ce kit est prêt à l’emploi pour répondre à tous vos besoins d’étiquetage. Sa poignée ergonomique assure une prise en main confortable, même lors d’une utilisation intensive.\n\nCaractéristique\nDétail\n\nType\nPistolet à étiqueter manuel\n\nUtilisation\nFixation d’étiquettes sur vêtements et textiles\n\nMatière\nPlastique ABS et métal\n\nCouleur\nNoir\n\nAlimentation\nAucune (manuel)\n\nAccessoires inclus\nAttaches plastiques + aiguilles de rechange\n\nApplications\nBoutiques, ateliers de couture, entrepôts, magasins de vêtements\n\nPrise en main\nErgonomique et légère",
-     "short_description": "Optimisez l’étiquetage de vos vêtements avec ce pistolet à étiqueter manuel, conçu pour fixer rapidement et proprement les étiquettes sur les textiles."
+     "name": "Robe de nuit grande taille rouge à manches en tulle",
+     "description": "Alliez confort et élégance avec cette jolie robe de nuit rouge à la coupe ample et fluide. Son design féminin est sublimé par des manches transparentes en tulle à pois et de délicats volants, apportant une touche raffinée à votre tenue d’intérieur.\n\nSa coupe évasée offre une grande liberté de mouvement et convient parfaitement aux moments de détente à la maison. Douce et agréable à porter, elle est idéale pour dormir, se relaxer ou profiter d’une soirée confortable.\n\nCaractéristique\nDétail\n\nType de produit\nRobe de nuit / tenue d’intérieur\n\nStyle\nÉlégant et confortable\n\nCoupe\nAmple et fluide\n\nLongueur\nMi-mollet\n\nCol\nCol rond\n\nManches\nManches courtes évasées\n\nDétails\nTulle transparent à pois avec volants\n\nFermeture\nPetits boutons décoratifs à l’avant\n\nUtilisation\nSommeil, détente et maison\n\nCouleur\nRouge\n\nTaille\nGrande taille, selon disponibilité\n\nEntretien\nLavage délicat recommandé\n\nRéférence Doshift\nAA8BB599",
+     "short_description": "Alliez confort et élégance avec cette jolie robe de nuit rouge à la coupe ample et fluide."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-15T184133.724.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T170938.123.png"
    ]
   },
   {
-   "sku": "doshift-93272",
-   "price": 99,
+   "sku": "doshift-94219",
+   "price": 109,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    10,
+    13
    ],
    "locales": {
     "fr": {
-     "name": "Matelas Flottant Gonflable Rose – 1,83 m",
-     "description": "Profitez pleinement de vos moments de détente dans la piscine avec ce matelas flottant gonflable rose. Sa forme allongée et son appui-tête surélevé offrent une position confortable pour se relaxer sur l’eau pendant les journées ensoleillées.\n\nLéger et pratique, il se gonfle facilement et peut être transporté sans effort à la piscine, à la plage ou pendant les vacances. Son design coloré apporte une touche estivale et moderne à vos moments de baignade.\n\nCaractéristique\nDétail\n\nType de produit\nMatelas flottant gonflable\n\nUtilisation\nPiscine, plage, vacances\n\nLongueur\n1,83 m\n\nLargeur\nEnviron 69 cm\n\nCouleur\nRose\n\nMatière\nPVC résistant\n\nAppui-tête\nOui, intégré et surélevé\n\nConception\nChambres d’air longitudinales pour un meilleur confort\n\nGonflable\nOui\n\nPliable\nOui\n\nTransport\nLéger et facile à emporter\n\nEntretien\nNettoyage avec un chiffon humide, laisser sécher avant rangement\n\nPublic\nAdultes et adolescents\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Profitez pleinement de vos moments de détente dans la piscine avec ce matelas flottant gonflable rose."
+     "name": "Legging Femme Noir avec Finition en Dentelle",
+     "description": "Apportez une touche d’élégance à vos tenues quotidiennes avec ce legging noir pour femme. Conçu dans un tissu doux et extensible, il épouse confortablement la silhouette tout en offrant une excellente liberté de mouvement.\n\nSa finition délicate en dentelle au niveau des chevilles ajoute une note féminine et raffinée. Facile à associer avec une tunique, une chemise longue ou un pull, ce legging convient aussi bien aux sorties qu’aux moments de détente à la maison.\n\nCaractéristique\nDétail\n\nType de produit\nLegging pour femme\n\nCouleur\nNoir\n\nMatière\nTissu doux et extensible\n\nCoupe\nAjustée près du corps\n\nTaille\nÉlastique\n\nFinition\nDentelle élégante aux chevilles\n\nConfort\nSouple et agréable à porter\n\nUtilisation\nQuotidien, sorties et détente\n\nEntretien\nLavage doux recommandé\n\nRéférence\nAA5BB099",
+     "short_description": "Apportez une touche d’élégance à vos tenues quotidiennes avec ce legging noir pour femme."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-15T151947.373.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T170156.807.png"
    ]
   },
   {
-   "sku": "doshift-93229",
-   "price": 189,
+   "sku": "doshift-94213",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Serviette de Bain Rouge à Motif Patchwork Multicolore",
-     "description": "Apportez une touche de couleur à votre salle de bain avec cette serviette au design patchwork original. Son fond rouge intense est associé à des rectangles ornés de fines rayures multicolores pour un rendu moderne et chaleureux.\n\nSa texture moelleuse la rend agréable à utiliser au quotidien après la douche, à la piscine ou à la plage. Son motif distinctif permet également de la reconnaître facilement parmi les autres serviettes de la maison.\n\nCaractéristique\nDétail\n\nType\nServiette de bain\n\nCouleur principale\nRouge\n\nMotif\nPatchwork à rayures multicolores\n\nStyle\nModerne et coloré\n\nTexture\nDouce et moelleuse\n\nUtilisation\nBain, douche, piscine, plage\n\nEntretien\nLavage textile classique\n\nContenu\n1 serviette\n\nRéférence Doshift\nAA11BB099",
-     "short_description": "Apportez une touche de couleur à votre salle de bain avec cette serviette au design patchwork original."
+     "name": "Ensemble Pyjama Femme 2 Pièces Imprimé Ourson",
+     "description": "Profitez de moments de détente tout en douceur avec cet adorable ensemble pyjama pour femme. Son imprimé ourson aux tons marron et rose apporte une touche mignonne et chaleureuse, idéale pour vos soirées et vos nuits à la maison.\n\nL’ensemble comprend un haut ample à col froncé, agrémenté de délicates finitions en dentelle au niveau des manches, ainsi qu’un pantalon long assorti avec taille élastiquée. Sa coupe confortable offre une grande liberté de mouvement pour dormir ou se relaxer.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble pyjama pour femme\n\nNombre de pièces\n2 pièces\n\nComposition de l’ensemble\nHaut et pantalon long\n\nStyle du haut\nCoupe ample avec col froncé\n\nManches\nManches courtes avec finition en dentelle\n\nPantalon\nCoupe longue avec taille élastiquée\n\nMotif\nImprimé ourson\n\nCouleurs\nCrème, marron et rose\n\nUtilisation\nNuit, détente et intérieur\n\nEntretien\nLavage doux recommandé\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Profitez de moments de détente tout en douceur avec cet adorable ensemble pyjama pour femme."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-08-12T204416.632.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T164717.760.png"
    ]
   },
   {
-   "sku": "doshift-93200",
+   "sku": "doshift-94234",
    "price": 209,
    "stock": 10,
    "status": 0,
@@ -87,77 +108,38 @@
    ],
    "locales": {
     "fr": {
-     "name": "Set de Serviettes de Bain 3 Pièces – 100% Coton Doux et Absorbant",
-     "description": "Apportez une touche d’élégance à votre salle de bain avec ce magnifique set de 3 serviettes de bain en coton. Conçues pour offrir une excellente absorption et un confort exceptionnel, ces serviettes sont idéales pour un usage quotidien. Leur coloris violet raffiné et leur bordure décorative dorée ajoutent une finition luxueuse qui s’intègre parfaitement à tous les styles de salle de bain.\n\nFabriquées en 100 % coton, elles sont douces au toucher, résistantes et agréables pour la peau. Le lot comprend trois tailles pratiques pour répondre à tous vos besoins : grande serviette de bain, serviette de toilette et serviette pour les mains.\n\nCaractéristique\nDétail\n\nType\nSet de serviettes de bain\n\nNombre de pièces\n3 serviettes\n\nMatière\n100 % coton\n\nCouleur\nViolet\n\nTexture\nDouce, moelleuse et absorbante\n\nUtilisation\nSalle de bain, douche, visage et mains\n\nAbsorption\nExcellente capacité d’absorption\n\nSéchage\nRapide\n\nEntretien\nLavable en machine\n\nStyle\nÉlégant avec bordure décorative dorée\n\nConvient pour\nUsage quotidien, maison, hôtel, cadeau\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Apportez une touche d’élégance à votre salle de bain avec ce magnifique set de 3 serviettes de bain en coton."
+     "name": "Ensemble de bain fille 3 pièces – Gris et violet",
+     "description": "Offrez à votre enfant confort et liberté de mouvement avec cet élégant ensemble de bain pour fille. Son design moderne associe un haut à manches courtes, une jupe intégrée à motif ondulé, un legging assorti et un bonnet de bain.\n\nConçu dans un tissu léger, souple et agréable à porter, il convient parfaitement pour la piscine, la plage et les activités aquatiques. Sa coupe couvrante permet à l’enfant de bouger, jouer et nager confortablement tout en profitant d’un style élégant.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de bain couvrant pour fille\n\nNombre de pièces\n3 pièces\n\nContenu de l’ensemble\nHaut avec jupe intégrée, legging et bonnet assorti\n\nCouleur\nGris et violet\n\nManches\nManches courtes\n\nStyle\nModerne, couvrant et confortable\n\nMatière\nTissu léger, souple et extensible\n\nSéchage\nRapide\n\nUtilisation\nPiscine, plage et activités aquatiques\n\nPublic\nFille\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Offrez à votre enfant confort et liberté de mouvement avec cet élégant ensemble de bain pour fille."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-07-15T133705.986.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T172457.312.png"
    ]
   },
   {
-   "sku": "doshift-93055",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Valiant Exotique’s Pour Homme – Eau de Parfum (Lot de 2)",
-     "description": "Affirmez votre personnalité avec Valiant Exotique’s Pour Homme, une eau de parfum masculine au caractère intense et raffiné. Son flacon bleu au design luxueux reflète parfaitement l’élégance et la puissance de cette fragrance, idéale pour les hommes modernes qui souhaitent laisser une impression durable.\n\nGrâce à sa composition sophistiquée, ce parfum offre une senteur fraîche, boisée et élégante, adaptée aussi bien au quotidien qu’aux occasions spéciales. Sa tenue longue durée vous accompagne tout au long de la journée avec une présence subtile mais remarquable.\n\nCaractéristique\nDétail\n\nProduit\nEau de Parfum Homme\n\nNom\nValiant Exotique’s Pour Homme\n\nType\nEau de Parfum\n\nGenre\nHomme\n\nContenance\n50 ml × 2\n\nQuantité\nLot de 2 flacons\n\nFamille olfactive\nBoisée & Aromatique\n\nLongue tenue\nOui\n\nUtilisation\nQuotidienne et occasions spéciales\n\nVaporisateur\nOui\n\nDesign\nFlacon premium bleu avec finitions dorées\n\nIdée cadeau\nOui\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Affirmez votre personnalité avec Valiant Exotique’s Pour Homme, une eau de parfum masculine au caractère intense et raffiné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T182923.100.png"
-   ]
-  },
-  {
-   "sku": "doshift-93069",
+   "sku": "doshift-94191",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Shampooing Colorant Watercress – Noir Naturel 420 ml",
-     "description": "Retrouvez une couleur noire naturelle et uniforme avec le shampooing colorant Watercress Raouaie. Sa formule pratique sous forme de shampooing permet de couvrir les cheveux blancs tout en simplifiant l’application à domicile.\n\nSa texture moussante se répartit facilement sur les cheveux pour une coloration homogène. Idéal pour rafraîchir la couleur, masquer les cheveux gris ou retrouver une chevelure d’apparence plus foncée et soignée.\n\nCaractéristique\nDétail\n\nProduit\nShampooing Colorant Watercress\n\nMarque\nRaouaie Natural Care\n\nCouleur\nNoir Naturel (Natural Black)\n\nType\nShampooing colorant moussant\n\nContenance\n420 ml (14.8 fl.oz)\n\nUtilisation\nColoration des cheveux\n\nApplication\nAussi simple qu’un shampooing\n\nTexture\nMousse facile à répartir\n\nConvient pour\nCheveux blancs et cheveux grisonnants\n\nRésultat\nCouleur noire naturelle et homogène\n\nUtilisation\nÀ domicile\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Retrouvez une couleur noire naturelle et uniforme avec le shampooing colorant Watercress Raouaie."
+     "name": "Raccords excentrés muraux chromés – Lot de 2",
+     "description": "Facilitez l’installation de votre robinetterie avec ce lot de 2 raccords excentrés muraux. Leur forme déportée permet d’ajuster l’écartement entre les arrivées d’eau et le mitigeur, afin d’obtenir un raccordement précis et parfaitement aligné.\n\nLeur finition chromée brillante s’intègre élégamment dans toutes les salles de bain. Les rosaces décoratives dissimulent les points de fixation pour une installation propre et soignée, tandis que les joints inclus contribuent à assurer une bonne étanchéité.\n\nCaractéristique\nDétail\n\nType de produit\nRaccords excentrés muraux\n\nQuantité\nLot de 2\n\nFinition\nChromée brillante\n\nUtilisation\nRaccordement et alignement d’un mitigeur mural\n\nCompatibilité\nRobinetterie de douche et de baignoire\n\nInstallation\nFixation murale\n\nFonction\nAjustement de l’écartement entre les arrivées d’eau\n\nFiletage\nFiletage standard\n\nAccessoires inclus\n2 rosaces chromées et 2 joints d’étanchéité\n\nCouleur\nArgent chromé\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Facilitez l’installation de votre robinetterie avec ce lot de 2 raccords excentrés muraux."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T190640.844.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T151759.465.png"
    ]
   },
   {
-   "sku": "doshift-93049",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coffret Parfum Lovely Girl – 2 × 50 ml",
-     "description": "Apportez une touche de douceur et de fantaisie à votre routine avec le coffret Lovely Girl d’Exotique. Son flacon rose en forme d’ourson séduit par son design original, féminin et décoratif.\n\nCe coffret contient deux eaux de parfum de 50 ml, idéales pour une utilisation quotidienne ou comme cadeau pour une occasion spéciale. Leur format pratique permet de conserver un flacon à la maison et d’emporter le second dans un sac ou en voyage.\n\nCaractéristique\nDétail\n\nProduit\nCoffret Parfum Lovely Girl\n\nMarque\nExotique\n\nType\nEau de parfum\n\nContenu du coffret\n2 flacons\n\nContenance\n2 × 50 ml\n\nApplication\nVaporisateur spray\n\nDesign\nFlacon rose en forme d’ourson\n\nStyle\nFéminin, élégant et décoratif\n\nUtilisation\nQuotidienne ou occasion spéciale\n\nIdéal pour\nCadeau, voyage ou usage personnel\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Apportez une touche de douceur et de fantaisie à votre routine avec le coffret Lovely Girl d’Exotique. Son flacon rose en forme d’ourson séduit par son design original, féminin et décoratif."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T175749.744.png"
-   ]
-  },
-  {
-   "sku": "doshift-93036",
-   "price": 89,
+   "sku": "doshift-93885",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -166,32 +148,53 @@
    ],
    "locales": {
     "fr": {
-     "name": "EXOTIQUE CHARMS – Eau de Parfum Femme",
-     "description": "Laissez-vous séduire par EXOTIQUE CHARMS, une eau de parfum élégante qui sublime votre féminité avec une fragrance douce, raffinée et irrésistible. Son parfum délicat apporte une sensation de fraîcheur et de sophistication, idéale pour accompagner toutes vos journées comme vos soirées. Son flacon rose au design élégant apporte également une touche de charme à votre coiffeuse.\n\nCaractéristique\nDétail\n\nType\nEau de Parfum\n\nGenre\nFemme\n\nCollection\nEXOTIQUE CHARMS\n\nFamille olfactive\nFlorale & Fruitée\n\nContenance\n2 × 50 ml\n\nVaporisateur\nOui\n\nUtilisation\nQuotidienne et occasions spéciales\n\nRéférence\nAA3BB099",
-     "short_description": "Laissez-vous séduire par EXOTIQUE CHARMS, une eau de parfum élégante qui sublime votre féminité avec une fragrance douce, raffinée et irrésistible."
+     "name": "Tondeuse Multifonction 3 en 1 iRed IR-T1",
+     "description": "Prenez soin de votre barbe et de votre coiffure avec la tondeuse multifonction iRed IR-T1. Son design élégant aux finitions bronze et dorées s’accompagne de plusieurs têtes interchangeables pour réaliser facilement vos contours, raccourcir votre barbe et entretenir les zones du nez et des oreilles.\n\nSa forme cylindrique offre une prise en main confortable et précise, idéale pour une utilisation quotidienne à la maison ou pendant vos déplacements.\n\nCaractéristique\nDétail\n\nProduit\nTondeuse multifonction 3 en 1\n\nMarque\niRed\n\nModèle\nIR-T1\n\nFonctions\nCoupe de barbe, finition des contours et entretien du nez/oreilles\n\nType de lames\nLames de précision\n\nTêtes\nInterchangeables\n\nUtilisation\nBarbe, moustache, cheveux, nez et oreilles\n\nDesign\nStyle vintage avec finition bronze et dorée\n\nPrise en main\nForme cylindrique ergonomique\n\nFormat\nCompact et facile à transporter\n\nAccessoires inclus\nTêtes de coupe et brosse de nettoyage\n\nCouleur\nBronze et doré\n\nRéférence Doshift\nAA8BB599",
+     "short_description": "Prenez soin de votre barbe et de votre coiffure avec la tondeuse multifonction iRed IR-T1."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T173513.454.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-17T155213.086.png"
    ]
   },
   {
-   "sku": "doshift-92906",
-   "price": 339,
+   "sku": "doshift-93796",
+   "price": 259,
    "stock": 10,
    "status": 0,
    "categories": [
+    2,
     4
    ],
    "locales": {
     "fr": {
-     "name": "Panneau de Brassage 24 Ports CAT6 UTP Connexus",
-     "description": "Organisez et optimisez votre installation réseau avec le panneau de brassage 24 ports CAT6 UTP Connexus. Conçu pour les baies de brassage et les armoires réseau 19″, il offre une gestion propre des câbles, une connexion stable et des performances fiables pour les réseaux domestiques et professionnels.\n\nGrâce à son format 1U rackable, il s’intègre facilement dans toutes les infrastructures réseau. Compatible avec les câbles CAT6 UTP, il garantit une transmission rapide et efficace des données tout en facilitant la maintenance et l’identification des connexions.\n\nCaractéristique\nDétail\n\nProduit\nPanneau de Brassage CAT6 UTP\n\nMarque\nConnexus\n\nType\nPanneau de brassage réseau\n\nNombre de ports\n24 ports RJ45\n\nCatégorie\nCAT6 UTP\n\nFormat\n1U Rackable (19″)\n\nConnectique\nRJ45 Femelle\n\nInstallation\nMontage en baie/armoire réseau 19″\n\nUtilisation\nRéseaux Ethernet, baies de brassage, salles serveurs\n\nCompatibilité\nCâbles Ethernet CAT6 UTP\n\nMatériau\nStructure métallique robuste\n\nCouleur\nNoir\n\nAvantages\nOrganisation du câblage, maintenance simplifiée, connexion stable\n\nApplications\nBureaux, entreprises, centres informatiques, installations réseau professionnelles\n\nRéférence Doshift\nAA21BB099",
-     "short_description": "Organisez et optimisez votre installation réseau avec le panneau de brassage 24 ports CAT6 UTP Connexus."
+     "name": "Coffret Smartwatch avec 7 Bracelets Interchangeables",
+     "description": "Adaptez votre montre à chaque tenue et à chaque occasion grâce à ce coffret complet de smartwatch. Son écran tactile au design moderne et son boîtier élégant offrent un style à la fois sportif et raffiné, idéal pour une utilisation quotidienne.\n\nLe coffret comprend 7 bracelets interchangeables aux couleurs et finitions variées : silicone souple, bracelet texturé et bracelet métallique. Changez facilement de style selon vos envies, que ce soit pour le travail, le sport, les sorties ou les voyages.\n\nLa montre est accompagnée d’un chargeur magnétique avec câble, permettant une recharge simple et pratique. Un ensemble polyvalent et soigneusement présenté, parfait pour un usage personnel ou comme idée cadeau.\n\nCaractéristique\nDétail\n\nType de produit\nCoffret smartwatch avec accessoires\n\nÉcran\nÉcran tactile carré\n\nBoîtier\nFinition métallisée élégante\n\nBracelets inclus\n7 bracelets interchangeables\n\nStyles de bracelets\nSilicone lisse, silicone texturé et métal\n\nCouleurs disponibles\nBleu marine, noir, gris clair, orange et vert kaki\n\nBracelet métallique\nBracelet à maillons argenté inclus\n\nRecharge\nChargeur magnétique avec câble\n\nUtilisation\nQuotidien, sport, travail et sorties\n\nStyle\nModerne, sportif et élégant\n\nContenu du coffret\nSmartwatch, bracelets interchangeables et accessoires de recharge\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA16BB099",
+     "short_description": "Adaptez votre montre à chaque tenue et à chaque occasion grâce à ce coffret complet de smartwatch."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T131345.562.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-17T132802.644.png"
+   ]
+  },
+  {
+   "sku": "doshift-93810",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Smartwatch iRed W10 Pro Max + Écouteurs J70",
+     "description": "Profitez d’un ensemble connecté pratique et élégant avec la smartwatch iRed W10 Pro Max accompagnée des écouteurs sans fil J70. Son grand écran tactile au design moderne permet de consulter facilement l’heure, les notifications et les informations essentielles directement depuis votre poignet.\n\nGrâce à sa connexion Bluetooth, la montre peut être associée à un smartphone compatible pour faciliter la gestion des appels et des alertes du quotidien. Son bracelet en silicone souple assure un port confortable à la maison, au travail ou pendant vos déplacements.\n\nLes écouteurs J70 inclus offrent une expérience d’écoute sans fil pratique pour profiter de votre musique, répondre aux appels ou suivre vos contenus préférés. Leur boîtier de charge compact facilite leur rangement et leur transport.\n\nCaractéristique\nDétail\n\nMarque\niRed\n\nModèle\nW10 Pro Max + J70\n\nType de produit\nSmartwatch avec écouteurs sans fil\n\nConnectivité\nBluetooth\n\nÉcran\nGrand écran tactile couleur\n\nFonctions principales\nAppels, notifications et suivi des informations quotidiennes\n\nBracelet\nSilicone souple et ajustable\n\nCouleur de la montre\nArgenté avec bracelet gris\n\nÉcouteurs inclus\nOui, écouteurs sans fil J70\n\nBoîtier de charge\nInclus\n\nCompatibilité\nSmartphones compatibles Bluetooth\n\nUtilisation\nTravail, sport, déplacements et usage quotidien\n\nContenu du pack\n1 smartwatch, 2 écouteurs, 1 boîtier de charge et accessoires fournis\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Profitez d’un ensemble connecté pratique et élégant avec la smartwatch iRed W10 Pro Max accompagnée des écouteurs sans fil J70."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-17T134838.448.png"
    ]
   }
  ]

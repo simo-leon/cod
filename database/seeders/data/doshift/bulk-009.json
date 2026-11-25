@@ -1,6 +1,63 @@
 {
  "products": [
   {
+   "sku": "doshift-120191",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Couvre-Volant Universel SMG Racing",
+     "description": "Conçu pour offrir une maîtrise accrue de la trajectoire et rehausser l’habitacle de votre véhicule, le couvre-volant SMG Racing SG-46062 allie esthétique sportive et ergonomie de précision. Sa surface extérieure en cuir synthétique texturé présente des micro-stries antidérapantes qui procurent une préhension ferme et agréable, réduisant la fatigue des mains lors des longs trajets.\n\nCaractéristique\nSpécification Détaillée\n\nType\nCouvre-volant de protection et confort de conduite automobile\n\nTaille\nTaille M standard convenant aux volants de 37 à 39 cm de diamètre\n\nMatériaux\nCuir synthétique souple micro-texturé et armature interne élastomère\n\nCompatibilité\nUniverselle pour la majorité des véhicules de tourisme, berlines et SUV\n\nFinition\nNoir mat intégral avec reliefs rainurés façon pneumatique de course\n\nSKU\n9900010929999",
+     "short_description": "Couvre-volant noir taille M (37-39 cm) en similicuir texturé avec grip antidérapant sport."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/2c7faa1f-6bcf-45c0-9d89-694821ef278b.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-119700",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 3 Moules à Charnière Elitehöff E-8015",
+     "description": "Ce set de 3 moules à gâteaux démontables Elitehöff E-8015 offre une liberté créative totale pour réussir tous types d’entremets, génoises, cheesecakes et tourtes. Décliné en trois formes emblématiques (carrée, ronde et cœur), chaque moule intègre une ceinture à charnière robuste en acier chromé et un plateau de base amovible garantissant un démoulage net et sans bavure.\n\nCaractéristique\nSpécification Détaillée\n\nType\nSet de 3 moules de cuisson démontables pour pâtisserie et gâteaux\n\nFormes\n3 géométries complémentaires : carré, rond classique et cœur\n\nMatériau\nAcier au carbone thermoconducteur résistant jusqu’à 230 °C\n\nRevêtement\nAntiadhésif texturé effet granit moucheté noir et blanc\n\nSystème\nCharnières latérales argentées à clip rapide et fonds amovibles\n\nSKU\n9900010929913",
+     "short_description": "Set de 3 moules à pâtisserie démontables (carré, rond, cœur) en acier au carbone antiadhésif effet granit."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/631d8237-7d61-4cdf-b6f8-8fecca2cf6d7.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119499",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Roulette à Pizza Professionnelle Jing Xin (Lame Bleue & Chrome)",
+     "description": "Alliant élégance contemporaine et tranchant chirurgical, la roulette à pizza professionnelle Jing Xin sublime la découpe de vos pizzas, tartes flambées, focaccias et pâtes brisées. Son disque rotatif en acier inoxydable revêtu d’un bleu saphir antiadhésif traverse les garnitures épaisses et les pâtes croustillantes d’un mouvement fluide sans accrocher.\n\nCaractéristique\nSpécification Détaillée\n\nType\nRoulette découpe-pizza rotative design ergonomique\n\nLame\nDisque circulaire en acier inoxydable revêtu bleu saphir\n\nManche\nPoignée galbée profilée noire laquée avec renfort chromé\n\nFinition\nBras de fourche et garde en métal chromé poli miroir\n\nSécurité\nDouble garde d’appui arrondie protégeant les doigts\n\nSKU\n9900010929869",
+     "short_description": "Roulette à pizza avec lame rotative en acier bleu saphir et manche ergonomique noir chromé."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-16-01-15.webp"
+   ]
+  },
+  {
    "sku": "doshift-119483",
    "price": 79,
    "stock": 10,
@@ -135,64 +192,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-14-01-7.webp"
-   ]
-  },
-  {
-   "sku": "doshift-118896",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clé Serre-Tubes Professionnelle Tatian 18″ (450 mm)",
-     "description": "Conçue pour les travaux exigeants de plomberie, de tuyauterie industrielle et de mécanique générale, la clé serre-tubes Tatian 18″ (450 mm) offre un couple de serrage et une robustesse remarquables.\n\nCaractéristique\nSpécification Détaillée\n\nType\nClé serre-tubes modèle américain (Heavy Duty)\n\nCapacité\nLongueur nominale 18″ (450 mm) pour tubes jusqu’à 2″ 1/2 (65 mm)\n\nMatériaux\nCorps en fonte ductile nervurée et mâchoires en acier forgé Cr-V\n\nMâchoires\nDenture inversée auto-serrante traitée thermiquement par induction\n\nErgonomie\nManche profilé avec gaine noire antidérapante et trou d’accroche\n\nSKU\n9900010929692",
-     "short_description": "Clé serre-tubes 18″ (450 mm) en fonte ductile orange avec mâchoires en acier forgé et manche gainé antidérapant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-14-01-3.webp"
-   ]
-  },
-  {
-   "sku": "doshift-118733",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pédalier Sport Sparco Racing Attitude Automatique (2 Pièces)",
-     "description": "Rehaussez le style intérieur de votre véhicule tout en optimisant votre confort de conduite avec le kit couvre-pédales sport Sparco Racing Attitude HL-8806 pour boîte automatique. Conçu à partir d’un alliage d’aluminium robuste associé à des inserts antidérapants noirs haute densité, ce pédalier offre une adhérence maximale et un contrôle précis sous la semelle, même par temps de pluie.\n\nCaractéristique\nSpécification Détaillée\n\nType\nCouvre-pédales sport antidérapants universels\n\nCompatibilité\nVéhicules à boîte automatique (2 pédales : frein et accélérateur)\n\nMatériaux\nAlliage d’aluminium brossé et inserts polymères antidérapants\n\nFinition\nNoir mat texturé, liseré rouge vif et accents argentés\n\nFixation\nKit universel avec pattes de serrage et visserie arrière\n\nSKU\n9900010929685",
-     "short_description": "Kit pédalier sport 2 pièces pour boîte automatique en aluminium et caoutchouc antidérapant finition Sparco Racing."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-13-01-2.webp"
-   ]
-  },
-  {
-   "sku": "doshift-118685",
-   "price": 229,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lanterne Décorative Lumineuse Blanche avec Figurines d’Oursons et Paillettes Scintillantes",
-     "description": "Structure rectangulaire blanche avec toit pyramidal et anneau, intégrant une cuve transparente lumineuse remplie de paillettes et d’oursons.\n\nCatégorie\nDécoration intérieure\n\nFonctionnalités\nÉclairage intérieur chaud intégré · Scène intérieure avec deux oursons · Effet paillettes scintillantes en suspension · Anneau de préhension ou de suspension au sommet · Base moulée avec motifs en relief\n\nConception\nLanterne de style classique blanc avec parois transparentes et socle gravé de motifs ornementaux.\n\nRéférence\n9900010975446",
-     "short_description": "Structure rectangulaire blanche avec toit pyramidal et anneau, intégrant une cuve transparente lumineuse remplie de paillettes et d’oursons."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/27fb8ef9-7e97-40a8-a594-b739554b36e8.jpg"
    ]
   }
  ]

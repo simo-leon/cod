@@ -1,89 +1,128 @@
 {
  "products": [
   {
-   "sku": "doshift-53039",
-   "price": 99,
+   "sku": "doshift-55483",
+   "price": 439,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Manette compatible Pour Nintendo Switch Joy-Con Bleu et Rouge",
+     "description": "Plateforme Nintendo Switch\n\nType d’accessoire gaming Manette\n\nCouleur Bleu et Rouge\n\nCommunications sans fil Bluetooth",
+     "short_description": "Plateforme Nintendo Switch"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/2-21.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-55453",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pochette de transport et de protection Nintendo Switch",
+     "description": "ensemble de couverture de voyage\n\nProtection complète Durable-coque rigide en EVA robuste avec couches de Protection amortissantes qui maintient et protège Nintendo Switch; Doublure intérieure douce fournit une maison confortable pour votre Nintendo Switch\n\nPrévention de la poussière, des chocs et des rayures-s’adapte à la Nintendo Switch avec ses deux contrôleurs Joy-Con attachés à elle, en utilisant la sangle élastique, votre interrupteur reste stable et ne rebondit pas à l’intérieur de la mallette de transport\n\nEspace de rangement pour tous les essentiels-l’intérieur dispose d’une poche intérieure en filet séparée qui peut s’adapter à des inconvénients supplémentaires, des poignées joy-con, des câbles, des jeux, un câble de chargeur, un adaptateur secteur Micro SD, chiffon de nettoyage ou écouteurs et autres accessoires plus petits mais essentiels.\n\nPortable Compact pratique-le rabat souple est livré avec 10 fentes pour cartes de jeu afin que vous puissiez apporter vos jeux préférés avec vous, peu importe où vous allez; le séparateur à rabat souple protège l’écran contre les rayures à l’intérieur du boîtier. Ils rendent également votre commutateur plus stable et pratique lorsque vous voyagez ou que vous n’utilisez pas\n\nDesign élégant et Unique-poignée de transport pour une portabilité facile, l’étui est grand à l’intérieur mais petit à l’extérieur, il contient beaucoup d’accessoires tout en offrant une excellente protection pour vous console Nintendo Switch et accessoires",
+     "short_description": "ensemble de couverture de voyage"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1-32.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-55246",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Couteau Rasoir de Précision – Outil Professionnel pour Barbe & Coiffure",
+     "description": "Ce couteau rasoir de précision est l’outil idéal pour définir les contours de barbe, nuque et moustache, ainsi que pour les finitions en salon de coiffure. Son manche ergonomique assure une prise en main confortable et stable, permettant un contrôle optimal lors des coupes détaillées. Adapté aussi bien aux coiffeurs professionnels qu’aux particuliers souhaitant obtenir un résultat net et propre.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nRasoir manuel de précision\n\nUtilisation\nBarbe, moustache, contours, finitions\n\nNiveau\nProfessionnel & usage personnel\n\nManche\nErgonomique & léger\n\nLame\nRemplaçable\n\nApplication\nSalon & domicile\n\nAvantages\nPrécision – Nettoyage – Contrôle\n\nPublic\nCoiffeurs / barbiers / particuliers\n\nEntretien\nNettoyage simple & changement de lame\n\nRéférence-doshift\nAA0BB599",
+     "short_description": "Ce couteau rasoir de précision est l’outil idéal pour définir les contours de barbe, nuque et moustache, ainsi que pour les finitions en salon de coiffure."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ecc4b75a-1196-4d6a-879f-f7e83de358ec.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55230",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    7,
-    8
+    8,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Clé à Filtre à Huile Universelle – Efficacité & Simplicité pour Vos Vidanges",
-     "description": "La clé à filtre à huile universelle est l’outil indispensable pour réaliser vos vidanges rapidement et sans effort. Conçue pour s’adapter à une large gamme de filtres à huile, elle garantit une prise ferme et sécurisée grâce à son système à sangle crantée antidérapante. Robuste et durable, elle facilite le démontage comme l’installation des filtres, même dans les espaces restreints du compartiment moteur. Idéale aussi bien pour les particuliers que pour les professionnels de l’automobile.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nClé à filtre à huile\n\nCompatibilité\nUniverselle – convient à plusieurs tailles de filtres\n\nSystème de serrage\nSangle crantée antidérapante\n\nUtilisation\nDémontage et installation de filtres à huile\n\nMatériaux\nAcier chromé et zinc renforcé\n\nPrise en main\nErgonomique et sécurisée\n\nAvantage principal\nEffort réduit, efficacité maximale\n\nApplication\nEntretien automobile, garage, usage domestique\n\nDurabilité\nHaute résistance à l’usure et à la corrosion\n\nInstallation\nRapide et facile, sans outils supplémentaires\n\nRéférence-doshift\nAA1BB699",
-     "short_description": "La clé à filtre à huile universelle est l’outil indispensable pour réaliser vos vidanges rapidement et sans effort."
+     "name": "Pince à Manucure Professionnelle Ranee – Précision pour Cuticules & Nail Art",
+     "description": "La pince à manucure Ranee est conçue pour assurer une précision optimale lors des soins des ongles et de la préparation des cuticules. Sa forme ergonomique et sa pointe inclinée permettent un travail propre et précis, idéal pour les esthéticiennes, prothésistes ongulaires et passionnées de Nail Art. L’acier inoxydable assure une longue durée d’utilisation et une hygiène parfaite. Un outil essentiel pour obtenir une finition professionnelle.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nRanee\n\nType\nPince de manucure\n\nUtilisation\nCoupe cuticules / nettoyage / préparation des ongles\n\nMatériau\nAcier inoxydable\n\nDesign\nPointe inclinée pour précision\n\nConfort\nManipulation ergonomique\n\nNiveau\nProfessionnel & débutant\n\nEntretien\nFacile à nettoyer\n\nIdéal pour\nNail Art, salons, écoles, usage personnel\n\nRéférence-doshift\nAA2BB099",
+     "short_description": "La pince à manucure Ranee est conçue pour assurer une précision optimale lors des soins des ongles et de la préparation des cuticules."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-31-dec.-2025-20_37_20-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/899f1102-4e52-4f02-a912-7a5b18ebabf5.jpeg"
    ]
   },
   {
-   "sku": "doshift-52994",
-   "price": 99,
+   "sku": "doshift-55218",
+   "price": 669,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Jeu de Tournevis Essentiels – 7 Pièces Professionnelles",
-     "description": "Ce jeu de 7 tournevis essentiels est conçu pour répondre à tous vos besoins de bricolage, de réparation et de maintenance. Que ce soit pour l’électronique, le montage de meubles, les équipements domestiques ou les petits travaux techniques, ces tournevis offrent une prise en main confortable, une excellente précision et une durabilité optimale.Grâce à leurs poignées ergonomiques antidérapantes et leurs embouts résistants, ils garantissent un travail efficace, sûr et sans effort, aussi bien pour les professionnels que pour les particuliers.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nJeu de tournevis\n\nNombre de pièces\n7 pièces\n\nTypes d’embouts\nPlat & Cruciforme (Phillips)\n\nMatériau de la tige\nAcier trempé haute résistance\n\nPoignée\nErgonomique, antidérapante\n\nCouleur\nRouge & Noir\n\nUtilisation\nBricolage, électronique, montage de meubles, réparations diverses\n\nPrise en main\nConfortable et précise\n\nPublic cible\nProfessionnels & particuliers\n\nDurabilité\nConçus pour un usage intensif\n\nRéférence-doshift\nAA4BB599",
-     "short_description": "Ce jeu de 7 tournevis essentiels est conçu pour répondre à tous vos besoins de bricolage, de réparation et de maintenance."
+     "name": "Lampe LED Moon – Éclairage Courbé Moderne avec Protection Oculaire",
+     "description": "La lampe LED Moon offre un éclairage moderne et élégant grâce à son design courbé unique, idéal pour le bureau, le salon ou la chambre. Sa lumière douce et homogène réduit la fatigue visuelle tout en offrant un confort optimal pour la lecture, le travail ou la détente. Dotée d’un réglage de luminosité et de température de couleur, elle s’adapte à toutes les ambiances. Disponible en plusieurs coloris, elle combine style, praticité et bien-être visuel au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLampe LED décorative\n\nModèle\nLED Moon Lamp\n\nDesign\nCourbé – Style moderne\n\nProtection\nProtection oculaire (Eye Protection)\n\nLuminosité\nRéglable\n\nTempérature de couleur\nRéglable\n\nEspace lumineux\nLarge & homogène\n\nCouleurs disponibles\nBlack – White – Pink\n\nUtilisation\nLecture, travail, décoration\n\nAlimentation\nLED basse consommation\n\nInstallation\nPosée sur bureau ou table\n\nRéférence-doshift\nAA50BB099",
+     "short_description": "La lampe LED Moon offre un éclairage moderne et élégant grâce à son design courbé unique, idéal pour le bureau, le salon ou la chambre."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-04-01T194706.331.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/05471594-f400-4ed4-82e8-8529cb192ff6.jpeg"
    ]
   },
   {
-   "sku": "doshift-52736",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clé à Sangle Universelle – Robustesse & Adaptabilité",
-     "description": "La clé à sangle universelle est l’outil indispensable pour serrer ou desserrer facilement des objets cylindriques sans les abîmer. Grâce à sa sangle flexible et résistante, elle s’adapte à de nombreux diamètres et offre une prise ferme et sécurisée. Son manche ergonomique garantit un confort optimal, même lors d’une utilisation prolongée, que ce soit pour le bricolage domestique ou les travaux professionnels.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nClé à sangle universelle\n\nMatériau de la sangle\nNylon renforcé haute résistance\n\nLargeur de la sangle\n5 mm (3/16″)\n\nLongueur de la sangle\nEnviron 500 mm\n\nDiamètre compatible\nJusqu’à 225 mm\n\nManche\nErgonomique, antidérapant\n\nAjustement\nUniversel et flexible\n\nUtilisation\nBricolage, plomberie, mécanique, entretien\n\nAvantage principal\nNe raye pas les surfaces\n\nCouleur\nJaune & Vert\n\nRéférence-doshift\nAA1BB699",
-     "short_description": "La clé à sangle universelle est l’outil indispensable pour serrer ou desserrer facilement des objets cylindriques sans les abîmer."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_2amfzp2amfzp2amf-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-52723",
+   "sku": "doshift-55237",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    8,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "MOD-800 – Chalumeau à Gaz Haute Performance",
-     "description": "Le MOD-800 est un chalumeau à gaz puissant et polyvalent, conçu pour répondre aussi bien aux besoins du bricolage, de la cuisine professionnelle que des travaux de précision. Grâce à sa flamme réglable et pulsante, il offre un contrôle optimal de la chaleur pour des résultats précis et sécurisés. Son design ergonomique et son allumage électronique garantissent une utilisation simple, rapide et fiable au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nMOD-800\n\nType\nChalumeau à gaz\n\nFlamme\nRéglable & pulsante\n\nAllumage\nÉlectronique (sans briquet)\n\nTempérature maximale\nHaute température (idéale pour soudure et cuisine)\n\nUtilisations\nCuisine, bricolage, soudure légère, artisanat\n\nSécurité\nSystème de protection intégré\n\nPrise en main\nErgonomique et antidérapante\n\nAlimentation\nGaz butane (cartouche rechargeable)\n\nCouleur\nNoir / Argent\n\nMarque\nTORCH\n\nRéférence-doshift\nAA4BB799",
-     "short_description": "Le MOD-800 est un chalumeau à gaz puissant et polyvalent, conçu pour répondre aussi bien aux besoins du bricolage, de la cuisine professionnelle que des travaux de précision."
+     "name": "Set de 12 Pinceaux Nail Art Professionnels",
+     "description": "Réalisez des décorations d’ongles précises et créatives grâce à ce set de 12 pinceaux Nail Art. Conçus pour les débutants comme pour les professionnels, ces pinceaux offrent différentes tailles pour dessiner des lignes fines, des fleurs, des motifs détaillés, des dégradés et bien plus encore. Leur manche ergonomique avec design torsadé assure une prise en main confortable et un contrôle optimal lors de chaque création.\n\nLes capuchons de protection inclus permettent de préserver les pointes et d’assurer une longue durée de vie aux pinceaux. Un accessoire indispensable pour toutes vos créations de manucure à domicile ou en salon.\n\nCaractéristique\nDétail\n\nType\nSet de pinceaux Nail Art\n\nQuantité\n12 pièces\n\nUtilisation\nDessin, détails, lignes fines, décorations d’ongles\n\nTailles\nDifférentes tailles incluses\n\nManche\nAcrylique torsadé ergonomique\n\nEmbout\nPointe fine de précision\n\nProtection\nCapuchons de protection inclus\n\nPublic\nDébutants et professionnels\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Réalisez des décorations d’ongles précises et créatives grâce à ce set de 12 pinceaux Nail Art."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_23yvbs23yvbs23yv-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-06-09T133221.420.png"
    ]
   },
   {
-   "sku": "doshift-52717",
-   "price": 130,
+   "sku": "doshift-54993",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -91,111 +130,70 @@
    ],
    "locales": {
     "fr": {
-     "name": "Pulvérisateur de Toilette Hygiénique – Innovation & Confort Quotidien",
-     "description": "Le pulvérisateur de toilette est une solution moderne et pratique pour améliorer l’hygiène au quotidien. Conçu pour offrir un nettoyage efficace, précis et respectueux de l’environnement, il permet une utilisation polyvalente aussi bien pour les toilettes que pour le lavabo, le nettoyage d’objets ou même l’arrosage léger des plantes. Son design ergonomique, ses matériaux durables et sa pression réglable garantissent un confort d’utilisation optimal tout en assurant une propreté irréprochable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType de produit\nPulvérisateur de toilette (douchette hygiénique)\n\nUtilisation\nNettoyage des toilettes, rinçage de lavabo, nettoyage d’objets, arrosage léger\n\nPression\nRéglable pour un contrôle précis du débit\n\nMatériaux\nPlastique ABS haute qualité + finitions métalliques\n\nInstallation\nFacile et rapide, compatible avec la majorité des flexibles standards\n\nDesign\nModerne, compact et ergonomique\n\nHygiène\nNettoyage ciblé et efficace sans contact\n\nÉconomie d’eau\nRéduction de la consommation d’eau\n\nEntretien\nFacile à nettoyer, résistant à l’humidité\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA1BB399",
-     "short_description": "Le pulvérisateur de toilette est une solution moderne et pratique pour améliorer l’hygiène au quotidien."
+     "name": "Bocal à Biscuits Design – Verre & Bambou avec Bouton en Cristal",
+     "description": "Ajoutez une touche d’élégance à votre cuisine avec ce bocal à biscuits en verre soufflé, équipé d’un couvercle en bambou hermétique et d’un bouton décoratif en cristal. Conçu pour conserver la fraîcheur de vos biscuits, céréales, fruits secs ou friandises, il est aussi un magnifique élément décoratif sur un plan de travail, une étagère ou un îlot de cuisine.\n\nPolyvalent, moderne et facile à entretenir, ce bocal s’adapte à tous les styles d’intérieur tout en assurant un rangement esthétique et fonctionnel.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nMatériau du bocal\nVerre soufflé\n\nMatériau du couvercle\nBambou naturel\n\nBouton\nCristal décoratif\n\nFermeture\nHermétique\n\nUtilisations\nBiscuits, céréales, fruits secs, bonbons, snacks…\n\nEntretien\nNettoyage facile – verre & bois\n\nStyle\nModerne & élégant\n\nCouleur\nSelon disponibilité\n\nAvantage principal\nConservation + décoration\n\nRéférence-doshift\nAA2BB099",
+     "short_description": "Ajoutez une touche d’élégance à votre cuisine avec ce bocal à biscuits en verre soufflé, équipé d’un couvercle en bambou hermétique et d’un bouton décoratif en cristal."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-29-dec.-2025-21_11_12-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_yu9nfbyu9nfbyu9n-1-3.png"
    ]
   },
   {
-   "sku": "doshift-52705",
-   "price": 129,
+   "sku": "doshift-54910",
+   "price": 519,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Hygiène Moderne & Polyvalence au Quotidien",
-     "description": "Le pulvérisateur de toilette multifonction est une solution moderne et hygiénique conçue pour simplifier le nettoyage quotidien. Grâce à sa pression réglable et son design ergonomique, il offre un contrôle précis de l’eau pour une utilisation confortable et efficace. Polyvalent, il s’adapte aussi bien au nettoyage des toilettes qu’au rinçage du lavabo, au lavage de petits objets ou même à l’arrosage des plantes. Un indispensable pour une salle de bain propre, pratique et économique.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPulvérisateur de toilette / douchette WC\n\nMatériau\nABS haute qualité + tuyau métallique inox\n\nCouleur\nNoir mat\n\nPression\nRéglable (jet contrôlé et précis)\n\nType de jet\nJet continu puissant\n\nInstallation\nFacile et rapide (sans perçage)\n\nCompatibilité\nUniverselle (WC, lavabo, robinet standard)\n\nUtilisations\nToilettes, lavabo, nettoyage, plantes, petits objets\n\nConfort\nPoignée ergonomique antidérapante\n\nÉconomie d’eau\nRéduction de la consommation d’eau\n\nEntretien\nFacile à nettoyer\n\nDurabilité\nRésistant à l’humidité et à la corrosion\n\nRéférence-doshift\nAA1BB399",
-     "short_description": "Le pulvérisateur de toilette multifonction est une solution moderne et hygiénique conçue pour simplifier le nettoyage quotidien."
+     "name": "RING LIGHT PORTÁTIL CLIPE FLASH PARA SELFIE NÃO USA PILHAS",
+     "description": "Marca\n‎Selfie Ring Light\n\nFabricante\n‎Selfie Ring Light\n\nNúmero da peça\n‎RL-Selfie-XJ01\n\nDuração média da bateria\n‎45 Minutos\n\nTecnologia de conexão\n‎USB\n\nCor\n‎Preto\n\nCor correspondente\n‎Preto\n\nConexões\n‎USB USB\n\nPeso do produto\n‎61 g\n\nReferência do fabricante\n‎RL-Selfie-XJ01\n\nDimensões do produto\n‎13 x 10 x 4 cm; 61 g",
+     "short_description": "Marca ‎Selfie Ring Light"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-29-dec.-2025-21_01_44-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/610pmAd0WdL._AC_SL1200_.jpg"
    ]
   },
   {
-   "sku": "doshift-52698",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Aérateur de Robinet Rotatif Économiseur d’Eau – Double Jet avec Filtre & Adaptateur Universel",
-     "description": "Optimisez votre quotidien en cuisine ou salle de bain grâce à cet aérateur de robinet polyvalent et performant. Conçu pour améliorer le confort d’utilisation tout en réduisant la consommation d’eau, il offre un double jet rotatif, idéal pour le lavage des aliments, le rinçage de la vaisselle ou le nettoyage ciblé du lavabo.Doté d’un filtre intégré et d’un réducteur de débit, cet accessoire innovant permet une économie d’eau de 20 à 30 %, sans perte de pression. Son design moderne en finition chromée s’adapte parfaitement à la majorité des robinets standards.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAérateur de robinet\n\nFonction principale\nÉconomie d’eau & amélioration du jet\n\nType de jet\nDouble jet rotatif (jet concentré & jet pluie)\n\nRotation\nOrientation réglable à 360°\n\nÉconomie d’eau\nJusqu’à 20–30 %\n\nFiltration\nFiltre intégré + réducteur de débit\n\nMatériau\nABS renforcé + finition chromée\n\nCompatibilité\nRobinets standards cuisine & salle de bain\n\nInstallation\nFacile, sans outils\n\nAdaptateur\nInclus\n\nUtilisation\nLavage légumes, vaisselle, nettoyage ciblé\n\nCouleur\nArgent / Noir\n\nEntretien\nDémontable et facile à nettoyer\n\nRéférence-doshift\nAA0BB899",
-     "short_description": "Optimisez votre quotidien en cuisine ou salle de bain grâce à cet aérateur de robinet polyvalent et performant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_p0ge7sp0ge7sp0ge-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-52691",
-   "price": 60,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse Métallique Multifonction – Nettoyage & Préparation des Surfaces",
-     "description": "La brosse métallique multifonction est un outil indispensable pour le nettoyage intensif, la rénovation et la préparation de différentes surfaces. Conçue avec des poils métalliques robustes et une poignée ergonomique antidérapante, elle permet d’éliminer efficacement la rouille, les résidus tenaces, la peinture écaillée et les saletés incrustées. Idéale pour un usage domestique, automobile ou professionnel, elle garantit un travail précis, rapide et durable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBrosse métallique manuelle\n\nMatériau des poils\nAcier métallique haute résistance\n\nPoignée\nPlastique ergonomique antidérapant\n\nUtilisation\nNettoyage, décapage, préparation de surfaces\n\nApplications\nRouille, grilles BBQ, métal, briques, jantes, surfaces dures\n\nRésistance\nForte résistance à l’usure et à la corrosion\n\nPrise en main\nConfortable, réduit la fatigue\n\nUsage\nDomestique & professionnel\n\nEntretien\nLavable à l’eau, séchage rapide\n\nRéférence-doshift\nAA0BB699",
-     "short_description": "La brosse métallique multifonction est un outil indispensable pour le nettoyage intensif, la rénovation et la préparation de différentes surfaces."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-29-dec.-2025-20_06_49-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-52677",
+   "sku": "doshift-54885",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    7
+    11
    ],
    "locales": {
     "fr": {
-     "name": "QILONG Motorcycle Lock – Cadenas Moto Haute Sécurité Anti-Vol",
-     "description": "Protégez efficacement votre moto avec le cadenas QILONG Motorcycle Lock, conçu pour offrir une sécurité maximale en milieu urbain comme en stationnement prolongé. Grâce à sa structure robuste et son design renforcé, ce cadenas dissuade efficacement les tentatives de vol tout en garantissant une utilisation simple et rapide au quotidien. Idéal pour les motards exigeants, il combine résistance, fiabilité et tranquillité d’esprit, que ce soit à la maison, au travail ou en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nQILONG\n\nType de produit\nCadenas de sécurité pour moto\n\nUtilisation\nAnti-vol moto / scooter\n\nSystème de verrouillage\nVerrou mécanique renforcé\n\nMatériau\nAcier haute résistance\n\nNiveau de sécurité\nÉlevé – Anti-vol avancé\n\nRésistance\nAnti-coupure, anti-sciage\n\nCompatibilité\nRoue avant / arrière, cadre\n\nUtilisation\nUrbaine & extérieure\n\nCouleur\nRouge & argent\n\nAvantage principal\nSécurité renforcée et robustesse\n\nRéférence-doshift\nAA2BB799",
-     "short_description": "Protégez efficacement votre moto avec le cadenas QILONG Motorcycle Lock, conçu pour offrir une sécurité maximale en milieu urbain comme en stationnement prolongé."
+     "name": "Pinces pour extension cils -droit et courbé",
+     "description": "1 pince à pointe droite et 1 pince incurvée, vous pouvez choisir une pince à épiler en fonction de vos besoins.Pince à épiler pour extensions de cils spécialement conçue pour les tâches professionnelles de précision dans la greffe de cils, conçue pour répondre aux exigences du travail d’extension des cils en acier inoxydable anti-magnétique et anti-acide, résistante à la rouille ; convient pour les salons de maquillage, les studios de maquillage, les maquilleurs, les professionnels ou pour une utilisation personnelleBon pour sélectionner, isoler et ramasser les cils ; les pointes fines les rendent plus faciles à manœuvrer dans n’importe quelle direction ou angle.\n\npincespour extension cils -droit et courbé",
+     "short_description": "1 pince à pointe droite et 1 pince incurvée, vous pouvez choisir une pince à épiler en fonction de vos besoins.Pince à épiler pour extensions de cils spécialement conçue pour les tâches professionnelles de précision…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_up7m32up7m32up7m-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057943-15_1.jpg"
    ]
   },
   {
-   "sku": "doshift-52490",
-   "price": 109,
+   "sku": "doshift-54883",
+   "price": 73,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    7
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Cadenas de Sécurité MINOY 60 mm – Protection Renforcée et Polyvalente",
-     "description": "Le cadenas de sécurité MINOY 60 mm est conçu pour offrir une protection fiable et durable à vos biens au quotidien. Fabriqué avec des matériaux robustes et un mécanisme de verrouillage précis, il garantit une résistance élevée contre les tentatives d’effraction. Polyvalent, il est idéal pour sécuriser vélos, portes, armoires, valises, casiers ou portails. Son design moderne et compact assure une utilisation simple tout en offrant une sécurité optimale, que ce soit à la maison, au bureau ou en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nMINOY\n\nType de produit\nCadenas de sécurité\n\nLargeur du corps\n60 mm\n\nMatériau du corps\nAlliage métallique haute résistance\n\nMatériau de l’anse\nAcier trempé\n\nMécanisme\nVerrouillage à clé\n\nNombre de clés\n2 clés incluses\n\nRésistance\nAnti-corrosion, anti-effraction\n\nUtilisation\nVélo, valise, porte, armoire, casier, portail\n\nCouleur\nArgent / Métal\n\nUsage\nIntérieur & extérieur\n\nRéférence-doshift\nAA2BB899",
-     "short_description": "Le cadenas de sécurité MINOY 60 mm est conçu pour offrir une protection fiable et durable à vos biens au quotidien."
+     "name": "Épilateur À Lèvres Fines Outil Pratique avec ressors rasoir , épilateur visage",
+     "description": "épilateur efficace pour le visage :100% tout neuf et de haute qualité. il Élimine les poils à la racine pour un teint sans poils plus durable\n\naussi les poils du visage en excès / indésirables, laisse votre peau plus douce et sans poils.\n\nNaturel, sûr et pratique.Aucun produit chimique, tout le monde peut l’utiliser.\n\nIl fonctionne comme une pince à épiler, sauf qu’il enlève une plus grande surface de poils à la fois, ce qui le rend plus rapide.\n\nCouleur : rouge, violet, bleu\n\nListe de colisage: 1 outil d’épilateur pour le visage\n\nusage visage.Matériel: métal + plastiqueTaille: 9cmX15cm(1 pouce = 25.4mm ou 1mm = 0.0393 pouce)Couleur: rouge, violet, bleu aléatoire )",
+     "short_description": "épilateur efficace pour le visage :100% tout neuf et de haute qualité. il Élimine les poils à la racine pour un teint sans poils plus durable"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_nujfhmnujfhmnujf-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057938-13_1.jpg"
    ]
   }
  ]

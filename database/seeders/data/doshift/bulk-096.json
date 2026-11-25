@@ -1,200 +1,205 @@
 {
  "products": [
   {
-   "sku": "doshift-54886",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Kit de Pinceaux Maquillage 5 Pièces Professionnel",
-     "description": "Obtenez un maquillage précis et élégant avec ce set de 5 pinceaux professionnels. Conçus avec des poils doux et denses, ces pinceaux assurent une application homogène du fond de teint, poudre, blush et maquillage des yeux. Leur design moderne noir et finition métallique apporte une touche chic à votre routine beauté. Compacts et faciles à transporter, ils sont parfaits pour une utilisation quotidienne à la maison ou en déplacement.\n\nCaractéristique\nDétail\n\nType\nKit pinceaux maquillage\n\nNombre de pièces\n5 pinceaux\n\nUtilisation\nVisage et yeux\n\nMatière des poils\nFibres synthétiques douces\n\nCouleur\nNoir et argent\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "Obtenez un maquillage précis et élégant avec ce set de 5 pinceaux professionnels. Conçus avec des poils doux et denses, ces pinceaux assurent une application homogène du fond de teint, poudre, blush et maquillage des…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-05-19T162313.362.png"
-   ]
-  },
-  {
-   "sku": "doshift-54881",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Alteco 4 colle alteco 110 super glue 3 g",
-     "description": "Tube de 3 gr\n\nSUPER GLUE 110 est utilisé pour le métal, le plastique, le bois, la porcelaine, le verre, le papier, le cuir et le caoutchouc\n\nPrécautions lors de la manipulation: pour garder la pointe du tube dégagée et retirer la colle des doigts, essuyez l’excès de colle avec un chiffon ou du papier absorbant. Conservez dans un endroit frais et sec\n\nApplication: les deux surfaces doivent être lisses, propres et sèches\n\n– appliquer sur une surface. seulement une goutte par pouce carré et pas plus\n\n– placer dans une position fixe, appliquer une légère pression jusqu’à ce que les ensembles se collent",
-     "short_description": "Tube de 3 gr"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/1768057933-11_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-54734",
-   "price": 59,
+   "sku": "doshift-56595",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    8,
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Pochette de Rangement Classique – Organisation par Couleurs",
-     "description": "Gardez vos documents parfaitement organisés grâce à ces pochettes de rangement colorées ! Idéales pour le bureau, l’école, les administrations, les comptables ou tout espace nécessitant une catégorisation visuelle rapide.Grâce à leur fermeture par bouton pression et leur plastique semi-rigide, elles protègent efficacement vos papiers, factures, contrats, tickets, photos, etc.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPochette de rangement avec pression\n\nFormat\nA4\n\nMatière\nPlastique semi-rigide\n\nFermeture\nBouton pression\n\nTransparence\nSemi-transparent\n\nUtilisation\nBureau, École, Professionnel, Maison\n\nCatégorisation\nCouleur pour tri visuel rapide\n\nCouleurs disponibles\nJaune – Bleu – Vert – Orange – Rouge (Selon disponibilité)\n\nCapacité\nPlusieurs documents A4, factures, dossiers, reçus\n\nEntretien\nLavable et durable\n\nRéférence-doshift\nAA1BB099",
-     "short_description": "Gardez vos documents parfaitement organisés grâce à ces pochettes de rangement colorées !"
+     "name": "Set Éducatif – Lettres & Chiffres Colorés",
+     "description": "Offrez à votre enfant un support ludique pour apprendre à reconnaître les lettres, les chiffres et les opérations mathématiques tout en stimulant la créativité. Grâce aux planches perforées, il peut composer des mots simples, réaliser des calculs ou même créer ses propres combinaisons. Idéal pour l’apprentissage à la maison ou en environnement scolaire.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nÂge recommandé\n3 ans et +\n\nContenu\nLettres + chiffres + symboles mathématiques\n\nNombre d’éléments\n+150 pièces\n\nPlateaux\n4 planches perforées assemblables\n\nMatériau\nPlastique éducatif non-toxique\n\nUtilisation\nApprentissage ludique – lecture – calcul\n\nDéveloppement\nMotricité fine, langage, logique, reconnaissance visuelle\n\nCouleurs\nMulticolores\n\nAvantage\nCréativité + apprentissage progressif\n\nRéférence – DOSHIFT\nAA8BB099",
+     "short_description": "Offrez à votre enfant un support ludique pour apprendre à reconnaître les lettres, les chiffres et les opérations mathématiques tout en stimulant la créativité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/743bbde2-b440-4821-a89b-3359543d31d3.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/143c28e6-4ca0-4457-9850-aa0cecb74d5d.jpeg"
    ]
   },
   {
-   "sku": "doshift-54729",
-   "price": 49,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Étiquettes Adhésives 26×12 mm – Rouleau 1000 Pièces – Forte Adhésion & Usage Multi-Commerce",
-     "description": "Ces étiquettes adhésives 26×12 mm sont conçues pour faciliter le marquage des prix, dates, codes ou informations en magasin. Leur adhésion fiable et leur format universel les rendent compatibles avec la plupart des étiqueteuses du marché. Idéales pour commerces, supermarchés, épiceries, artisans, boutiques et ateliers, elles offrent un usage rapide, propre et professionnel au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nFormat\n26 × 12 mm\n\nQuantité\nRouleau de 1000 étiquettes\n\nAdhésion\nForte & durable\n\nUtilisation\nPrix, datage, codes, étiquetage divers\n\nCompatibilité\nÉtiqueteuses standards\n\nApplication\nRapide & facile\n\nCouleur\nOrange (selon disponibilité)\n\nType\nMulti-usages\n\nSecteurs\nCommerces – Épicerie – Retail – Artisans\n\nAvantage\nLecture claire & propre\n\nConditionnement\nRouleau compact\n\nRéférence-doshift\nAA0BB599",
-     "short_description": "Ces étiquettes adhésives 26×12 mm sont conçues pour faciliter le marquage des prix, dates, codes ou informations en magasin."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/fae9e91f-cef2-4f84-951a-3b71a8763c5d.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-54723",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ampoule LED MR16 – Performance & Éclairage Fiable",
-     "description": "Profitez d’un éclairage puissant, économique et durable avec l’ampoule LED MR16. Conçue pour offrir une lumière homogène tout en réduisant la consommation d’énergie, elle est idéale pour les salons, cuisines, couloirs, vitrines ou tout espace nécessitant un éclairage directionnel moderne.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nAmpoule LED MR16\n\nTechnologie\nLED Haute Performance\n\nConsommation\nBasse consommation – économie d’énergie\n\nÉclairage\nPuissant & homogène\n\nChaleur dégagée\nFaible – ne chauffe pas\n\nInstallation\nSimple & rapide\n\nDurée de vie\nLongue durée\n\nUtilisation idéale\nMaison, vitrine, commerces, spot encastré\n\nCompatibilité\nGU5.3\n\nCouleur\nBlanc\n\nRéférence-doshift\nAA1BB599",
-     "short_description": "Profitez d’un éclairage puissant, économique et durable avec l’ampoule LED MR16. Conçue pour offrir une lumière homogène tout en réduisant la consommation d’énergie, elle est idéale pour les salons, cuisines, couloirs,…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/fa4fd5ae-57f0-4bad-81f2-61b6193bb110.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-54712",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Classeur à Levier Rouge – Organisation Optimale & Mécanisme Durable",
-     "description": "Ce classeur à levier rouge est l’accessoire idéal pour organiser efficacement vos documents au bureau comme à la maison. Doté d’un mécanisme métallique robuste et fiable, il permet de classer rapidement et d’accéder facilement aux feuilles. Son design moderne, étanche et résistant offre une protection optimale tout en apportant une touche professionnelle à votre espace de travail. Une solution durable pour optimiser le rangement et améliorer la gestion de vos archives !\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nClasseur à Levier\n\nCouleur\nRouge\n\nCapacité\nGrande capacité de stockage\n\nFormat\nStandard pour feuilles perforées\n\nMécanisme\nMétallique durable\n\nFermeture\nSystème de levier pratique\n\nProtection\nÉtanche à l’eau & anti-usure\n\nUtilisation\nBureau, Archives, Maison, Administration\n\nAvantages\nOrganisation optimisée & accès rapide\n\nConception\nDesign moderne & ergonomique\n\nRéférence-doshift\nAA1BB999",
-     "short_description": "Ce classeur à levier rouge est l’accessoire idéal pour organiser efficacement vos documents au bureau comme à la maison."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/21cbf264-1d95-4eed-99fc-e94d927bb4c0.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-54690",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble de Bouteilles Squeeze – Ketchup & Moutarde (Lot de 2)",
-     "description": "Apportez une touche pratique et professionnelle à votre cuisine, barbecue ou stand alimentaire avec cet ensemble de bouteilles squeeze. Idéales pour le ketchup, la moutarde, les sauces maison et condiments, elles offrent une pression homogène et un dosage précis sans effort. Leur capuchon étroit permet une application propre et contrôlée, parfait pour les sandwiches, frites, hot-dogs ou burgers. Réutilisables et compatibles lave-vaisselle, elles sont pensées pour un usage quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nContenu du lot\n2 bouteilles (Rouge + Jaune)\n\nUsage\nKetchup, moutarde, sauces liquides & condiments\n\nMatériau\nPlastique alimentaire souple & résistant\n\nCapuchon\nBuse de précision anti-goutte\n\nPression\nDébit fluide homogène\n\nHygiène\nCompatible lave-vaisselle\n\nRéutilisable\nOui\n\nIdéal pour\nBarbecue, pique-nique, maison, food truck\n\nCouleur\nRouge & Jaune\n\nFormat\nCylindrique standard\n\nRéférence-doshift\nAA3BB699",
-     "short_description": "Apportez une touche pratique et professionnelle à votre cuisine, barbecue ou stand alimentaire avec cet ensemble de bouteilles squeeze."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/32c44ae1-5870-4d30-82d4-4461e840b74a.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-54704",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tampon Auto-Encreur Trodat Imprint 12 – Compact & Pratique",
-     "description": "Le Trodat Imprint 12 est un tampon auto-encreur compact, idéal pour une utilisation quotidienne au bureau, en entreprise, en commerce ou à domicile. Son mécanisme intégré permet de réaliser rapidement des marquages sans avoir à utiliser un encreur séparé.\n\nAvec une zone d’impression de 47 × 18 mm, il convient parfaitement pour personnaliser un texte court, des coordonnées, une adresse, un nom d’entreprise ou toute autre information professionnelle adaptée à ce format.\n\nSon format compact facilite la prise en main et le rangement sur un bureau. Le corps translucide fumé associé aux éléments noirs lui donne un design sobre et professionnel.\n\nCaractéristique\nDétail\n\nType\nTampon auto-encreur\n\nMarque\nTrodat\n\nModèle\nImprint 12\n\nZone d’impression\n47 × 18 mm\n\nFormat\nRectangulaire\n\nCorps\nPlastique translucide fumé avec éléments noirs\n\nUtilisation\nDocuments, courriers, factures, formulaires, coordonnées\n\nUsage recommandé\nBureau, commerce, administration, usage professionnel\n\nEncrage\nIntégré\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Le Trodat Imprint 12 est un tampon auto-encreur compact, idéal pour une utilisation quotidienne au bureau, en entreprise, en commerce ou à domicile."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-08-12T164519.043.png"
-   ]
-  },
-  {
-   "sku": "doshift-54509",
+   "sku": "doshift-56590",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Bol & Pinceau Coloration – Coiffure Professionnelle – Antidérapant & Résistant",
+     "description": "Idéal pour les salons de coiffure comme pour une utilisation à domicile, ce kit de coloration comprend un bol de mélange et un pinceau applicateur. Conçus en matériaux résistants aux produits chimiques, ils permettent une application uniforme, précise et propre des colorations et soins capillaires. La poignée ergonomique et la base stable offrent un confort optimal pour un travail fluide et professionnel\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nContenu du kit\n1 bol + 1 pinceau\n\nMatériau\nPlastique résistant aux produits chimiques\n\nBase du bol\nAntidérapante + bec verseur\n\nPinceau\nPoignée ergonomique + pointe pour sectionnement\n\nRésistance\nHaute résistance aux colorations & oxydants\n\nUtilisation\nColoration, balayage, décoloration, soins\n\nAdapté pour\nSalon & usage domestique\n\nNettoyage\nFacile, réutilisable\n\nAvantage principal\nApplication précise & propre\n\nRéférence DOSHIFT\nAA8BB099",
+     "short_description": "Idéal pour les salons de coiffure comme pour une utilisation à domicile, ce kit de coloration comprend un bol de mélange et un pinceau applicateur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/5f56e3b5-24cf-4c05-91ed-2ed18ba8d5d7.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56585",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "RS20 PRO – Huile Pénétrante Anti-Rouille 480ml",
-     "description": "La RS20 PRO est une huile pénétrante hautes performances conçue pour éliminer la rouille, débloquer les pièces grippées et lubrifier les mécanismes. Idéale pour ateliers, garages, usage domestique ou marin, elle garantit une action rapide et durable tout en étant sans silicone.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nModèle\nRS20 PRO\n\nFonction\nHuile pénétrante / anti-rouille / lubrification\n\nVolume\n480ml \n\nFormule\nSans silicone\n\nActions principales\nDégrippe, lubrifie, protège\n\nDomaines d’usage\nGarage, maison, auto, marine\n\nEffets\nStop grincements, débloque écrous/boulons, protège contre corrosion\n\nPénétration rapide\nOui\n\nSéchage\nRapide\n\nProtection anti-rouille\nOui\n\nNettoyage\nCompatible surfaces métalliques\n\nRéférence-doshift\nAA6BB099",
-     "short_description": "La RS20 PRO est une huile pénétrante hautes performances conçue pour éliminer la rouille, débloquer les pièces grippées et lubrifier les mécanismes."
+     "name": "Album Photo Blanc Prestige – 200 Photos – Fenêtre Personnalisable – Texture Couture Haute Qualité",
+     "description": "Préservez vos plus beaux souvenirs dans cet album photo au style prestige, doté d’une couverture en simili-cuir blanc avec texture décorative en losanges. Idéal pour les mariages, les photos de famille, les voyages et les événements mémorables. Sa fenêtre personnalisable permet d’ajouter une photo de couverture pour un rendu unique. Les pages à pochettes transparentes protègent vos photos tout en permettant un classement propre avec espace mémo pour annoter vos instants précieux.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n13×18 cm\n\nCouverture\nSimili-cuir blanc\n\nTexture\nCouture décorative en losanges\n\nFenêtre personnalisable\nOui\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nÉpuré & haut de gamme\n\nUtilisations\nMariage, famille, souvenirs, baptême, voyages\n\nAvantage principal\nMise en valeur + protection\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Préservez vos plus beaux souvenirs dans cet album photo au style prestige, doté d’une couverture en simili-cuir blanc avec texture décorative en losanges."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_wsjjolwsjjolwsjj-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/3b2a9342-cf18-456e-ab90-eeee6e4d6e5b.jpeg"
    ]
   },
   {
-   "sku": "doshift-54358",
-   "price": 219,
+   "sku": "doshift-56571",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
-    4
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Perche Selfie Multifonction R16D avec Trépied & Poignée",
-     "description": "La perche selfie R16D est un accessoire indispensable pour les amateurs de photos, vidéos, vlogs et appels vidéo. Grâce à son design 2-en-1, elle peut être utilisée comme perche selfie classique ou comme trépied stable pour des prises de vue mains libres. Sa poignée ergonomique, son format pliable et compact, ainsi que sa compatibilité avec la majorité des smartphones en font un outil pratique, solide et facile à transporter au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPerche selfie multifonction\n\nModèle\nR16D\n\nFonctions\nPerche selfie + Trépied\n\nPoignée\nGrip ergonomique intégré\n\nSupport téléphone\nAjustable et sécurisé\n\nUtilisation\nPhotos, vidéos, vlogs, appels\n\nDesign\nPliable et compact\n\nMatériau\nAlliage métallique + ABS\n\nStabilité\nExcellente (mode trépied)\n\nCompatibilité\nSmartphones Android & iPhone\n\nCouleur\nNoir\n\nRéférence-doshift\nAA12BB099",
-     "short_description": "La perche selfie R16D est un accessoire indispensable pour les amateurs de photos, vidéos, vlogs et appels vidéo."
+     "name": "Album Photo Blanc Premium – Fenêtre Personnalisable – 200 Photos – Format 10×15 cm",
+     "description": "Conservez vos souvenirs les plus précieux dans cet album photo premium en simili-cuir blanc. Sa fenêtre personnalisable en couverture permet d’afficher une photo de votre choix pour un rendu unique et élégant. Idéal pour les photos de famille, les mariages, les baptêmes, les voyages ou les moments du quotidien. Les pages à pochettes transparentes assurent une protection durable et un classement propre, tandis que l’espace mémo permet de noter dates, noms et anecdotes importantes.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm\n\nCouverture\nSimili-cuir blanc\n\nFenêtre personnalisable\nOui\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nÉlégant & décoratif\n\nUtilisations\nMariage, famille, baptême, souvenirs, voyages…\n\nAvantage principal\nMise en valeur + protection\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Conservez vos souvenirs les plus précieux dans cet album photo premium en simili-cuir blanc. Sa fenêtre personnalisable en couverture permet d’afficher une photo de votre choix pour un rendu unique et élégant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-7-janv.-2026-20_10_11-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/1fcbfb43-bbe8-4ca7-9142-e7d14dbaf21c.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56565",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Intemporel – 200 Photos – Simili-Cuir Noir & Dorures – Format 10×15 cm",
+     "description": "Conservez et racontez vos plus beaux moments avec cet album photo au style intemporel. Sa couverture en simili-cuir noir ornée de bandes dorées apporte une touche raffinée idéale pour les souvenirs familiaux, les voyages, les mariages ou les événements spéciaux. Les pages à pochettes transparentes protègent vos photos et un espace mémo permet de noter dates, noms et anecdotes pour enrichir chaque souvenir.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm\n\nCouverture\nSimili-cuir noir avec dorures\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nÉlégant & intemporel\n\nUtilisations\nFamille, mariage, voyages, souvenirs\n\nAvantage principal\nOrganisation + mise en valeur\n\nModèle / Couleur\nSelon disponibilité\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Conservez et racontez vos plus beaux moments avec cet album photo au style intemporel."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/985da5b8-5caa-42c5-9620-7960ab67572a.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56552",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Luxe Doré – 200 Photos – Fenêtre Personnalisable – Simili-Cuir Premium",
+     "description": "Sublimez vos souvenirs avec cet album photo prestigieux en simili-cuir doré. Son design raffiné avec fenêtre personnalisable permet d’y insérer votre photo de couverture pour un rendu unique et élégant. Idéal pour les mariages, voyages, souvenirs familiaux et événements mémorables. Les pages à pochettes protègent parfaitement vos photos tout en facilitant leur organisation.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm\n\nMatière de la couverture\nSimili-cuir doré\n\nDesign\nFenêtre personnalisable\n\nCouture\nCoutures décoratives\n\nType de pages\nPochettes transparentes\n\nUtilisation\nMariage, famille, souvenirs, voyages…\n\nStyle\nLuxe & élégant\n\nAvantage principal\nMise en valeur + protection\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Sublimez vos souvenirs avec cet album photo prestigieux en simili-cuir doré. Son design raffiné avec fenêtre personnalisable permet d’y insérer votre photo de couverture pour un rendu unique et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/e3faca9e-c34a-499f-8fa6-7dcfac032987.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56542",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Premium – 200 Photos – Format 13×18 cm – Design Floral Édition Luxe",
+     "description": "Capturez et conservez vos plus beaux souvenirs avec cet album photo premium au design floral élégant. Sa couverture rigide illustrée apporte une touche décorative raffinée, parfaite pour les photos de famille, d’amour, de voyages ou d’événements spéciaux. Les pages à pochettes transparentes protègent vos images tout en facilitant le classement. Un espace mémo vous permet également d’ajouter dates, noms et messages pour raconter vos moments précieux.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n13×18 cm\n\nCouverture\nRigide illustrée\n\nDesign\nFloral élégant\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nPremium & décoratif\n\nUtilisations\nFamille, souvenirs, voyages, événements…\n\nCouleur / Modèle\nSelon disponibilité\n\nAvantage principal\nConservation + mise en valeur\n\nRéférence DOSHIFT\nAA5BB099",
+     "short_description": "Capturez et conservez vos plus beaux souvenirs avec cet album photo premium au design floral élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/a2a050fd-424d-44cc-8f60-fb0740cc78a7.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56536",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Floral – 200 Photos – Format 13×18 cm – Pages à Pochettes & Mémo",
+     "description": "Conservez et partagez vos plus beaux souvenirs avec cet album photo au design floral pastel. Sa couverture rigide illustrée offre une touche décorative élégante, idéale pour mettre en valeur les photos de famille, de voyages et d’événements. Grâce aux pochettes transparentes et à l’espace mémo, vous pouvez organiser vos photos, noter les dates et raconter vos meilleurs moments en images.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n13×18 cm\n\nCouverture\nRigide illustrée\n\nDesign\nFloral pastel\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nÉlégant & décoratif\n\nUtilisations\nFamille, souvenirs, voyages, événements…\n\nCouleurs / Modèles\nSelon disponibilité\n\nAvantage principal\nOrganisation + mise en valeur\n\nRéférence DOSHIFT\nAA5BB099",
+     "short_description": "Conservez et partagez vos plus beaux souvenirs avec cet album photo au design floral pastel."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/3c20768a-632a-498f-9374-a940974e48a9.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56525",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Vintage Floral – 200 Photos – Format 13×18 cm",
+     "description": "Conservez vos plus beaux souvenirs avec cet album photo au design vintage floral. Sa couverture rigide illustrée apporte une touche élégante et chaleureuse, idéale pour immortaliser vos moments en famille, voyages, mariages, anniversaires et toutes les occasions précieuses. Les pages à pochettes transparentes protègent vos photos tout en facilitant le classement. Un espace mémo permet d’ajouter des notes, dates et descriptions afin de raconter votre histoire en images.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n13×18 cm\n\nType de pages\nPochettes claires\n\nCouverture\nRigide illustrée\n\nDesign\nVintage floral\n\nEspace mémo\nOui\n\nUtilisation\nSouvenirs, famille, voyages, événements…\n\nStyle\nÉlégant & décoratif\n\nCouleur / Modèle\nSelon disponibilité\n\nAvantage principal\nConservation + mise en valeur\n\nRéférence DOSHIFT\nAA5BB099",
+     "short_description": "Conservez vos plus beaux souvenirs avec cet album photo au design vintage floral. Sa couverture rigide illustrée apporte une touche élégante et chaleureuse, idéale pour immortaliser vos moments en famille, voyages,…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/af8dd56a-66bc-4459-9836-eb4d40f83836.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56559",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Classique Écossais – 200 Photos – Format 10×15 cm – Simili-Cuir & Mémo",
+     "description": "Préservez vos plus beaux souvenirs avec cet album photo classique au motif écossais intemporel. Sa couverture rigide en simili-cuir lui confère une touche élégante idéale pour les souvenirs familiaux, les voyages, les anniversaires et les moments précieux. Les pages à pochettes transparentes garantissent une conservation durable, tandis que l’espace mémo permet de noter dates, noms et anecdotes pour enrichir vos souvenirs.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm\n\nCouverture\nRigide en simili-cuir + motif écossais\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nClassique & décoratif\n\nUtilisation\nFamille, souvenirs, événements, voyages…\n\nCouleur / Modèle\nSelon disponibilité\n\nAvantage principal\nArchivage + mise en valeur\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Préservez vos plus beaux souvenirs avec cet album photo classique au motif écossais intemporel."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/e8091873-fce7-401c-8645-e11c0f516751.jpeg"
    ]
   }
  ]

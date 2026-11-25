@@ -1,144 +1,127 @@
 {
  "products": [
   {
-   "sku": "doshift-62463",
-   "price": 289,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Téléphone Fixe Filaire avec Écran LCD – Simplicité & Fiabilité au Quotidien",
-     "description": "Simplifiez vos communications quotidiennes avec ce téléphone fixe filaire fiable et facile à utiliser, idéal aussi bien pour la maison que pour les environnements professionnels. Son écran LCD clair permet une lecture rapide des informations d’appel, tandis que le clavier numérique ergonomique à touches larges assure une composition confortable et précise. Conçu pour une installation rapide et une utilisation intuitive, il répond parfaitement aux besoins essentiels de communication.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nTéléphone fixe filaire\n\nÉcran\nLCD monochrome\n\nClavier\nNumérique avec touches larges\n\nFonctions d’appel\nAppel, recomposition, mise en attente\n\nSonnerie\nVolume réglable\n\nInstallation\nBranchement filaire standard\n\nUtilisation\nMaison, bureau, commerce\n\nRéférence – DOSHIFT\nAA18BB099",
-     "short_description": "Simplifiez vos communications quotidiennes avec ce téléphone fixe filaire fiable et facile à utiliser, idéal aussi bien pour la maison que pour les environnements professionnels."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-10T062809-252.png"
-   ]
-  },
-  {
-   "sku": "doshift-62445",
-   "price": 179,
+   "sku": "doshift-64660",
+   "price": 59,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Enceinte Karaoké Sans Fil avec Microphone & Effets Lumineux RGB",
-     "description": "Anime instantanément tes soirées et moments de détente grâce à cette enceinte karaoké sans fil polyvalente, livrée avec un microphone inclus. Conçue pour offrir un son clair et équilibré, elle transforme chaque instant en véritable moment festif.Ses effets lumineux RGB immersifs créent une ambiance dynamique, idéale pour les soirées entre amis, les animations familiales ou les moments de karaoké à la maison. Grâce à ses multiples modes de lecture (Bluetooth, USB, carte TF, AUX), elle s’adapte facilement à tous tes appareils pour une expérience simple, ludique et conviviale.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nEnceinte karaoké sans fil\n\nMicrophone\n1 microphone sans fil inclus\n\nConnectivité\nBluetooth, AUX\n\nModes de lecture\nBluetooth, carte TF, clé USB, AUX\n\nInterfaces\nPort USB, slot carte TF, entrée AUX, port USB Type-C (charge)\n\nRecharge\nUSB Type-C\n\nEffets lumineux\nRGB multicolore (Lightshow)\n\nCommandes\nBoutons de contrôle sur la base (lecture / piste / volume)\n\nUtilisation\nKaraoké, soirées, animation, maison\n\nRéférence-DOSHIFT\nAA9BB099",
-     "short_description": "Anime instantanément tes soirées et moments de détente grâce à cette enceinte karaoké sans fil polyvalente, livrée avec un microphone inclus."
+     "name": "Rouge à Lèvres Double Embout 2-en-1 – Couleur & Soin",
+     "description": "Sublimez vos lèvres avec ce rouge à lèvres innovant combinant couleur intense et soin hydratant. D’un côté, une formule liquide longue tenue waterproof offrant une pigmentation riche et uniforme. De l’autre, une huile à lèvres nourrissante qui apporte brillance et confort tout au long de la journée.\n\nSa texture légère assure une application facile sans effet collant, pour des lèvres éclatantes, lisses et parfaitement hydratées.\n\nCaractéristique\nDétail\n\nType\nRouge à lèvres double embout\n\nFonction 1\nCouleur liquide longue tenue\n\nFonction 2\nHuile à lèvres nourrissante\n\nEffet\nPigmentation intense & brillance\n\nFormule\nWaterproof\n\nTexture\nLégère, non collante\n\nUtilisation\nApplication quotidienne ou occasions spéciales",
+     "short_description": "Sublimez vos lèvres avec ce rouge à lèvres innovant combinant couleur intense et soin hydratant. D’un côté, une formule liquide longue tenue waterproof offrant une pigmentation riche et uniforme."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/image-2026-02-10T053529-721.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/41-JSO7gO6L._SL1000_.jpg"
    ]
   },
   {
-   "sku": "doshift-62303",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rouleau de Torchon Paresseux Bleu à Carreaux – Super Absorbant, Usage Sec & Humide",
-     "description": "Simplifie le nettoyage quotidien avec ce torchon paresseux en rouleau, conçu pour offrir une absorption rapide et efficace aussi bien à sec qu’humide. Sa texture en non-tissé doux permet de nettoyer sans rayer les surfaces, tout en assurant une excellente résistance à l’usage.\n\nPratique et hygiénique, ce torchon jetable se détache facilement feuille par feuille, idéal pour la vaisselle, le plan de travail, l’évier, les tables ou encore les environnements professionnels comme les restaurants et cuisines collectives. Son motif bleu à carreaux apporte une touche propre et moderne à votre espace de travail.",
-     "short_description": "Simplifie le nettoyage quotidien avec ce torchon paresseux en rouleau, conçu pour offrir une absorption rapide et efficace aussi bien à sec qu’humide."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/2833d8e0-2668-49ef-99ae-660d7b931815.avif"
-   ]
-  },
-  {
-   "sku": "doshift-62417",
-   "price": 139,
+   "sku": "doshift-64624",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Ensemble de pinceaux de peinture 24 pièces",
-     "description": "Réalise tous tes travaux de peinture avec précision et facilité grâce à cet ensemble complet de 24 pinceaux de peinture. Conçu pour s’adapter à une grande variété d’applications, ce lot est idéal pour la peinture murale, le bricolage, la décoration, les loisirs créatifs et les travaux de finition.\n\nChaque pinceau offre une bonne rétention de peinture et une application homogène, permettant d’obtenir un rendu propre et régulier sur différentes surfaces. Les manches ergonomiques assurent une prise en main confortable, même lors d’une utilisation prolongée. Un ensemble pratique aussi bien pour les professionnels que pour les particuliers.",
-     "short_description": "Réalise tous tes travaux de peinture avec précision et facilité grâce à cet ensemble complet de 24 pinceaux de peinture."
+     "name": "Masque Peel-Off Purifiant – Nettoyage Profond & Éclat",
+     "description": "Offrez à votre peau un soin purifiant grâce à ce masque peel-off enrichi en vitamines A et E. Il aide à nettoyer en profondeur les pores, éliminer l’excès de sébum et les impuretés tout en contribuant à maintenir l’équilibre d’hydratation de la peau.\n\nUtilisé régulièrement, il laisse la peau propre, douce, fraîche et visiblement plus lumineuse. Idéal pour revitaliser les peaux ternes et améliorer l’apparence du teint.\n\nConseils d’utilisation :Appliquer une fine couche sur le visage propre en effectuant des mouvements vers le haut, en évitant le contour des yeux. Laisser sécher complètement, puis retirer délicatement le masque. Éliminer les éventuels résidus à l’eau tiède.\n\nPrécaution :Éviter le contact avec les yeux. En cas de contact, rincer abondamment à l’eau claire.\n\nCaractéristique\nDétail\n\nType\nMasque peel-off visage\n\nActifs\nVitamines A & E\n\nAction\nNettoie, purifie et ravive l’éclat\n\nEffet\nPeau douce et fraîche\n\nUtilisation\n1 à 2 fois par semaine\n\nType de peau\nTous types de peau\n\nFormat\nTube pratique",
+     "short_description": "Offrez à votre peau un soin purifiant grâce à ce masque peel-off enrichi en vitamines A et E."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AAAMG16608_img1.webp"
+    "https://doshift.ma/wp-content/uploads/2026/02/AABDM93825_img1.webp"
    ]
   },
   {
-   "sku": "doshift-62239",
-   "price": 349,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Premium Kitchen Storage Containers – Bread Bin & Tea, Sugar, Coffee Canisters",
-     "description": "Organize your kitchen in style with this premium kitchen storage container set, designed to combine elegance, practicality, and durability. The spacious bread bin keeps your bread fresh for longer, while the matching tea, sugar, and coffee canisters ensure neat storage and easy access to your daily essentials.\n\nWith a clean, modern design, this coordinated set enhances your countertop while helping reduce clutter. Ideal for contemporary, minimalist, or classic kitchens, it offers a perfect balance between functionality and aesthetic appeal for everyday use.",
-     "short_description": "Organize your kitchen in style with this premium kitchen storage container set, designed to combine elegance, practicality, and durability."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Buy-Kitchen-Storage-Containers-in-Sri-Lanka-–-Bread-Bin-Airtight-Canisters-in-Colombo-1-300x300-1.webp"
-   ]
-  },
-  {
-   "sku": "doshift-62350",
-   "price": 499,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "BARDEFU Blender 3 en 1 Haute Vitesse 9500W – Mixeur, Hachoir et Presse Céréales",
-     "description": "Simplifiez votre préparation en cuisine avec ce blender 3 en 1 BARDEFU, conçu pour mixer, hacher et moudre avec efficacité. Grâce à ses trois contenants interchangeables, il s’adapte facilement à différents usages du quotidien : smoothies, jus, sauces, épices, céréales, fruits secs ou préparations maison.\n\nSon design moderne avec finition inox apporte une touche élégante à votre plan de travail, tandis que la commande rotative et les boutons de contrôle permettent une utilisation simple et pratique. Le grand bol blender est idéal pour les boissons et préparations liquides, le bol hachoir facilite la découpe des aliments, et le mini broyeur est parfait pour moudre les ingrédients secs.\n\nCompact, polyvalent et puissant, cet appareil est un excellent choix pour équiper votre cuisine avec un seul appareil multifonction.\n\nCaractéristique\nDétail\n\nType de produit\nBlender multifonction 3 en 1\n\nFonctions\nMixer, hacher, moudre\n\nUtilisation\nSmoothies, jus, sauces, légumes, fruits, céréales, épices\n\nContenants inclus\nGrand bol blender, bol hachoir, mini broyeur\n\nCommande\nBouton rotatif + interrupteurs\n\nDesign\nModerne avec finition aspect inox\n\nCouleur\nArgenté et noir\n\nMatière principale\nPlastique, métal, lames en acier\n\nAlimentation\nÉlectrique\n\nRéférence Doshift\nAA32BB099",
-     "short_description": "Simplifiez votre préparation en cuisine avec ce blender 3 en 1 BARDEFU, conçu pour mixer, hacher et moudre avec efficacité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-04-02T204701.452.png"
-   ]
-  },
-  {
-   "sku": "doshift-62331",
-   "price": 289,
+   "sku": "doshift-64704",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Double plaque chauffante 2000 watts Elite",
-     "description": "Une double plaque chauffante puissante très pratique pour vous accompagner dans vos déménagements, vos sorties en camping ou bien durant vos voyages. Si vous avez des petites cuisines, cette plaque chauffante remplira la fonction de cuisinière et vous permettra de concocter des plats chauds malgré tout.\n\nUne plaque chauffante qui est idéale pour toutes les surfaces en verre et céramique ainsi pour les casseroles en métal et les bouilloires à thé. Chaque plaque est dotée d’une puissance de 1000 watts et d’un thermostat avec lequel vous pouvez régler la température graduellement.\n\nLa protection contre la surchauffe intégrée et les quatre pieds anti dérapant confèrent à la plaque un bon équilibre et une grande sécurité au niveau de l’utilisation. En outre, les témoins lumineux indiquent si la plaque est allumée ou éteinte.",
-     "short_description": "Une double plaque chauffante puissante très pratique pour vous accompagner dans vos déménagements, vos sorties en camping ou bien durant vos voyages."
+     "name": "Pack 2 Crèmes Solaires SPF 90 – Protection & Teint Uniforme",
+     "description": "Protégez efficacement votre peau avec ce pack de 2 crèmes solaires SPF 90 offrant une haute protection contre les rayons UV. Leur formule aide à préserver l’hydratation, contrôler l’excès de sébum et maintenir un teint plus uniforme au quotidien.\n\nLégères et faciles à appliquer, elles pénètrent rapidement sans laisser de film gras, tout en apportant un fini naturel adapté à la couleur de peau. Idéales pour une utilisation quotidienne sur le visage.\n\nCaractéristique\nDétail\n\nType\nCrème solaire visage\n\nQuantité\nPack de 2\n\nIndice de protection\nSPF 90\n\nProtection\nUVA / UVB\n\nEffet\nProtection, hydratation, contrôle du sébum\n\nTexture\nLégère, non grasse\n\nUtilisation\nUsage quotidien\n\nType de peau\nTous types de peau",
+     "short_description": "Protégez efficacement votre peau avec ce pack de 2 crèmes solaires SPF 90 offrant une haute protection contre les rayons UV."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/double-plaque-chauffante-2000-watts-elite-.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T125002.398.jpg"
    ]
   },
   {
-   "sku": "doshift-62064",
+   "sku": "doshift-64609",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sérum Capillaire 3-en-1 – Nutrition & Protection",
+     "description": "Revitalisez vos cheveux secs et abîmés avec ce sérum capillaire enrichi en protéines et vitamines. Sa formule légère aide à nourrir la fibre capillaire, améliorer la brillance et laisser les cheveux visiblement plus doux sans effet gras.\n\nGrâce à son action 3-en-1, il contribue également à protéger les cheveux contre les agressions extérieures, tout en facilitant le coiffage et en apportant un fini soyeux et lumineux. Idéal pour un usage quotidien.\n\nCaractéristique\nDétail\n\nType\nSérum capillaire\n\nAction\nNourrit, protège et illumine\n\nFormule\nEnrichie en protéines & vitamines\n\nEffet\nCheveux doux, brillants, non gras\n\nBénéfice\nAide à protéger contre les agressions extérieures\n\nTexture\nLégère, absorption rapide\n\nUtilisation\nApplication sur cheveux humides ou secs",
+     "short_description": "Revitalisez vos cheveux secs et abîmés avec ce sérum capillaire enrichi en protéines et vitamines."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/AAALX77824_img1.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64604",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Huile Capillaire à l’Aloe Vera – Nutrition & Protection",
+     "description": "Sublimez vos cheveux avec cette huile capillaire enrichie en aloe vera, reconnue pour ses propriétés fortifiantes et revitalisantes. Riche en vitamines A, B1, B2, B6, C et E, elle aide à nourrir la fibre capillaire et à préserver la vitalité des cheveux.\n\nSa formule contribue à protéger contre les agressions extérieures, y compris l’exposition au soleil, tout en apportant douceur et brillance. Enrichie en huiles végétales comme l’huile de sésame et l’huile d’olive, elle aide à réparer les cheveux secs et abîmés pour une chevelure visiblement plus douce et plus forte.\n\nCaractéristique\nDétail\n\nType\nHuile capillaire\n\nIngrédient principal\nAloe vera\n\nEnrichie en\nHuile de sésame & huile d’olive\n\nVitamines\nA, B1, B2, B6, C, E\n\nAction\nNourrit, fortifie et protège\n\nEffet\nCheveux doux, brillants et revitalisés\n\nUtilisation\nApplication sur cheveux secs ou humides",
+     "short_description": "Sublimez vos cheveux avec cette huile capillaire enrichie en aloe vera, reconnue pour ses propriétés fortifiantes et revitalisantes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T114730.557.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64594",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fer à Lisser Professionnel – Plaques Céramique Haute Température",
+     "description": "Obtenez un lissage parfait et longue tenue grâce à ce fer à lisser équipé de plaques en céramique conçues pour protéger la fibre capillaire. Il offre une montée en température rapide et un coiffage efficace, idéal pour un usage domestique ou professionnel.\n\nSa température réglable permet d’adapter la chaleur selon la nature de vos cheveux, pour un résultat lisse, brillant et sans frisottis.\n\nCaractéristique\nDétail\n\nType\nFer à lisser professionnel\n\nPlaques\nCéramique\n\nTempérature\nRéglable (env. 160°C à 220°C selon modèle)\n\nTempérature max\nJusqu’à 450°F (selon version)\n\nEffet\nLissage rapide et brillance\n\nChauffe\nRapide\n\nUtilisation\nTous types de cheveux",
+     "short_description": "Obtenez un lissage parfait et longue tenue grâce à ce fer à lisser équipé de plaques en céramique conçues pour protéger la fibre capillaire."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T114412.246.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64564",
    "price": 149,
    "stock": 10,
    "status": 0,
@@ -147,18 +130,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Vase Décoratif Luxe – Ondulations Dorées & Éclat Argenté",
-     "description": "Illumine ton intérieur avec ce vase décoratif d’exception au design luxueux et contemporain. Sa silhouette élancée est magnifiée par des lignes ondulées dorées qui contrastent avec une texture argentée scintillante, créant un jeu de lumière sophistiqué et raffiné.Véritable pièce maîtresse, ce vase apporte une touche haut de gamme à tout espace, qu’il soit exposé seul comme objet décoratif ou accompagné de compositions florales sobres, naturelles ou artificielles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nLuxe contemporain / Élégant\n\nDesign\nLignes ondulées dorées avec texture argentée scintillante\n\nForme\nSilhouette élancée avec col légèrement évasé\n\nFinition\nAspect brillant et texturé haut de gamme\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou artificielles\n\nEspaces recommandés\nSalon, entrée, bureau, hôtel, table ou étagère décorative\n\nCouleurs\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA5BB599",
-     "short_description": "Illumine ton intérieur avec ce vase décoratif d’exception au design luxueux et contemporain."
+     "name": "Extracteur de Jus Manuel Multifonction",
+     "description": "Préparez facilement des jus frais et naturels à la maison avec cet extracteur de jus manuel pratique et compact. Idéal pour les fruits et légumes, il permet d’obtenir des boissons saines sans électricité tout en conservant les saveurs et nutriments essentiels.\n\nCaractéristique\nDétail\n\nType\nExtracteur de jus manuel\n\nUtilisation\nFruits et légumes\n\nMatière\nPlastique alimentaire\n\nFonctionnement\nManuel\n\nEntretien\nFacile à nettoyer\n\nCouleur\nVert et blanc\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Préparez facilement des jus frais et naturels à la maison avec cet extracteur de jus manuel pratique et compact."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T062314-179.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-05-09T144111.399.png"
    ]
   },
   {
-   "sku": "doshift-62051",
-   "price": 129,
+   "sku": "doshift-64533",
+   "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -166,18 +149,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Vase Décoratif Sculptural – Motif Feuilles & Élégance Contemporaine",
-     "description": "Apporte une touche de caractère et d’élégance à ton intérieur avec ce vase décoratif au design sculptural. Sa silhouette élancée est sublimée par un motif en relief inspiré des feuilles, offrant une texture riche et une profondeur visuelle remarquable.Sa finition sombre subtilement mouchetée renforce son aspect haut de gamme, idéal pour des ambiances modernes, minimalistes ou contemporaines. Parfait comme pièce décorative forte, il se distingue aussi bien exposé seul qu’agrémenté de fleurs séchées pour une décoration sobre et raffinée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nModerne / Contemporain / Luxe minimaliste\n\nDesign\nMotif feuilles en relief sculpté\n\nForme\nSilhouette élancée avec col légèrement évasé\n\nFinition\nAspect mat texturé avec effet moucheté\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou séchées\n\nEspaces recommandés\nSalon, bureau, entrée, étagère ou table décorative\n\nCouleurs\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA5BB599",
-     "short_description": "Apporte une touche de caractère et d’élégance à ton intérieur avec ce vase décoratif au design sculptural."
+     "name": "Bouilloire sifflante 3 Litres – Design élégant et résistant à la chaleur",
+     "description": "La bouilloire sifflante d’une capacité de 3 litres allie performance et design moderne. Conçue avec des matériaux robustes et résistants à la chaleur, elle assure une ébullition rapide et sécurisée. Équipée d’un sifflet d’alerte pratique qui indique lorsque l’eau bout, elle offre confort et sécurité au quotidien. Son design élégant s’intègre parfaitement dans toutes les cuisines.",
+     "short_description": "La bouilloire sifflante d’une capacité de 3 litres allie performance et design moderne. Conçue avec des matériaux robustes et résistants à la chaleur, elle assure une ébullition rapide et sécurisée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T055455-227.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T112108.017.jpg"
    ]
   },
   {
-   "sku": "doshift-62046",
-   "price": 129,
+   "sku": "doshift-64507",
+   "price": 519,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -185,13 +168,32 @@
    ],
    "locales": {
     "fr": {
-     "name": "Vase Décoratif Sculptural – Élégance Intemporelle & Design Organique",
-     "description": "Apporte une touche d’élégance intemporelle à ton intérieur avec ce vase décoratif au design sculptural. Sa silhouette élancée, associée à des reliefs fluides inspirés de formes naturelles, crée un jeu subtil d’ombres et de volumes qui capte le regard avec finesse.Pensé pour les ambiances modernes et minimalistes, ce vase se suffit à lui-même comme pièce décorative forte, tout en pouvant accueillir des compositions florales sobres, naturelles ou séchées, pour sublimer l’espace avec harmonie.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nModerne / Élégant / Minimaliste\n\nDesign\nRelief sculptural aux lignes organiques\n\nForme\nSilhouette élancée avec base stable\n\nFinition\nAspect mat avec texture en relief\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou séchées\n\nEspaces recommandés\nSalon, entrée, bureau, table ou étagère décorative\n\nCouleurs\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA5BB599",
-     "short_description": "Apporte une touche d’élégance intemporelle à ton intérieur avec ce vase décoratif au design sculptural."
+     "name": "Cocotte Minute 11 L, Autocuiseurs en Alliage d’aluminium avec Valve de Sécurité, pour la Plupart des Types de Plaques de Cuisson",
+     "description": "Préparez vos repas rapidement et en toute sécurité avec cette cocotte minute 11 litres, idéale pour les familles et les grandes préparations. Fabriquée en alliage d’aluminium robuste, elle assure une diffusion homogène de la chaleur pour une cuisson efficace et uniforme.\n\nÉquipée d’une valve de sécurité intégrée, elle garantit une utilisation fiable et sécurisée. Compatible avec la plupart des types de plaques de cuisson, elle est parfaite pour cuire viandes, légumes, légumineuses et plats mijotés en un temps réduit.",
+     "short_description": "Préparez vos repas rapidement et en toute sécurité avec cette cocotte minute 11 litres, idéale pour les familles et les grandes préparations."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T054457-566.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/cocotte-minute-11-l.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64500",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mangeoire en bambou à 3 étagères pour épices avec 6 bouteilles à épices, 4 pots hermétiques et 2 bouteilles pour sauce soja ou huile d’olive – Organisation de la cuisine",
+     "description": "Ce support de rangement polyvalent est conçu pour compléter la décoration de votre cuisine tout en offrant une excellente organisation. Idéal pour désencombrer et organiser votre garde-manger, il garde vos essentiels de cuisine, gadgets et accessoires soigneusement rangés. Utilisé comme support à épices ou comme organisateur de cuisine, il assure que vos fournitures de cuisson et d’assaisonnement soient facilement accessibles. Il sert à plusieurs fins, de l’organisateur d’assaisonnement pour épices et herbes à l’organisateur de station de café, rendant votre routine quotidienne plus efficace. Il peut également servir de plateau d’exposition pour les distributeurs de sel et de poivre, ajoutant à la fois praticité et style à votre espace. Ce support de rangement fournit une solution efficace pour garder les contenants d’assaisonnement et les accessoires de cuisine en ordre. Avec sa combinaison de style et de fonctionnalité, ce support améliore votre organisation de cuisine tout en ajoutant à son attrait esthétique, en faisant un ajout essentiel à n’importe quel foyer.",
+     "short_description": "Ce support de rangement polyvalent est conçu pour compléter la décoration de votre cuisine tout en offrant une excellente organisation."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T110841.631.jpg"
    ]
   }
  ]

@@ -1,27 +1,27 @@
 {
  "products": [
   {
-   "sku": "doshift-43577",
-   "price": 129,
+   "sku": "doshift-45409",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    7
    ],
    "locales": {
     "fr": {
-     "name": "5 pcs lot graisse thermique silicone processeur de refroidissement pâte",
-     "description": "Cette graisse thermique est utilisée pour les accessoires de PC et d’ordinateur portable tels que les CPU, NVIDIA, etc.\n\nElle permet de transférer la chaleur de manière uniforme.\n\nElle est à haute conductivité thermique, haute isolation, haute résistance à la température, non volatile, non toxique, inodore et non corrosive.\n\nElle est disponible sous forme de seringue et pèse 1g.\n\nSa couleur est grise.\n\nElle peut être utilisée pour les CPU, les cartes graphiques et d’autres puces chaudes.\n\nSon coefficient de conductivité thermique est supérieur à 1.22 W/MK et sa résistance thermique est supérieure à 0.201.\n\nSa gamme de température de fonctionnement est de -30 à 150 degrés Celsius.\n\nLe modèle est un lot de 5 graisses thermiques, pesant 0.3kg et de couleurs multiples.",
-     "short_description": "Cette graisse thermique est utilisée pour les accessoires de PC et d’ordinateur portable tels que les CPU, NVIDIA, etc."
+     "name": "Serviette en microcarence super absorbante pour lavage de voiture,41x41cm",
+     "description": "La serviette est fabriquée en microfibre.\n\nElle est disponible en bleu, vert, noir et orange.\n\nElle mesure 41cm x 41cm.\n\nElle est conçue pour sécher les voitures, les camions, les bateaux, les miroirs, les plans de travail de cuisine, les surfaces domestiques générales, les écrans TV/PC, les ordinateurs de bureau, les tables, etc.\n\nElle pèse 0.3kg.\n\nLa matière principale est la microfibre.",
+     "short_description": "La serviette est fabriquée en microfibre."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348408-319_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357833-337_1.jpg"
    ]
   },
   {
-   "sku": "doshift-43560",
-   "price": 189,
+   "sku": "doshift-45354",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -29,18 +29,37 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lampe led de lecture multifonctionnelle",
-     "description": "Lampe de lecture à LED avec réglage de la luminosité et température de couleur variable (chaude à froide).\n\nPorte-stylo intégré.\n\nSupport pour téléphone.\n\nDesign moderne.\n\nÉconome en énergie.\n\nCouleur bleue.\n\nMatière : ABS.\n\nPoids : 0.3 kg.\n\nType : Lampe.\n\nSource de lumière : LED.\n\nInterrupteur : tactile.",
-     "short_description": "Lampe de lecture à LED avec réglage de la luminosité et température de couleur variable (chaude à froide)."
+     "name": "Laisse de poitrine pour chien réglable pour petits et moyens chiens",
+     "description": "Le Laisse est une laisse réglable pour chien, disponible en bleu et orange.\n\nElle est conçue pour les chiens de petite et moyenne taille.\n\nLa laisse est faite de nylon, mesure 115 cm de long et 1,5 cm de large.\n\nElle est livrée avec un collier assorti.\n\nLa laisse est confortable et sécuritaire, facile à mettre et à enlever.\n\nElle est résistante à la traction et offre un contrôle optimal.\n\nElle pèse 0,3 kg.",
+     "short_description": "Le Laisse est une laisse réglable pour chien, disponible en bleu et orange."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348375-315_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357728-325_1.jpg"
    ]
   },
   {
-   "sku": "doshift-43543",
-   "price": 129,
+   "sku": "doshift-45309",
+   "price": 439,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Oreillers de siège de voiture en bambou confortables (lot de 2)",
+     "description": "La housse de siège est fabriquée en bambou naturel, offrant une excellente respirabilité et une régulation de la température.\n\nElle est équipée d’une fonction de massage intégrée et reste fraîche grâce aux propriétés du bambou.\n\nElle s’adapte à différents types de sièges et est antimicrobienne et hypoallergénique.\n\nLa housse est durable et est disponible en noir.\n\nElle est faite de tissu en bois de qualité supérieure.\n\nLe poids de la housse est de 0.3 kg.\n\nLa matière principale est le tissu.",
+     "short_description": "La housse de siège est fabriquée en bambou naturel, offrant une excellente respirabilité et une régulation de la température."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357653-315_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45299",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -48,17 +67,74 @@
    ],
    "locales": {
     "fr": {
-     "name": "Itools scie à archet 610 mm",
-     "description": "Scie à bûches en acier à section ovale résistante.\n\nPoignée en acier.\n\nConçue pour les travaux de construction, jardinage, agriculture et forestiers.\n\nLame de scie incluse.\n\nPour couper le bois sec.\n\nTube en acier peint par poudrage pour une excellente résistance à la rouille.\n\nDenture trempée à haute fréquence, par induction pour des performances longue durée.\n\nMatière : Acier.\n\nLongueur : 610 mm.\n\nModèle : ITS610.\n\nPoids : 1 kg.\n\nMatière principale : acier.",
-     "short_description": "Scie à bûches en acier à section ovale résistante."
+     "name": "Vadrouille magique autonettoyante – Nettoyage efficace et facilité d’utilisation",
+     "description": "Vadrouille en microfibre – nettoyage facile – avec 2 SerpillèresNe pas laver à la main, éluer pour une nouvelle expérience propre Vadrouille flexible, libre de se laver les mains, pas de taches d’eauZone de nettoyage plus grande que ronde, nettoyage à double espace à la foisDéshydratation rapide, pousser et tirer, pas de mains sales, gratter les taches d’eau résiduellesConseil mince, profondément dans l’espace, résolvez la saleté au fond de la maison",
+     "short_description": "Vadrouille en microfibre – nettoyage facile – avec 2 SerpillèresNe pas laver à la main, éluer pour une nouvelle expérience propre Vadrouille flexible, libre de se laver les mains, pas de taches d’eauZone de nettoyage…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348342-311_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357637-313_1.jpg"
    ]
   },
   {
-   "sku": "doshift-43535",
+   "sku": "doshift-45282",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Peaux de chamois grand modèle 3 psc",
+     "description": "Cette serviette en chamois synthétique est idéale pour nettoyer la voiture et faire le ménage.\n\nElle est douce, absorbante et retient l’huile.\n\nElle est idéale pour essuyer les empreintes digitales des surfaces métalliques polies.\n\nConvient pour nettoyer les articles ménagers, les voitures et les animaux domestiques.\n\nLavez la serviette en chamois synthétique à l’eau tiède avec un détergent doux.\n\nGardez la serviette synthétique légèrement humide dans le boîtier.\n\nLa serviette est vendue en lot de 3.\n\nElle est en matière synthétique.\n\nElle pèse 0.2 kg.",
+     "short_description": "Cette serviette en chamois synthétique est idéale pour nettoyer la voiture et faire le ménage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357605-309_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45268",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis de Prière Velours – Confort & Élégance pour la Salât",
+     "description": "Offrez-vous un moment de recueillement dans le confort et la sérénité avec ce tapis de prière en velours doux, conçu pour accompagner vos prières quotidiennes. Son design raffiné inspiré de l’architecture islamique, associé à une texture agréable et antidérapante, en fait un choix idéal aussi bien pour la maison que pour la mosquée. Léger, facile à transporter et parfaitement dimensionné, il convient à tous les âges.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nTapis de prière\n\nDimensions\n110 cm (longueur) × 35 cm (largeur)\n\nMatière\nVelours doux et confortable\n\nÉpaisseur\nConfort optimal pour les genoux et le front\n\nDesign\nMotif islamique élégant (mihrab)\n\nCouleur\nMarron avec motifs traditionnels\n\nFinition\nFranges décoratives aux extrémités\n\nConfort\nAgréable au toucher, idéal pour la prière prolongée\n\nUtilisation\nMaison, mosquée, voyage\n\nEntretien\nFacile à nettoyer et à entretenir\n\nRéférence-Doshift\nAA6BB599",
+     "short_description": "Offrez-vous un moment de recueillement dans le confort et la sérénité avec ce tapis de prière en velours doux, conçu pour accompagner vos prières quotidiennes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_tqy5e5tqy5e5tqy5-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-45216",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Étendoir – Non spécifié – Non spécifié – Résistant aux intempéries – Métal – Compact et pratique",
+     "description": "Découvrez cet étendoir robuste et élégant, idéal pour un séchage efficace en extérieur. Résistant aux intempéries et fabriqué en métal de haute qualité, il est parfait pour les chaussettes, sous-vêtements et vêtements de bébé. Pratique et facile à ranger, il s’adapte à tous les espaces.",
+     "short_description": "Découvrez cet étendoir robuste et élégant, idéal pour un séchage efficace en extérieur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357223-295_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45104",
    "price": 219,
    "stock": 10,
    "status": 0,
@@ -67,56 +143,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Détecteur d’angle pour menuiserie, outil de mesure pour le travail du bois",
-     "description": "L’outil de mesure d’angle en plastique est conçu pour mesurer et transférer les angles de mur de 30 à 180°.\n\nIl comprend deux aimants qui se fixent directement à la lame de scie pour reproduire l’angle à couper, ce qui rend les coupes de scie à onglet plus précises.\n\nIl dispose d’étriers d’angle télescopiques pour les coins extérieurs et d’une butée pliable intégrée pour un marquage facile.\n\nLa conception spéciale du levier le rend facile à utiliser, même dans les zones de travail étroites.\n\nL’outil est fait de plastique et d’alliage d’aluminium.\n\nIl est disponible en plusieurs couleurs.",
-     "short_description": "L’outil de mesure d’angle en plastique est conçu pour mesurer et transférer les angles de mur de 30 à 180°."
+     "name": "Clés mixtes SET 6 – 22mm 12Pcs",
+     "description": "COMBINAISON SPANNER X 12:Taille: 1 6 6 mmTaille: 2 7 7 mmTaille: 3 8 8 mmTaille: 4 9 9 mmTaille: 5 10 10 mmTaille: 6 11 11 mmTaille: 7 12 12 mmTaille: 8 13 13 mmTaille: 9 14 14 mmTaille: 10 17 17 mmTaille: 11 19 19 mmTaille: 12 22 22 mm",
+     "short_description": "COMBINAISON SPANNER X 12:Taille: 1 6 6 mmTaille: 2 7 7 mmTaille: 3 8 8 mmTaille: 4 9 9 mmTaille: 5 10 10 mmTaille: 6 11 11 mmTaille: 7 12 12 mmTaille: 8 13 13 mmTaille: 9 14 14 mmTaille: 10 17 17 mmTaille: 11 19 19…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348322-309_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356930-255_1.jpg"
    ]
   },
   {
-   "sku": "doshift-43531",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Punaises de tapissier rondes or 13 mm (lot de 100)",
-     "description": "Les têtes de clous décoratives, également appelées clous de rembourrage ou clavos, sont utilisées pour fixer du rembourrage aux meubles ou directement sur les canapés en cuir.\n\nElles peuvent également servir à accrocher des graphiques, des bannières, des calendriers, etc.\n\nLes clous sont largement utilisés pour la décoration de la maison, du bureau et des restaurants.\n\nCaractéristiques :\n\n– Diamètre de la tête : 18 mm / 0,71 pouce\n\n– Hauteur totale : 13 mm / 0,67 pouce\n\nApplications :\n\n– Décoration de chevet\n\n– Décoration de table et de chaise de canapé\n\n– Décoration murale\n\n– Renforcement et décoration d’artisanat\n\n– Renforcement et décoration d’instruments de musique tels que les tambours.\n\nMontage :\n\n– Utiliser un marteau en caoutchouc et une pince à bec effilé pour faciliter la fixation.\n\nRemarque :\n\n– Pour protéger vos mains, il est recommandé de ne pas tenir l’ongle directement avec vos mains.\n\n– N’utilisez pas de marteaux trop gros et lourds.\n\n– Il est préférable d’utiliser une pince à bec effilé et un marteau en caoutchouc.\n\nDiamètre de la tête : 18 mm (+/- 0,5 mm) / 0,71 pouce\n\nHauteur de la tête : 4 mm (+/- 0,5 mm) / 0,16 pouce\n\nHauteur totale : 13 mm (+/- 1 mm) / 0,67 pouce\n\n100 pièces\n\nModèle : Broche\n\nCouleur : Or\n\nMatière principale : Fer",
-     "short_description": "Les têtes de clous décoratives, également appelées clous de rembourrage ou clavos, sont utilisées pour fixer du rembourrage aux meubles ou directement sur les canapés en cuir."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348313-308_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43521",
-   "price": 369,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bâche voiture Volkswagen Golf Alltrack 2021",
-     "description": "Un excellent entretien est synonyme d’une durée de vie prolongée pour votre véhicule mais, bien que beaucoup de solutions s’offrent à vous pour protéger votre voiture, l’étape la plus cruciale est de la préserver des attaques quotidiennes des éléments naturels.",
-     "short_description": "Un excellent entretien est synonyme d’une durée de vie prolongée pour votre véhicule mais, bien que beaucoup de solutions s’offrent à vous pour protéger votre voiture, l’étape la plus cruciale est de la préserver des…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348294-306_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43517",
-   "price": 69,
+   "sku": "doshift-45049",
+   "price": 103,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -124,70 +162,32 @@
    ],
    "locales": {
     "fr": {
-     "name": "Porte-manteau familial 8 crochets",
-     "description": "Porte-manteau mural à 8 patères en acier inoxydable.\n\nIl est idéal pour garder votre pièce bien organisée.\n\nConvient pour la chambre à coucher, la salle de bain, la porte de cuisine, les armoires de cuisine, l’armoire, etc.\n\nModèle : crochets de manteau.\n\nCouleur : argent.\n\nMatière principale : acier inoxydable.",
-     "short_description": "Porte-manteau mural à 8 patères en acier inoxydable."
+     "name": "Multiprise Électrique 3 Prises avec 2 USB + 1 Type-C et Interrupteur",
+     "description": "Optimisez votre espace de charge avec cette multiprise pratique et polyvalente, idéale pour la maison, le bureau ou la chambre. Équipée de 3 prises secteur, de 2 ports USB et de 1 port Type-C, elle permet d’alimenter et de recharger plusieurs appareils en même temps, sans encombrer votre espace.\n\nSon interrupteur marche/arrêt intégré offre une utilisation simple et sécurisée au quotidien. Grâce à son format allongé et compact, cette multiprise s’installe facilement sur un bureau, une table de chevet ou un plan de travail. Elle convient parfaitement pour brancher vos appareils électriques, smartphones, tablettes, accessoires USB et autres équipements du quotidien.\n\nPratique, moderne et fonctionnelle, elle constitue une solution idéale pour centraliser vos branchements tout en gardant un espace bien organisé.\n\nCaractéristique\nDétail\n\nType de produit\nMultiprise électrique\n\nNombre de prises\n3 prises secteur\n\nPorts USB\n2 ports USB\n\nPort supplémentaire\n1 port Type-C\n\nInterrupteur\nOui\n\nUtilisation\nMaison, bureau, chambre\n\nCouleur\nBlanc\n\nAvantage principal\nPermet de brancher et recharger plusieurs appareils simultanément\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Optimisez votre espace de charge avec cette multiprise pratique et polyvalente, idéale pour la maison, le bureau ou la chambre."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348288-305_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-03-27T162631.821.png"
    ]
   },
   {
-   "sku": "doshift-43509",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "FILM ALIMENTAIRE TRANSPARENT 500 X 45, Film Alimentaire, cuisson, cuisin",
-     "description": "Film étirable alimentaire Qualité professionnelle Longueur : 500 x 45  S’utilise pour la protection des aliments. Idéal pour couvrir la nourriture dans les bols et les plats : Viande blanche et rouge, fromage,",
-     "short_description": "Film étirable alimentaire Qualité professionnelle Longueur : 500 x 45  S’utilise pour la protection des aliments. Idéal pour couvrir la nourriture dans les bols et les plats : Viande blanche et rouge, fromage,"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348270-303_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43496",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampes solaires led etanches pour jardin",
-     "description": "Ces lampes murales solaires sont écologiques et économiques grâce à leur fonctionnement à l’énergie solaire.\n\nElles sont conçues pour résister à l’eau et aux intempéries, ce qui les rend parfaites pour une utilisation en extérieur toute l’année.\n\nL’installation est facile et rapide grâce à leur conception sans fil.\n\nLeur design discret et élégant s’intègre bien dans tous les environnements extérieurs.\n\nElles sont fabriquées en ABS et ont une couleur noire.\n\nLe temps de charge est de 8 à 10 heures.\n\nLe poids est de 0,3 kg.",
-     "short_description": "Ces lampes murales solaires sont écologiques et économiques grâce à leur fonctionnement à l’énergie solaire."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348249-300_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43453",
+   "sku": "doshift-45013",
    "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Kit de rangement voyage – GENERIC – 6 sacs – Nylon durable – Léger – Multifonctionnel",
-     "description": "Organisez vos affaires avec ce kit de 6 sacs de rangement en nylon durable. Léger et facile à transporter, il comprend un sac à chaussures, un sac à vêtements, un sac à cordon, un sac plat pour documents et un sac à sous-vêtements. Idéal pour tous vos voyages, que ce soit en famille, en amoureux ou pour le travail.",
-     "short_description": "Organisez vos affaires avec ce kit de 6 sacs de rangement en nylon durable. Léger et facile à transporter, il comprend un sac à chaussures, un sac à vêtements, un sac à cordon, un sac plat pour documents et un sac à…"
+     "name": "Multiprise avec enrouleur – Pratique – 4 prises 2P+T – Longueur 5m – Sécurisée – Intérieur",
+     "description": "Cette multiprise enrouleur de 5 mètres avec 4 prises 2P+T est idéale pour vos besoins électriques. Son enrouleur intégré évite les enchevêtrements et facilite le rangement. Sécurisée et compatible avec la plupart des appareils, elle est parfaite pour la maison ou le bureau.",
+     "short_description": "Cette multiprise enrouleur de 5 mètres avec 4 prises 2P+T est idéale pour vos besoins électriques. Son enrouleur intégré évite les enchevêtrements et facilite le rangement."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348165-290_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356757-235_1.jpg"
    ]
   }
  ]

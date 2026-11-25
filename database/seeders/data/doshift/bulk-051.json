@@ -1,197 +1,202 @@
 {
  "products": [
   {
-   "sku": "doshift-79378",
-   "price": 299,
+   "sku": "doshift-84303",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Chauffage Soufflant RAF 2000W Compact",
-     "description": "Profitez d’une chaleur rapide et confortable avec ce chauffage soufflant RAF compact et moderne. Son design élégant s’intègre parfaitement dans votre salon, chambre, bureau ou cuisine. Grâce à sa puissance de 2000W et son thermostat réglable, il chauffe efficacement votre espace tout en restant silencieux et facile à utiliser.\n\nIdéal pour les journées froides, ce mini chauffage offre une diffusion homogène de la chaleur avec plusieurs niveaux de réglage pour un confort personnalisé.\n\nCaractéristique\nDétail\n\nType\nChauffage soufflant\n\nMarque\nRAF\n\nPuissance\n2000W\n\nRéglages chaleur\n2 niveaux\n\nThermostat\nOui\n\nProtection surchauffe\nOui\n\nCouleur\nBlanc et noir\n\nUtilisation\nMaison, bureau, chambre\n\nRéférence Doshift\nAA18BB099",
-     "short_description": "Profitez d’une chaleur rapide et confortable avec ce chauffage soufflant RAF compact et moderne. Son design élégant s’intègre parfaitement dans votre salon, chambre, bureau ou cuisine."
+     "name": "Sérum Capillaire Professionnel Kiss Beauty à la Biotine",
+     "description": "Offrez à vos cheveux un soin intensif avec le Sérum Capillaire Professionnel Kiss Beauty. Sa formule enrichie en biotine, huile de coco et huile d’olive aide à nourrir la fibre capillaire, réduire les frisottis et apporter une brillance éclatante dès les premières applications.\n\nCaractéristique\nDétail\n\nType\nSérum capillaire\n\nMarque\nKiss Beauty\n\nContenance\n100 ml\n\nPrincipaux ingrédients\nBiotine, Huile de Coco, Huile d’Olive\n\nTexture\nLégère et non grasse\n\nUtilisation\nQuotidienne\n\nConvient à\nTous types de cheveux\n\nEffets\nNutrition, douceur, brillance\n\nRéférence Doshift\nAA8BB599",
+     "short_description": "Offrez à vos cheveux un soin intensif avec le Sérum Capillaire Professionnel Kiss Beauty."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T190040.951.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T172302.506.png"
    ]
   },
   {
-   "sku": "doshift-79359",
-   "price": 249,
+   "sku": "doshift-84297",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Blender Portable RAF R.397B – Mixez vos boissons en quelques secondes",
-     "description": "Préparez facilement vos smoothies, jus et boissons protéinées avec le blender portable RAF R.397B. Compact, puissant et pratique, il est idéal pour la maison, le bureau, le sport ou les déplacements. Son moteur haute vitesse de 23000 RPM et ses 4 lames en acier inoxydable assurent un mixage rapide et homogène de vos fruits et ingrédients préférés.\n\nGrâce à sa bouteille portable incluse, emportez vos boissons partout avec vous. Son design moderne et son utilisation simple en font un appareil indispensable au quotidien.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA15BB099\n\nPuissance\n300W\n\nVitesse moteur\n23000 RPM\n\nCapacité\n600 ml\n\nNombre de lames\n4 lames inox\n\nUtilisation\nSmoothies, jus, shakes\n\nCouleur\nBleu\n\nAlimentation\nÉlectrique\n\nFonction\nMixage rapide\n\nNettoyage\nFacile",
-     "short_description": "Préparez facilement vos smoothies, jus et boissons protéinées avec le blender portable RAF R.397B. Compact, puissant et pratique, il est idéal pour la maison, le bureau, le sport ou les déplacements."
+     "name": "Gel Nettoyant Éclaircissant DermaDoc Skin Gel",
+     "description": "Offrez à votre peau un nettoyage profond et une sensation de fraîcheur au quotidien grâce au Gel Nettoyant Éclaircissant DermaDoc Skin Gel. Sa formule douce aide à éliminer les impuretés, l’excès de sébum et les résidus accumulés tout au long de la journée tout en laissant la peau propre, nette et éclatante.\n\nConçu pour le visage et le corps, ce gel nettoyant contribue à unifier l’apparence du teint et à révéler l’éclat naturel de la peau. Sa texture légère procure une sensation de confort après chaque utilisation, sans dessécher la peau.\n\nCaractéristique\nDétail\n\nType\nGel nettoyant éclaircissant\n\nUtilisation\nVisage et corps\n\nAction\nNettoyante, purifiante et illuminatrice\n\nType de peau\nTous types de peau\n\nUsage\nQuotidien\n\nTexture\nGel\n\nRéférence Doshift\nAA8BB599",
+     "short_description": "Offrez à votre peau un nettoyage profond et une sensation de fraîcheur au quotidien grâce au Gel Nettoyant Éclaircissant DermaDoc Skin Gel."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T180834.974.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T170817.902.png"
    ]
   },
   {
-   "sku": "doshift-79039",
+   "sku": "doshift-84283",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gel Intime Neutre DermaDoc – Douceur & Protection au Quotidien",
+     "description": "Prenez soin de votre hygiène intime avec le Gel Intime Neutre DermaDoc. Sa formule douce à haute tolérance respecte l’équilibre naturel des zones sensibles pour une sensation durable de fraîcheur et de confort. Adapté à un usage quotidien, il nettoie délicatement sans agresser la peau grâce à sa composition sans savon, sans parfum et sans alcool.\n\nCaractéristique\nDétail\n\nType\nGel intime\n\nUtilisation\nHygiène intime quotidienne\n\nFormule\nHaute tolérance\n\nSans savon\nOui\n\nSans parfum\nOui\n\nSans alcool\nOui\n\nConvient aux peaux sensibles\nOui\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Prenez soin de votre hygiène intime avec le Gel Intime Neutre DermaDoc. Sa formule douce à haute tolérance respecte l’équilibre naturel des zones sensibles pour une sensation durable de fraîcheur et de confort."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T163730.029.png"
+   ]
+  },
+  {
+   "sku": "doshift-84268",
    "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    12,
-    13
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Kinesiology Tape Sport & Therapy Jaune 5cm x 5m",
-     "description": "Soulagez vos muscles et améliorez vos performances avec ce kinesiology tape professionnel. Conçu pour les sportifs et les activités quotidiennes, il offre un excellent maintien musculaire et articulaire tout en gardant une grande liberté de mouvement. Sa matière extensible et respirante assure un confort optimal pendant l’entraînement, la récupération ou la rééducation.\n\nParfait pour la musculation, le running, le fitness, le cyclisme, le yoga et plusieurs autres activités sportives.\n\nCaractéristique\nDétail\n\nType\nKinesiology Tape\n\nUtilisation\nSport & Thérapie\n\nCouleur\nJaune\n\nDimensions\n5 cm x 5 m\n\nMatière\nTissu extensible respirant\n\nPropriétés\nFlexible, confortable, résistant\n\nRésistance à l’eau\nOui\n\nUtilisation idéale\nMuscles, épaules, dos, genoux\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "Soulagez vos muscles et améliorez vos performances avec ce kinesiology tape professionnel."
+     "name": "Shampooing Hydratant L’Oréal Paris Elseve Hyaluron Repulp 72H",
+     "description": "Offrez à vos cheveux une hydratation intense et durable avec le shampooing Elseve Hyaluron Repulp. Sa formule enrichie en acide hyaluronique aide à retenir l’hydratation au cœur de la fibre capillaire pour des cheveux visiblement plus souples, plus brillants et pleins de vitalité.\n\nIdéal pour les cheveux déshydratés, ce shampooing nettoie en douceur tout en apportant une sensation de fraîcheur et de légèreté. Dès les premières utilisations, les cheveux paraissent plus doux, plus disciplinés et mieux hydratés.\n\nCaractéristique\nDétail\n\nMarque\nL’Oréal Paris\n\nGamme\nElseve Hyaluron Repulp\n\nType\nShampooing hydratant\n\nAction\nHydratation et repulpation\n\nIngrédient clé\nAcide hyaluronique\n\nConvient pour\nCheveux déshydratés\n\nUtilisation\nQuotidienne\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Offrez à vos cheveux une hydratation intense et durable avec le shampooing Elseve Hyaluron Repulp."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-18T141832.502.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T153909.180.png"
    ]
   },
   {
-   "sku": "doshift-78657",
-   "price": 529,
+   "sku": "doshift-84257",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    4
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Spotlight RGB LED FSD-168 Télécommandé",
-     "description": "Illuminez vos photos, vidéos et espaces avec ce spotlight RGB professionnel offrant plusieurs couleurs et températures de lumière réglables. Idéal pour le streaming, la photographie, les tournages vidéo, les événements et la décoration lumineuse.\n\nCaractéristique\nDétail\n\nType\nSpotlight RGB LED\n\nModèle\nFSD-168\n\nTempérature de couleur\n3200K – 6500K\n\nCouleurs\nRGB multicolore\n\nAlimentation\nDC 12V\n\nContrôle\nTélécommande sans fil\n\nUtilisation\nPhoto, vidéo, streaming, décoration\n\nSupport\nRéglable\n\nRéférence Doshift\nAA32BB099",
-     "short_description": "Illuminez vos photos, vidéos et espaces avec ce spotlight RGB professionnel offrant plusieurs couleurs et températures de lumière réglables."
+     "name": "Shampoing Régulateur Dessange Douce Argile",
+     "description": "Retrouvez l’équilibre parfait entre fraîcheur et douceur avec le Shampoing Régulateur Douce Argile de Dessange. Sa formule enrichie en argile purifiante aide à absorber l’excès de sébum à la racine tout en respectant les longueurs et les pointes. Idéal pour les cheveux aux racines grasses et aux pointes sèches, il procure une sensation de légèreté durable dès les premières utilisations.\n\nCaractéristique\nDétail\n\nMarque\nDessange\n\nGamme\nDouce Argile\n\nType\nShampoing régulateur\n\nUtilisation\nCheveux aux racines grasses et pointes sèches\n\nAction\nPurifie, régule et adoucit\n\nTexture\nShampooing liquide\n\nUsage\nQuotidien\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Retrouvez l’équilibre parfait entre fraîcheur et douceur avec le Shampoing Régulateur Douce Argile de Dessange."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-16T154642.298.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T152259.438.png"
    ]
   },
   {
-   "sku": "doshift-78461",
-   "price": 79,
+   "sku": "doshift-84235",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Pochette Compatible iPhone 17 Air Lavande",
-     "description": "Apportez une touche délicate et apaisante à votre téléphone avec cette pochette lavande au design moderne et minimaliste.\n\nCaractéristique\nDétail\n\nCouleur\nLavande élégante\n\nTexture\nSilicone lisse\n\nProtection\nContre les chocs\n\nStructure\nFine et légère\n\nDécoupes\nAjustées avec précision\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Apportez une touche délicate et apaisante à votre téléphone avec cette pochette lavande au design moderne et minimaliste."
+     "name": "Gel Douche NIVEA Lemongrass & Oil – Fraîcheur Revitalisante au Quotidien",
+     "description": "Offrez à votre peau une sensation de fraîcheur intense avec le gel douche NIVEA Lemongrass & Oil. Sa formule enrichie en vitamines associe le parfum vivifiant de la citronnelle à des micro-gouttes d’huile nourrissante pour nettoyer la peau en douceur tout en préservant son hydratation naturelle.\n\nParfait pour une utilisation quotidienne, ce gel douche transforme chaque douche en un moment de bien-être, laissant la peau douce, fraîche et délicatement parfumée.\n\nCaractéristique\nDétail\n\nMarque\nNIVEA\n\nType\nGel douche\n\nGamme\nFresh Shower\n\nParfum\nCitronnelle & Huile\n\nUtilisation\nCorps\n\nType de peau\nTous types de peau\n\nFormule\nEnrichie en vitamines C & E\n\nContenance\n250 ml\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Offrez à votre peau une sensation de fraîcheur intense avec le gel douche NIVEA Lemongrass & Oil."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/22-3.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T142810.925.png"
    ]
   },
   {
-   "sku": "doshift-78456",
-   "price": 79,
+   "sku": "doshift-84225",
+   "price": 59,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Pochette Compatible iPhone 17 Air Beige Nude",
-     "description": "Sublimez votre iPhone avec cette pochette beige nude au style doux et naturel, parfaite pour un usage quotidien élégant.\n\nCaractéristique\nDétail\n\nMatériau\nSilicone doux premium\n\nProtection\nLégère antichoc\n\nCouleur\nNude tendance\n\nDesign\nÉpuré moderne\n\nConfort\nPrise en main optimale\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Sublimez votre iPhone avec cette pochette beige nude au style doux et naturel, parfaite pour un usage quotidien élégant."
+     "name": "Shampoing Kératine Phytamine B5 420 ml",
+     "description": "Offrez à vos cheveux un soin complet avec le Shampoing Kératine Phytamine B5. Sa formule enrichie en kératine et pro-vitamine B5 nettoie délicatement tout en aidant à réparer, nourrir et renforcer la fibre capillaire. Idéal pour un usage régulier, il laisse les cheveux plus doux, plus brillants et visiblement plus sains.\n\nCaractéristique\nDétail\n\nProduit\nShampoing à la Kératine\n\nMarque\nPhytamine\n\nFormule\nKératine & Pro-Vitamine B5\n\nType de cheveux\nTous types de cheveux\n\nContenance\n420 ml\n\nUtilisation\nQuotidienne",
+     "short_description": "Offrez à vos cheveux un soin complet avec le Shampoing Kératine Phytamine B5. Sa formule enrichie en kératine et pro-vitamine B5 nettoie délicatement tout en aidant à réparer, nourrir et renforcer la fibre capillaire."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/19-3.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T134859.732.png"
    ]
   },
   {
-   "sku": "doshift-78450",
-   "price": 79,
+   "sku": "doshift-84219",
+   "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Pochette Compatible iPhone 17 Air Noir Mat",
-     "description": "Sécurisez votre iPhone avec cette pochette noir mat au style premium, pensée pour un look sobre et élégant.\n\nCaractéristique\nDétail\n\nFinition\nMate élégante\n\nProtection\nContre les rayures\n\nDesign\nMinimaliste moderne\n\nToucher\nDoux et antiglisse\n\nDécoupes\nPrécises\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Sécurisez votre iPhone avec cette pochette noir mat au style premium, pensée pour un look sobre et élégant."
+     "name": "Lait Solaire Désaltérant SPF 50 Soleil Biafine",
+     "description": "Profitez du soleil en toute sérénité avec le Lait Solaire Désaltérant SPF 50 Soleil Biafine. Sa formule haute protection aide à protéger efficacement la peau contre les rayons UVA et UVB tout en apportant une sensation d’hydratation et de confort. Sa texture légère pénètre rapidement sans effet gras pour une peau douce et agréable au toucher.\n\nCaractéristique\nDétail\n\nType\nLait solaire\n\nIndice de protection\nSPF 50\n\nProtection\nUVA / UVB\n\nType de peau\nPeaux sèches ou sensibles\n\nTexture\nLégère et non grasse\n\nFormule\nHypoallergénique\n\nSans parabène\nOui\n\nUtilisation\nVisage et corps\n\nRéférence Doshift\nAA11BB599",
+     "short_description": "Profitez du soleil en toute sérénité avec le Lait Solaire Désaltérant SPF 50 Soleil Biafine."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/16-4.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-11T133458.775.png"
    ]
   },
   {
-   "sku": "doshift-78445",
-   "price": 79,
+   "sku": "doshift-84122",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Pochette Compatible iPhone 17 Air Rose Fuchsia",
-     "description": "Affirmez votre style avec cette pochette rose fuchsia vibrante qui apporte une touche tendance et audacieuse à votre téléphone.\n\nCaractéristique\nDétail\n\nCouleur\nIntense et moderne\n\nMatériau\nSilicone souple confortable\n\nProtection\nQuotidienne et fiable\n\nDesign\nFin et léger\n\nBoutons\nRéactifs intégrés\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Affirmez votre style avec cette pochette rose fuchsia vibrante qui apporte une touche tendance et audacieuse à votre téléphone."
+     "name": "Nenuco Classic Agua de Colonia 650 ml",
+     "description": "Retrouvez toute la fraîcheur emblématique de Nenuco dans une eau de cologne douce et agréable pour toute la famille. Sa fragrance légère et rafraîchissante procure une sensation immédiate de propreté et de bien-être, idéale après la toilette ou à tout moment de la journée.\n\nGrâce à sa formule testée dermatologiquement, elle convient à un usage quotidien et laisse sur la peau un parfum délicat aux notes fraîches et réconfortantes. Son grand format de 650 ml est parfait pour une utilisation régulière à la maison.\n\nCaractéristique\nDétail\n\nMarque\nNenuco\n\nGamme\nClassic\n\nType\nEau de Cologne\n\nContenance\n650 ml\n\nUtilisation\nQuotidienne\n\nPublic\nToute la famille\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Retrouvez toute la fraîcheur emblématique de Nenuco dans une eau de cologne douce et agréable pour toute la famille."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/13-5.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-10T203239.056.png"
    ]
   },
   {
-   "sku": "doshift-78435",
-   "price": 79,
+   "sku": "doshift-84060",
+   "price": 229,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    12
    ],
    "locales": {
     "fr": {
-     "name": "Pochette Compatible iPhone 17 Air Beige Crème",
-     "description": "Offrez à votre iPhone une protection chic et discrète avec cette pochette beige crème au look raffiné et intemporel.\n\nCaractéristique\nDétail\n\nRevêtement\nSilicone mat\n\nProtection\nLégère et efficace\n\nDesign\nÉlégant et moderne\n\nPrise en main\nAntidérapante\n\nStructure\nFine et résistante\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Offrez à votre iPhone une protection chic et discrète avec cette pochette beige crème au look raffiné et intemporel."
+     "name": "Crème Solaire NIVEA SUN Kids SPF 50+ – Protection et Hydratation 5 en 1",
+     "description": "Offrez à vos enfants une protection solaire très haute performance avec la crème solaire NIVEA SUN Kids SPF 50+. Sa formule 5 en 1 aide à protéger efficacement la peau délicate des enfants contre les rayons UVA et UVB tout en maintenant une hydratation optimale pendant les activités en plein air.\n\nConçue pour les journées à la plage, à la piscine ou lors des sorties en famille, cette protection solaire résiste à l’eau et contribue à prévenir le dessèchement de la peau. Sa texture agréable s’applique facilement pour accompagner les enfants dans toutes leurs aventures sous le soleil.\n\nCaractéristique\nDétail\n\nMarque\nNIVEA SUN\n\nType\nCrème solaire enfants\n\nIndice de protection\nSPF 50+\n\nProtection\nUVA / UVB\n\nAction\nProtection & Hydratation 5 en 1\n\nRésistance à l’eau\nOui\n\nUtilisation\nPlage, piscine, activités extérieures\n\nPublic\nEnfants",
+     "short_description": "Offrez à vos enfants une protection solaire très haute performance avec la crème solaire NIVEA SUN Kids SPF 50+."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/10-5.png"
-   ]
-  },
-  {
-   "sku": "doshift-78425",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pochette Compatible iPhone 17 Air Bleu Ciel",
-     "description": "Ajoutez une touche fraîche et moderne à votre iPhone grâce à cette pochette bleu ciel au toucher soyeux et au style épuré.\n\nCaractéristique\nDétail\n\nTexture\nSilicone lisse\n\nProtection\nAntichoc légère\n\nFormat\nSlim et élégant\n\nBoutons\nIntégrés et précis\n\nInstallation\nRapide\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Ajoutez une touche fraîche et moderne à votre iPhone grâce à cette pochette bleu ciel au toucher soyeux et au style épuré."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/4-6.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-10T173140.130.png"
    ]
   }
  ]

@@ -1,8 +1,27 @@
 {
  "products": [
   {
-   "sku": "doshift-23788",
-   "price": 38,
+   "sku": "doshift-35964",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit de 530 Gaines Thermorétractables Colorées avec Boîte de Rangement",
+     "description": "Réparez, isolez et protégez facilement vos câbles électriques grâce à ce kit complet de 530 gaines thermorétractables. Proposé en plusieurs diamètres et en différentes couleurs, il permet de sécuriser les raccordements, renforcer les fils abîmés et organiser les installations électriques.\n\nSous l’effet de la chaleur, la gaine se rétracte autour du câble afin d’assurer une finition propre, résistante et durable. Les différentes tailles sont soigneusement classées dans une boîte transparente compartimentée, pratique pour retrouver rapidement la gaine adaptée à chaque projet.\n\nCaractéristique\nDétail\n\nType de produit\nKit de gaines thermorétractables\n\nNombre total\n530 pièces\n\nCouleurs\nNoir, rouge, bleu, vert et jaune\n\nLongueur des gaines\n45 mm\n\nTailles incluses\n1,5 mm à 10 mm\n\nGaine noire\n80 × 2 mm, 50 × 4 mm, 30 × 5 mm et 20 × 10 mm\n\nGaine rouge\n50 × 4 mm et 20 × 8 mm\n\nGaine bleue\n80 × 2 mm et 20 × 10 mm\n\nGaine verte\n60 × 3 mm et 20 × 10 mm\n\nGaine jaune\n80 × 1,5 mm et 20 × 6 mm\n\nFonction\nIsolation, protection et renforcement des câbles\n\nUtilisation\nÉlectricité, électronique, automobile, bricolage et réparations\n\nRangement\nBoîte transparente compartimentée\n\nApplication\nSe rétracte sous l’effet de la chaleur\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Réparez, isolez et protégez facilement vos câbles électriques grâce à ce kit complet de 530 gaines thermorétractables."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/Nouveau-projet-2026-07-16T162832.964.png"
+   ]
+  },
+  {
+   "sku": "doshift-35881",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -10,113 +29,96 @@
    ],
    "locales": {
     "fr": {
-     "name": "Câble DINEX USB vers Micro",
-     "description": "Le câble DINEX USB vers Micro est l’accessoire indispensable pour recharger vos smartphones, tablettes, powerbanks ou tout autre appareil équipé d’un port Micro USB. Grâce à sa construction robuste et ses matériaux de qualité, il offre une longue durée de vie même en usage intensif.\n\nAvec un courant de charge stable et une compatibilité universelle, ce câble garantit une alimentation sécurisée et une synchronisation fluide de vos fichiers. Compact et fiable, il vous accompagne aussi bien à la maison qu’en déplacement.\n\n✅ Caractéristiques principales :\n\n⚡ Charge rapide – Adapté à la plupart des chargeurs rapides (jusqu’à 2.4A)\n\n🔄 Transmission de données – Synchronisation fluide avec PC et Mac\n\n🛡️ Matériaux résistants – Anti-torsion, anti-usure\n\n🔌 Longueur pratique – Parfait pour une utilisation au bureau, en voiture ou à la maison\n\n📱 Compatibilité – Appareils Android, enceintes Bluetooth, caméras, powerbanks, etc.",
-     "short_description": "Le câble DINEX USB vers Micro est l’accessoire indispensable pour recharger vos smartphones, tablettes, powerbanks ou tout autre appareil équipé d’un port Micro USB."
+     "name": "Écouteurs Velano VE-03 Lightning Blanc – Son Haute Fidélité & Micro Intégré",
+     "description": "Profitez d’un son clair et équilibré avec les écouteurs filaires Velano VE-03 Lightning, conçus pour les utilisateurs d’iPhone cherchant qualité et confort au quotidien. Grâce à leur puce audio haute fidélité, ils offrent une expérience sonore riche et immersive, parfaite pour la musique, les appels ou les vidéos.Leur design ergonomique intra-auriculaire assure un port confortable même lors d’une écoute prolongée, tandis que le micro intégré HD garantit des conversations nettes et fluides. Robustes, élégants et pratiques, ils combinent style et performance.\n\nCaractéristiques du Produit:\n\nMarque\nVelano\n\nModèle\n VE-03\n\nType\nÉcouteurs filaires Lightning\n\nConnexion\nFilaire – Port Lightning\n\nMicrophone\nIntégré HD\n\nFréquence\n20 Hz – 20 kHz\n\nCouleur\nBlanc\n\nPoids\n11.6 g\n\nCompatibilité\niPhone, iPad\n\nCertifications\nCE / FCC / RoHS",
+     "short_description": "Profitez d’un son clair et équilibré avec les écouteurs filaires Velano VE-03 Lightning, conçus pour les utilisateurs d’iPhone cherchant qualité et confort au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-08T213542.668-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/somo11-1.png"
    ]
   },
   {
-   "sku": "doshift-23774",
-   "price": 129,
+   "sku": "doshift-35891",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    5
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Écouteurs Filaire DINEX EX-015i",
-     "description": "Les écouteurs DINEX EX-015i offrent une expérience sonore de haute qualité grâce à leur design ergonomique et leur connectivité Lightning. Idéalement compatibles avec les iPhone et iPad récents, ils vous assurent une écoute fluide et sans adaptateur.\n\nAvec un son équilibré, des basses profondes et un micro intégré pour les appels mains libres, ces écouteurs allient confort, performance et praticité. Leur finition élégante et leur câble résistant en font un accessoire durable au quotidien.\n\n✅ Caractéristiques principales :\n\n🎵 Connexion Lightning – Compatibles avec iPhone/iPad sans adaptateur\n\n🔊 Son haute fidélité – Pour une écoute immersive et nette\n\n🎙️ Micro intégré – Idéal pour les appels et les commandes vocales\n\n💡 Design ergonomique – Confort prolongé, bonne tenue dans l’oreille\n\n🧵 Câble robuste et anti-nœuds – Résistant à l’usage quotidien",
-     "short_description": "Les écouteurs DINEX EX-015i offrent une expérience sonore de haute qualité grâce à leur design ergonomique et leur connectivité Lightning."
+     "name": "Écouteurs Velano VE-02 USB-C Blanc – Son Haute Définition & Micro Intégré",
+     "description": "Les écouteurs filaires Velano VE-02 USB-C offrent un son clair, puissant et équilibré, parfait pour écouter votre musique ou passer des appels avec une qualité exceptionnelle. Grâce à leur design ergonomique et leur câble anti-nœud, ils garantissent un confort prolongé sans enchevêtrement.Le micro HD intégré assure une communication fluide et précise, tandis que la commande filaire permet de gérer facilement la musique et les appels. Conçus avec des matériaux résistants, ces écouteurs allient élégance et performance pour un usage quotidien.\n\nCaractéristiques du Produit:\n\nMarque\nVelano\n\nModèle\nVE-02\n\nType\nÉcouteurs filaires USB-C\n\nConnexion\nFilaire – Port USB-C\n\nMicrophone\nIntégré HD\n\nLongueur du câble\n1.2 m\n\nFréquence\n 20 Hz – 20 kHz\n\nCouleur\nBlanc\n\nPoids\n 11.6 g\n\nContrôle\nBoutons lecture/pause et volume",
+     "short_description": "Les écouteurs filaires Velano VE-02 USB-C offrent un son clair, puissant et équilibré, parfait pour écouter votre musique ou passer des appels avec une qualité exceptionnelle."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/ChatGPT-Image-8-juil.-2025-20_07_40.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/jk.png"
    ]
   },
   {
-   "sku": "doshift-23665",
+   "sku": "doshift-35536",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Velano VC-01 – USB-A vers USB-C – 120W / 10A Super Fast Data Cable – Coque Métallique Premium – Couleur Blanc",
+     "description": "Le Velano VC-01 est un câble de charge rapide et élégant conçu pour offrir jusqu’à 120W / 10A de puissance.Sa coque métallique et son câble renforcé garantissent une durabilité exceptionnelle et une résistance à la chaleur.Compatible avec tous les appareils USB-C, il assure un transfert de données stable et rapide sans surchauffe.Avec sa finition blanche premium, il allie performance, sécurité et style pour un usage quotidien fiable.\n\nCaractéristiques du Produit:\n\nMarque\nVelano\n\nCouleur\nBlanc\n\nType\nUSB-A vers USB-C\n\nTransfert de données\nHaute vitesse\n\nProtection\nAnti-surchauffe / Anti-surtension / Anti-court-circuit\n\nLongueur\n1 mètre\n\nModèle\nVC-01\n\nCertification\nCE / FCC / RoHS\n\nMatériaux\nAlliage métallique + revêtement TPE souple\n\nPuissance\n 120W / 10A",
+     "short_description": "Le Velano VC-01 est un câble de charge rapide et élégant conçu pour offrir jusqu’à 120W / 10A de puissance.Sa coque métallique et son câble renforcé garantissent une durabilité exceptionnelle et une résistance à la…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/piv3.png"
+   ]
+  },
+  {
+   "sku": "doshift-35250",
+   "price": 68,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Velano Iron VC-14 – USB-C vers Lightning (1 m), Charge Rapide & Protection Renforcée, Couleur Blanc",
+     "description": "Le Velano Iron VC-14 est un câble USB-C vers Lightning conçu pour une charge rapide et une transmission de données stable. Grâce à sa conception renforcée avec protection métallique Iron Shell, il offre une durabilité exceptionnelle et résiste à la flexion quotidienne. Son noyau en cuivre pur garantit une alimentation stable et une vitesse de transfert optimale. Idéal pour les utilisateurs d’iPhone, iPad et autres appareils Apple compatibles.\n\nCaractéristiques du Produit:\n\nModèle\nVC-14\n\nType\nUSB-C vers Lightning\n\nLongueur\n1 mètre\n\nMatériau\nProtection Iron Shell + câble renforcé\n\nVitesse de charge\nHaute vitesse avec synchronisation rapide des données\n\nSécurité\nRésistance à la chaleur, anti-explosion, protection contre les surtensions\n\nCompatibilité\niPhone, iPad, AirPods et autres appareils Apple\n\nFabrication\nDesigned by Velano",
+     "short_description": "Le Velano Iron VC-14 est un câble USB-C vers Lightning conçu pour une charge rapide et une transmission de données stable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/Nouveau-projet-2026-04-21T211302.949.png"
+   ]
+  },
+  {
+   "sku": "doshift-35233",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    5
+    2,
+    7,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Ecouteurs Dinex D009C – Connexion Type-C & Son Haute Définition",
-     "description": "Offrez-vous une expérience audio supérieure avec les écouteurs Dinex D009C. Grâce à leur connexion USB Type-C, ils assurent une transmission numérique directe pour un son plus pur et plus stable, sans interférences.\n\nDotés de haut-parleurs dynamiques, ils délivrent des basses profondes et des aigus précis, idéals pour la musique, les appels ou les vidéos. Leur design ergonomique intra-auriculaire garantit un port confortable, même pendant de longues heures.\n\nLe micro intégré avec commande vous permet de gérer vos appels et votre musique en toute simplicité.\n\n✅ Caractéristiques principales :\n\n🔌 Connecteur USB Type-C – Compatible Android\n\n🎵 Son Haute Définition – Basses profondes, voix claires\n\n🎤 Microphone intégré – Pour appels mains libres\n\n🖐️ Confort optimal – Embouts intra-auriculaires\n\n🎶 Contrôle multifonctions – Lecture, pause, appels\n\n🎧 Idéal pour smartphones sans port jack",
-     "short_description": "Offrez-vous une expérience audio supérieure avec les écouteurs Dinex D009C. Grâce à leur connexion USB Type-C, ils assurent une transmission numérique directe pour un son plus pur et plus stable, sans interférences."
+     "name": "Support Smartphone Étanche pour Vélo – Fixation Guidon",
+     "description": "Gardez votre smartphone facilement accessible pendant vos déplacements à vélo grâce à ce support téléphone pour guidon. Conçu pour accompagner vos trajets quotidiens comme vos sorties sportives, il permet de consulter votre navigation tout en maintenant le téléphone solidement en place.\n\nSa coque de protection avec fenêtre transparente aide à protéger le smartphone contre la pluie et les éclaboussures tout en conservant une bonne visibilité de l’écran. Le système de fixation se monte directement sur le guidon pour une utilisation pratique pendant vos déplacements.\n\nIdéal pour utiliser votre smartphone comme GPS, suivre votre itinéraire ou garder vos informations importantes visibles pendant vos sorties.\n\nCaractéristique\nDétail\n\nType\nSupport smartphone pour vélo\n\nInstallation\nFixation sur guidon\n\nProtection\nConçu pour protéger contre la pluie et les éclaboussures\n\nFenêtre avant\nTransparente\n\nCouleur\nNoir\n\nUtilisation\nVélo, déplacements urbains, sorties outdoor\n\nFonction principale\nMaintien et consultation du smartphone pendant le trajet\n\nCompatibilité\nSmartphones adaptés aux dimensions du support\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Gardez votre smartphone facilement accessible pendant vos déplacements à vélo grâce à ce support téléphone pour guidon."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-08T104454.107.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/Nouveau-projet-2026-08-24T140926.744.png"
    ]
   },
   {
-   "sku": "doshift-23584",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse Dinex DN-9060 3 en 1",
-     "description": "La Tondeuse Dinex DN-9060 3 en 1 offre une solution complète pour votre routine de soins personnels. Grâce à ses têtes interchangeables, elle assure une coupe nette des cheveux, un entretien soigné de la barbe et un nettoyage sécurisé des poils du nez et des oreilles.\n\nDotée d’une batterie rechargeable longue durée, la DN-9060 garantit une utilisation sans fil pratique, tandis que son design ergonomique offre une prise en main confortable. Ses lames en acier inoxydable assurent une coupe précise sans tiraillement.\n\n✅ Caractéristiques principales :\n\n✂️ 3 en 1 : cheveux, barbe, nez/oreilles\n\n🔋 Batterie rechargeable – autonomie longue durée\n\n🖐️ Design ergonomique pour un contrôle optimal\n\n🔹 Lames en acier inoxydable – coupe précise et durable\n\n🧳 Compact et pratique pour les déplacements",
-     "short_description": "La Tondeuse Dinex DN-9060 3 en 1 offre une solution complète pour votre routine de soins personnels."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-06T192928.727.png"
-   ]
-  },
-  {
-   "sku": "doshift-23573",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse Dinex DN-910 Rechargeable, Précise et Ergonomiquep",
-     "description": "La Tondeuse Dinex DN-910 offre une performance de coupe précise et uniforme grâce à ses lames en acier inoxydable de haute qualité. Conçue pour un usage facile, elle est équipée d’une batterie rechargeable garantissant une autonomie adaptée pour plusieurs utilisations.\n\nSon design ergonomique assure une prise en main confortable et un contrôle parfait pour des coupes nettes, même dans les zones difficiles d’accès. Compacte et légère, elle est idéale pour l’entretien quotidien et se glisse facilement dans vos affaires lors de vos déplacements.\n\n✅ Caractéristiques principales :\n\n✂️ Lames en acier inoxydable – coupe précise et durable\n\n🔋 Batterie rechargeable – autonomie longue durée\n\n🖐️ Design ergonomique pour un confort optimal\n\n💈 Convient pour cheveux, barbe et contours\n\n🧳 Format compact, facile à transporter",
-     "short_description": "La Tondeuse Dinex DN-910 offre une performance de coupe précise et uniforme grâce à ses lames en acier inoxydable de haute qualité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-06T170513.911.png"
-   ]
-  },
-  {
-   "sku": "doshift-23554",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse Dinex DN-1720 – Coupe Précise et Rechargeable, Design Ergonomique",
-     "description": "La Tondeuse Dinex DN-1720 est conçue pour offrir une coupe nette et soignée, idéale pour les cheveux, la barbe et les contours. Ses lames en acier inoxydable garantissent une performance durable et une coupe sans tiraillement ni irritation.\n\nDotée d’une batterie rechargeable, elle assure une autonomie confortable pour un usage quotidien. Son design ergonomique assure une prise en main facile et un contrôle optimal, même lors des finitions les plus minutieuses. Compacte et légère, elle se glisse facilement dans votre sac pour vous accompagner partout.\n\n✅ Caractéristiques principales :\n\n✂️ Lames en acier inoxydable – coupe précise et durable\n\n🔋 Batterie rechargeable avec autonomie longue durée\n\n🖐️ Design ergonomique pour un confort maximal\n\n💈 Convient pour cheveux, barbe et contours\n\n🧳 Compacte et facile à transporter",
-     "short_description": "La Tondeuse Dinex DN-1720 est conçue pour offrir une coupe nette et soignée, idéale pour les cheveux, la barbe et les contours."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-05T204932.445.png"
-   ]
-  },
-  {
-   "sku": "doshift-23529",
-   "price": 329,
+   "sku": "doshift-34995",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -124,37 +126,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Power Bank Dinex X-200 20000mAh",
-     "description": "Avec le Power Bank Dinex X200 20000mAh, ne manquez plus jamais d’énergie lors de vos déplacements. Sa puissance de 22.5W offre une charge ultra-rapide pour vos appareils compatibles, réduisant considérablement le temps de charge.\n\nDoté de ports multiples, le X200 permet de recharger plusieurs appareils simultanément : smartphone, tablette, écouteurs sans fil, smartwatch… Son design robuste et compact facilite son transport, et ses systèmes de protection intégrés garantissent une utilisation sûre (contre surchauffe, surtension, surcharge et court-circuit).\n\n✅ Caractéristiques principales :\n\n🔋 Capacité : 20000mAh – plusieurs recharges pour vos appareils\n\n⚡ Charge rapide : puissance max 22.5W\n\n🔌 Ports multiples : recharge simultanée possible\n\n🛡️ Systèmes de protection intégrés : surchauffe, surtension, surcharge, court-circuit\n\n👜 Format compact, facile à transporter\n\n📱 Compatibilité : smartphones, tablettes, accessoires USB-C/USB-A",
-     "short_description": "Avec le Power Bank Dinex X200 20000mAh, ne manquez plus jamais d’énergie lors de vos déplacements."
+     "name": "Câble Velano VC-07 – USB-C vers USB-C, 30W / 5A, Charge Rapide & Transfert de Données Haute Vitesse, Couleur Blanche",
+     "description": "Le Velano VC-07 est un câble USB-C vers USB-C haute performance offrant une charge rapide jusqu’à 30W / 5A et un transfert de données fluide.Conçu avec un fil en cuivre épais et renforcé, il garantit une solidité et une longévité exceptionnelles.Compatible avec tous les appareils USB-C, il assure une connexion stable et sûre.Un accessoire idéal pour une utilisation quotidienne, à la maison, au bureau ou en voyage.\n\nCaractéristiques du Produit:\n\nMarque\nVelano\n\nModèle\nVC-07\n\nType\nCâble USB-C vers USB-C\n\nPuissance maximale\n30W\n\nLongueur\n1 mètre\n\nCouleur\nBlanc\n\nMatériau\n Fil épais en cuivre renforcé + revêtement flexible\n\nCompatibilité\nSmartphones, tablettes, laptops avec port USB-C\n\nCertification\nCE / FCC / RoHS\n\nFabrication\nDesigned by Velano – Made in China",
+     "short_description": "Le Velano VC-07 est un câble USB-C vers USB-C haute performance offrant une charge rapide jusqu’à 30W / 5A et un transfert de données fluide.Conçu avec un fil en cuivre épais et renforcé, il garantit une solidité et une…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-05T130950.969.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/cablez10.png"
    ]
   },
   {
-   "sku": "doshift-23507",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pack Clavier et Souris Dinex WS881",
-     "description": "Le pack Dinex WS881 comprend un clavier sans fil et une souris sans fil, parfaits pour le bureau ou la maison. Grâce à leur connexion stable par récepteur USB, vous profitez d’un espace de travail dégagé et d’une grande liberté de mouvement.\n\nLe clavier offre un confort de frappe optimal avec des touches silencieuses, tandis que la souris assure une précision fluide adaptée à vos besoins quotidiens. L’ensemble se distingue par son design compact et son installation Plug & Play : branchez le nano-récepteur et commencez à travailler !\n\n✅ Caractéristiques principales :\n\n🔹 Connexion sans fil 2,4 GHz stable (récepteur USB inclus)\n\n⌨️ Clavier compact avec touches silencieuses et confortables\n\n🖱️ Souris ergonomique avec mouvement fluide\n\n🔋 Faible consommation d’énergie pour une autonomie prolongée\n\n💻 Compatibilité : Windows, Mac, Linux\n\n🏠 Idéal pour : bureau, maison, télétravail",
-     "short_description": "Le pack Dinex WS881 comprend un clavier sans fil et une souris sans fil, parfaits pour le bureau ou la maison."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-04T214509.160.png"
-   ]
-  },
-  {
-   "sku": "doshift-23503",
-   "price": 139,
+   "sku": "doshift-34913",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -162,18 +145,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Chargeur Konfulon C69D – USB-C vers Lightning, Charge Rapide et Compacte",
-     "description": "Le Chargeur Konfulon C69D est conçu pour répondre aux exigences de charge des utilisateurs Apple modernes. Doté d’un câble USB-C vers Lightning, il prend en charge la technologie Power Delivery (PD) pour recharger rapidement vos iPhone, iPad et AirPods compatibles.\n\nSon format compact et ses matériaux robustes en font un chargeur facile à transporter et durable. Des protections intégrées assurent la sécurité de vos appareils en prévenant les surtensions, les surintensités et les surchauffes.\n\n✅ Caractéristiques principales :\n\n⚡ Connexion : USB-C vers Lightning (compatible charge rapide PD)\n\n🔋 Charge rapide : idéale pour iPhone, iPad, AirPods\n\n🛡️ Protections intégrées : surchauffe, surtension, court-circuit\n\n📏 Format compact et léger, facile à transporter\n\n🏠 Parfait pour maison, bureau et voyage",
-     "short_description": "Le Chargeur Konfulon C69D est conçu pour répondre aux exigences de charge des utilisateurs Apple modernes."
+     "name": "Câble Velano VC-17 – USB-C vers USB-C, 1 mètre, Couleur Blanc, Protection en Alliage Métallique, Charge Rapide & Transfert de Données Haute Vitesse",
+     "description": "Le Velano VC-17 est un câble USB-C vers USB-C de haute qualité, conçu pour offrir une charge rapide et un transfert de données stable. Grâce à sa protection en alliage métallique “Iron Shell”, il résiste à la torsion et à l’usure quotidienne. Sa longueur de 1 mètre offre une utilisation pratique à la maison, au bureau ou en déplacement. Fiable, solide et élégant, il est compatible avec tous les appareils USB-C modernes.\n\nCaractéristiques du Produit:\n\nMarque\nVelano\n\nModèle\n VC-17\n\nType de câble\nUSB-C vers USB-C\n\nLongueur\n 1 mètre\n\nMatériau\n Alliage métallique avec protection Iron Shell\n\nCompatibilité\nAppareils USB-C (smartphones, tablettes, laptops)\n\nVitesse de transfert\nHaute vitesse, jusqu’à 480 Mbps\n\nPuissance de charge\n Compatible Fast Charging\n\nCouleur\nBlanc\n\nCertification\nCE / FCC / RoHS",
+     "short_description": "Le Velano VC-17 est un câble USB-C vers USB-C de haute qualité, conçu pour offrir une charge rapide et un transfert de données stable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-04T204336.483.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/pable.png"
    ]
   },
   {
-   "sku": "doshift-23442",
-   "price": 89,
+   "sku": "doshift-34899",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -181,13 +164,33 @@
    ],
    "locales": {
     "fr": {
-     "name": "Chargeur Konfulon C87Q USB vers Lightning",
-     "description": "Le Konfulon C87Q est un chargeur intelligent conçu pour offrir une charge rapide et sécurisée à vos appareils Apple. Grâce à son mini format, il se glisse facilement dans votre sac ou votre poche, parfait pour accompagner vos déplacements.\n\nDoté d’un câble USB vers Lightning intégré, il est compatible avec les iPhone, iPad, AirPods et autres appareils Apple. Sa conception robuste et ses protections intégrées (contre les surtensions, surintensités et surchauffes) garantissent une utilisation sûre et durable.\n\n✅ Caractéristiques principales :\n\n🔌 Connexion : USB vers Lightning\n\n⚡ Charge rapide et stable\n\n📏 Format mini, ultra portable\n\n🛡️ Protection intégrée contre surchauffe, surtension et court-circuit\n\n📱 Compatibilité : (port Lightning)\n\n🏠 Idéal pour maison, bureau, voyage",
-     "short_description": "Le Konfulon C87Q est un chargeur intelligent conçu pour offrir une charge rapide et sécurisée à vos appareils Apple."
+     "name": "Velano VC-06 – Câble USB-C vers Lightning 30W, Blanc, Résistant avec Protection à Ressort, Charge Rapide et Transfert Haute Vitesse",
+     "description": "Le Velano VC-06 est un câble de charge rapide USB-C vers Lightning de 30W, conçu pour offrir une performance fiable et durable. Sa conception renforcée avec protection à ressort empêche la casse au niveau des extrémités, assurant une longue durée de vie. Compatible avec les appareils Apple, il permet une recharge ultra-rapide et un transfert de données stable. Sa couleur blanche élégante et son design premium en font l’accessoire idéal pour un usage quotidien, à la maison comme au bureau.\n\nCaractéristiques du Produit:\n\nMarque\nVelano\n\nModèle\nVC-06\n\nType de produit\nCâble USB-C vers Lightning\n\nPuissance\n30W Fast Charging\n\nMatériaux\nPVC + ressorts métalliques renforcés\n\nLongueur\n1 mètre\n\nProtection\n Ressorts anti-pliure aux deux extrémités\n\nTransmission des données\nHaute vitesse, synchronisation stable\n\nCouleur\nBlanc\n\nParticularité\nCâble 4.0 Core – Transport rapide et protection de sécurité",
+     "short_description": "Le Velano VC-06 est un câble de charge rapide USB-C vers Lightning de 30W, conçu pour offrir une performance fiable et durable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-04T171222.743.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/boss2.png"
+   ]
+  },
+  {
+   "sku": "doshift-34795",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Masthome Serpillière Éponge avec Seau Pliant – Balai Essoreur Automatique, Manche Télescopique Acier Inoxydable 135 cm, Couleurs Bleu & Gris",
+     "description": "Le Masthome Sponge Mop Set est conçu pour un nettoyage rapide, pratique et sans effort. Son seau pliant innovant et sa tête éponge ultra absorbante permettent d’essorer sans se mouiller les mains. Le manche télescopique en acier inoxydable (135 cm) assure confort et durabilité lors de l’utilisation. Idéal pour les sols en carrelage, parquet ou stratifié, il offre un résultat propre et brillant en un seul geste.\n\nCaractéristiques du Produit:\n\nMarque\nMasthome\n\nModèle\nSponge Mop and Bucket Set\n\nManche\nTélescopique en acier inoxydable – jusqu’à 135 cm\n\nÉponge\nPVA haute absorption, 3 recharges incluses\n\nCouleurs\nBleu et Gris\n\nRotation\nTête pivotante 360°\n\nMatériaux\nABS + acier inoxydable + éponge PVA\n\nDimensions\nManche 135 cm, tête 33 cm (selon version)",
+     "short_description": "Le Masthome Sponge Mop Set est conçu pour un nettoyage rapide, pratique et sans effort. Son seau pliant innovant et sa tête éponge ultra absorbante permettent d’essorer sans se mouiller les mains."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/vversion.png"
    ]
   }
  ]

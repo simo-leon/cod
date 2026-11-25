@@ -1,7 +1,167 @@
 {
  "products": [
   {
-   "sku": "doshift-97363",
+   "sku": "doshift-97506",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Eau de Parfum Femme Mystère – Riiffs",
+     "description": "Découvrez Mystère Women de Riiffs, une eau de parfum féminine au caractère élégant et raffiné. Son parfum enveloppant accompagne aussi bien les journées ordinaires que les occasions spéciales, en laissant un sillage délicat et sophistiqué.\n\nPrésentée dans un superbe flacon transparent rempli d’un jus rose, elle séduit également par son design luxueux associant le bleu marine, le doré et des détails botaniques. Une fragrance idéale pour compléter une routine beauté ou offrir un cadeau élégant.\n\nCaractéristique\nDétail\n\nProduit\nEau de parfum pour femme\n\nModèle\nMystère Women\n\nMarque\nRiiffs\n\nType\nEau de Parfum\n\nPublic\nFemme\n\nApplication\nVaporisateur\n\nStyle olfactif\nFéminin, élégant et enveloppant\n\nUtilisation\nQuotidien, soirées et occasions spéciales\n\nCouleur du parfum\nRose\n\nDesign du flacon\nTransparent avec finitions bleu marine et dorées\n\nConditionnement\nFlacon avec boîte\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Découvrez Mystère Women de Riiffs, une eau de parfum féminine au caractère élégant et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T205011.991.png"
+   ]
+  },
+  {
+   "sku": "doshift-97500",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Eau de Parfum AJWAA Nusuk – 100 ml",
+     "description": "Découvrez AJWAA de Nusuk, une eau de parfum au caractère élégant, présentée dans un superbe flacon rouge à la finition velours. Son bouchon doré et ses ornements raffinés lui offrent une allure luxueuse, idéale pour compléter votre collection de parfums ou pour offrir un cadeau distingué.\n\nSon univers oriental et sophistiqué accompagne parfaitement les occasions spéciales comme le quotidien. Avec son format généreux de 100 ml, AJWAA laisse une impression raffinée et apporte une touche de prestige à chaque utilisation.\n\nCaractéristique\nDétail\n\nProduit\nEau de parfum\n\nModèle\nAJWAA\n\nMarque\nNusuk\n\nContenance\n100 ml\n\nType de parfum\nEau de Parfum\n\nStyle olfactif\nOriental et élégant\n\nDesign du flacon\nRectangulaire, rouge effet velours\n\nFinition\nOrnements et bouchon dorés\n\nUtilisation\nQuotidien et occasions spéciales\n\nPublic\nAdulte\n\nConditionnement\n1 flacon\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Découvrez AJWAA de Nusuk, une eau de parfum au caractère élégant, présentée dans un superbe flacon rouge à la finition velours."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T204243.489.png"
+   ]
+  },
+  {
+   "sku": "doshift-97490",
+   "price": 349,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Parfum Goodness Oud Rouge – Riffs Perfumes",
+     "description": "Découvrez Goodness Oud Rouge de Riffs Perfumes, un parfum au caractère intense et raffiné, présenté dans un superbe flacon rouge bordeaux sublimé par des ornements dorés. Son univers olfactif inspiré de l’oud apporte une touche chaleureuse, élégante et mystérieuse, idéale pour compléter une tenue avec distinction.\n\nSon flacon luxueux et son design oriental en font également une excellente idée cadeau pour les amateurs de parfums riches et sophistiqués. Grâce à son vaporisateur pratique, le parfum s’applique facilement sur les points de pulsation comme le cou et les poignets.\n\nCaractéristique\nDétail\n\nMarque\nRiffs Perfumes\n\nModèle\nGoodness Oud Rouge\n\nCatégorie\nParfum\n\nProfil olfactif\nOriental, boisé et chaleureux\n\nNote dominante\nOud\n\nFormat\nFlacon avec vaporisateur\n\nCouleur du flacon\nRouge bordeaux et doré\n\nUtilisation\nQuotidienne, soirées et occasions spéciales\n\nPublic\nConvient aux amateurs de parfums orientaux\n\nContenu\n1 flacon de parfum\n\nRéférence Doshift\nAA22BB099",
+     "short_description": "Découvrez Goodness Oud Rouge de Riffs Perfumes, un parfum au caractère intense et raffiné, présenté dans un superbe flacon rouge bordeaux sublimé par des ornements dorés."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T203509.467.png"
+   ]
+  },
+  {
+   "sku": "doshift-97483",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Eau de Parfum Zahra Nusuk – 85 ml",
+     "description": "Découvrez Zahra de Nusuk, une eau de parfum au caractère élégant et raffiné, présentée dans un superbe flacon rouge aux finitions dorées. Son design luxueux, son bouchon transparent effet cristal et son étui cylindrique assorti en font également une excellente idée cadeau.\n\nGrâce à sa concentration Eau de Parfum, Zahra offre une présence olfactive agréable et durable, idéale pour accompagner vos journées, vos soirées et vos occasions spéciales. Son format de 85 ml permet une utilisation régulière tout en restant pratique à ranger sur une coiffeuse ou dans une collection de parfums.\n\nCaractéristique\nDétail\n\nProduit\nEau de parfum\n\nNom\nZahra\n\nMarque\nNusuk\n\nContenance\n85 ml / 2,87 fl oz\n\nType de concentration\nEau de Parfum\n\nPrésentation\nFlacon en verre avec étui cylindrique\n\nCouleur du flacon\nRouge avec finitions dorées\n\nType de bouchon\nBouchon rond transparent effet cristal\n\nUtilisation\nQuotidien, soirées et occasions spéciales\n\nPublic\nAdulte\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Découvrez Zahra de Nusuk, une eau de parfum au caractère élégant et raffiné, présentée dans un superbe flacon rouge aux finitions dorées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T202308.234.png"
+   ]
+  },
+  {
+   "sku": "doshift-97462",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Eau de Parfum Vision Pour Homme – Nusuk 100 ml",
+     "description": "Affirmez votre style avec Vision Pour Homme de Nusuk, une eau de parfum masculine présentée dans un élégant flacon noir aux finitions dorées. Son design luxueux et raffiné en fait un excellent choix pour accompagner les journées de travail, les sorties ou les occasions spéciales.\n\nGrâce à son format généreux de 100 ml, ce parfum convient à une utilisation régulière. Son flacon sophistiqué trouve facilement sa place sur une coiffeuse, une étagère ou dans une collection de parfums masculins.\n\nCaractéristique\nDétail\n\nProduit\nEau de parfum pour homme\n\nMarque\nNusuk\n\nModèle\nVision Pour Homme\n\nContenance\n100 ml\n\nConcentration\nEau de Parfum\n\nPublic\nHomme\n\nDesign du flacon\nNoir brillant avec finitions dorées\n\nUtilisation\nQuotidien, sorties et occasions spéciales\n\nConditionnement\nFlacon individuel\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Affirmez votre style avec Vision Pour Homme de Nusuk, une eau de parfum masculine présentée dans un élégant flacon noir aux finitions dorées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T191049.701.png"
+   ]
+  },
+  {
+   "sku": "doshift-97454",
+   "price": 429,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Golden Elixir Reserve Riiffs – Extrait de Parfum 100 ml",
+     "description": "Découvrez Golden Elixir Reserve de Riiffs, un extrait de parfum au caractère élégant et raffiné, présenté dans un flacon luxueux aux détails facettés. Son design sophistiqué, associé à sa teinte ambrée, en fait un parfum idéal pour compléter une tenue avec distinction.\n\nGrâce à sa concentration en extrait de parfum, Golden Elixir Reserve offre une présence olfactive intense et durable. Il convient parfaitement aux soirées, aux occasions spéciales ou à une utilisation quotidienne pour les personnes recherchant une fragrance affirmée et élégante.\n\nSon flacon de 100 ml est accompagné d’une présentation premium, ce qui en fait également une excellente idée de cadeau.\n\nCaractéristique\nDétail\n\nProduit\nGolden Elixir Reserve\n\nMarque\nRiiffs\n\nType\nExtrait de parfum\n\nContenance\n100 ml\n\nÉquivalence\n3.4 fl oz\n\nApplication\nVaporisateur\n\nStyle\nÉlégant, intense et raffiné\n\nUtilisation\nQuotidien, soirées et occasions spéciales\n\nPrésentation\nFlacon facetté avec coffret premium\n\nRéférence Doshift\nAA27BB099",
+     "short_description": "Découvrez Golden Elixir Reserve de Riiffs, un extrait de parfum au caractère élégant et raffiné, présenté dans un flacon luxueux aux détails facettés."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T190331.997.png"
+   ]
+  },
+  {
+   "sku": "doshift-97447",
+   "price": 229,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Eau de Parfum Bella Rouge RIIFFS – 100 ml",
+     "description": "Découvrez Bella Rouge de RIIFFS, une eau de parfum élégante présentée dans un flacon raffiné aux finitions noires et dorées. Son design luxueux apporte une touche sophistiquée à votre coiffeuse tout en faisant de ce parfum un excellent choix pour compléter votre routine quotidienne.\n\nGrâce à son vaporisateur pratique, le parfum s’applique facilement sur les points de pulsation comme le cou et les poignets. Son format généreux de 100 ml convient aussi bien à une utilisation quotidienne qu’aux sorties, événements et occasions spéciales.\n\nCaractéristique\nDétail\n\nMarque\nRIIFFS\n\nModèle\nBella Rouge\n\nType\nEau de Parfum\n\nContenance\n100 ml\n\nFormat\nFlacon vaporisateur\n\nMatière du flacon\nVerre\n\nCouleurs\nTransparent, noir et doré\n\nUtilisation\nQuotidien, sorties et occasions spéciales\n\nPublic\nAdulte\n\nConditionnement\n1 flacon\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Découvrez Bella Rouge de RIIFFS, une eau de parfum élégante présentée dans un flacon raffiné aux finitions noires et dorées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T183108.254.png"
+   ]
+  },
+  {
+   "sku": "doshift-97442",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Eau de Parfum Mousuf – Parfum Oriental Élégant",
+     "description": "Découvrez Mousuf Eau de Parfum, une fragrance au caractère chaleureux et raffiné, idéale pour apporter une touche d’élégance à votre quotidien. Son parfum enveloppant laisse un sillage agréable et sophistiqué, adapté aussi bien aux sorties qu’aux occasions spéciales.\n\nPrésenté dans un magnifique flacon aux teintes ambrées, avec des finitions dorées et un bouchon effet bois, ce parfum constitue également une excellente idée cadeau.\n\nCaractéristique\nDétail\n\nNom du produit\nMousuf\n\nType\nEau de Parfum\n\nStyle olfactif\nOriental, chaleureux et élégant\n\nUtilisation\nQuotidienne, sorties et occasions spéciales\n\nPublic\nFemme et homme\n\nFlacon\nVerre transparent avec liquide ambré\n\nFinitions\nCol doré et bouchon effet bois\n\nApplication\nVaporisation sur la peau ou les vêtements\n\nConservation\nÀ l’abri de la chaleur et de la lumière\n\nContenu\n1 flacon de parfum\n\nRéférence Doshift\nAA11BB599",
+     "short_description": "Découvrez Mousuf Eau de Parfum, une fragrance au caractère chaleureux et raffiné, idéale pour apporter une touche d’élégance à votre quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T182403.791.png"
+   ]
+  },
+  {
+   "sku": "doshift-97421",
    "price": 339,
    "stock": 10,
    "status": 0,
@@ -11,18 +171,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Parfum Yara Lattafa – Eau de Parfum Femme 100 ml",
-     "description": "Laissez-vous séduire par Yara de Lattafa, une eau de parfum féminine au caractère doux, élégant et enveloppant. Sa fragrance raffinée accompagne parfaitement les journées comme les soirées, tout en apportant une touche de féminité et de sophistication.\n\nPrésenté dans un superbe flacon rose aux finitions argentées, ce parfum attire autant par son design luxueux que par son agréable signature olfactive. Son format de 100 ml permet une utilisation régulière et en fait également une excellente idée cadeau.\n\nCaractéristique\nDétail\n\nProduit\nParfum Yara\n\nMarque\nLattafa\n\nType\nEau de Parfum\n\nPublic\nFemme\n\nContenance\n100 ml\n\nProfil olfactif\nDoux, féminin et enveloppant\n\nUtilisation\nQuotidienne, sorties et occasions spéciales\n\nPrésentation\nFlacon rose avec finitions argentées\n\nApplication\nVaporiser légèrement sur les points de pulsation\n\nRéférence Doshift\nAA21BB599",
-     "short_description": "Laissez-vous séduire par Yara de Lattafa, une eau de parfum féminine au caractère doux, élégant et enveloppant."
+     "name": "Eau de Parfum Khamrah Lattafa – 100 ml",
+     "description": "Découvrez Khamrah de Lattafa, une eau de parfum unisexe au caractère oriental, épicé et gourmand. Son ouverture associe la fraîcheur de la bergamote à la chaleur de la cannelle et de la noix de muscade, avant de révéler un cœur généreux mêlant dattes, praline, tubéreuse et muguet.\n\nEn fond, la vanille, la fève tonka grillée, le benjoin, la myrrhe et les bois ambrés créent une signature riche, chaleureuse et enveloppante. Son élégant flacon en verre travaillé, rempli d’un jus ambré, apporte une véritable touche de luxe à votre collection de parfums.\n\nCaractéristique\nDétail\n\nProduit\nEau de Parfum Khamrah\n\nMarque\nLattafa\n\nContenance\n100 ml\n\nConcentration\nEau de Parfum\n\nType\nParfum unisexe\n\nFamille olfactive\nOrientale, épicée et gourmande\n\nNotes principales\nCannelle, dattes, praline, vanille et fève tonka\n\nPrésentation\nFlacon carré en verre facetté avec finition dorée\n\nUtilisation\nVaporiser légèrement sur les points de pulsation\n\nOccasion\nSoirées, événements et usage quotidien\n\nRéférence Doshift\nAA23BB599",
+     "short_description": "Découvrez Khamrah de Lattafa, une eau de parfum unisexe au caractère oriental, épicé et gourmand."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T160412.708.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T180128.757.png"
    ]
   },
   {
-   "sku": "doshift-97115",
-   "price": 369,
+   "sku": "doshift-97413",
+   "price": 339,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -31,172 +191,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Bain de pieds pliable multifonction avec massage",
-     "description": "Profitez d’un véritable moment de détente à domicile avec ce bain de pieds pliable multifonction. Son bassin spacieux accueille confortablement les pieds, tandis que sa surface texturée et ses rouleaux intégrés procurent un massage agréable après une longue journée.\n\nGrâce à sa conception pliable, il prend peu de place une fois rangé. Son système de chauffage aide à maintenir une température confortable, tandis que la fonction bulles offre une sensation relaxante. Le couvercle partiel limite également les éclaboussures pendant l’utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nBain de pieds électrique pliable\n\nModèle\nRF-368Z\n\nFonctions\nBain, chauffage, bulles et massage\n\nMassage\nRouleaux rotatifs et reliefs intégrés\n\nSurface intérieure\nTexturée avec points de stimulation\n\nConception\nPliable et peu encombrante\n\nCouvercle\nProtection partielle contre les éclaboussures\n\nCouleur\nRose et blanc\n\nUtilisation\nDétente et soin des pieds à domicile\n\nRangement\nCompact après pliage\n\nEntretien\nBassin facile à vider et à nettoyer\n\nRéférence\nAA25BB099",
-     "short_description": "Profitez d’un véritable moment de détente à domicile avec ce bain de pieds pliable multifonction."
+     "name": "Eau de Parfum Asad Lattafa – Élégance, intensité et caractère",
+     "description": "Découvrez Asad de Lattafa, une eau de parfum masculine au caractère puissant, conçue pour les hommes qui apprécient les fragrances profondes, chaleureuses et élégantes. Son parfum intense accompagne parfaitement les journées importantes, les soirées et les occasions spéciales.\n\nSa composition au style oriental dévoile une sensation épicée et enveloppante, complétée par des nuances boisées et ambrées. Elle laisse derrière elle un sillage affirmé qui renforce votre présence sans passer inaperçu.\n\nPrésenté dans un superbe flacon noir orné de détails dorés, le parfum Asad Lattafa apporte également une touche luxueuse à votre collection. Son design masculin et raffiné en fait une excellente idée de cadeau.\n\nCaractéristique\nDétail\n\nMarque\nLattafa\n\nModèle\nAsad\n\nType\nEau de parfum\n\nPublic\nHomme\n\nStyle olfactif\nOriental, épicé et boisé\n\nIntensité\nPuissante et chaleureuse\n\nUtilisation recommandée\nSoirées, sorties et occasions spéciales\n\nSaison idéale\nAutomne et hiver\n\nDesign du flacon\nNoir avec finitions dorées\n\nConditionnement\nFlacon individuel\n\nRéférence Doshift\nAA16BB099",
+     "short_description": "Découvrez Asad de Lattafa, une eau de parfum masculine au caractère puissant, conçue pour les hommes qui apprécient les fragrances profondes, chaleureuses et élégantes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-27T201125.631.png"
-   ]
-  },
-  {
-   "sku": "doshift-97094",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Jeu de 6 clés en L à douille – 8 à 17 mm",
-     "description": "Ce jeu de 6 clés en L est conçu pour faciliter le serrage et le desserrage des écrous et boulons dans les espaces difficiles d’accès. Fabriquées en acier chrome-vanadium CR-V, les clés offrent une bonne résistance à l’usure et aux utilisations répétées.\n\nGrâce à leur forme en L, elles permettent d’obtenir un meilleur effet de levier pour les travaux de mécanique, d’entretien automobile, de bricolage ou de montage. Le support orange avec poignée assure un rangement organisé et un transport pratique.\n\nCaractéristique\nDétail\n\nType de produit\nJeu de clés en L à douille\n\nNombre de pièces\n6 clés\n\nDimensions incluses\n8, 10, 12, 13, 14 et 17 mm\n\nMatière\nAcier chrome-vanadium CR-V\n\nForme\nClés en L\n\nTraitement\nTraitement thermique\n\nDureté indiquée\nHRC 38–45\n\nSupport\nSupport orange avec poignée\n\nUtilisation\nMécanique, automobile, bricolage et montage\n\nRangement\nCompact et organisé\n\nCouleur\nOrange et argenté\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Ce jeu de 6 clés en L est conçu pour faciliter le serrage et le desserrage des écrous et boulons dans les espaces difficiles d’accès."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-27T184149.545.png"
-   ]
-  },
-  {
-   "sku": "doshift-97102",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Colle Époxy Acier Bi-Composant – Prise Rapide 4 Minutes",
-     "description": "Réparez rapidement vos objets métalliques avec cette colle époxy acier bi-composant composée d’une résine et d’un durcisseur. Une fois mélangés, les deux composants forment une liaison solide et résistante, idéale pour les réparations domestiques, automobiles ou les travaux de bricolage.\n\nSa formule à prise rapide permet une fixation initiale en environ 4 minutes, facilitant les interventions urgentes sur différentes pièces en métal ou en acier.\n\nCaractéristique\nDétail\n\nType de produit\nColle époxy acier\n\nFormule\nBi-composant\n\nComposants\nRésine et durcisseur\n\nTemps de prise annoncé\nEnviron 4 minutes\n\nCouleurs des tubes\nJaune et vert\n\nUtilisation\nRéparation, collage et bricolage\n\nSurfaces recommandées\nMétal, acier et surfaces rigides compatibles\n\nNiveau de résistance\nHaute résistance\n\nPrésentation\nDeux tubes séparés\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Réparez rapidement vos objets métalliques avec cette colle époxy acier bi-composant composée d’une résine et d’un durcisseur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-27T191250.490.png"
-   ]
-  },
-  {
-   "sku": "doshift-96979",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Nettoyant Déboucheur de Canalisations MAXI FIX – 1000 g",
-     "description": "Éliminez efficacement les bouchons et les résidus accumulés dans vos canalisations grâce au nettoyant MAXI FIX Drain Pipe Cleaner. Sa formule puissante aide à désobstruer les conduits et à rétablir un écoulement normal dans les éviers, lavabos, douches et autres évacuations domestiques.\n\nSon format généreux de 1000 g convient à l’entretien régulier des canalisations de la cuisine, de la salle de bain ou de la buanderie. Le flacon robuste avec bouchon à vis facilite le rangement et protège le contenu entre deux utilisations.\n\nCaractéristique\nDétail\n\nProduit\nNettoyant déboucheur de canalisations\n\nMarque\nMAXI FIX\n\nUtilisation\nÉvier, lavabo, douche et évacuations domestiques\n\nAction\nAide à éliminer les bouchons et les résidus\n\nFormat\n1000 g\n\nType de contenant\nFlacon avec bouchon à vis\n\nCouleur du flacon\nNoir et rouge\n\nPrécautions\nPorter des gants, éviter tout contact avec les yeux et ne jamais mélanger avec d’autres produits chimiques\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Éliminez efficacement les bouchons et les résidus accumulés dans vos canalisations grâce au nettoyant MAXI FIX Drain Pipe Cleaner."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-27T141440.641.png"
-   ]
-  },
-  {
-   "sku": "doshift-96619",
-   "price": 249,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mitigeur de Lavabo Chromé Sani Pure Z80011",
-     "description": "Apportez une touche moderne et élégante à votre salle de bain avec le mitigeur de lavabo Sani Pure Z80011. Sa finition chromée brillante s’intègre facilement à différents styles de vasques et de lavabos.\n\nÉquipé d’un levier unique, il permet de régler simplement le débit ainsi que la température de l’eau. Son bec incurvé assure une utilisation confortable au quotidien, tandis que son design compact convient parfaitement aux salles de bain modernes.\n\nCaractéristique\nDétail\n\nType de produit\nMitigeur de lavabo\n\nMarque\nSani Pure\n\nModèle\nZ80011\n\nCouleur\nArgenté\n\nFinition\nChromée brillante\n\nCommande\nLevier unique\n\nFonction\nMélange eau chaude et eau froide\n\nType de bec\nBec fixe incurvé\n\nInstallation\nMontage sur lavabo ou vasque\n\nUtilisation\nSalle de bain\n\nStyle\nModerne\n\nRéférence\nAA15BB099",
-     "short_description": "Apportez une touche moderne et élégante à votre salle de bain avec le mitigeur de lavabo Sani Pure Z80011. Sa finition chromée brillante s’intègre facilement à différents styles de vasques et de lavabos."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T201835.325.png"
-   ]
-  },
-  {
-   "sku": "doshift-96600",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de 2 pinces polyvalentes – Jaune et noir",
-     "description": "Ce set de 2 pinces est idéal pour réaliser facilement vos travaux de bricolage, de réparation et de maintenance. Il comprend une pince à bec long, pratique pour atteindre les zones étroites et manipuler de petites pièces, ainsi qu’une pince universelle, adaptée pour saisir, maintenir et couper différents matériaux.\n\nLeurs poignées ergonomiques offrent une prise en main confortable et stable, tandis que leur structure métallique assure une utilisation fiable au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSet de pinces manuelles\n\nNombre de pièces\n2\n\nContenu du set\n1 pince à bec long et 1 pince universelle\n\nFonctions principales\nSaisir, maintenir, plier, manipuler et couper\n\nMatériau principal\nMétal robuste\n\nPoignées\nErgonomiques avec revêtement antidérapant\n\nCouleur\nJaune et noir\n\nUtilisation\nBricolage, réparation, mécanique et travaux domestiques\n\nConditionnement\nSet de 2 pinces\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "Ce set de 2 pinces est idéal pour réaliser facilement vos travaux de bricolage, de réparation et de maintenance."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T195844.882.png"
-   ]
-  },
-  {
-   "sku": "doshift-96631",
-   "price": 239,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mitigeur de douche mural chromé à levier unique",
-     "description": "Apportez une touche moderne et élégante à votre salle de bain avec ce mitigeur de douche mural. Sa finition chromée brillante s’intègre facilement à différents styles de décoration tout en facilitant son entretien.\n\nÉquipé d’une commande à levier unique, il permet de régler simplement le débit et la température de l’eau. Sa sortie inférieure est prévue pour raccorder un flexible de douche, offrant une installation pratique et fonctionnelle.\n\nCaractéristique\nDétail\n\nType de produit\nMitigeur de douche mural\n\nCommande\nLevier unique\n\nFinition\nChromée brillante\n\nCouleur\nArgent\n\nInstallation\nMurale\n\nRéglage\nDébit et température de l’eau\n\nIndicateur\nRepère chaud/froid rouge et bleu\n\nSortie inférieure\nPrévue pour flexible de douche\n\nUtilisation\nDouche et salle de bain\n\nEntretien\nNettoyage simple avec un chiffon doux\n\nRéférence Doshift\nAA14BB599",
-     "short_description": "Apportez une touche moderne et élégante à votre salle de bain avec ce mitigeur de douche mural. Sa finition chromée brillante s’intègre facilement à différents styles de décoration tout en facilitant son entretien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T204259.479.png"
-   ]
-  },
-  {
-   "sku": "doshift-96613",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Scie manuelle à placo LAMBOSS 7 pouces",
-     "description": "La scie murale LAMBOSS est spécialement conçue pour réaliser des découpes rapides et précises dans les plaques de plâtre, le placo et les cloisons sèches. Sa lame dentée facilite la pénétration dans le matériau et permet de créer facilement des ouvertures pour les prises électriques, les passages de câbles ou les travaux de rénovation.\n\nSa poignée ergonomique avec revêtement antidérapant assure une prise en main confortable et un meilleur contrôle pendant la découpe. Compacte et facile à transporter, elle convient aussi bien aux professionnels qu’aux amateurs de bricolage.\n\nCaractéristique\nDétail\n\nType de produit\nScie murale manuelle\n\nMarque\nLAMBOSS\n\nModèle\nLB-812\n\nTaille de la lame\n7 pouces\n\nType de lame\nLame dentée\n\nCouleur\nNoir et jaune\n\nMatériaux compatibles\nPlaques de plâtre, placo, cloisons sèches et panneaux légers\n\nPoignée\nErgonomique et antidérapante\n\nUtilisation\nDécoupe, rénovation, ouverture pour prises et passages de câbles\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "La scie murale LAMBOSS est spécialement conçue pour réaliser des découpes rapides et précises dans les plaques de plâtre, le placo et les cloisons sèches."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T201301.094.png"
-   ]
-  },
-  {
-   "sku": "doshift-96559",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe LED multifonction avec éclairage latéral et outils d’urgence",
-     "description": "Pratique à garder dans la voiture, à la maison ou dans un sac d’équipement, cette lampe LED multifonction combine un éclairage frontal avec une large zone d’éclairage latéral. Son format allongé facilite la prise en main et permet également de la suspendre grâce à sa dragonne.\n\nElle convient particulièrement aux situations de dépannage automobile, coupure de courant, camping, bricolage ou utilisation nocturne. Le corps intègre également des éléments conçus pour les situations d’urgence, notamment un embout métallique brise-vitre et un outil coupe-ceinture.\n\nCaractéristique\nDétail\n\nType\nLampe LED multifonction\n\nCouleur\nNoir\n\nÉclairage\nFrontal + latéral LED\n\nUtilisation\nVoiture, maison, camping, bricolage, dépannage\n\nFonction d’urgence\nEmbout brise-vitre\n\nOutil intégré\nCoupe-ceinture\n\nTransport\nDragonne intégrée\n\nInstallation\nPossibilité de suspension\n\nFormat\nCompact et portable\n\nCommande\nBouton marche/arrêt intégré\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Pratique à garder dans la voiture, à la maison ou dans un sac d’équipement, cette lampe LED multifonction combine un éclairage frontal avec une large zone d’éclairage latéral."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-09-15T132340.630.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T175603.117.png"
    ]
   }
  ]

@@ -1,8 +1,29 @@
 {
  "products": [
   {
-   "sku": "doshift-60566",
-   "price": 119,
+   "sku": "doshift-64584",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Disaar Massage Pommade Os et articulations Soulagement de la douleur dissar",
+     "description": "Nouvelle crème de massage rapide Disar pour le soulagement des articulations et de la douleur Huiles essentielles Pommade pour douleurs musculaires Huiles essentielles pour les douleurs musculaires.Douleurs musculaires après l’effort, frottez la fatigue musculaire comme le lendemain, vous permettant de revisiter le temps, l’effet est magique Oh! L’effet qui soulage les douleurs musculaires et les ecchymoses d’une variété de parties, les ecchymoses, les douleurs cervicales, le bas du dos et toutes sortes d’entorses, a un grand effet rapide et polyvalent! Pour les personnes qui travaillent depuis longtemps pour les douleurs au cou et au dos causées par un ordinateur, et pour les amateurs de sport itinérant soulagent les douleurs articulaires, elles sont recommandées! Pas d’effets secondaires, pas de dépendance, des fournitures essentielles pour tous les âges! Indications: Douleurs musculaires, rhumatismes, arthrite, entorses, ecchymoses, douleurs articulaires chez les personnes âgées Ingrédients: Menthe poivrée, pure essence pure de la médecine traditionnelle chinoise Efficacité: raideur de la nuque, contusions, douleurs Dos, douleurs à l’épaule, douleurs musculaires, douleurs musculaires, maux de dos, ecchymoses, entorses, douleurs articulaires chez le sujet âgé. Dosage: Pour usage externe, appliquer et frotter doucement la zone touchée, augmenter la circulation sanguine, jusqu’à absorption complète, deux à trois fois par jour. Attention: ne pas décongeler le contact du corps avec les yeux et les plaies cutanées, sinon, veuillez cesser de l’utiliser. Ce produit est destiné à un usage externe uniquement.Élimine les douleurs dorsales et articulaires Massage et relaxation Soulagement de la douleur",
+     "short_description": "Nouvelle crème de massage rapide Disar pour le soulagement des articulations et de la douleur Huiles essentielles Pommade pour douleurs musculaires Huiles essentielles pour les douleurs musculaires.Douleurs musculaires…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T114023.473.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64579",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -11,98 +32,38 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes de Soleil Unisexes – Monture Fine & Élégance Moderne",
-     "description": "Apportez une touche raffinée et moderne à votre style avec ces lunettes de soleil unisexes à monture fine et élégante. Leur design équilibré, à la fois léger et structuré, assure un excellent confort tout au long de la journée. Faciles à associer à toutes les tenues, elles s’adaptent aussi bien aux looks décontractés qu’aux styles plus habillés, pour une allure soignée en toute circonstance.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nGéométrique arrondie\n\nMatériau de la monture\nMétal avec finitions résistantes\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nÉlégant / Moderne\n\nUtilisation\nUsage quotidien, conduite, sorties extérieures\n\nRéférence-DOSHIFT\nAA4BB099",
-     "short_description": "Apportez une touche raffinée et moderne à votre style avec ces lunettes de soleil unisexes à monture fine et élégante."
+     "name": "Brosse à air chaud ronde – Peigne multifonction – Sèche-cheveux et styler – Brosse à friser – 3 niveaux de température – 2 vitesses",
+     "description": "【3 paramètres pour un style plus flexible】3 réglages de chaleur/vitesse avec option air froid pour une flexibilité de styling et d’excellents résultats sur différents types de cheveux. Le puissant moteur de 1100W fournit la bonne quantité de chaleur pour sécher efficacement les cheveux humides sans les endommager.\n\n【Technologie céramique + ionique】La brosse à air chaud dispose d’un baril en titane revêtu de céramique pour réduire les dommages dus à un styling excessif avec une distribution uniforme de la chaleur. Les ions négatifs peuvent pénétrer rapidement dans les cheveux pour verrouiller l’humidité, conditionner les cheveux endommagés, réduire les croupissements et la staticité et fournir des cheveux plus lisses et plus brillants.\n\n【Soins pour vos cheveux】Il glisse à travers les cheveux pour détacher, sécher et ajouter du volume jusqu’à la moitié du temps. Obtenez de beaux résultats de salon avec 20% de plus de brillance et 30% de moins de rupture.",
+     "short_description": "【3 paramètres pour un style plus flexible】3 réglages de chaleur/vitesse avec option air froid pour une flexibilité de styling et d’excellents résultats sur différents types de cheveux."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T054734-345.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/51aRmAvlFL._AC_.jpg"
    ]
   },
   {
-   "sku": "doshift-60556",
-   "price": 119,
+   "sku": "doshift-64553",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes de Soleil Unisexes – Monture Arrondie Intemporelle",
-     "description": "Adoptez un style intemporel avec ces lunettes de soleil unisexes à monture arrondie, conçues pour s’adapter harmonieusement à toutes les formes de visage. Leur design équilibré associe élégance et simplicité, offrant un confort optimal pour un usage quotidien. Polyvalentes et faciles à porter, elles complètent aussi bien les looks décontractés que les tenues plus soignées, en toutes circonstances.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nArrondie\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nClassique / Intemporel\n\nUtilisation\nUsage quotidien, conduite, sorties extérieures\n\nRéférence-DOSHIFT\nAA4BB099",
-     "short_description": "Adoptez un style intemporel avec ces lunettes de soleil unisexes à monture arrondie, conçues pour s’adapter harmonieusement à toutes les formes de visage."
+     "name": "Écouteurs Sans Fil M10 Bluetooth 5.1 avec Boîtier de Charge et Affichage Digital",
+     "description": "Profitez de votre musique et de vos appels sans câble avec les écouteurs sans fil M10. Leur format compact et leur conception True Wireless offrent une utilisation pratique au quotidien, à la maison, au travail ou pendant vos déplacements.\n\nLe boîtier de charge permet de ranger facilement les écouteurs tout en les rechargeant. Son affichage digital intégré permet de visualiser clairement le niveau de charge. Grâce à la connexion Bluetooth 5.1, les écouteurs se connectent sans fil à vos appareils compatibles.\n\nCaractéristique\nDétail\n\nType\nÉcouteurs sans fil True Wireless\n\nModèle\nM10\n\nConnexion\nBluetooth\n\nVersion Bluetooth\n5.1\n\nBoîtier de charge\nOui\n\nAffichage digital\nOui\n\nFormat\nIntra-auriculaire sans fil\n\nUtilisation\nMusique, appels, vidéos et usage quotidien\n\nCouleur\nNoir avec détails bleus\n\nContenu\nPaire d’écouteurs avec boîtier de charge\n\nRéférence Doshift\nAA3BB399",
+     "short_description": "Profitez de votre musique et de vos appels sans câble avec les écouteurs sans fil M10."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T054444-280-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-09-19T102827.591.png"
    ]
   },
   {
-   "sku": "doshift-60549",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes de Soleil Unisexes – Monture Rectangulaire Élégante",
-     "description": "Apportez une touche élégante et contemporaine à votre style avec ces lunettes de soleil unisexes à monture rectangulaire. Leur design équilibré et structuré assure un excellent confort tout en s’adaptant facilement à différentes formes de visage. Polyvalentes et intemporelles, elles conviennent aussi bien aux tenues décontractées qu’aux looks plus soignés, pour un usage quotidien en toute occasion.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nRectangulaire\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nModerne / Intemporel\n\nUtilisation\nUsage quotidien, conduite, sorties extérieures\n\nRéférence-DOSHIFT\nAA4BB099",
-     "short_description": "Apportez une touche élégante et contemporaine à votre style avec ces lunettes de soleil unisexes à monture rectangulaire."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-04T052301-387.png"
-   ]
-  },
-  {
-   "sku": "doshift-60542",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes de Soleil Unisexes – Design Angulaire & Style Affirmé",
-     "description": "Adoptez un style affirmé avec ces lunettes de soleil unisexes au design angulaire et résolument moderne. Leur monture épaisse et structurée apporte une forte personnalité tout en garantissant un excellent maintien et un confort optimal au quotidien. Parfaites pour un look urbain, tendance ou streetwear, elles s’intègrent facilement à toutes les tenues et renforcent votre allure avec caractère.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nAngulaire / Géométrique\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nTendance / Streetwear\n\nUtilisation\nUsage quotidien, sorties urbaines, activités extérieures\n\nRéférence-DOSHIFT\nAA4BB099",
-     "short_description": "Adoptez un style affirmé avec ces lunettes de soleil unisexes au design angulaire et résolument moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-04T051514-827.png"
-   ]
-  },
-  {
-   "sku": "doshift-60535",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes de Soleil Unisexes – Style Élégant & Polyvalent",
-     "description": "Adoptez un style élégant et polyvalent avec ces lunettes de soleil unisexes, spécialement conçues pour un usage quotidien. Leur monture classique et parfaitement équilibrée s’adapte aisément à différentes formes de visage, assurant un confort optimal tout au long de la journée. Polyvalentes et intemporelles, elles sont idéales pour la ville, la conduite ou les sorties en plein air, et complètent harmonieusement tous les styles, du plus décontracté au plus soigné.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nClassique\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nÉlégant / Décontracté\n\nUtilisation\nUsage quotidien, conduite, activités extérieures\n\nRéférence-DOSHIFT\nAA4B099",
-     "short_description": "Adoptez un style élégant et polyvalent avec ces lunettes de soleil unisexes, spécialement conçues pour un usage quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-04T051245-371.png"
-   ]
-  },
-  {
-   "sku": "doshift-60528",
-   "price": 119,
+   "sku": "doshift-64538",
+   "price": 259,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -110,89 +71,130 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes de Soleil Unisexes – Design Géométrique & Style Audacieux",
-     "description": "Affirmez votre style avec ces lunettes de soleil au caractère audacieux et résolument moderne. Leur monture géométrique marquée apporte une touche tendance qui sublime aussi bien les looks urbains que décontractés. Conçues avec une structure robuste et légère, elles offrent un excellent confort pour un port quotidien. Polyvalentes et stylées, elles s’adaptent parfaitement à toutes les occasions, des sorties en ville aux moments de détente en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de protection solaire\n\nConfiguration optique\nVerres teintés haute définition\n\nModèle\nRiviera Classic – Édition 2026\n\nProtection solaire\nIndice UV400 (Protection totale UVA / UVB)\n\nMatériau de la monture\nAcétate de qualité supérieure poli\n\nStyles disponibles\nCarré moderne, Rond vintage, Écaille, Cristal\n\nUtilisation\nConduite, Plage, Mode urbaine\n\nRéférence-DOSHIFT\nAA4B099",
-     "short_description": "Affirmez votre style avec ces lunettes de soleil au caractère audacieux et résolument moderne. Leur monture géométrique marquée apporte une touche tendance qui sublime aussi bien les looks urbains que décontractés."
+     "name": "Set de 9 bocaux à épices en verre avec support en bois – Élégance et praticité pour une cuisine moderne",
+     "description": "Apportez une touche d’harmonie et de raffinement à votre cuisine avec ce superbe ensemble de 9 bocaux à épices. Fabriqués en verre transparent de haute qualité, ces bocaux sont munis de couvercles en bambou naturel assurant une parfaite étanchéité et préservant la fraîcheur des épices. Chaque pot est accompagné d’une petite cuillère assortie pour un dosage précis et hygiénique. Le support en bois solide met en valeur l’ensemble tout en facilitant le rangement. Un accessoire indispensable pour une cuisine bien organisée et pleine de charme.",
+     "short_description": "Apportez une touche d’harmonie et de raffinement à votre cuisine avec ce superbe ensemble de 9 bocaux à épices."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-04T050813-499.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T112303.226.jpg"
    ]
   },
   {
-   "sku": "doshift-60635",
+   "sku": "doshift-64518",
+   "price": 439,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 5 Casseroles en Acier Inoxydable Schleizer",
+     "description": "Préparez vos plats avec précision et style grâce au set de 5 casseroles Schleizer en acier inoxydable. Ce lot comprend 5 tailles différentes (12, 14, 16, 18 et 20 cm) pour s’adapter à toutes vos préparations, du réchauffage d’une sauce à la cuisson de vos repas familiaux.",
+     "short_description": "Préparez vos plats avec précision et style grâce au set de 5 casseroles Schleizer en acier inoxydable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/3843f8a6-2a13-4534-b4e2-09881c71f422.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64651",
    "price": 109,
    "stock": 10,
    "status": 0,
    "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte Organisateur à Bijoux – Compacte & Élégante",
+     "description": "Rangez et protégez vos bijoux avec cette boîte organisateur au design raffiné et pratique. Son intérieur compartimenté permet de garder bagues, colliers, boucles d’oreilles et petits accessoires bien organisés et à l’abri de la poussière et des rayures.\n\nCompacte et légère, elle est idéale pour un usage à la maison ou en voyage. Son design simple et élégant en fait également une excellente idée cadeau pour toutes les occasions.\n\nCaractéristique\nDétail\n\nType\nBoîte de rangement à bijoux\n\nUtilisation\nBagues, colliers, boucles d’oreilles\n\nIntérieur\nCompartiments avec cloisons amovibles\n\nProtection\nContre poussière, rayures et chocs\n\nFormat\nCompact et portable\n\nDesign\nÉlégant et minimaliste\n\nIdée cadeau\nAnniversaire, fête, Saint-Valentin",
+     "short_description": "Rangez et protégez vos bijoux avec cette boîte organisateur au design raffiné et pratique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/AAAPH80439_img1.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64490",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "2IN1 Moulin café et épices Multifonction électrique en acier inoxydable 300W",
+     "description": "Achetez Blender Avec Moulin 2 in 1 Portable pour café et jus en ligne. Ce moulin électrique est un produit qui ne devrait pas manquer de chez vous est un outil qui aide à moudre le café, les noix, le sucre, les épices etc. La capacité de moulins à épices dispose d’un puissant moteur de 300w qui donne une vitesse suffisante aux moulins en très peu de temps temps.\n\n100% neuf et de haute qualité Ceci est une meuleuse électrique domestique, fabriquée en acier inoxydable durable, avec un joli couvercle transparent, facile à nettoyer.Moulin multifonctionnel, céréales, haricots, assaisonnement. BRICOLAGE votre café préféré ou d’autres aliments, le meilleur assistant de vie.Design Unique et style classique. Pour augmenter le divertissement dans la vie.Sûr et pratique, gagnez plus de temps.",
+     "short_description": "Achetez Blender Avec Moulin 2 in 1 Portable pour café et jus en ligne. Ce moulin électrique est un produit qui ne devrait pas manquer de chez vous est un outil qui aide à moudre le café, les noix, le sucre, les épices…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T110510.999.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64480",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Plaque Électrique Simple 1000W – Format Compact 22 x 22 cm",
+     "description": "Cette plaque électrique simple est une solution pratique pour cuisiner, réchauffer ou maintenir vos préparations au chaud au quotidien. Grâce à son format compact 22 x 22 cm, elle s’intègre facilement dans une cuisine, un bureau, un studio ou un espace d’appoint.\n\nDotée d’une puissance de 1000W, elle permet une montée en température rapide pour une utilisation simple et efficace. Son bouton de réglage facilite l’ajustement de la chaleur selon vos besoins, tandis que son corps en métal assure une bonne résistance à l’usage quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nPlaque électrique simple\n\nPuissance\n1000W\n\nDimensions\n22 x 22 cm\n\nFormat\nCompact\n\nCommande\nBouton de réglage de température\n\nUtilisation\nCuisson, réchauffage, maintien au chaud\n\nMatière\nMétal\n\nAlimentation\nÉlectrique\n\nCouleur\nArgenté et noir\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Cette plaque électrique simple est une solution pratique pour cuisiner, réchauffer ou maintenir vos préparations au chaud au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-04-10T210751.256.png"
+   ]
+  },
+  {
+   "sku": "doshift-64599",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gel Apaisant & Hydratant à l’Aloe Vera – 300 ml",
+     "description": "Offrez à votre peau une hydratation intense avec ce gel à l’aloe vera reconnu pour ses propriétés apaisantes et rafraîchissantes. Sa texture légère pénètre rapidement et laisse la peau douce, fraîche et confortable.\n\nIdéal pour le visage et le corps, il aide à apaiser les irritations, hydrater en profondeur et améliorer visiblement l’apparence de la peau. Parfait pour une utilisation quotidienne afin de maintenir une peau souple et revitalisée.\n\nCaractéristique\nDétail\n\nType\nGel hydratant apaisant\n\nIngrédient clé\nAloe vera\n\nContenance\n300 ml\n\nAction\nHydrate, apaise et rafraîchit\n\nBénéfice\nAméliore l’apparence de la peau\n\nTexture\nGel léger, absorption rapide\n\nUtilisation\nVisage et corps, usage quotidien",
+     "short_description": "Offrez à votre peau une hydratation intense avec ce gel à l’aloe vera reconnu pour ses propriétés apaisantes et rafraîchissantes. Sa texture légère pénètre rapidement et laisse la peau douce, fraîche et confortable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/AAAAE94612_img1.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64588",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Support Livre Pliable en Bois – Design Artisanal & Spirituel",
-     "description": "Apportez une touche artisanale et spirituelle à votre intérieur avec ce support livre en bois finement découpé. Son design pliable, robuste et décoratif assure une stabilité parfaite tout en sublimant votre espace. Idéal pour la lecture ou la présentation de livres religieux et ouvrages divers, il combine esthétique traditionnelle et praticité moderne. Léger et facile à ranger, il s’adapte parfaitement à la maison, à la mosquée ou à tout espace de méditation.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nSupport livre pliable\n\nMatière\nBois MDF découpé au laser\n\nDesign\nMotif calligraphie décorative\n\nUtilisation\nLivre, Coran, Bible, ouvrages divers\n\nStructure\n2 pièces emboîtables\n\nPliable\nOui – rangement facile\n\nAvantages\nStable, décoratif, léger, pratique\n\nRéférence – DOSHIFT\nAA5BB099",
-     "short_description": "Apportez une touche artisanale et spirituelle à votre intérieur avec ce support livre en bois finement découpé. Son design pliable, robuste et décoratif assure une stabilité parfaite tout en sublimant votre espace."
+     "name": "Pommade Massage Muscles & Articulations – Confort & Détente",
+     "description": "Apaisez les sensations d’inconfort musculaire grâce à cette pommade de massage formulée à base d’huiles essentielles. Idéale après l’effort ou en cas de tensions quotidiennes, elle procure une sensation agréable lors du massage et favorise la détente des zones sollicitées.\n\nSa texture s’applique facilement et pénètre rapidement pour un massage ciblé du dos, des épaules, du cou ou des articulations. Adaptée aux personnes actives ou aux longues journées de travail, elle accompagne vos moments de récupération.\n\nCaractéristique\nDétail\n\nType\nPommade de massage\n\nUtilisation\nUsage externe uniquement\n\nZones\nDos, épaules, cou, articulations\n\nAction\nSensation apaisante et relaxante\n\nIngrédients\nHuiles essentielles (dont menthe)\n\nApplication\nAppliquer et masser jusqu’à absorption\n\nFréquence\n2 à 3 fois par jour si nécessaire",
+     "short_description": "Apaisez les sensations d’inconfort musculaire grâce à cette pommade de massage formulée à base d’huiles essentielles."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-12T190211-387.png"
-   ]
-  },
-  {
-   "sku": "doshift-60343",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes de Soleil Unisexes – Élégance Arrondie & Style Intemporel",
-     "description": "Adoptez un style intemporel avec ces lunettes de soleil unisexes à monture arrondie, conçues pour s’adapter naturellement à toutes les formes de visage. Leur design équilibré associe élégance et simplicité, garantissant un confort optimal tout au long de la journée. Faciles à porter et polyvalentes, elles complètent aussi bien les looks décontractés que les tenues plus soignées, idéales pour la ville, la conduite ou les sorties en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nArrondie\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nClassique / Intemporel\n\nUtilisation\nUsage quotidien, conduite, sorties extérieures\n\nRéférence-doshift\nAA4B099",
-     "short_description": "Adoptez un style intemporel avec ces lunettes de soleil unisexes à monture arrondie, conçues pour s’adapter naturellement à toutes les formes de visage."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T060250-217.png"
-   ]
-  },
-  {
-   "sku": "doshift-60337",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes de Soleil Unisexes – Élégance Rectangulaire & Style Contemporain",
-     "description": "Apportez une touche élégante et contemporaine à votre style avec ces lunettes de soleil unisexes à monture rectangulaire. Leur design structuré et équilibré assure un confort optimal tout en s’adaptant harmonieusement à différentes formes de visage. Polyvalentes et faciles à porter, elles accompagnent aussi bien les tenues décontractées que les looks plus soignés, idéales pour un usage quotidien, la conduite ou les sorties en plein air.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nRectangulaire\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nModerne / Intemporel\n\nUtilisation\nUsage quotidien, conduite, sorties extérieures\n\nRéférence-doshift\nAA4BB099",
-     "short_description": "Apportez une touche élégante et contemporaine à votre style avec ces lunettes de soleil unisexes à monture rectangulaire."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T054130-209.png"
-   ]
-  },
-  {
-   "sku": "doshift-60332",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes de Soleil Unisexes – Style Angulaire & Attitude Moderne",
-     "description": "Affirmez votre personnalité avec ces lunettes de soleil unisexes au design angulaire et résolument moderne. Leur monture épaisse et structurée apporte une touche audacieuse à votre look tout en garantissant un excellent maintien et un confort optimal au quotidien. Parfaites pour un style urbain, tendance ou streetwear, elles s’intègrent facilement à toutes vos tenues et vous accompagnent aussi bien en ville que lors de vos sorties en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nAngulaire / Géométrique\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nTendance / Streetwear\n\nUtilisation\nUsage quotidien, sorties urbaines, activités extérieures\n\nRéférence-doshift\nAA4BB099",
-     "short_description": "Affirmez votre personnalité avec ces lunettes de soleil unisexes au design angulaire et résolument moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T053854-593.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T114153.743.jpg"
    ]
   }
  ]

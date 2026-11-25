@@ -1,28 +1,141 @@
 {
  "products": [
   {
-   "sku": "doshift-77056",
+   "sku": "doshift-79807",
    "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Spray Insecticide Draker RTU Microencapsulé 1L",
-     "description": "Éliminez efficacement les insectes volants et rampants avec le spray Draker RTU prêt à l’emploi. Sa formule microencapsulée assure une action rapide et durable pour protéger votre maison, garage, jardin ou atelier contre les nuisibles du quotidien.\n\nCaractéristique\nDétail\n\nType\nInsecticide liquide\n\nFormule\nMicroencapsulée\n\nUtilisation\nIntérieur & extérieur\n\nContenance\n1 L\n\nApplication\nSpray prêt à l’emploi\n\nCibles\nInsectes volants et rampants\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Éliminez efficacement les insectes volants et rampants avec le spray Draker RTU prêt à l’emploi."
+     "name": "Boîtes Hermétiques de Conservation Alimentaire",
+     "description": "Conservez vos aliments plus longtemps grâce à ces boîtes hermétiques transparentes, pratiques et élégantes. Idéales pour le réfrigérateur, les repas préparés, les fruits, légumes, snacks ou restes alimentaires, elles offrent une fermeture sécurisée anti-fuite et un rangement optimisé dans votre cuisine.\n\nLeur design transparent permet de voir rapidement le contenu, tandis que les différentes tailles s’adaptent parfaitement à tous vos besoins du quotidien.\n\nCaractéristique\nDétail\n\nType\nBoîtes de conservation hermétiques\n\nMatière\nPlastique alimentaire sans BPA\n\nCouleur\nTransparent avec clips blancs\n\nFermeture\nHermétique anti-fuite\n\nUtilisation\nCuisine, réfrigérateur, organisation alimentaire\n\nCompatibilité\nRéfrigérateur, lave-vaisselle\n\nAvantage\nEmpilables et gain de place\n\nNombre de tailles\n3 tailles différentes\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Conservez vos aliments plus longtemps grâce à ces boîtes hermétiques transparentes, pratiques et élégantes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-09T152858.379.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-21T092117.671.png"
    ]
   },
   {
-   "sku": "doshift-77050",
+   "sku": "doshift-79725",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Range-Œufs en Bambou Naturel",
+     "description": "Organisez facilement vos œufs avec ce range-œufs en bambou au design pratique et élégant. Grâce à son système incliné, les œufs roulent automatiquement vers l’avant pour une prise rapide au quotidien. Compact et moderne, il permet de gagner de la place tout en apportant une touche naturelle à votre cuisine.\n\nCaractéristique\nDétail\n\nProduit\nRange-œufs inclinable\n\nMatière\nBambou naturel\n\nCapacité\nJusqu’à 30 œufs\n\nDesign\nIncliné avec roulement automatique\n\nCouleur\nBois naturel\n\nUtilisation\nCuisine, réfrigérateur, plan de travail\n\nAvantages\nGain de place, pratique, écologique\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Organisez facilement vos œufs avec ce range-œufs en bambou au design pratique et élégant. Grâce à son système incliné, les œufs roulent automatiquement vers l’avant pour une prise rapide au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T204248.097.png"
+   ]
+  },
+  {
+   "sku": "doshift-79699",
+   "price": 479,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Blender Plongeant Multifonction RAF R.3004 5 en 1",
+     "description": "Préparez vos smoothies, sauces, soupes, purées et desserts en quelques secondes grâce à ce blender plongeant multifonction puissant de 500W. Conçu pour offrir performance et praticité, il est équipé de plusieurs accessoires pour répondre à tous vos besoins culinaires au quotidien.\n\nSon design élégant en acier inoxydable apporte une touche moderne à votre cuisine, tandis que ses 4 lames performantes garantissent un mixage rapide et homogène. Compact, ergonomique et simple à nettoyer, ce set complet est parfait pour une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA30BB099\n\nType\nBlender plongeant multifonction\n\nPuissance\n500W\n\nNombre de vitesses\n2\n\nCapacité\n700 ml\n\nLames\n4 lames inox\n\nFonctions\nMixer, hacher, fouetter\n\nMatériau\nAcier inoxydable + ABS\n\nCouleur\nNoir et acier inoxydable",
+     "short_description": "Préparez vos smoothies, sauces, soupes, purées et desserts en quelques secondes grâce à ce blender plongeant multifonction puissant de 500W."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T194807.639.png"
+   ]
+  },
+  {
+   "sku": "doshift-79692",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panier à linge avec couvercle – Noir & Beige",
+     "description": "Apportez une touche moderne et organisée à votre intérieur avec ce panier à linge élégant et pratique. Son design noir avec finition texturée, son bandeau beige et son inscription “LAUNDRY sweet home” en font un accessoire décoratif idéal pour la chambre, la salle de bain ou la buanderie.\n\nÉquipé d’un couvercle avec poignée en corde, il permet de garder le linge à l’abri des regards tout en conservant un espace propre et bien rangé. Ses poignées latérales robustes facilitent le déplacement au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nPanier à linge avec couvercle\n\nCouleur\nNoir et beige\n\nDesign\nModerne avec inscription “LAUNDRY sweet home”\n\nPoignées\nPoignée sur couvercle + poignées latérales en corde\n\nUtilisation\nRangement du linge, chambre, salle de bain, buanderie\n\nDimensions\n50 cm hauteur, 40 x 30 cm\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Apportez une touche moderne et organisée à votre intérieur avec ce panier à linge élégant et pratique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-29T134338.790.png"
+   ]
+  },
+  {
+   "sku": "doshift-79582",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Distributeur Rotatif 6 Compartiments Multifonction",
+     "description": "Optimisez le rangement de votre cuisine avec ce distributeur rotatif élégant et pratique. Grâce à ses 6 compartiments séparés, conservez facilement riz, pâtes, céréales, lentilles et autres aliments secs tout en gardant votre espace propre et organisé. Son design moderne blanc et or rose apporte une touche raffinée à votre cuisine.\n\nCaractéristique\nDétail\n\nType\nDistributeur alimentaire rotatif\n\nCompartiments\n6 sections séparées\n\nUtilisation\nRiz, céréales, pâtes, légumineuses, fruits secs\n\nMatière\nPlastique ABS + réservoir transparent\n\nCouleur\nBlanc et or rose\n\nFonction\nDistribution automatique manuelle\n\nNettoyage\nFacile à démonter et laver\n\nRéférence Doshift\nAA17BB099",
+     "short_description": "Optimisez le rangement de votre cuisine avec ce distributeur rotatif élégant et pratique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T151715.577.png"
+   ]
+  },
+  {
+   "sku": "doshift-79435",
+   "price": 229,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Organisateur de Comptoir 3 Niveaux Transparent & Doré",
+     "description": "Optimisez votre espace avec élégance grâce à cet organisateur 3 niveaux au design moderne et raffiné. Idéal pour ranger parfums, cosmétiques, accessoires, bijoux ou fournitures de bureau, il apporte une touche luxueuse à votre salle de bain, coiffeuse ou bureau. Sa structure dorée robuste et ses plateaux transparents offrent un rangement pratique tout en gardant vos objets visibles et accessibles.\n\nCaractéristique\nDétail\n\nType\nOrganisateur de comptoir\n\nNombre de niveaux\n3\n\nMatière\nPlastique transparent + métal\n\nCouleur\nTransparent & doré\n\nUtilisation\nCosmétiques, parfums, accessoires, bureau\n\nStyle\nModerne & minimaliste\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Optimisez votre espace avec élégance grâce à cet organisateur 3 niveaux au design moderne et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T205657.677.png"
+   ]
+  },
+  {
+   "sku": "doshift-79426",
    "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panier à linge pliable avec poignées – Noir",
+     "description": "Organisez votre espace facilement avec ce panier à linge pratique et élégant. Son design pliable permet un rangement simple lorsqu’il n’est pas utilisé, tandis que ses deux poignées latérales facilitent le transport du linge. Son intérieur clair et son format ouvert offrent une utilisation confortable au quotidien dans la chambre, la salle de bain ou la buanderie.\n\nCaractéristique\nDétail\n\nType de produit\nPanier à linge pliable\n\nUtilisation\nRangement du linge, vêtements et textiles\n\nDesign\nCylindrique, moderne et décoratif\n\nCouleur\nNoir avec intérieur clair\n\nPoignées\nDeux poignées latérales marron pour un transport facile\n\nAvantage\nPliable, léger et pratique à déplacer\n\nEmplacement idéal\nChambre, salle de bain, buanderie, dressing\n\nEntretien\nNettoyage simple avec un chiffon humide\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Organisez votre espace facilement avec ce panier à linge pratique et élégant. Son design pliable permet un rangement simple lorsqu’il n’est pas utilisé, tandis que ses deux poignées latérales facilitent le transport du…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-16T142650.296.png"
+   ]
+  },
+  {
+   "sku": "doshift-79378",
+   "price": 299,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -31,166 +144,51 @@
    ],
    "locales": {
     "fr": {
-     "name": "Draker RTU – Insecticide Liquide Microencapsulé 500 ml",
-     "description": "Éliminez efficacement les insectes volants et rampants grâce au spray Draker RTU prêt à l’emploi. Sa formule microencapsulée assure une action rapide et prolongée pour protéger votre maison, cuisine, terrasse, jardin ou local professionnel contre les nuisibles du quotidien.\n\nCaractéristique\nDétail\n\nType\nInsecticide liquide\n\nTechnologie\nMicroencapsulé\n\nUtilisation\nIntérieur & extérieur\n\nFormat\nSpray prêt à l’emploi\n\nContenance\n500 ml\n\nAction\nRapide et longue durée\n\nCible\nInsectes volants et rampants\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Éliminez efficacement les insectes volants et rampants grâce au spray Draker RTU prêt à l’emploi."
+     "name": "Chauffage Soufflant RAF 2000W Compact",
+     "description": "Profitez d’une chaleur rapide et confortable avec ce chauffage soufflant RAF compact et moderne. Son design élégant s’intègre parfaitement dans votre salon, chambre, bureau ou cuisine. Grâce à sa puissance de 2000W et son thermostat réglable, il chauffe efficacement votre espace tout en restant silencieux et facile à utiliser.\n\nIdéal pour les journées froides, ce mini chauffage offre une diffusion homogène de la chaleur avec plusieurs niveaux de réglage pour un confort personnalisé.\n\nCaractéristique\nDétail\n\nType\nChauffage soufflant\n\nMarque\nRAF\n\nPuissance\n2000W\n\nRéglages chaleur\n2 niveaux\n\nThermostat\nOui\n\nProtection surchauffe\nOui\n\nCouleur\nBlanc et noir\n\nUtilisation\nMaison, bureau, chambre\n\nRéférence Doshift\nAA18BB099",
+     "short_description": "Profitez d’une chaleur rapide et confortable avec ce chauffage soufflant RAF compact et moderne. Son design élégant s’intègre parfaitement dans votre salon, chambre, bureau ou cuisine."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-09T151539.081.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T190040.951.png"
    ]
   },
   {
-   "sku": "doshift-76933",
+   "sku": "doshift-79359",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Blender Portable RAF R.397B – Mixez vos boissons en quelques secondes",
+     "description": "Préparez facilement vos smoothies, jus et boissons protéinées avec le blender portable RAF R.397B. Compact, puissant et pratique, il est idéal pour la maison, le bureau, le sport ou les déplacements. Son moteur haute vitesse de 23000 RPM et ses 4 lames en acier inoxydable assurent un mixage rapide et homogène de vos fruits et ingrédients préférés.\n\nGrâce à sa bouteille portable incluse, emportez vos boissons partout avec vous. Son design moderne et son utilisation simple en font un appareil indispensable au quotidien.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA15BB099\n\nPuissance\n300W\n\nVitesse moteur\n23000 RPM\n\nCapacité\n600 ml\n\nNombre de lames\n4 lames inox\n\nUtilisation\nSmoothies, jus, shakes\n\nCouleur\nBleu\n\nAlimentation\nÉlectrique\n\nFonction\nMixage rapide\n\nNettoyage\nFacile",
+     "short_description": "Préparez facilement vos smoothies, jus et boissons protéinées avec le blender portable RAF R.397B. Compact, puissant et pratique, il est idéal pour la maison, le bureau, le sport ou les déplacements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T180834.974.png"
+   ]
+  },
+  {
+   "sku": "doshift-79141",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Tapis de Pique-Nique Imperméable 195 × 200 cm Pliable avec Poignée",
-     "description": "Profitez de vos sorties en plein air avec ce tapis de pique-nique spacieux, confortable et facile à transporter. Son grand format 195 × 200 cm permet d’accueillir plusieurs personnes pour des moments conviviaux à la plage, au parc, au camping ou en pique-nique. Grâce à sa surface résistante et sa conception pliable avec poignée intégrée, il se transporte facilement partout.\n\nParfait pour les familles, les couples ou les sorties entre amis, ce tapis offre une excellente isolation contre l’humidité et l’herbe mouillée tout en apportant un confort optimal lors de vos activités extérieures.\n\nCaractéristique\nDétail\n\nType\nTapis de pique-nique pliable\n\nDimensions\n195 × 200 cm\n\nCouleur\nJaune à carreaux blancs\n\nMatière\nPolyester rembourré\n\nFonction\nImperméable et pliable\n\nTransport\nPoignée intégrée\n\nUtilisation\nPique-nique, plage, camping, parc\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Profitez de vos sorties en plein air avec ce tapis de pique-nique spacieux, confortable et facile à transporter."
+     "name": "Jeu Éducatif 4 en 1 Ocean",
+     "description": "Stimulez l’apprentissage des enfants avec ce jeu complet 4 en 1 sur le thème de l’océan. Il combine puzzle, memory game, domino et flash cards pour développer la logique, la mémoire, l’observation et le vocabulaire tout en s’amusant.\n\nCaractéristique\nDétail\n\nType\nJeu éducatif 4 en 1\n\nThème\nOcéan\n\nContenu\nPuzzle, memory game, domino, flash cards\n\nNombre total\n124 pièces\n\nÂge recommandé\n3 ans et plus\n\nBénéfices\nMémoire, logique, concentration, apprentissage\n\nUtilisation\nMaison, école, activités enfants\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Stimulez l’apprentissage des enfants avec ce jeu complet 4 en 1 sur le thème de l’océan."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-08T203050.075.png"
-   ]
-  },
-  {
-   "sku": "doshift-76940",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tapis de Pique-Nique Pliable 195 × 200 cm Imperméable",
-     "description": "Ajoutez une touche de style et de confort à vos sorties en plein air avec ce grand tapis de pique-nique rose à carreaux. Conçu pour offrir un espace généreux et confortable, il est idéal pour les pique-niques en famille, les journées à la plage, le camping ou les moments détente au parc.\n\nGrâce à sa surface résistante et imperméable, ce tapis protège efficacement contre l’humidité et l’herbe mouillée. Son système pliable avec poignée intégrée permet un transport simple et pratique partout où vous allez.\n\nCaractéristique\nDétail\n\nType\nTapis de pique-nique pliable\n\nDimensions\n195 × 200 cm\n\nCouleur\nRose à carreaux blanc\n\nMatière\nPolyester rembourré\n\nFonction\nImperméable et pliable\n\nTransport\nPoignée intégrée\n\nUtilisation\nPique-nique, plage, camping, parc\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Ajoutez une touche de style et de confort à vos sorties en plein air avec ce grand tapis de pique-nique rose à carreaux."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-08T204948.903.png"
-   ]
-  },
-  {
-   "sku": "doshift-76061",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Porte-cartes compact élégant",
-     "description": "Organisez vos essentiels avec ce porte-cartes compact alliant élégance et praticité. Profitez d’un design fin et discret qui se glisse facilement dans votre poche tout en gardant vos cartes et billets parfaitement sécurisés. Idéal pour un usage quotidien avec style.\n\nCaractéristique\nDétail\n\nDesign\nCompact\n\nFermeture\nSécurisée\n\nRangement\nCartes & billets\n\nPortabilité\nLéger et facile à transporter\n\nFinition\nCuir texturé\n\nUtilisation\nÀ une main\n\nRéférence-doshift\nAA5BB599",
-     "short_description": "Organisez vos essentiels avec ce porte-cartes compact alliant élégance et praticité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/29.png"
-   ]
-  },
-  {
-   "sku": "doshift-76100",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pochette cuir minimaliste élégante",
-     "description": "Adoptez un style raffiné avec cette pochette en cuir au design minimaliste et moderne. Profitez d’un format compact idéal pour transporter vos essentiels tout en conservant une allure élégante. Conçue pour durer, elle combine praticité et sophistication pour un usage quotidien ou professionnel.\n\nCaractéristique\nDétail\n\nFinition\nCuir premium\n\nDesign\nFin et élégant\n\nFermeture\nSécurisée\n\nDurabilité\nRésistante à l’usure\n\nFormat\nCompact\n\nTransport\nFacile\n\nRéférence-doshift\nAA6BB099",
-     "short_description": "Adoptez un style raffiné avec cette pochette en cuir au design minimaliste et moderne. Profitez d’un format compact idéal pour transporter vos essentiels tout en conservant une allure élégante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/19.png"
-   ]
-  },
-  {
-   "sku": "doshift-76070",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Trousse de toilette premium grande capacité",
-     "description": "Organisez vos accessoires de toilette avec cette trousse pratique et élégante conçue pour les voyageurs modernes. Profitez d’un grand espace de rangement et d’un intérieur optimisé pour garder tous vos essentiels bien organisés. Résistante et facile à transporter, elle est idéale pour tous vos déplacements.\n\nCaractéristique\nDétail\n\nCapacité\nGrande\n\nMatériau\nRésistant à l’eau\n\nRangement\nCompartiments internes\n\nFermeture\nSolide\n\nTransport\nPoignée intégrée\n\nDesign\nCompact\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Organisez vos accessoires de toilette avec cette trousse pratique et élégante conçue pour les voyageurs modernes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/32.png"
-   ]
-  },
-  {
-   "sku": "doshift-75869",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Étagère à Épices 4 Bocaux avec Cuillères Intégrées",
-     "description": "Organisez vos épices avec style grâce à cette étagère pratique composée de 4 bocaux transparents avec cuillères intégrées. Son support compact permet de garder vos assaisonnements à portée de main tout en apportant une touche propre et moderne à votre cuisine. Idéale pour le sel, le sucre, les épices, les herbes, les sauces en poudre ou autres condiments du quotidien.\n\nCaractéristique\nDétail\n\nProduit\nÉtagère à épices avec bocaux\n\nNombre de bocaux\n4 pièces\n\nUtilisation\nSel, sucre, épices, herbes, condiments\n\nDesign\nCompact, pratique et élégant\n\nInstallation\nÀ poser sur table ou plan de travail\n\nAccessoire intégré\nCuillère dans chaque bocal\n\nMatière\nPlastique / bocal transparent\n\nCouleur\nNoir\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Organisez vos épices avec style grâce à cette étagère pratique composée de 4 bocaux transparents avec cuillères intégrées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-02T205343.585.png"
-   ]
-  },
-  {
-   "sku": "doshift-75830",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Niveau Laser Multifonction Précision Pro",
-     "description": "Réalisez vos travaux avec une précision optimale grâce à ce niveau laser polyvalent. Alignez facilement vos installations grâce aux lignes horizontales, verticales et croisées. Simplifiez vos mesures avec un outil tout-en-un pratique et fiable.\n\nCaractéristique\nDétail\n\nProjection\nLaser multiple (horizontal, vertical, croix)\n\nNiveau\nÀ bulles intégré\n\nMesure\nRègle intégrée\n\nPrécision\nHaute précision\n\nUtilisation\nCompact et facile\n\nDimensions\n~18–20 × 6–7 × 2–3 cm\n\nPoids\nLéger\n\nRéférence-doshift\nAA10BB599",
-     "short_description": "Réalisez vos travaux avec une précision optimale grâce à ce niveau laser polyvalent. Alignez facilement vos installations grâce aux lignes horizontales, verticales et croisées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/10.png"
-   ]
-  },
-  {
-   "sku": "doshift-75396",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support mural adhésif pour balai et accessoires de nettoyage",
-     "description": "Organisez facilement votre espace avec ce support mural adhésif pratique, conçu pour maintenir balais, serpillières, raclettes et autres accessoires de nettoyage bien rangés. Son système de fixation sans perçage permet une installation rapide sur une surface lisse, sans abîmer le mur.\n\nCompact et discret, il optimise le rangement dans la salle de bain, la cuisine, la buanderie ou les toilettes. Sa conception robuste aide à garder les outils suspendus, propres et accessibles au quotidien.\n\nCaractéristiques\nDétails\n\nType de produit\nSupport mural adhésif\n\nUtilisation\nRangement balai, mop, raclette, accessoires de nettoyage\n\nInstallation\nSans perçage, fixation adhésive\n\nSurface compatible\nMur lisse, carrelage, verre, surface propre et sèche\n\nDesign\nCompact et discret\n\nAvantage\nGain de place et rangement propre\n\nEmplacement conseillé\nSalle de bain, cuisine, buanderie, toilettes\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Organisez facilement votre espace avec ce support mural adhésif pratique, conçu pour maintenir balais, serpillières, raclettes et autres accessoires de nettoyage bien rangés."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T151407.188.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-18T190740.712.png"
    ]
   }
  ]

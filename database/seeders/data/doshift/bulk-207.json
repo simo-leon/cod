@@ -1,8 +1,28 @@
 {
  "products": [
   {
-   "sku": "doshift-73755",
-   "price": 609,
+   "sku": "doshift-83796",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Classeur Budget & Organisation",
+     "description": "Organisez facilement vos économies, reçus et documents importants grâce à ce mini classeur pratique et élégant. Conçu pour un usage quotidien, il vous aide à mieux gérer votre budget tout en gardant vos essentiels parfaitement rangés et accessibles.\n\nCaractéristique\nDétail\n\nType\nMini classeur organisateur\n\nUtilisation\nBudget, économies, cartes, tickets, documents\n\nFermeture\nBouton pression\n\nIntérieur\nAnneaux métalliques + pochettes zippées\n\nMatériau\nSimilicuir et PVC\n\nFormat\nCompact et portable\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Organisez facilement vos économies, reçus et documents importants grâce à ce mini classeur pratique et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T184254.006.png"
+   ]
+  },
+  {
+   "sku": "doshift-83769",
+   "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -11,118 +31,58 @@
    ],
    "locales": {
     "fr": {
-     "name": "Tondeuse multifonction Philips Série 3000 (7-en-1)",
-     "description": "Entretenez votre style en toute simplicité avec cette tondeuse polyvalente conçue pour le visage et les cheveux. Équipée de lames en acier auto-affûtées, elle garantit une coupe précise et durable sans nécessiter de lubrification.\n\nCaractéristique\nDétail\n\nSystème\nKit 7-en-1 pour visage et cheveux (inclut tondeuse + embout nez/oreilles)\n\nLames\nLames en acier inoxydable auto-affûtées (sans huile)\n\nAutonomie\nJusqu’à 60 minutes d’utilisation sans fil\n\nRecharge\nVia USB-A (selon modèle)\n\nRéglages\n6 hauteurs de coupe avec 5 sabots interchangeables\n\nConfort\nPointes arrondies pour éviter irritations\n\nEntretien\nAccessoires lavables à l’eau\n\nRéférence-doshift\nAA4BB3099",
-     "short_description": "Entretenez votre style en toute simplicité avec cette tondeuse polyvalente conçue pour le visage et les cheveux."
+     "name": "Épilateur Multifonction 5 en 1 Rechargeable",
+     "description": "Prenez soin de votre beauté au quotidien avec cet épilateur multifonction 5 en 1 conçu pour répondre à tous vos besoins. Grâce à ses différentes têtes interchangeables, il permet l’épilation, la tonte de précision, l’entretien des sourcils, le soin des pieds et l’élimination des poils indésirables en toute simplicité. Son design ergonomique, sa batterie rechargeable et son écran digital en font un appareil pratique aussi bien à la maison qu’en voyage.\n\nCaractéristique\nDétail\n\nType\nÉpilateur multifonction 5 en 1\n\nAlimentation\nBatterie rechargeable\n\nUtilisation\nCorps, visage, sourcils, nez et pieds\n\nTêtes incluses\n5 têtes interchangeables\n\nÉcran\nAffichage digital\n\nUtilisation\nSans fil\n\nEntretien\nTêtes amovibles faciles à nettoyer\n\nAvantages\nCompact, pratique et polyvalent\n\nRéférence Doshift\nAA10BB599",
+     "short_description": "Prenez soin de votre beauté au quotidien avec cet épilateur multifonction 5 en 1 conçu pour répondre à tous vos besoins."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-39.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T165502.239.png"
    ]
   },
   {
-   "sku": "doshift-73698",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mini Gaufrier Électrique Dash",
-     "description": "Réalisez de savoureuses gaufres individuelles en un instant grâce à ce mini gaufrier compact au revêtement antiadhésif. Son format pratique de 10 cm permet une cuisson rapide et homogène, idéale pour varier vos petits-déjeuners sans encombrer votre cuisine.\n\nCaractéristique\nDétail\n\nFormat\nUltra-compact avec surface de cuisson de 10 cm\n\nPuissance\n350W (chauffe rapide en moins de 2 minutes)\n\nRevêtement\nAntiadhésif sans PFOA pour un nettoyage facile\n\nUtilisation\nSimple avec témoin lumineux de cuisson\n\nCuisson\nDouble face chauffante pour une cuisson homogène\n\nPolyvalence\nGaufres, œufs, paninis, biscuits, galettes, etc.\n\nRéférence-doshift\nAA1BB2099",
-     "short_description": "Réalisez de savoureuses gaufres individuelles en un instant grâce à ce mini gaufrier compact au revêtement antiadhésif."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-34.png"
-   ]
-  },
-  {
-   "sku": "doshift-73652",
+   "sku": "doshift-83744",
    "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    12,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Planche de Pompes Multifonction Pliable avec Compteur & Support Smartphone",
-     "description": "Optimisez vos entraînements avec cette planche de pompes multifonction pliable équipée d’un compteur intégré et d’un support smartphone. Ciblez efficacement pectoraux, épaules, triceps et dos grâce aux positions guidées, tout en profitant de poignées ergonomiques et d’une base antidérapante pour un entraînement sécurisé et performant à domicile.\n\nCaractéristique\nDétail\n\nType\nPlanche de pompes multifonction pliable\n\nMatériau\nPlastique ABS haute résistance\n\nCapacité de charge\nJusqu’à 100 kg\n\nDimensions dépliée\n69 x 21 cm\n\nDimensions pliée\n48 x 21 cm\n\nHauteur poignées\n10.5 cm\n\nLargeur ajustable\n58 cm / 69 cm\n\nÉquipements inclus\nPoignées amovibles + compteur digital + support smartphone\n\nSystème d’entraînement\nPositions guidées par couleurs\n\nStabilité\nBase antidérapante renforcée\n\nUtilisation\nFitness, musculation à domicile\n\nRéférence Doshift\nAA11BB099",
-     "short_description": "Optimisez vos entraînements avec cette planche de pompes multifonction pliable équipée d’un compteur intégré et d’un support smartphone."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-21T214100.903.png"
-   ]
-  },
-  {
-   "sku": "doshift-73633",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Scelleuse Sous Vide Automatique – Conservation Optimale des Aliments",
-     "description": "Optimisez la conservation de vos aliments avec cette scelleuse sous vide performante. Conçue pour un usage simple et rapide, elle élimine l’air des sachets afin de préserver la fraîcheur, les saveurs et les nutriments plus longtemps. Idéale pour la viande, le poisson, les légumes ou les plats préparés, elle s’intègre parfaitement dans toutes les cuisines modernes grâce à son design compact et élégant.\n\nCaractéristique\nDétail\n\nType\nScelleuse sous vide automatique\n\nFonction principale\nMise sous vide + scellage\n\nUtilisation\nAliments (viande, poisson, légumes, etc.)\n\nDimensions\n37 x 6 cm\n\nAlimentation\nÉlectrique\n\nDesign\nCompact et moderne\n\nUtilisation\nSimple et rapide\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Optimisez la conservation de vos aliments avec cette scelleuse sous vide performante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-21T203902.569.png"
-   ]
-  },
-  {
-   "sku": "doshift-73596",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8,
     12
    ],
    "locales": {
     "fr": {
-     "name": "Mini Ventilateur Portable Rechargeable USB",
-     "description": "Profitez d’une sensation de fraîcheur instantanée partout où vous allez grâce à ce mini ventilateur portable pliable. Compact, léger et élégant, il vous accompagne au bureau, à la maison, en voyage ou pendant vos déplacements. Son design pliable à 90° et ses 5 vitesses réglables offrent un confort personnalisé à tout moment de la journée.\n\nCaractéristique\nDétail\n\nType\nMini ventilateur portable\n\nAlimentation\nRechargeable USB\n\nVitesses\n5 niveaux\n\nDesign\nPliable 90°\n\nÉcran\nAffichage digital\n\nUtilisation\nBureau, maison, voyage\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Profitez d’une sensation de fraîcheur instantanée partout où vous allez grâce à ce mini ventilateur portable pliable."
+     "name": "Ceinture Auto-Chauffante Thérapeutique",
+     "description": "Profitez d’un confort quotidien avec cette ceinture auto-chauffante conçue pour apporter chaleur et soutien au niveau de la taille, de l’abdomen et du bas du dos. Grâce à sa conception ergonomique et à son effet chauffant, elle aide à soulager les tensions musculaires, améliorer le confort et favoriser une sensation de bien-être tout au long de la journée.\n\nQue ce soit à la maison, au bureau ou pendant vos activités quotidiennes, cette ceinture légère et ajustable s’adapte facilement à votre morphologie pour un maintien optimal.\n\nCaractéristique\nDétail\n\nType\nCeinture auto-chauffante thérapeutique\n\nUtilisation\nTaille, abdomen et bas du dos\n\nFonction\nEffet chauffant et soutien lombaire\n\nMatériau\nTissu respirant et confortable\n\nAjustement\nFermeture réglable\n\nConfort\nLéger, souple et agréable à porter\n\nAvantages\nChaleur, maintien et bien-être quotidien\n\nUtilisation recommandée\nMaison, bureau, sport, détente\n\nCouleur\nNoir\n\nRéférence Doshift\nAA9BB599",
+     "short_description": "Profitez d’un confort quotidien avec cette ceinture auto-chauffante conçue pour apporter chaleur et soutien au niveau de la taille, de l’abdomen et du bas du dos."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-3.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T154416.695.png"
    ]
   },
   {
-   "sku": "doshift-73276",
-   "price": 99,
+   "sku": "doshift-83577",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    7
+    12
    ],
    "locales": {
     "fr": {
-     "name": "Raclette de Nettoyage Multifonction Pliable – Ultra Pratique & Design Moderne",
-     "description": "Optimisez votre nettoyage quotidien avec cette raclette innovante et compacte, idéale pour les vitres, miroirs, sols et surfaces lisses. Grâce à son design pliable et ergonomique, elle offre une prise en main confortable et un rangement facile, tout en garantissant une efficacité maximale.\n\nConçue pour éliminer rapidement l’eau, la poussière et les résidus, cette raclette est l’alliée parfaite pour une maison propre sans effort. Sa tête flexible s’adapte aux différentes surfaces pour un résultat impeccable sans traces.\n\nCaractéristique\nDétail\n\nType de produit\nRaclette de nettoyage multifonction\n\nUtilisation\nVitres, miroirs, sols, surfaces lisses\n\nDesign\nPliable et compact\n\nTête\nFlexible et interchangeable\n\nPrise en main\nErgonomique\n\nMatériau\nPlastique ABS + lame en caoutchouc\n\nNettoyage\nSans traces\n\nRangement\nGain de place\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Optimisez votre nettoyage quotidien avec cette raclette innovante et compacte, idéale pour les vitres, miroirs, sols et surfaces lisses."
+     "name": "Ceinture Chauffante Rechargeable pour le Ventre et le Bas du Dos",
+     "description": "Profitez d’un confort apaisant au quotidien grâce à cette ceinture chauffante portable conçue pour diffuser une chaleur douce et agréable. Idéale à la maison, au bureau ou en déplacement, elle combine chauffage et massage par vibrations pour une sensation de bien-être optimale.\n\nCaractéristique\nDétail\n\nType\nCeinture chauffante rechargeable\n\nFonctions\nChauffage + massage par vibrations\n\nNiveaux de chaleur\n3 niveaux réglables\n\nModes de massage\n3 intensités\n\nAlimentation\nRechargeable USB\n\nTaille\nAjustable – Taille unique\n\nUtilisation\nVentre, taille et bas du dos\n\nAvantages\nPortable, légère et confortable\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Profitez d’un confort apaisant au quotidien grâce à cette ceinture chauffante portable conçue pour diffuser une chaleur douce et agréable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-21T151605.296.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T204729.258.png"
    ]
   },
   {
-   "sku": "doshift-73473",
-   "price": 139,
+   "sku": "doshift-83536",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -130,71 +90,108 @@
    ],
    "locales": {
     "fr": {
-     "name": "Multifunctional solar rechargeable LED camping lantern",
-     "description": "Illumine vos aventures avec sa tête pivotante et sa double charge solaire ou USB pour une autonomie totale.\n\nCaractéristiques\nDétail\n\nDouble source lumineuse\nLED + ampoule style tungstène pour éclairage spot et ambiant\n\nTête rotative\nRotation à 180° pour orienter la lumière\n\nCapacité de la batterie\nBatterie lithium 3,7V – 2400 mAh\n\nRecharge\nUSB Type-C (charge rapide 2–3h) + solaire en appoint\n\nModes d’éclairage\n4 à 5 modes (fort, faible, flash d’urgence, etc.)\n\nRésistance aux intempéries\nCertification IP44 (résistant à la poussière et aux éclaboussures)\n\nPortabilité\nLéger (~378 g) avec crochet de suspension pour transport facile\n\nDimensions\n18.5 cm\n\nRéf. Doshift\nAA6BB099",
-     "short_description": "Illumine vos aventures avec sa tête pivotante et sa double charge solaire ou USB pour une autonomie totale."
+     "name": "Organisateur de Salle de Bain avec Distributeur Automatique de Dentifrice",
+     "description": "Optimisez votre espace et gardez votre salle de bain parfaitement organisée grâce à cet organisateur mural multifonction. Équipé d’un distributeur automatique de dentifrice, de porte-brosses à dents et d’espaces de rangement pratiques, il permet de garder tous vos accessoires à portée de main tout en économisant de l’espace. Son installation sans perçage est simple et rapide grâce à son système adhésif haute résistance.\n\nCaractéristique\nDétail\n\nType\nOrganisateur mural de salle de bain\n\nFonction\nDistributeur automatique de dentifrice\n\nRangement\nCompartiments pour accessoires et dentifrice\n\nSupport\nPorte-brosses à dents intégré\n\nInstallation\nSans perçage, fixation adhésive\n\nMatériau\nPlastique ABS résistant\n\nEntretien\nFacile à nettoyer\n\nUtilisation\nSalle de bain familiale\n\nCouleur\nBlanc et beige\n\nRéférence Doshift\nAA11BB099",
+     "short_description": "Optimisez votre espace et gardez votre salle de bain parfaitement organisée grâce à cet organisateur mural multifonction."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-30.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T191048.487.png"
    ]
   },
   {
-   "sku": "doshift-73344",
-   "price": 169,
+   "sku": "doshift-83488",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    5
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Écouteurs sans fil Dinex D-15 – Autonomie longue durée & confort quotidien",
-     "description": "Profitez d’une expérience audio fluide et sans contrainte grâce à ces écouteurs sans fil au design compact et élégant. Pensés pour un usage quotidien, ils offrent une connexion stable, un son clair et une grande liberté de mouvement, que ce soit pour vos appels, votre musique ou vos déplacements.\n\nCaractéristique\nDétail\n\nType de produit\nÉcouteurs sans fil\n\nConnexion\nBluetooth\n\nAutonomie\nJusqu’à 53 heures (avec boîtier)\n\nBatterie écouteurs\n30 mAh chacun\n\nBatterie boîtier\n250 mAh\n\nTemps de charge\nEnviron 1,5 heure\n\nCommande\nTactile\n\nFonction\nAppels, musique, réduction du bruit\n\nPort de charge\nUSB Type-C\n\nConfort\nLéger et ergonomique\n\nUtilisation\nQuotidien, sport, travail\n\nCompatibilité\nSmartphones, tablettes, PC\n\nRéférence Doshift\nAA9BB099",
-     "short_description": "Profitez d’une expérience audio fluide et sans contrainte grâce à ces écouteurs sans fil au design compact et élégant."
+     "name": "Ventilateur Portable LED Rechargeable",
+     "description": "Profitez d’une fraîcheur instantanée où que vous soyez grâce à ce ventilateur portable compact et élégant. Léger, rechargeable par USB et doté d’un éclairage LED intégré, il vous accompagne au bureau, à la maison, en voyage ou lors de vos déplacements. Son socle stable permet une utilisation mains libres pour un confort optimal au quotidien.\n\nCaractéristique\nDétail\n\nType\nVentilateur portable rechargeable\n\nAlimentation\nRecharge USB\n\nVitesses\nPlusieurs niveaux de ventilation\n\nÉclairage\nLED intégrée\n\nUtilisation\nBureau, maison, voyage\n\nSupport\nSocle de maintien inclus\n\nAvantage\nCompact, léger et facile à transporter\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Profitez d’une fraîcheur instantanée où que vous soyez grâce à ce ventilateur portable compact et élégant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-20T175334.501.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T174348.467.png"
    ]
   },
   {
-   "sku": "doshift-73323",
-   "price": 389,
+   "sku": "doshift-83520",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Spicy SP-18-Power Bank Solaire 40 000 mAh-Blanc",
-     "description": "Ne soyez plus jamais à court de batterie. Que vous soyez en randonnée, en voyage ou en déplacement professionnel, la Spicy SP-18 combine une capacité colossale et la technologie solaire pour garantir que vos appareils restent opérationnels, même loin de toute prise de courant.\n\nCaractéristique\nDétails\n\nModèle\nSpicy SP-18\n\nCapacité\n40 000 mAh\n\nPuissance Max\n22.5W (Charge Rapide Adaptive)\n\nProtocoles\nPD 20W / QC 3.0\n\nConnectique\nCâbles Type-C et Lightning intégrés\n\nDesign\nRobuste avec poignée de transport ergonomique",
-     "short_description": "Ne soyez plus jamais à court de batterie. Que vous soyez en randonnée, en voyage ou en déplacement professionnel, la Spicy SP-18 combine une capacité colossale et la technologie solaire pour garantir que vos appareils…"
+     "name": "Bouée Bébé Gonflable avec Pare-Soleil",
+     "description": "Offrez à votre bébé des moments de baignade en toute sécurité grâce à cette bouée gonflable avec pare-soleil intégré. Son siège confortable et son design coloré inspiré du monde marin permettent à votre enfant de profiter de l’eau tout en restant protégé des rayons du soleil. Idéale pour la piscine, la plage ou les vacances d’été.\n\nCaractéristique\nDétail\n\nType\nBouée gonflable pour bébé\n\nPare-soleil\nIntégré\n\nUtilisation\nPiscine, plage, vacances\n\nDesign\nMotifs marins colorés\n\nSiège\nConfortable et stable\n\nMatière\nPVC résistant\n\nÂge recommandé\nEnfants en bas âge\n\nAvantage\nProtection solaire et sécurité renforcée\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Offrez à votre bébé des moments de baignade en toute sécurité grâce à cette bouée gonflable avec pare-soleil intégré."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-20T161007.054.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T184704.645.png"
    ]
   },
   {
-   "sku": "doshift-73333",
-   "price": 159,
+   "sku": "doshift-83514",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Mini Batterie Externe Wopow MP02 | 10W Haute Portabilité",
-     "description": "Optimisez votre mobilité avec la mini batterie Wopow MP02, une solution de recharge révolutionnaire qui élimine définitivement la contrainte des câbles emmêlés. Branchez directement ce chargeur ultra-compact sur votre smartphone pour profiter d’une puissance de 10W tout en continuant à utiliser votre appareil en totale liberté.\n\nCaractéristique\nDétails\n\nMarque\nWopow\n\nModèle\nMP02\n\nPuissance de sortie\n10W\n\nType de connexion\nPlug-and-Play (Connecteur direct intégré)\n\nCompatibilité\niOS / Android (Lightning & USB-C)\n\nIndicateur de charge\n4 indicateurs LED de niveau de batterie\n\nSécurité\nBoîtier anti-feu (Norme 94V0)\n\nCertification Transport\nApprouvé pour le transport aérien (Boarding Airplane)\n\nDesign / Style\n« Macarone Color » – Design minimaliste et strié\n\nFormat\nUltra-compact (Mini volume)\n\nCouleur\nBlanc (Blanc crème)",
-     "short_description": "Optimisez votre mobilité avec la mini batterie Wopow MP02, une solution de recharge révolutionnaire qui élimine définitivement la contrainte des câbles emmêlés."
+     "name": "Bouée Bébé Gonflable avec Toit Pare-Soleil",
+     "description": "Offrez à votre enfant des moments de baignade plus confortables avec cette bouée gonflable rose. Son design avec toit intégré aide à protéger du soleil, tandis que son assise maintient bébé dans une position stable pour profiter de l’eau en toute sécurité sous surveillance.\n\nCaractéristique\nDétail\n\nType\nBouée bébé gonflable\n\nDesign\nAvec toit pare-soleil\n\nCouleur\nRose\n\nQuantité\n120 pièces\n\nUtilisation\nPiscine, plage, vacances\n\nAvantage\nStable, confortable et facile à gonfler\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Offrez à votre enfant des moments de baignade plus confortables avec cette bouée gonflable rose."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-20T170910.236.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T183950.102.png"
+   ]
+  },
+  {
+   "sku": "doshift-81830",
+   "price": 479,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Table Pliante Réglable – Grand Modèle 120×60 cm",
+     "description": "Apportez plus de confort à vos sorties avec cette table pliante réglable au design pratique et élégant. Son grand plateau effet bois offre un espace idéal pour les repas, le camping, les pique-niques ou l’utilisation quotidienne à la maison.\n\nCaractéristique\nDétail\n\nDimensions ouvertes\n120 x 60 cm\n\nHauteur\n70 cm\n\nDimensions pliée\n60 cm\n\nMatière\nAluminium + plateau effet bois\n\nUtilisation\nCamping, pique-nique, maison, extérieur\n\nTransport\nPliable avec poignée\n\nRéférence Doshift\nAA29BB599",
+     "short_description": "Apportez plus de confort à vos sorties avec cette table pliante réglable au design pratique et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-19.png"
+   ]
+  },
+  {
+   "sku": "doshift-81818",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Table Pliante en Aluminium Effet Bois 48×70 cm",
+     "description": "Ajoutez une touche pratique et élégante à vos sorties avec cette table pliante en aluminium effet bois. Compacte, légère et facile à transporter, elle est parfaite pour le camping, les pique-niques, la plage, le balcon ou le jardin.\n\nCaractéristique\nDétail\n\nType\nTable pliante portable\n\nMatière\nAluminium\n\nFinition\nEffet bois\n\nDimensions\n48 × 70 cm\n\nHauteur\n60 cm\n\nUtilisation\nCamping, balcon, plage, pique-nique\n\nEntretien\nSurface facile à nettoyer\n\nRéférence Doshift\nAA19BB099",
+     "short_description": "Ajoutez une touche pratique et élégante à vos sorties avec cette table pliante en aluminium effet bois."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-11.png"
    ]
   }
  ]

@@ -1,6 +1,65 @@
 {
  "products": [
   {
+   "sku": "doshift-120835",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Type-C avec Support Pliable et Dragonne Porte-Clé",
+     "description": "Ingénieux et ultra-compact, cet adaptateur USB Type-C 2-en-1 se branche directement au port de votre smartphone pour se transformer instantanément en un support de table stable et discret. Grâce à son bras métallique articulé qui se déplie à 180°, il maintient votre téléphone à l’horizontale comme à la verticale pour visionner des vidéos, suivre des recettes ou passer des appels vidéo les mains libres, tout en permettant de brancher simultanément votre câble de charge sur sa prise inférieure.\n\nCaractéristique\nSpécification Détaillée\n\nType\nAdaptateur USB-C coudé 2-en-1 avec béquille support intégrée\n\nConnectique\nFiche mâle latérale USB-C et port femelle inférieur pour recharge\n\nSupport\nDouble bras articulé rotatif à 180° pour inclinaison portrait/paysage\n\nPuissance\nPrise en charge de la charge rapide haute puissance et du transfert\n\nPortabilité\nDragonne cordon noire avec mousqueton métallique pour porte-clés\n\nSKU\n9900010975002",
+     "short_description": "Adaptateur Type-C de poche avec béquille support pliable rotative et dragonne porte-clés"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/439a5d24-2779-493b-9f73-1d6eedee834c.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-120694",
+   "price": 429,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Manette Sans Fil iPega RGB Hall Effect Multiplateforme",
+     "description": "Passez au niveau supérieur sur mobile, console et PC avec la manette sans fil iPega RGB Hall Effect. Équipée de joysticks magnétiques à effet Hall de dernière génération, elle élimine définitivement les problèmes de zone morte et d’usure prématurée (stick drift) pour offrir une précision chirurgicale sur tous vos jeux d’action, de tir et de course. Son design futuriste associe une coque bicolore blanche et noire à des liserés d’éclairage RGB multicolores qui parcourent les poignées et entourent les joysticks.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nManette de jeu sans fil multiplateforme avec support smartphone intégré\n\nCapteurs & Précision\nJoysticks magnétiques à effet Hall (technologie Hall Effect anti-drift haute précision)\n\nÉclairage & Commandes\nBandes lumineuses RGB dynamiques (contours de poignées et anneaux de sticks), boutons Turbo et Macro\n\nConnectivité & Compatibilité\nBluetooth sans fil & câble USB-C (Android, iOS, PC Windows, Nintendo Switch, PS4, PS3)\n\nAlimentation & Ergonomie\nBatterie Li-ion rechargeable intégrée (port USB-C), poignées texturées noires avec grip antidérapant\n\nSKU\n9900010930209",
+     "short_description": "Manette sans fil multiplateforme blanche et noire avec joysticks effet Hall anti-drift, éclairage RGB et support téléphone, 15,5×10,5 cm."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/7b56888f-f451-4a86-a657-051cacfc6990.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-120688",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Station de Charge Manette GameSir Nova Charger",
+     "description": "Offrez un point d’ancrage dédié et un rechargement sans contrainte à votre manette gaming grâce au socle officiel GameSir Nova Charger. Conçue spécialement pour les séries GameSir Nova et Nova 2 Lite, cette station d’accueil élimine les branchements de câbles fastidieux grâce à son système de contact Pogo-Pin magnétique à 4 broches : il suffit de poser la manette dans le berceau pour que la charge démarre instantanément.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nStation d’accueil et socle de charge magnétique pour manettes de jeu\n\nSystème de charge\nConnecteurs magnétiques 4 broches Pogo-Pin dorées (chargement instantané par contact)\n\nCompatibilité manettes\nGameSir Nova, GameSir Nova 2 Lite, GameSir Super Nova\n\nAlimentation & Connectique\nEntrée USB Type-C (5V / 1A – 2A), câble détachable inclus\n\nConception & Ergonomie\nChâssis compact incliné, base lestée antidérapante, bandeau indicateur LED d’état\n\nSKU\n9900010930193",
+     "short_description": "Station de charge compacte noir mat à contact magnétique Pogo-Pin pour manettes GameSir Nova, 8,5×7,8 cm."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/d2acc947-c131-493d-8cea-92bc9c05468f.webp"
+   ]
+  },
+  {
    "sku": "doshift-120622",
    "price": 139,
    "stock": 10,
@@ -131,63 +190,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/10/babe83a4-37d2-4f87-9dde-674c498055e0.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-120191",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Couvre-Volant Universel SMG Racing",
-     "description": "Conçu pour offrir une maîtrise accrue de la trajectoire et rehausser l’habitacle de votre véhicule, le couvre-volant SMG Racing SG-46062 allie esthétique sportive et ergonomie de précision. Sa surface extérieure en cuir synthétique texturé présente des micro-stries antidérapantes qui procurent une préhension ferme et agréable, réduisant la fatigue des mains lors des longs trajets.\n\nCaractéristique\nSpécification Détaillée\n\nType\nCouvre-volant de protection et confort de conduite automobile\n\nTaille\nTaille M standard convenant aux volants de 37 à 39 cm de diamètre\n\nMatériaux\nCuir synthétique souple micro-texturé et armature interne élastomère\n\nCompatibilité\nUniverselle pour la majorité des véhicules de tourisme, berlines et SUV\n\nFinition\nNoir mat intégral avec reliefs rainurés façon pneumatique de course\n\nSKU\n9900010929999",
-     "short_description": "Couvre-volant noir taille M (37-39 cm) en similicuir texturé avec grip antidérapant sport."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/2c7faa1f-6bcf-45c0-9d89-694821ef278b.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-119700",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de 3 Moules à Charnière Elitehöff E-8015",
-     "description": "Ce set de 3 moules à gâteaux démontables Elitehöff E-8015 offre une liberté créative totale pour réussir tous types d’entremets, génoises, cheesecakes et tourtes. Décliné en trois formes emblématiques (carrée, ronde et cœur), chaque moule intègre une ceinture à charnière robuste en acier chromé et un plateau de base amovible garantissant un démoulage net et sans bavure.\n\nCaractéristique\nSpécification Détaillée\n\nType\nSet de 3 moules de cuisson démontables pour pâtisserie et gâteaux\n\nFormes\n3 géométries complémentaires : carré, rond classique et cœur\n\nMatériau\nAcier au carbone thermoconducteur résistant jusqu’à 230 °C\n\nRevêtement\nAntiadhésif texturé effet granit moucheté noir et blanc\n\nSystème\nCharnières latérales argentées à clip rapide et fonds amovibles\n\nSKU\n9900010929913",
-     "short_description": "Set de 3 moules à pâtisserie démontables (carré, rond, cœur) en acier au carbone antiadhésif effet granit."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/631d8237-7d61-4cdf-b6f8-8fecca2cf6d7.webp"
-   ]
-  },
-  {
-   "sku": "doshift-119499",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Roulette à Pizza Professionnelle Jing Xin (Lame Bleue & Chrome)",
-     "description": "Alliant élégance contemporaine et tranchant chirurgical, la roulette à pizza professionnelle Jing Xin sublime la découpe de vos pizzas, tartes flambées, focaccias et pâtes brisées. Son disque rotatif en acier inoxydable revêtu d’un bleu saphir antiadhésif traverse les garnitures épaisses et les pâtes croustillantes d’un mouvement fluide sans accrocher.\n\nCaractéristique\nSpécification Détaillée\n\nType\nRoulette découpe-pizza rotative design ergonomique\n\nLame\nDisque circulaire en acier inoxydable revêtu bleu saphir\n\nManche\nPoignée galbée profilée noire laquée avec renfort chromé\n\nFinition\nBras de fourche et garde en métal chromé poli miroir\n\nSécurité\nDouble garde d’appui arrondie protégeant les doigts\n\nSKU\n9900010929869",
-     "short_description": "Roulette à pizza avec lame rotative en acier bleu saphir et manche ergonomique noir chromé."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-16-01-15.webp"
    ]
   }
  ]

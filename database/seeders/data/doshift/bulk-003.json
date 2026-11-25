@@ -1,6 +1,25 @@
 {
  "products": [
   {
+   "sku": "doshift-124338",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de Tapis de Sol pour Voiture Effet Aluminium – Set 5 Pièces Universel Antidérapant",
+     "description": "Protégez et customisez l’habitacle de votre véhicule avec ce set de 5 tapis de sol pour voiture à l’effet aluminium damé. Conçus pour toutes les saisons et résistants à l’usure, ils offrent une protection optimale contre la saleté, l’eau et la boue tout en apportant un look sportif et moderne à votre intérieur.\n\nCaractéristique\nDétail\n\nType de produit\nTapis de sol universels pour voiture\n\nMarque\nNon spécifié\n\nModèle\nKHF-7008 (Set de 5 pièces)\n\nCouleur\nArgenté (Effet aluminium damé)\n\nCompatibilité\nUniverselle (adaptable pour la plupart des véhicules, voitures, berlines, SUV)\n\nFonctionnalités\nSet complet de 5 pièces, protection toutes saisons, surface texturée antidérapante, entretien facile\n\nAvantages\nDesign sportif type plaque de tôle, protège efficacement les sols d’origine contre l’humidité et les salissures\n\nContenu de la boîte\n1 set de 5 tapis de sol (avant et arrière)\n\nDimensions du produit (cm)\n\n Tapis avant (x2) :\n\n– Longueur : 70,0 cm\n\n– Largeur : 50,0 cm\n\nTapis arrière (x2) :\n\n– Longueur : 45,0 cm\n\n– Largeur : 45,0 cm\n\nÉpaisseur : 1,5 cm\n\nSKU\n990007000671",
+     "short_description": "Protégez et customisez l’habitacle de votre véhicule avec ce set de 5 tapis de sol pour voiture à l’effet aluminium damé. Conçus pour toutes les saisons et résistants à l’usure, ils offrent une protection optimale contre la saleté, l’eau et la boue tout en apportant un look sportif et moderne à votre intérieur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-07T214537.580.png"
+   ]
+  },
+  {
    "sku": "doshift-124220",
    "price": 99,
    "stock": 10,
@@ -180,26 +199,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T205144.922.png"
-   ]
-  },
-  {
-   "sku": "doshift-123909",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac de Voyage Bicolore Extensible et Multifonctionnel",
-     "description": "Partez l’esprit tranquille avec ce grand sac de voyage vert kaki alliant robustesse, élégance et modernité. Équipé de poignées renforcées et d’une conception ingénieuse, il offre un confort de transport optimal. Son compartiment inférieur zippé extensible et ses multiples poches s’adaptent parfaitement à toutes vos affaires pour le sport, les voyages ou le quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSac de voyage / Fourre-tout\n\nMarque\nFEIFANLTUO\n\nModèle\nSac de voyage extensible multifonctionnel\n\nCouleur\nVert Kaki\n\nCompatibilité\nBagage cabine, déplacements de week-end, salle de sport, activités du quotidien\n\nFonctionnalités\nCompartiment inférieur extensible, double poignée renforcée, poche frontale zippée\n\nAvantages\nGrande capacité modulable, transport polyvalent, design sportif et résistant\n\nContenu de la boîte\n1 sac de voyage\n\nDimensions du produit (cm)\n\n• Longueur : 41,0 cm\n\n• Largeur : 22,0 cm\n\n• Hauteur : 28,0 cm\n\nSKU\n700000000000107",
-     "short_description": "Partez l’esprit tranquille avec ce grand sac de voyage vert kaki alliant robustesse, élégance et modernité. Équipé de poignées renforcées et d’une conception ingénieuse, il offre un confort de transport optimal. Son compartiment inférieur zippé extensible et ses multiples poches s’adaptent parfaitement à toutes vos affaires pour le sport, les voyages ou le quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T202254.771.png"
    ]
   }
  ]

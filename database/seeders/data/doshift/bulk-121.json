@@ -1,142 +1,28 @@
 {
  "products": [
   {
-   "sku": "doshift-43450",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble Bonnet de Bain + Lunettes de Natation pour Enfant",
-     "description": "Offrez à votre enfant une expérience de baignade confortable et sécurisée avec cet ensemble comprenant un bonnet de bain en silicone et une paire de lunettes de natation ajustables. Conçu pour les jeunes nageurs, il est idéal pour la piscine, la plage ou les cours de natation.\n\nLe bonnet protège les cheveux tout en assurant un excellent maintien, tandis que les lunettes offrent une vision claire et un ajustement confortable grâce à leur sangle réglable. Léger, pratique et résistant, cet ensemble accompagne les enfants dans toutes leurs aventures aquatiques.\n\nCaractéristique\nDétail\n\nType\nEnsemble de natation pour enfant\n\nContenu\n1 bonnet de bain + 1 paire de lunettes\n\nMatière du bonnet\nSilicone\n\nMatière des lunettes\nPVC + Silicone\n\nCouleur\nBonnet bleu / Lunettes vertes et jaunes\n\nTaille\nEnfant (ajustable)\n\nÂge recommandé\nÀ partir de 3 ans\n\nUtilisation\nPiscine, plage, cours de natation\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "Offrez à votre enfant une expérience de baignade confortable et sécurisée avec cet ensemble comprenant un bonnet de bain en silicone et une paire de lunettes de natation ajustables."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-07-13T180145.596.png"
-   ]
-  },
-  {
-   "sku": "doshift-43437",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Stylo Testeur de Tension Numérique LCD AC/DC (Couleur selon disponibilité)",
-     "description": "Le stylo testeur de tension numérique est un outil pratique et polyvalent, conçu pour détecter rapidement la présence de tension sur différents équipements électriques et électroniques. Compact, léger et facile à utiliser, il convient aussi bien pour un usage domestique que pour les opérations de contrôle, d’entretien et de dépannage.\n\nCaractéristique\nDétail\n\nType de produit\nStylo testeur de tension numérique\n\nAffichage\nÉcran LCD\n\nIndicateur lumineux\nLED électroluminescente\n\nUtilisation\nTest de tension, détection de phase/neutre, recherche de coupure\n\nCompatibilité\nCourant alternatif (AC) et courant continu (DC)\n\nFonction haute tension\nDétection indirecte\n\nCommande\n2 boutons\n\nPrise en main\nPoignée ergonomique\n\nDomaines d’application\nAppareils ménagers, circuits électriques, maintenance, automobile\n\nCouleurs\nSelon disponibilité\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "Le stylo testeur de tension numérique est un outil pratique et polyvalent, conçu pour détecter rapidement la présence de tension sur différents équipements électriques et électroniques."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348132-286_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43409",
-   "price": 239,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "150MM / 6inch LCD Digital Electronic Vernier Caliper Micromètre Règle Outil de mesures",
-     "description": "Avec écran LCD alimenté par 1 pile LR44 fournie Mise à zéro à n’importe quelle positionPlage de mesure 0 150m 0 6 Fournit des lectures clairesLes lectures peuvent être affichées en pouces ou en millimètresConvient à la fois aux artistes amateurs et professionnels.",
-     "short_description": "Avec écran LCD alimenté par 1 pile LR44 fournie Mise à zéro à n’importe quelle positionPlage de mesure 0 150m 0 6 Fournit des lectures clairesLes lectures peuvent être affichées en pouces ou en millimètresConvient à la…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348083-280_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43256",
-   "price": 80,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse Vaisselle Révolutionnaire – Nettoyage Efficace au Quotidien",
-     "description": "La brosse vaisselle révolutionnaire est conçue pour offrir un nettoyage puissant et rapide de toute votre vaisselle. Ses poils robustes éliminent efficacement les graisses et les résidus alimentaires, même les plus tenaces. Son manche ergonomique et antidérapant assure une prise en main confortable et sécurisée, idéale pour une utilisation quotidienne en cuisine.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBrosse vaisselle\n\nNettoyage\nEfficace contre les graisses et résidus\n\nPoils\nRobustes et résistants\n\nManche\nAntidérapant et ergonomique\n\nUtilisation\nAssiettes, verres, casseroles, poêles\n\nPrise en main\nConfortable et stable\n\nEntretien\nFacile à rincer et à nettoyer\n\nCouleur\nRouge\n\nUsage\nDomestique – cuisine\n\nRéférence-doshift\nAA1BB899",
-     "short_description": "La brosse vaisselle révolutionnaire est conçue pour offrir un nettoyage puissant et rapide de toute votre vaisselle."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/ChatGPT-Image-22-dec.-2025-13_24_49-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-43170",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Étoiles Lumineuses Brillantes dans le Noir – Lot de 60 PCS",
-     "description": "Transformez la chambre de votre enfant ou votre espace intérieur en un véritable ciel étoilé grâce à ces stickers lumineux. Faciles à installer, rechargeables avec la lumière naturelle ou artificielle, ces étoiles créent une ambiance magique et apaisante la nuit. Idéales pour les chambres, plafonds, décorations festives et activités créatives, elles brillent longtemps et sont totalement réutilisables.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nQuantité\n60 étoiles lumineuses\n\nUtilisation\nMurs, plafonds, portes, lampes, meubles\n\nCouleurs\nJaune, vert, rose\n\nFonctionnement\nAbsorbent la lumière UV le jour, brillent la nuit\n\nDurée de brillance\nLongue durée après exposition lumineuse\n\nSécurité\nNon adaptées aux très jeunes enfants (petites pièces)\n\nRéutilisables\nOui, faciles à décoller sans abîmer les surfaces\n\nIdéal pour\nChambres, fêtes, mariages, anniversaires, Noël\n\nPoids\nUltra légères, ne tombent pas\n\nMatériau\nPVC lumineux écologique\n\nInstallation\nAutocollants prêts à poser, très simple\n\nRéférence\nAA2BB599",
-     "short_description": "Transformez la chambre de votre enfant ou votre espace intérieur en un véritable ciel étoilé grâce à ces stickers lumineux."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-16.png"
-   ]
-  },
-  {
-   "sku": "doshift-43046",
-   "price": 89,
+   "sku": "doshift-43774",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Set de 12 pinceaux artistiques à manches bleus",
-     "description": "Exprimez votre créativité avec ce set de 12 pinceaux de peinture, conçu pour accompagner les artistes débutants comme confirmés. Les pinceaux disposent de poils synthétiques souples, de viroles métalliques résistantes et de manches bleus légers offrant une prise en main confortable.\n\nGrâce aux différentes tailles incluses, ce lot permet de réaliser aussi bien des détails précis que des aplats, des contours et des fonds. Il convient parfaitement à la peinture acrylique, à l’aquarelle et à la peinture à l’huile.",
-     "short_description": "Exprimez votre créativité avec ce set de 12 pinceaux de peinture, conçu pour accompagner les artistes débutants comme confirmés."
+     "name": "Jouet d’eau de piscine pour enfants,jouet de baignoire arroseur pour tout-petits",
+     "description": "Ce jouet de bain pour bébés est une baleine qui s’illumine et projette de l’eau automatiquement lorsqu’elle est mise dans l’eau.\n\nIl fonctionne avec 3 piles AAA (non incluses) et est équipé d’un joint d’étanchéité pour empêcher les fuites.\n\nLe jouet est fabriqué en ABS de haute qualité, est durable et a une surface lisse sans bavures.\n\nIl est idéal pour les baignoires, les piscines, les douches et peut être utilisé à l’extérieur, à la plage.\n\nIl s’arrête automatiquement lorsqu’il est retiré de l’eau.\n\nIl est disponible en blanc et pèse 0.3 kg.\n\nC’est un excellent cadeau pour les enfants.",
+     "short_description": "Ce jouet de bain pour bébés est une baleine qui s’illumine et projette de l’eau automatiquement lorsqu’elle est mise dans l’eau."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-07-29T143827.919.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764349375-362_1.jpg"
    ]
   },
   {
-   "sku": "doshift-43031",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bandes de Protection pour Jantes – Personnalisation & Protection Anti-Chocs",
-     "description": "Les bandes de protection pour jantes sont la solution idéale pour protéger, personnaliser et sublimer vos roues. Conçues pour absorber les chocs et résister aux intempéries, elles protègent efficacement les jantes contre les rayures, frottements et impacts du quotidien. Faciles à installer, elles offrent un design personnalisable qui apporte une touche sportive et élégante à votre véhicule, tout en conservant une excellente durabilité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBandes de protection pour jantes\n\nFonction principale\nProtection et personnalisation\n\nProtection\nAnti-chocs et anti-rayures\n\nRésistance\nIntempéries, eau, poussière\n\nInstallation\nRapide et facile\n\nFixation\nAdhésive haute résistance\n\nCompatibilité\nJantes de voitures (universelle)\n\nDesign\nSportif et personnalisable\n\nCouleurs\nBLUE\n\nDurabilité\nLongue durée\n\nUsage\nUrbain, route, sport\n\nRéférence-doshift\nAA9BB599",
-     "short_description": "Les bandes de protection pour jantes sont la solution idéale pour protéger, personnaliser et sublimer vos roues."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-12T174815.904.png"
-   ]
-  },
-  {
-   "sku": "doshift-43001",
-   "price": 88,
+   "sku": "doshift-43759",
+   "price": 279,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -144,18 +30,37 @@
    ],
    "locales": {
     "fr": {
-     "name": "Bavoir Bébé Imperméable et Absorbant – Protection Idéale pour les Repas",
-     "description": "Ce bavoir d’alimentation pour bébé est conçu pour accompagner les repas du quotidien en toute sérénité. Grâce à sa matière résistante aux liquides et hautement absorbante, il protège efficacement les vêtements contre les taches, éclaboussures et aliments renversés. Son design doux et ludique avec motif enfantin apporte une touche adorable tout en assurant un confort optimal pour bébé. Facile à mettre et à nettoyer, il est parfait pour la maison comme pour les sorties.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBavoir d’alimentation pour bébé\n\nMatière\nTissu doux, absorbant et imperméable\n\nFonction principale\nProtection contre les liquides et les taches\n\nImperméabilité\nOui – résistant aux liquides\n\nAbsorption\nHaute capacité d’absorption\n\nConfort\nDoux pour la peau sensible de bébé\n\nFermeture\nPratique et sécurisée, facile à enfiler\n\nEntretien\nFacile à nettoyer, lavable\n\nUtilisation\nRepas, goûter, apprentissage de l’autonomie\n\nDesign\nMotif enfantin mignon, couleurs douces\n\nAvantages clés\nProtège les vêtements, réutilisable, durable\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Ce bavoir d’alimentation pour bébé est conçu pour accompagner les repas du quotidien en toute sérénité."
+     "name": "Machine à pâtes multifonction inox imperial offfre pour chebakia noodle",
+     "description": "La machine à pâte Imperial 15 cm Multifonction est un outil manuel en inox permettant de préparer des pâtes fraîches.\n\nElle est équipée d’une manivelle et se fixe sur le plan de travail grâce à un étau fourni.\n\nLa machine à pâtes permet de réaliser des pâtes fraîches de différentes formes et épaisseurs.\n\nElle est livrée avec des rouleaux de largeur moyenne (9) et (1) pour une plus grande polyvalence.\n\nLa machine à pâte est facile à nettoyer : il suffit de l’essuyer avec un chiffon doux et sec et de nettoyer les couteaux avec une brosse.\n\nElle est adaptée à tous les types de pâte, comme la Chabakia, les Spaghetti et les Lasagnes.\n\nElle est fabriquée en inox et dispose d’une poignée amovible pour faciliter le nettoyage.\n\nLe poids de la machine est de 0,3 kg et sa couleur est argent.",
+     "short_description": "La machine à pâte Imperial 15 cm Multifonction est un outil manuel en inox permettant de préparer des pâtes fraîches."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/ChatGPT-Image-27-dec.-2025-16_18_24-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764349349-359_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42981",
-   "price": 402,
+   "sku": "doshift-43669",
+   "price": 299,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Machine à pâtes et chabakia bonana",
+     "description": "La machine à pâte permet de préparer des pâtes fraîches faites maison.\n\nElle est composée de deux rouleaux réglables graduellement pour étaler la pâte en feuilles plus fines.\n\nUne fois la bonne épaisseur atteinte, la pâte peut être mise dans l’accessoire à spaghetti ou à tagliatelle.\n\nLe set comprend des accessoires complémentaires pour faire différents types de pâtes.\n\nLa machine se nettoie avec un chiffon.\n\nNe pas la plonger dans l’eau.\n\nElle est faite d’acier inoxydable et mesure 150 mm de large.\n\nElle est de couleur argent.",
+     "short_description": "La machine à pâte permet de préparer des pâtes fraîches faites maison."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764349070-339_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43654",
+   "price": 339,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -163,32 +68,127 @@
    ],
    "locales": {
     "fr": {
-     "name": "Bache Renault Express, Couverture voiture Renault Express",
-     "description": "Protégez-vous des rayons UV, préservez la couleur de votre voitureRésistant au soleil et à l’eauCouleur principale: Noir et grisTissu déperlantFlexible à l’avant / à l’arrière et sangle de fixation du train de roulementProtège des rayuresIl protège votre voiture contre des facteurs climatiques",
-     "short_description": "Protégez-vous des rayons UV, préservez la couleur de votre voitureRésistant au soleil et à l’eauCouleur principale: Noir et grisTissu déperlantFlexible à l’avant / à l’arrière et sangle de fixation du train de…"
+     "name": "Phares led moto 1200lm 9v85v",
+     "description": "L’ampoule LED est étanche IP65.\n\nElle est équipée de 12 puces LED avec lentille.\n\nElle offre une haute luminosité et une faible consommation d’énergie.\n\nElle dispose d’un système de dissipation thermique efficace.\n\nElle s’allume instantanément.\n\nSa durée de vie est de 20 000 heures.\n\nElle fonctionne avec une tension de 9 à 85 volts DC.\n\nElle est disponible en blanc 7000K.\n\nElle a un poids de 0.1 kg.",
+     "short_description": "L’ampoule LED est étanche IP65."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346451-188_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348975-336_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42953",
+   "sku": "doshift-43646",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Multimètre dt-830D électrique voltmètre ampèremètre ohm testeur ohmmètre",
-     "description": "Le multimètre numérique est jaune et noir. Il a un écran LCD de 3,5 chiffres et 7 segments.\n\nIl mesure la tension DC, la tension AC, le courant DC, la résistance, le contrôle de diode et le HFE.\n\nIl a une protection contre les surcharges sur toutes les gammes.\n\nLe multimètre est alimenté par une pile de 9 V (6F22) (non incluse).\n\nIl mesure la tension AC, la tension DC, la résistance.\n\nLa gamme de tension AC max. est de 1000 V.\n\nIl est de couleur jaune et en plastique.\n\nIl mesure 120 mm 65 mm 25 mm.\n\nIl pèse 0,3 kg.",
-     "short_description": "Le multimètre numérique est jaune et noir. Il a un écran LCD de 3,5 chiffres et 7 segments."
+     "name": "Kit de 12 Pinceaux Professionnels pour le Maquillage du Visage",
+     "description": "L’ensemble de pinceaux de maquillage pour les yeux 7 pièces est un kit essentiel pour l’application quotidienne du maquillage des yeux, 100% végétalien et sans cruauté, et sans irritation de la peau.Ces pinceaux de maquillage pour fard à paupières en poils synthétiques doux donnent à votre peau une touche incroyable lors de l’application du maquillage, ce qui rend l’ensemble du processus très apaisant et agréable. Ils sont faciles à entretenir et sèchent rapidement.Fabriqués à la main par des artisans expérimentés, les manches de cet ensemble de pinceaux de maquillage pour fard à paupières ont été poncés pour une finition lisse et élégante. La tête de brosse a subi plusieurs processus pour éviter la perte potentielle de poils.Les poils synthétiques denses et moelleux sont faciles à tenir, adaptés aux maquilleurs professionnels et aux débutants en maquillage. C’est également un choix de cadeau idéal pour votre petite amie ou votre femme lors d’une occasion spéciale.Parfait pour une large gamme de produits de maquillage comme les liquides, les poudres, les crèmes, etc., procurez-vous cet ensemble de pinceaux de maquillage pour les yeux essentiel et créez votre propre look impeccable maintenant.",
+     "short_description": "L’ensemble de pinceaux de maquillage pour les yeux 7 pièces est un kit essentiel pour l’application quotidienne du maquillage des yeux, 100% végétalien et sans cruauté, et sans irritation de la peau.Ces pinceaux de…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346384-182_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348958-334_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43641",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ciseaux coupe-tuyau en pvc, outils à main pour couper les tuyaux en caoutchouc",
+     "description": "Ces ciseaux sont conçus pour couper les tuyaux en caoutchouc.\n\nIls sont fabriqués en PVC renforcé et dotés d’une lame en acier inoxydable trempé.\n\nLes poignées ergonomiques offrent une prise en main confortable.\n\nIls sont disponibles en jaune et noir et pèsent 0.3 kg.",
+     "short_description": "Ces ciseaux sont conçus pour couper les tuyaux en caoutchouc."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348949-333_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43603",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bougie d’anniversaire colorée numérique bougie gâteau fête birthday",
+     "description": "Ces bougies en cire de paraffine sont disponibles en plusieurs couleurs et comportent les chiffres de 0 à 9.\n\nChaque paquet contient 10 bougies et les couleurs sont différentes d’un paquet à l’autre.\n\nElles sont parfaites pour toutes les occasions, comme les fêtes, et permettent de créer des combinaisons de chiffres comme le 123.",
+     "short_description": "Ces bougies en cire de paraffine sont disponibles en plusieurs couleurs et comportent les chiffres de 0 à 9."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348458-325_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43577",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "5 pcs lot graisse thermique silicone processeur de refroidissement pâte",
+     "description": "Cette graisse thermique est utilisée pour les accessoires de PC et d’ordinateur portable tels que les CPU, NVIDIA, etc.\n\nElle permet de transférer la chaleur de manière uniforme.\n\nElle est à haute conductivité thermique, haute isolation, haute résistance à la température, non volatile, non toxique, inodore et non corrosive.\n\nElle est disponible sous forme de seringue et pèse 1g.\n\nSa couleur est grise.\n\nElle peut être utilisée pour les CPU, les cartes graphiques et d’autres puces chaudes.\n\nSon coefficient de conductivité thermique est supérieur à 1.22 W/MK et sa résistance thermique est supérieure à 0.201.\n\nSa gamme de température de fonctionnement est de -30 à 150 degrés Celsius.\n\nLe modèle est un lot de 5 graisses thermiques, pesant 0.3kg et de couleurs multiples.",
+     "short_description": "Cette graisse thermique est utilisée pour les accessoires de PC et d’ordinateur portable tels que les CPU, NVIDIA, etc."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348408-319_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43560",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe led de lecture multifonctionnelle",
+     "description": "Lampe de lecture à LED avec réglage de la luminosité et température de couleur variable (chaude à froide).\n\nPorte-stylo intégré.\n\nSupport pour téléphone.\n\nDesign moderne.\n\nÉconome en énergie.\n\nCouleur bleue.\n\nMatière : ABS.\n\nPoids : 0.3 kg.\n\nType : Lampe.\n\nSource de lumière : LED.\n\nInterrupteur : tactile.",
+     "short_description": "Lampe de lecture à LED avec réglage de la luminosité et température de couleur variable (chaude à froide)."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348375-315_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43543",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Itools scie à archet 610 mm",
+     "description": "Scie à bûches en acier à section ovale résistante.\n\nPoignée en acier.\n\nConçue pour les travaux de construction, jardinage, agriculture et forestiers.\n\nLame de scie incluse.\n\nPour couper le bois sec.\n\nTube en acier peint par poudrage pour une excellente résistance à la rouille.\n\nDenture trempée à haute fréquence, par induction pour des performances longue durée.\n\nMatière : Acier.\n\nLongueur : 610 mm.\n\nModèle : ITS610.\n\nPoids : 1 kg.\n\nMatière principale : acier.",
+     "short_description": "Scie à bûches en acier à section ovale résistante."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764348342-311_1.jpg"
    ]
   }
  ]

@@ -1,48 +1,28 @@
 {
  "products": [
   {
-   "sku": "doshift-51072",
-   "price": 89,
+   "sku": "doshift-53510",
+   "price": 799,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    7
+    4,
+    6
    ],
    "locales": {
     "fr": {
-     "name": "Turbo Sound XL – Simulateur de Son Turbo Haute Puissance Ø 55–65 mm (1 Pièce)",
-     "description": "Le Turbo Sound XL Haute Puissance est un accessoire automobile renforcé, conçu pour produire un son turbo encore plus fort, profond et sportif que les modèles standards. Grâce à sa conception optimisée et à son diamètre plus large, il amplifie considérablement le flux d’air dans l’échappement, offrant une expérience sonore puissante et réaliste lors des accélérations. Fabriqué en métal haute résistance, il supporte des températures élevées et une utilisation intensive, idéal pour les amateurs de tuning recherchant un rendu sonore impressionnant sans modification mécanique du moteur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSimulateur de son turbo haute puissance\n\nNiveau sonore\nPlus puissant et plus profond que le modèle standard\n\nDiamètre compatible\nØ 55 – 65 mm\n\nQuantité\n1 pièce\n\nMatériau\nMétal renforcé haute résistance\n\nFonction\nAmplification du son turbo à l’accélération\n\nInstallation\nRapide et facile, fixation par vis (sans soudure)\n\nCompatibilité\nUniverselle pour échappements larges\n\nRésistance\nAnti-chaleur, anti-corrosion, usage intensif\n\nUtilisation\nTuning automobile, conduite sportive, usage quotidien\n\nRéférence-doshift\nAA2BB799",
-     "short_description": "Le Turbo Sound XL Haute Puissance est un accessoire automobile renforcé, conçu pour produire un son turbo encore plus fort, profond et sportif que les modèles standards."
+     "name": "Volant de Course Gaming PXN V3 Pro – Double Vibration Multi-Plateformes",
+     "description": "Le volant de course PXN V3 Pro est conçu pour offrir une expérience de conduite réaliste et immersive aux passionnés de jeux de course. Grâce à son moteur de double vibration, sa détection de mouvement et son design ergonomique, il restitue fidèlement les sensations de la route. Compatible avec PC, PS3, PS4, Xbox One et Nintendo Switch, ce volant est idéal pour les jeux de simulation automobile, d’arcade ou de rallye. Sa fabrication robuste en ABS et métal garantit durabilité et confort même lors de longues sessions de jeu.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétails\n\nNom du produit\nVolant de jeu de course\n\nModèle\nPXN V3 Pro\n\nMarque\nPXN / OEM\n\nType\nVolant Racing (Game Pad / Steering Wheel)\n\nConnexion\nCâblée\n\nCompatibilité\nPC, PS3, PS4, PS4 Slim, PS4 Pro, Xbox One, Nintendo Switch, Smart TV\n\nPlateformes prises en charge\nPC / Consoles / TV connectées\n\nFonctions principales\nDétection de mouvement, moteur de vibration, double vibration\n\nExpérience de jeu\nSimulation de conduite réaliste\n\nDesign\nErgonomique, volant de direction\n\nMatériaux\nABS + Métal\n\nCouleur\nJaune & Noir\n\nMoule privé\nOui\n\nOrigine\nGuangdong\n\nUtilisation\nJeux de course, simulation automobile\n\nRéférence-doshift\nAA63BB099",
+     "short_description": "Le volant de course PXN V3 Pro est conçu pour offrir une expérience de conduite réaliste et immersive aux passionnés de jeux de course."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-20-dec.-2025-12_33_01-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_mlqilmlqilmlqilm-1.png"
    ]
   },
   {
-   "sku": "doshift-50850",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Poignée de Volant Assistée Lumineuse avec Navigation Intégrée – Conduite Fluide & Sécurisée",
-     "description": "Optimisez votre expérience de conduite avec cette poignée de volant assistée multifonction, conçue pour offrir un contrôle fluide, une manœuvre facile et un design moderne lumineux. Grâce à sa rotation à 360°, elle facilite les virages, les créneaux et la conduite nocturne. Son compas de navigation intégré apporte une touche pratique et esthétique, idéale pour les trajets urbains comme pour les longues routes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPoignée de volant assistée\n\nRotation\n360° fluide pour une conduite sans effort\n\nFonction intégrée\nCompas de navigation lumineux\n\nPrise en main\nAntidérapante et ergonomique\n\nDesign\nModerne avec éclairage LED\n\nCompatibilité\nUniverselle – convient à la majorité des volants\n\nInstallation\nRapide et facile, sans outils\n\nMatériau\nPlastique ABS + métal robuste\n\nDimensions\nHauteur : ~7.3 cm · Largeur : ~6.5 cm · Diamètre : ~6 cm\n\nUtilisation\nIdéale de jour comme de nuit\n\nRéférence-doshift\nAA2BB899",
-     "short_description": "Optimisez votre expérience de conduite avec cette poignée de volant assistée multifonction, conçue pour offrir un contrôle fluide, une manœuvre facile et un design moderne lumineux."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-18-dec.-2025-22_26_36-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-50810",
-   "price": 93,
+   "sku": "doshift-53530",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -51,38 +31,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Mega Bubble Blaster – Canon à Bulles Magique Doré pour Enfants",
-     "description": "Offrez des moments de joie inoubliables avec le Mega Bubble Blaster, un canon à bulles magique au design doré unique. Capable de produire des centaines de bulles par minute, ce jouet ludique transforme chaque instant en fête, que ce soit au jardin, au parc ou lors d’anniversaires. Facile à utiliser et à remplir, il convient aussi bien aux enfants qu’aux adultes pour des heures de divertissement en plein air.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nNom du produit\nMega Bubble Blaster\n\nType\nCanon à bulles automatique\n\nProduction de bulles\nDes centaines de bulles par minute\n\nMode de fonctionnement\nAutomatique\n\nAlimentation\nÀ piles\n\nUtilisation\nIntérieur & extérieur\n\nRemplissage\nFacile et rapide\n\nDesign\nDoré, moderne et attractif\n\nPublic\nEnfants & famille\n\nSécurité\nConception adaptée aux enfants\n\nAccessoires inclus\nSolution à bulles incluse\n\nAvantages\nJeu ludique, crée des souvenirs magiques\n\nRéférence-doshift\nAA3BB099",
-     "short_description": "Offrez des moments de joie inoubliables avec le Mega Bubble Blaster, un canon à bulles magique au design doré unique."
+     "name": "Cadre Photo Mural Décoratif « HOME » – Décoration Moderne & Chaleureuse",
+     "description": "Apportez une touche élégante et chaleureuse à votre intérieur avec ce cadre photo mural décoratif HOME. Conçu pour sublimer vos murs, il combine plusieurs emplacements pour photos avec une inscription centrale « HOME » qui renforce l’esprit cocooning et familial. Son design moderne s’intègre parfaitement dans un salon, une chambre, un couloir ou un bureau, tout en mettant en valeur vos souvenirs et illustrations décoratives. Facile à installer, il est idéal pour créer une ambiance accueillante et harmonieuse.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCadre photo mural décoratif\n\nStyle\nModerne, chaleureux, décoration intérieure\n\nMotif\nInscription « HOME » intégrée\n\nNombre de photos\nMulti-emplacements (collage)\n\nOrientation\nMurale\n\nUtilisation\nSalon, chambre, bureau, entrée\n\nCouleur\nNoir\n\nMatériau\nPlastique / cadre rigide (selon modèle)\n\nInstallation\nFixation murale simple\n\nAvantage décoratif\nMet en valeur photos et illustrations\n\nRéférence – DOSHIFT\nAA9BB099",
+     "short_description": "Apportez une touche élégante et chaleureuse à votre intérieur avec ce cadre photo mural décoratif HOME."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_f7wgevf7wgevf7wg-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-10-at-22.31.12.jpeg"
    ]
   },
   {
-   "sku": "doshift-50689",
-   "price": 1019,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Stylo Traducteur Intelligent à Numérisation – Traduction Vocale & Hors Ligne – 142 Langues",
-     "description": "Le stylo traducteur intelligent à numérisation est un outil innovant conçu pour faciliter l’apprentissage des langues, la lecture et la communication internationale. Grâce à sa technologie avancée de scan et traduction instantanée, il permet de numériser des lignes entières de texte et de les traduire en quelques secondes, avec une grande précision.\n\nDoté d’un écran tactile intuitif, ce stylo prend en charge la traduction vocale, la lecture à haute voix et la traduction hors ligne, ce qui le rend idéal pour les étudiants, voyageurs, professionnels et personnes ayant des difficultés de lecture (dyslexie). Son format portable et léger permet une utilisation partout : bureau, école, voyage ou déplacement professionnel. Il fonctionne sur papier, écrans numériques, étiquettes et documents variés, sans endommager les surfaces.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType de produit\nStylo traducteur intelligent avec lecteur de numérisation\n\nFonction principale\nScan de texte + traduction instantanée\n\nLangues en ligne\nTraduction de 142 langues\n\nLangues hors ligne\n10 langues par numérisation\n\nTraduction vocale\nOui (lecture à haute voix du texte scanné)\n\nTraduction photo\nEn ligne – 142 langues\n\nScan vers smartphone\n52 langues supportées\n\nLangues d’interface\n12 langues système\n\nConnexion\nWi-Fi / Point d’accès\n\nÉcran\nÉcran tactile intégré\n\nMatériau\nABS durable (scan sans marquage du papier)\n\nUtilisation\nÉtudes, voyages, travail, lecture, apprentissage des langues\n\nAvantage clé\nPortable, précis, rapide, utilisable hors ligne\n\nPublic cible\nÉtudiants, professionnels, voyageurs, dyslexiques\n\nRéférence DOSHIFT\nAA76BB099",
-     "short_description": "Le stylo traducteur intelligent à numérisation est un outil innovant conçu pour faciliter l’apprentissage des langues, la lecture et la communication internationale."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_tu64wftu64wftu64-1-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-50584",
-   "price": 79,
+   "sku": "doshift-53460",
+   "price": 429,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -90,18 +50,118 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lot de 2 Antennes 4G LTE SMA – Gain Élevé pour Modem et Routeur",
-     "description": "Améliorez instantanément la qualité de votre connexion mobile avec ce lot de 2 antennes 4G LTE externes à connecteur SMA. Conçues pour renforcer la réception du signal réseau, ces antennes sont idéales pour les modems 4G, routeurs LTE, hotspots, box internet et équipements M2M / IoT.Grâce à leur gain élevé de 9 dBi, elles assurent une connexion plus stable, une meilleure couverture et des vitesses optimisées, même dans les zones à faible signal. Leur design pivotant permet d’ajuster facilement l’angle pour une réception optimale, tandis que le connecteur SMA mâle doré garantit une excellente conductivité et une installation simple sans outil.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nAntennes 4G LTE externes\n\nQuantité\nLot de 2 antennes\n\nConnecteur\nSMA mâle standard\n\nGain\n9 dBi (gain élevé)\n\nCompatibilité\nModems 4G, routeurs LTE, box 4G, hotspots,\n\néquipements M2M / IoT\n\nFréquence\nRéseaux 4G LTE\n\nLongueur\nEnviron 19 cm\n\nOrientation\nPivotante à 90°\n\nInstallation\nRapide, sans outil\n\nAlimentation\nAntennes passives\n\nCouleur\nBlanc\n\nUtilisation\nIntérieur / extérieur abrité",
-     "short_description": "Améliorez instantanément la qualité de votre connexion mobile avec ce lot de 2 antennes 4G LTE externes à connecteur SMA."
+     "name": "Gtel TV Red GT-13 – Récepteur TV 4K avec Abonnement 12 Mois",
+     "description": "Le Gtel TV Red GT-13 est un récepteur streaming puissant qui vous donne accès à plus de 20 000 chaînes, films et séries en haute qualité. Compatible 4K UHD, il intègre la technologie H.265 HEVC pour une image fluide et optimisée. Grâce à son abonnement streaming inclus de 12 mois, profitez de vos contenus préférés (sport, films, séries, VOD) sans interruption. Idéal pour une utilisation familiale ou multimédia.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nGtel TV\n\nModèle\nGT-13\n\nType de produit\nRécepteur\n\nContenu\n+20 000 chaînes, films & séries\n\nAbonnement\n12 mois inclus\n\nRésolution\n4K UHD (60 fps)\n\nCodec vidéo\nH.265 / HEVC\n\nServices\nLive TV, VOD, Séries\n\nApplications\nYouTube, Netflix*, beIN Sports*\n\nConnectivité\nWi-Fi 2.4G / 5G\n\nPort réseau\nEthernet\n\nCompatibilité\nSmart TV, TV LED, TV LCD\n\nUtilisation\nMaison, salon, multimédia\n\nRéférence-doshift\nAA25BB09",
+     "short_description": "Le Gtel TV Red GT-13 est un récepteur streaming puissant qui vous donne accès à plus de 20 000 chaînes, films et séries en haute qualité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_8w056y8w056y8w05-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_qk5ehnqk5ehnqk5e-1.png"
    ]
   },
   {
-   "sku": "doshift-50501",
-   "price": 89,
+   "sku": "doshift-53453",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Battle Armour 10W Cannon – Enceinte Gamer Sans Fil RGB",
+     "description": "L’enceinte Battle Armour 10W Cannon est conçue pour offrir une expérience audio immersive aux gamers et amateurs de musique. Grâce à sa puissance de 10W, ses doubles haut-parleurs Extra Bass et son éclairage RGB dynamique, elle transforme chaque session de jeu ou d’écoute en un véritable spectacle sonore et visuel. Robuste, portable et sans fil, elle s’intègre parfaitement à un setup gaming moderne comme à une utilisation nomade.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte gamer sans fil\n\nPuissance audio\n10W\n\nHaut-parleurs\nDouble haut-parleur Extra Bass\n\nSon\nAudio immersif\n\nConnectivité\nBluetooth sans fil\n\nÉclairage\nEffets lumineux RGB dynamiques\n\nUtilisation\nGaming, musique, multimédia\n\nDesign\nRobuste, moderne et portable\n\nBatterie\nLongue durée\n\nMicrophone\nIntégré\n\nPortabilité\nFacile à transporter\n\nRéférence-doshift\nAA9BB599",
+     "short_description": "L’enceinte Battle Armour 10W Cannon est conçue pour offrir une expérience audio immersive aux gamers et amateurs de musique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-2-janv.-2026-21_50_17-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53190",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Télécommande Intelligente JEOANG – Contrôle Universel et Confort au Quotidien",
+     "description": "La télécommande intelligente JEOANG vous offre un contrôle simple et efficace de vos appareils du quotidien. Conçue pour piloter climatiseurs, ventilateurs et autres équipements compatibles, elle combine ergonomie, précision et polyvalence. Grâce à ses fonctions avancées de réglage de température, de minuterie et de modes intelligents, elle améliore votre confort tout en optimisant la consommation d’énergie. Compacte et intuitive, elle s’adapte parfaitement à un usage domestique ou professionnel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nJEOANG\n\nType de produit\nTélécommande universelle intelligente\n\nFonctions principales\nContrôle climatisation, ventilation, réglage température\n\nModes disponibles\nMode ventilateur, mode éco, minuterie intégrée\n\nCompatibilité\nLarge compatibilité avec appareils domestiques\n\nInterface\nBoutons intuitifs avec symboles clairs\n\nPortée\nPortée optimale pour usage intérieur\n\nAlimentation\nBatterie longue durée\n\nInstallation\nSimple et rapide\n\nDesign\nCompact, ergonomique et léger\n\nUtilisation\nMaison, bureau, café, espaces professionnels\n\nRéférence-doshift\nAA4BB599",
+     "short_description": "La télécommande intelligente JEOANG vous offre un contrôle simple et efficace de vos appareils du quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_u6ddciu6ddciu6dd-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53183",
+   "price": 299,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Style, Son & Fonctionnalité pour Vos Aventures",
+     "description": "Le sac bandoulière avec enceinte RGB intégrée combine design moderne, praticité et son immersif pour accompagner toutes vos activités quotidiennes. Grâce à son haut-parleur Bluetooth intégré avec éclairage RGB dynamique, profitez de votre musique partout, tout en gardant vos essentiels bien organisés. Léger, confortable et rechargeable, il est idéal pour le sport, les déplacements urbains, les voyages ou les sorties en plein air. Un accessoire tendance qui allie liberté de mouvement et ambiance musicale.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSac bandoulière avec enceinte Bluetooth RGB\n\nConnectivité\nBluetooth sans fil\n\nEffets lumineux\nÉclairage RGB dynamique intégré\n\nQualité sonore\nSon clair et immersif\n\nBatterie\nBatterie rechargeable intégrée\n\nRecharge\nPort USB\n\nRangement\nCompartiments zippés pour téléphone, clés, portefeuille\n\nConfort\nSangle réglable, port épaule ou croisé\n\nMatière\nTissu résistant et léger\n\nUtilisation\nSport, marche, voyage, quotidien\n\nDesign\nModerne, urbain, camouflage\n\nRéférence-doshift\nAA17BB099",
+     "short_description": "Le sac bandoulière avec enceinte RGB intégrée combine design moderne, praticité et son immersif pour accompagner toutes vos activités quotidiennes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_fq5isfq5isfq5isf-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53158",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Ring Light C03 – Lumière LED Portable pour Selfies & Vidéos",
+     "description": "Le Mini Ring Light C03 est l’accessoire idéal pour améliorer instantanément la qualité de vos photos et vidéos. Compact et léger, il se fixe facilement sur votre smartphone pour offrir un éclairage homogène et naturel, même en conditions de faible luminosité. Grâce à ses différents modes d’éclairage et à sa rotation à 360°, il s’adapte parfaitement à tous vos besoins : selfies, appels vidéo, lives ou création de contenu. Rechargeable par USB, il vous accompagne partout au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nMini Ring Light C03\n\nType d’éclairage\nLED\n\nModes d’éclairage\nFroid – Chaud – Naturel\n\nIntensité lumineuse\nDouce, non agressive\n\nRotation\n360° ajustable\n\nFixation\nClip pour smartphone\n\nAlimentation\nRechargeable par USB\n\nPortabilité\nCompact et léger\n\nUtilisation\nSelfies, vidéos, appels, live, maquillage\n\nPublic cible\nCréateurs de contenu, usage personnel\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Le Mini Ring Light C03 est l’accessoire idéal pour améliorer instantanément la qualité de vos photos et vidéos."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_910vm1910vm1910v-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53152",
+   "price": 125,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "WD-40 Spray Multi-Usage – 400 ml",
+     "description": "Le WD-40 Produit Polyvalent est la solution incontournable pour l’entretien, la protection et la lubrification de vos équipements. Grâce à sa formule originale, il déplace l’humidité, protège contre la rouille et libère efficacement les pièces grippées. Il lubrifie les mécanismes, élimine les grincements et nettoie la graisse, la saleté et la crasse sur la majorité des surfaces. Facile à utiliser, il est idéal aussi bien pour un usage domestique que professionnel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nWD-40\n\nType de produit\nSpray multi-usage\n\nContenance\n400 ml\n\nFonction principale\nLubrification, protection, nettoyage\n\nAction\nDéplace l’humidité\n\nProtection\nContre la rouille et la corrosion\n\nPropriétés\nDégrippant, lubrifiant, nettoyant\n\nCompatibilité\nMétal, mécanismes, composants\n\nUtilisations\nOutils, serrures, charnières, vélos, batteries\n\nAvantage clé\nFormule originale tout-en-un\n\nFacilité d’utilisation\nOui\n\nRéférence-doshift\nAA3BB599",
+     "short_description": "Le WD-40 Produit Polyvalent est la solution incontournable pour l’entretien, la protection et la lubrification de vos équipements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_jot22jot22jot22j-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53049",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -109,75 +169,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Poupée Princesse Élégante – Jouet Fille avec Robe Bleue Féérique (40 cm)",
-     "description": "Offrez à votre enfant un moment magique avec cette superbe poupée princesse élégante, inspirée des contes de fées. Avec sa robe bleue scintillante, ses détails soignés et sa taille idéale, cette poupée est parfaite pour stimuler l’imagination, le jeu créatif et les moments de bonheur au quotidien. Idéale comme cadeau d’anniversaire, de fête ou simplement pour faire plaisir, elle accompagnera les enfants dans de merveilleuses histoires enchantées.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nPoupée princesse pour fille\n\nHauteur\nEnviron 40 cm\n\nLargeur\nEnviron 10 cm\n\nDesign\nRobe bleue élégante avec motifs féeriques\n\nMatière\nPlastique de qualité + tissu\n\nStyle\nPrincesse / conte de fées\n\nÂge recommandé\nÀ partir de 3 ans\n\nUtilisation\nJeu d’imagination, décoration, cadeau\n\nOccasions\nAnniversaire, fête, cadeau enfant\n\nSécurité\nBords lisses, adaptée aux enfants\n\nRéférence-doshift\nAA6BB099",
-     "short_description": "Offrez à votre enfant un moment magique avec cette superbe poupée princesse élégante, inspirée des contes de fées."
+     "name": "Aimantez Votre Créativité – Aimants Colorés Multi-Usages",
+     "description": "Apportez de la couleur, de l’ordre et une touche ludique à votre quotidien avec ces aimants ronds puissants et colorés. Parfaits pour les enfants comme pour les adultes, ils permettent d’afficher dessins, photos, notes ou documents en toute simplicité. Leur adhérence forte, leur design attractif et leur polyvalence en font un accessoire indispensable pour la maison, l’école ou le bureau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAimants ronds décoratifs\n\nDiamètre\n30 mm\n\nQuantité\nLot de plusieurs pièces (assortiment)\n\nCouleurs\nMulticolores (bleu, jaune, rose, vert, violet…)\n\nAdhérence\nForte – tient plusieurs feuilles\n\nMatériau\nPlastique résistant + noyau magnétique\n\nUtilisation\nTableau blanc, réfrigérateur, surfaces métalliques\n\nPublic\nEnfants & Adultes\n\nAvantages\nOrganisation, décoration, apprentissage\n\nDurabilité\nConception solide et longue durée\n\nOrigine\nMade in China\n\nRéférence-doshift\nAA1BB399",
+     "short_description": "Apportez de la couleur, de l’ordre et une touche ludique à votre quotidien avec ces aimants ronds puissants et colorés."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_cbp3bvcbp3bvcbp3-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_gp3rh4gp3rh4gp3r-1-1.png"
    ]
   },
   {
-   "sku": "doshift-50358",
-   "price": 269,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plak maxisalon",
-     "description": "lisseur cheveux MAXISALON noir (MX-4750)propose une technologie innovante pour un soin pro. Équipé d’un chauffage céramique, ce lisseur répartit la chaleur de façon uniforme pour des résultats de lissage rapides et durables. Une technologie\n\nHuile rare et précieuseRiche en antioxydants, vitamines et acides gras essentielsNourrit les cheveux et la peauParfum iconique et addictifMarque durable et sans cruaut",
-     "short_description": "lisseur cheveux MAXISALON noir (MX-4750)propose une technologie innovante pour un soin pro."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765896777-8_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-50354",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Vadrouille Plate à Pulvérisation – Balai Lave-Sol avec Réservoir et Serpillière Microfibre",
-     "description": "La vadrouille à pulvérisation SprayClean est la solution idéale pour un nettoyage rapide et efficace de vos sols sans seau. Grâce à son réservoir intégré et sa fonction spray, elle humidifie le sol juste ce qu’il faut pour un lavage sans effort. Sa tête pivotante à 360° permet d’atteindre les coins difficiles, tandis que la serpillière microfibre attrape poussière, cheveux et saleté en un seul passage.",
-     "short_description": "La vadrouille à pulvérisation SprayClean est la solution idéale pour un nettoyage rapide et efficace de vos sols sans seau."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765896767-4_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-50353",
-   "price": 539,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "pinces multifonctions à tête interchangeable 5 en 1",
-     "description": "【Ensemble d’outils à main 5 en 1】 Cet ensemble d’outils multiples comprend 1 poignée isolée, 1 tête de pince, 1 tête de sertissage à dénuder, 1 tête de coupe-câble, 1 tête de ciseaux pointus, 1 tête de sécateur de jardin. Couper le câble en acier/fer fil/fil de cuivre/fil électrique en toute simplicité. Répondez à plusieurs besoins essentiels de bricolage et d’amélioration de la maison, tels que la réparation de la maison, les meubles.\n\n【Ensemble polyvalent de 5 pièces】Avec une variété de pinces interchangeables, cet ensemble convient à un grand éventail de tâches. Économisez de l’espace dans votre boîte à outils en ayant tous les outils nécessaires dans un ensemble pratique.\n\n【Confortable et antidérapant】La conception ergonomique de la poignée offre une prise en main confortable et antidérapante, réduisant la fatigue des mains et permettant des périodes de travail plus longues.\n\n【Accès rapide à plusieurs outils】Cet ensemble d’outils domestiques combine 5 fonctions distinctes dans une boîte en plastique compact. Avec le jeu d’outils de pince 5 pièces, vous pouvez facilement basculer entre cinq outils différents en quelques secondes.\n\nMatériau très résistant : tous les outils sont fabriqués en acier au chrome vanadium de haute qualité forgé à haute température, haute résistance, haute durabilité, durabilité.\n\nMatériau : acier à outils de haute qualité100% tout neuf et de haute qualitéProduct Name:Kit d’outils polyvalent polyvalent 5 en 1Taille du colis : 22 x 13 x 3 cm/8,6 x 5,1 x 1,2 poucesPoids : 900 g/1,98 lb",
-     "short_description": "【Ensemble d’outils à main 5 en 1】 Cet ensemble d’outils multiples comprend 1 poignée isolée, 1 tête de pince, 1 tête de sertissage à dénuder, 1 tête de coupe-câble, 1 tête de ciseaux pointus, 1 tête de sécateur de…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765896764-3_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-50351",
-   "price": 139,
+   "sku": "doshift-53032",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -185,13 +188,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Organisateur Mural pour Balais et Outils de Nettoyage – 5 Emplacements + Crochets",
-     "description": "Gardez votre maison parfaitement organisée grâce à cet organisateur mural multifonction. Conçu pour maintenir solidement balais, serpillières, raclettes, brosses et autres accessoires, il optimise l’espace tout en gardant vos outils toujours à portée de main.\n\nSon système de fixation adhésive robuste permet une installation rapide sans perçage, tandis que les rouleaux à ressort s’adaptent automatiquement à différents diamètres de manches pour une excellente tenue.\n\nCaractéristique\nDétail\n\nType\nOrganisateur mural pour outils de nettoyage\n\nInstallation\nAdhésive (sans perçage)\n\nNombre de supports\n5 porte-manches à rouleaux\n\nCrochets\nOui, intégrés\n\nCompatibilité\nBalais, serpillières, raclettes, brosses, manches divers\n\nMatériau\nPlastique robuste\n\nCouleur\nBeige / Crème\n\nUtilisation\nCuisine, salle de bain, buanderie, garage, débarras\n\nRésistance\nAdapté à une utilisation quotidienne\n\nContenu du pack\n1 × Organisateur mural\n\nRéférence Doshift\nAA7BB299",
-     "short_description": "Gardez votre maison parfaitement organisée grâce à cet organisateur mural multifonction."
+     "name": "Robinet de Cuisine Extensible – Fonctionnalité Intelligente & Design Élégant",
+     "description": "Apportez modernité, confort et efficacité à votre cuisine avec ce robinet de cuisine extensible au design élégant et contemporain. Conçu pour simplifier vos tâches quotidiennes, il combine une douchette extractible, un contrôle précis de la température et une installation rapide, pour une expérience fluide et agréable au quotidien.\n\nGrâce à sa douchette extensible à double mode de jet, ce robinet permet un nettoyage efficace des aliments, de l’évier et des ustensiles, même les plus volumineux. Son mitigeur chaud/froid assure un réglage précis de la température, tandis que sa finition chromée apporte une touche moderne et durable à votre espace cuisine.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRobinet de cuisine extensible\n\nFonction\nMitigeur chaud / froid\n\nDouchette\nExtensible avec 2 modes de jet\n\nCommande\nLevier ergonomique\n\nMatériau\nAlliage métallique haute résistance\n\nFinition\nChromée brillante\n\nRotation\nBec orientable pour plus de flexibilité\n\nInstallation\nRapide et facile\n\nConnecteurs\nUniversels\n\nUtilisation\nCuisine domestique\n\nEntretien\nFacile à nettoyer\n\nStyle\nModerne & élégant\n\nRéférence-doshift\nAA11BB099",
+     "short_description": "Apportez modernité, confort et efficacité à votre cuisine avec ce robinet de cuisine extensible au design élégant et contemporain."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-53.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_o1y3mvo1y3mvo1y3-1.png"
    ]
   }
  ]

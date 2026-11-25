@@ -1,49 +1,29 @@
 {
  "products": [
   {
-   "sku": "doshift-53932",
-   "price": 189,
+   "sku": "doshift-56177",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
     3,
     4,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Anneau Lumineux LED Professionnel pour Photographie & Vidéo – Modèle PF-26",
-     "description": "L’anneau lumineux LED professionnel PF-26 est l’outil indispensable pour obtenir un éclairage uniforme, doux et naturel. Conçu pour la photographie, la vidéo, le maquillage, le streaming et les appels vidéo, il améliore instantanément la qualité de l’image en éliminant les ombres. Alimenté par USB, léger et facile à installer, il offre des couleurs ajustables (chaud, froid et mixte) pour s’adapter à tous les environnements et styles de création.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAnneau lumineux LED\n\nModèle\nPF-26\n\nUtilisation\nPhoto, vidéo, maquillage, streaming, visioconférence\n\nÉclairage\nLED haute qualité\n\nTempérature de couleur\nChaud, froid et mixte\n\nRéglage de lumière\nIntensité ajustable\n\nAlimentation\nUSB (portable et pratique)\n\nSupport téléphone\nInclus\n\nTrépied\nStable et réglable\n\nDiffusion\nLumière douce sans ombre\n\nInstallation\nRapide et simple\n\nDesign\nModerne et professionnel\n\nRéférence-doshift\nAA9BB599",
-     "short_description": "L’anneau lumineux LED professionnel PF-26 est l’outil indispensable pour obtenir un éclairage uniforme, doux et naturel."
+     "name": "Chargeur Multi-Fonctions MS-282AU",
+     "description": "Le chargeur MS-282AU est un chargeur universel polyvalent conçu pour recharger aussi bien les batteries cylindriques que les smartphones et accessoires USB. Compact, fiable et pratique, il s’adapte à de nombreuses situations grâce à ses 2 ports USB, ses câbles inclus et son alimentation secteur. Idéal pour un usage à la maison, au bureau, en atelier ou en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nChargeur universel multi-fonctions\n\nCompatibilité Batteries\nCylindriques (Ni-MH / Ni-Cd / Lithium selon modèles)\n\nPorts USB\n2 × USB-A (sortie)\n\nCâbles fournis\nUSB-A → Micro USB + Mini USB\n\nAlimentation\nSecteur (EU Plug)\n\nFonction\nRecharge smartphone + batteries simultanément\n\nIndicateurs\nLEDs d’état de charge\n\nSécurité\nProtection contre surcharge\n\nUtilisation\nMaison / bureau / atelier / outdoor\n\nMatériau\nABS durable\n\nCouleur\nNoir\n\nRéférence-doshift\nAA4BB599",
+     "short_description": "Le chargeur MS-282AU est un chargeur universel polyvalent conçu pour recharger aussi bien les batteries cylindriques que les smartphones et accessoires USB."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/a3316ec4-07d9-4705-91de-b4b1ea986848.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/e40823d5-50e0-4c7e-a7b3-1a6a920d176e.jpeg"
    ]
   },
   {
-   "sku": "doshift-53953",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Panneau LED Professionnel pour Photographie & Vidéo – Modèle M160",
-     "description": "Le panneau LED professionnel M160 est conçu pour offrir un éclairage puissant, uniforme et réglable, idéal pour la photographie, la vidéo, le streaming, les visioconférences et la création de contenu. Grâce à sa luminosité et sa température de couleur ajustables, il garantit un rendu naturel et sans ombres. Compact, rechargeable et facile à fixer sur caméra ou trépied, il s’adapte parfaitement aux besoins des créateurs, professionnels comme amateurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPanneau LED pour photo & vidéo\n\nModèle\nM160\n\nÉclairage\nLED haute luminosité\n\nRéglages\nLuminosité & température de couleur réglables\n\nBatterie\nBatterie intégrée\n\nAlimentation\nRecharge USB\n\nFiltres inclus\n3 filtres (Blanc, Rose, Orange)\n\nFixation\nSupport caméra / trépied\n\nUtilisation\nPhoto, vidéo, streaming, visioconférence\n\nDiffusion\nLumière douce et homogène\n\nDesign\nCompact, moderne et professionnel\n\nPortabilité\nLéger et facile à transporter\n\nRéférence-doshift\nAA7BB599",
-     "short_description": "Le panneau LED professionnel M160 est conçu pour offrir un éclairage puissant, uniforme et réglable, idéal pour la photographie, la vidéo, le streaming, les visioconférences et la création de contenu."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-02T181126.496.png"
-   ]
-  },
-  {
-   "sku": "doshift-53926",
-   "price": 209,
+   "sku": "doshift-56073",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -52,76 +32,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Projecteur de Travail LED Multifonction Rechargeable – VR-L802",
-     "description": "Le projecteur de travail LED multifonction VR-L802 est conçu pour offrir un éclairage puissant, fiable et polyvalent dans toutes les situations. Idéal pour le bricolage, les réparations automobiles, le camping ou les situations d’urgence, il dispose de plusieurs modes de luminosité, d’un mode flash et d’une batterie rechargeable haute capacité. Portable, robuste et pratique, il peut être utilisé comme lampe de travail, lampe d’appoint ou source d’énergie grâce à sa fonction power bank intégrée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nProjecteur de travail LED\n\nModèle\nVR-L802\n\nÉclairage\nLED haute luminosité\n\nModes\nLuminosité multiple + mode flash\n\nBatterie\n5400 mAh\n\nFonction\nPower Bank intégrée\n\nAlimentation\nRechargeable\n\nPortabilité\nPortable avec poignée / crochet\n\nUtilisation\nAtelier, garage, camping, urgence\n\nInstallation\nPosable ou suspendable\n\nDesign\nRobuste et compact\n\nCouleur\nBleu et noir\n\nRéférence-doshift\nAA10BB599",
-     "short_description": "Le projecteur de travail LED multifonction VR-L802 est conçu pour offrir un éclairage puissant, fiable et polyvalent dans toutes les situations."
+     "name": "Disque à Diamant Multi-Matériaux – Découpe Rapide & Précise",
+     "description": "Ce disque diamanté multi-matériaux est conçu pour offrir des coupes nettes et efficaces sur une large variété de surfaces telles que la céramique, le carrelage, le béton ou la maçonnerie. Sa haute performance assure un travail précis, une grande longévité et une compatibilité universelle avec les meuleuses d’angle 180 mm. Idéal pour les professionnels comme les bricoleurs exigeants.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nDisque diamant multi-matériaux\n\nUsage\nDécoupe carrelage, tuile, céramique, béton, brique, maçonnerie\n\nDiamètre\n180 mm (7″)\n\nPerformance\nCoupe rapide + grande précision\n\nSegments\nSegments diamantés résistants pour durabilité\n\nFixation\nStandard meuleuse 180 mm\n\nApplication\nTravaux pro & rénovation\n\nCompatibilité\nMeuleuses d’angle universelles 180 mm\n\nAvantage clé\nDurée de vie prolongée + coupe propre\n\nMatériaux supportés\nDurs & abrasifs\n\nMarque\nMukinta\n\nRéférence DOSHIFT\nAA4BB299",
+     "short_description": "Ce disque diamanté multi-matériaux est conçu pour offrir des coupes nettes et efficaces sur une large variété de surfaces telles que la céramique, le carrelage, le béton ou la maçonnerie."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/3aa80d1b-9f49-4eee-bb8f-dcd95ae81a43.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/d306daf4-0e24-4b7d-bf57-f42f12a86be6.jpeg"
    ]
   },
   {
-   "sku": "doshift-53721",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe LED RGBW Professionnelle pour Photographie & Vidéo – Modèle PM-26",
-     "description": "La lampe RGBW-LED PM-26 est un éclairage de remplissage professionnel conçu pour les créateurs de contenu, photographes, vidéastes et streamers. Grâce à sa technologie RGBW, elle offre une large gamme de couleurs dynamiques ainsi qu’une lumière blanche homogène, idéale pour les prises de vue en studio, les vidéos YouTube, TikTok, Instagram ou les appels professionnels. Son format plat et compact, combiné à une alimentation USB, la rend facile à utiliser partout. La télécommande incluse permet un contrôle précis de la couleur et de la luminosité pour un rendu visuel optimal.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLampe LED de remplissage (Fill Light)\n\nTechnologie\nRGBW-LED\n\nModèle\nPM-26\n\nModes de couleur\nRGB + Blanc\n\nRéglage de luminosité\nOui\n\nTélécommande\nIncluse\n\nAlimentation\nUSB\n\nUtilisation\nPhotographie, vidéo, streaming, réseaux sociaux\n\nFixation\nSupport compatible trépied\n\nDesign\nPlat, compact et léger\n\nCertifications\nFCC, CE, RoHS\n\nRéférence-doshift\nAA18BB099",
-     "short_description": "La lampe RGBW-LED PM-26 est un éclairage de remplissage professionnel conçu pour les créateurs de contenu, photographes, vidéastes et streamers."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_y0yusjy0yusjy0yu-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53715",
-   "price": 309,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Panneau LED RGBW PM-26 – Éclairage Photographie Professionnel",
-     "description": "Améliorez instantanément la qualité de vos photos et vidéos grâce au panneau LED RGBW PM-26. Conçu pour la photographie, le streaming, les réseaux sociaux ou la création de contenu, ce panneau lumineux offre un éclairage homogène, puissant et personnalisable.\n\nGrâce à la technologie RGBW, vous pouvez choisir entre lumière blanche naturelle ou effets colorés dynamiques pour créer l’ambiance parfaite. Son format compact et léger permet une utilisation sur bureau, trépied ou support caméra. La télécommande incluse facilite le réglage de la luminosité, des couleurs et des modes d’éclairage à distance.\n\nIdéal pour les créateurs de contenu, photographes, vidéastes, maquilleurs ou e-commerçants souhaitant un rendu professionnel et maîtrisé.\n\nCaractéristique\nDétail\n\nModèle\nPM-26\n\nType\nPanneau LED RGBW\n\nUtilisation\nPhotographie, vidéo, streaming\n\nModes d’éclairage\nBlanc + RGB multicolore\n\nRéglage luminosité\nOui\n\nContrôle\nTélécommande incluse\n\nAlimentation\nUSB\n\nFixation\nSupport rotatif inclus\n\nFormat\nCompact et portable\n\nRéférence-doshift\nAA18BB099",
-     "short_description": "Améliorez instantanément la qualité de vos photos et vidéos grâce au panneau LED RGBW PM-26."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-82-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53554",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lisseur Professionnel VENCOR VR-5628 – Plaques Céramiques jusqu’à 230°C",
-     "description": "Le lisseur professionnel VENCOR VR-5628 est conçu pour offrir un lissage rapide, efficace et respectueux des cheveux. Grâce à ses plaques en céramique de haute qualité, il assure une répartition uniforme de la chaleur, réduit les frisottis et protège la fibre capillaire contre les dommages.Avec une température réglable allant jusqu’à 230°C, ce lisseur s’adapte à tous les types de cheveux, des plus fins aux plus épais. Son chauffage rapide permet une utilisation immédiate, idéale pour un usage quotidien à domicile ou professionnel. Son design ergonomique garantit une prise en main confortable pour un coiffage précis et durable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nVENCOR\n\nModèle\nVR-5628\n\nType de produit\nLisseur / Fer à lisser\n\nPlaques\nCéramique\n\nTempérature maximale\nJusqu’à 230°C\n\nRéglage de température\nOui\n\nTemps de chauffe\nRapide\n\nTechnologie\nDiffusion homogène de la chaleur\n\nUtilisation\nDomestique & professionnelle\n\nDesign\nErgonomique et moderne\n\nCouleur\nNoir & Violet\n\nAlimentation\nÉlectrique\n\nRéférence-doshift\nAA17BB099",
-     "short_description": "Le lisseur professionnel VENCOR VR-5628 est conçu pour offrir un lissage rapide, efficace et respectueux des cheveux."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_hj83ihhj83ihhj83-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53546",
-   "price": 759,
+   "sku": "doshift-56063",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -129,17 +51,17 @@
    ],
    "locales": {
     "fr": {
-     "name": "Plancha RUSSELL HOBBS Fiesta 22550-56 – Puissance et Convivialité en Cuisine",
-     "description": "La Plancha Fiesta RUSSELL HOBBS 22550-56 est l’alliée idéale pour réussir tous vos repas, aussi bien en intérieur qu’en extérieur. Dotée d’une grande surface de cuisson de 45 × 25 cm, elle permet de préparer simultanément viandes, poissons, légumes ou fruits de mer pour toute la famille.Grâce à sa puissance élevée de 2400 W, la plancha chauffe rapidement et atteint une température allant jusqu’à 230°C, assurant une cuisson homogène et maîtrisée. Sa plaque amovible et son réservoir à jus amovible facilitent le nettoyage et garantissent une cuisine plus saine en éliminant l’excès de graisses. Un appareil robuste, pratique et performant pour des moments gourmands et conviviaux.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nRussell Hobbs\n\nModèle\n22550-56\n\nGamme\nFiesta\n\nType de produit\nPlancha électrique\n\nSurface de cuisson\n45 × 25 cm\n\nPuissance\n2400 W\n\nTempérature maximale\nJusqu’à 230°C\n\nPlaque\nAmovible\n\nRéservoir à jus\nAmovible\n\nUtilisation\nIntérieur / Extérieur\n\nEntretien\nFacile à nettoyer\n\nCuisson\nRapide et homogène",
-     "short_description": "La Plancha Fiesta RUSSELL HOBBS 22550-56 est l’alliée idéale pour réussir tous vos repas, aussi bien en intérieur qu’en extérieur."
+     "name": "ENSEMBLE DOUCHETTE WC – NETTOYAGE HYGIÉNIQUE",
+     "description": "Profitez d’un nettoyage efficace, confortable et hygiénique grâce à cette douchette WC équipée d’un jet précis et d’une poignée ergonomique. Idéale pour les toilettes modernes, elle permet de réduire l’utilisation de papier, d’améliorer l’hygiène et de faciliter le nettoyage de la cuvette ou de la salle de bain.Installation simple, sans outils, compatible avec la majorité des installations\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nDouchette WC complète\n\nFonction\nNettoyage intime & nettoyage WC\n\nJet\nContrôlable ON/OFF\n\nBuses\nPrécision + économie d’eau\n\nInstallation\nFacile et universelle\n\nUtilisation\nHygiénique et efficace\n\nMatériau\nABS + composants métalliques\n\nCompatibilité\nRaccords standard pour toilette\n\nEntretien\nFacile à nettoyer\n\nRéférence-doshift\nAA5BB099",
+     "short_description": "Profitez d’un nettoyage efficace, confortable et hygiénique grâce à cette douchette WC équipée d’un jet précis et d’une poignée ergonomique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_5khqp45khqp45khq-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/49f5853c-7323-4fee-afb1-420258c2e44d.jpeg"
    ]
   },
   {
-   "sku": "doshift-53562",
+   "sku": "doshift-56042",
    "price": 99,
    "stock": 10,
    "status": 0,
@@ -149,38 +71,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "HighPower – Liquide d’Étanchéité Waterproof Multi-Usage",
-     "description": "Le HighPower Waterproof Repair Seal est une solution d’étanchéité liquide puissante et facile à appliquer, conçue pour réparer et protéger durablement contre les fuites. Grâce à sa formule avancée, il pénètre rapidement dans les fissures et crée une barrière imperméable résistante à l’eau, à l’humidité et aux intempéries.Idéal pour les toitures, murs, canalisations, piscines, terrasses ou surfaces fissurées, ce produit est l’allié parfait pour des réparations rapides, propres et efficaces, aussi bien en intérieur qu’en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLiquide d’étanchéité waterproof\n\nFonction principale\nRéparation et protection contre les fuites\n\nÉtanchéité\nTrès haute résistance à l’eau\n\nApplication\nFacile au pinceau ou rouleau\n\nTemps de séchage\nRapide\n\nProtection\nDurable et longue durée\n\nUtilisation\nToits, murs, fissures, canalisations, piscines\n\nUsage\nIntérieur & extérieur\n\nCouleur\nBlanc (devient transparent après séchage selon surface)\n\nRésistance\nIntempéries, humidité, éclaboussures",
-     "short_description": "Le HighPower Waterproof Repair Seal est une solution d’étanchéité liquide puissante et facile à appliquer, conçue pour réparer et protéger durablement contre les fuites."
+     "name": "Robinet en Plastique Blanc – Jet Fluide & Installation Facile",
+     "description": "Ce robinet en plastique blanc est conçu pour les lavabos, buanderies, salles d’eau ou espaces utilitaires. Léger, pratique et résistant, il offre un contrôle fluide du débit d’eau avec une poignée ergonomique. Son installation sans outil le rend idéal pour les locataires comme pour les professionnels. Son système de jet doux permet d’éviter les éclaboussures tout en économisant l’eau.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nRobinet en plastique\n\nInstallation\nSans outils – montage rapide\n\nJet d’eau\nDoux, propre et anti-éclaboussures\n\nPoignée\nErgonomique pour un contrôle simple\n\nUsage\nLavabo, buanderie, salle d’eau\n\nMatière\nPlastique résistant\n\nÉconomie d’eau\nOui\n\nEntretien\nFacile\n\nFixation\nFiletage standard\n\nCouleur\nBlanc\n\nRéférence DOSHIFT\nAA1BB899",
+     "short_description": "Ce robinet en plastique blanc est conçu pour les lavabos, buanderies, salles d’eau ou espaces utilitaires. Léger, pratique et résistant, il offre un contrôle fluide du débit d’eau avec une poignée ergonomique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_rw32hcrw32hcrw32-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/a212a6db-28b8-4a73-9e11-565a1bc6d1ce.jpeg"
    ]
   },
   {
-   "sku": "doshift-53510",
-   "price": 799,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Volant de Course Gaming PXN V3 Pro – Double Vibration Multi-Plateformes",
-     "description": "Le volant de course PXN V3 Pro est conçu pour offrir une expérience de conduite réaliste et immersive aux passionnés de jeux de course. Grâce à son moteur de double vibration, sa détection de mouvement et son design ergonomique, il restitue fidèlement les sensations de la route. Compatible avec PC, PS3, PS4, Xbox One et Nintendo Switch, ce volant est idéal pour les jeux de simulation automobile, d’arcade ou de rallye. Sa fabrication robuste en ABS et métal garantit durabilité et confort même lors de longues sessions de jeu.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétails\n\nNom du produit\nVolant de jeu de course\n\nModèle\nPXN V3 Pro\n\nMarque\nPXN / OEM\n\nType\nVolant Racing (Game Pad / Steering Wheel)\n\nConnexion\nCâblée\n\nCompatibilité\nPC, PS3, PS4, PS4 Slim, PS4 Pro, Xbox One, Nintendo Switch, Smart TV\n\nPlateformes prises en charge\nPC / Consoles / TV connectées\n\nFonctions principales\nDétection de mouvement, moteur de vibration, double vibration\n\nExpérience de jeu\nSimulation de conduite réaliste\n\nDesign\nErgonomique, volant de direction\n\nMatériaux\nABS + Métal\n\nCouleur\nJaune & Noir\n\nMoule privé\nOui\n\nOrigine\nGuangdong\n\nUtilisation\nJeux de course, simulation automobile\n\nRéférence-doshift\nAA63BB099",
-     "short_description": "Le volant de course PXN V3 Pro est conçu pour offrir une expérience de conduite réaliste et immersive aux passionnés de jeux de course."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_mlqilmlqilmlqilm-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53530",
-   "price": 169,
+   "sku": "doshift-56020",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -189,13 +91,112 @@
    ],
    "locales": {
     "fr": {
-     "name": "Cadre Photo Mural Décoratif « HOME » – Décoration Moderne & Chaleureuse",
-     "description": "Apportez une touche élégante et chaleureuse à votre intérieur avec ce cadre photo mural décoratif HOME. Conçu pour sublimer vos murs, il combine plusieurs emplacements pour photos avec une inscription centrale « HOME » qui renforce l’esprit cocooning et familial. Son design moderne s’intègre parfaitement dans un salon, une chambre, un couloir ou un bureau, tout en mettant en valeur vos souvenirs et illustrations décoratives. Facile à installer, il est idéal pour créer une ambiance accueillante et harmonieuse.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCadre photo mural décoratif\n\nStyle\nModerne, chaleureux, décoration intérieure\n\nMotif\nInscription « HOME » intégrée\n\nNombre de photos\nMulti-emplacements (collage)\n\nOrientation\nMurale\n\nUtilisation\nSalon, chambre, bureau, entrée\n\nCouleur\nNoir\n\nMatériau\nPlastique / cadre rigide (selon modèle)\n\nInstallation\nFixation murale simple\n\nAvantage décoratif\nMet en valeur photos et illustrations\n\nRéférence – DOSHIFT\nAA9BB099",
-     "short_description": "Apportez une touche élégante et chaleureuse à votre intérieur avec ce cadre photo mural décoratif HOME."
+     "name": "Scie à Main de Menuisier – Manche Bois Massif",
+     "description": "Cette scie à main est l’outil indispensable pour les travaux de menuiserie, bricolage et coupe de bois. Dotée d’une lame en acier trempé haute tenue en carbone et d’un manche ergonomique en bois massif, elle offre une coupe précise, rapide et confortable. Idéale pour ateliers, chantiers, bricoleurs et passionnés du DIY.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nScie à main\n\nLame\nAcier trempé haute teneur en carbone\n\nDenture\nDouble biseau pour coupes rapides & nettes\n\nManche\nBois massif ergonomique\n\nPrise en main\nAnti-glisse & confortable\n\nUtilisation\nMenuiserie, bricolage, coupe de bois\n\nNiveau\nAmateur & Professionnel\n\nEntretien\nNettoyage simple / longue durée de vie\n\nAvantages\nCoupe rapide, précise & maîtrisée\n\nRéférence DOSHIFT\nAA1BB099",
+     "short_description": "Cette scie à main est l’outil indispensable pour les travaux de menuiserie, bricolage et coupe de bois."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/WhatsApp-Image-2026-02-10-at-22.31.12.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/c509afae-cfa7-44f8-a154-b15f9402281a.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56068",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Disque à Diamant Multi-Matériaux – 180 mm",
+     "description": "Ce disque à diamant est conçu pour offrir une coupe rapide, précise et durable sur différents matériaux. Idéal pour le carrelage, le béton, la maçonnerie, les céramiques et autres surfaces dures. Compatible avec la majorité des meuleuses d’angle standards, il garantit une performance fiable pour les travaux professionnels comme domestiques.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nDisque à diamant multi-matériaux\n\nDiamètre\n180 mm (7″)\n\nCompatibilité\nMeuleuse d’angle 180 mm\n\nMatériaux compatibles\nCarrelage, céramique, béton, maçonnerie…\n\nPerformance de coupe\nRapide, précise et stable\n\nSegments diamantés\nHaute durabilité & refroidissement\n\nUtilisation\nTravaux professionnels & brico\n\nAvantage principal\nCoupe propre et longue durée\n\nRéférence-doshift\nAA4BB399",
+     "short_description": "Ce disque à diamant est conçu pour offrir une coupe rapide, précise et durable sur différents matériaux. Idéal pour le carrelage, le béton, la maçonnerie, les céramiques et autres surfaces dures."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/87e92d98-b7dd-458a-92de-9dbff4154146.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56053",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble Douchette WC Shut-Off – Jet Contrôlé & Nettoyage Hygiénique",
+     "description": "L’ensemble douchette WC Shut-Off est conçu pour assurer un nettoyage pratique, hygiénique et économique. Grâce à son système de contrôle ON/OFF accessible directement à la poignée, il offre un jet précis tout en économisant l’eau. Facile à installer sans outils, il s’adapte aux toilettes modernes et répond aux besoins d’hygiène quotidienne avec efficacité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nEnsemble douchette WC Shut-Off\n\nUtilisation\nHygiène WC, nettoyage cuvette, nettoyage général\n\nCommande du jet\nON/OFF via la poignée\n\nType de jet\nJet doux et précis\n\nÉconomie d’eau\nOui — buses optimisées\n\nInstallation\nSans outils / Fixation murale\n\nMatériaux\nABS + Inox\n\nFlexibilité\nTuyau flexible métallique\n\nHygiène\nNettoyage efficace et directionnel\n\nCompatibilité\nWC standards — Salle de bains et toilettes\n\nRéférence DOSHIFT\nAA10BB099",
+     "short_description": "L’ensemble douchette WC Shut-Off est conçu pour assurer un nettoyage pratique, hygiénique et économique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ed7855bb-3189-4f96-ae69-88051dbd1889.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55706",
+   "price": 259,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fauteuil Gonflable Flocké – Confort & Polyvalence",
+     "description": "Transformez n’importe quel espace en coin détente grâce à ce fauteuil gonflable floqué ultra-confort. Idéal pour le salon, la chambre, les aires de jeux, le bureau ou même au bord de la piscine. Son revêtement floqué doux et sa forme ergonomique procurent une assise agréable et relaxante.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nConfort\nRevêtement floqué doux\n\nDesign\nForme ergonomique & relax\n\nCapacité de poids\nHaute résistance\n\nSécurité\nAnti-renversement\n\nMatériau\nPVC + Flockage respirant\n\nUtilisation\nIntérieur & extérieur\n\nGonflage\nFacile & rapide\n\nTransport\nLéger & compact une fois dégonflé\n\nEntretien\nNettoyage facile\n\nRéférence-doshift\nAA23BB099",
+     "short_description": "Transformez n’importe quel espace en coin détente grâce à ce fauteuil gonflable floqué ultra-confort. Idéal pour le salon, la chambre, les aires de jeux, le bureau ou même au bord de la piscine."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/cf2e931f-2948-4a17-9399-9c5a07047a23.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55693",
+   "price": 879,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Stabilisateur S5B PRO – 3 Axes",
+     "description": "Transformez vos vidéos en séquences ultra fluides grâce au stabilisateur S5B PRO. Conçu pour les créateurs, voyageurs, vloggers ou passionnés de contenus, il offre une stabilisation professionnelle, un suivi intelligent du visage et un mode sport pour capturer chaque mouvement avec précision.\n\nSon trépied intégré facilite les prises fixes, tandis que sa compatibilité universelle avec smartphones en fait un outil polyvalent, compact et essentiel pour filmer partout et à tout moment.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nStabilisation\n3 Axes\n\nModes intelligents\nSuivi Visage / Mode Sport\n\nSupport\nTrépied Intégré\n\nCompatibilité\nSmartphones Android & iPhone\n\nContrôle\nCommandes intégrées\n\nUsage recommandé\nVidéo, Vlog, Voyage, TikTok, Captation\n\nRéférence-doshift\nAA65BB099",
+     "short_description": "Transformez vos vidéos en séquences ultra fluides grâce au stabilisateur S5B PRO. Conçu pour les créateurs, voyageurs, vloggers ou passionnés de contenus, il offre une stabilisation professionnelle, un suivi intelligent…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/d8e9181f-cfc8-488c-a81c-274088224424.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55682",
+   "price": 859,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Stabilisateur 3 Axes pour Smartphone – Gimbal Vidéo Professionnel",
+     "description": "Ce stabilisateur 3 axes pour smartphone est conçu pour offrir des vidéos et photos stables, nettes et sans tremblements, même en mouvement. Parfait pour les créateurs de contenu, vlogueurs, TikTok, voyages, événements, et tournages urbains.\n\nDoté du suivi intelligent du visage, du zoom précis et du mode Timelapse, il vous permet de réaliser des plans créatifs et professionnels en toute simplicité. Compact et ergonomique, il se tient facilement à une main et s’adapte à la majorité des smartphones.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nStabilisateur 3 axes\n\nCompatibilité\nSmartphones (Android / iOS)\n\nSuivi intelligent\nSuivi du visage\n\nZoom\nFonction zoom & focus intégré\n\nModes spéciaux\nTimelapse / Motion\n\nStabilisation\nAnti-tremblement 3 axes\n\nPrise en main\nUne main, ergonomique\n\nUtilisation\nVidéo, vlog, selfie, contenu social\n\nCouleur\nNoir\n\nRéférence-doshift\nAA65BB099",
+     "short_description": "Ce stabilisateur 3 axes pour smartphone est conçu pour offrir des vidéos et photos stables, nettes et sans tremblements, même en mouvement."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ecb2af2d-c7bb-4734-be1e-0a31b9877072.jpeg"
    ]
   }
  ]

@@ -1,122 +1,108 @@
 {
  "products": [
   {
-   "sku": "doshift-45717",
-   "price": 79,
+   "sku": "doshift-54151",
+   "price": 509,
    "stock": 10,
    "status": 0,
    "categories": [
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Système d’Irrigation Rotatif 360° – Arroseur de Jardin Réglable (Couleur Selon Disponibilité)",
-     "description": "Ce système d’irrigation rotatif complet est la solution idéale pour arroser facilement et efficacement votre jardin. Grâce à sa rotation à 360° et ses 3 vitesses réglables, il couvre uniformément toutes les zones, même les plus difficiles d’accès. Son mamelon tandem permet de connecter plusieurs arroseurs pour couvrir de grandes surfaces. Économique en eau et facile à installer, il convient aussi bien à l’irrigation de la pelouse qu’à l’arrosage des plantes, tout en offrant un jeu d’eau amusant pour les enfants pendant l’été. Fabriqué en ABS résistant, il est léger, durable et disponible en plusieurs couleurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nArroseur rotatif / Système d’irrigation 360°\n\nMatériau\nABS résistant\n\nCouleur\nSelon disponibilité\n\nRotation\n360°\n\nVitesses réglables\n3 niveaux\n\nÉconomie d’eau\nOui, conception optimisée\n\nPortée\nDépend de la pression de l’eau\n\nExtension\nMamelon tandem pour connecter plusieurs arroseurs\n\nInstallation\nSimple et rapide\n\nUtilisation\nPelouse, jardin, irrigation, jeux d’eau pour enfants\n\nPoids\n0.1 kg",
-     "short_description": "Ce système d’irrigation rotatif complet est la solution idéale pour arroser facilement et efficacement votre jardin."
+     "name": "Tournevis Électrique Rechargeable TBK – Précision & Puissance",
+     "description": "Le tournevis électrique rechargeable TBK est l’outil idéal pour les travaux de réparation électronique, smartphones, ordinateurs, montres et petits appareils. Compact, léger et ergonomique, il offre une rotation précise avec réglage du couple, garantissant un vissage sécurisé sans endommager les composants délicats. Livré avec un ensemble complet d’embouts, il convient aussi bien aux professionnels qu’aux particuliers.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTournevis électrique\n\nMarque\nTBK\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nRéglage du couple\nOui (plusieurs niveaux)\n\nSens de rotation\nAvant / Arrière\n\nUtilisation\nRéparation électronique, smartphones, PC\n\nEmbouts\nMultiple embouts inclus\n\nDesign\nCompact, moderne\n\nPrise en main\nErgonomique, antidérapant\n\nAccessoires\nBase de rangement, câble, chargeur\n\nreference-doshift\nAA30BB599",
+     "short_description": "Le tournevis électrique rechargeable TBK est l’outil idéal pour les travaux de réparation électronique, smartphones, ordinateurs, montres et petits appareils."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764358400-404_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/e6edf927-5a5f-4aea-bb7b-93537a12a541.jpeg"
    ]
   },
   {
-   "sku": "doshift-45707",
-   "price": 79,
+   "sku": "doshift-54129",
+   "price": 59,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Réveil Lapin en Métal – Design Mignon & Décoratif (Couleur Selon Disponibilité)",
-     "description": "Ce réveil lapin en métal au design adorable est idéal pour apporter une touche de charme à votre chambre, bureau ou table de chevet. Compact, léger et décoratif, il affiche l’heure clairement tout en servant d’élément de décoration. Fabriqué en matériaux de qualité, il offre une bonne durabilité et convient parfaitement aux enfants comme aux adultes. Son style mignon et sa petite taille en font un accessoire pratique et esthétique pour n’importe quel espace.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRéveil décoratif en forme de lapin\n\nMatériau\nMétal + ABS\n\nCouleur\nSelon disponibilité\n\nDesign\nRond, mignon, décoratif\n\nAffichage\nHeure analogique\n\nTaille\n7 × 5 cm\n\nUtilisation\nChambre, bureau, table de chevet\n\nAvantage\nDécoratif et pratique",
-     "short_description": "Ce réveil lapin en métal au design adorable est idéal pour apporter une touche de charme à votre chambre, bureau ou table de chevet."
+     "name": "Porte-clés Bracelet en Silicone – Pratique & Coloré (Couleur selon disponibilité)",
+     "description": "Le porte-clés bracelet en silicone est un accessoire pratique et tendance, idéal pour garder vos clés toujours à portée de main. Grâce à son bracelet extensible et confortable, il se porte facilement au poignet, évitant ainsi les pertes de clés. Léger, résistant et disponible en plusieurs couleurs, il convient parfaitement à un usage quotidien, au travail, à la maison ou en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPorte-clés bracelet\n\nMatière\nSilicone souple et résistant\n\nFermeture\nAnneau métallique solide\n\nConfort\nLéger, doux et extensible\n\nUtilisation\nClés maison, voiture, bureau\n\nDesign\nSimple, moderne et coloré\n\nCouleurs\nPlusieurs couleurs disponibles\n\nPublic\nUnisexe\n\nEntretien\nFacile à nettoyer\n\nreference-doshift\nAA0BB899",
+     "short_description": "Le porte-clés bracelet en silicone est un accessoire pratique et tendance, idéal pour garder vos clés toujours à portée de main."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_o53p63o53p63o53p-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/b8414e3f-e182-4cdd-bcc8-58cb555a4ca9-1.jpeg"
    ]
   },
   {
-   "sku": "doshift-45702",
+   "sku": "doshift-54157",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Refroidisseur à Air pour Smartphone VENCOR – Gaming & Anti-Surchauffe",
+     "description": "Le refroidisseur à air VENCOR AL-08 est conçu pour réduire efficacement la température de votre smartphone lors des sessions de gaming intensif, streaming ou utilisation prolongée. Grâce à son ventilateur puissant avec éclairage RGB, il améliore les performances du téléphone tout en évitant la surchauffe. Compact, léger et facile à installer, il est compatible avec la majorité des smartphones.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRefroidisseur à air pour smartphone\n\nMarque\nVENCOR\n\nModèle\nAL-08\n\nTension d’entrée\n5V\n\nCourant d’entrée\n0.1A\n\nType de refroidissement\nVentilation active\n\nTaille du produit\n80 × 55 × 37 mm\n\nCompatibilité téléphone\nLargeur 65 – 89 mm\n\nFixation\nClip réglable\n\nÉclairage\nLED RGB\n\nAlimentation\nUSB\n\nUtilisation\nGaming, streaming, usage prolongé\n\nCouleur\nNoir\n\nreference-doshift\nAA5BB099",
+     "short_description": "Le refroidisseur à air VENCOR AL-08 est conçu pour réduire efficacement la température de votre smartphone lors des sessions de gaming intensif, streaming ou utilisation prolongée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/fdb7e49e-21a4-4f87-a658-6bf5daff66ab.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-54143",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Ruban Auto-Adhésif Doré Anti-Moisissure – 50 m × 2 cm (Couleur Selon Disponibilité)",
-     "description": "Ce ruban auto-adhésif doré anti-moisissure est idéal pour apporter une touche décorative élégante tout en protégeant vos surfaces. Imperméable, résistant à l’usure et doté d’un film scintillant, il offre une finition brillante et durable. Grâce à son adhésif intégré, il se pose facilement sans outils : il suffit de retirer le papier inférieur et de coller. Sa surface lisse se nettoie rapidement et reste éclatante dans le temps. Parfait pour la décoration intérieure, il s’utilise sur plafonds, portes d’armoires, carrelages, murs, fonds TV et bien plus. Polyvalent et esthétique, il est vendu en rouleau de 50 mètres et inclut un sticker en cadeau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRuban auto-adhésif décoratif anti-moisissure\n\nMatériau\nCuivre haute qualité + film brillant\n\nCouleur\nDoré (selon disponibilité)\n\nLongueur\n50 mètres\n\nLargeur\n2 cm\n\nAdhésif\nAuto-adhésif – pose facile sans outils\n\nRésistance\nImperméable, anti-usure, anti-moisissure\n\nNettoyage\nSurface lisse facile à nettoyer\n\nUtilisation\nDécoration maison : plafonds, armoires, murs, carrelage, TV wall\n\nAccessoires inclus\nRuban aluminium + sticker cadeau\n\nPoids\n0.1 kg",
-     "short_description": "Ce ruban auto-adhésif doré anti-moisissure est idéal pour apporter une touche décorative élégante tout en protégeant vos surfaces."
+     "name": "Lanière Porte-clés / Porte-Badge Ajustable – Pratique & Colorée (Couleur selon disponibilité)",
+     "description": "La lanière porte-clés ajustable est un accessoire pratique et polyvalent, idéal pour transporter clés, badges, cartes ou petits accessoires en toute sécurité. Grâce à sa longueur réglable et à son attache solide, elle s’adapte parfaitement à un usage quotidien : travail, école, événements ou déplacements. Disponible en plusieurs couleurs tendance, elle allie simplicité, confort et utilité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLanière porte-clés / porte-badge\n\nMatière\nTissu résistant\n\nLongueur\nEnviron 62 cm\n\nLargeur\nEnviron 2,5 cm\n\nRéglage\nLongueur ajustable\n\nAttache\nMousqueton métallique solide\n\nUtilisation\nClés, badge, carte, ID\n\nDesign\nSimple, moderne\n\nCouleurs\nPlusieurs couleurs (selon disponibilité)\n\nreference-doshift\nAA0BB999",
+     "short_description": "La lanière porte-clés ajustable est un accessoire pratique et polyvalent, idéal pour transporter clés, badges, cartes ou petits accessoires en toute sécurité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_h5v3ffh5v3ffh5v3-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/6f1ff7d7-54dc-40b5-98fe-2610571164cb.jpeg"
    ]
   },
   {
-   "sku": "doshift-45692",
-   "price": 89,
+   "sku": "doshift-54136",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Ruban Adhésif Double Face Transparent – Gel Nano-PU Ultra-Résistant 5m",
-     "description": "Ce ruban adhésif double face transparent est fabriqué en gel nano-PU ultra-résistant offrant une adhérence exceptionnelle pour vos besoins de fixation quotidienne. Durable, robuste et réutilisable, il peut supporter jusqu’à 1 kg sur des surfaces lisses comme le verre, le carrelage, le métal ou le plastique. Facile à couper, il s’adapte à toutes les longueurs nécessaires pour vos projets de bricolage, décoration ou organisation. Résistant aux températures extrêmes, il assure une performance fiable aussi bien à la maison qu’au bureau. Transparent et discret, il constitue une solution propre et efficace pour fixer objets, cadres, décorations ou accessoires sans clous ni vis.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRuban adhésif double face transparent\n\nMatériau\nGel nano-PU ultra-résistant\n\nRésistance\nSupporte jusqu’à 1 kg sur surface lisse\n\nLongueur\n5 mètres\n\nCouleur\nTransparent\n\nDécoupe\nDécoupable à n’importe quelle taille\n\nCompatibilité\nSurfaces lisses, propres et non poreuses\n\nTempérature d’usage\n-16°C à +62°C\n\nMarque\nmarocor.com\n\nPoids\n0.2 kg\n\nAvantage clé\nRéutilisable, très adhésif, discret",
-     "short_description": "Ce ruban adhésif double face transparent est fabriqué en gel nano-PU ultra-résistant offrant une adhérence exceptionnelle pour vos besoins de fixation quotidienne."
+     "name": "Porte-clés Bracelet en Corde Tressée – Solide & Tendance (Couleur selon disponibilité)",
+     "description": "Le porte-clés bracelet en corde tressée est un accessoire à la fois pratique, robuste et stylé. Conçu en corde résistante avec un tressage solide, il permet de garder vos clés en toute sécurité tout en apportant une touche moderne et colorée. Facile à porter au poignet ou à accrocher à un sac, il est idéal pour un usage quotidien, en déplacement ou au travail.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPorte-clés bracelet\n\nMatière\nCorde tressée résistante\n\nFermeture\nBouton + anneau métallique\n\nConfort\nLéger et agréable à porter\n\nUtilisation\nClés maison, voiture, sac\n\nDesign\nModerne, tressé\n\nCouleurs\nPlusieurs couleurs (selon disponibilité)\n\nPublic\nUnisexe\n\nRésistance\nHaute résistance à l’usure\n\nreference-doshift\nAA1BB099",
+     "short_description": "Le porte-clés bracelet en corde tressée est un accessoire à la fois pratique, robuste et stylé."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764358363-399_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/c11640cb-b776-4f52-b34a-88a9ee2c67a9.jpeg"
    ]
   },
   {
-   "sku": "doshift-45672",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support Rétroviseur 360° Universel – Rotation Ajustable & Fixation Rapide (Noir)",
-     "description": "Ce support rétroviseur 360° universel est conçu pour maintenir votre smartphone en toute sécurité lors de la conduite. Fixé directement sur le rétroviseur intérieur de la voiture, il offre une rotation complète à 360°, permettant d’ajuster parfaitement l’angle de vision pour la navigation, les appels mains libres ou l’affichage d’informations. Fabriqué en ABS durable et écologique, il dispose d’un système de pince robuste permettant une installation rapide sans outils. Des coussinets en plastique protègent votre téléphone contre les rayures, garantissant stabilité et sécurité même sur routes accidentées. Compatible avec la plupart des smartphones, il est un accessoire idéal pour une conduite plus pratique et sécurisée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSupport de téléphone pour rétroviseur intérieur\n\nRotation\n360° – angle ajustable\n\nMatériau\nABS durable, écologique\n\nCompatibilité\nConvient à la plupart des modèles de smartphones\n\nInstallation\nSystème de pince rapide, sans outils\n\nProtection\nMousses plastiques anti-rayures\n\nPoids net\n135 g\n\nPoids brut\n165 g\n\nCouleur\nNoir\n\nAvantage principal\nPosition stable + réglage complet de l’orientation",
-     "short_description": "Ce support rétroviseur 360° universel est conçu pour maintenir votre smartphone en toute sécurité lors de la conduite."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764358331-395_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-45653",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pince de Nivellement pour Carrelage – Outil Professionnel pour Pose Parfaite",
-     "description": "La pince de nivellement pour carrelage est un outil indispensable pour obtenir une pose parfaitement uniforme. Conçue pour maintenir chaque carreau à la même hauteur, elle garantit un alignement précis et évite les décalages entre les surfaces. Facile à utiliser, elle accélère la pose par rapport aux méthodes traditionnelles, tout en améliorant la qualité du résultat final. Robuste et durable grâce à sa fabrication en métal, cette pince de couleur rouge est idéale pour les carreleurs professionnels comme pour les bricoleurs souhaitant un rendu impeccable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPince de nivellement pour carrelage\n\nUtilité\nMaintient les carreaux à la même hauteur\n\nFonction\nFacilite et accélère la pose de carrelage\n\nComposition\n2 parties : base + pince de serrage\n\nMatériau\nMétal résistant\n\nCouleur\nRouge\n\nPoids\n0.3 kg\n\nAvantage principal\nPose plus rapide, uniforme et sans défaut\n\nUsage\nCarrelage sol et mur, professionnels ou DIY",
-     "short_description": "La pince de nivellement pour carrelage est un outil indispensable pour obtenir une pose parfaitement uniforme."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764358304-391_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-45648",
-   "price": 149,
+   "sku": "doshift-53975",
+   "price": 175,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -124,70 +110,93 @@
    ],
    "locales": {
     "fr": {
-     "name": "Miroir de Maquillage LED Double Face Grossissant – Lumière Naturelle & Design Pliable",
-     "description": "Ce miroir de maquillage LED double face est l’accessoire idéal pour une routine beauté précise et confortable. Doté d’un côté normal et d’un côté grossissant, il permet un maquillage détaillé, une épilation précise ou l’application de soins du visage. Son éclairage LED intégré reproduit une lumière naturelle, parfaite pour un rendu fidèle. Compact, pliable et réglable en luminosité, il se transporte facilement et s’adapte à tous les environnements. Léger et robuste, il offre une grande praticité au quotidien, que ce soit à la maison, en voyage ou au bureau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nMiroir de maquillage LED double face\n\nFaces du miroir\n1 côté normal + 1 côté grossissant\n\nÉclairage\nLED intégré avec lumière naturelle équilibrée\n\nLuminosité\nRéglable\n\nDesign\nPliable, compact, facile à transporter\n\nMatériaux\nPlastique + verre\n\nDimensions\n47 × 17 cm\n\nPoids\n0.3 kg\n\nCouleur\nBlanc\n\nUsage\nMaquillage, soins du visage, épilation\n\nAvantage principal\nGrossissement + lumière LED pour précision",
-     "short_description": "Ce miroir de maquillage LED double face est l’accessoire idéal pour une routine beauté précise et confortable."
+     "name": "Brosse Soufflante Chauffante 3-en-1 DAESOL Professional",
+     "description": "La brosse soufflante DAESOL Professional 3-en-1 est l’outil idéal pour sécher, lisser et coiffer vos cheveux en un seul geste. Grâce à sa technologie ionique négative, elle réduit les frisottis, apporte brillance et douceur, tout en respectant la fibre capillaire. Son design ovale unique permet de créer du volume dès la racine, tandis que ses réglages de chaleur personnalisés s’adaptent à tous les types de cheveux pour un résultat professionnel à domicile.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nDAESOL Professional\n\nType de produit\nBrosse soufflante chauffante\n\nFonctionnalité\n3-en-1 : Sèche, lisse et coiffe\n\nTechnologie\nIons négatifs (anti-frisottis, brillance)\n\nRéglages de chaleur\n3 modes : Air froid / Moyen / Élevé\n\nDesign de la brosse\nForme ovale pour volume & démêlage\n\nRésultat\nCheveux lisses, volumineux et brillants\n\nUtilisation\nTous types de cheveux\n\nAlimentation\nÉlectrique (filaire)\n\nCouleur\nNoir avec finitions roses\n\nUsage\nDomestique & professionnel\n\nRéférence-doshift\nAA11BB599",
+     "short_description": "La brosse soufflante DAESOL Professional 3-en-1 est l’outil idéal pour sécher, lisser et coiffer vos cheveux en un seul geste."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_qs2xaaqs2xaaqs2x-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/7552cc24-b1cb-4db2-8e6e-92098e1e7114-1.jpeg"
    ]
   },
   {
-   "sku": "doshift-45593",
-   "price": 49,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pince à Tuyau d’Eau en Acier Inoxydable – Lot de 5 avec Poignée Plastique Ergonomique",
-     "description": "Ce lot de 5 pinces à tuyau d’eau est l’outil indispensable pour vos travaux de plomberie, d’irrigation ou de jardinage. Fabriquées en acier inoxydable résistant à la corrosion, ces pinces assurent une prise ferme et sécurisée sur différents types de tuyaux. Leur poignée en plastique ergonomique permet une manipulation facile et confortable, même lors d’un usage prolongé. Polyvalentes et robustes, elles conviennent parfaitement aux tuyaux de gaz, tuyaux de vidange de lave-linge, tuyaux d’eau pour lavage de voiture et tuyaux en caoutchouc. Durables, faciles à installer et pratiques, ces pinces garantissent un maintien fiable dans toutes vos installations.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPinces à tuyau d’eau\n\nFormat\nLot de 5 pièces\n\nMatériau principal\nAcier inoxydable résistant à la corrosion\n\nPoignée\nPlastique ergonomique pour une meilleure prise en main\n\nUtilisation\nPlomberie, irrigation, jardinage\n\nCompatibilité\nTuyaux de gaz, tuyaux de vidange, tuyaux d’eau, tuyaux en caoutchouc\n\nDurabilité\nRésistantes à l’usure et faciles à installer\n\nCouleur\nJaune\n\nPoids total\n0.3 kg\n\nAvantage clé\nMaintien sécurisé et manipulation confortable",
-     "short_description": "Ce lot de 5 pinces à tuyau d’eau est l’outil indispensable pour vos travaux de plomberie, d’irrigation ou de jardinage."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764358203-378_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-45588",
-   "price": 709,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mini Perceuse Électrique Dremel – Kit Professionnel 252 Pièces – 130W, 6 Vitesses & Accessoires Complets",
-     "description": "Découvrez la mini perceuse électrique Dremel 252 pcs, l’outil indispensable pour tous vos travaux de bricolage, de gravure, de ponçage, de découpe, de polissage ou de nettoyage. Dotée d’une puissance de 130W et d’un régulateur 6 vitesses (8000 à 32 000 RPM), elle offre une précision exceptionnelle pour les projets les plus minutieux. Son kit ultra-complet de 252 accessoires permet une polyvalence maximale et s’adapte à tous les matériaux : bois, métal, plastique, verre, céramique, cuir, etc.\n\nGrâce à son capot en nylon robuste, sa prise en main ergonomique et son arbre flexible de 110 cm, elle garantit un confort optimal et une exécution fluide des tâches les plus délicates. Parfaite pour les professionnels comme pour les amateurs exigeants.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nMini perceuse électrique – Kit 252 pièces\n\nPuissance\n130W\n\nVitesse\n8000 à 32 000 RPM\n\nRéglage de vitesse\n6 vitesses\n\nCapacité de pince\n0.5 ~ 3.2 mm\n\nTension\nAC 110V / 220V\n\nType de prise\nPrise EU\n\nArbre flexible\n110 cm\n\nCâble d’alimentation\n140 cm\n\nPoids\n2 kg\n\nCouleur\nMulti\n\nMatériau principal\nÉlectrique / Nylon / Métal\n\nUtilisation\nDécoupe, perçage, ponçage, gravure, polissage, meulage\n\nGamme\nProfessionnelle\n\nAccessoires inclus\n252 pièces (disques, meules, forets, bandes de ponçage, brosses, mandrins, feutres, etc.)",
-     "short_description": "Découvrez la mini perceuse électrique Dremel 252 pcs, l’outil indispensable pour tous vos travaux de bricolage, de gravure, de ponçage, de découpe, de polissage ou de nettoyage."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764358195-377_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-45560",
+   "sku": "doshift-53939",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Lampe LED Solaire Portable Rechargeable USB avec Crochet de Suspension",
-     "description": "Éclairez vos espaces facilement avec cette lampe LED solaire portable, idéale pour le camping, le jardin, les coupures d’électricité, les ateliers ou les marchés de nuit. Grâce à son panneau solaire intégré, sa recharge USB et sa batterie lithium rechargeable, elle offre une solution pratique, économique et durable pour une utilisation intérieure comme extérieure.\n\nCaractéristique\nDétail\n\nType de produit\nLampe LED portable solaire\n\nRecharge\nSolaire + USB\n\nBatterie\nLithium rechargeable\n\nAutonomie\nEnviron 6 à 8 heures\n\nUtilisation\nCamping, jardin, maison, atelier, marché, extérieur\n\nFonction\nÉclairage principal + lampe frontale intégrée\n\nInstallation\nCrochet de suspension métallique\n\nDesign\nPortable, léger et facile à accrocher\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Éclairez vos espaces facilement avec cette lampe LED solaire portable, idéale pour le camping, le jardin, les coupures d’électricité, les ateliers ou les marchés de nuit."
+     "name": "Lampe Vidéo LED de Poche – Éclairage Compact pour Smartphone, PC et Caméra",
+     "description": "Améliorez la qualité de vos vidéos, appels et créations de contenu avec cette lampe vidéo LED de poche AY-83. Compacte, légère et facile à transporter, elle offre 3 modes d’éclairage pour s’adapter à différents besoins : lumière blanche, chaude et RGB. Son angle réglable jusqu’à 150° permet d’orienter la lumière avec précision, tandis que sa fixation pratique la rend compatible avec smartphone, PC et caméra. Idéale pour le streaming, les visioconférences, les selfies, le vlog et la photo.\n\nCaractéristique\nDétail\n\nType de produit\nLampe vidéo LED de poche\n\nModèle\nAY-83\n\nModes d’éclairage\nBlanc, chaud, RGB\n\nRotation\nJusqu’à 150°\n\nUtilisation\nVidéo, photo, streaming, visioconférence, selfie\n\nCompatibilité\nSmartphone, PC, caméra\n\nFixation\nSupport avec clip\n\nAvantage\nCompacte et portable\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Améliorez la qualité de vos vidéos, appels et créations de contenu avec cette lampe vidéo LED de poche AY-83."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-05-13T145726.696.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-05-05T173607.125.png"
+   ]
+  },
+  {
+   "sku": "doshift-53737",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "VENCOR W68 RGB – Lampe Anneau LED RGB avec Miroir Rechargeable Type-C – Éclairage Multicolore Portable",
+     "description": "La VENCOR W68 RGB Fill Light est une lampe anneau LED compacte avec éclairage RGB multicolore et miroir intégré, conçue pour sublimer vos selfies, vidéos TikTok, appels vidéo et séances de maquillage.Grâce à ses couleurs vibrantes, son design élégant et son format portable, elle vous accompagne partout pour un rendu lumineux professionnel. Son clip universel s’adapte facilement à tous les smartphones, tandis que la recharge Type-C assure une utilisation pratique et moderne. Idéale pour les créateurs de contenu, influenceurs et amateurs de belles images.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nVENCOR\n\nModèle\nW68 RGB\n\nType de produit\nLampe anneau LED RGB avec miroir\n\nModes d’éclairage\nRGB multicolore + blanc\n\nAngle d’éclairage\n120°\n\nIndice de rendu des couleurs (CRI)\n> 95\n\nAlimentation\nBatterie rechargeable intégrée\n\nPort de charge\nType-C\n\nTension d’entrée\n5V / 1A\n\nFixation\nClip universel pour smartphone\n\nUtilisation\nSelfies, TikTok, vidéos, maquillage, appels visio\n\nDesign\nCompact, élégant et portable\n\nCouleur\nBlanc\n\nRéférence-doshift\nAA8BB099",
+     "short_description": "La VENCOR W68 RGB Fill Light est une lampe anneau LED compacte avec éclairage RGB multicolore et miroir intégré, conçue pour sublimer vos selfies, vidéos TikTok, appels vidéo et séances de maquillage.Grâce à ses…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-4-janv.-2026-10_14_50-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53732",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "VENCOR W68 – Lampe Anneau LED avec Miroir Rechargeable Type-C – Compacte & Portable",
+     "description": "La VENCOR W68 Mirror Fill Light est une lampe anneau LED compacte avec miroir intégré, idéale pour le maquillage, les selfies, les vidéos et les appels visio. Grâce à son indice de rendu des couleurs élevé (CRI > 95), elle offre un éclairage naturel et fidèle qui met en valeur les détails du visage sans distorsion.Son format portable, son clip stable et sa recharge Type-C en font un accessoire pratique à utiliser partout : à la maison, au bureau ou en déplacement. Une solution simple et efficace pour un éclairage professionnel au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nVENCOR\n\nModèle\nW68\n\nType de produit\nLampe anneau LED avec miroir\n\nAlimentation\nBatterie rechargeable\n\nPort de charge\nType-C\n\nTension d’entrée\n5V / 1A\n\nIndice CRI\n> 95\n\nAngle d’éclairage\n120°\n\nUtilisation\nMaquillage, selfies, vidéos, appels visio\n\nDesign\nCompact, portable\n\nFixation\nClip stable\n\nCouleur\nBlanc\n\nRéférence-doshift\nAA7BB599",
+     "short_description": "La VENCOR W68 Mirror Fill Light est une lampe anneau LED compacte avec miroir intégré, idéale pour le maquillage, les selfies, les vidéos et les appels visio."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-4-janv.-2026-10_05_27-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53707",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support d’Éclairage Professionnel en Acier Inoxydable – Hauteur Réglable 2,1 m",
+     "description": "Le support d’éclairage en acier inoxydable 2,1 m est l’accessoire indispensable pour les professionnels et créateurs de contenu. Robuste, stable et polyvalent, il est conçu pour accueillir des projecteurs, softbox, ring lights, flashes ou lampes LED. Grâce à sa hauteur réglable et sa large base stable, il garantit un éclairage précis et sécurisé pour les shootings photo, vidéos, lives, studios ou e-commerce. Son design pliable facilite le transport et le rangement, idéal aussi bien en studio qu’en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSupport / Trépied d’éclairage\n\nMatériau\nAcier inoxydable\n\nHauteur maximale\n2,1 mètres\n\nHauteur réglable\nOui\n\nBase\nLarge base stable à 3 pieds\n\nAdaptateur\nRéversible 1/4″ et 3/4″\n\nCompatibilité\nSoftbox, ring light, flash, LED, projecteur\n\nUtilisation\nStudio photo, vidéo, live streaming, e-commerce\n\nStabilité\nExcellente, anti-basculement\n\nTransport\nPliable et facile à déplacer\n\nCouleur\nNoir\n\nRéférence-doshift\nAA3BB599",
+     "short_description": "Le support d’éclairage en acier inoxydable 2,1 m est l’accessoire indispensable pour les professionnels et créateurs de contenu."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-4-janv.-2026-09_07_58-1.png"
    ]
   }
  ]

@@ -4,9 +4,9 @@
   "uncertain: 2075 from doshift-uncertain-products.json"
  ],
  "total_products": 3563,
- "batched": 3337,
- "held_jouets_only": 94,
- "keyword_guessed": 122,
+ "batched": 3509,
+ "held_jouets_only": 0,
+ "keyword_guessed": 117,
  "name_too_long": [
   "doshift-57294"
  ],
@@ -346,7 +346,24 @@
   "bulk-331.json",
   "bulk-332.json",
   "bulk-333.json",
-  "bulk-334.json"
+  "bulk-334.json",
+  "bulk-335.json",
+  "bulk-336.json",
+  "bulk-337.json",
+  "bulk-338.json",
+  "bulk-339.json",
+  "bulk-340.json",
+  "bulk-341.json",
+  "bulk-342.json",
+  "bulk-343.json",
+  "bulk-344.json",
+  "bulk-345.json",
+  "bulk-346.json",
+  "bulk-347.json",
+  "bulk-348.json",
+  "bulk-349.json",
+  "bulk-350.json",
+  "bulk-351.json"
  ],
- "held_no_category": 132
+ "held_no_category": 54
 }

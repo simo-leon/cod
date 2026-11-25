@@ -1,7 +1,65 @@
 {
  "products": [
   {
-   "sku": "doshift-55663",
+   "sku": "doshift-57031",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Robinet Extenseur Flexible 1080° pour Lavabo",
+     "description": "Améliorez votre confort au quotidien avec ce robinet extenseur flexible 1080°, conçu pour diriger l’eau avec précision selon vos besoins. Grâce à ses bras articulés rotatifs, il permet d’orienter le jet facilement pour le lavage du visage, le rinçage du lavabo ou le nettoyage rapide de différentes zones. Pratique et compact, il s’adapte à de nombreux robinets pour une utilisation plus fonctionnelle dans la salle de bain ou la cuisine.\n\nSa conception en métal robuste assure une bonne résistance à l’usage quotidien, tandis que sa tête orientable facilite l’accès à l’eau sous plusieurs angles. Idéal pour les enfants comme pour les adultes, cet accessoire rend le lavage plus simple, plus propre et plus confortable.\n\nCaractéristique\nDétail\n\nProduit\nExtenseur de robinet articulé\n\nRotation\n1080°\n\nUtilisation\nLavabo, salle de bain, cuisine\n\nMatière\nMétal\n\nFonction\nOrientation flexible du jet d’eau\n\nInstallation\nSe fixe sur robinet compatible\n\nAvantage\nFacilite le lavage du visage et le nettoyage\n\nCouleur\nArgenté\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Améliorez votre confort au quotidien avec ce robinet extenseur flexible 1080°, conçu pour diriger l’eau avec précision selon vos besoins."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-18T173949.949.png"
+   ]
+  },
+  {
+   "sku": "doshift-57049",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes de Lecture Élégantes et Confortables",
+     "description": "Profitez d’une vision nette et confortable au quotidien avec ces lunettes de lecture au design moderne et léger. Leur monture élégante noir dégradé transparent s’adapte facilement à tous les styles, idéale pour la lecture, le travail sur ordinateur ou l’utilisation du téléphone. Conçues pour offrir un bon confort même pendant une longue utilisation.\n\nCaractéristique\nDétail\n\nType\nLunettes de lecture\n\nStyle\nModerne et minimaliste\n\nCouleur\nNoir dégradé transparent\n\nUtilisation\nLecture, bureau, smartphone\n\nConfort\nLéger et agréable à porter\n\nDesign\nMonture rectangulaire élégante\n\nCorrection\n+2.00\n\nPublic\nHomme et Femme\n\nRéférence Doshift\nAA1BB899",
+     "short_description": "Profitez d’une vision nette et confortable au quotidien avec ces lunettes de lecture au design moderne et léger."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-05-11T150323.326.png"
+   ]
+  },
+  {
+   "sku": "doshift-57039",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Anti-insectes, Lampe anti moustiques électrique, piège à mouches",
+     "description": "Lampe Anti-insectes, Lampe anti moustiques électrique, piège à mouches\n\nZAPPER D’INTÉRIEUR : pratique du piège à moustiques d’intérieur. Obtenez un contrôle des mouches à l’intérieur avec le meilleur zappeur d’insectes disponible. Pour de meilleurs résultats, placez le zappeur de moustiques sur la zone souhaitée et laissez-le fonctionner Avec alimentation de câble USB / (il n’est pas rechargeable)\n\nConception sûre et sans danger: choc électrique uniquement lorsque les moustiques se touchent, la coque en ABS respectueuse de l’environnement empêche tout contact accidentel avec les doigts. Il adopte une méthode physique pour tuer les moustiques, ce qui garantit qu’il est non toxique, sans produits chimiques et sans rayonnement. Vous n’aurez pas à vous soucier des odeurs ou des bruits étranges, cet appareil étonnant est totalement sans danger pour toute la famille\n\nZAPPER BUG HAUTE EFFICACITÉ : Le zapper anti-moustiques utilise la lumière de la jacinthe pour attirer les moustiques, les moucherons, les mouches, les mites et autres insectes. Ensuite, le réseau haute tension attrape et électrocute ces insectes immédiatement, vous offrant un environnement sain et confortable.\n\nPortable à transporter : Bug Zapper électrique anti-moustiques puissant piège à mouches d’intérieur avec lampe anti-moustiques est livré dans un design pratique, les petites dimensions vous permettent de le transporter partout où vous en avez besoin. Pour la maison, la chambre, la cuisine, le bureau, etc.\n\nFacile à nettoyer Conçu pour un nettoyage facile, ce zappeur d’insectes à la pointe de la technologie est livré avec une boucle qui se retire facilement pour un nettoyage et un lavage réguliers.\n\nObtenez un contrôle des mouches à l’intérieur avec le meilleur zappeur d’insectes disponible Conception sûre et sans danger: choc électrique uniquement lorsque les moustiques se touchent,  Vous n’aurez pas à vous soucier des odeurs ou des bruits étranges,  cet appareil étonnant est totalement sans danger pour toute la famille ZAPPER BUG HAUTE EFFICACITÉ vous offrant un environnement sain et confortable. Portable à transporter : Bug Zapper électrique anti-moustiques puissant  les petites dimensions vous permettent de le transporter partout où vous en avez besoin.  Pour la maison, la chambre, la cuisine, le bureau, etc. alimentation de câble USB inclus / (il n’est pas rechargeable) Facile à nettoyer Conçu pour un nettoyage facile,  ce zappeur d’insectes à la pointe de la technologie",
+     "short_description": "Lampe Anti-insectes, Lampe anti moustiques électrique, piège à mouches"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1769027735-11_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-57035",
    "price": 79,
    "stock": 10,
    "status": 0,
@@ -11,193 +69,133 @@
    ],
    "locales": {
     "fr": {
-     "name": "Accroche-Balais Mural – Organisation Pratique & Gain d’Espace",
-     "description": "Gardez votre maison, garage, cuisine ou balcon parfaitement organisé grâce à ce système d’accroche pour balais et outils. Ses pinces antidérapantes maintiennent fermement les manches sans glisser, permettant de suspendre balais, serpillières, râteaux, outils de jardinage et bien plus encore.\n\nFacile à installer sans percer (ou avec vis si besoin), il s’adapte à tous les espaces et supporte jusqu’à 5 kg par support. Une solution idéale pour optimiser votre rangement au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nSupport mural accroche-balais\n\nInstallation\nSans trace + possibilité de vis\n\nMatériau\nABS + caoutchouc antidérapant\n\nDiamètre compatible\nPour manches fins & épais\n\nCapacité de charge\nJusqu’à 5 kg par accroche\n\nUtilisation\nIntérieur / Extérieur\n\nUtilisations\nBalais, serpillères, râteaux, outils, etc.\n\nFixation\nMural\n\nCouleur\nGris\n\nSécurité\nAnti-glisse\n\nContenu\nLot de 3 accroches\n\nMarque\nMINHAO\n\nRéférence-doshift\nAA2BB099",
-     "short_description": "Gardez votre maison, garage, cuisine ou balcon parfaitement organisé grâce à ce système d’accroche pour balais et outils."
+     "name": "Répulsif Électronique Anti-Nuisibles à Ultrasons – Prise Secteur",
+     "description": "Protégez votre intérieur contre les nuisibles grâce à ce répulsif électronique à ultrasons, conçu pour aider à éloigner rats, souris, moustiques, cafards et autres insectes rampants. Facile à utiliser, il se branche directement sur une prise secteur et fonctionne en continu sans nécessiter de produits chimiques, de sprays ou de pièges.\n\nCompact et discret, il s’intègre facilement dans différentes pièces de la maison comme la cuisine, le salon, la chambre, le garage ou le bureau. Son utilisation silencieuse pour l’environnement humain en fait une solution pratique pour améliorer l’hygiène et le confort au quotidien. Idéal pour une utilisation domestique, ce dispositif offre une alternative simple et propre pour limiter la présence des nuisibles à l’intérieur.\n\nCaractéristique\nDétail\n\nType de produit\nRépulsif électronique anti-nuisibles\n\nFonction\nÉmission d’ultrasons\n\nUtilisation\nIntérieur\n\nAlimentation\nBranchement sur prise secteur\n\nCible\nRats, souris, moustiques, cafards, insectes\n\nInstallation\nSimple, sans montage\n\nFormat\nCompact\n\nEntretien\nAucun entretien particulier\n\nRéférence Doshift\nAA2BB599",
+     "short_description": "Protégez votre intérieur contre les nuisibles grâce à ce répulsif électronique à ultrasons, conçu pour aider à éloigner rats, souris, moustiques, cafards et autres insectes rampants."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/6830bac4-6105-4778-96ef-1821ece5c076.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-04-09T174150.649.png"
    ]
   },
   {
-   "sku": "doshift-55688",
-   "price": 779,
+   "sku": "doshift-56849",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
-    4
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Stabilisateur F10 PRO – Gimbal Smartphone 3 Axes",
-     "description": "Transformez vos vidéos en contenu fluide, stable et professionnel grâce au Stabilisateur F10 PRO 3 Axes. Conçu pour les créateurs, vloggers, voyageurs et utilisateurs TikTok, il garantit une stabilisation avancée, un suivi intelligent du visage et un contrôle précis du zoom – le tout dans un format ergonomique et prêt à l’emploi.Idéal pour filmer en marchant, en voyage ou dans la rue, et obtenir des résultats dignes d’un setup cinéma.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nStabilisation\n3 Axes\n\nModes intelligents\nSuivi Visage / Time-lapse / Mouvement\n\nContrôle\nZoom & Focus précis\n\nCompatibilité\nSmartphones Android & iPhone\n\nPrise en main\nErgonomique\n\nPoids\nLéger & Portable\n\nUtilisation\nVidéo, Vlog, TikTok, Voyage, Captation\n\nRéférence Doshift\nAA65BB099",
-     "short_description": "Transformez vos vidéos en contenu fluide, stable et professionnel grâce au Stabilisateur F10 PRO 3 Axes."
+     "name": "RÉVEIL CLASSIQUE – FINITION OR POLI",
+     "description": "Un réveil raffiné au style vintage avec une double cloche puissante, un cadran lisible à chiffres romains et un boîtier métallique à finition or poli pour une touche de luxe dans la chambre ou le bureau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nRéveil mécanique double cloche\n\nStyle\nClassique / Vintage\n\nDesign\nBoîtier métal finition or poli\n\nAffichage\nChiffres romains contrastés\n\nMouvement\nQuartz silencieux (pas de tic-tac fort)\n\nAlarme\nDouble cloche avec marteau mécanique\n\nUsage\nChambre, salon, bureau\n\nAlimentation\nPile (non incluse)\n\nEntretien\nSimple – essuyage à sec\n\nAvantage\nÉlégant + lisible + son puissant\n\nContenu\n1 réveil\n\nRéférence produit\nAA9BB599",
+     "short_description": "Un réveil raffiné au style vintage avec une double cloche puissante, un cadran lisible à chiffres romains et un boîtier métallique à finition or poli pour une touche de luxe dans la chambre ou le bureau."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-04T162028.688.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/971d82ff-3a1c-428d-af1f-56ac45e0051f.jpeg"
    ]
   },
   {
-   "sku": "doshift-55556",
-   "price": 119,
+   "sku": "doshift-56838",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    6
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Thumb Grips PS4 Persona Scramble – Couvercles Anti-Dérapants Gaming",
-     "description": "Améliorez votre confort de jeu avec ces thumb grips inspirés du célèbre jeu Persona Scramble. Conçus pour offrir plus d’adhérence et de précision lors des sessions gaming, ils empêchent les doigts de glisser, réduisent la fatigue et protègent les joysticks de l’usure. Un accessoire parfait pour les fans de PS4 et les joueurs à la recherche de performance avec une touche de style.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nManette PS4\n\nDesign\nPersona Scramble\n\nFonction\nAnti-dérapant & confort\n\nAvantages\n+ Précision & + Contrôle\n\nProtection\nProtège le joystick contre l’usure\n\nInstallation\nSimple — se clipse sans outil\n\nMatériau\nSilicone souple\n\nQuantité\nPack de 2 pièces\n\nPublic\nGamers / Fans Persona\n\nCouleur\nBleu / Rouge / Blanc\n\nRéférence-doshift\nAA5BB099",
-     "short_description": "Améliorez votre confort de jeu avec ces thumb grips inspirés du célèbre jeu Persona Scramble."
+     "name": "Réveil Analogique Classique – Design Rétro & Fiabilité Quotidienne",
+     "description": "Apporte une touche rétro et fonctionnelle à ton espace grâce à ce réveil analogique au design intemporel. Pensé pour allier lisibilité, efficacité et simplicité, il s’intègre parfaitement dans une chambre, un bureau ou un espace de travail. Son mécanisme à quartz assure une précision fiable au quotidien, tandis que sa sonnerie mécanique puissante garantit un réveil efficace. Compact et stable, il trouve facilement sa place sur une table de chevet ou un bureau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nRéveil analogique\n\nAffichage\nHeures et minutes avec chiffres lisibles\n\nMécanisme\nQuartz\n\nAlarme\nSonnerie mécanique puissante\n\nFormat\nCompact et stable\n\nUtilisation\nChambre, bureau, table de chevet",
+     "short_description": "Apporte une touche rétro et fonctionnelle à ton espace grâce à ce réveil analogique au design intemporel."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/cae8997e-f782-473d-93e5-705d29d8bde8.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-02-06T212703-792-1.png"
    ]
   },
   {
-   "sku": "doshift-55550",
-   "price": 119,
+   "sku": "doshift-56827",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    6
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Thumb Grips FIFA 21 pour Manette PS4 – Couvercles Anti-Dérapants Gaming",
-     "description": "Optimisez votre précision sur FIFA avec ces thumb grips inspirés du célèbre jeu FIFA 21. Conçus pour les joueurs recherchant plus de contrôle et de confort sur leurs joysticks, ils améliorent l’accroche tout en évitant le glissement des doigts lors des actions rapides. En plus d’ajouter un style sportif à la manette, ils protègent les sticks analogiques de l’usure et prolongent leur durée de vie. Idéals pour les gamers amateurs comme compétitifs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nPS4\n\nThème\nFIFA 21 – Football\n\nFonction\nAnti-dérapant – Confort – Contrôle\n\nAvantages\nAméliore la précision + réduit la fatigue\n\nProtection\nProtège contre l’usure et les rayures\n\nInstallation\nClip simple (sans outil)\n\nMatériau\nSilicone souple\n\nPack\n2 pièces\n\nPublic\nGamers / Fans de football\n\nCouleur\nBleu / Blanc / Rouge\n\nRéférence-doshift\nAA5BB099",
-     "short_description": "Optimisez votre précision sur FIFA avec ces thumb grips inspirés du célèbre jeu FIFA 21."
+     "name": "Réveil Classique – Noir & Blanc Chiffres Jaunes",
+     "description": "Apportez une touche moderne à votre intérieur avec ce réveil à double cloche inspiré des modèles classiques. Son cadran noir contrasté avec chiffres jaunes offre une excellente lisibilité, tandis que son alarme métallique garantit un réveil efficace. Idéal pour la chambre, le bureau ou comme élément décoratif.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRéveil analogique double cloche\n\nStyle\nClassique & moderne\n\nAffichage\nChiffres contrastés (jaune & blanc sur fond noir)\n\nAlarme\nMarteau métallique, son puissant\n\nMécanisme\nMouvement à quartz silencieux\n\nFonctionnement\nSans bruit de tic-tac\n\nUtilisation\nChambre, bureau, hôtel, décoration\n\nMatériau\nMétal + verre + composants ABS\n\nInstallation\nPose libre sur table/chevet\n\nEntretien\nSimple nettoyage avec chiffon\n\nContenu\n1 Réveil\n\nRéférence Produit\nAA9BB599",
+     "short_description": "Apportez une touche moderne à votre intérieur avec ce réveil à double cloche inspiré des modèles classiques."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/ce36ee19-c31d-4387-9533-7fd88a02f85c.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/3bc1efbb-c8c2-4a8a-b82e-f6893ea94818.jpeg"
    ]
   },
   {
-   "sku": "doshift-55544",
-   "price": 119,
+   "sku": "doshift-56821",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    6
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Thumb Grips Switch – Couvercles Anti-Dérapants pour Joysticks",
-     "description": "Ces thumb grips pour Nintendo Switch améliorent le confort et la précision lors de vos sessions de jeu. Grâce à leur surface anti-dérapante, ils empêchent le glissement des doigts et offrent un contrôle plus fluide, notamment dans les jeux de plateforme, d’action ou compétitifs. En plus de protéger les joysticks contre l’usure, ils ajoutent une touche personnalisée et fun à la console. Compatibles Switch et Switch OLED, ils s’installent en quelques secondes sans outil.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nNintendo Switch / Switch OLED\n\nFonction\nAnti-dérapant – Grip – Confort\n\nProtection\nAnti-usure & anti-rayures\n\nInstallation\nClip simple (sans outil)\n\nMatériau\nSilicone souple\n\nUtilisation\nGaming / Esport / Platformer\n\nPublic\nEnfants / Adultes / Gamers\n\nCouleurs\nbleu\n\nRéférence-doshift\nAA4BB099",
-     "short_description": "Ces thumb grips pour Nintendo Switch améliorent le confort et la précision lors de vos sessions de jeu."
+     "name": "Réveil Classique « I ❤️ YOU » – Version Rouge",
+     "description": "Apportez une touche romantique et rétro à votre chambre avec ce réveil classique à double cloche. Son message « I ❤️ YOU » le rend parfait comme cadeau attentionné, décoration ou compagnon de chevet. Son alarme mécanique offre un son puissant pour garantir un réveil efficace, tandis que le mouvement à quartz assure une grande précision.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRéveil classique à double cloche\n\nDesign\nVintage romantique\n\nMessage\n« I ❤️ YOU »\n\nCouleur\nRouge\n\nAlarme\nMarteau mécanique fort\n\nMouvement\nQuartz silencieux\n\nAlimentation\n1 pile AA (non incluse)\n\nUtilisation\nChambre, bureau, chevet, cadeau\n\nMatériau\nMétal + verre\n\nDimensions\nCompact – adapté au chevet\n\nFonction principale\nRéveil + décoration\n\nEntretien\nSimple nettoyage à sec\n\nContenu\n1 réveil\n\nRéférence-doshift\nAA9BB599",
+     "short_description": "Apportez une touche romantique et rétro à votre chambre avec ce réveil classique à double cloche. Son message « I ❤️ YOU » le rend parfait comme cadeau attentionné, décoration ou compagnon de chevet."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/9a880841-30c9-47ff-b0a4-bcaa5ccfbf78.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/c381dbd3-df06-46da-a3c8-55917c4484a4.jpeg"
    ]
   },
   {
-   "sku": "doshift-55539",
-   "price": 119,
+   "sku": "doshift-56815",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    6
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Thumb Grips Switch – Couvercles Anti-Dérapants pour Joysticks",
-     "description": "Ces thumb grips pour Nintendo Switch améliorent la précision et la prise en main des joysticks durant le jeu. Grâce à leur surface anti-dérapante, ils empêchent les doigts de glisser, offrant plus de contrôle lors des jeux rapides ou compétitifs. Ils ajoutent également un look personnalisé à la console tout en protégeant les sticks analogiques contre l’usure. Faciles à installer et compatibles avec Switch & Switch OLED, ils conviennent aux enfants, gamers et joueurs occasionnels.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nNintendo Switch / Switch OLED\n\nFonction\nAnti-dérapant – Grip – Confort\n\nProtection\nAnti-usure & anti-rayures\n\nInstallation\nClip simple (sans outil)\n\nApplication\nGaming – Esport – Jeux d’action\n\nMatériau\nSilicone souple\n\nUsage\nMaison / Voyage\n\nPublic\nEnfants / Adultes / Gamers\n\nCouleurs\nrouge\n\nRéférence-doshift\nAA4BB099",
-     "short_description": "Ces thumb grips pour Nintendo Switch améliorent la précision et la prise en main des joysticks durant le jeu."
+     "name": "éveil Classique à Double Cloche – Vert",
+     "description": "Apportez une touche vintage et moderne à votre intérieur avec ce réveil classique à double cloche au cadran vert vif. Équipé d’une alarme mécanique puissante et d’un mouvement à quartz précis, il est idéal pour la chambre, le bureau ou comme idée cadeau décorative.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRéveil mécanique à double cloche\n\nFonction\nAlarme + affichage analogique\n\nMouvement\nQuartz silencieux\n\nAlarme\nMarteau métallique puissant\n\nCouleur\nVert + noir\n\nStyle\nVintage / classique\n\nAffichage\nChiffres grands & lisibles\n\nMatériau\nMétal + ABS\n\nAlimentation\n1 pile AA (non incluse)\n\nUsage\nChambre, bureau, déco, cadeau\n\nEntretien\nSimple : nettoyage chiffon sec\n\nContenu\n1 réveil\n\nRéférence-doshift\nAA9BB599",
+     "short_description": "Apportez une touche vintage et moderne à votre intérieur avec ce réveil classique à double cloche au cadran vert vif."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/b2e61d87-8e03-4527-8d03-2bff74855fa0.jpeg"
+    "https://doshift.ma/wp-content/uploads/2026/01/9e462375-6be8-45f6-87af-da9d47f402f6.jpeg"
    ]
   },
   {
-   "sku": "doshift-55534",
-   "price": 119,
+   "sku": "doshift-56800",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    6
+    3,
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Thumb Grips Switch – Couvercles Anti-Dérapants pour Joysticks",
-     "description": "Ces thumb grips pour Nintendo Switch sont conçus pour améliorer la prise en main des joysticks et réduire le glissement des doigts durant le jeu. Leur surface anti-dérapante offre davantage de précision et de contrôle, particulièrement utile pour les jeux d’action, de plateforme et compétitifs. Faciles à installer et confortables, ils protègent également les sticks contre l’usure et les rayures, tout en donnant un look personnalisé à la console.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nNintendo Switch / Switch OLED\n\nFonction\nAnti-dérapant + confort + précision\n\nInstallation\nClip simple sans outil\n\nProtection\nAnti-usure & anti-rayures\n\nApplication\nGaming / Esport / Enfants\n\nAvantages\nAméliore la précision & le grip\n\nCouleurs\nSelon disponibilité\n\nPublic\nEnfants / Adultes / Gamers\n\nRéférence-doshift\nAA4BB099",
-     "short_description": "Ces thumb grips pour Nintendo Switch sont conçus pour améliorer la prise en main des joysticks et réduire le glissement des doigts durant le jeu."
+     "name": "Balais d’Essuie-Glace Aérodynamiques – Essuyage Silencieux & Visibilité Optimale (Lot de 2)",
+     "description": "Assure un essuyage net, fluide et silencieux grâce à une conception aérodynamique qui épouse parfaitement la courbure du pare-brise. Ces balais améliorent considérablement la visibilité par temps de pluie, réduisent les traces et garantissent une performance constante même à grande vitesse.\n\nLe système de fixation rapide permet une installation facile sans outil et une compatibilité avec les bras standards. Idéal pour un remplacement fiable, durable et sans effort au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nContenu\nLot de 2 balais (2 pièces)\n\nType de produit\nBalais d’essuie-glace avant\n\nCompatibilité fixation\nJ-Hook 9×3 mm / 9×4 mm\n\nInstallation\nRapide, sans outil\n\nPerformance d’essuyage\nEssuyage net, réduction des traces\n\nConfort\nFonctionnement silencieux\n\nDesign\nAérodynamique, excellente tenue au vent\n\nUsage\nPluie, poussière, projections – usage quotidien\n\nRéférence-DOSHIFT\nAA2BB599",
+     "short_description": "Assure un essuyage net, fluide et silencieux grâce à une conception aérodynamique qui épouse parfaitement la courbure du pare-brise."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/3f0a3e82-58b9-4b9d-9de2-35379198d377.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-55487",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Housse Rigide Nintendo Switch – Protection Anti-Choc & Transport Voyage",
-     "description": "Cette housse rigide Nintendo Switch protège efficacement votre console contre les chocs, rayures et poussières. Dotée d’une coque renforcée, d’une fermeture zippée sécurisée et d’un intérieur rembourré, elle permet de transporter votre Switch en toute sécurité lors des déplacements. Compacte, légère et pratique, elle offre également de la place pour ranger des cartes de jeu et petits accessoires. Idéale pour les enfants, les gamers et les voyages.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nHousse rigide pour Nintendo Switch\n\nCompatibilité\nSwitch / Switch OLED (selon modèle)\n\nProtection\nAnti-choc / Anti-rayures / Anti-poussière\n\nFermeture\nZip sécurisé\n\nIntérieur\nRembourré\n\nRangement\nCartouches + petits accessoires\n\nTransport\nCompact & léger\n\nCouleur\nBleu + fermeture rouge\n\nUsage\nVoyage / maison / transport\n\nPublic\nGamers & enfants\n\nRéférence-doshift\nAA10BB099",
-     "short_description": "Cette housse rigide Nintendo Switch protège efficacement votre console contre les chocs, rayures et poussières."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/6e233fd5-3a88-4838-a02c-456b66aebf4a.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-55483",
-   "price": 439,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Manette compatible Pour Nintendo Switch Joy-Con Bleu et Rouge",
-     "description": "Plateforme Nintendo Switch\n\nType d’accessoire gaming Manette\n\nCouleur Bleu et Rouge\n\nCommunications sans fil Bluetooth",
-     "short_description": "Plateforme Nintendo Switch"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/2-21.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-55453",
-   "price": 199,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pochette de transport et de protection Nintendo Switch",
-     "description": "ensemble de couverture de voyage\n\nProtection complète Durable-coque rigide en EVA robuste avec couches de Protection amortissantes qui maintient et protège Nintendo Switch; Doublure intérieure douce fournit une maison confortable pour votre Nintendo Switch\n\nPrévention de la poussière, des chocs et des rayures-s’adapte à la Nintendo Switch avec ses deux contrôleurs Joy-Con attachés à elle, en utilisant la sangle élastique, votre interrupteur reste stable et ne rebondit pas à l’intérieur de la mallette de transport\n\nEspace de rangement pour tous les essentiels-l’intérieur dispose d’une poche intérieure en filet séparée qui peut s’adapter à des inconvénients supplémentaires, des poignées joy-con, des câbles, des jeux, un câble de chargeur, un adaptateur secteur Micro SD, chiffon de nettoyage ou écouteurs et autres accessoires plus petits mais essentiels.\n\nPortable Compact pratique-le rabat souple est livré avec 10 fentes pour cartes de jeu afin que vous puissiez apporter vos jeux préférés avec vous, peu importe où vous allez; le séparateur à rabat souple protège l’écran contre les rayures à l’intérieur du boîtier. Ils rendent également votre commutateur plus stable et pratique lorsque vous voyagez ou que vous n’utilisez pas\n\nDesign élégant et Unique-poignée de transport pour une portabilité facile, l’étui est grand à l’intérieur mais petit à l’extérieur, il contient beaucoup d’accessoires tout en offrant une excellente protection pour vous console Nintendo Switch et accessoires",
-     "short_description": "ensemble de couverture de voyage"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/1-32.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-02-09T190659-134.png"
    ]
   }
  ]

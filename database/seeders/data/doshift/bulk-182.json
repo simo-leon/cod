@@ -1,85 +1,107 @@
 {
  "products": [
   {
-   "sku": "doshift-91580",
-   "price": 159,
+   "sku": "doshift-102855",
+   "price": 779,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Boîte de Rangement en Bambou avec Couvercle Transparent – 4 Compartiments",
-     "description": "Apportez une touche naturelle et élégante à votre intérieur avec cette boîte de rangement en bambou. Son design raffiné avec couvercle transparent et poignée effet cristal permet de garder vos objets bien organisés tout en les protégeant de la poussière.\n\nIdéale pour ranger des bijoux, accessoires, sachets de thé, fruits secs, bonbons, épices ou petits objets du quotidien, elle s’adapte parfaitement au salon, à la cuisine, à la chambre ou au bureau.\n\nCaractéristique\nDétail\n\nProduit\nBoîte de rangement\n\nMatière\nBambou\n\nCouvercle\nTransparent\n\nNombre de compartiments\n4 compartiments\n\nPoignée\nEffet cristal\n\nUtilisation\nThé, bonbons, fruits secs, bijoux, accessoires, petits objets\n\nStyle\nNaturel, élégant et moderne\n\nEmplacement\nCuisine, salon, chambre, bureau\n\nRéférence Doshift\nAA9BB099",
-     "short_description": "Apportez une touche naturelle et élégante à votre intérieur avec cette boîte de rangement en bambou."
+     "name": "Caméra portable 4K OZCT Q8 avec écran et rotation 180°",
+     "description": "Immortalisez facilement vos voyages, sorties sportives et moments du quotidien avec la caméra portable OZCT Q8. Son design compact permet de la tenir confortablement à la main et de l’emporter partout.\n\nÉquipée d’un écran intégré, elle facilite le cadrage et le visionnage pendant l’enregistrement. Sa tête orientable à 180° permet d’adapter rapidement l’angle de prise de vue selon la situation : vlog, selfie, paysage ou scène en mouvement.\n\nSa finition rouge moderne et son format pratique en font une solution idéale pour créer du contenu à la maison comme en déplacement.\n\nCaractéristique\nDétail\n\nMarque\nOZCT\n\nModèle\nQ8\n\nType\nCaméra portable\n\nRésolution annoncée\n4K Ultra HD\n\nÉcran\nÉcran couleur intégré\n\nRotation de la tête\nJusqu’à 180°\n\nCommandes\nBoutons de contrôle intégrés\n\nCouleur\nRouge\n\nFormat\nCompact et portable\n\nUtilisations\nVlogs, voyages, sorties, vidéos familiales et contenu quotidien\n\nRéférence Doshift\nAA60BB099",
+     "short_description": "Immortalisez facilement vos voyages, sorties sportives et moments du quotidien avec la caméra portable OZCT Q8. Son design compact permet de la tenir confortablement à la main et de l’emporter partout."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T155311.980.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T200445.293.png"
    ]
   },
   {
-   "sku": "doshift-91570",
-   "price": 199,
+   "sku": "doshift-102826",
+   "price": 749,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Carafe Isotherme Noire avec Motifs Dorés",
-     "description": "Apportez une touche d’élégance à votre table avec cette carafe isotherme au design noir mat et détails dorés. Pratique pour servir le thé, le café ou les boissons fraîches, elle est idéale pour la maison, les invités, le bureau ou les moments de détente en famille.\n\nSon bec verseur facilite le service, tandis que sa poignée ergonomique assure une bonne prise en main. Son motif arbre doré apporte un style chic et moderne qui s’adapte parfaitement à une table raffinée.\n\nCaractéristique\nDétail\n\nType de produit\nCarafe isotherme\n\nUtilisation\nThé, café, eau chaude, boissons fraîches\n\nDesign\nNoir mat avec motifs dorés\n\nPoignée\nErgonomique et pratique\n\nBec verseur\nFacile à utiliser\n\nCouvercle\nOuverture pratique pour servir\n\nStyle\nÉlégant, moderne et décoratif\n\nIdéal pour\nMaison, bureau, salon, réception, invités\n\nAvantages\nGarde les boissons à température et facilite le service\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Apportez une touche d’élégance à votre table avec cette carafe isotherme au design noir mat et détails dorés."
+     "name": "Caméra Sport WiFi avec Objectif Rotatif et Écran Couleur",
+     "description": "Immortalisez facilement vos sorties, voyages et activités quotidiennes avec cette caméra sport WiFi compacte. Son format pratique permet de la transporter facilement et de filmer vos meilleurs moments où que vous soyez.\n\nSon objectif rotatif facilite l’ajustement de l’angle de prise de vue, tandis que son écran couleur permet de visualiser le cadrage et de consulter les séquences enregistrées. Les boutons de commande situés à l’avant offrent une utilisation simple et rapide.\n\nGrâce à sa connectivité WiFi, cette caméra constitue une solution pratique pour capturer vos aventures, vos balades, vos voyages et vos moments en famille.\n\nCaractéristique\nDétail\n\nType de produit\nCaméra sport\n\nConnectivité\nWiFi\n\nÉcran\nÉcran couleur intégré\n\nObjectif\nModule rotatif\n\nCommandes\n3 boutons frontaux\n\nCouleur\nNoir\n\nFormat\nCompact et portable\n\nUtilisations\nVoyages, randonnées, sorties et moments quotidiens\n\nContenu du pack\n1 caméra sport\n\nRéférence Doshift\nAA57BB099",
+     "short_description": "Immortalisez facilement vos sorties, voyages et activités quotidiennes avec cette caméra sport WiFi compacte. Son format pratique permet de la transporter facilement et de filmer vos meilleurs moments où que vous soyez."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T154108.247.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T181456.853.png"
    ]
   },
   {
-   "sku": "doshift-91506",
-   "price": 209,
+   "sku": "doshift-102818",
+   "price": 829,
    "stock": 10,
    "status": 0,
    "categories": [
-    5
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Radio Multifonction Portable avec Ventilateur et Lampe LED",
-     "description": "Profitez d’un appareil pratique et polyvalent pour la maison, les sorties, le camping ou les situations de coupure d’électricité. Cette radio portable multifonction combine radio FM/AM/SW, ventilateur intégré, lampe LED et lecture audio via USB/TF/MP3 dans un design compact avec sangle de transport.\n\nSon format léger permet de l’emporter facilement partout, tandis que son ventilateur supérieur offre une brise agréable et sa lampe latérale apporte un éclairage utile au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nRadio multifonction portable\n\nFonctions principales\nRadio, ventilateur, lampe LED, lecteur musique\n\nBandes radio\nFM / AM / SW\n\nLecture audio\nUSB / TF / MP3\n\nVentilateur\nIntégré sur le dessus\n\nÉclairage\nLampe LED latérale\n\nAntenne\nTélescopique\n\nTransport\nSangle intégrée\n\nUtilisation\nMaison, voyage, camping, extérieur\n\nDimensions\n16 × 7.4 × 20.7 cm\n\nCouleur\nRouge / gris\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Profitez d’un appareil pratique et polyvalent pour la maison, les sorties, le camping ou les situations de coupure d’électricité."
+     "name": "Caméra d’action portable 4K UHD Wi‑Fi",
+     "description": "Capturez vos activités et vos meilleurs moments avec cette caméra d’action compacte et légère. Son format discret permet de la fixer facilement sur un vêtement, un sac à dos, un vélo ou différents supports selon l’activité.\n\nElle permet d’enregistrer des vidéos en 4K UHD et dispose d’une connexion Wi‑Fi pour faciliter la consultation et la gestion des enregistrements depuis un smartphone compatible. Son écran intégré permet également de visualiser rapidement la prise de vue.\n\nGrâce aux différents accessoires de fixation fournis, elle convient à de nombreuses utilisations : vélo, randonnée, moto, voyage, sport ou enregistrement quotidien. L’unité caméra bénéficie d’un indice IP65 pour une meilleure résistance à la poussière et aux projections d’eau.\n\nCaractéristique\nDétail\n\nType de produit\nCaméra d’action portable\n\nRésolution annoncée\n4K UHD\n\nConnectivité\nWi‑Fi\n\nÉcran intégré\nOui\n\nIndice de protection\nIP65 pour l’unité caméra\n\nFormat\nCompact et léger\n\nCouleur\nNoir\n\nFixation\nClip arrière intégré\n\nUtilisations\nSport, voyage, randonnée et activités quotidiennes\n\nRéférence Doshift\nAA65BB099",
+     "short_description": "Capturez vos activités et vos meilleurs moments avec cette caméra d’action compacte et légère."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T140415.682.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T175101.506.png"
    ]
   },
   {
-   "sku": "doshift-91334",
+   "sku": "doshift-102804",
    "price": 309,
    "stock": 10,
    "status": 0,
    "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Montre Connectée TECNO Watch 3 Active – Écran HD 2,02″",
+     "description": "Restez connecté au quotidien avec la TECNO Watch 3 Active, une montre intelligente au design moderne et sportif. Son large écran HD de 2,02 pouces offre un affichage clair pour consulter facilement l’heure, les appels et les informations disponibles sur la montre.\n\nGrâce à la fonction Appels Bluetooth améliorés, vous pouvez gérer vos communications directement depuis votre poignet lorsqu’elle est connectée à un smartphone compatible. Sa certification IP68 lui assure une résistance à l’eau et à la poussière adaptée à une utilisation quotidienne.\n\nSon bracelet noir confortable et son boîtier élégant s’accordent facilement avec une tenue sportive ou professionnelle. Avec une autonomie annoncée pouvant atteindre 12 jours, elle vous accompagne durablement entre deux recharges.\n\nCaractéristique\nDétail\n\nProduit\nMontre connectée\n\nMarque\nTECNO\n\nModèle\nWatch 3 Active\n\nÉcran\nHD 2,02 pouces\n\nFonction d’appel\nAppels Bluetooth améliorés\n\nRésistance\nEau et poussière\n\nIndice de protection\nIP68\n\nAutonomie annoncée\nJusqu’à 12 jours selon l’utilisation\n\nBracelet\nSouple et ajustable\n\nCouleur\nNoir avec boîtier gris foncé\n\nUtilisation\nQuotidien, travail et activités sportives\n\nContenu\n1 montre TECNO Watch 3 Active\n\nRéférence Doshift\nAA19BB099",
+     "short_description": "Restez connecté au quotidien avec la TECNO Watch 3 Active, une montre intelligente au design moderne et sportif."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T172158.619.png"
+   ]
+  },
+  {
+   "sku": "doshift-102684",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Fer à vapeur électrique RAF R.1319 – 1600W – Réservoir 330 ml",
-     "description": "Simplifiez votre repassage au quotidien avec le fer à vapeur électrique RAF R.1319. Puissant et pratique, il offre une vapeur efficace pour aider à éliminer les plis rapidement sur différents types de vêtements. Son réservoir de 330 ml permet une bonne autonomie, tandis que le thermostat contrôlé facilite l’adaptation de la température selon le tissu.\n\nCaractéristique\nDétail\n\nProduit\nFer à vapeur électrique\n\nMarque\nRAF\n\nModèle\nR.1319\n\nPuissance\n1600W\n\nCapacité du réservoir\n330 ml\n\nFonctions\nVapeur, pulvérisation d’eau, jet de vapeur\n\nRepassage vertical\nOui\n\nThermostat contrôlé\nOui\n\nCouleur\nBleu / Blanc\n\nUtilisation\nVêtements, chemises, linge de maison\n\nRéférence Doshift\nAA19BB099",
-     "short_description": "Simplifiez votre repassage au quotidien avec le fer à vapeur électrique RAF R.1319. Puissant et pratique, il offre une vapeur efficace pour aider à éliminer les plis rapidement sur différents types de vêtements."
+     "name": "Bague en Acier Inoxydable Argentée & Noire",
+     "description": "Apportez une touche moderne et raffinée à votre style avec cette bague en acier inoxydable au design sobre et élégant. Sa finition argentée brillante, rehaussée d’une ligne noire centrale, crée un contraste chic qui s’adapte facilement à différentes tenues.\n\nIdéale pour un usage quotidien comme pour les sorties et occasions, cette bague est disponible en tailles 17, 18, 19 et 20.\n\nCaractéristique\nDétail\n\nType\nBague\n\nMatière\nAcier inoxydable\n\nCouleur\nArgenté et noir\n\nFinition\nBrillante\n\nDesign\nLigne noire centrale\n\nTailles disponibles\n17, 18, 19, 20\n\nStyle\nModerne et élégant\n\nUtilisation\nQuotidien, sorties, occasions\n\nRéférence Doshift\nAA1BB399",
+     "short_description": "Apportez une touche moderne et raffinée à votre style avec cette bague en acier inoxydable au design sobre et élégant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T205621.322.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T140130.133.png"
    ]
   },
   {
-   "sku": "doshift-90873",
-   "price": 189,
+   "sku": "doshift-100988",
+   "price": 229,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -87,18 +109,75 @@
    ],
    "locales": {
     "fr": {
-     "name": "Portant à Vêtements Mobile 5 Côtés – 107 × 61,5 × 41,5 cm",
-     "description": "Optimisez votre espace de rangement avec ce portant à vêtements 5 côtés, pratique pour organiser chemises, vestes, pantalons, robes ou vêtements du quotidien. Son design ouvert permet de suspendre plusieurs articles facilement tout en gardant vos vêtements visibles et accessibles.\n\nÉquipé de roulettes, il se déplace sans effort d’une pièce à l’autre : chambre, dressing, buanderie ou balcon couvert. Sa structure en tube métallique avec revêtement offre une bonne stabilité et une utilisation pratique au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nPortant à vêtements mobile\n\nForme\n5 côtés\n\nUtilisation\nRangement et suspension de vêtements\n\nMatière\nTube métallique avec revêtement\n\nMobilité\nRoulettes intégrées\n\nDimensions\n107 × 61,5 × 41,5 cm\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Optimisez votre espace de rangement avec ce portant à vêtements 5 côtés, pratique pour organiser chemises, vestes, pantalons, robes ou vêtements du quotidien."
+     "name": "Blender HP-158 Noir – Compact, Élégant & Pratique",
+     "description": "Préparez facilement vos jus, smoothies et boissons fruitées avec le Blender HP-158. Cette version noire combine un design moderne avec un récipient transparent permettant de suivre facilement la préparation.\n\nSon format compact convient parfaitement à une utilisation quotidienne dans la cuisine. Le récipient est équipé d’une poignée pratique, d’un couvercle noir et de lames métalliques à l’intérieur. La base dispose également d’un affichage numérique frontal avec deux boutons de commande.\n\nAvec une hauteur d’environ 23,5 cm et une largeur d’environ 9,5 cm, il prend peu de place sur le plan de travail et se range facilement après utilisation\n\nCaractéristique\nDétail\n\nProduit\nBlender / Juicing Cup\n\nModèle\nHP-158\n\nCouleur\nNoir et transparent\n\nUtilisation\nJus, smoothies et boissons fruitées\n\nHauteur\nEnviron 23,5 cm\n\nLargeur\nEnviron 9,5 cm\n\nRécipient\nTransparent\n\nPoignée\nOui\n\nCouvercle\nNoir, amovible\n\nLames\nMétalliques\n\nAffichage\nÉcran numérique frontal\n\nCommandes\n2 boutons\n\nFormat\nCompact\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Préparez facilement vos jus, smoothies et boissons fruitées avec le Blender HP-158. Cette version noire combine un design moderne avec un récipient transparent permettant de suivre facilement la préparation."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T144814.073.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-10T143045.840.png"
    ]
   },
   {
-   "sku": "doshift-90562",
-   "price": 209,
+   "sku": "doshift-100357",
+   "price": 449,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Power Bank KONFULON A24Q 50000 mAh – Charge Rapide 22.5W + Câble Lightning OFFERT",
+     "description": "Gardez vos appareils chargés plus longtemps avec la Power Bank KONFULON A24Q 50000 mAh. Sa grande capacité en fait une solution pratique pour les déplacements, les voyages, le travail ou une utilisation quotidienne lorsque vous êtes loin d’une prise électrique.\n\nGrâce à sa puissance de sortie allant jusqu’à 22.5W, elle permet une recharge rapide des appareils compatibles. Elle dispose de 3 sorties pour alimenter plusieurs appareils et de 2 entrées pour recharger facilement la batterie externe.\n\nSon écran digital permet de consulter rapidement le niveau de batterie restant. Son format robuste avec côtés rainurés offre également une bonne prise en main.\n\nCaractéristique\nDétail\n\nMarque\nKONFULON\n\nModèle\nA24Q\n\nType\nBatterie externe / Power Bank\n\nCapacité annoncée\n50000 mAh\n\nCharge rapide\nJusqu’à 22.5W\n\nEntrées\n2\n\nSorties\n3\n\nPort USB-C\nEntrée / sortie jusqu’à 20W\n\nSorties USB\nJusqu’à 22.5W\n\nEntrée Micro USB\nJusqu’à 18W\n\nAffichage\nÉcran digital du niveau de batterie\n\nCouleur\nNoir\n\nCâble offert\nRECCI Lightning\n\nLongueur du câble\n100 cm\n\nIntensité du câble\nJusqu’à 2.4A\n\nFonction du câble\nCharge + transmission de données\n\nParticularité du câble\nCâble tressé avec indicateur lumineux\n\nContenu\n1 Power Bank KONFULON + 1 câble Lightning RECCI offert\n\nRéférence Doshift\nAA33BB599",
+     "short_description": "Gardez vos appareils chargés plus longtemps avec la Power Bank KONFULON A24Q 50000 mAh."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T180020.334.png"
+   ]
+  },
+  {
+   "sku": "doshift-100349",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble USB vers Type-C RECCI THOR 1,5 m – 5A",
+     "description": "Profitez d’une connexion pratique et résistante avec le câble RECCI THOR USB vers Type-C. Conçu avec un revêtement en nylon tressé, il offre une meilleure résistance aux torsions et à l’usage quotidien tout en restant flexible et facile à transporter.\n\nAvec sa longueur de 1,5 m, il permet d’utiliser confortablement votre appareil pendant la recharge, que ce soit à la maison, au bureau ou en voiture. Sa prise en charge d’un courant allant jusqu’à 5A permet une recharge rapide avec les appareils et chargeurs compatibles.\n\nCompatible avec de nombreux smartphones, tablettes et autres appareils équipés d’un port USB Type-C\n\nCaractéristique\nDétail\n\nMarque\nRECCI\n\nGamme\nTHOR\n\nType de produit\nCâble de charge et données\n\nConnecteur d’entrée\nUSB-A\n\nConnecteur de sortie\nUSB Type-C\n\nLongueur\n1,5 m / 150 cm\n\nCourant maximal annoncé\n5A\n\nRecharge rapide\nOui, avec équipement compatible\n\nRevêtement\nNylon tressé\n\nCouleur\nBleu\n\nUtilisation\nSmartphone, tablette et appareils USB-C compatibles\n\nParticularité\nCâble renforcé et flexible pour une utilisation quotidienne\n\nRéférence Doshift\nAA2BB099",
+     "short_description": "Profitez d’une connexion pratique et résistante avec le câble RECCI THOR USB vers Type-C."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T173912.363.png"
+   ]
+  },
+  {
+   "sku": "doshift-100341",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble RECCI GIANT USB-A vers USB-C 3A – 1 m – Rouge",
+     "description": "Profitez d’une recharge pratique et d’un transfert de données efficace avec le câble RECCI GIANT USB-A vers USB-C. Son revêtement tressé rouge lui apporte une finition robuste et agréable, adaptée à une utilisation quotidienne à la maison, au bureau ou en déplacement.\n\nAvec une longueur de 100 cm, il offre un bon équilibre entre confort d’utilisation et facilité de rangement. Il prend en charge une intensité allant jusqu’à 3A avec un chargeur et un appareil compatibles.\n\nCaractéristique\nDétail\n\nMarque\nRECCI\n\nGamme\nGIANT\n\nModèle\nRTC-N22C\n\nType\nCâble de charge et de données\n\nConnecteur 1\nUSB-A\n\nConnecteur 2\nUSB Type-C\n\nIntensité maximale\nJusqu’à 3A\n\nLongueur\n100 cm / 1 m\n\nRevêtement\nCâble tressé\n\nCouleur\nRouge et noir\n\nUtilisation\nRecharge et transfert de données\n\nCompatibilité\nAppareils équipés d’un port USB-C\n\nRéférence Doshift\nAA2BB599",
+     "short_description": "Profitez d’une recharge pratique et d’un transfert de données efficace avec le câble RECCI GIANT USB-A vers USB-C."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T171744.120.png"
+   ]
+  },
+  {
+   "sku": "doshift-100098",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,92 +185,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Mixeur plongeant 2 en 1 Elite MP02 – 200 W avec bol 600 ml",
-     "description": "Préparez facilement vos smoothies, soupes, sauces et purées maison avec ce mixeur plongeant pratique et compact. Sa puissance de 200 W et son bol gradué de 600 ml vous accompagnent au quotidien pour mixer directement vos préparations avec simplicité.\n\nSon design noir et argenté, sa prise en main confortable et ses deux boutons de commande en font un allié pratique pour votre cuisine.\n\nCaractéristique\nDétail\n\nType\nMixeur plongeant 2 en 1\n\nMarque\nElite\n\nModèle\nMP02\n\nPuissance\n200 W\n\nBol inclus\nOui\n\nCapacité du bol\n600 ml\n\nCommande\n2 boutons\n\nCouleur\nNoir et argenté\n\nUtilisations\nSmoothies, soupes, sauces, purées et préparations liquides\n\nContenu du pack\nMixeur plongeant + bol 600 ml\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Préparez facilement vos smoothies, soupes, sauces et purées maison avec ce mixeur plongeant pratique et compact."
+     "name": "Sac à main noir avec finitions marron et bandoulière",
+     "description": "Élégant et pratique, ce sac à main associe un corps noir sobre à des finitions marron effet cuir et des accessoires métalliques dorés. Son design polyvalent convient aussi bien aux sorties quotidiennes qu’au travail, au shopping ou aux déplacements.\n\nIl dispose de deux poignées pour un porté à la main ainsi que d’une bandoulière amovible permettant de le porter confortablement à l’épaule. Son rabat frontal avec bouton pression apporte une touche raffinée tout en facilitant l’accès à vos affaires personnelles.\n\nCaractéristique\nDétail\n\nType de produit\nSac à main avec bandoulière\n\nCouleur principale\nNoir\n\nCouleur des finitions\nMarron\n\nStyle\nÉlégant, moderne et polyvalent\n\nPortage\nÀ la main ou à l’épaule\n\nPoignées\nDeux poignées supérieures\n\nBandoulière\nAmovible et réglable\n\nFermeture frontale\nRabat avec bouton pression\n\nQuincaillerie\nFinitions métalliques dorées\n\nMatière\nMatière synthétique avec détails effet cuir\n\nUtilisation\nTravail, sorties, shopping et voyage\n\nEntretien\nNettoyer délicatement avec un chiffon doux légèrement humide\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Élégant et pratique, ce sac à main associe un corps noir sobre à des finitions marron effet cuir et des accessoires métalliques dorés."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-08-17T145307.384.png"
-   ]
-  },
-  {
-   "sku": "doshift-90554",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    12,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ceinture de Soutien Lombaire Ajustable – Maintien Renforcé",
-     "description": "Profitez d’un meilleur maintien du bas du dos pendant vos activités quotidiennes grâce à cette ceinture lombaire noire ajustable. Sa conception large enveloppe confortablement la taille, tandis que ses renforts verticaux contribuent à stabiliser la zone lombaire.\n\nÉquipée d’une large bande élastique, elle permet d’adapter facilement le niveau de compression selon votre morphologie et vos besoins. Elle peut être portée au travail, au bureau, pendant les déplacements, les entraînements ou les tâches nécessitant des efforts physiques.\n\nCaractéristique\nDétail\n\nType de produit\nCeinture de soutien lombaire\n\nCouleur\nNoir\n\nZone de maintien\nBas du dos et taille\n\nAjustement\nBande élastique réglable\n\nFermeture\nSystème auto-agrippant\n\nStructure\nLarge ceinture avec renforts verticaux\n\nUtilisation\nTravail, bureau, sport, déplacement et activités quotidiennes\n\nEntretien\nLavage doux à la main recommandé\n\nTaille\nSelon disponibilité\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Profitez d’un meilleur maintien du bas du dos pendant vos activités quotidiennes grâce à cette ceinture lombaire noire ajustable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T141214.663.png"
-   ]
-  },
-  {
-   "sku": "doshift-90546",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    12,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Soutien de Coude Élastique – Jaune",
-     "description": "Ce soutien de coude élastique est conçu pour offrir un maintien confortable pendant le sport, les activités quotidiennes ou les mouvements répétitifs. Sa matière extensible s’adapte facilement au bras et aide à stabiliser la zone du coude tout en gardant une bonne liberté de mouvement.\n\nIdéal pour les entraînements, le fitness, le tennis, le travail manuel ou une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nType de produit\nSoutien de coude\n\nCouleur\nJaune\n\nMatière\nTissu élastique respirant\n\nUtilisation\nSport, fitness, travail, usage quotidien\n\nConfort\nLéger, souple et ajusté\n\nEntretien\nLavage à la main recommandé\n\nRéférence\nAA3BB099",
-     "short_description": "Ce soutien de coude élastique est conçu pour offrir un maintien confortable pendant le sport, les activités quotidiennes ou les mouvements répétitifs."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-06T133939.341.png"
-   ]
-  },
-  {
-   "sku": "doshift-90539",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    12,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support de Coude Ajustable – Maintien & Confort",
-     "description": "Ce support de coude ajustable est conçu pour offrir un bon maintien pendant le sport, les entraînements ou les activités quotidiennes. Grâce à ses sangles réglables et à sa matière souple, il s’adapte facilement au bras tout en laissant une bonne liberté de mouvement.\n\nIdéal pour accompagner les mouvements du coude lors de la musculation, du fitness, du travail manuel ou des activités de tous les jours.\n\nCaractéristique\nDétail\n\nType de produit\nSupport de coude ajustable\n\nCouleur\nNoir\n\nMatière\nTissu souple type néoprène\n\nAjustement\nSangles réglables avec scratch\n\nDesign\nOuverture au niveau du coude pour plus de confort\n\nUtilisation\nSport, fitness, musculation, usage quotidien\n\nAvantages\nMaintien, stabilité et confort pendant les mouvements\n\nTaille\nAjustable\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Ce support de coude ajustable est conçu pour offrir un bon maintien pendant le sport, les entraînements ou les activités quotidiennes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-06T132542.600.png"
-   ]
-  },
-  {
-   "sku": "doshift-90167",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Thermos Isotherme AHOME à Motif Marbré",
-     "description": "Gardez vos boissons à la bonne température plus longtemps avec ce thermos isotherme au design élégant noir avec motif marbré doré. Pratique pour le thé, le café ou toute boisson chaude/froide, il est idéal pour la maison, le bureau, les sorties ou les voyages. Sa poignée ergonomique facilite la prise en main, tandis que son bec verseur permet un service simple et propre.\n\nCaractéristique\nDétail\n\nType de produit\nThermos isotherme / Vacuum Flask\n\nMarque\nAHOME\n\nUtilisation\nThé, café, eau chaude ou boissons froides\n\nDesign\nNoir avec motif marbré doré\n\nPoignée\nErgonomique et robuste\n\nBec verseur\nPratique pour servir facilement\n\nCouvercle\nFermeture supérieure avec effet tasse/capuchon\n\nUsage recommandé\nMaison, bureau, voyage, pique-nique\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Gardez vos boissons à la bonne température plus longtemps avec ce thermos isotherme au design élégant noir avec motif marbré doré."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-04T140928.061.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-06T140823.926.png"
    ]
   }
  ]

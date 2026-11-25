@@ -1,6 +1,102 @@
 {
  "products": [
   {
+   "sku": "doshift-113769",
+   "price": 519,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Microphone Yanmai Mic Pro X1",
+     "description": "Le Yanmai Mic Pro X1 est un microphone USB conçu pour le streaming, les discussions en jeu et la création de contenu au quotidien.\n\nCaractéristique\nDétail\n\nType\nMicrophone à condensateur USB\n\nModèle\nYanmai Mic Pro X1\n\nDirectivité\nCardioïde (anti-bruit)\n\nFonction Mute\nBouton tactile Touch-Mute avec LED\n\nRésolution audio\n192 kHz / 24-bit (puce DSP)\n\nConnectique\nCâble USB Plug & Play\n\nAccessoires inclus\nSuspension araignée antichoc + filtre anti-pop + trépied\n\nDimensions micro\n16,5 × 4,5 cm (165 × 45 mm)\n\nHauteur sur pied\n26 cm (260 mm)\n\nMatériaux\nMétal et acier renforcé\n\nCouleur\nNoir mat\n\nRéférence\n9900010718074",
+     "short_description": "Le Yanmai Mic Pro X1 est un microphone USB conçu pour le streaming, les discussions en jeu et la création de contenu au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/a74cf6ab-813c-47da-a497-800f666f5ff2.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-113749",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gaufrier Électrique Fress PN-600",
+     "description": "Gaufrier électrique compact de 750 W à 850 W équipé de plaques antiadhésives effet pierre, conçu pour préparer rapidement deux gaufres croustillantes et dorées sans attacher ni salir.\n\nCaractéristique\nDétail\n\nType\nGaufrier électrique double\n\nMarque & Modèle\nFress PN-600\n\nPuissance\n750 W – 850 W (220–240 V)\n\nCapacité\n2 gaufres belges simultanées\n\nPlaques\nRevêtement antiadhésif effet pierre (granit)\n\nDimensions\n23 × 22 × 9 cm (230 × 220 × 90 mm)\n\nSécurité\n\nPoignée isolante avec loquet de verrouillage et pieds antidérapants\n\nCouleur\nNoir\n\nRéférence\n9900010718067",
+     "short_description": "Noir. Plaques antiadhésives effet pierre. Format : 23 × 22 × 9 cm. Puissance : 750–850 W."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/a1073c9a-2a15-4c8a-b678-ddec156e2e05.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-113547",
+   "price": 339,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chaise Percée Pliante / Toilette Portable",
+     "description": "Chaise percée pliante robuste et hygiénique avec seau amovible et assise ergonomique, idéale pour le camping et les voyages ou pour assister facilement les personnes à mobilité réduite à la maison.\n\nCaractéristique\nDétail\n\nType\nChaise percée pliante / Toilette portable\n\nCapacité de charge\nJusqu’à 120 kg\n\nMatériaux\nChâssis en acier renforcé + lunette PP robuste\n\nDimensions dépliée\n38 × 36 × 42 cm (380 × 360 × 420 mm)\n\nDimensions pliée\n38 × 70 × 8 cm (380 × 700 × 80 mm)\n\nSeau & Couvercle\nSeau amovible avec anse et couvercle hermétique\n\nCouleur\nChâssis gris métallisé, siège bleu ciel, seau noir\n\nPieds\n4 embouts en caoutchouc antidérapants\n\nUtilisation\nCamping, voyages, personnes âgées, mobilité réduite, urgences\n\nRéférence\n9900010718043",
+     "short_description": "Bleu ciel et gris. Pliante avec seau amovible. Dépliée : 38 × 36 × 42 cm . Charge max : 120 kg."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/565f90d7-b38f-4961-beee-7972c8b1006a.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-113507",
+   "price": 369,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Téléphone portable à clapet Samsung GT-C3520 (Duos)",
+     "description": "Téléphone à clapet classique, compact et simple d’utilisation, idéal pour téléphoner en toute sérénité grâce à une excellente autonomie, un son clair et un clavier à grandes touches bien lisibles.\n\nCaractéristique\nDétail\n\nType\nTéléphone portable à clapet (Flip phone)\n\nMarque & Modèle\nSamsung GT-C3520 (Duos)\n\nÉcran\nÉcran couleur TFT 2,4 pouces (240 × 320 pixels)\n\nCarte SIM\nDouble SIM (Duos) / Réseau GSM 2G\n\nDimensions (fermé)\n10,2 × 5,2 × 1,68 cm (102 × 52 × 16,8 mm)\n\nPoids\n~97 g (léger et compact)\n\nBatterie\nLi-Ion 800 mAh (autonomie longue durée en veille)\n\nMultimédia\nAppareil photo 1.3 MP, Radio FM, Bluetooth, fente MicroSD\n\nCouleur\nGris argenté texturé\n\nRéférence\n9900010718029",
+     "short_description": "Gris argenté. Format clapet compact : 10,2 × 5,2 × 1,68 cm . Écran 2,4″."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/af6ac2ed-1711-46d0-b479-a67d0cefb00a.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-113457",
+   "price": 229,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Étagère à Épices en Bambou avec 12 Pots en Verre",
+     "description": "Étagère en bambou naturel avec 12 pots en verre pour organiser et garder vos épices à portée de main avec élégance.12 pots hermétiques : bocaux en verre épais avec couvercles en bambou pour préserver les arômes.Support en bambou naturel, robuste, durable et résistant à l’humidité de la cuisine.Gain de place format compact à 2 niveaux pour libérer le plan de travail.\n\nCaractéristique\nDétail\n\nType\nÉtagère à épices avec 12 pots\n\nContenu\n1 étagère + 12 pots en verre avec couvercles\n\nMatériaux\nBambou naturel + verre transparent épais\n\nDimensions étagère\n31 × 26 × 6 cm (310 × 260 × 60 mm)\n\nDimensions pots\n10,5 × 4,5 cm (105 × 45 mm) — ~100 ml chacun\n\nCouleur\nBois naturel et verre transparent\n\nRéférence\n9900010718005",
+     "short_description": "Bambou naturel et verre transparent. Étagère : 31 × 26 × 6 cm . Pots : 10,5 × 4,5 cm ."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/09/Gemini_Generated_Image_k4mqaok4mqaok4mq.jpg"
+   ]
+  },
+  {
    "sku": "doshift-113304",
    "price": 89,
    "stock": 10,
@@ -18,6 +114,25 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/09/Gemini_Generated_Image_.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-106190",
+   "price": 429,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cartable à roulettes enfant rose à pois bleus – Réf. 3516-4",
+     "description": "Pratique et coloré, ce cartable trolley pour enfant est idéal pour accompagner les journées d’école. Son design rose à pois bleus, décoré de petits motifs amusants, apporte une touche ludique parfaitement adaptée aux enfants.\n\nGrâce à sa poignée télescopique et ses roulettes intégrées, le sac peut être tiré facilement sans avoir à porter tout le poids sur le dos. Il dispose également de bretelles réglables permettant de l’utiliser comme un sac à dos classique.\n\nSes différents compartiments zippés permettent d’organiser facilement cahiers, fournitures et autres affaires scolaires, tandis que les poches latérales en filet offrent un accès rapide à une bouteille ou de petits accessoires.\n\nCaractéristique\nDétail\n\nType\nCartable / sac à dos trolley pour enfant\n\nCouleur\nRose avec pois bleus\n\nMotifs\nMotifs décoratifs colorés style cartoon\n\nSystème de transport\nRoulettes + poignée télescopique\n\nPortage\nBretelles réglables pour utilisation en sac à dos\n\nCompartiments\nPlusieurs compartiments zippés\n\nPoches latérales\nOui, poches en filet\n\nPoignée supérieure\nOui\n\nUtilisation\nÉcole, sorties et transport des fournitures scolaires\n\nRéférence Doshift\nAA27BB099",
+     "short_description": "Pratique et coloré, ce cartable trolley pour enfant est idéal pour accompagner les journées d’école."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-28T161018.088.png"
    ]
   },
   {
@@ -75,120 +190,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-26T170737.030.png"
-   ]
-  },
-  {
-   "sku": "doshift-105683",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plante Artificielle Décorative 120 cm – 30 Feuilles",
-     "description": "Apportez une touche de verdure élégante à votre intérieur avec cette plante artificielle de 120 cm. Son feuillage dense composé de 30 feuilles offre un rendu naturel et décoratif, idéal pour habiller facilement un salon, un bureau, une chambre ou une entrée.\n\nGrâce à son aspect réaliste, elle permet de profiter d’une ambiance végétale sans arrosage ni entretien quotidien. Sa belle hauteur en fait également un excellent élément décoratif pour compléter les espaces vides et créer une atmosphère chaleureuse.\n\nLa plante est proposée en 1 pièce et est livrée sans vase décoratif, vous permettant de choisir le cache-pot qui correspond le mieux à votre décoration.\n\nCaractéristique\nDétail\n\nType\nPlante artificielle décorative\n\nHauteur\n120 cm\n\nNombre de feuilles\n30 feuilles\n\nQuantité\n1 pièce\n\nAspect\nFeuillage vert à effet naturel\n\nEntretien\nAucun arrosage nécessaire\n\nUtilisation\nSalon, chambre, bureau, entrée, commerce…\n\nVase décoratif\nNon inclus\n\nRéférence\nAA9BB099",
-     "short_description": "Apportez une touche de verdure élégante à votre intérieur avec cette plante artificielle de 120 cm."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-26T175003.477.png"
-   ]
-  },
-  {
-   "sku": "doshift-105647",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plante Artificielle Décorative – 110 cm – 12 Feuilles",
-     "description": "Apportez une touche de verdure à votre intérieur sans les contraintes d’entretien grâce à cette plante artificielle décorative de 110 cm. Son feuillage généreux composé de 12 feuilles offre un rendu naturel et élégant, idéal pour embellir un salon, une chambre, un bureau ou un espace professionnel.\n\nFacile à intégrer dans différents styles de décoration, elle permet de profiter d’une ambiance végétale toute l’année, sans arrosage ni entretien particulier. La plante est proposée en 1 pièce et sans vase, afin de vous permettre de choisir le contenant qui correspond le mieux à votre décoration.\n\nCaractéristique\nDétail\n\nType\nPlante artificielle décorative\n\nHauteur\n110 cm\n\nFeuillage\n12 feuilles\n\nQuantité\n1 pièce\n\nAspect\nFeuillage vert à effet naturel\n\nEntretien\nAucun arrosage nécessaire\n\nUtilisation\nSalon, chambre, bureau, entrée, commerce, espace professionnel\n\nVase\nNon inclus\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Apportez une touche de verdure à votre intérieur sans les contraintes d’entretien grâce à cette plante artificielle décorative de 110 cm."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-26T165715.624.png"
-   ]
-  },
-  {
-   "sku": "doshift-105662",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plante Artificielle Dracaena 100 cm – 21 Feuilles",
-     "description": "Apportez une touche de verdure élégante à votre intérieur avec cette plante artificielle Dracaena au rendu naturel. Grâce à son feuillage dense composé de 21 feuilles vertes et à sa finition décorative avec fleurs claires, elle crée une ambiance végétale sans nécessiter d’entretien.\n\nAvec une hauteur de 100 cm, elle convient parfaitement pour décorer un salon, un bureau, une réception, une chambre ou un espace commercial. Elle est livrée sans vase, ce qui vous permet de choisir le pot ou le cache-pot adapté à votre décoration.\n\nPoints forts : aspect naturel, zéro entretien, feuillage décoratif, format 100 cm et intégration facile dans différents styles d’intérieur.\n\nCaractéristique\nDétail\n\nType\nPlante artificielle décorative\n\nModèle\nDracaena\n\nHauteur\n100 cm\n\nNombre de feuilles\n21 feuilles\n\nCouleur dominante\nVert\n\nFleurs\nFleurs décoratives claires\n\nEntretien\nAucun entretien nécessaire\n\nAspect\nNaturel\n\nVase inclus\nNon\n\nQuantité\n1 pièce\n\nUtilisation\nSalon, bureau, chambre, réception, espace commercial\n\nRéférence\nAA9BB599",
-     "short_description": "Apportez une touche de verdure élégante à votre intérieur avec cette plante artificielle Dracaena au rendu naturel."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-26T172113.483.png"
-   ]
-  },
-  {
-   "sku": "doshift-105639",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plante artificielle décorative 100 cm – 24 feuilles",
-     "description": "Apportez une touche de verdure élégante à votre intérieur sans les contraintes d’entretien grâce à cette plante artificielle de 100 cm. Son feuillage dense composé de 24 feuilles offre un rendu naturel et décoratif, idéal pour embellir un salon, une chambre, un bureau ou une entrée.\n\nSon aspect réaliste permet de créer facilement une ambiance végétale chaleureuse tout au long de l’année. Aucun arrosage, aucune taille et aucun entretien ne sont nécessaires.\n\nFacile à intégrer dans différents styles de décoration, elle peut être placée dans le vase ou cache-pot de votre choix pour personnaliser son rendu.\n\nCaractéristique\nDétail\n\nType\nPlante artificielle décorative\n\nHauteur\n100 cm\n\nNombre de feuilles\n24 feuilles\n\nQuantité\n1 pièce\n\nAspect\nNaturel\n\nEntretien\nAucun entretien nécessaire\n\nUtilisation\nSalon, chambre, bureau, entrée, espaces professionnels\n\nVase décoratif\nNon inclus\n\nRéférence\nAA5BB599",
-     "short_description": "Apportez une touche de verdure élégante à votre intérieur sans les contraintes d’entretien grâce à cette plante artificielle de 100 cm."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-26T165021.954.png"
-   ]
-  },
-  {
-   "sku": "doshift-105607",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plante artificielle décorative 120 cm – 36 feuilles",
-     "description": "Apportez une touche de verdure élégante à votre intérieur avec cette plante artificielle décorative de 120 cm. Son feuillage généreux composé de 36 feuilles aux détails réalistes offre un rendu naturel idéal pour embellir un salon, une chambre, un bureau, un commerce ou un espace d’accueil.\n\nGrâce à sa conception artificielle, elle conserve son bel aspect toute l’année sans arrosage ni entretien. Sa grande hauteur permet de décorer facilement un coin vide et d’apporter une ambiance végétale chaleureuse sans les contraintes d’une plante naturelle.\n\nLe produit est vendu sans vase, ce qui vous permet de choisir librement le pot ou le cache-pot adapté à votre décoration.\n\nCaractéristique\nDétail\n\nType\nPlante artificielle décorative\n\nHauteur\n120 cm\n\nNombre de feuilles\n36 feuilles\n\nQuantité\n1 pièce\n\nAspect\nFeuillage décoratif à effet naturel\n\nEntretien\nAucun arrosage nécessaire\n\nUtilisation\nDécoration intérieure\n\nEspaces recommandés\nSalon, chambre, bureau, commerce, accueil\n\nVase inclus\nNon\n\nRéférence\nAA10BB099",
-     "short_description": "Apportez une touche de verdure élégante à votre intérieur avec cette plante artificielle décorative de 120 cm."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-26T152334.259.png"
-   ]
-  },
-  {
-   "sku": "doshift-105618",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plante artificielle décorative 120 cm – 36 feuilles (Vase décoratif non inclus)",
-     "description": "Apportez une touche de verdure élégante à votre intérieur avec cette plante artificielle de 120 cm. Son feuillage généreux composé de 36 feuilles offre un rendu naturel et décoratif, idéal pour embellir un salon, une chambre, un bureau, une réception ou un espace commercial.\n\nGrâce à son aspect réaliste, elle permet de profiter d’une ambiance végétale toute l’année sans arrosage ni entretien. Sa grande hauteur lui donne une belle présence tout en s’intégrant facilement dans différents styles de décoration.\n\nCaractéristique\nDétail\n\nType\nPlante artificielle décorative\n\nHauteur\n120 cm\n\nNombre de feuilles\n36 feuilles\n\nQuantité\n1 pièce\n\nAspect\nFeuillage vert effet naturel\n\nEntretien\nAucun arrosage requis\n\nUtilisation\nSalon, chambre, bureau, réception, commerce\n\nInstallation\nÀ poser dans un vase ou cache-pot adapté\n\nVase décoratif inclus\nNon\n\nRéférence\nAA4BB399",
-     "short_description": "Apportez une touche de verdure élégante à votre intérieur avec cette plante artificielle de 120 cm."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-26T154852.430.png"
    ]
   }
  ]

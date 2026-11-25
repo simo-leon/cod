@@ -1,8 +1,49 @@
 {
  "products": [
   {
-   "sku": "doshift-27736",
-   "price": 75,
+   "sku": "doshift-38730",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Avant de Vélo Rechargeable USB – Étanche IPX5, 3 Modes d’Éclairage",
+     "description": "Roulez en toute sécurité, de jour comme de nuit, avec cette lampe avant de vélo LED ultra-lumineuse.Conçue pour offrir une visibilité optimale, elle éclaire puissamment la route tout en restant compacte et légère.Grâce à son port USB rechargeable, vous n’aurez plus besoin de piles – une simple charge suffit pour plusieurs heures d’autonomie.Son corps étanche IPX5 la rend idéale pour toutes les conditions météo, même sous la pluie.Le système de fixation rapide en silicone permet de l’installer facilement sur tout type de guidon, sans outils.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLampe avant pour vélo rechargeable\n\nSource lumineuse\nLED haute intensité\n\nModes d’éclairage\n3 (Fort, Moyen, Flash)\n\nAlimentation\nBatterie intégrée rechargeable via USB\n\nAutonomie\nJusqu’à 6 heures selon le mode\n\nTemps de charge\nEnviron 2 à 3 heures\n\nÉtanchéité\nIPX5 (résistante à la pluie et à l’humidité)\n\nFixation\nSupport en silicone ajustable (sans outil)\n\nMatériau\nABS + Aluminium résistant\n\nPoids\nLéger et portable\n\nCouleur\nNoir mat\n\nIdéal pour\nVélo de route, VTT, trottinette, déplacements urbains\n\nRéférence DoShift\nAA1BB799",
+     "short_description": "Roulez en toute sécurité, de jour comme de nuit, avec cette lampe avant de vélo LED ultra-lumineuse.Conçue pour offrir une visibilité optimale, elle éclaire puissamment la route tout en restant compacte et légère.Grâce…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/flash4.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-38737",
+   "price": 77,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Appareil de Massage Manuel Sphérique – Relaxation et Stimulation Musculaire",
+     "description": "Offrez-vous un moment de détente où que vous soyez grâce à cet appareil de massage manuel sphérique, conçu pour soulager les tensions et stimuler la circulation.Sa forme ergonomique et ses multiples points de contact permettent un massage profond et ciblé, idéal pour les épaules, le dos, les jambes, les bras et même les mains.Compact et léger, il tient facilement dans la paume de la main et ne nécessite aucune alimentation électrique.Que ce soit après le sport, au bureau ou à la maison, ce masseur est votre allié bien-être pour relâcher le stress et améliorer la récupération musculaire.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nAppareil de massage manuel sphérique\n\nMatériau\nABS durable, doux au toucher\n\nDesign\nForme ronde avec 6 têtes de massage multidirectionnelles\n\nFonction\nMassage manuel, stimulation musculaire, relaxation\n\nZones ciblées\nCou, dos, épaules, bras, jambes, pieds, mains\n\nUtilisation\nDétente, récupération sportive, anti-stress\n\nAlimentation\nManuelle (aucune pile ni électricité)\n\nPoids\nLéger et facile à transporter\n\nDimensions\nCompact, tient dans une main\n\nCouleur\nNoir mat\n\nAvantages\nPortable, ergonomique, soulage efficacement les tensions\n\nRéférence DoShift\nAA3BB099",
+     "short_description": "Offrez-vous un moment de détente où que vous soyez grâce à cet appareil de massage manuel sphérique, conçu pour soulager les tensions et stimuler la circulation.Sa forme ergonomique et ses multiples points de contact…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/eagle1.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-38662",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -10,191 +51,154 @@
    ],
    "locales": {
     "fr": {
-     "name": "Support Ventouse en Silicone – Fixation Solide avec Support Intégré",
-     "description": "Profitez d’une fixation fiable et pratique avec ce support ventouse en silicone doté d’un support intégré. Sa ventouse puissante assure une adhérence solide sur de nombreuses surfaces lisses comme le verre, le métal ou le plastique, tandis que le support intégré permet de maintenir en place un smartphone, un GPS ou d’autres accessoires.Fabriqué en silicone de haute qualité, il résiste à l’usure tout en restant souple et facile à manipuler. Léger et compact, il est idéal pour une utilisation à la maison, au bureau ou en déplacement, que ce soit sur un bureau, un tableau de bord ou toute autre surface adaptée.\n\nCaractéristiques :\n\nMatière : Silicone résistant et souple\n\nVentouse puissante pour surfaces lisses\n\nSupport intégré pour téléphone ou accessoires\n\nRéutilisable et facile à nettoyer\n\nCompact et portable\n\nUtilisation polyvalente (voiture, bureau, maison)",
-     "short_description": "Profitez d’une fixation fiable et pratique avec ce support ventouse en silicone doté d’un support intégré."
+     "name": "Planche de Découpe & Plateau en Acier Inoxydable – 40 × 30 cm",
+     "description": "Apportez élégance et hygiène à votre cuisine avec cette planche en acier inoxydable multifonction.Conçue pour les cuisiniers exigeants, elle offre une surface solide, lisse et résistante aux rayures, parfaite pour découper viandes, légumes, fruits ou préparer vos recettes avec précision.Son design moderne et minimaliste s’intègre à toutes les cuisines, tandis que le matériau inox garantit une hygiène parfaite, sans odeurs ni taches.Facile à nettoyer, durable et polyvalente, elle peut également servir de plateau de préparation ou de présentation.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPlanche / Plateau en acier inoxydable\n\nUtilisation\nDécoupe, préparation, présentation alimentaire\n\nMatériau\nAcier inoxydable de qualité alimentaire\n\nDimensions\n40 × 30 cm\n\nÉpaisseur\n2 mm (robuste et stable)\n\nSurface\nAntirouille, anti-odeurs, facile à nettoyer\n\nDesign\nBord légèrement relevé pour éviter les écoulements\n\nCouleur\nArgent métallisé\n\nRésistance\nChaleur, rayures, chocs\n\nEntretien\nLavable à la main ou au lave-vaisselle\n\nPoids\nLéger et facile à manipuler\n\nRéférence DoShift\nAA12BB599",
+     "short_description": "Apportez élégance et hygiène à votre cuisine avec cette planche en acier inoxydable multifonction.Conçue pour les cuisiniers exigeants, elle offre une surface solide, lisse et résistante aux rayures, parfaite pour…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-11T095300.210-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/sas5.jpeg"
    ]
   },
   {
-   "sku": "doshift-27599",
-   "price": 159,
+   "sku": "doshift-38570",
+   "price": 259,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Boîte de rangement murale pliante – Design décoratif noir & blanc",
-     "description": "Optimisez votre espace avec cette boîte de rangement murale pratique et décorative. Son format compact permet de ranger facilement serviettes, accessoires, produits de beauté ou petits objets du quotidien tout en gardant votre intérieur bien organisé.\n\nSon couvercle rabattable facilite l’accès au contenu, tandis que son illustration noir et blanc apporte une touche originale à la décoration. Elle trouve facilement sa place dans une salle de bain, une chambre, une cuisine, une buanderie ou une entrée.\n\nCaractéristique\nDétail\n\nType\nBoîte de rangement murale\n\nFormat\nCompact\n\nCouleur principale\nBlanc\n\nDesign\nIllustration décorative noir et blanc\n\nOuverture\nCouvercle rabattable\n\nInstallation\nMurale\n\nUtilisation\nRangement et organisation\n\nConvient pour\nServiettes, accessoires, produits de beauté et petits objets\n\nPièces recommandées\nSalle de bain, chambre, cuisine, buanderie, entrée\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Optimisez votre espace avec cette boîte de rangement murale pratique et décorative."
+     "name": "Baroness – Boîte à Épices Murale 12 Pots (Support Mural & Design Compact)-Gris",
+     "description": "Organisez vos épices avec style grâce à la boîte à épices Baroness 12 pots, un accessoire indispensable pour toute cuisine moderne.Ce support mural élégant permet de garder vos condiments à portée de main tout en optimisant l’espace de travail.Fabriquée en plastique BPA Free de haute qualité, cette boîte assure une conservation hermétique des arômes et une grande résistance à l’usage quotidien.Facile à installer grâce à ses supports adhésifs ou à visser, elle s’adapte à tous les styles de cuisines, qu’elles soient contemporaines ou classiques.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nBaroness\n\nType\nBoîte à épices murale\n\nModèle\nBaharatlık / Spice Rack\n\nCapacité\n12 pots transparents individuels\n\nMatériau\nPlastique ABS de qualité alimentaire (BPA Free)\n\nCouleur principale\ngris\n\nInstallation\nFixation murale (adhésif ou vis inclus)\n\nUtilisation\nRangement des épices, herbes, condiments\n\nDesign\nCompact, élégant et facile à nettoyer\n\nDimensions approximatives\n34 × 24 × 10 cm\n\nEntretien\nLavable à la main ou en lave-vaisselle\n\nOrigine\nFabriqué en Turquie\n\nRéférence DoShift\nAA16BB099",
+     "short_description": "Organisez vos épices avec style grâce à la boîte à épices Baroness 12 pots, un accessoire indispensable pour toute cuisine moderne.Ce support mural élégant permet de garder vos condiments à portée de main tout en…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/ziad-91-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/cousina.jpeg"
    ]
   },
   {
-   "sku": "doshift-27489",
-   "price": 149,
+   "sku": "doshift-38555",
+   "price": 162,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    5,
-    6
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Casque Bluetooth Enfant VIV-23M à Oreilles de Chat LED",
-     "description": "Ajoutez une touche de fun à chaque moment d’écoute avec le casque Bluetooth VIV-23M. Son design adorable avec oreilles de chat lumineuses attire immédiatement l’attention, tandis que ses coussinets doux assurent un confort optimal pour les enfants. Idéal pour les cours en ligne, les vidéos éducatives, la musique ou les jeux, il offre une expérience audio agréable au quotidien.\n\nGrâce à la connexion Bluetooth 5.0, profitez d’une liaison rapide et stable avec les smartphones, tablettes et ordinateurs. Sa batterie rechargeable offre plusieurs heures d’utilisation pour accompagner les enfants à la maison, à l’école ou en voyage.\n\nCaractéristique\nDétail\n\nModèle\nVIV-23M\n\nType\nCasque Bluetooth enfant\n\nConnectivité\nBluetooth 5.0\n\nÉclairage\nLED multicolore\n\nMicrophone\nIntégré\n\nMode filaire\nOui\n\nDesign\nOreilles de chat\n\nBatterie\nRechargeable\n\nUtilisation\nMusique, appels, cours en ligne, jeux\n\nPublic\nEnfants et adolescents\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Ajoutez une touche de fun à chaque moment d’écoute avec le casque Bluetooth VIV-23M."
+     "name": "Arroseur Rotatif de Jardin Multi-Jets 360° avec Tuyau 4m",
+     "description": "Gardez votre jardin bien arrosé facilement avec cet arroseur rotatif multi-jets 360°. Grâce à ses sorties d’eau orientées et sa rotation automatique, il permet une diffusion large et uniforme pour arroser la pelouse, les plantes, les fleurs ou le potager.\n\nLivré avec un tuyau de 4 mètres, il s’installe rapidement et s’utilise directement dans différents espaces extérieurs. Sa base stable assure une bonne tenue au sol pendant l’arrosage.\n\nCaractéristique\nDétail\n\nProduit\nArroseur rotatif de jardin\n\nType\nMulti-jets\n\nRotation\n360°\n\nUtilisation\nJardin, pelouse, plantes, fleurs, potager\n\nTuyau inclus\nOui\n\nLongueur du tuyau\n4m\n\nInstallation\nSimple et rapide\n\nCouleur\nJaune / Noir / Orange\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Gardez votre jardin bien arrosé facilement avec cet arroseur rotatif multi-jets 360°."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/Nouveau-projet-2026-06-11T145908.467.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-07-09T144624.323.png"
    ]
   },
   {
-   "sku": "doshift-27529",
-   "price": 149,
+   "sku": "doshift-38547",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    5,
-    6
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Casque Audio Sans Fil Oreilles de Chat – Design Kawaii Confortable",
-     "description": "Profitez d’un casque ludique et confortable conçu spécialement pour les enfants, combinant style unique et performance audio de qualité. Avec son design oreilles de chat lumineux et ses couleurs attrayantes, il transforme chaque moment d’écoute en expérience amusante et immersive.Idéal pour écouter de la musique, regarder des vidéos ou suivre des cours en ligne, ce casque offre une connexion sans fil stable et une excellente qualité sonore. Son arceau ajustable et ses coussinets doux garantissent un confort optimal même après plusieurs heures d’utilisation.Grâce à ses lumières LED multicolores, il attire immédiatement l’attention et plaît aux enfants tout en restant pratique et facile à utiliser au quotidien.",
-     "short_description": "Profitez d’un casque ludique et confortable conçu spécialement pour les enfants, combinant style unique et performance audio de qualité."
+     "name": "Pommeau de Douche Turbocharged – “Filter Booster Shower Head” (Pression Réglable & Filtration Intégrée)",
+     "description": "Transformez votre douche quotidienne en une véritable expérience spa grâce à la pomme de douche Turbocharged.Conçue pour offrir une pression d’eau puissante et régulée, elle intègre un système de filtration interne pour purifier l’eau et protéger la peau.Son design moderne avec buse rotative à 3 modes (Cool / Mix / Atomisation) permet d’adapter le jet selon vos préférences – du massage tonifiant au jet doux relaxant.Avec son bouton d’arrêt intégré et sa manipulation à une main, elle combine praticité, confort et économie d’eau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPommeau de douche haute pression\n\nModèle\nTurbocharged Shower Head\n\nFonction principale\nFiltration + pression réglable + arrêt d’eau intégré\n\nMatériaux\nABS de qualité + revêtement électroplaqué\n\nModes de jet\n3 (Cool / Mix / Atomisation)\n\nContrôle\nBouton latéral “STOP” + interrupteur rotatif à 3 positions\n\nPression\nHaute pression avec effet turbine\n\nFiltration\nCartouche interne remplaçable (anti-impuretés)\n\nInstallation\nUniverselle (compatible tous flexibles standards)\n\nCouleur principale\nGris métal\n\nUtilisation\nSalle de bain, spa domestique, soins de la peau\n\nEntretien\nCartouche à remplacer tous les 3 mois (selon qualité d’eau)\n\nDimensions approximatives\n24 × 8 × 6 cm\n\nRéférence DoShift\nAA2BB399",
+     "short_description": "Transformez votre douche quotidienne en une véritable expérience spa grâce à la pomme de douche Turbocharged.Conçue pour offrir une pression d’eau puissante et régulée, elle intègre un système de filtration interne pour…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/Nouveau-projet-2026-04-22T212411.390.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/ek.jpeg"
    ]
   },
   {
-   "sku": "doshift-27506",
-   "price": 159,
+   "sku": "doshift-38526",
+   "price": 199,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    5,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Casque Sans Fil Oreilles de Chat LED – Bluetooth 5.0 | Audio Stéréo | Pliable",
-     "description": "Profitez d’un son stéréo clair et puissant, idéal pour écouter vos playlists, regarder des vidéos ou passer des appels. Grâce à sa connexion Bluetooth 5.0, bénéficiez d’une connexion stable et rapide jusqu’à 10 mètres. Son design confortable avec coussinets doux permet une utilisation prolongée sans gêne.\n\nCaractéristique\nDétail\n\nType\nCasque sans fil oreilles de chat\n\nConnectivité\nBluetooth 5.0\n\nPortée\nJusqu’à 10 mètres\n\nÉclairage\nLED multicolores (7 couleurs)\n\nAudio\nStéréo HiFi\n\nMicrophone\nIntégré (appels mains libres)\n\nAutonomie\nJusqu’à 10-12 heures\n\nTemps de charge\nEnviron 3 heures\n\nFréquence\n2.4 GHz\n\nConfort\nCoussinets doux + arceau ajustable\n\nFonction pliable\nOui\n\nCompatibilité\nSmartphone, tablette, PC, console\n\nBatterie\nRechargeable via USB\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Profitez d’un son stéréo clair et puissant, idéal pour écouter vos playlists, regarder des vidéos ou passer des appels. Grâce à sa connexion Bluetooth 5.0, bénéficiez d’une connexion stable et rapide jusqu’à 10 mètres."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/Nouveau-projet-2026-04-21T212411.314.png"
-   ]
-  },
-  {
-   "sku": "doshift-27336",
-   "price": 499,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Microphone Jmary PW9– Contrôle Complet, Éclairage RGB, Réduction de Bruit",
-     "description": "Améliorez votre expérience de streaming, gaming ou podcasting avec ce microphone professionnel RGB à condensateur. Doté d’un design élégant en métal, d’un pied réglable, et d’un éclairage RGB multicolore dynamique, il combine à la fois esthétique, performance et praticité.\n\nCe micro offre un son clair, riche et sans interférence, grâce à sa technologie de réduction de bruit intelligente intégrée. Parfaitement compatible avec les PC, ordinateurs portables, tablettes et smartphones, il dispose d’un port USB Plug & Play pour une installation instantanée sans pilote.\n\nGrâce à son support stable et orientable à 360°, ajustez-le librement selon votre angle de voix préféré. Les boutons intégrés permettent de gérer le volume du micro, l’écho, la sensibilité d’entrée, ainsi que le mute pour une maîtrise totale en temps réel.\n\nFonctionnalités principales :\n\nÉclairage RGB dynamique avec effets de lumière circulaire\n\nRéduction de bruit intelligente pour un son net et sans parasites\n\nContrôles intégrés : Volume, Echo, Mute, Gain\n\nRotation 360° pour un positionnement libre\n\nCompatibilité multi-appareils (PC, Mac, Android via adaptateur)\n\nIdéal pour jeux en ligne, lives Twitch/YouTube, podcasts, cours en ligne, réunions Zoom\n\nContenu du pack :\n\n1 Microphone RGB\n\n1 Support stable rotatif\n\n1 Câble USB (Plug & Play)\n\n1 Guide utilisateur\n\nOffrez-vous une qualité audio professionnelle et une ambiance gaming exceptionnelle avec ce microphone RGB complet, fiable et stylé.\n\nhttps://doshift.ma/wp-content/uploads/2025/08/jvlaaal.mp4",
-     "short_description": "Améliorez votre expérience de streaming, gaming ou podcasting avec ce microphone professionnel RGB à condensateur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/image-36.png"
-   ]
-  },
-  {
-   "sku": "doshift-27330",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clavier Flexible en Silicone – Résistant à l’Eau & Ultra Portable",
-     "description": "Découvrez la praticité ultime avec ce clavier flexible en silicone, conçu pour s’adapter à tous vos besoins de saisie, où que vous soyez. Sa matière souple et pliable permet de le rouler ou de le plier pour un transport facile dans un sac ou une mallette.Résistant à l’eau, à la poussière et aux éclaboussures, il est parfait pour une utilisation en extérieur, dans des environnements industriels ou simplement pour éviter les dégâts liés aux liquides.Son toucher doux et silencieux offre un confort de frappe optimal, tandis que sa compatibilité universelle USB le rend utilisable avec ordinateurs, tablettes et certains appareils Android.\n\nCaractéristiques :\n\nMatière : silicone souple et durable\n\nRésistant à l’eau, à la poussière et aux éclaboussures\n\nUltra portable : pliable et enroulable\n\nFrappe silencieuse et confortable\n\nCompatible Windows, Mac et Android (via adaptateur OTG)\n\nFacile à nettoyer avec un chiffon humide",
-     "short_description": "Découvrez la praticité ultime avec ce clavier flexible en silicone, conçu pour s’adapter à tous vos besoins de saisie, où que vous soyez."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-08T181725.726.png"
-   ]
-  },
-  {
-   "sku": "doshift-27286",
-   "price": 429,
-   "stock": 10,
-   "status": 0,
-   "categories": [
+    2,
     4,
     5
    ],
    "locales": {
     "fr": {
-     "name": "Microphone Jmary MC-PW13 RGB Professionnel avec Support de Bureau – USB Plug & Play pour Streaming, Podcast, Gaming",
-     "description": "Le Jmary MC-PW13 est un microphone USB à condensateur haut de gamme, pensé pour les passionnés de gaming, les streamers professionnels, les podcasteurs et tous les créateurs de contenu en quête de qualité sonore irréprochable et d’un design élégant.\n\nDoté d’un éclairage RGB dynamique, le MC-PW13 apporte une touche moderne à votre setup tout en reflétant l’ambiance de vos sessions live ou enregistrement. Grâce à sa technologie de captation cardioïde, il isole efficacement votre voix et réduit les bruits environnants, garantissant un rendu clair, net et immersif.\n\nLe support de bureau métallique inclus offre une excellente stabilité et permet un positionnement optimal sans besoin de bras articulé supplémentaire. Le bouton intégré facilite le contrôle du volume et le mute tactile, pour une gestion rapide et fluide en pleine session.\n\nCaractéristiques principales :• Microphone à condensateur cardioïde professionnel• Éclairage RGB intégré pour ambiance gaming ou streaming• Connexion USB Plug & Play – aucune configuration requise• Contrôle tactile (mute/volume) sur le micro• Support de bureau robuste et stable inclus• Idéal pour les appels, le streaming, l’enregistrement vocal, les podcasts…\n\nAvantages :✓ Qualité sonore studio avec suppression des bruits ambiants✓ Look moderne et premium avec finitions soignées✓ Compatible Windows, macOS, PS4/PS5, Android (via OTG)✓ Installation rapide, utilisation intuitive\n\n🎙️ Avec le MC-PW13, imposez votre voix avec puissance, style et clarté. Le micro RGB incontournable pour les setups professionnels.",
-     "short_description": "Le Jmary MC-PW13 est un microphone USB à condensateur haut de gamme, pensé pour les passionnés de gaming, les streamers professionnels, les podcasteurs et tous les créateurs de contenu en quête de qualité sonore…"
+     "name": "Microphone Sans Fil F15-2 – Double Émetteur avec Récepteur Lightning (Haute Qualité Audio & Réduction de Bruit)",
+     "description": "Profitez d’un son clair et professionnel pour vos vidéos, interviews ou podcasts avec le microphone sans fil F15-2.Conçu pour les créateurs de contenu, il comprend deux micros émetteurs TX et un récepteur Lightning, idéal pour iPhone et iPad.Sa technologie de transmission sans fil stable garantit une portée allant jusqu’à 20 mètres, avec une excellente réduction du bruit ambiant pour un enregistrement net même en extérieur.Facile à utiliser, il se connecte automatiquement sans application ni configuration complexe — parfait pour les vlogs, le streaming, les cours en ligne et les interviews.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nMicrophone sans fil double émetteur\n\nModèle\nF15-2\n\nConnectivité\nRécepteur Lightning (iPhone / iPad)\n\nNombre de microphones\n2 émetteurs TX + 1 récepteur\n\nPortée de transmission\nJusqu’à 20 mètres\n\nQualité sonore\nHaute fidélité, réduction de bruit intégrée\n\nAlimentation\nBatterie rechargeable intégrée\n\nAutonomie\nEnviron 6 heures d’utilisation continue\n\nChargement\nVia câble USB Type-C (inclus)\n\nCompatibilité\niPhone / iPad (port Lightning)\n\nUtilisation\nVlog, interview, TikTok, streaming, YouTube, cours en ligne\n\nInstallation\nPlug & Play – pas besoin d’application\n\nParticularités\nLéger, compact, avec bonnette anti-vent en mousse\n\nCouleur principale\nNoir\n\nRéférence DoShift\nAA14BB099",
+     "short_description": "Profitez d’un son clair et professionnel pour vos vidéos, interviews ou podcasts avec le microphone sans fil F15-2.Conçu pour les créateurs de contenu, il comprend deux micros émetteurs TX et un récepteur Lightning,…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/image-27.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/tx.jpeg"
    ]
   },
   {
-   "sku": "doshift-27252",
-   "price": 370,
+   "sku": "doshift-38509",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    5
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Microphone Gaming RGB Yanmai X1R avec Trépied, Filtre Anti-Pop, Câble USB-C et Adaptateur Type-C – Édition Complète",
-     "description": "Découvrez le microphone Yanmai X1R, un modèle de haute qualité conçu pour les gamers, streamers, podcasteurs et créateurs de contenu exigeants. Doté d’un design moderne avec éclairage RGB, d’une technologie de réduction de bruit (ANC) et d’un système de contrôle tactile (touch mute), ce micro est prêt à élever vos performances audio à un niveau professionnel.\n\nLe microphone à condensateur offre une captation claire, riche et naturelle de votre voix, avec un filtre anti-pop inclus pour éliminer les sons parasites. Son trépied antidérapant et sa suspension antichoc garantissent une stabilité optimale sur tout type de surface. Grâce au câble USB-C de 1,8 m et à l’adaptateur USB-A inclus, le X1R est compatible avec un large éventail d’appareils : PC, Mac, PS4/PS5, et smartphones via OTG.\n\nLe packaging complet comprend tous les accessoires nécessaires à une installation rapide et efficace, y compris un manuel utilisateur clair, un filtre anti-pop sur bras flexible, un trépied stable, un adaptateur de vis, et un câble de qualité professionnelle.\n\nFonctionnalités clés :• Microphone à condensateur RGB avec annulation de bruit active (ANC)• Bouton tactile « Mute » intuitif et discret• Support antichoc et trépied robuste inclus• Filtre anti-pop flexible pour un son propre et net• Câble USB-C vers USB-A (1.8 m) + adaptateur OTG Type-C• Plug & Play – aucune installation nécessaire• Compatible avec PC, Mac, PS4, PS5, Android (avec OTG), etc.\n\nInclus dans le pack :✓ Microphone RGB Yanmai X1R✓ Trépied avec suspension antichoc✓ Filtre anti-pop flexible✓ Câble USB-C de 1,8 m✓ Adaptateur USB-A vers Type-C✓ Manuel d’utilisation✓ Boîte d’emballage d’origine\n\n🎙️ Le microphone RGB ultime pour les sessions de jeu immersives, les enregistrements pros et les lives percutants.",
-     "short_description": "Découvrez le microphone Yanmai X1R, un modèle de haute qualité conçu pour les gamers, streamers, podcasteurs et créateurs de contenu exigeants."
+     "name": "Lampe LED à Détection de Mouvement Rechargeable USB-50 cm",
+     "description": "Éclairez facilement vos placards, couloirs, escaliers ou espaces de rangement avec cette lampe LED rechargeable à détection de mouvement. Son capteur détecte automatiquement votre passage jusqu’à environ 3 mètres, offrant un éclairage pratique sans avoir à chercher un interrupteur.\n\nÉquipée de 4 LED haute luminosité et de 3 modes de fonctionnement, elle peut être utilisée en éclairage continu ou automatique. Sa batterie intégrée de 800 mAh se recharge simplement grâce au port USB Type-C. Son installation rapide avec adhésif double face ne nécessite ni perçage ni câblage.\n\nCaractéristique\nDétail\n\nProduit\nLampe LED à détection de mouvement\n\nModèle\nHY-2014\n\nNombre de LED\n4 LED\n\nModes de fonctionnement\nON / OFF / Détection automatique\n\nDistance de détection\nJusqu’à environ 3 m\n\nBatterie\nBatterie intégrée 800 mAh\n\nAutonomie\nJusqu’à environ 2,5 heures\n\nRecharge\nUSB Type-C\n\nInstallation\nAdhésif double face\n\nUtilisation\nPlacard, escalier, cuisine, couloir, rangement\n\nCouleur\nArgent\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Éclairez facilement vos placards, couloirs, escaliers ou espaces de rangement avec cette lampe LED rechargeable à détection de mouvement."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/jvlaal-5.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-07-27T150923.861.png"
    ]
   },
   {
-   "sku": "doshift-27258",
-   "price": 214,
+   "sku": "doshift-38475",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    13
    ],
    "locales": {
     "fr": {
-     "name": "Séchoir à Linge Pliable 8 Bras Robuste Compact",
-     "description": "Simplifiez le séchage de vos vêtements avec ce séchoir à linge pliable à 8 bras, conçu pour maximiser l’espace tout en offrant une grande capacité d’étendage.Sa structure centrale en étoile permet une circulation d’air optimale, garantissant un séchage rapide et homogène.\n\nFabriqué en matériaux résistants, il est robuste, léger et facile à replier après usage. Idéal pour les appartements, balcons, salles de bain ou jardins, et particulièrement pratique pour les petites surfaces.\n\n✅ Caractéristiques techniques :\n\nType : Séchoir à linge sur pied pliable\n\nNombre de bras : 8 bras rotatifs\n\nMatériau : Plastique renforcé + métal léger (anti-corrosion)\n\nCouleur : Vert\n\nUtilisation : Intérieur / Extérieur",
-     "short_description": "Simplifiez le séchage de vos vêtements avec ce séchoir à linge pliable à 8 bras, conçu pour maximiser l’espace tout en offrant une grande capacité d’étendage.Sa structure centrale en étoile permet une circulation d’air…"
+     "name": "Poignee de Renforcement Ajustable – Resistance 5 a 60 kg couleur selon la disponibilité",
+     "description": "Améliorez votre force de préhension, votre endurance et la tonicité de vos avant-bras grâce à ce kit complet d’exercice pour la main et les doigts.Le Grip Adjustable est conçu avec une résistance réglable de 10 à 60 kg, permettant un entraînement progressif selon votre niveau.Idéal pour les sportifs, musiciens, rééducations ou personnes passant beaucoup de temps devant un ordinateur, il aide à renforcer la main, les doigts et les poignets tout en soulageant les tensions.Le coffret comprend plusieurs accessoires polyvalents (grip ball, anneau, extension doigts…) pour un entraînement complet et équilibré.\n\nCaractéristiques du Produit:\n\ncaracteristique\nDétail\n\nType\nKit de renforcement musculaire de la main\n\nModèle\nAdjustable Grip + Grip Ball\n\nRésistance-réglable\nDe 10 à 60 kg\n\nAccessoires inclus\nGrip principal, balle antistress, anneau, extension doigts, mini renforceur de doigts\n\nMatériau\nABS durable + ressort en acier carbone\n\nPoignée\nErgonomique, antidérapante et confortable\n\nCouleurs-disponibles\nNoir, Bleu, Vert, Orange\n\nUtilisation\nMusculation, physiothérapie, rééducation, sport, musique\n\nPoids\nLéger et portable\n\nAvantages\nRenforce les doigts, les mains, les poignets et les avant-bras\n\nRéférence DoShift\nAA4BB099",
+     "short_description": "Améliorez votre force de préhension, votre endurance et la tonicité de vos avant-bras grâce à ce kit complet d’exercice pour la main et les doigts.Le Grip Adjustable est conçu avec une résistance réglable de 10 à 60 kg,…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/08/ChatGPT-Image-7-aout-2025-12_42_15.png"
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-27T145708.607-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-38461",
+   "price": 102,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jouet Éducatif “Reaction Challenge” Rose – Jeu de Réflexe et Coordination Œil-Main",
+     "description": "Stimule la réactivité et la concentration des enfants avec le Reaction Challenge, un jeu interactif qui combine lumières, sons et mouvement !Conçu pour développer la coordination œil-main, la rapidité de réaction et la motricité fine, ce jouet ludique permet de s’amuser tout en apprenant.Idéal pour jouer seul ou en famille, il offre plusieurs niveaux de vitesse et un mode musical amusant.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nJouet interactif éducatif\n\nNom du modèle\nReaction Challenge\n\nFonctions principales\nJeu de réflexe, coordination et rapidité\n\nModes de jeu\n3 vitesses réglables, musique intégrée, effets lumineux\n\nComposants inclus\nBase principale avec capteurs lumineux + 8 bâtons de réaction + câble de charge USB\n\nAlimentation\nBatterie intégrée rechargeable\n\nMatériau\nPlastique ABS non toxique\n\nCouleurs disponibles\nRose\n\nDimensions approximatives\n40 × 7 × 6 cm\n\nPublic cible\nEnfants à partir de 3 ans\n\nUtilisation\nJeu éducatif, apprentissage sensoriel, activité familiale\n\nAvantages\nDéveloppe la concentration, la coordination et la réactivité\n\nRéférence DoShift\nAA6BB099",
+     "short_description": "Stimule la réactivité et la concentration des enfants avec le Reaction Challenge, un jeu interactif qui combine lumières, sons et mouvement !Conçu pour développer la coordination œil-main, la rapidité de réaction et la…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/okho5.jpeg"
    ]
   }
  ]

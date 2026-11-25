@@ -1,6 +1,63 @@
 {
  "products": [
   {
+   "sku": "doshift-122750",
+   "price": 49,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte Hermétique en Verre Carrée Haute 800 ml",
+     "description": "Avec sa généreuse contenance de 800 ml et ses parois profondes, la boîte carrée AZATECH NEG-GLF-506-24 est conçue pour stocker et réchauffer des plats cuisinés complets, des currys ou des gratins pour deux personnes. Fabriquée en verre borosilicate inaltérable, elle permet de cuire vos recettes directement au four avant de les fermer hermétiquement pour une conservation optimale au réfrigérateur.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBoîte de conservation et de cuisson hermétique carrée haute capacité en verre\n\nCapacité\nVolume utile 800 ml (plats en sauce, gratins généreux et salades composées)\n\nMatériaux\nVerre borosilicate thermo-résistant sain (sans BPA ni phtalates) et silicone\n\nFermeture\nCouvercle à 4 charnières clipsables renforcées avec valve d’échappement vapeur\n\nUsage\nConservation hermétique au frais, cuisson au four et réchauffage au micro-ondes\n\nSKU\n9900010930971",
+     "short_description": "Boîte carrée haute 800 ml en verre borosilicate avec couvercle 4 clips étanche et valve micro-ondes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/5dd94344-a001-42a0-b210-3f3dececa8e5.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122740",
+   "price": 39,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte Hermétique en Verre Carrée 520 ml",
+     "description": "Format polyvalent par excellence pour emporter son déjeuner au bureau ou stocker les restes familiaux au frais, la boîte en verre AZATECH NEG-GLF-507-36 de 520 ml garantit une conservation saine sans transfert d’odeur ni de goût. Son verre borosilicate robuste passe sans transition du congélateur au four ou au micro-ondes.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBoîte de conservation et de cuisson hermétique carrée moyenne en verre\n\nCapacité\nVolume utile 520 ml (repas individuel, accompagnements et desserts)\n\nMatériaux\nVerre borosilicate thermo-résistant haute densité et joint silicone étanche\n\nFermeture\nCouvercle à 4 rabats de sécurité et clapet de décompression vapeur\n\nCompatibilité\nRésiste aux chocs thermiques (compatible four, micro-ondes et congélation)\n\nSKU\n9900010930964",
+     "short_description": "Boîte en verre borosilicate 520 ml carrée avec couvercle hermétique à valve vapeur et joint vert."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/3477c08f-fe3a-4aae-a8e0-b13e147a4b74.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-122730",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte Hermétique en Verre Carrée 320 ml",
+     "description": "Idéale pour conserver les sauces, restes de repas, collations ou portions pour bébé, la boîte hermétique AZATECH NEG-GLF-508-48 de 320 ml offre une résistance thermique extrême du congélateur jusqu’au four. Son couvercle à quatre rabats et joint silicone garantit une étanchéité totale aux liquides et odeurs, tandis que sa valve vapeur intégrée permet de réchauffer vos plats au micro-ondes sans retirer le couvercle pour éviter toute projection.\n\nCaractéristique\nSpécification Détaillée\n\nType\nBoîte de conservation et de cuisson hermétique carrée en verre borosilicate\n\nCapacité\nVolume utile 320 ml (format portion individuelle, sauces et purées bébé)\n\nMatériaux\nVerre borosilicate thermo-résistant (-20°C à +400°C) et joint silicone vert d’eau\n\nFermeture\nCouvercle transparent à 4 clapets verrouillables et valve d’aération vapeur\n\nCompatibilité\nFour traditionnel (sans couvercle), micro-ondes, congélateur et lave-vaisselle\n\nSKU\n9900010930957",
+     "short_description": "Boîte carrée 320 ml en verre borosilicate avec couvercle 4 clips étanche et valve micro-ondes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/27405424-37f7-43d4-99c1-02e3180fb12b.jpg"
+   ]
+  },
+  {
    "sku": "doshift-122687",
    "price": 149,
    "stock": 10,
@@ -133,63 +190,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/10/0637671d-b672-4282-9f38-5de0480dc030.webp"
-   ]
-  },
-  {
-   "sku": "doshift-121488",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plat Rond en Bambou avec Cloche Dôme Transparente",
-     "description": "Pensé pour sublimer vos créations pâtissières tout en optimisant l’encombrement sur votre table ou dans votre réfrigérateur, le présentoir rond AZATECH NEG-WDD-620-40 associe un plateau circulaire épuré en bambou massif à une haute cloche dôme transparente.\n\nCaractéristique\nSpécification Détaillée\n\nType\nPrésentoir à pâtisserie et fromage rond sans poignée avec cloche dôme\n\nMatériaux\nPlateau circulaire en bambou naturel et dôme en verre acrylique transparent\n\nBouton\nPoignée supérieure sphérique en cristal acrylique taillé à facettes\n\nCapacité\nDiamètre extérieur 28 cm (Ø utile 25 cm, hauteur sous dôme 15 cm)\n\nConditionnement\nEnsemble 2 pièces (Colisage grossiste B2B : 40 pièces / carton)\n\nSKU\n9900010930629",
-     "short_description": "Présentoir à gâteau rond Ø 28 cm en bambou avec cloche dôme haute et bouton cristal facetté."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/0a7e9832-5401-429e-b59d-2576921cf2a4.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-121430",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de Dessous de Plat Fleur en Bois sur Support Pied",
-     "description": "Véritable objet de décoration sculpturale lorsqu’il est posé sur votre plan de travail ou au centre de la table, l’ensemble AZATECH NEG-WDD-609-50 réunit trois dessous de plat en bois massif façonnés en forme de fleur à huit pétales sur un support tige assorti. Dès le service venu, chaque corolle se retire en un geste de l’axe central pour accueillir vos plats chauds, théières et casseroles\n\nCaractéristique\nSpécification Détaillée\n\nType\nEnsemble de dessous de plat en forme de fleur avec présentoir sur pied\n\nContenu\n3 dessous de plat fleur à 8 pétales superposés + 1 support tige sur socle\n\nMatériaux\nBois d’hévéa / chêne naturel massif au veinage apparent finement poncé\n\nDimensions\nHauteur totale sur pied 23 cm, diamètre de chaque fleur 18 cm, socle Ø 10 cm\n\nConditionnement\nSet complet avec support (Colisage grossiste B2B : 50 sets / carton)\n\nSKU\n9900010930582",
-     "short_description": "Set de 3 dessous de plat en bois massif forme fleur Ø 18 cm sur support présentoir vertical."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/2b26eb63-1738-41f0-9fa0-e2b7131a7433.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-121406",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Dessous de Plat Rond Ajouré en Navettes de Bambou",
-     "description": "Grâce à son diamètre généreux de 22 cm et son tressage géométrique en rosace, le dessous de plat AZATECH NEG-WDD-630-100 accueille vos grands récipients ronds avec une stabilité remarquable. Ses perles navettes en bambou carbonisé résistent aux fortes températures tout en laissant circuler l’air sous le plat pour éviter toute trace d’humidité ou de brûlure sur votre table.\n\nCaractéristique\nSpécification Détaillée\n\nType\nDessous de plat circulaire / octogonal ajouré en navettes de bambou\n\nMatériaux\nPerles navettes en bambou naturel carbonisé et câblage interne souple\n\nStructure\nRosace géométrique formée de 66 navettes ovales assemblées en étoiles\n\nDimensions\nDiamètre 22 cm × Épaisseur 0,8 cm (pour cocottes, tajines et poêles)\n\nConditionnement\nUnité individuelle souple (Colisage grossiste B2B : 100 pièces / carton)\n\nSKU\n9900010930575",
-     "short_description": "Dessous de plat rond Ø 22 cm en perles navettes de bambou tressées en rosace géométrique."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/9adce0b0-566a-4555-9cdf-799ddf8f04b1.webp"
    ]
   }
  ]

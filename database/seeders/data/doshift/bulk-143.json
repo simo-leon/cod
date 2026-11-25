@@ -1,87 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-126662",
-   "price": 359,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Cage de Transport pour Animaux Pêche / Rose Clair – Caisse de Transport Aérée avec Trappe Supérieure, Porte Grille Blanche et Poignée",
-     "description": "Déplacez votre animal de compagnie en toute sérénité grâce à cette caisse de transport couleur pêche / rose clair dotée d’une ouverture supérieure transparente, d’une porte grille blanche et de fentes d’aération latérales. Pratique et sécurisée avec ses loquets de verrouillage et sa poignée intégrée, elle accompagne idéalement vos visites vétérinaires, sorties et trajets.\n\nCaractéristique\nDétail\n\nType de produit\nCage / Caisse de transport pour animaux de compagnie\n\nMarque\nNon spécifié\n\nModèle\nCaisse de transport aérée avec trappe supérieure et porte grille frontale\n\nCouleur\nPêche / Rose pastel avec porte grille blanche, trappe fumée/transparente et loquets vert olive / blanc\n\nCompatibilité\nPetits animaux de compagnie (chats, petits chiens, lapins, etc.), trajets en voiture, visites chez le vétérinaire et déplacements\n\nFonctionnalités\nTrappe supérieure rabattable transparente/teintée avec poignée intégrée, porte frontale à grille métallique blanche avec système de verrouillage, fentes d’aération latérales et supérieures, clips latéraux d’assemblage de la coque\n\nAvantages\nBonne circulation de l’air grâce aux fentes latérales et à la grille, accès facilité par le haut et par l’avant, visibilité et contrôle de l’animal pendant le transport\n\nContenu de la boîte\n1 caisse de transport pour animaux avec porte grille et trappe supérieure\n\nDimensions du produit (cm)\n\n Longueur : ~46,0 à 52,0 cm\n\n Largeur : ~30,0 à 35,0 cm\n\n Hauteur (fermée) : ~30,0 à 36,0 cm\n\nSKU\n700000000000009",
-     "short_description": "Déplacez votre animal de compagnie en toute sérénité grâce à cette caisse de transport couleur pêche / rose clair dotée d’une ouverture supérieure transparente, d’une porte grille blanche et de fentes d’aération latérales. Pratique et sécurisée avec ses loquets de verrouillage et sa poignée intégrée, elle accompagne idéalement vos visites vétérinaires, sorties et trajets."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-58.png"
-   ]
-  },
-  {
-   "sku": "doshift-126645",
-   "price": 255,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac à Dos Noir Multi-Compartiments « FASHION » – Sac Ordinateur / Voyage avec Port USB Latéral, Sangle Poitrine et Poches Filet",
-     "description": "Transportez vos affaires du quotidien et votre équipement avec organisation et confort grâce à ce sac à dos noir doté d’une inscription verticale  et d’un liseré réfléchissant à l’avant. Équipé d’un port USB latéral, de poches en filet, de sangles de compression, d’une sangle de poitrine à clip et d’un dos matelassé, il est idéal pour le travail, les études et les déplacements.\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos / Sac ordinateur / Sac de voyage et quotidien\n\nMarque\nNon spécifié\n\nModèle\nSac à dos noir  avec port USB latéral et sangle pectorale\n\nCouleur\nNoir avec marquage , liseré réfléchissant gris et petit emblème rouge/argent\n\nCompatibilité\nOrdinateurs portables, batteries externes, câbles, chargeurs, documents, affaires de bureau ou d’études, voyages et déplacements\n\nFonctionnalités\nCompartiments zippés multiples dont poche frontale zippée avec inscription  et bande réfléchissante horizontale, port USB externe sur le côté, poches latérales en filet, sangles de compression latérales avec boucles, poignée supérieure renforcée et sangle d’accroche, bretelles matelassées réglables avec sangle de poitrine à clip, panneau dorsal rembourré et aéré, sangle horizontale arrière pour valise trolley\n\nAvantages\nRangement structuré et accessible, visibilité accrue grâce au liseré réfléchissant, portage stable et confortable avec dos matelassé et sangle pectorale, pratique en déplacement avec port USB et passant trolley\n\nContenu de la boîte\n1 sac à dos noir multi-compartiments\n\nDimensions du produit (cm)\n\n Hauteur : ~44,0 à 50,0 cm\n\n Largeur : ~28,0 à 33,0 cm\n\n Profondeur / Épaisseur : ~16,0 à 22,0 cm\n\nSKU\n700000000000151",
-     "short_description": "Transportez vos affaires du quotidien et votre équipement avec organisation et confort grâce à ce sac à dos noir doté d’une inscription verticale  et d’un liseré réfléchissant à l’avant. Équipé d’un port USB latéral, de poches en filet, de sangles de compression, d’une sangle de poitrine à clip et d’un dos matelassé, il est idéal pour le travail, les études et les déplacements."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-50.png"
-   ]
-  },
-  {
-   "sku": "doshift-126585",
-   "price": 255,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac à Dos Noir Multi-Poches avec Rabat à Boutons Pression – Sac Ordinateur / Voyage avec Port USB Latéral et Sangles de Compression",
-     "description": "Transportez vos affaires et équipements du quotidien avec organisation et confort grâce à ce sac à dos noir au design moderne. Doté d’une poche frontale à rabat avec boutons pression, d’un port USB latéral, de poches en filet, de sangles de compression et d’un dos matelassé, il convient idéalement aux études, au travail et aux déplacements.\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos / Sac ordinateur / Sac de voyage et quotidien\n\nMarque\nNon spécifié\n\nModèle\nSac à dos noir avec rabat à boutons pression, port USB et sangles latérales\n\nCouleur\nNoir avec emblème métallique argenté\n\nCompatibilité\nOrdinateurs portables, batteries externes, câbles, chargeurs, documents, affaires de cours ou de bureau, déplacements et voyages\n\nFonctionnalités\nCompartiments zippés multiples, poche frontale à rabat avec deux boutons pression et fermeture zippée latérale, port USB externe sur le côté, poches latérales en filet avec sangles de compression à boucle, poignée supérieure rembourrée et boucle d’accroche, bretelles réglables matelassées, panneau dorsal aéré/matelassé et sangle horizontale arrière pour valise trolley\n\nAvantages\nRangement polyvalent et sécurisé avec rabat à boutons pression, portage confortable grâce au dos matelassé et aux bretelles réglables, praticité en déplacement avec port USB externe et passant trolley\n\nContenu de la boîte\n1 sac à dos noir multi-poches\n\nDimensions du produit (cm)\n\n Hauteur : ~44,0 à 50,0 cm\n\n Largeur : ~28,0 à 33,0 cm\n\n Profondeur / Épaisseur : ~16,0 à 22,0 cm\n\nSKU\n700000000000152",
-     "short_description": "Transportez vos affaires et équipements du quotidien avec organisation et confort grâce à ce sac à dos noir au design moderne. Doté d’une poche frontale à rabat avec boutons pression, d’un port USB latéral, de poches en filet, de sangles de compression et d’un dos matelassé, il convient idéalement aux études, au travail et aux déplacements."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-46.png"
-   ]
-  },
-  {
-   "sku": "doshift-126576",
-   "price": 255,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac à Dos Noir Multi-Compartiments – Sac Ordinateur / Voyage avec Port USB Latéral, Sangle Poitrine et Poches Filet",
-     "description": "Transportez votre matériel et vos affaires du quotidien avec confort et organisation grâce à ce sac à dos noir multi-compartiments. Doté d’un port USB latéral, de sangles de compression, de poches latérales en filet, d’une sangle de poitrine à clip et d’un dos matelassé respirant, il convient idéalement aux études, au travail et aux déplacements.\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos / Sac ordinateur / Sac de voyage et quotidien\n\nMarque\nNon spécifié\n\nModèle\nSac à dos noir multi-poches avec port USB latéral et sangle pectorale\n\nCouleur\nNoir avec liserés réfléchissants gris et petit logo rouge\n\nCompatibilité\nOrdinateurs portables, chargeurs, batteries externes, documents, fournitures scolaires ou de bureau, voyages et déplacements quotidiens\n\nFonctionnalités\nCompartiments zippés multiples dont poche frontale verticale et compartiment supérieur, port USB externe sur le côté, poches latérales en filet, sangles de compression latérales avec boucles, poignée supérieure et sangle d’accroche, bretelles matelassées réglables avec sangle de poitrine à clip, panneau dorsal rembourré et respirant, sangle horizontale arrière pour valise trolley\n\nAvantages\nOrganisation claire des accessoires grâce aux nombreux rangements, portage ergonomique et stable avec sangle poitrine et dos matelassé, praticité en déplacement avec port USB et fixation trolley\n\nContenu de la boîte\n1 sac à dos noir multi-compartiments\n\nDimensions du produit (cm)\n\n Hauteur : ~44,0 à 50,0 cm\n\n Largeur : ~28,0 à 33,0 cm\n\n Profondeur / Épaisseur : ~15,0 à 22,0 cm\n\nSKU\n700000000000150",
-     "short_description": "Transportez votre matériel et vos affaires du quotidien avec confort et organisation grâce à ce sac à dos noir multi-compartiments. Doté d’un port USB latéral, de sangles de compression, de poches latérales en filet, d’une sangle de poitrine à clip et d’un dos matelassé respirant, il convient idéalement aux études, au travail et aux déplacements."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-42.png"
-   ]
-  },
-  {
-   "sku": "doshift-126567",
-   "price": 229,
+   "sku": "doshift-26060",
+   "price": 309,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -89,18 +10,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Sacoche Noire pour Ordinateur Portable – Sac Business à Doubles Poignées avec Poches Frontales, Poche Zippée Arrière et Sangle Trolley",
-     "description": "Organisez et transportez votre ordinateur portable et vos accessoires avec efficacité grâce à cette sacoche noire au design sobre et structuré. Dotée de doubles poignées renforcées, de deux poches avant pratiques, d’une poche zippée arrière et d’une sangle pour valise trolley, elle accompagne idéalement vos déplacements professionnels et quotidiens.\n\nCaractéristique\nDétail\n\nType de produit\nSacoche / Sac business / Sac pour ordinateur portable\n\nMarque\nNon spécifié\n\nModèle\nSacoche noire multi-poches avec passant trolley\n\nCouleur\nNoir avec tirettes et finitions métalliques argentées\n\nCompatibilité\nOrdinateurs portables, chargeurs, souris, câbles, carnets, documents, déplacements professionnels et voyages avec valise trolley\n\nFonctionnalités\nCompartiment principal à double fermeture éclair, deux poches frontales distinctes (une à rabat et une zippée), poche zippée à l’arrière, sangle horizontale arrière pour fixation sur valise trolley, doubles poignées rembourrées/renforcées, anneaux latéraux pour bandoulière\n\nAvantages\nRangement compartimenté facilitant l’accès aux accessoires du quotidien, fixation pratique sur poignée de valise lors des voyages, esthétique sobre et professionnelle\n\nContenu de la boîte\n1 sacoche noire pour ordinateur portable\n\nDimensions du produit (cm)\n\n Longueur : ~38,0 à 42,0 cm\n\n Hauteur : ~28,0 à 32,0 cm\n\n Épaisseur / Profondeur : ~7,0 à 11,0 cm\n\nSKU\n700000000000145",
-     "short_description": "Organisez et transportez votre ordinateur portable et vos accessoires avec efficacité grâce à cette sacoche noire au design sobre et structuré. Dotée de doubles poignées renforcées, de deux poches avant pratiques, d’une poche zippée arrière et d’une sangle pour valise trolley, elle accompagne idéalement vos déplacements professionnels et quotidiens."
+     "name": "Carte Memoire Kingston 128GB",
+     "description": "La carte mémoire Kingston 128 Go offre un stockage haute capacité et des vitesses de transfert rapides pour répondre aux besoins les plus exigeants. Grâce à sa norme microSDXC Classe 10 UHS-I (U1), elle est parfaite pour les vidéos Full HD, les photos haute résolution, les jeux mobiles et le stockage massif de fichiers.\n\nCompatible avec la plupart des smartphones, tablettes, caméras, drones, consoles de jeu ou PC, cette carte est également conçue pour résister à des conditions extrêmes : eau, chocs, rayons X et températures extrêmes.\n\n🔧 Caractéristiques Techniques :\n\n✅ Marque : Kingston\n\n✅ Capacité : 128 Go\n\n✅ Type : microSDXC (avec ou sans adaptateur SD selon modèle)\n\n✅ Classe de vitesse : Classe 10 / UHS-I (U1)\n\n✅ Vitesse de lecture : Jusqu’à 100 Mo/s\n\n✅ Compatibilité : Smartphones, caméras, drones, tablettes, consoles, ordinateurs\n\n✅ Résistante à : L’eau, les chocs, les rayons X, les températures extrêmes\n\n✅ Utilisation : Vidéo Full HD, photo, musique, jeux, fichiers lourds\n\n✅ Format : microSDXC – nécessite appareil compatible SDXC",
+     "short_description": "La carte mémoire Kingston 128 Go offre un stockage haute capacité et des vitesses de transfert rapides pour répondre aux besoins les plus exigeants."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-38.png"
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-28T184247.077.png"
    ]
   },
   {
-   "sku": "doshift-126557",
-   "price": 209,
+   "sku": "doshift-26058",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -108,91 +29,166 @@
    ],
    "locales": {
     "fr": {
-     "name": "Sacoche / Sac Business Noir pour Ordinateur Portable – Sac à Main et Bandoulière avec Sangle Trolley et Poche Zippée",
-     "description": "Transportez votre ordinateur portable et vos essentiels professionnels avec élégance grâce à cette sacoche noire au design sobre et fonctionnel. Dotée de doubles poignées supérieures, d’une bandoulière réglable, d’une poche zippée à l’avant et d’une sangle arrière pour valise trolley, elle s’adapte parfaitement à vos déplacements quotidiens.\n\nCaractéristique\nDétail\n\nType de produit\nSacoche / Sac business / Sac pour ordinateur portable\n\nMarque\nNon spécifié\n\nModèle\nSacoche noire à double poignée avec bandoulière et passant trolley\n\nCouleur\nNoir\n\nCompatibilité\nOrdinateurs portables, documents, chargeurs, accessoires de bureau, déplacements professionnels et voyages avec valise trolley\n\nFonctionnalités\nCompartiment principal à double fermeture éclair, poche frontale zippée horizontale, doubles poignées avec renfort supérieur et attaches renforcées, bandoulière réglable, sangle transversale arrière pour fixation sur poignée de valise, badge discret à l’avant\n\nAvantages\nPlusieurs modes de transport (à la main, en bandoulière ou fixé sur valise), accès rapide aux accessoires via la poche avant zippée, style professionnel discret et polyvalent\n\nContenu de la boîte\n1 sacoche noire avec bandoulière\n\nDimensions du produit (cm)\n\n Longueur : ~38,0 à 42,0 cm\n\n Hauteur : ~28,0 à 32,0 cm\n\n Épaisseur / Profondeur : ~6,0 à 10,0 cm\n\nSKU\n700000000000146",
-     "short_description": "Transportez votre ordinateur portable et vos essentiels professionnels avec élégance grâce à cette sacoche noire au design sobre et fonctionnel. Dotée de doubles poignées supérieures, d’une bandoulière réglable, d’une poche zippée à l’avant et d’une sangle arrière pour valise trolley, elle s’adapte parfaitement à vos déplacements quotidiens."
+     "name": "Carte Memoire Kingston 64GB",
+     "description": "La carte mémoire Kingston 64 Go est conçue pour offrir un stockage rapide et sécurisé sur une large gamme d’appareils : smartphones, caméras, tablettes, drones, consoles de jeux, GPS et plus encore.\n\nGrâce à la norme microSDXC Classe 10 UHS-I, elle garantit des vitesses de lecture élevées, parfaites pour l’enregistrement et la lecture de vidéos Full HD, ainsi que pour le transfert de fichiers volumineux. Fiable et robuste, elle est conçue pour résister aux conditions extrêmes : eau, chocs, températures, rayons X.\n\n🔧 Caractéristiques Techniques :\n\n✅ Marque : Kingston\n\n✅ Capacité : 64 Go\n\n✅ Type : microSDXC (avec ou sans adaptateur SD selon pack)\n\n✅ Classe de vitesse : Classe 10 / UHS-I (U1)\n\n✅ Vitesse de lecture : Jusqu’à 100 Mo/s\n\n✅ Compatibilité : Smartphones, caméras, drones, tablettes, consoles, etc.\n\n✅ Résistante à : Eau, températures extrêmes, chocs, rayons X\n\n✅ Utilisation : Vidéos Full HD, photos haute résolution, musique, stockage mobile\n\n✅ Format : microSDXC – nécessite appareil compatible SDXC",
+     "short_description": "La carte mémoire Kingston 64 Go est conçue pour offrir un stockage rapide et sécurisé sur une large gamme d’appareils : smartphones, caméras, tablettes, drones, consoles de jeux, GPS et plus encore."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-34.png"
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-28T184247.077.png"
    ]
   },
   {
-   "sku": "doshift-126514",
-   "price": 195,
+   "sku": "doshift-26055",
+   "price": 127,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    13
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Sac de Voyage / Sac de Sport Noir – Sac Polochon avec Poche Zippée Frontale, Poignées et Bandoulière Amovible",
-     "description": "Emportez vos affaires avec style et praticité grâce à ce sac de voyage et de sport noir au design sobre et fonctionnel. Doté de doubles poignées renforcées, d’une bandoulière amovible à mousquetons et d’une poche zippée à l’avant, il accompagne idéalement vos week-ends, déplacements et séances d’entraînement.\n\nCaractéristique\nDétail\n\nType de produit\nSac de voyage / Sac de sport / Sac polochon\n\nMarque\nNon spécifié\n\nModèle\nSac polochon noir avec poche frontale zippée et bandoulière\n\nCouleur\nNoir avec finitions métalliques argentées\n\nCompatibilité\nWeek-ends, voyages courts, déplacements professionnels, salle de sport, activités sportives et loisirs\n\nFonctionnalités\nCompartiment principal zippé, poche frontale zippée facile d’accès, doubles poignées avec sangles verticales et renforts en croix, bandoulière réglable et amovible fixée par mousquetons latéraux\n\nAvantages\nDouble option de porté (à la main ou en bandoulière/épaule), accès rapide aux petits objets via la poche avant, design noir polyvalent et facile à assortir\n\nContenu de la boîte\n1 sac de voyage/sport noir avec bandoulière amovible\n\nDimensions du produit (cm)\n\n Longueur : ~48,0 à 52,0 cm\n\n Largeur / Profondeur : ~20,0 à 25,0 cm\n\n Hauteur : ~28,0 à 35,0 cm\n\nSKU\n700000000000148",
-     "short_description": "Emportez vos affaires avec style et praticité grâce à ce sac de voyage et de sport noir au design sobre et fonctionnel. Doté de doubles poignées renforcées, d’une bandoulière amovible à mousquetons et d’une poche zippée à l’avant, il accompagne idéalement vos week-ends, déplacements et séances d’entraînement."
+     "name": "Carte Memoire Kingston 32GB",
+     "description": "La carte mémoire Kingston 32 Go est parfaite pour étendre l’espace de stockage de vos appareils photo, caméscopes, smartphones, tablettes, consoles de jeux, GPS ou lecteurs multimédias. Grâce à sa vitesse de classe 10, elle garantit des transferts rapides et fluides, même pour les vidéos HD et les fichiers volumineux.\n\nFiable et résistante, elle est conçue pour fonctionner dans des conditions extrêmes : résistante à l’eau, aux chocs, aux rayons X et aux variations de température. Compacte et facile à transporter, c’est une solution de stockage idéale au quotidien.\n\n🔧 Caractéristiques Techniques :\n\n✅ Marque : Kingston\n\n✅ Capacité : 32 Go\n\n✅ Type : SDHC ou microSDHC (selon modèle)\n\n✅ Classe de vitesse : Classe 10 – idéale pour vidéo HD\n\n✅ Vitesse de lecture : Jusqu’à 100 Mo/s\n\n✅ Compatibilité : Smartphones, appareils photo, caméscopes, tablettes, consoles, etc.\n\n✅ Résistante à : Eau, chocs, rayons X, températures extrêmes\n\n✅ Format : Carte microSDHC avec adaptateur (selon pack)\n\n✅ Utilisation : Photos, vidéos HD, musique, fichiers",
+     "short_description": "La carte mémoire Kingston 32 Go est parfaite pour étendre l’espace de stockage de vos appareils photo, caméscopes, smartphones, tablettes, consoles de jeux, GPS ou lecteurs multimédias."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-22.png"
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-28T184247.077.png"
    ]
   },
   {
-   "sku": "doshift-126506",
-   "price": 265,
+   "sku": "doshift-26051",
+   "price": 127,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Néon LED « HAPPY HOUR » avec Verre à Cocktail – Décoration Lumineuse Multicolore sur Support Transparent",
-     "description": "Créez une ambiance festive et conviviale avec cette lampe néon LED « HAPPY HOUR » accompagnée d’un verre à cocktail aux couleurs rose, vert clair, jaune et blanc. Montée sur un support transparent découpé selon les contours, elle est idéale pour animer un bar, un salon, un coin détente ou une soirée entre amis.\n\nCaractéristique\nDétail\n\nType de produit\nLampe néon LED / Enseigne décorative lumineuse\n\nMarque\nNon spécifié\n\nModèle\nNéon « HAPPY HOUR » avec motif verre à cocktail sur plaque transparente\n\nCouleur\nRose, Vert clair, Jaune et Blanc sur support Transparent\n\nCompatibilité\nBars, salons, coins détente, espaces festifs, soirées, anniversaires et décoration intérieure\n\nFonctionnalités\nInscription « HAPPY HOUR » en lettres lumineuses roses, motif verre à cocktail vert clair avec rondelle jaune et paille blanche, support transparent découpé aux contours\n\nAvantages\nAmbiance chaleureuse et festive immédiate, association de couleurs pastel/lumineuses originale, finition transparente discrète\n\nContenu de la boîte\n1 lampe néon LED « HAPPY HOUR » avec verre à cocktail\n\nDimensions du produit (cm)\n\n Largeur : ~35,0 à 45,0 cm\n\n Hauteur : ~18,0 à 25,0 cm\n\n Épaisseur : ~1,5 à 2,0 cm\n\nSKU\n700000000000222",
-     "short_description": "Créez une ambiance festive et conviviale avec cette lampe néon LED « HAPPY HOUR » accompagnée d’un verre à cocktail aux couleurs rose, vert clair, jaune et blanc. Montée sur un support transparent découpé selon les contours, elle est idéale pour animer un bar, un salon, un coin détente ou une soirée entre amis."
+     "name": "Carte Memoire Kingston 16 GB",
+     "description": "La carte mémoire Kingston 16 Go offre un stockage fiable, rapide et portable pour vos appareils numériques. Grâce à sa classe 10, elle garantit une vitesse de transfert stable, parfaite pour la prise de photos en rafale, l’enregistrement vidéo HD ou le stockage de fichiers sur le pouce.\n\nCompatible avec les appareils photo numériques, caméscopes, consoles de jeux, GPS, lecteurs MP3 ou tout autre appareil prenant en charge le format SDHC, cette carte est conçue pour durer. Compacte, légère et résistante, elle est idéale pour un usage quotidien.\n\n🔧 Caractéristiques Techniques :\n\n✅ Marque : Kingston\n\n✅ Capacité : 16 Go\n\n✅ Type : SDHC (ou microSDHC selon version)\n\n✅ Classe : Classe 10 – transfert rapide et stable\n\n✅ Vitesse : Jusqu’à 80–100 Mo/s (lecture)\n\n✅ Compatibilité : Appareils photo, caméras, GPS, consoles, etc.\n\n✅ Résistante : Chocs, eau, températures extrêmes, rayons X",
+     "short_description": "La carte mémoire Kingston 16 Go offre un stockage fiable, rapide et portable pour vos appareils numériques."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-18.png"
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-28T184247.077.png"
    ]
   },
   {
-   "sku": "doshift-126498",
-   "price": 399,
+   "sku": "doshift-26046",
+   "price": 107,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Néon LED en Forme de Burger – Décoration Lumineuse Multicolore sur Plaque Transparente",
-     "description": "Apportez une touche originale et ludique à votre décoration avec cette lampe néon LED en forme de burger aux couleurs jaune, turquoise et rose. Montée sur un support transparent découpé selon les contours, elle est idéale pour illuminer une chambre, un bureau, un coin snack ou un espace festif.\n\nCaractéristique\nDétail\n\nType de produit\nLampe néon LED / Décoration lumineuse murale ou à poser\n\nMarque\nNon spécifié\n\nModèle\nNéon motif burger bicolore/multicolore sur support acrylique transparent\n\nCouleur\nJaune, Turquoise et Rose sur support Transparent\n\nCompatibilité\nChambre, salon, bureau, espace gaming, snack/café, fêtes et anniversaires\n\nFonctionnalités\nTube lumineux façon néon en forme de burger (pains jaunes, garniture ondulée turquoise, tranche rose), plaque support transparente découpée aux contours\n\nAvantages\nDesign fun et accrocheur, couleurs vives apportant une ambiance dynamique, support transparent discret mettant en valeur le motif\n\nContenu de la boîte\n1 lampe néon LED en forme de burger\n\nDimensions du produit (cm)\n\n Largeur : ~25,0 à 35,0 cm\n\n Hauteur : ~25,0 à 35,0 cm\n\n Épaisseur : ~1,5 à 2,0 cm\n\nSKU\n700000000000221",
-     "short_description": "Apportez une touche originale et ludique à votre décoration avec cette lampe néon LED en forme de burger aux couleurs jaune, turquoise et rose. Montée sur un support transparent découpé selon les contours, elle est idéale pour illuminer une chambre, un bureau, un coin snack ou un espace festif."
+     "name": "Carte Memoire Kingston 8 GB",
+     "description": "La carte mémoire Kingston 8 Go est une solution de stockage compacte et performante pour tous vos appareils compatibles : appareils photo, caméras, GPS, lecteurs MP3, consoles et bien plus. Grâce à sa capacité de 8 gigas, elle permet de stocker des centaines de photos, vidéos ou documents en toute simplicité.\n\nConçue pour la fiabilité et la durabilité, elle est idéale pour les utilisateurs à la recherche d’un stockage basique mais efficace. Compatible avec les normes SDHC (Secure Digital High Capacity), elle s’insère facilement et fonctionne sans configuration.\n\n🔧 Caractéristiques Techniques :\n\n✅ Marque : Kingston\n\n✅ Capacité : 8 Go\n\n✅ Type : SDHC (Secure Digital High Capacity)\n\n✅ Classe : Classe 4 ou 10 (selon modèle)\n\n✅ Vitesse : Jusqu’à 10–20 MB/s (lecture/écriture)\n\n✅ Compatibilité : Appareils photo, caméscopes, GPS, lecteurs MP3, etc.\n\n✅ Format : Standard SD ou MicroSD (à confirmer selon modèle)\n\n✅ Utilisation : Stockage de fichiers, photos, musique, vidéos\n\n✅ Fiabilité : Résistante aux chocs, aux températures extrêmes et aux rayons X",
+     "short_description": "La carte mémoire Kingston 8 Go est une solution de stockage compacte et performante pour tous vos appareils compatibles : appareils photo, caméras, GPS, lecteurs MP3, consoles et bien plus."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-14.png"
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-28T184247.077.png"
    ]
   },
   {
-   "sku": "doshift-126469",
-   "price": 189,
+   "sku": "doshift-26035",
+   "price": 1019,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Manette PS5 sans fil DualSense® – Galactic Purple",
+     "description": "Élevez votre expérience de jeu avec la manette DualSense® – Édition Galactic Purple, une version audacieuse et élégante du célèbre contrôleur PlayStation 5. Ce coloris violet galactique unique ne passe pas inaperçu et ajoute une touche cosmique à votre setup gaming.\n\nDotée des technologies de pointe DualSense®, elle vous plonge au cœur de l’action grâce à un retour haptique ultra-précis et des gâchettes adaptatives qui s’ajustent selon l’environnement du jeu. Micro intégré, pavé tactile, haut-parleur, bouton de capture instantanée : tout est conçu pour vous offrir immersion, contrôle et réactivité.\n\nRechargeable via USB-C et compatible avec la PS5, PC et appareils mobiles, la DualSense® Galactic Purple est bien plus qu’une manette : c’est une expérience.\n\n🔧 Caractéristiques Techniques :\n\n✅ Modèle : DualSense® – Édition Galactic Purple\n\n✅ Compatibilité : PlayStation 5, PC, Android (Bluetooth ou câble)\n\n✅ Technologies :\n\nRetour haptique immersif\n\nGâchettes adaptatives dynamiques\n\nMicrophone + haut-parleur intégrés\n\nPavé tactile haute précision\n\nBouton Create (capture & partage)\n\n✅ Batterie : Rechargeable via câble USB-C\n\n✅ Connexion : Sans fil (Bluetooth) ou filaire (USB-C)\n\n✅ Coloris : Violet galactique éclatant\n\n✅ Design : Ergonomique, prise en main confortable",
+     "short_description": "Élevez votre expérience de jeu avec la manette DualSense® – Édition Galactic Purple, une version audacieuse et élégante du célèbre contrôleur PlayStation 5."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-28T181647.567.png"
+   ]
+  },
+  {
+   "sku": "doshift-25361",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
     4,
-    5
+    6
    ],
    "locales": {
     "fr": {
-     "name": "Casque Stéréo avec Microphone Logitech H110",
-     "description": "Communiquez clairement et écoutez vos contenus audio avec le casque stéréo Logitech H110 équipé d’un microphone et d’une double fiche jack 3,5 mm. Léger et pratique, il est idéal pour les appels en ligne, le télétravail, les visioconférences et l’usage quotidien sur ordinateur.\n\nCaractéristique\nDétail\n\nType de produit\nCasque stéréo avec microphone / Micro-casque filaire\n\nMarque\nLogitech\n\nModèle\nH110\n\nCouleur\nNoir\n\nCompatibilité\nOrdinateurs et appareils disposant d’entrées/sorties audio séparées double fiche 3,5 mm (casque et microphone)\n\nFonctionnalités\nConnexion filaire à double fiche jack 3,5 mm, son stéréo, perche micro intégrée orientable, arceau réglable léger\n\nAvantages\nSimplicité d’utilisation plug-and-play via jack 3,5 mm, confort adapté aux appels et sessions prolongées, marque reconnue pour la fiabilité audio\n\nContenu de la boîte\n1 casque stéréo avec microphone Logitech H110\n\nSKU\n5099206057341",
-     "short_description": "Communiquez clairement et écoutez vos contenus audio avec le casque stéréo Logitech H110 équipé d’un microphone et d’une double fiche jack 3,5 mm. Léger et pratique, il est idéal pour les appels en ligne, le télétravail, les visioconférences et l’usage quotidien sur ordinateur."
+     "name": "souris Gaming X7 – Haute Précision, Rétroéclairage LED et Double Clic Rapide + tapis souris offert",
+     "description": "Plongez dans vos sessions de jeu avec la souris X7 Gaming Pro, conçue pour les gamers à la recherche de performance et de style.Son design ergonomique offre une prise en main confortable même après des heures d’utilisation, tandis que ses lumières LED multicolores apportent une touche dynamique à votre setup.Grâce à son capteur haute précision DPI réglable, profitez d’un contrôle optimal et de mouvements fluides, idéals pour le FPS, le MOBA ou tout autre type de jeu.Fabriquée avec des matériaux solides et un câble tressé durable, elle allie fiabilité, rapidité et esthétique professionnelle.\n\nCaractéristiques du Produit:\n\nType\nSouris optique filaire gaming\n\nRésolution\nDPI réglable 800 / 1200 / 1600 / 2400\n\nBoutons\n7 boutons programmables + fonction “Double Click”\n\nÉclairage\nLED multicolore haute intensité\n\nInterface\nUSB Plug & Play\n\nDurabilité\njusqu’à 10 millions de clics\n\nDesign\nergonomique avec repose-doigt antidérapant\n\nCompatibilité\nWindows / macOS / Linux\n\nRéférence DoShift\nAA5bb099",
+     "short_description": "Plongez dans vos sessions de jeu avec la souris X7 Gaming Pro, conçue pour les gamers à la recherche de performance et de style.Son design ergonomique offre une prise en main confortable même après des heures…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/generer-une-image-de-produits-seul-bien-presenter-en-fond-blanc-pour-eco-1000-SUR-1000PX-6.png"
+    "https://doshift.ma/wp-content/uploads/2025/07/Gemini_Generated_Image_pa9qcapa9qcapa9q-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-25233",
+   "price": 269,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Souris Logitech M240 Silent Bluetooth avec Tapis de Souris Offert",
+     "description": "Ce pack comprend la souris sans fil Logitech M240 Silent ainsi qu’un tapis de souris antiderapant offert. Parfaite pour le travail, les etudes ou une utilisation a domicile, la M240 combine confort, discretion et performance dans un format compact.\n\nLa technologie SilentTouch reduit les bruits de clic jusqu’a 90 %, pour une experience plus calme et agreable. La connexion Bluetooth rapide et stable permet de liberer votre port USB et d’assurer une compatibilite maximale avec vos appareils : PC, Mac, tablette ou ordinateur portable.\n\nAvec une forme arrondie et legere, la M240 offre une prise en main naturelle. Son autonomie atteint jusqu’a 18 mois avec une seule pile, vous permettant une utilisation sans souci. Le tapis fourni assure un glissement fluide de la souris sur tout type de surface, tout en garantissant une bonne stabilite.\n\nCaracteristiques :\n\nSouris sans fil Logitech M240 Silent\n\nClics discrets grace a la technologie SilentTouch\n\nConnexion Bluetooth stable, sans recepteur USB\n\nDesign ergonomique et compact\n\nAutonomie jusqu’a 18 mois\n\nCompatible Windows, macOS, ChromeOS, Linux, Android\n\nTapis de souris antiderapant offert",
+     "short_description": "Ce pack comprend la souris sans fil Logitech M240 Silent ainsi qu’un tapis de souris antiderapant offert."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-25T145612.417.png"
+   ]
+  },
+  {
+   "sku": "doshift-25086",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Multiprise Electrique 3 Prises Universelles avec Ports USB et Type-C – Interrupteur Central",
+     "description": "Optimisez votre espace et rechargez tous vos appareils en un seul point avec cette multiprise electrique multifonction. Elle dispose de 3 prises universelles compatibles avec la plupart des fiches internationales (Europe, USA, UK, Asie), ainsi que de 3 ports de recharge rapides : 2 ports USB et 1 port Type-C.\n\nSon design compact et moderne s’adapte a toutes les pieces : bureau, chambre, cuisine ou coin TV. L’interrupteur central permet de couper l’alimentation generale en un seul clic, pour plus de securite et d’economie d’energie. Fabriquee avec des materiaux resistants, elle garantit une protection efficace contre les surtensions, les courts-circuits et les surcharges.\n\nIdeale pour recharger vos smartphones, tablettes, ordinateurs portables, accessoires connectes ou appareils menagers, cette multiprise devient un accessoire indispensable au quotidien.\n\nCaracteristiques :\n\n3 prises universelles pour tous types de fiches\n\n2 ports USB + 1 port Type-C pour recharge rapide\n\nInterrupteur central pratique\n\nProtection contre surtension et court-circuit\n\nFormat compact et design epure\n\nConvient pour la maison, le bureau ou les voyages\n\nUne solution pratique, moderne et securisee pour gerer tous vos branchements et recharges en un seul appareil.",
+     "short_description": "Optimisez votre espace et rechargez tous vos appareils en un seul point avec cette multiprise electrique multifonction."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-24T183051.594.png"
+   ]
+  },
+  {
+   "sku": "doshift-24614",
+   "price": 469,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Hub USB-C 13-en-1 – HDMI 4K, VGA, Ethernet RJ45, Audio 3.5mm, SD/TF, USB 3.0, USB-C PD 100W + Chargeur Sans Fil",
+     "description": "Le hub USB-C 13-en-1 avec chargeur sans fil est la solution ultime pour les professionnels. Grâce à sa connectivité étendue, vous pouvez brancher plusieurs écrans, accéder à Internet via RJ45, connecter tous vos accessoires USB, transférer des fichiers depuis vos cartes SD et TF, et même recharger votre smartphone sans fil.\n\nSa base chargeur induction intégrée vous permet de recharger tout appareil compatible Qi pendant votre travail. L’ensemble est géré depuis un seul port USB-C avec alimentation Power Delivery 100W, garantissant recharge et transfert simultanés.\n\nConçu en alliage d’aluminium, ce hub offre robustesse, dissipation thermique et un design élégant.\n\n✅ Caractéristiques Techniques :\n\n⚡ 1 x Port USB-C PD – Recharge rapide 100W\n\n⚡ 1 x Chargeur sans fil intégré (compatibilité Qi)\n\n🎥 1 x Port HDMI 4K UHD (30Hz)\n\n📺 1 x Port VGA (1080P)\n\n🌐 1 x Port Ethernet RJ45 (10/100/1000 Mbps)\n\n🎧 1 x Port audio jack 3.5 mm\n\n💾 1 x Lecteur de carte SD + 1 x Lecteur de carte TF (microSD)\n\n🔌 3 x Ports USB 3.0 haute vitesse\n\n🔋 1 x Port USB-C data\n\n🔌 1 x Port USB-C pour recharge et données\n\n🎯 Idéal Pour :\n\nStations de travail professionnelles\n\nPrésentations multi-écrans (HDMI + VGA)\n\nTransfert et gestion de données\n\nRecharge smartphones et PC\n\nBureaux et déplacements",
+     "short_description": "Le hub USB-C 13-en-1 avec chargeur sans fil est la solution ultime pour les professionnels."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-19T191111.919.png"
    ]
   }
  ]

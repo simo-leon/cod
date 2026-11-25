@@ -1,193 +1,201 @@
 {
  "products": [
   {
-   "sku": "doshift-45472",
-   "price": 279,
+   "sku": "doshift-48757",
+   "price": 116,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Pulvérisateur Haute Pression Sans Fil 24V – Portable, Léger & Puissant x3 battries",
-     "description": "Le pulvérisateur haute pression 24V sans fil est l’outil idéal pour le nettoyage efficace de votre voiture, l’arrosage du jardin, le lavage des sols, des fenêtres ou encore les travaux agricoles légers. Grâce à son moteur puissant et sa batterie amovible, il offre une excellente autonomie et une pression stable. Son poids ultra léger de seulement 0,3 kg garantit une prise en main facile et un confort d’utilisation optimal, même pendant une longue durée. Compact, sans câble et facile à transporter, il s’adapte parfaitement à tous vos besoins domestiques.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétails\n\nType\nOreiller ergonomique orthopédique\n\nMousse\nMousse mémoire de forme haute densité\n\nSoutien\nCervical & tête (alignement colonne)\n\nConfort\nRéduction des points de pression\n\nUsage\nSommeil sur dos / côté / ventre\n\nHousse\nRespirante & douce\n\nHygiène\nHousse amovible et lavable en machine\n\nMatériau housse\nTissu microfibre hypoallergénique\n\nAvantages\nAméliore le sommeil, réduit raideurs & douleurs\n\nDimension\nStandard ergonomique (approx.)\n\nRespirabilité\nOui – ventilation intégrée\n\nPublic\nAdultes / usage quotidien\n\nCouleur\nBlanc & noir\n\nRéférence-doshift\nAA16BB099",
-     "short_description": "Le pulvérisateur haute pression 24V sans fil est l’outil idéal pour le nettoyage efficace de votre voiture, l’arrosage du jardin, le lavage des sols, des fenêtres ou encore les travaux agricoles légers."
+     "name": "Chargeur Rapide Oraimo Firefly 3 – 2A AniFast – Compact & Sécurisé",
+     "description": "Le chargeur mural Oraimo Firefly 3 est un chargeur rapide et sécurisé conçu pour offrir une recharge stable et efficace à tous vos appareils. Grâce à la technologie AniFast, il adapte intelligemment la puissance pour une charge rapide tout en protégeant votre téléphone contre la surchauffe, la surtension et les courts-circuits. Son design compact, léger et élégant en fait un accessoire idéal pour la maison, le bureau ou les déplacements. Doté d’un indicateur LED, il vous permet de suivre l’état de charge en toute simplicité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nOraimo\n\nModèle\nFirefly 3 (OCW-E66S+L53)\n\nType de produit\nChargeur mural + câble\n\nTechnologie\nAniFast™\n\nCourant de sortie\n2A (Charge rapide)\n\nTension d’entrée\n100–240V ~ 50/60Hz\n\nTension de sortie\n5V\n\nPorts\n1 Port USB\n\nType de câble\nUSB vers Lightning\n\nIndicateur\nLED\n\nSécurité\nProtection contre surcharge, surtension, surchauffe\n\nDesign\nCompact et portable\n\nCompatibilité\niPhone (tous modèles Lightning)\n\nCertification\nCE, RoHS\n\nCouleur\nBlanc\n\nRéférence – Doshift\nAA4B8899",
+     "short_description": "Le chargeur mural Oraimo Firefly 3 est un chargeur rapide et sécurisé conçu pour offrir une recharge stable et efficace à tous vos appareils."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-03-31T201458.250.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_9fw8b9fw8b9fw8b9-1-768x768-1.png"
    ]
   },
   {
-   "sku": "doshift-45463",
-   "price": 107,
+   "sku": "doshift-48694",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Distributeur automatique 3-en-1 – Non spécifié – Non spécifié – Matériaux sûrs – Intérieur – Facile à nettoyer (Couleur selon disponibilité)",
-     "description": "Ce distributeur automatique 3-en-1 pour chats et chiens offre un accès pratique à la nourriture et à l’eau. Fabriqué avec des matériaux durables, il assure une hydratation continue et un entretien facile. Idéal pour le bien-être de vos animaux, il combine un récipient spacieux et un abreuvoir pour un usage quotidien.",
-     "short_description": "Ce distributeur automatique 3-en-1 pour chats et chiens offre un accès pratique à la nourriture et à l’eau. Fabriqué avec des matériaux durables, il assure une hydratation continue et un entretien facile."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764357982-349_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-45418",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
+    3,
     13
    ],
    "locales": {
     "fr": {
-     "name": "Bouteille d’eau de sport de motivation colorée étanche pour voyage en plein air couleur aleatoire",
-     "description": "Cette bouteille d’eau est fabriquée à partir de plastique de haute qualité, ce qui lui confère une durabilité et une résistance supérieures. Le matériau est également sûr et sans BPA, ce qui garantit que l’eau reste fraîche et saine à tout moment.Son design portable et léger en fait un compagnon de voyage idéal. Vous pouvez l’emporter partout avec vous, que ce soit au bureau, à l’école, en randonnée, en voyage, à la salle de sport ou dans toutes vos activités quotidiennes.La bouteille est étanche à l’air, ce qui signifie qu’elle préserve la fraîcheur de vos boissons tout en évitant les fuites et les déversements indésirables, ce qui en fait une option sûre pour transporter des boissons chaudes ou froides.Son bouchon hermétique assure une ouverture et une fermeture faciles, et permet également de boire sans éclaboussures.",
-     "short_description": "Cette bouteille d’eau est fabriquée à partir de plastique de haute qualité, ce qui lui confère une durabilité et une résistance supérieures."
+     "name": "2 Pcs Protecteurs Poignet & Main – Bandages Élastiques Réglables – Soutien Sport & Protection",
+     "description": "Les protecteurs de poignet et de main Julong (2 pièces) sont conçus pour offrir un excellent maintien et une protection efficace contre les blessures أثناء الحركة et les activités sportives. Fabriqués en coton élastique respirant, ils assurent un confort optimal tout en maintenant fermement l’articulation du poignet. Grâce à leur système de fixation réglable, ils s’adaptent parfaitement à toutes les morphologies. Idéals pour le sport, le travail physique, la musculation, le fitness ou la rééducation.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nNom du produit\nProtecteur Poignet & Main\n\nQuantité\n2 pièces (1 paire)\n\nType\nBandages de soutien réglables\n\nMarque\nJulong\n\nPublic concerné\nAdultes\n\nMatériau\nCoton élastique\n\nFonction principale\nProtection contre les blessures\n\nUtilisation\nSport, fitness, travail, rééducation\n\nAjustement\nRéglable avec bande auto-agrippante\n\nConfort\nRespirant, doux et flexible\n\nAvantages\nMaintien optimal, prévention des douleurs\n\nRéférence – Doshift\nAA3BB099",
+     "short_description": "Les protecteurs de poignet et de main Julong (2 pièces) sont conçus pour offrir un excellent maintien et une protection efficace contre les blessures أثناء الحركة et les activités sportives."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764357878-339_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_fkgw6qfkgw6qfkgw-1.png"
    ]
   },
   {
-   "sku": "doshift-45414",
-   "price": 69,
+   "sku": "doshift-48706",
+   "price": 59,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Gants de Ménage Longs Imperméables à Motif Floral – Protection Confortable pour Nettoyage Quotidien",
-     "description": "Apportez une touche pratique et élégante à vos tâches ménagères avec ces gants de nettoyage longs à motif floral. Conçus pour protéger efficacement les mains et les avant-bras, ils offrent une excellente barrière contre l’eau, les éclaboussures et les produits d’entretien du quotidien. Leur manchette longue avec finition florale aide à garder les bras au sec, tandis que la matière souple assure un bon confort d’utilisation.\n\nIdéals pour la vaisselle, le nettoyage de la cuisine, la salle de bain, la lessive ou d’autres travaux ménagers, ces gants allient protection, flexibilité et style. Leur design ergonomique permet une bonne prise en main pour manipuler facilement éponges, chiffons et accessoires de nettoyage.\n\nCaractéristique\nDétail\n\nType de produit\nGants de ménage longs\n\nUtilisation\nVaisselle, nettoyage, lessive, entretien domestique\n\nMatière\nCaoutchouc / matière imperméable\n\nDesign\nManchette longue avec motif floral\n\nCouleur\nViolet et blanc à fleurs bleues\n\nAvantage principal\nProtège les mains et les avant-bras de l’eau et des éclaboussures\n\nConfort\nSouple, léger et agréable à porter\n\nRéférence Doshift\nAA1BB799",
-     "short_description": "Apportez une touche pratique et élégante à vos tâches ménagères avec ces gants de nettoyage longs à motif floral."
+     "name": "Support Mural de Rangement pour Téléphone – Fixation Adhésive – Couleur Gris",
+     "description": "Optimisez votre espace avec ce support mural de rangement pour téléphone portable, idéal pour garder votre smartphone à portée de main tout en le rechargeant en toute sécurité. Grâce à sa fixation adhésive puissante, il s’installe facilement sans perçage sur les murs, têtes de lit, meubles ou près des prises électriques.Fabriqué en plastique ABS robuste, ce support est résistant, durable et universel, compatible avec tous les smartphones (iPhone, Android, etc.). Son design compact et discret en couleur grise s’intègre parfaitement à tous les intérieurs, que ce soit à la maison, au bureau ou dans la cuisine.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nNom du produit\nSupport mural de rangement pour téléphone\n\nType\nSupport mural avec station de charge\n\nFixation\nAdhésif double face (sans perçage)\n\nMatériau\nPlastique ABS robuste\n\nCouleur\nGris\n\nUtilisation\nRangement + recharge murale\n\nCompatibilité\nUniverselle (iPhone, Android, etc.)\n\nInstallation\nFacile, rapide, sans outils\n\nApplications\nMur, meuble, lit, prise murale, cuisine\n\nDesign\nCompact, discret, élégant\n\nAvantages\nGain de place, pratique, sécurisé\n\nRéférence – Doshift\nAA00BB999",
+     "short_description": "Optimisez votre espace avec ce support mural de rangement pour téléphone portable, idéal pour garder votre smartphone à portée de main tout en le rechargeant en toute sécurité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-01T171458.768.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_qrk73eqrk73eqrk7-1-1.png"
    ]
   },
   {
-   "sku": "doshift-45375",
-   "price": 79,
+   "sku": "doshift-48482",
+   "price": 289,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bouteille spray pour huile ou vinaigre(Couleur selon disponibilité)",
-     "description": "Bouteille de pulvérisation d’huile d’olive vinaigre pulvérisateur cuisson BBQ outil distributeur d’huile  bouteille en verre étanche accessoires de cuisineUTILISATION POLYVALENTEPulvérisateur de brumisateur d’huile remplissez ce pulvérisateur avec vos huiles préférées, vinaigre, jus de citron et de citron vert, sherry ou vin marsala. Il est idéal pour les salades, les pains, la pâtisserie ou la cuisine.L’ENVIRONNEMENTLe spray d’huile réutilisable vous offre la commodité et les avantages pour la santé sous une forme plus économique et environnementaleFACILE À UTILISERAction de pompage Simple qui produit une fine brume, pulvérisation plus uniforme et contrôle la quantité d’huile par temps utilisée en cuisine.CONCEPTION DE HAUTE QUALITÉContrairement aux autres bouteilles de vinaigre et pulvérisateurs d’huile, les nôtres sont sans BPA en verre avec acier inoxydable! Il est parfait pour pulvériser les ingrédients au lieu d’utiliser des pinceaux pour rôtir, faire sauter, cuire au four, cuisiner",
-     "short_description": "Bouteille de pulvérisation d’huile d’olive vinaigre pulvérisateur cuisson BBQ outil distributeur d’huile  bouteille en verre étanche accessoires de cuisineUTILISATION POLYVALENTEPulvérisateur de brumisateur d’huile…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764357767-330_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43788",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
+    3,
     11
    ],
    "locales": {
     "fr": {
-     "name": "Peigne anti-poux manuel (Couleur selon disponibilité)",
-     "description": "Peigne métallique à pointes arrondies pour retirer et détruire les poux et les lentes.\n\nTraitement indolore et 100% efficace.\n\nUtiliser sur cheveux secs ou légèrement humides.\n\nPasser le peigne sur chaque mèche de cheveux jusqu’à ce qu’elle soit débarrassée des lentes et des poux.\n\nNettoyer le peigne à l’alcool à 70° après chaque utilisation.\n\nModèle: YH8003.\n\nPoids: 1 kg.\n\nMatière: Acier inoxydable + Plastique.",
-     "short_description": "Peigne métallique à pointes arrondies pour retirer et détruire les poux et les lentes."
+     "name": "Épilateur Multifonction 5 en 1 Kemei KM-8001",
+     "description": "Prenez soin de votre peau avec un seul appareil conçu pour répondre à tous vos besoins de beauté. Grâce à ses 5 têtes interchangeables, cet épilateur multifonction permet l’épilation, le rasage, le massage, l’exfoliation et le nettoyage du visage pour une routine complète à domicile.\n\nSon design ergonomique assure une prise en main confortable, tandis que son affichage LED facilite le suivi de l’autonomie. Utilisable sur peau sèche ou humide grâce à sa certification IPX6, il vous accompagne dans votre routine quotidienne en toute simplicité.\n\nCaractéristique\nDétail\n\nMarque\nKemei\n\nModèle\nKM-8001\n\nType\nÉpilateur multifonction 5 en 1\n\nAlimentation\nRechargeable\n\nAutonomie\nJusqu’à 120 minutes\n\nAffichage\nÉcran LED\n\nÉtanchéité\nIPX6\n\nUtilisation\nCorps et visage\n\nAccessoires\n5 têtes interchangeables\n\nRéférence Doshift\nAA17BB599",
+     "short_description": "Prenez soin de votre peau avec un seul appareil conçu pour répondre à tous vos besoins de beauté."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349400-365_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-06-10T141407.379.png"
    ]
   },
   {
-   "sku": "doshift-45357",
-   "price": 79,
+   "sku": "doshift-48471",
+   "price": 299,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    4,
+    6
    ],
    "locales": {
     "fr": {
-     "name": "Tapis pour robinet de cuisine,pour cuisine et salle de bain(Couleur selon disponibilité)",
-     "description": "Ce tapis de robinet est fabriqué en silicone de haute qualité, durable et résistant à l’eau.\n\nIl protège l’évier contre les éclaboussures, les rayures et les dommages causés par les ustensiles de cuisine.\n\nSa surface texturée assure une adhérence sûre pour vos ustensiles et accessoires.\n\nLes rainures de drainage permettent à l’eau de s’écouler facilement, évitant la stagnation de l’eau et maintenant l’évier propre et sec.\n\nIl est très absorbant et absorbe rapidement l’eau résiduelle des ustensiles fraîchement lavés, réduisant ainsi le temps de séchage.\n\nIl convient non seulement pour la cuisine mais aussi pour la salle de bain, offrant une protection contre les éclaboussures et les dommages causés par les produits de toilette.\n\nLe tapis est disponible en bleu, gris et rose.\n\nIl mesure 37x14cm et pèse 0.3 kg.\n\nIl est fait de silicone.",
-     "short_description": "Ce tapis de robinet est fabriqué en silicone de haute qualité, durable et résistant à l’eau."
+     "name": "Station de Chargement PS5 DualSense – Charge Rapide USB Type-C pour 2 Manettes",
+     "description": "Profitez d’heures de jeu sans interruption avec cette station de chargement conçue spécialement pour les manettes PS5 DualSense. Capable de recharger deux manettes simultanément, elle offre une solution rapide, pratique et sécurisée pour tous les joueurs. Grâce au système plug-and-play, il suffit de poser les manettes sur le support pour lancer la charge automatiquement, sans les connecter à la console. Dotée d’une puce de protection intelligente, elle prévient la surchauffe, la surcharge et les courts-circuits, garantissant une longévité optimale de vos accessoires. Son design fin et moderne s’intègre parfaitement à votre setup gaming, tout en gardant vos manettes toujours prêtes pour l’action.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nStation de chargement PS5 DualSense\n\nCompatibilité\nManettes Sony PS5 DualSense\n\nCapacité\nCharge simultanée de 2 manettes\n\nTemps de charge\nEnviron 3 heures pour 2 manettes\n\nConnexion\nUSB Type-C\n\nFonctionnement\nPlug-and-play, simple et rapide\n\nSécurité\nProtection contre surchauffe & surcharge\n\nDesign\nSlim, moderne, finition lisse\n\nUtilisation\nEspace gaming, bureau, salon\n\nAvantages\nCompact, rapide, sécurisé, pratique\n\nContenu du pack\nStation de charge + câble USB Type-C\n\nreference-doshift\nAA13BB099",
+     "short_description": "Profitez d’heures de jeu sans interruption avec cette station de chargement conçue spécialement pour les manettes PS5 DualSense."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764357736-326_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_a980nja980nja980-1-1.png"
    ]
   },
   {
-   "sku": "doshift-43764",
-   "price": 219,
+   "sku": "doshift-48363",
+   "price": 249,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    3,
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Ensemble de 2 coussins médicaux gonflables ergonomiques pour hémorroïdes (Couleur selon disponibilité)",
-     "description": "Le coussin de siège rond est fait de PVC doux et durable, non toxique et inodore.\n\nLa surface en daim est conçue pour dissiper la chaleur et respirer.\n\nIl peut supporter jusqu’à 100 kg (220 lbs) de poids.\n\nLe coussin gonflable en anneau répartit le poids du corps de manière uniforme, déplaçant la pression du bas du dos et des hanches pour un confort accru.\n\nIl est facile à gonfler grâce à la pompe incluse.\n\nIl peut être dégonflé et rangé facilement.\n\nLe coussin de siège gonflable peut être utilisé dans les chaises, les fauteuils roulants, les lits, les bureaux, les avions, les trains, les maisons, etc.\n\nIl est idéal pour les personnes sédentaires, hémorroïdes, postnatales, douleurs au coccyx, grossesse, personnes âgées, post-opératoires, etc.\n\nLe coussin est disponible en bleu et rouge et pèse 0,3 kg.\n\nIl est fait de PVC.",
-     "short_description": "Le coussin de siège rond est fait de PVC doux et durable, non toxique et inodore."
+     "name": "Super Mega Art Set 208 Pièces – Coffret de Dessin Complet pour Enfants",
+     "description": "Offrez à vos enfants un coffret artistique complet avec ce Super Mega Art Set de 208 pièces, idéal pour stimuler la créativité dès le plus jeune âge. Présenté dans une valise rose pratique et facile à transporter, ce kit contient tout le nécessaire pour dessiner, colorier, peindre et inventer. Parfait pour la maison, l’école ou les voyages, il offre une grande variété d’outils colorés permettant aux enfants d’explorer librement leur imagination. Un choix parfait pour un cadeau éducatif, ludique et inspirant dès 3 ans.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nSuper Mega Art Set – 208 pièces\n\nType de produit\nCoffret de dessin et coloriage pour enfants\n\nContenu\n208 accessoires artistiques\n\nÉléments inclus\nCrayons de couleur, feutres, pastels, peinture,\n\npinceaux, gomme, taille-crayon, règle, feuilles, palette…\n\nÂge recommandé\n3 ans et plus\n\nBoîtier\nValisette rigide rose, pliable et organisatrice\n\nUtilisation\nDessin, peinture, coloriage, activités créatives\n\nMatériau\nPlastique + matériaux artistiques variés\n\nCouleur du coffret\nRose\n\nAvantages\nComplet, organisé, portable, éducatif\n\nIdéal pour\nÉcole, maison, cadeau, activités manuelles\n\nPoids\nEnviron 0,6 – 1 kg (selon lot)\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Offrez à vos enfants un coffret artistique complet avec ce Super Mega Art Set de 208 pièces, idéal pour stimuler la créativité dès le plus jeune âge."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349358-360_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/ab722.jpeg"
    ]
   },
   {
-   "sku": "doshift-43721",
+   "sku": "doshift-48216",
+   "price": 329,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support Mural Inclinable pour TV – LED/LCD/PDP – 40 à 80 Pouces",
+     "description": "Optimisez votre espace et profitez d’un angle de vision idéal grâce au support mural inclinable MTG0078. Conçu en acier forgé ultra-résistant, il assure une installation stable, sécurisée et durable pour votre téléviseur. Compatible avec tous les écrans plats de 40 à 80 pouces, il offre un mécanisme d’inclinaison jusqu’à ±15°, permettant d’ajuster parfaitement la position de votre TV et de réduire les reflets. Compact, discret et facile à installer, il s’intègre aussi bien dans un salon, une chambre ou un bureau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nMTG0078\n\nType de support\nSupport mural inclinable pour TV\n\nCompatibilité TV\n40″ – 80″ (LED, LCD, PDP, Écran plat)\n\nMatériau\nAcier forgé haute résistance\n\nCapacité de poids\nSelon modèle (généralement jusqu’à 30–35 kg)\n\nRéglage d’inclinaison\n±15°\n\nInstallation\nMontage mural, système sécurisé\n\nDesign\nCompact, gain de place\n\nIdéal pour\nSalon, chambre, bureau\n\nCouleur\nNoir\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Optimisez votre espace et profitez d’un angle de vision idéal grâce au support mural inclinable MTG0078."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_8n29808n29808n29-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-48197",
+   "price": 87,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support TV Mural Inclinable 22″–55″ – Modèle HT-002",
+     "description": "Optimisez votre espace et profitez d’un angle de vision idéal grâce au support TV mural inclinable HT-002. Compatible avec la majorité des téléviseurs de 22 à 55 pouces, il offre une installation robuste, sécurisée et élégante. Son design inclinable jusqu’à 15° réduit les reflets pour un confort visuel optimal, tandis que sa structure en acier assure une solidité exemplaire. Compact et proche du mur, il permet un gain de place tout en offrant une finition moderne et discrète. Livré avec les accessoires nécessaires, il s’installe facilement en quelques étapes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nHT-002\n\nType de produit\nSupport TV mural inclinable\n\nCompatibilité TV\n22″ à 55″\n\nPoids maximal supporté\nJusqu’à 30 kg\n\nCompatibilité marques\nSamsung, LG, Sony, Philips, etc. (TV plats & incurvés)\n\nMatériau\nAcier renforcé haute résistance\n\nInclinaison\nJusqu’à –15° (réduction des reflets)\n\nDistance du mur\n1,49 inch (≈3,8 cm)\n\nDesign\nUltra-fin, moderne, gain de place\n\nInstallation\nFacile, kit d’accessoires inclus\n\nUtilisation\nSalon, chambre, bureau, espaces commerciaux\n\nRéférence Doshift\nAA3BB399",
+     "short_description": "Optimisez votre espace et profitez d’un angle de vision idéal grâce au support TV mural inclinable HT-002."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_lms9zlms9zlms9zl-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-48031",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Machine d’épilation magique lavable douce et indolore physique à la maison (Couleur selon disponibilité)",
-     "description": "Design Original : l’épilateur élimine les poils indésirables sans rasoir, laissant la peau douce et lisse.\n\nRéutilisable : l’épilateur est réutilisable jusqu’à 5 ans, permettant des économies et respectant l’environnement.\n\nCheveux Remover Ménage : l’épilateur permet de supprimer les poils indésirables et de laisser la peau lisse, idéal pour les jambes.\n\nMatériel : l’épilateur est composé de matériaux naturels sans produits chimiques, évitant les réactions allergiques. La technologie nano glass élimine les cellules mortes et les poils couche par couche, minimisant les risques d’incroissance et réduisant la repousse.\n\nSpécification :\n\nMatériel : Plastique\n\nCouleur : Comme Le montrent\n\nTaille : 11x7x2.5cm\n\nNote :\n\nIl peut y avoir des erreurs de 2 à 3cm des données de dimension en raison de la mesure manuelle pure.\n\nIl peut y avoir une différence de couleur légère en raison de différents effets de lumière et de moniteur.\n\nLe forfait comprend :\n\n1x Épilation",
-     "short_description": "Design Original : l’épilateur élimine les poils indésirables sans rasoir, laissant la peau douce et lisse."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349281-351_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-45291",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
     3
    ],
    "locales": {
     "fr": {
-     "name": "Pot à Café Inox avec Manche Ergonomique 550 ml",
-     "description": "Préparez facilement votre café, lait ou chocolat chaud avec ce pot à café en inox pratique et élégant. Son design compact et sa poignée ergonomique offrent une prise en main confortable pour une utilisation quotidienne en cuisine.\n\nCaractéristique\nDétail\n\nMatière\nAcier inoxydable\n\nPoignée\nErgonomique\n\nCouleur manche\nRouge bordeaux\n\nUtilisation\nCafé, lait, thé, chocolat\n\nEntretien\nLavage facile\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Préparez facilement votre café, lait ou chocolat chaud avec ce pot à café en inox pratique et élégant."
+     "name": "Réchaud Électrique pour Tasse – Plaque Chauffe-Tasse Intelligente & Réglable",
+     "description": "Profitez de vos boissons toujours chaudes grâce à ce réchaud électrique pour tasse, conçu pour maintenir café, thé, infusion ou chocolat chaud à la température idéale. Compact, moderne et facile à utiliser, il s’intègre parfaitement au bureau comme à la maison. Doté de plusieurs niveaux de chauffage réglables et d’un panneau tactile intelligent, il vous permet d’ajuster la chaleur en un simple geste. Une solution élégante et pratique pour ne plus jamais laisser refroidir votre boisson.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRéchaud électrique pour tasse / Plaque chauffe-tasse\n\nFonction principale\nMaintien au chaud des boissons : café, thé, infusion…\n\nContrôle de la chaleur\nPlusieurs niveaux de température réglables\n\nPanneau de commande\nInterface tactile intuitive\n\nCompatibilité\nTasses en céramique, verre, métal (surface plate conseillée)\n\nUtilisation idéale\nBureau, maison, espace de travail\n\nDesign\nCompact, moderne, élégant\n\nSécurité\nProtection contre la surchauffe\n\nAlimentation\nCâble électrique (USB ou secteur selon modèle)\n\nAvantages\nChauffe rapide, silencieux, durable\n\nCouleur\nBlanc\n\nPoids\nEnviron 0,2 kg\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Profitez de vos boissons toujours chaudes grâce à ce réchaud électrique pour tasse, conçu pour maintenir café, thé, infusion ou chocolat chaud à la température idéale."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-05-19T140242.932.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_s1hwvps1hwvps1hw-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-48044",
+   "price": 59,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lot de 4 Piles Alcalines VARTA LONGLIFE – AA / LR6 – Haute Durée & Fiabilité",
+     "description": "Les piles VARTA LONGLIFE AA LR6 offrent une performance exceptionnelle et une longévité supérieure, idéales pour les appareils nécessitant une alimentation stable et durable. Conçues pour fournir une énergie fiable, elles sont parfaites pour les télécommandes, horloges murales, jouets, radios et autres appareils à faible ou moyenne consommation. Leur technologie alcaline garantit une puissance constante et une utilisation prolongée. Ce lot de 4 piles vous assure une réserve d’énergie toujours prête pour un usage quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPiles alcalines longue durée\n\nModèle\nVARTA LONGLIFE AA LR6\n\nFormat\nAA / LR6\n\nTension\n1.5V\n\nTechnologie\nAlcaline\n\nPerformance\nLongue durée – énergie stable et fiable\n\nUtilisation idéale\nTélécommandes, horloges, radios, jouets, etc.\n\nNombre de pièces\n4 piles\n\nMarque\nVARTA\n\nAvantage clé\nTrès grande longévité et constance énergétique\n\nRéférence Doshift\nAA1BB099",
+     "short_description": "Les piles VARTA LONGLIFE AA LR6 offrent une performance exceptionnelle et une longévité supérieure, idéales pour les appareils nécessitant une alimentation stable et durable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_jv92dnjv92dnjv92-1.png"
    ]
   }
  ]

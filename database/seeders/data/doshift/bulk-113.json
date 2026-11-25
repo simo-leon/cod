@@ -1,181 +1,84 @@
 {
  "products": [
   {
-   "sku": "doshift-44251",
-   "price": 299,
+   "sku": "doshift-47112",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Cisaille de Jardin Extensible, Secateur d’Arbres Telescopique Professionnel",
-     "description": "COUPE BRANCHE TELESCOPIQUE : Tous nos coupe branches sont en aluminium robuste. La lame du sécateur coupe branche est en acier allié, résistant à la rouille et solide. Le sécateur est équipée de deux manches confortables avec des poignées en caoutchouc. Chaque sécateur a deux bras extensibles. Lorsque les manches sont repliés au maximum, Lorsque les manches sont entièrement dépliés.MANCHES EXTENSIBLES : Les manches sont légers et extensibles pour des coupes rapides et précises. Le mécanisme de levier est à faible frottement et antiadhésif. Ce coupe branches télescopique permet de couper des branches hautes et difficiles d’accès. Un bouton de déclenchement de sécurité est au centre de chaque manche pour les déplier et replier entre. Une fois relâché, les bras s’enclenchent et se verrouillent à la longueur requise.LAME COUPANTE ET AFFÛTÉE : Ce coupe branches telescopique a une lame en acier trempé de grande qualité. Chaque lame mesure 20 cm de long. La lame permet de couper, tailler, cisailler et élaguer. Chaque lame peut couper un diamètre de 9 cm maximum.",
-     "short_description": "COUPE BRANCHE TELESCOPIQUE : Tous nos coupe branches sont en aluminium robuste. La lame du sécateur coupe branche est en acier allié, résistant à la rouille et solide."
+     "name": "Set de 32 Pinceaux de Maquillage Professionnels avec Étui",
+     "description": "Réalisez un maquillage impeccable grâce à ce set complet de 32 pinceaux professionnels. Conçu pour le teint, les yeux, les lèvres et les finitions, cet ensemble offre une application précise, douce et uniforme. Son étui en simili cuir permet de ranger et transporter facilement tous les pinceaux pour une utilisation quotidienne ou professionnelle.\n\nCaractéristique\nDétail\n\nProduit\nSet de pinceaux de maquillage\n\nNombre de pièces\n32 pinceaux\n\nUtilisation\nTeint, yeux, lèvres, contouring, poudre\n\nMatière des poils\nFibres synthétiques douces\n\nManche\nFinition noire élégante\n\nÉtui\nSimili cuir noir inclus\n\nAvantages\nApplication précise et uniforme\n\nUtilisation\nDébutants & professionnels\n\nTransport\nCompact et facile à ranger\n\nCouleur\nNoir\n\nRéférence Doshift\nAA11BB099",
+     "short_description": "Réalisez un maquillage impeccable grâce à ce set complet de 32 pinceaux professionnels. Conçu pour le teint, les yeux, les lèvres et les finitions, cet ensemble offre une application précise, douce et uniforme."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354780-69_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-05-23T160438.986.png"
    ]
   },
   {
-   "sku": "doshift-44246",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte de conservation alimentaire hermétique : Parfaite pour préserver et organiser vos aliments",
-     "description": "Boîte hermétique en plastique pour le beurre, les légumes et autres aliments. Durable, facile à nettoyer et idéal pour organiser la cuisine ou le réfrigérateur.",
-     "short_description": "Boîte hermétique en plastique pour le beurre, les légumes et autres aliments. Durable, facile à nettoyer et idéal pour organiser la cuisine ou le réfrigérateur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354772-68_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44217",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Balai Serpillière Microfibre Plate avec Manche Télescopique – Nettoyage Humide & Sec Réutilisable",
-     "description": "Cette serpillière plate en microfibre offre un nettoyage puissant et polyvalent pour tous types de sols. Utilisable à sec ou humide, elle capture efficacement poussière, saletés et liquides. Son manche télescopique réglable assure un confort optimal, tandis que la tête lavable et réutilisable garantit une solution pratique, économique et durable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBalai serpillière plate\n\nUtilisation\nNettoyage humide et sec\n\nType de sols\nCarrelage, parquet, marbre, stratifié\n\nTête de nettoyage\nMicrofibre haute absorption\n\nEntretien\nLavable et réutilisable\n\nManche\nTélescopique réglable\n\nDesign\nPlat, léger et maniable\n\nEfficacité\nCapture poussière, saletés et liquides\n\nUtilisation recommandée\nMaison, cuisine, salle de bain\n\nAvantage clé\nPolyvalent, pratique et durable\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Cette serpillière plate en microfibre offre un nettoyage puissant et polyvalent pour tous types de sols. Utilisable à sec ou humide, elle capture efficacement poussière, saletés et liquides."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_j1hh4pj1hh4pj1hh-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-44141",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pulvérisateur de robinet rotatif, universel étanche aux éclaboussures robinet",
-     "description": "Matériaux de haute qualité: le filtre anti éclaboussures est fait de matériaux sûrs et durables, solides et durables, non toxiques et sûrs à utiliser, à la fois dans l’eau chaude et froide.Facile à installer: vous pouvez l’installer manuellement sans outils, assurez vous simplement que la rallonge de filtre de votre robinet correspond à la taille du robinet.Conception anti éclaboussures: peut réduire l’impulsion de l’eau et empêcher les éclaboussures d’eau. L’eau est douce et riche et n’éclaboussera pas.Conception rétractable: le filtre à eau du robinet est rétractable et peut être utilisé à 360 , ce qui rend le robinet plus pratique et flexible.Adaptez vous à l’économie d’eau: du débit d’eau au réglage de la pulvérisation, il peut économiser plus de 50 d’eau, économiser de l’énergie et protéger l’environnement.",
-     "short_description": "Matériaux de haute qualité: le filtre anti éclaboussures est fait de matériaux sûrs et durables, solides et durables, non toxiques et sûrs à utiliser, à la fois dans l’eau chaude et froide.Facile à installer: vous…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354613-47_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44110",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tuyau spiralé à air comprimé",
-     "description": "Flexible Pneumatique Tuyau Polyuréthane Spirale Tuyau 5m de Long Bobine 8x5mmFlexible Bleu 8mmx5mmTube de tuyau spiralé pneumatique à air 5 mètresAppliquer à tous les outils pneumatiques et équipements pneumatiquesA une bonne ténacité et résistance.",
-     "short_description": "Flexible Pneumatique Tuyau Polyuréthane Spirale Tuyau 5m de Long Bobine 8x5mmFlexible Bleu 8mmx5mmTube de tuyau spiralé pneumatique à air 5 mètresAppliquer à tous les outils pneumatiques et équipements pneumatiquesA une…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354560-39_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44105",
-   "price": 249,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Carafe filtrante Aquaphor 2,4 L – Le complice idéal pour une eau débarrassée de ses impuretés au quotidien couleur aléatoire",
-     "description": "La carafe filtrante AQUAPHOR est une solution pratique et économique pour améliorer la qualité de votre eau du robinet. Réduit efficacement le chlore, la rouille, le plomb et d’autres contaminants, offrant une eau plus pure et plus savoureuse.\n\nCaractéristiques :\n\nEau Pure au Quotidien : Fournit une eau filtrée de qualité supérieure pour une consommation saine et un meilleur goût jour après jour.\n\nGrande Capacité Pratique : Son réservoir de 2,4 L est idéal pour un usage familial quotidien, réduisant la fréquence de remplissage.\n\nMarque de Confiance : Aquaphor est reconnue pour son expertise en filtration d’eau, garantissant une performance fiable et des résultats efficaces.",
-     "short_description": "La carafe filtrante AQUAPHOR est une solution pratique et économique pour améliorer la qualité de votre eau du robinet."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354554-38_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44100",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de 5 Brosses Métalliques pour Perceuse",
-     "description": "Éliminez facilement la rouille, la peinture, les résidus et les saletés incrustées grâce à ce set de 5 brosses métalliques pour perceuse. Les différentes formes de brosses permettent de travailler efficacement sur les surfaces planes, les bords, les angles et les zones difficiles d’accès.\n\nChaque brosse est équipée d’une tige métallique à fixer directement dans le mandrin d’une perceuse. Les fils métalliques à finition laitonnée assurent un nettoyage énergique et régulier des pièces, outils et surfaces métalliques.\n\nCaractéristique\nDétail\n\nType de produit\nBrosses métalliques pour perceuse\n\nNombre de pièces\n5\n\nComposition du set\n2 brosses boisseau, 2 brosses circulaires et 1 brosse pinceau\n\nMatière des fils\nFils métalliques avec finition laitonnée\n\nFixation\nTige métallique pour mandrin de perceuse\n\nUtilisations\nNettoyage, décapage, dérouillage et préparation des surfaces\n\nSurfaces adaptées\nMétal, acier, fer, pièces mécaniques et outils\n\nZones de travail\nSurfaces planes, bords, angles, rainures et zones étroites\n\nCouleur\nDoré et argenté\n\nConseil de sécurité\nPorter des lunettes, des gants et une protection adaptée pendant l’utilisation\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Éliminez facilement la rouille, la peinture, les résidus et les saletés incrustées grâce à ce set de 5 brosses métalliques pour perceuse."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-07-31T170854.863.png"
-   ]
-  },
-  {
-   "sku": "doshift-43984",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clé à Chaîne Multifonction pour Filtre et Tuyaux",
-     "description": "Simplifiez vos travaux de serrage et de desserrage avec cette clé à chaîne robuste, idéale pour manipuler les filtres à huile, tuyaux, raccords et pièces rondes difficiles à saisir. Sa chaîne métallique s’adapte à différentes tailles pour offrir une prise ferme et efficace, tandis que sa poignée allongée assure un bon levier et une utilisation confortable. Un outil pratique pour l’entretien automobile, la plomberie et les travaux mécaniques du quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nClé à chaîne\n\nUtilisation\nSerrage et desserrage de filtres, tuyaux, raccords et pièces cylindriques\n\nMatériau\nMétal\n\nPrise\nChaîne ajustable pour une meilleure adhérence\n\nPoignée\nLongue poignée pour un effet de levier renforcé\n\nDomaines d’utilisation\nAutomobile, mécanique, plomberie, bricolage\n\nRéférence Doshift\nAA1BB799",
-     "short_description": "Simplifiez vos travaux de serrage et de desserrage avec cette clé à chaîne robuste, idéale pour manipuler les filtres à huile, tuyaux, raccords et pièces rondes difficiles à saisir."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-01T180607.880.png"
-   ]
-  },
-  {
-   "sku": "doshift-43933",
+   "sku": "doshift-47092",
    "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
-    7
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Pack 2 Lampes LED Daytime Running 12V – Éclairage Blanc Haute Intensité",
-     "description": "Améliorez la visibilité et le style de votre véhicule grâce à ce pack de 2 lampes LED Daytime Running 12V. Conçues pour offrir un éclairage blanc puissant et homogène, elles assurent une meilleure présence sur la route de jour comme de nuit. Leur design rond moderne s’intègre parfaitement à tout type de véhicule.\n\nGrâce à la technologie LED haute luminosité, ces feux garantissent une faible consommation d’énergie tout en offrant une longue durée de vie. Résistantes et faciles à installer, elles sont idéales pour renforcer la sécurité et moderniser l’apparence de votre voiture.\n\nCaractéristique\nDétail\n\nType de produit\nFeux LED Daytime Running (DRL)\n\nTension\n12V\n\nCouleur d’éclairage\nBlanc\n\nTechnologie\nLED haute intensité\n\nForme\nRonde\n\nQuantité\nPack de 2 lampes\n\nInstallation\nCâblage simple\n\nUtilisation\nFeux de jour pour véhicule\n\nRéférence-doshift\nAA10BB599",
-     "short_description": "Améliorez la visibilité et le style de votre véhicule grâce à ce pack de 2 lampes LED Daytime Running 12V."
+     "name": "Clé USB – KIOXIA – U202 – 128 Go – USB 2.0 – Blanc",
+     "description": "La clé USB 2.0 KIOXIA U202 de 128 Go offre un stockage fiable et rapide. Avec sa couleur blanche élégante, elle est idéale pour le transfert de données. Garantie de deux ans et retours sous 14 jours. Dimensions compactes et légère, elle est parfaite pour un usage quotidien.",
+     "short_description": "La clé USB 2.0 KIOXIA U202 de 128 Go offre un stockage fiable et rapide. Avec sa couleur blanche élégante, elle est idéale pour le transfert de données. Garantie de deux ans et retours sous 14 jours."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-02-28T164540.184.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/1764600259-55_1.jpg"
    ]
   },
   {
-   "sku": "doshift-45625",
-   "price": 159,
+   "sku": "doshift-47087",
+   "price": 87,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis de Souris Gaming Antidérapant – Précision & Style Gaming",
+     "description": "Apportez une touche gaming à votre setup avec ce tapis de souris gaming haute performance, conçu pour offrir une précision optimale et un confort durable. Son design moderne avec logo vert lumineux sur fond texturé donne un style puissant à votre bureau, idéal pour les gamers exigeants comme pour un usage bureautique intensif.\n\nGrâce à sa surface lisse optimisée, il garantit des mouvements fluides et précis de la souris, tandis que sa base antidérapante assure une stabilité parfaite même lors des sessions de jeu prolongées. Résistant, flexible et agréable au toucher, ce tapis est un indispensable pour améliorer vos performances au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTapis de souris gaming\n\nDesign\nGraphisme gaming vert sur fond noir texturé\n\nSurface\nTissu lisse haute précision\n\nBase\nAntidérapante en caoutchouc\n\nConfort\nAgréable au toucher, réduit la fatigue du poignet\n\nUtilisation\nGaming, bureautique, e-sport\n\nCompatibilité\nSouris optiques et laser\n\nRésistance\nDurable, ne se déforme pas\n\nEntretien\nFacile à nettoyer\n\nFlexibilité\nSouple et facile à transporter\n\nRéférence-doshift\nAA2BB799",
+     "short_description": "Apportez une touche gaming à votre setup avec ce tapis de souris gaming haute performance, conçu pour offrir une précision optimale et un confort durable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/razer-goliathus-control-edition-large-2.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-47048",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble USB – BASEUS – CAMYS-A – 2 m – USB 2.0 – Micro-USB A – Blanc",
+     "description": "Câble USB de 2 m de BASEUS, modèle CAMYS-A, avec connecteurs USB A et Micro-USB A. Compatible USB 2.0, il permet un transfert de données rapide jusqu’à 480 Mbit/s. Fabriqué en élastomère thermoplastique (TPE), il est durable et élégant en blanc.",
+     "short_description": "Câble USB de 2 m de BASEUS, modèle CAMYS-A, avec connecteurs USB A et Micro-USB A. Compatible USB 2.0, il permet un transfert de données rapide jusqu’à 480 Mbit/s."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1764600190-46_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-47043",
+   "price": 65,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -183,13 +86,109 @@
    ],
    "locales": {
     "fr": {
-     "name": "Ensemble de Clés Mixtes 6 à 22 mm – Offre 8 Pièces – Ergonomiques & Ultra-Résistantes",
-     "description": "Cet ensemble de 8 clés mixtes de tailles allant de 6 à 22 mm est indispensable pour tous vos travaux de bricolage, mécanique et maintenance. Grâce aux différentes tailles incluses, vous bénéficiez d’une grande flexibilité pour intervenir aussi bien sur de petits que sur de gros travaux. Chaque clé est conçue de manière ergonomique, fabriquée avec un matériau robuste garantissant une durabilité exceptionnelle. Les clés comportent deux têtes : une ouverte et une fermée, permettant de passer rapidement du serrage au desserrage d’une seule main. Cet ensemble complet vous assure efficacité, précision et confort dans tous vos travaux.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de clés mixtes\n\nContenu\n8 clés : 6 mm, 8 mm, 10 mm, 12 mm, 13 mm, 14 mm, 17 mm, 22 mm\n\nDesign des têtes\nUne tête ouverte + une tête fermée sur chaque clé\n\nUtilisation\nSerrage et desserrage de boulons et écrous\n\nErgonomie\nPrise en main confortable, design antidérapant\n\nMatériau\nAcier forgé haute résistance\n\nDurabilité\nRésistant à l’usure, longue durée de vie\n\nPraticité\nPassage rapide entre têtes ouverte et fermée\n\nIdéal pour\nMécanique, bricolage, ateliers, réparations domestiques\n\nCouleur\nMétal argenté (selon disponibilité)\n\nPoids\nEnviron 0.5–0.8 kg selon lot",
-     "short_description": "Cet ensemble de 8 clés mixtes de tailles allant de 6 à 22 mm est indispensable pour tous vos travaux de bricolage, mécanique et maintenance."
+     "name": "Ruban à mesurer souple pour les mesures du corps, double échelle 1.5m",
+     "description": "1Pcs Portable Rétractable Règle Centimètre Ceinture Enfants Hauteur Règle Centimètre Inch Roll Tape 150cm/60 « Ruban à mesurerCaractéristiquesMini ruban à mesurer rétractable centimètre/pouce. 60 pouces d’un côté et 150 centimètres de l’autre. Mark est clair pour vous de lire facilement.Les mesures de ruban sont faites de PVC de haute qualité, s’adaptent autour des objets ronds aussi bien que des longueurs droites de mesure.En appuyant sur le bouton rétractable, le ruban à mesurer peut se rétracter automatiquement; tirer sur le ruban à mesurer maintiendra la mesure verrouillée en place.Format de poche, flexible, très pratique à mettre dans votre sac de magasin, sac à coudre, tiroir et tout autre endroit.",
+     "short_description": "1Pcs Portable Rétractable Règle Centimètre Ceinture Enfants Hauteur Règle Centimètre Inch Roll Tape 150cm/60 « Ruban à mesurerCaractéristiquesMini ruban à mesurer rétractable centimètre/pouce."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764358256-385_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/1764600184-45_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-47018",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "SANDISK Clé USB Ultra Flair – 64Gb – 3.0 – Gris",
+     "description": "La clé USB Ultra Flair de SANDISK offre bien plus qu’un simple stockage de données. L’algorithme de chiffrement AES garantit la sécurité de vos données, tandis que la capacité de stockage généreuse et la vitesse de lecture rapide font de cette clé USB un compagnon idéal pour le stockage et le partage de fichiers en toute simplicité. Les fonctionnalités de sécurité avancées ajoutent également une couche supplémentaire de protection à vos données sensibles. Que vous travailliez dans des conditions extrêmes ou recherchiez une solution de stockage sécurisée, la Clé USB Ultra Flair SANDISK répond à tous vos besoins avec style et fiabilité.\n\n– Algorithme de chiffrement AES 128 bits : assure une protection avancée de vos données, garantissant qu’elles restent confidentielles et sécurisées pendant le stockage et le transfert\n\n– Capacité de stockage de 64 Go : offre un espace généreux pour stocker une grande quantité de fichiers, photos, vidéos et autres données importantes\n\n– Type d’interface USB 3.0 : accélère vos opérations de stockage et assure une compatibilité avec une variété d’appareils\n\n– Corps métallique : renforce la robustesse de la clé tout en lui donnant une apparence élégante\n\n– Vitesse de lecture jusqu’à 150 Mo/s : idéale pour les transferts de données volumineuses et le streaming de contenu multimédia\n\n– Caractéristiques d’environnement : fonctionne de manière fiable dans une plage de températures allant de 0 °C à 45 °C, assurant une performance constante quel que soit le climat",
+     "short_description": "La clé USB Ultra Flair de SANDISK offre bien plus qu’un simple stockage de données."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1764600148-40_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-47003",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Casque Gaming Filaire GT85 avec Micro et Éclairage LED",
+     "description": "Plongez au cœur de vos jeux avec le casque gaming GT85, conçu pour offrir une expérience sonore immersive et une communication claire pendant vos parties. Ses haut-parleurs de 50 mm délivrent un son stéréo puissant avec des basses profondes, idéal pour repérer les effets sonores et profiter pleinement de vos contenus multimédias.\n\nÉquipé d’un microphone intégré, ce casque facilite les échanges avec vos coéquipiers. Son éclairage LED rouge lui apporte un style gaming moderne, tandis que ses coussinets confortables permettent une utilisation prolongée.\n\nGrâce à sa connexion filaire Jack 3,5 mm et USB, le GT85 peut être utilisé avec un ordinateur, un laptop et différents appareils compatibles.\n\nCaractéristique\nDétail\n\nType de produit\nCasque gaming filaire\n\nModèle\nGT85\n\nType de son\nSon stéréo avec basses puissantes\n\nTaille des haut-parleurs\n50 mm\n\nMicrophone\nMicrophone intégré\n\nÉclairage\nLED rouge\n\nConnectique audio\nJack stéréo 3,5 mm\n\nAlimentation de l’éclairage\nUSB\n\nCompatibilité\nOrdinateur, laptop et appareils compatibles Jack 3,5 mm\n\nUtilisation\nGaming, communication, musique et multimédia\n\nCouleur\nNoir avec détails rouges\n\nRéférence Doshift\nAA9BB599",
+     "short_description": "Plongez au cœur de vos jeux avec le casque gaming GT85, conçu pour offrir une expérience sonore immersive et une communication claire pendant vos parties."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-07-21T190430.379.png"
+   ]
+  },
+  {
+   "sku": "doshift-46984",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "PRISE MURALE EU AC ADAPTATEUR DALIMENTATION POUR MAC BOOK",
+     "description": "Adaptateur d’alimentation mural pour Mac Book avec prise EU AC. Avec une entrée nominale de AC 250V 2.5A, cet adaptateur est compatible avec plusieurs modèles d’adaptateurs secteur, y compris A1036, M8482, 661-2790, 661-2736, 661-3049, 661-3345, A1021, et M8943LL/A. Son design compact et léger le rend facile à utiliser et à transporter.",
+     "short_description": "Adaptateur d’alimentation mural pour Mac Book avec prise EU AC. Avec une entrée nominale de AC 250V 2.5A, cet adaptateur est compatible avec plusieurs modèles d’adaptateurs secteur, y compris A1036, M8482, 661-2790,…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1764600101-33_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-46881",
+   "price": 157,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "MAKEUP BRUSH CLEANER",
+     "description": "add clean water to half the water level drop in an appropriate water level drop in an appriate amoun of cleaning liquid, turn on themaci ne for cleaning ,repeatedly rub the brush bristles bach andforth against the lines at the bottom of the makeup brush (the best cleaning mode ) after cleaning .dry and store it",
+     "short_description": "add clean water to half the water level drop in an appropriate water level drop in an appriate amoun of cleaning liquid, turn on themaci ne for cleaning ,repeatedly rub the brush bristles bach andforth against the lines…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1764594324-4_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-46816",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à clous en acier portable avec 20pcs clous ronds pour mur en ciment",
+     "description": "Vous en avez assez de poser des clous avec un marteau, ce qui vous cause beaucoup de douleur, notamment lors de la manipulation d’objets durs ? Découvrez cette nouvelle solution qui permet une installation rapide et efficace sans effort manuel ni douleur. Que vous ayez besoin d’installer du béton, de construire une clôture robuste ou de créer de superbes structures en bois, profitez de la simplicité et de l’efficacité de cet outil combinées pour des performances inégalées. Ce n’est pas seulement un pistolet à clous. Il est conçu dans une taille compacte et légère, ce qui le rend idéal pour les espaces restreints, garantit une installation précise à chaque fois et est facile à transporter n’importe où. Profitez de la facilité et de l’efficacité avec cet outil étonnant, conçu pour relever tous les défis. Faites de ce produit votre choix idéal pour obtenir des performances inégalées dans chaque projet que vous entreprenez, que vous soyez un amateur ou un professionnel. Essayez-le aujourd’hui et embarquez pour une expérience d’installation inégalée. Si vous n’aimez pas le produit, vous pouvez obtenir un remboursement complet",
+     "short_description": "Vous en avez assez de poser des clous avec un marteau, ce qui vous cause beaucoup de douleur, notamment lors de la manipulation d’objets durs ?"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1764589414-56_1.jpg"
    ]
   }
  ]

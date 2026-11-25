@@ -1,67 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-53460",
-   "price": 429,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gtel TV Red GT-13 – Récepteur TV 4K avec Abonnement 12 Mois",
-     "description": "Le Gtel TV Red GT-13 est un récepteur streaming puissant qui vous donne accès à plus de 20 000 chaînes, films et séries en haute qualité. Compatible 4K UHD, il intègre la technologie H.265 HEVC pour une image fluide et optimisée. Grâce à son abonnement streaming inclus de 12 mois, profitez de vos contenus préférés (sport, films, séries, VOD) sans interruption. Idéal pour une utilisation familiale ou multimédia.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nGtel TV\n\nModèle\nGT-13\n\nType de produit\nRécepteur\n\nContenu\n+20 000 chaînes, films & séries\n\nAbonnement\n12 mois inclus\n\nRésolution\n4K UHD (60 fps)\n\nCodec vidéo\nH.265 / HEVC\n\nServices\nLive TV, VOD, Séries\n\nApplications\nYouTube, Netflix*, beIN Sports*\n\nConnectivité\nWi-Fi 2.4G / 5G\n\nPort réseau\nEthernet\n\nCompatibilité\nSmart TV, TV LED, TV LCD\n\nUtilisation\nMaison, salon, multimédia\n\nRéférence-doshift\nAA25BB09",
-     "short_description": "Le Gtel TV Red GT-13 est un récepteur streaming puissant qui vous donne accès à plus de 20 000 chaînes, films et séries en haute qualité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_qk5ehnqk5ehnqk5e-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53453",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Battle Armour 10W Cannon – Enceinte Gamer Sans Fil RGB",
-     "description": "L’enceinte Battle Armour 10W Cannon est conçue pour offrir une expérience audio immersive aux gamers et amateurs de musique. Grâce à sa puissance de 10W, ses doubles haut-parleurs Extra Bass et son éclairage RGB dynamique, elle transforme chaque session de jeu ou d’écoute en un véritable spectacle sonore et visuel. Robuste, portable et sans fil, elle s’intègre parfaitement à un setup gaming moderne comme à une utilisation nomade.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte gamer sans fil\n\nPuissance audio\n10W\n\nHaut-parleurs\nDouble haut-parleur Extra Bass\n\nSon\nAudio immersif\n\nConnectivité\nBluetooth sans fil\n\nÉclairage\nEffets lumineux RGB dynamiques\n\nUtilisation\nGaming, musique, multimédia\n\nDesign\nRobuste, moderne et portable\n\nBatterie\nLongue durée\n\nMicrophone\nIntégré\n\nPortabilité\nFacile à transporter\n\nRéférence-doshift\nAA9BB599",
-     "short_description": "L’enceinte Battle Armour 10W Cannon est conçue pour offrir une expérience audio immersive aux gamers et amateurs de musique."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/ChatGPT-Image-2-janv.-2026-21_50_17-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53190",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Télécommande Intelligente JEOANG – Contrôle Universel et Confort au Quotidien",
-     "description": "La télécommande intelligente JEOANG vous offre un contrôle simple et efficace de vos appareils du quotidien. Conçue pour piloter climatiseurs, ventilateurs et autres équipements compatibles, elle combine ergonomie, précision et polyvalence. Grâce à ses fonctions avancées de réglage de température, de minuterie et de modes intelligents, elle améliore votre confort tout en optimisant la consommation d’énergie. Compacte et intuitive, elle s’adapte parfaitement à un usage domestique ou professionnel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nJEOANG\n\nType de produit\nTélécommande universelle intelligente\n\nFonctions principales\nContrôle climatisation, ventilation, réglage température\n\nModes disponibles\nMode ventilateur, mode éco, minuterie intégrée\n\nCompatibilité\nLarge compatibilité avec appareils domestiques\n\nInterface\nBoutons intuitifs avec symboles clairs\n\nPortée\nPortée optimale pour usage intérieur\n\nAlimentation\nBatterie longue durée\n\nInstallation\nSimple et rapide\n\nDesign\nCompact, ergonomique et léger\n\nUtilisation\nMaison, bureau, café, espaces professionnels\n\nRéférence-doshift\nAA4BB599",
-     "short_description": "La télécommande intelligente JEOANG vous offre un contrôle simple et efficace de vos appareils du quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_u6ddciu6ddciu6dd-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53183",
-   "price": 299,
+   "sku": "doshift-55669",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -70,18 +11,38 @@
    ],
    "locales": {
     "fr": {
-     "name": "Style, Son & Fonctionnalité pour Vos Aventures",
-     "description": "Le sac bandoulière avec enceinte RGB intégrée combine design moderne, praticité et son immersif pour accompagner toutes vos activités quotidiennes. Grâce à son haut-parleur Bluetooth intégré avec éclairage RGB dynamique, profitez de votre musique partout, tout en gardant vos essentiels bien organisés. Léger, confortable et rechargeable, il est idéal pour le sport, les déplacements urbains, les voyages ou les sorties en plein air. Un accessoire tendance qui allie liberté de mouvement et ambiance musicale.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSac bandoulière avec enceinte Bluetooth RGB\n\nConnectivité\nBluetooth sans fil\n\nEffets lumineux\nÉclairage RGB dynamique intégré\n\nQualité sonore\nSon clair et immersif\n\nBatterie\nBatterie rechargeable intégrée\n\nRecharge\nPort USB\n\nRangement\nCompartiments zippés pour téléphone, clés, portefeuille\n\nConfort\nSangle réglable, port épaule ou croisé\n\nMatière\nTissu résistant et léger\n\nUtilisation\nSport, marche, voyage, quotidien\n\nDesign\nModerne, urbain, camouflage\n\nRéférence-doshift\nAA17BB099",
-     "short_description": "Le sac bandoulière avec enceinte RGB intégrée combine design moderne, praticité et son immersif pour accompagner toutes vos activités quotidiennes."
+     "name": "Bougies Décoratives LED avec Supports – Ambiance Chaleureuse & Élégance Moderne",
+     "description": "Apportez une ambiance chaleureuse et raffinée à votre intérieur grâce à cet ensemble de bougies décoratives LED accompagné de supports élégants. Conçues pour reproduire fidèlement l’apparence de vraies bougies, elles diffusent une lumière douce et réaliste tout en garantissant une utilisation sécurisée, sans flamme, sans fumée ni cire fondue. Idéales pour le salon, la chambre, la table à manger ou pour créer une atmosphère relaxante lors d’événements spéciaux, ces bougies allient esthétique classique et praticité moderne pour sublimer votre décoration.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBougies décoratives LED\n\nQuantité\nLot de 3 (3 tailles différentes)\n\nSupports inclus\nOui (3 supports décoratifs)\n\nMatériau des supports\nMétal décoratif\n\nEffet lumineux\nFlamme LED réaliste, lumière chaude\n\nUtilisation\nSalon, chambre, table, décoration événement\n\nSécurité\nSans flamme réelle, sans fumée, sans cire fondue\n\nAlimentation\nPiles (selon modèle)\n\nCouleur\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA7BB099",
+     "short_description": "Apportez une ambiance chaleureuse et raffinée à votre intérieur grâce à cet ensemble de bougies décoratives LED accompagné de supports élégants."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_fq5isfq5isfq5isf-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-02-05T180149-575.png"
    ]
   },
   {
-   "sku": "doshift-53158",
-   "price": 99,
+   "sku": "doshift-55663",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Accroche-Balais Mural – Organisation Pratique & Gain d’Espace",
+     "description": "Gardez votre maison, garage, cuisine ou balcon parfaitement organisé grâce à ce système d’accroche pour balais et outils. Ses pinces antidérapantes maintiennent fermement les manches sans glisser, permettant de suspendre balais, serpillières, râteaux, outils de jardinage et bien plus encore.\n\nFacile à installer sans percer (ou avec vis si besoin), il s’adapte à tous les espaces et supporte jusqu’à 5 kg par support. Une solution idéale pour optimiser votre rangement au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nSupport mural accroche-balais\n\nInstallation\nSans trace + possibilité de vis\n\nMatériau\nABS + caoutchouc antidérapant\n\nDiamètre compatible\nPour manches fins & épais\n\nCapacité de charge\nJusqu’à 5 kg par accroche\n\nUtilisation\nIntérieur / Extérieur\n\nUtilisations\nBalais, serpillères, râteaux, outils, etc.\n\nFixation\nMural\n\nCouleur\nGris\n\nSécurité\nAnti-glisse\n\nContenu\nLot de 3 accroches\n\nMarque\nMINHAO\n\nRéférence-doshift\nAA2BB099",
+     "short_description": "Gardez votre maison, garage, cuisine ou balcon parfaitement organisé grâce à ce système d’accroche pour balais et outils."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/6830bac4-6105-4778-96ef-1821ece5c076.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55688",
+   "price": 779,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -90,111 +51,152 @@
    ],
    "locales": {
     "fr": {
-     "name": "Mini Ring Light C03 – Lumière LED Portable pour Selfies & Vidéos",
-     "description": "Le Mini Ring Light C03 est l’accessoire idéal pour améliorer instantanément la qualité de vos photos et vidéos. Compact et léger, il se fixe facilement sur votre smartphone pour offrir un éclairage homogène et naturel, même en conditions de faible luminosité. Grâce à ses différents modes d’éclairage et à sa rotation à 360°, il s’adapte parfaitement à tous vos besoins : selfies, appels vidéo, lives ou création de contenu. Rechargeable par USB, il vous accompagne partout au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nMini Ring Light C03\n\nType d’éclairage\nLED\n\nModes d’éclairage\nFroid – Chaud – Naturel\n\nIntensité lumineuse\nDouce, non agressive\n\nRotation\n360° ajustable\n\nFixation\nClip pour smartphone\n\nAlimentation\nRechargeable par USB\n\nPortabilité\nCompact et léger\n\nUtilisation\nSelfies, vidéos, appels, live, maquillage\n\nPublic cible\nCréateurs de contenu, usage personnel\n\nRéférence-doshift\nAA4BB099",
-     "short_description": "Le Mini Ring Light C03 est l’accessoire idéal pour améliorer instantanément la qualité de vos photos et vidéos."
+     "name": "Stabilisateur F10 PRO – Gimbal Smartphone 3 Axes",
+     "description": "Transformez vos vidéos en contenu fluide, stable et professionnel grâce au Stabilisateur F10 PRO 3 Axes. Conçu pour les créateurs, vloggers, voyageurs et utilisateurs TikTok, il garantit une stabilisation avancée, un suivi intelligent du visage et un contrôle précis du zoom – le tout dans un format ergonomique et prêt à l’emploi.Idéal pour filmer en marchant, en voyage ou dans la rue, et obtenir des résultats dignes d’un setup cinéma.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nStabilisation\n3 Axes\n\nModes intelligents\nSuivi Visage / Time-lapse / Mouvement\n\nContrôle\nZoom & Focus précis\n\nCompatibilité\nSmartphones Android & iPhone\n\nPrise en main\nErgonomique\n\nPoids\nLéger & Portable\n\nUtilisation\nVidéo, Vlog, TikTok, Voyage, Captation\n\nRéférence Doshift\nAA65BB099",
+     "short_description": "Transformez vos vidéos en contenu fluide, stable et professionnel grâce au Stabilisateur F10 PRO 3 Axes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_910vm1910vm1910v-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-04T162028.688.png"
    ]
   },
   {
-   "sku": "doshift-53152",
-   "price": 125,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "WD-40 Spray Multi-Usage – 400 ml",
-     "description": "Le WD-40 Produit Polyvalent est la solution incontournable pour l’entretien, la protection et la lubrification de vos équipements. Grâce à sa formule originale, il déplace l’humidité, protège contre la rouille et libère efficacement les pièces grippées. Il lubrifie les mécanismes, élimine les grincements et nettoie la graisse, la saleté et la crasse sur la majorité des surfaces. Facile à utiliser, il est idéal aussi bien pour un usage domestique que professionnel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nWD-40\n\nType de produit\nSpray multi-usage\n\nContenance\n400 ml\n\nFonction principale\nLubrification, protection, nettoyage\n\nAction\nDéplace l’humidité\n\nProtection\nContre la rouille et la corrosion\n\nPropriétés\nDégrippant, lubrifiant, nettoyant\n\nCompatibilité\nMétal, mécanismes, composants\n\nUtilisations\nOutils, serrures, charnières, vélos, batteries\n\nAvantage clé\nFormule originale tout-en-un\n\nFacilité d’utilisation\nOui\n\nRéférence-doshift\nAA3BB599",
-     "short_description": "Le WD-40 Produit Polyvalent est la solution incontournable pour l’entretien, la protection et la lubrification de vos équipements."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_jot22jot22jot22j-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53049",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Aimantez Votre Créativité – Aimants Colorés Multi-Usages",
-     "description": "Apportez de la couleur, de l’ordre et une touche ludique à votre quotidien avec ces aimants ronds puissants et colorés. Parfaits pour les enfants comme pour les adultes, ils permettent d’afficher dessins, photos, notes ou documents en toute simplicité. Leur adhérence forte, leur design attractif et leur polyvalence en font un accessoire indispensable pour la maison, l’école ou le bureau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAimants ronds décoratifs\n\nDiamètre\n30 mm\n\nQuantité\nLot de plusieurs pièces (assortiment)\n\nCouleurs\nMulticolores (bleu, jaune, rose, vert, violet…)\n\nAdhérence\nForte – tient plusieurs feuilles\n\nMatériau\nPlastique résistant + noyau magnétique\n\nUtilisation\nTableau blanc, réfrigérateur, surfaces métalliques\n\nPublic\nEnfants & Adultes\n\nAvantages\nOrganisation, décoration, apprentissage\n\nDurabilité\nConception solide et longue durée\n\nOrigine\nMade in China\n\nRéférence-doshift\nAA1BB399",
-     "short_description": "Apportez de la couleur, de l’ordre et une touche ludique à votre quotidien avec ces aimants ronds puissants et colorés."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_gp3rh4gp3rh4gp3r-1-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53032",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Robinet de Cuisine Extensible – Fonctionnalité Intelligente & Design Élégant",
-     "description": "Apportez modernité, confort et efficacité à votre cuisine avec ce robinet de cuisine extensible au design élégant et contemporain. Conçu pour simplifier vos tâches quotidiennes, il combine une douchette extractible, un contrôle précis de la température et une installation rapide, pour une expérience fluide et agréable au quotidien.\n\nGrâce à sa douchette extensible à double mode de jet, ce robinet permet un nettoyage efficace des aliments, de l’évier et des ustensiles, même les plus volumineux. Son mitigeur chaud/froid assure un réglage précis de la température, tandis que sa finition chromée apporte une touche moderne et durable à votre espace cuisine.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRobinet de cuisine extensible\n\nFonction\nMitigeur chaud / froid\n\nDouchette\nExtensible avec 2 modes de jet\n\nCommande\nLevier ergonomique\n\nMatériau\nAlliage métallique haute résistance\n\nFinition\nChromée brillante\n\nRotation\nBec orientable pour plus de flexibilité\n\nInstallation\nRapide et facile\n\nConnecteurs\nUniversels\n\nUtilisation\nCuisine domestique\n\nEntretien\nFacile à nettoyer\n\nStyle\nModerne & élégant\n\nRéférence-doshift\nAA11BB099",
-     "short_description": "Apportez modernité, confort et efficacité à votre cuisine avec ce robinet de cuisine extensible au design élégant et contemporain."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_o1y3mvo1y3mvo1y3-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-53013",
+   "sku": "doshift-55556",
    "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    4,
+    6
    ],
    "locales": {
     "fr": {
-     "name": "Robinet Mural Chromé – Pratique, Résistant et Économique en Eau",
-     "description": "Ce robinet mural chromé est conçu pour offrir une utilisation simple, durable et efficace au quotidien. Idéal pour les cuisines, buanderies, salles de bain ou espaces utilitaires, il garantit un débit d’eau fluide et maîtrisé. Sa finition chromée apporte une touche moderne tout en assurant une excellente résistance à la corrosion et à l’usure.\n\nGrâce à sa conception robuste et son mécanisme fiable, ce robinet permet une ouverture et une fermeture précises, réduisant les fuites et optimisant la consommation d’eau. Facile à installer et à entretenir, il constitue une solution pratique et économique pour tous les usages domestiques.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRobinet / Extension de robinet\n\nUtilisation\nCuisine, salle de bain, buanderie\n\nMatériau\nAlliage métallique chromé\n\nFinition\nChrome brillant\n\nType de jet\nJet continu / jet anti-éclaboussures\n\nÉconomie d’eau\nOui\n\nRotation\n360°\n\nCommande\nManuelle\n\nInstallation\nFacile, sans outils\n\nCompatibilité\nRobinet standard universel\n\nRésistance à la corrosion\nOui\n\nEntretien\nFacile à nettoyer\n\nCouleur\nArgent (chrome)\n\nContenu du pack\n1 robinet / 1 extension (selon modèle)\n\nAvantage principal\nConfort, économie d’eau et polyvalence\n\nRéférence-doshift\nAA3BB899",
-     "short_description": "Ce robinet mural chromé est conçu pour offrir une utilisation simple, durable et efficace au quotidien."
+     "name": "Thumb Grips PS4 Persona Scramble – Couvercles Anti-Dérapants Gaming",
+     "description": "Améliorez votre confort de jeu avec ces thumb grips inspirés du célèbre jeu Persona Scramble. Conçus pour offrir plus d’adhérence et de précision lors des sessions gaming, ils empêchent les doigts de glisser, réduisent la fatigue et protègent les joysticks de l’usure. Un accessoire parfait pour les fans de PS4 et les joueurs à la recherche de performance avec une touche de style.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nManette PS4\n\nDesign\nPersona Scramble\n\nFonction\nAnti-dérapant & confort\n\nAvantages\n+ Précision & + Contrôle\n\nProtection\nProtège le joystick contre l’usure\n\nInstallation\nSimple — se clipse sans outil\n\nMatériau\nSilicone souple\n\nQuantité\nPack de 2 pièces\n\nPublic\nGamers / Fans Persona\n\nCouleur\nBleu / Rouge / Blanc\n\nRéférence-doshift\nAA5BB099",
+     "short_description": "Améliorez votre confort de jeu avec ces thumb grips inspirés du célèbre jeu Persona Scramble."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-31-dec.-2025-19_53_17-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/cae8997e-f782-473d-93e5-705d29d8bde8.jpeg"
    ]
   },
   {
-   "sku": "doshift-53006",
-   "price": 99,
+   "sku": "doshift-55550",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    4,
+    6
    ],
    "locales": {
     "fr": {
-     "name": "Extension de Robinet Multi-Jet 360° – Économie d’Eau & Nettoyage Facile",
-     "description": "Optimisez votre cuisine avec cette extension de robinet multi-jet à la fois pratique, moderne et économique. Conçue pour améliorer le confort au quotidien, elle offre plusieurs modes de jet réglables pour s’adapter à tous vos besoins : lavage de vaisselle, rinçage des légumes ou remplissage des récipients.Grâce à son bras flexible à 360°, elle permet d’atteindre facilement tous les coins de l’évier tout en réduisant les éclaboussures. Facile à installer sans outils, cette extension est la solution idéale pour une cuisine plus propre, plus fonctionnelle et plus économe en eau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nExtension de robinet multi-jet\n\nModes de jet\n2 modes réglables (jet doux / jet puissant)\n\nRotation\nFlexibilité 360°\n\nÉconomie d’eau\nRéduction de la consommation d’eau\n\nInstallation\nUniverselle, sans outils\n\nAnti-éclaboussures\nOui\n\nFiltration\nFiltre intégré, facile à nettoyer\n\nMatériau\nPlastique renforcé + acier inoxydable\n\nUtilisation\nCuisine, vaisselle, fruits et légumes\n\nEntretien\nDémontage et nettoyage faciles\n\nCouleur\nBlanc & chrome\n\nRéférence-doshift\nAA2BB499",
-     "short_description": "Optimisez votre cuisine avec cette extension de robinet multi-jet à la fois pratique, moderne et économique."
+     "name": "Thumb Grips FIFA 21 pour Manette PS4 – Couvercles Anti-Dérapants Gaming",
+     "description": "Optimisez votre précision sur FIFA avec ces thumb grips inspirés du célèbre jeu FIFA 21. Conçus pour les joueurs recherchant plus de contrôle et de confort sur leurs joysticks, ils améliorent l’accroche tout en évitant le glissement des doigts lors des actions rapides. En plus d’ajouter un style sportif à la manette, ils protègent les sticks analogiques de l’usure et prolongent leur durée de vie. Idéals pour les gamers amateurs comme compétitifs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nPS4\n\nThème\nFIFA 21 – Football\n\nFonction\nAnti-dérapant – Confort – Contrôle\n\nAvantages\nAméliore la précision + réduit la fatigue\n\nProtection\nProtège contre l’usure et les rayures\n\nInstallation\nClip simple (sans outil)\n\nMatériau\nSilicone souple\n\nPack\n2 pièces\n\nPublic\nGamers / Fans de football\n\nCouleur\nBleu / Blanc / Rouge\n\nRéférence-doshift\nAA5BB099",
+     "short_description": "Optimisez votre précision sur FIFA avec ces thumb grips inspirés du célèbre jeu FIFA 21."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_pcr3tmpcr3tmpcr3-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/ce36ee19-c31d-4387-9533-7fd88a02f85c.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55544",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Thumb Grips Switch – Couvercles Anti-Dérapants pour Joysticks",
+     "description": "Ces thumb grips pour Nintendo Switch améliorent le confort et la précision lors de vos sessions de jeu. Grâce à leur surface anti-dérapante, ils empêchent le glissement des doigts et offrent un contrôle plus fluide, notamment dans les jeux de plateforme, d’action ou compétitifs. En plus de protéger les joysticks contre l’usure, ils ajoutent une touche personnalisée et fun à la console. Compatibles Switch et Switch OLED, ils s’installent en quelques secondes sans outil.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nNintendo Switch / Switch OLED\n\nFonction\nAnti-dérapant – Grip – Confort\n\nProtection\nAnti-usure & anti-rayures\n\nInstallation\nClip simple (sans outil)\n\nMatériau\nSilicone souple\n\nUtilisation\nGaming / Esport / Platformer\n\nPublic\nEnfants / Adultes / Gamers\n\nCouleurs\nbleu\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Ces thumb grips pour Nintendo Switch améliorent le confort et la précision lors de vos sessions de jeu."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/9a880841-30c9-47ff-b0a4-bcaa5ccfbf78.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55539",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Thumb Grips Switch – Couvercles Anti-Dérapants pour Joysticks",
+     "description": "Ces thumb grips pour Nintendo Switch améliorent la précision et la prise en main des joysticks durant le jeu. Grâce à leur surface anti-dérapante, ils empêchent les doigts de glisser, offrant plus de contrôle lors des jeux rapides ou compétitifs. Ils ajoutent également un look personnalisé à la console tout en protégeant les sticks analogiques contre l’usure. Faciles à installer et compatibles avec Switch & Switch OLED, ils conviennent aux enfants, gamers et joueurs occasionnels.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nNintendo Switch / Switch OLED\n\nFonction\nAnti-dérapant – Grip – Confort\n\nProtection\nAnti-usure & anti-rayures\n\nInstallation\nClip simple (sans outil)\n\nApplication\nGaming – Esport – Jeux d’action\n\nMatériau\nSilicone souple\n\nUsage\nMaison / Voyage\n\nPublic\nEnfants / Adultes / Gamers\n\nCouleurs\nrouge\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Ces thumb grips pour Nintendo Switch améliorent la précision et la prise en main des joysticks durant le jeu."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/b2e61d87-8e03-4527-8d03-2bff74855fa0.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55534",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Thumb Grips Switch – Couvercles Anti-Dérapants pour Joysticks",
+     "description": "Ces thumb grips pour Nintendo Switch sont conçus pour améliorer la prise en main des joysticks et réduire le glissement des doigts durant le jeu. Leur surface anti-dérapante offre davantage de précision et de contrôle, particulièrement utile pour les jeux d’action, de plateforme et compétitifs. Faciles à installer et confortables, ils protègent également les sticks contre l’usure et les rayures, tout en donnant un look personnalisé à la console.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles joystick\n\nCompatibilité\nNintendo Switch / Switch OLED\n\nFonction\nAnti-dérapant + confort + précision\n\nInstallation\nClip simple sans outil\n\nProtection\nAnti-usure & anti-rayures\n\nApplication\nGaming / Esport / Enfants\n\nAvantages\nAméliore la précision & le grip\n\nCouleurs\nSelon disponibilité\n\nPublic\nEnfants / Adultes / Gamers\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Ces thumb grips pour Nintendo Switch sont conçus pour améliorer la prise en main des joysticks et réduire le glissement des doigts durant le jeu."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/3f0a3e82-58b9-4b9d-9de2-35379198d377.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55529",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Thumb Grips Nintendo Switch – Couvercles Anti-Dérapants pour Joysticks",
+     "description": "Ces thumb grips pour Nintendo Switch améliorent le confort et la précision lors du gameplay. Installés sur les joysticks, ils apportent une meilleure adhérence et évitent le glissement des doigts, particulièrement utile pour les jeux d’action, plateformes ou compétitifs. Leur design fun et thématique apporte aussi une touche personnalisée à la console. Faciles à poser et compatibles avec Switch & Switch OLED, ils sont adaptés aux enfants comme aux gamers confirmés.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nThumb grips / Couvercles de joystick\n\nCompatibilité\nNintendo Switch / Switch OLED\n\nFonction\nAnti-dérapant – Confort – Protection\n\nInstallation\nClip simple (sans outil)\n\nAvantages\nPrécision + Grip + Confort de jeu\n\nApplication\nJeux d’action / compétitifs / plateformes\n\nUtilisation\nMaison / Voyage / Multiplayer\n\nPublic\nGamers / Enfants / Adultes\n\nCouleurs\nrouge\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Ces thumb grips pour Nintendo Switch améliorent le confort et la précision lors du gameplay."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/8c8e7ce2-cb15-42a3-b18d-83f5e7105621.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-55487",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Housse Rigide Nintendo Switch – Protection Anti-Choc & Transport Voyage",
+     "description": "Cette housse rigide Nintendo Switch protège efficacement votre console contre les chocs, rayures et poussières. Dotée d’une coque renforcée, d’une fermeture zippée sécurisée et d’un intérieur rembourré, elle permet de transporter votre Switch en toute sécurité lors des déplacements. Compacte, légère et pratique, elle offre également de la place pour ranger des cartes de jeu et petits accessoires. Idéale pour les enfants, les gamers et les voyages.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nHousse rigide pour Nintendo Switch\n\nCompatibilité\nSwitch / Switch OLED (selon modèle)\n\nProtection\nAnti-choc / Anti-rayures / Anti-poussière\n\nFermeture\nZip sécurisé\n\nIntérieur\nRembourré\n\nRangement\nCartouches + petits accessoires\n\nTransport\nCompact & léger\n\nCouleur\nBleu + fermeture rouge\n\nUsage\nVoyage / maison / transport\n\nPublic\nGamers & enfants\n\nRéférence-doshift\nAA10BB099",
+     "short_description": "Cette housse rigide Nintendo Switch protège efficacement votre console contre les chocs, rayures et poussières."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/6e233fd5-3a88-4838-a02c-456b66aebf4a.jpeg"
    ]
   }
  ]

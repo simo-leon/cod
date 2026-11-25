@@ -1,6 +1,63 @@
 {
  "products": [
   {
+   "sku": "doshift-121488",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Plat Rond en Bambou avec Cloche Dôme Transparente",
+     "description": "Pensé pour sublimer vos créations pâtissières tout en optimisant l’encombrement sur votre table ou dans votre réfrigérateur, le présentoir rond AZATECH NEG-WDD-620-40 associe un plateau circulaire épuré en bambou massif à une haute cloche dôme transparente.\n\nCaractéristique\nSpécification Détaillée\n\nType\nPrésentoir à pâtisserie et fromage rond sans poignée avec cloche dôme\n\nMatériaux\nPlateau circulaire en bambou naturel et dôme en verre acrylique transparent\n\nBouton\nPoignée supérieure sphérique en cristal acrylique taillé à facettes\n\nCapacité\nDiamètre extérieur 28 cm (Ø utile 25 cm, hauteur sous dôme 15 cm)\n\nConditionnement\nEnsemble 2 pièces (Colisage grossiste B2B : 40 pièces / carton)\n\nSKU\n9900010930629",
+     "short_description": "Présentoir à gâteau rond Ø 28 cm en bambou avec cloche dôme haute et bouton cristal facetté."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/0a7e9832-5401-429e-b59d-2576921cf2a4.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-121430",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de Dessous de Plat Fleur en Bois sur Support Pied",
+     "description": "Véritable objet de décoration sculpturale lorsqu’il est posé sur votre plan de travail ou au centre de la table, l’ensemble AZATECH NEG-WDD-609-50 réunit trois dessous de plat en bois massif façonnés en forme de fleur à huit pétales sur un support tige assorti. Dès le service venu, chaque corolle se retire en un geste de l’axe central pour accueillir vos plats chauds, théières et casseroles\n\nCaractéristique\nSpécification Détaillée\n\nType\nEnsemble de dessous de plat en forme de fleur avec présentoir sur pied\n\nContenu\n3 dessous de plat fleur à 8 pétales superposés + 1 support tige sur socle\n\nMatériaux\nBois d’hévéa / chêne naturel massif au veinage apparent finement poncé\n\nDimensions\nHauteur totale sur pied 23 cm, diamètre de chaque fleur 18 cm, socle Ø 10 cm\n\nConditionnement\nSet complet avec support (Colisage grossiste B2B : 50 sets / carton)\n\nSKU\n9900010930582",
+     "short_description": "Set de 3 dessous de plat en bois massif forme fleur Ø 18 cm sur support présentoir vertical."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/2b26eb63-1738-41f0-9fa0-e2b7131a7433.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-121406",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dessous de Plat Rond Ajouré en Navettes de Bambou",
+     "description": "Grâce à son diamètre généreux de 22 cm et son tressage géométrique en rosace, le dessous de plat AZATECH NEG-WDD-630-100 accueille vos grands récipients ronds avec une stabilité remarquable. Ses perles navettes en bambou carbonisé résistent aux fortes températures tout en laissant circuler l’air sous le plat pour éviter toute trace d’humidité ou de brûlure sur votre table.\n\nCaractéristique\nSpécification Détaillée\n\nType\nDessous de plat circulaire / octogonal ajouré en navettes de bambou\n\nMatériaux\nPerles navettes en bambou naturel carbonisé et câblage interne souple\n\nStructure\nRosace géométrique formée de 66 navettes ovales assemblées en étoiles\n\nDimensions\nDiamètre 22 cm × Épaisseur 0,8 cm (pour cocottes, tajines et poêles)\n\nConditionnement\nUnité individuelle souple (Colisage grossiste B2B : 100 pièces / carton)\n\nSKU\n9900010930575",
+     "short_description": "Dessous de plat rond Ø 22 cm en perles navettes de bambou tressées en rosace géométrique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/9adce0b0-566a-4555-9cdf-799ddf8f04b1.webp"
+   ]
+  },
+  {
    "sku": "doshift-121396",
    "price": 59,
    "stock": 10,
@@ -131,63 +188,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/10/24e6bd3e-0738-49e6-8fb7-5cba57f01666.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-121339",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Fontaine Carrée en Verre sur Pied Métal Doré",
-     "description": "Avec sa géométrie cubique affirmée et son piédestal filaire en métal doré, la fontaine à boisson AZATECH NEG-GENG-617-12 réinterprète le service de boissons dans un esprit contemporain et luxueux. Sa cuve carrée de 3,0 L en verre limpide sublime la couleur de vos cocktails et eaux détox tout en garantissant un encombrement au sol très compact.\n\nCaractéristique\nSpécification Détaillée\n\nType\nDistributeur de boisson cubique moderne sur piédestal géométrique\n\nCapacité\nCuve carrée de 3,0 litres (15 × 15 × 18 cm) pour jus et eaux aromatisées\n\nSupport\nPiétement filaire géométrique cubique en métal doré poli (hauteur 14 cm)\n\nRobinet\nRobinet distributeur métallique doré avec commande par levier supérieur\n\nCouvercle\nCouvercle en verre cerclé d’or surmonté d’un bouton baroque ciselé\n\nSKU\n9900010930483",
-     "short_description": "Fontaine cubique 3 L en verre transparent sur support géométrique en métal doré avec robinet."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/c769cadb-0c71-4f27-acb9-52e4d6a07690.webp"
-   ]
-  },
-  {
-   "sku": "doshift-121220",
-   "price": 309,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Distributeur Triple Cuve en Verre sur Support Bambou",
-     "description": "Incontournable pour les réceptions, mariages, brunchs et buffets d’hôtels, le distributeur triple AZATECH NEG-GENG-625-8 permet de proposer trois boissons différentes en simultané dans un encombrement linéaire optimisé. Ses trois cuves indépendantes en verre limpide de 2,5 L chacune reçoivent du jus d’orange, des thés glacés aux fruits rouges et des citronnades mentholées avec une visibilité totale.\n\nCaractéristique\nSpécification Détaillée\n\nType\nStation distributrice triple boisson en verre avec support en bambou\n\nCapacité\n3 cuves de 2,5 L chacune (Volume total 7,5 litres pour 3 boissons)\n\nMatériaux\nVerre borosilicate lisse transparent, structure bambou et métal doré\n\nRobinets\n3 robinets métalliques dorés indépendants à levier quart de tour étanche\n\nCouvercles\n3 couvercles carrés dorés surmontés de fleurons baroques ciselés\n\nSKU\n9900010930476",
-     "short_description": "Distributeur triple de boissons 7,5 L (3 × 2,5 L) en verre avec support en bambou et robinets dorés."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/67cba1f9-9f96-4102-87cc-b3706a4bd65e.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-121215",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plat à Tarte et Fromage en Bambou avec Cloche 26CM",
-     "description": "Conçu pour préserver la fraîcheur de vos pâtisseries, gâteaux d’anniversaire, viennoiseries et plateaux de fromages, ce plat de présentation AZATECH NEG-WDD-622-40 combine le charme chaleureux du bambou naturel à la transparence cristalline de sa cloche dôme.\n\nCaractéristique\nSpécification Détaillée\n\nType\nPrésentoir de service circulaire avec cloche dôme transparente\n\nMatériaux\nPlateau en bambou naturel verni et cloche en verre acrylique limpide\n\nBouton\nBouton de préhension sphérique façon cristal taillé à facettes brillantes\n\nCapacité\nDiamètre utile 26 cm (hauteur sous cloche 13 cm) pour gâteaux et fromages\n\nErgonomie\nDeux poignées oreilles latérales profilées et gorge circulaire de calage\n\nSKU\n9900010930469",
-     "short_description": "Plat à gâteau en bambou Ø 26 cm avec cloche transparente dôme et bouton cristal facetté."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/957ccbbb-ff61-4140-bad8-75b88e5be2f1.jpg"
    ]
   }
  ]

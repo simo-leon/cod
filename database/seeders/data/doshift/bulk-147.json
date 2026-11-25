@@ -1,65 +1,86 @@
 {
  "products": [
   {
-   "sku": "doshift-125783",
-   "price": 419,
+   "sku": "doshift-20994",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    7,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Aspirateur Balai Sans Fil – Aspirateur Cyclonique 2-en-1 avec Accessoires Multi-Usages Rouge et Noir",
-     "description": "Simplifiez l’entretien de votre intérieur avec cet aspirateur balai sans fil  au design moderne rouge et noir. Léger, polyvalent et doté d’une technologie cyclonique avec plusieurs embouts interchangeables, il se transforme facilement en aspirateur à main pour un nettoyage efficace du sol au plafond.\n\nCaractéristique\nDétail\n\nType de produit\nAspirateur balai sans fil / Aspirateur cyclonique 2-en-1\n\nMarque\nItimat\n\nModèle\nAspirateur balai avec kit d’accessoires et tube en aluminium\n\nCouleur\nRouge, Noir et Argent\n\nCompatibilité\nSols durs, tapis, canapés, recoins étroits, intérieur de voiture\n\nFonctionnalités\nFonctionnement sans fil, bloc moteur cyclonique avec bac à poussière transparent, tube d’extension rigide, suceur plat, brosse ameublement et embouts spécialisés\n\nAvantages\nGrande maniabilité sans cordon, format convertible pour atteindre les zones hautes ou exigües, vidage facile du bac à poussière, design ergonomique\n\nContenu de la boîte\n1 bloc moteur aspirateur, 1 tube d’extension, 1 brosse principale pour sol, kit de plusieurs embouts et suceurs, chargeur, notice d’utilisation\n\nDimensions du produit (cm)\n\n Longueur du tube d’extension : ~60,0 à 70,0 cm\n\n Hauteur totale assemblée : ~105,0 à 115,0 cm\n\n Largeur de la brosse principale : ~22,0 à 25,0 cm\n\nSKU\n700000000000183",
-     "short_description": "Simplifiez l’entretien de votre intérieur avec cet aspirateur balai sans fil  au design moderne rouge et noir. Léger, polyvalent et doté d’une technologie cyclonique avec plusieurs embouts interchangeables, il se transforme facilement en aspirateur à main pour un nettoyage efficace du sol au plafond."
+     "name": "Lubrifiant Multi-Usage FMS – Protection, Performance et Longévité",
+     "description": "Le lubrifiant multi-usage FMS est la solution idéale pour l’entretien et la protection de vos mécanismes au quotidien. Conçu pour débloquer, lubrifier, protéger et chasser l’humidité, il garantit un fonctionnement fluide et silencieux de vos équipements. Polyvalent et facile à utiliser, il est parfaitement adapté aux applications domestiques, automobiles, industrielles et mécaniques.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLubrifiant multi-usage\n\nMarque\nFMS\n\nFonction principale\nLubrification et protection\n\nAction\nDégrippe les mécanismes\n\nProtection\nAnti-rouille et anti-corrosion\n\nEffet\nÉlimine les grincements\n\nPropriété\nChasse l’humidité\n\nUtilisation\nSerrures, charnières, chaînes, outils, pièces mécaniques\n\nApplication\nMaison, automobile, atelier, industrie\n\nFormat\nAérosol\n\nUtilisation\nFacile et rapide\n\nDurabilité\nProlonge la durée de vie des pièces\n\nRéférence-doshift\nAA3BB599",
+     "short_description": "Le lubrifiant multi-usage FMS est la solution idéale pour l’entretien et la protection de vos mécanismes au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T191723.446.png"
+    "https://doshift.ma/wp-content/uploads/2025/04/Gemini_Generated_Image_w6tajvw6tajvw6ta-1-1.png"
    ]
   },
   {
-   "sku": "doshift-125771",
-   "price": 179,
+   "sku": "doshift-20819",
+   "price": 259,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Porte-Manteau Mural – Patère Murale 5 Crochets en Métal Beige et Bois",
-     "description": "Organisez votre entrée, votre chambre ou votre couloir avec style grâce à ce porte-manteau mural . Alliant une longue plaque en métal beige clair et cinq patères cylindriques en bois chaleureux, il se fixe facilement au mur pour suspendre manteaux, écharpes et accessoires avec élégance.\n\nCaractéristique\nDétail\n\nType de produit\nPorte-manteau mural / Patère murale\n\nMarque\n5five Simply Smart\n\nModèle\nPatère murale 5 crochets métal et bois\n\nCouleur\nBeige Clair et Bois Naturel / Marron\n\nCompatibilité\nMurs intérieurs (entrée, couloir, chambre, salle de bain)\n\nFonctionnalités\nPlaque support en métal avec trous de fixation aux extrémités, 5 patères cylindriques en bois espacées pour suspendre les affaires, design épuré et moderne\n\nAvantages\nOptimisation de l’espace mural, fixation solide, esthétique chaleureuse associant le métal et le bois, idéal pour suspendre vêtements et accessoire\n\nContenu de la boîte\n1 porte-manteau mural 5 crochets\n\nDimensions du produit (cm)\n\n Longueur : ~45,0 cm\n\n Largeur / Profondeur : ~6,0 à 8,0 cm\n\n Hauteur : ~10,0 cm\n\nSKU\n700000000000229",
-     "short_description": "Organisez votre entrée, votre chambre ou votre couloir avec style grâce à ce porte-manteau mural . Alliant une longue plaque en métal beige clair et cinq patères cylindriques en bois chaleureux, il se fixe facilement au mur pour suspendre manteaux, écharpes et accessoires avec élégance."
+     "name": "Routeur TP-Link TL-WR844N 300Mbps",
+     "description": "Routeur TP-Link TL-WR844N 300Mbps est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
+     "short_description": "Routeur TP-Link TL-WR844N 300Mbps – Performance fiable et design moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T183702.787.png"
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-04-T125341-104.png"
    ]
   },
   {
-   "sku": "doshift-125762",
-   "price": 249,
+   "sku": "doshift-20803",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Porte-Manteau de Porte – Patère à Suspendre Métal Vert Sauge et Embouts en Bois",
-     "description": "Optimisez votre espace de rangement sans percer de trous avec ce porte-manteau de porte . Alliant une structure en métal vert sauge et cinq patères cylindriques en bois chaleureux, il s’accroche facilement sur le haut de la plupart des portes standard pour suspendre vêtements, sacs et accessoires avec élégance.\n\nCaractéristique\nDétail\n\nType de produit\nPorte-manteau de porte / Patère à suspendre\n\nMarque\n5five Simply Smart\n\nModèle\nPatère suspendue 5 crochets métal et bois\n\nCouleur\nVert Sauge et Bois Naturel / Marron\n\nCompatibilité\nPortes intérieures standard (chambre, salle de bain, entrée)\n\nFonctionnalités\nStructure en métal avec crochets de suspension supérieurs, barre horizontale dotée de 5 patères cylindriques en bois, installation facile sans perçage\n\nAvantages\nGain de place immédiat, n’abîme pas les murs, design moderne et épuré, idéal pour suspendre manteaux, peignoirs ou sacs\n\nContenu de la boîte\n1 porte-manteau de porte 5 crochets\n\nDimensions du produit (cm)\n\n Longueur : 35,0 cm\n\n Largeur / Profondeur : 10,0 cm\n\n Hauteur : 20,2 cm\n\nSKU\n700000000000230",
-     "short_description": "Optimisez votre espace de rangement sans percer de trous avec ce porte-manteau de porte . Alliant une structure en métal vert sauge et cinq patères cylindriques en bois chaleureux, il s’accroche facilement sur le haut de la plupart des portes standard pour suspendre vêtements, sacs et accessoires avec élégance."
+     "name": "Cle WiFi TP-Link TL-WN823N 300Mbps",
+     "description": "Cle WiFi TP-Link TL-WN823N 300Mbps est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
+     "short_description": "Cle WiFi TP-Link TL-WN823N 300Mbps – Performance fiable et design moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T180531.301.png"
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-04-T122308-921.png"
    ]
   },
   {
-   "sku": "doshift-125729",
-   "price": 199,
+   "sku": "doshift-20735",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Secteur Riversong 20W SafeKub D3 Dual Ports USB, USB-C",
+     "description": "Adaptateur Secteur Riversong 20W SafeKub D3 Dual Ports USB, USB-C vous permet de connecter facilement vos périphériques grâce à sa conception compacte et fiable.\n\nCaractéristiques techniques :\n\n– Connectique : Type-C vers USB-A ou autre\n\n– Norme : USB 3.1 ou supérieure\n\n– Débit : Transfert rapide de données\n\n– Matériau : Alliage d’aluminium ou ABS\n\n– Compatibilité : Smartphones, tablettes, ordinateurs portables\n\nSolution pratique pour vos besoins de connectivité.",
+     "short_description": "Adaptateur Secteur Riversong 20W SafeKub D3 Dual Ports USB, USB-C – Performance fiable et design moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T132220-806.png"
+   ]
+  },
+  {
+   "sku": "doshift-20446",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -67,127 +88,110 @@
    ],
    "locales": {
     "fr": {
-     "name": "Enceinte Multi-Media Portable Sing-e ZQS1481 – Haut-Parleur Super Bass 4″ avec Microphone et Éclairage LED",
-     "description": "Animez vos soirées et profitez d’un son immersif avec l’enceinte multi-media portable Sing-e ZQS1481. Dotée d’un haut-parleur de 4 pouces, de basses profondes « Super Bass », d’effets lumineux LED colorés et d’un microphone filaire inclus, elle combine puissance et divertissement nomade.\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte multi-media / Haut-parleur sans fil portable\n\nMarque\nSing-e\n\nModèle\nZQS1481 (Super Bass Speaker 4″)[cite: 21]\n\nCouleur\nNoir\n\nCompatibilité\nSmartphones, tablettes, ordinateurs et appareils compatibles Bluetooth\n\nFonctionnalités\nHaut-parleur de 4 pouces, technologie Super Bass, batterie de 1200 mAh, éclairage LED dynamique (cool lights), panneau de commande supérieur avec boutons de lecture/mode, microphone filaire inclus pour le karaoké ou les voix, poignée de transport intégrée\n\nAvantages\nSon puissant et équilibré, ambiance visuelle festive grâce aux LED, design facile à transporter (Easy to carry), prêt à l’emploi avec son micro\n\nContenu de la boîte\n1 enceinte Sing-e ZQS1481, 1 microphone filaire, câble de charge, notice d’utilisation\n\nSKU\n9900004580168",
-     "short_description": "Animez vos soirées et profitez d’un son immersif avec l’enceinte multi-media portable Sing-e ZQS1481. Dotée d’un haut-parleur de 4 pouces, de basses profondes « Super Bass », d’effets lumineux LED colorés et d’un microphone filaire inclus, elle combine puissance et divertissement nomade."
+     "name": "Ecouteurs Filaire Riversong Melody T+",
+     "description": "Découvrez le Ecouteurs Filaire Riversong Melody T+\n\n, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Ecouteurs Filaire Riversong Melody T+\n\nest un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Ecouteurs Filaire Riversong Melody T+\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
+     "short_description": "Découvrez le Ecouteurs Filaire Riversong Melody T+"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T145654.175.png"
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T175053-029.png"
    ]
   },
   {
-   "sku": "doshift-125720",
+   "sku": "doshift-20424",
+   "price": 369,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Airpods Riversong Utopia H5 – TWS ENC",
+     "description": "Découvrez le Airpods Riversong Utopia H5 – TWS ENC, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Airpods Riversong Utopia H5 – TWS ENC est un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Airpods Riversong Utopia H5 – TWS ENC\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
+     "short_description": "Découvrez le Airpods Riversong Utopia H5 – TWS ENC, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T172601-184.png"
+   ]
+  },
+  {
+   "sku": "doshift-20345",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Secteur Riversong 30W SafeKub D6 Dual Port USB, USB-C",
+     "description": "Découvrez le Adaptateur Secteur Riversong 30W SafeKub D6 Dual Port USB, USB-C\n\n, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Adaptateur Secteur Riversong 30W SafeKub D6 Dual Port USB, USB-C\n\n est un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Adaptateur Secteur Riversong 30W SafeKub D6 Dual Port USB, USB-C\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
+     "short_description": "Découvrez le Adaptateur Secteur Riversong 30W SafeKub D6 Dual Port USB, USB-C"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T134404-030.png"
+   ]
+  },
+  {
+   "sku": "doshift-20341",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Secteur Riversong SafeKub D2 Dual Port USB",
+     "description": "Découvrez le Adaptateur Secteur Riversong SafeKub D2 Dual Port USB\n\n, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Adaptateur Secteur Riversong SafeKub D2 Dual Port USB\n\n est un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Adaptateur Secteur Riversong SafeKub D2 Dual Port USB\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
+     "short_description": "Découvrez le Adaptateur Secteur Riversong SafeKub D2 Dual Port USB"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T133550-224.png"
+   ]
+  },
+  {
+   "sku": "doshift-20259",
    "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
+    4,
     5
    ],
    "locales": {
     "fr": {
-     "name": "Enceinte Multi-Media Portable ZQS1301 – Haut-Parleur Super Bass 3″ avec Microphone et Support Téléphone",
-     "description": "Profitez d’un son dynamique et puissant avec l’enceinte multi-media portable ZQS1301. Équipée d’un haut-parleur de 3 pouces, de basses profondes « Super Bass », d’un microphone filaire inclus et d’un support de téléphone intégré sur le dessus, elle est idéale pour écouter de la musique ou animer vos moments de divertissement.\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte multi-media / Haut-parleur sans fil portable\n\nMarque\nNon spécifié\n\nModèle\nZQS1301 (Super Bass Speaker 3″)\n\nCouleur\nNoir\n\nCompatibilité\nSmartphones, tablettes, ordinateurs et appareils compatibles Bluetooth\n\nFonctionnalités\nHaut-parleur de 3 pouces, technologie Super Bass, batterie de 1200 mAh, microphone filaire inclus pour les appels ou le karaoké, fente support pour téléphone sur le dessus, poignée de transport intégrée\n\nAvantages\nDesign compact et nomade, son clair avec basses renforcées, visionnage mains libres grâce au support intégré, prêt à l’emploi avec son micro\n\nContenu de la boîte\n1 enceinte ZQS1301, 1 microphone filaire, câble de charge, notice d’utilisation\n\nSKU\n9900004580152",
-     "short_description": "Profitez d’un son dynamique et puissant avec l’enceinte multi-media portable ZQS1301. Équipée d’un haut-parleur de 3 pouces, de basses profondes « Super Bass », d’un microphone filaire inclus et d’un support de téléphone intégré sur le dessus, elle est idéale pour écouter de la musique ou animer vos moments de divertissement."
+     "name": "Casque Stéréo Logitech H111",
+     "description": "Découvrez le Casque Stéréo Logitech H111, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Casque Stéréo Logitech H111 est un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Casque Stéréo Logitech H111\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
+     "short_description": "Découvrez le Casque Stéréo Logitech H111, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T142821.590.png"
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-03-27-T161834-343.png"
    ]
   },
   {
-   "sku": "doshift-125709",
-   "price": 199,
+   "sku": "doshift-20246",
+   "price": 429,
    "stock": 10,
    "status": 0,
    "categories": [
+    4,
     5
    ],
    "locales": {
     "fr": {
-     "name": "Enceinte Bluetooth Portable SOONBOX S6 – Haut-Parleur Sans Fil Basses Stéréo avec Microphone et Support Téléphone",
-     "description": "Profitez d’un son puissant et festif partout où vous allez avec l’enceinte sans fil Soonbox S6. Dotée de basses stéréo riches, d’un éclairage LED, d’une connectivité TWS Link et livrée avec un microphone, elle intègre également un support pratique pour smartphone sur le dessus pour un divertissement total.\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte Bluetooth / Haut-parleur sans fil portable\n\nMarque\nSOONBOX\n\nModèle\nS6 Wireless Stereo Speaker\n\nCouleur\nNoir et grille bleue\n\nCompatibilité\nSmartphones, tablettes, ordinateurs et appareils compatibles Bluetooth\n\nFonctionnalités\nSon Hi-Fi, Basses Stéréo (Bass Stereo), technologie TWS Link pour appairage stéréo, microphone inclus pour karaoké ou appels, fente supérieure support de téléphone, poignée de transport intégrée\n\nAvantages\nIdéale pour les fêtes et l’extérieur, son immersif, utilisation mains libres facilitée par le support pour téléphone, design robuste et portable\n\nContenu de la boîte\n1 enceinte Soonbox S6, 1 microphone filaire, câble de charge, notice d’utilisation\n\nSKU\n99000042580144",
-     "short_description": "Profitez d’un son puissant et festif partout où vous allez avec l’enceinte sans fil Soonbox S6. Dotée de basses stéréo riches, d’un éclairage LED, d’une connectivité TWS Link et livrée avec un microphone, elle intègre également un support pratique pour smartphone sur le dessus pour un divertissement total."
+     "name": "Casque Logitech USB Headset H340",
+     "description": "Découvrez le Casque Logitech USB Headset H340, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Casque Logitech USB Headset H340 est un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Casque Logitech USB Headset H340\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
+     "short_description": "Découvrez le Casque Logitech USB Headset H340, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-16T141059.518.png"
-   ]
-  },
-  {
-   "sku": "doshift-125449",
-   "price": 849,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Machine à Espresso Semi-Automatique – Machine à Café avec Buse Vapeur et Réservoir Transparent",
-     "description": "Profitez d’un café digne d’un barista à la maison avec cette machine à espresso semi-automatique Lamacom. Dotée d’un design moderne en acier inoxydable et noir, d’un panneau de commande intuitif à boutons et d’une buse vapeur intégrée, elle vous permet de préparer facilement des expressos riches en arômes et des cappuccinos crémeux.\n\nCaractéristique\nDétail\n\nType de produit\nMachine à espresso / Machine à café semi-automatique\n\nMarque\nLamaicom\n\nModèle\nMachine à café espresso avec buse vapeur et réservoir arrière\n\nCouleur\nAcier Inoxydable et Noir\n\nCompatibilité\nCafé moulu, tasses à espresso, mugs, tasses pour boissons lactées\n\nFonctionnalités\nPanneau de commande avec boutons et voyants lumineux, molette latérale de réglage/vapeur, buse vapeur articulée, réservoir d’eau transparent amovible à l’arrière, grille d’égouttage amovible\n\nAvantages\nExtraction optimale des arômes, préparation facile de mousses de lait, design élégant et compact, facile à nettoyer\n\nContenu de la boîte\n1 machine à espresso, 1 porte-filtre avec poignée, notice d’utilisation\n\nDimensions du produit (cm)\n\n Longueur / Profondeur : ~30,0 cm\n\n Largeur : ~25,0 cm\n\n Hauteur : ~30,0 cm\n\nSKU\n700000000000187",
-     "short_description": "Profitez d’un café digne d’un barista à la maison avec cette machine à espresso semi-automatique Lamacom. Dotée d’un design moderne en acier inoxydable et noir, d’un panneau de commande intuitif à boutons et d’une buse vapeur intégrée, elle vous permet de préparer facilement des expressos riches en arômes et des cappuccinos crémeux."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T153143.862.png"
-   ]
-  },
-  {
-   "sku": "doshift-125428",
-   "price": 165,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Présentoir à Gâteau sur Pied en Bois – Support Rond et Élégant en Bambou Naturel",
-     "description": "Mettez en valeur vos pâtisseries, gâteaux et douceurs lors de vos réceptions ou au quotidien avec ce présentoir sur pied en bois de bambou. Alliant élégance naturelle et robustesse, son plateau rond et sa base stable apportent une touche chaleureuse et raffinée à votre table.\n\nCaractéristique\nDétail\n\nType de produit\nPrésentoir à gâteau sur pied / Support à pâtisserie\n\nMarque\nNon spécifié\n\nModèle\nPlateau rond surélevé avec pied stable en bois\n\nCouleur\nBois Naturel (Bambou)\n\nCompatibilité\nAnniversaires, mariages, fêtes, buffets, usage domestique ou professionnel\n\nFonctionnalités\nConception en bois de bambou durable, plateau circulaire lisse, pied central robuste pour une parfaite stabilité\n\nAvantages\nMise en valeur élégante des desserts, matériau écologique et facile à entretenir, design intemporel\n\nContenu de la boîte\n1 présentoir à gâteau sur pied en bois\n\nDimensions du produit (cm)\n\n Diamètre du plateau : ~30,0 cm\n\n Hauteur totale : ~10,0 à 12,0 cm\n\nSKU\n700000000000190",
-     "short_description": "Mettez en valeur vos pâtisseries, gâteaux et douceurs lors de vos réceptions ou au quotidien avec ce présentoir sur pied en bois de bambou. Alliant élégance naturelle et robustesse, son plateau rond et sa base stable apportent une touche chaleureuse et raffinée à votre table."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T135317.924.png"
-   ]
-  },
-  {
-   "sku": "doshift-125409",
-   "price": 285,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coupe à Fruits sur Pied en Bois – Compotier ou Corbeille Décorative en Bambou Naturel",
-     "description": "Apportez une touche d’authenticité et de naturel à votre intérieur avec cette élégante coupe à fruits sur pied. Conçue en bois de bambou durable aux finitions soignées, elle met en valeur vos fruits ou objets de décoration tout en optimisant l’espace de votre table ou de votre cuisine grâce à son design surélevé.\n\nCaractéristique\nDétail\n\nType de produit\nCoupe à fruits sur pied / Compotier / Corbeille décorative\n\nMarque\nNon spécifié\n\nModèle\nBol décoratif surélevé à base stable\n\nCouleur\nBois Naturel (Bambou)\n\nCompatibilité\nCuisine, salle à manger, salon, table basse, décoration d’intérieur\n\nFonctionnalités\nStructure en bois de bambou assemblé, design sur pied stable, surface lisse facile à nettoyer\n\nAvantages\nEsthétique chaleureuse et intemporelle, éco-responsable, met en valeur les aliments, gain de place sur le plan de travail\n\nContenu de la boîte\n1 coupe à fruits sur pied en bois\n\nDimensions du produit (cm)\n\n Diamètre de la coupe : ~25,0 à 30,0 cm\n\n Hauteur totale : ~15,0 cm\n\nSKU\n700000000000193",
-     "short_description": "Apportez une touche d’authenticité et de naturel à votre intérieur avec cette élégante coupe à fruits sur pied. Conçue en bois de bambou durable aux finitions soignées, elle met en valeur vos fruits ou objets de décoration tout en optimisant l’espace de votre table ou de votre cuisine grâce à son design surélevé."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-2026-11-14T121928.646.png"
-   ]
-  },
-  {
-   "sku": "doshift-125395",
-   "price": 105,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Parapluie Pliant à Poignée Ovale – Parapluie Compact et Résistant Gris",
-     "description": "Affrontez les intempéries avec style grâce à ce parapluie pliant doté d’une poignée ovale ergonomique distinctive. Sa toile couleur grise de haute qualité et sa structure robuste en font l’accessoire idéal pour vos déplacements quotidiens, alliant confort de prise en main, élégance et protection fiable contre la pluie.\n\nCaractéristique\nDétail\n\nType de produit\nParapluie pliant / Parapluie de voyage compact\n\nMarque\nNon spécifié\n\nModèle\nParapluie télescopique avec poignée ovale ergonomique\n\nCouleur\nGris\n\nCompatibilité\nUtilisation quotidienne, déplacements urbains, voyages, protection contre la pluie\n\nFonctionnalités\nPoignée ovale texturée pour une prise en main confortable, mât télescopique solide, baleines résistantes au vent, toile imperméable\n\nAvantages\nDesign moderne et raffiné, format compact facile à ranger dans un sac, excellente prise en main\n\nContenu de la boîte\n1 parapluie pliant à poignée ovale, 1 housse de rangement\n\nDimensions du produit (cm)\n\n Parapluie ouvert (diamètre de la toile) : ~95,0 à 100,0 cm\n\n Longueur fermé (plié avec poignée) : ~32,0 cm\n\n Hauteur déplié : ~60,0 cm\n\nSKU\n700000000000277",
-     "short_description": "Affrontez les intempéries avec style grâce à ce parapluie pliant doté d’une poignée ovale ergonomique distinctive. Sa toile couleur grise de haute qualité et sa structure robuste en font l’accessoire idéal pour vos déplacements quotidiens, alliant confort de prise en main, élégance et protection fiable contre la pluie."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/11/Votre-texte-de-paragraphe-100.png"
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-03-27-T160805-825.png"
    ]
   }
  ]

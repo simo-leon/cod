@@ -1,7 +1,7 @@
 {
  "products": [
   {
-   "sku": "doshift-89464",
+   "sku": "doshift-91254",
    "price": 99,
    "stock": 10,
    "status": 0,
@@ -11,187 +11,184 @@
    ],
    "locales": {
     "fr": {
-     "name": "Brosse Ronde Thermique pour Brushing",
-     "description": "Obtenez un brushing lisse, volumineux et bien structuré grâce à cette brosse ronde thermique. Son cylindre ventilé aide à répartir la chaleur du sèche-cheveux pour un séchage plus rapide, tandis que ses picots permettent de démêler et coiffer les cheveux facilement.\n\nIdéale pour créer du volume, lisser les longueurs, arrondir les pointes ou travailler la frange au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse ronde thermique\n\nUtilisation\nBrushing, lissage, volume et mise en forme\n\nDesign\nCylindre ventilé avec picots\n\nPoignée\nAntidérapante et confortable\n\nAvantage\nAide à un séchage plus rapide avec sèche-cheveux\n\nConvient pour\nUsage quotidien à la maison ou en salon\n\nCouleur\nGris, blanc et noir\n\nContenu\n1 brosse ronde\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Obtenez un brushing lisse, volumineux et bien structuré grâce à cette brosse ronde thermique."
+     "name": "Parfum Marvel – Lot de 2 PCS",
+     "description": "Découvrez le parfum Marvel, une eau de parfum élégante au design féminin et raffiné. Son flacon compact avec détails dorés et violet apporte une touche luxueuse, idéale pour une utilisation quotidienne ou comme cadeau.\n\nCe lot contient 2 pièces, pratique pour garder un parfum à la maison et un autre dans le sac. Son format spray permet une application simple et rapide à tout moment de la journée.\n\nCaractéristique\nDétail\n\nProduit\nParfum Marvel\n\nType\nEau de parfum\n\nFormat\nVaporisateur spray\n\nQuantité\nLot de 2 pièces\n\nDesign\nFlacon élégant avec finition dorée et violet\n\nUtilisation\nQuotidienne, sortie, cadeau\n\nPublic\nFemme\n\nAvantage\nFormat pratique et facile à transporter\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Découvrez le parfum Marvel, une eau de parfum élégante au design féminin et raffiné. Son flacon compact avec détails dorés et violet apporte une touche luxueuse, idéale pour une utilisation quotidienne ou comme cadeau."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T175101.641.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T173705.683.png"
    ]
   },
   {
-   "sku": "doshift-89434",
+   "sku": "doshift-91247",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Eau de Parfum BACKPACK Pour Homme – 100 ml",
+     "description": "Découvrez BACKPACK Eau de Parfum pour Homme, un parfum masculin au style moderne et élégant. Son flacon rouge avec bouchon doré apporte une touche raffinée, idéale pour un usage quotidien ou pour compléter une tenue chic. Une fragrance conçue pour l’homme qui aime laisser une présence soignée et affirmée.\n\nCaractéristique\nDétail\n\nProduit\nEau de parfum\n\nMarque\nBACKPACK\n\nType\nParfum pour homme\n\nContenance\n100 ml\n\nConcentration indiquée\nEau de Parfum\n\nVaporisateur\nSpray naturel\n\nDesign\nFlacon rouge avec bouchon doré\n\nUtilisation\nQuotidienne ou occasions spéciales\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Découvrez BACKPACK Eau de Parfum pour Homme, un parfum masculin au style moderne et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T172746.485.png"
+   ]
+  },
+  {
+   "sku": "doshift-91241",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
     11
    ],
    "locales": {
     "fr": {
-     "name": "Pinceau Maquillage Rotatif Beauty Spin",
-     "description": "Obtenez un maquillage plus uniforme et naturel grâce au pinceau maquillage rotatif Beauty Spin. Pratique et facile à utiliser, il aide à appliquer le fond de teint, la poudre ou le blush rapidement, tout en offrant un rendu lisse et bien estompé.\n\nSon design compact avec poignée violette permet une bonne prise en main, tandis que ses embouts interchangeables s’adaptent à différents besoins de maquillage au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nPinceau maquillage rotatif\n\nUtilisation\nFond de teint, poudre, blush\n\nEmbouts\nInterchangeables\n\nCouleur\nViolet\n\nType\nAccessoire de maquillage électrique\n\nAvantage\nApplication rapide et uniforme\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Obtenez un maquillage plus uniforme et naturel grâce au pinceau maquillage rotatif Beauty Spin."
+     "name": "Miss Shereene Bouquet – Eau de Toilette pour Femme 100 ml",
+     "description": "Miss Shereene Bouquet est une eau de toilette féminine au style doux, élégant et raffiné. Son flacon transparent avec liquide rosé et nœud argenté apporte une touche chic à votre coiffeuse. Idéal pour une utilisation quotidienne, ce parfum offre une sensation fraîche et florale, parfaite pour compléter une routine beauté avec délicatesse.\n\nCaractéristique\nDétail\n\nType de produit\nEau de toilette pour femme\n\nNom\nMiss Shereene Bouquet\n\nContenance\n100 ml\n\nFormat\nFlacon vaporisateur\n\nFamille olfactive\nFlorale, fraîche, féminine\n\nDesign\nFlacon transparent avec liquide rosé et nœud argenté\n\nUtilisation\nQuotidienne, sortie, cadeau\n\nVolume alcool\n80% Vol.\n\nÉquivalence\n3.4 Fl.Oz\n\nPublic cible\nFemme\n\nRéférence\nAA4BB099",
+     "short_description": "Miss Shereene Bouquet est une eau de toilette féminine au style doux, élégant et raffiné. Son flacon transparent avec liquide rosé et nœud argenté apporte une touche chic à votre coiffeuse."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T171436.753.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T171439.650.png"
    ]
   },
   {
-   "sku": "doshift-89379",
-   "price": 219,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lisseur & Boucleur Satin Hair Colour 2 en 1",
-     "description": "Obtenez des cheveux lisses, brillants et bien coiffés en quelques minutes avec le lisseur boucleur Satin Hair Colour. Grâce à ses plaques larges et son design pratique, il permet de lisser les cheveux ou créer de belles ondulations facilement à la maison.\n\nSon écran LCD facilite le contrôle de la température, tandis que son cordon rotatif offre une utilisation confortable sans gêne.\n\nCaractéristique\nDétail\n\nType de produit\nLisseur & boucleur cheveux 2 en 1\n\nUtilisation\nLisser, boucler et coiffer les cheveux\n\nTempérature affichée\nJusqu’à 980°C\n\nÉcran\nLCD avec affichage de température\n\nPlaques\nLarges plaques lisses pour une glisse facile\n\nDesign\nNoir avec finition rose gold\n\nCordon\nRotatif, pratique pour une meilleure manipulation\n\nConvient pour\nUsage maison ou professionnel\n\nRésultat\nCheveux lisses, brillants et soyeux\n\nRéférence Doshift\nAA13BB099",
-     "short_description": "Obtenez des cheveux lisses, brillants et bien coiffés en quelques minutes avec le lisseur boucleur Satin Hair Colour."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T152549.809.png"
-   ]
-  },
-  {
-   "sku": "doshift-89329",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lot de 3 bocaux décoratifs en verre ambré avec bouchons en liège",
-     "description": "Ajoutez une touche élégante et chaleureuse à votre intérieur avec ce lot de 3 bocaux décoratifs en verre nervuré. Leur finition ambrée transparente, associée aux bouchons ronds en liège naturel, apporte un style raffiné et intemporel à votre décoration.\n\nParfaits pour une table, une étagère, une console ou un coin salon, ces bocaux peuvent être utilisés comme objets décoratifs ou pour ranger de petits accessoires avec style.\n\nCaractéristique\nDétail\n\nProduit\nBocaux décoratifs\n\nQuantité\nLot de 3 pièces\n\nMatière\nVerre + liège\n\nCouleur\nAmbré transparent\n\nDesign\nVerre nervuré avec bouchon rond\n\nUtilisation\nDécoration intérieure / rangement décoratif\n\nEmplacement idéal\nSalon, chambre, table, étagère, console\n\nRéférence Doshift\nAA9BB099",
-     "short_description": "Ajoutez une touche élégante et chaleureuse à votre intérieur avec ce lot de 3 bocaux décoratifs en verre nervuré."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T141118.588.png"
-   ]
-  },
-  {
-   "sku": "doshift-89298",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Papiers Cuisson Air Fryer – Lot de 50 unités",
-     "description": "Simplifiez la cuisson avec ces papiers de cuisson spécialement conçus pour les friteuses à air. Pratiques, jetables et résistants à la chaleur, ils protègent le panier de votre Air Fryer tout en facilitant le nettoyage après chaque utilisation.\n\nGrâce à leur forme ronde avec bords plissés, ils s’adaptent parfaitement au panier et permettent de cuire frites, poulet, légumes, pâtisseries et snacks sans coller.\n\nCaractéristique\nDétail\n\nProduit\nPapiers cuisson Air Fryer\n\nQuantité\n50 unités\n\nMatière\nPapier alimentaire\n\nForme\nRonde avec bords plissés\n\nDimensions\n20 cm x 4,5 cm\n\nUtilisation\nFriteuse à air, cuisson, snacks, pâtisseries\n\nAvantages\nAntiadhésif, pratique, jetable\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Simplifiez la cuisson avec ces papiers de cuisson spécialement conçus pour les friteuses à air."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T135338.558.png"
-   ]
-  },
-  {
-   "sku": "doshift-89287",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Papier Cuisson pour Air Fryer – Pack 50 unités",
-     "description": "Simplifiez la cuisson avec ce pack de 50 papiers de cuisson spécialement conçus pour les Air Fryer. Leur forme pratique avec bords relevés protège le panier, réduit les résidus de graisse et aide à garder votre friteuse propre plus longtemps. Idéal pour préparer frites, poulet, légumes, snacks, pâtisseries et autres recettes sans coller.\n\nCaractéristique\nDétail\n\nProduit\nPapier cuisson pour Air Fryer\n\nQuantité\n50 unités\n\nMatière\nPapier alimentaire type kraft\n\nForme\nCarrée avec coins arrondis\n\nDimensions\n20 x 4,5 cm\n\nUtilisation\nAir Fryer, four, cuisson, snacks, pâtisserie\n\nAvantage\nAntiadhésif et pratique pour garder le panier propre\n\nCouleur\nMarron kraft\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Simplifiez la cuisson avec ce pack de 50 papiers de cuisson spécialement conçus pour les Air Fryer."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T135056.270.png"
-   ]
-  },
-  {
-   "sku": "doshift-89351",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Crème Eight Pack Pour Homme – Aichun Beauty",
-     "description": "La crème Eight Pack Aichun Beauty est un soin corporel pour homme conçu pour accompagner la routine de soin au quotidien. Son format tube pratique permet une application facile sur les zones ciblées du corps, avec une texture simple à étaler et adaptée à une utilisation régulière.\n\nIdéale pour les hommes qui recherchent un soin pratique, discret et facile à transporter, cette crème s’intègre facilement dans une routine après la douche, après le sport ou à la maison.\n\nCaractéristique\nDétail\n\nProduit\nCrème Eight Pack\n\nMarque\nAichun Beauty\n\nType\nCrème de soin corporel\n\nPublic cible\nHomme\n\nUtilisation\nApplication sur les zones souhaitées du corps\n\nFormat\nTube pratique\n\nCouleur du packaging\nNoir et vert\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "La crème Eight Pack Aichun Beauty est un soin corporel pour homme conçu pour accompagner la routine de soin au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T143601.188.png"
-   ]
-  },
-  {
-   "sku": "doshift-89262",
+   "sku": "doshift-91179",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rouleau à Pâtisserie Gravé en Bois",
-     "description": "Ajoutez une touche créative à vos préparations avec ce rouleau à pâtisserie en bois gravé. Son motif floral embossé permet d’imprimer facilement de jolis dessins sur la pâte à biscuits, la pâte sucrée, le fondant ou la pâte à tarte.\n\nFabriqué en bois naturel, il offre une bonne prise en main grâce à ses poignées ergonomiques. Idéal pour préparer des biscuits décoratifs, pâtisseries maison, gâteaux personnalisés et créations sucrées élégantes.\n\nCaractéristique\nDétail\n\nProduit\nRouleau à pâtisserie gravé\n\nMatière\nBois naturel\n\nMotif\nFloral embossé\n\nUtilisation\nBiscuits, pâte sucrée, fondant, pâtisserie\n\nPoignées\nErgonomiques\n\nEntretien\nNettoyage à la main recommandé\n\nCouleur\nBois naturel\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Ajoutez une touche créative à vos préparations avec ce rouleau à pâtisserie en bois gravé."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-06-30T173327.682.png"
-   ]
-  },
-  {
-   "sku": "doshift-89305",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
     11
    ],
    "locales": {
     "fr": {
-     "name": "Set de Pinceaux Maquillage 9 Pièces avec Éponge",
-     "description": "Obtenez un maquillage précis et naturel avec ce set complet de pinceaux maquillage 9 pièces. Il comprend plusieurs pinceaux pour le visage, les yeux et les sourcils, ainsi qu’une éponge de maquillage pour appliquer et estomper facilement les produits liquides ou poudres.\n\nAvec leurs poils doux, leurs manches légers et leur design élégant blanc et doré rose, ces pinceaux sont pratiques pour une utilisation quotidienne, à la maison ou en voyage.\n\nCaractéristique\nDétail\n\nProduit\nSet de pinceaux maquillage\n\nNombre de pièces\n9 pièces\n\nInclus\nPinceaux + éponge de maquillage\n\nUtilisation\nVisage, yeux, sourcils et finition\n\nType de poils\nDoux et agréables sur la peau\n\nManche\nLéger et facile à tenir\n\nDesign\nBlanc avec finition dorée rose\n\nIdéal pour\nMaquillage quotidien, retouches et voyage\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Obtenez un maquillage précis et naturel avec ce set complet de pinceaux maquillage 9 pièces."
+     "name": "Parfum LILAA – Élégance Florale en Flacon Violet",
+     "description": "Découvrez LILAA, un parfum raffiné au design luxueux, pensé pour apporter une touche d’élégance au quotidien. Son flacon violet pastel avec détails dorés offre une présentation chic et féminine, idéale pour une coiffeuse, une salle de bain ou comme cadeau.\n\nAvec ses notes florales douces, ce parfum convient parfaitement aux femmes qui aiment les senteurs délicates, élégantes et intemporelles.\n\nCaractéristique\nDétail\n\nProduit\nParfum\n\nNom\nLILAA\n\nType de senteur\nFlorale\n\nStyle\nÉlégant, doux et féminin\n\nCouleur du flacon\nViolet pastel\n\nFinition\nDétails dorés\n\nUtilisation\nQuotidienne, sortie, occasion spéciale\n\nIdéal pour\nFemme\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Découvrez LILAA, un parfum raffiné au design luxueux, pensé pour apporter une touche d’élégance au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T135920.733.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T144119.950.png"
    ]
   },
   {
-   "sku": "doshift-89256",
-   "price": 79,
+   "sku": "doshift-91167",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
     11
    ],
    "locales": {
     "fr": {
-     "name": "Pinceau de Rasage – Manche Orange Élégant",
-     "description": "Offrez un rasage plus agréable avec ce pinceau de rasage au design classique et pratique. Ses poils doux permettent de créer une mousse généreuse et homogène, idéale pour appliquer la crème ou le savon de rasage avec précision. Son manche orange ergonomique assure une bonne prise en main pour un confort optimal au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nPinceau de rasage\n\nUtilisation\nApplication de mousse, crème ou savon de rasage\n\nPoils\nDoux et denses\n\nManche\nErgonomique\n\nCouleur\nOrange avec finition dorée\n\nStyle\nClassique et élégant\n\nRéférence Doshift\nAA1BB599",
-     "short_description": "Offrez un rasage plus agréable avec ce pinceau de rasage au design classique et pratique."
+     "name": "Parfum Himmah AROMASQ – Eau de Parfum 100 ml",
+     "description": "Découvrez Himmah de AROMASQ, une eau de parfum élégante au flacon vert profond avec finitions dorées. Son design luxueux apporte une touche raffinée, idéale pour une utilisation quotidienne ou pour compléter une collection de parfums.\n\nSa présentation premium en fait aussi une excellente idée cadeau. Le format 100 ml offre une bonne contenance pour profiter longtemps de votre fragrance.\n\nCaractéristique\nDétail\n\nProduit\nParfum Himmah\n\nMarque\nAROMASQ\n\nType\nEau de Parfum\n\nContenance\n100 ml\n\nCouleur du flacon\nVert foncé avec détails dorés\n\nUtilisation\nQuotidienne ou occasions spéciales\n\nPrésentation\nFlacon + emballage\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Découvrez Himmah de AROMASQ, une eau de parfum élégante au flacon vert profond avec finitions dorées."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T133354.456.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T143051.968.png"
+   ]
+  },
+  {
+   "sku": "doshift-91140",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "SUAVE For Man – Eau de Toilette 110 ml",
+     "description": "Découvrez SUAVE For Man, une eau de toilette masculine au style élégant et moderne. Son flacon noir raffiné reflète un parfum conçu pour l’homme qui aime rester frais, confiant et bien présenté au quotidien.\n\nAvec son format 110 ml, ce parfum est idéal pour une utilisation régulière, que ce soit pour le travail, les sorties ou les occasions spéciales. Son design sobre et chic en fait aussi une excellente idée cadeau.\n\nCaractéristique\nDétail\n\nProduit\nParfum homme\n\nNom\nSUAVE For Man\n\nType\nEau de Toilette\n\nFormat\nSpray\n\nContenance\n110 ml\n\nStyle\nMasculin, élégant, moderne\n\nUtilisation\nQuotidienne, sorties, occasions\n\nPublic cible\nHomme\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Découvrez SUAVE For Man, une eau de toilette masculine au style élégant et moderne. Son flacon noir raffiné reflète un parfum conçu pour l’homme qui aime rester frais, confiant et bien présenté au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T134651.002.png"
+   ]
+  },
+  {
+   "sku": "doshift-90982",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Atlantis Plato Burprise – Brume Parfumée 250 ml",
+     "description": "Apportez une touche de fraîcheur et d’élégance à votre routine avec Atlantis Plato Burprise, une brume parfumée au design luxueux et raffiné. Son flacon argenté décoratif avec bouchon travaillé donne une allure premium, parfaite pour une utilisation quotidienne ou comme idée cadeau.\n\nSa formule en brume parfumée permet de parfumer délicatement le corps et les vêtements avec une sensation légère et agréable.\n\nCaractéristique\nDétail\n\nProduit\nBrume parfumée\n\nModèle\nAtlantis Plato Burprise\n\nCollection\nSignature Collection\n\nContenance\n250 ml / 8.4 FL OZ\n\nUtilisation\nCorps et vêtements\n\nFormat\nSpray / brume parfumée\n\nDesign\nFlacon argenté décoratif\n\nRéférence\nAA4BB099",
+     "short_description": "Apportez une touche de fraîcheur et d’élégance à votre routine avec Atlantis Plato Burprise, une brume parfumée au design luxueux et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T181915.223.png"
+   ]
+  },
+  {
+   "sku": "doshift-90956",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Exotique Adventvs – Coffret Eau de Parfum 2 PCS – 50 ml x2",
+     "description": "Découvrez Exotique Adventvs, un coffret élégant composé de 2 flacons d’Eau de Parfum de 50 ml chacun. Son style noir premium et masculin en fait un parfum idéal pour une utilisation quotidienne, les sorties, le travail ou comme cadeau.\n\nAvec son vaporisateur pratique, il s’applique facilement et accompagne parfaitement votre routine parfumée.\n\nCaractéristique\nDétail\n\nProduit\nEau de Parfum\n\nMarque\nExotique\n\nModèle\nAdventvs\n\nContenu\n2 PCS\n\nCapacité\n50 ml x2\n\nType\nVaporisateur Natural Spray\n\nStyle\nÉlégant, masculin, premium\n\nUtilisation\nQuotidien, sorties, cadeau\n\nRéférence\nAA3BB599",
+     "short_description": "Découvrez Exotique Adventvs, un coffret élégant composé de 2 flacons d’Eau de Parfum de 50 ml chacun."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T173257.600.png"
+   ]
+  },
+  {
+   "sku": "doshift-90937",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret Soin Parfumé Clive Dorris Imperial V – 2 Pièces",
+     "description": "Offrez une touche de luxe à votre routine quotidienne avec le coffret Clive Dorris Imperial V. Ce set élégant comprend une lotion parfumée et un soin parfumé assorti, conçus pour laisser la peau délicatement parfumée et agréablement douce.\n\nSon design bleu ciel avec finitions dorées apporte une présentation raffinée, idéale pour une utilisation personnelle ou comme cadeau.\n\nCaractéristique\nDétail\n\nProduit\nCoffret soin parfumé\n\nMarque\nClive Dorris\n\nModèle\nImperial V\n\nContenu\n2 pièces\n\nType\nLotion parfumée + soin parfumé\n\nContenance\n250 ml + 236 ml\n\nCouleur\nBleu ciel avec détails dorés\n\nUtilisation\nCorps et mains\n\nStyle\nÉlégant, raffiné, féminin\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Offrez une touche de luxe à votre routine quotidienne avec le coffret Clive Dorris Imperial V."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T171601.403.png"
+   ]
+  },
+  {
+   "sku": "doshift-90975",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Parfum Homme Office Pour Homme – Coffret 2 Pièces",
+     "description": "Découvrez Office Pour Homme, un parfum masculin au design élégant, pensé pour accompagner l’homme moderne au quotidien. Son flacon noir avec détails dorés offre une présentation raffinée, idéale pour une utilisation personnelle ou comme cadeau.\n\nAvec son style chic et sobre, ce coffret de 2 pièces convient parfaitement pour le bureau, les sorties, les occasions spéciales ou un usage quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nParfum pour homme\n\nNom\nOffice Pour Homme\n\nQuantité\nCoffret 2 pièces\n\nDesign\nFlacon noir élégant avec étiquette dorée\n\nUtilisation\nQuotidienne, bureau, sorties, occasions spéciales\n\nStyle\nMasculin, chic et moderne\n\nIdéal pour\nHomme adulte\n\nFormat\nCoffret cadeau\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Découvrez Office Pour Homme, un parfum masculin au design élégant, pensé pour accompagner l’homme moderne au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T181049.472.png"
    ]
   }
  ]

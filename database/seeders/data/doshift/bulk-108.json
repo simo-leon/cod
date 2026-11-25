@@ -1,85 +1,148 @@
 {
  "products": [
   {
-   "sku": "doshift-47048",
-   "price": 79,
+   "sku": "doshift-51628",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Câble USB – BASEUS – CAMYS-A – 2 m – USB 2.0 – Micro-USB A – Blanc",
-     "description": "Câble USB de 2 m de BASEUS, modèle CAMYS-A, avec connecteurs USB A et Micro-USB A. Compatible USB 2.0, il permet un transfert de données rapide jusqu’à 480 Mbit/s. Fabriqué en élastomère thermoplastique (TPE), il est durable et élégant en blanc.",
-     "short_description": "Câble USB de 2 m de BASEUS, modèle CAMYS-A, avec connecteurs USB A et Micro-USB A. Compatible USB 2.0, il permet un transfert de données rapide jusqu’à 480 Mbit/s."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764600190-46_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-47043",
-   "price": 65,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ruban à mesurer souple pour les mesures du corps, double échelle 1.5m",
-     "description": "1Pcs Portable Rétractable Règle Centimètre Ceinture Enfants Hauteur Règle Centimètre Inch Roll Tape 150cm/60 « Ruban à mesurerCaractéristiquesMini ruban à mesurer rétractable centimètre/pouce. 60 pouces d’un côté et 150 centimètres de l’autre. Mark est clair pour vous de lire facilement.Les mesures de ruban sont faites de PVC de haute qualité, s’adaptent autour des objets ronds aussi bien que des longueurs droites de mesure.En appuyant sur le bouton rétractable, le ruban à mesurer peut se rétracter automatiquement; tirer sur le ruban à mesurer maintiendra la mesure verrouillée en place.Format de poche, flexible, très pratique à mettre dans votre sac de magasin, sac à coudre, tiroir et tout autre endroit.",
-     "short_description": "1Pcs Portable Rétractable Règle Centimètre Ceinture Enfants Hauteur Règle Centimètre Inch Roll Tape 150cm/60 « Ruban à mesurerCaractéristiquesMini ruban à mesurer rétractable centimètre/pouce."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764600184-45_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-47018",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
+    2,
     4
    ],
    "locales": {
     "fr": {
-     "name": "SANDISK Clé USB Ultra Flair – 64Gb – 3.0 – Gris",
-     "description": "La clé USB Ultra Flair de SANDISK offre bien plus qu’un simple stockage de données. L’algorithme de chiffrement AES garantit la sécurité de vos données, tandis que la capacité de stockage généreuse et la vitesse de lecture rapide font de cette clé USB un compagnon idéal pour le stockage et le partage de fichiers en toute simplicité. Les fonctionnalités de sécurité avancées ajoutent également une couche supplémentaire de protection à vos données sensibles. Que vous travailliez dans des conditions extrêmes ou recherchiez une solution de stockage sécurisée, la Clé USB Ultra Flair SANDISK répond à tous vos besoins avec style et fiabilité.\n\n– Algorithme de chiffrement AES 128 bits : assure une protection avancée de vos données, garantissant qu’elles restent confidentielles et sécurisées pendant le stockage et le transfert\n\n– Capacité de stockage de 64 Go : offre un espace généreux pour stocker une grande quantité de fichiers, photos, vidéos et autres données importantes\n\n– Type d’interface USB 3.0 : accélère vos opérations de stockage et assure une compatibilité avec une variété d’appareils\n\n– Corps métallique : renforce la robustesse de la clé tout en lui donnant une apparence élégante\n\n– Vitesse de lecture jusqu’à 150 Mo/s : idéale pour les transferts de données volumineuses et le streaming de contenu multimédia\n\n– Caractéristiques d’environnement : fonctionne de manière fiable dans une plage de températures allant de 0 °C à 45 °C, assurant une performance constante quel que soit le climat",
-     "short_description": "La clé USB Ultra Flair de SANDISK offre bien plus qu’un simple stockage de données."
+     "name": "Perche à Selfie Trépied Z5s – Version Blanche",
+     "description": "Capturez vos selfies, vidéos et lives plus facilement avec la perche à selfie trépied Z5s. Compacte et pliable, elle combine une perche télescopique, un support téléphone rotatif et un trépied intégré pour une utilisation pratique partout : voyage, vlog, appels vidéo, photos de groupe ou création de contenu.\n\nSa télécommande Bluetooth détachable permet de prendre des photos à distance sans toucher le téléphone. Son design blanc moderne la rend élégante, légère et facile à transporter.\n\nCaractéristique\nDétail\n\nProduit\nPerche à selfie avec trépied intégré\n\nModèle\nZ5s\n\nCouleur\nBlanc\n\nFonction principale\nSelfie, vidéo, live, appel vidéo, photo de groupe\n\nConnexion\nTélécommande Bluetooth détachable\n\nRotation\nSupport téléphone rotatif 360°\n\nStructure\nTige télescopique extensible\n\nBase\nTrépied pliable intégré\n\nDesign\nCompact, léger et facile à transporter\n\nUtilisation\nVoyage, bureau, maison, extérieur, création de contenu\n\nCompatibilité\nSmartphones standards\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Capturez vos selfies, vidéos et lives plus facilement avec la perche à selfie trépied Z5s."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764600148-40_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-06-27T150451.038.png"
    ]
   },
   {
-   "sku": "doshift-47003",
+   "sku": "doshift-51590",
+   "price": 269,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Vidéo LED RGB Rechargeable – Éclairage Annulaire Portable pour Selfies & Diffusion en Direct",
+     "description": "La lampe vidéo LED RGB rechargeable est l’accessoire idéal pour améliorer instantanément la qualité de vos photos et vidéos. Conçue pour les créateurs de contenu, vloggers, maquilleurs, streameurs et utilisateurs de réseaux sociaux, elle offre un éclairage annulaire puissant avec effets RGB dynamiques, parfait pour TikTok, YouTube, Instagram ou les lives.Grâce à sa température de couleur réglable, sa luminosité ajustable et sa fonction de stabilisation, elle garantit des images nettes, bien éclairées et professionnelles. Son design compact, ergonomique et portable permet une utilisation facile à la maison comme en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLampe vidéo LED RGB portable\n\nType d’éclairage\nAnneau lumineux LED RGB\n\nModes lumineux\n45 modes RGB (flash, fondu, pulsation, ambiance, fête…)\n\nTempérature de couleur\n2500K – 8500K\n\nRéglage de luminosité\n10 % à 100 %\n\nFonction stabilisation\nOui (poignée stabilisatrice intégrée)\n\nUtilisation\nSelfies, vidéos, streaming, maquillage, photographie\n\nCompatibilité\nSmartphones, caméras, GoPro\n\nAlimentation\nBatterie rechargeable\n\nCapacité batterie\n4400 mAh\n\nAutonomie\nEnviron 2 à 3 heures\n\nRecharge\nUSB\n\nDesign\nErgonomique, compact et portable\n\nUsage\nIntérieur & extérieur\n\nRéférence-doshift\nAA15BB099",
+     "short_description": "La lampe vidéo LED RGB rechargeable est l’accessoire idéal pour améliorer instantanément la qualité de vos photos et vidéos."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_7ianys7ianys7ian-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-51440",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Enseigne Lumineuse TAXI – Signalisation Professionnelle pour Véhicule",
+     "description": "Cette enseigne lumineuse TAXI est conçue pour offrir une identification immédiate et professionnelle de votre véhicule, de jour comme de nuit. Grâce à son éclairage puissant et homogène, elle améliore la visibilité du taxi dans la circulation urbaine et renforce la confiance des clients. Facile à installer sur le toit du véhicule, elle est idéale pour les chauffeurs professionnels souhaitant un service clair, fiable et conforme aux usages du transport urbain.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nEnseigne lumineuse de toit pour taxi\n\nMarquage\nTEXTE « TAXI » rouge sur fond blanc\n\nVisibilité\nHaute visibilité de jour et de nuit\n\nÉclairage\nLumineux et homogène\n\nUtilisation\nIdentification claire du véhicule taxi\n\nInstallation\nSimple et rapide sur le toit du véhicule\n\nAlimentation\nÉlectrique (via véhicule)\n\nMatériau\nPlastique résistant et durable\n\nCouleur\nblanc avec inscription rouge\n\nUsage\nTaxi urbain, transport professionnel\n\nRéférence-doshift\nAA4BB599",
+     "short_description": "Cette enseigne lumineuse TAXI est conçue pour offrir une identification immédiate et professionnelle de votre véhicule, de jour comme de nuit."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-22-dec.-2025-15_47_26-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-51434",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Enseigne Lumineuse TAXI – Signalisation Professionnelle pour Véhicule",
+     "description": "Cette enseigne lumineuse TAXI est conçue pour offrir une identification immédiate et professionnelle de votre véhicule, de jour comme de nuit. Grâce à son éclairage puissant et homogène, elle améliore la visibilité du taxi dans la circulation urbaine et renforce la confiance des clients. Facile à installer sur le toit du véhicule, elle est idéale pour les chauffeurs professionnels souhaitant un service clair, fiable et conforme aux usages du transport urbain.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nEnseigne lumineuse de toit pour taxi\n\nMarquage\nTEXTE « TAXI » noir sur fond jaune\n\nVisibilité\nHaute visibilité de jour et de nuit\n\nÉclairage\nLumineux et homogène\n\nUtilisation\nIdentification claire du véhicule taxi\n\nInstallation\nSimple et rapide sur le toit du véhicule\n\nAlimentation\nÉlectrique (via véhicule)\n\nMatériau\nPlastique résistant et durable\n\nCouleur\nJaune avec inscription noire\n\nUsage\nTaxi urbain, transport professionnel\n\nRéférence-doshift\nAA6BB599",
+     "short_description": "Cette enseigne lumineuse TAXI est conçue pour offrir une identification immédiate et professionnelle de votre véhicule, de jour comme de nuit."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-22-dec.-2025-15_27_46-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-51222",
    "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    5,
-    6
+    3,
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Casque Gaming Filaire GT85 avec Micro et Éclairage LED",
-     "description": "Plongez au cœur de vos jeux avec le casque gaming GT85, conçu pour offrir une expérience sonore immersive et une communication claire pendant vos parties. Ses haut-parleurs de 50 mm délivrent un son stéréo puissant avec des basses profondes, idéal pour repérer les effets sonores et profiter pleinement de vos contenus multimédias.\n\nÉquipé d’un microphone intégré, ce casque facilite les échanges avec vos coéquipiers. Son éclairage LED rouge lui apporte un style gaming moderne, tandis que ses coussinets confortables permettent une utilisation prolongée.\n\nGrâce à sa connexion filaire Jack 3,5 mm et USB, le GT85 peut être utilisé avec un ordinateur, un laptop et différents appareils compatibles.\n\nCaractéristique\nDétail\n\nType de produit\nCasque gaming filaire\n\nModèle\nGT85\n\nType de son\nSon stéréo avec basses puissantes\n\nTaille des haut-parleurs\n50 mm\n\nMicrophone\nMicrophone intégré\n\nÉclairage\nLED rouge\n\nConnectique audio\nJack stéréo 3,5 mm\n\nAlimentation de l’éclairage\nUSB\n\nCompatibilité\nOrdinateur, laptop et appareils compatibles Jack 3,5 mm\n\nUtilisation\nGaming, communication, musique et multimédia\n\nCouleur\nNoir avec détails rouges\n\nRéférence Doshift\nAA9BB599",
-     "short_description": "Plongez au cœur de vos jeux avec le casque gaming GT85, conçu pour offrir une expérience sonore immersive et une communication claire pendant vos parties."
+     "name": "Tapis de Sol Automobile Sur Mesure – Protection Totale & Ajustement Parfait",
+     "description": "Offrez à l’intérieur de votre véhicule une protection optimale avec ce tapis de sol automobile sur mesure. Conçu pour s’adapter parfaitement à votre habitacle, il protège efficacement contre l’eau, la boue, la poussière et les saletés du quotidien. Son design robuste et élégant assure sécurité, confort et durabilité, tout en facilitant l’entretien pour garder un intérieur propre en toute circonstance.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTapis de sol automobile sur mesure\n\nMatériau\nTPE premium (Thermoplastique)\n\nÉtanchéité\n100 % étanche\n\nParois\nParois relevées pour retenir liquides et saletés\n\nSurface\nAntidérapante, reste bien en place\n\nProtection\nContre l’eau, la boue, la poussière et l’usure\n\nEntretien\nFacile à nettoyer (lavage à l’eau ou chiffon)\n\nOdeur\nSans odeur\n\nCompatibilité\nAdaptation parfaite selon le modèle du véhicule\n\nUtilisation\nUsage quotidien, urbain et routier\n\nDurabilité\nRésistant à l’usure et aux variations de température\n\nRéférence-doshift\nAA9BB599",
+     "short_description": "Offrez à l’intérieur de votre véhicule une protection optimale avec ce tapis de sol automobile sur mesure."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-07-21T190430.379.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-20-dec.-2025-17_40_10-1.png"
    ]
   },
   {
-   "sku": "doshift-46984",
-   "price": 69,
+   "sku": "doshift-51182",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse Auto-Nettoyante pour Animaux – Pelage Doux & Entretien Facile",
+     "description": "Offrez à votre animal un moment de soin agréable avec cette brosse auto-nettoyante conçue pour chiens et chats. Grâce à ses picots souples et flexibles, elle élimine efficacement les poils morts, la poussière et les impuretés tout en respectant la peau sensible de votre compagnon. Son design ergonomique assure une prise en main confortable et un brossage sans effort, transformant le toilettage en un véritable moment de bien-être. Facile à nettoyer et durable, elle contribue également à garder votre maison propre en réduisant la chute des poils.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBrosse auto-nettoyante pour animaux\n\nUtilisation\nChiens et chats, tous types de pelage\n\nFonction\nÉlimination des poils morts et impuretés\n\nPicots\nSouples et doux pour la peau\n\nConfort\nMassage agréable, sans douleur\n\nDesign\nErgonomique et léger\n\nEntretien\nFacile à nettoyer à l’eau\n\nMatériau\nPlastique durable et résistant\n\nAvantage\nRéduit la chute des poils dans la maison\n\nRéférence-doshift\nAA1BB599",
+     "short_description": "Offrez à votre animal un moment de soin agréable avec cette brosse auto-nettoyante conçue pour chiens et chats."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-20-dec.-2025-16_06_40-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-51173",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse Massante Manuelle pour Cuir Chevelu",
+     "description": "Transformez votre routine capillaire avec cette brosse massante pour cuir chevelu, conçue pour faciliter le lavage et répartir le shampoing sur l’ensemble de la chevelure. Ses picots souples massent délicatement le cuir chevelu tout en aidant à décoller les impuretés et les résidus de produits.\n\nSon manche ergonomique offre une prise en main confortable, même sous la douche. Compacte et légère, elle convient à différents types de cheveux et peut être utilisée sur cheveux secs ou mouillés.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse massante pour cuir chevelu\n\nUtilisation\nLavage, massage et répartition du shampoing\n\nFonctionnement\nManuel\n\nPicots\nSouples et arrondis\n\nPoignée\nErgonomique avec prise en main confortable\n\nMatière\nPlastique transparent et éléments souples\n\nCouleur\nRose et transparent\n\nType de cheveux\nConvient à différents types de cheveux\n\nUtilisation recommandée\nSur cheveux secs ou mouillés\n\nEntretien\nRinçage à l’eau claire après utilisation\n\nContenu du pack\n1 brosse massante\n\nRéférence Doshift\nAA1BB599",
+     "short_description": "Transformez votre routine capillaire avec cette brosse massante pour cuir chevelu, conçue pour faciliter le lavage et répartir le shampoing sur l’ensemble de la chevelure."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-08-03T185022.407.png"
+   ]
+  },
+  {
+   "sku": "doshift-51190",
+   "price": 83,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -87,56 +150,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "PRISE MURALE EU AC ADAPTATEUR DALIMENTATION POUR MAC BOOK",
-     "description": "Adaptateur d’alimentation mural pour Mac Book avec prise EU AC. Avec une entrée nominale de AC 250V 2.5A, cet adaptateur est compatible avec plusieurs modèles d’adaptateurs secteur, y compris A1036, M8482, 661-2790, 661-2736, 661-3049, 661-3345, A1021, et M8943LL/A. Son design compact et léger le rend facile à utiliser et à transporter.",
-     "short_description": "Adaptateur d’alimentation mural pour Mac Book avec prise EU AC. Avec une entrée nominale de AC 250V 2.5A, cet adaptateur est compatible avec plusieurs modèles d’adaptateurs secteur, y compris A1036, M8482, 661-2790,…"
+     "name": "Brosse Nettoyante pour Verres et Tasses à Ventouse",
+     "description": "Cette brosse nettoyante innovante est conçue pour laver efficacement les verres, tasses, bouteilles et mugs directement dans l’évier. Grâce à son système de fixation par ventouses puissantes, elle reste parfaitement stable pendant l’utilisation. Ses poils résistants nettoient en profondeur l’intérieur et l’extérieur des verres sans les rayer, garantissant une hygiène optimale au quotidien. Idéale pour la cuisine, les cafés, restaurants ou un usage domestique intensif.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBrosse nettoyante pour verres\n\nFixation\nVentouses puissantes antidérapantes\n\nUtilisation\nVerres, tasses, mugs, bouteilles\n\nFonction\nNettoyage intérieur et extérieur simultané\n\nMatériau\nPlastique ABS + poils résistants\n\nSécurité\nN’abîme pas le verre, sans rayures\n\nInstallation\nSans perçage, fixation directe dans l’évier\n\nEntretien\nLavable à l’eau, séchage rapide\n\nCouleur\nGris et blanc\n\nUsage\nDomestique et professionnel\n\nRéférence-doshift\nAA1BB799",
+     "short_description": "Cette brosse nettoyante innovante est conçue pour laver efficacement les verres, tasses, bouteilles et mugs directement dans l’évier."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764600101-33_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/4-2.jpg"
    ]
   },
   {
-   "sku": "doshift-46881",
-   "price": 157,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "MAKEUP BRUSH CLEANER",
-     "description": "add clean water to half the water level drop in an appropriate water level drop in an appriate amoun of cleaning liquid, turn on themaci ne for cleaning ,repeatedly rub the brush bristles bach andforth against the lines at the bottom of the makeup brush (the best cleaning mode ) after cleaning .dry and store it",
-     "short_description": "add clean water to half the water level drop in an appropriate water level drop in an appriate amoun of cleaning liquid, turn on themaci ne for cleaning ,repeatedly rub the brush bristles bach andforth against the lines…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764594324-4_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46816",
-   "price": 199,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pistolet à clous en acier portable avec 20pcs clous ronds pour mur en ciment",
-     "description": "Vous en avez assez de poser des clous avec un marteau, ce qui vous cause beaucoup de douleur, notamment lors de la manipulation d’objets durs ? Découvrez cette nouvelle solution qui permet une installation rapide et efficace sans effort manuel ni douleur. Que vous ayez besoin d’installer du béton, de construire une clôture robuste ou de créer de superbes structures en bois, profitez de la simplicité et de l’efficacité de cet outil combinées pour des performances inégalées. Ce n’est pas seulement un pistolet à clous. Il est conçu dans une taille compacte et légère, ce qui le rend idéal pour les espaces restreints, garantit une installation précise à chaque fois et est facile à transporter n’importe où. Profitez de la facilité et de l’efficacité avec cet outil étonnant, conçu pour relever tous les défis. Faites de ce produit votre choix idéal pour obtenir des performances inégalées dans chaque projet que vous entreprenez, que vous soyez un amateur ou un professionnel. Essayez-le aujourd’hui et embarquez pour une expérience d’installation inégalée. Si vous n’aimez pas le produit, vous pouvez obtenir un remboursement complet",
-     "short_description": "Vous en avez assez de poser des clous avec un marteau, ce qui vous cause beaucoup de douleur, notamment lors de la manipulation d’objets durs ?"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589414-56_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46791",
-   "price": 165,
+   "sku": "doshift-51154",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -144,51 +169,32 @@
    ],
    "locales": {
     "fr": {
-     "name": "Twolf Souris Gaming Sans Fil Rechargeable Bluetooth 2.4G avec 6 boutons Silencieux rétroéclairage RGB 7 Couleurs",
-     "description": "La T-WOLF Q13 est une souris de jeu sans fil et rechargeable conçue pour offrir à la fois confort et performance. Grâce à sa technologie 2.4G, son design ergonomique et ses clics silencieux, elle est parfaite aussi bien pour les joueurs que pour une utilisation bureautique quotidienne.\n\nCaractéristiques principales\n\nSouris sans fil et rechargeable, utilisation sans câbles encombrants\n\nConception ergonomique réduisant la fatigue lors d’une utilisation prolongée\n\nRésolution ajustable avec 3 niveaux de DPI (1200, 1600, 2400) pour s’adapter aux besoins\n\nClic silencieux permettant de travailler ou jouer sans déranger l’entourage\n\nBatterie au lithium intégrée, rechargeable via USB (PC, adaptateur ou powerbank)\n\nPrise en charge de l’utilisation et de la charge simultanées\n\nConnexion 2.4G stable avec une portée jusqu’à 10 m\n\nCompatible ordinateurs portables et de bureau (Windows, MacOS, etc.)\n\n7 lumières LED colorées avec effet de rétroéclairage dynamique\n\nRécepteur USB nano, plug and play, facile à installer\n\nDurabilité élevée avec 20 millions de clics testés\n\nVitesse de réponse 150 IPS pour un contrôle précis",
-     "short_description": "La T-WOLF Q13 est une souris de jeu sans fil et rechargeable conçue pour offrir à la fois confort et performance."
+     "name": "Casque Gaming AKZ GM-019 avec Micro Antibruit et LED RGB – Son Clair et Confort Max pour PC et Console",
+     "description": "AKZ\n\nCasque Gaming AKZ GM-019 – Son clair, Micro intégré, LED RGBLe casque AKZ GM-019 offre un son clair et de haute qualité, idéal pour les jeux, la musique ou les appels. Grâce à ses coussins doux, il garantit un confort même lors d’une utilisation prolongée.\n\nÉquipé d’un microphone intégré, il est parfait pour les appels vocaux sur Skype, WhatsApp, Line, Discord et autres plateformes.\n\nIl dispose également de 7 effets lumineux RGB pour une ambiance gaming stylée, ainsi qu’un arceau réglable à 25°, flexible et adapté à toutes les formes de tête.Liberté de mouvement et contrôle du son\n\nLe casque est équipé d’un câble long de 2 mètres, vous offrant une liberté de mouvement totale pendant vos sessions de jeu ou d’écoute.\n\nIl intègre également un contrôle du volume pratique directement sur le câble, pour ajuster le son facilement et rapidement.\n\nType : Casque filaire (Headset)Longueur du câble : 2 mètresContrôle du volume : Oui (intégré sur le câble)Compatibilité : Universelle (PC, consoles, smartphones)Réponse en fréquence : 20 Hz – 20 000 HzSensibilité du microphone : 96 dBÉclairage : 7 couleurs RGBAjustement : Arceau flexible réglable à 25°Confort : Coussinets doux pour une utilisation prolongéeCouleur : NoirUtilisation : Gaming, appels vocaux, musiqueApplications compatibles : Skype, WhatsApp, Discord, Line, etc.",
+     "short_description": "AKZ"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589373-51_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/1766236959-13_1.jpg"
    ]
   },
   {
-   "sku": "doshift-46776",
-   "price": 105,
+   "sku": "doshift-51163",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    6
+    3
    ],
    "locales": {
     "fr": {
-     "name": "souris gaming RGB pc ordinateur 1600 DPI fill 1.35 m",
-     "description": "Plug & Play\n\nSouris filaire 4D\n\nCommutateurs : 3 millions\n\nDPI : 800-1200-1600\n\nTaille de la souris : 115 * 62 * 38 mm\n\nLongueur du câble : 1,35 m\n\nMode d’éclairage : lumière colorée qui respire\n\nPrise en charge : Windows XP/7/8/10/11/Vista/Mac",
-     "short_description": "Plug & Play"
+     "name": "Diffuseur d’Ambiance Mikado – Senteur Menthe Fraîche",
+     "description": "Apportez une touche de fraîcheur naturelle à votre intérieur avec ce diffuseur d’ambiance à bâtonnets parfumés. Son parfum menthe fraîche aide à créer une atmosphère agréable, propre et relaxante dans la maison, le bureau, la salle de bain ou la chambre. Son flacon vert élégant s’intègre facilement dans tout type de décoration tout en diffusant progressivement une senteur douce et rafraîchissante.\n\nCaractéristique\nDétail\n\nType de produit\nDiffuseur d’ambiance à bâtonnets\n\nSenteur\nMenthe fraîche\n\nFormat\nFlacon avec bâtonnets diffuseurs\n\nUtilisation\nMaison, bureau, chambre, salle de bain\n\nDiffusion\nProgressive et continue\n\nDesign\nÉlégant et décoratif\n\nAvantage\nParfum frais et agréable\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apportez une touche de fraîcheur naturelle à votre intérieur avec ce diffuseur d’ambiance à bâtonnets parfumés."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589351-48_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46702",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris Sans Fil Lenovo 150 – USB-A 2.4 GHz – Capteur Optique 1000 DPI – Noir",
-     "description": "La souris sans fil Lenovo 150 est une solution fiable et pratique pour travailler ou naviguer sur PC sans encombrement de câbles. Elle se connecte via un récepteur USB-A 2.4 GHz plug-and-play pour une installation immédiate et fonctionne sur la plupart des systèmes (Windows, macOS, Linux…). Sa forme ambidextre et compacte convient autant aux droitiers qu’aux gauchers, idéale pour un usage à la maison, au bureau ou en déplacement.\n\nÉquipée d’un capteur optique LED 1000 DPI, elle offre une précision suffisante pour la bureautique, la navigation web ou le travail quotidien. Avec 3 boutons classiques (gauche, droite, molette) résistants, elle garantit une longue durée de vie — jusqu’à 3 millions de clics pour les boutons principaux. Alimentée par une pile AA, elle peut fonctionner jusqu’à 6 mois sans remplacement, ce qui en fait un périphérique économique et pratique.\n\nCompacte, légère (~ 85 g sans batterie), et dotée d’un design simple et élégant en noir, la Lenovo 150 combine confort, efficacité et simplicité — un bon choix pour tous ceux qui recherchent une souris sans fil fiable et abordable.",
-     "short_description": "La souris sans fil Lenovo 150 est une solution fiable et pratique pour travailler ou naviguer sur PC sans encombrement de câbles."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589172-33_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-05-05T171846.825.png"
    ]
   }
  ]

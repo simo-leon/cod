@@ -1,8 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-76636",
-   "price": 79,
+   "sku": "doshift-88561",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -10,17 +10,36 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes De Soleil Homme Rectangulaires Bleu Électrique",
-     "description": "Affirmez un style audacieux avec ces lunettes de soleil rectangulaires bleu électrique au design moderne et futuriste. Leur monture oversize aux lignes géométriques apporte une présence forte et tendance, parfaite pour compléter des looks streetwear ou fashion haut de gamme. Les verres dégradés offrent une touche élégante tout en assurant un confort visuel agréable au quotidien. Grâce à leur finition premium et leur couleur vibrante, elles deviennent un accessoire unique qui attire immédiatement le regard.\n\nCaractéristique\nDétail\n\nMonture\nBleu électrique ultra moderne\n\nDesign\nRectangulaire oversize géométrique\n\nVerres\nDégradés avec protection UV\n\nDétails\nMétalliques premium sur les branches\n\nStructure\nLégère et confortable au quotidien\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Affirmez un style audacieux avec ces lunettes de soleil rectangulaires bleu électrique au design moderne et futuriste."
+     "name": "Boîte Déjeuner Compartimentée Beige avec Pot à Sauce",
+     "description": "Organisez vos repas facilement avec cette boîte déjeuner pratique et élégante. Son intérieur compartimenté en acier inoxydable permet de séparer les aliments pour garder un repas bien présenté, propre et facile à transporter. Idéale pour le bureau, l’école, les voyages ou les pique-niques.\n\nElle est accompagnée d’un petit pot à sauce séparé avec couvercle, parfait pour les sauces, vinaigrettes ou petits accompagnements.\n\nCaractéristique\nDétail\n\nProduit\nBoîte déjeuner compartimentée\n\nCouleur\nBeige\n\nMatière intérieure\nAcier inoxydable\n\nCompartiments\n3 compartiments\n\nAccessoire inclus\nPetit pot à sauce avec couvercle\n\nUtilisation\nBureau, école, voyage, pique-nique\n\nFermeture\nClips latéraux\n\nStyle\nModerne et pratique\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Organisez vos repas facilement avec cette boîte déjeuner pratique et élégante. Son intérieur compartimenté en acier inoxydable permet de séparer les aliments pour garder un repas bien présenté, propre et facile à…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/22-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-27T192449.204.png"
    ]
   },
   {
-   "sku": "doshift-76631",
+   "sku": "doshift-88542",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Ventilateur Portable Design Mignon – Beige",
+     "description": "Apportez une touche de fraîcheur partout avec ce mini ventilateur portable au design adorable. Compact et léger, il se pose facilement sur un bureau, une table de chevet ou un coin maquillage. Son format pratique permet aussi de l’emporter en déplacement pour rester au frais à la maison, au bureau ou en voyage.\n\nAvec ses petites oreilles décoratives, ses pales rouges visibles et son bouton marche/arrêt frontal, ce ventilateur combine style mignon, praticité et confort d’utilisation au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nMini ventilateur portable\n\nDesign\nMignon avec petites oreilles\n\nCouleur\nBeige / crème\n\nPales\nRouges\n\nUtilisation\nMaison, bureau, chambre, déplacement\n\nCommande\nBouton marche/arrêt frontal\n\nFormat\nCompact et portable\n\nBase\nStable pour pose sur table\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Apportez une touche de fraîcheur partout avec ce mini ventilateur portable au design adorable. Compact et léger, il se pose facilement sur un bureau, une table de chevet ou un coin maquillage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-27T185247.830.png"
+   ]
+  },
+  {
+   "sku": "doshift-88504",
    "price": 99,
    "stock": 10,
    "status": 0,
@@ -29,55 +48,17 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes de Soleil Rectangulaires homme – Gris Fumé",
-     "description": "Adoptez un style moderne et décontracté avec ces lunettes de soleil à monture rectangulaire. Leur design angulaire, associé à une finition gris foncé légèrement translucide, apporte une touche tendance à toutes vos tenues.\n\nLes verres teintés contribuent à réduire l’éblouissement lors de vos sorties en extérieur, tandis que la monture légère offre un port agréable au quotidien. Polyvalentes, ces lunettes conviennent aussi bien aux hommes qu’aux femmes et s’accordent facilement avec un look urbain, sportif ou casual.\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de soleil\n\nForme\nRectangulaire\n\nStyle\nModerne et décontracté\n\nCouleur de la monture\nGris foncé fumé\n\nCouleur des verres\nFoncé\n\nFinition\nMate légèrement translucide\n\nPublic\nHomme et femme\n\nUtilisation\nSorties, conduite, voyage, plage et quotidien\n\nContenu\n1 paire de lunettes de soleil\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Adoptez un style moderne et décontracté avec ces lunettes de soleil à monture rectangulaire."
+     "name": "Plateau de service en bambou avec couteau intégré",
+     "description": "Apportez une touche naturelle et élégante à votre table avec ce plateau en bambou pratique et durable. Son design avec rebord creusé permet de présenter facilement fromages, fruits, desserts, apéritifs ou petit-déjeuner. Le couteau intégré avec manche effet bambou reste toujours à portée de main pour couper et servir avec simplicité.\n\nCaractéristique\nDétail\n\nProduit\nPlateau de service\n\nMatière\nBambou naturel\n\nAccessoire inclus\nCouteau intégré\n\nUtilisation\nFromage, fruits, desserts, apéritifs, petit-déjeuner\n\nDesign\nForme arrondie avec zone de service creusée\n\nAvantage\nPratique, élégant et facile à utiliser\n\nEntretien\nNettoyage simple à la main recommandé\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Apportez une touche naturelle et élégante à votre table avec ce plateau en bambou pratique et durable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-07-27T175125.387.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-27T180450.786.png"
    ]
   },
   {
-   "sku": "doshift-76625",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes De Soleil Homme Aviateur Transparent Gris",
-     "description": "Affirmez un style moderne et futuriste avec ces lunettes de soleil aviateur transparent gris au design oversize élégant. Leur monture translucide apporte une touche premium et originale, tandis que les verres dégradés offrent un look sophistiqué adapté aux tenues urbaines et contemporaines. Grâce à leur structure légère et leur finition raffinée, elles assurent un excellent confort au quotidien tout en ajoutant une présence forte et tendance à votre style.\n\nCaractéristique\nDétail\n\nMonture\nTransparente gris moderne\n\nDesign\nAviateur oversize élégant\n\nVerres\nDégradés avec protection UV\n\nStructure\nLégère et confortable\n\nFinition\nPremium avec détails texturés\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Affirmez un style moderne et futuriste avec ces lunettes de soleil aviateur transparent gris au design oversize élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/16-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-76615",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes De Soleil Femme Cat-Eye Noir & Or",
-     "description": "Sublimez votre style avec ces lunettes de soleil cat-eye noir et or au design élégant et intemporel. Leur silhouette raffinée associée aux branches métalliques dorées apporte une touche chic et luxueuse à chaque tenue. Les verres dégradés offrent un look moderne tout en assurant un confort visuel agréable au quotidien. Parfaites pour les sorties en ville, les journées ensoleillées ou les looks fashion sophistiqués, elles combinent élégance, légèreté et finition premium dans un seul accessoire incontournable.\n\nCaractéristique\nDétail\n\nDesign\nCat-eye élégant et moderne\n\nVerres\nDégradés avec protection UV\n\nBranches\nMétalliques dorées premium\n\nMonture\nNoire glossy haut de gamme\n\nConfort\nLéger pour un usage quotidien\n\nRéférence-doshift\nAA3BB099",
-     "short_description": "Sublimez votre style avec ces lunettes de soleil cat-eye noir et or au design élégant et intemporel. Leur silhouette raffinée associée aux branches métalliques dorées apporte une touche chic et luxueuse à chaque tenue."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/10-2.png"
-   ]
-  },
-  {
-   "sku": "doshift-76598",
+   "sku": "doshift-88536",
    "price": 89,
    "stock": 10,
    "status": 0,
@@ -86,18 +67,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes Oversize Femme Style Luxe Marron",
-     "description": "Ajoutez une touche glamour à votre style avec ces lunettes de soleil oversize aux nuances marron et beige transparent. Leur silhouette élégante met en valeur les traits du visage tout en offrant un look chic et intemporel. Les détails raffinés et les verres dégradés créent une esthétique luxueuse idéale pour les journées ensoleillées, les sorties élégantes et les looks fashion haut de gamme.\n\nCaractéristique\nDétail\n\nVerres\nDégradés marron sophistiqués\n\nMonture\nOversize féminine et élégante\n\nFinition\nGlossy premium moderne\n\nDétails\nInserts dorés luxueux\n\nConfort\nLéger pour port prolongé\n\nRéférence-doshift\nAA3BB099",
-     "short_description": "Ajoutez une touche glamour à votre style avec ces lunettes de soleil oversize aux nuances marron et beige transparent."
+     "name": "Mini ventilateur portable rechargeable USB avec lumière LED",
+     "description": "Profitez d’une fraîcheur agréable partout avec ce mini ventilateur portable au design compact et mignon. Léger et facile à transporter, il est idéal pour le bureau, la maison, les sorties, les voyages ou les journées chaudes. Grâce à sa batterie intégrée et sa recharge USB, il s’utilise facilement au quotidien sans câble permanent.\n\nCaractéristique\nDétail\n\nProduit\nMini ventilateur portable\n\nModèle\nHQ66-22B\n\nAlimentation\nRecharge USB\n\nBatterie\nIntégrée\n\nFonction\nVentilation portable\n\nLumière\nLED intégrée\n\nUtilisation\nBureau, maison, voyage, extérieur\n\nFormat\nCompact et facile à transporter\n\nDesign\nPetit ventilateur avec support stable\n\nCouleurs\nSelon disponibilité\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Profitez d’une fraîcheur agréable partout avec ce mini ventilateur portable au design compact et mignon."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-3.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-27T184359.425.png"
    ]
   },
   {
-   "sku": "doshift-76620",
-   "price": 79,
+   "sku": "doshift-88478",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -105,17 +86,17 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes Aviateur Noir Dégradé Élégance Homme",
-     "description": "Affirmez votre style avec ces lunettes de soleil aviateur noires au design moderne et puissant. Leur forme oversize associée au double pont distinctif crée un look audacieux inspiré de l’univers luxe et urbain. Les verres dégradés offrent une touche élégante tout en apportant un confort visuel agréable au quotidien. Grâce à leur finition glossy premium et leur structure légère, elles sont parfaites pour compléter des tenues casual chic ou sophistiquées avec une présence forte et masculine.\n\nCaractéristique\nDétail\n\nDesign\nAviateur oversize moderne\n\nStructure\nDouble pont élégant\n\nVerres\nDégradés avec protection UV\n\nMonture\nNoire glossy haut de gamme\n\nConfort\nLéger pour un usage quotidien\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Affirmez votre style avec ces lunettes de soleil aviateur noires au design moderne et puissant. Leur forme oversize associée au double pont distinctif crée un look audacieux inspiré de l’univers luxe et urbain."
+     "name": "Bouteille isotherme rose avec couvercle tasse",
+     "description": "Pratique, élégante et facile à transporter, cette bouteille isotherme rose est idéale pour le bureau, les sorties, le sport ou les déplacements. Son couvercle peut servir de tasse, tandis que sa dragonne permet de l’emporter facilement partout. Son format compact se glisse facilement dans un sac tout en gardant vos boissons à portée de main.\n\nCaractéristique\nDétail\n\nType de produit\nBouteille isotherme portable\n\nCouleur\nRose\n\nDesign\nStyle moderne avec couvercle tasse\n\nUtilisation\nEau, thé, café, boissons chaudes ou froides\n\nCouvercle\nPeut être utilisé comme tasse\n\nTransport\nDragonne intégrée facile à porter\n\nIntérieur\nInox, adapté aux boissons\n\nAvantages\nCompacte, pratique, élégante et étanche\n\nIdéal pour\nBureau, école, sport, voyage, sorties\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Pratique, élégante et facile à transporter, cette bouteille isotherme rose est idéale pour le bureau, les sorties, le sport ou les déplacements."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/13-2.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-27T173042.255.png"
    ]
   },
   {
-   "sku": "doshift-76603",
+   "sku": "doshift-88363",
    "price": 89,
    "stock": 10,
    "status": 0,
@@ -124,73 +105,92 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes De Soleil Femme Rectangulaires Noir & Or",
-     "description": "Affirmez votre présence avec ces lunettes de soleil rectangulaires au design luxueux noir et or. Leur silhouette moderne et audacieuse apporte une touche premium à chaque tenue, tandis que les verres foncés offrent un look sophistiqué et une protection confortable au quotidien. Pensées pour ceux qui aiment se démarquer avec élégance, elles combinent parfaitement mode, confort et finition haut de gamme.\n\nCaractéristique\nDétail\n\nDesign\nRectangulaire oversize moderne\n\nVerres\nTeintés avec protection UV\n\nMonture\nNoire brillante premium\n\nDétails\nSignature dorée luxueuse sur les branches\n\nConfort\nLéger pour un usage quotidien\n\nRéférence-doshift\nAA3BB099",
-     "short_description": "Affirmez votre présence avec ces lunettes de soleil rectangulaires au design luxueux noir et or."
+     "name": "Ventilateur Portable Pliable 3 Vitesses – Rose & Violet",
+     "description": "Restez au frais partout avec ce ventilateur portable pliable au design compact et coloré. Grâce à ses 3 vitesses, il s’adapte facilement à vos besoins, que ce soit au bureau, à la maison, en voyage ou pendant vos sorties. Son format léger et pliable permet de le poser sur une table ou de l’emporter facilement dans un sac.\n\nSon design rose et violet avec grille circulaire donne un style moderne et pratique, idéal pour une utilisation quotidienne pendant les journées chaudes.\n\nCaractéristique\nDétail\n\nType de produit\nVentilateur portable pliable\n\nVitesses\n3 niveaux de ventilation\n\nDesign\nRose et violet avec grille circulaire\n\nUtilisation\nBureau, maison, voyage, sorties\n\nFormat\nCompact, léger et facile à transporter\n\nPosition\nPeut être posé sur une surface plane\n\nAvantage\nPratique pour se rafraîchir rapidement\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Restez au frais partout avec ce ventilateur portable pliable au design compact et coloré."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/4-3.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-27T140249.386.png"
    ]
   },
   {
-   "sku": "doshift-76532",
-   "price": 489,
+   "sku": "doshift-88265",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Râpe Multifonction avec Bac de Récupération – Découpe & Préparation Rapide",
+     "description": "Simplifiez vos préparations en cuisine avec cette râpe multifonction pratique et compacte. Idéale pour râper, trancher et découper différents légumes, elle est équipée de lames interchangeables et d’un bac de récupération transparent pour garder votre plan de travail propre.\n\nSon poussoir de sécurité permet une utilisation plus confortable, tout en aidant à maintenir les aliments pendant la découpe. Parfaite pour préparer rapidement salades, légumes râpés, pommes de terre, concombres, carottes et bien plus.\n\nCaractéristique\nDétail\n\nProduit\nRâpe multifonction avec bac\n\nUtilisation\nRâper, trancher, découper\n\nAccessoires\nLames interchangeables + poussoir\n\nMatière\nPlastique + lames métalliques\n\nCouleur\nVert clair / blanc\n\nBac intégré\nOui\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Simplifiez vos préparations en cuisine avec cette râpe multifonction pratique et compacte."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-26T204627.497.png"
+   ]
+  },
+  {
+   "sku": "doshift-88237",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11,
+    12,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Masseur Électrique à Impulsions Rocket – 9 Niveaux d’Intensité",
+     "description": "Soulagez les tensions du quotidien avec ce masseur électrique Rocket TENS Therapy, conçu pour un massage ciblé du dos, de la nuque, des épaules, des bras et des jambes. Compact, léger et facile à utiliser, il dispose de 9 niveaux d’intensité pour ajuster la stimulation selon vos besoins.\n\nGrâce à ses 3 têtes interchangeables, il s’adapte à différentes zones du corps : tête double à impulsions, tête plate et tête de précision. Son design ergonomique permet une bonne prise en main pour une utilisation confortable à la maison.\n\nCaractéristique\nDétail\n\nProduit\nMasseur électrique à impulsions\n\nMarque\nRocket\n\nTechnologie\nTENS Therapy\n\nNiveaux d’intensité\n9 niveaux\n\nTêtes incluses\n3 têtes interchangeables\n\nZones d’utilisation\nDos, nuque, épaules, bras, jambes\n\nAlimentation\nPile AAA 1.5V\n\nUtilisation\nMassage et relaxation musculaire\n\nCouleur\nVert et blanc\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Soulagez les tensions du quotidien avec ce masseur électrique Rocket TENS Therapy, conçu pour un massage ciblé du dos, de la nuque, des épaules, des bras et des jambes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-26T194304.141.png"
+   ]
+  },
+  {
+   "sku": "doshift-88174",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau de Sécurité Auto 2-en-1 – Brise-vitre & Coupe-ceinture",
+     "description": "Gardez toujours un outil essentiel à portée de main en cas d’urgence sur la route. Ce marteau de sécurité auto 2-en-1 est conçu pour vous aider à sortir rapidement d’un véhicule en situation critique. Compact, léger et facile à ranger, il combine un embout brise-vitre métallique et un coupe-ceinture intégré dans un format pratique.\n\nSa couleur orange vive permet de le repérer facilement dans la voiture, même en cas de stress ou de faible visibilité. Idéal à garder dans la boîte à gants, la portière ou près du siège conducteur.\n\nCaractéristique\nDétail\n\nType de produit\nMarteau de sécurité auto\n\nFonction principale\nBrise-vitre d’urgence\n\nFonction intégrée\nCoupe-ceinture de sécurité\n\nUtilisation\nVoiture, SUV, camion, véhicule familial\n\nDesign\nCompact et facile à ranger\n\nPoignée\nErgonomique avec grip antidérapant\n\nCouleur\nOrange vif\n\nMatière\nPlastique résistant avec embouts métalliques\n\nAvantage\nOutil pratique en cas d’urgence routière\n\nRéférence Doshift\nAA5BB599",
+     "short_description": "Gardez toujours un outil essentiel à portée de main en cas d’urgence sur la route. Ce marteau de sécurité auto 2-en-1 est conçu pour vous aider à sortir rapidement d’un véhicule en situation critique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-26T170101.209.png"
+   ]
+  },
+  {
+   "sku": "doshift-88126",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Rasoir Électrique Professionnel VGR V-307 – Compact, Puissant et Rechargeable USB",
-     "description": "Profitez d’un rasage précis et confortable avec le rasoir électrique VGR V-307. Grâce à son moteur haute vitesse de 9000 RPM et ses lames double titane flexibles, il garantit une coupe nette et efficace sans irritation. Son format compact et léger le rend idéal pour une utilisation quotidienne à la maison, au bureau ou en voyage.\n\nDoté d’un corps métallique robuste et d’un bouton éjectable pratique pour un nettoyage facile, ce rasoir combine élégance, performance et praticité. Sa batterie longue durée offre jusqu’à 180 minutes d’autonomie après recharge USB.\n\nCaractéristique\nDétail\n\nType\nRasoir électrique professionnel\n\nMarque\nVGR\n\nModèle\nV-307\n\nVitesse moteur\n9000 RPM\n\nLames\nDouble titane flexibles\n\nAutonomie\nJusqu’à 180 minutes\n\nRecharge\nUSB rapide\n\nUtilisation\nRasage barbe et finitions\n\nFonctionnement\nSans fil\n\nMatière\nCorps métallique robuste\n\nDesign\nCompact et ergonomique\n\nCouleur\nTurquoise et noir\n\nPoints forts\nHaute performance, nettoyage facile, idéal voyage\n\nRéférence Doshift\nAA31BB099",
-     "short_description": "Profitez d’un rasage précis et confortable avec le rasoir électrique VGR V-307. Grâce à son moteur haute vitesse de 9000 RPM et ses lames double titane flexibles, il garantit une coupe nette et efficace sans irritation."
+     "name": "Serviette Absorbante Aqua Rabbit – Nettoyage Multi-Surfaces",
+     "description": "La serviette Aqua Rabbit est conçue pour nettoyer, sécher et faire briller différentes surfaces facilement. Ultra absorbante et réutilisable, elle aide à éliminer l’eau, la poussière et les traces sans laisser de rayures.\n\nIdéale pour la voiture, la cuisine, les vitres, les miroirs, la salle de bain et plusieurs surfaces du quotidien.\n\nCaractéristique\nDétail\n\nProduit\nServiette absorbante Aqua Rabbit\n\nUtilisation\nNettoyage, séchage et polissage\n\nSurfaces compatibles\nVoiture, vitres, miroirs, cuisine, salle de bain\n\nMatière\nServiette douce absorbante\n\nCouleur\nJaune\n\nAvantage\nAbsorbe l’eau et laisse les surfaces propres\n\nRéutilisable\nOui\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "La serviette Aqua Rabbit est conçue pour nettoyer, sécher et faire briller différentes surfaces facilement."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-06T191745.658.png"
-   ]
-  },
-  {
-   "sku": "doshift-76524",
-   "price": 459,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rasoir Électrique Professionnel VGR Stepless Pro FS+ Rouge – 7000-9000 RPM",
-     "description": "Obtenez un rasage précis et rapide avec le rasoir électrique professionnel VGR Stepless Pro FS+ Rouge. Doté d’un moteur puissant réglable de 7000 à 9000 RPM, il offre une coupe nette et confortable pour un usage quotidien ou professionnel. Son design compact et élégant avec finition rouge métallisée apporte une touche moderne et premium.\n\nGrâce à son écran LED intelligent, suivez facilement la vitesse et l’autonomie en temps réel. Ses lames double foil assurent un rasage doux, précis et sans irritation, tandis que sa batterie rechargeable USB garantit une excellente autonomie en utilisation sans fil.\n\nCaractéristique\nDétail\n\nType\nRasoir électrique professionnel\n\nMarque\nVGR\n\nModèle\nStepless Pro FS+\n\nCouleur\nRouge métallisé\n\nVitesse moteur\n7000 à 9000 RPM\n\nÉcran\nLED digital intelligent\n\nLames\nDouble foil haute précision\n\nUtilisation\nRasage barbe et finitions\n\nRecharge\nUSB rechargeable\n\nFonctionnement\nSans fil\n\nDesign\nCompact, ergonomique et léger\n\nPoints forts\nHaute vitesse, rasage précis, autonomie longue durée\n\nRéférence Doshift\nAA29BB099",
-     "short_description": "Obtenez un rasage précis et rapide avec le rasoir électrique professionnel VGR Stepless Pro FS+ Rouge."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-06T183903.692.png"
-   ]
-  },
-  {
-   "sku": "doshift-76516",
-   "price": 459,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rasoir Électrique Professionnel VGR Stepless Pro FS+ – Haute Vitesse 7000-9000 RPM",
-     "description": "Profitez d’un rasage précis, rapide et confortable avec le rasoir électrique VGR Stepless Pro FS+. Conçu pour les hommes exigeants, ce modèle professionnel combine puissance, design ergonomique et technologie avancée pour un résultat propre et net au quotidien. Son moteur haute vitesse réglable de 7000 à 9000 RPM assure une coupe fluide et efficace, tandis que son écran LED intelligent affiche les informations essentielles en temps réel.\n\nCompact, sans fil et rechargeable, il est idéal pour une utilisation à la maison comme en déplacement.\n\nCaractéristique\nDétail\n\nType\nRasoir électrique professionnel\n\nMarque\nVGR\n\nModèle\nStepless Pro FS+\n\nVitesse moteur\n7000 à 9000 RPM\n\nÉcran\nLED intelligent\n\nLames\nDouble foil haute précision\n\nUtilisation\nRasage barbe et finitions\n\nAlimentation\nRechargeable USB\n\nFonctionnement\nSans fil\n\nDesign\nCompact et ergonomique\n\nCouleur\nNoir et turquoise\n\nPoints forts\nHaute puissance, affichage digital, rasage confortable\n\nRéférence Doshift\nAA30BB099",
-     "short_description": "Profitez d’un rasage précis, rapide et confortable avec le rasoir électrique VGR Stepless Pro FS+."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-06T181805.092.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-26T152628.851.png"
    ]
   }
  ]

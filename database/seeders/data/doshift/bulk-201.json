@@ -1,46 +1,47 @@
 {
  "products": [
   {
-   "sku": "doshift-76441",
-   "price": 79,
+   "sku": "doshift-88073",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Câble de Charge Magnétique à 4 Broches pour Montre Connectée W 67",
-     "description": "Chargez vos appareils en toute simplicité avec ce câble magnétique à 4 broches, spécialement conçu pour les montres connectées et les trackers de fitness. Ce connecteur intelligent utilise une force magnétique puissante pour garantir un alignement automatique et une tenue ferme durant toute la durée de la recharge.\n\nCaractéristique\nDétail\n\nConnexion\nMagnétique sécurisée\n\nConfiguration\n4 broches universelles\n\nCharge\nRapide 5V / 1A\n\nProtection\nAnti-surtension & court-circuit\n\nCâble\nPVC flexible et durable\n\nDimensions\nLongueur câble ~1 m\n\nRéférence-doshift\nAA1BB599",
-     "short_description": "Chargez vos appareils en toute simplicité avec ce câble magnétique à 4 broches, spécialement conçu pour les montres connectées et les trackers de fitness."
+     "name": "Brosse de Massage Capillaire Vibrante avec Spray Brume Fine",
+     "description": "Offrez à vos cheveux et à votre cuir chevelu un soin relaxant au quotidien avec cette brosse de massage capillaire vibrante. Grâce à ses têtes souples et sa vibration sonique, elle aide à masser délicatement le cuir chevelu et à procurer une sensation de détente agréable.\n\nSa fonction spray diffuse une fine brume pendant l’utilisation, idéale pour accompagner votre routine capillaire avec de l’eau, un soin léger ou une lotion adaptée. Son design ergonomique facilite la prise en main et permet une utilisation confortable à la maison.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse de massage capillaire\n\nFonction\nMassage vibrant + spray brume fine\n\nTechnologie\nVibration sonique\n\nTêtes de massage\n46 têtes souples\n\nVitesse\nJusqu’à 6500 RPM/min\n\nUtilisation\nCuir chevelu, cheveux, routine soin\n\nEffet\nMassage, détente et sensation de fraîcheur\n\nDesign\nManche ergonomique facile à tenir\n\nCouleur\nNoir\n\nAlimentation\nRechargeable\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Offrez à vos cheveux et à votre cuir chevelu un soin relaxant au quotidien avec cette brosse de massage capillaire vibrante."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/4-2.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-26T132841.818.png"
    ]
   },
   {
-   "sku": "doshift-76428",
-   "price": 79,
+   "sku": "doshift-88067",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Câble de Charge Magnétique USB pour Xiaomi Mi Band 5 / 6 / 7",
-     "description": "Rechargez votre montre connectée rapidement et facilement grâce à ce câble de charge magnétique compact et pratique. Conçu pour offrir une connexion stable et sécurisée, il s’aligne automatiquement avec votre smartwatch pour une recharge efficace au quotidien. Son design léger et durable le rend idéal pour une utilisation à la maison, au bureau ou en déplacement. Compatible avec plusieurs modèles de smart bands et montres connectées, ce câble garantit une expérience de charge fiable avec une excellente résistance à l’usure.\n\nCaractéristique\nDétail\n\nConnecteur\nMagnétique à 2 broches\n\nContacts\nCuivre plaqué or\n\nPort\nUSB-A standard\n\nMatériau\nTPE flexible et résistant\n\nDimensions\nLongueur câble ~1 m\n\nRéférence-doshift\nAA1BB599",
-     "short_description": "Rechargez votre montre connectée rapidement et facilement grâce à ce câble de charge magnétique compact et pratique."
+     "name": "Set Tournevis à Cliquet Multifonction",
+     "description": "Pratique et compact, ce set de tournevis à cliquet est idéal pour les petits travaux de réparation, montage et bricolage à la maison, en atelier ou en voiture. Il comprend une poignée à cliquet réversible, plusieurs embouts de vissage et des douilles pour s’adapter à différents besoins.\n\nSa prise en main confortable permet un travail rapide et précis, même dans les espaces difficiles d’accès.\n\nCaractéristique\nDétail\n\nType de produit\nSet tournevis à cliquet\n\nUtilisation\nBricolage, réparation, montage, entretien\n\nEmbouts\nMultiples embouts de vissage inclus\n\nDouilles\nDouilles métalliques incluses\n\nFonction\nSerrage et desserrage\n\nPoignée\nErgonomique avec système à cliquet\n\nAvantage\nCompact, pratique et polyvalent\n\nRéférence\nAA3BB599",
+     "short_description": "Pratique et compact, ce set de tournevis à cliquet est idéal pour les petits travaux de réparation, montage et bricolage à la maison, en atelier ou en voiture."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-2.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-26T131909.125.png"
    ]
   },
   {
-   "sku": "doshift-76367",
-   "price": 219,
+   "sku": "doshift-87983",
+   "price": 469,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -49,114 +50,134 @@
    ],
    "locales": {
     "fr": {
-     "name": "Tondeuse Barbe Sans Fil Étanche IPX6 – Rechargeable USB-C – Kit Complet de Toilettage",
-     "description": "Optimisez votre style avec précision grâce à cette tondeuse multifonction performante. Conçue pour un usage quotidien, elle offre une coupe nette, rapide et confortable, tout en s’adaptant à tous vos besoins de toilettage : barbe, cheveux, contours et nez.\n\nCaractéristique\nDétail\n\nType\nTondeuse multifonction\n\nAlimentation\nRechargeable USB-C\n\nAutonomie\nJusqu’à 180 minutes\n\nÉtanchéité\nIPX6 (résistant à l’eau)\n\nLame\nAcier inoxydable en T\n\nAccessoires\nSabots + embout nez\n\nAffichage\nÉcran digital LED\n\nUtilisation\nBarbe, cheveux, nez, contours\n\nEntretien\nLavable + huile incluse\n\nRéférence Doshift\nAA13BB099",
-     "short_description": "Optimisez votre style avec précision grâce à cette tondeuse multifonction performante."
+     "name": "Lisseur Lizze Supreme 40 mm – Noir & Doré",
+     "description": "Offrez à vos cheveux un lissage rapide, brillant et soigné avec le Lisseur Lizze Supreme. Grâce à ses plaques larges de 40 mm, il permet de lisser des mèches plus grandes en moins de temps, idéal pour les cheveux longs, épais ou difficiles à coiffer.\n\nSon design noir mat avec finitions dorées lui donne un style premium, tandis que sa prise en main ergonomique assure un meilleur confort pendant l’utilisation. Il chauffe jusqu’à 485°F, pour un résultat lisse, élégant et durable.\n\nCaractéristique\nDétail\n\nProduit\nLisseur cheveux\n\nMarque\nLizze\n\nModèle\nSupreme\n\nCouleur\nNoir avec détails dorés\n\nLargeur des plaques\n40 mm\n\nTempérature maximale\n485°F\n\nUtilisation\nLissage des cheveux\n\nType de cheveux\nLongs, épais, volumineux ou classiques\n\nDesign\nErgonomique et premium\n\nRéférence Doshift\nAA30BB099",
+     "short_description": "Offrez à vos cheveux un lissage rapide, brillant et soigné avec le Lisseur Lizze Supreme."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-05T213450.773.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T203444.269.png"
    ]
   },
   {
-   "sku": "doshift-76374",
-   "price": 329,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse à cheveux professionnelle VGR V-906 Fresh Fade",
-     "description": "Obtenez une précision de coupe exceptionnelle avec la tondeuse VGR V-906, conçue pour les professionnels et les particuliers exigeants. Grâce à son moteur puissant de 9000 tr/min, elle garantit une coupe rapide, nette et sans accrochage, idéale pour les contours, dégradés et finitions.\n\nDotée d’une lame en T DLC haute précision, cette tondeuse offre une coupe ultra proche (0 mm) tout en respectant la peau. Son design sans fil avec recharge USB-C et son écran LED rendent son utilisation pratique et moderne au quotidien. Parfaite pour un usage intensif en salon ou à domicile.\n\nCaractéristique\nDétail\n\nModèle\nVGR V-906 Fresh Fade\n\nType\nTondeuse professionnelle\n\nUtilisation\nCheveux, barbe, contours\n\nMoteur\n9000 tr/min haute performance\n\nLame\nLame en T DLC (Diamond-Like Carbon)\n\nCoupe\nUltra précise (0 mm)\n\nBatterie\nLithium 2000 mAh\n\nAutonomie\nJusqu’à 240 minutes\n\nTemps de charge\nEnviron 2.5 heures\n\nRecharge\nUSB Type-C\n\nUtilisation\nSans fil / avec fil\n\nAffichage\nÉcran LED (niveau batterie)\n\nAccessoires\nSabots 1/2/3 mm, câble USB, brosse, huile\n\nMatériau\nCorps métallique robuste\n\nRéférence Doshift\nAA28BB099",
-     "short_description": "Obtenez une précision de coupe exceptionnelle avec la tondeuse VGR V-906, conçue pour les professionnels et les particuliers exigeants."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-05T215637.200.png"
-   ]
-  },
-  {
-   "sku": "doshift-76096",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support téléphone design rabbit adorable",
-     "description": "Ajoutez une touche unique à votre espace avec ce support téléphone au design mignon et ergonomique. Profitez d’une stabilité parfaite grâce à sa base antidérapante tout en gardant votre appareil bien positionné. Idéal pour regarder vos vidéos ou passer des appels, ce support allie praticité et esthétique dans un format compact.\n\nCaractéristique\nDétail\n\nDesign\nMignon et moderne\n\nBase\nAntidérapante et stable\n\nSupport\nErgonomique\n\nPortabilité\nLéger et compact\n\nUtilisation\nQuotidienne\n\nCompatibilité\nSmartphones\n\nRéférence-doshift\nAA1BB599",
-     "short_description": "Ajoutez une touche unique à votre espace avec ce support téléphone au design mignon et ergonomique. Profitez d’une stabilité parfaite grâce à sa base antidérapante tout en gardant votre appareil bien positionné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/16.png"
-   ]
-  },
-  {
-   "sku": "doshift-76091",
-   "price": 289,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Micro sans fil compact CANDC essentiel",
-     "description": "Simplifiez vos enregistrements avec ce micro sans fil compact conçu pour une utilisation rapide et efficace. Profitez d’un son clair et d’une compatibilité étendue avec vos appareils pour créer du contenu de qualité où que vous soyez. Léger et discret, il devient l’outil idéal pour vos vidéos, lives et interviews du quotidien.\n\nCaractéristique\nDétail\n\nFormat\nCompact et léger\n\nTransmission\nStable\n\nInstallation\nRapide\n\nCompatibilité\nMulti-appareils\n\nConnexion\nDirecte smartphone\n\nUtilisation\nIntuitive\n\nRéférence-doshift\nAA1BB099",
-     "short_description": "Simplifiez vos enregistrements avec ce micro sans fil compact conçu pour une utilisation rapide et efficace."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/10-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-76056",
-   "price": 369,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Power bank Riversong 10 Pro magnétique sans fil 10000mAh",
-     "description": "Rechargez vos appareils rapidement et sans effort grâce à cette batterie externe magnétique performante. Profitez d’une charge sans fil pratique et d’une forte puissance pour rester connecté toute la journée. Compacte et élégante, elle s’adapte parfaitement à votre quotidien et à vos déplacements.\n\nCaractéristique\nDétail\n\nCapacité\n10 000 mAh\n\nCharge rapide\n22.5W\n\nRecharge\nSans fil magnétique\n\nSupport\nPliable intégré\n\nFormat\nCompact\n\nCompatibilité\niPhone & Android\n\nRéférence-doshift\nAA2BB3099",
-     "short_description": "Rechargez vos appareils rapidement et sans effort grâce à cette batterie externe magnétique performante. Profitez d’une charge sans fil pratique et d’une forte puissance pour rester connecté toute la journée."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/13-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-76051",
+   "sku": "doshift-87963",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    7
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Plateau voiture multifonction 360°",
-     "description": "Améliorez votre confort en voiture avec ce plateau multifonction conçu pour transformer votre porte-gobelet en espace pratique. Ajustez facilement l’angle et profitez d’une stabilité optimale pour vos repas ou accessoires. Compact et intelligent, il rend chaque trajet plus agréable et organisé.\n\nCaractéristique\nDétail\n\nRotation\n360°\n\nInstallation\nRapide\n\nSupport\nStable\n\nMécanisme\nRessort de compression\n\nUtilisation\nÀ une main\n\nUsage\nRepas & accessoires\n\nRéférence-doshift\nAA5BB599",
-     "short_description": "Améliorez votre confort en voiture avec ce plateau multifonction conçu pour transformer votre porte-gobelet en espace pratique."
+     "name": "Ventouses en Silicone pour Massage Visage & Corps – Set de 4 Pièces",
+     "description": "Offrez-vous un moment de détente à la maison avec ce set de 4 ventouses en silicone, conçu pour le massage du visage et du corps. Grâce à leur système de succion simple, elles permettent de masser la peau en douceur et d’accompagner votre routine bien-être quotidienne.\n\nLeur design pratique avec embout en silicone souple et partie transparente facilite l’utilisation sur différentes zones du corps. Idéal pour une routine beauté, relaxation ou soin personnel.\n\nCaractéristique\nDétail\n\nProduit\nVentouses de massage\n\nNombre de pièces\n4 pièces\n\nMatière\nSilicone + partie transparente\n\nUtilisation\nVisage et corps\n\nFonction\nMassage, relaxation, routine beauté\n\nType\nManuel, sans électricité\n\nCouleur\nRose\n\nEntretien\nFacile à nettoyer et réutilisable\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Offrez-vous un moment de détente à la maison avec ce set de 4 ventouses en silicone, conçu pour le massage du visage et du corps."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/4-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T194512.600.png"
    ]
   },
   {
-   "sku": "doshift-76081",
+   "sku": "doshift-87937",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse Soufflante 2 en 1 – Séchage & Coiffage",
+     "description": "Obtenez un brushing rapide et soigné avec cette brosse soufflante 2 en 1. Elle permet de sécher, lisser et donner du volume aux cheveux en un seul geste. Son design ergonomique assure une prise en main confortable, idéale pour un usage quotidien à la maison.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse soufflante\n\nFonction\nSéchage & coiffage\n\nUtilisation\nCheveux secs ou légèrement humides\n\nDesign\nBrosse ronde ergonomique\n\nAlimentation\nÉlectrique\n\nPrise\nEuropéenne\n\nCouleur\nNoir & blanc\n\nConvient pour\nUsage quotidien à domicile\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Obtenez un brushing rapide et soigné avec cette brosse soufflante 2 en 1. Elle permet de sécher, lisser et donner du volume aux cheveux en un seul geste."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T191909.379.png"
+   ]
+  },
+  {
+   "sku": "doshift-87925",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Grill Maker Hoffmans HM-3002 – Appareil à Panini 1000W",
+     "description": "Préparez facilement des paninis, sandwiches grillés, toasts et snacks chauds avec le Grill Maker Hoffmans HM-3002. Grâce à sa puissance de 1000W, il chauffe rapidement et offre une cuisson pratique au quotidien. Ses plaques rainurées permettent d’obtenir de belles marques de grillade, tandis que son format compact le rend idéal pour la maison, le bureau ou les petites cuisines.\n\nCaractéristique\nDétail\n\nProduit\nGrill Maker / Appareil à panini\n\nMarque\nHoffmans Electronics\n\nModèle\nHM-3002\n\nPuissance\n1000W\n\nPlaques\nRainurées antiadhésives\n\nUtilisation\nPaninis, sandwiches, toasts, snacks grillés\n\nChauffe\nRapide\n\nDesign\nCompact et pratique\n\nPoignée\nIsolante pour une utilisation confortable\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Préparez facilement des paninis, sandwiches grillés, toasts et snacks chauds avec le Grill Maker Hoffmans HM-3002. Grâce à sa puissance de 1000W, il chauffe rapidement et offre une cuisson pratique au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T180131.268.png"
+   ]
+  },
+  {
+   "sku": "doshift-87891",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte à Mouchoirs en Bois Naturel – Design Élégant et Durable",
+     "description": "Apportez une touche chaleureuse et raffinée à votre intérieur avec cette boîte à mouchoirs en bois naturel. Son design minimaliste s’intègre facilement dans le salon, la chambre, le bureau ou la salle de bain. Pratique et esthétique, elle permet de garder vos mouchoirs à portée de main tout en décorant votre espace avec élégance.\n\nCaractéristique\nDétail\n\nProduit\nBoîte à mouchoirs\n\nMatière\nBois naturel\n\nCouleur\nBois clair\n\nUtilisation\nSalon, chambre, bureau, salle de bain\n\nDesign\nMinimaliste et élégant\n\nFormat\nRectangulaire\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Apportez une touche chaleureuse et raffinée à votre intérieur avec cette boîte à mouchoirs en bois naturel. Son design minimaliste s’intègre facilement dans le salon, la chambre, le bureau ou la salle de bain."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T171443.679.png"
+   ]
+  },
+  {
+   "sku": "doshift-87898",
+   "price": 479,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Machine à Café Portable Espresso COFFEE CO",
+     "description": "Préparez votre café facilement où que vous soyez avec cette machine à espresso portable au design compact et élégant. Idéale pour les déplacements, le bureau, les voyages, le camping ou la voiture, elle vous permet de profiter d’un espresso chaud et savoureux sans dépendre d’une grande machine.\n\nSon format cylindrique noir mat, son étui de transport inclus et sa batterie longue durée en font un accessoire pratique pour les amateurs de café qui veulent garder leur routine partout avec eux.\n\nCaractéristique\nDétail\n\nProduit\nMachine à café portable espresso\n\nDesign\nCompact, moderne et facile à transporter\n\nUtilisation\nMaison, bureau, voyage, voiture, camping\n\nPression\n18 bars\n\nFonction\nSimple shot et double shot\n\nAlimentation\nBatterie rechargeable\n\nAvantage\nPréparation rapide du café partout\n\nAccessoire inclus\nÉtui de transport zippé\n\nCouleur\nNoir\n\nRéférence Doshift\nAA33BB099",
+     "short_description": "Préparez votre café facilement où que vous soyez avec cette machine à espresso portable au design compact et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T172626.690.png"
+   ]
+  },
+  {
+   "sku": "doshift-87870",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 2 Planches à Découper en Bambou avec Poignée Intégrée",
+     "description": "Apportez praticité et élégance à votre cuisine avec ce set de 2 planches à découper en bambou. Conçues avec une surface résistante et un contour moderne, elles sont idéales pour découper légumes, fruits, pain, viandes ou servir vos préparations avec style.\n\nGrâce à leurs deux tailles pratiques, vous pouvez utiliser la grande planche pour les préparations principales et la petite pour les découpes rapides du quotidien. La poignée intégrée facilite la prise en main, le rangement et le transport.\n\nCaractéristique\nDétail\n\nType de produit\nSet de planches à découper\n\nNombre de pièces\n2 planches\n\nMatière\nBambou naturel avec contour rigide\n\nDesign\nModerne avec finition élégante\n\nPoignée\nIntégrée pour une prise en main facile\n\nUtilisation\nDécoupe, préparation et service\n\nAvantages\nPratique, durable et facile à nettoyer\n\nTailles\n2 tailles différentes\n\nCouleur\nBambou naturel avec contour gris clair\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Apportez praticité et élégance à votre cuisine avec ce set de 2 planches à découper en bambou."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T162605.335.png"
+   ]
+  },
+  {
+   "sku": "doshift-87844",
    "price": 139,
    "stock": 10,
    "status": 0,
@@ -165,33 +186,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Sac à dos enfant léger et adorable",
-     "description": "Accompagnez votre enfant dans toutes ses aventures avec ce sac à dos pratique et confortable. Conçu pour être léger et facile à porter, il offre suffisamment d’espace pour les essentiels du quotidien tout en gardant un design mignon qui plaît aux enfants.\n\nCaractéristique\nDétail\n\nFormat\nCompact\n\nConfort\nLéger et agréable\n\nDesign\nLudique pour enfants\n\nRangement\nCompartiments pratiques\n\nBretelles\nAjustables\n\nUtilisation\nÉcole & sorties\n\nRéférence-doshift\nAA6BB099",
-     "short_description": "Accompagnez votre enfant dans toutes ses aventures avec ce sac à dos pratique et confortable."
+     "name": "Support à ustensiles de cuisine avec pot en céramique",
+     "description": "Apportez une touche chaleureuse et originale à votre cuisine avec ce support à ustensiles au design élégant en forme de maison. Sa structure aspect bambou naturel accueille un pot cylindrique en céramique blanche décoré de l’inscription « Kitchen ».\n\nPratique et décoratif, il permet de garder vos cuillères, spatules, fouets et autres accessoires de cuisine bien organisés et facilement accessibles sur le plan de travail. Sa base assure une installation stable tout en protégeant votre surface.\n\nCaractéristique\nDétail\n\nType de produit\nSupport à ustensiles de cuisine\n\nDesign\nStructure en forme de maison\n\nMatériau du support\nBambou\n\nMatériau du pot\nCéramique\n\nCouleur\nBois naturel et blanc\n\nMotif\nIllustration décorative avec inscription « Kitchen »\n\nUtilisation\nRangement des cuillères, spatules, fouets et petits ustensiles\n\nInstallation\nÀ poser sur un plan de travail, une étagère ou un meuble\n\nEntretien\nPot facile à retirer et à nettoyer\n\nContenu\n1 support en bambou et 1 pot en céramique\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Apportez une touche chaleureuse et originale à votre cuisine avec ce support à ustensiles au design élégant en forme de maison."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/35-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-76046",
-   "price": 539,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Micro sans fil professionnel CANDC dual",
-     "description": "Capturez un son clair et professionnel avec ce micro sans fil compact idéal pour interviews, vidéos et création de contenu. Profitez d’une connexion stable et d’une utilisation simple grâce à son système plug & play. Léger et portable, il vous accompagne partout pour enregistrer sans contrainte avec une qualité optimale.\n\nCaractéristique\nDétail\n\nTransmission\nSans fil stable\n\nUtilisation\nPlug & Play (sans configuration)\n\nMicrophones\nDouble micro (version 2TX)\n\nDesign\nCompact et léger\n\nCompatibilité\nSmartphone\n\nUtilisation\nInterviews & création de contenu\n\nRéférence-doshift\nAA3BB5099",
-     "short_description": "Capturez un son clair et professionnel avec ce micro sans fil compact idéal pour interviews, vidéos et création de contenu. Profitez d’une connexion stable et d’une utilisation simple grâce à son système plug & play."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-08-20T144657.625.png"
    ]
   }
  ]

@@ -1,103 +1,28 @@
 {
  "products": [
   {
-   "sku": "doshift-77137",
+   "sku": "doshift-89320",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Plateau Rectangulaire Premium 47 CM",
-     "description": "Apportez une finition élégante à votre table avec ce plateau rectangulaire Schleizer 47 CM au design raffiné et à la brillance luxueuse. Idéal pour servir boissons, pâtisseries, thé ou café, il combine esthétique moderne et praticité grâce à ses poignées solides et sa conception robuste. Un accessoire parfait pour les réceptions, le quotidien ou la décoration intérieure.\n\nCaractéristique\nDétail\n\nType\nPlateau rectangulaire\n\nMarque\nSchleizer\n\nDimensions\n47 CM\n\nMatière\nMétal finition argentée\n\nCouleur\nDoré brillant\n\nUtilisation\nService et décoration\n\nPoignées\nOui\n\nStyle\nChic et moderne\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA4BB899",
-     "short_description": "Apportez une finition élégante à votre table avec ce plateau rectangulaire Schleizer 47 CM au design raffiné et à la brillance luxueuse."
+     "name": "Selfie Ring Light – Lampe LED à clip pour smartphone",
+     "description": "Améliorez instantanément la qualité de vos selfies, appels vidéo, lives et contenus grâce à cette lampe anneau LED compacte. Facile à fixer sur un smartphone, une tablette ou un ordinateur portable, elle offre un éclairage doux et uniforme pour un rendu plus clair, même en faible luminosité.\n\nCaractéristique\nDétail\n\nProduit\nSelfie Ring Light\n\nType\nLampe LED à clip\n\nUtilisation\nSelfies, vidéos, live, visioconférences\n\nLuminosité\n3 niveaux réglables\n\nFixation\nClip universel\n\nCompatibilité\nSmartphone, tablette, ordinateur\n\nCouleur\nBlanc\n\nFormat\nCompact et portable\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Améliorez instantanément la qualité de vos selfies, appels vidéo, lives et contenus grâce à cette lampe anneau LED compacte."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-09T203652.828.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T140711.162.png"
    ]
   },
   {
-   "sku": "doshift-77130",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plateau Rectangulaire Élégant 50 CM",
-     "description": "Sublimez votre service avec ce plateau rectangulaire Schleizer 50 CM au design raffiné et à la finition brillante. Parfait pour servir le thé, les boissons, les desserts ou pour apporter une touche décorative élégante à votre intérieur. Sa structure robuste et ses poignées pratiques offrent un confort d’utilisation idéal au quotidien.\n\nCaractéristique\nDétail\n\nType\nPlateau rectangulaire\n\nMarque\nSchleizer\n\nDimensions\n50 CM\n\nMatière\nMétal finition argentée\n\nCouleur\nDoré brillant\n\nUtilisation\nService et décoration\n\nPoignées\nOui\n\nStyle\nModerne et élégant\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Sublimez votre service avec ce plateau rectangulaire Schleizer 50 CM au design raffiné et à la finition brillante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-09T202147.544.png"
-   ]
-  },
-  {
-   "sku": "doshift-77121",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plateau Rectangulaire Argenté 60 CM",
-     "description": "Ajoutez une touche d’élégance à votre table avec ce magnifique plateau rectangulaire Schleizer 60 CM. Conçu avec une finition brillante et des détails raffinés, il est idéal pour servir le thé, les boissons, les pâtisseries ou pour une décoration chic et moderne. Ses poignées ergonomiques assurent une prise en main confortable et pratique au quotidien.\n\nCaractéristique\nDétail\n\nType\nPlateau rectangulaire\n\nMarque\nSchleizer\n\nDimensions\n60 CM\n\nMatière\nMétal finition argentée\n\nCouleur\nDoré brillant\n\nUtilisation\nService, décoration, réception\n\nPoignées\nOui\n\nStyle\nÉlégant et moderne\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Ajoutez une touche d’élégance à votre table avec ce magnifique plateau rectangulaire Schleizer 60 CM."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-09T195433.799.png"
-   ]
-  },
-  {
-   "sku": "doshift-77089",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plateau Rectangle Argenté 50 cm avec Poignées",
-     "description": "Sublimez vos moments de service avec ce plateau rectangulaire argenté 50 cm au design raffiné. Idéal pour présenter le thé, les pâtisseries, les boissons ou les accessoires décoratifs avec élégance. Sa finition brillante et ses motifs gravés apportent une touche luxueuse à votre intérieur.\n\nCaractéristique\nDétail\n\nProduit\nPlateau rectangulaire\n\nDimension\n50 cm\n\nFinition\nArgenté brillant\n\nDesign\nMotifs gravés élégants\n\nPoignées\nOui\n\nUtilisation\nService, décoration, réception\n\nStyle\nModerne et raffiné\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Sublimez vos moments de service avec ce plateau rectangulaire argenté 50 cm au design raffiné. Idéal pour présenter le thé, les pâtisseries, les boissons ou les accessoires décoratifs avec élégance."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-09T165709.222-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-77079",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plateau Rectangle Argenté 60 cm avec Poignées",
-     "description": "Ajoutez une touche élégante à vos présentations avec ce plateau argenté 60 cm, idéal pour servir le thé, les gâteaux, les dattes ou décorer une table avec un style raffiné. Son design gravé et ses poignées pratiques offrent une finition premium parfaite pour maison, salon ou réception.\n\nCaractéristique\nDétail\n\nProduit\nPlateau rectangulaire\n\nDimension\n60 cm\n\nFinition\nArgenté brillant\n\nDesign\nMotifs gravés raffinés\n\nPoignées\nOui\n\nUtilisation\nService, décoration, réception\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Ajoutez une touche élégante à vos présentations avec ce plateau argenté 60 cm, idéal pour servir le thé, les gâteaux, les dattes ou décorer une table avec un style raffiné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-09T165709.222.png"
-   ]
-  },
-  {
-   "sku": "doshift-76918",
-   "price": 129,
+   "sku": "doshift-89313",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,75 +31,99 @@
    ],
    "locales": {
     "fr": {
-     "name": "Râpe Électrique Rechargeable pour Pieds – Élimine Callosités et Peaux Mortes",
-     "description": "Prenez soin de vos pieds facilement avec cette râpe électrique pour pieds conçue pour éliminer efficacement les callosités, peaux mortes et zones rugueuses. Son design ergonomique assure une prise en main confortable tandis que son rouleau exfoliant laisse les pieds plus lisses et plus doux après chaque utilisation. Idéale pour une routine beauté à domicile rapide et efficace.\n\nCaractéristique\nDétail\n\nType\nRâpe électrique pour pieds\n\nUtilisation\nÉlimination des callosités et peaux mortes\n\nAlimentation\nRechargeable\n\nVitesses\n2 vitesses\n\nDesign\nErgonomique et léger\n\nCouleur\nSelon disponibilité\n\nUtilisation\nPieds secs et rugueux\n\nEntretien\nTête exfoliante facile à nettoyer\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Prenez soin de vos pieds facilement avec cette râpe électrique pour pieds conçue pour éliminer efficacement les callosités, peaux mortes et zones rugueuses."
+     "name": "Épilateur à Ressort pour Visage – Compact & Facile à Utiliser",
+     "description": "Retirez facilement le duvet du visage avec cet épilateur à ressort manuel, pratique et léger. Son système à ressorts métalliques permet une épilation précise des zones délicates comme la lèvre supérieure, le menton ou les joues, sans pile ni recharge.\n\nCompact et simple à transporter, il est idéal pour une routine beauté rapide à la maison ou en voyage.\n\nCaractéristique\nDétail\n\nProduit\nÉpilateur à ressort manuel\n\nUtilisation\nDuvet du visage\n\nZones conseillées\nLèvre supérieure, menton, joues\n\nFonctionnement\nManuel\n\nAlimentation\nSans pile, sans recharge\n\nMatière\nPlastique + ressorts métalliques\n\nCouleur\nRose / Fuchsia\n\nFormat\nCompact et léger\n\nRéférence Doshift\nAA2BB099",
+     "short_description": "Retirez facilement le duvet du visage avec cet épilateur à ressort manuel, pratique et léger."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-08T200146.103.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-01T140252.139.png"
    ]
   },
   {
-   "sku": "doshift-76912",
-   "price": 219,
+   "sku": "doshift-89229",
+   "price": 639,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Lampe de Bureau LED Intelligente 2 Têtes avec Ventilateur et Affichage Digital",
-     "description": "Travaillez et étudiez confortablement avec cette lampe de bureau multifonction moderne. Son double éclairage LED offre une lumière large et homogène, tandis que le mini ventilateur intégré apporte une sensation de fraîcheur idéale pendant les longues heures de travail ou d’étude. Son écran digital affiche l’heure, la température et la date pour un usage quotidien pratique.\n\nCompacte et élégante, elle dispose également de pots de rangement intégrés pour stylos et accessoires afin de garder votre bureau bien organisé.\n\nCaractéristique\nDétail\n\nType\nLampe de bureau LED intelligente\n\nÉclairage\nDouble tête LED\n\nVentilateur intégré\nOui\n\nAffichage digital\nHeure / Température / Date\n\nModes de lumière\nLumière blanche, chaude et naturelle\n\nRotation\nTête ajustable jusqu’à 180°\n\nCorps ajustable\nOui\n\nRangement\nDouble porte-stylos intégré\n\nUtilisation\nBureau, étude, chambre, lecture\n\nCouleur\nBlanc\n\nAlimentation\nUSB rechargeable\n\nRéférence Doshift\nAA74BB521",
-     "short_description": "Travaillez et étudiez confortablement avec cette lampe de bureau multifonction moderne."
+     "name": "Kit d’Outils Complet 28 en 1 avec Perceuse Sans Fil",
+     "description": "Ce kit d’outils complet est idéal pour les travaux de bricolage, réparation, montage de meubles et entretien quotidien à la maison. Présenté dans une mallette pratique et bien organisée, il regroupe les outils essentiels pour travailler facilement, tout en gardant chaque accessoire à sa place.\n\nGrâce à sa perceuse sans fil rechargeable, vous profitez d’une utilisation plus libre et pratique, sans câble gênant. Le kit inclut également plusieurs outils manuels utiles comme marteau, pinces, tournevis, clés, mèches et accessoires de fixation.\n\nCaractéristique\nDétail\n\nType de produit\nKit d’outils complet avec perceuse\n\nNombre de pièces\n28 en 1\n\nUtilisation\nBricolage, réparation, montage, entretien\n\nPerceuse\nSans fil rechargeable\n\nAccessoires inclus\nMarteau, pinces, tournevis, clés, mèches, cutter, mètre et accessoires\n\nRangement\nMallette rigide organisée\n\nCouleur\nNoir et jaune\n\nAvantage\nFacile à transporter et prêt à l’emploi\n\nRéférence Doshift\nAA46BB599",
+     "short_description": "Ce kit d’outils complet est idéal pour les travaux de bricolage, réparation, montage de meubles et entretien quotidien à la maison."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-08T194218.530.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-06-30T135200.873.png"
    ]
   },
   {
-   "sku": "doshift-76871",
+   "sku": "doshift-89270",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gilet de Compression Homme – Effet Amincissant & Maintien du Dos",
+     "description": "Ce gilet de compression pour homme est conçu pour offrir un maintien confortable au quotidien ou pendant l’entraînement. Grâce à sa coupe ajustée, sa fermeture zippée et ses doubles bandes de réglage, il aide à lisser la silhouette, maintenir le dos et améliorer le confort pendant l’activité physique.\n\nCaractéristique\nDétail\n\nProduit\nGilet de compression homme\n\nCouleur\nNoir\n\nFermeture\nZip frontal\n\nRéglage\nDouble bande ajustable\n\nUtilisation\nSport, fitness, marche, quotidien\n\nEffet\nCompression, maintien et silhouette affinée\n\nMatière\nTissu extensible et confortable\n\nGenre\nHomme\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Ce gilet de compression pour homme est conçu pour offrir un maintien confortable au quotidien ou pendant l’entraînement."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-06-30T174003.136.png"
+   ]
+  },
+  {
+   "sku": "doshift-88919",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    12,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit de Renforcement pour Main et Avant-bras 5-en-1",
+     "description": "Améliorez votre force de préhension avec ce kit complet d’entraînement pour les mains, poignets et avant-bras. Idéal pour le sport, la musculation, l’escalade, la rééducation ou une utilisation quotidienne, il permet de travailler efficacement la force, l’endurance et la mobilité des doigts.\n\nGrâce à sa résistance ajustable, la pince de musculation s’adapte à différents niveaux, du débutant à l’utilisateur avancé. Son design compact permet de l’utiliser facilement à la maison, au bureau ou à la salle de sport.\n\nCaractéristique\nDétail\n\nType de produit\nKit de renforcement main et avant-bras\n\nNombre de pièces\n5 accessoires\n\nRésistance\nAjustable de 5 à 60 kg\n\nUtilisation\nMain, doigts, poignet, avant-bras\n\nAccessoires inclus\nPince réglable, anneau de préhension, exerciteur de doigts, balle anti-stress, extenseur de doigts\n\nMatière\nPlastique résistant, métal et matière antidérapante\n\nCouleur\nNoir\n\nConvient pour\nSport, fitness, escalade, musique, rééducation et quotidien\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Améliorez votre force de préhension avec ce kit complet d’entraînement pour les mains, poignets et avant-bras."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-29T165627.689.png"
+   ]
+  },
+  {
+   "sku": "doshift-88871",
    "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Pack Logitech K120 + M90 – Clavier & Souris USB Filaire",
-     "description": "Optimisez votre espace de travail avec le pack Logitech K120 + M90, une combinaison fiable et confortable conçue pour une utilisation quotidienne au bureau, à la maison ou pour les études. Grâce à la technologie Plug & Play, profitez d’une installation rapide et d’une utilisation immédiate sans configuration compliquée.\n\nLe clavier Logitech K120 offre une frappe silencieuse et confortable avec un pavé numérique complet, tandis que la souris Logitech M90 garantit une navigation fluide et précise. Un duo idéal pour travailler efficacement au quotidien.\n\nCaractéristiques\nDétails\n\nType de produit\nPack clavier + souris\n\nMarque\nLogitech\n\nModèle clavier\nK120\n\nModèle souris\nM90\n\nType de connexion\nUSB filaire\n\nCouleur\nNoir\n\nCompatibilité\nWindows / PC / Laptop\n\nUtilisation\nBureau, télétravail, études\n\nInstallation\nPlug & Play\n\nRéférence Doshift\nAA12BB799",
-     "short_description": "Optimisez votre espace de travail avec le pack Logitech K120 + M90, une combinaison fiable et confortable conçue pour une utilisation quotidienne au bureau, à la maison ou pour les études."
+     "name": "Mini Jet Fan Sans Fil – Souffleur d’Air Portable Rechargeable",
+     "description": "Le Mini Jet Fan est un souffleur d’air compact et puissant, idéal pour le nettoyage rapide au quotidien. Grâce à son format portable et sa prise en main facile, il permet de souffler la poussière sur les claviers, bureaux, appareils électroniques, grilles d’aération, voiture et petits espaces difficiles d’accès.\n\nLivré avec un embout et un câble de recharge, il offre une solution pratique, légère et réutilisable pour remplacer les sprays d’air classiques.\n\nCaractéristique\nDétail\n\nProduit\nMini Jet Fan / Souffleur d’air portable\n\nType\nSouffleur électrique sans fil\n\nCouleur\nNoir\n\nRecharge\nUSB-C\n\nAccessoires inclus\nEmbout + câble de recharge\n\nUtilisation\nNettoyage poussière, clavier, voiture, bureau, maison\n\nFormat\nCompact et portable\n\nRéférence Doshift\nAA10BB599",
+     "short_description": "Le Mini Jet Fan est un souffleur d’air compact et puissant, idéal pour le nettoyage rapide au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-08T163210.932.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-29T151815.761.png"
    ]
   },
   {
-   "sku": "doshift-76836",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support Double Appuie-Tête Voiture Universel Double Écran Smartphone & Tablette",
-     "description": "Profitez de vos trajets en voiture avec ce support double appuie-tête spécialement conçu pour maintenir simultanément un smartphone et une tablette. Idéal pour les voyages en famille, il transforme l’arrière du véhicule en véritable espace de divertissement et de confort. Grâce à son système ajustable et rotatif, chaque passager peut profiter d’un angle de vision optimal en toute stabilité.\n\nCompatible avec la majorité des smartphones et tablettes, ce support robuste s’installe facilement entre les deux appuie-têtes sans outils compliqués. Sa conception extensible assure un maintien sécurisé même sur routes irrégulières.\n\nCaractéristique\nDétail\n\nType\nSupport double appuie-tête voiture\n\nCompatibilité\nSmartphones et tablettes\n\nInstallation\nEntre deux appuie-têtes\n\nRotation\n360° ajustable\n\nFonction\nDouble support simultané\n\nMatière\nABS renforcé\n\nCouleur\nNoir\n\nUtilisation\nDivertissement, navigation, vidéos\n\nFixation\nStable et extensible\n\nRéférence Doshift\nAA7BB999",
-     "short_description": "Profitez de vos trajets en voiture avec ce support double appuie-tête spécialement conçu pour maintenir simultanément un smartphone et une tablette."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-08T150809.573.png"
-   ]
-  },
-  {
-   "sku": "doshift-76724",
-   "price": 178,
+   "sku": "doshift-88859",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -182,13 +131,71 @@
    ],
    "locales": {
     "fr": {
-     "name": "Pack Familial 6 Boîtes Hermétiques Fresh Box – Double Lot 3 Pièces",
-     "description": "Organisez et conservez vos aliments plus longtemps grâce à ce pack familial de 6 boîtes hermétiques Fresh Box. Composé de deux lots complets de 3 tailles différentes, ce set est idéal pour stocker fruits, légumes, repas, snacks et restes alimentaires tout en gardant votre réfrigérateur parfaitement organisé.\n\nGrâce à leur fermeture hermétique sécurisée, les aliments restent frais plus longtemps et sont protégés contre l’humidité et les odeurs. Leur design transparent permet de voir facilement le contenu, tandis que leur format empilable aide à gagner un maximum d’espace dans la cuisine.\n\nParfait pour une utilisation quotidienne, le meal prep, le rangement alimentaire ou l’organisation du frigo.\n\nCaractéristique\nDétail\n\nProduit\nPack familial boîtes hermétiques\n\nQuantité totale\n6 boîtes\n\nComposition\n2× 2L + 2× 1.1L + 2× 0.5L\n\nMatière\nPlastique alimentaire sans BPA\n\nCouleur\nTransparent avec clips noirs\n\nFermeture\nHermétique avec clips de sécurité\n\nUtilisation\nConservation alimentaire\n\nAvantages\nÉtanche, empilable, réutilisable\n\nCompatible\nRéfrigérateur, cuisine, rangement\n\nDimensions 2L\n23.6 × 17.6 × 7.5 cm\n\nDimensions 1.1L\n19.6 × 14.6 × 6.5 cm\n\nDimensions 0.5L\n13.9 × 11.6 × 5.5 cm\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Organisez et conservez vos aliments plus longtemps grâce à ce pack familial de 6 boîtes hermétiques Fresh Box."
+     "name": "Boîte de rangement pour montres et lunettes 6+3 – Présentoir avec couvercle transparent",
+     "description": "Gardez vos accessoires préférés parfaitement organisés avec cette élégante boîte de rangement 6+3 pour montres et lunettes. Elle permet de ranger jusqu’à 6 montres et 3 paires de lunettes dans un seul coffret pratique et soigné.\n\nSon intérieur compartimenté aide à séparer chaque accessoire afin de faciliter le rangement et la présentation. Le couvercle transparent permet de voir facilement votre collection sans avoir à ouvrir la boîte.\n\nIdéale pour une utilisation sur une commode, dans un dressing ou sur une étagère, cette boîte convient aussi bien au rangement quotidien qu’à la présentation d’une collection de montres et de lunettes.\n\nCaractéristique\nDétail\n\nType\nBoîte de rangement pour montres et lunettes\n\nCapacité montres\n6 montres\n\nCapacité lunettes\n3 paires de lunettes\n\nCapacité totale\n9 emplacements\n\nOrganisation\nCompartiments séparés\n\nCouvercle\nTransparent\n\nIntérieur\nDoublure douce avec séparateurs\n\nFermeture\nFermoir frontal\n\nUtilisation\nMontres, lunettes et accessoires\n\nInstallation\nÀ poser sur une commode, étagère ou dressing\n\nCouleur\nFoncée avec intérieur clair\n\nRéférence Doshift\nAA9BB599",
+     "short_description": "Gardez vos accessoires préférés parfaitement organisés avec cette élégante boîte de rangement 6+3 pour montres et lunettes."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-07T173624.912.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-07-08T133107.045.png"
+   ]
+  },
+  {
+   "sku": "doshift-88853",
+   "price": 299,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Masseur Électrique Cou & Épaules – Design Main 3D",
+     "description": "Offrez-vous un moment de détente à la maison avec ce masseur électrique pour le cou et les épaules. Son design ergonomique épouse naturellement la courbure du cou et des épaules, tandis que ses têtes de massage en forme de mains reproduisent une sensation de pression réaliste.\n\nCompact, pratique et confortable, il est idéal pour se relaxer après une longue journée, au bureau, à la maison ou après une activité physique. Sa texture douce et son format enveloppant assurent une utilisation agréable au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nMasseur électrique cou et épaules\n\nZone d’utilisation\nCou, épaules, trapèzes, haut du dos\n\nDesign\nForme ergonomique avec têtes de massage 3D\n\nUtilisation\nMaison, bureau, relaxation après effort\n\nAlimentation\nRecharge USB\n\nCouleur\nVert\n\nMatière\nSurface texturée douce + embouts souples\n\nCommande\nBoutons intégrés\n\nRéférence Doshift\nAA17BB099",
+     "short_description": "Offrez-vous un moment de détente à la maison avec ce masseur électrique pour le cou et les épaules."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-29T135917.866.png"
+   ]
+  },
+  {
+   "sku": "doshift-88831",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur USB Portable Fashion Fan",
+     "description": "Apportez une touche de fraîcheur partout avec vous grâce à ce ventilateur USB portable au design compact et coloré. Léger, pratique et facile à utiliser, il est idéal pour le bureau, la maison, les voyages ou les journées chaudes d’été. Sa base stable permet de l’utiliser posé sur une table, tout en restant facile à transporter.\n\nCaractéristique\nDétail\n\nProduit\nVentilateur USB portable\n\nUtilisation\nBureau, maison, voyage, extérieur\n\nAlimentation\nRecharge USB\n\nDesign\nCompact, léger et coloré\n\nBase\nStable pour utilisation sur table\n\nCouleurs\nAssorties selon disponibilité\n\nAvantage\nFraîcheur pratique au quotidien\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Apportez une touche de fraîcheur partout avec vous grâce à ce ventilateur USB portable au design compact et coloré."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-29T131739.034.png"
+   ]
+  },
+  {
+   "sku": "doshift-88568",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Ventilateur Portable Rose Rechargeable USB",
+     "description": "Profitez d’une fraîcheur instantanée partout avec ce mini ventilateur portable au design compact et élégant. Idéal pour le bureau, la chambre, les sorties ou les journées chaudes, il offre une ventilation pratique avec 3 vitesses réglables et un fonctionnement silencieux pour un confort optimal.\n\nGrâce à sa base stable, il peut être utilisé sur une table ou un bureau. Son format léger permet aussi de le transporter facilement, tandis que sa fonction support téléphone le rend encore plus pratique au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nMini ventilateur portable\n\nCouleur\nRose\n\nAlimentation\nRecharge USB\n\nVitesses\n3 niveaux\n\nFonction\nVentilation + support téléphone\n\nUtilisation\nBureau, chambre, maison, voyage\n\nDesign\nCompact avec base stable\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Profitez d’une fraîcheur instantanée partout avec ce mini ventilateur portable au design compact et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-27T193044.481.png"
    ]
   }
  ]

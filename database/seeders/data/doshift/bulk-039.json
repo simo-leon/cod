@@ -1,142 +1,27 @@
 {
  "products": [
   {
-   "sku": "doshift-87294",
+   "sku": "doshift-87992",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Souris Gaming Filaire Razer DeathAdder",
-     "description": "La Razer DeathAdder est une souris gaming filaire conçue pour offrir une excellente précision, un confort optimal et une réactivité parfaite pendant les sessions de jeu. Son design ergonomique épouse naturellement la forme de la main, permettant une utilisation confortable même pendant de longues heures.\n\nGrâce à sa connexion filaire stable, elle garantit une réponse rapide sans latence. Son capteur optique haute précision assure un contrôle fluide et précis, idéal pour le gaming, le travail bureautique avancé ou une utilisation quotidienne exigeante.\n\nCaractéristique\nDétail\n\nType de produit\nSouris gaming\n\nMarque\nRazer\n\nModèle\nDeathAdder\n\nConnexion\nFilaire\n\nUtilisation\nGaming, bureautique, multimédia\n\nDesign\nErgonomique\n\nCouleur\nNoir avec détails verts\n\nBoutons\nClic gauche, clic droit, molette, boutons latéraux\n\nAvantage principal\nPrécision, confort et réactivité\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "La Razer DeathAdder est une souris gaming filaire conçue pour offrir une excellente précision, un confort optimal et une réactivité parfaite pendant les sessions de jeu."
+     "name": "Lisseur Automatique HS-968 – Chauffe Rapide & Revêtement Céramique",
+     "description": "Obtenez une coiffure lisse, brillante et soignée en quelques minutes avec ce lisseur automatique au design moderne. Grâce à son revêtement céramique, il glisse facilement sur les cheveux tout en aidant à répartir la chaleur de manière homogène. Son format pratique permet une utilisation simple à la maison, au salon ou en voyage.\n\nIdéal pour lisser, discipliner et donner une finition élégante aux cheveux au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nLisseur automatique\n\nModèle\nHS-968\n\nTempérature maximale\n750°F Max\n\nRevêtement\nCéramique\n\nFonction\nLissage et coiffage des cheveux\n\nArrêt automatique\n60 minutes\n\nDesign\nNoir avec finition rose doré\n\nUtilisation\nMaison, salon, voyage\n\nRéférence\nAA7BB599",
+     "short_description": "Obtenez une coiffure lisse, brillante et soignée en quelques minutes avec ce lisseur automatique au design moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T181149.242.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T205549.728.png"
    ]
   },
   {
-   "sku": "doshift-87288",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris filaire XLEADER M20",
-     "description": "La souris XLEADER M20 est une souris filaire simple, pratique et confortable, idéale pour une utilisation quotidienne au bureau, à la maison ou avec un ordinateur portable. Son design noir minimaliste s’adapte facilement à tous les espaces de travail.\n\nGrâce à sa connexion filaire, elle offre une utilisation stable sans besoin de batterie. Son capteur optique précis permet une navigation fluide, tandis que sa forme ergonomique assure une bonne prise en main pendant les longues sessions d’utilisation.\n\nCaractéristique\nDétail\n\nProduit\nSouris filaire\n\nModèle\nXLEADER M20\n\nType\nSouris optique\n\nConnexion\nFilaire\n\nCouleur\nNoir\n\nUtilisation\nBureau, maison, ordinateur portable, PC\n\nDesign\nErgonomique et minimaliste\n\nPrise en main\nConfortable\n\nRéférence Doshift\nAA1BB399",
-     "short_description": "La souris XLEADER M20 est une souris filaire simple, pratique et confortable, idéale pour une utilisation quotidienne au bureau, à la maison ou avec un ordinateur portable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T180539.995.png"
-   ]
-  },
-  {
-   "sku": "doshift-87266",
-   "price": 59,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sticker Clavier AZERTY / Arabe",
-     "description": "Transformez facilement votre clavier classique en clavier bilingue grâce à ce sticker AZERTY / Arabe. Idéal pour écrire en français et en arabe sans changer de clavier, il offre une lecture claire avec des caractères blancs bien visibles sur fond noir.\n\nAutocollants pratiques, faciles à appliquer et adaptés aux claviers AZERTY, parfaits pour le bureau, les études, la maison ou l’apprentissage de l’arabe.\n\nCaractéristique\nDétail\n\nProduit\nSticker clavier AZERTY / Arabe\n\nUtilisation\nAjouter les caractères arabes sur un clavier AZERTY\n\nLangues\nFrançais / Arabe\n\nCouleur\nNoir avec caractères blancs\n\nType\nAutocollants pour touches de clavier\n\nCompatibilité\nClaviers AZERTY\n\nAvantage\nÉcriture bilingue facile sans remplacer le clavier\n\nInstallation\nApplication simple sur les touches\n\nIdéal pour\nÉtudiants, bureau, traduction, apprentissage, usage quotidien\n\nRéférence Doshift\nAA0BB299",
-     "short_description": "Transformez facilement votre clavier classique en clavier bilingue grâce à ce sticker AZERTY / Arabe."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T173505.361.png"
-   ]
-  },
-  {
-   "sku": "doshift-87254",
-   "price": 259,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clavier Mécanique Gaming 60% K61 Huntsman Mini – RGB",
-     "description": "Profitez d’un setup plus propre et plus performant avec le clavier mécanique K61 Huntsman Mini 60%. Son format compact libère de l’espace sur votre bureau tout en gardant l’essentiel pour le gaming, le travail et la bureautique.\n\nAvec ses switchs mécaniques, son rétroéclairage RGB et son design moderne, il offre une frappe réactive, confortable et stylée. Idéal pour les gamers, les créateurs et les utilisateurs qui veulent un clavier compact sans sacrifier la performance.\n\nCaractéristique\nDétail\n\nProduit\nClavier mécanique gaming\n\nModèle\nK61 Huntsman Mini\n\nFormat\n60% compact\n\nType\nClavier mécanique\n\nRétroéclairage\nRGB multicolore\n\nDesign\nCompact, moderne et gaming\n\nUtilisation\nGaming, bureau, setup PC\n\nAvantage\nGain d’espace sur le bureau\n\nConnectivité\nFilaire USB\n\nCouleur\nNoir\n\nRéférence Doshift\nAA16BB099",
-     "short_description": "Profitez d’un setup plus propre et plus performant avec le clavier mécanique K61 Huntsman Mini 60%."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T171013.494.png"
-   ]
-  },
-  {
-   "sku": "doshift-87247",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clavier Mécanique RGB T-Wolf T61 – Switchs Bleus",
-     "description": "Profitez d’une frappe rapide, précise et confortable avec le clavier mécanique T-Wolf T61. Son design compact permet de gagner de l’espace sur le bureau tout en offrant une excellente expérience pour le gaming, le travail et la bureautique.\n\nÉquipé de switchs bleus, il offre une sensation de frappe réactive avec un retour tactile agréable. Son rétroéclairage RGB multicolore apporte une ambiance moderne et immersive à votre setup.\n\nCaractéristique\nDétail\n\nType de produit\nClavier mécanique\n\nModèle\nT61\n\nMarque\nT-Wolf\n\nType de switch\nSwitchs bleus\n\nÉclairage\nRGB multicolore\n\nConnexion\nFilaire USB\n\nDesign\nCompact et ergonomique\n\nUtilisation\nGaming, travail, bureautique\n\nCouleur\nNoir\n\nRéférence Doshift\nAA17BB099",
-     "short_description": "Profitez d’une frappe rapide, précise et confortable avec le clavier mécanique T-Wolf T61."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T165652.131.png"
-   ]
-  },
-  {
-   "sku": "doshift-87277",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tapis de Souris Gamer – Mix Couleur",
-     "description": "Améliorez votre setup avec ce tapis de souris gamer grand format, conçu pour offrir une glisse fluide, une meilleure précision et un confort optimal pendant le gaming, le travail ou le streaming. Son design noir avec effets néon multicolores apporte une touche moderne et dynamique à votre bureau.\n\nSa grande surface permet d’accueillir facilement le clavier et la souris, tout en gardant un espace propre et organisé. La base antidérapante assure une bonne stabilité, même pendant les mouvements rapides.\n\nCaractéristique\nDétail\n\nType de produit\nTapis de souris gamer\n\nDesign\nMotif gaming néon multicolore\n\nSurface\nLisse, adaptée aux mouvements rapides\n\nFormat\nGrand format pour clavier et souris\n\nBase\nAntidérapante pour une meilleure stabilité\n\nUtilisation\nGaming, bureau, setup PC, streaming\n\nCouleur\nMix couleur\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "Améliorez votre setup avec ce tapis de souris gamer grand format, conçu pour offrir une glisse fluide, une meilleure précision et un confort optimal pendant le gaming, le travail ou le streaming."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T175417.150.png"
-   ]
-  },
-  {
-   "sku": "doshift-87188",
-   "price": 289,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clavier Mécanique Gaming RGB T-WOLF T17",
-     "description": "Profitez d’une frappe rapide, précise et immersive avec le clavier mécanique gaming T-WOLF T17. Son rétroéclairage RGB rainbow apporte un style moderne à votre setup, tandis que ses interrupteurs bleus offrent un retour tactile agréable, idéal pour le gaming, le travail et la saisie quotidienne.\n\nConçu pour durer, ce clavier combine un design robuste, des touches réactives et des raccourcis multimédias pratiques pour un confort d’utilisation optimal.\n\nCaractéristique\nDétail\n\nProduit\nClavier mécanique gaming\n\nMarque\nT-WOLF\n\nModèle\nT17\n\nÉclairage\nRGB rainbow multicolore\n\nType de touches\nMécaniques\n\nInterrupteurs\nBleus tactiles\n\nUtilisation\nGaming, travail, bureautique, streaming\n\nConnexion\nFilaire\n\nFonctionnalités\nTouches multimédias avec raccourcis FN\n\nDesign\nModerne, robuste et ergonomique\n\nRéférence Doshift\nAA18BB099",
-     "short_description": "Profitez d’une frappe rapide, précise et immersive avec le clavier mécanique gaming T-WOLF T17."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T145421.539.png"
-   ]
-  },
-  {
-   "sku": "doshift-86752",
-   "price": 129,
+   "sku": "doshift-87953",
+   "price": 199,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -144,17 +29,93 @@
    ],
    "locales": {
     "fr": {
-     "name": "Verre en Borosilicate Nervuré avec Papillon Décoratif",
-     "description": "Ajoutez une touche élégante à vos moments de boisson avec ce verre en borosilicate au design nervuré raffiné. Son style transparent met en valeur les boissons chaudes ou froides, tandis que le petit papillon rose apporte une finition douce et décorative.\n\nIdéal pour l’eau, le thé, les infusions, les jus ou les boissons fraîches, il s’intègre parfaitement dans une cuisine, un bureau, une table de petit-déjeuner ou une décoration minimaliste.\n\nCaractéristique\nDétail\n\nType\nVerre / tasse en borosilicate\n\nMatière\nVerre borosilicate transparent\n\nDesign\nNervuré avec finition élégante\n\nDécoration\nPapillon rose décoratif\n\nUtilisation\nEau, thé, infusion, jus, boissons fraîches\n\nAccessoire inclus\nCouvercle assorti\n\nStyle\nMinimaliste, chic et raffiné\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA5BB599",
-     "short_description": "Ajoutez une touche élégante à vos moments de boisson avec ce verre en borosilicate au design nervuré raffiné."
+     "name": "Gaufrier Hoffmans HM-3029 – 1000W",
+     "description": "Préparez facilement de délicieuses gaufres maison avec le gaufrier Hoffmans HM-3029. Compact, pratique et puissant, il chauffe rapidement pour une cuisson uniforme et vous permet de réaliser des gaufres dorées et croustillantes en quelques minutes.\n\nSon revêtement antiadhésif facilite le démoulage et le nettoyage après chaque utilisation. Idéal pour le petit-déjeuner, le goûter ou les moments gourmands en famille.\n\nCaractéristique\nDétail\n\nProduit\nGaufrier\n\nMarque\nHoffmans Electronics\n\nModèle\nHM-3029\n\nPuissance\n1000W\n\nRevêtement\nAntiadhésif\n\nIndicateur\nVoyant LED\n\nUtilisation\nGaufres maison\n\nNettoyage\nFacile après utilisation\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Préparez facilement de délicieuses gaufres maison avec le gaufrier Hoffmans HM-3029."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-20T181103.642.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T193720.431.png"
    ]
   },
   {
-   "sku": "doshift-86769",
+   "sku": "doshift-87912",
+   "price": 429,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lisseur Lizze Extreme Professionnel – Température Réglable Jusqu’à 250°C",
+     "description": "Obtenez des cheveux lisses, brillants et parfaitement coiffés avec le Lisseur Lizze Extreme. Conçu pour un usage quotidien ou professionnel, il offre une montée en température rapide et une chaleur stable pour un résultat net en quelques passages.\n\nGrâce à ses plaques en céramique/titane et son design ergonomique, il glisse facilement sur les cheveux tout en réduisant les frisottis. Sa température réglable jusqu’à 250°C / 480°F permet de l’adapter à différents types de cheveux.\n\nCaractéristique\nDétail\n\nProduit\nLisseur cheveux\n\nMarque\nLizze\n\nModèle\nExtreme\n\nTempérature maximale\n250°C / 480°F\n\nPlaques\nCéramique / titane\n\nUtilisation\nLissage et coiffage\n\nAlimentation\n220 V\n\nType d’usage\nPersonnel et professionnel\n\nRéférence Doshift\nAA27BB099",
+     "short_description": "Obtenez des cheveux lisses, brillants et parfaitement coiffés avec le Lisseur Lizze Extreme."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T174251.015.png"
+   ]
+  },
+  {
+   "sku": "doshift-87862",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 6 Tasses & Soucoupes en Porcelaine Vert & Or",
+     "description": "Apportez une touche de luxe à vos moments café et thé avec ce magnifique set de 6 tasses avec soucoupes. Son design raffiné associe une porcelaine blanche élégante, un motif vert décoratif et de superbes finitions dorées pour un rendu chic et premium.\n\nIdéal pour recevoir vos invités, servir le café, le thé ou décorer une table avec style. Les poignées dorées au design original ajoutent une note sophistiquée qui rend ce service parfait pour une utilisation quotidienne ou les occasions spéciales.\n\nCaractéristique\nDétail\n\nType de produit\nSet de tasses avec soucoupes\n\nNombre de pièces\n6 tasses + 6 soucoupes\n\nMatière\nPorcelaine\n\nCouleur\nBlanc, vert et doré\n\nDesign\nMotif décoratif élégant avec finition dorée\n\nUtilisation\nCafé, thé, réception, décoration de table\n\nStyle\nChic, raffiné et premium\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Apportez une touche de luxe à vos moments café et thé avec ce magnifique set de 6 tasses avec soucoupes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T161705.706.png"
+   ]
+  },
+  {
+   "sku": "doshift-87838",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panier de rangement tressé avec couvercle",
+     "description": "Apportez une touche naturelle et élégante à votre intérieur avec ce panier de rangement tressé. Pratique et décoratif, il est idéal pour organiser le linge, les jouets, les couvertures ou divers accessoires du quotidien. Son couvercle permet de garder vos affaires à l’abri de la poussière, tandis que ses poignées latérales facilitent le déplacement.\n\nCaractéristique\nDétail\n\nType de produit\nPanier de rangement\n\nDesign\nTressé effet naturel\n\nCouleur\nBeige avec finitions noires et bande blanche\n\nCouvercle\nOui, avec poignée supérieure\n\nPoignées\nPoignées latérales en corde noire\n\nUtilisation\nLinge, jouets, couvertures, accessoires\n\nStyle\nDécoratif, naturel et pratique\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Apportez une touche naturelle et élégante à votre intérieur avec ce panier de rangement tressé."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T154030.507.png"
+   ]
+  },
+  {
+   "sku": "doshift-87825",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Présentoir en bambou à 3 niveaux",
+     "description": "Apportez une touche naturelle et élégante à votre cuisine, salon ou coin café avec ce présentoir en bambou à 3 niveaux. Pratique et décoratif, il permet d’organiser et de présenter facilement vos pâtisseries, fruits, tasses, épices, produits cosmétiques ou petits accessoires.\n\nSon design en bambou naturel offre un rendu chaleureux et moderne, tout en optimisant l’espace grâce à ses trois plateaux superposés. Idéal pour un usage quotidien à la maison, lors d’un brunch, d’un buffet ou pour une présentation soignée sur table.\n\nCaractéristique\nDétail\n\nProduit\nPrésentoir / étagère en bambou\n\nNombre de niveaux\n3 niveaux\n\nMatière\nBambou naturel\n\nDesign\nÉlégant, naturel et minimaliste\n\nUtilisation\nCuisine, salon, salle de bain, coin café, buffet\n\nIdéal pour\nFruits, pâtisseries, tasses, épices, cosmétiques, accessoires\n\nAvantage\nGain de place et organisation pratique\n\nStructure\nPlateaux superposés avec supports cylindriques\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Apportez une touche naturelle et élégante à votre cuisine, salon ou coin café avec ce présentoir en bambou à 3 niveaux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T152141.712.png"
+   ]
+  },
+  {
+   "sku": "doshift-87810",
    "price": 169,
    "stock": 10,
    "status": 0,
@@ -163,18 +124,37 @@
    ],
    "locales": {
     "fr": {
-     "name": "Rouleau de Peinture Professionnel – Velours Synthétique",
-     "description": "Obtenez une finition propre, uniforme et rapide avec ce rouleau de peinture professionnel. Son manchon en velours synthétique assure une application douce et régulière, idéale pour couvrir les murs, plafonds et surfaces intérieures avec précision.\n\nConçu pour limiter les gouttes et les éclaboussures, il offre un meilleur contrôle pendant l’utilisation. Son manche ergonomique permet une bonne prise en main pour travailler plus confortablement, même sur de grandes surfaces.\n\nCaractéristique\nDétail\n\nType\nRouleau de peinture\n\nMatière du rouleau\nVelours synthétique\n\nUtilisation\nMurs, plafonds, surfaces intérieures\n\nAvantage\nApplication uniforme et rapide\n\nFonction\nAnti-gouttes et couverture facile\n\nManche\nErgonomique avec bonne prise en main\n\nStructure\nSupport métallique résistant\n\nIdéal pour\nTravaux de peinture maison ou professionnels\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Obtenez une finition propre, uniforme et rapide avec ce rouleau de peinture professionnel."
+     "name": "Présentoir Transparent 3 Étages pour Fruits, Desserts & Snacks",
+     "description": "Apportez une touche élégante à votre table avec ce présentoir transparent à 3 étages. Pratique et moderne, il permet de présenter vos fruits, desserts, bonbons, biscuits, fruits secs ou amuse-bouches de manière organisée et raffinée.\n\nGrâce à son design transparent, il s’intègre facilement à tous les styles de décoration : cuisine, salon, buffet, réception, fête ou table familiale. Ses trois niveaux offrent un gain d’espace idéal tout en mettant vos aliments en valeur.\n\nCaractéristique\nDétail\n\nType de produit\nPrésentoir de service\n\nNombre d’étages\n3 niveaux\n\nMatière\nPlastique transparent\n\nDesign\nÉlégant, moderne et transparent\n\nUtilisation\nFruits, desserts, snacks, bonbons, biscuits, fruits secs\n\nAvantage\nGain d’espace et présentation raffinée\n\nIdéal pour\nMaison, cuisine, buffet, fêtes, réceptions\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Apportez une touche élégante à votre table avec ce présentoir transparent à 3 étages."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-20T184816.663.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T145948.028.png"
    ]
   },
   {
-   "sku": "doshift-86746",
-   "price": 289,
+   "sku": "doshift-87853",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Parasol de Plage Rouge & Bleu avec Franges",
+     "description": "Profitez pleinement de vos journées en extérieur avec ce parasol de plage coloré, pratique et élégant. Grâce à sa grande toile rouge et bleue avec franges décoratives, il apporte de l’ombre tout en ajoutant une touche estivale à votre espace.\n\nIdéal pour la plage, le jardin, le camping ou les pique-niques, il est conçu pour offrir confort, protection et simplicité d’utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nParasol de plage\n\nUtilisation\nPlage, jardin, camping, pique-nique\n\nDiamètre\nEnviron 180 cm\n\nHauteur\nEnviron 200 cm\n\nMatière du mât\nAcier thermolaqué\n\nMatière de la toile\nPolyester haute qualité\n\nCouleurs\nRouge / Bleu\n\nDesign\nFranges décoratives blanches\n\nInstallation\nSystème d’ouverture simple\n\nTransport\nLéger, pliable avec sac de transport\n\nAccessoire inclus\nSac de transport\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Profitez pleinement de vos journées en extérieur avec ce parasol de plage coloré, pratique et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T155910.840.png"
+   ]
+  },
+  {
+   "sku": "doshift-87795",
+   "price": 439,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -182,13 +162,32 @@
    ],
    "locales": {
     "fr": {
-     "name": "Set de Rangement 6 Pièces en Verre & Bambou",
-     "description": "Apportez une touche élégante et organisée à votre cuisine avec ce set de rangement 6 pièces. Ses bocaux transparents permettent de voir facilement le contenu, tandis que les couvercles, cuillères et support effet bambou offrent un design naturel, pratique et moderne.\n\nIdéal pour ranger les épices, le thé, le sucre, le café, les graines ou autres ingrédients du quotidien. Compact et décoratif, il garde votre plan de travail propre tout en ajoutant une belle touche chaleureuse à votre espace cuisine.\n\nCaractéristique\nDétail\n\nType\nSet de rangement cuisine\n\nNombre de pièces\n6 bocaux avec support\n\nMatériau\nVerre transparent et finition effet bambou\n\nUtilisation\nÉpices, thé, sucre, café, graines, herbes séchées\n\nDesign\nÉlégant, naturel et décoratif\n\nAccessoires\nCouvercles avec cuillères intégrées\n\nSupport\nSupport de rangement effet bambou\n\nAvantage\nGain de place, rangement propre et organisé\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA18BB099",
-     "short_description": "Apportez une touche élégante et organisée à votre cuisine avec ce set de rangement 6 pièces."
+     "name": "Set de boîtes de rangement cuisine avec couvercles en bambou – 5 pièces",
+     "description": "Apportez une touche élégante et organisée à votre cuisine avec ce set de boîtes de rangement assorties. Idéal pour conserver le pain, le café, le thé, le sucre et les biscuits, il combine un design moderne blanc avec des couvercles effet bambou pratiques et décoratifs.\n\nSon style minimaliste s’intègre facilement dans toutes les cuisines, tout en gardant vos aliments bien rangés et accessibles au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSet de boîtes de rangement cuisine\n\nNombre de pièces\n5 pièces\n\nContenu\n1 boîte à pain + 4 boîtes pour café, thé, sucre et biscuits\n\nMatière\nBoîtes en métal avec couvercles effet bambou\n\nDesign\nBlanc élégant avec inscriptions décoratives\n\nUtilisation\nRangement alimentaire pour cuisine\n\nAvantage\nOrganisation pratique et gain d’espace\n\nFermeture\nCouvercles amovibles\n\nRéférence Doshift\nAA28BB099",
+     "short_description": "Apportez une touche élégante et organisée à votre cuisine avec ce set de boîtes de rangement assorties."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-20T173845.709.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T144555.343.png"
+   ]
+  },
+  {
+   "sku": "doshift-87787",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Beurrier en Bambou avec Cloche en Verre + Couteau et Fourchette",
+     "description": "Apportez une touche élégante et naturelle à votre table avec ce beurrier en bambou pratique et raffiné. Sa cloche transparente permet de protéger le beurre tout en le gardant bien visible, tandis que son plateau en bambou offre une présentation chaleureuse et soignée.\n\nLivré avec un couteau et une fourchette de service, il est idéal pour le petit-déjeuner, le brunch ou les repas en famille.\n\nCaractéristique\nDétail\n\nType de produit\nBeurrier avec cloche\n\nMatière du plateau\nBambou naturel\n\nMatière de la cloche\nVerre transparent\n\nAccessoires inclus\nCouteau + fourchette de service\n\nUtilisation\nBeurre, fromage, petits accompagnements\n\nDesign\nÉlégant, naturel et pratique\n\nEntretien\nFacile à nettoyer\n\nIdéal pour\nPetit-déjeuner, brunch, table familiale\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Apportez une touche élégante et naturelle à votre table avec ce beurrier en bambou pratique et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-25T143859.408.png"
    ]
   }
  ]

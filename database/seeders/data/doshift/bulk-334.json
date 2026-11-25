@@ -1,104 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-14090",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Kit de 3 lampes Led sans fil avec télécommande",
-     "description": "Le kit de 3 lampes LED sans fil avec télécommande est la solution parfaite pour un éclairage d’appoint rapide, pratique et sans installation électrique. Ces mini-lampes LED s’installent facilement grâce à leur dos autocollant, idéales pour les placards, escaliers, cuisines, garages ou camping.\n\nChaque lampe peut être allumée ou éteinte manuellement par pression tactile ou à distance via la télécommande fournie (jusqu’à 6 mètres de portée). Vous pouvez également régler la luminosité et programmer un arrêt automatique (15 ou 30 min) pour économiser l’énergie.\n\nAlimentées par piles, ces lampes sont 100 % portables, sans câbles, et diffusent une lumière blanche douce, idéale pour créer un éclairage fonctionnel ou d’ambiance dans les endroits sombres.\n\n📐 Fiche Technique :\n\nProduit : Kit de 3 lampes LED sans fil\n\nCommande : Tactile ou télécommande infrarouge\n\nModes : Marche/arrêt, réglage de luminosité, minuterie 15/30 min\n\nAlimentation :\n\nLampes : 3 piles AAA par lampe (non incluses)\n\nTélécommande : 2 piles AAA (non incluses)\n\nInstallation : Adhésif double face inclus\n\nPortée télécommande : Jusqu’à 6 mètres\n\nLumière : LED blanche\n\nUtilisation : Placard, dressing, couloir, escalier, tiroir, caravane",
-     "short_description": "Le kit de 3 lampes LED sans fil avec télécommande est la solution parfaite pour un éclairage d’appoint rapide, pratique et sans installation électrique."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2024/06/HOSSAM-2025-05-28T220218.231.png"
-   ]
-  },
-  {
-   "sku": "doshift-13918",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support Mobile Extensible MEZON pour Électroménagers",
-     "description": "Découvrez le Support Mobile Extensible MEZON pour Électroménagers, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Support Mobile Extensible MEZON pour Électroménagers est un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Support Mobile Extensible MEZON pour Électroménagers\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
-     "short_description": "Découvrez le Support Mobile Extensible MEZON pour Électroménagers, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/www.reallygreatsite.com-2024-08-05T132030.429_new_new.png"
-   ]
-  },
-  {
-   "sku": "doshift-13707",
-   "price": 59,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gants Doigts Gaming Antitranspiration – Haute Qualité pour PUBG et Jeux Mobiles",
-     "description": "Équipez-vous comme un pro avec ces gants pour doigts de gaming conçus pour offrir une expérience de jeu mobile fluide et sans glissement. Fabriqués en tissu conducteur et antitranspiration, ils permettent une précision extrême et empêchent les erreurs de toucher dues à la sueur.\n\nUltra légers, élastiques et respirants, ils s’adaptent à toutes les tailles de doigts et sont compatibles avec tous les écrans tactiles. Leur conception fine offre une sensation naturelle tout en augmentant la vitesse de réponse à l’écran.\n\nParfaits pour les jeux comme PUBG Mobile, Free Fire, Call of Duty Mobile, ces gants sont l’accessoire indispensable pour tout joueur mobile sérieux.\n\n📐 Fiche Technique :\n\nType : Gants pour doigts (accessoires gaming)\n\nMatériaux : Fibre conductrice + tissu antidérapant\n\nFonctionnalités :\n\nCompatibles écran tactile\n\nAntitranspiration\n\nUltra-fins & respirants\n\nAntidérapants\n\nUtilisation : Gaming mobile (PUBG, Free Fire, CODM, etc.)\n\nTaille : Universelle\n\nContenu : 2 pièces (1 paire)",
-     "short_description": "Équipez-vous comme un pro avec ces gants pour doigts de gaming conçus pour offrir une expérience de jeu mobile fluide et sans glissement."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2024/06/HOSSAM-2025-05-29T133342.774-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-13595",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "K-35 Wireless condensor Microphone 2 Microphones Jack",
-     "description": "Découvrez le K-35 Wireless condensor Microphone 2 Microphones Jack, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe K-35 Wireless condensor Microphone 2 Microphones Jack est un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : K-35 Wireless condensor Microphone 2 Microphones Jack\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
-     "short_description": "Découvrez le K-35 Wireless condensor Microphone 2 Microphones Jack, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/www.reallygreatsite.com-2024-08-05T165017.651_new_new.png"
-   ]
-  },
-  {
-   "sku": "doshift-13565",
-   "price": 759,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Oraimo Boom – Haut-parleur Sans Fil Bluetooth 30W OBS-75D",
-     "description": "Le haut-parleur Bluetooth Oraimo Boom délivre une puissance sonore de 30W, idéale pour animer vos fêtes ou profiter de votre musique avec intensité. Grâce à ses deux haut-parleurs dynamiques et son système de renforcement des basses, il offre un son immersif, clair et profond.\n\nÉquipé de la technologie Bluetooth 5.0, l’Oraimo Boom garantit une connexion rapide et stable avec vos appareils : smartphones, tablettes ou ordinateurs. Il dispose également d’une entrée AUX, d’un port USB et d’un lecteur de carte TF, pour lire votre musique directement depuis une clé ou une carte mémoire.\n\nAvec son design robuste et résistant à l’eau (IPX5), il vous accompagne partout, que ce soit à la maison, à la plage ou en plein air. Sa batterie haute capacité offre jusqu’à 6 à 8 heures d’autonomie selon le volume.\n\n📐 Fiche Technique :\n\nModèle : Oraimo Boom\n\nType : Haut-parleur Bluetooth portable\n\nPuissance sonore : 30W RMS\n\nConnectivité :\n\nBluetooth 5.0\n\nAUX-in\n\nUSB\n\nCarte TF\n\nAutonomie : Jusqu’à 6-8 heures\n\nBatterie : Batterie rechargeable haute capacité\n\nPortée Bluetooth : Jusqu’à 10 mètres\n\nÉtanchéité : IPX5 – Résiste aux éclaboussures\n\nCaractéristiques supplémentaires :\n\nDesign portable avec poignée\n\nCommandes intégrées\n\nSon stéréo amplifié\n\nCompatibilité : iOS, Android, Windows, etc.",
-     "short_description": "Le haut-parleur Bluetooth Oraimo Boom délivre une puissance sonore de 30W, idéale pour animer vos fêtes ou profiter de votre musique avec intensité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2024/06/HOSSAM-2025-05-30T125027.927.png"
-   ]
-  },
-  {
-   "sku": "doshift-7364",
-   "price": 249,
+   "sku": "doshift-29189",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,18 +10,76 @@
    ],
    "locales": {
     "fr": {
-     "name": "Tondeuse Professionnelle Kemei KM-1949 – Métal & Haute Précision",
-     "description": "La Kemei KM-1949 est une tondeuse professionnelle conçue pour les coupes précises, nettes et sans effort.\n\nhttps://doshift.ma/wp-content/uploads/2024/03/tondeuse-professionnelle-pour-barbe-et-cheveux-homme-taille-barbue-fil-lame-en-coupe-tte-lectrique-pour-coiffeurs-stylistes-modle-1949-kit-de-toilettage-complet-avec-rasoir-zro-corps-idal-poules-barbier.mp4\n\nFabriquée avec un corps entièrement en métal, elle allie robustesse, élégance et performance. Que vous soyez coiffeur, barbier ou particulier exigeant, cette tondeuse répondra à toutes vos attentes.\n\nÉquipée de lames en acier de haute qualité, elle assure une coupe fluide et régulière, même sur les cheveux épais. Son moteur puissant et silencieux garantit une performance constante, tandis que la molette de réglage permet un contrôle précis de la hauteur de coupe.\n\nFonctionnant sans fil, elle offre une grande liberté de mouvement avec une autonomie longue durée. Son design vintage et ergonomique assure une prise en main confortable, même lors d’une utilisation prolongée.\n\nCaractéristiques :\n\nCorps en métal résistant et durable\n\nLames en acier haute précision\n\nMoteur professionnel puissant\n\nFonctionnement sans fil + recharge rapide\n\nRéglage de la hauteur de coupe intégré\n\nAutonomie prolongée – idéale pour usage intensif\n\nConvient pour cheveux et barbe\n\nAlliez style, performance et solidité avec la Kemei KM-1949, l’outil incontournable des coupes professionnelles.",
-     "short_description": "La Kemei KM-1949 est une tondeuse professionnelle conçue pour les coupes précises, nettes et sans effort."
+     "name": "Kemei KM-3024 – Épilateur Électrique Wet & Dry Multi-Usage pour Femmes",
+     "description": "Le Kemei KM-3024 Wet & Dry est un épilateur électrique multi-usage spécialement conçu pour les femmes. Grâce à sa technologie avancée, il élimine les poils rapidement et efficacement, laissant la peau lisse et soyeuse plus longtemps.\n\nSa conception Wet & Dry permet une utilisation aussi bien sur peau sèche que sous la douche, pour plus de confort et moins d’irritations. Équipé de plusieurs têtes interchangeables, il s’adapte à différentes zones du corps : visage, jambes, bras, aisselles et maillot.\n\nCompact, léger et ergonomique, il offre une prise en main agréable et une utilisation prolongée sans fatigue. Sa batterie rechargeable via USB assure une autonomie idéale pour plusieurs séances, et son nettoyage est facilité grâce aux têtes amovibles lavables à l’eau.\n\nCet appareil est parfait pour les femmes recherchant une solution pratique, efficace et sans douleur excessive pour une peau nette et douce au quotidien.\n\nFiche technique\n\nMarque : Kemei\n\nModèle : KM-3024\n\nType : Épilateur électrique multi-usage\n\nTechnologie : Wet & Dry (peau sèche ou humide)\n\nZones d’utilisation : Visage, jambes, bras, aisselles, maillot\n\nAlimentation : Batterie rechargeable via USB\n\nAutonomie : Jusqu’à 40-60 minutes selon usage\n\nAccessoires : Têtes interchangeables pour différentes zones\n\nNettoyage : Têtes amovibles et lavables\n\nDesign : Compact, ergonomique et léger",
+     "short_description": "Épilateur électrique polyvalent Wet & Dry, conçu pour le visage, les jambes, les aisselles et le maillot. Utilisation sur peau sèche ou humide, pour un résultat doux et durable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2024/03/HOSSAM-2025-04-19T135823.125.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-20T111944.691.png"
    ]
   },
   {
-   "sku": "doshift-7259",
-   "price": 239,
+   "sku": "doshift-29019",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set Scolaire Complet « Happy Sunday » – Sac à Dos, Tote Bag et Pochettes",
+     "description": "Préparez la rentrée avec style grâce au set scolaire complet « Happy Sunday ». Ce pack pratique et tendance comprend un sac à dos spacieux, un tote bag polyvalent, une trousse et deux pochettes de rangement. Conçu en tissu résistant et léger, il est idéal pour les enfants, adolescents et étudiants.\n\nLe sac à dos est doté de multiples compartiments, dont une grande poche centrale, une poche avant avec rabat à motifs, et des rangements latéraux pour bouteilles ou accessoires. Le tote bag offre une alternative pratique pour transporter livres ou fournitures supplémentaires. La trousse et les pochettes permettent d’organiser stylos, lunettes, téléphone ou petits objets du quotidien.\n\nAvec son design moderne beige et son inscription « Happy Sunday », ce set allie praticité, durabilité et esthétique pour accompagner les journées d’école, de cours ou de loisirs.\n\nPoints forts :\n\nSet complet : sac à dos, tote bag, trousse et pochettes\n\nTissu robuste et léger, facile à entretenir\n\nSac à dos avec plusieurs compartiments pratiques\n\nDesign tendance et moderne « Happy Sunday »\n\nIdéal pour la rentrée scolaire, les cours ou les sorties",
+     "short_description": "Préparez la rentrée avec style grâce au set scolaire complet « Happy Sunday ». Ce pack pratique et tendance comprend un sac à dos spacieux, un tote bag polyvalent, une trousse et deux pochettes de rangement."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/jvlaaal-2025-08-19T112448.420.png"
+   ]
+  },
+  {
+   "sku": "doshift-28963",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sèche-Cheveux Professionnel WAER WA-2311 – 3500W Salon Pro",
+     "description": "Obtenez un séchage rapide et une coiffure impeccable avec le sèche-cheveux professionnel WAER WA-2311, conçu pour un usage domestique ou en salon.Grâce à son moteur AC puissant de 3500W, il offre un flux d’air constant et performant pour un séchage ultra-rapide, tout en préservant la brillance et la santé de vos cheveux.Avec ses 2 vitesses, 3 niveaux de température et accessoires de coiffage inclus, ce sèche-cheveux s’adapte à tous les types de cheveux, qu’ils soient fins, épais, bouclés ou lisses.Son design ergonomique et sa poignée antidérapante garantissent un confort d’utilisation optimal, même lors d’une utilisation prolongée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nWAER Professional\n\nModèle\nWA-2311\n\nPuissance\n3500 Watts\n\nType de moteur\nMoteur AC professionnel\n\nVitesse\n2 niveaux de puissance\n\nTempérature\n3 réglages de chaleur\n\nFonction\nSéchage rapide, brushing, mise en forme\n\nTechnologie\nChauffage PTC à température constante\n\nAccessoires inclus\n2 embouts concentrateurs + 1 peigne diffuseur\n\nTension\n220V – 50/60Hz\n\nMatériau du corps\nPlastique ABS résistant à la chaleur\n\nCouleur\nBleu turquoise métallisé\n\nLongueur du câble\nEnviron 1,5 m\n\nRéférence DoShift\nA9BB099",
+     "short_description": "Obtenez un séchage rapide et une coiffure impeccable avec le sèche-cheveux professionnel WAER WA-2311, conçu pour un usage domestique ou en salon.Grâce à son moteur AC puissant de 3500W, il offre un flux d’air constant…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/ab21.png"
+   ]
+  },
+  {
+   "sku": "doshift-28929",
+   "price": 349,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "SmartShaver Oraimo OPC-RS21N",
+     "description": "Le Oraimo SmartShaver 2 Magnet 3D (OPC-RS21N) est conçu pour offrir un rasage net, rapide et sans irritation. Ses 27 lames auto-affûtantes et ses têtes flottantes 3D s’adaptent parfaitement aux contours du visage pour une coupe uniforme et efficace.\n\nGrâce à sa technologie magnétique, la tête se retire facilement pour un nettoyage rapide sous l’eau. Certifié IPX7, il est totalement étanche et peut être utilisé aussi bien à sec qu’avec de la mousse ou du gel.\n\nAvec son moteur puissant et silencieux, il assure une performance optimale, tandis que sa batterie rechargeable en USB-C offre jusqu’à 90 minutes d’autonomie après seulement 1h30 de charge. Léger et ergonomique, il est l’allié idéal pour un usage quotidien ou en voyage.\n\nFiche technique\n\nMarque : Oraimo\n\nModèle : OPC-RS21N (SmartShaver 2 Magnet 3D)\n\nAlimentation : USB-C, 5 V / 5 W\n\nAutonomie : 90 minutes\n\nTemps de charge : 1h30 environ\n\nLames : 27 lames auto-affûtantes\n\nTêtes : 3D flottantes (4 directions)\n\nÉtanchéité : IPX7 (lavable à l’eau)\n\nDesign : Ergonomique, léger et silencieux",
+     "short_description": "Le Oraimo SmartShaver 2 Magnet 3D (OPC-RS21N) est conçu pour offrir un rasage net, rapide et sans irritation."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-18T183224.444.png"
+   ]
+  },
+  {
+   "sku": "doshift-28869",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -125,13 +87,108 @@
    ],
    "locales": {
     "fr": {
-     "name": "Enceinte Bluetooth Portable FACEPHONE B25 – Son Clair et Format Compact",
-     "description": "Profitez de votre musique partout avec l’enceinte Bluetooth portable FACEPHONE B25, un modèle pratique et compact conçu pour un usage quotidien. Grâce à sa connexion Bluetooth stable, elle se connecte facilement à votre smartphone, tablette ou ordinateur pour diffuser vos chansons, podcasts ou appels en toute simplicité.\n\nCaractéristique\nDétail\n\nProduit\nEnceinte Bluetooth portable\n\nMarque / Modèle\nFACEPHONE B25\n\nConnectivité\nBluetooth v4.2 ou supérieur selon modèle\n\nPortée sans fil\nJusqu’à 10 mètres\n\nEntrées disponibles\nBluetooth, USB, carte TF (microSD), AUX\n\nAutonomie\nEnviron 3 à 5 heures selon le volume\n\nBatterie\nRechargeable via câble USB\n\nFonction supplémentaire\nMicrophone intégré pour appels mains libres\n\nUtilisation\nMaison, bureau, extérieur, voyage\n\nDesign\nCompact et portable\n\nDimensions\nCompactes (à préciser selon modèle exact)\n\nRéférence Doshift\nAA13BB099",
-     "short_description": "Profitez de votre musique partout avec l’enceinte Bluetooth portable FACEPHONE B25, un modèle pratique et compact conçu pour un usage quotidien."
+     "name": "Ecouteurs Sans Fil Dinex D-30 – Son Puissant & Confort Total avec Boîtier Rechargeable",
+     "description": "Avec les écouteurs sans fil Dinex D-30, plongez dans un univers sonore riche et précis. Dotés d’une technologie Bluetooth avancée, ils garantissent une connexion stable et rapide à vos appareils (smartphones, tablettes, ordinateurs…).\n\nLeur design ergonomique assure une tenue parfaite dans l’oreille, même lors des déplacements ou séances sportives. Grâce à leur boîtier de charge compact, profitez de plusieurs cycles de recharge et d’une autonomie prolongée.\n\nIdéal pour la musique, les appels ou les vidéos, le Dinex D-30 combine performance audio et portabilité dans un format moderne et discret.\n\nCaractéristiques principales :\n\nBluetooth – Connexion rapide, sans fil\n\nBoîtier de charge – Jusqu’à plusieurs recharges\n\nSon stéréo clair et profond\n\nMicro intégré – Appels mains libres\n\nConfort ergonomique – Bonne tenue dans l’oreille\n\nDesign compact – Facile à transporter",
+     "short_description": "Avec les écouteurs sans fil Dinex D-30, plongez dans un univers sonore riche et précis."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2024/03/HOSSAM-2025-05-27T162058.824-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-18T155626.068.png"
+   ]
+  },
+  {
+   "sku": "doshift-28867",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Casque Sans Fil Bluetooth RECSON NE-05 – Confort & Son Haute Qualité",
+     "description": "Le casque RECSON NE-05 combine élégance, confort et performance audio. Conçu avec des coussinets doux et un arceau ergonomique, il garantit une écoute prolongée sans gêne.\n\nCaractéristiques principales :\n\nSon puissant avec basses profondes et aigus clairs\n\nConnexion Bluetooth rapide et stable\n\nAutonomie longue durée avec recharge USB-C\n\nMicro intégré pour des appels mains libres de qualité\n\nUtilisation polyvalente : musique, films, jeux ou télétravail\n\nLe RECSON NE-05 est le choix idéal pour profiter d’une expérience sonore immersive au quotidien.",
+     "short_description": "Le casque RECSON NE-05 combine élégance, confort et performance audio. Conçu avec des coussinets doux et un arceau ergonomique, il garantit une écoute prolongée sans gêne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/jvlaaal-2025-08-18T170156.437.png"
+   ]
+  },
+  {
+   "sku": "doshift-28856",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tondeuse Dinex DN-1730 – Rechargeable, Précise & Polyvalente",
+     "description": "Prenez soin de votre barbe et de votre coiffure facilement avec la Tondeuse Dinex DN-1730. Son design moderne bleu et noir, sa prise en main pratique et sa tête de coupe permettent de réaliser des finitions nettes pour l’entretien quotidien.\n\nRechargeable, elle offre une utilisation pratique sans être constamment reliée à une prise. Elle est accompagnée de 3 sabots de guidage permettant d’adapter la coupe selon le résultat recherché.\n\nIdéale pour entretenir la barbe, les contours, les pattes, la nuque et les cheveux, la DN-1730 constitue une solution polyvalente pour vos besoins de grooming à domicile.\n\nCaractéristique\nDétail\n\nMarque\nDinex\n\nModèle\nDN-1730\n\nType\nTondeuse rechargeable\n\nUtilisation\nBarbe, cheveux, contours, pattes et nuque\n\nNombre de sabots\n3 sabots de guidage\n\nAlimentation\nRechargeable\n\nCouleur\nBleu et noir\n\nUtilisation\nSans fil après recharge\n\nDesign\nCompact et ergonomique\n\nContenu\n1 tondeuse + 3 sabots de guidage\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "La Dinex DN-1730 est une tondeuse rechargeable pratique et performante, idéale pour une coupe nette et précise à domicile."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/Nouveau-projet-2026-08-07T203128.615.png"
+   ]
+  },
+  {
+   "sku": "doshift-28803",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "boîte à épices 12 compartiment avec cuillères doseuses Noir – Organisateur de cuisine compact et pratique",
+     "description": "Apportez ordre et élégance à votre cuisine avec cet organisateur d’épices pratique et moderne. Conçu en plastique robuste de haute qualité, il est équipé de 12 pots transparents (300 ml chacun) permettant de conserver vos épices, herbes et condiments tout en gardant une visibilité parfaite.\n\nChaque pot dispose d’une cuillère intégrée pour doser facilement vos ingrédients sans salir vos mains ni gaspiller. Le design compact et raffiné en noir élégant s’adapte à toutes les cuisines et libère de l’espace sur vos étagères et plans de travail.\n\n🌿 Caractéristiques principales :\n\nCouleur : Noir\n\nContenance : 12 pots de 300 ml chacun\n\nMatériau : plastique durable, résistant et facile à nettoyer\n\nCuillère intégrée dans chaque pot pour un dosage précis\n\nDimensions du support : 34 x 24 x 14 cm\n\nIdéal pour épices, condiments, herbes, café, sucre, sel, etc.\n\nDesign moderne et gain de place pour une cuisine toujours organisée\n\nCet organisateur est la solution parfaite pour les amateurs de cuisine qui souhaitent allier praticité, hygiène et style.",
+     "short_description": "Apportez ordre et élégance à votre cuisine avec cet organisateur d’épices pratique et moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/jvlaaal-87.png"
+   ]
+  },
+  {
+   "sku": "doshift-28652",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse Soufflante One Step – Séchage, Lissage & Volume en Un Seul Geste",
+     "description": "Simplifiez votre routine capillaire avec la Brosse Soufflante One Step, un outil 3 en 1 qui combine les fonctions de sèche-cheveux, lisseur et volumisateur. Grâce à sa technologie ionique et son design ovale, elle permet de lisser les cheveux tout en ajoutant du volume dès la racine, pour un résultat digne d’un salon de coiffure.\n\nSa puissance de séchage rapide réduit le temps de coiffage tout en protégeant vos cheveux de la chaleur excessive. Ergonomique et légère, elle est facile à manier et s’adapte à tous les types de cheveux, qu’ils soient fins, épais, bouclés ou lisses.\n\nLa One Step est l’alliée idéale pour obtenir des cheveux brillants, doux et volumineux en quelques minutes seulement.\n\n✅ Points forts :\n\n3 en 1 : sèche, lisse et donne du volume\n\nRéduit le temps de coiffage et protège les cheveux\n\nTechnologie ionique pour plus de brillance et moins de frisottis\n\nBrosse ovale idéale pour lisser et donner du volume aux racines\n\nConvient à tous types de cheveux\n\n📌 Caractéristiques techniques :\n\nType : Brosse soufflante électrique\n\nFonction : séchage, lissage, volume\n\nPuissance : (à préciser selon version, ex. 1000W)\n\nRéglages : plusieurs niveaux de chaleur et vitesse\n\nTechnologie : ionique + revêtement céramique\n\nAlimentation : secteur (220V)",
+     "short_description": "La brosse soufflante One Step sèche, lisse et apporte du volume en un seul passage pour des cheveux brillants et soyeux sans effort."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-17T201557.821.png"
+   ]
+  },
+  {
+   "sku": "doshift-28634",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cable Konfulon DC15 – Type-C Vers Type-C Rapide & Durable",
+     "description": "Profitez d’une charge rapide et sécurisée avec le Câble Konfulon DC15 Type-C vers Type-C. Conçu avec des matériaux de haute qualité, il garantit une durabilité exceptionnelle et une performance constante dans le temps.\n\nIdéal pour smartphones, tablettes, ordinateurs portables et autres appareils équipés d’un port USB-C, ce câble offre une transmission de données stable et une puissance de charge optimale, adaptée aux nouvelles générations d’appareils.\n\nSon design résistant et flexible évite les nœuds et augmente sa longévité, ce qui en fait un accessoire indispensable au quotidien.\n\n✅ Points forts :\n\nCâble Type-C vers Type-C haute performance\n\nCharge rapide et transmission de données efficace\n\nMatériaux robustes pour une durabilité prolongée\n\nDesign flexible, résistant aux torsions\n\nCompatible avec smartphones, tablettes et ordinateurs USB-C\n\n📌 Caractéristiques techniques :\n\nMarque : Konfulon\n\nModèle : DC15\n\nType : USB Type-C vers USB Type-C\n\nFonctions : charge rapide + transfert de données\n\nLongueur : (à préciser selon version : 1 m / 1.5 m / 2 m)\n\nCouleur : (selon stock, généralement noir ou blanc)\n\nCompatibilité : tous les appareils USB-C (Android, MacBook, etc.)",
+     "short_description": "Le Konfulon DC15 est un câble Type-C vers Type-C robuste et rapide, conçu pour le transfert de données et la recharge haute performance de vos appareils compatibles."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-17T193614.348.png"
    ]
   }
  ]

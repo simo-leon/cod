@@ -1,84 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-62910",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plateau Rectangulaire Doré – Motifs Orientaux & Finition Brillante",
-     "description": "Sublimez votre décoration avec ce plateau rectangulaire doré au design raffiné, orné de motifs orientaux finement gravés en relief. Sa finition brillante et élégante apporte une touche luxueuse à votre table, votre salon ou votre espace de réception. Idéal pour le service ou la présentation décorative, il allie charme traditionnel et style moderne pour un rendu prestigieux et sophistiqué.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nProduit\nPlateau rectangulaire décoratif\n\nDesign\nMotifs orientaux gravés en relief\n\nFinition\nEffet doré brillant\n\nForme\nRectangulaire\n\nUtilisation\nService, décoration, présentation\n\nEntretien\nNettoyage facile avec chiffon doux\n\nRéférence – DOSHIFT\nAA2BB699",
-     "short_description": "Sublimez votre décoration avec ce plateau rectangulaire doré au design raffiné, orné de motifs orientaux finement gravés en relief."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-12T031102-955.png"
-   ]
-  },
-  {
-   "sku": "doshift-62903",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plateau Rectangulaire Doré – Finition Brillante & Relief Élégant",
-     "description": "Sublimez vos présentations avec ce plateau rectangulaire au design raffiné, doté d’une finition dorée brillante qui attire immédiatement le regard. Sa surface texturée et son cadre travaillé en relief apportent une touche élégante et prestigieuse à votre table. Parfait pour servir avec style ou pour décorer un espace moderne, il incarne le luxe contemporain et le raffinement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPlateau de service rectangulaire\n\nFinition\nDorée brillante\n\nSurface\nTexture martelée décorative\n\nBordure\nCadre travaillé avec relief\n\nStyle\nLuxe moderne\n\nUsage\nService, décoration, présentation\n\nEntretien\nNettoyage à la main recommandé\n\nRéférence – DOSHIFT\nAABB099",
-     "short_description": "Sublimez vos présentations avec ce plateau rectangulaire au design raffiné, doté d’une finition dorée brillante qui attire immédiatement le regard."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-12T024945-500.png"
-   ]
-  },
-  {
-   "sku": "doshift-62897",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plateau en Verre Transparent avec Poignées Dorées – Élégance & Luxe Minimal",
-     "description": "Ajoutez une touche de luxe et de raffinement à votre table avec ce plateau en verre transparent, sublimé par de magnifiques poignées dorées décoratives. Son design minimal et élégant s’intègre parfaitement dans une décoration moderne ou chic. Idéal pour servir boissons, desserts, café ou pour sublimer un espace décoratif, il allie esthétique et fonctionnalité avec distinction.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPlateau de service rectangulaire\n\nMatériau\nVerre transparent\n\nPoignées\nFinition dorée décorative\n\nStyle\nMinimal luxe, élégant\n\nUsage\nService boissons, desserts, décoration\n\nEntretien\nNettoyage facile à la main\n\nRéférence – DOSHIFT\nAA1BB899",
-     "short_description": "Ajoutez une touche de luxe et de raffinement à votre table avec ce plateau en verre transparent, sublimé par de magnifiques poignées dorées décoratives."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-12T022649-676.png"
-   ]
-  },
-  {
-   "sku": "doshift-62891",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Plateau Rond Décoratif Luxe – Texture Élégante & Finition Brillante",
-     "description": "Élevez votre service avec ce plateau rond décoratif au motif texturé, sublimé par une finition brillante raffinée. Son design structuré et élégant apporte instantanément une touche luxueuse à votre table, votre salon ou votre espace décoratif. Chic, moderne et sophistiqué, il est idéal pour servir avec style ou compléter une décoration contemporaine haut de gamme.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPlateau rond décoratif\n\nFinition\nTexture centrale tressée\n\nBordure\nMotif structuré élégant\n\nUtilisation\nService & décoration\n\nStyle\nLuxe moderne\n\nRéférence – DOSHIFT\nAA2BB099",
-     "short_description": "Élevez votre service avec ce plateau rond décoratif au motif texturé, sublimé par une finition brillante raffinée."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-12T015717-342.png"
-   ]
-  },
-  {
-   "sku": "doshift-63008",
-   "price": 159,
+   "sku": "doshift-73224",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -87,18 +11,57 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lot de 2 Distributeurs d’Huile en Verre 1000 ml / 750 ml avec Bec Verseur et Couvercle en Bambou",
-     "description": "Apportez une touche élégante et pratique à votre cuisine avec ce lot de 2 distributeurs d’huile en verre. Conçus pour un usage quotidien, ces flacons permettent de verser facilement l’huile, le vinaigre, la sauce soja ou d’autres liquides alimentaires avec précision et sans gaspillage. Leur design transparent permet de visualiser rapidement le niveau restant, tandis que le bec verseur intégré assure un service propre et fluide.\n\nLe couvercle en bambou ajoute une finition naturelle et raffinée tout en aidant à protéger le contenu de la poussière. Grâce à leurs deux formats pratiques de 1000 ml et 750 ml, ces distributeurs sont parfaits pour organiser votre cuisine, votre table à manger ou votre espace de préparation. Idéal pour la maison, les restaurants ou comme idée cadeau utile et esthétique.\n\nCaractéristique\nDétail\n\nType de produit\nLot de 2 distributeurs d’huile\n\nCapacité\n1000 ml / 750 ml\n\nMatière\nVerre\n\nCouvercle\nBambou\n\nUtilisation\nHuile, vinaigre, sauce, liquides alimentaires\n\nBec verseur\nOui\n\nPoignée\nOui\n\nEntretien\nLavage à la main recommandé\n\nDesign\nTransparent, moderne et élégant\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Apportez une touche élégante et pratique à votre cuisine avec ce lot de 2 distributeurs d’huile en verre."
+     "name": "Connecteur de Pompe à Graisse Haute Pression",
+     "description": "Optimisez vos opérations de graissage grâce à ce coupleur à double poignée.\n\nCaractéristique\nDétail\n\nSystème de verrouillage\n6 mâchoires renforcées pour un maintien ferme sur le graisseur (Zerk), utilisation mains libres\n\nPression maximale\nHaute résistance jusqu’à 10 000 PSI\n\nPoignée ergonomique\nDouble poignée pour un levier optimal et une manipulation facile\n\nÉtanchéité\nJoint haute qualité empêchant les fuites de graisse\n\nCompatibilité\nFiletage 1/8″ NPT compatible avec la plupart des pompes à graisse\n\nFlexible d’extension\nTuyau souple de 30 cm avec ressort de protection\n\nUtilisation\nAccès facile aux zones étroites ou difficiles\n\nLongueur du coupleur\n~9 cm\n\nLargeur du corps\n~1,5 cm\n\nLongueur des poignées\n~5 cm\n\nDiamètre de la tête\n~1,4 à 1,6 cm\n\nLongueur du flexible\n~30 cm\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Optimisez vos opérations de graissage grâce à ce coupleur à double poignée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-12T212743.844.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/1-21.png"
    ]
   },
   {
-   "sku": "doshift-63003",
-   "price": 429,
+   "sku": "doshift-72994",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Talkie-Walkie Enfant Design Cartoon – Communication Ludique et Colorée",
+     "description": "Offrez une expérience de jeu amusante avec ce set de talkie-walkies au design cartoon adorable. Conçus pour les enfants, ces appareils permettent de communiquer facilement à distance tout en profitant d’un look coloré et attractif. Leur prise en main est simple et intuitive, idéale pour les jeux en intérieur comme en extérieur. Robustes et légers, ils accompagnent parfaitement les aventures des plus jeunes tout en stimulant leur imagination.\n\nCaractéristique\nDétail\n\nType de produit\nTalkie-walkie enfant\n\nQuantité\nLot de 2 pièces\n\nDesign\nCartoon\n\nUtilisation\nIntérieur / Extérieur\n\nAlimentation\nPiles\n\nPrise en main\nErgonomique\n\nPublic cible\nEnfants\n\nRéférence Doshift\nAA2BB899",
+     "short_description": "Offrez une expérience de jeu amusante avec ce set de talkie-walkies au design cartoon adorable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-18T174210.902.png"
+   ]
+  },
+  {
+   "sku": "doshift-72931",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble Chapeau & Sac en Paille avec Nœud Dentelle – Style Élégant Été Blanc",
+     "description": "Apportez une touche de douceur et d’élégance à vos sorties estivales avec cet ensemble raffiné composé d’un chapeau en paille et d’un sac assorti. Léger et confortable, il est parfait pour la plage, les promenades ou les occasions en plein air. Son design délicat avec nœud en dentelle ajoute une finition féminine et tendance qui attire le regard.\n\nIdéal pour compléter une tenue d’été, cet ensemble combine style et praticité grâce à son sac compact et facile à porter. Un choix parfait pour un look chic et naturel.\n\nCaractéristique\nDétail\n\nType\nEnsemble chapeau + sac\n\nMatière\nPaille tressée + dentelle\n\nCouleur\nBlanc / Beige clair\n\nStyle\nÉlégant, été, féminin\n\nDimensions chapeau\nEnviron 32 cm\n\nDimensions sac\n13 x 15 cm\n\nBandoulière\nOui (corde tressée)\n\nUtilisation\nPlage, promenade, sortie\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Apportez une touche de douceur et d’élégance à vos sorties estivales avec cet ensemble raffiné composé d’un chapeau en paille et d’un sac assorti."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-18T143841.989.png"
+   ]
+  },
+  {
+   "sku": "doshift-72945",
+   "price": 1279,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,90 +69,135 @@
    ],
    "locales": {
     "fr": {
-     "name": "Mini Four Électrique DeHäuse DH801 – 12L",
-     "description": "Préparez facilement vos pizzas, viennoiseries, gratins et snacks avec ce mini four électrique compact et pratique. Grâce à sa capacité de 12L, sa minuterie intégrée et sa puissance de 750W, il est idéal pour une utilisation quotidienne dans la cuisine, le bureau ou les petits espaces.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA30BB099\n\nMarque\nDeHäuse\n\nType\nMini four électrique\n\nCapacité\n12 Litres\n\nPuissance\n750W\n\nMinuterie\nJusqu’à 60 min\n\nTempérature\nRéglable\n\nCouleur\nGris\n\nUtilisation\nCuisine, bureau, studio\n\nAlimentation\nÉlectrique",
-     "short_description": "Préparez facilement vos pizzas, viennoiseries, gratins et snacks avec ce mini four électrique compact et pratique."
+     "name": "Caméra de Surveillance Solaire 4G 6MP – PTZ Motorisée & Vision Nocturne Couleur",
+     "description": "Surveillez efficacement vos espaces avec cette caméra de sécurité solaire autonome, idéale pour les zones sans Wi-Fi ni électricité. Fonctionnant via une carte SIM 4G et un panneau solaire intégré, elle garantit une surveillance continue 24/7, parfaite pour les champs, chantiers, villas ou entrepôts.\n\nCaractéristique\nDétail\n\nType\nCaméra de surveillance solaire\n\nAlimentation\nPanneau solaire + batterie rechargeable\n\nConnectivité\n4G via carte SIM (sans Wi-Fi)\n\nRésolution\n6MP HD\n\nFonction PTZ\nRotation horizontale et verticale motorisée\n\nVision nocturne\nCouleur + infrarouge\n\nDétection\nMouvement avec alertes en temps réel\n\nStockage\nCarte SD + Cloud\n\nInstallation\nMurale, sans câbles\n\nUtilisation\nExtérieur / zones isolées\n\nContrôle\nÀ distance via smartphone\n\nRéférence Doshift\nAA11BB0099",
+     "short_description": "Surveillez efficacement vos espaces avec cette caméra de sécurité solaire autonome, idéale pour les zones sans Wi-Fi ni électricité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-05-18T175330.831.png"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-18T151458.051.png"
    ]
   },
   {
-   "sku": "doshift-62946",
-   "price": 169,
+   "sku": "doshift-72916",
+   "price": 199,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    4,
+    5
    ],
    "locales": {
     "fr": {
-     "name": "Elite Bol de mixeur en acier inoxydable 1,5 L – Modèle SSJ15 – Résistant à la rouille et idéal pour un usage quotidien",
-     "description": "Le bol de mixeur Elite SSJ15 est fabriqué en acier inoxydable de haute qualité, avec une capacité de 1,5 litre, conçu pour répondre à tous vos besoins quotidiens de préparation de jus, smoothies, légumes et différentes préparations.\n\nSon design élégant et pratique est doté d’une poignée ergonomique facilitant la prise en main, ainsi que d’un couvercle bien ajusté pour éviter les fuites pendant l’utilisation.\n\nIdéal pour un usage domestique, il offre une performance fiable, une grande durabilité et un nettoyage facile.",
-     "short_description": "Le bol de mixeur Elite SSJ15 est fabriqué en acier inoxydable de haute qualité, avec une capacité de 1,5 litre, conçu pour répondre à tous vos besoins quotidiens de préparation de jus, smoothies, légumes et différentes…"
+     "name": "Enceinte Bluetooth et Lampe LED Intégrée",
+     "description": "Fusionnez l’ambiance et la productivité avec cet objet unique deux-en-un. Cette enceinte Bluetooth haute fidélité est élégamment logée dans la base d’une lampe LED haute performance\n\nCaractéristique\nDétail\n\nType de produit\nLampe LED avec enceinte Bluetooth\n\nÉclairage\nLED haute performance\n\nModes de lumière\nChaud, neutre, froid\n\nConsommation\nFaible (éco)\n\nAudio\nHaut-parleur Bluetooth\n\nContrôle\nVolume et pistes intégrés\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nHauteur\n26 cm\n\nLargeur\n5 cm\n\nProfondeur\n20 cm\n\nDesign\nCompact et épuré\n\nStructure\nTête inclinable\n\nUtilisation\nBureau, maison\n\nRéférence-doshift\nAA1BB2099",
+     "short_description": "Fusionnez l’ambiance et la productivité avec cet objet unique deux-en-un. Cette enceinte Bluetooth haute fidélité est élégamment logée dans la base d’une lampe LED haute performance"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-12T205904.267.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/3-12.png"
    ]
   },
   {
-   "sku": "doshift-62916",
+   "sku": "doshift-72902",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Enceinte LED avec Chargeur Sans Fil G3",
+     "description": "Transformez votre espace avec cette enceinte LED multifonction alliant son immersif, éclairage d’ambiance et recharge sans fil. Idéale pour la chambre, le bureau ou les moments de détente, elle diffuse un son 360° tout en créant une atmosphère lumineuse personnalisée grâce à ses multiples modes RGB. Son réveil intégré avec simulation de lever de soleil rend vos réveils plus doux et naturels, tandis que la charge sans fil 15W garde votre smartphone toujours prêt à l’usage.\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte LED avec chargeur sans fil\n\nÉclairage\nRGB, 256 modes\n\nCouleurs\n16 millions\n\nLuminosité\nRéglable 1–100%\n\nFonction réveil\nSimulation lever de soleil\n\nAudio\nSon 360°\n\nConnectivité\nBluetooth 5.2\n\nSources\nBluetooth, TF, USB, AUX\n\nAppels\nMains libres\n\nCharge sans fil\n15W\n\nBatterie\n1200–1800 mAh\n\nAutonomie\n2–3 heures\n\nPort de charge\nUSB-C\n\nAffichage\nÉcran LED\n\nFonction\nHorloge + réveil\n\nRéférence Doshift\nAA1BB2099",
+     "short_description": "Transformez votre espace avec cette enceinte LED multifonction alliant son immersif, éclairage d’ambiance et recharge sans fil."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/2-11.png"
+   ]
+  },
+  {
+   "sku": "doshift-72871",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Plateau de Service Rectangulaire Décoratif avec Poignées – Style Élégant",
-     "description": "Apportez une touche chic et raffinée à votre intérieur avec ce plateau de service rectangulaire décoratif. Son design élégant avec finition brillante et bordure travaillée en motif géométrique en fait un accessoire idéal pour servir le thé, le café, les boissons, ou pour exposer vos objets déco avec style.\n\nCaractéristique\nDétail\n\nType de produit\nPlateau de service décoratif\n\nForme\nRectangulaire\n\nDesign\nBordure à motif géométrique\n\nPoignées\nOui, intégrées\n\nUtilisation\nService, décoration, rangement léger\n\nStyle\nÉlégant et moderne\n\nEmplacement idéal\nCuisine, salon, table, coiffeuse, comptoir\n\nEntretien\nNettoyage facile avec chiffon doux\n\nRéférence Doshift\nAA4BB399",
-     "short_description": "Apportez une touche chic et raffinée à votre intérieur avec ce plateau de service rectangulaire décoratif."
+     "name": "Mini Ventilateur Portable avec Support – Design Compact",
+     "description": "Profitez d’une brise fraîche partout avec ce mini ventilateur portable au design pratique et moderne. Léger et facile à transporter, il peut être utilisé à la main ou posé sur son support pour un confort optimal au bureau, à la maison, pendant les études ou en déplacement.\n\nSon format compact permet de le garder près de vous sans encombrer l’espace, tandis que sa grille de protection assure une utilisation plus sûre au quotidien. Idéal pour les journées chaudes, les espaces de travail, la chambre ou les sorties.\n\nCaractéristique\nDétail\n\nType de produit\nMini ventilateur portable\n\nUtilisation\nÀ la main ou posé sur support\n\nDesign\nCompact, léger et pratique\n\nCouleur\nBeige / crème\n\nGrille de protection\nOui\n\nSupport inclus\nOui\n\nIdéal pour\nBureau, maison, chambre, étude, voyage\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Profitez d’une brise fraîche partout avec ce mini ventilateur portable au design pratique et moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-04-02T195839.270.png"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-07-06T153111.119.png"
    ]
   },
   {
-   "sku": "doshift-62736",
-   "price": 549,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mini four électrique – LAMACOM – 650W – 9L – Arrêt automatique – Cuisson rapide – Gril",
-     "description": "Le mini four électrique LAMACOM de 9L et 650W est parfait pour cuisiner à la maison. Avec ses 2 barres chauffantes à quartz, il atteint rapidement la température idéale. Équipé d’une minuterie de 30 minutes et d’une fenêtre en verre, il permet de surveiller vos plats en toute sécurité. Un indispensable pour votre cuisine!",
-     "short_description": "Le mini four électrique LAMACOM de 9L et 650W est parfait pour cuisiner à la maison. Avec ses 2 barres chauffantes à quartz, il atteint rapidement la température idéale."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AAAAO55573_img1.webp"
-   ]
-  },
-  {
-   "sku": "doshift-62731",
+   "sku": "doshift-72880",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    7
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Support Téléphone Voiture NH-28 – Fixation Rapide et Sécurisée",
-     "description": "Gardez votre smartphone stable et accessible pendant tous vos trajets grâce à ce support voiture pratique et robuste. Son système de ventouse puissant assure une excellente adhérence, tandis que ses bras ajustables maintiennent fermement votre appareil, même sur routes irrégulières. Installation simple, maintien sécurisé et protection anti-rayures pour une utilisation confortable au quotidien.\n\nCaractéristique\nDétail\n\nModèle\nNH-28\n\nType\nSupport téléphone pour voiture\n\nFixation\nVentouse puissante\n\nInstallation\nPare-brise / Tableau de bord\n\nCompatibilité\nSmartphones universels\n\nSystème de maintien\nBras latéraux ajustables\n\nProtection\nRevêtement intérieur anti-rayures\n\nUtilisation\nGPS, appels mains libres, musique\n\nRéférence – DOSHIFT\nAA3BB799",
-     "short_description": "Gardez votre smartphone stable et accessible pendant tous vos trajets grâce à ce support voiture pratique et robuste."
+     "name": "Mini Ventilateur Portable Vert Menthe avec Socle",
+     "description": "Profitez d’un peu de fraîcheur où que vous soyez avec ce mini ventilateur portable au design compact et moderne. Son format pratique permet de le tenir facilement en main pour une utilisation personnelle au quotidien.\n\nGrâce à son socle rond, il peut également être posé sur un bureau, une table de chevet ou un plan de travail. Sa finition vert menthe et son manche transparent lui donnent un look original et discret, idéal à la maison, au bureau ou pendant vos déplacements.\n\nCaractéristique\nDétail\n\nType\nMini ventilateur portable\n\nUtilisation\nÀ la main ou posé sur un support\n\nCouleur\nVert menthe\n\nForme\nVentilateur rond avec manche\n\nSocle\nOui, base ronde\n\nManche\nTransparent\n\nGrille de protection\nOui\n\nFormat\nCompact\n\nUtilisations\nBureau, maison, voyage, déplacements\n\nRéférence Doshift\nAA3BB399",
+     "short_description": "Profitez d’un peu de fraîcheur où que vous soyez avec ce mini ventilateur portable au design compact et moderne. Son format pratique permet de le tenir facilement en main pour une utilisation personnelle au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-03-03T160639.688.png"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-09-12T124509.153.png"
+   ]
+  },
+  {
+   "sku": "doshift-72829",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Ventilateur Mignon en Action",
+     "description": "Profitez d’une brise fraîche à tout moment avec ce mini ventilateur portable au design adorable. Parfait pour votre bureau ou vos moments de détente, il allie praticité et style pour vous garder au frais avec douceur.\n\nCaractéristique\nDétail\n\nType de produit\nMini ventilateur portable rechargeable\n\nMatériau\nPlastique\n\nCouleur\nBeige / Crème\n\nDimensions\n18.5 × 8 × 10 cm\n\nAlimentation\nRechargeable USB\n\nUtilisation\nRefroidissement personnel, bureau, maison\n\nFonction\nVentilation portable\n\nCommande\nBouton marche/arrêt\n\nDesign\nCompact, mignon avec motif ours\n\nEntretien\nFacile à nettoyer\n\nTransport\nLéger et facile à transporter\n\nRéférence-doshift\nAA3BB399",
+     "short_description": "Profitez d’une brise fraîche à tout moment avec ce mini ventilateur portable au design adorable. Parfait pour votre bureau ou vos moments de détente, il allie praticité et style pour vous garder au frais avec douceur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/1-7.png"
+   ]
+  },
+  {
+   "sku": "doshift-72812",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Ventilateur Portable Rechargeable – Cool Comfort",
+     "description": "Profitez d’un air frais partout avec ce mini ventilateur portable rechargeable, compact, léger et pratique pour la maison, le bureau, les voyages ou les journées chaudes. Son design vertical avec socle stable permet de le poser facilement sur une table, un bureau ou une étagère.\n\nÉquipé de 3 vitesses réglables, il s’adapte à vos besoins : brise légère, ventilation moyenne ou airflow plus puissant. Sa batterie rechargeable intégrée se recharge facilement via port Type-C, pour une utilisation simple au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nMini ventilateur portable rechargeable\n\nModèle\nYS-2501\n\nMarque affichée\nCool Comfort\n\nMode de vitesse\n3 vitesses\n\nAlimentation\nRechargeable\n\nPort de charge\nType-C\n\nTension d’entrée\n5V\n\nPuissance\n1-2W\n\nBatterie\n3.7V\n\nTemps de charge\n1 à 2 heures\n\nDimensions\n88 × 53 × 173 mm\n\nPoids net\n108 g\n\nUtilisation\nBureau, maison, voyage, table\n\nRéférence Doshift\nAA3BB899",
+     "short_description": "Profitez d’un air frais partout avec ce mini ventilateur portable rechargeable, compact, léger et pratique pour la maison, le bureau, les voyages ou les journées chaudes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-06-18T162214.811.png"
    ]
   }
  ]

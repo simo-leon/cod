@@ -1,6 +1,64 @@
 {
  "products": [
   {
+   "sku": "doshift-118896",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé Serre-Tubes Professionnelle Tatian 18″ (450 mm)",
+     "description": "Conçue pour les travaux exigeants de plomberie, de tuyauterie industrielle et de mécanique générale, la clé serre-tubes Tatian 18″ (450 mm) offre un couple de serrage et une robustesse remarquables.\n\nCaractéristique\nSpécification Détaillée\n\nType\nClé serre-tubes modèle américain (Heavy Duty)\n\nCapacité\nLongueur nominale 18″ (450 mm) pour tubes jusqu’à 2″ 1/2 (65 mm)\n\nMatériaux\nCorps en fonte ductile nervurée et mâchoires en acier forgé Cr-V\n\nMâchoires\nDenture inversée auto-serrante traitée thermiquement par induction\n\nErgonomie\nManche profilé avec gaine noire antidérapante et trou d’accroche\n\nSKU\n9900010929692",
+     "short_description": "Clé serre-tubes 18″ (450 mm) en fonte ductile orange avec mâchoires en acier forgé et manche gainé antidérapant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-14-01-3.webp"
+   ]
+  },
+  {
+   "sku": "doshift-118733",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pédalier Sport Sparco Racing Attitude Automatique (2 Pièces)",
+     "description": "Rehaussez le style intérieur de votre véhicule tout en optimisant votre confort de conduite avec le kit couvre-pédales sport Sparco Racing Attitude HL-8806 pour boîte automatique. Conçu à partir d’un alliage d’aluminium robuste associé à des inserts antidérapants noirs haute densité, ce pédalier offre une adhérence maximale et un contrôle précis sous la semelle, même par temps de pluie.\n\nCaractéristique\nSpécification Détaillée\n\nType\nCouvre-pédales sport antidérapants universels\n\nCompatibilité\nVéhicules à boîte automatique (2 pédales : frein et accélérateur)\n\nMatériaux\nAlliage d’aluminium brossé et inserts polymères antidérapants\n\nFinition\nNoir mat texturé, liseré rouge vif et accents argentés\n\nFixation\nKit universel avec pattes de serrage et visserie arrière\n\nSKU\n9900010929685",
+     "short_description": "Kit pédalier sport 2 pièces pour boîte automatique en aluminium et caoutchouc antidérapant finition Sparco Racing."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-13-01-2.webp"
+   ]
+  },
+  {
+   "sku": "doshift-118685",
+   "price": 229,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lanterne Décorative Lumineuse Blanche avec Figurines d’Oursons et Paillettes Scintillantes",
+     "description": "Structure rectangulaire blanche avec toit pyramidal et anneau, intégrant une cuve transparente lumineuse remplie de paillettes et d’oursons.\n\nCatégorie\nDécoration intérieure\n\nFonctionnalités\nÉclairage intérieur chaud intégré · Scène intérieure avec deux oursons · Effet paillettes scintillantes en suspension · Anneau de préhension ou de suspension au sommet · Base moulée avec motifs en relief\n\nConception\nLanterne de style classique blanc avec parois transparentes et socle gravé de motifs ornementaux.\n\nRéférence\n9900010975446",
+     "short_description": "Structure rectangulaire blanche avec toit pyramidal et anneau, intégrant une cuve transparente lumineuse remplie de paillettes et d’oursons."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/27fb8ef9-7e97-40a8-a594-b739554b36e8.jpg"
+   ]
+  },
+  {
    "sku": "doshift-118663",
    "price": 279,
    "stock": 10,
@@ -133,64 +191,6 @@
    },
    "image_urls": [
     "https://doshift.ma/wp-content/uploads/2026/10/41dd4ee6-d2bc-4614-b6ca-b0e7f490ed61.png"
-   ]
-  },
-  {
-   "sku": "doshift-117534",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coffret de 6 Forets Étagés et Forets-Scies",
-     "description": "Réunissez plusieurs diamètres de perçage dans un même coffret. Cet ensemble comprend trois forets étagés gradués, permettant d’agrandir progressivement une ouverture jusqu’au palier souhaité, et trois forets-scies à corps dentelé pour compléter votre équipement. Les logements individuels gardent chaque pièce à sa place, tandis que le couvercle translucide facilite le repérage des outils avant utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de forets pour perceuse, livré dans un coffret de rangement\n\nComposition\n6 pièces : 3 forets coniques étagés et 3 forets-scies à corps dentelé\n\nDiamètres des forets étagés\nGraduations visibles correspondant aux plages 4–12, 4–20 et 4–32 mm\n\nFinition\nParties coupantes dorées et queues métalliques ; nuance d’acier et revêtement non confirmés\n\nRangement\nCoffret rouge à couvercle translucide, logements individuels et fermeture latérale noire\n\nSKU\n9900010929425",
-     "short_description": "Six forets réunis dans un coffret pour organiser vos outils et disposer de plusieurs diamètres de perçage."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/1eb9ead7-6cc9-480b-8c3c-8142b17fa2ff.png"
-   ]
-  },
-  {
-   "sku": "doshift-117505",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tournevis VIKACO — 3 Pièces",
-     "description": "Gardez les outils utiles à portée de main pour vos petits travaux de montage et de vissage. Ce VIKACO comprend deux grands tournevis à empreintes plates et cruciformes, ainsi qu’un petit tournevis complémentaire. Les manches profilés des grands modèles offrent une prise en main sample\n\nCaractéristique\nDétail\n\nType de produit\nJeu de tournevis manuels VIKACO, 3 pièces\n\nComposition\nDeux grands tournevis turquoise et gris, accompagnés d’un petit tournevis rouge et transparent\n\nEmbouts\nUn embout cruciforme et un embout plat visibles sur les grands tournevis\n\nMatériau annoncé\nMention « CR-V » sur l’emballage : chrome-vanadium ; manches de composition non précisée\n\nPrise en main\nGrands manches profilés avec reliefs longitudinaux et ouvertures de suspension\n\nSKU\n9900010929418",
-     "short_description": "Trois tournevis pour vos petits travaux, avec deux grands manches profilés et un tournevis de petit format."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/2c644cb4-31fd-4845-b8e7-83d45d4289c0.png"
-   ]
-  },
-  {
-   "sku": "doshift-117492",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de 3 Plats Ronds en Inox à Bords Hauts 28 / 32 / 36 cm — Trois Chameaux",
-     "description": "Incontournable des cuisines familiales et des grandes tablées de fête, ce set de 3 plats ronds en acier inoxydable épais est conçu pour répondre à toutes les exigences de préparation, de cuisson et de présentation. Grâce à leurs bords hauts protecteurs de 4,5 cm, ces plats retiennent parfaitement les jus de cuisson et sauces généreuses sans déborder\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nEnsemble de 3 plats ronds de service et de cuisson en acier inoxydable (Stainless Steel Round Trays)\n\nDiamètres inclus\nTrio étagé grand format : 28 cm (moyen), 32 cm (grand) et 36 cm (format banquet / familial)\n\nProfondeur & Rebord\nBords hauts droits (~4,5 cm) avec lèvre supérieure roulée lisse anti-coupure et anti-débordement\n\nMatériau & Traitement\nAcier inoxydable alimentaire massif haute durabilité (High Quality Stainless Steel) poli miroir\n\nUsage & Polyvalence\nCuisson au four traditionnel, service de table (salades festives, pastillas, viandes) et préparation\n\nSKU\n9900010929401",
-     "short_description": "Set de 3 plats ronds inox bords hauts 28/32/36 cm Trois Chameaux."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/0d8c3ce7-231e-45e8-be69-54a657e2007f.jpg"
    ]
   }
  ]

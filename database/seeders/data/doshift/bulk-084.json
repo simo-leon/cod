@@ -1,8 +1,142 @@
 {
  "products": [
   {
-   "sku": "doshift-58709",
-   "price": 529,
+   "sku": "doshift-60385",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "L’Horizon Solaire : Lunettes de Protection Solaire",
+     "description": "Les lunettes L’Horizon Solaire offrent une alliance parfaite entre haute protection et design sophistiqué. Conçues pour s’adapter à toutes les situations, elles vous accompagnent aussi bien lors de vos trajets en voiture que lors de vos moments de détente à la plage ou en terrasse urbaine. Grâce à leurs verres haute définition, elles assurent un confort visuel optimal tout en affirmant une allure élégante et moderne.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de protection solaire\n\nConfiguration\nVerres teintés haute définition\n\nModèle\nRiviera Classic – Édition 2026\n\nProtection UV\nUV400 (Protection totale UVA/UVB)\n\nMatériau Monture\nAcétate de qualité supérieure poli\n\nStyles disponibles\nCarré moderne, Rond vintage, Écaille, Cristal\n\nUtilisation\nConduite, Plage, Mode, Multimédia\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Les lunettes L’Horizon Solaire offrent une alliance parfaite entre haute protection et design sophistiqué."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/5fc60e5b-7331-4b3b-ae7a-654191137067.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-60380",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "L’Horizon Solaire : Lunettes de Protection Solaire",
+     "description": "Les lunettes L’Horizon Solaire sont spécialement conçues pour offrir une barrière impénétrable contre les rayons UV tout en sublimant votre allure. Que vous profitiez d’une journée ensoleillée à la plage, d’une virée en voiture décapotable ou d’un moment de détente en terrasse urbaine, elles assurent un confort visuel optimal. Alliant légèreté et robustesse, ce modèle est l’accessoire indispensable pour protéger vos yeux avec une touche de luxe au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de protection solaire haute performance\n\nIndice de protection\nUV400 (Filtre 100% UVA et UVB)\n\nConfiguration audio\nN/A (Modèle optique pur)\n\nModèle\nRiviera Prestige – Gamme 2026\n\nMatériau Monture\nAcétate de cellulose poli à la main\n\nStyles de verres\nPolarisés, Teintés (Ambre, Gris, Vert)\n\nFinitions disponibles\nÉcaille, Cristal, Noir, Vert translucide\n\nAccessoires inclus\nÉtui rigide et microfibre de nettoyage\n\nUtilisation\nPlage, Conduite, Mode urbaine, Événements\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Les lunettes L’Horizon Solaire sont spécialement conçues pour offrir une barrière impénétrable contre les rayons UV tout en sublimant votre allure."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/8834cab3-8741-4b63-9b0c-7767666c6034.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-60369",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "L’Horizon Solaire : Lunettes de Protection Solaire",
+     "description": "La collection L’Horizon Solaire est l’incarnation du luxe polyvalent. Que vous soyez au volant d’un cabriolet classique au coucher du soleil, en train de partager un cocktail entre amis sur une plage de sable fin, ou en rendez-vous d’affaires dans un cadre urbain prestigieux, nos lunettes s’adaptent à chaque instant de votre vie. Conçues avec des matériaux premium comme l’acétate poli et des verres haute définition, elles offrent une protection totale tout en affirmant un style intemporel et sophistiqué.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de protection solaire premium\n\nConfiguration optique\nVerres polarisés haute définition (HD)\n\nModèle\nRiviera Édition – Gamme 2026\n\nProtection Solaire\nIndice UV400 (Protection 100% UVA/UVB)\n\nMatériau Monture\nAcétate de cellulose de haute qualité\n\nStyles disponibles\nCarré moderne, Rond vintage, Écaille, Cristal\n\nUtilisation\nTV/Multimédia, Conduite, Plage, Business\n\nAccessoires\nPrésentoir de luxe et boîtier de protection inclus\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "La collection L’Horizon Solaire est l’incarnation du luxe polyvalent. Que vous soyez au volant d’un cabriolet classique au coucher du soleil, en train de partager un cocktail entre amis sur une plage de sable fin, ou en…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/27ed8aef-4f38-4e6e-b1ac-9ca0296488ac.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-60362",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "L’Horizon Solaire : Lunettes de Protection Solaire Premium",
+     "description": "La collection L’Horizon Solaire redéfinit l’accessoire de protection. Que vous profitiez d’un moment de détente sur une plage paradisiaque, d’une conduite estivale en cabriolet ou d’un rendez-vous professionnel en plein cœur de la ville, nos lunettes s’adaptent à chaque facette de votre vie. Conçues pour ceux qui exigent autant de style que de performance, elles offrent une clarté visuelle inégalée grâce à leurs verres haute définition. Plus qu’une simple protection, c’est une pièce de haute horlogerie pour le regard, présentée dans des écrins de luxe.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de protection solaire haute performance\n\nIndice de protection\nUV400 (Filtre 100% UVA et UVB)\n\nModèle\nRiviera Prestige – Édition 2026\n\nMatériau Monture\nAcétate de cellulose poli à la main\n\nVariations de Style\nÉcaille classique, Noir onyx, Vert olive, Cristal pur et Bleu azur\n\nVerres\nPolarisés avec traitement anti-éblouissement\n\nPolyvalence\nAdapté pour la conduite, le yachting, les événements formels et le quotidien\n\nFinition\nCharnières renforcées et détails de précision\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "La collection L’Horizon Solaire redéfinit l’accessoire de protection. Que vous profitiez d’un moment de détente sur une plage paradisiaque, d’une conduite estivale en cabriolet ou d’un rendez-vous professionnel en plein…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/37097bba-ddfd-4db8-a10c-4b76e26fd06e.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-60356",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "L’Horizon Solaire : Lunettes de Protection Solaire",
+     "description": "Les lunettes L’Horizon Solaire sont l’accessoire indispensable pour une protection optimale et un style affirmé. Conçues pour filtrer efficacement les rayons nocifs, elles assurent un confort visuel exceptionnel lors de vos trajets en voiture, vos journées à la plage ou vos sorties en ville. Alliant robustesse et légèreté, chaque monture est étudiée pour offrir une tenue parfaite et une élégance intemporelle en toutes circonstances.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de protection solaire haute performance\n\nIndice de protection\nUV400 (Filtre 100% UVA et UVB)\n\nConfiguration optique\nVerres Polarisés anti-éblouissement\n\nModèle\nRiviera Classic – Édition 2026\n\nMatériau Monture\nAcétate de cellulose haute densité\n\nFinition\nPolissage à la main (Écaille, Noir, Olive, Cristal)\n\nConnexion Structurelle\nCharnières en acier inoxydable renforcé\n\nAccessoires\nÉtui de protection et microfibre inclus\n\nUtilisation\nConduite, plage, activités de plein air, mode\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Les lunettes L’Horizon Solaire sont l’accessoire indispensable pour une protection optimale et un style affirmé."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/def5937e-b1d4-4d3c-ae1c-8abf45e57e07.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-60349",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "L’Horizon Solaire : Lunettes de Protection Solaire",
+     "description": "blimez votre regard avec une collection qui incarne l’élégance décontractée et la sophistication moderne. Que ce soit pour une escapade en voiture décapotable, une journée de lecture à la plage ou un moment de partage entre amis, nos lunettes sont l’accessoire indispensable pour ceux qui recherchent un équilibre parfait entre style et protection. Chaque monture, travaillée avec des finitions translucides et des teintes intemporelles, est conçue pour refléter la lumière et votre personnalité unique.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLunettes de protection solaire\n\nProtection UV\nUV400 (Protection totale UVA/UVB)\n\nType de verres\nPolarisés haute définition\n\nMatériau monture\nAcétate de qualité supérieure\n\nStyle\nUnisexe / Chic Riviera\n\nColoris disponibles\nÉcaille, Noir, Vert Olive, Cristal\n\nCharnières\nAcier inoxydable renforcé\n\nAccessoires inclus\nÉtui rigide et chiffon microfibre\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "blimez votre regard avec une collection qui incarne l’élégance décontractée et la sophistication moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/2bfad733-b34f-4a60-97cd-c438acc8f4f5.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-60244",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dukhon Cristal – Encens parfumé d’ambiance en pot",
+     "description": "Apportez une touche raffinée à votre intérieur avec Dukhon Cristal, un encens d’ambiance au parfum chaleureux et élégant. Présenté dans un pot au design sobre et premium, il est idéal pour créer une atmosphère accueillante dans le salon, la chambre, les espaces de réception ou lors de moments de détente.\n\nSon parfum enveloppant diffuse une senteur orientale intense et agréable, parfaite pour parfumer durablement l’espace. Ce produit convient aussi bien à un usage quotidien qu’aux occasions spéciales, en apportant une sensation de confort, de propreté et de prestige.\n\nCaractéristique\nDétail\n\nNom du produit\nDukhon Cristal\n\nType\nEncens / Dukhon parfumé\n\nUtilisation\nParfum d’ambiance intérieure\n\nParfum\nOriental\n\nFormat\nPot\n\nZone d’utilisation\nSalon, chambre, hall, réception\n\nConservation\nÀ garder dans un endroit sec\n\nCouleur\nNoir et doré\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Apportez une touche raffinée à votre intérieur avec Dukhon Cristal, un encens d’ambiance au parfum chaleureux et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T061322-256.png"
+   ]
+  },
+  {
+   "sku": "doshift-60238",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -10,195 +144,51 @@
    ],
    "locales": {
     "fr": {
-     "name": "Blender Multifonction BL-A1-300 – Mixage Rapide & Boissons Maison",
-     "description": "Préparez facilement vos jus frais, smoothies et mélanges de fruits avec le blender multifonction BL-A1-300, pensé pour un usage quotidien simple et efficace. Grâce à son bol gradué avec couvercle, vous dosez précisément vos ingrédients et mixez en toute sécurité.Son bouton rotatif central permet un contrôle pratique du mixage selon vos besoins, pour des préparations rapides et homogènes. Compact et facile à utiliser, il est idéal pour la cuisine de tous les jours.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBlender multifonction\n\nModèle\nBL-A1-300\n\nFonctions\nMixage et préparation de boissons\n\nBol\nBol gradué avec couvercle\n\nCommandes\nBouton rotatif de contrôle\n\nLames\nLames de mixage intégrées\n\nUtilisation\nJus, smoothies, fruits\n\nEntretien\nFacile à nettoyer\n\nRéférence-doshift\nAA35BB099",
-     "short_description": "Préparez facilement vos jus frais, smoothies et mélanges de fruits avec le blender multifonction BL-A1-300, pensé pour un usage quotidien simple et efficace."
+     "name": "Coffret Porte-Coran Décoratif – Élégance et Respect du Livre Saint",
+     "description": "Apportez une touche de noblesse et de sérénité à votre espace spirituel avec ce coffret porte-Coran décoratif au design raffiné. Conçu pour protéger et mettre en valeur le Saint Coran, il se distingue par sa façade ajourée ornée de motifs arabes élégants et sa finition brillante qui capte subtilement la lumière. Idéal pour un salon, une chambre ou un coin prière, ce coffret allie harmonieusement fonctionnalité, esthétisme et respect, tout en offrant une présentation soignée au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nCoffret porte Coran décoratif\n\nUsage\nRangement, protection et mise en valeur du Coran\n\nDesign\nFaçade ajourée avec motifs arabes décoratifs\n\nFinition\nAspect doré texturé, style élégant\n\nFormat\nVertical, à poser\n\nEmplacement\nSalon, chambre, coin prière\n\nOccasions\nDécoration spirituelle, cadeau religieux\n\nreference-doshift\nAA8BB099",
+     "short_description": "Apportez une touche de noblesse et de sérénité à votre espace spirituel avec ce coffret porte-Coran décoratif au design raffiné."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-96.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T053730-184.png"
    ]
   },
   {
-   "sku": "doshift-58697",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Télécommande Satellite Vanilla Originale – Navigation Simple et Confortable",
-     "description": "Contrôlez votre récepteur satellite en toute simplicité avec cette télécommande Vanilla dédiée, conçue pour offrir une prise en main ergonomique et une navigation fluide au quotidien. Grâce à ses touches bien espacées et à sa dispositioan intuitive, elle permet un accès rapide aux fonctions essentielles : changement de chaînes, menu, volume et paramètres.Présentée comme 100 % originale, cette télécommande est la solution idéale pour remplacer une télécommande perdue ou compléter votre installation TV satellite avec un accessoire fiable et durable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTélécommande pour récepteur satellite\n\nCompatibilité\nRécepteur Vanilla\n\nModèle\nTeleco One\n\nFonction\nContrôle et navigation du récepteur\n\nDisposition des touches\nClavier complet avec accès rapide aux fonctions\n\nErgonomie\nPrise en main confortable\n\nAuthenticité\nProduit 100 % original\n\nUtilisation\nMaison, installation TV satellite\n\nRéférence-doshift\nAA1BB299",
-     "short_description": "Contrôlez votre récepteur satellite en toute simplicité avec cette télécommande Vanilla dédiée, conçue pour offrir une prise en main ergonomique et une navigation fluide au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-90.png"
-   ]
-  },
-  {
-   "sku": "doshift-58690",
+   "sku": "doshift-60232",
    "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "LNB Universel QUAD Ku-Band – 4 Sorties Full HD / 4K",
-     "description": "Améliorez nettement la qualité de réception de votre installation satellite grâce à ce LNB universel QUAD Ku-Band, spécialement conçu pour alimenter jusqu’à 4 récepteurs simultanément à partir d’une seule parabole.Compatible avec les diffusions Full HD 1080p, 3D et 4K Ultra HD, il garantit un signal stable, clair et performant, idéal pour les foyers multi-TV ou les installations professionnelles. Sa conception robuste assure une excellente résistance aux conditions extérieures (eau, gel et UV), pour une fiabilité durable dans le temps.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLNB universel QUAD Ku-Band\n\nModèle\nAZA-QD-404\n\nNombre de sorties\n4 sorties (QUAD)\n\nCompatibilité vidéo\nFull HD 1080p, 3D, 4K Ultra HD\n\nBande de fréquence\nKu-Band\n\nRésistance à l’eau\nOui\n\nRésistance au gel\nOui\n\nRésistance aux UV\nOui\n\nUtilisation\nRéception satellite multi-récepteurs\n\nRéférence-doshift\nAA4BB599",
-     "short_description": "Améliorez nettement la qualité de réception de votre installation satellite grâce à ce LNB universel QUAD Ku-Band, spécialement conçu pour alimenter jusqu’à 4 récepteurs simultanément à partir d’une seule…"
+     "name": "Coffret Porte Coran Décoratif – Élégance et Respect Spirituel",
+     "description": "Offrez au Saint Coran un écrin à la hauteur de sa valeur grâce à ce coffret porte Coran décoratif soigneusement conçu. Alliant esthétisme et spiritualité, il permet de présenter et de protéger le Livre Saint avec respect tout en apportant une touche raffinée à votre intérieur. Son design travaillé, riche en motifs en relief et finitions soignées, en fait un véritable objet décoratif qui trouve naturellement sa place dans un salon, une chambre ou un coin prière. Idéal pour un usage personnel ou comme cadeau religieux significatif.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nCoffret porte Coran décoratif\n\nUtilisation\nPrésentation et protection du Coran\n\nDesign\nMotifs décoratifs en relief avec calligraphie\n\nFinition\nAspect texturé avec détails travaillés\n\nStyle\nÉlégant, traditionnel et décoratif\n\nEmplacement\nTable, étagère, coin prière, salon ou chambre\n\nEntretien\nNettoyage avec un chiffon doux et sec\n\nRéférence-doshift\nAA6BB099",
+     "short_description": "Offrez au Saint Coran un écrin à la hauteur de sa valeur grâce à ce coffret porte Coran décoratif soigneusement conçu."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-02-06T202603-866.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T051007-666.png"
    ]
   },
   {
-   "sku": "doshift-58621",
-   "price": 229,
+   "sku": "doshift-60225",
+   "price": 769,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Bobine de Câble Coaxial XP1503 WH – 100 m | TV, Satellite & Vidéo",
-     "description": "Assurez une transmission de signal fiable, stable et homogène avec la bobine de câble coaxial XP1503 WH, spécialement conçue pour les installations TV, satellite, antenne et vidéo. Grâce à son blindage performant et à sa conception robuste, ce câble garantit une excellente qualité de signal avec une perte minimale, même sur de longues distances.Sa bobine de 100 mètres facilite le déroulement et permet une installation propre, simple et efficace, parfaitement adaptée aussi bien aux usages domestiques qu’aux installations professionnelles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nXP1503 WH\n\nLongueur\n100 mètres\n\nCouleur\nBlanc\n\nUtilisation\nTV, satellite, antenne, vidéo\n\nQualité du signal\nTransmission stable à faible perte\n\nBlindage\nProtection efficace contre les interférences\n\nFormat\nBobine\n\nInstallation\nFacile et pratique\n\nAvantage principal\nSignal fiable + longue distance\n\nRéférence-doshift\nAA14BB099",
-     "short_description": "Assurez une transmission de signal fiable, stable et homogène avec la bobine de câble coaxial XP1503 WH, spécialement conçue pour les installations TV, satellite, antenne et vidéo."
+     "name": "Coffret Porte-Coran Décoratif – Élégance et Spiritualité Réunies",
+     "description": "Sublimez votre intérieur avec ce coffret porte-Coran raffiné, conçu comme une véritable pièce décorative de prestige. Son design richement travaillé, orné de motifs élégants et de détails scintillants, met en valeur le Saint Coran tout en respectant sa dimension spirituelle.Idéal pour le salon, la salle de prière ou comme cadeau religieux distingué, ce coffret allie harmonieusement esthétisme, respect et noblesse, apportant une atmosphère apaisante et sacrée à votre espace.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCoffret porte-Coran décoratif\n\nUtilisation\nPrésentation et mise en valeur du Coran\n\nStyle\nOrnemental · Traditionnel · Élégant\n\nFinition\nMotifs travaillés avec éléments décoratifs brillants\n\nPose\nÀ poser sur table, meuble ou étagère\n\nOccasions\nDécoration intérieure · Cadeau religieux · Événements spéciaux\n\nAmbiance\nSpirituelle, raffinée et harmonieuse\n\nRéférence-doshift\nAA55BB099",
+     "short_description": "Sublimez votre intérieur avec ce coffret porte-Coran raffiné, conçu comme une véritable pièce décorative de prestige."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/3152e33f-f344-4229-93e7-b20ac239c52e.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-58609",
-   "price": 239,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bobine de Câble Coaxial MX-1501 WH – 100 m | TV, Satellite & Vidéo",
-     "description": "Optimisez la qualité et la fiabilité de vos installations TV, satellite et vidéo avec la bobine de câble coaxial MX-1501 WH. Conçu pour assurer une transmission de signal stable et homogène, ce câble réduit efficacement les pertes de signal et les interférences, garantissant ainsi une excellente qualité d’image et de son.Sa conception robuste et sa bobine de 100 mètres facilitent le déroulement et permettent une installation propre, simple et rapide, parfaitement adaptée aussi bien aux usages domestiques qu’aux installations professionnelles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nMX-1501 WH\n\nLongueur\n100 mètres\n\nCouleur\nBlanc\n\nUtilisation\nTV, satellite, antenne, vidéo\n\nQualité du signal\nTransmission stable avec faible atténuation\n\nBlindage\nRéduction efficace des interférences\n\nFormat\nBobine\n\nInstallation\nFacile et rapide\n\nAvantage principal\nSignal homogène + installation propre\n\nRéférence-doshift\nAA15BB099",
-     "short_description": "Optimisez la qualité et la fiabilité de vos installations TV, satellite et vidéo avec la bobine de câble coaxial MX-1501 WH."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/476e2d7e-e97e-4108-8019-9a2cc27cd62c.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-58603",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bobine de Câble Coaxial MX-1501 BK – 100 m | TV, Satellite & Vidéo",
-     "description": "Renforcez la fiabilité et la stabilité de vos installations TV, satellite et vidéo avec la bobine de câble coaxial MX-1501 BK. Conçu pour offrir une transmission de signal régulière et performante, ce câble limite efficacement les pertes de signal et les interférences, garantissant une qualité d’image et de son optimale.Sa bobine de 100 mètres facilite le déroulement du câble et permet une installation propre, rapide et professionnelle, parfaitement adaptée aussi bien aux usages domestiques qu’aux installations professionnelles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nMX-1501 BK\n\nLongueur\n100 mètres\n\nCouleur\nNoir\n\nUtilisation\nTV, satellite, antenne, vidéo\n\nQualité du signal\nTransmission stable avec faible atténuation\n\nBlindage\nProtection efficace contre les interférences\n\nFormat\nBobine\n\nInstallation\nSimple et rapide\n\nAvantage principal\nSignal fiable + réduction des pertes\n\nRéférence-doshift\nAA15BB099",
-     "short_description": "Renforcez la fiabilité et la stabilité de vos installations TV, satellite et vidéo avec la bobine de câble coaxial MX-1501 BK."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/5a2d9e4d-a99b-415a-a872-bc0934047b3e.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-58597",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bobine de Câble Coaxial AZ-1506 WH – 100 m | TV, Satellite & Vidéo",
-     "description": "Améliorez la performance de vos installations TV, satellite et vidéo avec la bobine de câble coaxial AZ-1506 WH, spécialement conçue pour offrir une transmission de signal stable, fluide et continue. Son blindage renforcé permet de réduire efficacement les interférences et les pertes, assurant ainsi une qualité d’image et de son optimale.Grâce à sa structure résistante et sa bobine de 100 mètres, ce câble garantit une installation propre, rapide et professionnelle, idéale aussi bien pour un usage domestique que pour les installateurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nAZ-1506 WH\n\nLongueur\n100 mètres\n\nCouleur\nBlanc\n\nUtilisation\nTV, satellite, antenne, vidéo\n\nQualité du signal\nTransmission fluide avec faible atténuation\n\nBlindage\nProtection renforcée contre les interférences\n\nFormat\nBobine\n\nInstallation\nRapide et professionnelle\n\nAvantage principal\nStabilité du signal + réduction des pertes\n\nRéférence-doshift\nAA17BB099",
-     "short_description": "Améliorez la performance de vos installations TV, satellite et vidéo avec la bobine de câble coaxial AZ-1506 WH, spécialement conçue pour offrir une transmission de signal stable, fluide et continue."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/0b982495-7c41-4f05-af85-e7bf6431284a.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-58615",
-   "price": 249,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bobine de Câble Coaxial XP1503 BK – 100 m | TV, Satellite & Vidéo",
-     "description": "Garantissez une transmission de signal nette, stable et fiable avec la bobine de câble coaxial XP1503 BK, parfaitement adaptée aux installations TV, satellite, antenne et vidéo. Conçu pour réduire les pertes de signal et limiter les interférences, ce câble assure des performances constantes, même sur de longues distances.Sa bobine de 100 mètres facilite le déroulement et permet une installation fluide, rapide et professionnelle, aussi bien pour un usage domestique que pour des installations professionnelles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nXP1503 BK\n\nLongueur\n100 mètres\n\nCouleur\nNoir\n\nUtilisation\nTV, satellite, antenne, vidéo\n\nQualité du signal\nTransmission stable avec faible perte\n\nBlindage\nProtection efficace contre les interférences\n\nFormat\nBobine\n\nInstallation\nFacile et pratique\n\nAvantage principal\nSignal fiable + longue distance\n\nRéférence-doshift\nAA14BB099",
-     "short_description": "Garantissez une transmission de signal nette, stable et fiable avec la bobine de câble coaxial XP1503 BK, parfaitement adaptée aux installations TV, satellite, antenne et vidéo."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/811b3583-a93a-41a5-8315-53a30d82ae74.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-58491",
-   "price": 289,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    4,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bobine de Câble Coaxial AZ-1506 BK – 100 m | TV, Satellite & Vidéo",
-     "description": "Sécurisez vos installations TV, satellite et vidéo avec la bobine de câble coaxial AZ-1506 BK, conçue pour garantir une transmission de signal stable, régulière et fiable. Grâce à son blindage renforcé, ce câble réduit efficacement les interférences et les pertes, assurant une qualité d’image et de son optimale.Sa bobine de 100 mètres facilite le déroulement et permet une installation propre, rapide et professionnelle, parfaitement adaptée aussi bien aux usages domestiques qu’aux installations professionnelles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nAZ-1506 BK\n\nLongueur\n100 mètres\n\nCouleur\nNoir\n\nUtilisation\nTV, satellite, antenne, vidéo\n\nQualité du signal\nTransmission stable avec faible atténuation\n\nBlindage\nProtection renforcée contre les interférences\n\nFormat\nBobine\n\nInstallation\nFacile et professionnelle\n\nAvantage principal\nStabilité du signal + réduction des pertes\n\nRéférence-doshift\nAA17BB099",
-     "short_description": "Sécurisez vos installations TV, satellite et vidéo avec la bobine de câble coaxial AZ-1506 BK, conçue pour garantir une transmission de signal stable, régulière et fiable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-27-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-58479",
-   "price": 319,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    4,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bobine de Câble Coaxial AZTECH AZ-021-100 – 100 m | Full HD & 4K Ultra HD",
-     "description": "Garantissez une transmission d’image et de son haute qualité avec la bobine de câble coaxial AZTECH AZ-021-100, spécialement conçue pour les installations TV modernes Full HD 1080p et 4K Ultra HD. Grâce à sa structure CXT-1 avec conducteur Fe + Cu/Al et à son blindage efficace, ce câble assure une stabilité optimale du signal tout en réduisant les pertes et les interférences.Sa bobine de 100 mètres offre une solution pratique, propre et fiable, parfaitement adaptée aussi bien aux installations domestiques qu’aux projets professionnels.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nAZTECH AZ-021-100\n\nType de câble\nCXT-1 (Fe + Cu/Al)\n\nLongueur\n100 mètres\n\nCouleur\nBlanc\n\nRésolution compatible\nFull HD 1080p / 4K Ultra HD\n\nUtilisation\nTV, antenne, satellite, vidéo\n\nBlindage\nProtection efficace contre les interférences\n\nFormat\nBobine\n\nInstallation\nFacile et professionnelle\n\nAvantage principal\nSignal stable + faible perte\n\nRéférence-doshift\nAA19BB599",
-     "short_description": "Garantissez une transmission d’image et de son haute qualité avec la bobine de câble coaxial AZTECH AZ-021-100, spécialement conçue pour les installations TV modernes Full HD 1080p et 4K Ultra HD."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-18-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T045235-978.png"
    ]
   }
  ]

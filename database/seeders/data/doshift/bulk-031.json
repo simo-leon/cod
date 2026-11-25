@@ -1,66 +1,7 @@
 {
  "products": [
   {
-   "sku": "doshift-91292",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Eau de Parfum Homme ESPRIT D’HOMME – 2 x 50 ml",
-     "description": "Découvrez ESPRIT D’HOMME, une eau de parfum masculine au style élégant et affirmé. Son flacon noir au design premium apporte une touche de caractère, idéale pour un usage quotidien, les sorties ou les occasions spéciales. Un parfum pensé pour l’homme moderne qui aime une fragrance chic, intense et raffinée.\n\nCaractéristique\nDétail\n\nType de produit\nEau de Parfum homme\n\nNom\nESPRIT D’HOMME\n\nContenance\n2 x 50 ml\n\nFormat\nSpray vaporisateur\n\nStyle\nMasculin, élégant, raffiné\n\nFlacon\nNoir avec finition premium\n\nUtilisation\nQuotidienne, soirée, occasions spéciales\n\nIdéal pour\nHomme\n\nRéférence\nAA3BB599",
-     "short_description": "Découvrez ESPRIT D’HOMME, une eau de parfum masculine au style élégant et affirmé."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T184853.429.png"
-   ]
-  },
-  {
-   "sku": "doshift-91284",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coffret Parfum Femme AROMASQ EBDAE – Eau de Parfum 2 Pièces",
-     "description": "Offrez une touche d’élégance au quotidien avec le coffret AROMASQ EBDAE, composé de 2 parfums Eau de Parfum au style féminin, doux et raffiné. Son flacon au design chic avec finition rose gold apporte une sensation premium, idéale pour une utilisation personnelle ou comme cadeau.\n\nSa fragrance élégante convient parfaitement aux sorties, occasions spéciales ou à une utilisation quotidienne pour laisser une impression agréable et sophistiquée.\n\nCaractéristique\nDétail\n\nProduit\nCoffret parfum femme\n\nMarque\nEBDAE\n\nGamme\nAROMASQ\n\nType\nEau de Parfum\n\nContenance\n2 × 50 ml\n\nNombre de pièces\n2 pièces\n\nStyle\nFéminin, élégant, raffiné\n\nUtilisation\nQuotidienne, soirées, occasions spéciales\n\nDesign\nFlacon chic avec finition rose gold\n\nIdéal pour\nCadeau, usage personnel\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Offrez une touche d’élégance au quotidien avec le coffret AROMASQ EBDAE, composé de 2 parfums Eau de Parfum au style féminin, doux et raffiné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T183736.054.png"
-   ]
-  },
-  {
-   "sku": "doshift-91262",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rendez-Vous Parfumé – Eau de Parfum Femme 100 ml",
-     "description": "Découvrez Rendez-Vous Parfumé, une eau de parfum féminine au style élégant et raffiné. Son flacon vert transparent avec bouchon doré apporte une touche luxueuse à votre coiffeuse, tout en offrant une fragrance idéale pour une utilisation quotidienne ou pour les occasions spéciales.\n\nSa présentation chic et moderne en fait aussi une excellente idée cadeau pour femme.\n\nCaractéristique\nDétail\n\nNom du produit\nRendez-Vous Parfumé\n\nType\nEau de Parfum\n\nContenance\n100 ml\n\nFormat\nVaporisateur spray\n\nGenre\nFemme\n\nDesign\nFlacon vert avec bouchon doré\n\nUtilisation\nQuotidienne, soirée, cadeau\n\nStyle\nÉlégant, féminin, raffiné\n\nRéférence\nAA5BB099",
-     "short_description": "Découvrez Rendez-Vous Parfumé, une eau de parfum féminine au style élégant et raffiné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T175112.086.png"
-   ]
-  },
-  {
-   "sku": "doshift-91276",
+   "sku": "doshift-93036",
    "price": 89,
    "stock": 10,
    "status": 0,
@@ -70,129 +11,186 @@
    ],
    "locales": {
     "fr": {
-     "name": "Pack Parfum NAZWAH – Eau de Parfum 2 x 50 ml",
-     "description": "Découvrez NAZWAH, un parfum élégant au style raffiné, présenté dans un flacon luxueux au design travaillé. Son format 2 pièces de 50 ml est parfait pour une utilisation quotidienne ou pour offrir. Avec son packaging chic et moderne, ce parfum convient aussi bien aux hommes qu’aux femmes recherchant une fragrance distinguée et agréable.\n\nCaractéristique\nDétail\n\nNom du produit\nPack Parfum NAZWAH\n\nType\nEau de Parfum\n\nContenance\n2 x 50 ml\n\nNombre de pièces\n2 pièces\n\nUtilisation\nHomme & Femme\n\nFormat\nVaporisateur spray\n\nDesign\nFlacon élégant avec finition dorée\n\nIdéal pour\nUsage quotidien, cadeau, occasions spéciales\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Découvrez NAZWAH, un parfum élégant au style raffiné, présenté dans un flacon luxueux au design travaillé. Son format 2 pièces de 50 ml est parfait pour une utilisation quotidienne ou pour offrir."
+     "name": "EXOTIQUE CHARMS – Eau de Parfum Femme",
+     "description": "Laissez-vous séduire par EXOTIQUE CHARMS, une eau de parfum élégante qui sublime votre féminité avec une fragrance douce, raffinée et irrésistible. Son parfum délicat apporte une sensation de fraîcheur et de sophistication, idéale pour accompagner toutes vos journées comme vos soirées. Son flacon rose au design élégant apporte également une touche de charme à votre coiffeuse.\n\nCaractéristique\nDétail\n\nType\nEau de Parfum\n\nGenre\nFemme\n\nCollection\nEXOTIQUE CHARMS\n\nFamille olfactive\nFlorale & Fruitée\n\nContenance\n2 × 50 ml\n\nVaporisateur\nOui\n\nUtilisation\nQuotidienne et occasions spéciales\n\nRéférence\nAA3BB099",
+     "short_description": "Laissez-vous séduire par EXOTIQUE CHARMS, une eau de parfum élégante qui sublime votre féminité avec une fragrance douce, raffinée et irrésistible."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T181112.485.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T173513.454.png"
    ]
   },
   {
-   "sku": "doshift-91270",
+   "sku": "doshift-93029",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Anneau de Dentition Bébé Fruits Colorés – Sans BPA",
+     "description": "Apaisez les gencives sensibles de votre bébé avec cet adorable anneau de dentition en forme de fruits. Conçu pour être facile à saisir par les petites mains, il aide à soulager les douleurs liées aux poussées dentaires tout en stimulant les sens grâce à ses différentes textures et couleurs vives.\n\nFabriqué en matériau sans BPA, il offre une utilisation sûre dès la naissance. Ses surfaces texturées massent délicatement les gencives, tandis que son anneau ergonomique permet une prise en main confortable pour bébé.\n\nCaractéristique\nDétail\n\nType\nAnneau de dentition pour bébé\n\nÂge recommandé\nDès 0 mois\n\nMatière\nPlastique alimentaire sans BPA\n\nDesign\nFruits colorés avec textures\n\nFonction\nSoulage les gencives sensibles\n\nPrise en main\nAnneau ergonomique\n\nEntretien\nLavable et facile à nettoyer\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apaisez les gencives sensibles de votre bébé avec cet adorable anneau de dentition en forme de fruits."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T170818.836.png"
+   ]
+  },
+  {
+   "sku": "doshift-93008",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jouet de Dentition et Hochet pour Bébé",
+     "description": "Ce jouet de dentition coloré est conçu pour accompagner bébé pendant la période des premières dents. Ses différentes textures permettent de masser délicatement les gencives, tandis que sa forme ergonomique facilite la prise en main par les petites mains.\n\nLes éléments rouges, jaunes et violets offrent plusieurs surfaces à mordiller et stimulent la découverte sensorielle. Léger et facile à manipuler, le jouet peut également être secoué comme un hochet pour divertir bébé au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nJouet de dentition et hochet pour bébé\n\nUtilisation\nSoulage les gencives lors des poussées dentaires\n\nÂge recommandé\nDès la naissance (0 mois+)\n\nMatériau\nPlastique de qualité, sans BPA\n\nDesign\nForme ergonomique adaptée aux petites mains\n\nTextures\nPlusieurs surfaces texturées à mordiller\n\nFonction hochet\nOui\n\nÉveil sensoriel\nStimule la vue, le toucher et la coordination\n\nPrise en main\nLégère et facile à manipuler\n\nCouleurs\nRouge, jaune, violet et blanc\n\nEntretien\nNettoyage facile avec un chiffon humide ou à l’eau tiède\n\nUtilisation\nÀ la maison, en promenade ou en voyage\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Ce jouet de dentition coloré est conçu pour accompagner bébé pendant la période des premières dents."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T162437.579.png"
+   ]
+  },
+  {
+   "sku": "doshift-93015",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Hochet de dentition multi-textures pour bébé",
+     "description": "Apaisez les gencives sensibles de votre bébé avec ce hochet de dentition pratique et ludique. Sa forme en fleur dispose de plusieurs surfaces texturées conçues pour offrir différentes sensations pendant la période de poussée dentaire.\n\nLéger et facile à saisir, il convient parfaitement aux petites mains. Son anneau ouvert permet à bébé de le tenir confortablement, tandis que ses couleurs douces et son motif amusant stimulent son attention.\n\nCaractéristique\nDétail\n\nType\nHochet de dentition pour bébé\n\nMatériau\nSilicone souple\n\nDesign\nForme fleur avec 4 textures différentes\n\nUtilisation\nSoulage les gencives pendant la poussée dentaire\n\nPrise en main\nAnneau ergonomique adapté aux petites mains\n\nSurface\nTextures variées pour stimuler les sens\n\nEntretien\nFacile à nettoyer\n\nÂge recommandé\nDès 3 mois\n\nSans BPA\nOui\n\nCouleur\nVert menthe\n\nMotif\nPersonnage illustré au centre\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apaisez les gencives sensibles de votre bébé avec ce hochet de dentition pratique et ludique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T163226.162.png"
+   ]
+  },
+  {
+   "sku": "doshift-92906",
+   "price": 339,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panneau de Brassage 24 Ports CAT6 UTP Connexus",
+     "description": "Organisez et optimisez votre installation réseau avec le panneau de brassage 24 ports CAT6 UTP Connexus. Conçu pour les baies de brassage et les armoires réseau 19″, il offre une gestion propre des câbles, une connexion stable et des performances fiables pour les réseaux domestiques et professionnels.\n\nGrâce à son format 1U rackable, il s’intègre facilement dans toutes les infrastructures réseau. Compatible avec les câbles CAT6 UTP, il garantit une transmission rapide et efficace des données tout en facilitant la maintenance et l’identification des connexions.\n\nCaractéristique\nDétail\n\nProduit\nPanneau de Brassage CAT6 UTP\n\nMarque\nConnexus\n\nType\nPanneau de brassage réseau\n\nNombre de ports\n24 ports RJ45\n\nCatégorie\nCAT6 UTP\n\nFormat\n1U Rackable (19″)\n\nConnectique\nRJ45 Femelle\n\nInstallation\nMontage en baie/armoire réseau 19″\n\nUtilisation\nRéseaux Ethernet, baies de brassage, salles serveurs\n\nCompatibilité\nCâbles Ethernet CAT6 UTP\n\nMatériau\nStructure métallique robuste\n\nCouleur\nNoir\n\nAvantages\nOrganisation du câblage, maintenance simplifiée, connexion stable\n\nApplications\nBureaux, entreprises, centres informatiques, installations réseau professionnelles\n\nRéférence Doshift\nAA21BB099",
+     "short_description": "Organisez et optimisez votre installation réseau avec le panneau de brassage 24 ports CAT6 UTP Connexus."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T131345.562.png"
+   ]
+  },
+  {
+   "sku": "doshift-92936",
+   "price": 719,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rasoir de Finition Professionnel Wahl Super Close",
+     "description": "Obtenez un rasage net, précis et ultra proche avec le rasoir de finition Wahl Super Close. Conçu pour les finitions de barbe, le contour du visage et le nettoyage de la nuque, il offre une coupe homogène tout en assurant un excellent confort d’utilisation.\n\nSa tête à grille métallique permet de retirer les poils courts avec précision pour un résultat propre et soigné. Grâce à sa batterie lithium-ion rechargeable, il peut être utilisé sans fil pour une plus grande liberté de mouvement, ou avec fil lorsque cela est nécessaire.\n\nCompact, léger et facile à transporter, ce rasoir convient aussi bien à une utilisation personnelle qu’aux besoins des professionnels de la coiffure et du barbering.\n\nCaractéristique\nDétail\n\nProduit\nRasoir de finition professionnel\n\nMarque\nWahl\n\nModèle\nSuper Close\n\nType de rasage\nRasage ultra proche\n\nUtilisation\nVisage, barbe, moustache, nuque et finitions\n\nTechnologie\nTête à grille (Foil Shaver)\n\nAlimentation\nAvec fil / Sans fil\n\nBatterie\nLithium-ion rechargeable\n\nAutonomie\nJusqu’à 150 minutes\n\nRecharge\nRechargeable\n\nPrise en main\nCompacte, légère et ergonomique\n\nConvient pour\nUsage personnel et professionnel\n\nCouleur\nNoir\n\nContenu du colis\nRasoir de finition, capuchon de protection\n\nRéférence Doshift\nAA55BB099",
+     "short_description": "Obtenez un rasage net, précis et ultra proche avec le rasoir de finition Wahl Super Close."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T141031.162.png"
+   ]
+  },
+  {
+   "sku": "doshift-92748",
+   "price": 659,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Imprimante Thermique POS 80 mm USB & Ethernet POS8811",
+     "description": "Optimisez votre point de vente avec l’imprimante thermique POS8811 80 mm, conçue pour offrir une impression rapide, fiable et silencieuse. Grâce à sa double connectivité USB + Ethernet (LAN), elle s’intègre facilement à votre système de caisse, que ce soit dans un magasin, un restaurant, un café, une pharmacie ou toute autre activité commerciale.\n\nSon design compact permet un gain de place sur le comptoir, tandis que son mécanisme d’impression thermique élimine le besoin d’encre ou de toner, réduisant ainsi les coûts d’exploitation. Avec une sortie de tickets nette et rapide, elle garantit un service fluide même pendant les heures de forte affluence.\n\nCaractéristique\nDétail\n\nType\nImprimante thermique de reçus\n\nModèle\nPOS8811\n\nLargeur du papier\n80 mm\n\nTechnologie d’impression\nThermique directe\n\nConnectivité\nUSB + Ethernet (LAN)\n\nUtilisation\nSystème de caisse POS\n\nVitesse\nImpression rapide\n\nCouleur\nNoir\n\nInstallation\nPlug & Play\n\nRéférence Doshift\nAA45BB099",
+     "short_description": "Optimisez votre point de vente avec l’imprimante thermique POS8811 80 mm, conçue pour offrir une impression rapide, fiable et silencieuse."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T194705.144.png"
+   ]
+  },
+  {
+   "sku": "doshift-92618",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Trépied d’Éclairage Professionnel 8806 – Hauteur 200 cm",
+     "description": "Le trépied d’éclairage 8806 est un support pratique et polyvalent, idéal pour les séances photo, les tournages vidéo, les studios, les créations de contenu et les diffusions en direct. Sa structure légère et réglable permet de positionner facilement votre équipement d’éclairage à la hauteur souhaitée.\n\nGrâce à sa hauteur maximale d’environ 200 cm, il convient pour installer un ring light, un projecteur LED, un flash ou une softbox compatible. Sa base à trois pieds assure une bonne stabilité pendant l’utilisation, tandis que son système pliable facilite le transport et le rangement.\n\nCaractéristique\nDétail\n\nProduit\nTrépied d’éclairage professionnel\n\nModèle\n8806 Light Stand\n\nHauteur maximale\nEnviron 200 cm\n\nStructure\nMétal léger et résistant\n\nHauteur\nRéglable\n\nBase\nTripode stable à 3 pieds\n\nRangement\nPliable et compact\n\nVerrouillage\nMolettes de serrage sécurisées\n\nEmbout supérieur\nUniversel pour accessoires compatibles\n\nCompatibilité\nRing light, softbox, flash et éclairage LED\n\nUtilisation\nPhotographie, vidéo, streaming et studio\n\nCouleur\nNoir\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Le trépied d’éclairage 8806 est un support pratique et polyvalent, idéal pour les séances photo, les tournages vidéo, les studios, les créations de contenu et les diffusions en direct."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T135902.004.png"
+   ]
+  },
+  {
+   "sku": "doshift-92604",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Balai Éponge avec Système d’Essorage Intégré",
+     "description": "Facilitez le nettoyage de vos sols avec ce balai éponge pratique et maniable. Son rouleau en éponge absorbante permet de récupérer efficacement l’eau, les poussières et les petites saletés sur différentes surfaces.\n\nGrâce à son mécanisme d’essorage intégré, vous pouvez presser l’éponge sans la toucher directement avec les mains. Son long manche métallique offre une prise confortable et limite les efforts pendant le nettoyage.\n\nCaractéristique\nDétail\n\nType de produit\nBalai éponge avec essorage intégré\n\nMatériau du manche\nMétal\n\nTête de nettoyage\nÉponge rainurée absorbante\n\nSystème d’essorage\nManuel, intégré au manche\n\nUtilisation\nNettoyage des sols et absorption des liquides\n\nSurfaces compatibles\nCarrelage et surfaces lisses\n\nPièces adaptées\nCuisine, salle de bain, salon et couloir\n\nAvantages\nPratique, maniable et sans contact direct avec l’éponge\n\nCouleur\nBeige, blanc, gris et argenté\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Facilitez le nettoyage de vos sols avec ce balai éponge pratique et maniable. Son rouleau en éponge absorbante permet de récupérer efficacement l’eau, les poussières et les petites saletés sur différentes surfaces."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T134420.167.png"
+   ]
+  },
+  {
+   "sku": "doshift-92320",
    "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Huile de Coco Naturelle – Soin Cheveux & Peau",
-     "description": "Découvrez l’huile de coco, un soin naturel polyvalent idéal pour nourrir, hydrater et adoucir la peau ainsi que les cheveux. Sa texture riche et fondante s’utilise facilement dans votre routine beauté quotidienne pour apporter douceur, brillance et confort.\n\nCaractéristique\nDétail\n\nProduit\nHuile de Coco\n\nUtilisation\nCheveux, peau, soin beauté\n\nTexture\nRiche, fondante et nourrissante\n\nType\nHuile naturelle\n\nConditionnement\nPot en verre avec couvercle métallique\n\nAvantages\nHydratation, douceur, nutrition\n\nPublic\nFemme et homme\n\nRéférence\nAA2BB599",
-     "short_description": "Découvrez l’huile de coco, un soin naturel polyvalent idéal pour nourrir, hydrater et adoucir la peau ainsi que les cheveux."
+     "name": "Souris Filaire USB R8 – Précision, Simplicité et Confort",
+     "description": "Optimisez votre confort de travail avec la souris filaire R8, un accessoire fiable conçu pour un usage quotidien. Grâce à sa connexion USB filaire, elle offre une réponse rapide et une stabilité optimale sans interruption. Son design ergonomique épouse naturellement la forme de la main pour un contrôle précis et confortable, que ce soit pour le travail, les études ou la navigation sur Internet.\n\nCompacte, légère et facile à installer, cette souris est compatible avec la majorité des ordinateurs de bureau et portables. Il suffit de la brancher pour commencer à l’utiliser, sans installation de logiciel.\n\nCaractéristique\nDétail\n\nType de produit\nSouris filaire USB\n\nMarque\nR8\n\nType de connexion\nUSB filaire\n\nInstallation\nPlug & Play\n\nDesign\nErgonomique\n\nCouleur\nNoir\n\nNombre de boutons\n3 (clic gauche, clic droit, molette)\n\nMolette\nOui\n\nUtilisation\nBureau, études, maison\n\nCompatibilité\nPC de bureau et ordinateur portable\n\nPrécision\nSuivi fluide et précis\n\nAlimentation\nVia le port USB\n\nMatériau\nPlastique ABS\n\nRéférence\nAA1BB799",
+     "short_description": "Optimisez votre confort de travail avec la souris filaire R8, un accessoire fiable conçu pour un usage quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T175925.695.png"
-   ]
-  },
-  {
-   "sku": "doshift-91254",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Parfum Marvel – Lot de 2 PCS",
-     "description": "Découvrez le parfum Marvel, une eau de parfum élégante au design féminin et raffiné. Son flacon compact avec détails dorés et violet apporte une touche luxueuse, idéale pour une utilisation quotidienne ou comme cadeau.\n\nCe lot contient 2 pièces, pratique pour garder un parfum à la maison et un autre dans le sac. Son format spray permet une application simple et rapide à tout moment de la journée.\n\nCaractéristique\nDétail\n\nProduit\nParfum Marvel\n\nType\nEau de parfum\n\nFormat\nVaporisateur spray\n\nQuantité\nLot de 2 pièces\n\nDesign\nFlacon élégant avec finition dorée et violet\n\nUtilisation\nQuotidienne, sortie, cadeau\n\nPublic\nFemme\n\nAvantage\nFormat pratique et facile à transporter\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Découvrez le parfum Marvel, une eau de parfum élégante au design féminin et raffiné. Son flacon compact avec détails dorés et violet apporte une touche luxueuse, idéale pour une utilisation quotidienne ou comme cadeau."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T173705.683.png"
-   ]
-  },
-  {
-   "sku": "doshift-91247",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Eau de Parfum BACKPACK Pour Homme – 100 ml",
-     "description": "Découvrez BACKPACK Eau de Parfum pour Homme, un parfum masculin au style moderne et élégant. Son flacon rouge avec bouchon doré apporte une touche raffinée, idéale pour un usage quotidien ou pour compléter une tenue chic. Une fragrance conçue pour l’homme qui aime laisser une présence soignée et affirmée.\n\nCaractéristique\nDétail\n\nProduit\nEau de parfum\n\nMarque\nBACKPACK\n\nType\nParfum pour homme\n\nContenance\n100 ml\n\nConcentration indiquée\nEau de Parfum\n\nVaporisateur\nSpray naturel\n\nDesign\nFlacon rouge avec bouchon doré\n\nUtilisation\nQuotidienne ou occasions spéciales\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Découvrez BACKPACK Eau de Parfum pour Homme, un parfum masculin au style moderne et élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T172746.485.png"
-   ]
-  },
-  {
-   "sku": "doshift-91241",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Miss Shereene Bouquet – Eau de Toilette pour Femme 100 ml",
-     "description": "Miss Shereene Bouquet est une eau de toilette féminine au style doux, élégant et raffiné. Son flacon transparent avec liquide rosé et nœud argenté apporte une touche chic à votre coiffeuse. Idéal pour une utilisation quotidienne, ce parfum offre une sensation fraîche et florale, parfaite pour compléter une routine beauté avec délicatesse.\n\nCaractéristique\nDétail\n\nType de produit\nEau de toilette pour femme\n\nNom\nMiss Shereene Bouquet\n\nContenance\n100 ml\n\nFormat\nFlacon vaporisateur\n\nFamille olfactive\nFlorale, fraîche, féminine\n\nDesign\nFlacon transparent avec liquide rosé et nœud argenté\n\nUtilisation\nQuotidienne, sortie, cadeau\n\nVolume alcool\n80% Vol.\n\nÉquivalence\n3.4 Fl.Oz\n\nPublic cible\nFemme\n\nRéférence\nAA4BB099",
-     "short_description": "Miss Shereene Bouquet est une eau de toilette féminine au style doux, élégant et raffiné. Son flacon transparent avec liquide rosé et nœud argenté apporte une touche chic à votre coiffeuse."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T171439.650.png"
-   ]
-  },
-  {
-   "sku": "doshift-91179",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Parfum LILAA – Élégance Florale en Flacon Violet",
-     "description": "Découvrez LILAA, un parfum raffiné au design luxueux, pensé pour apporter une touche d’élégance au quotidien. Son flacon violet pastel avec détails dorés offre une présentation chic et féminine, idéale pour une coiffeuse, une salle de bain ou comme cadeau.\n\nAvec ses notes florales douces, ce parfum convient parfaitement aux femmes qui aiment les senteurs délicates, élégantes et intemporelles.\n\nCaractéristique\nDétail\n\nProduit\nParfum\n\nNom\nLILAA\n\nType de senteur\nFlorale\n\nStyle\nÉlégant, doux et féminin\n\nCouleur du flacon\nViolet pastel\n\nFinition\nDétails dorés\n\nUtilisation\nQuotidienne, sortie, occasion spéciale\n\nIdéal pour\nFemme\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Découvrez LILAA, un parfum raffiné au design luxueux, pensé pour apporter une touche d’élégance au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T144119.950.png"
-   ]
-  },
-  {
-   "sku": "doshift-91167",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Parfum Himmah AROMASQ – Eau de Parfum 100 ml",
-     "description": "Découvrez Himmah de AROMASQ, une eau de parfum élégante au flacon vert profond avec finitions dorées. Son design luxueux apporte une touche raffinée, idéale pour une utilisation quotidienne ou pour compléter une collection de parfums.\n\nSa présentation premium en fait aussi une excellente idée cadeau. Le format 100 ml offre une bonne contenance pour profiter longtemps de votre fragrance.\n\nCaractéristique\nDétail\n\nProduit\nParfum Himmah\n\nMarque\nAROMASQ\n\nType\nEau de Parfum\n\nContenance\n100 ml\n\nCouleur du flacon\nVert foncé avec détails dorés\n\nUtilisation\nQuotidienne ou occasions spéciales\n\nPrésentation\nFlacon + emballage\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Découvrez Himmah de AROMASQ, une eau de parfum élégante au flacon vert profond avec finitions dorées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T143051.968.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T203722.836.png"
    ]
   }
  ]

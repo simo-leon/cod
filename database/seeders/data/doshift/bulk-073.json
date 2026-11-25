@@ -1,8 +1,28 @@
 {
  "products": [
   {
-   "sku": "doshift-62034",
-   "price": 129,
+   "sku": "doshift-64647",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Crème Nourrissante pour les Pieds au Safran Fassi",
+     "description": "Chouchoutez vos pieds avec cette crème nourrissante enrichie en safran fassi, spécialement formulée pour hydrater intensément et protéger contre la sécheresse et les crevasses. Elle aide à adoucir la peau, améliorer son confort et révéler des pieds visiblement plus lisses et soignés.\n\nGrâce à sa formule riche en ingrédients d’origine naturelle et à son pH équilibré 5,5, elle respecte l’équilibre cutané tout en apportant nutrition et protection au quotidien. Idéale pour retrouver des pieds doux, nets et revitalisés.\n\nCaractéristiques :\n\nCaractéristique\nDétail\n\nType\nCrème nourrissante pour les pieds\n\nIngrédient clé\nSafran Fassi\n\npH\n5,5\n\nEffet\nHydrate, adoucit, protège\n\nBénéfice\nAide à prévenir les pieds secs et crevassés\n\nTexture\nRiche et confortable\n\nUtilisation\nApplication quotidienne sur pieds propres et secs",
+     "short_description": "Chouchoutez vos pieds avec cette crème nourrissante enrichie en safran fassi, spécialement formulée pour hydrater intensément et protéger contre la sécheresse et les crevasses."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/5fb5a639-ba3e-457b-a098-e96fee0138b1.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64638",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -10,18 +30,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Vase Décoratif Graphique – Design Contemporain & Motif Géométrique",
-     "description": "Affirme le caractère de ton intérieur avec ce vase décoratif au design contemporain et graphique. Sa silhouette élancée, rehaussée d’un motif géométrique en relief, crée un jeu subtil d’ombres et de textures pour un rendu résolument moderne.Son fini mat profond apporte une touche sophistiquée et élégante, parfaitement adaptée aux intérieurs minimalistes, industriels ou haut de gamme. Idéal comme pièce décorative seule ou pour accueillir des compositions florales sobres, naturelles ou séchées.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nModerne / Graphique / Luxe minimaliste\n\nDesign\nMotif géométrique en relief\n\nForme\nSilhouette élancée, col légèrement évasé\n\nFinition\nAspect mat texturé\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou séchées\n\nEspaces recommandés\nSalon, bureau, entrée, étagère, table décorative\n\nRéférence-DOSHIFT\nAA5BB599",
-     "short_description": "Affirme le caractère de ton intérieur avec ce vase décoratif au design contemporain et graphique."
+     "name": "Boule à Neige Musicale Lumineuse – Ambiance Féérique",
+     "description": "Apportez une touche magique et romantique à votre intérieur avec cette élégante boule à neige lumineuse. Équipée d’un système automatique d’effet neige, elle crée un décor enchanteur sublimé par un éclairage LED intégré et une douce mélodie.\n\nParfaite comme idée cadeau ou élément décoratif, elle transforme instantanément votre salon, chambre ou espace événementiel en un univers chaleureux et poétique.\n\nCaractéristiques :\n\nCaractéristique\nDétail\n\nType\nBoule à neige musicale lumineuse\n\nEffet\nProjection automatique de neige\n\nÉclairage\nLED intégré\n\nFonction\nMusique douce intégrée\n\nUtilisation\nDécoration intérieure, cadeau\n\nAmbiance\nRomantique et féérique\n\nAlimentation\nFonctionne avec prise integré",
+     "short_description": "Apportez une touche magique et romantique à votre intérieur avec cette élégante boule à neige lumineuse."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T042251-767.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-06-16T135120.710.png"
    ]
   },
   {
-   "sku": "doshift-62028",
-   "price": 129,
+   "sku": "doshift-64528",
+   "price": 239,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -29,18 +49,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Vase Décoratif en Céramique – Design Naturel & Motif Feuilles",
-     "description": "Apporte une touche naturelle et raffinée à ton intérieur avec ce vase décoratif en céramique au design épuré. Sa silhouette élancée associée à un motif en relief inspiré des feuilles crée une harmonie visuelle douce et contemporaine.Pensé pour les intérieurs minimalistes ou haut de gamme, ce vase se distingue aussi bien comme pièce décorative seule que comme support pour des compositions florales sobres, naturelles ou séchées, apportant équilibre et sérénité à ton espace.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nNaturel / Moderne / Minimaliste\n\nDesign\nSilhouette élancée avec motif feuille en relief\n\nFinition\nAspect mat texturé\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou séchées\n\nEspaces recommandés\nSalon, chambre, entrée, bureau, étagère décorative\n\nCouleurs\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA5BB599",
-     "short_description": "Apporte une touche naturelle et raffinée à ton intérieur avec ce vase décoratif en céramique au design épuré."
+     "name": "Étagère à épices en bambou avec bocaux en verre – 9 pièces – 36×28×10 cm",
+     "description": "Optimisez l’organisation de votre cuisine avec cette étagère à épices élégante et fonctionnelle. Conçue en bambou naturel avec des bocaux en verre transparents, elle permet de garder vos épices à portée de main tout en apportant une touche moderne et chaleureuse à votre espace.\n\nGrâce à son design compact (36×28×10 cm), elle s’intègre parfaitement sur un plan de travail sans encombrer. Les bocaux hermétiques conservent la fraîcheur des épices, tandis que les cuillères incluses facilitent le dosage précis au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nÉtagère à épices\n\nMatériau\nBambou + verre\n\nNombre de bocaux\n9\n\nAccessoires\nCuillères incluses\n\nDimensions\n36 × 28 × 10 cm\n\nUtilisation\nRangement des épices\n\nInstallation\nÀ poser (aucun montage complexe)\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Optimisez l’organisation de votre cuisine avec cette étagère à épices élégante et fonctionnelle."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T041451-176.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-04-20T210949.770.png"
    ]
   },
   {
-   "sku": "doshift-62022",
-   "price": 119,
+   "sku": "doshift-64423",
+   "price": 259,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -48,56 +68,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Vase Décoratif en Porcelaine – Élégance Florale & Douceur Intemporelle",
-     "description": "Apporte une touche de douceur et de raffinement à ton intérieur avec ce vase décoratif en porcelaine au design délicat. Sa forme fluide et son col légèrement ondulé évoquent la finesse des pétales d’une fleur, tandis que la rose sculptée en relief, subtilement travaillée, en fait une véritable pièce décorative à part entière.Parfait pour sublimer un intérieur chic, romantique ou classique, ce vase peut être exposé seul comme objet décoratif ou accompagné de fleurs légères, naturelles ou artificielles, pour créer une ambiance élégante et harmonieuse.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nClassique élégant / Floral\n\nDesign\nForme fluide avec fleur sculptée en relief\n\nFinition\nPorcelaine lisse et brillante avec détails raffinés\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou artificielles\n\nEmplacements recommandés\nSalon, chambre, entrée, table ou étagère décorative\n\nCouleurs\nBlanc\n\nRéférence-DOSHIFT\nAA5BB099",
-     "short_description": "Apporte une touche de douceur et de raffinement à ton intérieur avec ce vase décoratif en porcelaine au design délicat."
+     "name": "Blender Puissant Multifonction",
+     "description": "Transformez vos fruits, légumes et ingrédients en préparations lisses et homogènes en quelques secondes grâce à ce blender haute performance. Idéal pour jus, smoothies, soupes et sauces, il combine puissance, grande capacité et simplicité d’utilisation pour un usage quotidien efficace.\n\nCaractéristique\nDétail\n\nType\nBlender électrique multifonction\n\nCapacité\nGrande capacité familiale\n\nLames\nAcier inoxydable haute résistance\n\nVitesses\nMulti-vitesses avec bouton rotatif\n\nUtilisation\nSmoothies, jus, soupes, sauces\n\nStabilité\nPieds antidérapants",
+     "short_description": "Transformez vos fruits, légumes et ingrédients en préparations lisses et homogènes en quelques secondes grâce à ce blender haute performance."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T040607-166.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T050346.311.png"
    ]
   },
   {
-   "sku": "doshift-62016",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Vase Décoratif Sculptural – Luxe Contemporain & Motif Ondulé",
-     "description": "Sublime ton intérieur avec ce vase décoratif au design sculptural, pensé pour apporter une touche de luxe discret et d’harmonie à ton espace. Sa silhouette élancée et fluide, associée à un motif ondulé en relief, crée un effet visuel raffiné qui capte subtilement la lumière.Idéal pour les intérieurs modernes et haut de gamme, ce vase se distingue aussi bien comme pièce décorative seule que comme support pour des compositions florales sobres, naturelles ou séchées.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nModerne / Luxe contemporain\n\nForme\nSilhouette élancée et fluide\n\nMotif\nRelief ondulé décoratif\n\nFinition\nSurface lisse avec détails en relief\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou séchées\n\nEspaces recommandés\nSalon, bureau, entrée, table ou étagère décorative\n\nRéférence-DOSHIFT\nAA5BB099",
-     "short_description": "Sublime ton intérieur avec ce vase décoratif au design sculptural, pensé pour apporter une touche de luxe discret et d’harmonie à ton espace."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T035456-622.png"
-   ]
-  },
-  {
-   "sku": "doshift-62004",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Vase Décoratif Sculpté – Élégance Classique & Détails Floraux (Couleurs selon disponibilité)",
-     "description": "Apporte une touche d’élégance intemporelle à ton intérieur avec ce vase décoratif raffiné, conçu pour sublimer chaque espace avec finesse. Sa silhouette harmonieuse est enrichie par un relief sculpté orné de fleurs en façade, offrant un rendu sophistiqué et décoratif.Idéal comme pièce centrale ou en complément d’une décoration chic, ce vase peut être exposé seul ou accueillir des compositions florales légères, naturelles ou artificielles, afin de rehausser l’atmosphère de ton salon, chambre ou entrée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nClassique élégant / Décoratif\n\nDesign\nRelief sculpté avec fleurs en façade\n\nFinition\nAspect lisse et brillant avec détails raffinés\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou artificielles\n\nCouleurs\nSelon disponibilité\n\nEmplacements recommandés\nSalon, chambre, entrée, table ou étagère\n\nRéférence-DOSHIFT\nAA5BB099",
-     "short_description": "Apporte une touche d’élégance intemporelle à ton intérieur avec ce vase décoratif raffiné, conçu pour sublimer chaque espace avec finesse."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T031847-047.png"
-   ]
-  },
-  {
-   "sku": "doshift-61986",
-   "price": 119,
+   "sku": "doshift-64235",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,37 +88,96 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lot de 20 Manchons de Rouleau Peinture – Usage Intensif",
-     "description": "Couvre efficacement de grandes surfaces grâce à ce lot de 20 manchons de rouleau, spécialement conçu pour les travaux intensifs et les chantiers de grande envergure. Chaque manchon assure une excellente absorption de la peinture et une restitution régulière, garantissant une application homogène sans traces ni coulures.Idéal pour les professionnels, les artisans ou les gros travaux de rénovation, ce lot offre performance, rapidité d’exécution et finition soignée à chaque utilisation.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nProduit\nManchons de rouleau peinture\n\nQuantité\nLot de 20 pièces\n\nUtilisation\nMurs et plafonds\n\nRendu\nApplication régulière, finition homogène\n\nPerformance\nExcellente absorption et restitution de la peinture\n\nCompatibilité\nMontures de rouleau standards\n\nEntretien\nLavable et réutilisable\n\nIdéal pour\nChantiers, rénovation, usage intensif\n\nRéférence-DOSHIFT\nAA4BB099",
-     "short_description": "Couvre efficacement de grandes surfaces grâce à ce lot de 20 manchons de rouleau, spécialement conçu pour les travaux intensifs et les chantiers de grande envergure."
+     "name": "Balance Digitale de Précision – Notebook Series",
+     "description": "Pesez avec exactitude grâce à cette balance digitale compacte au format “notebook”, idéale pour un usage quotidien. Son design fin et pliable protège le plateau et l’écran, tout en facilitant le transport et le rangement.\n\nÉquipée d’un écran LCD clair à 5 chiffres, elle offre une lecture rapide et précise. Son plateau en acier inoxydable assure robustesse, hygiène et durabilité. Grâce à ses 6 modes de pesée (g, oz, ct, gn, ozt, dwt), elle s’adapte à différents besoins avec simplicité.\n\nLa fonction arrêt automatique permet d’économiser la batterie, tandis que le calibrage via clavier garantit une précision optimale à chaque utilisation. Compacte, performante et facile à utiliser, elle convient aussi bien à un usage domestique que professionnel.\n\nCaractéristique\nDétail\n\nType\nBalance digitale de précision\n\nModes de pesée\ng, oz, ct, gn, ozt, dwt\n\nNombre de modes\n6\n\nÉcran\nLCD 5 chiffres\n\nPlateau\nAcier inoxydable\n\nDimensions du plateau\n90 x 115 mm\n\nCalibration\nAutomatique via clavier\n\nFonction\nArrêt automatique\n\nAlimentation\n2 piles AAA (incluses)\n\nRéférence-doshift\nAA9BB099",
+     "short_description": "Pesez avec exactitude grâce à cette balance digitale compacte au format “notebook”, idéale pour un usage quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T021535-881.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-65.png"
    ]
   },
   {
-   "sku": "doshift-62082",
+   "sku": "doshift-64136",
+   "price": 259,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Appareil WiFi 4G/5G LTE routeur sans fil MF688 point d’accès portable mobile",
+     "description": "Expérience réseau ultra-rapide 4G / 5G LTE avec des vitesses allant jusqu’à 300Mbps .\n\nPrend en charge plusieurs appareils connectés en même temps sans décalage.\n\nAccédez à jusqu’à 10 wi-fi simultanément.\n\nLe routeur Portable wifi hotspot, de petite taille et facile à transporter, est le meilleur choix pour votre voyage.\n\nFête, voyage, voyage d’affaires, camping, diffusion en direct en plein air, jeux et plus d’applications profitez du WiFi à tout moment, n’importe où.",
+     "short_description": "Expérience réseau ultra-rapide 4G / 5G LTE avec des vitesses allant jusqu’à 300Mbps ."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-19T215607.576.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64208",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur USB Multiprise 6 Ports 5G++ – Compact et Pratique",
+     "description": "Rechargez plusieurs appareils en même temps avec ce chargeur USB 6 ports au format compact et moderne. Grâce à sa conception intelligente, il permet d’alimenter smartphones, tablettes, écouteurs, montres connectées et autres appareils USB depuis une seule prise. Son design mini facilite le transport à la maison, au bureau ou en voyage.\n\nCompatible avec plusieurs modèles Android, iPhone, Huawei et autres appareils USB, il offre une solution pratique pour éviter l’encombrement des chargeurs multiples. Son câble intégré de 1 mètre assure une utilisation confortable au quotidien.\n\nCaractéristique\nDétail\n\nType\nChargeur USB multiports\n\nNombre de ports\n6 ports USB\n\nCompatibilité\nSmartphones, tablettes, accessoires USB\n\nLongueur du câble\n1 m\n\nCouleur\nBlanc\n\nUtilisation\nMaison, bureau, voyage\n\nDesign\nCompact et léger\n\nAlimentation\nSecteur\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Rechargez plusieurs appareils en même temps avec ce chargeur USB 6 ports au format compact et moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-05-06T173242.270.png"
+   ]
+  },
+  {
+   "sku": "doshift-64089",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Hub USB-C 4 en 1 – Compact & Performant",
+     "description": "Connectez, transférez et étendez vos possibilités en un seul geste grâce à ce hub USB-C multifonction. Compact et léger, il transforme instantanément votre port USB-C en véritable station pratique pour connecter vos périphériques et cartes mémoire.\n\nIdéal pour ordinateurs portables, tablettes et smartphones compatibles USB-C, il permet un transfert rapide des données et une utilisation simple, sans installation ni configuration complexe.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nHub USB-C 4 en 1\n\nEntrée\nUSB Type-C\n\nSorties\nUSB 3.0 / SD / TF (Micro SD) / USB-C\n\nCompatibilité\nPC, MacBook, Smartphones et Tablettes USB-C\n\nInstallation\nPlug & Play (sans pilote)\n\nDesign\nCompact et portable\n\nAvantage principal\nExtension rapide & transfert efficace\n\nRéférence – DOSHIFT\nAA9BB099",
+     "short_description": "Connectez, transférez et étendez vos possibilités en un seul geste grâce à ce hub USB-C multifonction."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-19T172517-628.png"
+   ]
+  },
+  {
+   "sku": "doshift-63987",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     3
    ],
    "locales": {
     "fr": {
-     "name": "Vase Décoratif Géométrique – Sphères Blanches & Structure Dorée",
-     "description": "Apporte une touche de luxe contemporain à ton intérieur avec ce vase décoratif au design audacieux et raffiné. Sa forme cylindrique est magnifiée par une répétition de sphères blanches brillantes, délicatement encadrées par une structure dorée éclatante, créant un effet géométrique sophistiqué et résolument chic.Véritable pièce statement, ce vase s’intègre parfaitement dans des décors modernes, élégants ou haut de gamme, aussi bien exposé seul comme objet décoratif fort qu’accompagné de compositions florales élégantes, naturelles ou artificielles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nLuxe contemporain / Moderne\n\nDesign\nMotifs sphériques en relief avec structure dorée\n\nForme\nCylindrique droite\n\nFinition\nSurface brillante avec contraste blanc et doré\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou artificielles\n\nEspaces recommandés\nSalon, entrée, bureau, hôtel, table ou étagère décorative\n\nCouleurs\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA4BB599",
-     "short_description": "Apporte une touche de luxe contemporain à ton intérieur avec ce vase décoratif au design audacieux et raffiné."
+     "name": "Flygon Motion Sensor Light Ball – Lampe LED COB Magnétique 360",
+     "description": "Illuminez vos espaces intelligemment avec la Flygon Motion Sensor Light Ball, une lampe LED sans fil équipée d’un capteur de mouvement pour un éclairage automatique pratique et économique. Son module COB haute luminosité offre une lumière puissante et homogène, idéale pour les couloirs, placards, escaliers, chambres ou cuisines.",
+     "short_description": "Illuminez vos espaces intelligemment avec la Flygon Motion Sensor Light Ball, une lampe LED sans fil équipée d’un capteur de mouvement pour un éclairage automatique pratique et économique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T065955-554.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/21oj8iEEmlL.jpg"
    ]
   },
   {
-   "sku": "doshift-61980",
-   "price": 109,
+   "sku": "doshift-63962",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -145,51 +186,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Robinet Mural Extérieur en Laiton – Usage Jardin & Extérieur",
-     "description": "Apporte une solution fiable et élégante pour l’alimentation en eau extérieure. Conçu pour une utilisation quotidienne, ce robinet mural garantit une ouverture fluide, une excellente étanchéité et une forte résistance aux conditions climatiques. Son format compact et sa poignée pratique assurent une prise en main confortable, idéale pour le jardin, la terrasse, le garage ou la buanderie.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nRobinet mural extérieur\n\nInstallation\nMurale, raccordement standard\n\nCommande\nPoignée en T\n\nMatériau\nLaiton\n\nUsage\nJardin, terrasse, garage, extérieur\n\nÉtanchéité\nAnti-fuite, fermeture nette\n\nSortie\nBec courbé pour un écoulement dirigé\n\nEntrée\nFiletage mâle (standard)\n\nRéférence-DOSHIFT\nAA3BB199",
-     "short_description": "Apporte une solution fiable et élégante pour l’alimentation en eau extérieure. Conçu pour une utilisation quotidienne, ce robinet mural garantit une ouverture fluide, une excellente étanchéité et une forte résistance…"
+     "name": "Testeur de cables réseau RJ45 et RJ11 Diagnostic rapide des circuits ouverts, croisés, passants et courts-circuits",
+     "description": "Test de câble instantané : vérifiez rapidement les câbles réseau RJ45 et RJ11 pour détecter les problèmes de câblage tels que les ouvertures, les courts-circuits, les croisements et les passes — parfait pour le dépannage ou la vérification des câbles sur mesure. Prend en charge l’identification PoE : identifie avec précision les lignes compatibles PoE et vérifie l’alimentation électrique active — conforme aux normes IEEE 802.3af / 802.3at pour la détection PoE. Fonctionnalité Plug-and-Play : aucun logiciel ni configuration compliquée n’est requis : branchez simplement le câble RJ45 ou RJ11 pour commencer les tests automatiques avec des résultats visuels clairs.",
+     "short_description": "Test de câble instantané : vérifiez rapidement les câbles réseau RJ45 et RJ11 pour détecter les problèmes de câblage tels que les ouvertures, les courts-circuits, les croisements et les passes"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T013642-027.png"
-   ]
-  },
-  {
-   "sku": "doshift-62076",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Vase Décoratif Architectural – Reliefs Verticaux & Élégance Moderne",
-     "description": "Sublime ton intérieur avec ce vase décoratif au design épuré et architectural. Sa forme cylindrique élégante, rythmée par des reliefs verticaux réguliers, crée un jeu de lumière raffiné et une présence visuelle forte.Pensé pour les univers modernes et haut de gamme, ce vase s’impose comme pièce décorative centrale, aussi élégant exposé seul qu’accompagné de compositions florales minimalistes, naturelles ou artificielles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nModerne / Luxe minimaliste\n\nDesign\nReliefs verticaux réguliers, motif architectural\n\nForme\nCylindrique droite\n\nFinition\nSurface brillante avec contrastes élégants\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou artificielles\n\nEspaces recommandés\nSalon, entrée, bureau, hôtel, table ou étagère décorative\n\nCouleurs\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA4BB599",
-     "short_description": "Sublime ton intérieur avec ce vase décoratif au design épuré et architectural. Sa forme cylindrique élégante, rythmée par des reliefs verticaux réguliers, crée un jeu de lumière raffiné et une présence visuelle…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T064917-546.png"
-   ]
-  },
-  {
-   "sku": "doshift-62056",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Vase Décoratif Sculptural – Design Audacieux & Luxe Contemporain",
-     "description": "Sublime ton intérieur avec ce vase décoratif au design audacieux et contemporain, pensé pour devenir une pièce forte de décoration. Sa silhouette élancée associée à des lignes organiques sculptées en relief crée un contraste visuel élégant et sophistiqué, apportant immédiatement du caractère à l’espace.Idéal pour des intérieurs modernes et haut de gamme, ce vase se suffit à lui-même comme objet décoratif ou peut accueillir des compositions florales sobres, naturelles ou séchées, pour un rendu équilibré et harmonieux.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nVase décoratif\n\nStyle\nModerne / Luxe contemporain\n\nDesign\nLignes organiques sculptées en relief\n\nForme\nSilhouette élancée avec col légèrement évasé\n\nFinition\nSurface lisse avec détails en relief\n\nUtilisation\nDécoration intérieure, fleurs naturelles ou séchées\n\nEspaces recommandés\nSalon, entrée, bureau, table ou étagère décorative\n\nCouleurs\nSelon disponibilité\n\nRéférence-DOSHIFT\nAA5BB599",
-     "short_description": "Sublime ton intérieur avec ce vase décoratif au design audacieux et contemporain, pensé pour devenir une pièce forte de décoration."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-09T060818-419.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/AABHF65783_img1.webp"
    ]
   }
  ]

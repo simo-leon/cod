@@ -1,129 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-85402",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Body Gainant Sculptant Sans Coutures",
-     "description": "Affinez votre silhouette avec ce body gainant confortable et discret, conçu pour épouser parfaitement les formes du corps. Son tissu extensible offre un maintien optimal tout en restant agréable à porter toute la journée. Idéal sous les robes, pantalons ou tenues ajustées.\n\nCaractéristique\nDétail\n\nType\nBody gainant femme\n\nMatière\nTissu extensible et respirant\n\nDesign\nSans coutures\n\nBretelles\nLarges et confortables\n\nMaintien\nVentre, taille et poitrine\n\nFermeture\nBoutons pression à l’entrejambe\n\nUtilisation\nQuotidienne ou occasionnelle\n\nPublic cible\nFemme\n\nRéférence\nAA8BB099",
-     "short_description": "Affinez votre silhouette avec ce body gainant confortable et discret, conçu pour épouser parfaitement les formes du corps."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T173352.722.png"
-   ]
-  },
-  {
-   "sku": "doshift-85386",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Nuisette Femme Dentelle Élégante – Rose & Noir",
-     "description": "Apportez une touche d’élégance et de féminité à vos soirées avec cette nuisette raffinée au design séduisant. Son haut en dentelle florale délicate associé à une jupe fluide offre un équilibre parfait entre confort et style. Idéale pour les moments de détente à la maison ou pour une tenue de nuit élégante.\n\nCaractéristique\nDétail\n\nType\nNuisette femme\n\nStyle\nÉlégant et féminin\n\nMatière principale\nTissu doux avec dentelle\n\nBretelles\nFines et ajustables\n\nCoupe\nFluide et confortable\n\nUtilisation\nNuit et détente à domicile\n\nMotif\nDentelle florale\n\nCouleur\nRose & Noir\n\nRéférence\nAA10BB099",
-     "short_description": "Apportez une touche d’élégance et de féminité à vos soirées avec cette nuisette raffinée au design séduisant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T170525.073.png"
-   ]
-  },
-  {
-   "sku": "doshift-85378",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble de Nuit Élégance Blanche en Dentelle avec Peignoir",
-     "description": "Apportez une touche d’élégance et de douceur à vos soirées avec cet ensemble de nuit raffiné composé d’une nuisette et d’un peignoir assorti. Sa dentelle délicate, ses détails en ruban satinés et ses finitions effet fourrure créent un style féminin et luxueux. Léger et confortable, il est idéal pour les moments de détente à la maison ou pour offrir en cadeau.\n\nCaractéristique\nDétail\n\nType\nEnsemble de nuit femme\n\nComposition\nPeignoir + nuisette\n\nMatière principale\nDentelle et tissu doux\n\nStyle\nÉlégant et romantique\n\nDétails\nRubans satinés et finitions effet fourrure\n\nManches\nLongues évasées\n\nCouleur\nSelon disponibilité\n\nUtilisation\nMaison, détente, nuit\n\nEntretien\nLavage délicat recommandé\n\nRéférence\nAA13BB099",
-     "short_description": "Apportez une touche d’élégance et de douceur à vos soirées avec cet ensemble de nuit raffiné composé d’une nuisette et d’un peignoir assorti."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T165451.227.png"
-   ]
-  },
-  {
-   "sku": "doshift-85344",
-   "price": 219,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble de lingerie en dentelle avec robe assortie",
-     "description": "Apportez une touche d’élégance à votre collection avec cet ensemble de lingerie raffiné, conçu avec une dentelle florale délicate et un voile léger au tombé fluide. Sa coupe féminine met en valeur le style tout en gardant une sensation agréable et confortable à porter.\n\nL’ensemble comprend une nuisette légère avec détails en dentelle ainsi qu’une robe assortie transparente, idéale pour un look chic, élégant et harmonieux. Les finitions en dentelle sur les manches, le décolleté et les bordures ajoutent une touche premium au produit.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de lingerie avec robe assortie\n\nComposition de l’ensemble\nNuisette + robe légère\n\nMatière\nDentelle et voile transparent\n\nStyle\nÉlégant, féminin et raffiné\n\nFinition\nBordures et manches avec dentelle\n\nCoupe\nFluide et confortable\n\nUtilisation\nLingerie de nuit, tenue d’intérieur élégante\n\nCouleur\nRouge fuchsia\n\nRéférence Doshift\nAA13BB099",
-     "short_description": "Apportez une touche d’élégance à votre collection avec cet ensemble de lingerie raffiné, conçu avec une dentelle florale délicate et un voile léger au tombé fluide."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T153519.058.png"
-   ]
-  },
-  {
-   "sku": "doshift-85287",
-   "price": 789,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    3,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe COB Professionnelle YM-300Bi – Éclairage Studio pour Live, Photo & Vidéo",
-     "description": "La lampe COB professionnelle YM-300Bi est conçue pour offrir un éclairage puissant, stable et précis pour les créateurs de contenu, photographes, vidéastes et streamers. Elle permet d’obtenir une lumière claire et uniforme, idéale pour améliorer la qualité visuelle des vidéos, lives, portraits, interviews ou photos de produits.\n\nGrâce à sa température de couleur réglable de 3000K à 7500K, elle s’adapte facilement à différents besoins : lumière chaude pour une ambiance douce, lumière neutre pour un rendu naturel ou lumière froide pour un effet plus professionnel. Sa luminosité ajustable permet de contrôler l’intensité selon la scène, l’espace et le résultat souhaité.\n\nPratique et professionnelle, cette lampe est équipée d’un système de fixation pour support d’éclairage et d’une télécommande permettant de régler les paramètres à distance. C’est un excellent choix pour créer un setup studio propre, moderne et performant.\n\nCaractéristique\nDétail\n\nType de produit\nLampe COB professionnelle\n\nModèle\nYM-300Bi\n\nUtilisation\nLive, photo, vidéo, streaming, portraits, shooting produit\n\nSource lumineuse\nCOB\n\nTempérature de couleur\n3000K – 7500K\n\nLuminosité\nRéglable\n\nContrôle\nBoutons + télécommande\n\nInstallation\nSur support / trépied d’éclairage\n\nDesign\nCorps noir professionnel avec poignée\n\nIdéal pour\nCréateurs de contenu, photographes, vidéastes, studios\n\nRéférence\nAA65BB099",
-     "short_description": "La lampe COB professionnelle YM-300Bi est conçue pour offrir un éclairage puissant, stable et précis pour les créateurs de contenu, photographes, vidéastes et streamers."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T135928.255.png"
-   ]
-  },
-  {
-   "sku": "doshift-85302",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bonnet Gel Anti-Migraine Mauve",
-     "description": "Offrez-vous un moment de soulagement et de détente avec ce bonnet gel anti-migraine conçu pour couvrir confortablement les yeux, le front, les tempes et la zone des sinus. Sa matière douce et extensible épouse la forme de la tête sans pression excessive, pour une sensation agréable pendant le repos, la relaxation ou les moments de fatigue.\n\nGrâce à son gel intégré, il peut être placé au frais avant utilisation afin de procurer une sensation froide apaisante. Idéal à la maison, au bureau, en voyage ou avant de dormir, il aide à créer une ambiance calme et relaxante lorsque vous ressentez une gêne au niveau de la tête ou des yeux.\n\nCaractéristique\nDétail\n\nType de produit\nBonnet gel anti-migraine / masque de relaxation\n\nUtilisation\nTête, yeux, front, tempes et zone des sinus\n\nMatière\nTissu doux extensible avec gel intégré\n\nCouleur\nMauve\n\nTaille\nTaille unique\n\nConfort\nSans velcro, ne tire pas les cheveux\n\nUsage recommandé\nRelaxation, repos, sommeil, fatigue visuelle, sensation de fraîcheur\n\nEntretien\nNettoyage doux en surface recommandé\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Offrez-vous un moment de soulagement et de détente avec ce bonnet gel anti-migraine conçu pour couvrir confortablement les yeux, le front, les tempes et la zone des sinus."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-15T142618.832.png"
-   ]
-  },
-  {
-   "sku": "doshift-85022",
-   "price": 469,
+   "sku": "doshift-86045",
+   "price": 279,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -131,72 +10,185 @@
    ],
    "locales": {
     "fr": {
-     "name": "Piscine Familiale Rectangulaire Gonflable Bestway",
-     "description": "Profitez de l’été à la maison avec cette piscine familiale rectangulaire gonflable Bestway, idéale pour se rafraîchir dans le jardin, sur une terrasse ou dans un espace extérieur. Son format spacieux permet aux enfants et aux adultes de profiter d’un moment agréable en famille, sans avoir besoin d’une installation compliquée.\n\nAvec sa structure gonflable à plusieurs boudins, elle offre un bon maintien et un confort agréable pendant l’utilisation. Sa forme rectangulaire optimise l’espace intérieur pour jouer, s’asseoir ou se détendre dans l’eau.\n\nCaractéristique\nDétail\n\nProduit\nPiscine familiale gonflable\n\nMarque\nBestway\n\nModèle\nBlue Rectangular Family Pool\n\nForme\nRectangulaire\n\nCouleur\nBleu et blanc\n\nDimensions\n3,05 m × 1,83 m × 56 cm\n\nUtilisation\nJardin, terrasse, cour extérieure\n\nType\nPiscine gonflable familiale\n\nÂge recommandé\n6 ans et plus\n\nInstallation\nGonflage simple et rapide\n\nRéférence Doshift\nAA40BB099",
-     "short_description": "Profitez de l’été à la maison avec cette piscine familiale rectangulaire gonflable Bestway, idéale pour se rafraîchir dans le jardin, sur une terrasse ou dans un espace extérieur."
+     "name": "Piscine Gonflable Enfant à Motif Marin 130 × 90 × 46 cm",
+     "description": "Offrez aux enfants un espace de jeu rafraîchissant pendant l’été avec cette piscine gonflable au design marin. Son format rectangulaire est pratique pour une utilisation dans le jardin, sur une terrasse ou dans une cour. Avec ses motifs dauphins, tortues, poissons et fonds marins, elle apporte une ambiance amusante et colorée pour les journées ensoleillées.\n\nCaractéristique\nDétail\n\nType de produit\nPiscine gonflable pour enfants\n\nDimensions\n130 × 90 × 46 cm\n\nÂge recommandé\n6 ans et plus\n\nDesign\nMotif marin avec animaux de mer\n\nUtilisation\nJardin, terrasse, cour, extérieur\n\nForme\nRectangula3ire\n\nInstallation\nGonflage simple et rapide\n\nAvantage\nIdéale pour les jeux d’eau en été\n\nRéférence Doshift\nAA17BB099",
+     "short_description": "Offrez aux enfants un espace de jeu rafraîchissant pendant l’été avec cette piscine gonflable au design marin."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-13T195430.586.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T205715.647.png"
    ]
   },
   {
-   "sku": "doshift-84864",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Webcam Kisonli PC-6 HD 1080P",
-     "description": "Améliorez vos appels vidéo, réunions en ligne et cours à distance avec la webcam Kisonli PC-6. Elle offre une résolution Full HD 1080P pour une image nette et détaillée, idéale pour un usage professionnel ou personnel.\n\nGrâce à son système Plug & Play, elle s’installe rapidement sans pilote supplémentaire. Son support à pince permet de la fixer facilement sur un écran d’ordinateur ou un ordinateur portable, tandis que son angle réglable assure un cadrage confortable.\n\nCaractéristique\nDétail\n\nMarque\nKisonli\n\nModèle\nPC-6\n\nType\nWebcam pour ordinateur\n\nRésolution vidéo\nFull HD 1080P\n\nConnexion\nUSB\n\nInstallation\nPlug & Play, sans pilote\n\nFixation\nSupport à pince ajustable\n\nCouleur\nNoir\n\nUtilisation\nVisioconférences, cours en ligne, appels vidéo et streaming\n\nCompatibilité\nOrdinateurs portables et écrans de bureau\n\nRéférence Doshift\nAA11BB099",
-     "short_description": "Améliorez vos appels vidéo, réunions en ligne et cours à distance avec la webcam Kisonli PC-6. Elle offre une résolution Full HD 1080P pour une image nette et détaillée, idéale pour un usage professionnel ou personnel."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-07-13T133641.026.png"
-   ]
-  },
-  {
-   "sku": "doshift-84759",
-   "price": 79,
+   "sku": "doshift-86021",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Shampoing à l’Huile d’Argan – Nutrition & Brillance Naturelle",
-     "description": "Offrez à vos cheveux les bienfaits de l’huile d’argan avec ce shampoing nourrissant spécialement conçu pour nettoyer en douceur tout en apportant souplesse, hydratation et éclat. Sa formule enrichie aide à revitaliser les cheveux secs, ternes ou fragilisés, pour une chevelure visiblement plus douce et plus brillante.\n\nCaractéristique\nDétail\n\nType de produit\nShampoing à l’huile d’argan\n\nUtilisation\nSoin et nettoyage des cheveux\n\nBienfaits\nNutrition, douceur et brillance\n\nType de cheveux\nTous types de cheveux\n\nFormule\nEnrichie en huile d’argan\n\nUtilisation recommandée\nUsage fréquent\n\nParfum\nAgréable et délicat\n\nRéférence\nAA4BB599",
-     "short_description": "Offrez à vos cheveux les bienfaits de l’huile d’argan avec ce shampoing nourrissant spécialement conçu pour nettoyer en douceur tout en apportant souplesse, hydratation et éclat."
+     "name": "Tueur de moustiques électrique VENCOR HY-1",
+     "description": "Gardez votre intérieur plus confortable avec ce tueur de moustiques électrique VENCOR. Son design compact permet de le placer facilement dans une chambre, un salon, un bureau ou près du lit. Sa grille de protection frontale et son format léger offrent une utilisation simple au quotidien.\n\nIdéal pour les soirées d’été, les espaces intérieurs et les pièces où les moustiques deviennent gênants.\n\nCaractéristique\nDétail\n\nProduit\nTueur de moustiques électrique\n\nMarque\nVENCOR\n\nModèle\nHY-1\n\nUtilisation\nIntérieure\n\nDesign\nCompact avec poignée intégrée\n\nProtection\nGrille frontale de sécurité\n\nCommande\nBouton marche/arrêt\n\nEmplacement conseillé\nChambre, salon, bureau, table de nuit\n\nRéférence\nAA7BB599",
+     "short_description": "Gardez votre intérieur plus confortable avec ce tueur de moustiques électrique VENCOR. Son design compact permet de le placer facilement dans une chambre, un salon, un bureau ou près du lit."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T203900.577.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T202412.355.png"
    ]
   },
   {
-   "sku": "doshift-84753",
-   "price": 49,
+   "sku": "doshift-85997",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Élégance Plus Miracle – Après-Shampoing Professionnel à la Kératine",
-     "description": "Offrez à vos cheveux un soin digne des salons avec Élégance Plus Miracle Hair Conditioner Extra Keratin. Formulé à base de kératine, cet après-shampoing aide à nourrir, lisser et revitaliser la fibre capillaire pour des cheveux plus doux, brillants et faciles à coiffer.\n\nSa formule convient à tous les types de cheveux et contribue à réduire les frisottis tout en apportant souplesse et éclat naturel. Idéal pour un usage régulier à la maison ou en salon professionnel.\n\nCaractéristique\nDétail\n\nType de produit\nAprès-shampoing capillaire\n\nMarque\nÉlégance Plus\n\nGamme\nMiracle\n\nFormule\nExtra Kératine\n\nUtilisation\nProfessionnelle et domestique\n\nType de cheveux\nTous types de cheveux\n\nBénéfices\nNourrit, lisse et apporte de la brillance\n\nAction\nAide à réduire les frisottis\n\nTexture\nCrème après-shampoing\n\nSans parabènes\nOui\n\nRéférence\nAA2BB099",
-     "short_description": "Offrez à vos cheveux un soin digne des salons avec Élégance Plus Miracle Hair Conditioner Extra Keratin."
+     "name": "Sac en feutrine bleu avec pompons – 30 x 20 x 17 cm",
+     "description": "Ce sac en feutrine bleu est un accessoire doux, pratique et mignon pour le quotidien. Son design avec petit motif ourson au centre et ses pompons décoratifs bleus et blancs lui donnent un style enfantin, adorable et original. Léger et facile à porter grâce à ses deux anses souples, il est idéal pour ranger de petits accessoires, jouets, fournitures ou objets personnels.\n\nCaractéristique\nDétail\n\nType de produit\nSac en feutrine\n\nDesign\nMotif ourson avec pompons décoratifs\n\nMatière\nFeutrine douce\n\nDimensions\n30 x 20 x 17 cm\n\nFermeture\nBouton pression\n\nUtilisation\nRangement de petits accessoires, jouets, fournitures ou objets personnels\n\nAvantage\nLéger, pratique et facile à porter\n\nRéférence Doshift\nAA1BB699",
+     "short_description": "Ce sac en feutrine bleu est un accessoire doux, pratique et mignon pour le quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-12T202426.604.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T185024.165.png"
+   ]
+  },
+  {
+   "sku": "doshift-85959",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac en feutrine rose avec pompons – 30 x 20 x 17 cm",
+     "description": "Ce sac en feutrine rose offre un style mignon, doux et pratique pour le quotidien. Avec son petit motif ourson au centre et ses pompons décoratifs roses et blancs, il apporte une touche ludique et adorable. Léger et facile à porter grâce à ses deux anses souples, il est idéal pour ranger de petits accessoires, jouets, fournitures ou objets personnels.\n\nCaractéristique\nDétail\n\nType de produit\nSac en feutrine\n\nDesign\nMotif ourson avec pompons décoratifs\n\nMatière\nFeutrine douce\n\nDimensions\n30 x 20 x 17 cm\n\nFermeture\nBouton pression\n\nUtilisation\nRangement de petits accessoires, jouets, fournitures ou objets personnels\n\nAvantage\nLéger, pratique et facile à porter\n\nRéférence Doshift\nAA1BB699",
+     "short_description": "Ce sac en feutrine rose offre un style mignon, doux et pratique pour le quotidien. Avec son petit motif ourson au centre et ses pompons décoratifs roses et blancs, il apporte une touche ludique et adorable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T170247.325.png"
+   ]
+  },
+  {
+   "sku": "doshift-85985",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac en feutrine orange avec pompons – 30 x 20 x 17 cm",
+     "description": "Ce sac en feutrine orange apporte une touche vive, douce et amusante au quotidien. Son design avec petit motif tigre au centre et ses pompons décoratifs orange et blancs lui donnent un style mignon, coloré et original. Léger et facile à porter grâce à ses deux anses souples, il est idéal pour ranger de petits accessoires, jouets, fournitures ou objets personnels.\n\nCaractéristique\nDétail\n\nType de produit\nSac en feutrine\n\nDesign\nMotif tigre avec pompons décoratifs\n\nMatière\nFeutrine douce\n\nDimensions\n30 x 20 x 17 cm\n\nFermeture\nBouton pression\n\nUtilisation\nRangement de petits accessoires, jouets, fournitures ou objets personnels\n\nAvantage\nLéger, pratique et facile à porter\n\nRéférence Doshift\nAA1BB699",
+     "short_description": "Ce sac en feutrine orange apporte une touche vive, douce et amusante au quotidien. Son design avec petit motif tigre au centre et ses pompons décoratifs orange et blancs lui donnent un style mignon, coloré et original."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T174427.940.png"
+   ]
+  },
+  {
+   "sku": "doshift-85978",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac en feutrine mauve avec pompons – 30 x 20 x 17 cm",
+     "description": "Ce sac en feutrine mauve apporte une touche douce, colorée et élégante au quotidien. Son joli motif floral au centre, accompagné de pompons décoratifs mauves et blancs, lui donne un style mignon et original. Léger et facile à porter grâce à ses deux anses souples, il est parfait pour ranger de petits accessoires, jouets, fournitures ou objets personnels.\n\nCaractéristique\nDétail\n\nType de produit\nSac en feutrine\n\nDesign\nMotif fleur avec pompons décoratifs\n\nMatière\nFeutrine douce\n\nDimensions\n30 x 20 x 17 cm\n\nFermeture\nBouton pression\n\nUtilisation\nRangement de petits accessoires, jouets, fournitures ou objets personnels\n\nAvantage\nLéger, pratique et facile à porter\n\nRéférence Doshift\nAA1BB699",
+     "short_description": "Ce sac en feutrine mauve apporte une touche douce, colorée et élégante au quotidien. Son joli motif floral au centre, accompagné de pompons décoratifs mauves et blancs, lui donne un style mignon et original."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T173110.166.png"
+   ]
+  },
+  {
+   "sku": "doshift-85971",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac en feutrine rouge avec pompons – 30 x 20 x 17 cm",
+     "description": "Ce sac en feutrine rouge apporte une touche mignonne, douce et pratique au quotidien. Son design avec petit motif chat au centre et ses pompons décoratifs rouges et blancs lui donnent un style adorable et ludique. Léger et facile à porter grâce à ses deux anses souples, il est parfait pour ranger de petits accessoires, jouets, fournitures ou objets personnels.\n\nCaractéristique\nDétail\n\nType de produit\nSac en feutrine\n\nDesign\nMotif chat avec pompons décoratifs\n\nMatière\nFeutrine douce\n\nDimensions\n30 x 20 x 17 cm\n\nFermeture\nBouton pression\n\nUtilisation\nRangement de petits accessoires, jouets, fournitures ou objets personnels\n\nAvantage\nLéger, pratique et facile à porter\n\nRéférence Doshift\nAA1BB699",
+     "short_description": "Ce sac en feutrine rouge apporte une touche mignonne, douce et pratique au quotidien. Son design avec petit motif chat au centre et ses pompons décoratifs rouges et blancs lui donnent un style adorable et ludique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T172211.682.png"
+   ]
+  },
+  {
+   "sku": "doshift-85965",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac en feutrine vert avec pompons – 30 x 20 x 17 cm",
+     "description": "Ce sac en feutrine vert apporte une touche fraîche, douce et amusante au quotidien. Son design avec motif grenouille au centre et ses pompons décoratifs verts et blancs lui donnent un style mignon et original. Léger et pratique, il est facile à transporter grâce à ses deux anses souples.\n\nCaractéristique\nDétail\n\nType de produit\nSac en feutrine\n\nDesign\nMotif grenouille avec pompons décoratifs\n\nMatière\nFeutrine douce\n\nDimensions\n30 x 20 x 17 cm\n\nFermeture\nBouton pression\n\nUtilisation\nRangement de petits accessoires, jouets, fournitures ou objets personnels\n\nAvantage\nLéger, pratique et facile à porter\n\nRéférence Doshift\nAA1BB699",
+     "short_description": "Ce sac en feutrine vert apporte une touche fraîche, douce et amusante au quotidien. Son design avec motif grenouille au centre et ses pompons décoratifs verts et blancs lui donnent un style mignon et original."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T171343.177.png"
+   ]
+  },
+  {
+   "sku": "doshift-85935",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac en feutrine bleu avec pompons – 30 x 20 x 17 cm",
+     "description": "Ce sac en feutrine bleu apporte une touche douce, colorée et pratique au quotidien. Son joli motif fleur au centre, accompagné de pompons décoratifs blancs et bleus, lui donne un style mignon et original. Léger et facile à porter grâce à ses deux anses souples, il est idéal pour ranger de petits accessoires, jouets, fournitures ou objets personnels.\n\nCaractéristique\nDétail\n\nType de produit\nSac en feutrine\n\nDesign\nMotif fleur avec pompons décoratifs\n\nMatière\nFeutrine douce\n\nDimensions\n30 x 20 x 17 cm\n\nFermeture\nBouton pression\n\nUtilisation\nRangement de petits accessoires, jouets, fournitures ou objets personnels\n\nAvantage\nLéger, pratique et facile à porter\n\nRéférence Doshift\nAA1BB699",
+     "short_description": "Ce sac en feutrine bleu apporte une touche douce, colorée et pratique au quotidien. Son joli motif fleur au centre, accompagné de pompons décoratifs blancs et bleus, lui donne un style mignon et original."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T163036.887.png"
+   ]
+  },
+  {
+   "sku": "doshift-85928",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac en feutrine vert avec pompons – 30 x 20 x 17 cm",
+     "description": "Ajoutez une touche de douceur et d’originalité au quotidien avec ce joli sac en feutrine vert. Son adorable motif ourson au centre et ses pompons décoratifs verts et blancs lui donnent un style mignon et ludique. Léger et pratique, il est idéal pour ranger et transporter les petits accessoires du quotidien.\n\nGrâce à ses deux anses souples et sa fermeture à bouton pression, ce sac allie confort d’utilisation et praticité. Son format compact est parfait pour les enfants comme pour le rangement d’objets personnels.\n\nCaractéristique\nDétail\n\nType de produit\nSac en feutrine\n\nDesign\nMotif ourson avec pompons décoratifs\n\nMatière\nFeutrine douce\n\nDimensions\n30 x 20 x 17 cm\n\nFermeture\nBouton pression\n\nUtilisation\nRangement de petits accessoires, jouets, fournitures ou objets personnels\n\nAvantage\nLéger, pratique et facile à porter\n\nRéférence Doshift\nAA1BB699",
+     "short_description": "Ajoutez une touche de douceur et d’originalité au quotidien avec ce joli sac en feutrine vert. Son adorable motif ourson au centre et ses pompons décoratifs verts et blancs lui donnent un style mignon et ludique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-17T161110.820.png"
    ]
   }
  ]

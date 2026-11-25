@@ -1,29 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-92998",
-   "price": 879,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse Professionnelle Filaire Wahl Super Taper",
-     "description": "Obtenez une coupe nette, précise et régulière avec la Wahl Super Taper, une tondeuse filaire conçue pour les coupes complètes, les dégradés et les finitions. Son moteur puissant offre une performance constante, tandis que son levier latéral permet d’ajuster facilement la hauteur de coupe selon le résultat souhaité.\n\nGrâce à sa lame métallique précise et à ses différents sabots, elle convient aussi bien aux professionnels de la coiffure qu’à une utilisation à domicile.\n\nCaractéristique\nDétail\n\nProduit\nTondeuse professionnelle pour cheveux\n\nModèle\nWahl Super Taper\n\nType\nTondeuse filaire\n\nUtilisation\nCoupes, dégradés et finitions\n\nLame\nLame métallique réglable\n\nRéglage\nLevier latéral pour ajuster la hauteur de coupe\n\nMoteur\nPuissant et adapté à une utilisation régulière\n\nAlimentation\nBranchement sur secteur\n\nSabots inclus\n4 sabots de coupe\n\nAccessoires\nPeigne, huile lubrifiante et brosse de nettoyage\n\nCouleur\nBlanc, noir et jaune\n\nEntretien\nNettoyage avec la brosse et lubrification régulière de la lame\n\nRéférence Doshift\nAA70BB599",
-     "short_description": "Obtenez une coupe nette, précise et régulière avec la Wahl Super Taper, une tondeuse filaire conçue pour les coupes complètes, les dégradés et les finitions."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T160651.543.png"
-   ]
-  },
-  {
-   "sku": "doshift-92960",
-   "price": 499,
+   "sku": "doshift-105078",
+   "price": 599,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -31,168 +10,186 @@
    ],
    "locales": {
     "fr": {
-     "name": "Projecteur Solaire LED Pliable",
-     "description": "Illuminez facilement vos espaces extérieurs avec ce projecteur solaire LED pratique et polyvalent. Son panneau solaire supérieur capte l’énergie durant la journée afin d’assurer un éclairage efficace une fois la nuit tombée, sans branchement électrique.\n\nGrâce à sa structure pliable et à son angle réglable jusqu’à 180°, vous pouvez orienter la lumière selon vos besoins. Il s’utilise aussi bien dans le jardin, sur la terrasse, au camping, dans le garage ou sur un balcon.\n\nSon format compact facilite le transport et le rangement, tandis que sa conception résistante aux intempéries le rend adapté à une utilisation extérieure.\n\nCaractéristique\nDétail\n\nType de produit\nProjecteur solaire LED pliable\n\nCouleur\nNoir\n\nSource lumineuse\nLED\n\nAlimentation\nÉnergie solaire\n\nPanneau solaire\nIntégré et orientable\n\nAngle d’orientation\nRéglable jusqu’à 180°\n\nStructure\nPliable et portable\n\nInstallation\nSimple, sans câble électrique\n\nUtilisation\nIntérieure et extérieure\n\nRésistance\nConçu pour résister aux intempéries\n\nApplications\nJardin, terrasse, balcon, garage, camping et entrée\n\nRéférence Doshift\nAA32BB099",
-     "short_description": "Illuminez facilement vos espaces extérieurs avec ce projecteur solaire LED pratique et polyvalent."
+     "name": "Projecteur Holographique 3D LED Rotatif",
+     "description": "Transformez vos contenus visuels en une expérience originale avec ce projecteur holographique 3D à LED. Grâce à son système d’affichage rotatif, il crée un effet visuel flottant particulièrement attractif pour présenter des images, animations ou éléments promotionnels.\n\nSon design compact permet de l’intégrer facilement dans une boutique, un showroom, un stand d’exposition, un événement ou un espace commercial. L’affichage haute résolution annoncé de 800 × 800 permet d’obtenir des visuels détaillés et visibles avec un effet holographique moderne.\n\nIdéal pour attirer l’attention des visiteurs et donner une dimension plus dynamique à vos présentations.\n\nCaractéristique\nDétail\n\nType\nProjecteur holographique 3D\n\nTechnologie d’affichage\nLED rotative\n\nRésolution annoncée\n800 × 800\n\nEffet visuel\nAffichage holographique 3D\n\nUtilisation\nImages et animations visuelles\n\nApplications\nBoutique, showroom, événement, exposition, décoration\n\nCouleur\nNoir\n\nInstallation\nSur support / surface adaptée\n\nDesign\nCompact et moderne\n\nRéférence Doshift\nAA42BB599",
+     "short_description": "Transformez vos contenus visuels en une expérience originale avec ce projecteur holographique 3D à LED."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T145419.717.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T175629.227.png"
    ]
   },
   {
-   "sku": "doshift-92913",
-   "price": 319,
+   "sku": "doshift-105061",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret TWS-S65 Écouteurs Sans Fil Kawaii avec Accessoires",
+     "description": "Apportez une touche de douceur à votre quotidien avec le coffret TWS-S65 Happy Day. Son design rose kawaii et ses accessoires assortis en font un ensemble aussi pratique qu’adorable, idéal pour écouter de la musique, passer des appels ou accompagner vos journées à l’école, au travail ou en déplacement.\n\nLes écouteurs sans fil TWS-S65 disposent de commandes tactiles et offrent une connexion sans fil jusqu’à environ 10 mètres. Leur boîtier de charge compact permet de les ranger et de les recharger facilement entre deux utilisations.\n\nLe coffret comprend également plusieurs accessoires assortis, notamment une pochette rose, une dragonne décorative et une montre assortie, pour compléter parfaitement le style Happy Day.\n\nCaractéristique\nDétail\n\nModèle\nTWS-S65\n\nType\nCoffret d’écouteurs sans fil avec accessoires\n\nVersion sans fil\n5.4\n\nPortée de connexion\nJusqu’à environ 10 m\n\nBatterie des écouteurs\n20 mAh × 2\n\nBatterie du boîtier de charge\n200 mAh\n\nTemps de charge\nEnviron 1 à 1,5 heure\n\nAutonomie d’écoute annoncée\nEnviron 3 heures\n\nCommandes\nTactiles\n\nFonction appel\nOui\n\nFaible latence\nOui, annoncée pour le gaming\n\nCompatibilité\nSmartphones Apple et Android\n\nDesign\nRose, motif Happy Day kawaii\n\nAccessoires visibles dans le coffret\nÉcouteurs, boîtier de charge, pochette, dragonne et montre assortie\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Apportez une touche de douceur à votre quotidien avec le coffret TWS-S65 Happy Day."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T172342.388.png"
+   ]
+  },
+  {
+   "sku": "doshift-105011",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Enceinte Portable Sans Fil Greatnice GTS-2461 6,5″ avec Microphone",
+     "description": "Profitez de votre musique et animez vos moments entre amis avec l’enceinte portable Greatnice GTS-2461. Compacte et facile à transporter, elle est idéale pour la maison, les petites soirées, le karaoké, les sorties ou les réunions en famille.\n\nLivrée avec un microphone, elle permet de chanter, prendre la parole ou créer une ambiance conviviale où que vous soyez. Sa batterie rechargeable offre une utilisation sans branchement permanent, tandis que ses différentes options de lecture facilitent l’écoute de vos contenus préférés.\n\nAvec son haut-parleur 6,5 pouces, sa radio FM et ses possibilités de connexion, cette enceinte constitue une solution pratique pour profiter du son au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte portable sans fil\n\nMarque\nGreatnice\n\nModèle\nGTS-2461\n\nTaille du haut-parleur\n6,5 pouces\n\nMicrophone\nInclus\n\nBatterie\nRechargeable\n\nConnexion\nSans fil\n\nRadio\nFM\n\nUSB\nOui\n\nConnexion guitare\nOui, indiquée sur l’emballage\n\nTransport\nSangle intégrée\n\nUtilisations\nMusique, karaoké, maison, fêtes, sorties\n\nCouleur\nNoir\n\nContenu du pack\n1 enceinte portable + 1 microphone\n\nRéférence Doshift\nAA11BB099",
+     "short_description": "Profitez de votre musique et animez vos moments entre amis avec l’enceinte portable Greatnice GTS-2461."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T153229.358.png"
+   ]
+  },
+  {
+   "sku": "doshift-105002",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Nokia 1280 – Téléphone portable classique et pratique",
+     "description": "Le Nokia 1280 est un téléphone simple et compact, pensé pour ceux qui recherchent l’essentiel : appels, utilisation intuitive et grande simplicité au quotidien. Son format léger et son clavier physique facilitent la prise en main et permettent de l’utiliser rapidement.\n\nÉquipé d’une batterie de 1000 mAh, il convient parfaitement comme téléphone principal pour un usage basique ou comme téléphone secondaire. Son écran monochrome offre une lecture claire des informations essentielles, tandis que ses touches physiques rendent la navigation facile.\n\nLe Nokia 1280 intègre également une radio FM sans fil, idéale pour écouter ses stations préférées directement depuis le téléphone.\n\nCaractéristique\nDétail\n\nMarque\nNokia\n\nModèle\n1280\n\nType\nTéléphone portable classique\n\nÉcran\nMonochrome\n\nClavier\nPhysique numérique\n\nBatterie\n1000 mAh\n\nRadio\nRadio FM sans fil\n\nCouleur\nNoir\n\nUtilisation\nAppels et fonctions téléphoniques essentielles\n\nFormat\nCompact\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Le Nokia 1280 est un téléphone simple et compact, pensé pour ceux qui recherchent l’essentiel : appels, utilisation intuitive et grande simplicité au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T152648.494.png"
+   ]
+  },
+  {
+   "sku": "doshift-104996",
+   "price": 349,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Téléphone Gionee E9700 – Clavier QWERTY & lampe torche",
+     "description": "Le Gionee E9700 est un téléphone compact au design classique, équipé d’un clavier physique QWERTY pour faciliter la saisie des messages et des numéros. Son format pratique convient parfaitement aux utilisateurs qui recherchent un téléphone simple et facile à manipuler au quotidien.\n\nIl dispose également d’une batterie intégrée ainsi que d’une lampe torche, pratique lorsque vous avez besoin d’un éclairage d’appoint. Son bouton dédié à la lumière permet un accès rapide à cette fonction.\n\nCaractéristique\nDétail\n\nMarque\nGionee\n\nModèle\nE9700\n\nType\nTéléphone à clavier physique\n\nClavier\nQWERTY\n\nBatterie\nIntégrée\n\nLampe torche\nOui\n\nBouton lumière\nOui\n\nCommandes\nTouches physiques + bouton de navigation central\n\nCouleur présentée\nNoir et bleu turquoise\n\nRéférence Doshift\nAA22BB899",
+     "short_description": "Le Gionee E9700 est un téléphone compact au design classique, équipé d’un clavier physique QWERTY pour faciliter la saisie des messages et des numéros."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T151832.766.png"
+   ]
+  },
+  {
+   "sku": "doshift-104953",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Tondeuse de Nez Électrique Multifonction 2-en-1",
-     "description": "Gardez une apparence soignée en toute simplicité avec cette tondeuse de nez électrique multifonction. Conçue pour éliminer rapidement et en douceur les poils du nez, des oreilles, des sourcils et des pattes, elle offre une coupe précise sans tirer les poils. Son design compact et ergonomique garantit une prise en main confortable, tandis que ses têtes interchangeables permettent de s’adapter à tous vos besoins de grooming.\n\nParfaite pour un usage quotidien ou en déplacement, cette tondeuse est facile à nettoyer grâce à sa tête amovible et son capuchon de protection. Un accessoire indispensable pour une hygiène impeccable et un look soigné.\n\nCaractéristique\nDétail\n\nType\nTondeuse de nez électrique\n\nUtilisation\nNez, oreilles, sourcils, pattes\n\nTêtes\n2 têtes interchangeables\n\nLames\nAcier inoxydable\n\nAlimentation\nÀ pile\n\nNettoyage\nTête amovible, facile à nettoyer\n\nCouleur\nArgent et noir\n\nContenu\nTondeuse, tête de précision, capuchon de protection, peigne de guidage\n\nRéférence Doshift\nAA19BB699",
-     "short_description": "Gardez une apparence soignée en toute simplicité avec cette tondeuse de nez électrique multifonction."
+     "name": "Boîte Repas Compartimentée Kuromi avec Bol Intérieur – Violet & Rose",
+     "description": "Ajoutez une touche kawaii aux repas avec cette jolie boîte repas Kuromi au design violet et rose. Son couvercle transparent est décoré de motifs Kuromi colorés, parfaits pour les fans de cet univers.\n\nGrâce à ses différents compartiments, elle permet de séparer facilement plusieurs aliments dans une seule boîte. Elle comprend également un petit récipient rond intérieur avec couvercle, pratique pour compléter le repas avec des fruits, snacks ou autres accompagnements.\n\nLes 4 clips de fermeture violets maintiennent le couvercle bien en place et facilitent l’ouverture et la fermeture de la boîte. Son format est idéal pour accompagner les repas à l’école, au travail, en sortie ou en pique-nique.\n\nCaractéristique\nDétail\n\nType\nBoîte repas / Bento\n\nDesign\nKuromi kawaii\n\nCouleur\nTransparent, violet et rose\n\nStructure\nBoîte compartimentée\n\nCompartiments\nPlusieurs zones de rangement séparées\n\nRécipient intérieur\nBol rond rose avec couvercle\n\nFermeture\n4 clips latéraux\n\nCouvercle\nTransparent avec motifs décoratifs\n\nUtilisation\nÉcole, travail, sorties, pique-nique\n\nEntretien\nNettoyage pratique après utilisation\n\nRéférence\nAA6BB099",
+     "short_description": "Ajoutez une touche kawaii aux repas avec cette jolie boîte repas Kuromi au design violet et rose. Son couvercle transparent est décoré de motifs Kuromi colorés, parfaits pour les fans de cet univers."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T132854.999.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-24T142207.128.png"
    ]
   },
   {
-   "sku": "doshift-92923",
-   "price": 329,
+   "sku": "doshift-104582",
+   "price": 369,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Kit de Toilettage 12 en 1 Multifonction – Tondeuse pour Homme",
-     "description": "Prenez soin de votre apparence avec ce kit de toilettage 14 en 1, conçu pour répondre à tous vos besoins de grooming. Grâce à ses différents embouts interchangeables, il permet de tailler la barbe, la moustache, les cheveux, les favoris, les poils du nez et des oreilles avec une grande précision. Compact et pratique, il est idéal pour une utilisation quotidienne à la maison comme en déplacement.\n\nSon design ergonomique assure une prise en main confortable, tandis que ses lames de précision garantissent une coupe nette et uniforme. Le kit est complété par plusieurs accessoires essentiels pour un entretien impeccable.\n\nCaractéristique\nDétail\n\nType de produit\nKit de toilettage multifonction\n\nNombre de pièces\n14 en 1\n\nUtilisation\nBarbe, moustache, cheveux, nez, oreilles et finitions\n\nAlimentation\nPILLES\n\nTêtes interchangeables\nOui\n\nLames\nAcier de précision\n\nPeigne de coupe\nInclus\n\nTondeuse nez et oreilles\nIncluse\n\nTête de rasage\nIncluse\n\nCiseaux\nInclus\n\nCoupe-ongles\nInclus\n\nPince à épiler\nIncluse\n\nBrosse de nettoyage\nIncluse\n\nHuile d’entretien\nIncluse\n\nPeigne\nInclus\n\nPochette de rangement\nIncluse\n\nCouleur\nNoir et Argent\n\nPublic\nHomme\n\nUtilisation\nMaison et voyage\n\nRéférence Doshift\nAA26BB099",
-     "short_description": "Prenez soin de votre apparence avec ce kit de toilettage 14 en 1, conçu pour répondre à tous vos besoins de grooming."
+     "name": "Téléphone pliable MBO Fold ip16 – Compact avec clavier physique et recharge Type-C",
+     "description": "Le MBO Fold ip16 est un téléphone pliable au format compact, conçu pour une utilisation simple au quotidien. Son design à clapet permet de le refermer facilement afin de réduire son encombrement et de le transporter dans une poche ou un sac.\n\nUne fois ouvert, il offre un écran couleur accompagné d’un clavier physique à larges touches, pratique pour passer des appels, composer des numéros et naviguer dans les fonctions du téléphone. Son extérieur au style moderne intègre également une zone d’affichage et un module au design inspiré des smartphones actuels.\n\nLa recharge via port Type-C facilite son utilisation avec un connecteur moderne. Un modèle adapté aux utilisateurs recherchant avant tout un téléphone compact, pratique et facile à manipuler.\n\nCaractéristique\nDétail\n\nMarque\nMBO\n\nModèle\nFold ip16\n\nType\nTéléphone portable pliable à clapet\n\nDesign\nCompact et pliable\n\nÉcran\nÉcran couleur\n\nCommandes\nClavier physique numérique\n\nTouches d’appel\nOui\n\nAffichage extérieur\nPrésent sur la partie externe\n\nConnectique de recharge\nType-C\n\nCouleur présentée\nVert menthe\n\nFormat\nFacile à transporter\n\nUtilisation\nAppels et fonctions téléphoniques du quotidien\n\nRéférence Doshift\nAA23BB099",
+     "short_description": "Le MBO Fold ip16 est un téléphone pliable au format compact, conçu pour une utilisation simple au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T134314.276.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-09-16T130750.457.png"
    ]
   },
   {
-   "sku": "doshift-92771",
-   "price": 589,
+   "sku": "doshift-104399",
+   "price": 279,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "NETIS EAP912 – Point d’Accès Wi-Fi Plafonnier AC1200",
-     "description": "Améliorez votre réseau sans fil avec le NETIS EAP912 AC1200, un point d’accès Wi-Fi professionnel conçu pour offrir une couverture rapide, stable et homogène dans les bureaux, hôtels, commerces, restaurants, écoles et habitations. Grâce à son design discret pour montage au plafond, il s’intègre parfaitement à tous les environnements tout en garantissant une excellente performance réseau.\n\nCaractéristique\nDétail\n\nProduit\nPoint d’accès Wi-Fi plafonnier\n\nMarque\nNETIS\n\nModèle\nEAP912\n\nNorme Wi-Fi\nWi-Fi 5 (IEEE 802.11ac)\n\nVitesse Wi-Fi\nAC1200\n\nBandes de fréquence\nDouble bande 2,4 GHz & 5 GHz\n\nMontage\nPlafond ou mur\n\nPort réseau\n1 × Port Ethernet Gigabit (RJ45)\n\nCouverture\nLarge couverture Wi-Fi avec signal stable\n\nUtilisation\nBureau, hôtel, restaurant, magasin, école, maison\n\nConnexion\nPlusieurs utilisateurs simultanément\n\nDesign\nCompact, discret et élégant\n\nInstallation\nSimple et rapide\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA41BB099",
-     "short_description": "Améliorez votre réseau sans fil avec le NETIS EAP912 AC1200, un point d’accès Wi-Fi professionnel conçu pour offrir une couverture rapide, stable et homogène dans les bureaux, hôtels, commerces, restaurants, écoles et…"
+     "name": "Mini Machine à Laver Pliable Mauve avec Panier d’Essorage",
+     "description": "Compacte et pratique, cette mini machine à laver pliable permet de nettoyer facilement de petites pièces de linge. Sa conception rétractable réduit son encombrement après utilisation, ce qui facilite son rangement dans les petits espaces.\n\nElle est accompagnée d’un panier perforé amovible et dispose d’un panneau de commande frontal simple d’utilisation. Idéale pour les sous-vêtements, chaussettes, vêtements de bébé et autres textiles légers.\n\nCaractéristique\nDétail\n\nType\nMini machine à laver pliable\n\nCouleur\nMauve\n\nConception\nPliable et peu encombrante\n\nCommande\nPanneau frontal\n\nPanier intérieur\nPanier perforé amovible\n\nUtilisations\nSous-vêtements, chaussettes, vêtements de bébé et textiles légers\n\nInstallation\nUtilisation sur une surface plane et stable\n\nRangement\nFormat compact une fois repliée\n\nContenu du pack\n1 mini machine à laver pliable + 1 panier perforé\n\nRéférence Doshift\nAA17BB099",
+     "short_description": "Compacte et pratique, cette mini machine à laver pliable permet de nettoyer facilement de petites pièces de linge."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T203908.884.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-22T150241.517.png"
    ]
   },
   {
-   "sku": "doshift-92764",
-   "price": 849,
+   "sku": "doshift-104096",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Point d’Accès Wi-Fi NETIS AX3000 Double Bande pour Plafond",
-     "description": "Profitez d’une connexion Wi-Fi rapide, stable et étendue avec le point d’accès NETIS AX3000. Conçu pour une installation discrète au plafond, il offre une couverture performante tout en s’intégrant parfaitement dans les bureaux, hôtels, cafés, magasins ou grandes habitations.\n\nGrâce à la technologie Wi-Fi 6 et à la double bande 2,4 GHz + 5 GHz, ce point d’accès permet de connecter plusieurs appareils simultanément avec une meilleure fluidité. Sa vitesse élevée est idéale pour la navigation, le streaming, les visioconférences, les téléchargements et les environnements professionnels très connectés.\n\nSon design circulaire blanc, moderne et compact permet une installation propre sans encombrer l’espace. Une solution pratique pour améliorer la couverture réseau dans les zones où un routeur classique ne suffit pas.\n\nCaractéristique\nDétail\n\nType de produit\nPoint d’accès Wi-Fi de plafond\n\nMarque\nNETIS\n\nModèle\nAX3000\n\nTechnologie Wi-Fi\nWi-Fi 6 (802.11ax)\n\nBandes de fréquence\nDouble bande 2,4 GHz + 5 GHz\n\nDébit maximal\nJusqu’à 2976 Mbps\n\nInstallation\nMontage au plafond\n\nCouleur\nBlanc\n\nUtilisation\nBureau, hôtel, magasin, café, école, maison\n\nAvantages\nConnexion rapide, couverture étendue, faible latence, gestion de plusieurs appareils\n\nDesign\nCompact, discret et élégant\n\nRéférence\nAA67BB099",
-     "short_description": "Profitez d’une connexion Wi-Fi rapide, stable et étendue avec le point d’accès NETIS AX3000."
+     "name": "Sac à dos scolaire enfant Avengers – Iron Man",
+     "description": "Faites plaisir aux petits fans de super-héros avec ce sac à dos coloré mettant en vedette Iron Man et Hulk. Son design dynamique aux couleurs vives accompagne parfaitement les enfants à l’école, pendant les sorties ou lors de leurs activités quotidiennes.\n\nÉquipé d’une poignée supérieure et de bretelles réglables, il se porte facilement selon la taille de l’enfant. Ses fermetures zippées permettent de ranger les fournitures scolaires, le goûter et les petits objets du quotidien. La poche latérale en filet offre également un accès rapide à une petite bouteille.\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos scolaire pour enfant\n\nMotif\nAvengers – Iron Man et Hulk\n\nCouleurs principales\nRouge, bleu et multicolore\n\nFermeture\nZippée\n\nPortage\nBretelles réglables et poignée supérieure\n\nRangement latéral\nPoche en filet\n\nUtilisations\nÉcole, sorties et activités quotidiennes\n\nPublic\nEnfant\n\nCouleur\nPrésenter\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Faites plaisir aux petits fans de super-héros avec ce sac à dos coloré mettant en vedette Iron Man et Hulk."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T202450.918.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T183721.727.png"
    ]
   },
   {
-   "sku": "doshift-92728",
-   "price": 599,
+   "sku": "doshift-104081",
+   "price": 39,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Routeur Netis NX30 AX3000 Wi-Fi 6 Double Bande",
-     "description": "Profitez d’une connexion rapide, stable et performante avec le routeur Netis NX30 AX3000. Compatible avec la technologie Wi-Fi 6, il améliore la vitesse de transmission, réduit la latence et permet de connecter plusieurs appareils simultanément dans de meilleures conditions.\n\nGrâce à sa connexion double bande 2,4 GHz et 5 GHz, il offre un excellent équilibre entre portée et rapidité. La bande 2,4 GHz convient parfaitement aux appareils éloignés du routeur, tandis que la bande 5 GHz assure une connexion plus rapide pour le streaming, les jeux en ligne et les téléchargements.\n\nSes antennes externes assurent une couverture étendue et un signal plus stable dans la maison, le bureau ou l’espace de travail. Son design moderne et élégant s’intègre facilement dans tous les environnements.\n\nCaractéristique\nDétail\n\nModèle\nNetis NX30\n\nNorme Wi-Fi\nWi-Fi 6 (IEEE 802.11ax)\n\nClasse Wi-Fi\nAX3000\n\nBandes de fréquence\nDouble bande 2,4 GHz & 5 GHz\n\nDébit sans fil\nJusqu’à 3000 Mbps*\n\nPorts Ethernet\nPorts Gigabit Ethernet\n\nAntennes\n4 antennes externes haute performance\n\nCouverture\nLarge couverture avec signal stable\n\nConnexions simultanées\nOptimisé pour plusieurs appareils connectés\n\nUtilisation\nMaison, bureau, télétravail, streaming 4K, jeux en ligne\n\nSécurité\nProtocoles de sécurité Wi-Fi modernes\n\nInstallation\nConfiguration simple et rapide\n\nDesign\nCompact, moderne et élégant\n\nCouleur\nNoir\n\nRéférence\nAA42BB099",
-     "short_description": "Profitez d’une connexion rapide, stable et performante avec le routeur Netis NX30 AX3000."
+     "name": "Crayons de couleur sans bois – Set de 12 couleurs",
+     "description": "Libérez la créativité des petits comme des grands avec ce set de 12 crayons de couleur aux teintes variées et lumineuses. Parfaits pour le dessin, le coloriage et les activités scolaires, ils permettent de réaliser facilement des créations riches en couleurs.\n\nLeur mine de 3 mm offre un tracé agréable et précis. Fabriqués sans bois à partir de matériaux recyclables, ces crayons constituent un choix pratique pour une utilisation quotidienne à la maison, à l’école ou pendant les loisirs créatifs.\n\nCaractéristique\nDétail\n\nProduit\nCrayons de couleur\n\nNombre de crayons\n12\n\nNombre de couleurs\n12 couleurs\n\nType\nCrayons sans bois\n\nDiamètre de la mine\n3 mm\n\nMatériau\nMatériaux recyclables\n\nUtilisations\nDessin, coloriage et activités créatives\n\nPublic\nEnfants et adultes\n\nContenu du pack\n12 crayons de couleur\n\nRéférence Doshift\nAA1BB599",
+     "short_description": "Libérez la créativité des petits comme des grands avec ce set de 12 crayons de couleur aux teintes variées et lumineuses."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T191521.349.png"
-   ]
-  },
-  {
-   "sku": "doshift-92722",
-   "price": 1279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "NETIS NX62 AX6000 Routeur Wi-Fi 6 Double Bande",
-     "description": "Profitez d’une connexion ultra-rapide et stable avec le NETIS NX62 AX6000, un routeur Wi-Fi 6 conçu pour répondre aux besoins des foyers modernes, des gamers et des professionnels. Grâce à la technologie AX6000, il offre des vitesses élevées, une faible latence et une couverture étendue pour connecter simultanément tous vos appareils.\n\nCaractéristique\nDétail\n\nProduit\nRouteur Wi-Fi 6 Double Bande NETIS NX62\n\nMarque\nNETIS\n\nModèle\nNX62\n\nNorme Wi-Fi\nWi-Fi 6 (802.11ax)\n\nDébit maximal\nJusqu’à 6000 Mbps\n\nBandes de fréquence\n2,4 GHz + 5 GHz\n\nTechnologie\nAX6000 Dual Band\n\nAntennes\n4 antennes externes haute performance\n\nCouverture\nLarge couverture pour toute la maison\n\nSécurité\nWPA3\n\nUtilisation\nStreaming 4K/8K, gaming, télétravail, navigation, maison connectée\n\nCompatibilité\nSmartphones, PC, ordinateurs portables, Smart TV, consoles de jeux, caméras IP et appareils connectés\n\nInstallation\nConfiguration simple et rapide\n\nCouleur\nNoir\n\nRéférence Doshift\nAA110BB099",
-     "short_description": "Profitez d’une connexion ultra-rapide et stable avec le NETIS NX62 AX6000, un routeur Wi-Fi 6 conçu pour répondre aux besoins des foyers modernes, des gamers et des professionnels."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T190111.415.png"
-   ]
-  },
-  {
-   "sku": "doshift-92650",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support Pliable Multifonction pour Ordinateur Portable, Tablette et Smartphone",
-     "description": "Optimisez votre confort de travail et de divertissement avec ce support pliable multifonction. Léger, compact et robuste, il offre une excellente stabilité pour vos appareils tout en restant facile à transporter. Son design pliable permet de le glisser facilement dans un sac pour une utilisation à la maison, au bureau ou en déplacement.\n\nGrâce à ses bras réglables, il s’adapte à une grande variété d’appareils, notamment les ordinateurs portables, tablettes, liseuses et smartphones. Les embouts antidérapants assurent un maintien sécurisé tout en protégeant vos appareils contre les rayures.\n\nCaractéristique\nDétail\n\nType\nSupport pliable multifonction\n\nMatériau\nAlliage métallique + silicone antidérapant\n\nCouleur\nGris\n\nCompatibilité\nSmartphones, tablettes, ordinateurs portables, liseuses\n\nHauteur pliée\n18,2 cm\n\nLargeur\n6 cm\n\nÉpaisseur pliée\n1,8 cm\n\nPoids\nLéger et portable\n\nUtilisation\nBureau, maison, voyage, études\n\nRéférence\nAA11BB599",
-     "short_description": "Optimisez votre confort de travail et de divertissement avec ce support pliable multifonction. Léger, compact et robuste, il offre une excellente stabilité pour vos appareils tout en restant facile à transporter."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T145541.666.png"
-   ]
-  },
-  {
-   "sku": "doshift-92636",
-   "price": 1049,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Projecteur de Jeu Intelligent 2 en 1 avec 2 Manettes Sans Fil",
-     "description": "Transformez votre salon en véritable espace de divertissement grâce à ce projecteur intelligent 2 en 1, conçu pour profiter aussi bien de vos films et séries que de vos jeux vidéo. Son format compact et son support inclinable permettent d’ajuster facilement l’angle de projection selon votre installation.\n\nLe pack comprend deux manettes sans fil, idéales pour jouer à deux en famille ou entre amis. Grâce à sa connectivité Wi-Fi, le projecteur facilite l’accès à vos contenus multimédias et offre une expérience immersive sur grand écran.\n\nCaractéristique\nDétail\n\nType de produit\nProjecteur intelligent avec fonction jeu\n\nFonction\nVidéoprojecteur et console de jeu 2 en 1\n\nConnectivité des manettes\nSans fil 2,4 GHz\n\nNombre de manettes\n2 manettes incluses\n\nConnexion réseau\nWi-Fi 6\n\nAffichage\nProjection grand écran\n\nCompatibilité vidéo\nPrise en charge 4K indiquée\n\nFonction 3D\nOui\n\nOrientation\nSupport inclinable et réglable\n\nCommande\nTélécommande incluse\n\nUtilisations\nJeux vidéo, films, séries, vidéos et événements sportifs\n\nCouleur\nBlanc et noir\n\nAccessoires inclus\n2 manettes, télécommande, récepteur USB, câble d’alimentation et manuel\n\nRéférence Doshift\nAA87BB099",
-     "short_description": "Transformez votre salon en véritable espace de divertissement grâce à ce projecteur intelligent 2 en 1, conçu pour profiter aussi bien de vos films et séries que de vos jeux vidéo."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T141317.058.png"
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-21T182301.280.png"
    ]
   }
  ]

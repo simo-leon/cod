@@ -1,48 +1,49 @@
 {
  "products": [
   {
-   "sku": "doshift-80522",
-   "price": 99,
+   "sku": "doshift-93042",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Mini ventilateur rechargeable portable",
-     "description": "Profitez d’une fraîcheur instantanée partout avec ce mini ventilateur compact et élégant. Léger, pratique et facile à poser, il est idéal pour le bureau, la maison, la chambre ou les déplacements.\n\nCaractéristiques\nDétails\n\nType\nMini ventilateur portable\n\nAlimentation\nRechargeable\n\nUtilisation\nBureau, maison, voyage, extérieur\n\nDesign\nBlanc avec finition dorée\n\nFonction\nVentilation personnelle\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Profitez d’une fraîcheur instantanée partout avec ce mini ventilateur compact et élégant. Léger, pratique et facile à poser, il est idéal pour le bureau, la maison, la chambre ou les déplacements."
+     "name": "Coffret Parfum Femme Exotique Passion Rose – 2 Pièces",
+     "description": "Apportez une touche de douceur et d’élégance à votre quotidien avec le coffret Exotique Passion Rose. Son parfum floral délicat dévoile une senteur féminine, raffinée et agréable, idéale pour accompagner vos journées comme vos occasions spéciales.\n\nPrésenté dans un élégant flacon rose avec capuchon doré, ce coffret contient 2 parfums de 50 ml, parfaits pour une utilisation personnelle ou comme idée cadeau.\n\nCaractéristique\nDétail\n\nProduit\nCoffret Eau de Parfum Femme\n\nMarque\nExotique\n\nGamme\nPassion Rose\n\nType\nEau de Parfum\n\nGenre\nFemme\n\nContenu\n2 flacons\n\nContenance\n2 × 50 ml\n\nFamille olfactive\nFlorale\n\nNotes dominantes\nRose et fleurs délicates\n\nUtilisation\nQuotidienne ou occasions spéciales\n\nDesign\nFlacon rose avec capuchon doré\n\nIdée cadeau\nOui\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apportez une touche de douceur et d’élégance à votre quotidien avec le coffret Exotique Passion Rose."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T205458.136.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T174250.133.png"
    ]
   },
   {
-   "sku": "doshift-80516",
-   "price": 99,
+   "sku": "doshift-92998",
+   "price": 879,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    8,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Mini ventilateur portable rechargeable USB avec lumière LED",
-     "description": "Profitez d’un air frais partout avec ce mini ventilateur portable compact et pratique. Grâce à ses 3 vitesses, sa base détachable et son éclairage LED, il s’utilise facilement sur un bureau, une table de chevet, pendant le maquillage ou en déplacement. Rechargeable par USB, il offre une utilisation simple au quotidien à la maison, au bureau ou en voyage.\n\nCaractéristique\nDétail\n\nType de produit\nMini ventilateur portable\n\nUtilisation\nBureau, maison, chambre, voyage, maquillage\n\nVitesses\n3 niveaux de ventilation\n\nRecharge\nPar câble USB\n\nÉclairage\nLumière LED intégrée\n\nBase\nBase détachable pour utilisation sur table\n\nFormat\nCompact et facile à transporter\n\nAlimentation\nBatterie rechargeable intégrée\n\nDesign\nÉlégant avec finition dorée\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Profitez d’un air frais partout avec ce mini ventilateur portable compact et pratique."
+     "name": "Tondeuse Professionnelle Filaire Wahl Super Taper",
+     "description": "Obtenez une coupe nette, précise et régulière avec la Wahl Super Taper, une tondeuse filaire conçue pour les coupes complètes, les dégradés et les finitions. Son moteur puissant offre une performance constante, tandis que son levier latéral permet d’ajuster facilement la hauteur de coupe selon le résultat souhaité.\n\nGrâce à sa lame métallique précise et à ses différents sabots, elle convient aussi bien aux professionnels de la coiffure qu’à une utilisation à domicile.\n\nCaractéristique\nDétail\n\nProduit\nTondeuse professionnelle pour cheveux\n\nModèle\nWahl Super Taper\n\nType\nTondeuse filaire\n\nUtilisation\nCoupes, dégradés et finitions\n\nLame\nLame métallique réglable\n\nRéglage\nLevier latéral pour ajuster la hauteur de coupe\n\nMoteur\nPuissant et adapté à une utilisation régulière\n\nAlimentation\nBranchement sur secteur\n\nSabots inclus\n4 sabots de coupe\n\nAccessoires\nPeigne, huile lubrifiante et brosse de nettoyage\n\nCouleur\nBlanc, noir et jaune\n\nEntretien\nNettoyage avec la brosse et lubrification régulière de la lame\n\nRéférence Doshift\nAA70BB599",
+     "short_description": "Obtenez une coupe nette, précise et régulière avec la Wahl Super Taper, une tondeuse filaire conçue pour les coupes complètes, les dégradés et les finitions."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-19T172500.299.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T160651.543.png"
    ]
   },
   {
-   "sku": "doshift-80490",
-   "price": 109,
+   "sku": "doshift-92960",
+   "price": 499,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -50,154 +51,149 @@
    ],
    "locales": {
     "fr": {
-     "name": "Bouée Bébé Gonflable avec Pare-Soleil",
-     "description": "Offrez à votre bébé des moments de baignade amusants et sécurisés avec cette bouée gonflable équipée d’un pare-soleil intégré. Conçue pour assurer confort et protection, elle permet à votre enfant de profiter de la piscine ou de la plage tout en restant à l’abri du soleil. Son design coloré avec jouet à billes intégré stimule l’éveil et rend chaque moment encore plus ludique.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA5BB599\n\nType\nBouée gonflable bébé\n\nFonction\nFlotteur avec pare-soleil\n\nMatière\nPVC résistant\n\nCouleur\nRose\n\nDimensions\n60 × 60 × 58 cm\n\nUtilisation\nPiscine, plage, vacances\n\nParticularité\nJouet à billes intégré\n\nÂge recommandé\nBébé et jeune enfant\n\nTransport\nLégère et facile à gonfler",
-     "short_description": "Offrez à votre bébé des moments de baignade amusants et sécurisés avec cette bouée gonflable équipée d’un pare-soleil intégré."
+     "name": "Projecteur Solaire LED Pliable",
+     "description": "Illuminez facilement vos espaces extérieurs avec ce projecteur solaire LED pratique et polyvalent. Son panneau solaire supérieur capte l’énergie durant la journée afin d’assurer un éclairage efficace une fois la nuit tombée, sans branchement électrique.\n\nGrâce à sa structure pliable et à son angle réglable jusqu’à 180°, vous pouvez orienter la lumière selon vos besoins. Il s’utilise aussi bien dans le jardin, sur la terrasse, au camping, dans le garage ou sur un balcon.\n\nSon format compact facilite le transport et le rangement, tandis que sa conception résistante aux intempéries le rend adapté à une utilisation extérieure.\n\nCaractéristique\nDétail\n\nType de produit\nProjecteur solaire LED pliable\n\nCouleur\nNoir\n\nSource lumineuse\nLED\n\nAlimentation\nÉnergie solaire\n\nPanneau solaire\nIntégré et orientable\n\nAngle d’orientation\nRéglable jusqu’à 180°\n\nStructure\nPliable et portable\n\nInstallation\nSimple, sans câble électrique\n\nUtilisation\nIntérieure et extérieure\n\nRésistance\nConçu pour résister aux intempéries\n\nApplications\nJardin, terrasse, balcon, garage, camping et entrée\n\nRéférence Doshift\nAA32BB099",
+     "short_description": "Illuminez facilement vos espaces extérieurs avec ce projecteur solaire LED pratique et polyvalent."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T192316.212.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T145419.717.png"
    ]
   },
   {
-   "sku": "doshift-80415",
-   "price": 159,
+   "sku": "doshift-92913",
+   "price": 319,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Tournevis Électrique Rechargeable HYLLIS – Kit Complet",
-     "description": "Facilitez vos travaux de vissage avec ce tournevis électrique compact, pratique et puissant. Idéal pour le montage de meubles, les petites réparations, l’électronique et les travaux du quotidien.Facilitez vos travaux de vissage avec ce tournevis électrique compact, pratique et puissant. Idéal pour le montage de meubles, les petites réparations, l’électronique et les travaux du quotidien.\n\nCaractéristique\nDétail\n\nProduit\nTournevis électrique\n\nMarque\nHYLLIS\n\nUtilisation\nMaison, bricolage, meubles, électronique\n\nDesign\nCompact et ergonomique\n\nPoignée\nAntidérapante confortable\n\nAccessoires\nEmbouts variés + tournevis manuel inclus\n\nAvantage\nVissage rapide, précis et facile\n\nAlimentation\nRechargeable\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Facilitez vos travaux de vissage avec ce tournevis électrique compact, pratique et puissant."
+     "name": "Tondeuse de Nez Électrique Multifonction 2-en-1",
+     "description": "Gardez une apparence soignée en toute simplicité avec cette tondeuse de nez électrique multifonction. Conçue pour éliminer rapidement et en douceur les poils du nez, des oreilles, des sourcils et des pattes, elle offre une coupe précise sans tirer les poils. Son design compact et ergonomique garantit une prise en main confortable, tandis que ses têtes interchangeables permettent de s’adapter à tous vos besoins de grooming.\n\nParfaite pour un usage quotidien ou en déplacement, cette tondeuse est facile à nettoyer grâce à sa tête amovible et son capuchon de protection. Un accessoire indispensable pour une hygiène impeccable et un look soigné.\n\nCaractéristique\nDétail\n\nType\nTondeuse de nez électrique\n\nUtilisation\nNez, oreilles, sourcils, pattes\n\nTêtes\n2 têtes interchangeables\n\nLames\nAcier inoxydable\n\nAlimentation\nÀ pile\n\nNettoyage\nTête amovible, facile à nettoyer\n\nCouleur\nArgent et noir\n\nContenu\nTondeuse, tête de précision, capuchon de protection, peigne de guidage\n\nRéférence Doshift\nAA19BB699",
+     "short_description": "Gardez une apparence soignée en toute simplicité avec cette tondeuse de nez électrique multifonction."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T161918.638.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T132854.999.png"
    ]
   },
   {
-   "sku": "doshift-80372",
-   "price": 249,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chargeur Voiture Starlight 5 en 1 – Diffuseur LED & Charge Rapide USB",
-     "description": "Transformez vos trajets avec ce chargeur voiture multifonction 5 en 1 combinant recharge rapide, ambiance lumineuse LED et diffusion parfumée. Son design moderne avec éclairage RGB apporte une touche futuriste à votre véhicule tout en gardant vos appareils toujours chargés.\n\nCompact et élégant, il s’intègre parfaitement dans l’allume-cigare pour une utilisation pratique au quotidien. Profitez d’une conduite plus agréable grâce à son diffuseur d’arôme et son éclairage multicolore relaxant.\n\nCaractéristique\nDétail\n\nProduit\nChargeur voiture multifonction 5 en 1\n\nPorts USB\nUSB + USB-C\n\nCharge rapide\nOui\n\nFonction LED\nÉclairage RGB multicolore\n\nFonction diffuseur\nDiffusion parfumée intégrée\n\nCompatibilité\nSmartphones, tablettes et appareils USB\n\nInstallation\nPrise allume-cigare\n\nUtilisation\nVoiture, SUV, camion\n\nDesign\nCompact et moderne\n\nCouleur\nNoir\n\nRéférence Doshift\nAA15BB099",
-     "short_description": "Transformez vos trajets avec ce chargeur voiture multifonction 5 en 1 combinant recharge rapide, ambiance lumineuse LED et diffusion parfumée."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T142755.165.png"
-   ]
-  },
-  {
-   "sku": "doshift-80233",
-   "price": 219,
+   "sku": "doshift-92923",
+   "price": 329,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11,
-    12
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Masseur Cervical & Épaules Chauffant 3D Rechargeable USB",
-     "description": "Profitez d’un massage profond et relaxant à domicile, au bureau ou en voiture grâce à ce masseur cervical ergonomique. Conçu pour soulager les tensions musculaires au niveau du cou, des épaules et du dos, il combine massage 3D et chaleur apaisante pour un confort optimal au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nMasseur cervical et épaules\n\nType de massage\nMassage 3D rotatif\n\nFonction chaleur\nOui\n\nAlimentation\nRechargeable USB\n\nUtilisation\nCou, épaules, dos\n\nCommandes\nBoutons intégrés\n\nMatériau\nTissu doux et confortable\n\nCouleur\nGris\n\nUtilisation recommandée\nMaison, bureau, voiture\n\nRéférence Doshift\nAA14BB099",
-     "short_description": "Profitez d’un massage profond et relaxant à domicile, au bureau ou en voiture grâce à ce masseur cervical ergonomique."
+     "name": "Kit de Toilettage 12 en 1 Multifonction – Tondeuse pour Homme",
+     "description": "Prenez soin de votre apparence avec ce kit de toilettage 14 en 1, conçu pour répondre à tous vos besoins de grooming. Grâce à ses différents embouts interchangeables, il permet de tailler la barbe, la moustache, les cheveux, les favoris, les poils du nez et des oreilles avec une grande précision. Compact et pratique, il est idéal pour une utilisation quotidienne à la maison comme en déplacement.\n\nSon design ergonomique assure une prise en main confortable, tandis que ses lames de précision garantissent une coupe nette et uniforme. Le kit est complété par plusieurs accessoires essentiels pour un entretien impeccable.\n\nCaractéristique\nDétail\n\nType de produit\nKit de toilettage multifonction\n\nNombre de pièces\n14 en 1\n\nUtilisation\nBarbe, moustache, cheveux, nez, oreilles et finitions\n\nAlimentation\nPILLES\n\nTêtes interchangeables\nOui\n\nLames\nAcier de précision\n\nPeigne de coupe\nInclus\n\nTondeuse nez et oreilles\nIncluse\n\nTête de rasage\nIncluse\n\nCiseaux\nInclus\n\nCoupe-ongles\nInclus\n\nPince à épiler\nIncluse\n\nBrosse de nettoyage\nIncluse\n\nHuile d’entretien\nIncluse\n\nPeigne\nInclus\n\nPochette de rangement\nIncluse\n\nCouleur\nNoir et Argent\n\nPublic\nHomme\n\nUtilisation\nMaison et voyage\n\nRéférence Doshift\nAA26BB099",
+     "short_description": "Prenez soin de votre apparence avec ce kit de toilettage 14 en 1, conçu pour répondre à tous vos besoins de grooming."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-22T200222.819.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T134314.276.png"
    ]
   },
   {
-   "sku": "doshift-80200",
-   "price": 189,
+   "sku": "doshift-92771",
+   "price": 589,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ventilateur Brumisateur Double – Portable & Rechargeable",
-     "description": "Profitez d’une fraîcheur instantanée avec ce ventilateur double tête avec brumisation intégrée. Compact, moderne et pratique, il diffuse un air frais et humidifié, idéal pour la maison, le bureau, la chambre ou les journées chaudes.\n\nCaractéristique\nDétail\n\nProduit\nVentilateur brumisateur double\n\nFonction\nVentilation + brumisation\n\nDesign\nDouble ventilateur\n\nAlimentation\nUSB rechargeable\n\nUtilisation\nMaison, bureau, chambre\n\nAvantages\nAir frais, humidification, confort quotidien\n\nOptions\nVitesses réglables, LED colorées\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Profitez d’une fraîcheur instantanée avec ce ventilateur double tête avec brumisation intégrée."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-22T184955.734.png"
-   ]
-  },
-  {
-   "sku": "doshift-80185",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11,
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Hydropulseur Dentaire Portable Rechargeable USB – 4 Embouts Inclus Couleur Aléatoire",
-     "description": "Profitez d’un nettoyage bucco-dentaire complet grâce à cet hydropulseur portable conçu pour éliminer efficacement les résidus alimentaires, la plaque dentaire et les impuretés entre les dents. Compact, léger et rechargeable par USB, il vous accompagne facilement à la maison comme en voyage.\n\nDoté de plusieurs modes de nettoyage et de 4 embouts adaptés à différents besoins, il convient parfaitement aux dents sensibles, appareils orthodontiques et soins quotidiens. Son réservoir transparent permet un contrôle facile du niveau d’eau pour une utilisation pratique et confortable.\n\nCaractéristique\nDétail\n\nProduit\nHydropulseur dentaire portable\n\nModes\nFaible / Moyen / Fort / Pulse\n\nEmbouts inclus\n4 types d’embouts\n\nRecharge\nUSB rechargeable\n\nUtilisation\nNettoyage des dents et gencives\n\nRéservoir d’eau\nTransparent intégré\n\nAvantages\nÉlimine la plaque et les résidus\n\nConvient pour\nDents sensibles & appareils dentaires\n\nDesign\nCompact et portable\n\nRéférence Doshift\nAA9BB099",
-     "short_description": "Profitez d’un nettoyage bucco-dentaire complet grâce à cet hydropulseur portable conçu pour éliminer efficacement les résidus alimentaires, la plaque dentaire et les impuretés entre les dents."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-22T182447.317.png"
-   ]
-  },
-  {
-   "sku": "doshift-79856",
-   "price": 699,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
     4
    ],
    "locales": {
     "fr": {
-     "name": "Mini Caméra Body Cam L10 4K WiFi – Objectif Rotatif 180°",
-     "description": "Capturez chaque instant avec discrétion grâce à cette mini caméra body cam 4K WiFi compacte et performante. Son objectif rotatif à 180° permet d’ajuster facilement l’angle de vue selon vos besoins, tandis que la connexion WiFi facilite la visualisation et le transfert des vidéos directement sur smartphone. Idéale pour la sécurité, les déplacements, le sport, les réunions ou les activités professionnelles.\n\nCompacte, légère et simple à clipser, cette caméra embarquée offre une excellente qualité d’image en Full HD/4K avec enregistrement audio et détection de mouvement pour une utilisation encore plus intelligente.\n\nCaractéristique\nDétail\n\nType de produit\nMini Body Camera WiFi\n\nQualité vidéo\n4K Full HD\n\nRotation objectif\n180°\n\nConnectivité\nWiFi\n\nBatterie\n2000mAh\n\nAutonomie\nJusqu’à 5 heures\n\nStockage\nJusqu’à 256Go\n\nFonctions\nVidéo, audio, photo\n\nDétection\nMotion Detection\n\nFixation\nClip arrière\n\nCouleur\nNoir\n\nRéférence Doshift\nAA55BB099",
-     "short_description": "Capturez chaque instant avec discrétion grâce à cette mini caméra body cam 4K WiFi compacte et performante."
+     "name": "NETIS EAP912 – Point d’Accès Wi-Fi Plafonnier AC1200",
+     "description": "Améliorez votre réseau sans fil avec le NETIS EAP912 AC1200, un point d’accès Wi-Fi professionnel conçu pour offrir une couverture rapide, stable et homogène dans les bureaux, hôtels, commerces, restaurants, écoles et habitations. Grâce à son design discret pour montage au plafond, il s’intègre parfaitement à tous les environnements tout en garantissant une excellente performance réseau.\n\nCaractéristique\nDétail\n\nProduit\nPoint d’accès Wi-Fi plafonnier\n\nMarque\nNETIS\n\nModèle\nEAP912\n\nNorme Wi-Fi\nWi-Fi 5 (IEEE 802.11ac)\n\nVitesse Wi-Fi\nAC1200\n\nBandes de fréquence\nDouble bande 2,4 GHz & 5 GHz\n\nMontage\nPlafond ou mur\n\nPort réseau\n1 × Port Ethernet Gigabit (RJ45)\n\nCouverture\nLarge couverture Wi-Fi avec signal stable\n\nUtilisation\nBureau, hôtel, restaurant, magasin, école, maison\n\nConnexion\nPlusieurs utilisateurs simultanément\n\nDesign\nCompact, discret et élégant\n\nInstallation\nSimple et rapide\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA41BB099",
+     "short_description": "Améliorez votre réseau sans fil avec le NETIS EAP912 AC1200, un point d’accès Wi-Fi professionnel conçu pour offrir une couverture rapide, stable et homogène dans les bureaux, hôtels, commerces, restaurants, écoles et…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-21T135050.232.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T203908.884.png"
    ]
   },
   {
-   "sku": "doshift-79718",
-   "price": 219,
+   "sku": "doshift-92764",
+   "price": 849,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Presse-agrumes Électrique RAF 400ml",
-     "description": "Préparez facilement des jus d’agrumes frais et savoureux avec ce presse-agrumes électrique RAF. Compact, élégant et simple à utiliser, il est idéal pour les oranges, citrons et pamplemousses au quotidien. Son design moderne avec récipient transparent permet de visualiser facilement la quantité de jus préparée.\n\nCaractéristique\nDétail\n\nType\nPresse-agrumes électrique\n\nMarque\nRAF\n\nCapacité\n400 ml\n\nPuissance\n30 W\n\nRotation\nBidirectionnelle\n\nUtilisation\nOranges, citrons, agrumes\n\nNettoyage\nFacile\n\nCouleur\nVert clair transparent\n\nRéférence Doshift\nAA11BB099",
-     "short_description": "Préparez facilement des jus d’agrumes frais et savoureux avec ce presse-agrumes électrique RAF. Compact, élégant et simple à utiliser, il est idéal pour les oranges, citrons et pamplemousses au quotidien."
+     "name": "Point d’Accès Wi-Fi NETIS AX3000 Double Bande pour Plafond",
+     "description": "Profitez d’une connexion Wi-Fi rapide, stable et étendue avec le point d’accès NETIS AX3000. Conçu pour une installation discrète au plafond, il offre une couverture performante tout en s’intégrant parfaitement dans les bureaux, hôtels, cafés, magasins ou grandes habitations.\n\nGrâce à la technologie Wi-Fi 6 et à la double bande 2,4 GHz + 5 GHz, ce point d’accès permet de connecter plusieurs appareils simultanément avec une meilleure fluidité. Sa vitesse élevée est idéale pour la navigation, le streaming, les visioconférences, les téléchargements et les environnements professionnels très connectés.\n\nSon design circulaire blanc, moderne et compact permet une installation propre sans encombrer l’espace. Une solution pratique pour améliorer la couverture réseau dans les zones où un routeur classique ne suffit pas.\n\nCaractéristique\nDétail\n\nType de produit\nPoint d’accès Wi-Fi de plafond\n\nMarque\nNETIS\n\nModèle\nAX3000\n\nTechnologie Wi-Fi\nWi-Fi 6 (802.11ax)\n\nBandes de fréquence\nDouble bande 2,4 GHz + 5 GHz\n\nDébit maximal\nJusqu’à 2976 Mbps\n\nInstallation\nMontage au plafond\n\nCouleur\nBlanc\n\nUtilisation\nBureau, hôtel, magasin, café, école, maison\n\nAvantages\nConnexion rapide, couverture étendue, faible latence, gestion de plusieurs appareils\n\nDesign\nCompact, discret et élégant\n\nRéférence\nAA67BB099",
+     "short_description": "Profitez d’une connexion Wi-Fi rapide, stable et étendue avec le point d’accès NETIS AX3000."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T203352.625.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T202450.918.png"
+   ]
+  },
+  {
+   "sku": "doshift-92728",
+   "price": 599,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Routeur Netis NX30 AX3000 Wi-Fi 6 Double Bande",
+     "description": "Profitez d’une connexion rapide, stable et performante avec le routeur Netis NX30 AX3000. Compatible avec la technologie Wi-Fi 6, il améliore la vitesse de transmission, réduit la latence et permet de connecter plusieurs appareils simultanément dans de meilleures conditions.\n\nGrâce à sa connexion double bande 2,4 GHz et 5 GHz, il offre un excellent équilibre entre portée et rapidité. La bande 2,4 GHz convient parfaitement aux appareils éloignés du routeur, tandis que la bande 5 GHz assure une connexion plus rapide pour le streaming, les jeux en ligne et les téléchargements.\n\nSes antennes externes assurent une couverture étendue et un signal plus stable dans la maison, le bureau ou l’espace de travail. Son design moderne et élégant s’intègre facilement dans tous les environnements.\n\nCaractéristique\nDétail\n\nModèle\nNetis NX30\n\nNorme Wi-Fi\nWi-Fi 6 (IEEE 802.11ax)\n\nClasse Wi-Fi\nAX3000\n\nBandes de fréquence\nDouble bande 2,4 GHz & 5 GHz\n\nDébit sans fil\nJusqu’à 3000 Mbps*\n\nPorts Ethernet\nPorts Gigabit Ethernet\n\nAntennes\n4 antennes externes haute performance\n\nCouverture\nLarge couverture avec signal stable\n\nConnexions simultanées\nOptimisé pour plusieurs appareils connectés\n\nUtilisation\nMaison, bureau, télétravail, streaming 4K, jeux en ligne\n\nSécurité\nProtocoles de sécurité Wi-Fi modernes\n\nInstallation\nConfiguration simple et rapide\n\nDesign\nCompact, moderne et élégant\n\nCouleur\nNoir\n\nRéférence\nAA42BB099",
+     "short_description": "Profitez d’une connexion rapide, stable et performante avec le routeur Netis NX30 AX3000."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T191521.349.png"
+   ]
+  },
+  {
+   "sku": "doshift-92722",
+   "price": 1279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "NETIS NX62 AX6000 Routeur Wi-Fi 6 Double Bande",
+     "description": "Profitez d’une connexion ultra-rapide et stable avec le NETIS NX62 AX6000, un routeur Wi-Fi 6 conçu pour répondre aux besoins des foyers modernes, des gamers et des professionnels. Grâce à la technologie AX6000, il offre des vitesses élevées, une faible latence et une couverture étendue pour connecter simultanément tous vos appareils.\n\nCaractéristique\nDétail\n\nProduit\nRouteur Wi-Fi 6 Double Bande NETIS NX62\n\nMarque\nNETIS\n\nModèle\nNX62\n\nNorme Wi-Fi\nWi-Fi 6 (802.11ax)\n\nDébit maximal\nJusqu’à 6000 Mbps\n\nBandes de fréquence\n2,4 GHz + 5 GHz\n\nTechnologie\nAX6000 Dual Band\n\nAntennes\n4 antennes externes haute performance\n\nCouverture\nLarge couverture pour toute la maison\n\nSécurité\nWPA3\n\nUtilisation\nStreaming 4K/8K, gaming, télétravail, navigation, maison connectée\n\nCompatibilité\nSmartphones, PC, ordinateurs portables, Smart TV, consoles de jeux, caméras IP et appareils connectés\n\nInstallation\nConfiguration simple et rapide\n\nCouleur\nNoir\n\nRéférence Doshift\nAA110BB099",
+     "short_description": "Profitez d’une connexion ultra-rapide et stable avec le NETIS NX62 AX6000, un routeur Wi-Fi 6 conçu pour répondre aux besoins des foyers modernes, des gamers et des professionnels."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T190111.415.png"
+   ]
+  },
+  {
+   "sku": "doshift-92650",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support Pliable Multifonction pour Ordinateur Portable, Tablette et Smartphone",
+     "description": "Optimisez votre confort de travail et de divertissement avec ce support pliable multifonction. Léger, compact et robuste, il offre une excellente stabilité pour vos appareils tout en restant facile à transporter. Son design pliable permet de le glisser facilement dans un sac pour une utilisation à la maison, au bureau ou en déplacement.\n\nGrâce à ses bras réglables, il s’adapte à une grande variété d’appareils, notamment les ordinateurs portables, tablettes, liseuses et smartphones. Les embouts antidérapants assurent un maintien sécurisé tout en protégeant vos appareils contre les rayures.\n\nCaractéristique\nDétail\n\nType\nSupport pliable multifonction\n\nMatériau\nAlliage métallique + silicone antidérapant\n\nCouleur\nGris\n\nCompatibilité\nSmartphones, tablettes, ordinateurs portables, liseuses\n\nHauteur pliée\n18,2 cm\n\nLargeur\n6 cm\n\nÉpaisseur pliée\n1,8 cm\n\nPoids\nLéger et portable\n\nUtilisation\nBureau, maison, voyage, études\n\nRéférence\nAA11BB599",
+     "short_description": "Optimisez votre confort de travail et de divertissement avec ce support pliable multifonction. Léger, compact et robuste, il offre une excellente stabilité pour vos appareils tout en restant facile à transporter."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-13T145541.666.png"
    ]
   }
  ]

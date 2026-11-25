@@ -1,46 +1,65 @@
 {
  "products": [
   {
-   "sku": "doshift-50244",
+   "sku": "doshift-57295",
+   "price": 609,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Caméra embarquée 4 canaux Full HD 1080P",
+     "description": "Sécurisez chaque trajet avec une couverture complète avant, arrière et latérale.Cette dash cam 4 canaux capture simultanément la route sous plusieurs angles pour une protection maximale. Grâce à la résolution Full HD 1080P, au grand angle 170° et au capteur G-sensor intégré, chaque détail est enregistré avec précision. Idéale pour la conduite quotidienne, le stationnement et la sécurité 24h/24.\n\nEnregistrement en boucle automatique, détection de mouvement et mode parking assurent une surveillance continue, même lorsque votre véhicule est à l’arrêt. Compatible 12V–24V, elle convient à la plupart des voitures.\n\nCaractéristique\nDétail\n\nRésolution vidéo\n1920x1080P / 1280x720P\n\nAngle de vision\n170°\n\nCapteur G-sensor\nIntégré\n\nDétection de mouvement\nOui\n\nEnregistrement en boucle\nOui\n\nFormat vidéo\nMOV\n\nCompression\nH.264 / Audio AAC\n\nRésolution photo\n500M\n\nFormat photo\nJPEG\n\nCarte mémoire\nMicro SD jusqu’à 32 Go (non incluse)\n\nMicrophone\nIntégré\n\nMode stationnement\nPris en charge\n\nAlimentation\n12V – 24V\n\nFréquence\n50Hz / 60Hz\n\nLangue\nMultilingue",
+     "short_description": "Sécurisez chaque trajet avec une couverture complète avant, arrière et latérale.Cette dash cam 4 canaux capture simultanément la route sous plusieurs angles pour une protection maximale."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-02-22T033353.524.png"
+   ]
+  },
+  {
+   "sku": "doshift-57286",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Ventilateur humidificateur d’air, rechargeable par USB, Diffuseur de parfum",
-     "description": "Le ventilateur humidificateur d’air rechargeable par USB est un appareil multifonction idéal pour améliorer le confort au quotidien. Il combine ventilation, humidification et diffusion de parfum afin de rafraîchir l’air tout en maintenant un niveau d’humidité agréable. Compact, silencieux et économique, il est parfait pour le bureau, la chambre, la voiture ou les déplacements. Grâce à son fonctionnement USB rechargeable, il peut être utilisé partout, même avec une power bank.",
-     "short_description": "Le ventilateur humidificateur d’air rechargeable par USB est un appareil multifonction idéal pour améliorer le confort au quotidien."
+     "name": "Mini Clavier Numérique Sans Fil Multi-Fonction 2.4 GHz avec 23 Touches – Pavé Numérique Portable Compatible Windows, Mac, Android et iPad",
+     "description": "Le clavier numérique sans fil multi-fonction 2.4 GHz est un pavé numérique portable et ergonomique conçu pour simplifier la saisie des chiffres et des données sur ordinateur portable, PC, tablette ou iPad. Grâce à sa connexion sans fil 2.4 GHz, il offre une stabilité exceptionnelle, une latence quasi nulle et une installation instantanée via son récepteur USB inclus. Compact et léger, il s’adapte parfaitement aux besoins des professionnels de la bureautique, des comptables ou des étudiants qui recherchent efficacité et confort.Spécifications TechniquesNombre de touches : 23Type de connexion : Sans fil 2.4 GHz (USB Receiver)Alimentation : 1.5 V DC ± 5 %Portée sans fil : Jusqu’à 10 mètresDimensions (L × l × H) : 149 × 90 × 20 mmMatériau des touches : Plastique ABS résistantCompatibilitéSystèmes d’exploitation : Windows, macOS, Android, iPadOSAppareils pris en charge : Ordinateur portable, PC, tablette, smartphoneContenu de l’Emballage1 × Clavier numérique sans fil 2.4 GHz1 × Récepteur USBConclusionLe clavier numérique sans fil multi-fonction 2.4 GHz allie simplicité, confort et performance. Il constitue le compagnon idéal pour accélérer vos calculs, vos saisies comptables et vos travaux bureautiques, que ce soit au bureau, à la maison ou en déplacement.\n\nNombre de touches : 23Type de connexion : Sans fil 2.4 GHz (USB Receiver)Alimentation : 1.5 V DC ± 5 %Portée sans fil : Jusqu’à 10 mètresDimensions (L × l × H) : 149 × 90 × 20 mmMatériau des touches : Plastique ABS résistant",
+     "short_description": "Le clavier numérique sans fil multi-fonction 2.4 GHz est un pavé numérique portable et ergonomique conçu pour simplifier la saisie des chiffres et des données sur ordinateur portable, PC, tablette ou iPad."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810240-19_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/1769113975-4_1.jpg"
    ]
   },
   {
-   "sku": "doshift-50241",
+   "sku": "doshift-57243",
    "price": 269,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Appareil de Massage Électrique pour Genoux Chauffant, Sans Fil, Améliore la Circulation & Soulage la Douleur",
-     "description": "Profitez d’un soulagement complet des douleurs articulaires avec cet appareil de massage électrique pour genoux, conçu pour améliorer la circulation sanguine, réduire la raideur musculaire et apaiser les tensions après le sport ou une longue journée.",
-     "short_description": "Profitez d’un soulagement complet des douleurs articulaires avec cet appareil de massage électrique pour genoux, conçu pour améliorer la circulation sanguine, réduire la raideur musculaire et apaiser les tensions après…"
+     "name": "Support Moderne pour Capsules de Café – Design Rectangulaire Élégant",
+     "description": "Apportez une touche moderne et organisée à votre espace café avec ce support rectangulaire pour capsules de café. Son design contemporain en finition mate s’intègre parfaitement dans une cuisine, un bureau ou un coin café. Compact et pratique, il permet de ranger vos capsules de manière ordonnée tout en les gardant facilement accessibles. Sa base métallique robuste assure une excellente stabilité au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSupport / Organisateur de capsules de café\n\nDesign\nModerne, rectangulaire\n\nCapacité\nDouble compartiment pour capsules\n\nCompatibilité\nCapsules de café standards\n\nMatériau principal\nStructure métallique robuste\n\nFinition\nMate premium\n\nBase\nMétal solide avec support stable\n\nUtilisation\nCuisine, bureau, espace café\n\nAvantage\nGain de place et rangement organisé\n\nEntretien\nNettoyage facile avec chiffon sec\n\nCouleur\nNoir\n\nRéférence-doshift\nAA16BB599",
+     "short_description": "Apportez une touche moderne et organisée à votre espace café avec ce support rectangulaire pour capsules de café."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810233-16_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/55332cad-9fb2-4774-96cd-3bd27d4f153a.jpeg"
    ]
   },
   {
-   "sku": "doshift-50239",
-   "price": 149,
+   "sku": "doshift-57237",
+   "price": 269,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -48,18 +67,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Rallonge de Robinet Rotative 360° avec Distributeur de Savon Intégré – Flexible Extensible 60 cm, 3 Modes de Jet Haute Pression pour Cuisine et Salle de Bain, Accessoires Universels, Économie d’Eau",
-     "description": "Transformez votre évier avec ce robinet multifonctionnel et pratique. Idéal pour la cuisine et la salle de bain, il est équipé d’un distributeur de savon intégré, d’un flexible extensible et d’une tête rotative à 360°.",
-     "short_description": "Transformez votre évier avec ce robinet multifonctionnel et pratique. Idéal pour la cuisine et la salle de bain, il est équipé d’un distributeur de savon intégré, d’un flexible extensible et d’une tête rotative à 360°."
+     "name": "Support Moderne pour Capsules de Café – Design Circulaire Élégant",
+     "description": "Apportez une touche moderne et organisée à votre espace café avec ce support à capsules de café au design circulaire. Conçu pour allier esthétique et praticité, il permet de ranger vos capsules de manière visible et accessible tout en décorant votre bureau, cuisine ou coin café. Sa structure robuste en métal assure une excellente stabilité, tandis que son format compact optimise l’espace sans encombrement.\n\nIdéal pour les amateurs de café, ce porte-capsules transforme vos capsules en véritable élément décoratif tout en facilitant votre routine quotidienne.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSupport / Porte-capsules de café\n\nDesign\nCirculaire moderne\n\nCapacité\nPlusieurs capsules (selon format standard)\n\nMatériau\nMétal robuste\n\nFinition\nMate premium\n\nStructure\nBase stable et résistante\n\nUtilisation\nCuisine, bureau, coin café\n\nAvantage principal\nGain de place et organisation\n\nStyle\nModerne & décoratif\n\nEntretien\nNettoyage facile avec chiffon sec\n\nRéférence-doshift\nAA16BB599",
+     "short_description": "Apportez une touche moderne et organisée à votre espace café avec ce support à capsules de café au design circulaire."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810227-14_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/66b91a15-c758-4193-a010-f4852022cda8.jpeg"
    ]
   },
   {
-   "sku": "doshift-50233",
-   "price": 99,
+   "sku": "doshift-57231",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -67,18 +86,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Brosse de Cuvette en Silicone – Nettoyage Hygiénique et Sans Éclaboussures",
-     "description": "Gardez vos toilettes propres et impeccables avec cette brosse de cuvette en silicone moderne et hygiénique.\n\nConçue avec des poils souples en silicone, elle nettoie efficacement sans rayer la surface et empêche l’accumulation de bactéries ou d’odeurs.\n\nSon design ergonomique et élégant s’intègre parfaitement à toute salle de bain, tout en offrant un nettoyage rapide, sans éclaboussures ni résidus.",
-     "short_description": "Gardez vos toilettes propres et impeccables avec cette brosse de cuvette en silicone moderne et hygiénique."
+     "name": "Plateau de Service Décoratif Marbre Noir & Finition Dorée",
+     "description": "Apportez une touche de luxe et d’élégance à votre intérieur avec ce plateau de service décoratif au design marbre noir rehaussé d’une finition dorée raffinée. Parfait pour servir le petit-déjeuner, les boissons, les desserts ou pour organiser vos objets décoratifs, il s’intègre aussi bien dans la cuisine, le salon que la salle de bain. Ses poignées intégrées assurent une prise en main confortable et sécurisée, tout en renforçant son style haut de gamme.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPlateau de service décoratif\n\nDesign\nMotif marbre élégant\n\nCouleur\nNoir avec finition dorée\n\nMatériau\nStructure robuste avec surface décorative\n\nFinition\nDoré luxueux\n\nPoignées\nPoignées latérales intégrées\n\nUtilisation\nService, décoration, rangement\n\nEmplacements\nCuisine, salon, salle de bain, bureau\n\nDimensions\n10 × 14 pouces\n\nEntretien\nNettoyage facile avec chiffon doux\n\nRéférence-doshift\nAA10BB599",
+     "short_description": "Apportez une touche de luxe et d’élégance à votre intérieur avec ce plateau de service décoratif au design marbre noir rehaussé d’une finition dorée raffinée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810212-8_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/93672365-d3f4-49c6-a869-3291bc925401.jpeg"
    ]
   },
   {
-   "sku": "doshift-50232",
-   "price": 169,
+   "sku": "doshift-57226",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -86,37 +105,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lampe de camping puissant rechargeable, lampe de poche",
-     "description": "La lampe de camping puissante rechargeable est conçue pour offrir un éclairage fiable et intense dans toutes les situations : camping, randonnée, pêche, coupure de courant, travail extérieur ou urgence. Grâce à sa batterie rechargeable intégrée, elle garantit une longue autonomie et une utilisation pratique sans piles. Son design robuste et portable permet de l’emporter facilement partout, tandis que ses différents modes d’éclairage s’adaptent à tous vos besoins, de l’éclairage large au faisceau concentré.",
-     "short_description": "La lampe de camping puissante rechargeable est conçue pour offrir un éclairage fiable et intense dans toutes les situations : camping, randonnée, pêche, coupure de courant, travail extérieur ou urgence."
+     "name": "Plateau de Service Décoratif Luxe – Finition Dorée & Motif Marbré",
+     "description": "Apportez une touche d’élégance et de raffinement à votre intérieur avec ce plateau de service décoratif au design luxueux. Sa finition dorée associée à un motif marbré sophistiqué en fait un accessoire idéal pour servir des boissons, présenter des bougies, organiser des cosmétiques ou sublimer une table basse. Polyvalent et chic, il s’intègre parfaitement aussi bien dans un salon moderne que dans une salle de bain ou une chambre.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPlateau de service décoratif\n\nStyle\nModerne & luxueux\n\nMotif\nMarbré élégant\n\nFinition\nDorée (gold finish)\n\nUtilisation\nService boissons, décoration, rangement\n\nPièces compatibles\nSalon, chambre, salle de bain, bureau\n\nPoignées\nPoignées latérales intégrées\n\nForme\nRectangulaire\n\nEntretien\nNettoyage facile avec chiffon doux\n\nDimensions\nEnviron 10 × 14 pouces\n\nRéférence-doshift\nAA10BB599",
+     "short_description": "Apportez une touche d’élégance et de raffinement à votre intérieur avec ce plateau de service décoratif au design luxueux."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810210-7_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/5932f0b5-82fc-4086-9a8d-641918d12aa1.jpeg"
    ]
   },
   {
-   "sku": "doshift-50231",
-   "price": 132,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tabouret Pliable Portable – Compact, Léger & Résistant",
-     "description": "Profitez d’un confort pratique partout avec ce tabouret pliable ultra compact. Idéal pour le camping, la pêche, les pique-niques, le jardinage ou les sorties en plein air, il se transporte facilement grâce à son format pliable et son poids léger. Sa structure métallique robuste assure une excellente stabilité et un usage durable au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nTabouret pliable portable\n\nMatériau\nMétal + tissu Oxford\n\nCouleur\nNoir\n\nStructure\nPliable\n\nUtilisation\nCamping, pêche, jardinage, extérieur\n\nTransport\nFacile et compact\n\nAssise\nConfortable et résistante\n\nStabilité\nStructure renforcée\n\nRéférence Doshift\nAA5BB599",
-     "short_description": "Profitez d’un confort pratique partout avec ce tabouret pliable ultra compact. Idéal pour le camping, la pêche, les pique-niques, le jardinage ou les sorties en plein air, il se transporte facilement grâce à son format…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-05-23T151712.724.png"
-   ]
-  },
-  {
-   "sku": "doshift-50230",
-   "price": 209,
+   "sku": "doshift-57221",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -124,18 +124,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Brosse de Verre de Fenêtre,Nettoyeur fenêtres vitres",
-     "description": "La brosse de nettoyage pour vitres et fenêtres est l’outil idéal pour obtenir des surfaces propres, brillantes et sans traces. Conçue pour faciliter le nettoyage du verre, elle permet d’éliminer efficacement la poussière, les taches d’eau, la saleté et les résidus sur les fenêtres, miroirs, parois de douche et surfaces vitrées. Grâce à sa prise en main confortable et à son design pratique, elle rend le nettoyage rapide et sans effort, aussi bien à la maison qu’au bureau.",
-     "short_description": "La brosse de nettoyage pour vitres et fenêtres est l’outil idéal pour obtenir des surfaces propres, brillantes et sans traces."
+     "name": "Plateau Décoratif Élégant Noir & Or – Design Géométrique Moderne",
+     "description": "Apportez une touche de luxe et de raffinement à votre intérieur avec ce plateau décoratif noir et or au design géométrique moderne. Conçu pour sublimer aussi bien une salle de bain, un salon ou une table basse, il est idéal pour organiser vos accessoires, parfums, bougies, boissons ou objets décoratifs. Sa finition élégante et ses lignes dorées en font un véritable élément de décoration chic et tendance.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPlateau décoratif multifonction\n\nDesign\nMotif géométrique / arabesque élégant\n\nCouleur\nNoir avec finitions dorées\n\nMatériau\nBois MDF robuste + finition métal doré\n\nFinition\nAspect luxueux, bordures dorées\n\nPoignées\nPoignées latérales intégrées\n\nUtilisation\nSalle de bain, salon, table basse, coiffeuse\n\nFonctions\nService, rangement, décoration\n\nStyle\nModerne, chic, luxe\n\nEntretien\nNettoyage facile avec chiffon sec ou légèrement humide\n\nRéférence-doshift\nAA10BB599",
+     "short_description": "Apportez une touche de luxe et de raffinement à votre intérieur avec ce plateau décoratif noir et or au design géométrique moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810205-5_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/af6ec075-35b7-469d-931d-8136fb70e7e1.jpeg"
    ]
   },
   {
-   "sku": "doshift-50228",
-   "price": 479,
+   "sku": "doshift-57215",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -143,37 +143,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Étendoir À Vêtements Mural, Étendoir À Linge Télescopique, Etendoir À Linge Pliable Intérieur, Stable, Grande Capacité, Peu Encombrant, Séchoir À Vêtements pour maison, hôtel, Balcon, Buanderie, Salle De Bain",
-     "description": "L’étendoir à vêtements mural télescopique est la solution idéale pour sécher votre linge efficacement tout en économisant de l’espace. Conçu pour une utilisation intérieure, il se fixe facilement au mur et se déploie uniquement lorsque nécessaire. Sa structure robuste assure une excellente stabilité et une grande capacité de séchage, même pour les vêtements lourds. Pliable et discret une fois replié, il est parfait pour la maison, l’hôtel, le balcon, la buanderie ou la salle de bain. Un accessoire pratique, moderne et durable pour un séchage organisé et sans encombrement.",
-     "short_description": "L’étendoir à vêtements mural télescopique est la solution idéale pour sécher votre linge efficacement tout en économisant de l’espace."
+     "name": "Plateau Décoratif Élégant Noir & Or – Design Géométrique Moderne",
+     "description": "Apportez une touche de luxe et de raffinement à votre intérieur avec ce plateau décoratif noir et or au design géométrique moderne. Conçu pour sublimer aussi bien une salle de bain, un salon ou une table basse, il est idéal pour organiser vos accessoires, parfums, bougies, boissons ou objets décoratifs. Sa finition élégante et ses lignes dorées en font un véritable élément de décoration chic et tendance.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPlateau décoratif multifonction\n\nDesign\nGéométrique moderne\n\nCouleur\nNoir avec motifs dorés\n\nMatériau\nStructure rigide avec finition élégante\n\nUtilisation\nSalle de bain, salon, table basse, coiffeuse\n\nFonction\nOrganisation & décoration\n\nPoignées\nOui, intégrées pour un transport facile\n\nStyle\nLuxe / Moderne / Contemporain\n\nEntretien\nNettoyage facile avec chiffon doux\n\nRéférence-doshift\nAA10BB599",
+     "short_description": "Apportez une touche de luxe et de raffinement à votre intérieur avec ce plateau décoratif noir et or au design géométrique moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810200-3_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/cf8022d6-057f-4955-b21e-0100dc1ab2a3.jpeg"
    ]
   },
   {
-   "sku": "doshift-50226",
-   "price": 479,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Robinet Chauffe-Eau Électrique Instantané en Acier Inoxydable – Eau Chaude Immédiate avec Affichage LED pour Cuisine & Salle de Bain",
-     "description": "Profitez du confort absolu avec ce robinet chauffe-eau électrique instantané conçu pour fournir de l’eau chaude en quelques secondes. Fabriqué en acier inoxydable résistant, il combine design moderne, performance et sécurité. Son affichage LED intelligent permet de contrôler la température en temps réel pour une utilisation confortable et sûre. Idéal pour la cuisine, la salle de bain ou les petits espaces, il chauffe l’eau instantanément sans réservoir ni installation complexe. Une solution économique, pratique et durable pour un confort thermique quotidien.",
-     "short_description": "Profitez du confort absolu avec ce robinet chauffe-eau électrique instantané conçu pour fournir de l’eau chaude en quelques secondes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810194-1_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-50253",
-   "price": 139,
+   "sku": "doshift-57194",
+   "price": 109,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -182,13 +163,33 @@
    ],
    "locales": {
     "fr": {
-     "name": "Sac à Bandoulière Homme Anti-Vol avec Port de Chargement USB",
-     "description": "Ce sac à bandoulière homme anti-vol est conçu pour allier sécurité, praticité et style moderne. Idéal pour le voyage, le travail ou l’usage quotidien, il dispose d’un port USB intégré pour recharger vos appareils en déplacement (power bank non incluse). Léger, imperméable et confortable à porter, il offre plusieurs compartiments intelligents pour organiser facilement vos effets personnels tout en les gardant en sécurité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nSac à bandoulière homme\n\nFonction sécurité\nDesign anti-vol (fermetures sécurisées)\n\nPort USB\nOui (chargement pratique en déplacement)\n\nUtilisation\nVoyage, travail, quotidien, déplacements urbains\n\nCompartiments\nMultiples poches pour une organisation optimale\n\nMatériau\nTissu résistant et imperméable\n\nConfort\nBandoulière réglable et confortable\n\nPoids\nLéger\n\nStyle\nModerne et élégant\n\nCouleur\nSelon disponibilité\n\nÉtanchéité\nRésistant aux éclaboussures\n\nRéférence-Doshift\nAA7BB599",
-     "short_description": "Ce sac à bandoulière homme anti-vol est conçu pour allier sécurité, praticité et style moderne."
+     "name": "Balai Nettoyeur Manuel pour Vitres & Surfaces – Hand Held Mop Multifonction",
+     "description": "Simplifiez le nettoyage de votre maison avec ce balai nettoyeur manuel ergonomique, conçu pour offrir un nettoyage efficace sur les vitres, miroirs, carreaux et surfaces lisses. Grâce à sa tête plate large, son manche confortable et son système de chiffon amovible, il permet un nettoyage rapide aussi bien à sec qu’humide. Idéal pour la salle de bain, les fenêtres, les voitures ou même les murs carrelés, cet outil polyvalent devient vite indispensable au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBalai nettoyeur manuel (Hand Held Mop)\n\nUtilisation\nNettoyage vitres, miroirs, carreaux, surfaces lisses\n\nMode de nettoyage\nÀ sec et humide\n\nTête de nettoyage\nPlate, large, pivotante\n\nChiffon\nMicrofibre lavable et amovible\n\nSystème\nRetrait du chiffon en un clic\n\nManche\nLong, ergonomique, prise en main confortable\n\nCompatibilité surfaces\nVerre, carrelage, miroir, pare-brise, fenêtres\n\nMatériau\nPlastique ABS + microfibre\n\nEntretien\nChiffon réutilisable, lavable\n\nUsage\nMaison, salle de bain, voiture, bureau\n\nRéférence-doshift\nAA3BB599",
+     "short_description": "Simplifiez le nettoyage de votre maison avec ce balai nettoyeur manuel ergonomique, conçu pour offrir un nettoyage efficace sur les vitres, miroirs, carreaux et surfaces lisses."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/2-6.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/d9d48770-6010-44ed-b806-c61ad96fa4a2.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-57187",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rétroviseur Intérieur DVR 10″ avec Caméras Avant & Arrière – Écran Tactile Full HD",
+     "description": "Améliorez votre sécurité et votre confort de conduite avec ce rétroviseur intérieur intelligent équipé d’un écran tactile 10 pouces et d’un système de double caméra. Il permet d’enregistrer simultanément la route à l’avant et à l’arrière du véhicule en haute définition, offrant une visibilité optimale et une preuve vidéo en cas d’incident. Son design discret remplace le rétroviseur d’origine sans modifier l’esthétique intérieure du véhicule. Facile à installer et compatible avec la majorité des voitures, il constitue un accessoire indispensable pour une conduite plus sereine au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRétroviseur intérieur avec caméra DVR\n\nÉcran\nTactile 10 pouces\n\nRésolution caméra avant\nFull HD 1080P\n\nCaméra arrière\nIncluse – vision arrière\n\nAngle de vision\nGrand angle\n\nFonction\nEnregistrement vidéo avant / arrière\n\nCommandes\nTactile (glissement gauche/droite, haut/bas)\n\nStockage\nCarte TF (microSD)\n\nPorts\nUSB, entrée caméra arrière\n\nAlimentation\nChargeur voiture 12V\n\nInstallation\nFixation sur rétroviseur d’origine\n\nCompatibilité\nUniverselle – la majorité des véhicules\n\nContenu du pack\nRétroviseur DVR, caméra arrière, chargeur, fixations, manuel\n\nRéférence-doshift\nAA3BB299",
+     "short_description": "Améliorez votre sécurité et votre confort de conduite avec ce rétroviseur intérieur intelligent équipé d’un écran tactile 10 pouces et d’un système de double caméra."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/94b05802-639a-43c1-b59e-96b8460a8bb1.jpeg"
    ]
   }
  ]

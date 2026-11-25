@@ -1,26 +1,7 @@
 {
  "products": [
   {
-   "sku": "doshift-95785",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Clavier Gaming iMICE AK-400 avec Rétroéclairage RGB",
-     "description": "Améliorez votre espace de jeu avec le clavier gaming iMICE AK-400, conçu pour offrir confort, réactivité et style. Son format complet comprend un pavé numérique ainsi que toutes les touches essentielles pour jouer, travailler ou naviguer facilement.\n\nSon rétroéclairage RGB multicolore apporte une ambiance moderne à votre bureau tout en facilitant l’utilisation dans les environnements peu éclairés. Sa structure robuste au design métallique et ses touches surélevées lui donnent un look gaming agressif et élégant.\n\nGrâce à sa connexion filaire, le clavier offre une utilisation stable et immédiate, sans batterie ni recharge. Il convient parfaitement aux configurations gaming, aux bureaux professionnels et à une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nMarque\niMICE\n\nModèle\nAK-400\n\nType\nClavier gaming filaire\n\nDisposition\nClavier complet avec pavé numérique\n\nÉclairage\nRétroéclairage RGB multicolore\n\nStructure\nPanneau au design métallique\n\nCouleur\nNoir\n\nUtilisation\nGaming, bureautique et multimédia\n\nConnexion\nFilaire\n\nCompatibilité\nOrdinateurs de bureau et PC portables compatibles\n\nRéférence Doshift\nAA11BB099",
-     "short_description": "Améliorez votre espace de jeu avec le clavier gaming iMICE AK-400, conçu pour offrir confort, réactivité et style."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-23T135528.597.png"
-   ]
-  },
-  {
-   "sku": "doshift-95620",
+   "sku": "doshift-96979",
    "price": 89,
    "stock": 10,
    "status": 0,
@@ -30,155 +11,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Nettoyant Puissant pour Canalisations Armstrong",
-     "description": "Le Drain Pipe Cleaner Armstrong est conçu pour aider à éliminer les obstructions présentes dans les canalisations de cuisine, de salle de bain et autres systèmes d’évacuation. Sa formule agit sur les accumulations responsables des écoulements lents et contribue à maintenir les tuyaux propres.\n\nPrésenté dans un flacon pratique avec bouchon vissé, ce nettoyant convient à l’entretien des lavabos, éviers, douches et évacuations domestiques. Pour une utilisation en toute sécurité, respectez impérativement les indications et précautions figurant sur l’emballage.\n\nCaractéristique\nDétail\n\nType de produit\nNettoyant pour canalisations\n\nMarque\nArmstrong\n\nUtilisation\nÉviers, lavabos, douches et tuyaux d’évacuation\n\nFonction principale\nAide à déboucher et nettoyer les canalisations\n\nFormule\nFormule puissante à action rapide\n\nAction annoncée\nJusqu’à 3 minutes selon les indications du fabricant\n\nFormat\nFlacon avec bouchon vissé\n\nCouleur du flacon\nBlanc avec bouchon bleu\n\nPrécautions\nTenir hors de portée des enfants, éviter tout contact avec la peau et les yeux, ne pas mélanger avec d’autres produits\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Le Drain Pipe Cleaner Armstrong est conçu pour aider à éliminer les obstructions présentes dans les canalisations de cuisine, de salle de bain et autres systèmes d’évacuation."
+     "name": "Nettoyant Déboucheur de Canalisations MAXI FIX – 1000 g",
+     "description": "Éliminez efficacement les bouchons et les résidus accumulés dans vos canalisations grâce au nettoyant MAXI FIX Drain Pipe Cleaner. Sa formule puissante aide à désobstruer les conduits et à rétablir un écoulement normal dans les éviers, lavabos, douches et autres évacuations domestiques.\n\nSon format généreux de 1000 g convient à l’entretien régulier des canalisations de la cuisine, de la salle de bain ou de la buanderie. Le flacon robuste avec bouchon à vis facilite le rangement et protège le contenu entre deux utilisations.\n\nCaractéristique\nDétail\n\nProduit\nNettoyant déboucheur de canalisations\n\nMarque\nMAXI FIX\n\nUtilisation\nÉvier, lavabo, douche et évacuations domestiques\n\nAction\nAide à éliminer les bouchons et les résidus\n\nFormat\n1000 g\n\nType de contenant\nFlacon avec bouchon à vis\n\nCouleur du flacon\nNoir et rouge\n\nPrécautions\nPorter des gants, éviter tout contact avec les yeux et ne jamais mélanger avec d’autres produits chimiques\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Éliminez efficacement les bouchons et les résidus accumulés dans vos canalisations grâce au nettoyant MAXI FIX Drain Pipe Cleaner."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-22T175330.713.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-27T141440.641.png"
    ]
   },
   {
-   "sku": "doshift-95589",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Spray Revitalisant pour Boucles à l’Avocat Disaar – 355 ml",
-     "description": "Redonnez fraîcheur, définition et brillance à vos cheveux bouclés avec le spray revitalisant Disaar Avocado. Sa formule enrichie en avocat, beurre de karité et complexe de vitamines B aide à hydrater les cheveux et à raviver les boucles entre deux lavages.\n\nIdéal pour les cheveux bouclés, frisés et ondulés, ce soin léger facilite le coiffage tout en apportant souplesse et éclat, sans alourdir la chevelure. Son format spray permet une application rapide et uniforme au quotidien.\n\nCaractéristique\nDétail\n\nMarque\nDisaar\n\nProduit\nSpray revitalisant pour boucles\n\nGamme\nAvocado Comeback Curl Next Day\n\nContenance\n355 ml\n\nIngrédients mis en avant\nAvocat, beurre de karité et complexe de vitamines B\n\nType de cheveux\nCheveux bouclés, frisés, ondulés et crépus\n\nBénéfices\nRafraîchit les boucles, hydrate et apporte de la brillance\n\nTexture\nSoin liquide en spray\n\nUtilisation\nSur cheveux secs ou légèrement humides\n\nRinçage\nSans rinçage\n\nFormat\nFlacon pulvérisateur\n\nRéférence Doshift\nAA4BB899",
-     "short_description": "Redonnez fraîcheur, définition et brillance à vos cheveux bouclés avec le spray revitalisant Disaar Avocado."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-22T172848.739.png"
-   ]
-  },
-  {
-   "sku": "doshift-94747",
-   "price": 309,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Téléphone à Clapet IT-FLY IF3590 – Rose",
-     "description": "Le IT-FLY IF3590 est un téléphone à clapet compact, simple et pratique, idéal pour les appels et les besoins essentiels du quotidien. Son format pliable protège naturellement l’écran et le clavier tout en facilitant son transport dans une poche ou un sac.\n\nSon écran couleur offre une lecture claire, tandis que ses touches physiques bien espacées permettent une utilisation confortable. Avec son design rose élégant et son interface intuitive, il convient parfaitement aux personnes recherchant un téléphone fiable, facile à prendre en main et sans fonctionnalités compliquées.\n\nCaractéristique\nDétail\n\nProduit\nTéléphone portable à clapet\n\nMarque\nIT-FLY\n\nModèle\nIF3590\n\nCouleur\nRose\n\nType d’écran\nÉcran couleur\n\nClavier\nTouches physiques larges et faciles à utiliser\n\nFormat\nCompact, pliable et facile à transporter\n\nUtilisation\nAppels et messages du quotidien\n\nAvantage\nLe clapet protège l’écran et le clavier\n\nPublic conseillé\nPersonnes recherchant un téléphone simple et pratique\n\nRéférence Doshift\nAA19BB099",
-     "short_description": "Le IT-FLY IF3590 est un téléphone à clapet compact, simple et pratique, idéal pour les appels et les besoins essentiels du quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-20T160709.829.png"
-   ]
-  },
-  {
-   "sku": "doshift-94247",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Robe de nuit ample à motif oursons",
-     "description": "Profitez d’un confort optimal avec cette jolie robe de nuit au style doux et décontracté. Sa coupe ample offre une grande liberté de mouvement, tandis que son encolure carrée froncée et ses manches courtes bouffantes apportent une touche féminine.\n\nSon imprimé composé de petits oursons donne un aspect tendre et original, idéal pour les moments de détente à la maison ou pour passer des nuits confortables.\n\nCaractéristique\nDétail\n\nType de produit\nRobe de nuit / tenue d’intérieur\n\nCouleur\nBlanc cassé\n\nMotif\nPetits oursons imprimés\n\nCoupe\nAmple et confortable\n\nEncolure\nCarrée et froncée\n\nManches\nCourtes et bouffantes\n\nStyle\nFéminin et décontracté\n\nUtilisation\nNuit, détente et maison\n\nEntretien\nLavage doux recommandé\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Profitez d’un confort optimal avec cette jolie robe de nuit au style doux et décontracté."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T174501.900.png"
-   ]
-  },
-  {
-   "sku": "doshift-94225",
-   "price": 199,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Robe de nuit grande taille rouge à manches en tulle",
-     "description": "Alliez confort et élégance avec cette jolie robe de nuit rouge à la coupe ample et fluide. Son design féminin est sublimé par des manches transparentes en tulle à pois et de délicats volants, apportant une touche raffinée à votre tenue d’intérieur.\n\nSa coupe évasée offre une grande liberté de mouvement et convient parfaitement aux moments de détente à la maison. Douce et agréable à porter, elle est idéale pour dormir, se relaxer ou profiter d’une soirée confortable.\n\nCaractéristique\nDétail\n\nType de produit\nRobe de nuit / tenue d’intérieur\n\nStyle\nÉlégant et confortable\n\nCoupe\nAmple et fluide\n\nLongueur\nMi-mollet\n\nCol\nCol rond\n\nManches\nManches courtes évasées\n\nDétails\nTulle transparent à pois avec volants\n\nFermeture\nPetits boutons décoratifs à l’avant\n\nUtilisation\nSommeil, détente et maison\n\nCouleur\nRouge\n\nTaille\nGrande taille, selon disponibilité\n\nEntretien\nLavage délicat recommandé\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Alliez confort et élégance avec cette jolie robe de nuit rouge à la coupe ample et fluide."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T170938.123.png"
-   ]
-  },
-  {
-   "sku": "doshift-94219",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    10,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Legging Femme Noir avec Finition en Dentelle",
-     "description": "Apportez une touche d’élégance à vos tenues quotidiennes avec ce legging noir pour femme. Conçu dans un tissu doux et extensible, il épouse confortablement la silhouette tout en offrant une excellente liberté de mouvement.\n\nSa finition délicate en dentelle au niveau des chevilles ajoute une note féminine et raffinée. Facile à associer avec une tunique, une chemise longue ou un pull, ce legging convient aussi bien aux sorties qu’aux moments de détente à la maison.\n\nCaractéristique\nDétail\n\nType de produit\nLegging pour femme\n\nCouleur\nNoir\n\nMatière\nTissu doux et extensible\n\nCoupe\nAjustée près du corps\n\nTaille\nÉlastique\n\nFinition\nDentelle élégante aux chevilles\n\nConfort\nSouple et agréable à porter\n\nUtilisation\nQuotidien, sorties et détente\n\nEntretien\nLavage doux recommandé\n\nRéférence\nAA5BB099",
-     "short_description": "Apportez une touche d’élégance à vos tenues quotidiennes avec ce legging noir pour femme."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T170156.807.png"
-   ]
-  },
-  {
-   "sku": "doshift-94213",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble Pyjama Femme 2 Pièces Imprimé Ourson",
-     "description": "Profitez de moments de détente tout en douceur avec cet adorable ensemble pyjama pour femme. Son imprimé ourson aux tons marron et rose apporte une touche mignonne et chaleureuse, idéale pour vos soirées et vos nuits à la maison.\n\nL’ensemble comprend un haut ample à col froncé, agrémenté de délicates finitions en dentelle au niveau des manches, ainsi qu’un pantalon long assorti avec taille élastiquée. Sa coupe confortable offre une grande liberté de mouvement pour dormir ou se relaxer.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble pyjama pour femme\n\nNombre de pièces\n2 pièces\n\nComposition de l’ensemble\nHaut et pantalon long\n\nStyle du haut\nCoupe ample avec col froncé\n\nManches\nManches courtes avec finition en dentelle\n\nPantalon\nCoupe longue avec taille élastiquée\n\nMotif\nImprimé ourson\n\nCouleurs\nCrème, marron et rose\n\nUtilisation\nNuit, détente et intérieur\n\nEntretien\nLavage doux recommandé\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Profitez de moments de détente tout en douceur avec cet adorable ensemble pyjama pour femme."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T164717.760.png"
-   ]
-  },
-  {
-   "sku": "doshift-94234",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble de bain fille 3 pièces – Gris et violet",
-     "description": "Offrez à votre enfant confort et liberté de mouvement avec cet élégant ensemble de bain pour fille. Son design moderne associe un haut à manches courtes, une jupe intégrée à motif ondulé, un legging assorti et un bonnet de bain.\n\nConçu dans un tissu léger, souple et agréable à porter, il convient parfaitement pour la piscine, la plage et les activités aquatiques. Sa coupe couvrante permet à l’enfant de bouger, jouer et nager confortablement tout en profitant d’un style élégant.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble de bain couvrant pour fille\n\nNombre de pièces\n3 pièces\n\nContenu de l’ensemble\nHaut avec jupe intégrée, legging et bonnet assorti\n\nCouleur\nGris et violet\n\nManches\nManches courtes\n\nStyle\nModerne, couvrant et confortable\n\nMatière\nTissu léger, souple et extensible\n\nSéchage\nRapide\n\nUtilisation\nPiscine, plage et activités aquatiques\n\nPublic\nFille\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Offrez à votre enfant confort et liberté de mouvement avec cet élégant ensemble de bain pour fille."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T172457.312.png"
-   ]
-  },
-  {
-   "sku": "doshift-94191",
-   "price": 99,
+   "sku": "doshift-96619",
+   "price": 249,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -187,13 +31,172 @@
    ],
    "locales": {
     "fr": {
-     "name": "Raccords excentrés muraux chromés – Lot de 2",
-     "description": "Facilitez l’installation de votre robinetterie avec ce lot de 2 raccords excentrés muraux. Leur forme déportée permet d’ajuster l’écartement entre les arrivées d’eau et le mitigeur, afin d’obtenir un raccordement précis et parfaitement aligné.\n\nLeur finition chromée brillante s’intègre élégamment dans toutes les salles de bain. Les rosaces décoratives dissimulent les points de fixation pour une installation propre et soignée, tandis que les joints inclus contribuent à assurer une bonne étanchéité.\n\nCaractéristique\nDétail\n\nType de produit\nRaccords excentrés muraux\n\nQuantité\nLot de 2\n\nFinition\nChromée brillante\n\nUtilisation\nRaccordement et alignement d’un mitigeur mural\n\nCompatibilité\nRobinetterie de douche et de baignoire\n\nInstallation\nFixation murale\n\nFonction\nAjustement de l’écartement entre les arrivées d’eau\n\nFiletage\nFiletage standard\n\nAccessoires inclus\n2 rosaces chromées et 2 joints d’étanchéité\n\nCouleur\nArgent chromé\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Facilitez l’installation de votre robinetterie avec ce lot de 2 raccords excentrés muraux."
+     "name": "Mitigeur de Lavabo Chromé Sani Pure Z80011",
+     "description": "Apportez une touche moderne et élégante à votre salle de bain avec le mitigeur de lavabo Sani Pure Z80011. Sa finition chromée brillante s’intègre facilement à différents styles de vasques et de lavabos.\n\nÉquipé d’un levier unique, il permet de régler simplement le débit ainsi que la température de l’eau. Son bec incurvé assure une utilisation confortable au quotidien, tandis que son design compact convient parfaitement aux salles de bain modernes.\n\nCaractéristique\nDétail\n\nType de produit\nMitigeur de lavabo\n\nMarque\nSani Pure\n\nModèle\nZ80011\n\nCouleur\nArgenté\n\nFinition\nChromée brillante\n\nCommande\nLevier unique\n\nFonction\nMélange eau chaude et eau froide\n\nType de bec\nBec fixe incurvé\n\nInstallation\nMontage sur lavabo ou vasque\n\nUtilisation\nSalle de bain\n\nStyle\nModerne\n\nRéférence\nAA15BB099",
+     "short_description": "Apportez une touche moderne et élégante à votre salle de bain avec le mitigeur de lavabo Sani Pure Z80011. Sa finition chromée brillante s’intègre facilement à différents styles de vasques et de lavabos."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-18T151759.465.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T201835.325.png"
+   ]
+  },
+  {
+   "sku": "doshift-96600",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 2 pinces polyvalentes – Jaune et noir",
+     "description": "Ce set de 2 pinces est idéal pour réaliser facilement vos travaux de bricolage, de réparation et de maintenance. Il comprend une pince à bec long, pratique pour atteindre les zones étroites et manipuler de petites pièces, ainsi qu’une pince universelle, adaptée pour saisir, maintenir et couper différents matériaux.\n\nLeurs poignées ergonomiques offrent une prise en main confortable et stable, tandis que leur structure métallique assure une utilisation fiable au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSet de pinces manuelles\n\nNombre de pièces\n2\n\nContenu du set\n1 pince à bec long et 1 pince universelle\n\nFonctions principales\nSaisir, maintenir, plier, manipuler et couper\n\nMatériau principal\nMétal robuste\n\nPoignées\nErgonomiques avec revêtement antidérapant\n\nCouleur\nJaune et noir\n\nUtilisation\nBricolage, réparation, mécanique et travaux domestiques\n\nConditionnement\nSet de 2 pinces\n\nRéférence Doshift\nAA2BB599",
+     "short_description": "Ce set de 2 pinces est idéal pour réaliser facilement vos travaux de bricolage, de réparation et de maintenance."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T195844.882.png"
+   ]
+  },
+  {
+   "sku": "doshift-96631",
+   "price": 239,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mitigeur de douche mural chromé à levier unique",
+     "description": "Apportez une touche moderne et élégante à votre salle de bain avec ce mitigeur de douche mural. Sa finition chromée brillante s’intègre facilement à différents styles de décoration tout en facilitant son entretien.\n\nÉquipé d’une commande à levier unique, il permet de régler simplement le débit et la température de l’eau. Sa sortie inférieure est prévue pour raccorder un flexible de douche, offrant une installation pratique et fonctionnelle.\n\nCaractéristique\nDétail\n\nType de produit\nMitigeur de douche mural\n\nCommande\nLevier unique\n\nFinition\nChromée brillante\n\nCouleur\nArgent\n\nInstallation\nMurale\n\nRéglage\nDébit et température de l’eau\n\nIndicateur\nRepère chaud/froid rouge et bleu\n\nSortie inférieure\nPrévue pour flexible de douche\n\nUtilisation\nDouche et salle de bain\n\nEntretien\nNettoyage simple avec un chiffon doux\n\nRéférence Doshift\nAA14BB599",
+     "short_description": "Apportez une touche moderne et élégante à votre salle de bain avec ce mitigeur de douche mural. Sa finition chromée brillante s’intègre facilement à différents styles de décoration tout en facilitant son entretien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T204259.479.png"
+   ]
+  },
+  {
+   "sku": "doshift-96613",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie manuelle à placo LAMBOSS 7 pouces",
+     "description": "La scie murale LAMBOSS est spécialement conçue pour réaliser des découpes rapides et précises dans les plaques de plâtre, le placo et les cloisons sèches. Sa lame dentée facilite la pénétration dans le matériau et permet de créer facilement des ouvertures pour les prises électriques, les passages de câbles ou les travaux de rénovation.\n\nSa poignée ergonomique avec revêtement antidérapant assure une prise en main confortable et un meilleur contrôle pendant la découpe. Compacte et facile à transporter, elle convient aussi bien aux professionnels qu’aux amateurs de bricolage.\n\nCaractéristique\nDétail\n\nType de produit\nScie murale manuelle\n\nMarque\nLAMBOSS\n\nModèle\nLB-812\n\nTaille de la lame\n7 pouces\n\nType de lame\nLame dentée\n\nCouleur\nNoir et jaune\n\nMatériaux compatibles\nPlaques de plâtre, placo, cloisons sèches et panneaux légers\n\nPoignée\nErgonomique et antidérapante\n\nUtilisation\nDécoupe, rénovation, ouverture pour prises et passages de câbles\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "La scie murale LAMBOSS est spécialement conçue pour réaliser des découpes rapides et précises dans les plaques de plâtre, le placo et les cloisons sèches."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T201301.094.png"
+   ]
+  },
+  {
+   "sku": "doshift-96559",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe LED multifonction avec éclairage latéral et outils d’urgence",
+     "description": "Pratique à garder dans la voiture, à la maison ou dans un sac d’équipement, cette lampe LED multifonction combine un éclairage frontal avec une large zone d’éclairage latéral. Son format allongé facilite la prise en main et permet également de la suspendre grâce à sa dragonne.\n\nElle convient particulièrement aux situations de dépannage automobile, coupure de courant, camping, bricolage ou utilisation nocturne. Le corps intègre également des éléments conçus pour les situations d’urgence, notamment un embout métallique brise-vitre et un outil coupe-ceinture.\n\nCaractéristique\nDétail\n\nType\nLampe LED multifonction\n\nCouleur\nNoir\n\nÉclairage\nFrontal + latéral LED\n\nUtilisation\nVoiture, maison, camping, bricolage, dépannage\n\nFonction d’urgence\nEmbout brise-vitre\n\nOutil intégré\nCoupe-ceinture\n\nTransport\nDragonne intégrée\n\nInstallation\nPossibilité de suspension\n\nFormat\nCompact et portable\n\nCommande\nBouton marche/arrêt intégré\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Pratique à garder dans la voiture, à la maison ou dans un sac d’équipement, cette lampe LED multifonction combine un éclairage frontal avec une large zone d’éclairage latéral."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-09-15T132340.630.png"
+   ]
+  },
+  {
+   "sku": "doshift-96539",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lot de 2 Rasoirs Jetables Femme à 3 Lames – Wetell Comfortglide",
+     "description": "Profitez d’un rasage pratique et confortable avec ce lot de 2 rasoirs jetables Wetell Comfortglide Spa Breeze. Chaque rasoir est équipé de 3 lames pour couper efficacement les poils et obtenir une peau plus lisse en quelques passages.\n\nSa bande lubrifiante facilite la glisse sur la peau, tandis que son manche ergonomique offre une prise en main stable et confortable. Compact et léger, ce rasoir est idéal pour une utilisation quotidienne, à la maison ou pendant les voyages.\n\nCaractéristique\nDétail\n\nProduit\nRasoirs jetables pour femme\n\nMarque\nWetell\n\nGamme\nComfortglide Spa Breeze\n\nNombre de rasoirs\n2\n\nNombre de lames\n3 lames par rasoir\n\nBande lubrifiante\nOui\n\nType de manche\nErgonomique avec zones de préhension\n\nCouleur\nVert et blanc\n\nUtilisation\nJambes, aisselles et soins corporels\n\nFormat\nCompact et léger\n\nRéférence Doshift\nAA",
+     "short_description": "Profitez d’un rasage pratique et confortable avec ce lot de 2 rasoirs jetables Wetell Comfortglide Spa Breeze."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T180127.530.png"
+   ]
+  },
+  {
+   "sku": "doshift-96474",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rasoir Féminin 3 Lames avec 21 Cartouches",
+     "description": "Profitez d’un rasage pratique et confortable avec ce rasoir féminin doté de 3 lames. Sa tête permet une coupe régulière, tandis que la bande lubrifiante facilite le passage du rasoir sur la peau et aide à réduire les sensations d’inconfort.\n\nSon manche ergonomique rose et blanc offre une bonne prise en main, même lorsqu’il est utilisé dans un environnement humide. Le pack comprend 1 rasoir et 21 cartouches de rechange, idéal pour une utilisation prolongée à la maison ou en voyage.\n\nCaractéristique\nDétail\n\nType de produit\nRasoir féminin\n\nNombre de lames\n3 lames\n\nBande lubrifiante\nOui\n\nManche\nErgonomique\n\nColoris\nRose et blanc\n\nContenu du pack\n1 rasoir + 21 cartouches\n\nUtilisation\nJambes, aisselles et autres zones du corps\n\nFormat\nPratique et facile à transporter\n\nRéférence Doshift\nAA2BB399",
+     "short_description": "Profitez d’un rasage pratique et confortable avec ce rasoir féminin doté de 3 lames."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T163510.452.png"
+   ]
+  },
+  {
+   "sku": "doshift-96467",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rasoir Féminin Rose à 3 Lames avec Bande Lubrifiante",
+     "description": "Profitez d’un rasage précis et confortable grâce à ce rasoir féminin à 3 lames. Sa tête est équipée d’une bande lubrifiante qui facilite la glisse sur la peau et aide à réduire les sensations d’irritation pendant le rasage.\n\nSa poignée ergonomique texturée offre une prise en main stable, même lorsqu’elle est mouillée. Pratique pour l’entretien quotidien des jambes, des aisselles et des autres zones du corps, ce rasoir convient parfaitement à une utilisation à la maison comme en voyage.\n\nCaractéristique\nDétail\n\nContenu du pack\n1 rasoir + 31 cartouches\n\nNombre de lames\n3 lames par cartouche\n\nBande lubrifiante\nOui\n\nCouleur\nRose\n\nRéférence Doshift\nAA2BB799",
+     "short_description": "Profitez d’un rasage précis et confortable grâce à ce rasoir féminin à 3 lames. Sa tête est équipée d’une bande lubrifiante qui facilite la glisse sur la peau et aide à réduire les sensations d’irritation pendant le…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T163132.757.png"
+   ]
+  },
+  {
+   "sku": "doshift-96450",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lot de 3 Rasoirs Jetables pour Femme – 3 Lames",
+     "description": "Profitez d’un rasage simple, rapide et confortable avec ce lot de 3 rasoirs jetables. Chaque rasoir est équipé de 3 lames pour une coupe précise et régulière, idéale pour l’entretien des jambes et du corps.\n\nLe manche ergonomique offre une prise en main confortable et facilite le contrôle pendant l’utilisation. Leur format léger et compact permet de les emporter facilement dans une trousse de toilette, à la maison comme en voyage.\n\nCaractéristique\nDétail\n\nType de produit\nRasoirs jetables pour femme\n\nQuantité\nLot de 3\n\nNombre de lames\n3 lames par rasoir\n\nUtilisation\nJambes et corps\n\nType de peau\nConvient aux peaux sensibles\n\nManche\nErgonomique et confortable\n\nFormat\nLéger et compact\n\nCouleurs\nVert, orange et rose selon disponibilité\n\nEntretien\nRincer après chaque utilisation\n\nRéférence Doshift\nAA2BB099",
+     "short_description": "Profitez d’un rasage simple, rapide et confortable avec ce lot de 3 rasoirs jetables. Chaque rasoir est équipé de 3 lames pour une coupe précise et régulière, idéale pour l’entretien des jambes et du corps."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-25T161855.471.png"
    ]
   }
  ]

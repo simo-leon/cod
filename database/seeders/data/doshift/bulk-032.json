@@ -1,122 +1,65 @@
 {
  "products": [
   {
-   "sku": "doshift-91140",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "SUAVE For Man – Eau de Toilette 110 ml",
-     "description": "Découvrez SUAVE For Man, une eau de toilette masculine au style élégant et moderne. Son flacon noir raffiné reflète un parfum conçu pour l’homme qui aime rester frais, confiant et bien présenté au quotidien.\n\nAvec son format 110 ml, ce parfum est idéal pour une utilisation régulière, que ce soit pour le travail, les sorties ou les occasions spéciales. Son design sobre et chic en fait aussi une excellente idée cadeau.\n\nCaractéristique\nDétail\n\nProduit\nParfum homme\n\nNom\nSUAVE For Man\n\nType\nEau de Toilette\n\nFormat\nSpray\n\nContenance\n110 ml\n\nStyle\nMasculin, élégant, moderne\n\nUtilisation\nQuotidienne, sorties, occasions\n\nPublic cible\nHomme\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Découvrez SUAVE For Man, une eau de toilette masculine au style élégant et moderne. Son flacon noir raffiné reflète un parfum conçu pour l’homme qui aime rester frais, confiant et bien présenté au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T134651.002.png"
-   ]
-  },
-  {
-   "sku": "doshift-90982",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Atlantis Plato Burprise – Brume Parfumée 250 ml",
-     "description": "Apportez une touche de fraîcheur et d’élégance à votre routine avec Atlantis Plato Burprise, une brume parfumée au design luxueux et raffiné. Son flacon argenté décoratif avec bouchon travaillé donne une allure premium, parfaite pour une utilisation quotidienne ou comme idée cadeau.\n\nSa formule en brume parfumée permet de parfumer délicatement le corps et les vêtements avec une sensation légère et agréable.\n\nCaractéristique\nDétail\n\nProduit\nBrume parfumée\n\nModèle\nAtlantis Plato Burprise\n\nCollection\nSignature Collection\n\nContenance\n250 ml / 8.4 FL OZ\n\nUtilisation\nCorps et vêtements\n\nFormat\nSpray / brume parfumée\n\nDesign\nFlacon argenté décoratif\n\nRéférence\nAA4BB099",
-     "short_description": "Apportez une touche de fraîcheur et d’élégance à votre routine avec Atlantis Plato Burprise, une brume parfumée au design luxueux et raffiné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T181915.223.png"
-   ]
-  },
-  {
-   "sku": "doshift-90956",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Exotique Adventvs – Coffret Eau de Parfum 2 PCS – 50 ml x2",
-     "description": "Découvrez Exotique Adventvs, un coffret élégant composé de 2 flacons d’Eau de Parfum de 50 ml chacun. Son style noir premium et masculin en fait un parfum idéal pour une utilisation quotidienne, les sorties, le travail ou comme cadeau.\n\nAvec son vaporisateur pratique, il s’applique facilement et accompagne parfaitement votre routine parfumée.\n\nCaractéristique\nDétail\n\nProduit\nEau de Parfum\n\nMarque\nExotique\n\nModèle\nAdventvs\n\nContenu\n2 PCS\n\nCapacité\n50 ml x2\n\nType\nVaporisateur Natural Spray\n\nStyle\nÉlégant, masculin, premium\n\nUtilisation\nQuotidien, sorties, cadeau\n\nRéférence\nAA3BB599",
-     "short_description": "Découvrez Exotique Adventvs, un coffret élégant composé de 2 flacons d’Eau de Parfum de 50 ml chacun."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T173257.600.png"
-   ]
-  },
-  {
-   "sku": "doshift-90937",
+   "sku": "doshift-92262",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Coffret Soin Parfumé Clive Dorris Imperial V – 2 Pièces",
-     "description": "Offrez une touche de luxe à votre routine quotidienne avec le coffret Clive Dorris Imperial V. Ce set élégant comprend une lotion parfumée et un soin parfumé assorti, conçus pour laisser la peau délicatement parfumée et agréablement douce.\n\nSon design bleu ciel avec finitions dorées apporte une présentation raffinée, idéale pour une utilisation personnelle ou comme cadeau.\n\nCaractéristique\nDétail\n\nProduit\nCoffret soin parfumé\n\nMarque\nClive Dorris\n\nModèle\nImperial V\n\nContenu\n2 pièces\n\nType\nLotion parfumée + soin parfumé\n\nContenance\n250 ml + 236 ml\n\nCouleur\nBleu ciel avec détails dorés\n\nUtilisation\nCorps et mains\n\nStyle\nÉlégant, raffiné, féminin\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Offrez une touche de luxe à votre routine quotidienne avec le coffret Clive Dorris Imperial V."
+     "name": "Couverture Super Douce 200 × 220 cm – Motif Chevron Corail & Blanc",
+     "description": "Profitez d’un confort exceptionnel avec cette couverture ultra douce au toucher velours. Grâce à son grand format de 200 × 220 cm, elle est idéale pour couvrir un lit double ou partager des moments de détente sur le canapé. Son tissu moelleux procure une chaleur agréable tout en restant léger, parfait pour les soirées fraîches, les siestes ou les instants cocooning.\n\nSon élégant motif chevron corail et blanc apporte une touche chaleureuse et moderne à votre intérieur. Polyvalente, cette couverture peut être utilisée comme couvre-lit, plaid de canapé ou couverture d’appoint.\n\nCaractéristique\nDétail\n\nType\nCouverture super douce\n\nDimensions\n200 × 220 cm\n\nMotif\nChevron\n\nCouleur\nCorail & Blanc\n\nMatière\nPolyester doux\n\nUtilisation\nLit, canapé, salon, chambre\n\nEntretien\nLavable en machine\n\nRéférence\nAA2BB499",
+     "short_description": "Profitez d’un confort exceptionnel avec cette couverture ultra douce au toucher velours."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T171601.403.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/9fde8ae5-1ddd-4d9c-aace-b3b555b33eb3.jpg"
    ]
   },
   {
-   "sku": "doshift-90975",
-   "price": 89,
+   "sku": "doshift-92172",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Parfum Homme Office Pour Homme – Coffret 2 Pièces",
-     "description": "Découvrez Office Pour Homme, un parfum masculin au design élégant, pensé pour accompagner l’homme moderne au quotidien. Son flacon noir avec détails dorés offre une présentation raffinée, idéale pour une utilisation personnelle ou comme cadeau.\n\nAvec son style chic et sobre, ce coffret de 2 pièces convient parfaitement pour le bureau, les sorties, les occasions spéciales ou un usage quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nParfum pour homme\n\nNom\nOffice Pour Homme\n\nQuantité\nCoffret 2 pièces\n\nDesign\nFlacon noir élégant avec étiquette dorée\n\nUtilisation\nQuotidienne, bureau, sorties, occasions spéciales\n\nStyle\nMasculin, chic et moderne\n\nIdéal pour\nHomme adulte\n\nFormat\nCoffret cadeau\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Découvrez Office Pour Homme, un parfum masculin au design élégant, pensé pour accompagner l’homme moderne au quotidien."
+     "name": "Pot de fleurs décoratif gris – Taille 40",
+     "description": "Apportez une touche élégante et moderne à votre intérieur ou à votre espace extérieur avec ce pot de fleurs décoratif. Sa finition gris clair effet pierre et ses motifs en relief lui donnent un style raffiné qui s’intègre facilement dans différents décors.\n\nLéger et pratique, il convient parfaitement pour accueillir des plantes vertes, des fleurs ou de petits arbustes. Il peut être utilisé dans le salon, sur un balcon, une terrasse, une entrée ou dans le jardin.\n\nCaractéristique\nDétail\n\nType\nPot de fleurs décoratif\n\nDesign\nMotifs en relief effet pierre\n\nCouleur\nGris\n\nTaille\n40\n\nMatériau\nPlastique résistant\n\nUtilisation\nIntérieur et extérieur\n\nCompatible\nPlantes vertes, fleurs, petits arbustes\n\nAvantages\nLéger, durable, facile à déplacer\n\nStyle\nModerne et élégant\n\nEntretien\nNettoyage facile avec un chiffon humide\n\nRéférence\nAA4BB099",
+     "short_description": "Apportez une touche élégante et moderne à votre intérieur ou à votre espace extérieur avec ce pot de fleurs décoratif."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T181049.472.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T161728.608.png"
    ]
   },
   {
-   "sku": "doshift-90922",
-   "price": 89,
+   "sku": "doshift-92142",
+   "price": 59,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Exotique Make Your Bright Pour Femme – Eau de Parfum 2 x 55 ml",
-     "description": "Apportez une touche d’élégance à votre quotidien avec Exotique Make Your Bright Pour Femme, une eau de parfum féminine au style raffiné. Son flacon chic et moderne, accompagné d’un design doux et glamour, en fait un parfum idéal pour une utilisation quotidienne ou comme cadeau.\n\nSa présentation en pack de 2 flacons de 55 ml est pratique pour garder un flacon à la maison et un autre dans le sac, ou pour offrir.\n\nCaractéristique\nDétail\n\nProduit\nEau de parfum femme\n\nMarque\nExotique\n\nModèle\nMake Your Bright Pour Femme\n\nContenance\n2 x 55 ml\n\nType\nVaporisateur / Natural Spray\n\nUtilisation\nQuotidienne, sorties, cadeau\n\nPublic cible\nFemme\n\nPackaging\nCoffret de 2 flacons\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Apportez une touche d’élégance à votre quotidien avec Exotique Make Your Bright Pour Femme, une eau de parfum féminine au style raffiné."
+     "name": "Pot de fleur rond effet pierre – Gris anthracite",
+     "description": "Apportez une touche moderne et élégante à votre intérieur ou à votre extérieur avec ce pot de fleur au design rainuré. Sa finition gris anthracite effet pierre met parfaitement en valeur vos plantes vertes, fleurs et compositions décoratives.\n\nFabriqué en plastique résistant, il est à la fois léger, pratique et facile à déplacer. Sa forme ronde et intemporelle s’intègre harmonieusement dans un salon, une entrée, un bureau, un balcon ou une terrasse.\n\nCaractéristique\nDétail\n\nType de produit\nPot de fleur décoratif\n\nForme\nRonde\n\nCouleur\nGris anthracite\n\nMatière\nPlastique résistant\n\nFinition\nEffet pierre moucheté\n\nTexture\nSurface extérieure rainurée\n\nUtilisation\nIntérieur et extérieur\n\nConvient pour\nPlantes vertes, fleurs et compositions décoratives\n\nPoints forts\nLéger, solide et facile à déplacer\n\nEntretien\nNettoyage facile avec un chiffon humide\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Apportez une touche moderne et élégante à votre intérieur ou à votre extérieur avec ce pot de fleur au design rainuré."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T170416.045.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T154602.679.png"
    ]
   },
   {
-   "sku": "doshift-90968",
-   "price": 79,
+   "sku": "doshift-92135",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -125,70 +68,128 @@
    ],
    "locales": {
     "fr": {
-     "name": "Parfum Kiss 100 ml",
-     "description": "Ajoutez une touche d’élégance à votre routine avec le Parfum Kiss 100 ml, un parfum au style féminin et raffiné. Son flacon original avec bouchon rouge brillant apporte une présentation chic, idéale pour une coiffeuse ou comme cadeau.\n\nSa contenance généreuse de 100 ml permet une utilisation quotidienne, que ce soit pour le travail, les sorties ou les occasions spéciales. Un parfum au design séduisant, pensé pour celles qui aiment les accessoires beauté élégants et glamour.\n\nCaractéristique\nDétail\n\nProduit\nParfum Kiss\n\nContenance\n100 ml\n\nType\nEau de parfum / parfum féminin\n\nDesign\nFlacon élégant avec bouchon rouge brillant\n\nUtilisation\nQuotidienne, sorties, occasions spéciales\n\nIdéal pour\nCadeau, routine beauté, coiffeuse\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "Ajoutez une touche d’élégance à votre routine avec le Parfum Kiss 100 ml, un parfum au style féminin et raffiné."
+     "name": "Set de brosse et peigne pour bébé",
+     "description": "Prenez soin des cheveux délicats de votre bébé avec ce joli ensemble composé d’une brosse douce et d’un peigne assorti. Sa conception légère et ergonomique permet une prise en main confortable pour démêler et coiffer les cheveux tout en douceur.\n\nLa brosse possède des poils souples adaptés au cuir chevelu sensible des tout-petits, tandis que le peigne aux dents arrondies aide à discipliner les cheveux sans tirer. Son design effet bois apporte une touche naturelle et élégante aux accessoires de toilette de bébé.\n\nCaractéristique\nDétail\n\nProduit\nSet de brosse et peigne pour bébé\n\nContenu\n1 brosse douce + 1 peigne\n\nMatière\nAspect bois naturel\n\nType de poils\nPoils souples et doux\n\nUtilisation\nCoiffer et démêler délicatement les cheveux\n\nConfort\nAdapté au cuir chevelu sensible de bébé\n\nPrise en main\nForme ergonomique et légère\n\nÂge recommandé\nDès la naissance\n\nEntretien\nNettoyage simple à la main\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Prenez soin des cheveux délicats de votre bébé avec ce joli ensemble composé d’une brosse douce et d’un peigne assorti."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T175446.731.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-11T153102.673.png"
    ]
   },
   {
-   "sku": "doshift-90896",
+   "sku": "doshift-91959",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panier de rangement rectangulaire multi-usage",
+     "description": "Optimisez facilement vos espaces avec ce panier de rangement en plastique au design simple et pratique. Sa forme rectangulaire permet de ranger efficacement les produits alimentaires, accessoires de salle de bain, fournitures de bureau, vêtements ou petits objets du quotidien.\n\nGrâce à ses parois ajourées, il assure une bonne ventilation et permet de repérer rapidement son contenu. Compact et facile à nettoyer, il trouve parfaitement sa place dans un réfrigérateur, un placard, un tiroir, une étagère ou sur un plan de travail.\n\nCaractéristique\nDétail\n\nType de produit\nPanier de rangement\n\nForme\nRectangulaire\n\nMatière\nPlastique\n\nCouleur\nBlanc\n\nDesign\nParois latérales ajourées\n\nUtilisation\nOrganisation et rangement\n\nEmplacements adaptés\nCuisine, réfrigérateur, salle de bain, bureau, dressing et placard\n\nEntretien\nFacile à nettoyer\n\nAvantages\nCompact, pratique, ventilé et peu encombrant\n\nRéférence Doshift\nAA2BB599",
+     "short_description": "Optimisez facilement vos espaces avec ce panier de rangement en plastique au design simple et pratique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T200448.852.png"
+   ]
+  },
+  {
+   "sku": "doshift-91892",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse de Toilette avec Support",
+     "description": "Gardez vos toilettes propres et bien organisées grâce à cette brosse WC avec support assorti. Son design compact et élégant s’intègre facilement dans tous les styles de salle de bain, tout en restant discret à côté des toilettes.\n\nLa poignée texturée offre une prise en main confortable, tandis que le support ajouré favorise une meilleure aération après utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse de toilette avec support\n\nUtilisation\nNettoyage des toilettes\n\nCouleur\nMauve et beige\n\nPoignée\nLongue et texturée pour une prise en main confortable\n\nSupport\nAjouré pour favoriser l’aération\n\nDesign\nModerne, élégant et compact\n\nEntretien\nFacile à nettoyer\n\nInstallation\nÀ poser au sol\n\nContenu\n1 brosse de toilette + 1 support\n\nRéférence Doshift\nAA2BB099",
+     "short_description": "Gardez vos toilettes propres et bien organisées grâce à cette brosse WC avec support assorti."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T172351.486.png"
+   ]
+  },
+  {
+   "sku": "doshift-91922",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble Gant de Four + Manique Motif Avocat",
+     "description": "Apportez une touche originale et pratique à votre cuisine avec cet ensemble assorti composé d’un gant de four et d’une manique carrée. Son design gris décoré de motifs avocat protège vos mains lors de la manipulation de plats, casseroles et ustensiles chauds.\n\nLe gant offre une bonne prise en main, tandis que la manique peut être utilisée comme protection pour saisir un récipient chaud ou comme dessous-de-plat. Les deux éléments disposent d’une boucle permettant de les suspendre facilement après utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble d’accessoires de cuisine\n\nComposition\n1 gant de four + 1 manique carrée\n\nMotif\nAvocat\n\nCouleur\nGris avec bordures noires\n\nUtilisation\nManipulation de plats, casseroles et récipients chauds\n\nFonction de la manique\nProtection pour les mains ou dessous-de-plat\n\nRangement\nBoucles de suspension intégrées\n\nEntretien\nNettoyage facile\n\nContenu du pack\n2 pièces\n\nRéférence Doshift\nAA2BB099",
+     "short_description": "Apportez une touche originale et pratique à votre cuisine avec cet ensemble assorti composé d’un gant de four et d’une manique carrée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T175653.859.png"
+   ]
+  },
+  {
+   "sku": "doshift-91861",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Présentoir à Desserts 3 Niveaux – Design Élégant",
+     "description": "Apportez une touche raffinée à vos tables avec ce présentoir à 3 niveaux. Son support métallique au style vintage et ses plateaux blancs aux bords ondulés mettent parfaitement en valeur vos pâtisseries, fruits, macarons, cupcakes et amuse-bouches.\n\nGrâce à sa structure verticale, il permet de présenter plusieurs préparations tout en économisant de l’espace sur la table. Idéal pour les goûters, réceptions, anniversaires, fêtes ou repas en famille.\n\nCaractéristique\nDétail\n\nType de produit\nPrésentoir à desserts\n\nNombre de niveaux\n3 niveaux\n\nStructure\nSupport métallique\n\nPlateaux\n3 plateaux blancs aux bords ondulés\n\nDesign\nÉlégant, décoratif et style vintage\n\nUtilisation\nPrésentation de gâteaux, fruits, macarons, cupcakes et amuse-bouches\n\nAvantage\nOptimise l’espace grâce à sa présentation verticale\n\nOccasions\nRéceptions, anniversaires, fêtes, goûters et repas en famille\n\nEntretien\nNettoyage facile avec un chiffon doux et humide\n\nCouleur\nStructure marron foncé avec plateaux blancs\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Apportez une touche raffinée à vos tables avec ce présentoir à 3 niveaux. Son support métallique au style vintage et ses plateaux blancs aux bords ondulés mettent parfaitement en valeur vos pâtisseries, fruits,…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T160339.902.png"
+   ]
+  },
+  {
+   "sku": "doshift-91853",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "ALLERV Exchange Sport – Eau de Parfum Homme 100 ml",
-     "description": "Découvrez ALLERV Exchange Sport, un parfum homme au style moderne, élégant et dynamique. Sa fragrance raffinée accompagne parfaitement le quotidien, les sorties, le travail ou les moments spéciaux. Son flacon au design premium avec bouchon doré apporte une touche chic et masculine.\n\nCaractéristique\nDétail\n\nProduit\nEau de parfum homme\n\nModèle\nExchange Sport\n\nMarque\nALLERV\n\nContenance\n100 ml\n\nType\nVaporisateur natural spray\n\nStyle\nÉlégant, masculin, sportif\n\nUtilisation\nQuotidienne, sorties, occasions\n\nPublic cible\nHomme\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Découvrez ALLERV Exchange Sport, un parfum homme au style moderne, élégant et dynamique. Sa fragrance raffinée accompagne parfaitement le quotidien, les sorties, le travail ou les moments spéciaux."
+     "name": "Mini Poêle Antiadhésive Compacte",
+     "description": "Préparez facilement de petites portions avec cette mini poêle pratique et peu encombrante. Idéale pour cuire un œuf, une mini crêpe, un pancake ou réchauffer une petite quantité d’aliments, elle convient parfaitement aux petits-déjeuners et aux repas rapides.\n\nSon revêtement antiadhésif facilite la cuisson et le nettoyage, tandis que sa poignée ergonomique offre une prise en main confortable. Son format compact permet également de la ranger facilement dans la cuisine.\n\nCaractéristique\nDétail\n\nType\nMini poêle\n\nUtilisation\nŒufs, pancakes, crêpes et petites portions\n\nRevêtement\nAntiadhésif\n\nFormat\nCompact et peu encombrant\n\nPoignée\nErgonomique avec ouverture de suspension\n\nCouleur\nNoir avec détail bleu\n\nEntretien\nFacile à nettoyer\n\nContenu\n1 mini poêle\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Préparez facilement de petites portions avec cette mini poêle pratique et peu encombrante."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T153631.542.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T154823.540.png"
    ]
   },
   {
-   "sku": "doshift-90829",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coffret Parfum Homme JUST G – 2 x 50 ml",
-     "description": "Découvrez JUST G Pour Homme, un parfum masculin au style moderne et élégant. Son flacon bleu au design iconique apporte une touche premium, idéale pour une utilisation quotidienne ou pour offrir.\n\nCe coffret contient 2 parfums de 50 ml, parfaits pour garder une fragrance fraîche et raffinée à la maison, au bureau ou en déplacement.\n\nCaractéristique\nDétail\n\nProduit\nParfum homme\n\nModèle\nJUST G Pour Homme\n\nMarque\nExotique\n\nType\nEau de parfum / vaporisateur\n\nContenance\n2 x 50 ml\n\nQuantité\n2 pièces\n\nPublic\nHomme\n\nUtilisation\nQuotidienne, sortie, cadeau\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Découvrez JUST G Pour Homme, un parfum masculin au style moderne et élégant. Son flacon bleu au design iconique apporte une touche premium, idéale pour une utilisation quotidienne ou pour offrir."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T132733.257.png"
-   ]
-  },
-  {
-   "sku": "doshift-90823",
+   "sku": "doshift-91690",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3,
+    10
    ],
    "locales": {
     "fr": {
-     "name": "Pack 2 Parfums Sana Jardin Pour Femme – 2 x 50 ml",
-     "description": "Offrez une touche d’élégance au quotidien avec le parfum Sana Jardin Pour Femme. Son flacon raffiné au design féminin et sa fragrance florale délicate en font un choix idéal pour une utilisation personnelle ou comme cadeau.\n\nCe coffret contient 2 flacons de 50 ml, pratiques à garder à la maison, dans le sac ou à offrir.\n\nCaractéristique\nDétail\n\nProduit\nParfum femme\n\nMarque\nSana Jardin\n\nType\nEau de parfum / Spray\n\nContenance\n2 x 50 ml\n\nQuantité\n2 pièces\n\nStyle\nFéminin, floral, élégant\n\nUtilisation\nQuotidien, sortie, cadeau\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Offrez une touche d’élégance au quotidien avec le parfum Sana Jardin Pour Femme. Son flacon raffiné au design féminin et sa fragrance florale délicate en font un choix idéal pour une utilisation personnelle ou comme…"
+     "name": "Sac de Lavage pour Chaussures avec Embauchoirs Ajustables",
+     "description": "Lavez vos chaussures en machine facilement tout en les protégeant grâce à ce sac de lavage en maille respirante. Il permet de nettoyer les baskets, chaussures textiles ou chaussons sans les exposer directement aux frottements du tambour.\n\nLe sac peut contenir une paire de chaussures et se ferme avec une fermeture zippée pratique. Les embauchoirs ajustables inclus aident à garder la forme des chaussures pendant le lavage et limitent les plis.\n\nCaractéristique\nDétail\n\nProduit\nSac de lavage pour chaussures\n\nUtilisation\nLavage des chaussures en machine\n\nCapacité\nConvient pour 2 chaussures\n\nMatière\nMaille respirante\n\nFermeture\nFermeture zippée\n\nFonction principale\nProtège les chaussures pendant le lavage\n\nAvantage\nRéduit les frottements directs dans le tambour\n\nAccessoires inclus\nEmbauchoirs ajustables\n\nCompatibilité\nBaskets, chaussures textiles, chaussures tricotées et chaussons\n\nRéutilisable\nOui\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Lavez vos chaussures en machine facilement tout en les protégeant grâce à ce sac de lavage en maille respirante."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T131936.082.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T193122.512.png"
    ]
   }
  ]

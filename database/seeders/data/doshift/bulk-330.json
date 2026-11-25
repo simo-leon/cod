@@ -1,104 +1,124 @@
 {
  "products": [
   {
-   "sku": "doshift-20698",
-   "price": 339,
+   "sku": "doshift-31026",
+   "price": 176,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Ensemble Clavier et Souris Sans Fil Logitech MK235 – AZERTY",
-     "description": "Ensemble Clavier et Souris Sans Fil Logitech MK235 – AZERTY est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Ensemble Clavier et Souris Sans Fil Logitech MK235 – AZERTY – Performance fiable et design moderne."
+     "name": "Support Voiture Multifonction SP-2066Plus – Plateau et Porte-Gobelets Ajustables",
+     "description": "Transformez votre habitacle en espace pratique avec le Support Voiture Multifonction SP-2066Plus. Conçu pour s’adapter aux porte-gobelets standards, il ajoute un plateau ajustable et rotatif idéal pour vos repas, boissons, téléphones ou petits objets lors de vos trajets.\n\nDoté d’un porte-gobelets double niveau et d’un plateau antidérapant, il garantit stabilité et sécurité pour vos boissons et collations. Son bras réglable permet d’ajuster la hauteur et l’orientation afin de s’adapter à toutes les positions de conduite ou de passager.\n\nCompact et robuste, ce support est parfait pour les voyages, les pauses repas en voiture ou les longs trajets.\n\nCaractéristiques techniques :\n\nModèle : SP-2066Plus\n\nCompatibilité : S’adapte aux porte-gobelets de voiture standards\n\nFonctions : Plateau de repas + double porte-gobelets\n\nPlateau : Surface antidérapante avec rebords de sécurité\n\nAjustements : Hauteur et rotation réglables\n\nMatériau : Plastique ABS résistant et facile à nettoyer\n\nUtilisation : Boissons, snacks, téléphones, accessoires\n\nInstallation : Simple, sans outils, fixation stable dans le porte-gobelet\n\nOptez pour le SP-2066Plus, l’accessoire incontournable pour plus de confort et de praticité dans votre voiture.",
+     "short_description": "Transformez votre habitacle en espace pratique avec le Support Voiture Multifonction SP-2066Plus."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-03-27-T160052-099.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/jvlaaal-77-1.png"
    ]
   },
   {
-   "sku": "doshift-20660",
-   "price": 369,
+   "sku": "doshift-30999",
+   "price": 249,
    "stock": 10,
    "status": 0,
    "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Écouteurs Sans Fil Baseus Bowie E3 Bluetooth – Blanc- Son Clair et Immersif",
-     "description": "Écouteurs Sans Fil Baseus Bowie E3 Bluetooth – Blanc- Son Clair et Immersif offrent une expérience sonore claire et immersive, idéale pour les appels et la musique au quotidien.\n\nCaractéristiques techniques :\n\n– Connexion : Bluetooth 5.0 ou supérieur\n\n– Autonomie : Jusqu’à 20 heures avec boîtier de charge\n\n– Micro intégré : Oui, avec réduction de bruit\n\n– Commandes : Tactiles\n\n– Design : Léger et ergonomique\n\n– Compatibilité : iOS, Android, Windows\n\nUn excellent choix pour la mobilité et le confort.",
-     "short_description": "Écouteurs Sans Fil Baseus Bowie E3 Bluetooth – Performance fiable et design moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-03-26-T153245-929.png"
-   ]
-  },
-  {
-   "sku": "doshift-20659",
-   "price": 399,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Écouteurs Sans Fil Baseus Bowie E3 Bluetooth – Son Clair et Immersif",
-     "description": "Écouteurs Sans Fil Baseus Bowie E3 Bluetooth –Noir- Son Clair et Immersif offrent une expérience sonore claire et immersive, idéale pour les appels et la musique au quotidien.\n\nCaractéristiques techniques :\n\n– Connexion : Bluetooth 5.0 ou supérieur\n\n– Autonomie : Jusqu’à 20 heures avec boîtier de charge\n\n– Micro intégré : Oui, avec réduction de bruit\n\n– Commandes : Tactiles\n\n– Design : Léger et ergonomique\n\n– Compatibilité : iOS, Android, Windows\n\nUn excellent choix pour la mobilité et le confort.",
-     "short_description": "Écouteurs Sans Fil Baseus Bowie E3 Bluetooth – Performance fiable et design moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-03-26-T152129-579.png"
-   ]
-  },
-  {
-   "sku": "doshift-21108",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Protection universelle pour bord de porte de voiture- Blanc",
-     "description": "Protection universelle pour bord de porte de voiture- Blanc est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Protection universelle pour bord de porte de voiture- Blanc – Performance fiable et design moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-08-T150917-950.png"
-   ]
-  },
-  {
-   "sku": "doshift-21100",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7,
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Triangle de Signalisation de Sécurité Pliable pour Voiture",
-     "description": "Assurez votre sécurité sur la route avec ce triangle de signalisation pliable, indispensable pour signaler rapidement un véhicule immobilisé ou une situation d’urgence. Conçu pour être visible de loin grâce à sa couleur rouge réfléchissante haute visibilité, il permet d’alerter efficacement les autres conducteurs, de jour comme de nuit.\n\nCaractéristiques\nDétails\n\nType de produit\nTriangle de signalisation routière\n\nUtilisation\nSignalisation d’urgence pour véhicule\n\nCouleur\nRouge réfléchissant\n\nForme\nTriangle pliable\n\nMatière\nPlastique renforcé / surface réfléchissante\n\nFonction\nAlerte visuelle de sécurité\n\nInstallation\nDéploiement rapide et simple\n\nCompatibilité\nVoitures, camions, utilitaires\n\nRangement\nCompact et pliable\n\nRéférence Doshift\nAA2BB299",
-     "short_description": "Triangle de signalisation – Performance fiable et design moderne."
+     "name": "Étagère Multifonction 6 Niveaux – Rangement Chaussures & Vêtements, Double Rangée, Acier Renforcé, Couleur Noire",
+     "description": "Optimisez votre espace avec cette étagère multifonction à 6 niveaux, idéale pour ranger chaussures, vêtements et accessoires. Sa structure en acier solide et ses étagères en tissu résistant assurent stabilité et durabilité. Facile à monter sans outils, elle s’intègre parfaitement dans une chambre, une entrée ou un dressing. Pratique, élégante et robuste pour un rangement efficace au quotidien.\n\nCaractéristiques du Produit:\n\nType de produit\nÉtagère de rangement multifonction\n\nModèle\n Double Row Shoe and Hat Rack – 6 étages\n\nDimensions\n 96 × 28 × 162 cm\n\nNombre de niveaux\n 6 étages\n\nMatériaux\nAcier + tissu non tissé renforcé\n\nCouleur\nNoir\n\nMontage\nSans clou ni outil – installation rapide\n\nUtilisation\nChaussures, vêtements, chapeaux, sacs\n\nPoids approximatif\n 4 kg",
+     "short_description": "Optimisez votre espace avec cette étagère multifonction à 6 niveaux, idéale pour ranger chaussures, vêtements et accessoires."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-08-T133403-823.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/meublej.png"
    ]
   },
   {
-   "sku": "doshift-20954",
-   "price": 99,
+   "sku": "doshift-30960",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rasoir Professionnel Rechargeable Dinex DN-9050 – Précision, Confort et Performance",
+     "description": "Profitez d’un rasage précis et confortable avec le rasoir professionnel Dinex DN-9050, conçu pour offrir une coupe nette et uniforme au quotidien. Grâce à ses lames de haute précision, il assure un rasage efficace tout en respectant la peau, réduisant les risques d’irritation.\n\nCaractéristique\nDétail\n\nModèle\nDN-9050\n\nMarque\nDinex\n\nType\nRasoir électrique rechargeable\n\nAlimentation\nBatterie rechargeable\n\nUtilisation\nVisage, contours, finition\n\nLames\nHaute précision\n\nDesign\nErgonomique et compact\n\nUsage\nDomestique et professionnel\n\nRéférence Doshift\nAA10BB399",
+     "short_description": "Profitez d’un rasage précis et confortable avec le rasoir professionnel Dinex DN-9050, conçu pour offrir une coupe nette et uniforme au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/HOSSAM-2025-07-05T133656.318.png"
+   ]
+  },
+  {
+   "sku": "doshift-30954",
+   "price": 87,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Porte-Ustensiles Rotatif en Acier Inoxydable – Organisateur de Cuisine à 3 Compartiments",
+     "description": "Optimisez l’organisation de votre cuisine avec ce porte-ustensiles rotatif en acier inoxydable, à la fois élégant et fonctionnel.Son design moderne s’adapte à tous les plans de travail, tandis que sa base rotative vous permet d’accéder facilement à vos ustensiles de cuisine.Grâce à ses 3 compartiments internes, il offre un rangement ordonné pour cuillères, spatules, fouets et autres accessoires.L’acier inoxydable garantit une grande durabilité, une résistance à la corrosion, et un entretien facile.Doté d’un trou d’évacuation au fond, il reste toujours propre et sec, idéal pour une utilisation quotidienne.\n\nCaractéristiques du Produit:\n\nModèle\nRotating Storage Bucket\n\nMatériau\nAcier inoxydable (Stainless Steel)\n\nType\nPorte-ustensiles rotatif / Organisateur de cuisine\n\nNombre de compartiments\n3 sections internes\n\nDimensions approximatives\nEnviron 12 × 12 × 14 cm\n\nCouleur\nMétal argenté avec base noire\n\nUtilisation\nRangement des ustensiles de cuisine, brosses, outils de bureau, etc\n\nNettoyage\nFacile à démonter pour entretien\n\nBase\nRotative avec tapis antidérapant\n\nRéférence DoShift\nAA2BB599",
+     "short_description": "Optimisez l’organisation de votre cuisine avec ce porte-ustensiles rotatif en acier inoxydable, à la fois élégant et fonctionnel.Son design moderne s’adapte à tous les plans de travail, tandis que sa base rotative vous…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/khalo6.png"
+   ]
+  },
+  {
+   "sku": "doshift-30947",
+   "price": 175,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rangement Multi-Niveaux – Idéal pour Bijoux, Cosmétiques, Cuisine et Bureau",
+     "description": "Simplifiez votre quotidien avec ce organisateur multi-niveaux, conçu pour répondre à tous vos besoins de rangement. Que ce soit pour vos bijoux, produits cosmétiques, accessoires de bureau ou ustensiles de cuisine, ce support est la solution idéale pour optimiser l’espace et rester organisé(e) avec élégance.\n\nGrâce à sa structure à plusieurs étages, il offre une excellente visibilité sur vos objets tout en gardant vos surfaces dégagées. Fabriqué avec des matériaux durables, il s’intègre parfaitement à n’importe quel intérieur : chambre, salle de bain, bureau ou cuisine.\n\n✅ Caractéristiques Clés :\n\nPolyvalent : convient pour bijoux, maquillage, papeterie, ustensiles\n\nDesign compact et moderne\n\nStructure stable à plusieurs niveaux\n\nFacile à nettoyer et à déplacer\n\nIdéal pour un usage quotidien ou professionnel",
+     "short_description": "Simplifiez votre quotidien avec ce organisateur multi-niveaux, conçu pour répondre à tous vos besoins de rangement."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/HOSSAM-2025-06-21T131550.196.png"
+   ]
+  },
+  {
+   "sku": "doshift-31043",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Masseur corporel électrique YX-730 avec 5 têtes",
+     "description": "Profitez d’un massage agréable à la maison avec le masseur corporel électrique YX-730. Son design ergonomique facilite la prise en main pour masser différentes zones du corps, notamment les épaules, le dos, les bras et les jambes.\n\nIl propose 6 niveaux d’intensité pour adapter le massage à vos préférences. Ses 5 têtes interchangeables offrent différentes sensations selon la zone ciblée. La fonction de compresse chaude complète l’utilisation pour un moment de détente confortable.\n\nCaractéristique\nDétail\n\nModèle\nYX-730\n\nType\nMasseur corporel électrique\n\nNiveaux d’intensité\n6 niveaux\n\nNombre de têtes\n5 têtes interchangeables\n\nType de massage\nMassage 3D\n\nFonction chaleur\nCompresse chaude\n\nCommandes\nPanneau de commande indépendant\n\nÉcran\nAffichage numérique\n\nZones d’utilisation\nÉpaules, dos, bras, cuisses et jambes\n\nCouleur\nBlanc et noir avec finition dorée\n\nContenu\n1 masseur et 5 têtes de massage\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Appareil de massage rechargeable avec 5 têtes interchangeables et 6 niveaux de vitesse. Soulage les tensions musculaires, détend le corps et stimule la circulation sanguine."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/Nouveau-projet-2026-08-22T143952.244.png"
+   ]
+  },
+  {
+   "sku": "doshift-30964",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,89 +126,72 @@
    ],
    "locales": {
     "fr": {
-     "name": "Support de téléphone Riversong Flexi Clip CH05 – Rotation 360° et fixation par ventouse",
-     "description": "Support de téléphone Riversong Flexi Clip CH05 – Rotation 360° et fixation par ventouse est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Support de téléphone Riversong Flexi Clip CH05 – Performance fiable et design moderne."
+     "name": "Support Magnétique à Ventouse Fixation Puissante",
+     "description": "Le Vaccum Suction Magnetic Bracket K007 est un support universel alliant puissance magnétique et adhérence sous vide pour une stabilité maximale. Grâce à sa ventouse puissante et son aimant intégré haute performance, ce support maintient fermement votre téléphone, même sur route accidentée ou en usage intensif.\n\nRotatif à 360°, il offre une vue personnalisée pour une navigation, des appels ou du streaming sans effort. Compact et élégant, il s’intègre facilement à votre tableau de bord, pare-brise, bureau ou plan de travail.\n\n✅ Points Forts :\n\n🧲 Aimant puissant intégré – maintien sécurisé\n\n🌀 Rotation 360° – vue ajustable\n\n🧽 Ventouse sous vide – adhérence ultra-forte\n\n📱 Compatible avec tous les smartphones\n\n🚗 Idéal pour voiture, maison, cuisine, ou bureau",
+     "short_description": "Le Vaccum Suction Magnetic Bracket K007 est un support universel alliant puissance magnétique et adhérence sous vide pour une stabilité maximale."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-05-T125706-524.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/HOSSAM-2025-07-10T214034.517.png"
    ]
   },
   {
-   "sku": "doshift-20846",
-   "price": 329,
+   "sku": "doshift-30918",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Routeur Modem Tenda ADSL2+ D305 N300 – Wi-Fi Rapide et Stable",
-     "description": "Routeur Modem Tenda ADSL2+ D305 N300 – Wi-Fi Rapide et Stable est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Routeur Modem Tenda ADSL2+ D305 N300 – Performance fiable et design moderne."
+     "name": "Etagere à Chaussures Multicouche 6 Niveaux – Organisation et Gain de Place",
+     "description": "Optimisez votre intérieur avec cette étagère à chaussures 6 niveaux au design épuré. Sa structure métallique grise combinée à des poignées noires arrondies offre à la fois stabilité et élégance. Grâce à ses étagères ouvertes, elle permet de garder vos chaussures bien rangées, aérées et facilement accessibles.\n\nParfaite pour les appartements, chambres ou entrées, elle peut contenir jusqu’à 24 paires de chaussures selon la taille. Le montage est simple, sans besoin d’outils, ce qui vous permet de l’assembler en quelques minutes.\n\n📐 Fiche Technique :\n\nProduit : Étagère à Chaussures 6 Niveaux\n\nCouleur structure : Gris clair\n\nPoignées : Noires\n\nNombre de niveaux : 6\n\nDimensions estimées : ~50 cm (L) x 28 cm (P) x 95 cm (H) (à ajuster selon le modèle réel)\n\nMatériaux : Tubes métalliques + étagères en plastique ou tissu\n\nCapacité : Environ 24 paires de chaussures\n\nMontage : Facile, sans outils\n\nUtilisation : Chambre, entrée, dressing\n\nAvantages : Léger, compact, design moderne, gain de place",
+     "short_description": "Optimisez votre intérieur avec cette étagère à chaussures 6 niveaux au design épuré. Sa structure métallique grise combinée à des poignées noires arrondies offre à la fois stabilité et élégance."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-04-T140051-457.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/HOSSAM-100.png"
    ]
   },
   {
-   "sku": "doshift-20731",
+   "sku": "doshift-30620",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Chargeur Riversong SafeKub D2 Dual Ports USB + Câble USB Vers USB-C",
-     "description": "Chargeur Riversong SafeKub D2 Dual Ports USB + Câble USB Vers USB-C garantit une recharge rapide et sécurisée, avec une conception durable adaptée à tous vos appareils.\n\nCaractéristiques techniques :\n\n– Type : Câble de recharge et synchronisation\n\n– Puissance : Jusqu’à 100W selon modèle\n\n– Longueur : 1 à 1,5 mètre\n\n– Compatibilité : USB-C / Lightning selon version\n\n– Matériau : Nylon tressé ou PVC renforcé\n\nIdéal pour une utilisation quotidienne, au bureau ou à la maison.",
-     "short_description": "Chargeur Riversong SafeKub D2 Dual Ports USB + Câble USB Vers USB-C – Performance fiable et design moderne."
+     "name": "Aspirateur Portable 3-en-1 AS-228 – Mini Nettoyeur pour Maison & Voiture",
+     "description": "Découvrez l’aspirateur portable 3-en-1 AS-228, un outil compact, polyvalent et facile à utiliser pour nettoyer rapidement votre maison, votre voiture, votre bureau ou vos appareils électroniques.Grâce à ses embouts interchangeables, il permet d’aspirer, de souffler l’air (fonction air blowing) et d’atteindre les petites zones difficiles d’accès.Idéal pour dépoussiérer claviers, sièges auto, coins étroits, consoles, ventilateurs ou petits débris, il fonctionne via alimentation USB, ce qui le rend pratique et transportable partout.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAspirateur portable 3-en-1\n\nModèle\nAS-228\n\nFonctions principales\nAspiration / Soufflage / Nettoyage précision\n\nUtilisation\nMaison, voiture, bureau, PC, clavier, petits objets\n\nEmbouts fournis\n1 embout long + 1 brosse de nettoyage\n\nMode aspiration\nAspiration correcte si bien installé (comme sur la boîte)\n\nMode soufflage\nAir Blowing Mode (LED verte = fonctionnement)\n\nAlimentation\nUSB (câble inclus – micro-USB)\n\nAvertissement sécurité\nNe pas utiliser durant la charge ; ne pas sur-décharger la batterie\n\nMontage embouts\nInstallation par alignement + rotation légère\n\nCouleur\nNoir\n\nTaille / Poids\nCompact et léger – facile à transporter\n\nMatériau\nPlastique ABS résistant\n\nIdéal pour\nIntérieurs voiture, claviers, ventilations, petites surfaces, appareils\n\nRéférence Doshift\nAA3BB8099",
+     "short_description": "Découvrez l’aspirateur portable 3-en-1 AS-228, un outil compact, polyvalent et facile à utiliser pour nettoyer rapidement votre maison, votre voiture, votre bureau ou vos appareils électroniques.Grâce à ses embouts…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-05-30T162150.950.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/ChatGPT-Image-26-nov.-2025-12_02_51.png"
    ]
   },
   {
-   "sku": "doshift-20727",
-   "price": 89,
+   "sku": "doshift-30525",
+   "price": 97,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Chargeur Riversong SafeKub D2 Dual Ports USB + Câble USB Vers Lightning",
-     "description": "Chargeur Riversong SafeKub D2 Dual Ports USB + Câble USB Vers Lightning garantit une recharge rapide et sécurisée, avec une conception durable adaptée à tous vos appareils.\n\nCaractéristiques techniques :\n\n– Type : Câble de recharge et synchronisation\n\n– Puissance : Jusqu’à 100W selon modèle\n\n– Longueur : 1 à 1,5 mètre\n\n– Compatibilité : USB-C / Lightning selon version\n\n– Matériau : Nylon tressé ou PVC renforcé\n\nIdéal pour une utilisation quotidienne, au bureau ou à la maison.",
-     "short_description": "Chargeur Riversong SafeKub D2 Dual Ports USB + Câble USB Vers Lightning – Performance fiable et design moderne."
+     "name": "Lunch Box Bag Enfant Racing – Boîte à Repas Étanche avec Compartiments et Couverts Inclus",
+     "description": "Offrez à votre enfant une pause déjeuner pleine de style et de praticité grâce à la Lunch Box Enfant Racing. Conçue avec un design attrayant mettant en avant une voiture de course sportive, elle saura séduire les petits passionnés d’automobile tout en garantissant un repas bien organisé.\n\nCette boîte à repas est équipée de compartiments séparés, idéale pour conserver différents aliments sans les mélanger. Elle est livrée avec une cuillère et une fourchette adaptées aux enfants, ainsi qu’un petit récipient supplémentaire pour sauces ou fruits.\n\nSon couvercle hermétique avec fermeture sécurisée prévient les fuites et garde les repas frais plus longtemps. Compacte, légère et facile à transporter, elle est parfaite pour l’école, les sorties ou les pique-niques.\n\n✅ Points forts :\n\nDesign Racing attrayant pour enfants\n\n2 compartiments séparés + récipient supplémentaire\n\nCouverts inclus (cuillère + fourchette)\n\nFermeture étanche et sécurisée\n\nFormat pratique pour cartable et sac à dos\n\n📏 Dimensions : adaptées aux repas scolaires🎨 Couleur : Bleu avec motif voiture de course",
+     "short_description": "Offrez à votre enfant une pause déjeuner pleine de style et de praticité grâce à la Lunch Box Enfant Racing."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T130713-684.png"
-   ]
-  },
-  {
-   "sku": "doshift-20691",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris Sans Fil Logitech M185",
-     "description": "Souris Sans Fil Logitech M185 est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Souris Sans Fil Logitech M185 – Performance fiable et design moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-03-27-T143745-067.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/ChatGPT-Image-26-aout-2025-12_11_11.png"
    ]
   }
  ]

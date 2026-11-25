@@ -1,46 +1,26 @@
 {
  "products": [
   {
-   "sku": "doshift-44271",
-   "price": 79,
+   "sku": "doshift-50241",
+   "price": 269,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Nettoyage toop super doux poussière collante (Couleur selon disponibilité)",
-     "description": "Ce gel nettoyant est conçu pour nettoyer les endroits difficiles d’accès comme l’évent de sortie d’air de la voiture, le tableau de bord, le climatiseur, le clavier, le nettoyeur de maison, etc.\n\nIl absorbe la poussière sans laisser de traces sur les mains.\n\nIl est flexible, ne colle pas aux mains et ne laisse pas de résidus.\n\nIl est réutilisable, sans besoin de nettoyage, respectueux de l’environnement, non toxique pour la peau et sans danger.\n\nIl est disponible en modèle nettoyant, pèse 0.1 kg et est fabriqué en silicone.",
-     "short_description": "Ce gel nettoyant est conçu pour nettoyer les endroits difficiles d’accès comme l’évent de sortie d’air de la voiture, le tableau de bord, le climatiseur, le clavier, le nettoyeur de maison, etc."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354846-74_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44189",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
     11
    ],
    "locales": {
     "fr": {
-     "name": "Cheveux Séchage – Casquette Tête Emballage Microfibre(Couleur selon disponibilité)",
-     "description": "La serviette sèche-cheveux est un accessoire pratique conçu pour accélérer le séchage de vos cheveux après la douche. Grâce à sa conception absorbante et douce, elle absorbe l’excès d’humidité de vos cheveux en un temps record, réduisant ainsi le temps nécessaire pour les sécher avec un sèche-cheveux traditionnel.\n\nSon bonnet de sèche permet de maintenir la serviette en place tout en vous permettant de vaquer à d’autres occupations pendant que vos cheveux sèchent naturellement.\n\nSéchage rapide : La serviette est fabriquée à partir de matériaux absorbants de haute qualité qui aident à éliminer l’humidité de vos cheveux plus rapidement que les serviettes ordinaires.\n\nConfortable : La matière douce et légère de la serviette garantit un confort optimal pendant que vos cheveux sèchent.Bonnet de sèche ajustable : Le bonnet est doté d’une sangle ajustable pour s’adapter à différentes tailles de tête, permettant ainsi un ajustement sûr et confortable.\n\nPratique : Vous pouvez porter la serviette sèche-cheveux tout en effectuant vos tâches quotidiennes, ce qui libère vos mains et vous permet de gagner du temps.Protection des cheveux : En réduisant l’exposition à la chaleur directe d’un sèche-cheveux, la serviette sèche-cheveux peut aider à minimiser les dommages potentiels causés par la chaleur.\n\nIdéal pour tous les types de cheveux : Que vos cheveux soient longs, courts, bouclés ou lisses, la serviette sèche-cheveux convient à tous les types de cheveux.\n\nOptez pour cette serviette sèche-cheveux pratique et innovante pour réduire le temps de séchage de vos cheveux tout en prenant soin d’eux de manière douce et efficace. Que vous soyez pressé ou que vous préfériez éviter la chaleur excessive, cette serviette sera un ajout précieux à votre routine de soins capillaires.",
-     "short_description": "La serviette sèche-cheveux est un accessoire pratique conçu pour accélérer le séchage de vos cheveux après la douche."
+     "name": "Appareil de Massage Électrique pour Genoux Chauffant, Sans Fil, Améliore la Circulation & Soulage la Douleur",
+     "description": "Profitez d’un soulagement complet des douleurs articulaires avec cet appareil de massage électrique pour genoux, conçu pour améliorer la circulation sanguine, réduire la raideur musculaire et apaiser les tensions après le sport ou une longue journée.",
+     "short_description": "Profitez d’un soulagement complet des douleurs articulaires avec cet appareil de massage électrique pour genoux, conçu pour améliorer la circulation sanguine, réduire la raideur musculaire et apaiser les tensions après…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354684-56_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/1765810233-16_1.jpg"
    ]
   },
   {
-   "sku": "doshift-44184",
+   "sku": "doshift-50239",
    "price": 149,
    "stock": 10,
    "status": 0,
@@ -49,57 +29,152 @@
    ],
    "locales": {
     "fr": {
-     "name": "Râpe multifonction Râpe à légumes rotative améliorée trancheur",
-     "description": "Découvrez la râpe à légumes rotative GENERIC, conçue en ABS de haute qualité avec des lames en acier inoxydable. Multifonctionnelle, elle permet de hacher, trancher et moudre fruits et légumes facilement. Sa construction robuste et sa poignée antidérapante garantissent une utilisation pratique et durable.",
-     "short_description": "Découvrez la râpe à légumes rotative GENERIC, conçue en ABS de haute qualité avec des lames en acier inoxydable. Multifonctionnelle, elle permet de hacher, trancher et moudre fruits et légumes facilement."
+     "name": "Rallonge de Robinet Rotative 360° avec Distributeur de Savon Intégré – Flexible Extensible 60 cm, 3 Modes de Jet Haute Pression pour Cuisine et Salle de Bain, Accessoires Universels, Économie d’Eau",
+     "description": "Transformez votre évier avec ce robinet multifonctionnel et pratique. Idéal pour la cuisine et la salle de bain, il est équipé d’un distributeur de savon intégré, d’un flexible extensible et d’une tête rotative à 360°.",
+     "short_description": "Transformez votre évier avec ce robinet multifonctionnel et pratique. Idéal pour la cuisine et la salle de bain, il est équipé d’un distributeur de savon intégré, d’un flexible extensible et d’une tête rotative à 360°."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354675-55_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/1765810227-14_1.jpg"
    ]
   },
   {
-   "sku": "doshift-44175",
+   "sku": "doshift-50233",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    7,
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse de Cuvette en Silicone – Nettoyage Hygiénique et Sans Éclaboussures",
+     "description": "Gardez vos toilettes propres et impeccables avec cette brosse de cuvette en silicone moderne et hygiénique.\n\nConçue avec des poils souples en silicone, elle nettoie efficacement sans rayer la surface et empêche l’accumulation de bactéries ou d’odeurs.\n\nSon design ergonomique et élégant s’intègre parfaitement à toute salle de bain, tout en offrant un nettoyage rapide, sans éclaboussures ni résidus.",
+     "short_description": "Gardez vos toilettes propres et impeccables avec cette brosse de cuvette en silicone moderne et hygiénique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1765810212-8_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-50232",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe de camping puissant rechargeable, lampe de poche",
+     "description": "La lampe de camping puissante rechargeable est conçue pour offrir un éclairage fiable et intense dans toutes les situations : camping, randonnée, pêche, coupure de courant, travail extérieur ou urgence. Grâce à sa batterie rechargeable intégrée, elle garantit une longue autonomie et une utilisation pratique sans piles. Son design robuste et portable permet de l’emporter facilement partout, tandis que ses différents modes d’éclairage s’adaptent à tous vos besoins, de l’éclairage large au faisceau concentré.",
+     "short_description": "La lampe de camping puissante rechargeable est conçue pour offrir un éclairage fiable et intense dans toutes les situations : camping, randonnée, pêche, coupure de courant, travail extérieur ou urgence."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1765810210-7_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-50231",
+   "price": 132,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tabouret Pliable Portable – Compact, Léger & Résistant",
+     "description": "Profitez d’un confort pratique partout avec ce tabouret pliable ultra compact. Idéal pour le camping, la pêche, les pique-niques, le jardinage ou les sorties en plein air, il se transporte facilement grâce à son format pliable et son poids léger. Sa structure métallique robuste assure une excellente stabilité et un usage durable au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nTabouret pliable portable\n\nMatériau\nMétal + tissu Oxford\n\nCouleur\nNoir\n\nStructure\nPliable\n\nUtilisation\nCamping, pêche, jardinage, extérieur\n\nTransport\nFacile et compact\n\nAssise\nConfortable et résistante\n\nStabilité\nStructure renforcée\n\nRéférence Doshift\nAA5BB599",
+     "short_description": "Profitez d’un confort pratique partout avec ce tabouret pliable ultra compact. Idéal pour le camping, la pêche, les pique-niques, le jardinage ou les sorties en plein air, il se transporte facilement grâce à son format…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-05-23T151712.724.png"
+   ]
+  },
+  {
+   "sku": "doshift-50230",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse de Verre de Fenêtre,Nettoyeur fenêtres vitres",
+     "description": "La brosse de nettoyage pour vitres et fenêtres est l’outil idéal pour obtenir des surfaces propres, brillantes et sans traces. Conçue pour faciliter le nettoyage du verre, elle permet d’éliminer efficacement la poussière, les taches d’eau, la saleté et les résidus sur les fenêtres, miroirs, parois de douche et surfaces vitrées. Grâce à sa prise en main confortable et à son design pratique, elle rend le nettoyage rapide et sans effort, aussi bien à la maison qu’au bureau.",
+     "short_description": "La brosse de nettoyage pour vitres et fenêtres est l’outil idéal pour obtenir des surfaces propres, brillantes et sans traces."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1765810205-5_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-50228",
+   "price": 479,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Étendoir À Vêtements Mural, Étendoir À Linge Télescopique, Etendoir À Linge Pliable Intérieur, Stable, Grande Capacité, Peu Encombrant, Séchoir À Vêtements pour maison, hôtel, Balcon, Buanderie, Salle De Bain",
+     "description": "L’étendoir à vêtements mural télescopique est la solution idéale pour sécher votre linge efficacement tout en économisant de l’espace. Conçu pour une utilisation intérieure, il se fixe facilement au mur et se déploie uniquement lorsque nécessaire. Sa structure robuste assure une excellente stabilité et une grande capacité de séchage, même pour les vêtements lourds. Pliable et discret une fois replié, il est parfait pour la maison, l’hôtel, le balcon, la buanderie ou la salle de bain. Un accessoire pratique, moderne et durable pour un séchage organisé et sans encombrement.",
+     "short_description": "L’étendoir à vêtements mural télescopique est la solution idéale pour sécher votre linge efficacement tout en économisant de l’espace."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1765810200-3_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-50226",
+   "price": 479,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Robinet Chauffe-Eau Électrique Instantané en Acier Inoxydable – Eau Chaude Immédiate avec Affichage LED pour Cuisine & Salle de Bain",
+     "description": "Profitez du confort absolu avec ce robinet chauffe-eau électrique instantané conçu pour fournir de l’eau chaude en quelques secondes. Fabriqué en acier inoxydable résistant, il combine design moderne, performance et sécurité. Son affichage LED intelligent permet de contrôler la température en temps réel pour une utilisation confortable et sûre. Idéal pour la cuisine, la salle de bain ou les petits espaces, il chauffe l’eau instantanément sans réservoir ni installation complexe. Une solution économique, pratique et durable pour un confort thermique quotidien.",
+     "short_description": "Profitez du confort absolu avec ce robinet chauffe-eau électrique instantané conçu pour fournir de l’eau chaude en quelques secondes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1765810194-1_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-50253",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "6pcs mousqueton crochets d’aluminium multicouleur(Couleur selon disponibilité)",
-     "description": "Ce produit est un lot de 6 mousquetons en alliage d’aluminium.\n\nIls sont neufs et de haute qualité.\n\nChaque mousqueton est doté d’une porte à ressort pour une fixation rapide et sécurisée.\n\nIls s’ouvrent et se ferment en douceur.\n\nIdéal pour les activités de plein air comme le camping, la pêche, la randonnée, le voyage, etc.\n\nIls peuvent également servir de porte-clés.\n\nLes mousquetons mesurent 38x22x4mm.\n\nLe poids total du lot est de 0.1 kg.",
-     "short_description": "Ce produit est un lot de 6 mousquetons en alliage d’aluminium."
+     "name": "Sac à Bandoulière Homme Anti-Vol avec Port de Chargement USB",
+     "description": "Ce sac à bandoulière homme anti-vol est conçu pour allier sécurité, praticité et style moderne. Idéal pour le voyage, le travail ou l’usage quotidien, il dispose d’un port USB intégré pour recharger vos appareils en déplacement (power bank non incluse). Léger, imperméable et confortable à porter, il offre plusieurs compartiments intelligents pour organiser facilement vos effets personnels tout en les gardant en sécurité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nSac à bandoulière homme\n\nFonction sécurité\nDesign anti-vol (fermetures sécurisées)\n\nPort USB\nOui (chargement pratique en déplacement)\n\nUtilisation\nVoyage, travail, quotidien, déplacements urbains\n\nCompartiments\nMultiples poches pour une organisation optimale\n\nMatériau\nTissu résistant et imperméable\n\nConfort\nBandoulière réglable et confortable\n\nPoids\nLéger\n\nStyle\nModerne et élégant\n\nCouleur\nSelon disponibilité\n\nÉtanchéité\nRésistant aux éclaboussures\n\nRéférence-Doshift\nAA7BB599",
+     "short_description": "Ce sac à bandoulière homme anti-vol est conçu pour allier sécurité, praticité et style moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354661-53_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/2-6.jpg"
    ]
   },
   {
-   "sku": "doshift-44170",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Couteau de grande utilité lame rétractable rasoir coupeur de papier peint boîte carton",
-     "description": "Ce couteau est doté d’une poignée antidérapante pour une prise en main confortable.\n\nIl dispose d’un système d’autoblocage performant pour des coupes plus puissantes.\n\nLa lame est en acier à haute teneur en carbone SK5, ce qui la rend plus aiguisée.\n\nElle est dotée d’une conception à double lame et a subi un traitement thermique spécial pour atteindre une dureté supérieure à HRC60°.\n\nLe couteau est en alliage de zinc, de couleur argent et mesure environ 98 mm de long.\n\nIl pèse 0,3 kg et est de couleur blanche.\n\nLa matière principale est l’acier.",
-     "short_description": "Ce couteau est doté d’une poignée antidérapante pour une prise en main confortable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354654-52_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44151",
-   "price": 149,
+   "sku": "doshift-50234",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -107,89 +182,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Corbeille à pédales polyvalente 10l parfaite pour toutes les pièces (Couleur selon disponibilité)",
-     "description": "Cette poubelle a une capacité de 10 litres.\n\nElle est équipée d’une pédale robuste pour une ouverture sans contact.\n\nSon couvercle se referme de manière étanche.\n\nElle possède un seau amovible pour faciliter le nettoyage.\n\nLa poubelle est disponible en couleur marron et est fabriquée en plastique.\n\nElle est écologique et est conçue pour un usage domestique.\n\nSon poids est de 0.3 kg.",
-     "short_description": "Cette poubelle a une capacité de 10 litres."
+     "name": "Support Organiseur de Bureau avec Tablette d’Écriture LCD – Jaune",
+     "description": "Organisez votre espace de travail avec cet organiseur de bureau multifonction. Il combine un pot à stylos, plusieurs compartiments de rangement, un support téléphone et une tablette d’écriture LCD pratique pour noter rapidement vos idées, rappels ou calculs. Son design compact permet de garder vos accessoires essentiels à portée de main tout en apportant une touche moderne et colorée au bureau, à la chambre ou à l’espace d’étude.\n\nIdéal pour les stylos, crayons, ciseaux, marqueurs, téléphone, petites fournitures et notes rapides. La tablette LCD s’efface facilement en un clic, sans papier ni encre.\n\nCaractéristique\nDétail\n\nType\nOrganiseur de bureau avec tablette d’écriture\n\nCouleur\nJaune\n\nFonction principale\nRangement fournitures + écriture rapide\n\nCompartiments\nPlusieurs espaces pour stylos, accessoires et téléphone\n\nSupport téléphone\nOui\n\nTablette LCD\nOui\n\nEffacement\nBouton d’effacement en un clic\n\nUtilisation\nBureau, école, chambre, étude, télétravail\n\nAvantages\nGain de place, pratique, réutilisable, décoratif\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Organisez votre espace de travail avec cet organiseur de bureau multifonction. Il combine un pot à stylos, plusieurs compartiments de rangement, un support téléphone et une tablette d’écriture LCD pratique pour noter…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354630-49_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44129",
-   "price": 299,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tire-lait manuel notre bébé kite 180ml",
-     "description": "Le Tire Lait Manuel Notre Bébé Kite 180ml – 6oz est conçu pour faciliter l’allaitement.\n\nIl est efficace et confortable.\n\nSa membrane douce en silicone s’adapte parfaitement au sein pour un confort optimal et stimule la production de lait.\n\nLa poignée ergonomique permet une utilisation facile d’une seule main.\n\nIl est facile à démonter, à laver et à stériliser.\n\nLéger, compact et discret, il est pratique à transporter.\n\nIl pèse 0.1 kg et est disponible en plusieurs couleurs.",
-     "short_description": "Le Tire Lait Manuel Notre Bébé Kite 180ml – 6oz est conçu pour faciliter l’allaitement."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354592-44_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44118",
-   "price": 86,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pompe de transfert manuelle de siphon (Couleur selon disponibilité)",
-     "description": "Cette pompe est idéale pour transférer facilement du liquide d’un récipient à un autre.\n\nElle est résistante à l’huile, aux températures élevées et à l’abrasion.\n\nElle est légère et facile à transporter.\n\nElle est dotée d’un clapet anti-retour intégré qui empêche le liquide de refluer.\n\nElle mesure 25 cm x 15 cm x 8 cm.\n\nElle est facile à utiliser : il suffit d’appuyer 2 à 3 fois sur la pompe pour extraire le liquide.\n\nVous pouvez y connecter d’autres tubes de même taille si le tube n’est pas assez long.\n\nElle est facile à ranger, de haute qualité et solide.\n\nElle est disponible en blanc, en plastique, et pèse 0.2 kg.",
-     "short_description": "Cette pompe est idéale pour transférer facilement du liquide d’un récipient à un autre."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354573-41_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44080",
-   "price": 259,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac à Dos Business & Voyage FEI HONG GU – Élégance Urbaine & Performance Polyvalente",
-     "description": "Le sac à dos FEI HONG GU est conçu pour les professionnels modernes et les voyageurs actifs qui recherchent un équilibre parfait entre style, confort et fonctionnalité. Son design épuré en textile bleu profond s’adapte aussi bien à une tenue professionnelle qu’à un look plus décontracté. Que ce soit pour un rendez-vous d’affaires, une journée de travail nomade ou un voyage en train ou en avion, ce sac assure une organisation optimale et une protection fiable de vos effets personnels. Robuste et ergonomique, il vous accompagne au quotidien avec élégance et efficacité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos business & voyage\n\nMarque\nFEI HONG GU\n\nDesign\nMinimaliste, chic et moderne\n\nCouleur\nBleu profond\n\nCompartiment principal\nRembourré – protection ordinateur portable / tablette\n\nOrganisation\nPlusieurs compartiments zippés\n\nPoche frontale\nAccès rapide pour documents et téléphone\n\nPoignée\nSupérieure renforcée avec finition métallique\n\nSécurité\nBandes réfléchissantes verticales\n\nConfort\nBretelles ajustables et rembourrées\n\nMatériau\nTextile premium résistant à l’usure\n\nUtilisation\nBureau, déplacements professionnels, voyage\n\nCompatibilité\nAvion / train – bagages cabine\n\nRéférence-doshift\nAA15BB799",
-     "short_description": "Le sac à dos FEI HONG GU est conçu pour les professionnels modernes et les voyageurs actifs qui recherchent un équilibre parfait entre style, confort et fonctionnalité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/d3f6fca7-1481-4717-be29-54ac02e1c76a.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-44063",
-   "price": 199,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Réchaud à gaz portable, avec allumage automatique, avec valise",
-     "description": "Support de casserole émaillé / Système de verrouillage de sécurité de la cartouche, Verrouillage de sécurité d’arrêt automatique. Serrure de sécurité de l’allumeur piézoélectrique\n\nCompact et puissant : cuiseur de table facile à utiliser, flamme réglable. Longue grille texturée.étui de transport durable\n\nUn support de casserole émaillé fixe facile à nettoyer ajoute de la stabilité pendant la cuisson, et une mallette de transport incluse.\n\nInstallation sans problème : avec une soupape de sécurité auto-obturante, il suffit de pousser et de tourner l’appareil sur la cartouche jusqu’à ce que vous entendiez un clic pour une connexion sûre et étanche",
-     "short_description": "Support de casserole émaillé / Système de verrouillage de sécurité de la cartouche, Verrouillage de sécurité d’arrêt automatique. Serrure de sécurité de l’allumeur piézoélectrique"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354418-29_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-04-27T154438.493.png"
    ]
   }
  ]

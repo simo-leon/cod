@@ -1,46 +1,144 @@
 {
  "products": [
   {
-   "sku": "doshift-75370",
+   "sku": "doshift-79128",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu Guessing Game – Poker Matching 2 en 1",
+     "description": "Développez l’observation, la réflexion et l’expression des enfants avec ce jeu éducatif amusant. Les joueurs portent un bandeau avec une carte et doivent deviner l’image grâce aux indices des autres, pour apprendre en jouant en famille.\n\nCaractéristique\nDétail\n\nType\nJeu éducatif interactif\n\nÂge recommandé\n3 ans et plus\n\nContenu\nBandeaux, cartes illustrées, marqueur effaçable\n\nNombre de cartes\n108 cartes\n\nUtilisation\nDevinettes, association et expression\n\nAvantages\nStimule mémoire, observation, langage et interaction\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Développez l’observation, la réflexion et l’expression des enfants avec ce jeu éducatif amusant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-18T190941.274.png"
+   ]
+  },
+  {
+   "sku": "doshift-79039",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    12,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kinesiology Tape Sport & Therapy Jaune 5cm x 5m",
+     "description": "Soulagez vos muscles et améliorez vos performances avec ce kinesiology tape professionnel. Conçu pour les sportifs et les activités quotidiennes, il offre un excellent maintien musculaire et articulaire tout en gardant une grande liberté de mouvement. Sa matière extensible et respirante assure un confort optimal pendant l’entraînement, la récupération ou la rééducation.\n\nParfait pour la musculation, le running, le fitness, le cyclisme, le yoga et plusieurs autres activités sportives.\n\nCaractéristique\nDétail\n\nType\nKinesiology Tape\n\nUtilisation\nSport & Thérapie\n\nCouleur\nJaune\n\nDimensions\n5 cm x 5 m\n\nMatière\nTissu extensible respirant\n\nPropriétés\nFlexible, confortable, résistant\n\nRésistance à l’eau\nOui\n\nUtilisation idéale\nMuscles, épaules, dos, genoux\n\nRéférence Doshift\nAA2BB599",
+     "short_description": "Soulagez vos muscles et améliorez vos performances avec ce kinesiology tape professionnel."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-18T141832.502.png"
+   ]
+  },
+  {
+   "sku": "doshift-78761",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu d’Équilibre Balance The Block",
+     "description": "Profitez de moments amusants en famille avec ce jeu d’équilibre coloré et captivant. Empilez les blocs avec précision, lancez les dés et tentez de garder la tour stable le plus longtemps possible. Un jeu idéal pour développer la concentration, la coordination et la patience chez les enfants comme chez les adultes.\n\nCaractéristique\nDétail\n\nType\nJeu d’équilibre\n\nContenu\nBlocs colorés, support, dés, jetons\n\nMatière\nPlastique\n\nCouleurs\nMulticolore\n\nUtilisation\nJeu familial et éducatif\n\nÂge recommandé\nEnfants et adultes\n\nRéférence Doshift\nAA5BB599",
+     "short_description": "Profitez de moments amusants en famille avec ce jeu d’équilibre coloré et captivant. Empilez les blocs avec précision, lancez les dés et tentez de garder la tour stable le plus longtemps possible."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-16T213041.237.png"
+   ]
+  },
+  {
+   "sku": "doshift-78753",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de Blocs Canard Créatif pour Enfants",
+     "description": "Stimulez la créativité de votre enfant avec ce jeu de blocs coloré en forme de canard, idéal pour créer des motifs amusants tout en développant la logique, la concentration et la coordination des mains.\n\nCaractéristique\nDétail\n\nProduit\nJeu de blocs éducatif\n\nDesign\nForme canard\n\nUtilisation\nCréation de motifs avec blocs colorés\n\nAvantages\nCréativité, logique, concentration, coordination\n\nÂge recommandé\nEnfants\n\nMatière\nPlastique\n\nCouleurs\nJaune, rouge, bleu\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Stimulez la créativité de votre enfant avec ce jeu de blocs coloré en forme de canard, idéal pour créer des motifs amusants tout en développant la logique, la concentration et la coordination des mains."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-16T211012.543.png"
+   ]
+  },
+  {
+   "sku": "doshift-78741",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Support mural de cuisine multifonction avec porte-couteaux et crochets",
-     "description": "Organisez facilement votre cuisine avec ce support mural multifonction, conçu pour garder vos ustensiles, couteaux et accessoires toujours à portée de main. Son design compact permet de libérer de l’espace sur le plan de travail tout en offrant un rangement propre, moderne et pratique.\n\nCaractéristique\nDétail\n\nType de produit\nSupport mural de rangement cuisine\n\nUtilisation\nRangement des couteaux, ustensiles et accessoires\n\nInstallation\nFixation murale sans perçage sur surface lisse\n\nFonctions\nPorte-couteaux + crochets de suspension\n\nDesign\nCompact, moderne et gain de place\n\nPièce adaptée\nCuisine\n\nAvantage\nGarde les ustensiles propres, visibles et faciles d’accès\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Organisez facilement votre cuisine avec ce support mural multifonction, conçu pour garder vos ustensiles, couteaux et accessoires toujours à portée de main."
+     "name": "Jeu de Lancer 3 en 1 pour Enfants",
+     "description": "Amusez vos enfants avec ce jeu de lancer 3 en 1 coloré et interactif, idéal pour développer la coordination, la précision et la concentration tout en s’amusant. Conçu pour une utilisation intérieure et extérieure, ce jeu offre plusieurs façons de jouer seul, entre amis ou en famille. Léger, facile à installer et résistant, il est parfait pour les activités ludiques à la maison, au jardin ou lors des fêtes.\n\nCaractéristique\nDétail\n\nType\nJeu de lancer 3 en 1\n\nUtilisation\nIntérieur & extérieur\n\nÂge recommandé\n3 ans et plus\n\nNombre de joueurs\n1 à 4 joueurs\n\nMatière\nPlastique résistant\n\nCouleurs\nMulticolore\n\nContenu\nCibles + balles\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Amusez vos enfants avec ce jeu de lancer 3 en 1 coloré et interactif, idéal pour développer la coordination, la précision et la concentration tout en s’amusant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T142149.947.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-16T191658.411.png"
    ]
   },
   {
-   "sku": "doshift-75356",
-   "price": 259,
+   "sku": "doshift-78713",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu Tic Tac Toe Électronique Rechargeable",
+     "description": "Profitez de moments amusants en famille avec ce jeu Tic Tac Toe électronique et manuel. Stimulez la réflexion, la concentration et la stratégie grâce à ses deux modes de jeu interactifs. Compact et rechargeable par USB, il est idéal pour les enfants comme pour les adultes à la maison ou en voyage.\n\nCaractéristique\nDétail\n\nType\nJeu Tic Tac Toe électronique\n\nModes de jeu\nÉlectronique & Manuel\n\nAlimentation\nRechargeable USB\n\nCouleur\nJaune, Noir, Rouge et Blanc\n\nUtilisation\nEnfants & Adultes\n\nContenu\nConsole, pions, grille, câble USB\n\nFormat\nCompact et portable\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Profitez de moments amusants en famille avec ce jeu Tic Tac Toe électronique et manuel. Stimulez la réflexion, la concentration et la stratégie grâce à ses deux modes de jeu interactifs."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-16T182044.309.png"
+   ]
+  },
+  {
+   "sku": "doshift-78657",
+   "price": 529,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
     4
    ],
    "locales": {
     "fr": {
-     "name": "TP-Link Lecteur USB-C Double SD & microSD Ultra-Rapide",
-     "description": "Profite de la fiabilité TP-Link avec ce lecteur de cartes USB-C conçu pour une performance rapide et stable. Idéal pour les créateurs et les utilisateurs exigeants, il permet de transférer facilement tes fichiers entre cartes SD, microSD et appareils Type-C.\n\nCaractéristique\nDétail\n\nLecture\nDouble SD + microSD\n\nInterface\nUSB-C universelle\n\nVitesse\nTransfert rapide (USB 3.0)\n\nUtilisation\nPlug & Play\n\nDesign\nCompact et facile à transporter\n\nConstruction\nSolide (TP-Link)\n\nCompatibilité\nLaptop, tablette, smartphone\n\nRéférence-doshift\nAA1BB6099",
-     "short_description": "Profite de la fiabilité TP-Link avec ce lecteur de cartes USB-C conçu pour une performance rapide et stable."
+     "name": "Spotlight RGB LED FSD-168 Télécommandé",
+     "description": "Illuminez vos photos, vidéos et espaces avec ce spotlight RGB professionnel offrant plusieurs couleurs et températures de lumière réglables. Idéal pour le streaming, la photographie, les tournages vidéo, les événements et la décoration lumineuse.\n\nCaractéristique\nDétail\n\nType\nSpotlight RGB LED\n\nModèle\nFSD-168\n\nTempérature de couleur\n3200K – 6500K\n\nCouleurs\nRGB multicolore\n\nAlimentation\nDC 12V\n\nContrôle\nTélécommande sans fil\n\nUtilisation\nPhoto, vidéo, streaming, décoration\n\nSupport\nRéglable\n\nRéférence Doshift\nAA32BB099",
+     "short_description": "Illuminez vos photos, vidéos et espaces avec ce spotlight RGB professionnel offrant plusieurs couleurs et températures de lumière réglables."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/6-19.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-16T154642.298.png"
    ]
   },
   {
-   "sku": "doshift-75316",
-   "price": 209,
+   "sku": "doshift-78461",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -48,146 +146,51 @@
    ],
    "locales": {
     "fr": {
-     "name": "Smartwatch DUNSPIN MAREA L14 – Design Élégant",
-     "description": "Profitez d’une expérience connectée fluide avec la smartwatch DUNSPIN MAREA L14. Conçue pour allier style et performance, elle vous permet de passer des appels Bluetooth, recevoir vos notifications en temps réel et suivre votre quotidien en toute simplicité. Son écran moderne et son design élégant s’adaptent parfaitement à votre rythme, que ce soit au travail ou en déplacement.\n\nCaractéristique\nDétail\n\nAppels Bluetooth\nOui\n\nNotifications\nMessages, appels, apps\n\nCompatibilité\nAndroid & iOS\n\nÉcran\nHD tactile\n\nAutonomie\nLongue durée\n\nDesign\nModerne et léger\n\nRéférence-doshift\nAA1BB1099",
-     "short_description": "Profitez d’une expérience connectée fluide avec la smartwatch DUNSPIN MAREA L14. Conçue pour allier style et performance, elle vous permet de passer des appels Bluetooth, recevoir vos notifications en temps réel et…"
+     "name": "Pochette Compatible iPhone 17 Air Lavande",
+     "description": "Apportez une touche délicate et apaisante à votre téléphone avec cette pochette lavande au design moderne et minimaliste.\n\nCaractéristique\nDétail\n\nCouleur\nLavande élégante\n\nTexture\nSilicone lisse\n\nProtection\nContre les chocs\n\nStructure\nFine et légère\n\nDécoupes\nAjustées avec précision\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Apportez une touche délicate et apaisante à votre téléphone avec cette pochette lavande au design moderne et minimaliste."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-78.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/22-3.png"
    ]
   },
   {
-   "sku": "doshift-75212",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support mural multifonction pour couvercles, planches et ustensiles avec 4 crochets amovibles",
-     "description": "Optimisez l’espace de votre cuisine avec ce support mural multifonction pratique et moderne. Conçu pour ranger facilement les couvercles de casseroles, planches à découper, poêles légères ou paniers d’égouttage, il aide à garder le plan de travail propre et bien organisé.\n\nIdéal pour les petits espaces, les cuisines modernes, les buanderies ou les zones de rangement, ce support combine praticité, gain de place et style au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nSupport mural multifonction\n\nUtilisation\nRangement de couvercles, planches, poêles légères, paniers et ustensiles\n\nInstallation\nMurale\n\nNombre de crochets\n4 crochets amovibles\n\nDesign\nModerne, compact et gain de place\n\nMatière\nPlastique résistant\n\nEmplacement conseillé\nCuisine, buanderie, salle de rangement\n\nAvantage principal\nLibère le plan de travail et organise les accessoires\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Optimisez l’espace de votre cuisine avec ce support mural multifonction pratique et moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T204456.229.png"
-   ]
-  },
-  {
-   "sku": "doshift-75204",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse de Toilette Murale avec Support – 40,2 cm",
-     "description": "Gardez votre salle de bain propre et bien organisée avec cette brosse de toilette murale au design moderne et compact. Son support adhésif permet une installation facile sans perçage, idéale pour optimiser l’espace autour des WC. La brosse dispose d’une tête souple à picots, pratique pour nettoyer efficacement les zones difficiles d’accès, les rebords et les coins.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse de toilette avec support mural\n\nUtilisation\nNettoyage WC, rebords, coins et surfaces difficiles d’accès\n\nInstallation\nMurale avec fixation adhésive\n\nHauteur totale\n40,2 cm\n\nDimensions du support\n14 × 9,5 × 4 cm\n\nType de brosse\nTête souple à picots\n\nManche\nLong et ergonomique\n\nAvantage\nGain de place et rangement propre\n\nEmplacement conseillé\nSalle de bain, toilettes\n\nRéférence Doshift\nAA5BB599",
-     "short_description": "Gardez votre salle de bain propre et bien organisée avec cette brosse de toilette murale au design moderne et compact."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T203425.905.png"
-   ]
-  },
-  {
-   "sku": "doshift-75242",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse de Nettoyage pour Chaussures avec Poils Flexibles",
-     "description": "Nettoyez vos chaussures plus facilement avec cette brosse pratique conçue pour éliminer la poussière, les taches et les saletés sur les baskets, chaussures de sport et autres surfaces. Son manche long et ergonomique offre une bonne prise en main, tandis que ses poils flexibles permettent un nettoyage efficace sans abîmer la matière.\n\nCompacte et légère, elle se glisse facilement dans un placard, une salle de bain ou un espace de rangement. Son trou de suspension permet de l’accrocher après utilisation pour un séchage rapide et un rangement propre.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse de nettoyage pour chaussures\n\nUtilisation\nNettoyage des baskets, chaussures, semelles et surfaces similaires\n\nMatière des poils\nPlastique flexible\n\nDureté des poils\nMoyenne\n\nLongueur\n200 mm\n\nLargeur\n40 mm\n\nHauteur\n56 mm\n\nManche\nLong, ergonomique et facile à tenir\n\nRangement\nTrou de suspension intégré\n\nAvantages\nNettoyage pratique, prise en main confortable, format compact\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Nettoyez vos chaussures plus facilement avec cette brosse pratique conçue pour éliminer la poussière, les taches et les saletés sur les baskets, chaussures de sport et autres surfaces."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T213146.967.png"
-   ]
-  },
-  {
-   "sku": "doshift-75190",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support mural adhésif pour pommeau de douche",
-     "description": "Fixez facilement votre pommeau de douche avec ce support mural adhésif pratique et moderne. Son design compact permet d’organiser la douche sans perçage, tout en gardant le pommeau bien stable et accessible. Idéal pour la salle de bain, il convient aussi aux douches enfants, au lavage des animaux ou à une utilisation quotidienne plus confortable. Sa surface lisse et son installation rapide offrent une solution propre, discrète et efficace pour optimiser l’espace.\n\nCaractéristique\nDétail\n\nType de produit\nSupport mural pour pommeau de douche\n\nInstallation\nAdhésive, sans perçage\n\nUtilisation\nSalle de bain, douche, lavage enfant ou animal\n\nFixation\nMurale\n\nDesign\nCompact, moderne et discret\n\nCompatibilité\nConvient à la plupart des douchettes standards\n\nAvantage\nGarde le pommeau stable et bien positionné\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Fixez facilement votre pommeau de douche avec ce support mural adhésif pratique et moderne. Son design compact permet d’organiser la douche sans perçage, tout en gardant le pommeau bien stable et accessible."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T200120.129.png"
-   ]
-  },
-  {
-   "sku": "doshift-75035",
+   "sku": "doshift-78456",
    "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Sac Cabas Équilibre Et Nature",
-     "description": "Sublimez votre quotidien avec ce cabas bi-matière alliant élégance minimaliste et engagement durable. Associez la robustesse de sa toile bleu denim à la texture organique de son socle en liège naturel pour un style résolument contemporain.\n\nCaractéristique\nDétail\n\nDesign\nToile coton + liège\n\nAnses\nCorde en coton résistante\n\nBase\nLiège renforcé\n\nFormat\nTote spacieux\n\nStyle\nÉco-chic naturel\n\nRéférence-doshift\nAA2BB099",
-     "short_description": "Sublimez votre quotidien avec ce cabas bi-matière alliant élégance minimaliste et engagement durable."
+     "name": "Pochette Compatible iPhone 17 Air Beige Nude",
+     "description": "Sublimez votre iPhone avec cette pochette beige nude au style doux et naturel, parfaite pour un usage quotidien élégant.\n\nCaractéristique\nDétail\n\nMatériau\nSilicone doux premium\n\nProtection\nLégère antichoc\n\nCouleur\nNude tendance\n\nDesign\nÉpuré moderne\n\nConfort\nPrise en main optimale\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Sublimez votre iPhone avec cette pochette beige nude au style doux et naturel, parfaite pour un usage quotidien élégant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-69.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/19-3.png"
    ]
   },
   {
-   "sku": "doshift-75058",
-   "price": 279,
+   "sku": "doshift-78450",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Tapis Shaggy Venezia Tex — Un style chic et douillet pour votre maison",
-     "description": "Illuminez votre intérieur avec le tapis « Venezia Tex », qui apporte une touche d’élégance moderne et de confort luxueux à n’importe quelle pièce. Avec son design élégant et bicolore dans des tons d’ivoire et d’or rosé, ce tapis devient instantanément un point focal.\n\nCaractéristique\nDétail\n\nDesign\nShaggy bicolore effet marbré\n\nTexture\nDoux et pelucheux\n\nTaille\n250 x 150\n\nMatériau\nHaute qualité\n\nEntretien\nFacile\n\nRéférence-doshift\nAA1BB7099",
-     "short_description": "Illuminez votre intérieur avec le tapis « Venezia Tex », qui apporte une touche d’élégance moderne et de confort luxueux à n’importe quelle pièce."
+     "name": "Pochette Compatible iPhone 17 Air Noir Mat",
+     "description": "Sécurisez votre iPhone avec cette pochette noir mat au style premium, pensée pour un look sobre et élégant.\n\nCaractéristique\nDétail\n\nFinition\nMate élégante\n\nProtection\nContre les rayures\n\nDesign\nMinimaliste moderne\n\nToucher\nDoux et antiglisse\n\nDécoupes\nPrécises\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Sécurisez votre iPhone avec cette pochette noir mat au style premium, pensée pour un look sobre et élégant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/3-72.png"
-   ]
-  },
-  {
-   "sku": "doshift-75050",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sac Isotherme Portable 22 x 19 x 13 cm",
-     "description": "Gardez vos repas et boissons à la bonne température partout où vous allez grâce à ce sac isotherme compact et élégant. Léger, pratique et facile à transporter, il est idéal pour le travail, l’école, les sorties, les pique-niques ou les voyages. Sa fermeture zippée sécurisée et sa poche avant offrent un rangement pratique pour vos petits accessoires du quotidien.\n\nCaractéristique\nDétail\n\nType\nSac isotherme portable\n\nFonction\nConservation des aliments et boissons\n\nMatière\nTissu non tissé avec doublure isotherme\n\nDimensions\n22 x 19 x 13 cm\n\nFermeture\nZip robuste\n\nTransport\nPoignées renforcées\n\nPoche avant\nOui\n\nUtilisation\nBureau, école, voyage, pique-nique\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Gardez vos repas et boissons à la bonne température partout où vous allez grâce à ce sac isotherme compact et élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-99.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/16-4.png"
    ]
   }
  ]

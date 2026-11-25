@@ -1,160 +1,85 @@
 {
  "products": [
   {
-   "sku": "doshift-43797",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Éclairez votre routine de beauté avec notre Kit de lumières LED Hollywoodiennes pour miroir",
-     "description": "Chaque ampoule est soigneusement conçue pour reproduire la lumière naturelle du jour, vous permettant d’obtenir un éclairage uniforme et sans ombres. L’installation est simple, et le design élégant des ampoules ajoute une touche de sophistication à votre espace. Que vous soyez un passionné de maquillage ou que vous souhaitiez simplement créer une ambiance chic dans votre chambre, ce Kit de lumières LED Hollywoodiennes pour miroir est l’accessoire parfait pour sublimer votre routine de beauté au quotidien. Transformez votre espace en un studio de maquillage professionnel et brillez comme la star que vous êtes.\n\nCaractéristiques :\n\nDesign Hollywoodien Élégant\n\nÉclairage Naturel et Doux\n\nInstallation Simple et Rapide\n\nAmbiance Glamour au Quotidien\n\nTransforme Instantanément l’Espace Beauté",
-     "short_description": "Chaque ampoule est soigneusement conçue pour reproduire la lumière naturelle du jour, vous permettant d’obtenir un éclairage uniforme et sans ombres."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349418-367_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-45367",
-   "price": 129,
+   "sku": "doshift-46826",
+   "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    12
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Thermomètre Digital Flexible Électronique",
-     "description": "Surveillez rapidement et facilement la température de toute la famille avec ce thermomètre digital flexible pratique et fiable. Son embout souple offre plus de confort pendant l’utilisation, tandis que l’écran digital assure une lecture claire et rapide des résultats. Compact et léger, il convient parfaitement à un usage quotidien à la maison.\n\nCaractéristique\nDétail\n\nType\nThermomètre digital flexible\n\nAffichage\nÉcran LCD digital\n\nUtilisation\nOrale, axillaire, rectale\n\nAlimentation\nPile DC 1.5V\n\nEmbout\nFlexible\n\nCouleur\nBlanc et turquoise\n\nÉtanchéité\nIP22\n\nPublic\nEnfants et adultes\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Surveillez rapidement et facilement la température de toute la famille avec ce thermomètre digital flexible pratique et fiable."
+     "name": "Chaise Pliante Portable – Bleue",
+     "description": "Profitez pleinement de vos moments en plein air avec cette chaise pliante pratique et facile à transporter. Son assise et son dossier en tissu tressé bleu offrent un confort agréable, tandis que sa structure métallique assure une bonne stabilité pendant l’utilisation.\n\nGrâce à son format pliable et compact, elle se range facilement dans le coffre d’une voiture ou dans un espace réduit. Elle convient parfaitement aux sorties à la plage, au camping, aux pique-niques, à la pêche, au jardin ou à la terrasse.\n\nCaractéristique\nDétail\n\nType de produit\nChaise pliante portable\n\nCouleur\nBleu avec rayures blanches et grises\n\nStructure\nCadre métallique tubulaire\n\nAssise\nTissu tressé souple\n\nDossier\nDouble bande en tissu tressé\n\nFonction\nPliable et facile à ranger\n\nTransport\nFormat léger et peu encombrant\n\nUtilisation\nPlage, camping, pique-nique, pêche, jardin et terrasse\n\nInstallation\nOuverture et fermeture rapides\n\nEntretien\nNettoyage avec un chiffon légèrement humide\n\nRéférence Doshift\nAA10BB199",
+     "short_description": "Profitez pleinement de vos moments en plein air avec cette chaise pliante pratique et facile à transporter."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-05-11T182124.394.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-07-16T152713.225.png"
    ]
   },
   {
-   "sku": "doshift-45362",
+   "sku": "doshift-46801",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Siège ergonomique pour la correction de la posture et le soutien de la colonne vertébrale, couleur aliatoire",
+     "description": "Siège ergonomique polyvalent conçu pour améliorer la posture assise et offrir un soutien complet à la colonne vertébrale, parfait pour ceux qui passent de longues heures assis au bureau, à la maison ou en voiture. Ce siège soutient efficacement la région lombaire et les vertèbres, réduisant ainsi la pression et la tension sur les muscles et les articulations. Son design ergonomique épouse la courbure naturelle du corps, favorisant une meilleure circulation sanguine et évitant les crampes musculaires.Fabriqué à partir de matériaux de haute qualité, ce siège combine flexibilité et durabilité, avec un rembourrage doux pour un confort prolongé. Il dispose également de fentes de ventilation pour réduire la chaleur et l’humidité lors d’une utilisation prolongée. Conçu pour soulager les douleurs liées à une mauvaise posture, il aide à maintenir l’alignement naturel de la colonne vertébrale.Ce siège convient à tous les âges et est idéal pour les étudiants, les employés de bureau et les conducteurs souffrant de douleurs dorsales ou souhaitant améliorer leur posture. Facile à transporter grâce à son design léger, il est l’accessoire parfait pour préserver la santé du dos et assurer un confort optimal partout et à tout moment",
+     "short_description": "Siège ergonomique polyvalent conçu pour améliorer la posture assise et offrir un soutien complet à la colonne vertébrale, parfait pour ceux qui passent de longues heures assis au bureau, à la maison ou en voiture."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1764589386-53_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-46505",
+   "price": 53,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis de Souris – Compact, Précis et Confortable (20 × 17 cm)",
+     "description": "Profitez d’une expérience fluide et précise avec ce tapis de souris conçu pour offrir un contrôle optimal, que ce soit pour le travail, le gaming ou l’utilisation quotidienne. Sa surface lisse garantit une glisse parfaite, tandis que sa base antidérapante assure une stabilité totale, même lors des mouvements rapides. Compact, élégant et durable, il s’intègre parfaitement à tout bureau moderne.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTapis de souris compact\n\nDimensions\n20 cm (largeur) × 17 cm (hauteur)\n\nSurface\nTexture lisse haute précision pour un contrôle optimal\n\nBase\nBase antidérapante en caoutchouc\n\nMatériau\nSurface durable et résistante à l’usure\n\nCompatibilité\nSouris optiques et laser\n\nNettoyage\nLavable et facile à entretenir\n\nDesign\nMinimaliste avec logo discret – idéal pour setup moderne\n\nUtilisation\nBureau, gaming, télétravail, ordinateur portable\n\nAvantage clé\nCompact, stable, confortable et précis\n\nRéférence Doshift\nAA0BB799",
+     "short_description": "Profitez d’une expérience fluide et précise avec ce tapis de souris conçu pour offrir un contrôle optimal, que ce soit pour le travail, le gaming ou l’utilisation quotidienne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_evwc3fevwc3fevwc-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-45780",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "2 pièce drapeau de maroc, drapeau marocain",
-     "description": "Le drapeau marocain est un drapeau à main composé de deux pièces.\n\nIl est de couleur rouge avec une étoile verte à cinq branches au centre.\n\nL’étoile représente le sceau de Salomon et les cinq piliers de l’islam.\n\nLe rouge symbolise l’islam et le vert l’espoir.\n\nLe drapeau est fabriqué en toile polyester.",
-     "short_description": "Le drapeau marocain est un drapeau à main composé de deux pièces."
+     "name": "Sac de Lavage pour Chaussures et Baskets en Machine avec Microfibres Chenille",
+     "description": "Finie la corvée du brossage manuel des semelles et des baskets sales grâce à ce sac de lavage automatique pour chaussures en machine. Doté d’une doublure intérieure exclusive garnie de milliers de franges en microfibres de chenille épaisses, il nettoie, désincruste la saleté et élimine les mauvaises odeurs à 360° au fur et à mesure des rotations du tambour.\n\nCaractéristique\nSpécification Détaillée\n\nType\nHousse de lavage et de séchage protectrice pour chaussures et baskets en lave-linge (Shoe Wash Bag)\n\nFonction\nBrossage et nettoyage automatique 360° grâce aux milliers de franges chenille en microfibres ultra-douces\n\nMatériaux\nMaille alvéolée respirante en polyester indéchirable (extérieur jaune/turquoise) et chenille intérieure\n\nFermeture\nZip renforcé avec élastique de sécurité anti-ouverture protégeant le tambour contre les chocs et rayures\n\nCompatibilité\nAdapté pour toutes pointures de baskets de sport, toiles et tennis ; compatible lave-linge et sèche-linge\n\nSKU\n9900006711119",
+     "short_description": "Sac de lavage cylindrique pour baskets en machine avec doublure en microfibre chenille nettoyante et fermeture zippée sécurisée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764357743-327_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/620f3dc3-9ed5-4026-91fb-ef4476430002.webp"
    ]
   },
   {
-   "sku": "doshift-43774",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Jouet d’eau de piscine pour enfants,jouet de baignoire arroseur pour tout-petits",
-     "description": "Ce jouet de bain pour bébés est une baleine qui s’illumine et projette de l’eau automatiquement lorsqu’elle est mise dans l’eau.\n\nIl fonctionne avec 3 piles AAA (non incluses) et est équipé d’un joint d’étanchéité pour empêcher les fuites.\n\nLe jouet est fabriqué en ABS de haute qualité, est durable et a une surface lisse sans bavures.\n\nIl est idéal pour les baignoires, les piscines, les douches et peut être utilisé à l’extérieur, à la plage.\n\nIl s’arrête automatiquement lorsqu’il est retiré de l’eau.\n\nIl est disponible en blanc et pèse 0.3 kg.\n\nC’est un excellent cadeau pour les enfants.",
-     "short_description": "Ce jouet de bain pour bébés est une baleine qui s’illumine et projette de l’eau automatiquement lorsqu’elle est mise dans l’eau."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349375-362_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43759",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Machine à pâtes multifonction inox imperial offfre pour chebakia noodle",
-     "description": "La machine à pâte Imperial 15 cm Multifonction est un outil manuel en inox permettant de préparer des pâtes fraîches.\n\nElle est équipée d’une manivelle et se fixe sur le plan de travail grâce à un étau fourni.\n\nLa machine à pâtes permet de réaliser des pâtes fraîches de différentes formes et épaisseurs.\n\nElle est livrée avec des rouleaux de largeur moyenne (9) et (1) pour une plus grande polyvalence.\n\nLa machine à pâte est facile à nettoyer : il suffit de l’essuyer avec un chiffon doux et sec et de nettoyer les couteaux avec une brosse.\n\nElle est adaptée à tous les types de pâte, comme la Chabakia, les Spaghetti et les Lasagnes.\n\nElle est fabriquée en inox et dispose d’une poignée amovible pour faciliter le nettoyage.\n\nLe poids de la machine est de 0,3 kg et sa couleur est argent.",
-     "short_description": "La machine à pâte Imperial 15 cm Multifonction est un outil manuel en inox permettant de préparer des pâtes fraîches."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349349-359_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43669",
-   "price": 299,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Machine à pâtes et chabakia bonana",
-     "description": "La machine à pâte permet de préparer des pâtes fraîches faites maison.\n\nElle est composée de deux rouleaux réglables graduellement pour étaler la pâte en feuilles plus fines.\n\nUne fois la bonne épaisseur atteinte, la pâte peut être mise dans l’accessoire à spaghetti ou à tagliatelle.\n\nLe set comprend des accessoires complémentaires pour faire différents types de pâtes.\n\nLa machine se nettoie avec un chiffon.\n\nNe pas la plonger dans l’eau.\n\nElle est faite d’acier inoxydable et mesure 150 mm de large.\n\nElle est de couleur argent.",
-     "short_description": "La machine à pâte permet de préparer des pâtes fraîches faites maison."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764349070-339_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43654",
-   "price": 339,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Phares led moto 1200lm 9v85v",
-     "description": "L’ampoule LED est étanche IP65.\n\nElle est équipée de 12 puces LED avec lentille.\n\nElle offre une haute luminosité et une faible consommation d’énergie.\n\nElle dispose d’un système de dissipation thermique efficace.\n\nElle s’allume instantanément.\n\nSa durée de vie est de 20 000 heures.\n\nElle fonctionne avec une tension de 9 à 85 volts DC.\n\nElle est disponible en blanc 7000K.\n\nElle a un poids de 0.1 kg.",
-     "short_description": "L’ampoule LED est étanche IP65."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348975-336_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43646",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Kit de 12 Pinceaux Professionnels pour le Maquillage du Visage",
-     "description": "L’ensemble de pinceaux de maquillage pour les yeux 7 pièces est un kit essentiel pour l’application quotidienne du maquillage des yeux, 100% végétalien et sans cruauté, et sans irritation de la peau.Ces pinceaux de maquillage pour fard à paupières en poils synthétiques doux donnent à votre peau une touche incroyable lors de l’application du maquillage, ce qui rend l’ensemble du processus très apaisant et agréable. Ils sont faciles à entretenir et sèchent rapidement.Fabriqués à la main par des artisans expérimentés, les manches de cet ensemble de pinceaux de maquillage pour fard à paupières ont été poncés pour une finition lisse et élégante. La tête de brosse a subi plusieurs processus pour éviter la perte potentielle de poils.Les poils synthétiques denses et moelleux sont faciles à tenir, adaptés aux maquilleurs professionnels et aux débutants en maquillage. C’est également un choix de cadeau idéal pour votre petite amie ou votre femme lors d’une occasion spéciale.Parfait pour une large gamme de produits de maquillage comme les liquides, les poudres, les crèmes, etc., procurez-vous cet ensemble de pinceaux de maquillage pour les yeux essentiel et créez votre propre look impeccable maintenant.",
-     "short_description": "L’ensemble de pinceaux de maquillage pour les yeux 7 pièces est un kit essentiel pour l’application quotidienne du maquillage des yeux, 100% végétalien et sans cruauté, et sans irritation de la peau.Ces pinceaux de…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348958-334_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-43641",
+   "sku": "doshift-45712",
    "price": 89,
    "stock": 10,
    "status": 0,
@@ -163,18 +88,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Ciseaux coupe-tuyau en pvc, outils à main pour couper les tuyaux en caoutchouc",
-     "description": "Ces ciseaux sont conçus pour couper les tuyaux en caoutchouc.\n\nIls sont fabriqués en PVC renforcé et dotés d’une lame en acier inoxydable trempé.\n\nLes poignées ergonomiques offrent une prise en main confortable.\n\nIls sont disponibles en jaune et noir et pèsent 0.3 kg.",
-     "short_description": "Ces ciseaux sont conçus pour couper les tuyaux en caoutchouc."
+     "name": "Outils Art Floral Gelée 3D Type B – Moules & Aiguilles pour Desserts Artistiques",
+     "description": "Les outils Art Floral Gelée 3D Type B sont conçus pour créer des desserts spectaculaires en gelée, avec des fleurs, feuilles et motifs en trois dimensions. Idéal pour la pâtisserie artistique, ce kit permet d’injecter des couleurs et de réaliser des décors raffinés grâce à des aiguilles de précision et un moule adapté. Que vous prépariez des gelées transparentes, au chocolat, au pandan ou à la noix de coco, ces outils vous offrent une liberté créative totale pour produire des desserts uniques et élégants. Solides, durables et faciles à manipuler, ils conviennent aussi bien aux amateurs qu’aux professionnels de la gastronomie.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nOutils art floral pour gelée 3D\n\nModèle\nType B\n\nUtilisation\nCréation de fleurs et feuilles en gelée 3D\n\nMatière\nMétal\n\nTaille\n11 × 4 × 2,5 cm\n\nPoids net\n84 g\n\nPoids total\n0,1 kg\n\nCouleur\nArgent\n\nApplications\nGelée 3D, gâteaux décoratifs, pâtisserie créative\n\nAccessoires\nAiguilles compatibles Luer Lock (selon usage)\n\nAvantage principal\nHaute précision pour motifs détaillés",
+     "short_description": "Les outils Art Floral Gelée 3D Type B sont conçus pour créer des desserts spectaculaires en gelée, avec des fleurs, feuilles et motifs en trois dimensions."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348949-333_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_zdgx6mzdgx6mzdgx-1.png"
    ]
   },
   {
-   "sku": "doshift-43603",
-   "price": 79,
+   "sku": "doshift-45663",
+   "price": 109,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -182,13 +107,89 @@
    ],
    "locales": {
     "fr": {
-     "name": "Bougie d’anniversaire colorée numérique bougie gâteau fête birthday",
-     "description": "Ces bougies en cire de paraffine sont disponibles en plusieurs couleurs et comportent les chiffres de 0 à 9.\n\nChaque paquet contient 10 bougies et les couleurs sont différentes d’un paquet à l’autre.\n\nElles sont parfaites pour toutes les occasions, comme les fêtes, et permettent de créer des combinaisons de chiffres comme le 123.",
-     "short_description": "Ces bougies en cire de paraffine sont disponibles en plusieurs couleurs et comportent les chiffres de 0 à 9."
+     "name": "Biberon Cuillère Ace en Silicone – Alimentation Douce & Contrôle du Débit pour Nouveau-Nés",
+     "description": "Le Biberon Cuillère Ace en Silicone est conçu pour offrir une alimentation douce, propre et parfaitement maîtrisée à votre nouveau-né. Grâce à son embout cuillère, il permet de nourrir bébé avec précision tout en contrôlant le débit, idéal pour les purées liquides, compotes ou premiers repas semi-solides. Fabriqué en silicone de qualité alimentaire, il assure une sécurité optimale et un confort d’utilisation incomparable. Léger, pratique et facile à transporter, il est parfait aussi bien à la maison qu’en déplacement. Une véritable innovation qui simplifie la vie des parents tout en rendant les repas plus agréables pour le bébé.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBiberon cuillère pour nouveau-né\n\nMatériau\nSilicone de qualité alimentaire\n\nSécurité\nSans BPA, doux et sûr pour bébé\n\nFonction principale\nContrôle précis du débit pour une alimentation en douceur\n\nConception\nBiberon + cuillère intégrée pour polyvalence\n\nErgonomie\nDesign intuitif, simple à utiliser\n\nUtilisation\nIdéal pour purées liquides, compotes, repas de transition\n\nPraticité\nParfait à la maison ou en déplacement\n\nHygiène\nFacile à nettoyer, matériau non toxique\n\nAvantage principal\nNourrit sans renverser, facilite la transition vers la cuillère",
+     "short_description": "Le Biberon Cuillère Ace en Silicone est conçu pour offrir une alimentation douce, propre et parfaitement maîtrisée à votre nouveau-né."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764348458-325_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_n6muc3n6muc3n6mu-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-45584",
+   "price": 59,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lot de 20 Perles Papillons en Argile Polymère – Fait Main, Couleurs Variées",
+     "description": "Ajoutez une touche artisanale, colorée et élégante à vos créations grâce à ce lot de 20 perles d’espacement papillons en argile polymère, entièrement réalisées à la main. Chaque perle possède un charme unique, avec de légères variations de taille et de forme qui reflètent le travail manuel. Leurs couleurs vibrantes et leur design ludique en font des accessoires parfaits pour la fabrication de bijoux, la customisation de vêtements, les projets DIY, ou encore la décoration. Légères, robustes et faciles à enfiler, elles s’adaptent à une multitude d’idées créatives.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPerles d’espacement papillons\n\nQuantité\nLot de 20 pièces\n\nMatériau\nArgile polymère (fabriquées à la main)\n\nHauteur\n6 à 9 mm\n\nÉpaisseur\n4 à 4,5 mm\n\nDiamètre du trou\n1 à 1,2 mm (trou traversant de haut en bas)\n\nCouleurs\nAssortiment multicolore\n\nStyle\nPapillon – Finition artisanale\n\nUtilisations\nBijoux, bracelets, colliers, accessoires, couture, DIY, décoration\n\nParticularité\nPièces uniques – variations possibles (fait main)\n\nPoids du lot\nLéger (idéal pour bijoux)",
+     "short_description": "Ajoutez une touche artisanale, colorée et élégante à vos créations grâce à ce lot de 20 perles d’espacement papillons en argile polymère, entièrement réalisées à la main."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764358188-376_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45574",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pouf Gonflable d’Extérieur – Rond 56 × 25 cm – Ultra Doux & Design Tendance",
+     "description": "Ajoutez confort et style à votre espace avec ce pouf gonflable rond de 56 × 25 cm, idéal pour l’extérieur comme pour l’intérieur. Son revêtement ultra doux effet velours offre une assise agréable, tandis que sa structure interne Coil Beam garantit une excellente stabilité et empêche toute déformation. Léger et facile à gonfler avec une pompe manuelle ou électrique (non fournie), il se transporte et se range sans effort. Parfait pour une terrasse, un salon ou une chambre, ce pouf design s’adapte harmonieusement à tout type de décoration.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nPouf Gonflable\n\nType\nPouf rond gonflable\n\nDimensions\nØ 56 cm × 25 cm hauteur\n\nStructure interne\nCoil Beam – renforts PVC pour stabilité\n\nRevêtement\nUltra doux effet velours\n\nGonflage\nCompatible pompe manuelle ou électrique\n\nUtilisation\nIntérieur & extérieur (terrasse, maison)\n\nMatériau\nPolyester + PVC interne\n\nPoids\n1.5 kg\n\nCouleur\nSelon l’image\n\nDesign\nTendance, moderne, décoratif\n\nAvantage\nNe se déforme pas, confortable, léger",
+     "short_description": "Ajoutez confort et style à votre espace avec ce pouf gonflable rond de 56 × 25 cm, idéal pour l’extérieur comme pour l’intérieur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_nxwbbsnxwbbsnxwb-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-45542",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de Trousses de Toilette Transparentes – Lot de 3 Pièces",
+     "description": "Organisez facilement vos essentiels de voyage avec ce lot de 3 trousses de toilette transparentes, conçu pour ranger cosmétiques, produits d’hygiène, accessoires de maquillage et articles de voyage. Grâce à leur design élégant et pratique, ces pochettes offrent une visibilité rapide du contenu tout en assurant un transport propre et ordonné.\n\nCaractéristique\nDétail\n\nType\nSet de trousses de toilette\n\nQuantité\nLot de 3 pièces\n\nMatière\nPVC transparent + simili cuir\n\nFermeture\nZip renforcé\n\nUtilisation\nVoyage, maquillage, rangement toilette\n\nParticularité\nTransparent pour visibilité rapide\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Organisez facilement vos essentiels de voyage avec ce lot de 3 trousses de toilette transparentes, conçu pour ranger cosmétiques, produits d’hygiène, accessoires de maquillage et articles de voyage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-12T140351.000.png"
+   ]
+  },
+  {
+   "sku": "doshift-45486",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Horloge de Prières Digitale Al-Haramain – Précision & Sérénité au Quotidien",
+     "description": "Cette horloge de prières digitale Al-Haramain est conçue pour accompagner les musulmans dans leur pratique quotidienne avec précision et simplicité. Elle affiche clairement l’heure, la date et surtout les heures exactes des cinq prières, avec alertes sonores (Adhan) pour ne manquer aucun moment important. Son design élégant et compact s’intègre parfaitement dans la maison, la chambre ou la mosquée, tout en offrant une utilisation facile grâce à ses boutons intuitifs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nHorloge digitale de prières islamiques\n\nMarque\nAl-Haramain\n\nFonction principale\nAffichage et rappel des heures de prière (Adhan)\n\nPrières intégrées\nFajr, Dhuhr, Asr, Maghrib, Isha\n\nAffichage\nÉcran LCD clair avec heure, date et informations de prière\n\nLangue\nArabe (avec symboles et indications universelles)\n\nRéglage\nBoutons de contrôle simples (SET, UP, DOWN)\n\nCouleur\nNoir\n\nAlimentation\nFonctionne avec piles\n\nDimensions\nEnviron 15 cm (largeur) × 8 cm (hauteur)\n\nUtilisation\nMaison, chambre, bureau, mosquée\n\nDesign\nCompact, moderne avec touche islamique élégante\n\nRéférence-Doshift\nAA13BB099",
+     "short_description": "Cette horloge de prières digitale Al-Haramain est conçue pour accompagner les musulmans dans leur pratique quotidienne avec précision et simplicité."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/ChatGPT-Image-15-dec.-2025-19_35_55-1.png"
    ]
   }
  ]

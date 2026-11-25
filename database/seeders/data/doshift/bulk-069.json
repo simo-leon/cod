@@ -1,107 +1,84 @@
 {
  "products": [
   {
-   "sku": "doshift-63937",
-   "price": 159,
+   "sku": "doshift-66830",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Boya Microphone BY MM1 Multi Usage pour Camera, Smart Phone, tablette, ordinateur",
-     "description": "Microphone compact sur l’appareil Compatible avec les smartphones, appareils photo reflex numériques, caméscopes grand public, ordinateurs, etc.\n\nConstruction en métal robuste\n\nAucune batterie requise\n\nPare-brise professionnel en fourrure inclus\n\nTransducteur: condenseur\n\nModèle polaire: cardioïde\n\nRéponse en fréquence: 35-18KHz +/- 3dBSensibilité: -42dB +/- 1dB / 0dB = 1V / Pa, 1kHzRapport signal sur bruit: 76 dB SPL\n\nPrise: connecteur TRS et TRRS de 3,5 mm\n\nDimensions: Φ22 x 81mmPoids net: 86g / 0.19 lb",
-     "short_description": "Microphone compact sur l’appareil Compatible avec les smartphones, appareils photo reflex numériques, caméscopes grand public, ordinateurs, etc."
+     "name": "Puzzle Astronaute – Magic Beads Space Puzzle Toy",
+     "description": "Découvrez un jeu de réflexion amusant et éducatif avec le Puzzle Astronaute Magic Beads. Ce jouet original en forme d’astronaute combine divertissement, logique et stimulation mentale. À l’intérieur du casque se trouvent des billes colorées rotatives que l’on peut mélanger puis remettre dans leur ordre initial en les faisant tourner.\n\nCaractéristique\nDétail\n\nType de produit\nPuzzle de réflexion\n\nDesign\nAstronaute avec billes rotatives\n\nFonction\nMélanger et réorganiser les couleurs\n\nRotation\nBilles rotatives multidirectionnelles\n\nObjectif\nDévelopper logique et concentration\n\nUtilisation\nJeu éducatif et divertissant\n\nMatériau\nPlastique ABS résistant\n\nTaille\nCompact et portable\n\nPublic\nEnfants et adultes\n\nRéférence DOSHIFT\nAA2BB599",
+     "short_description": "Découvrez un jeu de réflexion amusant et éducatif avec le Puzzle Astronaute Magic Beads. Ce jouet original en forme d’astronaute combine divertissement, logique et stimulation mentale."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-18T185155.720.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-06T000924.843.png"
    ]
   },
   {
-   "sku": "doshift-63957",
-   "price": 249,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîtier Externe SSD M.2 HOCO USB-C avec Adaptateur USB-A – Aluminium Gris",
-     "description": "Optimisez le stockage de vos données avec ce boîtier externe SSD M.2 HOCO, conçu pour transformer facilement votre SSD en solution de stockage portable, rapide et élégante. Son format compact et léger le rend idéal pour les déplacements, le travail, les sauvegardes ou le transfert de fichiers entre différents appareils.\n\nGrâce à son corps en aluminium, ce boîtier offre une excellente dissipation thermique tout en assurant une bonne résistance à l’usage quotidien. Son design rainuré moderne apporte une touche premium tout en favorisant le refroidissement. Il se connecte facilement via USB-C et est accompagné d’un adaptateur USB-A pour une compatibilité pratique avec de nombreux ordinateurs et appareils.\n\nSimple à utiliser, il permet d’intégrer un SSD M.2 afin de profiter d’un stockage externe fiable, discret et performant. C’est l’accessoire idéal pour les professionnels, étudiants, créateurs de contenu ou toute personne souhaitant étendre sa capacité de stockage en toute simplicité.\n\nCaractéristique\nDétail\n\nType de produit\nBoîtier externe pour SSD M.2\n\nMarque\nHOCO\n\nConnectique\nUSB-C\n\nAdaptateur inclus\nOui, USB-A\n\nMatériau\nAluminium\n\nCouleur\nGris\n\nUtilisation\nStockage externe, transfert de données, sauvegarde\n\nDesign\nCompact, portable, rainuré\n\nCompatibilité\nSSD M.2\n\nRéférence Doshift\nAA1BB4099",
-     "short_description": "Optimisez le stockage de vos données avec ce boîtier externe SSD M.2 HOCO, conçu pour transformer facilement votre SSD en solution de stockage portable, rapide et élégante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-03-30T172055.870.png"
-   ]
-  },
-  {
-   "sku": "doshift-63952",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chargeur de batterie à 4 fentes, Li-ion 4.2V 18650, chargement indépendant USB",
-     "description": "Ce chargeur de batterie à 4 fentes est conçu pour les batteries Li-ion 18650, 18350, 16340 et autres formats. Il offre un chargement indépendant pour chaque batterie et est alimenté par USB. Il est doté de six protections : surcharges, surintensités, surchauffe, courts-circuits, connexion inversée et surcharges.",
-     "short_description": "Ce chargeur de batterie à 4 fentes est conçu pour les batteries Li-ion 18650, 18350, 16340 et autres formats. Il offre un chargement indépendant pour chaque batterie et est alimenté par USB."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AAAMV70715_img1.webp"
-   ]
-  },
-  {
-   "sku": "doshift-63777",
-   "price": 1419,
+   "sku": "doshift-66731",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    4,
-    7
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Ezviz DP2C Camera oeil De Porte – Judas Numerique WIFI FULL HD – Visiophone Connecte Interphone Video, Camera de securité",
-     "description": "Caméra Oeil de porte Judas Numérique Ezviz (Wifi) vous permet de surveiller à distance qui est en face de votre porte, par l’intermédiaire de votre Smartphone / iPhone en utilisant l’application avancée sur votre téléphone.",
-     "short_description": "Caméra Oeil de porte Judas Numérique Ezviz (Wifi) vous permet de surveiller à distance qui est en face de votre porte, par l’intermédiaire de votre Smartphone / iPhone en utilisant l’application avancée sur votre…"
+     "name": "Adaptateur WiFi USB Haute Puissance avec Antenne – Connexion Stable et Rapide",
+     "description": "Améliorez instantanément la connectivité de votre ordinateur grâce à cet adaptateur WiFi USB haute performance avec antenne externe. Conçu pour capter un signal plus puissant et plus stable, il permet à votre PC ou ordinateur portable de se connecter facilement à un réseau sans fil, même à distance du routeur.\n\nCaractéristique\nDétail\n\nType de produit\nAdaptateur WiFi USB\n\nInterface\nUSB 2.0 haute vitesse\n\nNormes WiFi\nIEEE 802.11n / 802.11g / 802.11b\n\nVitesse de transmission\nJusqu’à 150 Mbps\n\nBande de fréquence\n2.4 GHz\n\nAntenne\nAntenne externe haute sensibilité\n\nSécurité réseau\nWEP / WPA / WPA2\n\nPortée\nSignal amélioré pour une meilleure couverture\n\nCompatibilité\nWindows, Linux, Mac OS\n\nInstallation\nPlug & Play (selon système)\n\nUtilisation\nPC de bureau, ordinateur portable\n\nRéférence DOSHIFT\nAA2BB999",
+     "short_description": "Améliorez instantanément la connectivité de votre ordinateur grâce à cet adaptateur WiFi USB haute performance avec antenne externe."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-17T214940.789.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-05T142416.430.png"
    ]
   },
   {
-   "sku": "doshift-63747",
-   "price": 359,
+   "sku": "doshift-66391",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Canapé Gonflable Senyoubao – Fauteuil Relax Portable Intérieur & Extérieur",
-     "description": "Transformez vos moments de détente avec ce canapé gonflable Senyoubao, conçu pour offrir un confort maximal à la maison ou en plein air. Son revêtement floqué doux procure une sensation agréable au toucher, tandis que sa structure résistante offre stabilité et durabilité. Facile à gonfler, à dégonfler et à transporter grâce à sa conception légère, ce fauteuil lounge pliable avec accoudoirs est parfait pour le jardin, la plage, le camping ou même l’intérieur.",
-     "short_description": "Transformez vos moments de détente avec ce canapé gonflable Senyoubao, conçu pour offrir un confort maximal à la maison ou en plein air."
+     "name": "Service à Thé en Verre – Théière + 4 Tasses Design Élégant",
+     "description": "Apportez une touche moderne et raffinée à vos moments de détente avec ce magnifique service à thé en verre. Composé d’une théière élégante et de 4 tasses assorties, cet ensemble est idéal pour partager un thé chaud en famille ou entre amis.\n\nLa théière en verre transparent met en valeur la couleur naturelle de votre infusion, tandis que son couvercle avec finition inox et sa poignée ergonomique assurent une prise en main confortable et sécurisée. Les tasses au design bicolore apportent une touche contemporaine et originale à votre table.\n\nRésistant à la chaleur et facile à nettoyer, ce service est parfait pour le thé, les infusions ou les boissons chaudes du quotidien.\n\nCaractéristique\nDétail\n\nType\nService à thé\n\nComposition\n1 théière + 4 tasses\n\nMatière\nVerre résistant à la chaleur\n\nCouvercle\nVerre avec finition inox\n\nPoignée\nErgonomique\n\nDesign\nModerne et élégant\n\nUtilisation\nThé, infusions, boissons chaudes\n\nEntretien\nFacile à nettoyer\n\nRéférence DOSHIFT\nAA8BB599",
+     "short_description": "Apportez une touche moderne et raffinée à vos moments de détente avec ce magnifique service à thé en verre."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/senyoubao-inflatable-lazy-sofa-chair-portable-flocking-recliner-couch-for-indoor-outdoor-use-foldable-blow-up-lounge-bed-with-armrests-140x85x80cm-default-title-air-chair-3000157393601-49079619584319.webp"
+    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-03T000147.429.png"
    ]
   },
   {
-   "sku": "doshift-63742",
+   "sku": "doshift-66041",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pot en Verre 1,8L pour Blender BO-4688",
+     "description": "Remplacez facilement votre ancien bol et redonnez toute sa performance à votre blender grâce à ce pot en verre d’une capacité généreuse de 1,8 litre. Conçu pour une utilisation quotidienne, il est idéal pour préparer smoothies, jus frais, milkshakes, sauces et soupes mixées.Solide, pratique et simple à installer, ce pot est la solution idéale pour remplacer un bol usé ou cassé tout en conservant les performances de votre appareil.\n\nCaractéristique\nDétail\n\nType de produit\nPot en verre pour blender\n\nCapacité\n1,8 Litres\n\nMatière\nVerre transparent\n\nLames\nAcier inoxydable – broyage glace\n\nCompatibilité\nBlender BO-4688\n\nCouvercle\nOui – avec bouchon doseur\n\nPoignée\nErgonomique\n\nUtilisation\nSmoothies, jus, sauces, glace pilée\n\nRéférence-doshift\nAA11BB599",
+     "short_description": "Remplacez facilement votre ancien bol et redonnez toute sa performance à votre blender grâce à ce pot en verre d’une capacité généreuse de 1,8 litre."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-28T222613.771.png"
+   ]
+  },
+  {
+   "sku": "doshift-65208",
    "price": 179,
    "stock": 10,
    "status": 0,
@@ -111,56 +88,74 @@
    ],
    "locales": {
     "fr": {
-     "name": "Kits de Vlog, trépied+Microphone+lumière LED+télécommande",
-     "description": "Spécification:\n\n1. Trépied Flexible\n\nFlexible, les pieds de jonction de douille avec la plaque de relication rapide de vis de 1/4\n\nJambes enveloppables filexes avec un tour complet à 360 ° pour allamgle\n\nUtilisation pour Gopro, appareils photo et smartphone\n\n2. Lumière vidéo LED universelle\n\nGamme de 36 led puissantes\n\nBatterie AA intégrée\n\nSe connecte solidement au support de chaussure sur la plupart des caméras vidéo numériques et slr\n\nIl a un support de chaussure froide à 3 côtés pour microphone\n\n3. microphone de fusil de chasse\n\n4. microphone à condensateur supercardioïde unidirrection",
-     "short_description": "Spécification:"
+     "name": "Hub USB-C Multiports 4-en-1",
+     "description": "Connectez facilement tous vos périphériques avec ce hub USB-C compact et polyvalent.Branchez une clé USB, insérez une carte SD ou micro SD (TF) et profitez d’un port USB-C supplémentaire pour la charge ou le transfert de données. Idéal pour ordinateurs portables, tablettes et smartphones compatibles USB-C.\n\nSon design léger et minimaliste le rend parfait pour le bureau, les déplacements et le travail en mobilité.\n\nCaractéristique\nDétail\n\nType\nHub USB-C multiports\n\nEntrée\nUSB Type-C\n\nSorties\n1x USB 3.0, 1x SD, 1x TF (Micro SD), 1x USB-C\n\nCompatibilité\nPC, MacBook, tablettes et appareils USB-C\n\nUtilisation\nTransfert de données et lecture de cartes mémoire\n\nDesign\nCompact et portable\n\nCouleur\nBlanc",
+     "short_description": "Connectez facilement tous vos périphériques avec ce hub USB-C compact et polyvalent.Branchez une clé USB, insérez une carte SD ou micro SD (TF) et profitez d’un port USB-C supplémentaire pour la charge ou le transfert…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-17T212107.366.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2.png"
    ]
   },
   {
-   "sku": "doshift-63736",
-   "price": 89,
+   "sku": "doshift-65125",
+   "price": 59,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    7
+    3
    ],
    "locales": {
     "fr": {
-     "name": "CARG7 Transmetteur FM Bluetooth – Kit Voiture USB MP3",
-     "description": "Transformez votre autoradio en système Bluetooth intelligent grâce au CARG7 Bluetooth Car Kit. Ce transmetteur FM vous permet de diffuser votre musique sans fil depuis votre smartphone vers l’autoradio, tout en profitant d’appels mains libres clairs et sécurisés. Compatible avec clé USB et MP3, il est idéal pour moderniser votre voiture facilement et sans installation complexe.",
-     "short_description": "Transformez votre autoradio en système Bluetooth intelligent grâce au CARG7 Bluetooth Car Kit."
+     "name": "Bonbonnière Élégante avec Couvercle Pointe",
+     "description": "Apportez une touche raffinée à votre table avec le modèle Hũ Mứt Chóp Nhọn TB057C. Cette bonbonnière au design élégant avec couvercle en forme de chapeau pointu est idéale pour présenter vos confiseries, fruits secs, dattes ou chocolats lors des fêtes et occasions spéciales.\n\nSon style décoratif en fait également un bel élément de décoration pour la maison, parfait pour Ramadan, Aïd, mariages ou réceptions. À la fois pratique et esthétique, elle met en valeur son contenu avec élégance.",
+     "short_description": "Apportez une touche raffinée à votre table avec le modèle Hũ Mứt Chóp Nhọn TB057C."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/56d67f20b7260116a702d50c-large.webp"
+    "https://doshift.ma/wp-content/uploads/2026/02/20251224_VqY8S4PuG7.jpeg"
    ]
   },
   {
-   "sku": "doshift-63585",
-   "price": 139,
+   "sku": "doshift-65061",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "PERCHE TELESCOPIQUE Bluetooth Selfie Stick télescopique pour téléphone, caméra, Bluetooth, bâton de Selfie extensible",
-     "description": "PERCHE TELESCOPIQUE Bluetooth Selfie Stick télescopique pour téléphone, caméra, Bluetooth, bâton de Selfie extensible Le monopode selfie portable extensible est pour iphone 4 5 5s 6, pour samsung S3 S4 etc. Adaptateur de téléphone réglable pour tous les téléphones avec une largeur de 5.5cm à 8cm L’obturateur à distance est juste pour les téléphones avec iOS et Android 4.2 ou système supérieur (pas pour caméra), et",
-     "short_description": "PERCHE TELESCOPIQUE Bluetooth Selfie Stick télescopique pour téléphone, caméra, Bluetooth, bâton de Selfie extensible Le monopode selfie portable extensible est pour iphone 4 5 5s 6, pour samsung S3 S4 etc."
+     "name": "Théière simple – Qualité & Prix chez Alpha55 – Accessoire essentiel au quotidien – édition spéciale",
+     "description": "Pensé pour ceux qui apprécient le style et la praticité, Théière simple se distingue par sa qualité et sa durabilité. Fabriqué à partir de matériaux résistants, il garantit une utilisation durable et un confort optimal. Disponible sur Alpha55.ma, votre référence au Maroc pour la maison, la déco et le lifestyle.",
+     "short_description": "Pensé pour ceux qui apprécient le style et la praticité, Théière simple se distingue par sa qualité et sa durabilité. Fabriqué à partir de matériaux résistants, il garantit une utilisation durable et un confort optimal."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AAAAA47581_img1.webp"
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-22T103511.167.jpg"
    ]
   },
   {
-   "sku": "doshift-63255",
+   "sku": "doshift-65050",
+   "price": 1719,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Robot pâtissier professionnel",
+     "description": "Découvrez le robot pâtissier, l’allié incontournable pour toutes vos préparations sucrées ou salées. Avec sa puissance de 2000 watts et son grand bol en acier inoxydable de 12 litres, ce robot est idéal pour pétrir, battre et mélanger facilement de grandes quantités d’ingrédients. Que vous soyez amateur ou professionnel, il vous garantit des résultats parfaits à chaque utilisation.",
+     "short_description": "Découvrez le robot pâtissier, l’allié incontournable pour toutes vos préparations sucrées ou salées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/ed8eba30-05f3-47c3-b8e5-5fba4a2f364d.webp"
+   ]
+  },
+  {
+   "sku": "doshift-65044",
    "price": 159,
    "stock": 10,
    "status": 0,
@@ -169,32 +164,32 @@
    ],
    "locales": {
     "fr": {
-     "name": "Bol Blender, Bol Mixeur Complet – Replacement Professional – 2L Plastique Blanc",
-     "description": "Il peut correspondre à tous les mélangeurs de la série Jtc Il est également compatible avec d’autres marques de mixage, assurez-vous simplement que la taille du connecteur de pichet est identique.\n\n✔️ Pratique : Six lames en acier inoxydable trempé sont conçues dans le pichet pour gérer les ingrédients les plus durs, rendre l’écrasement de la glace plus rapide et mélanger les ingrédients plus lisses. Récipient en polycarbonate de 2l.\n\n✔️ Facile à Nettoyer : Facile à nettoyer, juste avec une goutte de savon à vaisselle et d’eau chaude, votre mélangeur professionnel peut être nettoyé automatiquement.\n\n✔️ Compatibilité : Il s’agit d’un mixeur de taille universelle, si vous avez besoin de le commander pour d’autres marques, veuillez suivre les instructions sur l’image pour vérifier si votre mixeur est compatible.\n\n✔️ Restaurez votre robot avec cette pièce détaché et restaurez toutes ses fonctions et profitez de préparer les meilleures recettes.\n\n✔️ Les conseils : Certains aliments décolorent le plastique. Ce phénomène est parfaitement normal. Cela n’endommage pas le plastique et n’altère pas le goût des aliments. Frottez-le à l’aide d’un chiffon imbibé d’huile végétale pour faire disparaître la décoloration.",
-     "short_description": "Il peut correspondre à tous les mélangeurs de la série Jtc Il est également compatible avec d’autres marques de mixage, assurez-vous simplement que la taille du connecteur de pichet est identique."
+     "name": "Bol à Bonbons et Dessert en Verre en Forme de Cœur – Transparent – Décoration Élégante Mariage & Fête",
+     "description": "Apportez une touche romantique et raffinée à vos événements avec ce magnifique bol en verre transparent en forme de cœur. Idéal pour présenter des bonbons, fruits, desserts ou même pour servir de support décoratif pour bagues lors d’un mariage ou d’une cérémonie spéciale. Son design délicat et sa finition transparente s’intègrent parfaitement à toutes les décorations, qu’elles soient modernes, classiques ou festives. Léger et élégant, il est parfait pour sublimer vos tables lors d’anniversaires, fiançailles, mariages ou réceptions.",
+     "short_description": "Apportez une touche romantique et raffinée à vos événements avec ce magnifique bol en verre transparent en forme de cœur."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-14T043420.633.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/51aFGpv4GtL._AC_SL1020_.jpg"
    ]
   },
   {
-   "sku": "doshift-63245",
-   "price": 459,
+   "sku": "doshift-65022",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Blender électrique en verre",
-     "description": "Grâce à son moteur puissant de 1000 W et ses 4 lames parfaitement affûtées, le blender électrique base inox de Lamacom vous offre un contrôle total pour des résultats sans fautes.\n\nVitesses Réglables et Fonction Pulse : Il dispose de 4 vitesses et de la fonction Pulse, pour un mixage rapide, efficace et un contrôle parfait des textures ;\n\nBol en Verre Résistant : Son bol en verre résistant aux chocs thermiques est idéal pour réaliser des recettes chaudes ou froides sans aucun risque de casse",
-     "short_description": "Grâce à son moteur puissant de 1000 W et ses 4 lames parfaitement affûtées, le blender électrique base inox de Lamacom vous offre un contrôle total pour des résultats sans fautes."
+     "name": "Scellant Haute Température Universel",
+     "description": "Assurez une étanchéité fiable et durable pour vos composants mécaniques grâce à ce scellant haute performance résistant jusqu’à +320°C. Idéal pour les applications automobiles, il offre une excellente adhérence, une résistance aux vibrations et une protection longue durée contre les fuites d’huile et de liquide de refroidissement.\n\nFormule flexible, résistante à la chaleur et compatible capteurs, parfaite pour une utilisation professionnelle ou domestique.\n\nCaractéristique\nDétail\n\nType\nScellant silicone haute température\n\nRésistance thermique\nJusqu’à +320°C\n\nCompatibilité\nMoteur, boîte de vitesses, carter, pompe à eau\n\nPropriété\nFlexible et résistant aux vibrations\n\nUtilisation\nÉtanchéité automobile et mécanique\n\nConditionnement\nTube avec embout applicateur",
+     "short_description": "Assurez une étanchéité fiable et durable pour vos composants mécaniques grâce à ce scellant haute performance résistant jusqu’à +320°C."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/BL0106-3.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-22T045846.804.png"
    ]
   }
  ]

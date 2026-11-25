@@ -1,86 +1,70 @@
 {
  "products": [
   {
-   "sku": "doshift-64599",
-   "price": 79,
+   "sku": "doshift-75616",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gel Apaisant & Hydratant à l’Aloe Vera – 300 ml",
-     "description": "Offrez à votre peau une hydratation intense avec ce gel à l’aloe vera reconnu pour ses propriétés apaisantes et rafraîchissantes. Sa texture légère pénètre rapidement et laisse la peau douce, fraîche et confortable.\n\nIdéal pour le visage et le corps, il aide à apaiser les irritations, hydrater en profondeur et améliorer visiblement l’apparence de la peau. Parfait pour une utilisation quotidienne afin de maintenir une peau souple et revitalisée.\n\nCaractéristique\nDétail\n\nType\nGel hydratant apaisant\n\nIngrédient clé\nAloe vera\n\nContenance\n300 ml\n\nAction\nHydrate, apaise et rafraîchit\n\nBénéfice\nAméliore l’apparence de la peau\n\nTexture\nGel léger, absorption rapide\n\nUtilisation\nVisage et corps, usage quotidien",
-     "short_description": "Offrez à votre peau une hydratation intense avec ce gel à l’aloe vera reconnu pour ses propriétés apaisantes et rafraîchissantes. Sa texture légère pénètre rapidement et laisse la peau douce, fraîche et confortable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AAAAE94612_img1.webp"
-   ]
-  },
-  {
-   "sku": "doshift-64588",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
+    7,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Pommade Massage Muscles & Articulations – Confort & Détente",
-     "description": "Apaisez les sensations d’inconfort musculaire grâce à cette pommade de massage formulée à base d’huiles essentielles. Idéale après l’effort ou en cas de tensions quotidiennes, elle procure une sensation agréable lors du massage et favorise la détente des zones sollicitées.\n\nSa texture s’applique facilement et pénètre rapidement pour un massage ciblé du dos, des épaules, du cou ou des articulations. Adaptée aux personnes actives ou aux longues journées de travail, elle accompagne vos moments de récupération.\n\nCaractéristique\nDétail\n\nType\nPommade de massage\n\nUtilisation\nUsage externe uniquement\n\nZones\nDos, épaules, cou, articulations\n\nAction\nSensation apaisante et relaxante\n\nIngrédients\nHuiles essentielles (dont menthe)\n\nApplication\nAppliquer et masser jusqu’à absorption\n\nFréquence\n2 à 3 fois par jour si nécessaire",
-     "short_description": "Apaisez les sensations d’inconfort musculaire grâce à cette pommade de massage formulée à base d’huiles essentielles."
+     "name": "Télécommande Universelle Sans Fil 433 MHz – Duplicateur pour Porte de Garage et Portail Électrique",
+     "description": "Simplifiez l’ouverture de votre portail ou porte de garage avec cette télécommande universelle sans fil 433 MHz. Compacte, pratique et facile à transporter grâce à son porte-clés intégré, elle permet de dupliquer une télécommande compatible pour contrôler rapidement vos accès électriques.\n\nIdéale comme télécommande de remplacement ou comme duplicateur supplémentaire pour la maison, le garage, le parking ou le local professionnel.\n\nCaractéristique\nDétail\n\nProduit\nTélécommande universelle sans fil\n\nFréquence\n433 MHz\n\nUtilisation\nPorte de garage, portail électrique, rideau métallique compatible\n\nFonction\nDuplicateur / remplacement de télécommande\n\nNombre de boutons\n4 boutons\n\nFormat\nCompact avec porte-clés\n\nAlimentation\nPile intégrée/remplaçable selon modèle\n\nAvantage\nPratique, légère et facile à transporter\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Simplifiez l’ouverture de votre portail ou porte de garage avec cette télécommande universelle sans fil 433 MHz."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T114153.743.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T202434.311.png"
    ]
   },
   {
-   "sku": "doshift-64559",
-   "price": 149,
+   "sku": "doshift-75601",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
+    7,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Sac de Courses Pliable à Roulettes – Chariot de Shopping Léger et Robuste pour Fruits, Légumes et Achats Quotidiens",
-     "description": "Sac de courses pliable, achat de nourriture, chariot à roulettes, sac d’achat de légumes, organisateur de Shopping, sac Portable, nouvelle collection.\n\nTous les besoins dans le shopping, les voyages, les vacances, le camping, la randonnée, les jeux de plage, le pique-nique, la lessive, les bagages, les fournitures scolaires et bien d’autres utilisations. Sac à la mode indispensable pour les acheteurs, les étudiants, les employés de bureau et plus encore pour les personnes de tous âges. Il s’agit de sacs d’épicerie réutilisables écologiques et à la mode pour vous permettre d’ajouter des articles rapidement et facilement.",
-     "short_description": "Sac de courses pliable, achat de nourriture, chariot à roulettes, sac d’achat de légumes, organisateur de Shopping, sac Portable, nouvelle collection."
+     "name": "Télécommande pour ouvre-porte de garage – Duplicateur sans fil 4 boutons",
+     "description": "Simplifiez l’accès à votre garage ou portail grâce à cette télécommande clonable à 4 boutons. Compacte, fiable et facile à utiliser, elle permet de copier rapidement le signal de votre télécommande d’origine pour un usage quotidien pratique et sécurisé. Idéale comme remplacement ou double, elle offre une solution économique sans compromis sur la performance.\n\nCaractéristique\nDétail\n\nType\nTélécommande clonable\n\nNombre de boutons\n4 boutons (A, B, C, D)\n\nFonction\nDuplication sans fil\n\nUtilisation\nGarage, portail électrique\n\nPortée\nLongue portée (selon installation)\n\nCompatibilité\nLarge compatibilité (selon fréquence)\n\nAlimentation\nPile intégrée\n\nDesign\nCompact et léger\n\nAccessoire\nDragonne incluse\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Simplifiez l’accès à votre garage ou portail grâce à cette télécommande clonable à 4 boutons."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T113029.217.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T195037.803.png"
    ]
   },
   {
-   "sku": "doshift-64523",
-   "price": 159,
+   "sku": "doshift-75545",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    7,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Boites à épices hermétique en verre avec support en bambou, Pots à épices 6 Pcs",
-     "description": "Boites à épices hermétique en verre avec support en bambou, Pots à épices 6 PcsGrande capacité:  6 pots d’épices peuvent satisfaire des besoins de stockage plus élevés, parfaits pour stocker et organiser des herbes, des assaisonnements, des épices, du café, du thé, du miel, de la confiture, du beurre, des noix, des bonbons, des collations, etc.Maté…",
-     "short_description": "Boites à épices hermétique en verre avec support en bambou, Pots à épices 6 PcsGrande capacité:  6 pots d’épices peuvent satisfaire des besoins de stockage plus élevés, parfaits pour stocker et organiser des herbes, des…"
+     "name": "Télécommande universelle compacte longue portée",
+     "description": "Contrôlez facilement vos équipements à distance grâce à cette télécommande compacte et performante. Conçue pour une utilisation simple et rapide, elle offre une prise en main confortable et une excellente portée, idéale pour portails, garages ou systèmes domotiques.\n\nAvec ses 4 boutons intuitifs, vous pouvez gérer plusieurs appareils avec un seul accessoire. Sa taille mini (60 mm) permet de la transporter partout : poche, porte-clés ou voiture.\n\nSa portée allant jusqu’à 100 mètres (en espace ouvert) garantit un fonctionnement fiable même à distance, pour plus de confort au quotidien.\n\nCaractéristique\nDétail\n\nType\nTélécommande sans fil\n\nBoutons\n4 boutons\n\nPortée\nJusqu’à 100 m\n\nDimensions\n60 × 35 × 12 mm\n\nUtilisation\nPortail / Garage / Alarme\n\nAlimentation\nPile\n\nDesign\nCompact, portable\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Contrôlez facilement vos équipements à distance grâce à cette télécommande compacte et performante."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AAAOB13437_img1.webp"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T160948.636.png"
    ]
   },
   {
-   "sku": "doshift-64495",
+   "sku": "doshift-75534",
    "price": 219,
    "stock": 10,
    "status": 0,
@@ -89,98 +73,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "RANGEMEMENT ET ORGANISATEUR 9 PIECES AVEC BOITES À ÉPICES EN VERRE ET COUVERCLE AN BAMBOU",
-     "description": "Grande capacité: 7 pots d’épices peuvent satisfaire des besoins de stockage plus élevés et 2 huilier , parfaits pour stocker et organiser des herbes, des assaisonnements, des épices, du café, du thé, du miel, de la confiture, du beurre, des noix, des bonbons, des collations, etc. Matériaux de qualité supérieure: les couvercles sont en bambou naturel et en silicone, et les pots sont en verre à haute teneur en borosilicate. Le verre est limpide et assez robuste, avec une excellente résistance à la chaleur. Bonne étanchéité à l’air: les couvercles en bambou sont équipés de silicone hermétique, ce qui aide à sceller et à garder l’assaisonnement frais et aromatique pendant longtemps.",
-     "short_description": "Grande capacité: 7 pots d’épices peuvent satisfaire des besoins de stockage plus élevés et 2 huilier , parfaits pour stocker et organiser des herbes, des assaisonnements, des épices, du café, du thé, du miel, de la…"
+     "name": "Boîte Rotative Multi-Grains 360° – 6 Compartiments",
+     "description": "Organisez vos aliments secs avec cette boîte rotative multi-grains pratique, compacte et facile à utiliser. Grâce à ses 6 compartiments séparés, elle permet de stocker riz, céréales, lentilles, haricots, graines, pois chiches et autres légumineuses tout en gardant chaque aliment bien séparé.\n\nSon système rotatif à 360° facilite la sélection du compartiment souhaité. Il suffit de tourner la boîte, puis d’actionner le bouton de distribution pour verser proprement la quantité désirée. Sa façade transparente permet de voir rapidement le contenu et le niveau de remplissage.\n\nIdéale pour optimiser l’espace dans la cuisine, cette boîte offre un rangement organisé, propre et pratique au quotidien.\n\nCaractéristiques\nDétails\n\nType de produit\nBoîte rotative multi-grains\n\nUtilisation\nRiz, céréales, graines, haricots, lentilles, pois chiches et légumineuses\n\nNombre de compartiments\n6 compartiments séparés\n\nCapacité\nEnviron 1,42 L par compartiment\n\nRotation\n360°\n\nDistribution\nBouton de dosage pratique\n\nOuverture\nSystème fermé après relâchement\n\nDesign\nFaçade transparente avec corps rotatif\n\nAvantages\nRangement organisé, gain de place, utilisation propre et rapide\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Organisez vos aliments secs avec cette boîte rotative multi-grains pratique, compacte et facile à utiliser."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AAAOF87795_img1.webp"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T142512.905.png"
    ]
   },
   {
-   "sku": "doshift-64428",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Batteur Électrique LY-610 – Compact & Performant",
-     "description": "Mélangez, fouettez et pétrissez facilement grâce à ce batteur électrique pratique et efficace pour un usage quotidien. Sa poignée ergonomique assure une prise en main confortable, tandis que les fouets en acier inoxydable garantissent un mélange homogène pour vos gâteaux, crèmes, sauces et pâtes. Léger et facile à ranger, il devient un indispensable de votre cuisine.\n\nCaractéristique\nDétail\n\nType de produit\nBatteur électrique\n\nModèle\nTS204\n\nFonctions\nMélanger, fouetter, pétrir\n\nAccessoires\nFouets en acier inoxydable\n\nVitesses\nVitesses multiples\n\nDesign\nErgonomique et léger\n\nCouleurs disponibles\nVert, Rouge, Rose, Bleu (selon disponibilité)\n\nUtilisation\nCuisine domestique",
-     "short_description": "Mélangez, fouettez et pétrissez facilement grâce à ce batteur électrique pratique et efficace pour un usage quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/cd9d9d53-877c-4364-af55-b42066bb87d9.webp"
-   ]
-  },
-  {
-   "sku": "doshift-64417",
-   "price": 339,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Presse-Agrumes Électrique Inox 300W",
-     "description": "Savourez des jus frais et vitaminés en quelques secondes grâce à ce presse-agrumes électrique puissant et élégant. Son moteur 300W assure une extraction rapide et efficace, tandis que son corps en acier inoxydable apporte robustesse et modernité à votre cuisine. Idéal pour oranges, citrons et autres agrumes, il offre un service propre et pratique au quotidien.\n\nCaractéristique\nDétail\n\nPuissance\n300W\n\nMatériau du corps\nAcier inoxydable (Inox)\n\nType d’utilisation\nPression automatique\n\nBec verseur\nOui, anti-goutte\n\nAlimentation\nÉlectrique\n\nEntretien\nPièces démontables",
-     "short_description": "Savourez des jus frais et vitaminés en quelques secondes grâce à ce presse-agrumes électrique puissant et élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T041944.997.png"
-   ]
-  },
-  {
-   "sku": "doshift-64410",
-   "price": 195,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mixeur Plongeant 2 en 1 – 200W",
-     "description": "Mixez, fouettez et préparez vos recettes en toute simplicité grâce à une puissance efficace et un format ergonomique conçu pour un usage quotidien.\n\nFormat compact, prise en main confortable et nettoyage rapide pour un gain de temps en cuisine.\n\nCaractéristique\nDétail\n\nType\nMixeur plongeant 2 en 1\n\nPuissance\n200 W\n\nVitesses\n2 niveaux\n\nUtilisation\nSoupes, sauces, smoothies, purées\n\nAlimentation\nÉlectrique\n\nFormat\nCompact et ergonomique",
-     "short_description": "Mixez, fouettez et préparez vos recettes en toute simplicité grâce à une puissance efficace et un format ergonomique conçu pour un usage quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T035857.296.png"
-   ]
-  },
-  {
-   "sku": "doshift-64404",
-   "price": 215,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Batteur Électrique 400W – Performance & Précision",
-     "description": "Préparez vos recettes maison avec puissance et facilité grâce à ce batteur électrique performant. Idéal pour fouetter, mélanger et pétrir, il garantit des textures légères et homogènes en quelques minutes. Son design ergonomique assure une prise en main confortable pour un usage quotidien.\n\nParfait pour crèmes, pâtes à gâteaux, chantilly et préparations gourmandes.\n\nCaractéristique\nDétail\n\nPuissance\n400W\n\nVitesses\n5 niveaux réglables\n\nFonction\nMode Turbo\n\nAccessoires\nFouets + Crochets pétrisseurs\n\nUtilisation\nMélange, fouettage, pétrissage\n\nAlimentation\nÉlectrique\n\nDesign\nErgonomique et léger",
-     "short_description": "Préparez vos recettes maison avec puissance et facilité grâce à ce batteur électrique performant. Idéal pour fouetter, mélanger et pétrir, il garantit des textures légères et homogènes en quelques minutes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T030754.279.png"
-   ]
-  },
-  {
-   "sku": "doshift-64388",
-   "price": 119,
+   "sku": "doshift-75522",
+   "price": 239,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -188,13 +92,108 @@
    ],
    "locales": {
     "fr": {
-     "name": "Théière en Acier Inoxydable 0.8L",
-     "description": "Apportez une touche d’élégance traditionnelle à votre service de thé avec cette théière en acier inoxydable au design raffiné. Sa finition brillante, sa poignée ergonomique et son bec verseur précis assurent un service fluide et sans éclaboussures. Idéale pour préparer un thé à la menthe authentique ou toutes vos infusions préférées.\n\nCaractéristique\nDétail\n\nCapacité\n0.8 Litres\n\nMatière\nAcier inoxydable\n\nFinition\nPoli miroir\n\nType de poignée\nErgonomique, prise facile\n\nUtilisation\nThé, infusions\n\nEntretien\nLavage à la main recommandé",
-     "short_description": "Apportez une touche d’élégance traditionnelle à votre service de thé avec cette théière en acier inoxydable au design raffiné."
+     "name": "Ensemble d’Accessoires de Salle de Bain – Design Blanc et Bambou",
+     "description": "Apportez une touche élégante et naturelle à votre salle de bain avec cet ensemble complet d’accessoires au design moderne. Sa finition blanche texturée associée aux détails effet bambou crée un style épuré, chaleureux et facile à intégrer dans tous les décors.\n\nPratique et harmonieux, cet ensemble comprend plusieurs pièces essentielles pour organiser votre espace : poubelle, distributeur de savon, porte-brosse WC, gobelet, boîte de rangement, porte-savon et plateau. Idéal pour garder une salle de bain propre, bien rangée et esthétique au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble d’accessoires de salle de bain\n\nNombre de pièces\n7 pièces\n\nCouleur\nBlanc avec détails effet bambou\n\nStyle\nModerne, naturel et minimaliste\n\nUtilisation\nSalle de bain, toilette, lavabo\n\nPièces incluses\nPoubelle, distributeur de savon, porte-brosse WC, gobelet, boîte, porte-savon, plateau\n\nDimensions poubelle\n24,4 × 25,4 cm\n\nDimensions porte-brosse WC\n8,9 × 34,8 cm\n\nDimensions distributeur savon\n8,9 × 12,7 cm\n\nDimensions gobelet\n6,9 × 10,7 cm\n\nDimensions boîte ronde\n8,9 × 9,4 cm\n\nDimensions porte-savon\n10,9 cm\n\nDimensions plateau\n17,8 × 9,4 cm\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Apportez une touche élégante et naturelle à votre salle de bain avec cet ensemble complet d’accessoires au design moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T014944.806.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T135555.541.png"
+   ]
+  },
+  {
+   "sku": "doshift-75430",
+   "price": 329,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chaise Pliante de Camping avec Auvent Intégré – Confort Portable pour Extérieur",
+     "description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré. Idéale pour la plage, le camping, les pique-niques, les événements sportifs ou le jardin, elle offre une assise spacieuse et ergonomique tout en vous protégeant du soleil grâce à son pare-soleil pratique.\n\nCaractéristique\nDétails\n\nType de produit\nChaise pliante de camping avec auvent\n\nMatière structure\nTubes en acier renforcé\n\nMatière assise\nTissu PVC haute qualité\n\nCouleur\ngris foncé\n\nCharge maximale\n120 kg\n\nDimensions chaise ouverte\n53,5 x 53,5 x 130 cm\n\nHauteur dossier\n56 cm\n\nLargeur assise\n51 cm\n\nDimensions sac de transport\n95,5 x 20,5 x 18 cm\n\nÉquipements\nAuvent amovible, 2 porte-gobelets\n\nUtilisation\nCamping, plage, jardin, pique-nique, événements sportifs\n\nRéférence Doshift\nAA22BB099",
+     "short_description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T185502.243.png"
+   ]
+  },
+  {
+   "sku": "doshift-75423",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chaise Pliante de Camping avec Auvent Intégré – Confort Portable pour Extérieur",
+     "description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré. Idéale pour la plage, le camping, les pique-niques, les événements sportifs ou le jardin, elle offre une assise spacieuse et ergonomique tout en vous protégeant du soleil grâce à son pare-soleil pratique.\n\nCaractéristique\nDétails\n\nType de produit\nChaise pliante de camping avec auvent\n\nMatière structure\nTubes en acier renforcé\n\nMatière assise\nTissu PVC haute qualité\n\nCouleur\nvert\n\nCharge maximale\n120 kg\n\nDimensions chaise ouverte\n53,5 x 53,5 x 130 cm\n\nHauteur dossier\n56 cm\n\nLargeur assise\n51 cm\n\nDimensions sac de transport\n95,5 x 20,5 x 18 cm\n\nÉquipements\nAuvent amovible, 2 porte-gobelets\n\nUtilisation\nCamping, plage, jardin, pique-nique, événements sportifs\n\nRéférence Doshift\nAA22BB099",
+     "short_description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T183941.829.png"
+   ]
+  },
+  {
+   "sku": "doshift-75408",
+   "price": 359,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chaise Pliante de Camping avec Auvent Intégré – Confort Portable pour Extérieur",
+     "description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré. Idéale pour la plage, le camping, les pique-niques, les événements sportifs ou le jardin, elle offre une assise spacieuse et ergonomique tout en vous protégeant du soleil grâce à son pare-soleil pratique.\n\nCaractéristique\nDétails\n\nType de produit\nChaise pliante de camping avec auvent\n\nMatière structure\nTubes en acier renforcé\n\nMatière assise\nTissu PVC haute qualité\n\nCouleur\nbleu\n\nCharge maximale\n120 kg\n\nDimensions chaise ouverte\n53,5 x 53,5 x 130 cm\n\nHauteur dossier\n56 cm\n\nLargeur assise\n51 cm\n\nDimensions sac de transport\n95,5 x 20,5 x 18 cm\n\nÉquipements\nAuvent amovible, 2 porte-gobelets\n\nUtilisation\nCamping, plage, jardin, pique-nique, événements sportifs\n\nRéférence Doshift\nAA22BB099",
+     "short_description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T163020.032.png"
+   ]
+  },
+  {
+   "sku": "doshift-75380",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moule à Glace Silicone 3 Compartiments avec Couvercle – 7,5 × 7,5 × 9 cm",
+     "description": "Préparez facilement des glaces maison, des desserts glacés ou des snacks frais avec ce moule à glace pratique à 3 compartiments. Son format compact permet de réaliser plusieurs portions individuelles, parfaites pour les enfants comme pour les adultes.\n\nConçu avec un couvercle transparent, il aide à protéger les préparations au congélateur tout en conservant leur fraîcheur. Les poignées intégrées facilitent la prise en main et permettent de démouler les glaces plus simplement. Idéal pour créer des recettes personnalisées à base de jus, fruits, yaourt, lait ou purée glacée.\n\nCaractéristique\nDétail\n\nType de produit\nMoule à glace / moule à esquimaux\n\nNombre de compartiments\n3\n\nUtilisation\nGlaces maison, desserts glacés, snacks frais\n\nMatière\nSilicone alimentaire et plastique\n\nCouvercle\nTransparent, protecteur\n\nPoignées\nIntégrées pour chaque compartiment\n\nDimensions\n7,5 × 7,5 × 9 cm\n\nFormat\nCompact et empilable\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Préparez facilement des glaces maison, des desserts glacés ou des snacks frais avec ce moule à glace pratique à 3 compartiments."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T143246.049.png"
+   ]
+  },
+  {
+   "sku": "doshift-75338",
+   "price": 439,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Caméra de sécurité Wi-Fi Tapo C222 2K QHD",
+     "description": "Profitez d’une surveillance intelligente avec la Tapo C222, offrant une qualité d’image 2K QHD ultra nette et un design compact qui s’intègre parfaitement à votre intérieur. Détectez les mouvements importants grâce à l’intelligence artificielle et recevez des alertes en temps réel directement sur votre smartphone. Sécurisez votre maison avec une solution fiable, moderne et performante, de jour comme de nuit.\n\nCaractéristique\nDétail\n\nRésolution\n2K QHD ultra claire\n\nRotation\nPan/Tilt (couverture 360°)\n\nDétection\nIA (personne, animal, véhicule)\n\nVision nocturne\nImage claire dans l’obscurité\n\nSuivi\nTracking intelligent\n\nAudio\nBidirectionnel\n\nConnexion\nWi-Fi + application mobile\n\nRéférence-doshift\nAA2BB8099",
+     "short_description": "Profitez d’une surveillance intelligente avec la Tapo C222, offrant une qualité d’image 2K QHD ultra nette et un design compact qui s’intègre parfaitement à votre intérieur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/331af6ff-e3f3-4a79-9611-73ccf9f966e4.png"
    ]
   }
  ]

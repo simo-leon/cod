@@ -1,144 +1,46 @@
 {
  "products": [
   {
-   "sku": "doshift-114260",
-   "price": 309,
+   "sku": "doshift-120181",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    13
    ],
    "locales": {
     "fr": {
-     "name": "Téléphone portable classique – Nokia 1202",
-     "description": "Le Nokia 1202 est un téléphone portable compact et ultra-robuste avec lampe torche intégrée et clavier anti-poussière conçu pour téléphoner en toute simplicité avec une autonomie de plusieurs semaines\n\nCaractéristique\nDétail\n\nType & Modèle\nTéléphone portable classique – Nokia 1202\n\nÉcran\nÉcran monochrome 1,3 pouces (96 × 68 px)\n\nAutonomie\nJusqu’à 26 jours en veille (batterie 720 mAh)\n\nDimensions\n10,5 × 4,5 × 1,3 cm — 78 g\n\nFonctions clés\nLampe torche LED intégrée et clavier anti-poussière\n\nRéférence\n9900010718142",
-     "short_description": "Téléphone mobile compact  avec lampe torche et autonomie record."
+     "name": "Appareil de Musculation Bras et Pectoraux avec Compteur Digital",
+     "description": "Conçu pour tonifier et raffermir efficacement le haut du corps à la maison ou au bureau, cet appareil de musculation des bras et pectoraux combine résistance progressive et suivi intelligent de l’effort. Sa structure ergonomique en U sollicite de manière synchrone les biceps, triceps, épaules et muscles pectoraux par simple mouvement de compression vers l’intérieur.\n\nCaractéristique\nSpécification Détaillée\n\nType\nEntraîneur musculaire en U pour bras, pectoraux, épaules et dos\n\nRésistance\nMécanisme interne à compression progressive pour tonification ciblée\n\nAffichage\nCompteur numérique LED intelligent comptabilisant les répétitions\n\nMatériaux\nNoyau en acier haute résistance et poignées galbées bleu ciel antidérapantes\n\nSécurité\nDragonnes de poignets ajustables pour un maintien sécurisé durant l’effort\n\nSKU\n9900010929982",
+     "short_description": "Entraîneur musculaire en U bleu ciel avec compteur digital LED et dragonnes de sécurité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/2f3e4650-f2f1-462a-be6f-2d88c555fc1a.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/10/efdb139c-0c03-4c57-8749-2391cb509c20.jpg"
    ]
   },
   {
-   "sku": "doshift-114273",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "ME19 Ultra 3 Smartwatch (3 Straps, 2.21″ AMOLED)",
-     "description": "La ME19 Ultra 3 est une montre connectée avec écran AMOLED géant de 2,21 pouces, 3 bracelets interchangeables et recharge sans fil conçue pour les appels mains libres et le suivi d’activité au quotidien.\n\nCaractéristique\nDétail\n\nType & Modèle\nMontre connectée – ME19 Ultra 3\n\nÉcran\nÉcran tactile géant AMOLED 2,21 pouces HD sans bordures\n\nBracelets inclus\n3 bracelets interchangeables (silicone ondulé + tissu boucle alpine)\n\nDimensions boîtier\n4,9 × 4,4 × 1,4 cm (49 × 44 × 14 mm)\n\nFonctions clés\nAppels Bluetooth, recharge sans fil magnétique, suivi santé et sport\n\nRéférence\n9900010718159",
-     "short_description": "Montre connectée AMOLED 2,21″ avec 3 bracelets et recharge sans fil."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/e70bfe16-8e08-446d-813a-7fa3f1802c4a.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-114232",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Microphone Speaker karaoké sans fil avec haut-parleur intégré",
-     "description": "Le Wster WS-910 est un microphone karaoké portable 2-en-1 avec haut-parleur intégré, anneau lumineux LED et modificateur de voix magique conçu pour le divertissement musical des enfants et de toute la famille au quotidien.\n\nCaractéristique\nDétail\n\nType\nMicrophone karaoké sans fil avec haut-parleur intégré\n\nMarque & Modèle\nWster WS-910\n\nPuissance haut-parleur\n5 W (son stéréo clair avec effet écho réglable)\n\nConnectivité\nBluetooth 5.0, port USB, carte TF / MicroSD, entrée AUX 3,5 mm\n\nÉclairage\nAnneau lumineux LED multicolore (veilleuse / ambiance festive)\n\nEffets vocaux\nModificateur de voix magique (M-Voice : 4 modes vocaux amusants)\n\nBatterie\nRechargeable Lithium 1200 mAh (autonomie 4 à 6 heures)\n\nTemps de charge\n~2 à 3 heures via câble USB inclus\n\nDimensions\n21 × 8 × 8 cm (210 × 80 × 80 mm)\n\nPoids\n~250 g (prise en main légère et adaptée aux enfants)\n\nMatériaux\nPlastique ABS renforcé et bonnette en mousse acoustique\n\nCouleur\nNoir avec anneau LED multicolore\n\nCompatibilité\nSmartphones (Android, iOS), tablettes, PC, applications de karaoké\n\nRéférence\n9900010718135",
-     "short_description": "Micro karaoké sans fil 2-en-1 avec haut-parleur et effets de voix."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/5b783d15-a1cf-4710-9344-0ad9b47ed96b.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-113782",
-   "price": 479,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    5,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Microphone avec Suspension et Filtre Anti-Pop BOOMARM-MIC-PRO X2",
-     "description": "Ce bras articulé en acier est un support de microphone réglable à 360° conçu pour le streaming, le podcast et l’enregistrement vocal au quotidien.\n\nCaractéristique\nDétail\n\nType\nBras articulé pour microphone (Boom Arm)\n\nPortée / Longueur\nPortée totale 70 à 80 cm (700 à 800 mm)\n\nÉpaisseur de pince\nCompatible bureaux jusqu’à 5,5 cm (55 mm)\n\nCapacité de charge\nJusqu’à 1,5 kg (1500 g)\n\nRotation\nRotation complète à 360° et inclinaison multi-angles\n\nRessorts\nDoubles ressorts de suspension en acier renforcé\n\nAccessoires inclus\nBras articulé + pince de table + suspension araignée + filtre anti-pop\n\nMatériaux\nAcier haute résistance et métal laqué\n\nCouleur\nNoir mat\n\nCompatibilité\nMicrophones standards (pas de vis 3/8″ et 5/8″)\n\nRéférence\n9900010718081",
-     "short_description": "Noir mat. Acier réglable à 360° avec pince de table (max. 5,5 cm). Portée : 70 à 80 cm ."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/06a3c04a-6666-4b7b-8144-4e07d5880352.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-113225",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Cric ciseau manuel 1.5 Tonne",
-     "description": "Cric ciseau manuel 1.5 Tonne .\n\nUn cric mécanique simple, robuste et facile à utiliser pour changer une roue ou effectuer un dépannage rapide. Sa structure en acier supporte jusqu’à 1,5 tonne et offre une bonne stabilité, et sa manivelle permet de lever la voiture sans forcer.\n\nCaractéristique\n   Détail\n\nType\nCric ciseau manuel\n\nCapacité\n1.5 Tonne\n\nMatériau\nAcier\n\nCouleur\nNoir\n\nContenu\nCric + manivelle\n\nHauteur min.\n100 mm (10 cm)\n\nHauteur max.\n385 mm (38,5 cm)\n\nRéférence\n9900010717985",
-     "short_description": "Finition noire. Hauteur de levage réglable : de 10 à 38,5 cm (100/385 mm)."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/Gemini_Generated_Image_fxh6fofxh6fofxh6.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-111817",
-   "price": 199,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe de Table LED Rechargeable – Design Cuivré Élégant",
-     "description": "Apportez une touche moderne et chaleureuse à votre intérieur avec cette lampe de table LED au fini cuivré. Son design minimaliste associe une structure métallique élégante à un diffuseur blanc qui produit un éclairage doux et agréable.\n\nGrâce à son port de recharge USB-C, elle s’intègre facilement sur une table de chevet, un bureau, une console ou une table de restaurant, sans encombrer votre espace. Son format compact et son style raffiné en font à la fois une source d’éclairage pratique et un véritable élément décoratif.\n\nIdéale pour créer une ambiance cosy dans une chambre, un salon, un bureau, un café ou un espace de détente.\n\nCaractéristique\nDétail\n\nType de produit\nLampe de table LED\n\nStyle\nModerne et minimaliste\n\nCouleur\nCuivré / Rose gold et blanc\n\nÉclairage\nLumière douce et chaleureuse\n\nDiffuseur\nBlanc\n\nStructure\nFinition métallique effet cuivre\n\nRecharge\nPort USB-C\n\nInstallation\nÀ poser\n\nUtilisation\nChambre, salon, bureau, restaurant, café, décoration\n\nFormat\nCompact et peu encombrant\n\nContenu\n1 lampe de table\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Apportez une touche moderne et chaleureuse à votre intérieur avec cette lampe de table LED au fini cuivré."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/09/Nouveau-projet-2026-09-17T140830.327.png"
-   ]
-  },
-  {
-   "sku": "doshift-107222",
+   "sku": "doshift-120176",
    "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Gourde réutilisable TYESO bleu marine avec bouchon sécurisé",
-     "description": "Adoptez une solution pratique pour vous hydrater tout au long de la journée avec cette gourde réutilisable TYESO au design moderne. Son format ergonomique facilite la prise en main, tandis que son bouchon sécurisé avec système de verrouillage aide à protéger l’ouverture pendant le transport.Idéale pour une utilisation au bureau, à l’école, en déplacement, au sport ou en voyage, cette gourde allie style, praticité et confort d’usage.\n\nSon coloris bleu marine lui donne un look sobre et élégant, facile à intégrer dans le quotidien. C’est un accessoire utile pour garder votre boisson à portée de main, que ce soit à la maison ou à l’extérieur.\n\nCaractéristique\nDétail\n\nProduit\nGourde réutilisable\n\nMarque\nTYESO\n\nCouleur\nBleu marine\n\nType\nBouteille / gourde portable\n\nDesign\nModerne et ergonomique\n\nBouchon\nAvec système de fermeture sécurisée\n\nUtilisation\nHydratation quotidienne\n\nConvient pour\nSport, bureau, école, voyage, déplacements\n\nTransport\nFacile à emporter\n\nEntretien\nRéutilisable pour un usage régulier\n\nRéférence\nAA8BB599",
-     "short_description": "Adoptez une solution pratique pour vous hydrater tout au long de la journée avec cette gourde réutilisable TYESO au design moderne."
+     "name": "Épilateur Électrique Rechargeable Keda KD-189A",
+     "description": "Spécialement développé pour une épilation corporelle rapide, précise et durable à domicile, l’épilateur rechargeable Keda KD-189A élimine les poils indésirables dès la racine pour laisser la peau lisse pendant plusieurs semaines. Sa tête rotative équipée de micro-pinces métalliques capture efficacement les poils les plus fins, même courts, sur les jambes, les aisselles ou la zone sensible du maillot.\n\nCaractéristique\nSpécification Détaillée\n\nType\nÉpilateur féminin sans fil pour jambes, aisselles, visage et maillot\n\nTête\nRouleau rotatif à micro-pinces métalliques pour poils courts dès 0,5 mm\n\nVitesses\n2 allures réglables par curseur frontal adapté aux peaux sensibles\n\nAlimentation\nBatterie rechargeable intégrée avec voyant lumineux LED de charge\n\nErgonomie\nFormat galet compact bicolore rose fuchsia et blanc doux\n\nSKU\n9900010929975",
+     "short_description": "Épilateur compact rechargeable rose et blanc à 2 vitesses avec tête rotative à micro-pinces."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T192814.922.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/86ebaa48-e862-47db-9ea5-adf030f079c3.jpg"
    ]
   },
   {
-   "sku": "doshift-107170",
-   "price": 159,
+   "sku": "doshift-120156",
+   "price": 259,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -146,52 +48,148 @@
    ],
    "locales": {
     "fr": {
-     "name": "Gourde réutilisable TYESO – Vert foncé",
-     "description": "Pratique et élégante, cette gourde TYESO est idéale pour vous accompagner au quotidien : au bureau, à la salle de sport, en déplacement ou lors de vos sorties.\n\nSon design moderne associe un corps vert foncé à un couvercle transparent teinté et une bague grise. Le système d’ouverture avec bouton/verrou frontal permet une manipulation simple et rapide tout en facilitant le transport.\n\nGrâce à son format nomade, elle se glisse facilement dans un sac à dos et reste toujours à portée de main pour vos journées de travail, vos séances de sport ou vos voyages.\n\nCaractéristique\nDétail\n\nType\nGourde / bouteille réutilisable\n\nMarque visible\nTYESO\n\nCouleur\nVert foncé\n\nCouleur du couvercle\nVert translucide\n\nBague supérieure\nGrise\n\nBouton d’ouverture\nVert clair\n\nFermeture\nCouvercle avec système de verrouillage frontal\n\nFormat\nPortable / nomade\n\nUtilisation\nBureau, sport, voyage, sorties quotidiennes\n\nDesign\nModerne et minimaliste\n\nContenu du pack\n1 gourde\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Pratique et élégante, cette gourde TYESO est idéale pour vous accompagner au quotidien : au bureau, à la salle de sport, en déplacement ou lors de vos sorties."
+     "name": "Hachoir Électrique Multifonction 2-en-1 Turbo Home (2200W – 2L)",
+     "description": "Polyvalent et ultra-puissant, le hachoir électrique Turbo Home 2-en-1 de 2200 W est conçu pour broyer la viande, hacher les légumes, concasser les fruits secs et émulsionner les sauces en quelques secondes. Doté d’une généreuse capacité de 3 litres et livré avec deux bols interchangeables (un en inox incassable et un en verre transparent), il s’adapte à toutes vos préparations culinaires sans transfert d’odeur.\n\nCaractéristique\nSpécification Détaillée\n\nType\nHachoir électrique culinaire multifonction 2-en-1\n\nPuissance\n2 200 W (moteur en cuivre haute vitesse avec vitesses I / II)\n\nCapacité\n2 litres (grand format familial pour viandes et légumes)\n\nBols\nDouble bol inclus : 1 bol en acier inoxydable + 1 bol en verre épais\n\nLames\nCouteaux 4 lames étagées en acier inoxydable chirurgical\n\nSKU\n9900010975033",
+     "short_description": "Hachoir électrique 2200 W 2 L avec bloc moteur inox à poignée, bols inox et verre, et couteau 4 lames."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-31T154214.960.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-16-01-5.webp"
    ]
   },
   {
-   "sku": "doshift-106546",
+   "sku": "doshift-120144",
    "price": 229,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    4,
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Sacoche Professionnelle pour Ordinateur Portable – Bleu Marine",
-     "description": "Pratique et élégante, cette sacoche pour ordinateur portable est idéale pour accompagner vos journées de travail, déplacements professionnels ou études. Son design sobre en bleu marine foncé s’adapte facilement à un style professionnel comme décontracté.\n\nElle dispose de deux poignées de transport ainsi que d’une bandoulière réglable et amovible, permettant de la porter à la main ou à l’épaule selon vos préférences. Ses différents compartiments zippés et sa grande poche frontale avec rabat facilitent le rangement de votre ordinateur, documents, chargeur, accessoires et effets personnels.\n\nSa conception compacte et structurée permet de garder vos affaires organisées tout en restant facile à transporter au quotidien.\n\nCaractéristique\nDétail\n\nType\nSacoche professionnelle pour ordinateur\n\nCouleur\nBleu marine foncé / Noir\n\nStyle\nProfessionnel et sobre\n\nPortage\nÀ la main ou à l’épaule\n\nPoignées\nDouble poignée\n\nBandoulière\nRéglable et amovible\n\nFermeture principale\nZippée\n\nPoche avant\nGrande poche avec rabat\n\nCompartiments\nPlusieurs espaces de rangement\n\nUtilisation\nTravail, études, déplacements, voyages\n\nConvient pour\nOrdinateur portable, documents et accessoires\n\nRéférence Doshift\nAA14BB099",
-     "short_description": "Pratique et élégante, cette sacoche pour ordinateur portable est idéale pour accompagner vos journées de travail, déplacements professionnels ou études."
+     "name": "Sacoche Ordinateur Portable Zhaocaique Noire",
+     "description": "Conçue pour les professionnels, cadres et étudiants, la sacoche pour ordinateur portable Zhaocaique offre une protection optimale et une organisation sans faille lors de vos déplacements quotidiens. Son grand compartiment central molletonné accueille en toute sécurité un ordinateur portable jusqu’à 17 pouces ainsi que des classeurs ou documents A4\n\nCaractéristique\nSpécification Détaillée\n\nType\nMallette professionnelle porte-documents et ordinateur portable\n\nFormat\nLogement rembourré compatible PC portable 15,6″ à 17″ et format A4\n\nMatériaux\nToile Oxford haute densité déperlante et détails en similicuir noir\n\nCompartiments\nEspace central à double zip et grande poche avant à fente verticale\n\nPortage\nDouble poignée renforcée et bandoulière amovible avec patte d’épaule\n\nSKU\n9900010929968",
+     "short_description": "Sacoche d’affaires noire déperlante pour ordinateur 15,6″-17″ avec bandoulière et poches zippées."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-29T135553.533.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/58dd1971-c5db-46a8-aa4b-2980c1ace5c7.webp"
    ]
   },
   {
-   "sku": "doshift-105286",
-   "price": 679,
+   "sku": "doshift-120133",
+   "price": 469,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    5
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Kit Microphone BM800 + Carte Son H9 – Ensemble complet pour enregistrement et streaming",
-     "description": "Améliorez votre espace audio avec ce kit microphone BM800 accompagné d’une carte son H9, conçu pour créer facilement un setup adapté au streaming, aux podcasts, aux vidéos, au gaming ou encore à l’enregistrement vocal.\n\nLe microphone est installé sur un bras articulé réglable qui se fixe directement au bureau afin de faciliter son positionnement. Le filtre anti-pop placé devant le microphone aide à limiter les bruits d’air lors de la prise de voix, tandis que la suspension maintient le microphone correctement en place.\n\nLa carte son H9 permet de centraliser les différents réglages et commandes audio directement depuis votre bureau. Ses nombreux boutons et molettes facilitent l’utilisation pendant un live, une session d’enregistrement ou une discussion en ligne.\n\nGrâce aux différents câbles et accessoires inclus, ce kit constitue une solution pratique pour créer rapidement un espace dédié au podcast, streaming, gaming, chant, voix-off ou création de contenu.\n\nCaractéristique\nDétail\n\nType de produit\nKit microphone avec carte son\n\nMicrophone\nBM800\n\nCarte son\nH9\n\nCouleur du microphone\nNoir et doré\n\nSupport\nBras articulé réglable avec fixation de bureau\n\nFiltre\nFiltre anti-pop rond\n\nSuspension microphone\nSupport antichoc\n\nCommandes audio\nBoutons et molettes de réglage sur la carte son\n\nUtilisations\nPodcast, streaming, gaming, chant, voix-off, création de contenu\n\nInstallation\nSetup de bureau avec bras articulé\n\nAccessoires visibles\nMicrophone, bras articulé, filtre anti-pop, suspension, carte son et câbles\n\nRéférence Doshift\nAA50BB099",
-     "short_description": "Améliorez votre espace audio avec ce kit microphone BM800 accompagné d’une carte son H9, conçu pour créer facilement un setup adapté au streaming, aux podcasts, aux vidéos, au gaming ou encore à l’enregistrement vocal."
+     "name": "Tondeuse de Finition Métallique VGR V-992 9000 RPM",
+     "description": "Spécialement étudiée pour les barbiers et les utilisateurs exigeants, la tondeuse de finition VGR V-992 combine la puissance fulgurante d’un moteur de 9 000 tours par minute et la précision chirurgicale d’une tête en T à revêtement DLC et céramique. Son corps entièrement métallique confère une prise en main stable et équilibrée, réduisant les vibrations tout en garantissant une durabilité professionnelle.\n\nCaractéristique\nSpécification Détaillée\n\nType\nTondeuse de précision sans fil pour contours, barbe et finitions\n\nMoteur\nMoteur rotatif haute puissance 9 000 tr/min à couple constant\n\nLames\nTête de coupe en T avec lames hybrides céramique et revêtement DLC\n\nBoîtier\nChâssis ergonomique 100 % métallique texturé vert émeraude et noir\n\nBatterie\nLithium-ion 2 000 mAh : 240 min d’autonomie pour 2,5 h de charge USB\n\nSKU\n9900010929951",
+     "short_description": "Tondeuse de précision métallique 9000 tr/min à lames DLC céramique et écran LED."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-25T140149.233.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/b266865d-6b36-4431-888e-06fd114d0094-1.webp"
+   ]
+  },
+  {
+   "sku": "doshift-120063",
+   "price": 299,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chaise Pliante de Camping bleu marine",
+     "description": "Profitez d’un confort optimal en plein air avec cette chaise de camping pliante équipée d’un auvent amovible intégré. Idéale pour la plage, le camping, les pique-niques, les événements sportifs ou le jardin, elle offre une assise spacieuse et ergonomique tout en vous protégeant du soleil grâce à son pare-soleil pratique.\n\nCaractéristique\nDétails\n\nType de produit\nChaise pliante de camping avec auvent\n\nMatière structure\nTubes en acier renforcé\n\nMatière assise\nTissu PVC haute qualité\n\nCouleur\nbleu marine\n\nCharge maximale\n120 kg\n\nDimensions chaise ouverte\n53,5 x 53,5 x 130 cm\n\nHauteur dossier\n56 cm\n\nLargeur assise\n51 cm\n\nDimensions sac de transport\n95,5 x 20,5 x 18 cm\n\nÉquipements\nAuvent amovible, 2 porte-gobelets\n\nUtilisation\nCamping, plage, jardin, pique-nique, événements sportifs\n\nRéférence Doshift\n990007993570",
+     "short_description": "chaise pliante de camping équipée d’un auvent amovible intégré. Idéale pour la plage, le camping"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/47820074-b7dd-455e-bd2a-9486a06ddce8.webp"
+   ]
+  },
+  {
+   "sku": "doshift-120056",
+   "price": 229,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Blender JUICING CUP HP-158 ROSE – Compact & Pratique",
+     "description": "Préparez facilement vos jus de fruits, smoothies et boissons maison avec le Juicing Cup HP-158. Son format compact permet de l’installer facilement dans la cuisine, tout en conservant un appareil pratique au quotidien.\n\nSon récipient transparent avec poignée permet de surveiller la préparation, tandis que son couvercle fermé limite les éclaboussures pendant l’utilisation. La base blanche est équipée d’un affichage numérique et de deux boutons de commande pour une utilisation simple.\n\nCaractéristique\nDétail\n\nProduit\nBlender / Juicing Cup\n\nModèle\nHP-158\n\nUtilisation\nJus de fruits, smoothies et boissons\n\nHauteur\nEnviron 23,5 cm\n\nLargeur\nEnviron 9,5 cm\n\nRécipient\nTransparent avec poignée\n\nCouvercle\nBlanc, amovible\n\nCommandes\n2 boutons en façade\n\nAffichage\nÉcran numérique\n\nCouleur\nBlanc et transparent\n\nFormat\nCompact\n\nRéférence Doshift\n99000765105",
+     "short_description": "Préparez et dégustez vos jus de fruits frais en moins d’une minute grâce à ce blender individuel nomade rechargeable par USB"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/22afc071-37cf-410d-9cdb-ceaa927f112f.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119694",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tensiomètre Électronique de Bras Intelligent LCD",
+     "description": "Ce tensiomètre électronique de bras à microprocesseur intelligent garantit une surveillance cardiovasculaire rapide, autonome et d’une précision médicale certifiée à domicile. Grâce à son grand écran LCD rétroéclairé, il affiche instantanément la pression systolique (SYS), diastolique (DIA), le rythme cardiaque par minute ainsi qu’une jauge colorée conforme aux paliers d’hypertension de l’Organisation Mondiale de la Santé (OMS).\n\nCaractéristique\nSpécification Détaillée\n\nType\nTensiomètre de bras oscillométrique automatique pour suivi cardiovasculaire\n\nAffichage\nÉcran LCD numérique avec indicateur tricolore OMS (SYS / DIA / Pouls)\n\nMémoire\nDouble profil utilisateur (2 × 99 mémoires) avec date et heure\n\nFonctions\nDétection automatique d’arythmie cardiaque et gonflage intelligent\n\nAlimentation\nDouble source : port micro-USB / DC 5V ou 4 piles 1,5V AAA\n\nSKU\n9900010929906",
+     "short_description": "Tensiomètre électronique de bras avec grand écran LCD, détection d’arythmie et mémoire de 2×99 mesures."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/4e4e993a-e340-4019-b27d-e074b32744a9.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119683",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pelle à Glaçons et Ingrédients en Acier Inoxydable",
+     "description": "Conçue en acier inoxydable robuste de qualité alimentaire, cette pelle utilitaire assure un service rapide, précis et parfaitement hygiénique au quotidien. Son godet incurvé à parois évasées retient efficacement glaçons, céréales, farines, fruits secs, bonbons ou épices sans risque de débordement, tandis que son bec frontal facilite le versement direct dans des récipients étroits.\n\nCaractéristique\nSpécification Détaillée\n\nType\nPelle utilitaire multi-usage pour glaçons, grains et aliments secs\n\nMatériau\nAcier inoxydable épais de qualité alimentaire résistant à la corrosion\n\nCapacité\nGodet profond d’environ 300 ml avec profil évasé anti-débordement\n\nManche\nTube cylindrique ergonomique monobloc soudé à terminaison plate\n\nFinition\nPolissage miroir anti-adhérent facilitant le nettoyage hygiénique\n\nSKU\n9900010929890",
+     "short_description": "Pelle polyvalente en acier inoxydable durable avec godet profond et manche tubulaire pour glaçons et denrées en vrac."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/86fa9c66-04e0-4076-9c09-b8dd69cddc74.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-119664",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Panier à Frites Individuel en Inox (Service & Présentation)",
+     "description": "Apportez l’élégance et la convivialité des brasseries et restaurants modernes à votre table grâce à ce mini panier à frites individuel en acier inoxydable. Idéal pour servir de manière originale des frites dorées, des rondelles d’oignons, des nuggets ou des tapas, son maillage métallique aéré laisse circuler l’air pour préserver le croustillant de vos fritures sans ramollir.\n\nCaractéristique\nSpécification Détaillée\n\nType\nMini panier de service et présentation individuelle\n\nUsage\nFrites, tapas, nuggets, beignets et amuse-bouches chauds\n\nMatériaux\nAcier inoxydable alimentaire résistant à la corrosion\n\nManche\nPoignée étrier allongée en fil d’acier soudée anti-chaleur\n\nEntretien\nLavage facile à la main et compatible lave-vaisselle\n\nSKU\n9900010929883",
+     "short_description": "Mini-panier de service à frites rectangulaire en fil d’acier inoxydable avec manche à étrier."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/8c55e956-da79-4852-bf94-44cc502cb710.webp"
    ]
   }
  ]

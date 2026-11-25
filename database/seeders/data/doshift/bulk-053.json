@@ -1,195 +1,201 @@
 {
  "products": [
   {
-   "sku": "doshift-78350",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes Homme Bleu Nuit",
-     "description": "Optez pour un style discret et raffiné avec ces lunettes de soleil pour homme à monture ronde bleu nuit. Leur couleur sombre et leurs verres fumés apportent une allure moderne, sobre et élégante pour compléter vos tenues casual ou urbaines.\n\nCaractéristique\nDétail\n\nMonture\nBleu nuit\n\nVerres\nFumés foncés\n\nDesign\nForme ronde tendance\n\nStyle\nSobre et masculin\n\nUtilisation\nTenues casual\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Optez pour un style discret et raffiné avec ces lunettes de soleil pour homme à monture ronde bleu nuit."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/13-4.png"
-   ]
-  },
-  {
-   "sku": "doshift-78340",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes Homme Texturées",
-     "description": "Complétez votre style avec ces lunettes de soleil pour homme à monture carrée noire. Le détail texturé sur les côtés ajoute une finition premium et distinctive, parfaite pour un look masculin, moderne et légèrement plus original.\n\nCaractéristique\nDétail\n\nMonture\nNoire solide\n\nDétails\nTexture latérale\n\nVerres\nDégradés violet\n\nStyle\nMasculin raffiné\n\nLook\nUrbain élégant\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Complétez votre style avec ces lunettes de soleil pour homme à monture carrée noire."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/7-5.png"
-   ]
-  },
-  {
-   "sku": "doshift-78330",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes Homme Carrées Noires",
-     "description": "Adoptez un style moderne et affirmé avec ces lunettes de soleil pour homme au design carré, dotées d’une monture noire transparente et de verres dégradés violet.\n\nCaractéristique\nDétail\n\nMonture\nCarrée masculine\n\nVerres\nDégradés violet\n\nDesign\nModerne et élégant\n\nBranches\nLarges et confortables\n\nUtilisation\nSorties et conduite\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Adoptez un style moderne et affirmé avec ces lunettes de soleil pour homme au design carré, dotées d’une monture noire transparente et de verres dégradés violet."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-12.png"
-   ]
-  },
-  {
-   "sku": "doshift-78170",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Câble d’Alimentation EU-C13 1.5M pour PC, Écran et Appareils Électroniques",
-     "description": "Branchez facilement vos équipements électroniques avec ce câble d’alimentation EU-C13 de 1,5 mètre, conçu pour offrir une connexion stable, sécurisée et durable. Compatible avec les ordinateurs de bureau, écrans, imprimantes, alimentations PC, moniteurs et autres appareils équipés d’un port C13. Sa longueur pratique permet une installation propre aussi bien à la maison qu’au bureau.\n\nCaractéristique\nDétail\n\nType de produit\nCâble d’alimentation\n\nConnecteur\nEU vers C13\n\nLongueur\n1.5 m\n\nCouleur\nNoir\n\nUtilisation\nPC, écran, imprimante, alimentation\n\nMatière\nPVC robuste\n\nCompatibilité\nAppareils avec entrée C13\n\nRéférence Doshift\nAA2BB299",
-     "short_description": "Branchez facilement vos équipements électroniques avec ce câble d’alimentation EU-C13 de 1,5 mètre, conçu pour offrir une connexion stable, sécurisée et durable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-14T212725.761.png"
-   ]
-  },
-  {
-   "sku": "doshift-78070",
-   "price": 289,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Téléphone Filaire Panasonic avec Calculatrice Intégrée",
-     "description": "Simplifiez vos appels du quotidien avec ce téléphone filaire Panasonic pratique et élégant. Doté d’un grand clavier confortable, d’un écran LCD lisible et d’une fonction calculatrice intégrée, il offre une utilisation simple aussi bien à la maison qu’au bureau. Son design compact et moderne s’intègre facilement à tous les espaces de travail.",
-     "short_description": "Simplifiez vos appels du quotidien avec ce téléphone filaire Panasonic pratique et élégant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-14T155102.189.png"
-   ]
-  },
-  {
-   "sku": "doshift-77891",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble Gant et Manique de Cuisine Colorés Tutto Bene",
-     "description": "Ajoutez une touche fun et gourmande à votre cuisine avec cet ensemble composé d’un gant de cuisine et d’une manique assortie. Conçus pour protéger efficacement vos mains contre la chaleur, ces accessoires allient confort, praticité et design moderne aux couleurs vives.\n\nCaractéristique\nDétail\n\nProduit\nEnsemble gant + manique\n\nUtilisation\nCuisine, four, pâtisserie\n\nMatière\nTissu rembourré\n\nCouleur\nRose, bleu et blanc\n\nStyle\nModerne et gourmand\n\nContenu\n1 gant + 1 manique\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Ajoutez une touche fun et gourmande à votre cuisine avec cet ensemble composé d’un gant de cuisine et d’une manique assortie."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-13T180238.265.png"
-   ]
-  },
-  {
-   "sku": "doshift-77867",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ampoules LED Auto X-Shadow – Lot de 2",
-     "description": "Améliorez l’éclairage intérieur de votre voiture avec ces ampoules LED auto X-Shadow. Leur lumière blanche intense offre une meilleure visibilité dans l’habitacle, le coffre ou les zones de courtoisie, tout en apportant un style moderne et premium à votre véhicule. Compactes et faciles à installer, elles sont idéales pour remplacer les ampoules classiques.\n\nCaractéristique\nDétail\n\nProduit\nAmpoules LED auto\n\nType\nÉclairage automobile intérieur\n\nQuantité\nLot de 2\n\nLumière\nBlanche intense\n\nDesign\nCylindrique compact avec puces LED multiples\n\nUtilisation\nHabitacle, coffre, portière, plafonnier auto\n\nInstallation\nFacile à installer\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Améliorez l’éclairage intérieur de votre voiture avec ces ampoules LED auto X-Shadow."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-13T165427.827.png"
-   ]
-  },
-  {
-   "sku": "doshift-77707",
-   "price": 469,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Traceur GPS/SMS/GPRS pour véhicule",
-     "description": "Suivez et sécurisez votre véhicule en temps réel avec ce traceur GPS compact. Idéal pour voitures, motos, utilitaires ou flottes professionnelles, il permet de localiser le véhicule, recevoir des alertes SMS et améliorer la sécurité au quotidien.\n\nCaractéristique\nDétail\n\nType\nTraceur GPS véhicule\n\nConnexion\nGPS / SMS / GPRS\n\nUtilisation\nVoiture, moto, camion, flotte\n\nFonction\nLocalisation et suivi en temps réel\n\nAlertes\nPar SMS\n\nInstallation\nFixation sur véhicule\n\nRéférence Doshift\nAA30BB099",
-     "short_description": "Suivez et sécurisez votre véhicule en temps réel avec ce traceur GPS compact. Idéal pour voitures, motos, utilitaires ou flottes professionnelles, il permet de localiser le véhicule, recevoir des alertes SMS et…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-12T192528.534.png"
-   ]
-  },
-  {
-   "sku": "doshift-77650",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Protection de Pare-chocs et Portières Auto – Style Carbone Rouge",
-     "description": "Ajoutez une touche sportive à votre véhicule tout en le protégeant efficacement contre les petits chocs, rayures et frottements du quotidien. Grâce à son design moderne effet carbone rouge, cette protection adhésive améliore l’apparence de votre voiture tout en offrant une protection discrète et durable.\n\nFacile à installer avec son adhésif puissant, elle convient aux pare-chocs avant, arrière ainsi qu’aux portières. Son matériau résistant aux intempéries garantit une excellente tenue dans le temps.\n\nCaractéristique\nDétail\n\nType\nProtection adhésive auto\n\nUtilisation\nPare-chocs et portières\n\nCouleur\nRouge\n\nFinition\nEffet carbone\n\nInstallation\nAdhésif double face\n\nProtection\nContre rayures et petits chocs\n\nCompatibilité\nUniverselle\n\nRésistance\nEau, chaleur et intempéries\n\nContenu\nLot de 2\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Ajoutez une touche sportive à votre véhicule tout en le protégeant efficacement contre les petits chocs, rayures et frottements du quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-12T155153.506.png"
-   ]
-  },
-  {
-   "sku": "doshift-77482",
-   "price": 89,
+   "sku": "doshift-83497",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    7,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouée Gonflable Crocodile Géante",
+     "description": "Profitez de moments de détente et d’amusement avec cette bouée gonflable en forme de crocodile. Son design réaliste et sa grande taille offrent une expérience ludique idéale pour la piscine, le lac ou les vacances à la plage. Équipée de poignées solides pour une meilleure stabilité, elle permet aux enfants comme aux adultes de s’amuser en toute tranquillité.\n\nCaractéristique\nDétail\n\nType\nBouée gonflable crocodile\n\nDesign\nCrocodile réaliste\n\nDimensions\n170 x 86 cm\n\nMatière\nPVC résistant\n\nPoignées\nOui, poignées renforcées\n\nUtilisation\nPiscine, plage, lac\n\nPublic\nEnfants et adultes\n\nAvantage\nGrande taille et excellente flottabilité\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Profitez de moments de détente et d’amusement avec cette bouée gonflable en forme de crocodile."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T180140.368.png"
+   ]
+  },
+  {
+   "sku": "doshift-82742",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur de Refroidissement pour P-5",
+     "description": "Optimisez les performances de votre console avec ce ventilateur de refroidissement haute efficacité conçu pour PS5. Grâce à ses 3 puissants ventilateurs intégrés et son éclairage LED bleu, il aide à dissiper la chaleur rapidement pour maintenir une température idéale même lors des longues sessions de jeu.\n\nCaractéristique\nDétail\n\nType\nVentilateur de refroidissement pour console\n\nCompatibilité\nPS5\n\nNombre de ventilateurs\n3\n\nÉclairage\nLED bleu\n\nAlimentation\nUSB\n\nNiveau sonore\nFaible\n\nInstallation\nClip facile\n\nCouleur\nNoir transparent\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Optimisez les performances de votre console avec ce ventilateur de refroidissement haute efficacité conçu pour PS5."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-49.png"
+   ]
+  },
+  {
+   "sku": "doshift-82709",
+   "price": 629,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Station d’Accueil Compatible Nintendo Switch",
+     "description": "Profitez pleinement de votre console avec cette station d’accueil pratique et performante. Connectez votre Nintendo Switch à votre téléviseur en quelques secondes, rechargez votre console tout en jouant et profitez d’une expérience de jeu confortable sur grand écran.\n\nCaractéristique\nDétail\n\nType\nStation d’accueil pour console\n\nCompatibilité\nNintendo Switch\n\nConnectique\nHDMI, USB, alimentation\n\nFonction principale\nConnexion TV et recharge\n\nCouleur\nNoir\n\nDesign\nCompact et discret\n\nUtilisation\nMaison, bureau, voyage\n\nRéférence Doshift\nAA45BB099",
+     "short_description": "Profitez pleinement de votre console avec cette station d’accueil pratique et performante."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-45.png"
+   ]
+  },
+  {
+   "sku": "doshift-82315",
+   "price": 269,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Baroness Rangement 12 Pièces – 12 Pots à Épices",
+     "description": "Organisez votre cuisine avec élégance grâce au rangement à épices Baroness 12 pièces. Son design moderne et compact permet de garder toutes vos épices à portée de main tout en apportant une touche raffinée à votre espace cuisine.\n\nCaractéristique\nDétail\n\nMarque\nBaroness\n\nType\nRangement à épices mural\n\nNombre de pots\n12 pots\n\nUtilisation\nCuisine / Organisation\n\nMatière\nPlastique résistant\n\nCouleur\nNoir et blanc\n\nInstallation\nMurale\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA16BB599",
+     "short_description": "Organisez votre cuisine avec élégance grâce au rangement à épices Baroness 12 pièces."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-13.png"
+   ]
+  },
+  {
+   "sku": "doshift-80508",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Anti-Moustique Starry Sky USB",
+     "description": "Éliminez efficacement les moustiques tout en profitant d’un environnement calme et confortable grâce à cette lampe anti-moustique intelligente à aspiration puissante. Son design moderne avec lumière violette attire les insectes pour une protection optimale à la maison, au bureau ou en camping.\n\nCaractéristique\nDétail\n\nType\nLampe anti-moustique USB\n\nTechnologie\nAspiration + lumière UV\n\nAlimentation\nUSB\n\nAutonomie\nJusqu’à 60h\n\nFonctionnement\nSilencieux\n\nUtilisation\nIntérieur / extérieur\n\nCouleur\nBlanc et rose\n\nNettoyage\nBac collecteur amovible\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Éliminez efficacement les moustiques tout en profitant d’un environnement calme et confortable grâce à cette lampe anti-moustique intelligente à aspiration puissante."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T201945.165.png"
+   ]
+  },
+  {
+   "sku": "doshift-80353",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Pompe à air manuelle – pratique, compacte et polyvalente",
-     "description": "Gonflez rapidement vos pneus où que vous soyez grâce à cette pompe à main compacte et légère. Son format portable permet de la transporter facilement dans un sac ou sur un vélo pour les urgences et les sorties sportives. Compatible avec plusieurs types de valves, elle assure un gonflage simple et efficace pour vélos, motos, ballons et autres équipements gonflables.\n\nCaractéristique\nDétail\n\nType de produit\nPompe à air manuelle\n\nUtilisation\nBallons, vélos, matelas gonflables, articles gonflables\n\nPoignée\nPoignée horizontale pratique\n\nTuyau\nFlexible avec embout de gonflage\n\nBase\nSupport métallique pour plus de stabilité\n\nDesign\nCompact et facile à ranger\n\nAlimentation\nManuelle, sans électricité\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Gonflez rapidement vos pneus où que vous soyez grâce à cette pompe à main compacte et légère."
+     "name": "Humidificateur d’Air USB Aroma LED RGB",
+     "description": "Profitez d’un air plus frais et plus agréable grâce à cet humidificateur USB compact au design moderne. Idéal pour le bureau, la chambre, la voiture ou le salon, il diffuse une fine brume silencieuse tout en créant une ambiance relaxante avec son éclairage LED multicolore.\n\nSon format pratique et élégant s’intègre parfaitement dans tous les espaces pour améliorer votre confort au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nHumidificateur d’air USB\n\nType\nDiffuseur d’arôme & humidificateur\n\nÉclairage\nLED RGB multicolore\n\nAlimentation\nUSB\n\nUtilisation\nMaison, bureau, voiture\n\nFonction\nHumidification & aromathérapie\n\nNiveau sonore\nFaible / silencieux\n\nDesign\nCompact et moderne\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Profitez d’un air plus frais et plus agréable grâce à cet humidificateur USB compact au design moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-15T151416.247.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T133014.525.png"
+   ]
+  },
+  {
+   "sku": "doshift-80165",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur Plafonnier LED 2-en-1 avec Télécommande – Culot B22",
+     "description": "Profitez d’un intérieur plus confortable avec ce ventilateur plafonnier 2-en-1, combinant ventilation et éclairage LED dans un seul appareil. Son format compact permet de l’installer directement sur une douille B22 à baïonnette, comme une ampoule classique, sans installation complexe.\n\nGrâce à sa télécommande, vous pouvez régler facilement la ventilation et l’éclairage à distance. Plusieurs vitesses de ventilation ainsi que 3 tonalités de lumière permettent d’adapter l’ambiance selon vos besoins, tandis que la minuterie 1 h / 2 h / 4 h facilite son utilisation au quotidien.\n\nIdéal pour le salon, la chambre, la cuisine, le bureau ou le couloir, il constitue une solution pratique pour profiter simultanément d’un éclairage agréable et d’une circulation d’air efficace.\n\nCaractéristique\nDétail\n\nType de produit\nVentilateur plafonnier avec éclairage LED\n\nFonction\nVentilation + éclairage 2-en-1\n\nCulot\nB22 à baïonnette\n\nCouleur\nBlanc\n\nCommande\nTélécommande incluse\n\nVitesses de ventilation\n3 niveaux\n\nÉclairage\nLED intégré\n\nCouleurs d’éclairage\n3 tonalités\n\nMinuterie\n1 h / 2 h / 4 h\n\nInstallation\nSur douille compatible B22\n\nUtilisation\nSalon, chambre, cuisine, bureau, couloir\n\nContenu du pack\nVentilateur plafonnier LED + télécommande\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Profitez d’un intérieur plus confortable avec ce ventilateur plafonnier 2-en-1, combinant ventilation et éclairage LED dans un seul appareil."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-09-07T153128.866.png"
+   ]
+  },
+  {
+   "sku": "doshift-79868",
+   "price": 529,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "L12 Mini Body Camera WiFi Video Recorder 1080P Wearable Night Vision",
+     "description": "Enregistrez vos vidéos en toute discrétion avec la caméra corporelle L12 Mini Body Camera WiFi. Compacte, légère et facile à porter, elle offre une qualité vidéo Full HD 1080P idéale pour la sécurité, le travail, le sport ou les déplacements quotidiens.\n\nGrâce à sa connexion WiFi intégrée, visualisez et transférez facilement vos enregistrements depuis votre smartphone. Sa vision nocturne permet de capturer des images claires même dans des environnements sombres, tandis que son format portable avec clip assure une utilisation pratique et confortable.\n\nCaractéristique\nDétail\n\nModèle\nL12\n\nType\nMini Body Camera WiFi\n\nRésolution vidéo\n1080P Full HD\n\nConnectivité\nWiFi\n\nVision nocturne\nOui\n\nFonctions\nVidéo, audio, photo\n\nDétection\nMotion Detection\n\nFixation\nClip portable\n\nUtilisation\nPortable / Wearable\n\nCouleur\nNoir\n\nRéférence Doshift\nAA35BB099",
+     "short_description": "Enregistrez vos vidéos en toute discrétion avec la caméra corporelle L12 Mini Body Camera WiFi."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-21T150004.028.png"
+   ]
+  },
+  {
+   "sku": "doshift-79828",
+   "price": 499,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Caméra Espion Mini L13 Full HD 1080P",
+     "description": "Enregistrez discrètement en Full HD partout\n\nCompacte, légère et facile à transporter, la caméra espion Mini L13 Full HD 1080P est idéale pour capturer vidéos et photos avec une grande discrétion. Grâce à son objectif rotatif à 180°, sa vision nocturne intégrée et sa batterie longue durée, elle vous accompagne dans toutes vos activités quotidiennes, sportives ou professionnelles.\n\nCaractéristique\nDétail\n\nProduit\nCaméra Espion Mini L13\n\nRésolution vidéo\nFull HD 1080P\n\nAngle de rotation\n180°\n\nÉclairage\n4 LEDs intégrées\n\nVision nocturne\nOui\n\nBatterie\n1200mAh rechargeable\n\nAutonomie\nJusqu’à 6 heures\n\nTemps de charge\nEnviron 3 heures\n\nStockage\nSupport micro SD jusqu’à 128GB\n\nFonctions\nVidéo, photo, audio\n\nÉcran\n1.3 pouces\n\nFixation\nClip intégré\n\nCouleur\nNoir\n\nRéférence Doshift\nAA32BB099",
+     "short_description": "Enregistrez discrètement en Full HD partout"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-21T114603.948.png"
+   ]
+  },
+  {
+   "sku": "doshift-79837",
+   "price": 529,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Caméra Piéton L9",
+     "description": "Capturez vos déplacements, interventions ou activités quotidiennes avec cette caméra piéton compacte et pratique. Facile à fixer grâce à son design avec clip, elle accompagne parfaitement les agents de sécurité, livreurs, cyclistes, sportifs ou toute personne souhaitant enregistrer ses trajets en toute simplicité.\n\nSon format portable permet une utilisation mains libres, tandis que la vidéo Full HD offre des images nettes et détaillées. Grâce à la vision nocturne infrarouge et à la réduction du bruit, elle reste utile même dans des conditions de faible luminosité ou dans des environnements animés.\n\nCaractéristique\nDétail\n\nType\nCaméra piéton / body camera\n\nModèle\nL9\n\nVidéo\nFull HD\n\nVision nocturne\nInfrarouge\n\nAudio\nRéduction du bruit\n\nFixation\nDesign avec clip\n\nBatterie\nBatterie interne\n\nUtilisation\nSécurité, livraison, sport, déplacements, usage quotidien\n\nAvantage\nCompacte, pratique et facile à porter\n\nRéférence Doshift\nAA30BB099",
+     "short_description": "Capturez vos déplacements, interventions ou activités quotidiennes avec cette caméra piéton compacte et pratique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-08T160843.903.png"
    ]
   }
  ]

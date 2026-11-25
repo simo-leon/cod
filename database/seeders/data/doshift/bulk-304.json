@@ -1,167 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-38509",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe LED à Détection de Mouvement Rechargeable USB-50 cm",
-     "description": "Éclairez facilement vos placards, couloirs, escaliers ou espaces de rangement avec cette lampe LED rechargeable à détection de mouvement. Son capteur détecte automatiquement votre passage jusqu’à environ 3 mètres, offrant un éclairage pratique sans avoir à chercher un interrupteur.\n\nÉquipée de 4 LED haute luminosité et de 3 modes de fonctionnement, elle peut être utilisée en éclairage continu ou automatique. Sa batterie intégrée de 800 mAh se recharge simplement grâce au port USB Type-C. Son installation rapide avec adhésif double face ne nécessite ni perçage ni câblage.\n\nCaractéristique\nDétail\n\nProduit\nLampe LED à détection de mouvement\n\nModèle\nHY-2014\n\nNombre de LED\n4 LED\n\nModes de fonctionnement\nON / OFF / Détection automatique\n\nDistance de détection\nJusqu’à environ 3 m\n\nBatterie\nBatterie intégrée 800 mAh\n\nAutonomie\nJusqu’à environ 2,5 heures\n\nRecharge\nUSB Type-C\n\nInstallation\nAdhésif double face\n\nUtilisation\nPlacard, escalier, cuisine, couloir, rangement\n\nCouleur\nArgent\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Éclairez facilement vos placards, couloirs, escaliers ou espaces de rangement avec cette lampe LED rechargeable à détection de mouvement."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-07-27T150923.861.png"
-   ]
-  },
-  {
-   "sku": "doshift-38475",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Poignee de Renforcement Ajustable – Resistance 5 a 60 kg couleur selon la disponibilité",
-     "description": "Améliorez votre force de préhension, votre endurance et la tonicité de vos avant-bras grâce à ce kit complet d’exercice pour la main et les doigts.Le Grip Adjustable est conçu avec une résistance réglable de 10 à 60 kg, permettant un entraînement progressif selon votre niveau.Idéal pour les sportifs, musiciens, rééducations ou personnes passant beaucoup de temps devant un ordinateur, il aide à renforcer la main, les doigts et les poignets tout en soulageant les tensions.Le coffret comprend plusieurs accessoires polyvalents (grip ball, anneau, extension doigts…) pour un entraînement complet et équilibré.\n\nCaractéristiques du Produit:\n\ncaracteristique\nDétail\n\nType\nKit de renforcement musculaire de la main\n\nModèle\nAdjustable Grip + Grip Ball\n\nRésistance-réglable\nDe 10 à 60 kg\n\nAccessoires inclus\nGrip principal, balle antistress, anneau, extension doigts, mini renforceur de doigts\n\nMatériau\nABS durable + ressort en acier carbone\n\nPoignée\nErgonomique, antidérapante et confortable\n\nCouleurs-disponibles\nNoir, Bleu, Vert, Orange\n\nUtilisation\nMusculation, physiothérapie, rééducation, sport, musique\n\nPoids\nLéger et portable\n\nAvantages\nRenforce les doigts, les mains, les poignets et les avant-bras\n\nRéférence DoShift\nAA4BB099",
-     "short_description": "Améliorez votre force de préhension, votre endurance et la tonicité de vos avant-bras grâce à ce kit complet d’exercice pour la main et les doigts.Le Grip Adjustable est conçu avec une résistance réglable de 10 à 60 kg,…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-27T145708.607-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-38461",
-   "price": 102,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Jouet Éducatif “Reaction Challenge” Rose – Jeu de Réflexe et Coordination Œil-Main",
-     "description": "Stimule la réactivité et la concentration des enfants avec le Reaction Challenge, un jeu interactif qui combine lumières, sons et mouvement !Conçu pour développer la coordination œil-main, la rapidité de réaction et la motricité fine, ce jouet ludique permet de s’amuser tout en apprenant.Idéal pour jouer seul ou en famille, il offre plusieurs niveaux de vitesse et un mode musical amusant.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nJouet interactif éducatif\n\nNom du modèle\nReaction Challenge\n\nFonctions principales\nJeu de réflexe, coordination et rapidité\n\nModes de jeu\n3 vitesses réglables, musique intégrée, effets lumineux\n\nComposants inclus\nBase principale avec capteurs lumineux + 8 bâtons de réaction + câble de charge USB\n\nAlimentation\nBatterie intégrée rechargeable\n\nMatériau\nPlastique ABS non toxique\n\nCouleurs disponibles\nRose\n\nDimensions approximatives\n40 × 7 × 6 cm\n\nPublic cible\nEnfants à partir de 3 ans\n\nUtilisation\nJeu éducatif, apprentissage sensoriel, activité familiale\n\nAvantages\nDéveloppe la concentration, la coordination et la réactivité\n\nRéférence DoShift\nAA6BB099",
-     "short_description": "Stimule la réactivité et la concentration des enfants avec le Reaction Challenge, un jeu interactif qui combine lumières, sons et mouvement !Conçu pour développer la coordination œil-main, la rapidité de réaction et la…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/okho5.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-38454",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Jouet Éducatif “Reaction Challenge” Bleu – Jeu de Réflexe et Coordination Œil-Main",
-     "description": "Stimule la réactivité et la concentration des enfants avec le Reaction Challenge, un jeu interactif qui combine lumières, sons et mouvement !Conçu pour développer la coordination œil-main, la rapidité de réaction et la motricité fine, ce jouet ludique permet de s’amuser tout en apprenant.Idéal pour jouer seul ou en famille, il offre plusieurs niveaux de vitesse et un mode musical amusant.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nJouet interactif éducatif\n\nNom du modèle\nReaction Challenge\n\nFonctions principales\nJeu de réflexe, coordination et rapidité\n\nModes de jeu\n3 vitesses réglables, musique intégrée, effets lumineux\n\nComposants inclus\nBase principale avec capteurs lumineux + 8 bâtons de réaction + câble de charge USB\n\nAlimentation\nBatterie intégrée rechargeable\n\nMatériau\nPlastique ABS non toxique\n\nCouleurs disponibles\nbleu\n\nDimensions approximatives\n40 × 7 × 6 cm\n\nPublic cible\nEnfants à partir de 3 ans\n\nUtilisation\nJeu éducatif, apprentissage sensoriel, activité familiale\n\nAvantages\nDéveloppe la concentration, la coordination et la réactivité\n\nRéférence DoShift\nAA6BB099",
-     "short_description": "Stimule la réactivité et la concentration des enfants avec le Reaction Challenge, un jeu interactif qui combine lumières, sons et mouvement !Conçu pour développer la coordination œil-main, la rapidité de réaction et la…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/okh1.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-38436",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Coffret de Dessin “Super Mega Art Set” – 208 Pièces (Créativité & Apprentissage)",
-     "description": "Offrez à vos enfants une expérience artistique complète avec le Super Mega Art Set – 208 pièces, une mallette créative tout-en-un qui stimule l’imagination et la motricité fine.Ce coffret contient tous les outils nécessaires pour dessiner, colorier, peindre et créer : feutres, crayons, pastels, pinceaux, aquarelles et bien plus encore !Pratique et portable, il se referme facilement pour être emporté partout : à l’école, en voyage ou à la maison.Un cadeau parfait pour les petits artistes dès 3 ans, favorisant la créativité, la concentration et la coordination.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nCoffret de dessin complet\n\nModèle\nSuper Mega Art Set\n\nPièces\n208 pièces\n\nContenu\nCrayons, feutres, pastels, pinceaux, aquarelles, gomme, taille-crayon, règle, colle, palette…\n\nÂge conseillé\nDès 3 ans\n\nMatériaux\nPlastique ABS + outils non toxiques\n\nCouleur\nBleu ciel\n\nDimensions approximatives\n40 × 28 × 5 cm\n\nFermeture\nCoffret rigide à clips\n\nUsage\nDessin, peinture, coloriage\n\nAvantages\nStimule la créativité et la motricité\n\nRéf. DoShift\nAA12BB599",
-     "short_description": "Offrez à vos enfants une expérience artistique complète avec le Super Mega Art Set – 208 pièces, une mallette créative tout-en-un qui stimule l’imagination et la motricité fine.Ce coffret contient tous les outils…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/art.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-38385",
-   "price": 219,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte de Rangement Cosmétique Blanche – “Cosmetics Storage Box” LD-288 (Imperméable & Organisée)",
-     "description": "Apportez une touche de pureté et d’élégance à votre espace beauté avec cette boîte de rangement cosmétique blanche LD-288.Conçue pour organiser vos produits de maquillage, soins, parfums et accessoires, elle associe design moderne et praticité grâce à son couvercle transparent 180° anti-poussière et ses deux tiroirs spacieux.Son coloris blanc épuré s’intègre harmonieusement dans toutes les salles de bain et coiffeuses, ajoutant une note chic et ordonnée à votre espace.Légère, étanche et facile à transporter, elle est parfaite pour un rangement esthétique et fonctionnel au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nBoîte de rangement cosmétique\n\nModèle\nLD-288 – “Cosmetics Storage Box”\n\nCouleur principale\nBlanc perle\n\nDesign\nCouvercle transparent 180° anti-poussière\n\nMatériau principal\nPlastique ABS de haute qualité, étanche et durable\n\nCompartiments\n2 tiroirs inférieurs + grand compartiment supérieur\n\nDimensions\nEnviron 39× 29 cm\n\nUtilisation\nRangement maquillage, soins, parfums, bijoux, accessoires\n\nFonctionnalités\nÉtanche, anti-poussière, portable, gain de place\n\nPoignée\nIntégrée pour un transport facile\n\nEntretien\nNettoyage simple avec un chiffon humide\n\nParticularités\nÉlégante, stable, pratique pour coiffeuse ou salle de bain\n\nRéférence DoShift\nAA13BB099",
-     "short_description": "Apportez une touche de pureté et d’élégance à votre espace beauté avec cette boîte de rangement cosmétique blanche LD-288.Conçue pour organiser vos produits de maquillage, soins, parfums et accessoires, elle associe…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/abaa6.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-38374",
-   "price": 185,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte de Rangement Cosmétique Rose – “Cosmetics Storage Box” LD-288 (Imperméable & Organisée)",
-     "description": "Apportez une touche de féminité et d’élégance à votre espace beauté avec cette boîte de rangement cosmétique rose LD-288.Pratique et moderne, elle permet de garder vos produits de maquillage parfaitement organisés tout en les protégeant de la poussière et de l’humidité grâce à son couvercle transparent 180°.Dotée de deux tiroirs spacieux et d’une poignée ergonomique, cette boîte est idéale pour ranger vos crèmes, parfums, rouges à lèvres, bijoux et accessoires de soin.Son design raffiné et sa couleur rose douce en font un indispensable de toute coiffeuse moderne.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nBoîte de rangement cosmétique\n\nModèle\nLD-288 – “Cosmetics Storage Box”\n\nCouleur principale\nRose poudré\n\nDesign\nCouvercle transparent 180° anti-poussière\n\nMatériau principal\nPlastique ABS de haute qualité, étanche et durable\n\nCompartiments\n2 tiroirs inférieurs + grand compartiment supérieur\n\nDimensions\nEnviron 39 × 29 cm\n\nUtilisation\nRangement maquillage, soins, bijoux, accessoires\n\nFonctionnalités\nÉtanche, anti-poussière, portable, gain de place\n\nPoignée\nIntégrée pour un transport facile\n\nEntretien\nNettoyage avec chiffon humide\n\nParticularités\nÉlégante, stable, adaptée à la salle de bain ou coiffeuse\n\nRéférence DoShift\nAA13BB099",
-     "short_description": "Apportez une touche de féminité et d’élégance à votre espace beauté avec cette boîte de rangement cosmétique rose LD-288.Pratique et moderne, elle permet de garder vos produits de maquillage parfaitement organisés tout…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/abaa3.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-38148",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support à Épices Rotatif 12 Pots – Spice Rack Set OT-107S",
-     "description": "Gardez vos épices bien rangées et toujours à portée de main grâce à ce support à épices rotatif 12 pièces OT-107S.Ce set pratique et élégant comprend 12 fioles en verre transparent avec couvercles ajustables, permettant de verser ou saupoudrer selon vos besoins.La base rotative offre une organisation optimale et un gain de place considérable dans votre cuisine.Idéal pour le rangement de vos épices, herbes et condiments tout en ajoutant une touche moderne à votre plan de travail.\n\nCaractéristiques du Produit:\n\nNom du produit\nSpice Rack Set OT-107S\n\nType\nSupport à épices rotatif\n\nNombre de pièces\n12 pots en verre + support rotatif\n\nMatériau des pots\nVerre transparent\n\nUtilisation\nOrganisation des épices, condiments, herbes\n\nAvantages\nGain de place, design moderne, pratique et hygiénique\n\nDimensions approximatives\n28 × 13 cm\n\nBase\nSupport rotatif stable\n\nCouvercle\nMétallique ajustable (verser ou saupoudrer)\n\nRéférence DoShift\nAA9BB599",
-     "short_description": "Gardez vos épices bien rangées et toujours à portée de main grâce à ce support à épices rotatif 12 pièces OT-107S.Ce set pratique et élégant comprend 12 fioles en verre transparent avec couvercles ajustables, permettant…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/ligume3.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-38102",
-   "price": 149,
+   "sku": "doshift-42858",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -169,33 +10,185 @@
    ],
    "locales": {
     "fr": {
-     "name": "Projecteur LED Galaxie – Lampe d’Ambiance Étoilée",
-     "description": "Transformez facilement l’atmosphère de votre pièce avec ce projecteur LED galaxie. Son dôme facetté diffuse des effets lumineux étoilés pour créer une ambiance originale et immersive sur les murs et le plafond.\n\nCompact et décoratif, il convient aussi bien à une chambre, un salon, une soirée à la maison, un coin gaming ou un dîner avec une lumière d’ambiance. Il peut également être utilisé comme veilleuse décorative pour apporter une atmosphère plus douce le soir.\n\nCaractéristique\nDétail\n\nType de produit\nProjecteur LED galaxie / lampe d’ambiance\n\nEffet lumineux\nProjection étoilée / ambiance galaxie\n\nCouleur du produit\nNoir avec dôme transparent\n\nDesign\nBase compacte avec dôme facetté\n\nFonction veilleuse\nOui\n\nAmbiance lumineuse\nOui\n\nUtilisation détente\nOui\n\nUtilisation festive\nOui\n\nPièces adaptées\nChambre, salon, salle de jeux, espace gaming\n\nUtilisations\nVeilleuse, relaxation, décoration, fête, dîner, gaming\n\nFormat\nCompact et facile à placer\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Transformez facilement l’atmosphère de votre pièce avec ce projecteur LED galaxie. Son dôme facetté diffuse des effets lumineux étoilés pour créer une ambiance originale et immersive sur les murs et le plafond."
+     "name": "Sac de rangement – GENERIC – Modèle pliable – Tissu non tissé – Couleur orange – 0.3 kg",
+     "description": "Ce sac de rangement en tissu non tissé est idéal pour organiser vêtements, couvertures et jouets. Avec sa fenêtre transparente, vous pouvez facilement voir son contenu. Léger et pliable, il est facile à transporter et à ranger. Parfait pour un usage mixte, il est résistant à l’humidité et à la poussière.",
+     "short_description": "Ce sac de rangement en tissu non tissé est idéal pour organiser vêtements, couvertures et jouets. Avec sa fenêtre transparente, vous pouvez facilement voir son contenu."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/10/Nouveau-projet-2026-08-08T170316.592.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764346189-161_1.jpg"
    ]
   },
   {
-   "sku": "doshift-38075",
+   "sku": "doshift-44307",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fermoir de porte en métal automatique door closer premium qualité",
+     "description": "Le ferme-porte est conforme aux exigences européennes en matière de DPC.\n\nIl offre une action séparée du loquet et un réglage de la vitesse de fermeture.\n\nSon mécanisme à crémaillère en acier trempé et rectifié assure un fonctionnement souple et efficace.\n\nLe fluide hydraulique de haute qualité avec compensation de température intégrée assure un fonctionnement fiable à des températures comprises entre -15 ° C et + 40 ° C.\n\nModèle: Fermoir de porte\n\nPoids (kg): 0.3\n\nCouleur: blanc\n\nMatière principale: metal",
+     "short_description": "Le ferme-porte est conforme aux exigences européennes en matière de DPC."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354904-82_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44302",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
+    11,
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Masque facial anti-poussière coupe-vent, masques respirants polaire couleur aléatoire",
+     "description": "100% neuf et de haute qualitéFlexible et doux, confortableLes trous dans la bouche et le nez vous permettent de respirer facilementLa fonction demi-masque peut parfaitement protéger votre bouche, votre nez et votre couConvient pour la randonnée en plein air, le camping, la randonnée, le ski, le vélo et d’autres sports",
+     "short_description": "100% neuf et de haute qualitéFlexible et doux, confortableLes trous dans la bouche et le nez vous permettent de respirer facilementLa fonction demi-masque peut parfaitement protéger votre bouche, votre nez et votre…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354896-81_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-42838",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Porte-Manteau de Porte Métallique à 12 Crochets – Organisateur Gain de Place",
+     "description": "Optimisez votre rangement avec ce porte-manteau de porte en métal à 12 crochets, idéal pour suspendre vêtements, sacs, serviettes, foulards et accessoires sans encombrer votre espace. Il se fixe facilement sur le haut d’une porte, sans perçage ni outils, pour une installation rapide et pratique.\n\nSa structure métallique robuste assure une bonne stabilité au quotidien, tandis que ses multiples crochets permettent une organisation efficace dans la chambre, l’entrée, la salle de bain ou le bureau. Compact et fonctionnel, il convient parfaitement aux petits espaces et aux intérieurs qui demandent un rangement simple et immédiat.\n\nCaractéristique\nDétail\n\nType de produit\nPorte-manteau de porte\n\nInstallation\nÀ suspendre sur la porte, sans perçage\n\nNombre de crochets\n12 crochets\n\nUtilisation\nVestes, sacs, serviettes, foulards, accessoires\n\nMatière\nMétal\n\nStyle\nCompact et fonctionnel\n\nPièces compatibles\nChambre, salle de bain, entrée, bureau\n\nAvantage principal\nGain de place et rangement pratique\n\nRéférence Doshift\nAA2BB199",
+     "short_description": "Optimisez votre rangement avec ce porte-manteau de porte en métal à 12 crochets, idéal pour suspendre vêtements, sacs, serviettes, foulards et accessoires sans encombrer votre espace."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-02T202314.650.png"
+   ]
+  },
+  {
+   "sku": "doshift-42828",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Organisateurs de bureau en maille métallique (x5)(Couleur selon disponibilité)",
+     "description": "L’organisateur de bureau en maille est fabriqué en métal résistant.\n\nIl comprend 2 pots à crayons, 1 triple courrier, 1 bac range courrier à 3 niveaux et 1 support pour bloc-notes.\n\nIl est disponible en noir.\n\nIl pèse 0.3 kg.\n\nIl est facile à nettoyer et offre un design élégant.\n\nIl est adapté pour une utilisation à la maison, au bureau ou à l’école.",
+     "short_description": "L’organisateur de bureau en maille est fabriqué en métal résistant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764346136-155_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-42818",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Correcteur de posture assise pour enfants correction du bossu, écriture correcte (Couleur selon disponibilité)",
+     "description": "Le correcteur de vision est conçu pour prévenir les problèmes de vision et de bossu chez les enfants.\n\nIl est fabriqué en ABS et en latex, ce qui le rend durable et sûr.\n\nLa hauteur du support est réglable pour un meilleur confort.\n\nLe correcteur de vision permet aux enfants de s’asseoir correctement et de protéger leurs yeux.\n\nIl est disponible en bleu et pèse 0.3 kg.\n\nLe correcteur de posture d’écriture est fait d’ABS et de latex.\n\nIl est conçu pour aider les enfants à maintenir une bonne posture lors de l’écriture.\n\nIl est disponible à un prix raisonnable.",
+     "short_description": "Le correcteur de vision est conçu pour prévenir les problèmes de vision et de bossu chez les enfants."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764346118-153_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-42788",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe de table led tactile métal hôtel restaurant colleur aléatoire (Couleur selon disponibilité)",
+     "description": "La lampe est dotée d’un design élégant et moderne.\n\nElle est équipée d’une fonction tactile intuitive pour allumer, éteindre et régler l’intensité lumineuse.\n\nLa lampe convient à une variété d’environnements et est dotée de lampes LED efficaces et écoénergétiques.\n\nElle est compacte et portable.\n\nElle est faite de fer et d’acrylique et est disponible en doré.\n\nElle pèse 0.3 kg.\n\nLa source de lumière est des perles de lampe LED à économie d’énergie.\n\nLa sortie est de 5V 1A et la tension d’entrée est AC100-240V 50/60Hz.\n\nLa lampe est en métal.",
+     "short_description": "La lampe est dotée d’un design élégant et moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764346062-147_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-42783",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     8
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Torche LED Rechargeable MH-618 – Aluminium Résistant & Lumière Multifonction",
-     "description": "Découvrez la lampe torche LED MH-618, un outil compact, puissant et pratique pour toutes les situations.Conçue en alliage d’aluminium résistant, elle offre une excellente prise en main et une durabilité exceptionnelle.Grâce à sa double source lumineuse (LED frontale + bande latérale COB), elle éclaire efficacement à courte ou longue distance.Rechargeable par USB Type-C, étanche et antidérapante, elle est parfaite pour la maison, le camping, la voiture ou les urgences.\n\nCaractéristiques du Produit:\n\nModèle\nMH-618\n\nType\nLampe torche LED rechargeable\n\nMatériau\nAlliage d’aluminium\n\nBatterie\nLithium intégrée (recharge USB Type-C)\n\nModes d’éclairage\nLED blanche / Lumière rouge / Lumière latérale COB\n\nInterrupteur\nBouton tactile multifonction\n\nRésistance\nÉtanche et antidérapante\n\nPort de charge\nType-C (rapide)\n\nUtilisation\nMaison, voiture, camping, atelier, urgence\n\nRéférence DoShift\nAA3BB299",
-     "short_description": "Découvrez la lampe torche LED MH-618, un outil compact, puissant et pratique pour toutes les situations.Conçue en alliage d’aluminium résistant, elle offre une excellente prise en main et une durabilité…"
+     "name": "Couteau utilitaire en acier inoxydable, cutter de papier, papeterie de bricolage, outils pratiques(Couleur selon disponibilité)",
+     "description": "couteau de grande utilité lame rétractable Poignée antidérapante, se sentant plus confortable. les performances de coupe sont plus puissantes utilise pour  papier peint et carton..",
+     "short_description": "couteau de grande utilité lame rétractable Poignée antidérapante, se sentant plus confortable. les performances de coupe sont plus puissantes utilise pour  papier peint et carton.."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/10/smayka6.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764346053-146_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-42750",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ceinture minceur femme – Gaine taille haute pour affiner la silhouette",
+     "description": "Description :\n\nGaine taille haute pour femme, conçue pour la remise en forme et la perte de poids. Offre un maintien optimal du ventre et affine la silhouette pour un effet minceur immédiat et confortable.\n\nCaractéristiques :\n\nTaille haute pour un maintien abdominal efficace\n\nConception extensible et confortable\n\nAide à la perte de poids et au remodelage de la silhouette\n\nMatériau respirant et léger\n\nIdéal pour un usage quotidien ou sportif",
+     "short_description": "Description :"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764345990-139_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-42735",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Triangle de secours led rechargeable usb pour voiture",
+     "description": "La lampe de travail est équipée d’une source lumineuse COB + LED lumière rouge.\n\nElle dispose de trois modes de vitesse : lumière forte / faible éclairage / LED rouge / clignotant.\n\nElle est composée de 3 COB + 33 LED lumière rouge.\n\nLe modèle est une lumière de couleur noire et rouge.\n\nLa matière principale est en abs.",
+     "short_description": "La lampe de travail est équipée d’une source lumineuse COB + LED lumière rouge."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764345962-136_1.jpg"
    ]
   }
  ]

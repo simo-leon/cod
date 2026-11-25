@@ -1,65 +1,105 @@
 {
  "products": [
   {
-   "sku": "doshift-64818",
-   "price": 79,
+   "sku": "doshift-73217",
+   "price": 229,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Bloc multiprises 3 prises 2P+T 16A 1,5m blanc",
-     "description": "La Rollange 3 prises Ingelec est une multiprise pratique et sécurisée, idéale pour alimenter plusieurs appareils électriques en même temps. Conçue avec un design compact et robuste, elle offre 3 sorties compatibles avec la plupart des appareils domestiques et bureautiques. Grâce à sa qualité de fabrication signée Ingelec, elle garantit fiabilité, sécurité et longévité",
-     "short_description": "La Rollange 3 prises Ingelec est une multiprise pratique et sécurisée, idéale pour alimenter plusieurs appareils électriques en même temps."
+     "name": "G Tag – Tracker intelligent haute précision",
+     "description": "Retrouvez facilement vos objets avec le G Tag, un tracker compact et connecté.\n\nCaractéristique\nDescription\n\nFind My Device Network\nCompatible avec le réseau Apple Find My\n\nPrivacy Protected\nDonnées de localisation chiffrées de bout en bout (seul l’utilisateur y a accès)\n\nOne-Tap Setup\nTechnologie Fast Pair : détection automatique par téléphone Android\n\nUltra-Compact Form Factor\nDesign carré, noir mat, avec boucle d’attache (clés, sac, valise)\n\nWaterproof Rating\nCertification IP67 / résistant aux éclaboussures\n\nRechargeable Battery\nBatterie rechargeable intégrée (autonomie jusqu’à 1 an)\n\nLeft-Behind Alerts\nNotification automatique en cas d’oubli d’un objet\n\nSound Guidance\nHaut-parleur intégré avec bip sonore puissant\n\nMulti-Device Sharing\nPartage de localisation avec famille ou amis\n\nLast Known Location\nAffiche la dernière position connue sur une carte\n\nRéférence Doshift\nAA1BB4099",
+     "short_description": "Retrouvez facilement vos objets avec le G Tag, un tracker compact et connecté."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/2-2026-02-21T140507.799.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/1-20.png"
    ]
   },
   {
-   "sku": "doshift-64812",
-   "price": 89,
+   "sku": "doshift-73115",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "52in1 sans aimant – 52 In 1 Universal Wrench Socket 360 degree Rotating Multi function Wrench Hand Tools For",
-     "description": "Bricolage – Outillage – Quincaillerie,Outil A Main,Cle A Molette,La livraison effective est soumise au la première image prévaudra; En raison de trop de styles,Les autres photos sont pour référence seulement.",
-     "short_description": "Bricolage – Outillage – Quincaillerie,Outil A Main,Cle A Molette,La livraison effective est soumise au la première image prévaudra; En raison de trop de styles,Les autres photos sont pour référence seulement."
+     "name": "Télécommande Magic Remote LG",
+     "description": "Pilotez votre Smart TV LG avec une fluidité exceptionnelle grâce à cette télécommande Magic Remote de la marque LG. Conçu pour une navigation intuitive .\n\nCaractéristique\nDétail\n\nTechnologie de connexion\nBluetooth (fonctions Magic et vocales) + Infrarouge (fonctions basiques)\n\nFonctions Magic\nPointeur à l’écran (type souris) + molette centrale (scroll + clic OK)\n\nCommande vocale\nMicrophone intégré avec bouton dédié\n\nAccès rapide\nBouton Netflix + accès applications (Prime Video, Disney+, etc.) + LIVE TV\n\nContrôle multimédia\nPavé numérique (0-9), volume, chaînes, lecture/pause, navigation complète\n\nFonctions supplémentaires\nQuick Access (raccourcis) + bouton Audio / Sous-titres (AD/SAP)\n\nDesign\nErgonomique, forme incurvée, finition moderne\n\nMatériau\nPlastique robuste avec surface antidérapante\n\nAlimentation\n2 piles AAA\n\nDimensions\n~18 × 4,5 × 3 cm\n\nPoids\n~100 g\n\nCompatibilité\nSmart TV LG sous webOS\n\nJumelage\nConnexion Bluetooth (BACK + HOME)\n\nRéférence-doshift\nAA4BB099",
+     "short_description": "Pilotez votre Smart TV LG avec une fluidité exceptionnelle grâce à cette télécommande Magic Remote de la marque LG. Conçu pour une navigation intuitive ."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AUC1689457563339_img1.webp"
+    "https://doshift.ma/wp-content/uploads/2026/04/1-16.png"
    ]
   },
   {
-   "sku": "doshift-64791",
-   "price": 99,
+   "sku": "doshift-73124",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Douchette WC chromée avec flexible pour toilette bain & WC",
-     "description": "Douchette WC chromée avec flexible pour toilette bain & WC\n\nL’interrupteur à bouton restaure automatiquement le design , facile à utiliser , ne rouille pas facilement , l’eau peut atteindre loin . Douchette ergonomique idéale pour le nettoyage de la salle de bain et de la salle de bain .\n\nUtilisez ce produit élégant pour ajouter une touche de style à votre salle de bain ou salle de bain.\n\nsimple et durable , longue durée de vie . Facile à installer , démonter et nettoyer.\n\nIl a une fonction de sécurité de haute qualité et peut fonctionner efficacement sous haute pression d’eau.",
-     "short_description": "Douchette WC chromée avec flexible pour toilette bain & WC"
+     "name": "Télécommande Magique LG LG1 – Compatible OLED & NanoCell",
+     "description": "Profitez d’un contrôle plus simple et plus intuitif de votre téléviseur LG avec la Télécommande Magique LG1. Son design ergonomique, sa molette centrale et ses nombreuses touches permettent de naviguer rapidement dans les menus et d’accéder facilement à vos contenus préférés.\n\nElle intègre des touches numériques, des commandes de volume et de navigation ainsi que des raccourcis directs vers plusieurs services populaires comme Netflix, Prime Video et Disney+. Le bouton microphone permet également d’accéder aux fonctions de commande vocale lorsqu’elles sont prises en charge par le téléviseur.\n\nIdéale pour remplacer une télécommande perdue ou endommagée et retrouver une utilisation confortable de votre TV LG compatible.\n\nCaractéristique\nDétail\n\nProduit\nTélécommande intelligente / Magic Remote\n\nModèle\nLG1\n\nCompatibilité\nTéléviseurs LG OLED et NanoCell compatibles\n\nCouleur\nNoir\n\nNavigation\nMolette centrale + touches directionnelles\n\nCommande vocale\nOui, selon compatibilité du téléviseur\n\nTouches numériques\nOui, de 0 à 9\n\nContrôle du volume\nOui\n\nBouton Home\nOui\n\nRaccourcis applications\nNetflix, Prime Video, Disney+ et autres touches dédiées\n\nUtilisation\nNavigation TV, applications, streaming et contrôle des fonctions compatibles\n\nDesign\nErgonomique et compact\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Profitez d’un contrôle plus simple et plus intuitif de votre téléviseur LG avec la Télécommande Magique LG1."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T134618.565.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-08-29T142849.134.png"
    ]
   },
   {
-   "sku": "doshift-64758",
-   "price": 59,
+   "sku": "doshift-73003",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cluedo – Trahison au Manoir Tudor (Escape Game)",
+     "description": "Plongez dans une enquête immersive mêlant suspense et énigmes où chaque décision compte. Ce jeu revisite le célèbre univers Cluedo en version escape game coopératif, vous invitant à explorer un manoir mystérieux, résoudre des puzzles et découvrir la vérité avant qu’il ne soit trop tard.\n\nTravaillez en équipe pour analyser les indices, progresser dans les différentes pièces et reconstituer les éléments du crime. Une expérience captivante qui combine logique, observation et esprit de déduction pour des moments intenses en famille ou entre amis.\n\nCaractéristique\nDétail\n\nType de produit\nJeu de société – enquête / escape game\n\nUnivers\nMystère au manoir Tudor\n\nNombre de joueurs\n1 à 6 joueurs\n\nÂge recommandé\nÀ partir de 10 ans\n\nDurée de jeu\nEnviron 90 minutes\n\nMode de jeu\nCoopératif\n\nObjectif\nRésoudre le mystère et s’échapper du manoir\n\nContenu\nCartes, plateaux, pions, enveloppes secrètes\n\nParticularité\nJeu à usage unique type escape game\n\nRéférence Doshift\nAA5BB599",
+     "short_description": "Plongez dans une enquête immersive mêlant suspense et énigmes où chaque décision compte."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-18T180217.612.png"
+   ]
+  },
+  {
+   "sku": "doshift-72987",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de Société « Qui Est-ce ? »",
+     "description": "Défiez votre logique en devinant le personnage mystère avec ce jeu incontournable qui amuse petits et grands ! Chaque joueur choisit secrètement un personnage et doit poser les bonnes questions pour éliminer les suspects et trouver la bonne réponse avant son adversaire.\n\nSimple à prendre en main, ce jeu est parfait pour développer la réflexion, l’observation et la mémoire tout en passant un moment ludique en famille. Son format compact avec plateaux pliables le rend facile à transporter partout.\n\nCaractéristique\nDétail\n\nType de produit\nJeu de société\n\nNom\nQui Est-ce ?\n\nNombre de joueurs\n2 joueurs\n\nÂge recommandé\n4 ans et plus\n\nMatériau\nPlastique\n\nContenu\n2 plateaux + cartes personnages + cartes mystère\n\nUtilisation\nIntérieur / extérieur\n\nDimensions\nFormat compact\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Défiez votre logique en devinant le personnage mystère avec ce jeu incontournable qui amuse petits et grands !"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-18T172208.395.png"
+   ]
+  },
+  {
+   "sku": "doshift-72719",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -68,58 +108,76 @@
    ],
    "locales": {
     "fr": {
-     "name": "Répartiteur Réseau 3 Prises Terre 16A 250V",
-     "description": "Multipliez facilement vos branchements avec ce répartiteur à 3 prises rondes mises à la terre, idéal pour connecter plusieurs appareils à une seule prise murale. Conçu pour un usage domestique ou professionnel, il assure une alimentation stable et sécurisée.\n\nCompact et pratique, il s’adapte parfaitement aux prises standards et permet d’optimiser votre espace sans câbles supplémentaires.\n\nCaractéristique\nDétail\n\nType\nRépartiteur / Voleur de prise\n\nNombre de prises\n3 prises rondes avec terre\n\nIntensité maximale\n16A\n\nTension\n250V\n\nMise à la terre\nOui\n\nCouleur\nBlanc\n\nUtilisation\nMaison, bureau, appareils électroménagers",
-     "short_description": "Multipliez facilement vos branchements avec ce répartiteur à 3 prises rondes mises à la terre, idéal pour connecter plusieurs appareils à une seule prise murale."
+     "name": "Pulvérisateur à Dos PowerSTAR 16L – Haute Performance pour Jardin et Agriculture",
+     "description": "Pulvérisez facilement vos plantes, cultures et jardins avec le pulvérisateur à dos PowerSTAR 16 Litres. Conçu pour un usage pratique et efficace, il offre une grande capacité, une pulvérisation uniforme et un confort optimal pour les travaux agricoles, de jardinage et d’entretien extérieur.\n\nCaractéristique\nDétail\n\nType\nPulvérisateur à dos\n\nCapacité\n16 Litres\n\nUtilisation\nJardinage, agriculture, désinfection\n\nMatière\nPlastique robuste\n\nCouleur\nBleu et jaune\n\nBretelles\nAjustables\n\nSystème\nPulvérisation manuelle\n\nRéférence Doshift\nAA9BB599",
+     "short_description": "Pulvérisez facilement vos plantes, cultures et jardins avec le pulvérisateur à dos PowerSTAR 16 Litres."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T132254.591.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-05-09T213754.755.png"
    ]
   },
   {
-   "sku": "doshift-64752",
-   "price": 69,
+   "sku": "doshift-72708",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Cordeau Traceur à Craie 15 m – Kit Complet",
-     "description": "Tracez des lignes droites nettes et précises pour tous vos travaux de construction, menuiserie ou pose de carrelage. Conçu pour offrir robustesse et efficacité, ce cordeau à craie permet un marquage rapide et uniforme sur différentes surfaces.\n\nGrâce à sa longueur de 15 mètres (50 ft), il couvre facilement de grandes zones. Son boîtier ergonomique assure une bonne prise en main et un enroulement fluide du fil, idéal pour un usage professionnel ou domestique.\n\nCaractéristique\nDétail\n\nType\nCordeau traceur à craie\n\nLongueur du fil\n15 m (50 ft)\n\nCapacité\nRéservoir grande capacité\n\nUtilisation\nConstruction, carrelage, menuiserie\n\nMarquage\nLignes droites nettes et visibles\n\nAccessoires inclus\nFlacon de craie, niveau à bulle, crochet\n\nPublic cible\nProfessionnels et bricoleurs",
-     "short_description": "Tracez des lignes droites nettes et précises pour tous vos travaux de construction, menuiserie ou pose de carrelage."
+     "name": "Câble USB-C ↔ DisplayPort 8K – 1,8 m – Bidirectionnel",
+     "description": "Profitez d’une transmission vidéo ultra performante avec ce câble USB-C ↔ DisplayPort bidirectionnel, permettant de connecter facilement vos appareils dans les deux sens. Idéal pour relier un ordinateur, une tablette ou un smartphone USB-C à un écran DisplayPort, ou inversement selon votre configuration.\n\nCompatible 8K 60Hz et 4K 120Hz, il garantit une image fluide, nette et sans latence, parfaite pour le gaming, le streaming ou un usage professionnel. Sa longueur de 1,8 m assure une installation pratique et flexible.\n\nCaractéristique\nDétail\n\nType de câble\nUSB-C ↔ DisplayPort\n\nFonction\nBidirectionnel\n\nRésolution max\n8K 60Hz / 4K 120Hz\n\nLongueur\n1,8 m\n\nCompatibilité\nPC, MacBook, tablette, smartphone USB-C\n\nSortie\nMoniteur, TV, écran DisplayPort\n\nModes\nMiroir & Extension d’écran\n\nTechnologie\nPlug & Play\n\nConnectique\nUSB-C & DisplayPort\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Profitez d’une transmission vidéo ultra performante avec ce câble USB-C ↔ DisplayPort bidirectionnel, permettant de connecter facilement vos appareils dans les deux sens."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/61ow-rW1mL._SL1500_.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-17T171841.572.png"
    ]
   },
   {
-   "sku": "doshift-64747",
+   "sku": "doshift-72662",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Stick Coiffant Cire – Fixation Rapide & Finition Lisse",
-     "description": "Structurez et disciplinez vos cheveux en un seul geste grâce à ce stick coiffant pratique. Il offre une fixation rapide sans effet collant, idéal pour lisser les mèches rebelles et créer des styles nets et brillants.\n\nSa texture légère permet une application facile et précise, parfaite pour un usage quotidien. Formule sans microplastiques et sans polymères hydrosolubles purement synthétiques.\n\nCaractéristique\nDétail\n\nType\nStick coiffant à la cire\n\nEffet\nLisse et brillant\n\nFixation\nRapide, sans collage\n\nApplication\nDirectement sur cheveux secs\n\nFormule\nSans microplastiques\n\nUtilisation\nCoiffage quotidien, finition précise\n\nFormat\nStick compact pratique",
-     "short_description": "Structurez et disciplinez vos cheveux en un seul geste grâce à ce stick coiffant pratique. Il offre une fixation rapide sans effet collant, idéal pour lisser les mèches rebelles et créer des styles nets et brillants."
+     "name": "Organisateur de bureau multifonction pour enfants avec tableau d’écriture",
+     "description": "Organisateur de bureau ludique et pratique conçu spécialement pour les enfants. Il permet de ranger facilement crayons, ciseaux et accessoires tout en offrant un mini tableau d’écriture pour dessiner, apprendre et noter ses idées de façon amusante.\n\nCaractéristique\nDétail\n\nType de produit\nOrganisateur de bureau pour enfants\n\nMatériau\nPlastique rigide\n\nCouleur\nRose pastel\n\nCompartiments\nMultiples espaces de rangement\n\nAccessoires inclus\nMini tablette d’écriture + stylet\n\nFonction principale\nOrganisation du bureau\n\nFonction supplémentaire\nÉcriture et dessin effaçables\n\nDesign\nCompact, ludique et ergonomique\n\nUtilisation\nÉcole, devoirs, loisirs créatifs\n\nEntretien\nFacile à nettoyer\n\nTransport\nLéger et portable\n\nRéférence-doshift\nAA7BB099",
+     "short_description": "Organisateur de bureau ludique et pratique conçu spécialement pour les enfants. Il permet de ranger facilement crayons, ciseaux et accessoires tout en offrant un mini tableau d’écriture pour dessiner, apprendre et noter…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T131528.332.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/1-3.png"
    ]
   },
   {
-   "sku": "doshift-64739",
-   "price": 139,
+   "sku": "doshift-72640",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bocal en verre hermétique pour salade fraîche",
+     "description": "Bocal à salade en verre hermétique, parfait pour conserver vos repas frais et sains. Fabriqué en verre de qualité, il ne retient ni odeurs ni taches, avec un couvercle étanche pour un transport sans fuite.\n\nCaractéristique\nDétail\n\nType de produit\nBocal à salade en verre\n\nMatériau\nVerre\n\nCapacité\nEnviron 800–1000 ml\n\nCouvercle\nVissé, étanche\n\nCouleur du couvercle\nVert\n\nUtilisation\nSalades, repas à emporter\n\nÉtanchéité\nAnti-fuite\n\nAvantage matériau\nNe retient pas les odeurs ni les taches\n\nDesign\nInclinable, ergonomique\n\nEntretien\nFacile à laver, réutilisable\n\nTransport\nPratique et sécurisé\n\nRéférence-doshift\nAA7BB599",
+     "short_description": "Bocal à salade en verre hermétique, parfait pour conserver vos repas frais et sains. Fabriqué en verre de qualité, il ne retient ni odeurs ni taches, avec un couvercle étanche pour un transport sans fuite."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/1.png"
+   ]
+  },
+  {
+   "sku": "doshift-72536",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -128,73 +186,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Pack Soin Papaye – Hydratation & Réparation Quotidienne",
-     "description": "Offrez à votre peau une routine complète enrichie en extrait naturel de papaye et vitamine E. Ce coffret réunit trois soins essentiels à la texture légère et nourrissante pour hydrater, réparer et adoucir la peau jour après jour.\n\nIdéal pour lutter contre la sécheresse, améliorer la souplesse et retrouver une peau douce, lisse et éclatante. Parfait pour un usage quotidien sur les mains, les pieds et le visage.\n\nCaractéristique\nDétail\n\nType\nCoffret de soins hydratants\n\nContenu\nCrème mains, crème pieds, crème visage\n\nIngrédient principal\nExtrait naturel de papaye\n\nEnrichi en\nVitamine E\n\nEffet\nHydrate, répare, adoucit\n\nTexture\nLégère et nourrissante\n\nUtilisation\nSoin quotidien tous types de peau",
-     "short_description": "Offrez à votre peau une routine complète enrichie en extrait naturel de papaye et vitamine E."
+     "name": "Chaise Pliante Portable Multifonction – Compacte, Robuste et Pratique pour Intérieur & Extérieur",
+     "description": "Profitez d’une assise confortable partout avec cette chaise pliante portable au design compact et moderne. Idéale pour le camping, pique-niques, jardin, balcon, pêche, événements en plein air ou usage domestique, elle allie praticité, légèreté et solidité.\n\nCaractéristique\nDétail\n\nType de produit\nChaise pliante portable\n\nMatière structure\nMétal renforcé\n\nMatière assise\nLattes rigides résistantes\n\nCouleur\nVert kaki\n\nHauteur totale\n69 cm\n\nHauteur assise\n38 cm\n\nLargeur assise\n30 cm\n\nProfondeur assise\n32 cm\n\nLargeur base\n35 cm\n\nUtilisation\nIntérieur / Extérieur\n\nPliable\nOui\n\nRéférence Doshift\nAA11BB099",
+     "short_description": "Profitez d’une assise confortable partout avec cette chaise pliante portable au design compact et moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/cf1d3fc1-565b-48bd-9a49-af28733dbc9e.webp"
-   ]
-  },
-  {
-   "sku": "doshift-64734",
-   "price": 59,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Crème Mains & Visage à la Papaye – 115 g",
-     "description": "Illuminez et hydratez votre peau grâce à cette crème enrichie en extrait de papaye et vitamine E. Sa formule légère aide à nourrir intensément, tout en laissant la peau douce, lisse et visiblement plus éclatante.\n\nIdéale pour les mains sèches et gercées, elle apaise, répare et pénètre rapidement sans laisser de film gras. Parfaite pour un usage quotidien sur les mains et le visage.\n\nCaractéristique\nDétail\n\nType\nCrème mains & visage\n\nPoids\n115 g\n\nIngrédient principal\nExtrait de papaye\n\nEnrichi en\nVitamine E\n\nEffet\nHydratant, réparateur, adoucissant\n\nTexture\nLégère, pénétration rapide\n\nType de peau\nTous types de peau",
-     "short_description": "Illuminez et hydratez votre peau grâce à cette crème enrichie en extrait de papaye et vitamine E. Sa formule légère aide à nourrir intensément, tout en laissant la peau douce, lisse et visiblement plus éclatante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T130423.976.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-64725",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Spray Éclat Instantané à la Papaye – Fini Lumineux & Uniforme",
-     "description": "Illuminez votre peau en quelques secondes grâce à ce spray enrichi en extrait de papaye et protéines de lait hydrolysées. Sa formule innovante aide à unifier visiblement le teint et à raviver l’éclat pour un rendu lumineux immédiat.\n\nIdéal pour les occasions spéciales ou l’usage quotidien, il offre une couvrance légère, un toucher non gras et un fini naturel. Sa formule résistante à l’humidité assure une tenue longue durée sans effet collant.\n\nCaractéristique\nDétail\n\nType\nSpray éclat pour le corps\n\nEffet\nTeint plus lumineux et uniforme\n\nActif principal\nExtrait de papaye\n\nEnrichi en\nProtéines de lait hydrolysées\n\nFormule\nRésistante à l’humidité\n\nTexture\nLégère, non grasse\n\nApplication\nSpray pratique pour bras, jambes et corps",
-     "short_description": "Illuminez votre peau en quelques secondes grâce à ce spray enrichi en extrait de papaye et protéines de lait hydrolysées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T125928.618.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-64720",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gel Nettoyant Visage à la Papaye – 150 ml",
-     "description": "Réveillez l’éclat naturel de votre peau grâce à ce gel nettoyant moussant enrichi en extrait de papaye. Il purifie en profondeur, élimine l’excès de sébum et les impuretés tout en aidant à améliorer visiblement la luminosité du teint.\n\nSa formule douce contribue à affiner le grain de peau, favoriser le renouvellement cellulaire et redonner fraîcheur aux peaux ternes et fatiguées. Idéal pour une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nType\nGel nettoyant visage\n\nContenance\n150 ml\n\nIngrédient clé\nExtrait naturel de papaye\n\nAction\nNettoie, purifie, ravive l’éclat\n\nBénéfice\nAide à unifier et illuminer le teint\n\nTexture\nGel moussant\n\nType de peau\nPeaux ternes et fatiguées",
-     "short_description": "Réveillez l’éclat naturel de votre peau grâce à ce gel nettoyant moussant enrichi en extrait de papaye."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T125742.187.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-16T182818.124.png"
    ]
   }
  ]

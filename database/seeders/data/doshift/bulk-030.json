@@ -1,104 +1,47 @@
 {
  "products": [
   {
-   "sku": "doshift-91892",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse de Toilette avec Support",
-     "description": "Gardez vos toilettes propres et bien organisées grâce à cette brosse WC avec support assorti. Son design compact et élégant s’intègre facilement dans tous les styles de salle de bain, tout en restant discret à côté des toilettes.\n\nLa poignée texturée offre une prise en main confortable, tandis que le support ajouré favorise une meilleure aération après utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse de toilette avec support\n\nUtilisation\nNettoyage des toilettes\n\nCouleur\nMauve et beige\n\nPoignée\nLongue et texturée pour une prise en main confortable\n\nSupport\nAjouré pour favoriser l’aération\n\nDesign\nModerne, élégant et compact\n\nEntretien\nFacile à nettoyer\n\nInstallation\nÀ poser au sol\n\nContenu\n1 brosse de toilette + 1 support\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Gardez vos toilettes propres et bien organisées grâce à cette brosse WC avec support assorti."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T172351.486.png"
-   ]
-  },
-  {
-   "sku": "doshift-91922",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ensemble Gant de Four + Manique Motif Avocat",
-     "description": "Apportez une touche originale et pratique à votre cuisine avec cet ensemble assorti composé d’un gant de four et d’une manique carrée. Son design gris décoré de motifs avocat protège vos mains lors de la manipulation de plats, casseroles et ustensiles chauds.\n\nLe gant offre une bonne prise en main, tandis que la manique peut être utilisée comme protection pour saisir un récipient chaud ou comme dessous-de-plat. Les deux éléments disposent d’une boucle permettant de les suspendre facilement après utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble d’accessoires de cuisine\n\nComposition\n1 gant de four + 1 manique carrée\n\nMotif\nAvocat\n\nCouleur\nGris avec bordures noires\n\nUtilisation\nManipulation de plats, casseroles et récipients chauds\n\nFonction de la manique\nProtection pour les mains ou dessous-de-plat\n\nRangement\nBoucles de suspension intégrées\n\nEntretien\nNettoyage facile\n\nContenu du pack\n2 pièces\n\nRéférence Doshift\nAA2BB099",
-     "short_description": "Apportez une touche originale et pratique à votre cuisine avec cet ensemble assorti composé d’un gant de four et d’une manique carrée."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T175653.859.png"
-   ]
-  },
-  {
-   "sku": "doshift-91861",
-   "price": 199,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Présentoir à Desserts 3 Niveaux – Design Élégant",
-     "description": "Apportez une touche raffinée à vos tables avec ce présentoir à 3 niveaux. Son support métallique au style vintage et ses plateaux blancs aux bords ondulés mettent parfaitement en valeur vos pâtisseries, fruits, macarons, cupcakes et amuse-bouches.\n\nGrâce à sa structure verticale, il permet de présenter plusieurs préparations tout en économisant de l’espace sur la table. Idéal pour les goûters, réceptions, anniversaires, fêtes ou repas en famille.\n\nCaractéristique\nDétail\n\nType de produit\nPrésentoir à desserts\n\nNombre de niveaux\n3 niveaux\n\nStructure\nSupport métallique\n\nPlateaux\n3 plateaux blancs aux bords ondulés\n\nDesign\nÉlégant, décoratif et style vintage\n\nUtilisation\nPrésentation de gâteaux, fruits, macarons, cupcakes et amuse-bouches\n\nAvantage\nOptimise l’espace grâce à sa présentation verticale\n\nOccasions\nRéceptions, anniversaires, fêtes, goûters et repas en famille\n\nEntretien\nNettoyage facile avec un chiffon doux et humide\n\nCouleur\nStructure marron foncé avec plateaux blancs\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Apportez une touche raffinée à vos tables avec ce présentoir à 3 niveaux. Son support métallique au style vintage et ses plateaux blancs aux bords ondulés mettent parfaitement en valeur vos pâtisseries, fruits,…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T160339.902.png"
-   ]
-  },
-  {
-   "sku": "doshift-91853",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mini Poêle Antiadhésive Compacte",
-     "description": "Préparez facilement de petites portions avec cette mini poêle pratique et peu encombrante. Idéale pour cuire un œuf, une mini crêpe, un pancake ou réchauffer une petite quantité d’aliments, elle convient parfaitement aux petits-déjeuners et aux repas rapides.\n\nSon revêtement antiadhésif facilite la cuisson et le nettoyage, tandis que sa poignée ergonomique offre une prise en main confortable. Son format compact permet également de la ranger facilement dans la cuisine.\n\nCaractéristique\nDétail\n\nType\nMini poêle\n\nUtilisation\nŒufs, pancakes, crêpes et petites portions\n\nRevêtement\nAntiadhésif\n\nFormat\nCompact et peu encombrant\n\nPoignée\nErgonomique avec ouverture de suspension\n\nCouleur\nNoir avec détail bleu\n\nEntretien\nFacile à nettoyer\n\nContenu\n1 mini poêle\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Préparez facilement de petites portions avec cette mini poêle pratique et peu encombrante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-10T154823.540.png"
-   ]
-  },
-  {
-   "sku": "doshift-91690",
-   "price": 89,
+   "sku": "doshift-93359",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    10
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Sac de Lavage pour Chaussures avec Embauchoirs Ajustables",
-     "description": "Lavez vos chaussures en machine facilement tout en les protégeant grâce à ce sac de lavage en maille respirante. Il permet de nettoyer les baskets, chaussures textiles ou chaussons sans les exposer directement aux frottements du tambour.\n\nLe sac peut contenir une paire de chaussures et se ferme avec une fermeture zippée pratique. Les embauchoirs ajustables inclus aident à garder la forme des chaussures pendant le lavage et limitent les plis.\n\nCaractéristique\nDétail\n\nProduit\nSac de lavage pour chaussures\n\nUtilisation\nLavage des chaussures en machine\n\nCapacité\nConvient pour 2 chaussures\n\nMatière\nMaille respirante\n\nFermeture\nFermeture zippée\n\nFonction principale\nProtège les chaussures pendant le lavage\n\nAvantage\nRéduit les frottements directs dans le tambour\n\nAccessoires inclus\nEmbauchoirs ajustables\n\nCompatibilité\nBaskets, chaussures textiles, chaussures tricotées et chaussons\n\nRéutilisable\nOui\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Lavez vos chaussures en machine facilement tout en les protégeant grâce à ce sac de lavage en maille respirante."
+     "name": "Pistolet à Étiqueter pour Vêtements avec Aiguilles et Attaches",
+     "description": "Optimisez l’étiquetage de vos vêtements avec ce pistolet à étiqueter manuel, conçu pour fixer rapidement et proprement les étiquettes sur les textiles. Idéal pour les boutiques, magasins de prêt-à-porter, ateliers de couture, dépôts et entrepôts, il garantit une utilisation simple, rapide et efficace.\n\nLivré avec un lot d’attaches en plastique et des aiguilles de rechange, ce kit est prêt à l’emploi pour répondre à tous vos besoins d’étiquetage. Sa poignée ergonomique assure une prise en main confortable, même lors d’une utilisation intensive.\n\nCaractéristique\nDétail\n\nType\nPistolet à étiqueter manuel\n\nUtilisation\nFixation d’étiquettes sur vêtements et textiles\n\nMatière\nPlastique ABS et métal\n\nCouleur\nNoir\n\nAlimentation\nAucune (manuel)\n\nAccessoires inclus\nAttaches plastiques + aiguilles de rechange\n\nApplications\nBoutiques, ateliers de couture, entrepôts, magasins de vêtements\n\nPrise en main\nErgonomique et légère",
+     "short_description": "Optimisez l’étiquetage de vos vêtements avec ce pistolet à étiqueter manuel, conçu pour fixer rapidement et proprement les étiquettes sur les textiles."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T193122.512.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-15T184133.724.png"
    ]
   },
   {
-   "sku": "doshift-91640",
-   "price": 249,
+   "sku": "doshift-93291",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Puzzle éducatif magnétique Pompier avec stylo",
+     "description": "Transformez l’apprentissage en un moment de jeu amusant grâce à ce puzzle éducatif en bois sur le thème des pompiers. Composé de 12 pièces colorées et numérotées, il aide l’enfant à reconnaître les chiffres, à associer les formes et à reconstituer différents éléments comme le pompier, la caserne, le camion et l’extincteur.\n\nLe stylo magnétique inclus permet de déplacer facilement les pièces tout en développant la précision des gestes, la coordination œil-main et la motricité fine. Ses couleurs vives et ses illustrations attrayantes encouragent la concentration, la logique et l’autonomie.\n\nIdéal pour jouer à la maison, à la crèche ou en maternelle.\n\nCaractéristique\nDétail\n\nType de produit\nPuzzle éducatif magnétique en bois\n\nThème\nPompier\n\nMatériau\nBois\n\nNombre de pièces\n12 pièces numérotées\n\nAccessoire inclus\nStylo magnétique\n\nFonction principale\nApprentissage des chiffres et des formes\n\nCompétences développées\nMotricité fine, coordination œil-main, logique et concentration\n\nUtilisation\nJeu éducatif et apprentissage\n\nPublic\nEnfants\n\nCouleurs\nMulticolore\n\nRéutilisable\nOui\n\nEntretien\nNettoyer avec un chiffon sec ou légèrement humide\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Transformez l’apprentissage en un moment de jeu amusant grâce à ce puzzle éducatif en bois sur le thème des pompiers."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-15T162118.384.png"
+   ]
+  },
+  {
+   "sku": "doshift-93272",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -106,18 +49,37 @@
    ],
    "locales": {
     "fr": {
-     "name": "Thermos Carafe Élégant pour Thé & Café – Design Doré avec Motif Floral",
-     "description": "Ajoutez une touche de prestige à vos moments thé ou café avec cette carafe thermos au design raffiné. Son corps beige brillant, ses finitions dorées et son motif floral noir lui donnent un style chic, idéal pour la maison, les invités, le salon marocain ou les pauses café au quotidien.\n\nConçue pour garder vos boissons chaudes ou froides plus longtemps, elle est pratique, décorative et facile à utiliser grâce à sa poignée confortable et son bec verseur précis.\n\nCaractéristique\nDétail\n\nType\nCarafe thermos\n\nUtilisation\nThé, café et boissons chaudes ou froides\n\nCouleur\nBeige avec détails dorés\n\nDesign\nMotif floral noir et doré\n\nPoignée\nDorée, pratique et confortable\n\nBec verseur\nPrécis pour un service propre\n\nStyle\nChic, moderne et traditionnel\n\nEntretien\nNettoyage à la main recommandé\n\nRéférence\nAA15BB099",
-     "short_description": "Ajoutez une touche de prestige à vos moments thé ou café avec cette carafe thermos au design raffiné."
+     "name": "Matelas Flottant Gonflable Rose – 1,83 m",
+     "description": "Profitez pleinement de vos moments de détente dans la piscine avec ce matelas flottant gonflable rose. Sa forme allongée et son appui-tête surélevé offrent une position confortable pour se relaxer sur l’eau pendant les journées ensoleillées.\n\nLéger et pratique, il se gonfle facilement et peut être transporté sans effort à la piscine, à la plage ou pendant les vacances. Son design coloré apporte une touche estivale et moderne à vos moments de baignade.\n\nCaractéristique\nDétail\n\nType de produit\nMatelas flottant gonflable\n\nUtilisation\nPiscine, plage, vacances\n\nLongueur\n1,83 m\n\nLargeur\nEnviron 69 cm\n\nCouleur\nRose\n\nMatière\nPVC résistant\n\nAppui-tête\nOui, intégré et surélevé\n\nConception\nChambres d’air longitudinales pour un meilleur confort\n\nGonflable\nOui\n\nPliable\nOui\n\nTransport\nLéger et facile à emporter\n\nEntretien\nNettoyage avec un chiffon humide, laisser sécher avant rangement\n\nPublic\nAdultes et adolescents\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Profitez pleinement de vos moments de détente dans la piscine avec ce matelas flottant gonflable rose."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T175350.941.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-15T151947.373.png"
    ]
   },
   {
-   "sku": "doshift-91665",
-   "price": 159,
+   "sku": "doshift-93240",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Puzzle d’Habillage Éducatif pour Enfants",
+     "description": "Stimulez l’imagination de votre enfant avec ce puzzle d’habillage ludique composé d’un personnage et de plusieurs vêtements interchangeables. L’enfant peut créer différentes tenues professionnelles, notamment médecin, policier ou agent de sécurité, en associant les hauts, les bas, les chaussures et les accessoires.\n\nCe jeu éducatif aide à développer la motricité fine, la coordination œil-main, la logique et la créativité. Les pièces colorées sont faciles à manipuler et permettent à l’enfant d’apprendre tout en s’amusant.\n\nIdéal pour les moments de jeu à la maison, en maternelle ou dans un espace éducatif.\n\nCaractéristique\nDétail\n\nType de produit\nPuzzle d’habillage éducatif pour enfants\n\nMatériau\nBois\n\nThème\nMétiers et tenues professionnelles\n\nPersonnage\nPetite fille avec vêtements interchangeables\n\nTenues incluses\nPolicier, médecin, agent de sécurité, tenue de travail et accessoires\n\nAccessoires\nChapeaux, chaussures, vêtements et éléments de costume\n\nObjectif pédagogique\nDéveloppe la motricité fine, la logique et l’imagination\n\nCompétences développées\nCoordination œil-main, reconnaissance des vêtements et créativité\n\nUtilisation\nMaison, école maternelle, garderie, salle de jeux\n\nÂge recommandé\nÀ partir de 3 ans\n\nCouleurs\nMulticolore\n\nContenu\n1 plateau en bois avec plusieurs pièces interchangeables\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Stimulez l’imagination de votre enfant avec ce puzzle d’habillage ludique composé d’un personnage et de plusieurs vêtements interchangeables."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-15T144532.908.png"
+   ]
+  },
+  {
+   "sku": "doshift-93229",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -125,18 +87,37 @@
    ],
    "locales": {
     "fr": {
-     "name": "Glacière Atlas Freezy 10L – Rouge & Blanche",
-     "description": "Gardez vos boissons, fruits et repas au frais partout avec la Glacière Atlas Freezy 10L. Compacte, légère et pratique, elle est idéale pour les sorties à la plage, les pique-niques, les voyages, le camping ou les journées en famille. Son format 10L offre un bon espace de rangement tout en restant facile à transporter.\n\nGrâce à son couvercle robuste et sa conception isolante, elle aide à conserver la fraîcheur pendant une longue durée, jusqu’à 24 heures selon les conditions d’utilisation.\n\nCaractéristique\nDétail\n\nProduit\nGlacière portable\n\nMarque\nAtlas Plastics\n\nModèle\nFreezy\n\nCapacité\n10 L\n\nCouleur\nRouge et blanc\n\nUtilisation\nPlage, camping, voyage, pique-nique, sport\n\nConservation\nJusqu’à 24 heures\n\nFormat\nCompact et facile à transporter\n\nMatière\nPlastique résistant\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Gardez vos boissons, fruits et repas au frais partout avec la Glacière Atlas Freezy 10L."
+     "name": "Serviette de Bain Rouge à Motif Patchwork Multicolore",
+     "description": "Apportez une touche de couleur à votre salle de bain avec cette serviette au design patchwork original. Son fond rouge intense est associé à des rectangles ornés de fines rayures multicolores pour un rendu moderne et chaleureux.\n\nSa texture moelleuse la rend agréable à utiliser au quotidien après la douche, à la piscine ou à la plage. Son motif distinctif permet également de la reconnaître facilement parmi les autres serviettes de la maison.\n\nCaractéristique\nDétail\n\nType\nServiette de bain\n\nCouleur principale\nRouge\n\nMotif\nPatchwork à rayures multicolores\n\nStyle\nModerne et coloré\n\nTexture\nDouce et moelleuse\n\nUtilisation\nBain, douche, piscine, plage\n\nEntretien\nLavage textile classique\n\nContenu\n1 serviette\n\nRéférence Doshift\nAA11BB099",
+     "short_description": "Apportez une touche de couleur à votre salle de bain avec cette serviette au design patchwork original."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T184754.405.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-08-12T204416.632.png"
    ]
   },
   {
-   "sku": "doshift-91484",
-   "price": 309,
+   "sku": "doshift-93255",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Puzzle en Bois Girafe Numéroté pour Enfants",
+     "description": "Transformez l’apprentissage en un moment de plaisir avec ce puzzle en bois en forme de girafe. Composé de 11 pièces colorées et numérotées, il aide l’enfant à reconnaître les chiffres, les couleurs et les formes tout en développant sa motricité fine.\n\nGrâce à ses pièces faciles à manipuler, l’enfant peut assembler la girafe à son rythme, améliorer sa coordination œil-main et stimuler sa concentration. Son design joyeux et ses couleurs vives en font un jeu éducatif idéal pour la maison, la crèche ou la maternelle.\n\nCaractéristique\nDétail\n\nType de produit\nPuzzle éducatif en bois\n\nModèle\nGirafe numérotée\n\nMatière\nBois\n\nNombre de pièces\n11 pièces\n\nCouleurs\nMulticolore\n\nThème\nGirafe\n\nApprentissage\nChiffres, couleurs et formes\n\nDéveloppement\nMotricité fine, coordination œil-main, logique et concentration\n\nUtilisation\nMaison, crèche, maternelle\n\nPublic\nEnfants\n\nAvantages\nPièces faciles à manipuler, design ludique et éducatif, robuste et réutilisable\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Transformez l’apprentissage en un moment de plaisir avec ce puzzle en bois en forme de girafe."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-15T145432.226.png"
+   ]
+  },
+  {
+   "sku": "doshift-93200",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -144,18 +125,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Ventilateur Mural 18″ avec Télécommande – Luxus Original FB-1841R",
-     "description": "Profitez d’une fraîcheur agréable tout en conservant votre espace au sol avec le ventilateur mural Luxus Original FB-1841R. Son grand diamètre de 18 pouces permet de mieux répartir l’air dans la pièce, tandis que son installation murale convient parfaitement aux espaces où chaque mètre carré compte.\n\nGrâce à sa télécommande incluse, contrôlez facilement le ventilateur à distance sans avoir à vous déplacer. Des boutons sont également intégrés directement sur l’appareil pour une utilisation pratique au quotidien.\n\nSon design noir rehaussé de pales rouges apporte une touche moderne à votre intérieur. Il convient aussi bien à une chambre, un salon, un bureau, un magasin ou une salle d’attente.\n\nCaractéristique\nDétail\n\nProduit\nVentilateur mural\n\nMarque\nLuxus Original\n\nModèle\nFB-1841R\n\nDiamètre\n18 pouces\n\nInstallation\nFixation murale\n\nCommande\nBoutons intégrés et télécommande\n\nNombre de pales\n5 pales\n\nCouleur\nNoir avec pales rouges\n\nEspaces recommandés\nChambre, salon, bureau, magasin, salle d’attente\n\nAccessoire inclus\nTélécommande\n\nRéférence Doshift\nAA19BB599",
-     "short_description": "Profitez d’une fraîcheur agréable tout en conservant votre espace au sol avec le ventilateur mural Luxus Original FB-1841R."
+     "name": "Set de Serviettes de Bain 3 Pièces – 100% Coton Doux et Absorbant",
+     "description": "Apportez une touche d’élégance à votre salle de bain avec ce magnifique set de 3 serviettes de bain en coton. Conçues pour offrir une excellente absorption et un confort exceptionnel, ces serviettes sont idéales pour un usage quotidien. Leur coloris violet raffiné et leur bordure décorative dorée ajoutent une finition luxueuse qui s’intègre parfaitement à tous les styles de salle de bain.\n\nFabriquées en 100 % coton, elles sont douces au toucher, résistantes et agréables pour la peau. Le lot comprend trois tailles pratiques pour répondre à tous vos besoins : grande serviette de bain, serviette de toilette et serviette pour les mains.\n\nCaractéristique\nDétail\n\nType\nSet de serviettes de bain\n\nNombre de pièces\n3 serviettes\n\nMatière\n100 % coton\n\nCouleur\nViolet\n\nTexture\nDouce, moelleuse et absorbante\n\nUtilisation\nSalle de bain, douche, visage et mains\n\nAbsorption\nExcellente capacité d’absorption\n\nSéchage\nRapide\n\nEntretien\nLavable en machine\n\nStyle\nÉlégant avec bordure décorative dorée\n\nConvient pour\nUsage quotidien, maison, hôtel, cadeau\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Apportez une touche d’élégance à votre salle de bain avec ce magnifique set de 3 serviettes de bain en coton."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T135855.406.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-07-15T133705.986.png"
    ]
   },
   {
-   "sku": "doshift-91314",
-   "price": 109,
+   "sku": "doshift-93055",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -164,32 +145,52 @@
    ],
    "locales": {
     "fr": {
-     "name": "ESTIARA PLUS – Eau de Parfum 100 ml",
-     "description": "Découvrez ESTIARA PLUS, une eau de parfum élégante au style raffiné, idéale pour compléter votre routine quotidienne ou vos sorties spéciales. Son flacon premium au design doré et noir apporte une touche de luxe, tandis que son format 100 ml offre une utilisation durable.\n\nParfait pour les personnes qui recherchent un parfum chic, moderne et facile à porter, ESTIARA PLUS se distingue par sa présentation élégante et son esprit sophistiqué.\n\nCaractéristique\nDétail\n\nProduit\nEau de Parfum\n\nMarque\nESTIARA PLUS\n\nContenance\n100 ml\n\nType\nVaporisateur Natural Spray\n\nDesign\nFlacon élégant avec finition dorée et noire\n\nUtilisation\nQuotidienne, soirées, occasions spéciales\n\nFormat\n3.3 fl.oz\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Découvrez ESTIARA PLUS, une eau de parfum élégante au style raffiné, idéale pour compléter votre routine quotidienne ou vos sorties spéciales."
+     "name": "Valiant Exotique’s Pour Homme – Eau de Parfum (Lot de 2)",
+     "description": "Affirmez votre personnalité avec Valiant Exotique’s Pour Homme, une eau de parfum masculine au caractère intense et raffiné. Son flacon bleu au design luxueux reflète parfaitement l’élégance et la puissance de cette fragrance, idéale pour les hommes modernes qui souhaitent laisser une impression durable.\n\nGrâce à sa composition sophistiquée, ce parfum offre une senteur fraîche, boisée et élégante, adaptée aussi bien au quotidien qu’aux occasions spéciales. Sa tenue longue durée vous accompagne tout au long de la journée avec une présence subtile mais remarquable.\n\nCaractéristique\nDétail\n\nProduit\nEau de Parfum Homme\n\nNom\nValiant Exotique’s Pour Homme\n\nType\nEau de Parfum\n\nGenre\nHomme\n\nContenance\n50 ml × 2\n\nQuantité\nLot de 2 flacons\n\nFamille olfactive\nBoisée & Aromatique\n\nLongue tenue\nOui\n\nUtilisation\nQuotidienne et occasions spéciales\n\nVaporisateur\nOui\n\nDesign\nFlacon premium bleu avec finitions dorées\n\nIdée cadeau\nOui\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Affirmez votre personnalité avec Valiant Exotique’s Pour Homme, une eau de parfum masculine au caractère intense et raffiné."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T195524.527.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T182923.100.png"
    ]
   },
   {
-   "sku": "doshift-91303",
-   "price": 109,
+   "sku": "doshift-93069",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Gel Douche & Bain Moussant Beauty Care – Vanilla Aroma",
-     "description": "Offrez-vous un moment de détente avec le gel douche & bain moussant Beauty Care Vanilla Aroma. Sa texture gel ambrée nettoie la peau en douceur tout en laissant une sensation agréable de fraîcheur et de propreté. Son parfum chaleureux à la vanille apporte une touche gourmande et relaxante à votre routine de bain ou de douche.\n\nUtilisable comme gel douche quotidien ou comme bain moussant, il transforme chaque utilisation en un instant de soin parfumé. Son flacon transparent au design original permet une prise en main facile et un rendu élégant dans la salle de bain.\n\nCaractéristique\nDétail\n\nProduit\nGel douche & bain moussant\n\nMarque\nBeauty Care\n\nParfum\nVanilla Aroma\n\nTexture\nGel liquide\n\nCouleur\nOrange ambré\n\nUtilisation\nDouche quotidienne ou bain moussant\n\nType de peau\nConvient à un usage quotidien\n\nBouchon\nBouchon clapet transparent\n\nAvantages\nNettoie en douceur, mousse agréable, parfum chaleureux\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Offrez-vous un moment de détente avec le gel douche & bain moussant Beauty Care Vanilla Aroma. Sa texture gel ambrée nettoie la peau en douceur tout en laissant une sensation agréable de fraîcheur et de propreté."
+     "name": "Shampooing Colorant Watercress – Noir Naturel 420 ml",
+     "description": "Retrouvez une couleur noire naturelle et uniforme avec le shampooing colorant Watercress Raouaie. Sa formule pratique sous forme de shampooing permet de couvrir les cheveux blancs tout en simplifiant l’application à domicile.\n\nSa texture moussante se répartit facilement sur les cheveux pour une coloration homogène. Idéal pour rafraîchir la couleur, masquer les cheveux gris ou retrouver une chevelure d’apparence plus foncée et soignée.\n\nCaractéristique\nDétail\n\nProduit\nShampooing Colorant Watercress\n\nMarque\nRaouaie Natural Care\n\nCouleur\nNoir Naturel (Natural Black)\n\nType\nShampooing colorant moussant\n\nContenance\n420 ml (14.8 fl.oz)\n\nUtilisation\nColoration des cheveux\n\nApplication\nAussi simple qu’un shampooing\n\nTexture\nMousse facile à répartir\n\nConvient pour\nCheveux blancs et cheveux grisonnants\n\nRésultat\nCouleur noire naturelle et homogène\n\nUtilisation\nÀ domicile\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Retrouvez une couleur noire naturelle et uniforme avec le shampooing colorant Watercress Raouaie."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T190222.186.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T190640.844.png"
+   ]
+  },
+  {
+   "sku": "doshift-93049",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret Parfum Lovely Girl – 2 × 50 ml",
+     "description": "Apportez une touche de douceur et de fantaisie à votre routine avec le coffret Lovely Girl d’Exotique. Son flacon rose en forme d’ourson séduit par son design original, féminin et décoratif.\n\nCe coffret contient deux eaux de parfum de 50 ml, idéales pour une utilisation quotidienne ou comme cadeau pour une occasion spéciale. Leur format pratique permet de conserver un flacon à la maison et d’emporter le second dans un sac ou en voyage.\n\nCaractéristique\nDétail\n\nProduit\nCoffret Parfum Lovely Girl\n\nMarque\nExotique\n\nType\nEau de parfum\n\nContenu du coffret\n2 flacons\n\nContenance\n2 × 50 ml\n\nApplication\nVaporisateur spray\n\nDesign\nFlacon rose en forme d’ourson\n\nStyle\nFéminin, élégant et décoratif\n\nUtilisation\nQuotidienne ou occasion spéciale\n\nIdéal pour\nCadeau, voyage ou usage personnel\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apportez une touche de douceur et de fantaisie à votre routine avec le coffret Lovely Girl d’Exotique. Son flacon rose en forme d’ourson séduit par son design original, féminin et décoratif."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-14T175749.744.png"
    ]
   }
  ]

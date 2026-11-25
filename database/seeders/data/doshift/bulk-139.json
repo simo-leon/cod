@@ -1,106 +1,28 @@
 {
  "products": [
   {
-   "sku": "doshift-21065",
-   "price": 89,
+   "sku": "doshift-28291",
+   "price": 135,
    "stock": 10,
    "status": 0,
    "categories": [
-    7,
-    8
+    4,
+    6
    ],
    "locales": {
     "fr": {
-     "name": "Lot de 20 serviettes en microfibre Flamingo détachables 30×30 cm​ – Blue",
-     "description": "Lot de 20 serviettes en microfibre Flamingo détachables 30×30 cm​ – Blue est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Lot de 20 serviettes en microfibre Flamingo détachables 30×30 cm​ – Blue – Performance fiable et design moderne."
+     "name": "Tapis de Souris Gaming XXL PUBG – 90 cm Ultra-Lisse et Antidérapant",
+     "description": "Plongez au cœur de l’action avec le Tapis de Souris Gaming XXL PUBG de 90 cm, spécialement conçu pour les gamers passionnés et les setups immersifs. Orné du visuel iconique de PlayerUnknown’s Battlegrounds, il offre une surface extra-large couvrant à la fois votre clavier et votre souris, pour des mouvements fluides et précis.\n\nSa texture dense optimise la glisse de la souris, garantissant une réactivité maximale et une précision accrue, idéale pour les jeux compétitifs. La base en caoutchouc antidérapant assure une parfaite stabilité, même lors des sessions les plus intenses. Les bords cousus renforcés évitent l’effilochage et prolongent la durée de vie du tapis.\n\nParfait pour tous les types de souris (optique ou laser), ce tapis allie confort, performance et style, apportant une touche gaming à votre bureau.\n\nCaractéristiques techniques :\n\nDimensions : 90 × 40 cm (XXL)\n\nDesign : Thème PUBG officiel\n\nSurface : Ultra-lisse pour une glisse optimale\n\nBase : Antidérapante en caoutchouc naturel\n\nBords : Coutures renforcées anti-effilochage\n\nCompatibilité : Souris optiques et laser\n\nUtilisation : Gaming, bureautique, graphisme\n\nAvec le Tapis de Souris Gaming XXL PUBG, transformez votre espace de jeu en véritable champ de bataille et gagnez en précision, confort et style.",
+     "short_description": "Plongez au cœur de l’action avec le Tapis de Souris Gaming XXL PUBG de 90 cm, spécialement conçu pour les gamers passionnés et les setups immersifs."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-07-T165229-189.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/jvlaaal-55.png"
    ]
   },
   {
-   "sku": "doshift-21034",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Flamingo Nettoyant Plastique Lavande SP-500 – 500 ml​",
-     "description": "Flamingo Nettoyant Plastique Lavande SP-500 – 500 ml​ est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Flamingo Nettoyant Plastique Lavande SP-500 – Performance fiable et design moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-07-T130829-787.png"
-   ]
-  },
-  {
-   "sku": "doshift-21029",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Flamingo F026Shines & Protects Protectant – Entretien vinyle, caoutchouc et plastique",
-     "description": "Flamingo F026Shines & Protects Protectant – Entretien vinyle, caoutchouc et plastique est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Flamingo F026Shines & Protects Protectant – Performance fiable et design moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-07-T122806-322.png"
-   ]
-  },
-  {
-   "sku": "doshift-21005",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Flamingo Polish Métaux F022 – Brillance Chrome & Inox 300 ml",
-     "description": "Flamingo Polish Métaux F022 – Brillance Chrome & Inox 300 ml est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Flamingo Polish Métaux F022 – Performance fiable et design moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-07-T110340-512.png"
-   ]
-  },
-  {
-   "sku": "doshift-20994",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lubrifiant Multi-Usage FMS – Protection, Performance et Longévité",
-     "description": "Le lubrifiant multi-usage FMS est la solution idéale pour l’entretien et la protection de vos mécanismes au quotidien. Conçu pour débloquer, lubrifier, protéger et chasser l’humidité, il garantit un fonctionnement fluide et silencieux de vos équipements. Polyvalent et facile à utiliser, il est parfaitement adapté aux applications domestiques, automobiles, industrielles et mécaniques.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLubrifiant multi-usage\n\nMarque\nFMS\n\nFonction principale\nLubrification et protection\n\nAction\nDégrippe les mécanismes\n\nProtection\nAnti-rouille et anti-corrosion\n\nEffet\nÉlimine les grincements\n\nPropriété\nChasse l’humidité\n\nUtilisation\nSerrures, charnières, chaînes, outils, pièces mécaniques\n\nApplication\nMaison, automobile, atelier, industrie\n\nFormat\nAérosol\n\nUtilisation\nFacile et rapide\n\nDurabilité\nProlonge la durée de vie des pièces\n\nRéférence-doshift\nAA3BB599",
-     "short_description": "Le lubrifiant multi-usage FMS est la solution idéale pour l’entretien et la protection de vos mécanismes au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/Gemini_Generated_Image_w6tajvw6tajvw6ta-1-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-20819",
-   "price": 259,
+   "sku": "doshift-28210",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -108,17 +30,74 @@
    ],
    "locales": {
     "fr": {
-     "name": "Routeur TP-Link TL-WR844N 300Mbps",
-     "description": "Routeur TP-Link TL-WR844N 300Mbps est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Routeur TP-Link TL-WR844N 300Mbps – Performance fiable et design moderne."
+     "name": "Adaptateur USB-C 2-en-1 – HDMI 4K + VGA Full HD pour Écran Externe + Câble HDMI Offert",
+     "description": "L’adaptateur USB-C 2-en-1 est la solution idéale pour étendre ou dupliquer l’affichage de votre ordinateur portable, tablette ou smartphone compatible vers un écran externe, un projecteur ou une TV.Grâce à sa sortie HDMI 4K ultra haute définition et sa sortie VGA Full HD, vous bénéficiez d’une image claire et nette, adaptée aussi bien aux présentations professionnelles qu’au divertissement.Compact, léger et facile à transporter, cet adaptateur est plug & play et ne nécessite aucun pilote. En bonus, un câble HDMI est inclus pour vous permettre de profiter immédiatement de la sortie vidéo.\n\nCaractéristiques :\n\nEntrée : USB-C\n\nSorties : HDMI (jusqu’à 4K) et VGA (1080p)\n\nAffichage étendu ou dupliqué\n\nInstallation simple, plug & play\n\nCompatibilité : Windows, macOS, Android (OTG)\n\nDesign compact et portable\n\nCâble HDMI offert inclus",
+     "short_description": "L’adaptateur USB-C 2-en-1 est la solution idéale pour étendre ou dupliquer l’affichage de votre ordinateur portable, tablette ou smartphone compatible vers un écran externe, un projecteur ou une TV.Grâce à sa sortie…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-04-T125341-104.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/HOSSAM-2025-07-19T203615.325.png"
    ]
   },
   {
-   "sku": "doshift-20803",
+   "sku": "doshift-28194",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Hub 7-en-2 USB-C – HDMI 4K, USB 3.0, SD/TF + Câble HDMI Offert",
+     "description": "L’adaptateur Hub 7-en-2 USB-C est la solution parfaite pour optimiser la connectivité de votre ordinateur portable, notamment les MacBook Pro et MacBook Air équipés de deux ports USB-C côte à côte.Compact et élégant, il offre :\n\n1 port HDMI 4K pour un affichage ultra haute définition\n\n2 ports USB 3.0 avec transfert jusqu’à 5 Gbps\n\n1 port USB-C Power Delivery pour recharger votre appareil\n\nLecteurs de cartes SD et TF pour importer rapidement vos photos et vidéos\n\nSon boîtier en aluminium s’accorde parfaitement avec le design de votre ordinateur, et sa conception plug & play garantit une utilisation immédiate. Pour plus de valeur, un câble HDMI est offert, vous permettant de profiter instantanément de vos connexions vidéo.\n\nCaractéristiques :\n\nConnexion : double USB-C (idéal MacBook)\n\n1 HDMI 4K, 2 USB 3.0, 1 USB-C PD, 1 lecteur SD, 1 lecteur TF\n\nTransfert rapide : jusqu’à 5 Gbps\n\nMatériau : aluminium léger et résistant\n\nCâble HDMI offert inclus\n\nPlug & play, aucune installation requise",
+     "short_description": "L’adaptateur Hub 7-en-2 USB-C est la solution parfaite pour optimiser la connectivité de votre ordinateur portable, notamment les MacBook Pro et MacBook Air équipés de deux ports USB-C côte à côte.Compact et élégant, il…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/HOSSAM-2025-07-19T163324.257.png"
+   ]
+  },
+  {
+   "sku": "doshift-28185",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Hub USB-C Multifonction 8-en-1 avec HDMI, RJ45, USB 3.0 et Lecteur de Cartes",
+     "description": "Améliorez la connectivité de votre ordinateur portable avec ce hub USB-C multifonction au design élégant et compact. Idéal pour le travail, les études ou une utilisation quotidienne, il permet de connecter plusieurs périphériques à partir d’un seul port USB-C.\n\nCaractéristique\nDétail\n\nType de produit\nHub USB-C multifonction\n\nConnecteur\nUSB-C\n\nPorts visibles\nRJ45, HDMI, USB 3.0, USB-C, lecteurs de cartes\n\nUtilisation\nExtension de connectivité pour ordinateur portable\n\nFonctions\nTransfert de données, affichage vidéo, connexion réseau, lecture de cartes\n\nMatière\nAlliage métallique\n\nDesign\nCompact et portable\n\nCouleur\nGris\n\nCompatibilité\nAppareils compatibles avec port USB-C\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Améliorez la connectivité de votre ordinateur portable avec ce hub USB-C multifonction au design élégant et compact."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/Nouveau-projet-2026-04-11T152819.247.png"
+   ]
+  },
+  {
+   "sku": "doshift-28090",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rallonge electrique INGELEC Multiprise 3 x 2P + T – 3m Noir (1713/3N)",
+     "description": "La rallonge électrique INGELEC 1713/3N est équipée de 3 prises 2P + T, offrant une solution fiable et sécurisée pour connecter vos appareils électriques. Son câble de 3 mètres permet d’atteindre facilement les prises murales éloignées, apportant plus de confort et de flexibilité au quotidien.Conçue avec des matériaux de qualité, elle garantit une excellente résistance et une longue durée de vie. Son design noir élégant s’intègre parfaitement dans tous les environnements, que ce soit à la maison, au bureau ou dans un atelier.Cette multiprise est idéale pour brancher vos appareils électroménagers, électroniques ou informatiques tout en assurant une protection optimale grâce à ses connecteurs avec terre.\n\nCaractéristiques :\n\nMarque : INGELEC\n\nRéférence : 1713/3N\n\nType : Multiprise 3 x 2P + T\n\nLongueur du câble : 3 mètres\n\nCouleur : Noir\n\nMatériaux résistants et durables\n\nUtilisation : domestique et professionnelle",
+     "short_description": "La rallonge électrique INGELEC 1713/3N est équipée de 3 prises 2P + T, offrant une solution fiable et sécurisée pour connecter vos appareils électriques."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-14T123428.067.png"
+   ]
+  },
+  {
+   "sku": "doshift-27888",
    "price": 159,
    "stock": 10,
    "status": 0,
@@ -127,18 +106,75 @@
    ],
    "locales": {
     "fr": {
-     "name": "Cle WiFi TP-Link TL-WN823N 300Mbps",
-     "description": "Cle WiFi TP-Link TL-WN823N 300Mbps est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
-     "short_description": "Cle WiFi TP-Link TL-WN823N 300Mbps – Performance fiable et design moderne."
+     "name": "Cable Repartiteur HDMI 3 en 1 – Audio, Vidéo & 3D + Cable HDMI",
+     "description": "Optez pour la praticité avec ce câble répartiteur HDMI 3 en 1, idéal pour connecter jusqu’à trois appareils HDMI sur un seul écran ou projecteur. Parfait pour passer rapidement de votre console de jeu à votre lecteur Blu-ray, PC ou box TV, sans débrancher vos câbles.Profitez d’une transmission fluide et stable des signaux audio, vidéo et 3D, avec une qualité d’image nette et un son immersif. Compatible avec les résolutions jusqu’à 1080p et certains formats 4K, il répond parfaitement aux besoins des amateurs de home cinéma et de gaming.En bonus, un câble HDMI est offert pour vous permettre une installation rapide et sans frais supplémentaires. Robuste et simple à utiliser, ce répartiteur ne nécessite aucune alimentation externe.\n\nCaractéristiques :\n\nType : Répartiteur HDMI 3 entrées / 1 sortie\n\nFonctions : Audio, vidéo, 3D\n\nCompatibilité : TV, projecteurs, consoles, lecteurs multimédia\n\nRésolution : Jusqu’à 1080p / compatible 4K selon appareils\n\nInstallation plug & play, sans alimentation externe\n\nCâble HDMI offert inclus dans le pack",
+     "short_description": "Optez pour la praticité avec ce câble répartiteur HDMI 3 en 1, idéal pour connecter jusqu’à trois appareils HDMI sur un seul écran ou projecteur."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-04-T122308-921.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-11T200502.001.png"
    ]
   },
   {
-   "sku": "doshift-20735",
-   "price": 129,
+   "sku": "doshift-27881",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cable Repartiteur HDMI 3 en 1 – Audio, Vidéo & 3D",
+     "description": "Simplifiez vos connexions avec ce câble répartiteur HDMI 3 en 1, conçu pour brancher jusqu’à trois appareils HDMI sur un seul écran ou projecteur. Idéal pour alterner facilement entre console de jeu, lecteur Blu-ray, PC ou box TV, sans avoir à débrancher et rebrancher les câbles.Il assure une transmission rapide et stable des signaux audio, vidéo et 3D, garantissant une qualité d’image nette et un son clair. Compatible avec les résolutions Full HD et certains formats 4K, il est parfait pour une utilisation domestique ou professionnelle.Compact et simple à utiliser, ce répartiteur HDMI ne nécessite aucune alimentation externe pour fonctionner, et son design robuste assure une longue durée de vie.\n\nCaractéristiques :\n\nType : Répartiteur HDMI 3 entrées / 1 sortie\n\nFonctions : Audio, vidéo, 3D\n\nCompatibilité : TV, projecteurs, consoles, lecteurs multimédia\n\nRésolution : Jusqu’à 1080p / compatible 4K selon appareils\n\nInstallation simple, plug & play\n\nDesign compact et durable",
+     "short_description": "Simplifiez vos connexions avec ce câble répartiteur HDMI 3 en 1, conçu pour brancher jusqu’à trois appareils HDMI sur un seul écran ou projecteur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-11T193756.334.png"
+   ]
+  },
+  {
+   "sku": "doshift-27755",
+   "price": 48,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Avion Planeur en Mousse – Jouet Volant Extérieur",
+     "description": "Profitez d’heures de divertissement en plein air avec cet avion planeur en mousse léger et résistant. Conçu pour offrir un vol fluide et stable, il est parfait pour les enfants et les adultes. Sa structure en mousse EPP de haute qualité le rend sûr, durable et résistant aux chocs, idéal pour jouer dans le jardin, au parc ou à la plage.\n\nCaractéristiques :\n\nMatériau léger et résistant : Fabriqué en mousse EPP, non toxique et incassable.\n\nFacile à lancer : Vol longue distance et trajectoire stable.\n\nDesign aérodynamique : Optimise la vitesse et la stabilité en vol.\n\nSécurisé pour les enfants : Sans pièces coupantes ni danger de blessure.\n\nUtilisation polyvalente : Convient pour les jeux en extérieur – parc, plage, jardin.\n\nUn jouet amusant et éducatif qui développe la coordination et encourage l’activité physique.",
+     "short_description": "Profitez d’heures de divertissement en plein air avec cet avion planeur en mousse léger et résistant. Conçu pour offrir un vol fluide et stable, il est parfait pour les enfants et les adultes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/ziad-2025-08-11T114810.681.png"
+   ]
+  },
+  {
+   "sku": "doshift-27742",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Avion Planeur en Mousse – Jouet Volant Extérieur",
+     "description": "Profitez d’heures de divertissement en plein air avec cet avion planeur en mousse léger et résistant. Conçu pour offrir un vol fluide et stable, il est parfait pour les enfants et les adultes. Sa structure en mousse EPP de haute qualité le rend sûr, durable et résistant aux chocs, idéal pour jouer dans le jardin, au parc ou à la plage.\n\nCaractéristiques :\n\nMatériau léger et résistant : Fabriqué en mousse EPP, non toxique et incassable.\n\nFacile à lancer : Vol longue distance et trajectoire stable.\n\nDesign aérodynamique : Optimise la vitesse et la stabilité en vol.\n\nSécurisé pour les enfants : Sans pièces coupantes ni danger de blessure.\n\nUtilisation polyvalente : Convient pour les jeux en extérieur – parc, plage, jardin.\n\nUn jouet amusant et éducatif qui développe la coordination et encourage l’activité physique.",
+     "short_description": "Profitez d’heures de divertissement en plein air avec cet avion planeur en mousse léger et résistant. Conçu pour offrir un vol fluide et stable, il est parfait pour les enfants et les adultes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/08/ziad-2025-08-11T111600.409.png"
+   ]
+  },
+  {
+   "sku": "doshift-27696",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -146,51 +182,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Adaptateur Secteur Riversong 20W SafeKub D3 Dual Ports USB, USB-C",
-     "description": "Adaptateur Secteur Riversong 20W SafeKub D3 Dual Ports USB, USB-C vous permet de connecter facilement vos périphériques grâce à sa conception compacte et fiable.\n\nCaractéristiques techniques :\n\n– Connectique : Type-C vers USB-A ou autre\n\n– Norme : USB 3.1 ou supérieure\n\n– Débit : Transfert rapide de données\n\n– Matériau : Alliage d’aluminium ou ABS\n\n– Compatibilité : Smartphones, tablettes, ordinateurs portables\n\nSolution pratique pour vos besoins de connectivité.",
-     "short_description": "Adaptateur Secteur Riversong 20W SafeKub D3 Dual Ports USB, USB-C – Performance fiable et design moderne."
+     "name": "Adaptateur Lightning Audio + Charge – Écoutez Rechargez Simultanément sur iPhone",
+     "description": "Profitez de votre musique tout en rechargeant votre appareil grâce à l’adaptateur Lightning Audio + Charge, spécialement conçu pour les iPhone, iPad et iPod dotés d’un port Lightning. Compact et élégant, il vous permet de brancher vos écouteurs Lightning ou un câble audio tout en maintenant votre appareil en charge, idéal pour une utilisation au bureau, en voyage ou à la maison.\n\nDoté d’une puce de conversion audio haute fidélité, il préserve la qualité sonore d’origine pour offrir une écoute claire, riche et immersive. Sa compatibilité complète avec les commandes et le micro intégrés à vos écouteurs assure une expérience fluide, sans compromis entre autonomie et plaisir musical.\n\nSon design robuste et minimaliste, allié à des matériaux résistants, garantit une longue durée de vie. Plug & play, il fonctionne immédiatement sans installation de logiciel ni perte de performance, que ce soit pour écouter vos playlists, passer des appels ou profiter de vos contenus multimédia.\n\nPoints forts :\n\nDouble fonctionnalité : écoute audio et recharge simultanée\n\nQualité audio HD grâce à une puce intégrée optimisée\n\nCompatibilité universelle avec appareils Apple Lightning (iPhone, iPad, iPod)\n\nSupport des commandes et microphone des écouteurs officiels et certifiés MFi\n\nFormat compact et durable pour un transport facile et une utilisation quotidienne",
+     "short_description": "Profitez de votre musique tout en rechargeant votre appareil grâce à l’adaptateur Lightning Audio + Charge, spécialement conçu pour les iPhone, iPad et iPod dotés d’un port Lightning."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T132220-806.png"
-   ]
-  },
-  {
-   "sku": "doshift-20446",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ecouteurs Filaire Riversong Melody T+",
-     "description": "Découvrez le Ecouteurs Filaire Riversong Melody T+\n\n, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Ecouteurs Filaire Riversong Melody T+\n\nest un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Ecouteurs Filaire Riversong Melody T+\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
-     "short_description": "Découvrez le Ecouteurs Filaire Riversong Melody T+"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T175053-029.png"
-   ]
-  },
-  {
-   "sku": "doshift-20424",
-   "price": 369,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Airpods Riversong Utopia H5 – TWS ENC",
-     "description": "Découvrez le Airpods Riversong Utopia H5 – TWS ENC, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens.\n\nCaractéristiques :\n\n✔ Conception innovante : Allie design et efficacité.\n\n✔ Utilisation simple : Prise en main rapide et intuitive.\n\n✔ Fiable : Fabriqué avec des matériaux de qualité.\n\n✔ Compact : Facile à transporter ou à ranger.\n\n✔ Performant : Pensé pour offrir une excellente expérience utilisateur.\n\nLe Airpods Riversong Utopia H5 – TWS ENC est un choix sûr pour ceux qui recherchent fonctionnalité et fiabilité au quotidien.\n\nFiche technique\n\nPrincipales caractéristiques\n\n• Nom du produit : Airpods Riversong Utopia H5 – TWS ENC\n\n• Conçu pour : Usage quotidien, professionnel ou personnel\n\n• Connectivité / Type : Voir spécifications du fabricant\n\nDescriptif technique\n\n• Poids (kg) : Variable selon modèle\n\n• Couleur : Selon la déclinaison",
-     "short_description": "Découvrez le Airpods Riversong Utopia H5 – TWS ENC, un produit pratique et moderne conçu pour répondre à vos besoins quotidiens."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-02-T172601-184.png"
+    "https://doshift.ma/wp-content/uploads/2025/08/Hossam-2025-08-10T160658.964.png"
    ]
   }
  ]

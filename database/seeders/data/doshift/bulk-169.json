@@ -1,144 +1,7 @@
 {
  "products": [
   {
-   "sku": "doshift-103020",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bracelet de Montre Connectée Perforé – Rose Multicolore",
-     "description": "Apportez une touche originale et colorée à votre montre connectée avec ce bracelet souple au design perforé. Son fond rose clair est décoré de petites projections multicolores pour un style moderne et dynamique.\n\nLes nombreuses perforations favorisent la circulation de l’air autour du poignet, tandis que les anneaux métalliques renforcent son look sportif. Grâce à ses différents trous de réglage, le bracelet s’adapte facilement au poignet pour un port confortable au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nBracelet de remplacement pour montre connectée\n\nCouleur principale\nRose clair\n\nMotif\nProjections multicolores\n\nDesign\nPerforé avec anneaux métalliques\n\nMatière\nMatière souple\n\nRéglage\nPlusieurs trous de réglage\n\nFermeture\nBouton métallique\n\nStyle\nSportif et décontracté\n\nContenu du pack\n1 bracelet en deux parties\n\nMontre incluse\nNon\n\nCompatibilité\nÀ vérifier selon le modèle et la taille de la montre\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Apportez une touche originale et colorée à votre montre connectée avec ce bracelet souple au design perforé. Son fond rose clair est décoré de petites projections multicolores pour un style moderne et dynamique."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T134037.103.png"
-   ]
-  },
-  {
-   "sku": "doshift-103010",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bracelet sport respirant pour montre connectée – Bleu marine & orange",
-     "description": "Apportez une touche sportive à votre montre connectée avec ce bracelet en silicone souple. Ses multiples perforations favorisent la circulation de l’air pendant le sport et les activités quotidiennes. Sa combinaison bleu marine et orange offre un style dynamique et moderne.\n\nFacile à ajuster, il assure un maintien confortable autour du poignet. Idéal pour remplacer un bracelet usé ou personnaliser votre montre selon votre style.\n\nCaractéristique\nDétail\n\nType de produit\nBracelet de remplacement pour montre connectée\n\nMatière\nSilicone souple\n\nCouleur\nBleu marine avec détails orange\n\nDesign\nSportif et bicolore\n\nAération\nMultiples perforations respirantes\n\nAjustement\nPlusieurs positions de réglage\n\nFermeture\nSystème à bouton métallique\n\nUtilisation\nSport, travail et usage quotidien\n\nEntretien\nNettoyage facile avec un chiffon humide\n\nCompatibilité\nÀ vérifier selon le modèle et les connecteurs de la montre\n\nContenu du pack\n1 bracelet en deux parties\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Apportez une touche sportive à votre montre connectée avec ce bracelet en silicone souple. Ses multiples perforations favorisent la circulation de l’air pendant le sport et les activités quotidiennes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T132200.636.png"
-   ]
-  },
-  {
-   "sku": "doshift-102849",
-   "price": 509,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Caméra d’Action 4K Wi‑Fi avec Boîtier de Protection",
-     "description": "Capturez vos aventures et vos activités sportives avec cette caméra d’action compacte 4K. Son format léger permet de l’installer facilement sur différents supports adaptés au vélo, au casque ou à d’autres équipements.\n\nÉquipée d’une connexion Wi‑Fi, elle facilite le partage et la gestion des prises de vue depuis un appareil compatible. Son boîtier transparent protège la caméra pendant vos déplacements et vos activités en extérieur.\n\nCaractéristique\nDétail\n\nType de produit\nCaméra d’action\n\nRésolution annoncée\n4K\n\nConnectivité\nWi‑Fi\n\nCouleur\nNoir\n\nBoîtier\nBoîtier transparent de protection\n\nUtilisations\nSport, vélo, voyages et activités extérieures\n\nFormat\nCompact et portable\n\nContenu\nCaméra avec boîtier de protection\n\nRéférence Doshift\nAA33BB099",
-     "short_description": "Capturez vos aventures et vos activités sportives avec cette caméra d’action compacte 4K. Son format léger permet de l’installer facilement sur différents supports adaptés au vélo, au casque ou à d’autres équipements."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T195854.094.png"
-   ]
-  },
-  {
-   "sku": "doshift-102855",
-   "price": 779,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Caméra portable 4K OZCT Q8 avec écran et rotation 180°",
-     "description": "Immortalisez facilement vos voyages, sorties sportives et moments du quotidien avec la caméra portable OZCT Q8. Son design compact permet de la tenir confortablement à la main et de l’emporter partout.\n\nÉquipée d’un écran intégré, elle facilite le cadrage et le visionnage pendant l’enregistrement. Sa tête orientable à 180° permet d’adapter rapidement l’angle de prise de vue selon la situation : vlog, selfie, paysage ou scène en mouvement.\n\nSa finition rouge moderne et son format pratique en font une solution idéale pour créer du contenu à la maison comme en déplacement.\n\nCaractéristique\nDétail\n\nMarque\nOZCT\n\nModèle\nQ8\n\nType\nCaméra portable\n\nRésolution annoncée\n4K Ultra HD\n\nÉcran\nÉcran couleur intégré\n\nRotation de la tête\nJusqu’à 180°\n\nCommandes\nBoutons de contrôle intégrés\n\nCouleur\nRouge\n\nFormat\nCompact et portable\n\nUtilisations\nVlogs, voyages, sorties, vidéos familiales et contenu quotidien\n\nRéférence Doshift\nAA60BB099",
-     "short_description": "Immortalisez facilement vos voyages, sorties sportives et moments du quotidien avec la caméra portable OZCT Q8. Son design compact permet de la tenir confortablement à la main et de l’emporter partout."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T200445.293.png"
-   ]
-  },
-  {
-   "sku": "doshift-102826",
-   "price": 749,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Caméra Sport WiFi avec Objectif Rotatif et Écran Couleur",
-     "description": "Immortalisez facilement vos sorties, voyages et activités quotidiennes avec cette caméra sport WiFi compacte. Son format pratique permet de la transporter facilement et de filmer vos meilleurs moments où que vous soyez.\n\nSon objectif rotatif facilite l’ajustement de l’angle de prise de vue, tandis que son écran couleur permet de visualiser le cadrage et de consulter les séquences enregistrées. Les boutons de commande situés à l’avant offrent une utilisation simple et rapide.\n\nGrâce à sa connectivité WiFi, cette caméra constitue une solution pratique pour capturer vos aventures, vos balades, vos voyages et vos moments en famille.\n\nCaractéristique\nDétail\n\nType de produit\nCaméra sport\n\nConnectivité\nWiFi\n\nÉcran\nÉcran couleur intégré\n\nObjectif\nModule rotatif\n\nCommandes\n3 boutons frontaux\n\nCouleur\nNoir\n\nFormat\nCompact et portable\n\nUtilisations\nVoyages, randonnées, sorties et moments quotidiens\n\nContenu du pack\n1 caméra sport\n\nRéférence Doshift\nAA57BB099",
-     "short_description": "Immortalisez facilement vos sorties, voyages et activités quotidiennes avec cette caméra sport WiFi compacte. Son format pratique permet de la transporter facilement et de filmer vos meilleurs moments où que vous soyez."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T181456.853.png"
-   ]
-  },
-  {
-   "sku": "doshift-102818",
-   "price": 829,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Caméra d’action portable 4K UHD Wi‑Fi",
-     "description": "Capturez vos activités et vos meilleurs moments avec cette caméra d’action compacte et légère. Son format discret permet de la fixer facilement sur un vêtement, un sac à dos, un vélo ou différents supports selon l’activité.\n\nElle permet d’enregistrer des vidéos en 4K UHD et dispose d’une connexion Wi‑Fi pour faciliter la consultation et la gestion des enregistrements depuis un smartphone compatible. Son écran intégré permet également de visualiser rapidement la prise de vue.\n\nGrâce aux différents accessoires de fixation fournis, elle convient à de nombreuses utilisations : vélo, randonnée, moto, voyage, sport ou enregistrement quotidien. L’unité caméra bénéficie d’un indice IP65 pour une meilleure résistance à la poussière et aux projections d’eau.\n\nCaractéristique\nDétail\n\nType de produit\nCaméra d’action portable\n\nRésolution annoncée\n4K UHD\n\nConnectivité\nWi‑Fi\n\nÉcran intégré\nOui\n\nIndice de protection\nIP65 pour l’unité caméra\n\nFormat\nCompact et léger\n\nCouleur\nNoir\n\nFixation\nClip arrière intégré\n\nUtilisations\nSport, voyage, randonnée et activités quotidiennes\n\nRéférence Doshift\nAA65BB099",
-     "short_description": "Capturez vos activités et vos meilleurs moments avec cette caméra d’action compacte et légère."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T175101.506.png"
-   ]
-  },
-  {
-   "sku": "doshift-102804",
-   "price": 309,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Montre Connectée TECNO Watch 3 Active – Écran HD 2,02″",
-     "description": "Restez connecté au quotidien avec la TECNO Watch 3 Active, une montre intelligente au design moderne et sportif. Son large écran HD de 2,02 pouces offre un affichage clair pour consulter facilement l’heure, les appels et les informations disponibles sur la montre.\n\nGrâce à la fonction Appels Bluetooth améliorés, vous pouvez gérer vos communications directement depuis votre poignet lorsqu’elle est connectée à un smartphone compatible. Sa certification IP68 lui assure une résistance à l’eau et à la poussière adaptée à une utilisation quotidienne.\n\nSon bracelet noir confortable et son boîtier élégant s’accordent facilement avec une tenue sportive ou professionnelle. Avec une autonomie annoncée pouvant atteindre 12 jours, elle vous accompagne durablement entre deux recharges.\n\nCaractéristique\nDétail\n\nProduit\nMontre connectée\n\nMarque\nTECNO\n\nModèle\nWatch 3 Active\n\nÉcran\nHD 2,02 pouces\n\nFonction d’appel\nAppels Bluetooth améliorés\n\nRésistance\nEau et poussière\n\nIndice de protection\nIP68\n\nAutonomie annoncée\nJusqu’à 12 jours selon l’utilisation\n\nBracelet\nSouple et ajustable\n\nCouleur\nNoir avec boîtier gris foncé\n\nUtilisation\nQuotidien, travail et activités sportives\n\nContenu\n1 montre TECNO Watch 3 Active\n\nRéférence Doshift\nAA19BB099",
-     "short_description": "Restez connecté au quotidien avec la TECNO Watch 3 Active, une montre intelligente au design moderne et sportif."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T172158.619.png"
-   ]
-  },
-  {
-   "sku": "doshift-102684",
+   "sku": "doshift-118698",
    "price": 69,
    "stock": 10,
    "status": 0,
@@ -148,37 +11,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Bague en Acier Inoxydable Argentée & Noire",
-     "description": "Apportez une touche moderne et raffinée à votre style avec cette bague en acier inoxydable au design sobre et élégant. Sa finition argentée brillante, rehaussée d’une ligne noire centrale, crée un contraste chic qui s’adapte facilement à différentes tenues.\n\nIdéale pour un usage quotidien comme pour les sorties et occasions, cette bague est disponible en tailles 17, 18, 19 et 20.\n\nCaractéristique\nDétail\n\nType\nBague\n\nMatière\nAcier inoxydable\n\nCouleur\nArgenté et noir\n\nFinition\nBrillante\n\nDesign\nLigne noire centrale\n\nTailles disponibles\n17, 18, 19, 20\n\nStyle\nModerne et élégant\n\nUtilisation\nQuotidien, sorties, occasions\n\nRéférence Doshift\nAA1BB399",
-     "short_description": "Apportez une touche moderne et raffinée à votre style avec cette bague en acier inoxydable au design sobre et élégant."
+     "name": "Râpe à Pieds Anti-Callosités en Acier Inoxydable",
+     "description": "Retrouvez des pieds doux, lisses et nets en quelques instants grâce à cette râpe à pieds manuelle professionnelle. Conçue pour éliminer sans effort les callosités tenaces, les durillons et les talons fendillés, elle intègre une large surface râpeuse en acier inoxydable haute densité dotée de micro-perforations affûtées.\n\nCaractéristique\nSpécification Détaillée\n\nType\nRâpe pédicure manuelle anti-callosités\n\nMatériaux\nAcier inoxydable chirurgical et plastique ABS résistant\n\nSurface\nGrille micro-lames perforée haute précision\n\nErgonomie\nManche galbé avec empreinte d’appui pour le pouce\n\nEntretien\nRinçage intégral sous l’eau et désinfection facile\n\nSKU\n9900010929654",
+     "short_description": "Râpe pédicure 24 cm en inox chirurgical et manche ergonomique blanc pour éliminer callosités et corne en douceur."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T140130.133.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-13-01.png"
    ]
   },
   {
-   "sku": "doshift-100988",
-   "price": 229,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Blender HP-158 Noir – Compact, Élégant & Pratique",
-     "description": "Préparez facilement vos jus, smoothies et boissons fruitées avec le Blender HP-158. Cette version noire combine un design moderne avec un récipient transparent permettant de suivre facilement la préparation.\n\nSon format compact convient parfaitement à une utilisation quotidienne dans la cuisine. Le récipient est équipé d’une poignée pratique, d’un couvercle noir et de lames métalliques à l’intérieur. La base dispose également d’un affichage numérique frontal avec deux boutons de commande.\n\nAvec une hauteur d’environ 23,5 cm et une largeur d’environ 9,5 cm, il prend peu de place sur le plan de travail et se range facilement après utilisation\n\nCaractéristique\nDétail\n\nProduit\nBlender / Juicing Cup\n\nModèle\nHP-158\n\nCouleur\nNoir et transparent\n\nUtilisation\nJus, smoothies et boissons fruitées\n\nHauteur\nEnviron 23,5 cm\n\nLargeur\nEnviron 9,5 cm\n\nRécipient\nTransparent\n\nPoignée\nOui\n\nCouvercle\nNoir, amovible\n\nLames\nMétalliques\n\nAffichage\nÉcran numérique frontal\n\nCommandes\n2 boutons\n\nFormat\nCompact\n\nRéférence Doshift\nAA14BB099",
-     "short_description": "Préparez facilement vos jus, smoothies et boissons fruitées avec le Blender HP-158. Cette version noire combine un design moderne avec un récipient transparent permettant de suivre facilement la préparation."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-10T143045.840.png"
-   ]
-  },
-  {
-   "sku": "doshift-100357",
-   "price": 449,
+   "sku": "doshift-118646",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -186,13 +30,165 @@
    ],
    "locales": {
     "fr": {
-     "name": "Power Bank KONFULON A24Q 50000 mAh – Charge Rapide 22.5W + Câble Lightning OFFERT",
-     "description": "Gardez vos appareils chargés plus longtemps avec la Power Bank KONFULON A24Q 50000 mAh. Sa grande capacité en fait une solution pratique pour les déplacements, les voyages, le travail ou une utilisation quotidienne lorsque vous êtes loin d’une prise électrique.\n\nGrâce à sa puissance de sortie allant jusqu’à 22.5W, elle permet une recharge rapide des appareils compatibles. Elle dispose de 3 sorties pour alimenter plusieurs appareils et de 2 entrées pour recharger facilement la batterie externe.\n\nSon écran digital permet de consulter rapidement le niveau de batterie restant. Son format robuste avec côtés rainurés offre également une bonne prise en main.\n\nCaractéristique\nDétail\n\nMarque\nKONFULON\n\nModèle\nA24Q\n\nType\nBatterie externe / Power Bank\n\nCapacité annoncée\n50000 mAh\n\nCharge rapide\nJusqu’à 22.5W\n\nEntrées\n2\n\nSorties\n3\n\nPort USB-C\nEntrée / sortie jusqu’à 20W\n\nSorties USB\nJusqu’à 22.5W\n\nEntrée Micro USB\nJusqu’à 18W\n\nAffichage\nÉcran digital du niveau de batterie\n\nCouleur\nNoir\n\nCâble offert\nRECCI Lightning\n\nLongueur du câble\n100 cm\n\nIntensité du câble\nJusqu’à 2.4A\n\nFonction du câble\nCharge + transmission de données\n\nParticularité du câble\nCâble tressé avec indicateur lumineux\n\nContenu\n1 Power Bank KONFULON + 1 câble Lightning RECCI offert\n\nRéférence Doshift\nAA33BB599",
-     "short_description": "Gardez vos appareils chargés plus longtemps avec la Power Bank KONFULON A24Q 50000 mAh."
+     "name": "Support de Bureau Télescopique pour Téléphone & Tablette LBT L-321",
+     "description": "Idéal pour le télétravail, les visioconférences Zoom, le visionnage de vidéos en streaming ou la cuisine mains libres, le support de bureau LBT L-321 maintient fermement vos smartphones et tablettes à la hauteur exacte de votre regard. Doté d’une tige télescopique en métal réglable en hauteur et d’une rotule inclinable à 360°, il permet de positionner votre écran au millimètre près en mode portrait ou paysage afin de soulager durablement les tensions du cou et des cervicales.\n\nCaractéristique\nSpécification Détaillée\n\nType\nSupport de bureau universel lesté pour smartphones et tablettes (Desk Tablet Stand)\n\nRéglage\nMât télescopique réglable en hauteur (Free Lift) et rotule d’inclinaison orientable à 360°\n\nCompatibilité\nTous smartphones et tablettes tactiles de 4,7 à 12,9 pouces (iPad, iPhone, Galaxy Tab)\n\nMatériaux\nColonne en alliage d’aluminium renforcé, coque ABS finition noire et coussinets silicone\n\nBase\nSocle circulaire lourdement lesté anti-basculement (Anti-Dumping) avec patin antidérapant\n\nSKU\n9900010929623",
+     "short_description": "Support de bureau lesté en métal noir pour smartphone et tablette avec mât télescopique et rotule orientable à 360°."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-07T180020.334.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/1d4855cc-a02a-465b-a29b-e68dd01f7211.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-118638",
+   "price": 429,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Multiprise Connectée Wi-Fi 2500W LDNIO SCW3451 / SEW3452 (3 Prises + 4 USB 30W PD)",
+     "description": "Caractéristique\nSpécification Détaillée\n\nType\nMultiprise intelligente connectée Wi-Fi avec charge rapide USB (Wi-Fi Smart Power Strip)\n\nPuissance\nPuissance totale secteur de 2500 W (10A / 250V~) et charge rapide USB jusqu’à 30 W Max\n\nConnectivité\nModule Wi-Fi 2,4 GHz intégré, contrôle à distance via application smartphone et assistants vocaux\n\nPrises\n3 prises secteur indépendantes contrôlables individuellement à distance avec sécurité enfant\n\nPorts USB\n4 ports : 1 USB-C (PD 30W) + 1 USB-A (QC3.0 18W) + 2 USB-A (Auto-ID 5V/2.4A) pilotables en bloc\n\nSKU\n9900010929616",
+     "short_description": "Multiprise connectée Wi-Fi 2500W blanche avec 3 prises pilotables séparément, 4 ports USB (PD 30W) et câble 2 m."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/5ba5bb4a-2ad2-457f-84c1-b1e6b60ec2b3.webp"
+   ]
+  },
+  {
+   "sku": "doshift-118616",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Frontale Tactique LED & COB Rechargeable USB avec Étui Rigide",
+     "description": "Conçue pour les interventions nocturnes, le bivouac, la pêche, les chantiers et la randonnée en conditions extrêmes, cette lampe frontale tactique combine deux technologies d’éclairage complémentaires sur un même châssis tout-terrain. Son groupe optique central à 4 LED ultra-puissantes perce l’obscurité jusqu’à plus de 100 mètres avec un faisceau concentré précis\n\nCaractéristique\nSpécification Détaillée\n\nType\nLampe frontale tactique rechargeable double faisceau avec boîte rigide (Rechargeable Headlamp)\n\nOptique\nSystème hybride : cluster central de 4 LED spot longue portée + 2 panneaux latéraux COB grand angle 180°\n\nModes\nÉclairage multi-modes réglable : Spot focalisé, Flood COB diffus, Combo pleine puissance et Flash stroboscopique\n\nChâssis\nBoîtier en polymère ABS antichoc couleur sable du désert / kaki militaire avec tête inclinable à 60°\n\nAlimentation\nBatterie lithium rechargeable intégrée via port USB protégé et bandeau élastique ajustable inclus\n\nSKU\n9900010929609",
+     "short_description": "Lampe frontale tactique couleur sable avec 4 LED spot, 2 panneaux COB latéraux, batterie USB et boîte rigide de rangement."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/5c697524-0573-485b-aa70-f7c856c314d7.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-117748",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Ventilateur Plafonnier LED 45W à Culot E27 Oásis Market (avec Télécommande)",
+     "description": "Révolutionnez le confort thermique et l’éclairage de votre intérieur sans aucun travaux grâce à la lampe ventilateur de plafond Oásis Market 45W. Conçue pour se visser directement dans n’importe quelle douille E27 standard à la manière d’une simple ampoule, elle combine un plafonnier LED puissant et un ventilateur motorisé ultra-silencieux.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nPlafonnier 2-en-1 combiné ventilateur silencieux et éclairage LED à visser (Socket Fan Light E27)\n\nCulot & Installation\nCulot à vis universel standard E27 (se visse directement dans toute douille classique sans perçage ni câblage)\n\nÉclairage & Puissance\nÉclairage LED 45 W haute efficacité (85% d’économie d’énergie) avec variateur d’intensité (dimmable)\n\nTempérature de couleur\nLumière CCT 3 teintes réglables : Blanc Chaud (3000K), Blanc Neutre (4000K) et Blanc Froid (6500K)\n\nVentilation & Moteur\nMoteur en cuivre ultra-silencieux à flux d’air puissant (Silent Motor) réglable sur 3 vitesses\n\nSKU\n9900010929524",
+     "short_description": "Lampe ventilateur de plafond LED 45W à visser sur culot E27 standard avec télécommande, 3 teintes de lumière et 3 vitesses d’air."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/58743bda-9c43-4bc3-b4dd-7473e1b4cef7.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-117584",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dessous de Plat et Dessous de Verre Arbre Pliable en Bois Massif (Set Arbre Décoratif)",
+     "description": "Caractéristique\nSpécification Détaillée\n\nType de produit\nEnsemble de dessous de plat et sous-verres isolants pliables en forme d’arbre (Wooden Tree Trivet Set)\n\nMécanisme de déploiement\nLamelles articulées en éventail : repliées en forme de sapin sur le support, déployables à plat sous l’effet du poids\n\nComposition du set\n1 mât-support vertical à socle rond + ensemble de 4 dessous de plat / sous-verres floraux amovibles\n\nRésistance thermique\nBois dense thermo-isolant protégeant plans de travail et tables en marbre contre les brûlures et traces de chaleur\n\nMatériau & Ébénisterie\nBois massif naturel tourné et huilé (teinte noyer chaud satiné), arêtes polies et chanfreinées\n\nSKU\n9900010929487",
+     "short_description": "Ensemble de 4 dessous de plat pliables en bois massif avec support vertical sculpté en forme d’arbre décoratif gain de place."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/f795b34e-de53-4775-aa9f-1da2219711c3.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-117569",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de Service à Fromage 3 Pièces en Bambou avec Couteau & Fourchette Inox",
+     "description": "Conçu pour sublimer la dégustation des fromages, charcuteries et tapas lors de vos réceptions, ce service 3 pièces allie la chaleur authentique du bambou naturel à l’efficacité de l’acier inoxydable. Sa planche ergonomique à manche permet de découper et de présenter vos sélections gourmandes avec élégance, directement de la cuisine à la table basse.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nService à fromage et charcuterie 3 pièces avec planche palette et couverts assortis (3-Piece Cheese Board Set)\n\nComposition du set\n3 éléments : Planche à découper en bambou avec manche + Couteau pelle à fromage + Fourchette 2 dents\n\nMatériau de la planche\nBois de bambou naturel compressé de qualité alimentaire, imputrescible et doux pour le tranchant des lames\n\nCouverts de service\nLames en acier inoxydable massif inoxydable poli avec manches cylindriques ergonomiques en bambou massif\n\nPraticité & Rangement\nManche profilé avec orifice de suspension et lacet en cuir marron pour accroche murale\n\nSKU\n9900010929470",
+     "short_description": "Service à fromage 3 pièces en bambou naturel avec planche palette à suspendre, couteau pelle et fourchette à 2 dents en inox."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/b204d601-7f2a-4a4b-a7a2-3607c3799394.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-117550",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Réchaud à Gaz Portable 1 Feu avec Mallette Happy Home BDZ-155-A (2500W)",
+     "description": "Indispensable pour la cuisine en plein air, le camping, les sorties en mer, les pique-niques ou comme solution de secours fiable en cas de coupure de courant à la maison, le réchaud à gaz portable Happy Home BDZ-155-A offre une cuisson puissante et instantanée où que vous soyez. Doté d’un brûleur haute puissance de 2500 W et d’un allumage piézo-électrique qui évite l’usage d’allumettes ou de briquet, il permet de faire bouillir de l’eau, saisir des grillades ou mijoter un plat en quelques minutes.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nRéchaud à gaz butane portable 1 feu avec mallette rigide (Portable Gas Stove)\n\nPuissance & Brûleur\nBrûleur vortex haute performance de 2,2 à 2,5 kW (~8000 BTU) à flamme rotative réglable\n\nSystème d’allumage\nAllumage automatique piézo-électrique instantané intégré à la molette (sans allumette)\n\nSécurité d’alimentation\nLevier de verrouillage mécanique de cartouche et soupape de coupure automatique en cas de surpression\n\nAlimentation & Autonomie\nCompatible cartouches de gaz butane standard 220g / 227g type MSF-1a (consommation : ~155 g/h)\n\nSKU\n9900010929449",
+     "short_description": "Réchaud à gaz portable 2500 W avec allumage piézo automatique, sécurité anti-surpression et mallette rigide de transport."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/9d0f5acd-e72e-4775-9e4e-a0f68c484a3e.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-117211",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte de Rangement Chaussures Pliable Sous Lit — Double Ouverture Zippée Transparente",
+     "description": "Optimisez l’espace de votre chambre et protégez vos souliers préférés de la poussière grâce à cette boîte de rangement sous lit grand format. Pensée pour un accès instantané au quotidien, elle dispose d’une conception ingénieuse à double fermeture éclair : un grand couvercle transparent supérieur pour ordonner vos paires par saison\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nBac / Organiseur de rangement pliable pour chaussures sous lit et dressing\n\nSystème d’accès double\nDouble ouverture zippée : grand couvercle supérieur complet + volet d’accès frontal rapide\n\nVisibilité & Aération\nFenêtres panoramiques en PVC transparent et parois en maille textile blanche respirante anti-poussière\n\nCapacité & Compartimentage\nLoge 4 à 6 paires d’adultes (baskets, escarpins, mocassins) avec cloisons séparatrices souples\n\nManiabilité & Structure\nPoignées de tirage latérales renforcées en sangle blanche, armature pliable à plat à vide\n\nSKU\n9900010929272",
+     "short_description": "Bac de rangement chaussures extra-plat sous lit avec parois aérées en filet, double ouverture transparente zippée et poignées de tirage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/32e0822e-7ebd-404f-bdf0-240487f0cd7f.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-117181",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support Téléphone Voiture Universel à Ventouse UNME PYP-H304",
+     "description": "Spécialement développé pour sécuriser votre smartphone lors de vos trajets quotidiens et vos livraisons, le support voiture UNME PYP-H304 allie une ventouse haute pression à verrouillage manuel et un berceau de maintien universel à prise ferme. Son bras inclinable et sa rotule pivotante à 360° permettent d’orienter l’écran dans l’angle de vision idéal, en mode vertical pour les appels mains libres ou horizontal pour la navigation GPS.\n\nCaractéristique\nDétail\n\nType de produit\nSupport universel pour smartphone sur pare-brise et tableau de bord (Universal Car Holder)\n\nFixation & Adhérence\nBase à ventouse puissante en silicone haute adhérence avec loquet de verrouillage mécanique sous vide\n\nBerceau & Maintien\nStructure à serrage latéral avec deux pinces courbées, dosseret bicolore gris/noir et pied de calage inférieur\n\nOrientation & Ajustement\nBras pivotant articulé à serrage manuel par molette et rotule orientable à 360° (modes portrait et paysage)\n\nMatériaux & Ergonomie\nChâssis en ABS et polycarbonate renforcé noir mat, cadre gris ardoise, patins amortisseurs de contact\n\nSKU\n9900010929258",
+     "short_description": "Support smartphone pour pare-brise et tableau de bord avec ventouse à loquet, tête rotative 360° et passage de câble intégré."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/29b51693-7569-477e-ad8e-8036d3926f03.jpg"
    ]
   }
  ]

@@ -1,159 +1,64 @@
 {
  "products": [
   {
-   "sku": "doshift-75522",
-   "price": 239,
+   "sku": "doshift-87312",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Ensemble d’Accessoires de Salle de Bain – Design Blanc et Bambou",
-     "description": "Apportez une touche élégante et naturelle à votre salle de bain avec cet ensemble complet d’accessoires au design moderne. Sa finition blanche texturée associée aux détails effet bambou crée un style épuré, chaleureux et facile à intégrer dans tous les décors.\n\nPratique et harmonieux, cet ensemble comprend plusieurs pièces essentielles pour organiser votre espace : poubelle, distributeur de savon, porte-brosse WC, gobelet, boîte de rangement, porte-savon et plateau. Idéal pour garder une salle de bain propre, bien rangée et esthétique au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble d’accessoires de salle de bain\n\nNombre de pièces\n7 pièces\n\nCouleur\nBlanc avec détails effet bambou\n\nStyle\nModerne, naturel et minimaliste\n\nUtilisation\nSalle de bain, toilette, lavabo\n\nPièces incluses\nPoubelle, distributeur de savon, porte-brosse WC, gobelet, boîte, porte-savon, plateau\n\nDimensions poubelle\n24,4 × 25,4 cm\n\nDimensions porte-brosse WC\n8,9 × 34,8 cm\n\nDimensions distributeur savon\n8,9 × 12,7 cm\n\nDimensions gobelet\n6,9 × 10,7 cm\n\nDimensions boîte ronde\n8,9 × 9,4 cm\n\nDimensions porte-savon\n10,9 cm\n\nDimensions plateau\n17,8 × 9,4 cm\n\nRéférence Doshift\nAA14BB099",
-     "short_description": "Apportez une touche élégante et naturelle à votre salle de bain avec cet ensemble complet d’accessoires au design moderne."
+     "name": "Souris V1 Sans Fil – Design Compact & Confortable",
+     "description": "La Souris V1 Sans Fil est idéale pour une utilisation quotidienne à la maison, au bureau ou en déplacement. Avec son design compact et léger, elle offre une prise en main confortable et une navigation fluide sans câble encombrant.\n\nDisponible en plusieurs coloris selon disponibilité, elle s’adapte facilement à votre espace de travail et à votre style.\n\nCaractéristique\nDétail\n\nProduit\nSouris sans fil\n\nModèle\nV1\n\nUtilisation\nBureau, maison, étude, ordinateur portable\n\nDesign\nCompact, léger et moderne\n\nConnexion\nSans fil\n\nPrise en main\nConfortable pour une utilisation prolongée\n\nColoris\nSelon disponibilité\n\nCompatibilité\nOrdinateur portable et PC\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "La Souris V1 Sans Fil est idéale pour une utilisation quotidienne à la maison, au bureau ou en déplacement."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-01T135555.541.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T183831.356.png"
    ]
   },
   {
-   "sku": "doshift-75430",
-   "price": 329,
+   "sku": "doshift-87306",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Chaise Pliante de Camping avec Auvent Intégré – Confort Portable pour Extérieur",
-     "description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré. Idéale pour la plage, le camping, les pique-niques, les événements sportifs ou le jardin, elle offre une assise spacieuse et ergonomique tout en vous protégeant du soleil grâce à son pare-soleil pratique.\n\nCaractéristique\nDétails\n\nType de produit\nChaise pliante de camping avec auvent\n\nMatière structure\nTubes en acier renforcé\n\nMatière assise\nTissu PVC haute qualité\n\nCouleur\ngris foncé\n\nCharge maximale\n120 kg\n\nDimensions chaise ouverte\n53,5 x 53,5 x 130 cm\n\nHauteur dossier\n56 cm\n\nLargeur assise\n51 cm\n\nDimensions sac de transport\n95,5 x 20,5 x 18 cm\n\nÉquipements\nAuvent amovible, 2 porte-gobelets\n\nUtilisation\nCamping, plage, jardin, pique-nique, événements sportifs\n\nRéférence Doshift\nAA22BB099",
-     "short_description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré."
+     "name": "Souris Sans Fil XLEADER – Design Ergonomique & Connexion Stable",
+     "description": "Profitez d’une utilisation fluide et confortable avec la souris sans fil XLEADER, idéale pour le bureau, les études, la maison ou les déplacements. Son design ergonomique assure une bonne prise en main, tandis que sa connexion sans fil permet un espace de travail plus propre et plus pratique.\n\nDisponible en plusieurs coloris modernes, elle combine simplicité, confort et performance pour une utilisation quotidienne.\n\nCaractéristique\nDétail\n\nProduit\nSouris sans fil\n\nMarque\nXLEADER\n\nConnexion\nSans fil\n\nUtilisation\nBureau, maison, études, déplacement\n\nDesign\nErgonomique\n\nInstallation\nPlug & Play\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Profitez d’une utilisation fluide et confortable avec la souris sans fil XLEADER, idéale pour le bureau, les études, la maison ou les déplacements."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T185502.243.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T183129.061.png"
    ]
   },
   {
-   "sku": "doshift-75423",
-   "price": 249,
+   "sku": "doshift-87260",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Chaise Pliante de Camping avec Auvent Intégré – Confort Portable pour Extérieur",
-     "description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré. Idéale pour la plage, le camping, les pique-niques, les événements sportifs ou le jardin, elle offre une assise spacieuse et ergonomique tout en vous protégeant du soleil grâce à son pare-soleil pratique.\n\nCaractéristique\nDétails\n\nType de produit\nChaise pliante de camping avec auvent\n\nMatière structure\nTubes en acier renforcé\n\nMatière assise\nTissu PVC haute qualité\n\nCouleur\nvert\n\nCharge maximale\n120 kg\n\nDimensions chaise ouverte\n53,5 x 53,5 x 130 cm\n\nHauteur dossier\n56 cm\n\nLargeur assise\n51 cm\n\nDimensions sac de transport\n95,5 x 20,5 x 18 cm\n\nÉquipements\nAuvent amovible, 2 porte-gobelets\n\nUtilisation\nCamping, plage, jardin, pique-nique, événements sportifs\n\nRéférence Doshift\nAA22BB099",
-     "short_description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré."
+     "name": "Clavier & Souris Sans Fil MK470 – 2.4G + Bluetooth",
+     "description": "Le MK470 est un ensemble clavier et souris sans fil au design moderne, fin et compact. Idéal pour le bureau, les études ou le télétravail, il offre une utilisation confortable au quotidien avec une connexion stable grâce au 2.4G + Bluetooth.\n\nSon clavier aux touches arrondies permet une frappe agréable, tandis que la souris assortie assure une navigation fluide et pratique. Un choix simple, élégant et efficace pour garder un espace de travail propre et organisé.\n\nCaractéristique\nDétail\n\nProduit\nClavier & souris sans fil\n\nModèle\nMK470\n\nConnexion\n2.4G + Bluetooth\n\nType\nEnsemble clavier + souris\n\nDesign\nFin, compact et moderne\n\nCouleur\nBlanc\n\nUtilisation\nBureau, maison, études, télétravail\n\nAvantages\nConnexion stable, confort d’utilisation, gain d’espace\n\nInclus\n1 clavier + 1 souris\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Le MK470 est un ensemble clavier et souris sans fil au design moderne, fin et compact."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T183941.829.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T172348.436.png"
    ]
   },
   {
-   "sku": "doshift-75408",
-   "price": 359,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chaise Pliante de Camping avec Auvent Intégré – Confort Portable pour Extérieur",
-     "description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré. Idéale pour la plage, le camping, les pique-niques, les événements sportifs ou le jardin, elle offre une assise spacieuse et ergonomique tout en vous protégeant du soleil grâce à son pare-soleil pratique.\n\nCaractéristique\nDétails\n\nType de produit\nChaise pliante de camping avec auvent\n\nMatière structure\nTubes en acier renforcé\n\nMatière assise\nTissu PVC haute qualité\n\nCouleur\nbleu\n\nCharge maximale\n120 kg\n\nDimensions chaise ouverte\n53,5 x 53,5 x 130 cm\n\nHauteur dossier\n56 cm\n\nLargeur assise\n51 cm\n\nDimensions sac de transport\n95,5 x 20,5 x 18 cm\n\nÉquipements\nAuvent amovible, 2 porte-gobelets\n\nUtilisation\nCamping, plage, jardin, pique-nique, événements sportifs\n\nRéférence Doshift\nAA22BB099",
-     "short_description": "Profitez d’un confort optimal en plein air avec cette chaise pliante de camping équipée d’un auvent amovible intégré."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T163020.032.png"
-   ]
-  },
-  {
-   "sku": "doshift-75380",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Moule à Glace Silicone 3 Compartiments avec Couvercle – 7,5 × 7,5 × 9 cm",
-     "description": "Préparez facilement des glaces maison, des desserts glacés ou des snacks frais avec ce moule à glace pratique à 3 compartiments. Son format compact permet de réaliser plusieurs portions individuelles, parfaites pour les enfants comme pour les adultes.\n\nConçu avec un couvercle transparent, il aide à protéger les préparations au congélateur tout en conservant leur fraîcheur. Les poignées intégrées facilitent la prise en main et permettent de démouler les glaces plus simplement. Idéal pour créer des recettes personnalisées à base de jus, fruits, yaourt, lait ou purée glacée.\n\nCaractéristique\nDétail\n\nType de produit\nMoule à glace / moule à esquimaux\n\nNombre de compartiments\n3\n\nUtilisation\nGlaces maison, desserts glacés, snacks frais\n\nMatière\nSilicone alimentaire et plastique\n\nCouvercle\nTransparent, protecteur\n\nPoignées\nIntégrées pour chaque compartiment\n\nDimensions\n7,5 × 7,5 × 9 cm\n\nFormat\nCompact et empilable\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Préparez facilement des glaces maison, des desserts glacés ou des snacks frais avec ce moule à glace pratique à 3 compartiments."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-30T143246.049.png"
-   ]
-  },
-  {
-   "sku": "doshift-75338",
-   "price": 439,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Caméra de sécurité Wi-Fi Tapo C222 2K QHD",
-     "description": "Profitez d’une surveillance intelligente avec la Tapo C222, offrant une qualité d’image 2K QHD ultra nette et un design compact qui s’intègre parfaitement à votre intérieur. Détectez les mouvements importants grâce à l’intelligence artificielle et recevez des alertes en temps réel directement sur votre smartphone. Sécurisez votre maison avec une solution fiable, moderne et performante, de jour comme de nuit.\n\nCaractéristique\nDétail\n\nRésolution\n2K QHD ultra claire\n\nRotation\nPan/Tilt (couverture 360°)\n\nDétection\nIA (personne, animal, véhicule)\n\nVision nocturne\nImage claire dans l’obscurité\n\nSuivi\nTracking intelligent\n\nAudio\nBidirectionnel\n\nConnexion\nWi-Fi + application mobile\n\nRéférence-doshift\nAA2BB8099",
-     "short_description": "Profitez d’une surveillance intelligente avec la Tapo C222, offrant une qualité d’image 2K QHD ultra nette et un design compact qui s’intègre parfaitement à votre intérieur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/331af6ff-e3f3-4a79-9611-73ccf9f966e4.png"
-   ]
-  },
-  {
-   "sku": "doshift-75300",
-   "price": 399,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Montre Intelligente DUNSPIN Ultra 2 – Noir",
-     "description": "Profitez d’une montre connectée conçue pour allier performance, élégance et liberté au quotidien.\n\nRestez actif, connecté et en contrôle grâce à une technologie fluide et intuitive.\n\nCaractéristique\nDétail\n\nÉcran\nAMOLED 2.3″\n\nAutonomie\nLongue durée\n\nPerformance\nFluide et rapide\n\nAppels\nBluetooth intégré\n\nCompatibilité\nAndroid & iOS\n\nSuivi sportif\nModes multiples\n\nRésistance\nIP67\n\nSuivi santé\nDonnées en temps réel\n\nRéférence-doshift\nAA2BB2099",
-     "short_description": "Profitez d’une montre connectée conçue pour allier performance, élégance et liberté au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-76.png"
-   ]
-  },
-  {
-   "sku": "doshift-75292",
-   "price": 479,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Caméra de Surveillance WiFi Double Objectif – Vision Panoramique & Détection de Mouvement",
-     "description": "Gardez un œil sur votre maison, votre entrée ou votre espace professionnel grâce à cette caméra de surveillance à double objectif. Sa conception permet d’obtenir deux angles de vision pour une couverture plus large et un suivi plus pratique de votre environnement.\n\nElle intègre la détection de mouvement, la vision nocturne ainsi que des alertes en temps réel pour faciliter la surveillance de jour comme de nuit. La fonction audio bidirectionnel permet également d’écouter et de communiquer à distance.\n\nSon système panoramique motorisé offre une couverture étendue de la zone surveillée, tandis que la prise en charge du stockage permet de conserver les enregistrements selon la configuration utilisée.\n\nCaractéristique\nDétail\n\nType\nCaméra de surveillance\n\nSystème optique\nDouble objectif\n\nAffichage\nSurveillance double vue\n\nDétection\nDétection de mouvement\n\nAudio\nCommunication audio bidirectionnelle\n\nVision nocturne\nOui\n\nAlertes\nNotifications en temps réel\n\nSurveillance panoramique\nOui\n\nRotation horizontale\nJusqu’à env. 355°\n\nInclinaison\nJusqu’à env. 90°\n\nStockage\nCompatible carte TF / stockage Cloud selon configuration\n\nCouleur\nBlanc\n\nUtilisation\nMaison, entrée, cour, garage, commerce\n\nRéférence Doshift\nAA30BB099",
-     "short_description": "Gardez un œil sur votre maison, votre entrée ou votre espace professionnel grâce à cette caméra de surveillance à double objectif."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-09-12T133954.115.png"
-   ]
-  },
-  {
-   "sku": "doshift-75283",
+   "sku": "doshift-87240",
    "price": 369,
    "stock": 10,
    "status": 0,
@@ -162,18 +67,38 @@
    ],
    "locales": {
     "fr": {
-     "name": "Batterie Externe FAST DIGITAL 30000mAh – Charge Ultra Rapide 22.5W",
-     "description": "Profitez d’une puissance fiable et d’une recharge ultra rapide avec la batterie externe FAST DIGITAL. Conçue pour accompagner votre quotidien, elle offre une capacité massive de 30000mAh, idéale pour recharger plusieurs appareils plusieurs fois sans effort.\n\nCaractéristique\nDétail\n\nCapacité\n30 000 mAh\n\nCharge rapide\n22.5W / PD 20W / QC 3.0\n\nCâbles intégrés\nOui\n\nÉcran\nLED digital\n\nMulti-appareils\nOui\n\nCompatibilité\nUniverselle\n\nRéférence-doshift\nAA1BB7099",
-     "short_description": "Profitez d’une puissance fiable et d’une recharge ultra rapide avec la batterie externe FAST DIGITAL."
+     "name": "Batterie Externe KONFULON 30000mAh – Charge Rapide 22.5W",
+     "description": "La batterie externe KONFULON 30000mAh est conçue pour garder vos appareils chargés partout. Compacte, puissante et pratique, elle offre une grande autonomie avec une charge rapide jusqu’à 22.5W et PD 20W pour smartphones, tablettes, écouteurs et autres appareils USB.\n\nSon écran LED intelligent permet de suivre facilement le niveau de batterie restant, tandis que ses 3 sorties permettent de charger plusieurs appareils en même temps. Son format mini avec dragonne intégrée la rend idéale pour les voyages, le travail, les déplacements et l’usage quotidien.\n\nCaractéristique\nDétail\n\nMarque\nKONFULON\n\nModèle\nA550\n\nCapacité\n30000mAh\n\nPuissance maximale\n22.5W\n\nCharge rapide\nPD 20W\n\nSorties\nUSB-A, Type-C, Type-C\n\nÉcran\nLED intelligent\n\nUtilisation\nSmartphones, tablettes, écouteurs, consoles portables\n\nProtections\nSurcharge, surtension, surchauffe, court-circuit\n\nFormat\nCompact avec dragonne de transport\n\nCouleur\nNoir\n\nRéférence Doshift\nAA22BB599",
+     "short_description": "La batterie externe KONFULON 30000mAh est conçue pour garder vos appareils chargés partout."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/4-79.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T163537.902.png"
    ]
   },
   {
-   "sku": "doshift-75227",
-   "price": 169,
+   "sku": "doshift-87180",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clavier Mécanique Gaming HP GK100F – Rétroéclairage RGB",
+     "description": "Améliorez votre expérience de jeu avec le clavier mécanique HP GK100F, conçu pour offrir une frappe rapide, précise et confortable. Son design robuste, ses touches rétroéclairées RGB et sa connexion filaire en font un excellent choix pour le gaming, le travail et l’utilisation quotidienne.\n\nGrâce à ses switches bleus, chaque pression est nette et réactive, idéale pour les joueurs qui recherchent performance et sensation mécanique.\n\nCaractéristique\nDétail\n\nType de produit\nClavier mécanique gaming\n\nMarque\nHP\n\nModèle\nGK100F\n\nRétroéclairage\nRGB multicolore\n\nType de switches\nSwitches bleus\n\nConnexion\nFilaire\n\nTechnologie\nAnti-ghosting\n\nUtilisation\nGaming, bureautique, setup PC\n\nDesign\nRobuste avec touches rétroéclairées\n\nRéférence\nAA19BB099",
+     "short_description": "Améliorez votre expérience de jeu avec le clavier mécanique HP GK100F, conçu pour offrir une frappe rapide, précise et confortable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T144053.966.png"
+   ]
+  },
+  {
+   "sku": "doshift-87174",
+   "price": 419,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -181,13 +106,89 @@
    ],
    "locales": {
     "fr": {
-     "name": "Distributeur de dentifrice mural avec porte-brosses et 4 gobelets",
-     "description": "Organisez votre salle de bain avec ce distributeur mural pratique, conçu pour garder les brosses à dents, dentifrices, gobelets et petits accessoires bien rangés au même endroit. Son système de distribution permet de doser facilement le dentifrice, tandis que les emplacements magnétiques maintiennent les gobelets à l’envers pour un séchage plus rapide et une meilleure hygiène.\n\nIdéal pour une utilisation familiale, il dispose de plusieurs espaces de rangement, de deux sorties de dentifrice adaptées aux adultes et aux enfants, ainsi que d’un support inférieur pour suspendre les brosses à dents. Son design compact permet de gagner de l’espace tout en apportant une touche moderne à la salle de bain.\n\nCaractéristique\nDétail\n\nType de produit\nDistributeur de dentifrice mural avec rangement\n\nUtilisation\nSalle de bain, rangement brosses à dents, dentifrice et accessoires\n\nNombre de gobelets\n4 gobelets inclus\n\nFonction principale\nDistribution automatique du dentifrice\n\nSorties dentifrice\n2 sorties : enfant et adulte\n\nInstallation\nFixation murale\n\nRangement supérieur\nEmplacements pour dentifrice, peigne, rasoir et petits accessoires\n\nSupport brosses à dents\nOui, avec rangement inférieur\n\nSystème gobelets\nFixation magnétique inversée\n\nAvantage\nGain d’espace, meilleure organisation et séchage rapide des gobelets\n\nDesign\nCompact, moderne et pratique\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Organisez votre salle de bain avec ce distributeur mural pratique, conçu pour garder les brosses à dents, dentifrices, gobelets et petits accessoires bien rangés au même endroit."
+     "name": "Desserte en Bambou à Roulettes – Organisateur Multifonction",
+     "description": "Apportez une touche naturelle et élégante à votre intérieur avec cette desserte en bambou pratique et polyvalente. Son design minimaliste s’adapte parfaitement à la chambre, la salle de bain, la cuisine ou le salon.\n\nGrâce à ses plateaux avec rebords, elle permet de ranger facilement serviettes, produits de soin, livres, accessoires, tasses ou objets décoratifs. Ses roulettes facilitent le déplacement d’une pièce à l’autre, tout en gardant vos essentiels toujours à portée de main.\n\nCaractéristique\nDétail\n\nType de produit\nDesserte / chariot de rangement\n\nMatière\nBambou\n\nUtilisation\nRangement multifonction\n\nNombre de plateaux\n2 plateaux avec rebords\n\nMobilité\nÉquipée de roulettes\n\nPièces adaptées\nChambre, salle de bain, cuisine, salon\n\nStyle\nNaturel, minimaliste et élégant\n\nRéférence Doshift\nAA25BB099",
+     "short_description": "Apportez une touche naturelle et élégante à votre intérieur avec cette desserte en bambou pratique et polyvalente. Son design minimaliste s’adapte parfaitement à la chambre, la salle de bain, la cuisine ou le salon."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T211036.901.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-23T142519.905.png"
+   ]
+  },
+  {
+   "sku": "doshift-86787",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panier à Linge en Bambou – 2 Compartiments Lights / Darks",
+     "description": "Organisez votre linge facilement avec ce panier à linge en bambou naturel, pratique et élégant. Grâce à ses 2 compartiments séparés, il permet de trier rapidement le linge clair et foncé avant le lavage. Son design naturel s’intègre parfaitement dans une salle de bain, une buanderie ou une chambre.\n\nSon intérieur doublé en tissu protège vos vêtements, tandis que son couvercle garde le linge à l’abri de la poussière et des regards. Les poignées en corde facilitent le déplacement au quotidien.\n\nCaractéristique\nDétail\n\nType\nPanier à linge\n\nMatière extérieure\nBambou naturel\n\nNombre de compartiments\n2 compartiments\n\nSéparation\nLights / Darks\n\nIntérieur\nDoublure en tissu\n\nCouvercle\nOui, rabattable\n\nPoignées\nCorde blanche\n\nUtilisation\nChambre, salle de bain, buanderie\n\nAvantage\nTri facile du linge clair et foncé\n\nDesign\nNaturel, élégant et pratique\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Organisez votre linge facilement avec ce panier à linge en bambou naturel, pratique et élégant. Grâce à ses 2 compartiments séparés, il permet de trier rapidement le linge clair et foncé avant le lavage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-20T194944.675.png"
+   ]
+  },
+  {
+   "sku": "doshift-86758",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Distributeur en Bambou pour Film Alimentaire & Papier Aluminium – 2 Compartiments",
+     "description": "Organisez votre cuisine avec ce distributeur en bambou pratique et élégant. Il permet de ranger et découper facilement le film alimentaire, le papier aluminium ou les sachets de conservation, tout en gardant votre plan de travail propre et bien ordonné.\n\nSon design en bambou apporte une touche naturelle et moderne à la cuisine, tandis que ses 2 compartiments permettent d’utiliser deux rouleaux différents au quotidien. Idéal pour emballer les aliments, couvrir les plats ou préparer les repas plus rapidement.\n\nCaractéristique\nDétail\n\nType\nDistributeur de film alimentaire et papier aluminium\n\nMatière\nBambou\n\nNombre de compartiments\n2 compartiments\n\nUtilisation\nCuisine, rangement, découpe et organisation\n\nCompatible avec\nFilm alimentaire, papier aluminium, sachets de conservation\n\nDesign\nNaturel, élégant et pratique\n\nAvantage\nDécoupe propre et rangement facile\n\nInstallation\nÀ poser ou à ranger dans un tiroir\n\nRéférence Doshift\nAA5BB599",
+     "short_description": "Organisez votre cuisine avec ce distributeur en bambou pratique et élégant. Il permet de ranger et découper facilement le film alimentaire, le papier aluminium ou les sachets de conservation, tout en gardant votre plan…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-20T182109.636.png"
+   ]
+  },
+  {
+   "sku": "doshift-86738",
+   "price": 289,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Téléphone portable Nokia double SIM – compact et pratique",
+     "description": "Un téléphone classique, simple et fiable, idéal pour les appels, les SMS et une utilisation quotidienne sans complication. Son format compact se glisse facilement dans la poche, tandis que son clavier physique offre une prise en main confortable. Grâce à son écran couleur, sa radio FM et ses jeux intégrés, il convient parfaitement comme téléphone principal basique ou téléphone secondaire.\n\nCaractéristique\nDétail\n\nType de produit\nTéléphone portable classique\n\nMarque\nNokia\n\nCouleur\nNoir\n\nSIM\nDouble SIM\n\nÉcran\nÉcran couleur TFT\n\nRadio\nFM stéréo\n\nConnectique\nJack 3,5 mm\n\nFonctions\nAppels, SMS, jeux intégrés, horloge\n\nRéseau\nDual-band EGSM 900 / 1800 MHz\n\nClavier\nPhysique avec caractères arabes\n\nUtilisation\nQuotidienne, professionnelle, téléphone secondaire\n\nRéférence Doshift\nAA16BB099",
+     "short_description": "Un téléphone classique, simple et fiable, idéal pour les appels, les SMS et une utilisation quotidienne sans complication."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-07-01T150828.598.png"
+   ]
+  },
+  {
+   "sku": "doshift-86722",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "Nokia 150 4G – Téléphone Classique",
+     "description": "Le Nokia 150 4G est un téléphone simple, pratique et fiable, idéal pour les appels, les messages et une utilisation quotidienne sans complication. Son design compact avec touches physiques offre une prise en main confortable, tandis que sa connectivité 4G assure une meilleure qualité de communication. Mais il ne reconnaît pas les cartes SIM Orange\n\nIl dispose d’un écran 2,4” QVGA, d’une radio FM sans fil, d’un lecteur MP3, du Bluetooth, ainsi que d’une caméra VGA avec flash pour capturer l’essentiel. Sa batterie longue durée permet jusqu’à 19,4 heures de conversation et jusqu’à 23,4 jours en veille.\n\nCaractéristique\nDétail\n\nModèle\nNokia 150 4G\n\nCouleur\nRouge\n\nÉcran\n2,4” QVGA\n\nRadio\nFM sans fil\n\nCaméra\nVGA avec flash\n\nMultimédia\nLecteur MP3, lecteur vidéo\n\nConnectivité\nBluetooth, Micro USB/reconnaît pas les cartes SIM Orange\n\nStockage externe\nCarte MicroSD jusqu’à 32 Go\n\nAutonomie\nJusqu’à 19,4 h en conversation / 23,4 jours en veille\n\nFonctions supplémentaires\nTorche, jeu Snake Xenzia\n\nGarantie\n1 an\n\nRéférence Doshift\nAA13BB599",
+     "short_description": "Le Nokia 150 4G est un téléphone simple, pratique et fiable, idéal pour les appels, les messages et une utilisation quotidienne sans complication."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-07-02T210004.422.png"
    ]
   }
  ]

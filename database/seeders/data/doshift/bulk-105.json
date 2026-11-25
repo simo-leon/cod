@@ -1,198 +1,201 @@
 {
  "products": [
   {
-   "sku": "doshift-50243",
-   "price": 169,
+   "sku": "doshift-53013",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Appareil manuel pour couper et préparer les légumes et les fruits efficacement",
-     "description": "Râpe à 3 Lames Polyvalente pour Coupe, Râpage et Tranchage",
-     "short_description": "Râpe à 3 Lames Polyvalente pour Coupe, Râpage et Tranchage"
+     "name": "Robinet Mural Chromé – Pratique, Résistant et Économique en Eau",
+     "description": "Ce robinet mural chromé est conçu pour offrir une utilisation simple, durable et efficace au quotidien. Idéal pour les cuisines, buanderies, salles de bain ou espaces utilitaires, il garantit un débit d’eau fluide et maîtrisé. Sa finition chromée apporte une touche moderne tout en assurant une excellente résistance à la corrosion et à l’usure.\n\nGrâce à sa conception robuste et son mécanisme fiable, ce robinet permet une ouverture et une fermeture précises, réduisant les fuites et optimisant la consommation d’eau. Facile à installer et à entretenir, il constitue une solution pratique et économique pour tous les usages domestiques.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRobinet / Extension de robinet\n\nUtilisation\nCuisine, salle de bain, buanderie\n\nMatériau\nAlliage métallique chromé\n\nFinition\nChrome brillant\n\nType de jet\nJet continu / jet anti-éclaboussures\n\nÉconomie d’eau\nOui\n\nRotation\n360°\n\nCommande\nManuelle\n\nInstallation\nFacile, sans outils\n\nCompatibilité\nRobinet standard universel\n\nRésistance à la corrosion\nOui\n\nEntretien\nFacile à nettoyer\n\nCouleur\nArgent (chrome)\n\nContenu du pack\n1 robinet / 1 extension (selon modèle)\n\nAvantage principal\nConfort, économie d’eau et polyvalence\n\nRéférence-doshift\nAA3BB899",
+     "short_description": "Ce robinet mural chromé est conçu pour offrir une utilisation simple, durable et efficace au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810238-18_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-31-dec.-2025-19_53_17-1.png"
    ]
   },
   {
-   "sku": "doshift-50237",
-   "price": 159,
+   "sku": "doshift-53006",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Brosse Twist Secret Pour Réaliser Coupes Appareil Multifonctionnel",
-     "description": "La Brosse Twist Secret est un appareil de coiffure multifonctionnel conçu pour réaliser facilement des tresses, torsades et coiffures originales en quelques minutes. Pratique et simple d’utilisation, elle permet de créer des styles modernes sans effort, même sans expérience. Compacte et légère, elle est idéale pour un usage à domicile ou en déplacement, pour les femmes, les jeunes filles et même les enfants. Un accessoire indispensable pour varier les looks au quotidien.",
-     "short_description": "La Brosse Twist Secret est un appareil de coiffure multifonctionnel conçu pour réaliser facilement des tresses, torsades et coiffures originales en quelques minutes."
+     "name": "Extension de Robinet Multi-Jet 360° – Économie d’Eau & Nettoyage Facile",
+     "description": "Optimisez votre cuisine avec cette extension de robinet multi-jet à la fois pratique, moderne et économique. Conçue pour améliorer le confort au quotidien, elle offre plusieurs modes de jet réglables pour s’adapter à tous vos besoins : lavage de vaisselle, rinçage des légumes ou remplissage des récipients.Grâce à son bras flexible à 360°, elle permet d’atteindre facilement tous les coins de l’évier tout en réduisant les éclaboussures. Facile à installer sans outils, cette extension est la solution idéale pour une cuisine plus propre, plus fonctionnelle et plus économe en eau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nExtension de robinet multi-jet\n\nModes de jet\n2 modes réglables (jet doux / jet puissant)\n\nRotation\nFlexibilité 360°\n\nÉconomie d’eau\nRéduction de la consommation d’eau\n\nInstallation\nUniverselle, sans outils\n\nAnti-éclaboussures\nOui\n\nFiltration\nFiltre intégré, facile à nettoyer\n\nMatériau\nPlastique renforcé + acier inoxydable\n\nUtilisation\nCuisine, vaisselle, fruits et légumes\n\nEntretien\nDémontage et nettoyage faciles\n\nCouleur\nBlanc & chrome\n\nRéférence-doshift\nAA2BB499",
+     "short_description": "Optimisez votre cuisine avec cette extension de robinet multi-jet à la fois pratique, moderne et économique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810222-12_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_pcr3tmpcr3tmpcr3-1.png"
    ]
   },
   {
-   "sku": "doshift-50216",
-   "price": 179,
+   "sku": "doshift-53039",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3,
+    7,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Lampe UV LED Intelligente 48W SUN – Sèche-Ongles Professionnel",
-     "description": "La lampe UV LED SUN 48W est l’outil idéal pour une manucure rapide, efficace et professionnelle à domicile ou en salon. Grâce à sa technologie à double source lumineuse et ses 12 puces LED, elle assure un séchage uniforme et rapide de tous types de gels (gel UV, gel extension, vernis semi-permanent). Son démarrage automatique, son écran LCD clair et ses modes de minuterie intelligents offrent un confort d’utilisation optimal pour des résultats impeccables à chaque séance.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nLampe UV LED sèche-ongles\n\nPuissance\n48W\n\nTechnologie\nDouble source lumineuse UV + LED\n\nNombre de LED\n12 puces LED\n\nFonction minuterie\n30 s / 60 s / 99 s\n\nDémarrage automatique\nOui (détection de la main)\n\nÉcran\nÉcran LCD affichant le temps de séchage\n\nCompatibilité\nGel UV, vernis semi-permanent, gel extension, builder gel\n\nMatériau\nABS robuste et résistant\n\nDimensions\n17,6 × 16,5 × 6,5 cm\n\nAlimentation\nUSB\n\nÉtat\n100 % neuf\n\nContenu du pack\n1 lampe sèche-ongles, 1 câble USB, 1 manuel\n\nRéférence-Doshift\nAA8BB599",
-     "short_description": "La lampe UV LED SUN 48W est l’outil idéal pour une manucure rapide, efficace et professionnelle à domicile ou en salon."
+     "name": "Clé à Filtre à Huile Universelle – Efficacité & Simplicité pour Vos Vidanges",
+     "description": "La clé à filtre à huile universelle est l’outil indispensable pour réaliser vos vidanges rapidement et sans effort. Conçue pour s’adapter à une large gamme de filtres à huile, elle garantit une prise ferme et sécurisée grâce à son système à sangle crantée antidérapante. Robuste et durable, elle facilite le démontage comme l’installation des filtres, même dans les espaces restreints du compartiment moteur. Idéale aussi bien pour les particuliers que pour les professionnels de l’automobile.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nClé à filtre à huile\n\nCompatibilité\nUniverselle – convient à plusieurs tailles de filtres\n\nSystème de serrage\nSangle crantée antidérapante\n\nUtilisation\nDémontage et installation de filtres à huile\n\nMatériaux\nAcier chromé et zinc renforcé\n\nPrise en main\nErgonomique et sécurisée\n\nAvantage principal\nEffort réduit, efficacité maximale\n\nApplication\nEntretien automobile, garage, usage domestique\n\nDurabilité\nHaute résistance à l’usure et à la corrosion\n\nInstallation\nRapide et facile, sans outils supplémentaires\n\nRéférence-doshift\nAA1BB699",
+     "short_description": "La clé à filtre à huile universelle est l’outil indispensable pour réaliser vos vidanges rapidement et sans effort."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_w3tc8aw3tc8aw3tc-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-31-dec.-2025-20_37_20-1.png"
    ]
   },
   {
-   "sku": "doshift-50235",
-   "price": 159,
+   "sku": "doshift-52994",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Appareil Presse Gâteaux avec 20 Disques Interchangeables",
-     "description": "Réalisez facilement de délicieux biscuits et petits gâteaux maison avec l’appareil presse-gâteaux SPROM. Pratique et simple à utiliser, il permet de former rapidement des biscuits réguliers grâce à ses 20 disques interchangeables offrant plusieurs motifs variés : étoile, rond, croix, peigne et bien d’autres.\n\nConçu en métal robuste, cet accessoire de pâtisserie assure une bonne résistance et une prise en main confortable. Son système de pression manuel facilite le dosage de la pâte pour obtenir des formes nettes et homogènes. Idéal pour préparer des sablés, biscuits décoratifs et pâtisseries maison pour les fêtes, goûters ou occasions spéciales.\n\nCaractéristique\nDétail\n\nType de produit\nAppareil presse-gâteaux\n\nMarque\nGeneric\n\nUtilisation\nPréparation de biscuits et gâteaux\n\nNombre de disques\n20 disques interchangeables\n\nMotifs\nÉtoile, rond, croix, peigne et autres formes\n\nMatière\nMétal\n\nFonctionnement\nManuel à pression\n\nAvantages\nFacile à utiliser, rapide, pratique, formes variées\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Réalisez facilement de délicieux biscuits et petits gâteaux maison avec l’appareil presse-gâteaux SPROM."
+     "name": "Jeu de Tournevis Essentiels – 7 Pièces Professionnelles",
+     "description": "Ce jeu de 7 tournevis essentiels est conçu pour répondre à tous vos besoins de bricolage, de réparation et de maintenance. Que ce soit pour l’électronique, le montage de meubles, les équipements domestiques ou les petits travaux techniques, ces tournevis offrent une prise en main confortable, une excellente précision et une durabilité optimale.Grâce à leurs poignées ergonomiques antidérapantes et leurs embouts résistants, ils garantissent un travail efficace, sûr et sans effort, aussi bien pour les professionnels que pour les particuliers.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nJeu de tournevis\n\nNombre de pièces\n7 pièces\n\nTypes d’embouts\nPlat & Cruciforme (Phillips)\n\nMatériau de la tige\nAcier trempé haute résistance\n\nPoignée\nErgonomique, antidérapante\n\nCouleur\nRouge & Noir\n\nUtilisation\nBricolage, électronique, montage de meubles, réparations diverses\n\nPrise en main\nConfortable et précise\n\nPublic cible\nProfessionnels & particuliers\n\nDurabilité\nConçus pour un usage intensif\n\nRéférence-doshift\nAA4BB599",
+     "short_description": "Ce jeu de 7 tournevis essentiels est conçu pour répondre à tous vos besoins de bricolage, de réparation et de maintenance."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1765810217-10_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-04-01T194706.331.png"
    ]
   },
   {
-   "sku": "doshift-50097",
-   "price": 169,
+   "sku": "doshift-52736",
+   "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
-    5,
-    6
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Casque Gaming FURO FR-500 – LED RGB – Multi-Plateforme",
-     "description": "Plongez au cœur de l’action avec le FURO FR-500, un casque gaming haute performance pensé pour les gamers exigeants. Son design futuriste avec éclairage LED RGB, son arceau confortable et son micro HD permettent une immersion totale, que ce soit sur PC, console ou mobile.Que vous jouiez, streamiez, communiquiez sur Discord ou participiez à des tournois en ligne, le FR-500 offre une qualité audio précise, des basses puissantes et un confort durable même après plusieurs heures.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétails\n\nModèle\nFURO FR-500\n\nType\nCasque Gaming filaire\n\nAudio\nHi-Res / Stéréo\n\nMicrophone\nHD – Haute précision\n\nÉclairage\nLED Ambiant RGB\n\nCompatibilité\nPC, Laptop, PS4, PS5, Xbox, Switch, Smartphone\n\nConfort\nOreillettes Soft-Earpads + Double arceau\n\nUtilisation\nGaming / Streaming / Chat vocal\n\nConnexion\nJack 3.5mm (selon plateformes)\n\nDesign\nFuturiste noir + LED bleue\n\nUsage prolongé\nOptimisé pour longues sessions\n\nRéférence-doshift\nAA10BB099",
-     "short_description": "Plongez au cœur de l’action avec le FURO FR-500, un casque gaming haute performance pensé pour les gamers exigeants."
+     "name": "Clé à Sangle Universelle – Robustesse & Adaptabilité",
+     "description": "La clé à sangle universelle est l’outil indispensable pour serrer ou desserrer facilement des objets cylindriques sans les abîmer. Grâce à sa sangle flexible et résistante, elle s’adapte à de nombreux diamètres et offre une prise ferme et sécurisée. Son manche ergonomique garantit un confort optimal, même lors d’une utilisation prolongée, que ce soit pour le bricolage domestique ou les travaux professionnels.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nClé à sangle universelle\n\nMatériau de la sangle\nNylon renforcé haute résistance\n\nLargeur de la sangle\n5 mm (3/16″)\n\nLongueur de la sangle\nEnviron 500 mm\n\nDiamètre compatible\nJusqu’à 225 mm\n\nManche\nErgonomique, antidérapant\n\nAjustement\nUniversel et flexible\n\nUtilisation\nBricolage, plomberie, mécanique, entretien\n\nAvantage principal\nNe raye pas les surfaces\n\nCouleur\nJaune & Vert\n\nRéférence-doshift\nAA1BB699",
+     "short_description": "La clé à sangle universelle est l’outil indispensable pour serrer ou desserrer facilement des objets cylindriques sans les abîmer."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/acffd030-6243-4d5b-b9bf-2c8c06b7ca00.jpeg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_2amfzp2amfzp2amf-1.png"
    ]
   },
   {
-   "sku": "doshift-49577",
-   "price": 107,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tapis de Bain Ultra-Absorbant FOMANTIC – Séchage Rapide & Anti-Dérapant",
-     "description": "Apportez confort, sécurité et style à votre salle de bain avec le tapis FOMANTIC. Conçu pour absorber instantanément l’eau et sécher en quelques secondes, il garantit un sol toujours propre et sans risque de glissade. Parfait pour les enfants comme pour les adultes, son design moderne en dégradé rose apporte une touche élégante à tout espace. Idéal après la douche, le bain ou pour sécuriser la zone autour de la baignoire.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nAbsorption instantanée\nLe tapis absorbe l’eau en quelques secondes, gardant le sol toujours sec.\n\nAnti-dérapant\nBase en caoutchouc assurant une adhérence parfaite au sol.\n\nSéchage rapide\nConçu pour évaporer l’humidité très rapidement.\n\nConfortable\nSurface douce et agréable sous les pieds.\n\nHygiénique\nEmpêche la formation de moisissures et d’odeurs.\n\nFacile à nettoyer\nUn simple passage suffit pour le maintenir propre.\n\nDimensions\n60 cm × 40 cm\n\nIdéal pour\nSalle de bain, douche, baignoire, toilettes.\n\nDesign moderne\nStyle minimaliste avec couleur rose dégradé élégante.\n\nRéférence-doshift\nAA2BB899",
-     "short_description": "Apportez confort, sécurité et style à votre salle de bain avec le tapis FOMANTIC. Conçu pour absorber instantanément l’eau et sécher en quelques secondes, il garantit un sol toujours propre et sans risque de glissade."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_cg6udzcg6udzcg6u-1-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-49467",
+   "sku": "doshift-52723",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    7,
-    11
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Miroir de Courtoisie Auto avec Éclairage LED – Haute Définition & Installation Facile",
-     "description": "Transformez vos trajets en un moment de soin et de confort grâce à ce miroir de courtoisie automobile équipé d’un éclairage LED puissant. Conçu pour offrir une vision claire et précise, il se fixe facilement sur le pare-soleil grâce à ses sangles ajustables. Idéal pour les retouches maquillage, l’hygiène ou les vérifications rapides, il s’adapte à la majorité des véhicules. Sa lumière LED douce mais lumineuse garantit une utilisation optimale de jour comme de nuit, sans éblouissement. Compact, élégant et rechargeable, il devient un indispensable dans toute voiture.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nMiroir de courtoisie auto avec LED\n\nÉclairage\nLED haute luminosité, éclairage uniforme\n\nQualité du miroir\nMiroir HD – Haute définition\n\nInstallation\nFixation par sangles élastiques ajustables\n\nCompatibilité\nUniversel – s’adapte à la plupart des véhicules\n\nBouton tactile\nOui – On/Off simple et rapide\n\nRecharge\nCâble USB inclus (longueur 80 cm)\n\nDimensions\n23,5 cm x 12,5 cm x 1,1 cm\n\nUtilisation\nRetouche maquillage, rasage, coiffure, vérifications\n\nCouleur\nBlanc\n\nSécurité visuelle\nLumière douce non éblouissante\n\nPortabilité\nLéger et facile à manipuler\n\nPositionnement\nPare-soleil conducteur ou passager\n\nRéférence DoShift\nAA5BB599",
-     "short_description": "Transformez vos trajets en un moment de soin et de confort grâce à ce miroir de courtoisie automobile équipé d’un éclairage LED puissant."
+     "name": "MOD-800 – Chalumeau à Gaz Haute Performance",
+     "description": "Le MOD-800 est un chalumeau à gaz puissant et polyvalent, conçu pour répondre aussi bien aux besoins du bricolage, de la cuisine professionnelle que des travaux de précision. Grâce à sa flamme réglable et pulsante, il offre un contrôle optimal de la chaleur pour des résultats précis et sécurisés. Son design ergonomique et son allumage électronique garantissent une utilisation simple, rapide et fiable au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nModèle\nMOD-800\n\nType\nChalumeau à gaz\n\nFlamme\nRéglable & pulsante\n\nAllumage\nÉlectronique (sans briquet)\n\nTempérature maximale\nHaute température (idéale pour soudure et cuisine)\n\nUtilisations\nCuisine, bricolage, soudure légère, artisanat\n\nSécurité\nSystème de protection intégré\n\nPrise en main\nErgonomique et antidérapante\n\nAlimentation\nGaz butane (cartouche rechargeable)\n\nCouleur\nNoir / Argent\n\nMarque\nTORCH\n\nRéférence-doshift\nAA4BB799",
+     "short_description": "Le MOD-800 est un chalumeau à gaz puissant et polyvalent, conçu pour répondre aussi bien aux besoins du bricolage, de la cuisine professionnelle que des travaux de précision."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_iq98ofiq98ofiq98-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_23yvbs23yvbs23yv-1.png"
    ]
   },
   {
-   "sku": "doshift-49381",
-   "price": 69,
+   "sku": "doshift-52717",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pulvérisateur de Toilette Hygiénique – Innovation & Confort Quotidien",
+     "description": "Le pulvérisateur de toilette est une solution moderne et pratique pour améliorer l’hygiène au quotidien. Conçu pour offrir un nettoyage efficace, précis et respectueux de l’environnement, il permet une utilisation polyvalente aussi bien pour les toilettes que pour le lavabo, le nettoyage d’objets ou même l’arrosage léger des plantes. Son design ergonomique, ses matériaux durables et sa pression réglable garantissent un confort d’utilisation optimal tout en assurant une propreté irréprochable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType de produit\nPulvérisateur de toilette (douchette hygiénique)\n\nUtilisation\nNettoyage des toilettes, rinçage de lavabo, nettoyage d’objets, arrosage léger\n\nPression\nRéglable pour un contrôle précis du débit\n\nMatériaux\nPlastique ABS haute qualité + finitions métalliques\n\nInstallation\nFacile et rapide, compatible avec la majorité des flexibles standards\n\nDesign\nModerne, compact et ergonomique\n\nHygiène\nNettoyage ciblé et efficace sans contact\n\nÉconomie d’eau\nRéduction de la consommation d’eau\n\nEntretien\nFacile à nettoyer, résistant à l’humidité\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA1BB399",
+     "short_description": "Le pulvérisateur de toilette est une solution moderne et pratique pour améliorer l’hygiène au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-29-dec.-2025-21_11_12-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-52705",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Hygiène Moderne & Polyvalence au Quotidien",
+     "description": "Le pulvérisateur de toilette multifonction est une solution moderne et hygiénique conçue pour simplifier le nettoyage quotidien. Grâce à sa pression réglable et son design ergonomique, il offre un contrôle précis de l’eau pour une utilisation confortable et efficace. Polyvalent, il s’adapte aussi bien au nettoyage des toilettes qu’au rinçage du lavabo, au lavage de petits objets ou même à l’arrosage des plantes. Un indispensable pour une salle de bain propre, pratique et économique.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPulvérisateur de toilette / douchette WC\n\nMatériau\nABS haute qualité + tuyau métallique inox\n\nCouleur\nNoir mat\n\nPression\nRéglable (jet contrôlé et précis)\n\nType de jet\nJet continu puissant\n\nInstallation\nFacile et rapide (sans perçage)\n\nCompatibilité\nUniverselle (WC, lavabo, robinet standard)\n\nUtilisations\nToilettes, lavabo, nettoyage, plantes, petits objets\n\nConfort\nPoignée ergonomique antidérapante\n\nÉconomie d’eau\nRéduction de la consommation d’eau\n\nEntretien\nFacile à nettoyer\n\nDurabilité\nRésistant à l’humidité et à la corrosion\n\nRéférence-doshift\nAA1BB399",
+     "short_description": "Le pulvérisateur de toilette multifonction est une solution moderne et hygiénique conçue pour simplifier le nettoyage quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-29-dec.-2025-21_01_44-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-52698",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aérateur de Robinet Rotatif Économiseur d’Eau – Double Jet avec Filtre & Adaptateur Universel",
+     "description": "Optimisez votre quotidien en cuisine ou salle de bain grâce à cet aérateur de robinet polyvalent et performant. Conçu pour améliorer le confort d’utilisation tout en réduisant la consommation d’eau, il offre un double jet rotatif, idéal pour le lavage des aliments, le rinçage de la vaisselle ou le nettoyage ciblé du lavabo.Doté d’un filtre intégré et d’un réducteur de débit, cet accessoire innovant permet une économie d’eau de 20 à 30 %, sans perte de pression. Son design moderne en finition chromée s’adapte parfaitement à la majorité des robinets standards.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAérateur de robinet\n\nFonction principale\nÉconomie d’eau & amélioration du jet\n\nType de jet\nDouble jet rotatif (jet concentré & jet pluie)\n\nRotation\nOrientation réglable à 360°\n\nÉconomie d’eau\nJusqu’à 20–30 %\n\nFiltration\nFiltre intégré + réducteur de débit\n\nMatériau\nABS renforcé + finition chromée\n\nCompatibilité\nRobinets standards cuisine & salle de bain\n\nInstallation\nFacile, sans outils\n\nAdaptateur\nInclus\n\nUtilisation\nLavage légumes, vaisselle, nettoyage ciblé\n\nCouleur\nArgent / Noir\n\nEntretien\nDémontable et facile à nettoyer\n\nRéférence-doshift\nAA0BB899",
+     "short_description": "Optimisez votre quotidien en cuisine ou salle de bain grâce à cet aérateur de robinet polyvalent et performant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_p0ge7sp0ge7sp0ge-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-52691",
+   "price": 60,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    13
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Ballon de Football FC Barcelone – Bleu & Rouge – Taille Enfant",
-     "description": "Offrez à votre enfant le ballon parfait pour jouer en intérieur comme en extérieur ! Inspiré des couleurs iconiques du FC Barcelone, ce ballon bleu et rouge est idéal pour les petits fans du club. Léger, maniable et résistant, il permet de s’entraîner, jouer au parc, dans le jardin ou même à la maison. Sa surface lisse et durable garantit une excellente prise en main pour un contrôle facile. Un ballon fun, solide et adapté aux enfants pour des heures de jeu et de passion footballistique !\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de football pour enfant\n\nDesign\nFC Barcelona – Bleu & Rouge\n\nMatériau\nPVC léger et résistant\n\nUtilisation\nIntérieur & extérieur\n\nTaille\nTaille enfant (maniable, facile à contrôler)\n\nPoids\nLéger – adapté aux jeunes enfants\n\nSécurité\nSurface douce, sans danger pour l’intérieur\n\nPublic\nGarçons & filles fans du FC Barcelone\n\nAvantages\nTrès maniable, idéal pour apprentissage\n\nCouleur\nBleu & Rouge\n\nLogo officiel\nStyle FCB\n\nRéférence DoShift\nAA1BB599",
-     "short_description": "Offrez à votre enfant le ballon parfait pour jouer en intérieur comme en extérieur ! Inspiré des couleurs iconiques du FC Barcelone, ce ballon bleu et rouge est idéal pour les petits fans du club."
+     "name": "Brosse Métallique Multifonction – Nettoyage & Préparation des Surfaces",
+     "description": "La brosse métallique multifonction est un outil indispensable pour le nettoyage intensif, la rénovation et la préparation de différentes surfaces. Conçue avec des poils métalliques robustes et une poignée ergonomique antidérapante, elle permet d’éliminer efficacement la rouille, les résidus tenaces, la peinture écaillée et les saletés incrustées. Idéale pour un usage domestique, automobile ou professionnel, elle garantit un travail précis, rapide et durable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBrosse métallique manuelle\n\nMatériau des poils\nAcier métallique haute résistance\n\nPoignée\nPlastique ergonomique antidérapant\n\nUtilisation\nNettoyage, décapage, préparation de surfaces\n\nApplications\nRouille, grilles BBQ, métal, briques, jantes, surfaces dures\n\nRésistance\nForte résistance à l’usure et à la corrosion\n\nPrise en main\nConfortable, réduit la fatigue\n\nUsage\nDomestique & professionnel\n\nEntretien\nLavable à l’eau, séchage rapide\n\nRéférence-doshift\nAA0BB699",
+     "short_description": "La brosse métallique multifonction est un outil indispensable pour le nettoyage intensif, la rénovation et la préparation de différentes surfaces."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_jhs6qsjhs6qsjhs6-1-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-49366",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ballon en Plastique Real Madrid – Léger, Résistant & Amusant pour Enfants",
-     "description": "Ce ballon Jaune en plastique avec le logo du célèbre club Real Madrid est parfait pour offrir des moments de jeu et de sport aux enfants. Conçu en plastique léger et résistant, il est idéal pour une utilisation en intérieur comme en extérieur. Facile à manier, sécurisé et durable, ce ballon permet aux jeunes fans de s’amuser tout en affichant leur passion pour leur équipe préférée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de jeu pour enfants\n\nMatière\nPlastique résistant\n\nCouleur\nJaune\n\nMotif\nLogo Real Madrid\n\nUtilisation\nJeu intérieur & extérieur\n\nPublic\nEnfants\n\nPoids\nLéger\n\nSécurité\nSans danger pour les enfants\n\nEntretien\nFacile à nettoyer\n\nUsage\nJeu, sport, divertissement\n\nRéférence DoShift\nAA1BB599",
-     "short_description": "Ce ballon Jaune en plastique avec le logo du célèbre club Real Madrid est parfait pour offrir des moments de jeu et de sport aux enfants."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_tktjg5tktjg5tktj-2.png"
-   ]
-  },
-  {
-   "sku": "doshift-49374",
-   "price": 58,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ballon en Plastique FC Barcelona – Léger, Résistant & Fun pour Enfants",
-     "description": "Ce ballon en plastique décoré du logo du célèbre club FC Barcelona est parfait pour s’amuser à la maison, dans la chambre ou dans la cour. Léger, sécurisé et facile à manipuler, il est idéal pour les enfants. Sa matière en plastique résistant garantit une bonne durabilité face aux chocs et à une utilisation quotidienne. Un excellent choix pour le jeu, le sport et le divertissement des plus jeunes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de jeu pour enfants\n\nMatière\nPlastique résistant\n\nCouleur\nVert\n\nMotif\nLogo FC Barcelona\n\nUtilisation\nJeu intérieur & extérieur\n\nPublic\nEnfants\n\nPoids\nLéger\n\nSécurité\nSans danger pour les enfants\n\nEntretien\nFacile à nettoyer\n\nUsage\nJeu, sport, divertissement\n\nRéférence DoShift\nAA1BB599",
-     "short_description": "Ce ballon en plastique décoré du logo du célèbre club FC Barcelona est parfait pour s’amuser à la maison, dans la chambre ou dans la cour. Léger, sécurisé et facile à manipuler, il est idéal pour les enfants."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_x5n7d6x5n7d6x5n7-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-29-dec.-2025-20_06_49-1.png"
    ]
   }
  ]

@@ -1,45 +1,45 @@
 {
  "products": [
   {
-   "sku": "doshift-90816",
-   "price": 89,
+   "sku": "doshift-91640",
+   "price": 249,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "919 VIP Men Exotique – Coffret Parfum Homme 2 Pièces",
-     "description": "Affirmez votre style avec 919 VIP Men Exotique, un parfum masculin au caractère intense, pensé pour les hommes qui aiment une senteur élégante, moderne et marquante. Son format pratique en coffret 2 pièces permet d’en garder un à la maison et un autre dans le sac, la voiture ou au bureau.\n\nIdéal pour une utilisation quotidienne ou pour les occasions spéciales, ce parfum apporte une touche de fraîcheur, de confiance et de raffinement à chaque moment.\n\nCaractéristique\nDétail\n\nProduit\nParfum homme\n\nMarque\nExotique\n\nModèle\n919 VIP Men\n\nType\nEau de parfum\n\nContenu\nCoffret 2 pièces\n\nFormat\n2 x 30 ml\n\nUtilisation\nQuotidienne, travail, sorties, occasions\n\nGenre\nHomme\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Affirmez votre style avec 919 VIP Men Exotique, un parfum masculin au caractère intense, pensé pour les hommes qui aiment une senteur élégante, moderne et marquante."
+     "name": "Thermos Carafe Élégant pour Thé & Café – Design Doré avec Motif Floral",
+     "description": "Ajoutez une touche de prestige à vos moments thé ou café avec cette carafe thermos au design raffiné. Son corps beige brillant, ses finitions dorées et son motif floral noir lui donnent un style chic, idéal pour la maison, les invités, le salon marocain ou les pauses café au quotidien.\n\nConçue pour garder vos boissons chaudes ou froides plus longtemps, elle est pratique, décorative et facile à utiliser grâce à sa poignée confortable et son bec verseur précis.\n\nCaractéristique\nDétail\n\nType\nCarafe thermos\n\nUtilisation\nThé, café et boissons chaudes ou froides\n\nCouleur\nBeige avec détails dorés\n\nDesign\nMotif floral noir et doré\n\nPoignée\nDorée, pratique et confortable\n\nBec verseur\nPrécis pour un service propre\n\nStyle\nChic, moderne et traditionnel\n\nEntretien\nNettoyage à la main recommandé\n\nRéférence\nAA15BB099",
+     "short_description": "Ajoutez une touche de prestige à vos moments thé ou café avec cette carafe thermos au design raffiné."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-07T131315.971.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T175350.941.png"
    ]
   },
   {
-   "sku": "doshift-90630",
-   "price": 89,
+   "sku": "doshift-91665",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Parfum Fakhar Ebdaa AROMASQ – Eau de Parfum 100 ml",
-     "description": "Le parfum Fakhar Ebdaa de AROMASQ offre une touche raffinée et élégante pour compléter votre style au quotidien. Son flacon blanc au design premium avec finition dorée apporte une présence chic et luxueuse, idéale pour une utilisation personnelle ou comme cadeau.\n\nCaractéristique\nDétail\n\nMarque\nAROMASQ\n\nModèle\nFakhar Ebdaa\n\nType\nEau de Parfum\n\nContenance\n100 ml\n\nFlacon\nBlanc avec finition dorée\n\nUtilisation\nQuotidien, sorties, occasions spéciales\n\nRéférence\nAA3BB599",
-     "short_description": "Le parfum Fakhar Ebdaa de AROMASQ offre une touche raffinée et élégante pour compléter votre style au quotidien."
+     "name": "Glacière Atlas Freezy 10L – Rouge & Blanche",
+     "description": "Gardez vos boissons, fruits et repas au frais partout avec la Glacière Atlas Freezy 10L. Compacte, légère et pratique, elle est idéale pour les sorties à la plage, les pique-niques, les voyages, le camping ou les journées en famille. Son format 10L offre un bon espace de rangement tout en restant facile à transporter.\n\nGrâce à son couvercle robuste et sa conception isolante, elle aide à conserver la fraîcheur pendant une longue durée, jusqu’à 24 heures selon les conditions d’utilisation.\n\nCaractéristique\nDétail\n\nProduit\nGlacière portable\n\nMarque\nAtlas Plastics\n\nModèle\nFreezy\n\nCapacité\n10 L\n\nCouleur\nRouge et blanc\n\nUtilisation\nPlage, camping, voyage, pique-nique, sport\n\nConservation\nJusqu’à 24 heures\n\nFormat\nCompact et facile à transporter\n\nMatière\nPlastique résistant\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Gardez vos boissons, fruits et repas au frais partout avec la Glacière Atlas Freezy 10L."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-06T152250.999.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-09T184754.405.png"
    ]
   },
   {
-   "sku": "doshift-90616",
+   "sku": "doshift-91484",
    "price": 309,
    "stock": 10,
    "status": 0,
@@ -48,147 +48,151 @@
    ],
    "locales": {
     "fr": {
-     "name": "Ventilateur de Table 16 Pouces FT-16A",
-     "description": "Profitez d’un air frais et agréable avec ce ventilateur de table 16 pouces. Grâce à ses 3 vitesses réglables, son inclinaison ajustable et son débit d’air puissant, il s’adapte facilement à vos besoins à la maison, au bureau ou dans un magasin. Son design noir avec hélices orange apporte une touche moderne, tout en offrant une utilisation stable et confortable.\n\nCaractéristique\nDétail\n\nType\nVentilateur de table\n\nModèle\nFT-16A\n\nTaille\n16 pouces\n\nPuissance\n60W\n\nVitesses\n3 niveaux\n\nInclinaison\nRéglable\n\nUtilisation\nMaison, bureau, chambre, commerce\n\nAlimentation\n220–240V ~ 50/60Hz\n\nDesign\nBase noire stable avec hélices orange\n\nAvantages\nDébit d’air puissant, fonctionnement silencieux, structure durable\n\nCertification\nCE / RoHS\n\nRéférence Doshift\nAA17BB099",
-     "short_description": "Profitez d’un air frais et agréable avec ce ventilateur de table 16 pouces. Grâce à ses 3 vitesses réglables, son inclinaison ajustable et son débit d’air puissant, il s’adapte facilement à vos besoins à la maison, au…"
+     "name": "Ventilateur Mural 18″ avec Télécommande – Luxus Original FB-1841R",
+     "description": "Profitez d’une fraîcheur agréable tout en conservant votre espace au sol avec le ventilateur mural Luxus Original FB-1841R. Son grand diamètre de 18 pouces permet de mieux répartir l’air dans la pièce, tandis que son installation murale convient parfaitement aux espaces où chaque mètre carré compte.\n\nGrâce à sa télécommande incluse, contrôlez facilement le ventilateur à distance sans avoir à vous déplacer. Des boutons sont également intégrés directement sur l’appareil pour une utilisation pratique au quotidien.\n\nSon design noir rehaussé de pales rouges apporte une touche moderne à votre intérieur. Il convient aussi bien à une chambre, un salon, un bureau, un magasin ou une salle d’attente.\n\nCaractéristique\nDétail\n\nProduit\nVentilateur mural\n\nMarque\nLuxus Original\n\nModèle\nFB-1841R\n\nDiamètre\n18 pouces\n\nInstallation\nFixation murale\n\nCommande\nBoutons intégrés et télécommande\n\nNombre de pales\n5 pales\n\nCouleur\nNoir avec pales rouges\n\nEspaces recommandés\nChambre, salon, bureau, magasin, salle d’attente\n\nAccessoire inclus\nTélécommande\n\nRéférence Doshift\nAA19BB599",
+     "short_description": "Profitez d’une fraîcheur agréable tout en conservant votre espace au sol avec le ventilateur mural Luxus Original FB-1841R."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-06T150128.768.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-28T135855.406.png"
    ]
   },
   {
-   "sku": "doshift-90107",
-   "price": 279,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Présentoir Cage à Oiseau 2 Niveaux",
-     "description": "Ajoutez une touche élégante et raffinée à votre table avec ce présentoir décoratif en forme de cage à oiseau. Son design doré, ses deux plateaux pratiques et son bouton supérieur effet cristal en font un accessoire parfait pour présenter vos pâtisseries, chocolats, fruits secs, dattes ou petits objets décoratifs.\n\nIdéal pour les salons, fêtes, réceptions, tables de thé, mariages ou décoration intérieure.\n\nCaractéristique\nDétail\n\nProduit\nPrésentoir Cage à Oiseau\n\nNombre de niveaux\n2 niveaux\n\nCouleur\nDoré / Blanc\n\nDesign\nCage à oiseau avec finition élégante\n\nUtilisation\nPâtisseries, chocolats, dattes, fruits secs, décoration\n\nStyle\nChic, moderne, décoratif\n\nPlateaux\nRonds avec motif plume doré\n\nRéférence Doshift\nAA17BB599",
-     "short_description": "Ajoutez une touche élégante et raffinée à votre table avec ce présentoir décoratif en forme de cage à oiseau."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-04T122755.596.png"
-   ]
-  },
-  {
-   "sku": "doshift-90099",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Service à eau 5 pièces – Motif pomme",
-     "description": "Apportez une touche fraîche et élégante à votre table avec ce service à eau 5 pièces au design transparent décoré de motifs pomme. Composé d’un pichet avec couvercle et de 4 tasses assorties, il est idéal pour servir de l’eau, du jus, du thé glacé ou des boissons rafraîchissantes au quotidien comme lors des repas en famille.\n\nSon verre transparent met en valeur vos boissons, tandis que le motif pomme vert apporte un style moderne, léger et décoratif à votre cuisine ou salle à manger.\n\nCaractéristique\nDétail\n\nProduit\nService à eau\n\nNombre de pièces\n5 pièces\n\nComposition\n1 pichet + 4 tasses\n\nMatière\nVerre transparent\n\nMotif\nPomme verte décorative\n\nCouvercle\nOui, couvercle argenté\n\nUtilisation\nEau, jus, boissons fraîches, thé glacé\n\nStyle\nÉlégant, moderne, décoratif\n\nRéférence Doshift\nAA9BB599",
-     "short_description": "Apportez une touche fraîche et élégante à votre table avec ce service à eau 5 pièces au design transparent décoré de motifs pomme."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-04T120713.623.png"
-   ]
-  },
-  {
-   "sku": "doshift-90122",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de 5 Boîtes de Rangement Alimentaire avec Couvercles Colorés",
-     "description": "Gardez vos aliments bien organisés avec ce set de 5 boîtes de rangement pratiques et colorées. Grâce à leurs différentes tailles, elles sont idéales pour conserver les restes, préparer les repas, ranger les snacks, les fruits, les légumes ou transporter votre déjeuner au quotidien.\n\nLeur design empilable permet un rangement facile dans les placards, le réfrigérateur ou le sac de repas, tout en gagnant de la place. Les couvercles colorés permettent d’identifier rapidement chaque boîte et ajoutent une touche moderne à votre cuisine.\n\nCaractéristique\nDétail\n\nProduit\nSet de boîtes de rangement alimentaire\n\nNombre de pièces\n5 boîtes avec couvercles\n\nCouleurs des couvercles\nRose, bleu, vert, orange, violet\n\nForme\nCarrée avec coins arrondis\n\nCorps\nTransparent\n\nUtilisation\nConservation, organisation et transport des aliments\n\nRangement\nEmpilable et gain de place\n\nConvient pour\nCuisine, réfrigérateur, lunch box, snacks, restes\n\nRéférence Doshift\nAA3BB799",
-     "short_description": "Gardez vos aliments bien organisés avec ce set de 5 boîtes de rangement pratiques et colorées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-04T125122.494.png"
-   ]
-  },
-  {
-   "sku": "doshift-90079",
-   "price": 679,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Séchoir Électrique Pliable 18 Barres",
-     "description": "Profitez d’un séchage plus rapide et plus pratique avec ce séchoir électrique pliable. Idéal pour sécher vos vêtements, serviettes, draps, rideaux ou nappes à la maison, il offre un grand espace de séchage tout en restant facile à ranger après utilisation.\n\nGrâce à ses 18 barres chauffantes, il aide à sécher efficacement le linge, même pendant les jours froids ou humides. Sa structure pliable permet un gain de place optimal et une utilisation simple au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nSéchoir électrique pliable\n\nNombre de barres\n18 barres\n\nUtilisation\nVêtements, serviettes, draps, rideaux, nappes\n\nType\nSéchoir chauffant électrique\n\nStructure\nPliable et stable\n\nRangement\nFacile à plier et à déplacer\n\nIdéal pour\nMaison, appartement, buanderie\n\nRéférence Doshift\nAA50BB099",
-     "short_description": "Profitez d’un séchage plus rapide et plus pratique avec ce séchoir électrique pliable."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-04T110333.987.png"
-   ]
-  },
-  {
-   "sku": "doshift-90073",
-   "price": 309,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Théière Marocaine Traditionnelle en Argenté – Design Raffiné",
-     "description": "Ajoutez une touche d’élégance à vos moments de thé avec cette théière marocaine traditionnelle au design argenté brillant. Son style raffiné, ses motifs décoratifs gravés et sa forme authentique en font une pièce idéale pour servir le thé avec charme lors des occasions, réceptions ou moments en famille.\n\nConçue avec une finition brillante et un couvercle élégant, elle apporte une ambiance orientale chic à votre table tout en restant pratique à utiliser au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nThéière marocaine traditionnelle\n\nCouleur\nArgenté\n\nDesign\nMotifs gravés décoratifs\n\nUtilisation\nService du thé / décoration\n\nCouvercle\nInclus avec poignée décorative\n\nBase\n3 pieds stables\n\nStyle\nOriental, traditionnel, élégant\n\nRéférence Doshift\nAA19BB099",
-     "short_description": "Ajoutez une touche d’élégance à vos moments de thé avec cette théière marocaine traditionnelle au design argenté brillant."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-04T105528.101.png"
-   ]
-  },
-  {
-   "sku": "doshift-89976",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    12,
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support de Coude P60 – Manchon de Compression Respirant",
-     "description": "Le support de coude P60 est conçu pour offrir un maintien confortable pendant le sport, l’entraînement ou les activités quotidiennes. Sa matière élastique et respirante épouse naturellement la forme du bras, tout en assurant une compression agréable au niveau du coude.\n\nIdéal pour la musculation, le fitness, le tennis, le basketball, les travaux manuels ou une utilisation au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nSupport de coude / manchon de compression\n\nModèle\nP60\n\nMarque\nSIBOTE\n\nCouleur\nNoir et bleu\n\nMatière\nTissu élastique respirant\n\nUtilisation\nSport, fitness, musculation, tennis, usage quotidien\n\nAvantages\nMaintien, confort, compression et liberté de mouvement\n\nAjustement\nBande renforcée pour une bonne tenue\n\nRéférence\nST-757\n\nRéférence Doshift\nAA5BB599",
-     "short_description": "Le support de coude P60 est conçu pour offrir un maintien confortable pendant le sport, l’entraînement ou les activités quotidiennes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-03T205237.131.png"
-   ]
-  },
-  {
-   "sku": "doshift-89823",
+   "sku": "doshift-91314",
    "price": 109,
    "stock": 10,
    "status": 0,
    "categories": [
+    3,
     11
    ],
    "locales": {
     "fr": {
-     "name": "Coupe-Cuticules en V avec Poignée Ergonomique",
-     "description": "Le coupe-cuticules en V est un accessoire pratique pour une manucure propre et soignée. Son embout métallique de précision permet de travailler facilement autour des ongles, tandis que sa poignée ergonomique assure une bonne prise en main. Compact et léger, il est idéal pour une utilisation à la maison ou en salon.\n\nCaractéristique\nDétail\n\nType de produit\nCoupe-cuticules en V\n\nUtilisation\nSoin des cuticules et manucure\n\nEmbout\nMétallique en forme de V\n\nPoignée\nErgonomique avec grip antidérapant\n\nCouleur\nNoir avec détail rose/mauve\n\nFormat\nCompact et léger\n\nUsage\nMaison, salon, voyage\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Le coupe-cuticules en V est un accessoire pratique pour une manucure propre et soignée."
+     "name": "ESTIARA PLUS – Eau de Parfum 100 ml",
+     "description": "Découvrez ESTIARA PLUS, une eau de parfum élégante au style raffiné, idéale pour compléter votre routine quotidienne ou vos sorties spéciales. Son flacon premium au design doré et noir apporte une touche de luxe, tandis que son format 100 ml offre une utilisation durable.\n\nParfait pour les personnes qui recherchent un parfum chic, moderne et facile à porter, ESTIARA PLUS se distingue par sa présentation élégante et son esprit sophistiqué.\n\nCaractéristique\nDétail\n\nProduit\nEau de Parfum\n\nMarque\nESTIARA PLUS\n\nContenance\n100 ml\n\nType\nVaporisateur Natural Spray\n\nDesign\nFlacon élégant avec finition dorée et noire\n\nUtilisation\nQuotidienne, soirées, occasions spéciales\n\nFormat\n3.3 fl.oz\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Découvrez ESTIARA PLUS, une eau de parfum élégante au style raffiné, idéale pour compléter votre routine quotidienne ou vos sorties spéciales."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-03T135349.055.png"
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T195524.527.png"
+   ]
+  },
+  {
+   "sku": "doshift-91303",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gel Douche & Bain Moussant Beauty Care – Vanilla Aroma",
+     "description": "Offrez-vous un moment de détente avec le gel douche & bain moussant Beauty Care Vanilla Aroma. Sa texture gel ambrée nettoie la peau en douceur tout en laissant une sensation agréable de fraîcheur et de propreté. Son parfum chaleureux à la vanille apporte une touche gourmande et relaxante à votre routine de bain ou de douche.\n\nUtilisable comme gel douche quotidien ou comme bain moussant, il transforme chaque utilisation en un instant de soin parfumé. Son flacon transparent au design original permet une prise en main facile et un rendu élégant dans la salle de bain.\n\nCaractéristique\nDétail\n\nProduit\nGel douche & bain moussant\n\nMarque\nBeauty Care\n\nParfum\nVanilla Aroma\n\nTexture\nGel liquide\n\nCouleur\nOrange ambré\n\nUtilisation\nDouche quotidienne ou bain moussant\n\nType de peau\nConvient à un usage quotidien\n\nBouchon\nBouchon clapet transparent\n\nAvantages\nNettoie en douceur, mousse agréable, parfum chaleureux\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Offrez-vous un moment de détente avec le gel douche & bain moussant Beauty Care Vanilla Aroma. Sa texture gel ambrée nettoie la peau en douceur tout en laissant une sensation agréable de fraîcheur et de propreté."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T190222.186.png"
+   ]
+  },
+  {
+   "sku": "doshift-91292",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Eau de Parfum Homme ESPRIT D’HOMME – 2 x 50 ml",
+     "description": "Découvrez ESPRIT D’HOMME, une eau de parfum masculine au style élégant et affirmé. Son flacon noir au design premium apporte une touche de caractère, idéale pour un usage quotidien, les sorties ou les occasions spéciales. Un parfum pensé pour l’homme moderne qui aime une fragrance chic, intense et raffinée.\n\nCaractéristique\nDétail\n\nType de produit\nEau de Parfum homme\n\nNom\nESPRIT D’HOMME\n\nContenance\n2 x 50 ml\n\nFormat\nSpray vaporisateur\n\nStyle\nMasculin, élégant, raffiné\n\nFlacon\nNoir avec finition premium\n\nUtilisation\nQuotidienne, soirée, occasions spéciales\n\nIdéal pour\nHomme\n\nRéférence\nAA3BB599",
+     "short_description": "Découvrez ESPRIT D’HOMME, une eau de parfum masculine au style élégant et affirmé."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T184853.429.png"
+   ]
+  },
+  {
+   "sku": "doshift-91284",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret Parfum Femme AROMASQ EBDAE – Eau de Parfum 2 Pièces",
+     "description": "Offrez une touche d’élégance au quotidien avec le coffret AROMASQ EBDAE, composé de 2 parfums Eau de Parfum au style féminin, doux et raffiné. Son flacon au design chic avec finition rose gold apporte une sensation premium, idéale pour une utilisation personnelle ou comme cadeau.\n\nSa fragrance élégante convient parfaitement aux sorties, occasions spéciales ou à une utilisation quotidienne pour laisser une impression agréable et sophistiquée.\n\nCaractéristique\nDétail\n\nProduit\nCoffret parfum femme\n\nMarque\nEBDAE\n\nGamme\nAROMASQ\n\nType\nEau de Parfum\n\nContenance\n2 × 50 ml\n\nNombre de pièces\n2 pièces\n\nStyle\nFéminin, élégant, raffiné\n\nUtilisation\nQuotidienne, soirées, occasions spéciales\n\nDesign\nFlacon chic avec finition rose gold\n\nIdéal pour\nCadeau, usage personnel\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Offrez une touche d’élégance au quotidien avec le coffret AROMASQ EBDAE, composé de 2 parfums Eau de Parfum au style féminin, doux et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T183736.054.png"
+   ]
+  },
+  {
+   "sku": "doshift-91262",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rendez-Vous Parfumé – Eau de Parfum Femme 100 ml",
+     "description": "Découvrez Rendez-Vous Parfumé, une eau de parfum féminine au style élégant et raffiné. Son flacon vert transparent avec bouchon doré apporte une touche luxueuse à votre coiffeuse, tout en offrant une fragrance idéale pour une utilisation quotidienne ou pour les occasions spéciales.\n\nSa présentation chic et moderne en fait aussi une excellente idée cadeau pour femme.\n\nCaractéristique\nDétail\n\nNom du produit\nRendez-Vous Parfumé\n\nType\nEau de Parfum\n\nContenance\n100 ml\n\nFormat\nVaporisateur spray\n\nGenre\nFemme\n\nDesign\nFlacon vert avec bouchon doré\n\nUtilisation\nQuotidienne, soirée, cadeau\n\nStyle\nÉlégant, féminin, raffiné\n\nRéférence\nAA5BB099",
+     "short_description": "Découvrez Rendez-Vous Parfumé, une eau de parfum féminine au style élégant et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T175112.086.png"
+   ]
+  },
+  {
+   "sku": "doshift-91276",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Parfum NAZWAH – Eau de Parfum 2 x 50 ml",
+     "description": "Découvrez NAZWAH, un parfum élégant au style raffiné, présenté dans un flacon luxueux au design travaillé. Son format 2 pièces de 50 ml est parfait pour une utilisation quotidienne ou pour offrir. Avec son packaging chic et moderne, ce parfum convient aussi bien aux hommes qu’aux femmes recherchant une fragrance distinguée et agréable.\n\nCaractéristique\nDétail\n\nNom du produit\nPack Parfum NAZWAH\n\nType\nEau de Parfum\n\nContenance\n2 x 50 ml\n\nNombre de pièces\n2 pièces\n\nUtilisation\nHomme & Femme\n\nFormat\nVaporisateur spray\n\nDesign\nFlacon élégant avec finition dorée\n\nIdéal pour\nUsage quotidien, cadeau, occasions spéciales\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Découvrez NAZWAH, un parfum élégant au style raffiné, présenté dans un flacon luxueux au design travaillé. Son format 2 pièces de 50 ml est parfait pour une utilisation quotidienne ou pour offrir."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T181112.485.png"
+   ]
+  },
+  {
+   "sku": "doshift-91270",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Huile de Coco Naturelle – Soin Cheveux & Peau",
+     "description": "Découvrez l’huile de coco, un soin naturel polyvalent idéal pour nourrir, hydrater et adoucir la peau ainsi que les cheveux. Sa texture riche et fondante s’utilise facilement dans votre routine beauté quotidienne pour apporter douceur, brillance et confort.\n\nCaractéristique\nDétail\n\nProduit\nHuile de Coco\n\nUtilisation\nCheveux, peau, soin beauté\n\nTexture\nRiche, fondante et nourrissante\n\nType\nHuile naturelle\n\nConditionnement\nPot en verre avec couvercle métallique\n\nAvantages\nHydratation, douceur, nutrition\n\nPublic\nFemme et homme\n\nRéférence\nAA2BB599",
+     "short_description": "Découvrez l’huile de coco, un soin naturel polyvalent idéal pour nourrir, hydrater et adoucir la peau ainsi que les cheveux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-08T175925.695.png"
    ]
   }
  ]

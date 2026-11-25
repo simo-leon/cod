@@ -1,144 +1,28 @@
 {
  "products": [
   {
-   "sku": "doshift-24567",
-   "price": 99,
+   "sku": "doshift-36347",
+   "price": 289,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chargeur Voiture USB Dinex Invisible Noir – Double Port 48W, Design Discret, Charge Rapide Universelle Full Protocol, Modèle A538",
-     "description": "Ce chargeur de voiture USB double port offre une charge rapide et discrète grâce à son design invisible. Sa technologie Full Protocol garantit une compatibilité universelle avec vos appareils Type-C et Lightning. Compact et sécurisé, il fournit une alimentation stable même en conduite. Idéal pour recharger simultanément deux appareils en toute simplicité.\n\nCaractéristiques du Produit:\n\nType\nChargeur de voiture USB\n\nPorts\n2 x USB\n\nCompatibilité\nUniverselle – Type-C & Lightning\n\nTechnologie\nFull Protocol, charge rapide\n\nSécurité\nProtection contre surtension, surchauffe et court-circuit\n\nCompatibilité\niPhone & Android (iOS & Android)\n\nUtilisation\nRecharge simultanée de deux appareils\n\nCouleur\nNoir",
-     "short_description": "Ce chargeur de voiture USB double port offre une charge rapide et discrète grâce à son design invisible. Sa technologie Full Protocol garantit une compatibilité universelle avec vos appareils Type-C et Lightning."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/Gemini_Generated_Image_grhjo1grhjo1grhj.png"
-   ]
-  },
-  {
-   "sku": "doshift-24442",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Verrous de sécurité pour bebe – Protection portes et tiroirs | loquets anti-pincement couleur selon la disponibilité",
-     "description": "Assurez la sécurité de votre bébé avec ces loquets de sécurité spécialement conçus pour bloquer l’accès aux armoires, placards et tiroirs.\n\nhttps://doshift.ma/wp-content/uploads/2025/07/1-pc-scurit-enfant-rfrigrateur-serrure-porte-simple-Temu-Morocco.mp4\n\nFabriqués en plastique robuste et sans BPA, ces verrous préviennent efficacement les accidents domestiques et protègent les doigts de votre enfant.\n\nFaciles à installer sans perçage grâce à leur fixation adhésive puissante, ils conviennent à tous types de surfaces lisses : bois, plastique, verre ou métal. Leur design discret et compact se fond facilement dans votre décoration intérieure.\n\nParfaits pour les parents soucieux de la sécurité de leurs enfants tout en gardant une maison fonctionnelle et esthétique.\n\n✅ Caractéristiques Techniques :\n\n🔒 Verrouillage sécurisé anti-ouverture\n\n🛡️ Protection anti-pincement des doigts\n\n🛠️ Installation facile – Fixation adhésive forte (sans perçage)\n\n🌱 Matériau : plastique ABS sans BPA\n\n🚫 Empêche l’ouverture des tiroirs, placards, portes d’armoires\n\n🎨 Design discret et compact\n\n🔄 Système réutilisable et repositionnable\n\n🎯 Idéal Pour :\n\nSécuriser la maison contre les risques domestiques\n\nProtection des bébés et jeunes enfants\n\nArmoires, tiroirs, placards, portes coulissantes\n\nUsage dans cuisine, salle de bain, salon, chambre",
-     "short_description": "Assurez la sécurité de votre bébé avec ces loquets de sécurité spécialement conçus pour bloquer l’accès aux armoires, placards et tiroirs."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-17T213715.365.png"
-   ]
-  },
-  {
-   "sku": "doshift-24428",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Râpe Anti-Callosités en Acrylique – Râpe à Pieds Manuelle Ergonomique",
-     "description": "Cette râpe anti-callosités en acrylique permet d’éliminer efficacement les peaux mortes et les callosités pour des pieds lisses et soignés. Sa surface abrasive performante assure un résultat rapide, tandis que son manche ergonomique antidérapant garantit une prise en main confortable. Utilisable à sec ou sur peau humide, elle est idéale pour un soin des pieds à domicile.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRâpe anti-callosités manuelle\n\nUtilisation\nSoin des pieds\n\nFonction\nÉlimination des callosités et peaux mortes\n\nSurface\nAbrasive efficace\n\nMatériau\nAcrylique durable\n\nManche\nErgonomique et antidérapant\n\nUtilisation\nÀ sec ou humide\n\nEntretien\nHygiénique et facile à nettoyer\n\nDesign\nLéger et compact\n\nUsage\nDomestique\n\nRéférence-doshift\nAA1BB899",
-     "short_description": "Cette râpe anti-callosités en acrylique permet d’éliminer efficacement les peaux mortes et les callosités pour des pieds lisses et soignés."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/Gemini_Generated_Image_ptar4lptar4lptar-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-24404",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Sèche-Cheveux Professionnel FABA 3900",
-     "description": "Le sèche-cheveux FABA 3900 est conçu pour les coiffeurs professionnels comme pour les particuliers exigeants. Doté d’un moteur haute performance, il offre une puissance de soufflage optimale pour un séchage ultra-rapide, tout en réduisant les frisottis et en préservant la douceur des cheveux.\n\nSes 2 vitesses et 3 niveaux de température permettent une utilisation personnalisée selon le type de cheveux et le résultat souhaité. Compact et ergonomique, il offre une prise en main confortable et un poids équilibré, idéal pour une utilisation prolongée.\n\nÉquipé d’un câble long professionnel et livré avec deux embouts concentrateurs, le FAB 3900 est parfait pour un brushing précis et professionnel.\n\n✅ Caractéristiques Techniques :\n\n🔥 Puissance : 2200W – Moteur professionnel haute performance\n\n💨 2 vitesses / 3 températures réglables\n\n🌬️ Fonction air froid pour fixer la coiffure\n\n🧴 Technologie soin : réduction des frisottis, respect du cheveu\n\n🎛️ Bouton air froid instantané\n\n🔌 Câble long professionnel – rotation 360°\n\n📦 Accessoires inclus : 2 embouts concentrateurs\n\n🎨 Design compact et ergonomique",
-     "short_description": "Le sèche-cheveux FABA 3900 est conçu pour les coiffeurs professionnels comme pour les particuliers exigeants."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-17T120331.705.png"
-   ]
-  },
-  {
-   "sku": "doshift-24381",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Casque de Froid Thérapeutique – Gris",
-     "description": "Casque de thérapie par le froid gris, conçu pour soulager les migraines, tensions et maux de tête.\n\nCaractéristique\nDétail\n\nModèle\nCasque de Froid Thérapeutique\n\nType de produit\nCasque réfrigérant pour soulagement des migraines\n\nMatériau\nGel rafraîchissant haute qualité + tissu élastique doux\n\nUtilisation\nFroid ou chaud (compatible micro-ondes et réfrigérateur)\n\nEffets\nDétente musculaire, réduction des tensions, apaisement des douleurs\n\nZones ciblées\nTête, front, tempes, contour des yeux\n\nRéutilisable\nOui, durable et conçu pour de multiples utilisations\n\nTaille\nUniverselle, ajustement ergonomique\n\nEntretien\nLavable à la main, séchage rapide\n\nCouleur\nGris\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Casque de thérapie par le froid gris, conçu pour soulager les migraines, tensions et maux de tête."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/20251011_1324_Changement-dArriere-Plan-Professionnel_remix_01k78h9c35e4r8s15ffq58fwqs.png"
-   ]
-  },
-  {
-   "sku": "doshift-24142",
-   "price": 329,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Telephone Fixe Carte Sim Sans Fil – Écran Couleur Base de Chargement",
-     "description": "Le Realfone H30 est un téléphone fixe sans fil DECT conçu pour répondre aux exigences professionnelles et domestiques. Son écran couleur assure une lecture confortable des informations essentielles (horloge, niveau batterie, appels entrants), tandis que sa base de recharge permet un rangement et une recharge pratiques.\n\nDoté d’une autonomie longue durée, d’une qualité audio haute définition, et de touches larges et ergonomiques, il garantit une utilisation simple et efficace au quotidien.\n\n✅ Caractéristiques Techniques :\n\n📞 Technologie DECT – portée sans fil stable et étendue\n\n📱 Écran couleur clair et lisible\n\n🔊 Qualité audio HD – conversations limpides\n\n🔋 Grande autonomie en veille et en communication\n\n🔌 Base de chargement incluse\n\n📅 Affichage date/heure – gestion des appels entrants\n\n🏢 Usage recommandé : maison, bureaux, hôtels",
-     "short_description": "Le Realfone H30 est un téléphone fixe sans fil DECT conçu pour répondre aux exigences professionnelles et domestiques."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-14T122008.710.png"
-   ]
-  },
-  {
-   "sku": "doshift-24132",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
+    4,
     5
    ],
    "locales": {
     "fr": {
-     "name": "Adaptateur 2 en 1 iPhone – Lightning vers Prise Jack 3.5mm + Chargeur Simultané",
-     "description": "L’adaptateur 2 en 1 Lightning est l’accessoire idéal pour les utilisateurs d’iPhone qui souhaitent écouter de la musique avec des écouteurs filaires tout en rechargeant leur appareil simultanément. Doté d’un port audio jack 3.5 mm et d’un port Lightning, il vous permet de profiter d’un son clair et sans interférence tout en alimentant votre appareil de manière fiable.\n\nCompact et facile à transporter, cet adaptateur splitteur est compatible avec tous les modèles d’iPhone sans port jack (iPhone 7 et modèles plus récents).\n\n✅ Caractéristiques Principales :\n\n🎵 Port Jack 3.5mm pour écouteurs ou système audio\n\n🔌 Port Lightning pour recharge simultanée\n\n🔊 Qualité audio haute fidélité sans perte\n\n⚡ Recharge rapide et sécurisée\n\n📱 Compatibilité : iPhone \n\n🛠️ Plug & Play – Aucun pilote nécessaire",
-     "short_description": "L’adaptateur 2 en 1 Lightning est l’accessoire idéal pour les utilisateurs d’iPhone qui souhaitent écouter de la musique avec des écouteurs filaires tout en rechargeant leur appareil simultanément."
+     "name": "Écouteurs Sans Fil Velano V-PRO ANC/ENC",
+     "description": "Profitez d’une expérience audio immersive avec les écouteurs sans fil Velano V-PRO. Grâce à la technologie Bluetooth 5.4, la réduction de bruit ANC/ENC et la transmission 2.4G à faible latence, ils offrent un son clair, des appels nets et une connexion stable pour la musique, les jeux et les appels au quotidien. Leur design ergonomique assure un confort optimal tout au long de la journée, tandis que le boîtier de charge compact prolonge l’autonomie pour vous accompagner partout.\n\nCaractéristique\nDétail\n\nModèle\nVelano V-PRO\n\nType\nÉcouteurs sans fil Bluetooth\n\nBluetooth\nVersion 5.4\n\nRéduction du bruit\nANC / ENC\n\nCodec audio\nSBC / AAC\n\nPortée sans fil\nJusqu’à 10 m\n\nAutonomie écoute\nJusqu’à 5,5 heures\n\nAutonomie totale\nJusqu’à 25 heures avec boîtier\n\nBatterie écouteurs\n35 mAh\n\nBatterie boîtier\n400 mAh\n\nRecharge\nUSB Type-C\n\nTemps de charge\nEnviron 1,5 heure\n\nFonction spéciale\nTransmission 2.4G faible latence\n\nCompatibilité\nAndroid, iOS, Tablette, PC\n\nCouleur\nNoir\n\nRéférence Doshift\nAA18BB099",
+     "short_description": "Profitez d’une expérience audio immersive avec les écouteurs sans fil Velano V-PRO."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-14T120024.644.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/Nouveau-projet-2026-06-06T175430.436.png"
    ]
   },
   {
-   "sku": "doshift-23941",
-   "price": 129,
+   "sku": "doshift-36318",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -146,52 +30,172 @@
    ],
    "locales": {
     "fr": {
-     "name": "Chauffe-Cire Pliable en Silicone – Rose",
-     "description": "Chauffe-cire électrique compact et pliable en silicone rose, idéal pour fondre tous types de cire.Sécurisé, portable et rapide à chauffer, il offre une épilation simple et efficace à la maison ou en voyage.\n\nModèle\nChauffe-Cire Pliable\n\nType\nChauffe-cire électrique\n\nTempérature\nJusqu’à 120°C\n\nMatériau\nSilicone anti-chaleur\n\nDesign\nPliable et portable\n\nCires\nGrains, blocs, pots\n\nZones\nVisage, bras, jambes, bikini\n\nSécurité\nPoignées anti-brûlure\n\nCâble\n1,15 m avec interrupteur\n\nTension\n220V\n\nCouleur\nRose",
-     "short_description": "Chauffe-cire électrique compact et pliable en silicone rose, idéal pour fondre tous types de cire.Sécurisé, portable et rapide à chauffer, il offre une épilation simple et efficace à la maison ou en voyage."
+     "name": "Appareil Vapeur pour Visage PHYOPUS PH-718 Rose – Hydratation Profonde, Soin du Visage, 130W",
+     "description": "Le PHYOPUS PH-718 est un sauna facial à vapeur conçu pour nettoyer en profondeur les pores, hydrater la peau et améliorer sa souplesse.En seulement 30 secondes, il produit une vapeur douce et constante qui aide à éliminer les impuretés, à favoriser la circulation sanguine et à redonner éclat et vitalité au visage.Grâce à ses accessoires interchangeables (embouts visage et nez), il s’adapte à vos besoins de soin quotidien.Idéal pour un usage à domicile, il peut également être utilisé avec des huiles essentielles pour une expérience d’aromathérapie relaxante.\n\nCaractéristiques du Produit:\n\nMarque\nPHYOPUS\n\nModèle\nPH-718\n\nCouleur\nRose\n\nType\nAppareil vapeur facial\n\nPuissance\n130W\n\nTemps de préchauffage\n30 secondes\n\nRéglages\n2 niveaux d’intensité (I / II)\n\nCapacité du réservoir\n50 ml (gobelet doseur inclus)\n\nEmbouts fournis\n1 pour le visage + 1 pour le nez\n\nFonction\nNettoyage des pores, hydratation, purification",
+     "short_description": "Le PHYOPUS PH-718 est un sauna facial à vapeur conçu pour nettoyer en profondeur les pores, hydrater la peau et améliorer sa souplesse.En seulement 30 secondes, il produit une vapeur douce et constante qui aide à…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/Nouveau-projet-2026-06-19T204404.794.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/rose6.png"
    ]
   },
   {
-   "sku": "doshift-23893",
+   "sku": "doshift-36301",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Appareil Vapeur pour Visage PHYOPUS PH-718 Violet – Hydratation Profonde, Soin du Visage, 130W",
+     "description": "Le PHYOPUS PH-718 est un sauna facial à vapeur conçu pour nettoyer en profondeur les pores, hydrater la peau et améliorer sa souplesse.En seulement 30 secondes, il produit une vapeur douce et constante qui aide à éliminer les impuretés, à favoriser la circulation sanguine et à redonner éclat et vitalité au visage.Grâce à ses accessoires interchangeables (embouts visage et nez), il s’adapte à vos besoins de soin quotidien.Idéal pour un usage à domicile, il peut également être utilisé avec des huiles essentielles pour une expérience d’aromathérapie relaxante.\n\nCaractéristiques du Produit:\n\nMarque\nPHYOPUS\n\nModèle\nPH-718\n\nCouleur\nViolet\n\nType\nAppareil vapeur facial\n\nPuissance\n130W\n\nTemps de préchauffage\n30 secondes\n\nRéglages\n2 niveaux d’intensité (I / II)\n\nCapacité du réservoir\n50 ml (gobelet doseur inclus)\n\nEmbouts fournis\n1 pour le visage + 1 pour le nez\n\nFonction\nNettoyage des pores, hydratation, purification",
+     "short_description": "Le PHYOPUS PH-718 est un sauna facial à vapeur conçu pour nettoyer en profondeur les pores, hydrater la peau et améliorer sa souplesse.En seulement 30 secondes, il produit une vapeur douce et constante qui aide à…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/chuffage6.png"
+   ]
+  },
+  {
+   "sku": "doshift-36293",
+   "price": 549,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Casque Bluetooth Oraimo BoomPop Pro OHP-917 Noir – ANC, 82H d’Autonomie, Son HavyBass, Micro Intégré",
+     "description": "Plongez dans un univers sonore immersif avec le Oraimo BoomPop Pro OHP-917, un casque sans fil doté de la technologie HavyBass™ pour des basses puissantes et profondes.Son système de réduction active du bruit (ANC) vous permet de profiter d’un son clair et pur, même dans les environnements les plus bruyants.Grâce à son autonomie exceptionnelle allant jusqu’à 82 heures, il est parfait pour les longues sessions d’écoute ou de travail.Son design élégant et confortable, associé au contrôle tactile intelligent et au micro HD intégré, en fait le compagnon audio idéal pour le quotidien.\n\nCaractéristiques du Produit:\n\nMarque\nOraimo\n\nModèle\nBoomPop Pro OHP-917\n\nType\nCasque sans fil Bluetooth\n\nBluetooth\nVersion 5.4\n\nPortée sans fil\nJusqu’à 10 mètres\n\nCouleur\nNoir et Or\n\nTechnologie audio\nHavyBass™ – renforcement des basses\n\nTemps de charge\nEnviron 2 heures\n\nPort de charge\nUSB Type-C\n\nContrôle\nTactile (Swipe Cont",
+     "short_description": "Plongez dans un univers sonore immersif avec le Oraimo BoomPop Pro OHP-917, un casque sans fil doté de la technologie HavyBass™ pour des basses puissantes et profondes.Son système de réduction active du bruit (ANC) vous…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/moncef4.png"
+   ]
+  },
+  {
+   "sku": "doshift-36249",
+   "price": 155,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Écouteurs Sans Fil Velano R-PRO3 ANC Bluetooth 5.3",
+     "description": "Profitez d’un son immersif et d’une liberté totale avec les écouteurs sans fil Velano R-PRO3. Dotés de la technologie Bluetooth 5.3 et de la réduction active du bruit (ANC), ils offrent une connexion rapide, un confort optimal et une excellente qualité audio pour la musique, les appels et le travail au quotidien. Leur boîtier compact avec charge Type-C vous accompagne partout pour rester connecté toute la journée.\n\nCaractéristique\nDétail\n\nProduit\nÉcouteurs sans fil\n\nModèle\nR-PRO3\n\nMarque\nVelano\n\nConnexion\nBluetooth 5.3\n\nTechnologie\nANC (Réduction active du bruit)\n\nQualité sonore\nSon HD avec basses renforcées\n\nMicrophone\nIntégré\n\nCommandes\nTactiles\n\nAssistant vocal\nSiri compatible\n\nPort de charge\nUSB Type-C\n\nAutonomie écouteurs\nJusqu’à 6-7 heures\n\nBatterie écouteurs\n30 mAh\n\nBatterie boîtier\n300 mAh\n\nPortée de connexion\nJusqu’à 10 mètres\n\nCompatibilité\nAndroid, iOS, Windows\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA9BB599",
+     "short_description": "Profitez d’un son immersif et d’une liberté totale avec les écouteurs sans fil Velano R-PRO3."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/Nouveau-projet-2026-06-06T171339.239.png"
+   ]
+  },
+  {
+   "sku": "doshift-36238",
+   "price": 137,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Enceinte Bluetooth Sans Fil Velano VR-01 – Son Puissant, Lumières RGB, Appels Mains Libres",
+     "description": "Découvrez la Velano VR-01, une enceinte Bluetooth compacte et élégante offrant un son clair et puissant.Conçue avec un design magnétique cyber et des lumières RGB dynamiques, elle crée une ambiance immersive à chaque utilisation.Grâce à sa fonction mains libres HD et à ses annonces vocales, profitez d’une expérience pratique et fluide au quotidien.Idéale pour la maison, le bureau ou vos déplacements, elle allie performance audio et style moderne signé Velano.\n\nCaractéristiques du Produit:\n\nMarque\nVelano\n\nModèle\nVR-01\n\nType\n Enceinte Bluetooth sans fil\n\nConnexion\nBluetooth 5.0\n\nFonctions\nLecture audio, appels mains libres, annonces vocales\n\nEffets lumineux\nMagnétique – Cyber design compact\n\nPortée sans fil\nJusqu’à 10 mètres\n\nConception\nMagnétique – Cyber design compact\n\nUtilisation\nCompatible smartphones, tablettes, PC\n\nCouleur\nNoir / Gris avec effet LED",
+     "short_description": "Découvrez la Velano VR-01, une enceinte Bluetooth compacte et élégante offrant un son clair et puissant.Conçue avec un design magnétique cyber et des lumières RGB dynamiques, elle crée une ambiance immersive à chaque…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/iu7.png"
+   ]
+  },
+  {
+   "sku": "doshift-36214",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support Tablette Portable DINEX A04 – Métal Pliable & Rotatif 360° avec Dissipation de Chaleur",
+     "description": "Le DINEX A04 est un support pour ordinateur portable conçu pour offrir confort et stabilité.Fabriqué en alliage métallique robuste, il dispose d’un système rotatif à 360° pour un angle de vision ajustable à volonté.Sa conception pliable permet un rangement facile et une grande portabilité, idéale pour le bureau, la maison ou les déplacements.Avec une dissipation thermique efficace, il maintient votre appareil au frais pour une utilisation prolongée.\n\nCaractéristiques du Produit:\n\nMarque\nDINEX\n\nModèle\nA04\n\nType\ntablette\n\nMatière\nAlliage métallique renforcé\n\nRotation\n360° – Ajustement multi-angle\n\nFonction\nSupport pliable, réglable en hauteur et inclinaison\n\nCompatibilité\ntablettes, smartphones\n\nSystème\nAntidérapant + ventilé (dissipation de chaleur)\n\nUtilisation\nBureau, maison, voiture, voyage\n\nCouleur\nNoir",
+     "short_description": "Le DINEX A04 est un support pour ordinateur portable conçu pour offrir confort et stabilité.Fabriqué en alliage métallique robuste, il dispose d’un système rotatif à 360° pour un angle de vision ajustable à volonté.Sa…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/pu5.png"
+   ]
+  },
+  {
+   "sku": "doshift-36203",
+   "price": 319,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "oraimo Necklace 5 Écouteurs Bluetooth Sans Fil HavyBass™ Longue Autonomie",
+     "description": "Offrez-vous une expérience audio haut de gamme avec ces écouteurs tour de cou alliant technologie avancée et design épuré. Conçus pour les utilisateurs exigeants, ils intègrent une réduction active du bruit (ANC) permettant de se concentrer pleinement sur l’essentiel, sans distractions extérieures.\n\nLeur conception ergonomique assure un maintien confortable tout au long de la journée, tandis que leur autonomie prolongée et leur charge rapide garantissent une utilisation fluide et continue.\n\nCaractéristique\nDétail\n\nType\nÉcouteurs Bluetooth tour de cou\n\nTechnologie audio\nANC + Audio spatial\n\nAutonomie\nJusqu’à 40 heures\n\nCharge rapide\n10 min = 12h d’écoute\n\nConnectivité\nBluetooth\n\nFonction appels\nRéduction de bruit par IA\n\nConnexion multiple\nOui (double appareil)\n\nDesign\nErgonomique, tour de cou\n\nUtilisation\nQuotidienne / professionnelle\n\nRéférence Doshift\nAA18BB099",
+     "short_description": "Offrez-vous une expérience audio haut de gamme avec ces écouteurs tour de cou alliant technologie avancée et design épuré."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/10/Nouveau-projet-2026-03-17T140508.613.png"
+   ]
+  },
+  {
+   "sku": "doshift-36184",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    8,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Bowl Anti-Renversement 360° pour Bébé – Rotatif, Antidérapant et Incassable",
-     "description": "Le Bowl Anti-Renversement 360° est l’accessoire parfait pour accompagner l’apprentissage alimentaire de votre enfant. Grâce à son système de rotation intégré, le bol reste stable peu importe l’angle d’inclinaison, évitant ainsi les renversements fréquents chez les tout-petits.\n\nFabriqué à partir de matériaux résistants et sans BPA, il est incassable, facile à nettoyer et adapté à un usage quotidien. Doté de poignées ergonomiques et d’une base antidérapante, il garantit sécurité et autonomie à votre bébé pendant ses repas.\n\n✅ Caractéristiques Principales :\n\n🔄 Rotation à 360° : évite efficacement les renversements\n\n🧼 Facile à nettoyer : compatible lave-vaisselle\n\n🚼 Sans BPA : sûr pour les aliments\n\n💪 Matériau solide & incassable\n\n🖐️ Poignées pratiques pour bébé\n\n🚗 Parfait à la maison, en voiture ou en déplacement",
-     "short_description": "Le Bowl Anti-Renversement 360° est l’accessoire parfait pour accompagner l’apprentissage alimentaire de votre enfant."
+     "name": "Rasoir Anti-Bouloches Portable Rechargeable USB",
+     "description": "Redonnez un aspect plus propre et soigné à vos vêtements et textiles grâce à ce rasoir anti-bouloches portable. Sa tête de coupe équipée de 3 lames permet de retirer efficacement les peluches et petites bouloches présentes à la surface des tissus.\n\nSon moteur haute vitesse et sa grille de protection perforée assurent une utilisation pratique sur différents textiles. Compact et facile à prendre en main, il peut être utilisé à la maison ou emporté facilement avec vous.\n\nGrâce à sa recharge USB, vous profitez d’une utilisation sans fil pratique, sans avoir à remplacer constamment des piles.\n\nCaractéristique\nDétail\n\nType\nRasoir anti-bouloches portable\n\nUtilisation\nRetrait des bouloches et peluches sur textiles\n\nTête de coupe\n3 lames\n\nProtection\nGrille perforée de protection\n\nMoteur\nHaute vitesse\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nFormat\nPortable et compact\n\nCouleur\nVert foncé\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Redonnez un aspect plus propre et soigné à vos vêtements et textiles grâce à ce rasoir anti-bouloches portable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/HOSSAM-2025-07-09T201251.503.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/Nouveau-projet-2026-08-19T155104.847.png"
    ]
   },
   {
-   "sku": "doshift-23855",
-   "price": 279,
+   "sku": "doshift-36195",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Oraimo Watch 5 Lite x Free Fire – Montre Connectée Champagne Gold",
-     "description": "Découvrez la Oraimo Watch 5 Lite x Free Fire, une montre connectée au design sportif inspiré de l’univers gaming. Son grand écran tactile TFT HD de 2,01 pouces offre une interface confortable pour consulter vos informations et accéder rapidement aux différentes fonctions.\n\nAvec ses 105 modes sportifs, elle vous accompagne dans de nombreuses activités quotidiennes et sportives. Elle propose également le suivi de la fréquence cardiaque et du niveau d’oxygène sanguin, directement depuis votre poignet.\n\nSa batterie de 300 mAh offre jusqu’à 7 jours d’utilisation normale et plus de 28 jours en veille selon les conditions d’utilisation. Grâce à sa certification IP68, la montre bénéficie d’une protection contre l’eau et la poussière adaptée à un usage quotidien.\n\nCompatible avec l’application Oraimo Health, elle fonctionne avec les smartphones sous Android 7.0 ou version ultérieure et iOS 12.0 ou version ultérieure. Son boîtier Champagne Gold associé au bracelet noir lui apporte un style moderne et distinctif.\n\nCaractéristique\nDétail\n\nMarque\nOraimo\n\nModèle\nWatch 5 Lite – OSW-804\n\nÉdition\nOraimo x Free Fire\n\nType\nMontre connectée / Smart Watch\n\nÉcran\nTFT tactile HD 2,01 pouces\n\nRésolution\n240 × 296 px\n\nModes sportifs\n105 modes\n\nSuivi\nFréquence cardiaque et oxygène sanguin\n\nBluetooth\nVersion 5.3\n\nBatterie\nLithium polymère 300 mAh\n\nAutonomie normale\nJusqu’à 7 jours\n\nAutonomie en veille\nPlus de 28 jours\n\nTemps de charge\nEnviron 3 heures\n\nÉtanchéité\nIP68\n\nMatériau\nPC + ABS\n\nDimensions\n53,6 × 40,7 × 12,2 mm\n\nPoids\n44 g\n\nApplication\nOraimo Health\n\nCompatibilité iOS\niOS 12.0 ou supérieur\n\nCompatibilité Android\nAndroid 7.0 ou supérieur\n\nCouleur\nChampagne Gold / Noir\n\nRéférence Doshift\nAA17BB099",
-     "short_description": "Découvrez la Oraimo Watch 5 Lite x Free Fire, une montre connectée au design sportif inspiré de l’univers gaming."
+     "name": "Câble USB 3.0 vers SATA – Adaptateur Disque Dur 2.5/3.5″ jusqu’à 4 To",
+     "description": "Le câble adaptateur USB 3.0 vers SATA permet de connecter facilement vos disques durs internes 2.5″ ou 3.5″ à votre ordinateur via un simple port USB.Idéal pour le transfert de données, la récupération de fichiers ou le clonage de disques, il offre une vitesse de transfert ultra-rapide jusqu’à 5 Gbps.Compatible avec les disques durs jusqu’à 4 To, il ne nécessite aucune installation logicielle.Un accessoire essentiel pour techniciens, gamers ou utilisateurs souhaitant accéder rapidement à leurs données.\n\nCaractéristiques du Produit:\n\nType\nCâble adaptateur USB 3.0 vers SATA\n\nCompatibilité disques\n2.5″ / 3.5″ HDD & SSD SATA\n\nCapacité maximale supportée\nJusqu’à 4 To\n\nVitesse de transfert\nJusqu’à 5 Gbps (USB 3.0)\n\nFonctionnalité\nPlug & Play, aucun pilote requis\n\nAlimentation\nRequiert une alimentation 12V/2A pour disques 3.5″\n\nUtilisation\nClonage, transfert, sauvegarde ou récupération de donnée\n\nMatériau\nPlastique ABS haute résistance\n\nCapacité maximale supportée\nJusqu’à 4 To\n\nConnexion\nUSB 3.0 double port (alimentation + données)",
+     "short_description": "Le câble adaptateur USB 3.0 vers SATA permet de connecter facilement vos disques durs internes 2.5″ ou 3.5″ à votre ordinateur via un simple port USB.Idéal pour le transfert de données, la récupération de fichiers ou le…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/07/Nouveau-projet-2026-08-27T140933.440.png"
+    "https://doshift.ma/wp-content/uploads/2025/10/jh2.png"
    ]
   }
  ]

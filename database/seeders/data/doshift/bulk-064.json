@@ -1,8 +1,86 @@
 {
  "products": [
   {
-   "sku": "doshift-66731",
-   "price": 89,
+   "sku": "doshift-73613",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Allume-feu Manuel à Manivelle – Souffleur d’Air pour Barbecue & Cheminée",
+     "description": "Allumez rapidement vos braises sans effort grâce à ce souffleur manuel pratique et efficace. Conçu pour intensifier la combustion, il génère un flux d’air puissant qui ravive le feu en quelques secondes. Idéal pour barbecue, cheminée, camping ou feu de bois, cet outil vous garantit un démarrage rapide et maîtrisé sans produits chimiques.\n\nCaractéristique\nDétail\n\nType\nSouffleur d’air manuel\n\nUtilisation\nBarbecue, cheminée, feu de camp\n\nFonction\nAccélération de l’allumage du feu\n\nMécanisme\nManivelle manuelle\n\nMatériau\nPlastique résistant + buse en métal\n\nRésistance thermique\nOui\n\nAvantages\nSans électricité, sans gaz, écologique\n\nTransport\nLéger et compact\n\nRéférence Doshift\nAA1BB399",
+     "short_description": "Allumez rapidement vos braises sans effort grâce à ce souffleur manuel pratique et efficace. Conçu pour intensifier la combustion, il génère un flux d’air puissant qui ravive le feu en quelques secondes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-21T184027.974.png"
+   ]
+  },
+  {
+   "sku": "doshift-73588",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Préparateur de brochettes express – 16 emplacements",
+     "description": "Optimisez la préparation de vos brochettes avec cet outil ingénieux conçu pour un montage rapide, propre et parfaitement aligné. Idéal pour la cuisine quotidienne comme pour les barbecues, il permet de créer plusieurs brochettes en une seule opération, avec un gain de temps considérable.\n\nCaractéristique\nDétail\n\nType de produit\nPréparateur de brochettes\n\nCapacité\n16 brochettes simultanées\n\nUtilisation\nCuisine & barbecue\n\nStructure\nSupport vertical avec guide de pics\n\nFonction\nMontage rapide et uniforme\n\nAccessoires inclus\nPics en bois + plateau + grille\n\nNettoyage\nFacile avec base amovible\n\nDimensions\nEnviron 24 cm (H) x 12.5 cm (L) x 12.5 cm (P)\n\nMatériau\nPlastique robuste alimentaire\n\nCouleur\nSelon disponibilité\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Optimisez la préparation de vos brochettes avec cet outil ingénieux conçu pour un montage rapide, propre et parfaitement aligné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-21T172742.981.png"
+   ]
+  },
+  {
+   "sku": "doshift-73559",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Écouteur de Battements Cardiaques Fœtaux Portable | Écran LCD | Son Clair & Précis",
+     "description": "Surveillez facilement les battements cardiaques de votre bébé à domicile grâce à ce doppler fœtal portable. Conçu pour offrir une écoute claire et fiable, il permet aux futures mamans de vivre des moments rassurants en toute simplicité. Son écran LCD affiche les données en temps réel tandis que sa sonde haute sensibilité garantit une détection rapide et précise.\n\nCaractéristique\nDétail\n\nType de produit\nDoppler fœtal portable\n\nAffichage\nÉcran LCD numérique\n\nFréquence\n3.0 MHz\n\nFonction audio\nHaut-parleur intégré\n\nCommandes\nBoutons de contrôle (volume + / – / marche)\n\nConnectivité\nPrise casque\n\nUtilisation\nSurveillance des battements cardiaques du fœtus\n\nAlimentation\nPiles\n\nDesign\nCompact et ergonomique\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Surveillez facilement les battements cardiaques de votre bébé à domicile grâce à ce doppler fœtal portable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-21T162523.230.png"
+   ]
+  },
+  {
+   "sku": "doshift-73547",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Doppler Fœtal Portable LCD",
+     "description": "Écoutez facilement le rythme cardiaque de bébé à la maison grâce à ce doppler fœtal compact et simple à utiliser. Son écran LCD clair, sa sonde sensible 3.0 MHz et son haut-parleur intégré offrent une écoute pratique au quotidien.\n\nCaractéristiques\nDétails\n\nType\nDoppler fœtal portable\n\nÉcran\nLCD avec affichage du rythme cardiaque\n\nSonde\n3.0 MHz\n\nUtilisation\nÀ domicile\n\nDesign\nCompact et léger\n\nCouleur\nBlanc / Rose\n\nRéférence Doshift\nAA8BB599",
+     "short_description": "Écoutez facilement le rythme cardiaque de bébé à la maison grâce à ce doppler fœtal compact et simple à utiliser."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-24.png"
+   ]
+  },
+  {
+   "sku": "doshift-73505",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -11,186 +89,112 @@
    ],
    "locales": {
     "fr": {
-     "name": "Adaptateur WiFi USB Haute Puissance avec Antenne – Connexion Stable et Rapide",
-     "description": "Améliorez instantanément la connectivité de votre ordinateur grâce à cet adaptateur WiFi USB haute performance avec antenne externe. Conçu pour capter un signal plus puissant et plus stable, il permet à votre PC ou ordinateur portable de se connecter facilement à un réseau sans fil, même à distance du routeur.\n\nCaractéristique\nDétail\n\nType de produit\nAdaptateur WiFi USB\n\nInterface\nUSB 2.0 haute vitesse\n\nNormes WiFi\nIEEE 802.11n / 802.11g / 802.11b\n\nVitesse de transmission\nJusqu’à 150 Mbps\n\nBande de fréquence\n2.4 GHz\n\nAntenne\nAntenne externe haute sensibilité\n\nSécurité réseau\nWEP / WPA / WPA2\n\nPortée\nSignal amélioré pour une meilleure couverture\n\nCompatibilité\nWindows, Linux, Mac OS\n\nInstallation\nPlug & Play (selon système)\n\nUtilisation\nPC de bureau, ordinateur portable\n\nRéférence DOSHIFT\nAA2BB999",
-     "short_description": "Améliorez instantanément la connectivité de votre ordinateur grâce à cet adaptateur WiFi USB haute performance avec antenne externe."
+     "name": "Télécommande Vocale Bluetooth pour Xiaomi Mi TV – XMRM-019",
+     "description": "Piloter vos TV Xiaomi (principalement les séries P1 et Q1) avec ce modèle Bluetooth haute précision.\n\nCaractéristique\nDétail\n\nCommande vocale\nMicro intégré pour utiliser l’Assistant Google\n\nAccès rapide\nBoutons dédiés Netflix et Prime Video\n\nTechnologie\nBluetooth (connexion 360°, pas besoin de viser la TV)\n\nCompatibilité\nXiaomi Mi TV de 2017 à 2023\n\nNavigation\nPavé numérique complet pour changer de chaîne facilement\n\nRéférence-doshift\nAA5BB599",
+     "short_description": "Piloter vos TV Xiaomi (principalement les séries P1 et Q1) avec ce modèle Bluetooth haute précision."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-05T142416.430.png"
+    "https://doshift.ma/wp-content/uploads/2026/04/1-32.png"
    ]
   },
   {
-   "sku": "doshift-66391",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Service à Thé en Verre – Théière + 4 Tasses Design Élégant",
-     "description": "Apportez une touche moderne et raffinée à vos moments de détente avec ce magnifique service à thé en verre. Composé d’une théière élégante et de 4 tasses assorties, cet ensemble est idéal pour partager un thé chaud en famille ou entre amis.\n\nLa théière en verre transparent met en valeur la couleur naturelle de votre infusion, tandis que son couvercle avec finition inox et sa poignée ergonomique assurent une prise en main confortable et sécurisée. Les tasses au design bicolore apportent une touche contemporaine et originale à votre table.\n\nRésistant à la chaleur et facile à nettoyer, ce service est parfait pour le thé, les infusions ou les boissons chaudes du quotidien.\n\nCaractéristique\nDétail\n\nType\nService à thé\n\nComposition\n1 théière + 4 tasses\n\nMatière\nVerre résistant à la chaleur\n\nCouvercle\nVerre avec finition inox\n\nPoignée\nErgonomique\n\nDesign\nModerne et élégant\n\nUtilisation\nThé, infusions, boissons chaudes\n\nEntretien\nFacile à nettoyer\n\nRéférence DOSHIFT\nAA8BB599",
-     "short_description": "Apportez une touche moderne et raffinée à vos moments de détente avec ce magnifique service à thé en verre."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-03T000147.429.png"
-   ]
-  },
-  {
-   "sku": "doshift-66041",
-   "price": 189,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pot en Verre 1,8L pour Blender BO-4688",
-     "description": "Remplacez facilement votre ancien bol et redonnez toute sa performance à votre blender grâce à ce pot en verre d’une capacité généreuse de 1,8 litre. Conçu pour une utilisation quotidienne, il est idéal pour préparer smoothies, jus frais, milkshakes, sauces et soupes mixées.Solide, pratique et simple à installer, ce pot est la solution idéale pour remplacer un bol usé ou cassé tout en conservant les performances de votre appareil.\n\nCaractéristique\nDétail\n\nType de produit\nPot en verre pour blender\n\nCapacité\n1,8 Litres\n\nMatière\nVerre transparent\n\nLames\nAcier inoxydable – broyage glace\n\nCompatibilité\nBlender BO-4688\n\nCouvercle\nOui – avec bouchon doseur\n\nPoignée\nErgonomique\n\nUtilisation\nSmoothies, jus, sauces, glace pilée\n\nRéférence-doshift\nAA11BB599",
-     "short_description": "Remplacez facilement votre ancien bol et redonnez toute sa performance à votre blender grâce à ce pot en verre d’une capacité généreuse de 1,8 litre."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-28T222613.771.png"
-   ]
-  },
-  {
-   "sku": "doshift-65208",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Hub USB-C Multiports 4-en-1",
-     "description": "Connectez facilement tous vos périphériques avec ce hub USB-C compact et polyvalent.Branchez une clé USB, insérez une carte SD ou micro SD (TF) et profitez d’un port USB-C supplémentaire pour la charge ou le transfert de données. Idéal pour ordinateurs portables, tablettes et smartphones compatibles USB-C.\n\nSon design léger et minimaliste le rend parfait pour le bureau, les déplacements et le travail en mobilité.\n\nCaractéristique\nDétail\n\nType\nHub USB-C multiports\n\nEntrée\nUSB Type-C\n\nSorties\n1x USB 3.0, 1x SD, 1x TF (Micro SD), 1x USB-C\n\nCompatibilité\nPC, MacBook, tablettes et appareils USB-C\n\nUtilisation\nTransfert de données et lecture de cartes mémoire\n\nDesign\nCompact et portable\n\nCouleur\nBlanc",
-     "short_description": "Connectez facilement tous vos périphériques avec ce hub USB-C compact et polyvalent.Branchez une clé USB, insérez une carte SD ou micro SD (TF) et profitez d’un port USB-C supplémentaire pour la charge ou le transfert…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2.png"
-   ]
-  },
-  {
-   "sku": "doshift-65125",
-   "price": 59,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bonbonnière Élégante avec Couvercle Pointe",
-     "description": "Apportez une touche raffinée à votre table avec le modèle Hũ Mứt Chóp Nhọn TB057C. Cette bonbonnière au design élégant avec couvercle en forme de chapeau pointu est idéale pour présenter vos confiseries, fruits secs, dattes ou chocolats lors des fêtes et occasions spéciales.\n\nSon style décoratif en fait également un bel élément de décoration pour la maison, parfait pour Ramadan, Aïd, mariages ou réceptions. À la fois pratique et esthétique, elle met en valeur son contenu avec élégance.",
-     "short_description": "Apportez une touche raffinée à votre table avec le modèle Hũ Mứt Chóp Nhọn TB057C."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/20251224_VqY8S4PuG7.jpeg"
-   ]
-  },
-  {
-   "sku": "doshift-65061",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Théière simple – Qualité & Prix chez Alpha55 – Accessoire essentiel au quotidien – édition spéciale",
-     "description": "Pensé pour ceux qui apprécient le style et la praticité, Théière simple se distingue par sa qualité et sa durabilité. Fabriqué à partir de matériaux résistants, il garantit une utilisation durable et un confort optimal. Disponible sur Alpha55.ma, votre référence au Maroc pour la maison, la déco et le lifestyle.",
-     "short_description": "Pensé pour ceux qui apprécient le style et la praticité, Théière simple se distingue par sa qualité et sa durabilité. Fabriqué à partir de matériaux résistants, il garantit une utilisation durable et un confort optimal."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-22T103511.167.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-65050",
-   "price": 1719,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Robot pâtissier professionnel",
-     "description": "Découvrez le robot pâtissier, l’allié incontournable pour toutes vos préparations sucrées ou salées. Avec sa puissance de 2000 watts et son grand bol en acier inoxydable de 12 litres, ce robot est idéal pour pétrir, battre et mélanger facilement de grandes quantités d’ingrédients. Que vous soyez amateur ou professionnel, il vous garantit des résultats parfaits à chaque utilisation.",
-     "short_description": "Découvrez le robot pâtissier, l’allié incontournable pour toutes vos préparations sucrées ou salées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/ed8eba30-05f3-47c3-b8e5-5fba4a2f364d.webp"
-   ]
-  },
-  {
-   "sku": "doshift-65044",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bol à Bonbons et Dessert en Verre en Forme de Cœur – Transparent – Décoration Élégante Mariage & Fête",
-     "description": "Apportez une touche romantique et raffinée à vos événements avec ce magnifique bol en verre transparent en forme de cœur. Idéal pour présenter des bonbons, fruits, desserts ou même pour servir de support décoratif pour bagues lors d’un mariage ou d’une cérémonie spéciale. Son design délicat et sa finition transparente s’intègrent parfaitement à toutes les décorations, qu’elles soient modernes, classiques ou festives. Léger et élégant, il est parfait pour sublimer vos tables lors d’anniversaires, fiançailles, mariages ou réceptions.",
-     "short_description": "Apportez une touche romantique et raffinée à vos événements avec ce magnifique bol en verre transparent en forme de cœur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/51aFGpv4GtL._AC_SL1020_.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-65022",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Scellant Haute Température Universel",
-     "description": "Assurez une étanchéité fiable et durable pour vos composants mécaniques grâce à ce scellant haute performance résistant jusqu’à +320°C. Idéal pour les applications automobiles, il offre une excellente adhérence, une résistance aux vibrations et une protection longue durée contre les fuites d’huile et de liquide de refroidissement.\n\nFormule flexible, résistante à la chaleur et compatible capteurs, parfaite pour une utilisation professionnelle ou domestique.\n\nCaractéristique\nDétail\n\nType\nScellant silicone haute température\n\nRésistance thermique\nJusqu’à +320°C\n\nCompatibilité\nMoteur, boîte de vitesses, carter, pompe à eau\n\nPropriété\nFlexible et résistant aux vibrations\n\nUtilisation\nÉtanchéité automobile et mécanique\n\nConditionnement\nTube avec embout applicateur",
-     "short_description": "Assurez une étanchéité fiable et durable pour vos composants mécaniques grâce à ce scellant haute performance résistant jusqu’à +320°C."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-22T045846.804.png"
-   ]
-  },
-  {
-   "sku": "doshift-64836",
+   "sku": "doshift-73495",
    "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Scie Pliante à Lame Dentelée en Acier – 130 / 180 mm (Manche 180 mm)",
-     "description": "La scie pliante à lame dentelée en acier est l’outil idéal pour les travaux de jardinage, la coupe de branches, d’arbustes et de bois. Conçue pour offrir une coupe nette et efficace, elle dispose d’une lame en acier robuste avec denture tranchante pour un sciage rapide et précis. Son manche ergonomique de 180 mm assure une prise en main confortable et sécurisée. Compacte et pliable, elle est facile à transporter et parfaite pour les jardiniers, campeurs et amateurs de bricolage extérieur.",
-     "short_description": "La scie pliante à lame dentelée en acier est l’outil idéal pour les travaux de jardinage, la coupe de branches, d’arbustes et de bois."
+     "name": "Télécommande Intelligente Samsung Smart TV",
+     "description": "Piloter vos Smart TV Samsung (QLED, Crystal UHD et Frame) avec cette télécommande Bluetooth ergonomique.\n\nCaractéristique\nDétail\n\nCommande vocale\nMicrophone intégré pour piloter la TV et rechercher du contenu\n\nAccès rapide\nBoutons dédiés Netflix, Prime Video et Rakuten TV\n\nTechnologie\nBluetooth (fonctionne sans viser l’écran)\n\nCompatibilité\nSmart TV Samsung 2017 à 2023 (QLED, UHD, Neo QLED)\n\nNavigation\nDesign épuré avec molette directionnelle intuitive\n\nRéférence-doshift\nAA7BB599",
+     "short_description": "Piloter vos Smart TV Samsung (QLED, Crystal UHD et Frame) avec cette télécommande Bluetooth ergonomique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/51jRlH9sYEL._AC_SL1500_.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/1-31.png"
+   ]
+  },
+  {
+   "sku": "doshift-73447",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Télécommande pour Smart TV TCL",
+     "description": "Contrôlez facilement votre Smart TV TCL grâce à cette télécommande ergonomique incluant un bouton d’accès direct à Netflix.\n\nCaractéristiques\nDétail\n\nCompatibilité\nTV TCL, Thomson, iFFALCON\n\nAccès Netflix\nLancement rapide en un clic\n\nBouton Netflix\nAccès direct\n\nPlug & Play\nPrêt à l’emploi\n\nInterface complète\nPavé numérique + contrôle\n\nDesign ergonomique\nLéger et confortable\n\nRéf. Doshift\nAA1BB499",
+     "short_description": "Contrôlez facilement votre Smart TV TCL grâce à cette télécommande ergonomique incluant un bouton d’accès direct à Netflix."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/1-27.png"
+   ]
+  },
+  {
+   "sku": "doshift-73458",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Télécommande Vocale Alexa Amazon (3e Génération)",
+     "description": "Contrôlez votre divertissement et votre téléviseur par la voix grâce à cette télécommande ergonomique intégrant Alexa et des commandes de volume dédiées.\n\nCaractéristiques\nDétail\n\nContrôle TV + streaming\nGère TV et Fire TV\n\nBoutons TV\nMarche/arrêt, volume, mute (IR)\n\nNavigation\nBoutons + accès guide\n\nBouton Alexa\nCommandes vocales\n\nRecherche vocale\nFilms, apps, etc.\n\nAccès rapide\nNetflix, Prime, Disney+, Hulu\n\nConnectivité\nBluetooth + infrarouge\n\nAlimentation\n2 piles AAA\n\nCompatibilité\nFire TV Stick, 4K, Cube\n\nRéf. Doshift\nAA7BB699",
+     "short_description": "Contrôlez votre divertissement et votre téléviseur par la voix grâce à cette télécommande ergonomique intégrant Alexa et des commandes de volume dédiées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/1-28.png"
+   ]
+  },
+  {
+   "sku": "doshift-73286",
+   "price": 229,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    6
+   ],
+   "locales": {
+    "fr": {
+     "name": "IMice T96 7200 DPI RGB – Souris gamer mécanique USB",
+     "description": "Profitez d’une expérience de jeu plus fluide avec la souris gamer IMice T96. Conçue pour les joueurs à la recherche de précision, de confort et d’un design original, elle se distingue par son style mécanique futuriste, son éclairage RGB dynamique et sa prise en main ergonomique.\n\nCaractéristique\nDétail\n\nMarque\nIMice\n\nModèle\nT96\n\nType de produit\nSouris gamer mécanique\n\nConnexion\nUSB filaire\n\nUtilisation\nGaming, bureau, design\n\nDPI\nJusqu’à 7200 DPI\n\nNiveaux DPI\n1000 / 1600 / 2400 / 3200 / 4800 / 7200\n\nBoutons\n7 boutons personnalisables\n\nÉclairage\nRVB\n\nDesign\nFuturiste mécanique\n\nConfort\nErgonomique avec support des doigts\n\nStabilité\nPoids intégrés\n\nCompatibilité\nOrdinateurs portables et PC\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Profitez d’une expérience de jeu plus fluide avec la souris gamer IMice T96. Conçue pour les joueurs à la recherche de précision, de confort et d’un design original, elle se distingue par son style mécanique futuriste,…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-20T142518.072.png"
+   ]
+  },
+  {
+   "sku": "doshift-73274",
+   "price": 319,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Projecteur Extérieur LED Haute Puissance 400W",
+     "description": "Éclaire puissamment de vastes espaces extérieurs grâce à ses 400W de technologie LED COB et sa protection étanche IP66 renforcée.\n\nCaractéristique\nDétail\n\nPuissance\n400 Watts (équivalent ~2000W–2140W halogène)\n\nLuminosité\n40 000 à 60 000 lumens (selon configuration)\n\nÉtanchéité\nIP66 (usage extérieur intensif)\n\nInstallation\nSupport métallique ajustable 180° à 270° (mur, sol ou plafond)\n\nDurée de vie\nJusqu’à 50 000 heures\n\nDimensions\n~52 cm × 32 cm × 19 cm (variable selon modèle)\n\nRéférence-doshift\nAA2BB0099",
+     "short_description": "Éclaire puissamment de vastes espaces extérieurs grâce à ses 400W de technologie LED COB et sa protection étanche IP66 renforcée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/1-25.png"
    ]
   }
  ]

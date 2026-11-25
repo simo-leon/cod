@@ -1,29 +1,48 @@
 {
  "products": [
   {
-   "sku": "doshift-58464",
-   "price": 219,
+   "sku": "doshift-60219",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    4,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Bobine de Câble Coaxial MX1510 BK – 100 m | Full HD & 4K Ultra HD",
-     "description": "Offrez une qualité d’image et de son optimale à vos installations TV, antenne et satellite avec la bobine de câble coaxial MX1510 BK. Conçu pour répondre aux exigences des installations modernes, ce câble assure une transmission stable et fiable du signal, compatible Full HD 1080p et 4K Ultra HD.Grâce à sa structure CXT-1 (Fe + Cu/Al) et à son blindage efficace, il réduit considérablement les interférences et les pertes de signal. Sa bobine de 100 mètres est idéale pour des installations propres, rapides et professionnelles, aussi bien pour les particuliers que pour les installateurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nMX1510 BK\n\nType de câble\nCXT-1 (Fe + Cu/Al)\n\nLongueur\n100 mètres\n\nCouleur\nNoir\n\nRésolution compatible\nFull HD 1080p / 4K Ultra HD\n\nCompatibilité\nTV, antenne, satellite, vidéo\n\nBlindage\nProtection efficace contre les interférences\n\nFormat\nBobine\n\nInstallation\nFacile et professionnelle\n\nAvantage principal\nSignal stable + réduction des pertes\n\nRéférence-doshift\nAA12BB599",
-     "short_description": "Offrez une qualité d’image et de son optimale à vos installations TV, antenne et satellite avec la bobine de câble coaxial MX1510 BK."
+     "name": "Encens Oud Prestige – L’Élégance du Oud Arabe Authentique",
+     "description": "Découvrez un encens d’exception qui sublime l’art du oud arabe traditionnel avec une touche contemporaine raffinée. Élaboré à partir de oud naturel soigneusement sélectionné au cœur du Moyen-Orient, cet encens diffuse un parfum profond et équilibré, mêlant notes boisées intenses, épices chaudes et subtiles touches florales.Sa combustion libère un arôme élégant et durable, idéal pour instaurer une ambiance sophistiquée lors de moments de détente, de réceptions, de rituels quotidiens ou spirituels.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nEncens au oud\n\nQualité\nLuxueuse et raffinée\n\nMatière principale\nOud naturel sélectionné\n\nOrigine du oud\nMoyen-Orient\n\nProfil olfactif\nBoisé · Épicé · Notes florales subtiles\n\nDiffusion\nParfum intense et durable\n\nUtilisation\nDétente · Réception · Rituel quotidien\n\nAmbiance\nÉlégante, chaleureuse et sophistiquée\n\nRéférence-DOSHIFT\nAA7BB099",
+     "short_description": "Découvrez un encens d’exception qui sublime l’art du oud arabe traditionnel avec une touche contemporaine raffinée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/image-2026-01-25-T201915-558-2.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T035610-425.png"
    ]
   },
   {
-   "sku": "doshift-58166",
-   "price": 329,
+   "sku": "doshift-60210",
+   "price": 359,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coffret Parfumé 3-en-1 – Rituel Olfactif Complet & Élégant",
+     "description": "Offrez une expérience parfumée complète grâce à ce coffret élégant réunissant trois essentiels complémentaires. Conçu pour accompagner chaque moment de la journée, ce trio permet de superposer les textures et les intensités afin de créer un sillage personnalisé, du plus léger au plus concentré. La brume apporte fraîcheur, l’eau de parfum structure la fragrance et l’huile parfumée prolonge la tenue. Idéal pour une routine quotidienne raffinée ou comme cadeau élégant et intemporel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nComposition du coffret\nEau De Parfum · Body Mist · Perfume Oil\n\nContenances\nEau De Parfum 60 ml · Body Mist 250 ml · Perfume Oil 12 ml\n\nType de produits\nParfum vaporisateur (EDP) · Brume corporelle · Huile parfumée\n\nUtilisation recommandée\nBrume sur le corps, EDP sur les points de pulsation, huile en touche finale\n\nSuperposition\nOui, formats conçus pour être combinés\n\nOccasions\nUsage quotidien · Sorties · Cadeau\n\nPublic\nMixte\n\nRéférence-DOSHIFT\nAA25BB099",
+     "short_description": "Offrez une expérience parfumée complète grâce à ce coffret élégant réunissant trois essentiels complémentaires."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T033335-354.png"
+   ]
+  },
+  {
+   "sku": "doshift-60197",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -31,74 +50,77 @@
    ],
    "locales": {
     "fr": {
-     "name": "Splitter HDMI 1 en 8 Sorties, Splitter HDMI de qualité supérieure Ultra HD 4K 60HZ 1×8 Haute résolution jusqu’à 4Kx2K et 3D, Prend en Charge Le contrôle…",
-     "description": "Répartiteur HDMI 1 entrée 8 sorties, qualité supérieure Ultra HD 4K 60Hz 1X8 répartiteur HDMI haute résolution jusqu’à 4Kx2K et 3D, prend en charge le contrôle Edid et Hdcp – Adaptateur inclus\n\nAccessoire ou pièce ou fourniture\n\nBiss\n\nNoir",
-     "short_description": "Répartiteur HDMI 1 entrée 8 sorties, qualité supérieure Ultra HD 4K 60Hz 1X8 répartiteur HDMI haute résolution jusqu’à 4Kx2K et 3D, prend en charge le contrôle Edid et Hdcp – Adaptateur inclus"
+     "name": "Filtre CPL 67 mm à Clip pour Smartphone – Large Compatibilité",
+     "description": "Améliorez instantanément la qualité de vos photos et vidéos mobiles avec ce filtre CPL 67 mm à clip, conçu pour réduire les reflets indésirables sur les surfaces brillantes comme l’eau, le verre ou les écrans. Il aide aussi à renforcer le contraste et à rendre les couleurs plus riches et naturelles, pour un rendu plus propre et plus professionnel.\n\nCaractéristique\nDétail\n\nType de produit\nFiltre CPL pour smartphone\n\nDiamètre\n67 mm\n\nSystème de fixation\nClip / pince universelle\n\nFonction principale\nRéduction des reflets et amélioration du contraste\n\nCompatibilité\nCompatible avec la plupart des objectifs de téléphone portable\n\nUtilisation\nPhoto et vidéo mobile\n\nAccessoires inclus\nClip universel, filtre CPL, chiffon de nettoyage, cache objectif, étui de rangement\n\nCouleur\nNoir\n\nRéférence Doshift\nAA28BB099",
+     "short_description": "Améliorez instantanément la qualité de vos photos et vidéos mobiles avec ce filtre CPL 67 mm à clip, conçu pour réduire les reflets indésirables sur les surfaces brillantes comme l’eau, le verre ou les écrans."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/6113wCoGtL._AC_SL1500_.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T021943-739.png"
    ]
   },
   {
-   "sku": "doshift-58149",
-   "price": 109,
+   "sku": "doshift-60173",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Adaptateur HDMI Rotatif à Angle – Connecteur HDMI Mâle/Femelle Plaqué Or",
-     "description": "Cet adaptateur HDMI rotatif à angle est la solution idéale pour connecter vos appareils dans des espaces restreints sans plier ni endommager les câbles. Grâce à son design angulaire rotatif, il permet d’orienter facilement la connexion HDMI selon vos besoins, améliorant ainsi l’ergonomie et la durabilité de vos installations audio-vidéo.\n\nDoté de connecteurs plaqués or, cet adaptateur garantit une excellente transmission du signal, une meilleure résistance à la corrosion et une qualité d’image et de son optimale. Parfait pour les TV, écrans, ordinateurs, consoles de jeux, TV Box et projecteurs, il s’adapte aussi bien à un usage domestique que professionnel.",
-     "short_description": "Cet adaptateur HDMI rotatif à angle est la solution idéale pour connecter vos appareils dans des espaces restreints sans plier ni endommager les câbles."
+     "name": "Chapelet de Prière Élégant – Sérénité et Spiritualité au Quotidien",
+     "description": "Apporte calme, recueillement et raffinement à chaque moment de prière grâce à ce chapelet de prière (Tasbih) soigneusement conçu. Sa prise en main confortable et son enfilage fluide facilitent le dhikr et la méditation, permettant une utilisation agréable au quotidien. Avec sa finition soignée et sa pampille décorative, il constitue à la fois un accessoire spirituel essentiel et un objet élégant, idéal pour un usage personnel ou comme cadeau symbolique empreint de sens.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nChapelet de prière (Tasbih)\n\nNombre de perles\n99 perles\n\nMatériau\nPerles polies à finition lisse\n\nMontage\nFil résistant avec pampille décorative\n\nUtilisation\nPrière, dhikr, méditation\n\nPrise en main\nConfortable et fluide\n\nEntretien\nNettoyage doux avec chiffon sec\n\nRéférence-doshift\nAA0BB799",
+     "short_description": "Apporte calme, recueillement et raffinement à chaque moment de prière grâce à ce chapelet de prière (Tasbih) soigneusement conçu."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/hdmi-adapter-hdmi-stecker-hdmi-buchse-winkel-rotator-vergoldet.webp"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-04-01T201746.686.png"
    ]
   },
   {
-   "sku": "doshift-58143",
-   "price": 59,
+   "sku": "doshift-60166",
+   "price": 100,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Adaptateur HDMI f/m coude 90°",
-     "description": "Adaptateur  HDMI fiche femelle vers une fiche mâle, avec un coude de 90 degrés, pour la transmission de données Audio et Vidéo Connexion HDMI fiche femelle 19 broches vers HDMI fiche mâle 19 broches Contacts dorés, supporte le HDMI 1.3 b,(câble non fourni)",
-     "short_description": "Adaptateur  HDMI fiche femelle vers une fiche mâle, avec un coude de 90 degrés, pour la transmission de données Audio et Vidéo Connexion HDMI fiche femelle 19 broches vers HDMI fiche mâle 19 broches Contacts dorés,…"
+     "name": "Tasbih Perles de Prière – Méditation & Sérénité",
+     "description": "Apportez paix et concentration à vos moments spirituels avec ce tasbih élégant aux perles raffinées, conçu pour accompagner vos instants de méditation et de prière. Son design soigné et sa finition délicate en font un accessoire à la fois spirituel et esthétique.\n\nIdéal pour la prière quotidienne, la lecture et la dévotion, il favorise la concentration et la sérénité intérieure. Léger et agréable en main, il peut être utilisé à la maison, à la mosquée ou offert en cadeau.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nTasbih / Chapelet de prière\n\nUtilisation\nMéditation, prière, lecture spirituelle\n\nPerles\nFinition lisse et brillante\n\nAccessoire\nPompon décoratif\n\nCouleur\nBleu (selon modèle)\n\nPrise en main\nConfortable et légère\n\nIdéal pour\nConcentration & sérénité\n\nUsage\nMaison, mosquée, cadeau spirituel\n\nRéférence – DOSHIFT\nAA2BB999",
+     "short_description": "Apportez paix et concentration à vos moments spirituels avec ce tasbih élégant aux perles raffinées, conçu pour accompagner vos instants de méditation et de prière."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/1-79.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/140d4705-19e0-42a1-8314-a916ce65fa28.jpeg"
    ]
   },
   {
-   "sku": "doshift-58181",
-   "price": 369,
+   "sku": "doshift-60159",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Lecteur de Code-Barres USB / RJ45 AZ-10F – Rapide & Fiable",
-     "description": "Le lecteur de code-barres AZ-10F est une solution performante et polyvalente pour la lecture rapide des codes-barres dans les environnements professionnels. Conçu pour une utilisation en magasin, entrepôt, caisse ou bureau, il assure une lecture précise et fluide des codes 1D grâce à sa technologie optique fiable.\n\nDoté d’une double connectivité USB et RJ45, il s’intègre facilement à différents systèmes informatiques et terminaux de point de vente. Son design ergonomique garantit une prise en main confortable pour un usage intensif au quotidien.",
-     "short_description": "Le lecteur de code-barres AZ-10F est une solution performante et polyvalente pour la lecture rapide des codes-barres dans les environnements professionnels."
+     "name": "Tapis de Prière Islamique – Confort, Sérénité et Élégance Spirituelle",
+     "description": "Apportez un espace de recueillement serein et harmonieux à chaque prière grâce à ce tapis de prière islamique soigneusement conçu. Il offre une surface douce et agréable, assurant un confort optimal lors des différentes positions de la prière quotidienne.\n\nSes motifs inspirés de l’architecture islamique subliment les moments spirituels et créent une atmosphère apaisante, aussi bien à la maison qu’à la mosquée. Léger et facile à plier, il s’adapte parfaitement à un usage quotidien, aux déplacements ou comme cadeau spirituel plein de sens.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nTapis de prière islamique\n\nUtilisation\nPrière quotidienne, méditation, lecture du Coran\n\nMatière\nTissu doux et agréable au toucher\n\nConfort\nSurface rembourrée pour une meilleure posture\n\nDesign\nMotifs islamiques élégants et intemporels\n\nEntretien\nFacile à nettoyer et à entretenir\n\nTransport\nLéger, pliable et facile à transporter\n\nRéférence-DOSHIFT\nAA4BB599",
+     "short_description": "Apportez un espace de recueillement serein et harmonieux à chaque prière grâce à ce tapis de prière islamique soigneusement conçu."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/387_13-scaled.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T185934-510.png"
    ]
   },
   {
-   "sku": "doshift-58176",
+   "sku": "doshift-60154",
    "price": 129,
    "stock": 10,
    "status": 0,
@@ -108,17 +130,17 @@
    ],
    "locales": {
     "fr": {
-     "name": "DVR TURBO HD 8 Canaux 4MP – DS-7208HQHI-K1/E | Vidéosurveillance Haute Performance",
-     "description": "Le DVR TURBO HD DS-7208HQHI-K1/E est une solution de vidéosurveillance fiable et performante, idéale pour les maisons, commerces, bureaux et entrepôts. Grâce à sa compatibilité multi-technologies (Turbo HD, AHD, CVI, CVBS et IP), il s’adapte facilement à différents types de caméras existantes ou nouvelles.Il prend en charge la compression avancée H.265 Pro+, garantissant une excellente qualité d’image tout en optimisant l’espace de stockage. Robuste, compact (boîtier 1U) et simple à installer, ce DVR assure une surveillance fluide, stable et sécurisée.",
-     "short_description": "Le DVR TURBO HD DS-7208HQHI-K1/E est une solution de vidéosurveillance fiable et performante, idéale pour les maisons, commerces, bureaux et entrepôts."
+     "name": "Caniveau de Sol Poussoir Anti-Odeur 10×10 cm – Évacuation Intelligente & Hygiène Optimale",
+     "description": "Optimisez l’évacuation de l’eau tout en bloquant efficacement les remontées d’odeurs grâce à ce caniveau de sol à mécanisme poussoir intelligent. Son système s’ouvre automatiquement sous le passage de l’eau et se referme une fois l’écoulement terminé, empêchant ainsi les mauvaises odeurs, les insectes et les remontées d’air.\n\nAvec son format compact 10 × 10 cm, il s’intègre facilement dans les espaces réduits tout en garantissant une installation discrète, propre et durable. Idéal pour les salles de bain, douches, cuisines ou balcons, il combine performance, hygiène et facilité d’entretien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCaniveau / siphon de sol poussoir\n\nDimensions\n10 × 10 cm\n\nSystème anti-odeur\nMécanisme poussoir automatique\n\nFonctionnement\nOuverture sous passage de l’eau, fermeture automatique\n\nInstallation\nÀ encastrer au sol\n\nUtilisation\nSalle de bain, douche, cuisine, balcon\n\nAvantage principal\nEmpêche les odeurs et les insectes\n\nEntretien\nNettoyage simple et rapide\n\nRéférence-DOSHIFT\nAA6BB099",
+     "short_description": "Optimisez l’évacuation de l’eau tout en bloquant efficacement les remontées d’odeurs grâce à ce caniveau de sol à mécanisme poussoir intelligent."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/2-1-1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-01-31T192905-986.png"
    ]
   },
   {
-   "sku": "doshift-58017",
+   "sku": "doshift-60148",
    "price": 79,
    "stock": 10,
    "status": 0,
@@ -128,73 +150,52 @@
    ],
    "locales": {
     "fr": {
-     "name": "Pelle à Litière Doskocil Petmate avec Protection Microban",
-     "description": "La pelle à litière Doskocil Petmate avec Microban est conçue pour assurer un nettoyage plus hygiénique et plus efficace du bac à litière de votre chat. Grâce à la technologie Microban intégrée, elle aide à réduire la prolifération des bactéries, des odeurs et des taches, pour une utilisation plus propre au quotidien.\n\nSolide et pratique, cette pelle permet de séparer facilement les déchets de la litière propre, tout en offrant une prise en main confortable. Idéale pour un usage régulier, elle constitue un accessoire indispensable pour maintenir un environnement sain et agréable pour votre chat et votre intérieur.",
-     "short_description": "La pelle à litière Doskocil Petmate avec Microban est conçue pour assurer un nettoyage plus hygiénique et plus efficace du bac à litière de votre chat."
+     "name": "Extension de Robinet Flexible 360° – Précision, Confort et Économie d’Eau",
+     "description": "Optimisez l’utilisation de votre robinet grâce à cette extension flexible à rotation complète, conçue pour diriger l’eau avec précision et améliorer le confort au quotidien. Sa rotation multidirectionnelle à 360° permet d’atteindre facilement chaque recoin de l’évier, idéale pour le lavage, le rinçage et le nettoyage.\n\nDotée d’une tête filtrante réglable, elle offre un jet maîtrisé qui réduit les éclaboussures, améliore l’efficacité et contribue à une utilisation plus économique de l’eau. Facile à installer sans outils, elle convient parfaitement à la cuisine comme à la salle de bain.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nExtension de robinet flexible\n\nRotation\n360° multidirectionnelle\n\nTête\nFiltrante réglable\n\nFonction\nOrientation précise du jet d’eau\n\nInstallation\nFacile, sans outils\n\nCompatibilité\nRobinets standards\n\nUtilisation\nCuisine et salle de bain\n\nRéférence-doshift\nAA2BB899",
+     "short_description": "Optimisez l’utilisation de votre robinet grâce à cette extension flexible à rotation complète, conçue pour diriger l’eau avec précision et améliorer le confort au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/51cJVuNu98L._AC_SL1000__.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-01-31T202212-649.png"
    ]
   },
   {
-   "sku": "doshift-58007",
-   "price": 109,
+   "sku": "doshift-60136",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Brosse pour Animaux de Compagnie – Toilettage Doux et Efficace",
-     "description": "Cette brosse pour animaux de compagnie est idéale pour le toilettage quotidien des chiens et chats. Elle permet d’éliminer les poils morts, de réduire la perte de poils et de garder le pelage propre, doux et brillant. Son utilisation régulière aide également à stimuler la circulation sanguine et à améliorer le confort de votre animal.\n\nConçue pour être douce et agréable, cette brosse est facile à utiliser et convient à différents types de pelage. Un accessoire indispensable pour assurer hygiène, bien-être et soin à votre compagnon au quotidien.",
-     "short_description": "Cette brosse pour animaux de compagnie est idéale pour le toilettage quotidien des chiens et chats. Elle permet d’éliminer les poils morts, de réduire la perte de poils et de garder le pelage propre, doux et brillant."
+     "name": "Coffret Parfumé Capri – Fraîcheur & Douceur au Quotidien",
+     "description": "Apportez une touche de fraîcheur et d’élégance à votre routine quotidienne grâce à ce coffret parfumé Capri, composé d’une brume parfumée et d’une lotion pour le corps assortie.La brume diffuse un parfum léger, féminin et raffiné, idéal pour une sensation de fraîcheur instantanée, tandis que la lotion hydrate la peau en profondeur tout en prolongeant délicatement le sillage parfumé.\n\nCette combinaison harmonieuse est parfaite pour un usage quotidien, après la douche ou à tout moment de la journée, et constitue également une excellente idée cadeau, grâce à sa présentation soignée et prête à offrir.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCoffret parfumé femme\n\nContenu\nBrume parfumée + lotion parfumée pour le corps\n\nBrume parfumée\n250 ml\n\nLotion parfumée\n236 ml\n\nParfum\nCapri\n\nFonction\nParfumer et hydrater la peau\n\nUtilisation\nUsage quotidien\n\nPrésentation\nCoffret prêt à offrir\n\nRéférence-doshift\nAA6BB599",
+     "short_description": "Apportez une touche de fraîcheur et d’élégance à votre routine quotidienne grâce à ce coffret parfumé Capri, composé d’une brume parfumée et d’une lotion pour le corps assortie.La brume diffuse un parfum léger, féminin…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/2504945047_1-scaled.webp"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-01T033827-704.png"
    ]
   },
   {
-   "sku": "doshift-58002",
-   "price": 89,
+   "sku": "doshift-60184",
+   "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    2,
+    6
    ],
    "locales": {
     "fr": {
-     "name": "Pet Brush Dog & for Cat Brushes for Shedding and Grooming 2 In 1 Massage Comb",
-     "description": "Le Pet Brush Dog for Cat 2 en 1 est une brosse polyvalente conçue pour le toilettage et le massage des chiens et chats. Elle aide à éliminer efficacement les poils morts et réduit la perte de poils tout en stimulant la circulation sanguine grâce à ses picots doux. Son design ergonomique permet un brossage confortable pour l’animal et l’utilisateur, combinant soin du pelage et moment de détente agréable pour votre compagnon.",
-     "short_description": "Le Pet Brush Dog for Cat 2 en 1 est une brosse polyvalente conçue pour le toilettage et le massage des chiens et chats."
+     "name": "Manettes Gâchettes Gaming pour Smartphone",
+     "description": "Améliorez instantanément votre précision et votre réactivité en jeu grâce à ces gâchettes ergonomiques conçues pour les jeux mobiles compétitifs. Optimisez vos performances avec un déclenchement rapide et précis, idéal pour les jeux de tir et d’action. Fixez-les facilement sur votre smartphone et profitez d’un contrôle à 4 doigts pour tirer, viser et bouger simultanément sans gêner l’écran. Design compact, léger et antidérapant pour une prise en main confortable et stable, même pendant les longues sessions de jeu.\n\nCaractéristique\nDétail\n\nType\nGâchettes gaming pour smartphone\n\nCompatibilité\nCompatible avec la majorité des smartphones (mode paysage)\n\nInstallation\nSystème à clip, fixation rapide sans outil\n\nUtilisation\nJeux FPS, Battle Royale, jeux d’action\n\nMatériau\nStructure robuste avec bouton réactif\n\nAvantage principal\nAméliore la précision et la rapidité de tir\n\nContenu\nLot de 2 gâchettes",
+     "short_description": "Améliorez instantanément votre précision et votre réactivité en jeu grâce à ces gâchettes ergonomiques conçues pour les jeux mobiles compétitifs."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/3882dbd4-ff08-404c-98fa-1e52290d5492.webp"
-   ]
-  },
-  {
-   "sku": "doshift-57992",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Balles couineurs indestructibles pour chien – Balle couineuse en latex pour chiens – Jouets interactifs pour chiens de taille moyenne et agressive, de grande taille",
-     "description": "À propos de cet article\n\nSoulagement de la dentition et joie : non seulement une aide à la dentition pour les chiens, mais cette balle multifonction en latex améliore également leur divertissement avec des sons amusants. Gardez votre ami à fourrure heureux et engagé pendant des heures tout en soulageant l’inconfort de dentition.\n\nDivertissement durable : fabriquée en latex Q-élastique, notre balle couineur pour chien fournit un matériau durable et résistant aux morsures qui peut résister à une utilisation à long terme et est parfaite pour les animaux qui aiment mâcher.\n\nNettoyage sans tracas : ne laisse pas de coins morts, notre balle couineur en latex pour chien est entièrement lavable, assurant un environnement de jeu hygiénique. Les propriétaires peuvent facilement nettoyer et entretenir ce jouet, favorisant la santé et le bien-être de leurs animaux de compagnie bien-aimés.\n\nSon intéressant : améliorez le temps de jeu de votre animal de compagnie avec notre balle couinante en latex. La stimulation sonore interactive créée en appuyant sur le jouet, stimule le sens de l’ouïe de votre animal de compagnie et augmente le plaisir d’interagir avec votre compagnon à fourrure.\n\nMaximisez le potentiel de votre chien : notre balle couineuse en latex pour chien est idéale pour jouer en intérieur et en extérieur, pour l’entraînement et améliorer l’intelligence et la capacité physique de votre animal de compagnie, ce qui la rend adaptée à tous les scénarios.",
-     "short_description": "À propos de cet article"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/61Om7PIpltL._AC_SL1500_.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-20T172413.154.png"
    ]
   }
  ]

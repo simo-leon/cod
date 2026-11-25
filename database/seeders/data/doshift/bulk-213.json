@@ -1,183 +1,48 @@
 {
  "products": [
   {
-   "sku": "doshift-70969",
-   "price": 269,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Organisateur Rotatif en Bambou avec 10 Bocaux en Verre – Rangement Élégant et Fonctionnel",
-     "description": "Apportez une touche naturelle et raffinée à votre cuisine avec cet organisateur rotatif en bambou équipé de 10 bocaux en verre. Conçu pour optimiser le rangement des épices, herbes, graines, condiments ou petits ingrédients du quotidien, il allie parfaitement esthétique, praticité et gain de place.\n\nGrâce à sa structure rotative à 360°, chaque bocal reste facilement accessible, ce qui rend son utilisation simple et agréable au quotidien. Son design compact à 2 niveaux permet de garder le plan de travail propre et bien organisé, tout en mettant en valeur vos ingrédients avec élégance.\n\nLes bocaux en verre transparent permettent d’identifier rapidement le contenu, tandis que leurs couvercles en bambou contribuent à une meilleure conservation et s’harmonisent parfaitement avec la structure. Solide, décoratif et fonctionnel, cet organisateur trouve facilement sa place dans la cuisine, sur un comptoir ou dans un espace café.\n\nCaractéristique\nDétail\n\nType de produit\nOrganisateur rotatif à épices\n\nMatière du support\nBambou\n\nMatière des bocaux\nVerre\n\nMatière des couvercles\nBambou\n\nNombre de bocaux\n10\n\nStructure\n2 niveaux\n\nFonction\nRangement et organisation\n\nRotation\n360°\n\nUtilisation\nÉpices, herbes, graines, condiments\n\nStyle\nNaturel, moderne et élégant\n\nEmplacement idéal\nCuisine, comptoir, étagère, espace café\n\nRéférence Doshift\nAA16BB099",
-     "short_description": "Apportez une touche naturelle et raffinée à votre cuisine avec cet organisateur rotatif en bambou équipé de 10 bocaux en verre."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-08T171603.335.png"
-   ]
-  },
-  {
-   "sku": "doshift-70014",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de 3 Pots à Épices en Bois avec Plateau – Élégance Naturelle pour Cuisine",
-     "description": "Apportez une touche chaleureuse et organisée à votre cuisine avec ce set de 3 pots à épices en bois accompagné de son plateau assorti. Pratique et décoratif, il permet de ranger proprement le sel, le sucre, les épices ou les condiments du quotidien tout en gardant vos essentiels à portée de main.\n\nSon design naturel s’intègre facilement dans tous les styles de cuisine, du moderne au rustique. Chaque pot est équipé d’un couvercle pour mieux protéger le contenu, tandis que le plateau assure une présentation soignée sur un plan de travail, une table ou une étagère. Idéal pour une utilisation quotidienne à la maison, mais aussi parfait comme élément de décoration fonctionnel.\n\nCaractéristique\nDétail\n\nType de produit\nSet de pots à épices\n\nContenu\n3 pots avec couvercles + 1 plateau\n\nMatière\nBois naturel\n\nUtilisation\nRangement du sel, sucre, épices, condiments\n\nDesign\nNaturel, élégant et pratique\n\nPlacement\nCuisine, table à manger, étagère, plan de travail\n\nEntretien\nNettoyage doux recommandé\n\nAvantage principal\nOrganisation pratique avec présentation esthétique\n\nRéférence Doshift\nAA11BB599",
-     "short_description": "Apportez une touche chaleureuse et organisée à votre cuisine avec ce set de 3 pots à épices en bois accompagné de son plateau assorti."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-31T214837.066.png"
-   ]
-  },
-  {
-   "sku": "doshift-70002",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gobelet Isotherme Enfant avec Paille et Poignée – Motif Chat",
-     "description": "Offrez à votre enfant une bouteille aussi mignonne que pratique avec ce gobelet isotherme à paille au motif chat. Conçu pour accompagner les petits au quotidien, il garde les boissons chaudes ou froides plus longtemps tout en assurant une prise en main facile grâce à sa grande poignée ergonomique. Son couvercle avec paille intégrée permet de boire confortablement, tandis que sa conception anti-fuite aide à éviter les petits accidents pendant les déplacements.\n\nFabriqué avec un intérieur en acier inoxydable SUS 316, ce mug isotherme allie résistance, sécurité et durabilité. Sa base antidérapante en caoutchouc améliore la stabilité sur les surfaces, et son design coloré séduit autant les enfants que les parents. Idéal pour l’école, les sorties, les voyages ou l’usage quotidien à la maison.\n\nCaractéristique\nDétail\n\nType\nGobelet isotherme enfant\n\nMatière intérieure\nAcier inoxydable SUS 316\n\nCouvercle\nAvec paille intégrée\n\nIsolation\nChaud/Froid jusqu’à 12 h\n\nBase\nAntidérapante en caoutchouc\n\nPoignée\nGrande poignée ergonomique\n\nMotif\nChat\n\nUtilisation\nEau, jus, lait, boissons chaudes/froides\n\nPublic\nEnfants\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Offrez à votre enfant une bouteille aussi mignonne que pratique avec ce gobelet isotherme à paille au motif chat."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-31T211320.445.png"
-   ]
-  },
-  {
-   "sku": "doshift-69836",
-   "price": 59,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Adaptateur OTG USB 2.0 Type-C – Connectez Clé USB, Souris et Clavier à Votre Smartphone",
-     "description": "Profitez d’une connexion simple et rapide avec cet adaptateur OTG USB 2.0 Type-C. Compact et facile à transporter, il permet de relier facilement plusieurs périphériques USB à un smartphone, une tablette ou tout autre appareil compatible avec la fonction OTG. Idéal pour connecter une clé USB, une souris, un clavier ou encore d’autres accessoires, il offre une solution pratique au quotidien.\n\nGrâce à son format mini, il se glisse facilement dans une poche, un sac ou une trousse d’accessoires. Son utilisation plug & play vous permet de l’utiliser immédiatement, sans installation compliquée. C’est l’accessoire parfait pour le transfert de données, l’extension de connectivité et une utilisation plus confortable de vos appareils mobiles.\n\nQue ce soit pour le travail, les études ou un usage personnel, cet adaptateur OTG est un indispensable pour profiter pleinement de vos périphériques USB sur vos appareils compatibles.\n\nCaractéristique\nDétail\n\nType de produit\nAdaptateur OTG USB 2.0\n\nConnectique\nUSB Type-C vers USB\n\nFonction\nConnexion de périphériques USB à un appareil compatible OTG\n\nCompatibilité\nSmartphones Android, tablettes, clés USB, souris, claviers, manettes et autres appareils USB\n\nUtilisation\nPlug & Play\n\nFormat\nCompact et portable\n\nCouleur\nArgent\n\nTransport\nFacile à emporter\n\nRéférence Doshift\nAA0BB399",
-     "short_description": "Profitez d’une connexion simple et rapide avec cet adaptateur OTG USB 2.0 Type-C. Compact et facile à transporter, il permet de relier facilement plusieurs périphériques USB à un smartphone, une tablette ou tout autre…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-30T164114.164.png"
-   ]
-  },
-  {
-   "sku": "doshift-69197",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Câble ORAIMO USB vers USB-C",
-     "description": "Profitez d’un câble de charge et de synchronisation pratique, conçu pour connecter facilement vos appareils USB-C à un port USB standard. Compact, souple et résistant, le câble ORAIMO OCD-114C est idéal pour la recharge quotidienne de smartphones, tablettes, écouteurs sans fil et autres appareils compatibles. Son design sobre et sa finition soignée en font un accessoire fiable pour la maison, le bureau ou les déplacements.\n\nCaractéristique\nDétail\n\nProduit\nCâble USB vers USB-C\n\nMarque\nORAIMO\n\nModèle\nOCD-114C\n\nConnecteur 1\nUSB-A\n\nConnecteur 2\nUSB-C\n\nUtilisation\nCharge et synchronisation\n\nCompatibilité\nAppareils compatibles USB-C\n\nCouleur\nNoir\n\nDesign\nSouple, compact et élégant\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Profitez d’un câble de charge et de synchronisation pratique, conçu pour connecter facilement vos appareils USB-C à un port USB standard."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-24T163445.979.png"
-   ]
-  },
-  {
-   "sku": "doshift-68773",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Présentoir à Fruits 2 Niveaux en Métal",
-     "description": "Apportez une touche d’élégance à votre cuisine.Optimisez votre espace tout en mettant vos fruits en valeur grâce à ce présentoir à 2 niveaux au design moderne et raffiné. Sa structure ouverte permet une bonne circulation de l’air pour conserver vos fruits plus longtemps, tout en offrant une présentation chic et organisée sur votre plan de travail.\n\nSon métal robuste assure une excellente stabilité et une grande durabilité. Idéal pour la cuisine, la salle à manger ou même comme élément décoratif sur une table.\n\nCaractéristique\nDétail\n\nType\nPrésentoir à fruits 2 niveaux\n\nMatériau\nMétal\n\nStructure\nDouble panier superposé\n\nUtilisation\nFruits, légumes, décoration\n\nStyle\nModerne & élégant\n\nEntretien\nNettoyage facile\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Apportez une touche d’élégance à votre cuisine.Optimisez votre espace tout en mettant vos fruits en valeur grâce à ce présentoir à 2 niveaux au design moderne et raffiné."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-17T232035.334.png"
-   ]
-  },
-  {
-   "sku": "doshift-68645",
+   "sku": "doshift-77516",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11,
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Crème Anti-Douleur VITFÉ – Soulagement Rapide & Fraîcheur Intense",
-     "description": "Retrouvez votre mobilité et dites adieu aux douleurs avec la crème VITFÉ. Sa formule puissante au menthol procure une sensation de fraîcheur immédiate tout en aidant à soulager efficacement les douleurs musculaires et articulaires. Idéale après le sport, une longue journée ou en cas de tensions, elle s’applique facilement et pénètre rapidement sans laisser de film gras.\n\nGrâce à son format compact, emportez-la partout : à la maison, au bureau ou en déplacement. Une solution pratique et efficace pour un confort quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nCrème anti-douleur\n\nEffet\nRafraîchissant & apaisant\n\nZones d’application\nDos, cou, jambes, articulations\n\nTexture\nNon grasse\n\nUtilisation\nQuotidienne / après effort\n\nFormat\nPot\n\nRéférence Doshift\nAA2BB899",
-     "short_description": "Retrouvez votre mobilité et dites adieu aux douleurs avec la crème VITFÉ. Sa formule puissante au menthol procure une sensation de fraîcheur immédiate tout en aidant à soulager efficacement les douleurs musculaires et…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-17T045642.248.png"
-   ]
-  },
-  {
-   "sku": "doshift-68607",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Thermos Isotherme 0.65L avec poignée – Élégant et pratique",
-     "description": "Profitez de vos boissons chaudes ou froides plus longtemps grâce à ce thermos isotherme élégant et performant. Conçu pour conserver efficacement la température, il est idéal pour le café, le thé ou toute autre boisson. Sa capacité de 0,65 L est parfaite pour une utilisation quotidienne à la maison, au bureau ou lors de vos déplacements.\n\nSon design moderne avec finition texturée apporte une touche raffinée à votre table. La poignée ergonomique assure une prise en main confortable tandis que le bec verseur précis permet de servir facilement sans éclaboussures.\n\nGrâce à sa structure intérieure en acier inoxydable, ce thermos garantit une excellente conservation thermique et une grande durabilité. Compact et pratique, il est parfait pour accompagner vos moments café ou thé en toute simplicité.\n\nCaractéristique\nDétail\n\nType\nThermos isotherme\n\nCapacité\n0.65 L\n\nMatériau intérieur\nAcier inoxydable\n\nUtilisation\nBoissons chaudes et froides\n\nPoignée\nErgonomique\n\nBec verseur\nAnti-goutte\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Profitez de vos boissons chaudes ou froides plus longtemps grâce à ce thermos isotherme élégant et performant. Conçu pour conserver efficacement la température, il est idéal pour le café, le thé ou toute autre boisson."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-17T031220.605.png"
-   ]
-  },
-  {
-   "sku": "doshift-68309",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Pince Universelle Antidérapante – Outil Multifonction pour Bricolage et Réparation",
-     "description": "Travaillez, serrez et coupez facilement avec cette pince universelle robuste conçue pour les travaux de bricolage, d’électricité et de maintenance. Sa tête en acier résistant assure une excellente durabilité tandis que ses mâchoires dentées offrent une prise ferme sur différents matériaux comme les fils, écrous et petites pièces métalliques.\n\nLes poignées ergonomiques antidérapantes garantissent une prise confortable et sécurisée, même lors d’une utilisation prolongée. Compacte et polyvalente, cette pince est un outil indispensable pour la maison, l’atelier ou la boîte à outils.\n\nIdéale pour serrer, tordre, maintenir ou couper, elle facilite vos réparations et vos projets de bricolage au quotidien.\n\nCaractéristique\nDétail\n\nType\nPince universelle multifonction\n\nUtilisation\nBricolage, réparation, électricité\n\nMatériau\nAcier résistant\n\nMâchoires\nDentées pour une meilleure adhérence\n\nPoignée\nErgonomique antidérapante\n\nPrise en main\nConfortable et sécurisée\n\nFonction\nSerrer, maintenir, tordre et couper\n\nRéférence DOSHIFT\nAA2BB399",
-     "short_description": "Travaillez, serrez et coupez facilement avec cette pince universelle robuste conçue pour les travaux de bricolage, d’électricité et de maintenance."
+     "name": "Set de 12 Brochettes BBQ en Acier Inoxydable + Couteau Offert – 40CM",
+     "description": "Préparez de délicieuses grillades avec ce set de 12 brochettes en acier inoxydable de 40 cm accompagné d’un couteau pratique. Idéal pour barbecue, cuisine, camping et soirées grillades entre amis ou en famille. Les brochettes longues et solides permettent de cuire facilement viande, poulet, légumes ou poisson en toute sécurité.\n\nCaractéristique\nDétail\n\nType\nSet de brochettes BBQ\n\nQuantité\n12 Brochettes + 1 couteau\n\nLongueur des brochettes\n40 CM\n\nMatière\nAcier inoxydable\n\nUtilisation\nBarbecue, grill, cuisine, camping\n\nRéutilisable\nOui\n\nEntretien\nLavage facile\n\nCouleur\nArgenté + rouge\n\nRéférence Doshift\nAA5BB599",
+     "short_description": "Préparez de délicieuses grillades avec ce set de 12 brochettes en acier inoxydable de 40 cm accompagné d’un couteau pratique. Idéal pour barbecue, cuisine, camping et soirées grillades entre amis ou en famille."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-14T233043.092.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-11T210821.214.png"
    ]
   },
   {
-   "sku": "doshift-68146",
-   "price": 129,
+   "sku": "doshift-77500",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à Pied Haute Pression 160 PSI – Multifonction Vélo et Gonflables",
+     "description": "Gonflez rapidement vos pneus, ballons et accessoires gonflables avec cette pompe à pied haute pression robuste et pratique. Grâce à sa conception stable et ergonomique, elle offre un gonflage efficace avec moins d’effort, idéale pour une utilisation quotidienne à la maison, en extérieur ou en déplacement.\n\nCaractéristique\nDétail\n\nType\nPompe à pied manuelle\n\nPression maximale\n160 PSI\n\nUtilisation\nVélo, ballon, matelas gonflable, poussette\n\nMatière\nMétal et plastique renforcé\n\nCouleur\nNoir\n\nBase\nLarge et antidérapante\n\nPoignée\nErgonomique\n\nCompatibilité\nValves multiples\n\nRéférence Doshift\nAA16BB099",
+     "short_description": "Gonflez rapidement vos pneus, ballons et accessoires gonflables avec cette pompe à pied haute pression robuste et pratique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-11T204731.512.png"
+   ]
+  },
+  {
+   "sku": "doshift-77422",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -185,13 +50,146 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Frontale LED Rechargeable Multifonction",
-     "description": "Éclairez efficacement vos activités nocturnes avec cette lampe frontale LED compacte et puissante. Conçue pour offrir un éclairage stable et confortable, elle se fixe facilement sur la tête grâce à son bandeau ajustable et léger. Son angle d’éclairage réglable permet d’orienter la lumière précisément selon vos besoins, tandis que plusieurs niveaux de luminosité assurent une adaptation parfaite à toutes les situations : camping, bricolage, randonnée ou travail de nuit.\n\nRechargeable via USB-C, cette lampe frontale combine praticité, autonomie et performance dans un format compact et robuste. Son design ergonomique garantit un port confortable même pendant de longues utilisations.\n\nCaractéristique\nDétail\n\nType de produit\nLampe frontale LED rechargeable\n\nSource lumineuse\nLED haute luminosité\n\nModes d’éclairage\n25% / 50% / 75% / 100%\n\nAngle réglable\nRotation jusqu’à 180°\n\nRecharge\nPort USB-C\n\nDimensions\n93 × 50 × 44 mm\n\nBandeau\nÉlastique ajustable et confortable\n\nUtilisation\nCamping, randonnée, bricolage, pêche, urgence\n\nRéférence DOSHIFT\nAA2BB699",
-     "short_description": "Éclairez efficacement vos activités nocturnes avec cette lampe frontale LED compacte et puissante."
+     "name": "Brosse Électrique Rechargeable 5 en 1 – Magic Brush",
+     "description": "Nettoyez plus facilement votre cuisine, salle de bain et surfaces du quotidien avec cette brosse électrique 5 en 1. Pratique et légère, elle fonctionne sans effort grâce à sa rotation motorisée et ses têtes interchangeables adaptées à plusieurs usages : carrelage, lavabo, évier, douche, baignoire et surfaces difficiles à frotter à la main.\n\nRechargeable par USB, elle est idéale pour éliminer la saleté, les traces de savon, la graisse et les taches sur différentes surfaces. Son design compact offre une bonne prise en main pour un nettoyage rapide et confortable.\n\nCaractéristique\nDétail\n\nNom du produit\nBrosse électrique rechargeable 5 en 1\n\nModèle\nMagic Brush\n\nType\nBrosse de nettoyage électrique\n\nAlimentation\nRechargeable par USB\n\nUtilisation\nCuisine, salle de bain, lavabo, évier, douche, carrelage\n\nTêtes incluses\nBrosse, éponge, tampon abrasif, pad de polissage\n\nAccessoires\nCâble USB et support\n\nCouleur\nBlanc\n\nAvantages\nNettoyage rapide, pratique et sans effort\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Nettoyez plus facilement votre cuisine, salle de bain et surfaces du quotidien avec cette brosse électrique 5 en 1."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/03/Nouveau-projet-2026-03-13T234534.227.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-07-28T144844.891.png"
+   ]
+  },
+  {
+   "sku": "doshift-77272",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes De Soleil Homme Rondes Noir Miroir Bleu",
+     "description": "Ajoutez une touche d’élégance moderne à votre style avec ces lunettes de soleil rondes noir miroir bleu au design raffiné et féminin. Leur monture noire brillante associée aux verres miroir bleu glacé crée un look chic et tendance parfait pour les journées ensoleillées et les tenues urbaines sophistiquées. Grâce à leur structure légère et confortable, elles offrent un port agréable tout au long de la journée tout en protégeant efficacement vos yeux avec des verres UV400. Un accessoire premium pensé pour sublimer chaque moment avec style.\n\nCaractéristique\nDétail\n\nMonture\nNoire brillante élégante\n\nVerres\nMiroir bleu avec protection UV400\n\nDesign\nRond féminin et moderne\n\nStructure\nLégère pour un confort quotidien\n\nStyle\nChic pour looks urbains et estivaux\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Ajoutez une touche d’élégance moderne à votre style avec ces lunettes de soleil rondes noir miroir bleu au design raffiné et féminin."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/31-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-77266",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes De Soleil Femme Rondes Blanc Perlé",
+     "description": "Illuminez votre style avec ces lunettes de soleil rondes blanc perlé au design féminin et raffiné. Leur monture blanche élégante associée aux verres bleu miroir apporte une allure fraîche, chic et moderne parfaite pour les journées ensoleillées et les looks estivaux premium. Conçues pour offrir légèreté et confort au quotidien, elles ajoutent une touche sophistiquée tout en protégeant efficacement vos yeux grâce aux verres UV400. Un accessoire idéal pour compléter une tenue élégante avec douceur et caractère.\n\nCaractéristique\nDétail\n\nMonture\nBlanche perlée élégante\n\nVerres\nMiroir bleu avec protection UV400\n\nDesign\nRond féminin et moderne\n\nStructure\nLégère pour un confort quotidien\n\nStyle\nChic pour looks estivaux et urbains\n\nRéférence-doshift\nAA3BB099",
+     "short_description": "Illuminez votre style avec ces lunettes de soleil rondes blanc perlé au design féminin et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/28-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-77254",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes De Soleil Homme Aviateur Transparent Fumé",
+     "description": "Affirmez votre style avec ces lunettes de soleil aviateur transparent fumé au design moderne et sophistiqué. Leur monture translucide noire associée aux verres dégradés violet fumé apporte une allure élégante et contemporaine idéale pour les looks urbains premium. La structure légère et les détails raffinés offrent un excellent confort au quotidien tout en renforçant une présence chic et masculine. Parfaites pour compléter une tenue fashion ou casual haut de gamme avec une touche de caractère moderne.\n\nCaractéristique\nDétail\n\nMonture\nTransparente fumée élégante\n\nDesign\nAviateur moderne et raffiné\n\nVerres\nDégradés violet fumé UV400\n\nStructure\nLégère et confortable au quotidien\n\nFinitions\nPremium avec détails sophistiqués\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Affirmez votre style avec ces lunettes de soleil aviateur transparent fumé au design moderne et sophistiqué."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/22-2.png"
+   ]
+  },
+  {
+   "sku": "doshift-77249",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes De Soleil Homme Aviateur Noir Luxe",
+     "description": "Affirmez votre élégance avec ces lunettes de soleil aviateur noir luxe au design raffiné et moderne. Leur monture noire sophistiquée associée aux détails métalliques dorés crée une allure premium idéale pour les styles urbains et élégants. Les verres dégradés violet fumé ajoutent une touche distinctive tout en offrant une protection optimale contre les rayons UV. Conçues pour allier légèreté, confort et présence visuelle, elles deviennent un accessoire incontournable pour compléter une tenue chic et contemporaine.\n\nCaractéristique\nDétail\n\nMonture\nNoire élégante avec finitions dorées\n\nDesign\nAviateur moderne et sophistiqué\n\nVerres\nDégradés violet fumé UV400\n\nStructure\nLégère pour un confort quotidien\n\nStyle\nPremium urbain et fashion\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Affirmez votre élégance avec ces lunettes de soleil aviateur noir luxe au design raffiné et moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/19-2.png"
+   ]
+  },
+  {
+   "sku": "doshift-77237",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes De Soleil Homme Cat Eye Transparent Gris",
+     "description": "Sublimez votre style avec ces lunettes de soleil cat eye transparent gris au design raffiné et contemporain. Leur monture translucide associée aux branches dorées apporte une touche élégante et sophistiquée idéale pour les looks urbains chic et premium. Les verres dégradés bleu nuit offrent une allure moderne tout en assurant une protection optimale pour un confort quotidien exceptionnel. Légères, élégantes et intemporelles, elles complètent parfaitement chaque tenue avec discrétion et caractère.\n\nCaractéristique\nDétail\n\nMonture\nTransparente gris fumé élégante\n\nDesign\nCat eye moderne et raffiné\n\nBranches\nMétalliques dorées premium\n\nVerres\nDégradés avec protection UV\n\nStructure\nLégère pour un confort quotidien\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Sublimez votre style avec ces lunettes de soleil cat eye transparent gris au design raffiné et contemporain."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/13-3.png"
+   ]
+  },
+  {
+   "sku": "doshift-77232",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes De Soleil Homme Oversize Noir Moderne",
+     "description": "Affirmez votre présence avec ces lunettes de soleil oversize noir moderne au style puissant et sophistiqué. Leur silhouette géométrique élégante combinée aux verres dégradés bleu nuit crée un look urbain premium parfait pour les hommes recherchant une allure distinguée et contemporaine. Conçues pour offrir confort et légèreté au quotidien, elles deviennent un accessoire incontournable pour compléter un style chic, casual ou fashion haut de gamme.\n\nCaractéristique\nDétail\n\nMonture\nNoir mat au design moderne\n\nStyle\nOversize masculin et élégant\n\nVerres\nDégradés bleu nuit avec protection UV\n\nConception\nLégère et confortable\n\nFinitions\nPremium minimalistes et raffinées\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Affirmez votre présence avec ces lunettes de soleil oversize noir moderne au style puissant et sophistiqué."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/10-3.png"
+   ]
+  },
+  {
+   "sku": "doshift-77227",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes De Soleil Homme Oversize Noir Mat",
+     "description": "Imposez votre présence avec ces lunettes de soleil oversize noir mat au design audacieux et moderne. Leur silhouette géométrique apporte une allure puissante et élégante, parfaite pour compléter des styles streetwear, casual chic ou urbains premium. Les verres dégradés ajoutent une touche sophistiquée tout en offrant un excellent confort visuel. Grâce à leur structure légère et leurs finitions haut de gamme, elles deviennent un accessoire incontournable pour un look affirmé.\n\nCaractéristique\nDétail\n\nMonture\nNoir mat au style moderne\n\nDesign\nOversize géométrique affirmé\n\nVerres\nDégradés avec protection UV\n\nStructure\nLégère pour un confort optimal\n\nFinitions\nPremium élégantes et urbaines\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Imposez votre présence avec ces lunettes de soleil oversize noir mat au design audacieux et moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/4-4.png"
    ]
   }
  ]

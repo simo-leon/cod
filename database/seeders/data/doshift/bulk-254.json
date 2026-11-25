@@ -1,8 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-52999",
-   "price": 195,
+   "sku": "doshift-58626",
+   "price": 199,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -11,153 +11,116 @@
    ],
    "locales": {
     "fr": {
-     "name": "Robinet Chromé Design Moderne – Élégance & Fonctionnalité pour Salle de Bain",
-     "description": "Apportez une touche de modernité et d’élégance à votre salle de bain avec ce robinet chromé au design épuré. Conçu pour un usage quotidien, il associe esthétique contemporaine, matériaux durables et confort d’utilisation. Son levier ergonomique assure une commande fluide de l’eau chaude et froide, tandis que sa finition chromée brillante résiste à la corrosion et conserve son éclat dans le temps. Facile à installer, ce robinet est idéal pour les lavabos modernes et s’intègre parfaitement à tout type de décoration intérieure.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nRobinet de lavabo\n\nDesign\nModerne et épuré\n\nFinition\nChromée brillante\n\nMatériau\nLaiton massif chromé\n\nCommande\nMitigeur monocommande\n\nCartouche\nCéramique anti-goutte\n\nEau\nChaude & froide\n\nInstallation\nFacile et rapide\n\nRésistance\nAnticorrosion et anticalcaire\n\nUtilisation\nSalle de bain, lavabo\n\nEntretien\nNettoyage simple, surface lisse\n\nRéférence-doshift\nAA10BB099",
-     "short_description": "Apportez une touche de modernité et d’élégance à votre salle de bain avec ce robinet chromé au design épuré."
+     "name": "Bobine de Câble Coaxial RG6U PLUS AZATECH Maxis MX1505WH – 100 m | Full HD & 4K Ultra HD",
+     "description": "Assurez une transmission stable, performante et durable des signaux TV, satellite et vidéo avec la bobine de câble coaxial RG6U PLUS AZATECH Maxis MX1505WH. Spécialement conçue pour les installations satellite, TNT, TV câble et vidéosurveillance, elle est compatible Full HD 1080p et 4K Ultra HD.Grâce à son âme centrale en acier cuivré (Fe + Cu), son blindage en aluminium et sa faible perte de signal, ce câble garantit une qualité d’image et de son optimale, même sur de longues distances. Son format bobine de 100 mètres est idéal pour une installation propre, rapide et professionnelle, aussi bien à domicile que pour les installateurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nAZATECH\n\nModèle\nMaxis MX1505WH\n\nType de produit\nBobine de câble coaxial\n\nType de câble\nRG6U PLUS (17VATC.A)\n\nCompatibilité vidéo\nFull HD 1080p / 4K Ultra HD\n\nÂme centrale\nAcier cuivré (Fe + Cu)\n\nBlindage\nAluminium – protection contre les interférences\n\nPerte de signal\n17 dB / 100 m à 800 MHz\n\nLongueur\n100 mètres\n\nCouleur\nBlanc (WH)\n\nApplications\nSatellite, TV câble/TNT, vidéosurveillance CCTV\n\nConditionnement\nBobine\n\nAvantage principal\nSignal stable + faible perte\n\nRéférence-doshift\nAA11BB599",
+     "short_description": "Assurez une transmission stable, performante et durable des signaux TV, satellite et vidéo avec la bobine de câble coaxial RG6U PLUS AZATECH Maxis MX1505WH."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_q54fe4q54fe4q54f-1-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/03cccfdb-8dd7-4882-8c9a-f1d2857011e1.jpeg"
    ]
   },
   {
-   "sku": "doshift-52730",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Base Mobile Universelle Réglable – Stabilité & Mobilité pour Électroménagers",
-     "description": "La Base Mobile Universelle est la solution idéale pour déplacer facilement vos appareils électroménagers lourds tout en garantissant une stabilité optimale. Grâce à sa conception robuste et réglable, elle s’adapte parfaitement aux machines à laver, sèche-linge, réfrigérateurs, meubles et autres équipements domestiques. Équipée de roues universelles avec système de blocage et d’une base anti-vibration, elle facilite le nettoyage, réduit le bruit et protège votre sol au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBase mobile universelle\n\nUtilisation\nMachine à laver, sèche-linge, réfrigérateur, meubles, plantes\n\nDimension réglable\n40 à 60 cm\n\nCapacité de charge\nÉlevée (appareils lourds)\n\nStructure\nPlastique renforcé + barres métalliques\n\nRoues\nRoues universelles pivotantes\n\nSystème de blocage\nOui (roues verrouillables)\n\nAnti-vibration\nOui\n\nAnti-bruit\nOui\n\nProtection du sol\nOui\n\nInstallation\nFacile et rapide, sans outils complexes\n\nCouleur\nNoir & Gris\n\nAvantage principal\nMobilité + stabilité renforcée\n\nRéférence-doshift\nAA5BB599",
-     "short_description": "La Base Mobile Universelle est la solution idéale pour déplacer facilement vos appareils électroménagers lourds tout en garantissant une stabilité optimale."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_7fenjg7fenjg7fen-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-52530",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Détendeur de gaz butane avec manomètre",
-     "description": "Cet organisateur est idéal pour une utilisation dans les maisons, les restaurants, les boulangeries et autres endroits, et il peut également connecter la bouteille de gaz à un ensemble de machines telles que les barbecues, les cuisinières, les fours, etc.Grâce à ce régulateur de manomètre, vous pouvez connaître exactement le niveau de gaz restant à l’intérieur de la bouteille et la quantité de gaz consommée.Ce régulateur possède un système de sécurité qui permet l’arrêt automatique du débit de gaz en cas de fuiteCe détendeur est équipé d’un manomètre qui permet le suivi de la consommation de la bouteille de gaz utilisez uniquement des bouteilles de gaz lp en position verticale.ne doit pas être utilisé pour les caravanes et les bateaux d’eau douce.ce régulateur est un régulateur domestique conçu pour fournir du gaz au gaz aux appareils consommateurs de gaz à une pression et une capacité.ce détendeur peut être installé sur n’importe quel cylindre équipé d’une soupape à cylindre à fermeture manuelle.la bouteille de gaz doit toujours être utilisée en position verticale.Lorsqu’il est utilisé à l’extérieur, le régulateur doit être convenablement protégé contre la pluie.\n\nDétendeur de gaz butane avec manomètreModèle :  JYT-0.6Manomètre de pression de gazArrêt automatique du débit de gaz en cas de fuiteDimensions : 20*8*7",
-     "short_description": "Cet organisateur est idéal pour une utilisation dans les maisons, les restaurants, les boulangeries et autres endroits, et il peut également connecter la bouteille de gaz à un ensemble de machines telles que les…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1766933293-3_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-52502",
-   "price": 59,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lot de 3 Filtres de Bonde d’Évier en Acier Inoxydable – Anti-Déchets & Anti-Bouchon",
-     "description": "Le filtre de bonde d’évier en acier inoxydable est l’accessoire indispensable pour garder votre cuisine propre et éviter les canalisations bouchées. Conçu pour retenir efficacement les déchets alimentaires (restes de pâtes, riz, légumes, épluchures…), il laisse passer l’eau librement tout en bloquant les résidus. Facile à installer et à nettoyer, il garantit une hygiène optimale au quotidien, aussi bien à la maison que dans un environnement professionnel.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nFiltre / Crépine de bonde d’évier\n\nMatériau\nAcier inoxydable de haute qualité\n\nFonction\nRetient les déchets et empêche les bouchons\n\nCompatibilité\nÉviers de cuisine standards\n\nDesign\nTrous multiples pour drainage rapide\n\nRésistance\nAntirouille, durable et réutilisable\n\nEntretien\nLavable à l’eau, nettoyage facile\n\nInstallation\nPose simple, sans outils\n\nUtilisation\nCuisine domestique & professionnelle\n\nRéférence\nAA0BB599",
-     "short_description": "Le filtre de bonde d’évier en acier inoxydable est l’accessoire indispensable pour garder votre cuisine propre et éviter les canalisations bouchées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-28-dec.-2025-15_25_58-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-52387",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Gants de Protection en Latex Épais – Ferra Guard Heavyweight",
-     "description": "Les gants Ferra Guard en latex épais sont conçus pour offrir une protection renforcée, une excellente résistance et un grand confort lors des travaux exigeants. Fabriqués en latex de haute qualité, ils assurent une barrière efficace contre les salissures, produits chimiques légers, huiles et humidité. Leur conception ergonomique garantit une bonne prise en main et une utilisation prolongée sans gêne, idéale pour les professionnels comme pour les particuliers.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nFerra Guard\n\nType de produit\nGants de protection\n\nMatière\nLatex épais (Heavyweight)\n\nCouleur\nNoir\n\nTaille\n9\n\nÉpaisseur\nRenforcée pour usage intensif\n\nAdhérence\nBonne prise en main antidérapante\n\nProtection\nContre saleté, humidité, huiles et produits légers\n\nConfort\nIntérieur lisse, ajustement ergonomique\n\nRéutilisable\nOui\n\nUtilisation\nBricolage, mécanique, nettoyage, industrie, manutention\n\nConditionnement\n1 paire\n\nRéférence Doshift\nAA0BB899",
-     "short_description": "Les gants Ferra Guard en latex épais sont conçus pour offrir une protection renforcée, une excellente résistance et un grand confort lors des travaux exigeants."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-27-dec.-2025-17_24_01-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-52324",
-   "price": 219,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Douchette WC Multifonction avec Tuyau Extensible – Jet Puissant, Filtre Anti-Impuretés & Installation Facile",
-     "description": "Cette douchette multifonction est une solution pratique et puissante pour l’hygiène personnelle et le nettoyage quotidien. Dotée d’un jet puissant, d’un tuyau extensible et d’un filtre anti-impuretés, elle garantit une utilisation confortable et efficace. Facile à installer, elle convient aussi bien aux WC, salles de bain, animaux et tâches ménagères.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nDouchette WC / pulvérisateur multifonction\n\nUtilisation\nWC, salle de bain, nettoyage, animaux\n\nJet\nPuissant et précis\n\nInstallation\nMontage facile sur robinet\n\nTuyau\nExtensible et flexible\n\nFiltration\nFiltre anti-impuretés intégré\n\nCommande\nGâchette ergonomique\n\nMatériau\nPlastique robuste\n\nDesign\nCompact et moderne\n\nAvantage clé\nPolyvalent, hygiénique et pratique\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Cette douchette multifonction est une solution pratique et puissante pour l’hygiène personnelle et le nettoyage quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-27-dec.-2025-15_07_49-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-52282",
+   "sku": "doshift-58660",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    12
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Appareil chauffant pour douleurs menstruelles",
-     "description": "Appareil chauffant pour douleurs de règles avec chaleur ciblée sur le bas-ventre. Écran LED, modes M1 à M4, sangle grise et Type-C. Commandez.\n\nCaractéristique\nDétail\n\nType de produit\nAppareil chauffant pour douleurs\n\nFonction principale\nSoulagement des douleurs abdominales\n\nTechnologie\nChauffage rapide uniforme\n\nNiveaux de température\n3 niveaux (environ 50°C / 55°C / 60°C)\n\nModes de vibration\nPlusieurs modes ajustables\n\nContrôle\nÉcran digital intégré\n\nAlimentation\nRechargeable USB\n\nUtilisation\nMaison, bureau, déplacement\n\nDesign\nErgonomique et ajustable\n\nConfort\nLéger et facile à porter\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Appareil chauffant pour douleurs de règles avec chaleur ciblée sur le bas-ventre. Écran LED, modes M1 à M4, sangle grise et Type-C. Commandez."
+     "name": "Théière Élégante en Acier Inoxydable – 0.9 L | Design Raffiné & Usage Quotidien",
+     "description": "Sublimez vos moments de thé et d’infusions avec cette théière en acier inoxydable, pensée pour allier élégance, robustesse et praticité. Sa finition décorative au style raffiné apporte une touche chic à votre table, tandis que sa poignée ergonomique et solide assure une prise en main confortable et sécurisée.Avec une capacité de 0,9 L, elle est idéale pour un usage quotidien à la maison. Conçue pour durer, elle offre une excellente résistance à la chaleur, une utilisation simple et un entretien facile.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nThéière\n\nMatière\nAcier inoxydable\n\nCapacité\n0,9 L\n\nFinition\nDécorative, style élégant\n\nPoignée\nRobuste et ergonomique\n\nUtilisation\nThé, infusions, eau chaude\n\nRésistance\nExcellente résistance à la chaleur\n\nEntretien\nFacile à nettoyer\n\nCouleur\nSelon disponibilité\n\nAvantage principal\nÉlégance + durabilité\n\nRéférence-doshift\nAA7BB599",
+     "short_description": "Sublimez vos moments de thé et d’infusions avec cette théière en acier inoxydable, pensée pour allier élégance, robustesse et praticité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-04-20T183742.337.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/image-2026-01-27-T010624-581.png"
    ]
   },
   {
-   "sku": "doshift-52279",
+   "sku": "doshift-58471",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bobine de Câble Coaxial LINKA 21WH – 100 m | TV, Antenne & Satellite",
+     "description": "Assurez une transmission de signal fiable, stable et homogène avec la bobine de câble coaxial LINKA 21WH. Conçue pour les installations TV, antenne et satellite, elle offre une excellente qualité de signal grâce à sa structure soignée et à son blindage efficace, limitant les interférences et les pertes.Sa bobine de 100 mètres facilite le déroulement du câble et permet une installation propre, rapide et professionnelle, aussi bien pour un usage domestique que pour les installateurs et intégrateurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBobine de câble coaxial\n\nModèle\nLINKA 21WH\n\nMarque\nDMD\n\nLongueur\n100 mètres\n\nCouleur\nBlanc\n\nUtilisation\nTV, antenne, satellite, vidéo\n\nQualité du signal\nTransmission stable avec faible perte\n\nBlindage\nProtection efficace contre les interférences\n\nFormat\nBobine\n\nInstallation\nSimple et professionnelle\n\nAvantage principal\nStabilité du signal + installation propre\n\nRéférence-doshift\nAA9BB299",
+     "short_description": "Assurez une transmission de signal fiable, stable et homogène avec la bobine de câble coaxial LINKA 21WH."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-14-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-58193",
+   "price": 859,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "AZATECH Friteuse électrique à air friteuse sans huile XXL 5,4 litres friteuse air fryer écran tactile LED",
+     "description": "Découvrez la friteuse sans huile ultime – la solution parfaite pour préparer des plats savoureux et croustillants tout en réduisant votre consommation de matières grasses ! Avec une capacité généreuse de 5,4 litres, cette friteuse révolutionnaire vous permet de cuisiner pour toute la famille. Dotée de 10 programmes préprogrammés, cette friteuse offre une polyvalence exceptionnelle. Que vous souhaitiez frire, griller, rôtir ou cuire à la vapeur, il y a un programme adapté à chaque plat. Son écran tactile LED intuitif rend la sélection des programmes simple et pratique. Grâce à sa technologie de cuisson sans huile, cette friteuse vous permet de déguster des aliments délicieux sans la culpabilité associée à une cuisson traditionnelle. Vous obtiendrez des frites dorées et croustillantes, des ailes de poulet juteuses et même des légumes grillés parfaitement cuits. Avec une puissance de 1500W, cette friteuse chauffe rapidement, vous permettant ainsi de gagner du temps précieux en cuisine. De plus, son design élégant et compact s’intègre facilement dans n’importe quelle cuisine. N’attendez plus pour vous procurer cette friteuse sans huile révolutionnaire. Faites plaisir à votre palais tout en adoptant un mode de vie plus sain. Préparez des repas délicieux, variés et équilibrés pour toute votre famille avec facilité et sans huile superflue grâce à cette friteuse polyvalente de 5,4 litres",
+     "short_description": "Découvrez la friteuse sans huile ultime – la solution parfaite pour préparer des plats savoureux et croustillants tout en réduisant votre consommation de matières grasses !"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1-80.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-58171",
    "price": 129,
    "stock": 10,
    "status": 0,
    "categories": [
-    7
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Support Gobelet Voiture 5 en 1 – Organisation Intelligente & Conduite Pratique",
-     "description": "Optimisez votre espace intérieur avec ce support gobelet voiture 5 en 1 intelligent, conçu pour maintenir vos boissons, smartphone et petits accessoires parfaitement organisés pendant la conduite. Grâce à son design multifonction, il combine double porte-gobelet, support téléphone et espace de rangement compact pour un habitacle plus ordonné et fonctionnel. Facile à installer sans outils, il s’insère directement dans le porte-gobelet de votre véhicule pour une utilisation immédiate.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nProduit\nSupport gobelet voiture 5 en 1\n\nFonctions\nSupport smartphone + Double porte-gobelet + Rangement accessoires + Séparateur interne + Support gobelet papier\n\nDimensions\nHauteur 18.8 cm · Ø haut 9 cm · Ø bas 6.8 cm\n\nCompatibilité\nCanettes, bouteilles, gobelets papier, cafés, smartphones\n\nUtilisation\nConsole centrale / porte-gobelet de voiture\n\nInstallation\nInsertion directe, sans outils\n\nRéférence-doshift\nAA5BB599",
-     "short_description": "Optimisez votre espace intérieur avec ce support gobelet voiture 5 en 1 intelligent, conçu pour maintenir vos boissons, smartphone et petits accessoires parfaitement organisés pendant la conduite."
+     "name": "Support Mural de Sécurité Renforcé – Installation Facile & Fixation Polyvalente",
+     "description": "Ce support mural de sécurité heavy duty est conçu pour offrir une fixation solide, fiable et durable de vos équipements. Grâce à sa structure robuste et son design élégant, il assure un maintien optimal tout en s’intégrant discrètement à tout type d’environnement, que ce soit à la maison, au bureau ou dans un espace professionnel.Facile à installer, ce support permet une mise en place rapide sans complications, tout en garantissant une excellente stabilité pour vos systèmes. Sa conception polyvalente le rend idéal pour différents types d’équipements nécessitant une fixation murale sûre et ordonnée.",
+     "short_description": "Ce support mural de sécurité heavy duty est conçu pour offrir une fixation solide, fiable et durable de vos équipements."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-02-13T175347-733.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/41S4wTmQI1L._AC_SL1500_.jpg"
    ]
   },
   {
-   "sku": "doshift-52290",
-   "price": 92,
+   "sku": "doshift-58115",
+   "price": 359,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support Tv double bras haute qualité mobile adabptable de 40″ à 75″",
+     "description": "[ Taille VESA ] La distance VESA convient à la plupart des téléviseurs et moniteurs de 100 x 100, 150 x 150, 200 x 200, 300 x 300, 400 x 400, 400 x 450, 400 x 600 mm, 32 pouces et 80 pouces. Compatible avec les écrans OLED, LCD, LED, HD et 4K et de nombreux produits.\n\nAttention : Veuillez acheter le produit après avoir vérifié la compatibilité avec la taille de votre téléviseur. Il est fortement recommandé de mesurer la distance VESA de votre téléviseur. Important : NE PAS monter le produit sur un mur en plâtre, un mur creux, une cloison sèche ou un mur souple.\n\n[ Aide à l’installation ] Notre support mural TV est livré avec toutes les pièces de montage courantes. Le manuel est inclus pour une installation rapide et facile. Le pochoir vous facilite le travail lors de l’installation. Le matériel de fixation standard dans l’image principale est inclus.\n\n[ Utilisation facile et confortable ] Changez la position de visualisation en fonction des facteurs environnementaux. Éliminez les reflets gênants en pliant simplement et amusez-vous. Il peut être facilement tourné et ajusté. Il peut être tourné à 15 degrés vers le haut et vers le bas, 80 degrés à gauche et à droite. La distance la plus importante du mur est de 49 cm.\n\n[Robuste et sûr] Fournit un support extrêmement durable pour le montage mural de votre téléviseur. Le support mural est idéal pour votre salon ou chambre à coucher et vous permet d’ajuster la hauteur de votre écran selon vos préférences et votre configuration de salon.",
+     "short_description": "[ Taille VESA ] La distance VESA convient à la plupart des téléviseurs et moniteurs de 100 x 100, 150 x 150, 200 x 200, 300 x 300, 400 x 400, 400 x 450, 400 x 600 mm, 32 pouces et 80 pouces."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1-77.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-58199",
+   "price": 629,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -165,32 +128,72 @@
    ],
    "locales": {
     "fr": {
-     "name": "Semelles orthopédiques en Silicone, Support de voûte plantaire plat, correcteur de coussin de chaussure, Gel Valgus, Correction de fasciite plantaire",
-     "description": "Cette semelle intérieure vous fourniront Le soutien de la voûte plantaire pour les pieds plats est important pour prévenir les blessures et réduire le stress ainsi que réduire la douleur au pied.Ils sont également un outil correcteur pour les pieds éclatés.La semelle intérieure principale est claire, pendant le coussin de soutien de la voûte plantaire est bleue.\n\nMatériel: SiliconeCouleur: Transparent et Bleu100% neuf et de haute qualité!",
-     "short_description": "Cette semelle intérieure vous fourniront Le soutien de la voûte plantaire pour les pieds plats est important pour prévenir les blessures et réduire le stress ainsi que réduire la douleur au pied.Ils sont également un…"
+     "name": "Plaque de Cuisson Électrique XXL-60x36cm-2000w",
+     "description": "Transformez vos repas en véritables moments conviviaux grâce à cette plaque de cuisson électrique XXL. Offrant une large surface de cuisson, elle permet de préparer simultanément viandes, légumes, poissons et bien plus encore. Idéale pour les repas en famille ou entre amis, elle garantit une cuisson homogène et rapide, directement à table.\n\nCaractéristique\nDétail\n\nType\nPlaque de cuisson électrique\n\nPuissance\n2000W\n\nDimensions\n60 x 36 cm\n\nAlimentation\n220-240V / 50-60Hz\n\nSurface\nAntiadhésive\n\nThermostat\nRéglable\n\nUtilisation\nIntérieur / Table\n\nEntretien\nFacile à nettoyer\n\nSécurité\nUtilisation stable et sûre\n\nRéférence Doshift\nAA44BB099",
+     "short_description": "Transformez vos repas en véritables moments conviviaux grâce à cette plaque de cuisson électrique XXL."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1766837183-18_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-04-23T215514.885.png"
    ]
   },
   {
-   "sku": "doshift-52287",
-   "price": 89,
+   "sku": "doshift-58096",
+   "price": 829,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Gants de protection, Niveau 5 de Protection, Anti-coupure, Haute qualité, Durable, Chaud",
-     "description": "Protection Max & Confort avec Gants Anti-Coupure HPPE\n\nNiveau 5 • Fibre Super Résistante • Lavables & Réutilisables\n\n🔥 72% du stock déjà commandé !\n\n✨\n\n⭐\n\n💫\n\n✨\n\n🧤\n\nVos Mains Protégées, Votre Travail Simplifié\n\nCes gants anti-coupure HPPE allient sécurité professionnelle et confort quotidien.\n\nFibre super résistante, niveau 5 anti-coupure et design ergonomique, prêts pour industrie & cuisine.\n\n🛡️\n\nNiveau 5 Anti-Coupure\n\nProtection maximale certifiée\n\n🧵\n\nFibre HPPE Premium\n\nRésistance & douceur exceptionnelles\n\n🔄\n\nLavables & Durables\n\nRéutilisables sans perte de performance\n\n🌟\n\nPourquoi Ils Adorent\n\n✓\n\nNiveau 5 Anti-Coupure\n\nPro\n\nProtection maximale contre les coupures industrielles\n\n✓\n\nFibre HPPE Super Résistante\n\nPopulaire\n\nMatériau innovant : léger, doux et ultra-résistant\n\n✓\n\nConfort Ergonomique\n\nSurface lisse, s’adapte parfaitement à la main\n\n✓\n\nAntidérapant & Résistant\n\nPrise sûre même en conditions humides ou grasses\n\n✓\n\nLavable & Réutilisable\n\nÉconomique\n\nEntretien facile, performances durables dans le temps\n\n⭐⭐⭐⭐⭐\n\n4.9/5\n\nNote Clients\n\n0\n\nProfessionnels Équipés\n\n🚚\n\nLivraison\n24-48h\n\n📋\n\nCaractéristiques\n\n🛡️\n\nNiveau 5\n\n🧵\n\nFibre HPPE\n\n📏\n\n22cm\n\n🔄\n\nLavable\n\n🎯\n\nUsages Recommandés\n\n▼\n\nTransformation Alimentaire\n\nProduction Industrielle\n\nBricolage\n\nJardinage\n\nManutention\n\n🔧\n\nSpécifications Techniques\n\n▼\n\nProduit: Gants de protection anti-coupure HPPE\n\nMatériau: Fibre super résistante HPPE (High Performance Polyethylene)\n\nNiveau de protection: Niveau 5 anti-coupure (norme EN388)\n\nTaille: 22 cm (taille universelle ajustée)\n\nCouleur: Gris professionnel\n\nDesign: Surface lisse, douce, ergonomique\n\nFonctions: Anti-coupure, résistant à l’usure, antidérapant\n\nEntretien: Lavable et réutilisable sans perte de performance\n\nCompatibilité: Droitier/Gaucher, usage professionnel & personnel\n\n📦\n\nDans la Boîte\n\n▼\n\n✓ 1x Paire de gants anti-coupure HPPE (22cm)\n\n✓ Notice d’utilisation & conseils d’entretien FR/AR\n\n✓ Certification niveau 5 anti-coupure incluse\n\n✓ Garantie qualité professionnelle\n\n🚚\n\nPaiement à la livraison\n\n↩️\n\nRetour 15j Gratuit\n\n📞\n\nSupport WhatsApp\n\n⭐\n\nGarantie Satisfait\n\n/* 🎨 VARIABLES & RESET – LIGHT MODE ONLY */\n\n*, *::before, *::after { box-sizing: border-box; }\n\n.dt-product-vivant {\n\n –dt-hero-bg: linear-gradient(135deg, #0094B0 0%, #005f73 100%);\n\n –dt-primary: #e63946;\n\n –dt-primary-light: #ff4d5a;\n\n –dt-secondary: #1d3557;\n\n –dt-accent: #ffd700;\n\n –dt-accent-light: #ffed4a;\n\n –dt-success: #00d9a5;\n\n –dt-light: #f8f9fa;\n\n –dt-dark: #1a1a2e;\n\n –dt-gray: #6c757d;\n\n –dt-radius: 14px;\n\n –dt-shadow: 0 10px 30px rgba(0,0,0,0.12);\n\n font-family: -apple-system, BlinkMacSystemFont, ‘Segoe UI’, Roboto, Helvetica, Arial, sans-serif;\n\n color: var(–dt-dark);\n\n line-height: 1.6;\n\n max-width: 100%;\n\n margin: 0;\n\n padding: 0;\n\n overflow-x: hidden;\n\n background: #ffffff;\n\n}\n\n/* 🔥 HERO BANNER */\n\n.dt-hero-banner {\n\n background: var(–dt-hero-bg);\n\n color: white;\n\n padding: 24px 16px;\n\n border-radius: 0;\n\n margin: 0 0 8px 0;\n\n position: relative;\n\n overflow: hidden;\n\n box-shadow: var(–dt-shadow);\n\n animation: dt-slideUp 0.6s ease-out;\n\n}\n\n@keyframes dt-slideUp {\n\n from { opacity: 0; transform: translateY(30px); }\n\n to { opacity: 1; transform: translateY(0); }\n\n}\n\n.dt-floating-badge {\n\n position: absolute;\n\n background: var(–dt-accent);\n\n color: var(–dt-dark);\n\n padding: 5px 12px;\n\n border-radius: 20px;\n\n font-weight: 800;\n\n font-size: 0.8rem;\n\n box-shadow: 0 4px 15px rgba(0,0,0,0.2);\n\n z-index: 2;\n\n top: 12px;\n\n left: 50%;\n\n transform: translateX(-50%);\n\n animation: dt-float 3s ease-in-out infinite;\n\n}\n\n@keyframes dt-float {\n\n 0%, 100% { transform: translate(-50%, 0); }\n\n 50% { transform: translate(-50%, -6px); }\n\n}\n\n.dt-banner-title {\n\n font-size: 1.3rem;\n\n font-weight: 800;\n\n margin: 0 0 6px 0;\n\n line-height: 1.3;\n\n color: #ffffff;\n\n}\n\n.dt-highlight {\n\n background: var(–dt-accent);\n\n color: var(–dt-dark);\n\n padding: 2px 6px;\n\n border-radius: 5px;\n\n display: inline-block;\n\n}\n\n.dt-banner-subtitle {\n\n font-size: 0.9rem;\n\n opacity: 0.95;\n\n margin: 0 0 12px 0;\n\n}\n\n.dt-progress-bar {\n\n height: 6px;\n\n background: rgba(255,255,255,0.3);\n\n border-radius: 10px;\n\n overflow: hidden;\n\n margin: 10px 0;\n\n}\n\n.dt-progress-fill {\n\n height: 100%;\n\n background: var(–dt-accent);\n\n border-radius: 10px;\n\n animation: dt-fillBar 1.5s ease-out;\n\n box-shadow: 0 0 10px rgba(255,215,0,0.5);\n\n}\n\n@keyframes dt-fillBar {\n\n from { width: 0; }\n\n to { width: 78%; }\n\n}\n\n.dt-progress-text {\n\n font-size: 0.8rem;\n\n margin: 0;\n\n font-weight: 600;\n\n}\n\n.dt-sparkles {\n\n position: absolute;\n\n width: 100%;\n\n height: 100%;\n\n top: 0;\n\n left: 0;\n\n pointer-events: none;\n\n}\n\n.dt-sparkle {\n\n position: absolute;\n\n font-size: 1.1rem;\n\n animation: dt-sparkle 2s infinite;\n\n animation-delay: calc(var(–i) * 0.3s);\n\n}\n\n.dt-sparkle:nth-child(1) { top: 18%; left: 8%; }\n\n.dt-sparkle:nth-child(2) { top: 62%; left: 4%; }\n\n.dt-sparkle:nth-child(3) { top: 28%; right: 8%; }\n\n.dt-sparkle:nth-child(4) { top: 72%; right: 12%; }\n\n@keyframes dt-sparkle {\n\n 0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }\n\n 50% { opacity: 1; transform: scale(1) rotate(180deg); }\n\n}\n\n/* 📱 SECTIONS */\n\n.dt-section {\n\n padding: 20px 16px;\n\n margin: 0;\n\n animation: dt-fadeIn 0.6s ease-out;\n\n}\n\n@keyframes dt-fadeIn {\n\n from { opacity: 0; }\n\n to { opacity: 1; }\n\n}\n\n.dt-section-header {\n\n display: flex;\n\n align-items: center;\n\n gap: 8px;\n\n margin-bottom: 12px;\n\n}\n\n.dt-emoji-bounce {\n\n font-size: 1.6rem;\n\n animation: dt-bounce 2s infinite;\n\n}\n\n@keyframes dt-bounce {\n\n 0%, 100% { transform: translateY(0); }\n\n 50% { transform: translateY(-5px); }\n\n}\n\n.dt-section-title {\n\n font-size: 1.2rem;\n\n color: var(–dt-secondary);\n\n margin: 0;\n\n font-weight: 700;\n\n}\n\n.dt-desc-text {\n\n font-size: 0.95rem;\n\n color: #444;\n\n margin-bottom: 16px;\n\n line-height: 1.6;\n\n}\n\n.dt-text-gradient {\n\n background: var(–dt-gradient-1);\n\n -webkit-background-clip: text;\n\n -webkit-text-fill-color: transparent;\n\n background-clip: text;\n\n}\n\n.dt-reveal-text mark {\n\n background: var(–dt-accent-light);\n\n padding: 2px 5px;\n\n border-radius: 4px;\n\n color: var(–dt-dark);\n\n}\n\n/* 💳 CARTES BÉNÉFICES */\n\n.dt-benefits-cards {\n\n display: grid;\n\n grid-template-columns: 1fr;\n\n gap: 10px;\n\n}\n\n.dt-benefit-card {\n\n background: white;\n\n padding: 14px;\n\n border-radius: 10px;\n\n text-align: center;\n\n box-shadow: 0 3px 12px rgba(0,0,0,0.08);\n\n position: relative;\n\n overflow: hidden;\n\n animation: dt-cardSlide 0.6s ease-out backwards;\n\n animation-delay: calc(var(–delay) * 0.1s);\n\n border: 2px solid transparent;\n\n transition: all 0.3s ease;\n\n}\n\n@keyframes dt-cardSlide {\n\n from { opacity: 0; transform: translateX(-20px); }\n\n to { opacity: 1; transform: translateX(0); }\n\n}\n\n.dt-benefit-card:active {\n\n transform: scale(0.98);\n\n border-color: var(–dt-primary);\n\n}\n\n.dt-card-icon {\n\n font-size: 2.2rem;\n\n margin-bottom: 6px;\n\n}\n\n.dt-icon-bounce {\n\n display: inline-block;\n\n animation: dt-iconBounce 2s infinite;\n\n}\n\n@keyframes dt-iconBounce {\n\n 0%, 100% { transform: scale(1); }\n\n 50% { transform: scale(1.1); }\n\n}\n\n.dt-benefit-card h4 {\n\n margin: 0 0 2px 0;\n\n color: var(–dt-secondary);\n\n font-size: 1rem;\n\n}\n\n.dt-benefit-card p {\n\n margin: 0;\n\n font-size: 0.85rem;\n\n color: var(–dt-gray);\n\n}\n\n.dt-card-glow {\n\n position: absolute;\n\n top: -50%;\n\n left: -50%;\n\n width: 200%;\n\n height: 200%;\n\n background: radial-gradient(circle, rgba(230,57,70,0.1) 0%, transparent 70%);\n\n opacity: 0;\n\n transition: opacity 0.3s;\n\n}\n\n.dt-benefit-card:active .dt-card-glow { opacity: 1; }\n\n/* ✅ FEATURES INTERACTIVES */\n\n.dt-section-features {\n\n background: var(–dt-light);\n\n border-radius: 0;\n\n margin: 0;\n\n padding: 20px 16px;\n\n}\n\n.dt-features-interactive {\n\n display: flex;\n\n flex-direction: column;\n\n gap: 8px;\n\n}\n\n.dt-feature-item {\n\n background: white;\n\n padding: 12px;\n\n border-radius: 10px;\n\n display: flex;\n\n flex-direction: column;\n\n gap: 4px;\n\n box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n\n transition: all 0.3s ease;\n\n cursor: pointer;\n\n}\n\n.dt-tap-effect:active {\n\n transform: scale(0.98);\n\n box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n\n}\n\n.dt-feature-check {\n\n color: var(–dt-success);\n\n font-weight: bold;\n\n font-size: 1.2rem;\n\n}\n\n.dt-feature-content {\n\n display: flex;\n\n align-items: center;\n\n gap: 6px;\n\n}\n\n.dt-feature-content strong {\n\n color: var(–dt-secondary);\n\n font-size: 0.9rem;\n\n}\n\n.dt-feature-tag {\n\n background: var(–dt-primary);\n\n color: white;\n\n padding: 2px 6px;\n\n border-radius: 8px;\n\n font-size: 0.65rem;\n\n font-weight: 700;\n\n}\n\n.dt-feature-tag.hot { background: var(–dt-gradient-1); }\n\n.dt-feature-tag.gift { background: var(–dt-success); }\n\n.dt-feature-item p {\n\n margin: 0;\n\n font-size: 0.8rem;\n\n color: var(–dt-gray);\n\n padding-left: 20px;\n\n}\n\n/* 📊 PREUVE SOCIALE */\n\n.dt-social-proof-vivant {\n\n display: grid;\n\n grid-template-columns: 1fr;\n\n gap: 8px;\n\n padding: 16px;\n\n margin: 0;\n\n}\n\n.dt-proof-card {\n\n background: white;\n\n padding: 12px;\n\n border-radius: 10px;\n\n text-align: center;\n\n box-shadow: var(–dt-shadow);\n\n animation: dt-scaleIn 0.5s ease-out backwards;\n\n}\n\n.dt-proof-card-1 { animation-delay: 0.1s; border-top: 3px solid var(–dt-accent); }\n\n.dt-proof-card-2 { animation-delay: 0.2s; border-top: 3px solid var(–dt-primary); }\n\n.dt-proof-card-3 { animation-delay: 0.3s; border-top: 3px solid var(–dt-success); }\n\n@keyframes dt-scaleIn {\n\n from { opacity: 0; transform: scale(0.8); }\n\n to { opacity: 1; transform: scale(1); }\n\n}\n\n.dt-proof-rating { font-size: 1.1rem; margin-bottom: 2px; }\n\n.dt-proof-score { font-size: 1.6rem; font-weight: 800; color: var(–dt-primary); line-height: 1; }\n\n.dt-proof-number { font-size: 1.8rem; font-weight: 800; background: var(–dt-gradient-1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }\n\n.dt-proof-label { font-size: 0.8rem; color: var(–dt-gray); margin-top: 3px; }\n\n.dt-proof-icon { font-size: 2.2rem; margin-bottom: 2px; }\n\n.dt-proof-text { font-size: 0.85rem; color: var(–dt-dark); }\n\n.dt-proof-text strong { color: var(–dt-primary); font-size: 1rem; }\n\n/* ⚙️ SPECS */\n\n.dt-section-specs {\n\n background: white;\n\n margin: 0;\n\n border-radius: 0;\n\n padding: 20px 16px;\n\n}\n\n.dt-specs-swipe {\n\n display: flex;\n\n gap: 8px;\n\n overflow-x: auto;\n\n padding: 8px 0;\n\n margin-bottom: 10px;\n\n scrollbar-width: none;\n\n -ms-overflow-style: none;\n\n}\n\n.dt-specs-swipe::-webkit-scrollbar { display: none; }\n\n.dt-spec-chip {\n\n flex-shrink: 0;\n\n background: var(–dt-light);\n\n padding: 8px 14px;\n\n border-radius: 18px;\n\n display: flex;\n\n align-items: center;\n\n gap: 5px;\n\n font-size: 0.85rem;\n\n font-weight: 600;\n\n color: var(–dt-secondary);\n\n border: 2px solid transparent;\n\n transition: all 0.3s ease;\n\n}\n\n.dt-spec-chip:active {\n\n border-color: var(–dt-primary);\n\n transform: scale(0.95);\n\n}\n\n.dt-spec-chip-icon { font-size: 1.1rem; }\n\n/* Accordion */\n\n.dt-specs-accordion { display: flex; flex-direction: column; gap: 6px; }\n\n.dt-accordion-item { background: var(–dt-light); border-radius: 8px; overflow: hidden; }\n\n.dt-accordion-summary {\n\n padding: 10px 12px;\n\n display: flex;\n\n align-items: center;\n\n gap: 8px;\n\n cursor: pointer;\n\n list-style: none;\n\n font-weight: 600;\n\n color: var(–dt-secondary);\n\n transition: background 0.3s;\n\n}\n\n.dt-accordion-summary:active { background: rgba(230,57,70,0.1); }\n\n.dt-accordion-summary::-webkit-details-marker { display: none; }\n\n.dt-accordion-icon { font-size: 1.2rem; }\n\n.dt-accordion-arrow { margin-left: auto; transition: transform 0.3s; }\n\n.dt-accordion-item[open] .dt-accordion-arrow { transform: rotate(180deg); }\n\n.dt-accordion-content { padding: 0 12px 12px 38px; animation: dt-slideDown 0.3s ease-out; }\n\n@keyframes dt-slideDown {\n\n from { opacity: 0; transform: translateY(-10px); }\n\n to { opacity: 1; transform: translateY(0); }\n\n}\n\n.dt-accordion-list { margin: 0; padding: 0; list-style: none; }\n\n.dt-accordion-list li { padding: 5px 0; color: var(–dt-gray); font-size: 0.85rem; }\n\n.dt-zones-grid { display: flex; flex-wrap: wrap; gap: 6px; }\n\n.dt-zone-tag { background: white; padding: 5px 10px; border-radius: 12px; font-size: 0.8rem; font-weight: 600; color: var(–dt-secondary); box-shadow: 0 2px 5px rgba(0,0,0,0.05); }\n\n/* 🎁 TRUST BADGES */\n\n.dt-trust-vivant {\n\n display: grid;\n\n grid-template-columns: repeat(2, 1fr);\n\n gap: 8px;\n\n padding: 16px 16px 24px 16px;\n\n margin: 0;\n\n}\n\n.dt-trust-item {\n\n background: white;\n\n padding: 10px;\n\n border-radius: 10px;\n\n text-align: center;\n\n display: flex;\n\n flex-direction: column;\n\n align-items: center;\n\n gap: 4px;\n\n box-shadow: 0 2px 8px rgba(0,0,0,0.06);\n\n animation: dt-trustPulse 2s infinite backwards;\n\n animation-delay: calc(var(–delay, 0) * 0.2s);\n\n}\n\n@keyframes dt-trustPulse {\n\n 0%, 100% { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }\n\n 50% { box-shadow: 0 4px 15px rgba(230,57,70,0.2); }\n\n}\n\n.dt-trust-icon { font-size: 1.6rem; }\n\n.dt-trust-item span:last-child { font-size: 0.75rem; font-weight: 600; color: var(–dt-secondary); }\n\n/* 📱 TABLET & DESKTOP (Restitution d’un cadre centré) */\n\n@media (min-width: 640px) {\n\n .dt-benefits-cards { grid-template-columns: repeat(3, 1fr); }\n\n .dt-social-proof-vivant { grid-template-columns: repeat(3, 1fr); }\n\n .dt-trust-vivant { grid-template-columns: repeat(4, 1fr); }\n\n .dt-banner-title { font-size: 1.5rem; }\n\n}\n\n@media (min-width: 768px) {\n\n .dt-product-vivant { max-width: 100%; margin: 0; padding: 0; }\n\n .dt-hero-banner {\n\n max-width: 760px;\n\n margin: 16px auto 0 auto;\n\n padding: 28px 24px;\n\n border-radius: var(–dt-radius);\n\n }\n\n .dt-section {\n\n max-width: 760px;\n\n margin: 0 auto;\n\n padding: 24px 20px;\n\n }\n\n .dt-section-features, .dt-section-specs {\n\n max-width: 760px;\n\n margin: 16px auto;\n\n border-radius: var(–dt-radius);\n\n padding: 24px 20px;\n\n }\n\n .dt-social-proof-vivant, .dt-trust-vivant {\n\n max-width: 760px;\n\n margin: 0 auto;\n\n padding: 20px;\n\n }\n\n .dt-banner-title { font-size: 1.8rem; }\n\n}\n\n/* 🎨 ACCESSIBILITÉ */\n\n@media (prefers-reduced-motion: reduce) {\n\n * {\n\n animation-duration: 0.01ms !important;\n\n animation-iteration-count: 1 !important;\n\n transition-duration: 0.01ms !important;\n\n }\n\n}",
-     "short_description": "Protection Max & Confort avec Gants Anti-Coupure HPPE"
+     "name": "Haut parleur Subwoofer bluetooth DK-104 Carte SD USB",
+     "description": "Haut parleur Subwoofer bluetooth DK-104\n\nLe système Subwoofer bluetooth DK-104 vous permettra de profiter de la puissance de la musique sous la plus brillante forme .Le produit est compatible avec la version Bluetooth 2.1 , Cela vous permet de connecter n’importe quel appareil compatible Bluetooth et de lire vos morceaux préférés à partir d’une grande variété de sources. Il y a aussi un port USB et un lecteur de carte mémoire pour la musique.Pour contrôler la façon dont vous jouez votre musique, la télécommande qui comprend toutes les fonctions à portée de main.\n\nDétail Technique :\n\nType D’enceinte : Subwoofer\n\nNombre de Enceinte : 3\n\nsource de courant : 8W + 2x4W\n\nPuissance d’entrée : 220V",
+     "short_description": "Haut parleur Subwoofer bluetooth DK-104"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1766837176-15_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/dk104.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-58129",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Commutateur DiSEqC 4 en 1 DS-04M Étanche 950-2400 MHz pour Récepteur Satellite",
+     "description": "Le commutateur DiSEqC 4 en 1 DS-04M est conçu pour simplifier l’installation satellite en permettant de connecter jusqu’à 4 LNB à un seul récepteur. Compatible avec une plage de fréquence de 950 à 2400 MHz, il assure une transmission stable du signal pour les installations de télévision numérique.\n\nSon boîtier en aluminium robuste offre une bonne résistance à l’humidité et aux conditions extérieures, ce qui en fait une solution idéale pour une utilisation durable. Grâce à sa faible perte d’insertion et à son fonctionnement fiable, ce commutateur permet de basculer facilement entre plusieurs sources satellites tout en conservant une bonne qualité de réception.\n\nPratique, compact et simple à intégrer dans une installation existante, il convient aussi bien aux professionnels qu’aux particuliers recherchant une solution efficace pour la gestion de plusieurs antennes ou têtes LNB.\n\nCaractéristique\nDétail\n\nType de produit\nCommutateur DiSEqC satellite\n\nModèle\nDS-04M\n\nConfiguration\n4 en 1\n\nCompatibilité\nDiSEqC 2.0\n\nFréquence d’entrée\n950-2400 MHz\n\nPerte d’insertion\n3 dB\n\nPassage de puissance\n500 mA max\n\nMatériau\nAluminium\n\nCouleur\nGris\n\nÉtanchéité\nOui\n\nApplication\nTélévision satellite numérique\n\nCaractéristique principale\nFaible bruit\n\nOrigine\nGuangdong, Chine\n\nQuantité minimale de commande\n10 pièces\n\nRéférence Doshift\nAA2BB899",
+     "short_description": "Le commutateur DiSEqC 4 en 1 DS-04M est conçu pour simplifier l’installation satellite en permettant de connecter jusqu’à 4 LNB à un seul récepteur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Hb5206025b0f34432b4a1e5ac34d0ba94Z.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-58108",
+   "price": 459,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "2 Haut-Parleur Support Mural Enceintes Support Mural pivotant 180° Support de Haut-Parleur Robuste inclinable 60° Speaker Wall Mount pour Haut-parleurs, capacité de Charge individuelle 40 kg",
+     "description": "【Robuste et Durable】Support mural pour enceinte est fabriqué en acier laminé à froid de haute résistance, avec une capacité de charge maximale allant jusqu’à 40 kg, garantissant une installation sûre et stable de divers modèles d’enceintes.\n\n【Design Élégant】L’aspect noir élégant du support mural pour enceinte convient à divers styles décoratifs. Il convient à la plupart des enceintes de 10 à 15 pouces sur le marché, y compris les enceintes à cadre en bois traditionnelles, les enceintes satellites et les enceintes de sonorisation.\n\n【Réglage à 360 Degrés】Support mural pour enceinte est flexible, avec une rotation horizontale de 180° et un angle d’inclinaison allant jusqu’à 60°. La longueur du support peut être ajustée en 6 étapes, vous offrant un effet sonore surround 3D et la meilleure expérience auditive.\n\n【Installation Facile】Support mural pour enceinte permet d’économiser de l’espace, évite les collisions et ne tombe pas facilement, vous permettant de vous immerger dans la meilleure expérience auditive. Veuillez noter que les vis ne sont pas incluses dans le package et doivent être préparées par vous-même.\n\n【Large Application】Support mural pour enceinte est adapté à diverses occasions telles que les studios d’enregistrement, les salles de réunion, les cinémas maison, les fêtes musicales, les restaurants, les clubs, etc. Il permet d’économiser efficacement de l’espace et de maintenir le passage au sol dégagé.",
+     "short_description": "【Robuste et Durable】Support mural pour enceinte est fabriqué en acier laminé à froid de haute résistance, avec une capacité de charge maximale allant jusqu’à 40 kg, garantissant une installation sûre et stable de divers…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/61xjPQ4w9VL._AC_SX679_.jpg"
    ]
   }
  ]

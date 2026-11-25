@@ -1,202 +1,194 @@
 {
  "products": [
   {
-   "sku": "doshift-33889",
-   "price": 309,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Console rétro M15 64Go – 20 000+ jeux, 20 émulateurs, 4K",
-     "description": "Revivez la nostalgie des jeux rétro avec cette console de jeu multifonctionnelle, compacte et puissante, idéale pour les amateurs de gaming classique.\n\nProcesseur performant : double cœur jusqu’à 2,5 GHz pour une expérience fluide.\n\nMémoire : DDRIII 256 Mo avec stockage extensible jusqu’à 128 Go.\n\nBibliothèque incluse : 64 Go préchargés avec plus de 20 000 jeux.\n\nCompatibilité émulateurs : supporte CPS1, CPS2, CPS3, FBNeo, GameGear, GB, GBA, GBC, Genesis, MegaDrive, NES, NGPC, PCEngine, PSX, SFC, SNES et bien plus encore.\n\nSortie vidéo HD : résolution jusqu’à 1080p/720p pour un rendu net sur grand écran.\n\nAlimentation : entrée 5 V/1 A/2 A.\n\nManettes sans fil : 2,4 GHz, ergonomiques, nécessitent des piles AAA (non incluses).\n\nCompacte, légère (0,5 kg) et au design coloré, elle est parfaite pour des heures de divertissement en famille ou entre amis.",
-     "short_description": "Revivez la nostalgie des jeux rétro avec cette console de jeu multifonctionnelle, compacte et puissante, idéale pour les amateurs de gaming classique."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/097855137692.png"
-   ]
-  },
-  {
-   "sku": "doshift-33847",
-   "price": 429,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Black Shark T13 ANC Écouteurs Sans Fil – Noir",
-     "description": "Découvrez des écouteurs sans fil nouvelle génération, conçus pour offrir une expérience d’écoute immersive et confortable au quotidien.\n\nAvec leur réduction active du bruit (ANC) jusqu’à 35 dB, profitez d’un son clair et sans distraction, même dans les environnements les plus bruyants. Leur autonomie prolongée assure jusqu’à 6,5 heures de lecture continue, complétée par 26 heures supplémentaires grâce au boîtier de charge, pour vous accompagner toute la journée.\n\nLa technologie Bluetooth 5.4 garantit une connexion stable et fluide jusqu’à 10 mètres. Grâce aux commandes tactiles intuitives, gérez facilement vos musiques, appels et l’activation de l’ANC sans avoir à sortir votre appareil.\n\nConçus pour le confort, ces écouteurs offrent une ergonomie optimale pour une utilisation prolongée sans gêne. De plus, leur certification IPX5 les rend résistants à l’eau et à la sueur, idéals pour vos séances de sport comme pour vos déplacements.\n\nAlliez performance, confort et style avec ces écouteurs sans fil intelligents.",
-     "short_description": "Découvrez des écouteurs sans fil nouvelle génération, conçus pour offrir une expérience d’écoute immersive et confortable au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/6977541630826.png"
-   ]
-  },
-  {
-   "sku": "doshift-33838",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Câble HDMI vers HDMI HDTV 1,5 m HDTV 2.0 4K 3D Premium plaqué or 2160P 24K",
-     "description": "Profitez d’une qualité d’image exceptionnelle avec ce câble HDMI fibre optique haute performance, conçu pour offrir une transmission stable et sans perte. Compatible avec la résolution Ultra HD 4K à 60 Hz, il garantit une image fluide, nette et riche en détails pour vos films, jeux vidéo et contenus multimédias.\n\nGrâce à sa technologie fibre optique avancée, ce câble assure un transfert audio et vidéo haute vitesse tout en réduisant les interférences et la perte de signal, même sur de longues distances. Il est parfaitement adapté aux téléviseurs 4K, consoles de jeux, projecteurs, ordinateurs et systèmes home cinéma.\n\nSa bande passante de 18 Gbps permet de profiter pleinement des contenus haute définition avec prise en charge du HDR (High Dynamic Range) pour des couleurs plus profondes, un contraste amélioré et une expérience visuelle immersive.\n\nCaractéristique\nDétail\n\nType de produit\nCâble HDMI fibre optique\n\nRésolution supportée\n4K Ultra HD 60Hz\n\nBande passante\n18 Gbps\n\nTechnologie\nTransmission fibre optique sans perte\n\nHDR\nOui – High Dynamic Range\n\nConnecteurs\nHDMI mâle vers HDMI mâle\n\nCompatibilité\nTV, moniteurs, projecteurs, consoles de jeux, PC\n\nNormes HDMI\nCompatible HDMI 1.4 / 1.3\n\nUtilisation\nGaming, home cinéma, multimédia\n\nRéférence DOSHIFT\nAA2BB099",
-     "short_description": "Profitez d’une qualité d’image exceptionnelle avec ce câble HDMI fibre optique haute performance, conçu pour offrir une transmission stable et sans perte."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/6966987815256.png"
-   ]
-  },
-  {
-   "sku": "doshift-33823",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Oraimo SmartClipper Tondeuse à cheveux réglable",
-     "description": "Tondeuse à Cheveux Oraimo SmartClipper – Puissante, Silencieuse et Pratique\n\nProfitez d’une coupe nette et confortable à domicile avec la Oraimo SmartClipper, conçue pour convenir à toute la famille.\n\nCaractéristiques principales :\n\nMoteur haute performance : lames tranchantes et durables pour une coupe précise et rapide.\n\nConception ultra-silencieuse : profitez d’une coupe sans bruit, idéale même pour les enfants.\n\nUtilisation conviviale : poignée ergonomique et peigne réglable pour un confort optimal, parfaite même pour les débutants.\n\nCharge rapide USB-C : batterie rechargeable en 1 heure pour une puissance continue, compatible avec ordinateur, adaptateur ou powerbank.\n\nSpécifications techniques :\n\nTension nominale : 5 V\n\nPuissance nominale : 5 W\n\nTemps de charge : 1 h\n\nLivrée avec tous les accessoires nécessaires, cette tondeuse combine performance, praticité et confort pour une coupe réussie, où que vous soyez.",
-     "short_description": "Tondeuse à Cheveux Oraimo SmartClipper – Puissante, Silencieuse et Pratique"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/4895180774874.png"
-   ]
-  },
-  {
-   "sku": "doshift-33813",
+   "sku": "doshift-43339",
    "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    8,
-    11
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Coussin Thermique Pour Le Cou Avec Vibration Et Chaleur – Gris",
-     "description": "Coussin Thermique pour le Cou – Vibration et Chaleur Apaisantes\n\nSoulagez efficacement les tensions cervicales après une longue journée de travail ou d’études grâce à ce coussin thermique innovant. Combinant chaleur douce et massage vibrant, il transforme chaque moment de détente en une expérience de bien-être ultime.\n\nPersonnalisation et confort :\n\n3 niveaux de chaleur ajustables pour un confort optimal\n\n3 modes de massage vibratoire pour un soulagement ciblé\n\nArrêt automatique après 45 minutes pour une utilisation en toute sécurité\n\nDesign léger et portable, idéal pour la maison, le bureau ou les voyages\n\nParfait pour professionnels, étudiants ou toute personne passant de longues heures devant un écran, ce coussin réduit la fatigue et la rigidité du cou, tout en revitalisant votre esprit.\n\nInclus :\n\nCoussin thermique\n\nAdaptateur secteur\n\nAlliez technologie de pointe, confort et prix compétitif avec ce coussin thermique pour le cou. Offrez-vous ce petit luxe quotidien et profitez d’un bien-être immédiat, où que vous soyez.",
-     "short_description": "Coussin Thermique pour le Cou – Vibration et Chaleur Apaisantes"
+     "name": "Lampe de Table LED Tactile – Finition Dorée",
+     "description": "Apportez une touche élégante et chaleureuse à votre intérieur avec cette lampe de table LED au design moderne. Sa finition métallique dorée et son diffuseur lumineux circulaire lui donnent un style chic qui s’intègre facilement dans une chambre, un salon, un bureau ou un espace de détente.\n\nGrâce à sa commande tactile, vous pouvez facilement changer l’ambiance lumineuse selon vos envies. La lampe propose 3 tons de lumière : blanc chaud, blanc neutre et blanc froid, pratiques aussi bien pour créer une atmosphère cosy que pour lire ou travailler.\n\nCompacte et décorative, elle trouve facilement sa place sur une table de chevet, une console, un bureau ou une table d’appoint.\n\nCaractéristique\nDétail\n\nType de produit\nLampe de table LED\n\nCommande\nTactile\n\nÉclairage\nLED\n\nTons de lumière\n3 tons\n\nModes lumineux\nBlanc chaud, blanc neutre, blanc froid\n\nCouleur de la structure\nDoré\n\nStyle\nModerne et élégant\n\nForme\nCylindrique\n\nUtilisation\nChambre, salon, bureau, table de chevet, espace de lecture\n\nInstallation\nÀ poser\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Apportez une touche élégante et chaleureuse à votre intérieur avec cette lampe de table LED au design moderne."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/6954695756930-2.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-08-17T142454.302.png"
    ]
   },
   {
-   "sku": "doshift-33797",
-   "price": 99,
+   "sku": "doshift-43309",
+   "price": 70,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Filtre en coton carré pour la purification de l’air, anti-fumée secondaire, cendrier avec fonction d’ions négatifs",
-     "description": "Cendrier purificateur d’air – Design pratique et efficace\n\nAlliez confort et hygiène avec ce cendrier purificateur d’air conçu pour maintenir l’air de votre espace propre et frais. Fabriqué en nylon ignifuge et fibre de verre, il garantit robustesse et sécurité.\n\nFonctionnement simple : Appuyez sur l’interrupteur pour démarrer. La machine s’éteint automatiquement après 5,2 minutes, pour un usage pratique et sans souci. Idéal pour la maison, le bureau ou la voiture.\n\nAlimentation :\n\nVersion piles : 2 piles AA (non incluses) offrant jusqu’à 40 cycles de fonctionnement.\n\nVersion rechargeable : batterie lithium 1200 mAh, charge via Micro USB 5V en 2,5 heures, pour environ 20 cycles de 5,2 minutes chacun.\n\nEntretien et personnalisation :\n\nRemplacement de batterie : retirez l’écran filtrant et la plaque de support pour changer facilement la batterie.\n\nAromathérapie intégrée : installez votre feuille parfumée préférée dans l’espace prévu pour diffuser des senteurs agréables pendant l’utilisation.\n\nCompact, efficace et sécurisé, ce cendrier purificateur d’air combine fonction purificatrice et touche aromatique, pour un environnement sain et agréable.",
-     "short_description": "Cendrier purificateur d’air – Design pratique et efficace"
+     "name": "Turban Femme Élégant Noir – Bonnet Croisé Extensible Confortable",
+     "description": "Apportez une touche d’élégance et de confort à votre style avec ce turban femme noir au design croisé raffiné. Conçu dans un tissu doux, extensible et respirant, il épouse parfaitement la tête pour un maintien agréable toute la journée. Idéal pour un usage quotidien, pour les occasions spéciales, ou comme couvre-chef pratique en cas de perte de cheveux.\n\nCaractéristique\nDétail\n\nType\nTurban / Bonnet femme\n\nCouleur\nNoir\n\nMatière\nTissu doux extensible\n\nStyle\nÉlégant, moderne\n\nUtilisation\nQuotidien, mode, confort\n\nTaille\nTaille unique extensible\n\nEntretien\nLavage à la main conseillé\n\nRéférence Doshift\nAA1BB099",
+     "short_description": "Apportez une touche d’élégance et de confort à votre style avec ce turban femme noir au design croisé raffiné."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/9900004159142.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-13T154306.916.png"
    ]
   },
   {
-   "sku": "doshift-33862",
-   "price": 579,
+   "sku": "doshift-43293",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
-    4,
-    5
+    7
    ],
    "locales": {
     "fr": {
-     "name": "Black Shark Rokas 3 Écouteurs Sans Fil",
-     "description": "Plongez dans une expérience audio moderne avec ces écouteurs sans fil équipés des dernières technologies pour un confort et une performance optimale.\n\nConnectivité Bluetooth 5.4 : connexion stable et rapide jusqu’à 10 mètres sans obstacles.\n\nPilotes dynamiques 13 mm : un son riche et puissant avec des basses profondes.\n\nMicrophone intégré : des appels clairs et fluides.\n\nAutonomie : environ 5 heures avec les écouteurs seuls et jusqu’à 24 heures avec le boîtier de charge.\n\nRecharge rapide : charge complète en seulement 1 h 30 via USB-C.\n\nRéduction active du bruit (ANC) : profitez de votre musique sans distractions extérieures.\n\nCommandes tactiles : contrôlez facilement la lecture, les appels et les fonctions ANC.\n\nÉclairage LED : indicateurs pratiques sur les écouteurs et le boîtier de charge.\n\nUn design élégant et des fonctionnalités avancées qui allient confort, autonomie et qualité sonore pour accompagner vos journées, vos appels et vos moments de détente.",
-     "short_description": "Plongez dans une expérience audio moderne avec ces écouteurs sans fil équipés des dernières technologies pour un confort et une performance optimale."
+     "name": "Coussin de Siège de Voiture pour un Confort Absolu",
+     "description": "Conduire de longues distances ou rester assis, que ce soit pour travailler ou pour jouer, pendant une longue période avec une mauvaise posture peut être stressant, non seulement pour notre esprit mais aussi pour notre corps.Cet oreiller pour appui-tête de siège de voiture est exactement ce qui manque à votre voiture !Avec cet oreiller appui-tête pour siège de voiture, vous apprécierez certainement les voyages aléatoires. C’est le complément parfait à votre siège auto. Cet oreiller détend votre cou pour une conduite plus confortable. Vous offre le soutien dont vous avez besoin pour maintenir une meilleure posture.Il est conçu de manière ergonomique pour assurer le confort. Conçu scientifiquement avec un design en forme de U pour soulager les douleurs cervicales et agir comme un support pour votre corps depuis la colonne cervicale. C’est l’accessoire de voiture dont vous ne saviez pas avoir besoin.",
+     "short_description": "Conduire de longues distances ou rester assis, que ce soit pour travailler ou pour jouer, pendant une longue période avec une mauvaise posture peut être stressant, non seulement pour notre esprit mais aussi pour notre…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/6977541631014.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764347634-254_1.jpg"
    ]
   },
   {
-   "sku": "doshift-33791",
+   "sku": "doshift-43279",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Oreiller de massage du cou, dispositif de traction chiropratique cervicale",
+     "description": "Profitez d’un confort optimal pendant  avec ce support ergonomique conçu pour maintenir la nuque et la tête en douceur. Sa forme anatomique épouse parfaitement les courbes du corps pour offrir un soutien agréable et relaxant, idéal pour les moments de détente à la maison.\n\nCaractéristiques\nDétails\n\nType\nSupport ergonomique de bain\n\nUtilisation\nSoutien nuque et tête\n\nMatière\nMousse souple imperméable\n\nEntretien\nFacile à nettoyer\n\nAvantages\nConfortable, léger, ergonomique\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Profitez d’un confort optimal pendant  avec ce support ergonomique conçu pour maintenir la nuque et la tête en douceur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Design-sans-titre-2026-04-12T153817.318.png"
+   ]
+  },
+  {
+   "sku": "doshift-43243",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de 2 coussinets en gel pour les métatarses, pour plus de confort et de protection (Couleur selon disponibilité)",
+     "description": "Ensemble de 2 coussinets en gel silicone pour les métatarses, conçus pour offrir confort et soutien pendant la marche. Ces coussinets aident à réduire la pression sur la zone des métatarses, idéaux pour les personnes qui portent des chaussures à talons ou restent debout pendant de longues périodes. Fabriqués en gel silicone de haute qualité, ils sont flexibles et confortables, et sont également lavables pour une utilisation prolongée.",
+     "short_description": "Ensemble de 2 coussinets en gel silicone pour les métatarses, conçus pour offrir confort et soutien pendant la marche."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764347534-243_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43193",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    2,
-    7,
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moustiquaire Pour Lit lit double Anti moustiques Avec 2 Porte 200x180cm",
+     "description": "Protégez vos nuits efficacement grâce à cette moustiquaire en forme de tente, idéale pour lit simple ou double. Sa structure autoportante se déploie en quelques secondes sans besoin d’installation complexe. Conçue en maille fine respirante, elle bloque les moustiques et insectes tout en assurant une excellente circulation de l’air.\n\nSon design enveloppant offre une protection à 360°, parfait pour la maison, les voyages ou les zones à forte présence d’insectes. Les ouvertures zippées permettent un accès facile tout en maintenant une fermeture sécurisée pendant la nuit.\n\nCaractéristique\nDétail\n\nType de produit\nMoustiquaire tente pour lit\n\nStructure\nPliable avec arceaux intégrés\n\nInstallation\nAutomatique / déploiement rapide\n\nMatière\nMaille fine respirante\n\nProtection\nAnti-moustiques & insectes\n\nFermeture\nOuvertures avec fermeture zippée\n\nUtilisation\nMaison, voyage, camping\n\nConfort\nAération optimale\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Protégez vos nuits efficacement grâce à cette moustiquaire en forme de tente, idéale pour lit simple ou double. Sa structure autoportante se déploie en quelques secondes sans besoin d’installation complexe."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-18T212415.294.png"
+   ]
+  },
+  {
+   "sku": "doshift-43175",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pare-soleil rétractable pliable pour voiture",
+     "description": "Le pare-soleil de pare-brise est composé de ABS et est de couleur argent et gris.\n\nIl mesure 155x70cm et pèse 400g.\n\nIl est doté d’une ventouse améliorée et agrandie qui offre une meilleure stabilité et une force d’adsorption plus forte.\n\nLa conception en éventail à fixation en quatre points permet une bonne isolation thermique et un effet d’ombrage.\n\nIl est composé d’une couche extérieure de film aluminisé, d’une couche intérieure de photocatalyseur et d’une feuille d’aluminium réfléchissante.\n\nIl peut être coupé librement en fonction de la taille du pare-brise.\n\nIl offre 5 cm d’espace réservé aux deux extrémités.",
+     "short_description": "Le pare-soleil de pare-brise est composé de ABS et est de couleur argent et gris."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764347402-228_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43165",
+   "price": 134,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pichet thermique inox 220 ml café et lait chaud",
+     "description": "Le pot à café et chocolat est en acier inoxydable de haute qualité.\n\nIl a une capacité de 220 ml et est doté d’un bec verseur.\n\nIl est également muni d’une poignée isolée et possède un contrôle précis.\n\nLe pot est multi-couleur et pèse 0.3 kg.",
+     "short_description": "Le pot à café et chocolat est en acier inoxydable de haute qualité."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764347383-226_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-43155",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coussin de Siège WC Portable Pliable – Confortable, Étanche et Réutilisable",
+     "description": "Apportez plus de confort et d’hygiène à vos déplacements avec ce coussin de siège WC portable pliable. Conçu en matériau souple, doux pour la peau et résistant, il offre une assise agréable tout en protégeant du froid et de l’humidité. Son design pliable permet un transport facile et un rangement compact, idéal pour les voyages, sorties en famille, camping ou usage quotidien.\n\nGrâce à sa surface imperméable, il se nettoie rapidement d’un simple coup de chiffon. Sa texture antidérapante assure une bonne stabilité sur la majorité des toilettes standards. Léger, durable et pratique, il convient parfaitement aux enfants comme aux adultes.\n\nCaractéristique\nDétail\n\nType\nCoussin de siège WC portable pliable\n\nMatière\nSilicone / matériau souple imperméable\n\nCouleur\nRose\n\nDimensions extérieures\n37 × 42 cm\n\nDimensions intérieures\n19 × 25 cm\n\nPropriétés\nDoux, pliable, étanche, réutilisable\n\nEntretien\nNettoyage facile avec chiffon humide\n\nUtilisation\nMaison, voyage, camping, enfants\n\nRéférence Doshift\nAA2BB499",
+     "short_description": "Apportez plus de confort et d’hygiène à vos déplacements avec ce coussin de siège WC portable pliable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-14T175517.295.png"
+   ]
+  },
+  {
+   "sku": "doshift-43140",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     8
    ],
    "locales": {
     "fr": {
-     "name": "Chargeur de Voyage Rétractable 4-en-1 (Type-C & USB) 120W Max – La Station de Charge Intelligente",
-     "description": "Le chargeur 4-en-1 UNIVERS7 est la solution ultime pour les voyageurs et les utilisateurs qui recherchent la polyvalence et la puissance. Combinant un design compact avec un câble de charge télescopique intégré, il élimine l’encombrement des câbles. Il est capable de délivrer une puissance maximale de 120W, supportant la super charge rapide, et peut charger simultanément jusqu’à quatre appareils mobiles. Sa protection intégrée contre les surintensités et les courts-circuits garantit une charge sûre. De plus, sa conception thermique assure une charge longue durée à basse température. Avec ses multiples sorties (iOS, Android, Type-C) et sa tête pivotante à 180°, il est l’accessoire indispensable pour tous vos besoins de charge.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nNom du Produit\nChargeur de Voyage 4-en-1 (Télescopique)\n\nPuissance Max. Totale\nMax 120W (Supporte la super charge rapide)\n\nSortie Type-C\n5V/3A, Supporte la super charge rapide (Max 100W)\n\nSortie USB-A\n5V/3A\n\nSortie iPhone (iOS)\n5V/2.4A\n\nSortie USB\n5V/2.4A\n\nLongueur du Câble\n800mm (0.8m)\n\nDesign du Câble\nRétractable / Télescopique (jusqu’à 800mm)\n\nProtection\nFusible intégré, Protection contre les surintensités et courts-circuits\n\nFonctionnalités Clés\nCharge quatre mobiles simultanément, Tête réglable à 180°\n\nMatériaux\nABS/PC\n\nDimensions Produit\n139 x 65 x 34.5 mm\n\nRéférence DoShift\nAA7BB099",
-     "short_description": "Le chargeur 4-en-1 UNIVERS7 est la solution ultime pour les voyageurs et les utilisateurs qui recherchent la polyvalence et la puissance."
+     "name": "Pince à Dénuder Automatique – ABC Power",
+     "description": "La Pince à Dénuder Automatique ABC Power est un outil professionnel conçu pour dénuder facilement et rapidement différents types de fils électriques. Grâce à son mécanisme automatique, elle ajuste la pression selon l’épaisseur du câble, garantissant un travail propre, précis et sans endommager le conducteur. Idéale pour les électriciens, techniciens, bricoleurs et ateliers.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nPince à dénuder automatique\n\nMarque\nABC Power\n\nUtilisation\nDénudage de câbles et fils électriques\n\nPrécision\nAjustement automatique selon le diamètre du fil\n\nErgonomie\nPoignée confortable anti-glisse\n\nMatériau\nAlliage + poignée plastique renforcée\n\nApplication\nBricolage, électricité, atelier, installation\n\nAvantages\nRapidité, précision, sans effort\n\nCouleur\nOrange / Noir (selon disponibilité)\n\nRéférence-doshift\nAA8BB099",
+     "short_description": "La Pince à Dénuder Automatique ABC Power est un outil professionnel conçu pour dénuder facilement et rapidement différents types de fils électriques."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/9900001494750.png"
-   ]
-  },
-  {
-   "sku": "doshift-33742",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Casque Sans Fil Deepbass R20 Hi-Res Audio – Gris",
-     "description": "Profitez pleinement de votre musique avec le casque sans fil Deepbass R20. Son design moderne et ses coussinets rembourrés offrent un port agréable pour écouter vos morceaux, regarder des vidéos ou passer des appels.\n\nGrâce à sa batterie de 200 mAh, il propose jusqu’à 7 à 8 heures d’écoute et jusqu’à 160 heures en veille. Son microphone intégré permet également de communiquer facilement sans retirer le casque.\n\nCaractéristique\nDétail\n\nMarque\nDeepbass\n\nModèle\nR20\n\nType\nCasque audio sans fil\n\nFormat\nCasque avec arceau\n\nQualité audio\nHi-Res Audio\n\nCapacité de la batterie\n200 mAh\n\nAutonomie d’écoute\nEnviron 7 à 8 heures\n\nAutonomie en veille\nJusqu’à 160 heures\n\nMicrophone\nIntégré\n\nCommandes\nBoutons intégrés au casque\n\nCouleur\nGris et argenté\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Profitez pleinement de votre musique avec le casque sans fil Deepbass R20. Son design moderne et ses coussinets rembourrés offrent un port agréable pour écouter vos morceaux, regarder des vidéos ou passer des appels."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/Nouveau-projet-2026-08-22T165207.712.png"
-   ]
-  },
-  {
-   "sku": "doshift-33719",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Casque Sans Fil Deepbass R21 – Bleu",
-     "description": "Profitez de votre musique avec le casque sans fil Deepbass R21. Son format supra-auriculaire, son arceau rembourré et ses coussinets confortables permettent une utilisation agréable au quotidien, à la maison comme en déplacement.\n\nÉquipé d’un microphone intégré, il convient aussi bien à l’écoute musicale qu’aux appels. Sa batterie rechargeable de 200 mAh offre jusqu’à 7 à 8 heures d’écoute selon l’utilisation.\n\nCaractéristique\nDétail\n\nMarque\nDeepbass\n\nModèle\nR21\n\nType\nCasque sans fil supra-auriculaire\n\nSon\nStéréo Hi-Res Audio\n\nMicrophone\nIntégré\n\nCapacité de la batterie\n200 mAh\n\nAutonomie musicale\nEnviron 7 à 8 heures\n\nAutonomie en veille\nJusqu’à 160 heures\n\nConnectique visible\nPort de charge et entrée audio\n\nCouleur\nBleu ciel\n\nUtilisation\nMusique, appels, travail et déplacements\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Profitez de votre musique avec le casque sans fil Deepbass R21. Son format supra-auriculaire, son arceau rembourré et ses coussinets confortables permettent une utilisation agréable au quotidien, à la maison comme en…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/09/Nouveau-projet-2026-08-22T165908.573.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_innnv2innnv2innn-1.png"
    ]
   }
  ]

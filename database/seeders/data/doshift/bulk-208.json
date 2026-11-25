@@ -1,108 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-73301",
-   "price": 369,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Power-bank sans fil 20000 mAh Xiaomi",
-     "description": "Profitez d’une solution de recharge pratique et performante avec cette batterie externe sans fil de 20000 mAh. Conçue pour accompagner vos déplacements, elle permet de recharger vos appareils avec ou sans câble, tout en offrant une grande capacité pour un usage quotidien, au bureau comme en voyage.\n\nCaractéristique\nDétail\n\nType de produit\nBatterie externe sans fil\n\nMarque\nXiaomi\n\nModèle\nWPB15PDZM\n\nCapacité batterie\n20000 mAh\n\nÉnergie nominale\n74Wh / 3.7V\n\nCapacité nominale\n12000 mAh (5V/2.4A)\n\nCharge sans fil\n10W max\n\nInterface d’entrée\nUSB-C\n\nInterface de sortie\nUSB-A\n\nEntrée\n5V=3A, 9V=2A, 12V=1.5A\n\nSortie filaire\nUSB-A : 5V=2.4A, 9V=2A, 12V=1.5A max\n\nType de batterie\nBatterie lithium-polymère\n\nDimensions\n147.9 × 70.6 × 27 mm\n\nUtilisation\nRecharge de smartphones et appareils compatibles\n\nRéférence Doshift\nAA23BB099",
-     "short_description": "Profitez d’une solution de recharge pratique et performante avec cette batterie externe sans fil de 20000 mAh."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-20T153033.318.png"
-   ]
-  },
-  {
-   "sku": "doshift-73316",
-   "price": 379,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Montre connectée MK53 AMOLED avec appels Bluetooth et bracelet 3+1 – Argent",
-     "description": "Adoptez une montre connectée élégante et polyvalente, conçue pour accompagner vos journées actives comme vos moments de détente. Avec son écran AMOLED lumineux, son verre incurvé raffiné et son design moderne, la MK53 allie style, confort et technologie au poignet.\n\nCaractéristique\nDétail\n\nType de produit\nMontre connectée\n\nModèle\nMK53\n\nÉcran\nAMOLED\n\nDesign\nVerre incurvé\n\nFonction appels\nAppels Bluetooth\n\nSuivi santé\nSuivi complet de la santé\n\nUtilisation\nSport, quotidien, travail, loisirs\n\nCompatibilité\nCompatible avec tous les téléphones\n\nPublic\nHomme\n\nCouleur\nArgent\n\nBracelets inclus\nBracelet 3+1\n\nStyle\nModerne et sportif\n\nRéférence Doshift\nAA24BB099",
-     "short_description": "Adoptez une montre connectée élégante et polyvalente, conçue pour accompagner vos journées actives comme vos moments de détente."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-20T154255.845.png"
-   ]
-  },
-  {
-   "sku": "doshift-73294",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2,
-    4,
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Enceinte Bluetooth à induction 3 en 1 avec éclairage RGB",
-     "description": "Profitez d’un accessoire multifonction qui combine enceinte Bluetooth, support à induction et éclairage RGB dans un format compact et moderne. Idéal pour la maison, le bureau ou les déplacements, ce modèle permet de poser facilement votre smartphone tout en profitant de votre musique dans une ambiance lumineuse élégante.\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte Bluetooth 3 en 1\n\nFonctions\nHaut-parleur, support téléphone, éclairage RGB\n\nConnectivité\nBluetooth\n\nCompatibilité\nSmartphones compatibles\n\nDesign\nSupport inclinable avec base stable\n\nÉclairage\nAnneau lumineux RGB\n\nUtilisation\nMaison, bureau, voyage\n\nFormat\nCompact et portable\n\nUsage recommandé\nMusique, appels, visionnage, ambiance lumineuse\n\nAlimentation\nÀ recharge\n\nRéférence Doshift\nAA9BB599",
-     "short_description": "Profitez d’un accessoire multifonction qui combine enceinte Bluetooth, support à induction et éclairage RGB dans un format compact et moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-20T144406.196.png"
-   ]
-  },
-  {
-   "sku": "doshift-73267",
-   "price": 339,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Grande Horloge Murale LED Multifonction",
-     "description": "Affiche l’heure, la date et la température avec une lisibilité optimale grâce à son grand écran LED haute définition.\n\nCaractéristique\nDétail\n\nAffichage\nÉcran LED haute définition avec chiffres jumbo ultra-lumineux\n\nDimensions\nEnviron 33 cm (L) × 19 cm (H) × 3,5 cm (épaisseur)\n\nHeure\nFormat 12h (AM/PM) ou 24h\n\nCalendrier\nAffichage complet : jour, mois et année\n\nJour de la semaine\nAffichage en toutes lettres\n\nThermomètre\nTempérature ambiante en °C\n\nInstallation\nFixation murale ou pose sur support (pieds escamotables)\n\nMatériaux\nBoîtier en ABS noir avec façade en acrylique (effet verre)\n\nAlimentation\nAlimentation secteur (prise électrique)\n\nRéférence\nAA2BB0099",
-     "short_description": "Affiche l’heure, la date et la température avec une lisibilité optimale grâce à son grand écran LED haute définition."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-24.png"
-   ]
-  },
-  {
-   "sku": "doshift-73255",
-   "price": 369,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Horloge Murale Digitale LED Géante",
-     "description": "Affiche l’heure, la date et la température avec une clarté exceptionnelle grâce à son large écran LED haute définition.\n\nCaractéristique\nDétail\n\nAffichage\nLED haute définition avec chiffres jumbo ultra-lumineux\n\nDimensions\n~33 cm (L) × 19 cm (H) × 3,5 cm (épaisseur)\n\nHeure\nFormat 12h (AM/PM) ou 24h\n\nCalendrier\nJour, mois et année\n\nJour de la semaine\nAffichage en toutes lettres\n\nThermomètre\nTempérature en °C\n\nInstallation\nMurale ou sur support (pieds escamotables)\n\nMatériaux\nBoîtier ABS noir + façade en verre/plexiglas acrylique\n\nAlimentation\nSecteur (prise électrique)\n\nRéférence-doshift\nAA2BB2099",
-     "short_description": "Affiche l’heure, la date et la température avec une clarté exceptionnelle grâce à son large écran LED haute définition."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-23.png"
-   ]
-  },
-  {
-   "sku": "doshift-73246",
-   "price": 89,
+   "sku": "doshift-81824",
+   "price": 489,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -110,38 +10,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Sans Fil Premium avec Éclairage Intelligent",
-     "description": "Transformez instantanément votre éclairage en système intelligent avec cette douille E27 télécommandée.\n\nCaractéristique\nDétail\n\nType de culot\nStandard E27 (vis Edison)\n\nTension d’entrée\nAC 85V – 265V\n\nPuissance maximale\nJusqu’à 60W (LED, CFL ou incandescence faible puissance)\n\nPortée de la télécommande\nEnviron 8 à 10 mètres\n\nFonction minuterie\n5, 15, 30, 60 minutes\n\nAlimentation télécommande\nPile bouton 3V type CR2025\n\nDimensions douille\n~83,5 mm (hauteur) × 49 mm (diamètre)\n\nDimensions télécommande\n~110 mm (longueur) × 43 mm (largeur)\n\nRéférence-doshift\nAA3BB099",
-     "short_description": "Transformez instantanément votre éclairage en système intelligent avec cette douille E27 télécommandée."
+     "name": "Table Pliante Réglable – Grand Modèle 120×60 cm",
+     "description": "Profitez d’un espace pratique et confortable avec cette table pliante réglable grand format. Idéale pour le camping, les pique-niques, les événements, le jardin ou même un usage à la maison, elle se transporte facilement grâce à son format compact une fois pliée.\n\nCaractéristique\nDétail\n\nDimensions ouvertes\n120 x 60 cm\n\nHauteur\n70 cm\n\nDimensions pliée\n60 cm\n\nStructure\nAluminium léger\n\nUtilisation\nCamping, pique-nique, maison, extérieur\n\nTransport\nPoignée intégrée\n\nRéférence Doshift\nAA29BB599",
+     "short_description": "Profitez d’un espace pratique et confortable avec cette table pliante réglable grand format."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-22.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-15.png"
    ]
   },
   {
-   "sku": "doshift-73224",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Connecteur de Pompe à Graisse Haute Pression",
-     "description": "Optimisez vos opérations de graissage grâce à ce coupleur à double poignée.\n\nCaractéristique\nDétail\n\nSystème de verrouillage\n6 mâchoires renforcées pour un maintien ferme sur le graisseur (Zerk), utilisation mains libres\n\nPression maximale\nHaute résistance jusqu’à 10 000 PSI\n\nPoignée ergonomique\nDouble poignée pour un levier optimal et une manipulation facile\n\nÉtanchéité\nJoint haute qualité empêchant les fuites de graisse\n\nCompatibilité\nFiletage 1/8″ NPT compatible avec la plupart des pompes à graisse\n\nFlexible d’extension\nTuyau souple de 30 cm avec ressort de protection\n\nUtilisation\nAccès facile aux zones étroites ou difficiles\n\nLongueur du coupleur\n~9 cm\n\nLargeur du corps\n~1,5 cm\n\nLongueur des poignées\n~5 cm\n\nDiamètre de la tête\n~1,4 à 1,6 cm\n\nLongueur du flexible\n~30 cm\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Optimisez vos opérations de graissage grâce à ce coupleur à double poignée."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-21.png"
-   ]
-  },
-  {
-   "sku": "doshift-72931",
-   "price": 139,
+   "sku": "doshift-80812",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -150,18 +30,58 @@
    ],
    "locales": {
     "fr": {
-     "name": "Ensemble Chapeau & Sac en Paille avec Nœud Dentelle – Style Élégant Été Blanc",
-     "description": "Apportez une touche de douceur et d’élégance à vos sorties estivales avec cet ensemble raffiné composé d’un chapeau en paille et d’un sac assorti. Léger et confortable, il est parfait pour la plage, les promenades ou les occasions en plein air. Son design délicat avec nœud en dentelle ajoute une finition féminine et tendance qui attire le regard.\n\nIdéal pour compléter une tenue d’été, cet ensemble combine style et praticité grâce à son sac compact et facile à porter. Un choix parfait pour un look chic et naturel.\n\nCaractéristique\nDétail\n\nType\nEnsemble chapeau + sac\n\nMatière\nPaille tressée + dentelle\n\nCouleur\nBlanc / Beige clair\n\nStyle\nÉlégant, été, féminin\n\nDimensions chapeau\nEnviron 32 cm\n\nDimensions sac\n13 x 15 cm\n\nBandoulière\nOui (corde tressée)\n\nUtilisation\nPlage, promenade, sortie\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Apportez une touche de douceur et d’élégance à vos sorties estivales avec cet ensemble raffiné composé d’un chapeau en paille et d’un sac assorti."
+     "name": "Rasoir Électrique Portable USB avec Stérilisation UV",
+     "description": "Profitez d’un rasage rapide, pratique et hygiénique où que vous soyez grâce à ce mini rasoir électrique portable compatible USB. Compact et léger, il se branche directement sur votre smartphone pour une utilisation instantanée à la maison, au bureau ou en voyage. Son système de coupe rotatif 360° assure un rasage précis et confortable, tandis que la technologie UV aide à garder la tête plus propre et hygiénique.\n\nCaractéristique\nDétail\n\nType de produit\nMini rasoir électrique portable\n\nRéférence Doshift\nAA4BB099\n\nAlimentation\nUSB\n\nFonction\nRasage portable\n\nTechnologie\nStérilisation UV\n\nSystème de coupe\nRotation 360°\n\nUtilisation\nVisage, barbe légère\n\nCouleur\nBlanc et violet\n\nFormat\nCompact et léger\n\nUtilisation recommandée\nVoyage, bureau, voiture, maison",
+     "short_description": "Profitez d’un rasage rapide, pratique et hygiénique où que vous soyez grâce à ce mini rasoir électrique portable compatible USB."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-18T143841.989.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-25T133542.859.png"
    ]
   },
   {
-   "sku": "doshift-72945",
-   "price": 1279,
+   "sku": "doshift-80522",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini ventilateur rechargeable portable",
+     "description": "Profitez d’une fraîcheur instantanée partout avec ce mini ventilateur compact et élégant. Léger, pratique et facile à poser, il est idéal pour le bureau, la maison, la chambre ou les déplacements.\n\nCaractéristiques\nDétails\n\nType\nMini ventilateur portable\n\nAlimentation\nRechargeable\n\nUtilisation\nBureau, maison, voyage, extérieur\n\nDesign\nBlanc avec finition dorée\n\nFonction\nVentilation personnelle\n\nRéférence Doshift\nAA3BB599",
+     "short_description": "Profitez d’une fraîcheur instantanée partout avec ce mini ventilateur compact et élégant. Léger, pratique et facile à poser, il est idéal pour le bureau, la maison, la chambre ou les déplacements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T205458.136.png"
+   ]
+  },
+  {
+   "sku": "doshift-80516",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini ventilateur portable rechargeable USB avec lumière LED",
+     "description": "Profitez d’un air frais partout avec ce mini ventilateur portable compact et pratique. Grâce à ses 3 vitesses, sa base détachable et son éclairage LED, il s’utilise facilement sur un bureau, une table de chevet, pendant le maquillage ou en déplacement. Rechargeable par USB, il offre une utilisation simple au quotidien à la maison, au bureau ou en voyage.\n\nCaractéristique\nDétail\n\nType de produit\nMini ventilateur portable\n\nUtilisation\nBureau, maison, chambre, voyage, maquillage\n\nVitesses\n3 niveaux de ventilation\n\nRecharge\nPar câble USB\n\nÉclairage\nLumière LED intégrée\n\nBase\nBase détachable pour utilisation sur table\n\nFormat\nCompact et facile à transporter\n\nAlimentation\nBatterie rechargeable intégrée\n\nDesign\nÉlégant avec finition dorée\n\nRéférence Doshift\nAA4BB099",
+     "short_description": "Profitez d’un air frais partout avec ce mini ventilateur portable compact et pratique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-19T172500.299.png"
+   ]
+  },
+  {
+   "sku": "doshift-80490",
+   "price": 109,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -169,34 +89,115 @@
    ],
    "locales": {
     "fr": {
-     "name": "Caméra de Surveillance Solaire 4G 6MP – PTZ Motorisée & Vision Nocturne Couleur",
-     "description": "Surveillez efficacement vos espaces avec cette caméra de sécurité solaire autonome, idéale pour les zones sans Wi-Fi ni électricité. Fonctionnant via une carte SIM 4G et un panneau solaire intégré, elle garantit une surveillance continue 24/7, parfaite pour les champs, chantiers, villas ou entrepôts.\n\nCaractéristique\nDétail\n\nType\nCaméra de surveillance solaire\n\nAlimentation\nPanneau solaire + batterie rechargeable\n\nConnectivité\n4G via carte SIM (sans Wi-Fi)\n\nRésolution\n6MP HD\n\nFonction PTZ\nRotation horizontale et verticale motorisée\n\nVision nocturne\nCouleur + infrarouge\n\nDétection\nMouvement avec alertes en temps réel\n\nStockage\nCarte SD + Cloud\n\nInstallation\nMurale, sans câbles\n\nUtilisation\nExtérieur / zones isolées\n\nContrôle\nÀ distance via smartphone\n\nRéférence Doshift\nAA11BB0099",
-     "short_description": "Surveillez efficacement vos espaces avec cette caméra de sécurité solaire autonome, idéale pour les zones sans Wi-Fi ni électricité."
+     "name": "Bouée Bébé Gonflable avec Pare-Soleil",
+     "description": "Offrez à votre bébé des moments de baignade amusants et sécurisés avec cette bouée gonflable équipée d’un pare-soleil intégré. Conçue pour assurer confort et protection, elle permet à votre enfant de profiter de la piscine ou de la plage tout en restant à l’abri du soleil. Son design coloré avec jouet à billes intégré stimule l’éveil et rend chaque moment encore plus ludique.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA5BB599\n\nType\nBouée gonflable bébé\n\nFonction\nFlotteur avec pare-soleil\n\nMatière\nPVC résistant\n\nCouleur\nRose\n\nDimensions\n60 × 60 × 58 cm\n\nUtilisation\nPiscine, plage, vacances\n\nParticularité\nJouet à billes intégré\n\nÂge recommandé\nBébé et jeune enfant\n\nTransport\nLégère et facile à gonfler",
+     "short_description": "Offrez à votre bébé des moments de baignade amusants et sécurisés avec cette bouée gonflable équipée d’un pare-soleil intégré."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-18T151458.051.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T192316.212.png"
    ]
   },
   {
-   "sku": "doshift-72916",
-   "price": 199,
+   "sku": "doshift-80415",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    4,
-    5
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Enceinte Bluetooth et Lampe LED Intégrée",
-     "description": "Fusionnez l’ambiance et la productivité avec cet objet unique deux-en-un. Cette enceinte Bluetooth haute fidélité est élégamment logée dans la base d’une lampe LED haute performance\n\nCaractéristique\nDétail\n\nType de produit\nLampe LED avec enceinte Bluetooth\n\nÉclairage\nLED haute performance\n\nModes de lumière\nChaud, neutre, froid\n\nConsommation\nFaible (éco)\n\nAudio\nHaut-parleur Bluetooth\n\nContrôle\nVolume et pistes intégrés\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nHauteur\n26 cm\n\nLargeur\n5 cm\n\nProfondeur\n20 cm\n\nDesign\nCompact et épuré\n\nStructure\nTête inclinable\n\nUtilisation\nBureau, maison\n\nRéférence-doshift\nAA1BB2099",
-     "short_description": "Fusionnez l’ambiance et la productivité avec cet objet unique deux-en-un. Cette enceinte Bluetooth haute fidélité est élégamment logée dans la base d’une lampe LED haute performance"
+     "name": "Tournevis Électrique Rechargeable HYLLIS – Kit Complet",
+     "description": "Facilitez vos travaux de vissage avec ce tournevis électrique compact, pratique et puissant. Idéal pour le montage de meubles, les petites réparations, l’électronique et les travaux du quotidien.Facilitez vos travaux de vissage avec ce tournevis électrique compact, pratique et puissant. Idéal pour le montage de meubles, les petites réparations, l’électronique et les travaux du quotidien.\n\nCaractéristique\nDétail\n\nProduit\nTournevis électrique\n\nMarque\nHYLLIS\n\nUtilisation\nMaison, bricolage, meubles, électronique\n\nDesign\nCompact et ergonomique\n\nPoignée\nAntidérapante confortable\n\nAccessoires\nEmbouts variés + tournevis manuel inclus\n\nAvantage\nVissage rapide, précis et facile\n\nAlimentation\nRechargeable\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Facilitez vos travaux de vissage avec ce tournevis électrique compact, pratique et puissant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/3-12.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T161918.638.png"
+   ]
+  },
+  {
+   "sku": "doshift-80372",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur Voiture Starlight 5 en 1 – Diffuseur LED & Charge Rapide USB",
+     "description": "Transformez vos trajets avec ce chargeur voiture multifonction 5 en 1 combinant recharge rapide, ambiance lumineuse LED et diffusion parfumée. Son design moderne avec éclairage RGB apporte une touche futuriste à votre véhicule tout en gardant vos appareils toujours chargés.\n\nCompact et élégant, il s’intègre parfaitement dans l’allume-cigare pour une utilisation pratique au quotidien. Profitez d’une conduite plus agréable grâce à son diffuseur d’arôme et son éclairage multicolore relaxant.\n\nCaractéristique\nDétail\n\nProduit\nChargeur voiture multifonction 5 en 1\n\nPorts USB\nUSB + USB-C\n\nCharge rapide\nOui\n\nFonction LED\nÉclairage RGB multicolore\n\nFonction diffuseur\nDiffusion parfumée intégrée\n\nCompatibilité\nSmartphones, tablettes et appareils USB\n\nInstallation\nPrise allume-cigare\n\nUtilisation\nVoiture, SUV, camion\n\nDesign\nCompact et moderne\n\nCouleur\nNoir\n\nRéférence Doshift\nAA15BB099",
+     "short_description": "Transformez vos trajets avec ce chargeur voiture multifonction 5 en 1 combinant recharge rapide, ambiance lumineuse LED et diffusion parfumée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-23T142755.165.png"
+   ]
+  },
+  {
+   "sku": "doshift-80233",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11,
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Masseur Cervical & Épaules Chauffant 3D Rechargeable USB",
+     "description": "Profitez d’un massage profond et relaxant à domicile, au bureau ou en voiture grâce à ce masseur cervical ergonomique. Conçu pour soulager les tensions musculaires au niveau du cou, des épaules et du dos, il combine massage 3D et chaleur apaisante pour un confort optimal au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nMasseur cervical et épaules\n\nType de massage\nMassage 3D rotatif\n\nFonction chaleur\nOui\n\nAlimentation\nRechargeable USB\n\nUtilisation\nCou, épaules, dos\n\nCommandes\nBoutons intégrés\n\nMatériau\nTissu doux et confortable\n\nCouleur\nGris\n\nUtilisation recommandée\nMaison, bureau, voiture\n\nRéférence Doshift\nAA14BB099",
+     "short_description": "Profitez d’un massage profond et relaxant à domicile, au bureau ou en voiture grâce à ce masseur cervical ergonomique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-22T200222.819.png"
+   ]
+  },
+  {
+   "sku": "doshift-80200",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur Brumisateur Double – Portable & Rechargeable",
+     "description": "Profitez d’une fraîcheur instantanée avec ce ventilateur double tête avec brumisation intégrée. Compact, moderne et pratique, il diffuse un air frais et humidifié, idéal pour la maison, le bureau, la chambre ou les journées chaudes.\n\nCaractéristique\nDétail\n\nProduit\nVentilateur brumisateur double\n\nFonction\nVentilation + brumisation\n\nDesign\nDouble ventilateur\n\nAlimentation\nUSB rechargeable\n\nUtilisation\nMaison, bureau, chambre\n\nAvantages\nAir frais, humidification, confort quotidien\n\nOptions\nVitesses réglables, LED colorées\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Profitez d’une fraîcheur instantanée avec ce ventilateur double tête avec brumisation intégrée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-22T184955.734.png"
+   ]
+  },
+  {
+   "sku": "doshift-80185",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11,
+    12
+   ],
+   "locales": {
+    "fr": {
+     "name": "Hydropulseur Dentaire Portable Rechargeable USB – 4 Embouts Inclus Couleur Aléatoire",
+     "description": "Profitez d’un nettoyage bucco-dentaire complet grâce à cet hydropulseur portable conçu pour éliminer efficacement les résidus alimentaires, la plaque dentaire et les impuretés entre les dents. Compact, léger et rechargeable par USB, il vous accompagne facilement à la maison comme en voyage.\n\nDoté de plusieurs modes de nettoyage et de 4 embouts adaptés à différents besoins, il convient parfaitement aux dents sensibles, appareils orthodontiques et soins quotidiens. Son réservoir transparent permet un contrôle facile du niveau d’eau pour une utilisation pratique et confortable.\n\nCaractéristique\nDétail\n\nProduit\nHydropulseur dentaire portable\n\nModes\nFaible / Moyen / Fort / Pulse\n\nEmbouts inclus\n4 types d’embouts\n\nRecharge\nUSB rechargeable\n\nUtilisation\nNettoyage des dents et gencives\n\nRéservoir d’eau\nTransparent intégré\n\nAvantages\nÉlimine la plaque et les résidus\n\nConvient pour\nDents sensibles & appareils dentaires\n\nDesign\nCompact et portable\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Profitez d’un nettoyage bucco-dentaire complet grâce à cet hydropulseur portable conçu pour éliminer efficacement les résidus alimentaires, la plaque dentaire et les impuretés entre les dents."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-22T182447.317.png"
    ]
   }
  ]

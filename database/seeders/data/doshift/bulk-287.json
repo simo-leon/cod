@@ -1,65 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-44386",
-   "price": 69,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Piles Rechargeables AA 2700 mAh – Pack de 2",
-     "description": "Optimisez l’alimentation de vos appareils du quotidien avec ces piles rechargeables AA haute capacité. Conçues pour offrir une énergie stable et durable, elles sont idéales pour les télécommandes, appareils photo, jouets, lampes torches, claviers sans fil et autres appareils électroniques. Grâce à leur technologie Ni-MH performante, ces piles peuvent être rechargées jusqu’à environ 1000 cycles, réduisant ainsi les coûts et l’impact environnemental. Leur capacité élevée de 2700 mAh garantit une autonomie prolongée et une performance fiable à chaque utilisation.\n\nCaractéristique\nDétail\n\nType\nPiles rechargeables AA Ni-MH\n\nCapacité\n2700 mAh\n\nTension\n1.2 V\n\nQuantité\nLot de 2 piles\n\nDimensions\n5 x 1.4 cm (L x diamètre)\n\nTemps de charge\n6 à 8 heures\n\nCycles de recharge\nEnviron 1000 fois\n\nPoids\n110 g\n\nRéférence Doshift\nAA2BB599",
-     "short_description": "Optimisez l’alimentation de vos appareils du quotidien avec ces piles rechargeables AA haute capacité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-03-12T154741.820.png"
-   ]
-  },
-  {
-   "sku": "doshift-42897",
-   "price": 209,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Parasol de plage léger 1,4 m réglable((Couleur selon disponibilité)",
-     "description": "Ce parasol de plage Calders de 1,4 m offre une protection contre le soleil et les averses légères.\n\nIl est facile à installer avec une pointe en plastique pour le fixer au sol.\n\nLe parasol est réglable en hauteur et possède une toile en polyester sur une structure à 8 nervures métalliques.\n\nIl mesure 140 cm de largeur et de profondeur.\n\nLe parasol pèse 0,8 kg et est principalement composé d’acier et de polyester.\n\nIl s’ouvre manuellement.",
-     "short_description": "Ce parasol de plage Calders de 1,4 m offre une protection contre le soleil et les averses légères."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346255-169_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42873",
-   "price": 369,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Housse de siège – GENERIC – Universel – Perles de bois – Beige – Ergonomique et décorative",
-     "description": "Le coussin de siège en perles de bois GENERIC offre un confort optimal en massant le dos et les cuisses. Fabriqué en perles de bois naturel, il assure une bonne circulation de l’air. Adapté à tous types de sièges, il est facile à installer et disponible en beige. Poids : 0,3 kg.",
-     "short_description": "Le coussin de siège en perles de bois GENERIC offre un confort optimal en massant le dos et les cuisses. Fabriqué en perles de bois naturel, il assure une bonne circulation de l’air."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346211-164_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42863",
-   "price": 249,
+   "sku": "doshift-45158",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -67,18 +10,37 @@
    ],
    "locales": {
     "fr": {
-     "name": "Tapis de sol pliable et Portable, Tapis de prière Support de dossier ergonomique(Couleur selon disponibilité)",
-     "description": "Tapis de prière avec dossierNouveau design pliable matelassé : Conçu pour prier et confortablement assisDossier solide, recouvert d’un rembourrage doux.Prévenir le mal de dos  assis sur le sol pendant une longue période de tempsIdéal pour Mosquée, madrassa et peuvent être transportées et utilisées comme tapis de prière.",
-     "short_description": "Tapis de prière avec dossierNouveau design pliable matelassé : Conçu pour prier et confortablement assisDossier solide, recouvert d’un rembourrage doux.Prévenir le mal de dos  assis sur le sol pendant une longue période…"
+     "name": "Tournevis cliquet mini ajustable double tête (Couleur selon disponibilité)",
+     "description": "Le tournevis trapu de poche est doté d’un embout à double extrémité avec un fendu et un croisé.\n\nLa tige d’extension télescopique s’ajuste en douceur à différentes longueurs.\n\nLe mécanisme à cliquet offre trois réglages et fonctionne efficacement dans les deux sens.\n\nLa poignée ABS antidérapante réduit la fatigue de la main et le couple maximal.\n\nL’embout de tournevis est fabriqué en acier au chrome-vanadium, robuste et durable.\n\nLe tournevis est fait d’acier allié, est magnétique, réglable, possède une poignée antidérapante et pèse 0.2 kg.\n\nIl est disponible en plusieurs couleurs.",
+     "short_description": "Le tournevis trapu de poche est doté d’un embout à double extrémité avec un fendu et un croisé."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346195-162_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357007-266_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42858",
-   "price": 129,
+   "sku": "doshift-45138",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tampon mathématique : optimisez vos calculs avec facilité (Couleur selon disponibilité)",
+     "description": "Le Tampon à Numéro à Roulement est un outil innovant qui permet de simplifier les calculs mathématiques. Il est conçu pour faciliter la multiplication et la division.\n\nLe tampon est disponible en deux modèles : bleu pour la multiplication et rose pour la division.\n\nIl mesure 4,4 cm x 3 cm x 4,8 cm et est composé d’ABS. Il pèse 0,1 kg.",
+     "short_description": "Le Tampon à Numéro à Roulement est un outil innovant qui permet de simplifier les calculs mathématiques. Il est conçu pour faciliter la multiplication et la division."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356975-262_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45133",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -86,17 +48,17 @@
    ],
    "locales": {
     "fr": {
-     "name": "Sac de rangement – GENERIC – Modèle pliable – Tissu non tissé – Couleur orange – 0.3 kg",
-     "description": "Ce sac de rangement en tissu non tissé est idéal pour organiser vêtements, couvertures et jouets. Avec sa fenêtre transparente, vous pouvez facilement voir son contenu. Léger et pliable, il est facile à transporter et à ranger. Parfait pour un usage mixte, il est résistant à l’humidité et à la poussière.",
-     "short_description": "Ce sac de rangement en tissu non tissé est idéal pour organiser vêtements, couvertures et jouets. Avec sa fenêtre transparente, vous pouvez facilement voir son contenu."
+     "name": "Serviette de bain de qualité supérieure et couette enfant confortable",
+     "description": "Serviette de bain pour enfant en tissu polaire doux.\n\nCouleur rose.\n\nModèle: Serviette.\n\nPoids: 0.3 kg.\n\nCouleur: Vert pâle.\n\nMatière principale: coton.\n\nCouette pour enfant en matériaux de haute qualité.\n\nOffre chaleur optimale.\n\nEnsemble de serviette de bain et de couette.\n\nConçu pour offrir le meilleur en matière de soins et de confort.",
+     "short_description": "Serviette de bain pour enfant en tissu polaire doux."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346189-161_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356969-261_1.jpg"
    ]
   },
   {
-   "sku": "doshift-44307",
+   "sku": "doshift-45128",
    "price": 199,
    "stock": 10,
    "status": 0,
@@ -105,38 +67,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Fermoir de porte en métal automatique door closer premium qualité",
-     "description": "Le ferme-porte est conforme aux exigences européennes en matière de DPC.\n\nIl offre une action séparée du loquet et un réglage de la vitesse de fermeture.\n\nSon mécanisme à crémaillère en acier trempé et rectifié assure un fonctionnement souple et efficace.\n\nLe fluide hydraulique de haute qualité avec compensation de température intégrée assure un fonctionnement fiable à des températures comprises entre -15 ° C et + 40 ° C.\n\nModèle: Fermoir de porte\n\nPoids (kg): 0.3\n\nCouleur: blanc\n\nMatière principale: metal",
-     "short_description": "Le ferme-porte est conforme aux exigences européennes en matière de DPC."
+     "name": "Boîte de rangement – GENERIC – 3 pièces – Gris – Tissu – Polyester",
+     "description": "Cet ensemble de 3 boîtes de rangement grises est idéal pour organiser vos sous-vêtements, chaussettes et accessoires. Fabriquées en tissu et polyester, elles optimisent l’espace dans vos placards. Dimensions : 2 boîtes de 32x12x12 cm et 1 boîte de 32x32x12 cm. Poids total : 0,5 kg.",
+     "short_description": "Cet ensemble de 3 boîtes de rangement grises est idéal pour organiser vos sous-vêtements, chaussettes et accessoires. Fabriquées en tissu et polyester, elles optimisent l’espace dans vos placards."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354904-82_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356963-260_1.jpg"
    ]
   },
   {
-   "sku": "doshift-44302",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11,
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Masque facial anti-poussière coupe-vent, masques respirants polaire couleur aléatoire",
-     "description": "100% neuf et de haute qualitéFlexible et doux, confortableLes trous dans la bouche et le nez vous permettent de respirer facilementLa fonction demi-masque peut parfaitement protéger votre bouche, votre nez et votre couConvient pour la randonnée en plein air, le camping, la randonnée, le ski, le vélo et d’autres sports",
-     "short_description": "100% neuf et de haute qualitéFlexible et doux, confortableLes trous dans la bouche et le nez vous permettent de respirer facilementLa fonction demi-masque peut parfaitement protéger votre bouche, votre nez et votre…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764354896-81_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42838",
-   "price": 79,
+   "sku": "doshift-45119",
+   "price": 249,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -144,18 +86,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Porte-Manteau de Porte Métallique à 12 Crochets – Organisateur Gain de Place",
-     "description": "Optimisez votre rangement avec ce porte-manteau de porte en métal à 12 crochets, idéal pour suspendre vêtements, sacs, serviettes, foulards et accessoires sans encombrer votre espace. Il se fixe facilement sur le haut d’une porte, sans perçage ni outils, pour une installation rapide et pratique.\n\nSa structure métallique robuste assure une bonne stabilité au quotidien, tandis que ses multiples crochets permettent une organisation efficace dans la chambre, l’entrée, la salle de bain ou le bureau. Compact et fonctionnel, il convient parfaitement aux petits espaces et aux intérieurs qui demandent un rangement simple et immédiat.\n\nCaractéristique\nDétail\n\nType de produit\nPorte-manteau de porte\n\nInstallation\nÀ suspendre sur la porte, sans perçage\n\nNombre de crochets\n12 crochets\n\nUtilisation\nVestes, sacs, serviettes, foulards, accessoires\n\nMatière\nMétal\n\nStyle\nCompact et fonctionnel\n\nPièces compatibles\nChambre, salle de bain, entrée, bureau\n\nAvantage principal\nGain de place et rangement pratique\n\nRéférence Doshift\nAA2BB199",
-     "short_description": "Optimisez votre rangement avec ce porte-manteau de porte en métal à 12 crochets, idéal pour suspendre vêtements, sacs, serviettes, foulards et accessoires sans encombrer votre espace."
+     "name": "Bouilloire Électrique – Non spécifié – 1500W – 1.7 Litres – Verre – LED Éclairé",
+     "description": "Découvrez notre bouilloire électrique en verre de 1500W et 1.7 litres. Son design moderne et ses LED intégrées offrent une expérience visuelle unique lors de l’ébullition. Avec sa fonction maintien au chaud et son système anti-calcaire, préparez vos boissons chaudes en toute simplicité.",
+     "short_description": "Découvrez notre bouilloire électrique en verre de 1500W et 1.7 litres. Son design moderne et ses LED intégrées offrent une expérience visuelle unique lors de l’ébullition."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-02T202314.650.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356949-258_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42828",
-   "price": 309,
+   "sku": "doshift-45101",
+   "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -163,18 +105,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Organisateurs de bureau en maille métallique (x5)(Couleur selon disponibilité)",
-     "description": "L’organisateur de bureau en maille est fabriqué en métal résistant.\n\nIl comprend 2 pots à crayons, 1 triple courrier, 1 bac range courrier à 3 niveaux et 1 support pour bloc-notes.\n\nIl est disponible en noir.\n\nIl pèse 0.3 kg.\n\nIl est facile à nettoyer et offre un design élégant.\n\nIl est adapté pour une utilisation à la maison, au bureau ou à l’école.",
-     "short_description": "L’organisateur de bureau en maille est fabriqué en métal résistant."
+     "name": "Horloge murale 3d géante diy",
+     "description": "L’horloge murale est dotée d’une surface acrylique, brillante et facile à nettoyer.\n\nLes pointeurs sont en métal, résistants à la corrosion, précis et durables.\n\nLe mécanisme est silencieux, offrant un environnement calme.\n\nL’horloge est constituée d’EVA de haute qualité, d’une éponge dense, ne se décolore pas, écologique et non toxique.\n\nL’horloge est un autocollant, ce qui permet de personnaliser sa taille.\n\nElle est idéale pour la cuisine, la salle à manger, le salon ou le bureau.\n\nL’horloge est vendue avec un mécanisme et un modèle AL022-S.\n\nElle mesure 27/37/47 pouces, pèse 0,5 kg et nécessite une pile AA (non incluse).\n\nLa matière principale est le métal, l’EVA et l’acrylique.\n\nL’épaisseur de l’horloge est de 12 mm.",
+     "short_description": "L’horloge murale est dotée d’une surface acrylique, brillante et facile à nettoyer."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346136-155_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356924-254_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42818",
-   "price": 159,
+   "sku": "doshift-45093",
+   "price": 239,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -182,13 +124,71 @@
    ],
    "locales": {
     "fr": {
-     "name": "Correcteur de posture assise pour enfants correction du bossu, écriture correcte (Couleur selon disponibilité)",
-     "description": "Le correcteur de vision est conçu pour prévenir les problèmes de vision et de bossu chez les enfants.\n\nIl est fabriqué en ABS et en latex, ce qui le rend durable et sûr.\n\nLa hauteur du support est réglable pour un meilleur confort.\n\nLe correcteur de vision permet aux enfants de s’asseoir correctement et de protéger leurs yeux.\n\nIl est disponible en bleu et pèse 0.3 kg.\n\nLe correcteur de posture d’écriture est fait d’ABS et de latex.\n\nIl est conçu pour aider les enfants à maintenir une bonne posture lors de l’écriture.\n\nIl est disponible à un prix raisonnable.",
-     "short_description": "Le correcteur de vision est conçu pour prévenir les problèmes de vision et de bossu chez les enfants."
+     "name": "Armoire en tissu polyester pliable à 4 mailles, organisateur intérieur (Couleur selon disponibilité)",
+     "description": "Cet organisateur de placard pliable en tissu polyester à 4 compartiments est conçu pour ranger facilement vos vêtements, vos chaussettes, vos bijoux, vos cravates, etc.\n\nIl est doté de sangles velcro robustes sur le dessus pour l’accrocher où vous le souhaitez.\n\nSa structure pliable et portable permet de le ranger facilement et de le transporter.\n\nIl est fabriqué en tissu polyester et mesure 80 cm x 30 cm x 30 cm.\n\nIl est de couleur beige et pèse 0,1 kg.",
+     "short_description": "Cet organisateur de placard pliable en tissu polyester à 4 compartiments est conçu pour ranger facilement vos vêtements, vos chaussettes, vos bijoux, vos cravates, etc."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346118-153_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356908-252_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45083",
+   "price": 319,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Table pliante – Non spécifié – 50×50 cm – Robuste – Pliable – Idéale pour camping",
+     "description": "Cette table pliante portable de 50×50 cm est parfaite pour le camping et les pique-niques. Légère et résistante aux intempéries, elle se plie facilement pour un transport et un rangement pratiques. Idéale pour toutes vos activités en plein air, son montage est rapide et sans outils.",
+     "short_description": "Cette table pliante portable de 50×50 cm est parfaite pour le camping et les pique-niques. Légère et résistante aux intempéries, elle se plie facilement pour un transport et un rangement pratiques."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356892-250_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45078",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac de rangement chaussures quotidien avec poignée (Couleur selon disponibilité)",
+     "description": "Ce sac de rangement de chaussures est fabriqué en polyester imperméable.\n\nIl dispose d’un organisateur intégré pour ranger les chaussures et d’une pochette à fermeture éclair pour un accès facile.\n\nLéger et compact, il est idéal pour les activités de plein air comme la randonnée, le camping ou la plage.\n\nIl est disponible en noir et pèse 0.3 kg.",
+     "short_description": "Ce sac de rangement de chaussures est fabriqué en polyester imperméable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764356887-249_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45044",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mug de Voyage avec Couvercle Sécurisé – Coffee Cup ( couleur selon la disponibilité )",
+     "description": "Emportez votre café partout avec ce mug de voyage pratique et élégant. Son format compact est idéal pour le bureau, la voiture, les études ou les déplacements quotidiens. Son couvercle avec bouton poussoir aide à garder la boisson bien protégée, tandis que son design sombre et brillant apporte une touche moderne.\n\nCaractéristique\nDétail\n\nType\nMug de voyage\n\nUtilisation\nCafé, thé, boissons chaudes ou froides\n\nCouvercle\nSécurisé avec bouton poussoir\n\nDesign\nÉlégant et moderne\n\nFormat\nCompact et facile à transporter\n\nIdéal pour\nBureau, voiture, voyage, études\n\nAvantage\nPratique pour boire partout au quotidien\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Emportez votre café partout avec ce mug de voyage pratique et élégant. Son format compact est idéal pour le bureau, la voiture, les études ou les déplacements quotidiens."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-06-20T142607.855.png"
    ]
   }
  ]

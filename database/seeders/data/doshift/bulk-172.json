@@ -1,199 +1,197 @@
 {
  "products": [
   {
-   "sku": "doshift-98382",
-   "price": 229,
+   "sku": "doshift-115629",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac à Dos Urbain pour Ordinateur Portable 15,6″ (Avec Mini Sacoche, Câble USB, Bleu Chiné & Noir)",
+     "description": "Ce sac à dos pour ordinateur portable de 15,6 pouces allie une esthétique urbaine moderne, en toile bleue chinée texturée, à une organisation fonctionnelle pensée pour les professionnels, les étudiants et les voyageurs du quotidien.Avec Mini Sacoche, Câble USB\n\nCaractéristique\nDétail\n\nType de produit\nEnsemble sac à dos PC 15,6″ + mini sacoche bandoulière assortie + câble USB\n\nCompatibilité PC\nCompartiment rembourré pour ordinateur portable jusqu’à 15,6″ et tablettes\n\nMatériau & Tissu\nToile Oxford déperlante et anti-déchirure bleu chiné avec empiècement noir\n\nAccessoires inclus\n\nMini sacoche bandoulière pour smartphone & câble d’extension USB pour powerbank\n\nErgonomie & Charge\nPort de charge USB externe intégré et bretelles matelassées respirantes\n\nSKU\n9900010928657",
+     "short_description": "Bleu chiné et noir. Sac à dos pour ordinateur portable 15,6″ en toile Oxford déperlante avec compartiment rembourré avec mini sacoche, Câble USB"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/b78c94f6-890c-4218-87ac-912b0ad13a71.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-115427",
+   "price": 689,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    11
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Tondeuse de Précision Rechargeable avec Lame en T",
-     "description": "Obtenez des contours nets et une coupe précise grâce à cette tondeuse électrique rechargeable. Sa lame large en forme de T facilite le travail des zones délicates comme la barbe, la moustache, les favoris, la nuque et les contours de cheveux.\n\nSon design compact et ergonomique assure une prise en main confortable pour une utilisation à domicile ou en déplacement. Elle est accompagnée de 4 sabots de coupe de 1, 3, 5 et 7 mm, permettant d’adapter facilement la longueur selon le style recherché.\n\nLa tondeuse se recharge simplement à l’aide du câble USB fourni. Une petite brosse de nettoyage est également incluse pour faciliter l’entretien de la lame après chaque utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nTondeuse électrique de précision\n\nType de lame\nLame large en forme de T\n\nUtilisation\nBarbe, moustache, favoris, nuque et contours de cheveux\n\nSabots inclus\n4 sabots\n\nHauteurs de coupe\n1 mm, 3 mm, 5 mm et 7 mm\n\nAlimentation\nBatterie rechargeable\n\nMode de recharge\nCâble USB\n\nIndicateur lumineux\nOui\n\nAccessoires inclus\n4 sabots, câble USB et brosse de nettoyage\n\nCouleur\nNoir\n\nDesign\nCompact et ergonomique\n\nEntretien\nNettoyage de la lame avec la brosse fournie\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Obtenez des contours nets et une coupe précise grâce à cette tondeuse électrique rechargeable."
+     "name": "Tiroir-Caisse Métallique Professionnel POS (410 mm – 5 Billets & 8 Pièces avec Serrure 3 Positions & RJ11)",
+     "description": "Le tiroir-caisse métallique professionnel 410 est l’équipement de sécurité indispensable pour tous les commerces, supermarchés, restaurants, cafés et points de vente (POS). Bâti dans une structure robuste en acier laminé à froid haute résistance\n\nCaractéristique\nDétail\n\nType de produit\nTiroir-caisse enregistreuse métallique professionnel pour point de vente (POS)\n\nCompartiments\n5 bacs à billets avec pinces métalliques + 8 bacs à pièces + 1 fente chèque\n\nMatériau & Châssis\nStructure en acier laminé renforcé haute résistance avec finition noir mat\n\nSécurité & Serrure\nSerrure de sécurité à 3 positions avec 2 clés (manuel / automatique)\n\nInterface & Connexion\nCâble RJ11/RJ12 inclus (12V/24V) compatible imprimantes de caisse\n\nSKU\n9900010718623",
+     "short_description": "Tiroir-caisse métallique 5 billets et 8 pièces avec serrure 3 positions et connexion RJ11."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-31T170029.393.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/cd77c159-aa33-4b88-8a4e-2882e23ab45d.jpg"
    ]
   },
   {
-   "sku": "doshift-98343",
-   "price": 249,
+   "sku": "doshift-115417",
+   "price": 339,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    11
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Tondeuse Professionnelle Rechargeable HIENA HYN-228 avec Écran LED",
-     "description": "Obtenez une coupe nette et maîtrisée avec la tondeuse professionnelle HIENA HYN-228. Équipée d’une lame en acier inoxydable et d’un levier de réglage latéral, elle permet d’ajuster facilement la hauteur de coupe pour réaliser différentes coiffures, contours et tailles de barbe.\n\nSon écran LED intégré affiche clairement le niveau de batterie, tandis que sa poignée texturée offre une prise en main confortable et stable. Rechargeable par USB, elle s’utilise facilement à la maison, en déplacement ou dans un salon de coiffure.\n\nCaractéristique\nDétail\n\nType de produit\nTondeuse professionnelle rechargeable\n\nMarque\nHIENA\n\nModèle\nHYN-228\n\nUtilisation\nCoupe de cheveux, barbe, contours et finitions\n\nType de lame\nLame en acier inoxydable\n\nRéglage de coupe\nLevier latéral ajustable\n\nAffichage\nÉcran LED numérique\n\nIndicateur\nNiveau de batterie\n\nRecharge\nUSB\n\nFonctionnement\nSans fil après recharge\n\nPoignée\nTexturée et ergonomique\n\nCouleur\nNoir\n\nRéférence Doshift\nAA15BB099",
-     "short_description": "Obtenez une coupe nette et maîtrisée avec la tondeuse professionnelle HIENA HYN-228."
+     "name": "Téléphone Tout-Terrain KHK K98 (Batterie 5000 mAh – Fonction PowerBank & Double Torche LED)",
+     "description": "Le KHK K98 est un téléphone portable monobloc durci et tout-terrain conçu pour résister aux conditions les plus exigeantes lors de chantiers, expéditions en plein air ou voyages prolongés. Équipé d’une gigantesque batterie de 5000 mAh assurant une autonomie de plusieurs semaines sans recharge\n\nCaractéristique\nDétail\n\nType de produit\nTéléphone portable tout-terrain antichoc Double SIM avec PowerBank\n\nBatterie & Autonomie\n5000 mAh haute capacité (autonomie de plusieurs semaines en veille)\n\nFonction PowerBank\nPort de sortie USB pour recharger d’autres téléphones et accessoires\n\nÉclairage\nDouble torche LED ultra-puissante longue portée (Double Light)\n\nMultimédia & Audio\nHaut-parleur amplifié pour extérieur, radio FM sans fil & lecteur MP3\n\nSKU\n9900010718616",
+     "short_description": "Téléphone portable antichoc 5000 mAh avec fonction PowerBank et double torche LED puissante"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-31T161349.251.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/3e851bd9-4a38-46a4-b472-21e8ca5a37f2.jpg"
    ]
   },
   {
-   "sku": "doshift-98332",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse Professionnelle Rechargeable Hiena HYN-027 avec Écran Digital",
-     "description": "Obtenez une coupe nette et précise avec la tondeuse professionnelle Hiena HYN-027. Son format compact et sa lame en T permettent de travailler facilement les contours, la barbe, les favoris et les finitions de coiffure.\n\nSon écran digital intégré affiche clairement le niveau de batterie restant, pour mieux contrôler l’autonomie pendant l’utilisation. Rechargeable par USB, elle peut être facilement alimentée à la maison, au salon ou pendant vos déplacements.\n\nGrâce à sa poignée ergonomique avec surface antidérapante, cette tondeuse offre une prise en main confortable et un contrôle précis pour une utilisation personnelle ou professionnelle.\n\nCaractéristique\nDétail\n\nType de produit\nTondeuse professionnelle rechargeable\n\nMarque\nHiena\n\nModèle\nHYN-027\n\nUtilisation\nCheveux, barbe, contours et finitions\n\nType de lame\nLame en T de précision\n\nAffichage\nÉcran digital avec niveau de batterie\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nCouleur\nNoir\n\nPrise en main\nPoignée ergonomique avec surface antidérapante\n\nUtilisation recommandée\nMaison, salon de coiffure et voyage\n\nRéférence\nAA8BB099",
-     "short_description": "Obtenez une coupe nette et précise avec la tondeuse professionnelle Hiena HYN-027. Son format compact et sa lame en T permettent de travailler facilement les contours, la barbe, les favoris et les finitions de coiffure."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-31T160132.069.png"
-   ]
-  },
-  {
-   "sku": "doshift-98369",
-   "price": 239,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse de Précision Rechargeable ROZIA HQ393 avec Écran LED",
-     "description": "Obtenez des contours nets et une finition soignée avec la tondeuse ROZIA HQ393. Équipée d’une lame large en forme de T, elle convient parfaitement à la réalisation des contours, à l’entretien de la barbe et aux finitions précises.\n\nSon écran LED numérique permet de consulter facilement le niveau de batterie restant. Sa batterie lithium-ion rechargeable de 600 mAh offre une utilisation pratique à la maison comme dans un salon de coiffure.\n\nGrâce à sa coupe très courte jusqu’à 0,0 mm, cette tondeuse est idéale pour dessiner les lignes de la barbe, travailler les pattes et réaliser des dégradés précis.\n\nCaractéristique\nDétail\n\nMarque\nROZIA\n\nModèle\nHQ393\n\nType de produit\nTondeuse de précision rechargeable\n\nUtilisation\nCheveux, barbe, contours et finitions\n\nType de lame\nLame large en forme de T\n\nHauteur de coupe minimale\n0,0 mm\n\nAffichage\nÉcran LED numérique\n\nBatterie\nLithium-ion rechargeable\n\nCapacité de la batterie\n600 mAh\n\nCommande\nBouton marche/arrêt\n\nCouleur\nNoir avec détails verts\n\nUtilisation recommandée\nPersonnelle et professionnelle\n\nRéférence Doshift\nAA14BB099",
-     "short_description": "Obtenez des contours nets et une finition soignée avec la tondeuse ROZIA HQ393. Équipée d’une lame large en forme de T, elle convient parfaitement à la réalisation des contours, à l’entretien de la barbe et aux…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-31T163436.629.png"
-   ]
-  },
-  {
-   "sku": "doshift-98327",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    11
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tondeuse Professionnelle HIENA HYN-046 Rechargeable USB – Dorée",
-     "description": "Obtenez des contours nets et des finitions précises avec la tondeuse professionnelle HIENA HYN-046. Son format ergonomique et sa lame en T facilitent le travail sur la barbe, la moustache, les pattes, la nuque et les contours de cheveux.\n\nRechargeable par USB et utilisable sans fil, elle offre une grande liberté de mouvement à la maison comme en salon de coiffure. Son élégante finition dorée lui apporte un style moderne et professionnel.\n\nCaractéristique\nDétail\n\nMarque\nHIENA\n\nModèle\nHYN-046\n\nType\nTondeuse professionnelle\n\nUtilisation\nCheveux, barbe, moustache et contours\n\nType de lame\nLame en T\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nFonctionnement\nSans fil\n\nIndicateur\nAffichage de l’autonomie\n\nCouleur\nDoré et noir\n\nDesign\nErgonomique et compact\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Obtenez des contours nets et des finitions précises avec la tondeuse professionnelle HIENA HYN-046."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-31T154055.081.png"
-   ]
-  },
-  {
-   "sku": "doshift-98289",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tabouret Pliable Rond avec Structure Métallique",
-     "description": "Pratique et peu encombrant, ce tabouret pliable est idéal pour une utilisation quotidienne à la maison ou lors de vos déplacements. Son assise ronde en plastique offre un support confortable, tandis que sa structure métallique assure une bonne stabilité.\n\nGrâce à son système pliable et à sa poignée intégrée, il se transporte facilement et se range rapidement dans un placard, derrière une porte ou dans le coffre d’une voiture. Il convient parfaitement à la cuisine, la salle de bain, le balcon, le camping ou les activités extérieures.\n\nCaractéristique\nDétail\n\nType de produit\nTabouret pliable\n\nForme de l’assise\nRonde\n\nMatière de l’assise\nPlastique\n\nMatière de la structure\nMétal\n\nCouleur de l’assise\nBlanc\n\nCouleur de la structure\nArgenté\n\nPoignée intégrée\nOui\n\nPieds antidérapants\nOui\n\nUtilisation\nCuisine, salle de bain, balcon, camping et extérieur\n\nRangement\nPliable et peu encombrant\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Pratique et peu encombrant, ce tabouret pliable est idéal pour une utilisation quotidienne à la maison ou lors de vos déplacements."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-31T143413.647.png"
-   ]
-  },
-  {
-   "sku": "doshift-98267",
+   "sku": "doshift-115398",
    "price": 459,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    2
    ],
    "locales": {
     "fr": {
-     "name": "Étagère de rangement métallique pliable à 5 niveaux avec roulettes",
-     "description": "Optimisez facilement votre espace avec cette étagère métallique à 5 niveaux, conçue pour organiser efficacement vos affaires tout en conservant un encombrement réduit. Ses larges plateaux perforés permettent de ranger des paniers, provisions, produits ménagers, serviettes, livres ou accessoires du quotidien.\n\nSa structure métallique noire renforcée par des croisillons latéraux offre une bonne stabilité. Grâce à sa conception pliable et à ses roulettes, l’étagère peut être déplacée ou rangée facilement selon vos besoins. Elle convient parfaitement à la cuisine, à la buanderie, à la salle de bain, au bureau ou au garage.\n\nCaractéristique\nDétail\n\nType de produit\nÉtagère de rangement mobile\n\nNombre de niveaux\n5 niveaux\n\nMatière\nMétal\n\nCouleur\nNoir\n\nType de plateaux\nPlateaux métalliques perforés\n\nStructure\nRenforcée avec croisillons latéraux\n\nMobilité\nÉquipée de 4 roulettes\n\nConception\nPliable et peu encombrante\n\nUtilisation\nCuisine, buanderie, salle de bain, bureau, garage\n\nDimensions\nNon communiquées\n\nRéférence Doshift\nAA28BB099",
-     "short_description": "Optimisez facilement votre espace avec cette étagère métallique à 5 niveaux, conçue pour organiser efficacement vos affaires tout en conservant un encombrement réduit."
+     "name": "Ultra-Compacte Anker Power Bank (20 000 mAh – 15W PowerIQ avec 4 Ports",
+     "description": "L’Anker Power Bank (20K, 15W) offre une autonomie prolongée et fiable dans un châssis ultra-compact conçu pour suivre tous vos déplacements. Dotée d’une colossale capacité de 20 000 mAh permettant de recharger un smartphone moderne jusqu’à 4 à 5 fois\n\nCaractéristique\nDétail\n\nType de produit\nBatterie externe portable ultra-compacte haute capacité\n\nCapacité de batterie\n20 000 mAh (74 Wh – recharge jusqu’à 4 à 5 fois un smartphone)\n\nPuissance & Technologie\nCharge rapide 15W Max avec technologie exclusive Anker PowerIQ\n\nPorts & Connectique\n4 ports au total (2 sorties USB-A, 1 port USB-C et 1 port Micro-USB)\n\nSécurité & Indicateurs\nBouton circulaire avec voyants LED bleus & protection MultiProtect\n\nSKU\n9900010718593",
+     "short_description": "Batterie externe ultra-compacte 20 000 mAh avec 4 ports (USB-C, 2 USB-A, Micro-USB) et PowerIQ"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-31T140735.709.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/5fca9937-e9be-4a4e-aeca-10b334e46f71.jpg"
    ]
   },
   {
-   "sku": "doshift-98079",
+   "sku": "doshift-115392",
+   "price": 499,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2
+   ],
+   "locales": {
+    "fr": {
+     "name": "PowerBank Haute Capacité Anker Power Bank (20 000 mAh – 30W avec Câble Intégré & Écran Digital)",
+     "description": "La batterie externe Anker Power Bank (20K, 30W) est la solution de recharge nomade ultime pour tous vos appareils électroniques lors de vos déplacements quotidiens ou voyages. Embarquant une colossale réserve d’énergie de 20 000 mAh\n\nCaractéristique\nDétail\n\nType de produit\nBatterie externe haute capacité avec câble USB-C intégré / dragonne\n\nCapacité de batterie\n20 000 mAh (74 Wh – recharge multiple pour smartphones & tablettes)\n\nPuissance de charge\nCharge rapide 30W Power Delivery (compatible MacBook Air, iPhone, Samsung)\n\nAffichage & Écran\nÉcran numérique intelligent (Digital Display) affichant le pourcentage exact\n\nPorts & Connectique\n1 câble USB-C intégré + 1 port USB-C + 1 port USB-A (charge 3 appareils)\n\nSKU\n9900010718579",
+     "short_description": "atterie externe 20 000 mAh 30W avec écran digital et câble USB-C dragonne intégrée"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/8c6d06c6-24cf-49d5-838c-760e2dd8e13f.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-115348",
    "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Piscine Gonflable Colorée pour Enfant – 90 × 25 cm",
-     "description": "Offrez aux enfants un espace rafraîchissant pour profiter des journées ensoleillées. Cette petite piscine gonflable présente plusieurs anneaux aux couleurs vives ainsi qu’un fond bleu gonflable, agréable pour jouer dans une faible quantité d’eau.\n\nSon format compact permet de l’installer facilement dans un jardin, sur une terrasse ou dans une cour. Une fois dégonflée, elle se range sans prendre beaucoup de place.\n\nCaractéristique\nDétail\n\nType de produit\nPiscine gonflable pour enfant\n\nForme\nRonde\n\nDimensions approximatives\n90 × 25 cm\n\nStructure\nAnneaux gonflables superposés\n\nFond\nGonflable et texturé\n\nCouleurs\nRose, jaune, vert et bleu\n\nUtilisation\nJardin, terrasse ou cour\n\nRangement\nCompacte une fois dégonflée\n\nContenu du pack\n1 piscine gonflable\n\nRéférence Doshift\nAA8BB099",
-     "short_description": "Offrez aux enfants un espace rafraîchissant pour profiter des journées ensoleillées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-30T170906.309.png"
-   ]
-  },
-  {
-   "sku": "doshift-98008",
-   "price": 489,
-   "stock": 10,
-   "status": 0,
-   "categories": [
     3
    ],
    "locales": {
     "fr": {
-     "name": "Étagère de rangement en métal noir et finition bois",
-     "description": "Apportez plus d’ordre à votre intérieur avec cette étagère au style moderne et industriel. Son association de métal noir et de tablettes finition bois s’intègre facilement dans une cuisine, un salon, une entrée ou un bureau.\n\nElle dispose d’une grande tablette supérieure ainsi que de quatre tablettes inférieures réparties sur deux niveaux. Vous pouvez y organiser des bocaux, des livres, des plantes, de la vaisselle, des paniers ou différents objets décoratifs.\n\nSa structure ouverte permet de garder vos affaires visibles et accessibles tout en optimisant l’espace disponible.\n\nCaractéristique\nDétail\n\nType de produit\nÉtagère de rangement\n\nNombre de niveaux\n3 niveaux\n\nConfiguration\n1 grande tablette supérieure et 4 tablettes inférieures\n\nStructure\nMétal noir\n\nFinition des tablettes\nEffet bois\n\nStyle\nModerne et industriel\n\nUtilisations\nCuisine, salon, bureau, entrée ou chambre\n\nCouleur\nNoir et marron\n\nDimensions\nNon communiquées\n\nContenu du pack\n1 étagère de rangement\n\nRéférence Doshift\nAA31BB099",
-     "short_description": "Apportez plus d’ordre à votre intérieur avec cette étagère au style moderne et industriel."
+     "name": "Mini Lampe LED Portable avec Clip Plokama U80 (3000K-9900K – Molette Roller & Batterie 2000 mAh)",
+     "description": "La mini-lampe LED d’appoint Plokama U80 est une solution d’éclairage de poche ultra-polyvalente conçue pour sublimer les selfies, vlogs, visioconférences et vidéos TikTok ou YouTube sur smartphone, tablette ou ordinateur portable.\n\nCaractéristique\nDétail\n\nType de produit\nMini lampe LED portable d’appoint pour smartphone, tablette & reflex\n\nTempérature de couleur\n3000K à 9900K réglable en continu (lumière chaude à blanche froide)\n\nRendu & Réglage\nIndice de rendu des couleurs RG90+ avec molette de réglage rotative (Roller)\n\nBatterie & Autonomie\nBatterie rechargeable 2000 mAh intégrée (jusqu’à 120 min d’utilisation)\n\nFixation & Support\nPince clip rembourrée multi-appareils et adaptateur griffe flash (Cold Shoe)\n\nSKU\n9900010718531",
+     "short_description": "Mini-lampe LED pour smartphone 3000-9900 K avec clip et batterie de 2000 mAh."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-30T143029.442.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/155e8e05-5b1d-4c7e-a7b3-420db0abcca7.jpg"
    ]
   },
   {
-   "sku": "doshift-97985",
-   "price": 399,
+   "sku": "doshift-115339",
+   "price": 509,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Étagère de rangement métallique pliable à 4 niveaux",
-     "description": "Optimisez facilement votre espace avec cette étagère de rangement métallique à 4 niveaux. Son format vertical permet d’organiser vos produits tout en occupant un minimum de place au sol.\n\nSes quatre étagères perforées offrent un rangement pratique pour les accessoires de cuisine, produits ménagers, serviettes, paniers, documents ou objets du quotidien.\n\nÉquipée de roulettes, elle peut être déplacée facilement d’une pièce à une autre. Sa structure métallique noire, renforcée par des supports latéraux croisés, lui apporte un style moderne et fonctionnel.\n\nElle convient parfaitement à la cuisine, salle de bain, buanderie, bureau, garage ou réserve.\n\nCaractéristique\nDétail\n\nType de produit\nÉtagère de rangement mobile\n\nNombre de niveaux\n4 niveaux\n\nMatière principale\nMétal\n\nCouleur\nNoir\n\nType d’étagères\nPlateaux métalliques perforés\n\nMobilité\nÉquipée de roulettes\n\nStructure\nPliable avec renforts latéraux croisés\n\nUtilisations\nCuisine, salle de bain, buanderie, bureau, garage et réserve\n\nContenu du pack\n1 étagère métallique à 4 niveaux\n\nRéférence Doshift\nAA25BB099",
-     "short_description": "Optimisez facilement votre espace avec cette étagère de rangement métallique à 4 niveaux. Son format vertical permet d’organiser vos produits tout en occupant un minimum de place au sol."
+     "name": "Kit Double Microphone Sans Fil Broadcast Plokama VM-80 (360° – Boîtier de Charge avec Écran LED)",
+     "description": "Le Plokama VM-80 est un système de captation audio sans fil haut de gamme conçu pour les créateurs de contenu, journalistes, vloggers et podcasteurs exigeant une clarté sonore de qualité broadcast. Composé de deux micro-émetteurs compacts et d’un récepteur universel compatible iPhone (Lightning) et Android (USB-C)\n\nCaractéristique\nDétail\n\nType de produit\nDouble microphone cravate sans fil broadcast avec boîtier de charge\n\nCaptation & Audio\nPrise de son omnidirectionnelle à 360° avec réduction active du bruit (DSP)\n\nFixation & Port\nSystème polyvalent à double fixation magnétique et clip à ressort\n\nBoîtier & Autonomie\nBoîtier de recharge avec affichage LED numérique du pourcentage de batterie\n\nCompatibilité & Portée\nDouble connexion USB-C et Lightning (portée 2.4 GHz jusqu’à 25 m)\n\nSKU\n9900010718524",
+     "short_description": "Double micro cravate sans fil broadcast 360° avec fixation magnétique et boîtier LED."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/07/Nouveau-projet-2026-07-30T135940.880.png"
+    "https://doshift.ma/wp-content/uploads/2026/10/02fae0f3-061f-4c5f-834d-2777684d830b.png"
+   ]
+  },
+  {
+   "sku": "doshift-115174",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble USB Type-C vers HDMI / HDTV (4K @ 30Hz – 1,8 m)",
+     "description": "Le câble adaptateur USB Type-C vers HDTV (HDMI) permet de diffuser directement l’écran de votre smartphone, tablette ou ordinateur portable sur un téléviseur, moniteur ou vidéoprojecteur en résolution Ultra HD 4K à 30 Hz\n\nCaractéristique\nDétail\n\nType de produit\nCâble adaptateur vidéo USB Type-C vers HDMI mâle\n\nRésolution\n4K Ultra HD (3840 × 2160 @ 30 Hz), rétrocompatible 1080p\n\nMatériau\nCoques en alliage d’aluminium gris métallisé et gaine TPE noire\n\nLongueur\n1,8 mètre (180 cm)\n\nCompatibilité\nAppareils USB-C compatibles DisplayPort Alt Mode\n\nReference\n9900010718500",
+     "short_description": "Câble vidéo direct USB Type-C vers HDMI 4K@30Hz (1,8 m) en aluminium."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/53dd0431-b41d-458b-9d74-429019bc8e8c.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-115151",
+   "price": 319,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Réflecteur 5-en-1 Pliable Ovale (Or, Argent, Blanc, Noir, Translucide)",
+     "description": "Le kit réflecteur 5-en-1 pliable au format ovale (80 × 120 cm) est l’accessoire indispensable de tout photographe et vidéaste souhaitant sculpter la lumière avec précision, en studio comme en extérieur.\n\nCaractéristique\nDétail\n\nModèle & Type\nKit Réflecteur de lumière photo & vidéo 5-en-1 pliable – Format ovale\n\nSurfaces incluses\n5 finitions : Or (teint chaud), Argent (contraste éclatant), Blanc (neutre doux), Noir (absorbeur), Translucide (diffuseur)\n\nStructure & Cadre\nArmature flexible en acier à ressort haute résistance (repliable en 8 en un geste)\n\nUtilisation & Polyvalence\nIdéal pour portraits, mode, vidéos, studio photo et extérieur (débouchage d’ombres naturel)\n\nAccessoires & Rangement\nHousse de transport ronde noire zippée avec poignée incluse (repliable à 1/3 de sa taille)\n\nPrix & Référence\n9900010718494",
+     "short_description": "Réflecteur photo et vidéo 5-en-1 pliable ovale 80×120 cm avec housse."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/8c0d3ea6-07a8-436a-b904-2dabf9833a19.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-115108",
+   "price": 779,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Vidéoprojecteur LED Portable Intelligent (Android 14 – 150″)",
+     "description": "Le Mini Vidéoprojecteur LED intelligent sous Android 14 transforme instantanément n’importe quelle pièce en salle de cinéma privée grâce à sa capacité de projection XXL pouvant atteindre 150 pouces en résolution 1080P Full HD.\n\nCaractéristique\nDétail\n\nModèle & Type\nMini Vidéoprojecteur LED Portable Intelligent – Système Android 14\n\nRésolution & Image\nSupport 1080P Full HD — Écran géant jusqu’à 150 pouces (Luminosité élevée)\n\nSystème & Sans-fil\nAndroid 14 avec Google Play, WiFi 6 rapide & Bluetooth 5.2 (Chromecast intégré)\n\nConnectique & Polyvalence\nPorts HDMI, USB, AV (Compatible TV Stick, consoles, PC et smartphones)\n\nConception & Accessoires\nBoîtier orientable avec support rotatif intégré, haut-parleur & télécommande incluse\n\nPrix & Référence\n9900010718470",
+     "short_description": "Projecteur orientable Android 14 avec Wi-Fi 6, Bluetooth 5.2, écran jusqu’à 150″ et télécommande incluse."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/fbf5977a-cb0d-42a4-8bca-8a1f479efbd9.jpg"
    ]
   }
  ]

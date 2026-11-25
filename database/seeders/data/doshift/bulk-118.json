@@ -1,8 +1,27 @@
 {
  "products": [
   {
-   "sku": "doshift-43018",
-   "price": 469,
+   "sku": "doshift-44594",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini balai et pelle à poussière Mini pour filles garçons -canapé nettoyage",
+     "description": "Cet ensemble de mini balai et pelle à poussière est idéal pour un nettoyage efficace. Fabriqué en PET haute densité et PP, il atteint les zones étroites grâce à son design ergonomique. Parfait pour les enfants, il facilite la collecte de la poussière sur les surfaces comme les canapés.",
+     "short_description": "Cet ensemble de mini balai et pelle à poussière est idéal pour un nettoyage efficace. Fabriqué en PET haute densité et PP, il atteint les zones étroites grâce à son design ergonomique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764355787-145_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44500",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -10,36 +29,131 @@
    ],
    "locales": {
     "fr": {
-     "name": "3 PCS lumière solaire détachable de porte de jardin de mur de capteur de réverbère solaire extérieur de 120W",
-     "description": "Conception toutenun et chargée par l’énergie solaire, de sorte que les kits d’éclairage sont complètement sans fil et faciles à assembler.Notre lampadaire solaire à LED est conçu pour diverses applications extérieures. Peut être installé sur un mur extérieur ou un poteau dans la place, le parc, le jardin, la cour, la rue, la passerelle, la voie, le campus, la ferme, la sécurité du périmètre, etc.Installation facile, fonctionnement fiable sans entretien, sans câblage ni tranchée. Boîtier robuste en aluminium antirouille et imperméable.",
-     "short_description": "Conception toutenun et chargée par l’énergie solaire, de sorte que les kits d’éclairage sont complètement sans fil et faciles à assembler.Notre lampadaire solaire à LED est conçu pour diverses applications extérieures."
+     "name": "Matelas Top Kids : un sommeil paisible pour les enfants",
+     "description": "Le matelas offre un confort optimal pour votre bébé, conçu avec des matériaux sûrs et doux pour garantir un sommeil paisible et sécurisé. Facile à entretenir et adapté aux lits de bébé.\n\nCaractéristiques :\n\nMatelas adaptés aux besoins des bébés pour un sommeil paisible.\n\nMatières hypoallergéniques et respirantes pour une sécurité maximale.\n\nSurface douce au toucher pour un confort accru.\n\nFacile à entretenir avec une housse amovible.\n\nConvient aux lits de bébé et de taille standard.",
+     "short_description": "Le matelas offre un confort optimal pour votre bébé, conçu avec des matériaux sûrs et doux pour garantir un sommeil paisible et sécurisé. Facile à entretenir et adapté aux lits de bébé."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346551-196_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764355475-125_1.jpg"
    ]
   },
   {
-   "sku": "doshift-44573",
-   "price": 129,
+   "sku": "doshift-44450",
+   "price": 309,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Generix hub usb 2 en 1 sx-64",
-     "description": "La Station d’accueil USB Hub SX-64 2 en 1 offre une variété de connexions avec 1 port USB 3.0 et 3 ports USB 2.0.\n\nElle permet une vitesse théorique allant jusqu’à  pour le port USB 3.0.\n\nElle prend en charge la charge Type-C et ne nécessite pas l’installation de pilotes.\n\nElle pèse 0.1 kg.",
-     "short_description": "La Station d’accueil USB Hub SX-64 2 en 1 offre une variété de connexions avec 1 port USB 3.0 et 3 ports USB 2.0."
+     "name": "Mèche de fraise à cône de diamant, coupe-scie à doigt,utilisation sèche,M14",
+     "description": "Matériau de haute qualité : Fabriquées à partir de matériaux de qualité supérieure et dotées de pointes en diamant, ces mèches offrent une durabilité exceptionnelle et une résistance à l’usure, assurant une performance fiable dans une variété de matériaux.Polyvalence d’utilisation : Conçues pour une utilisation polyvalente, ces mèches sont adaptées à la coupe et au façonnage de divers matériaux tels que le bois, le marbre, le béton, les carreaux et bien plus encore, offrant une solution complète pour une gamme de projets.Conception de chanfrein diamanté : La conception spéciale du chanfrein diamanté permet des coupes précises et propres, offrant des résultats professionnels pour des bords biseautés ou des finitions en angle.",
+     "short_description": "Matériau de haute qualité : Fabriquées à partir de matériaux de qualité supérieure et dotées de pointes en diamant, ces mèches offrent une durabilité exceptionnelle et une résistance à l’usure, assurant une performance…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764355733-141_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764355387-115_1.jpg"
    ]
   },
   {
-   "sku": "doshift-42913",
+   "sku": "doshift-44431",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit bébé essentiel",
+     "description": "Genouillères pour bébé en coton et spandex avec silicone médicale de protection.\n\nÉponge hautement élastique, conception hautement respirante, absorbant la transpiration et désodorisante, durable et douce à porter.\n\nGenouillères réglables pour s’adapter parfaitement aux pieds de bébé.\n\nConvient à toute saison.\n\nFacile à laver à la main.\n\nTasse à bec anti-goutte pour bébé de 9 mois et plus.\n\nBec ultra-souple pour les gencives.\n\nPoignées ergonomiques.\n\nCapacité : 270ml.\n\nGoupillon pour biberon en coton, spandex et silicone médicale.\n\nConvient à toutes les tailles de biberons et spécialement conçu pour les tétines.\n\nSans BPA.\n\nModèle : Chaussettes.\n\nPoids : 1kg.\n\nCouleur : rose.\n\nMatière principale : Plastique + coton + ABS.",
+     "short_description": "Genouillères pour bébé en coton et spandex avec silicone médicale de protection."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764355356-111_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44332",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Trophée cristal film sportif",
+     "description": "Ce trophée octogonal avec un disque transparent est conçu pour une esthétique moderne et élégante.\n\nIl est idéal comme prix du personnel pour récompenser les réalisations exceptionnelles, ou comme objet de décoration pour la maison.\n\nIl est adapté à diverses occasions, comme les cérémonies de remise des prix, les événements corporatifs et les décorations intérieures.\n\nCe trophée est de taille appropriée pour être exposé sur un bureau, une étagère ou une vitrine sans encombrer l’espace.\n\nIl est doté d’une finition soignée et polie, garantissant un aspect haut de gamme et professionnel.\n\nCe trophée symbolise le succès, l’excellence et la reconnaissance, parfait pour commémorer des réalisations mémorables.\n\nIl est résistant aux rayures et aux éclats, assurant une longue durée de vie et une préservation de sa beauté au fil du temps.\n\nIl est fait de cristal, est neuf et est vendu à l’unité.\n\nIl pèse 0.3 kg et est transparent.\n\nLa matière principale est le verre.",
+     "short_description": "Ce trophée octogonal avec un disque transparent est conçu pour une esthétique moderne et élégante."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354947-88_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44290",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lot de 3 cintres multifonctions à crochets pour accessoires – rangement suspendu gain de place",
+     "description": "Optimisez votre espace avec ce lot de 3 cintres multifonctions conçus pour suspendre et organiser facilement vos accessoires du quotidien. Chaque cintre est équipé de plusieurs crochets métalliques pratiques pour ranger foulards, casquettes, soutiens-gorge, ceintures, sacs légers, parapluies ou petits vêtements sans encombrer votre placard.\n\nGrâce à leur design suspendu, ces organisateurs permettent de gagner de la place tout en gardant vos articles visibles, accessibles et bien ordonnés. La structure robuste avec finition imitation bois apporte une touche propre et élégante à votre dressing, armoire ou penderie. Idéal pour une utilisation à la maison, dans une boutique ou pour un rangement quotidien plus efficace.\n\nParfait pour organiser les accessoires et maximiser le rangement vertical dans les petits espaces.\n\nCaractéristique\nDétail\n\nType de produit\nCintre multifonction suspendu\n\nLot\n3 pièces\n\nUtilisation\nRangement d’accessoires et vêtements légers\n\nArticles compatibles\nCasquettes, foulards, soutiens-gorge, ceintures, sacs, parapluies\n\nMatière\nBois et métal\n\nCouleur\nBois naturel et métal argenté\n\nDimensions\n28 × 18 cm\n\nHauteur du crochet\n6 cm\n\nÉpaisseur\n3 cm\n\nAvantage principal\nGain de place et rangement pratique\n\nInstallation\nÀ suspendre sur barre de penderie\n\nRéférence Doshift\nAA2BB299",
+     "short_description": "Optimisez votre espace avec ce lot de 3 cintres multifonctions conçus pour suspendre et organiser facilement vos accessoires du quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-03T171513.832.png"
+   ]
+  },
+  {
+   "sku": "doshift-44251",
+   "price": 299,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cisaille de Jardin Extensible, Secateur d’Arbres Telescopique Professionnel",
+     "description": "COUPE BRANCHE TELESCOPIQUE : Tous nos coupe branches sont en aluminium robuste. La lame du sécateur coupe branche est en acier allié, résistant à la rouille et solide. Le sécateur est équipée de deux manches confortables avec des poignées en caoutchouc. Chaque sécateur a deux bras extensibles. Lorsque les manches sont repliés au maximum, Lorsque les manches sont entièrement dépliés.MANCHES EXTENSIBLES : Les manches sont légers et extensibles pour des coupes rapides et précises. Le mécanisme de levier est à faible frottement et antiadhésif. Ce coupe branches télescopique permet de couper des branches hautes et difficiles d’accès. Un bouton de déclenchement de sécurité est au centre de chaque manche pour les déplier et replier entre. Une fois relâché, les bras s’enclenchent et se verrouillent à la longueur requise.LAME COUPANTE ET AFFÛTÉE : Ce coupe branches telescopique a une lame en acier trempé de grande qualité. Chaque lame mesure 20 cm de long. La lame permet de couper, tailler, cisailler et élaguer. Chaque lame peut couper un diamètre de 9 cm maximum.",
+     "short_description": "COUPE BRANCHE TELESCOPIQUE : Tous nos coupe branches sont en aluminium robuste. La lame du sécateur coupe branche est en acier allié, résistant à la rouille et solide."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354780-69_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44246",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte de conservation alimentaire hermétique : Parfaite pour préserver et organiser vos aliments",
+     "description": "Boîte hermétique en plastique pour le beurre, les légumes et autres aliments. Durable, facile à nettoyer et idéal pour organiser la cuisine ou le réfrigérateur.",
+     "short_description": "Boîte hermétique en plastique pour le beurre, les légumes et autres aliments. Durable, facile à nettoyer et idéal pour organiser la cuisine ou le réfrigérateur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354772-68_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44217",
    "price": 169,
    "stock": 10,
    "status": 0,
@@ -49,146 +163,32 @@
    ],
    "locales": {
     "fr": {
-     "name": "Puissante pompe à air pour désobstruer les conduits d’évacuation.",
-     "description": "Le déboucheur à pression d’air est un outil efficace pour déboucher les canalisations bloquées.\n\nIl peut être utilisé pour les éviers, les baignoires, les toilettes, les lavabos et les douches.\n\nIl est compatible avec tous les diamètres standards grâce à ses bouchons adaptables.\n\nFacile à utiliser et sans danger pour l’homme et l’environnement, il évite l’utilisation de produits chimiques agressifs.\n\nLe déboucheur est composé de plastique ABS et de caoutchouc.\n\nIl mesure 28,5 x 28,7 x 8,5 cm et pèse 0,3 kg.\n\nIl est de couleur bleu.",
-     "short_description": "Le déboucheur à pression d’air est un outil efficace pour déboucher les canalisations bloquées."
+     "name": "Balai Serpillière Microfibre Plate avec Manche Télescopique – Nettoyage Humide & Sec Réutilisable",
+     "description": "Cette serpillière plate en microfibre offre un nettoyage puissant et polyvalent pour tous types de sols. Utilisable à sec ou humide, elle capture efficacement poussière, saletés et liquides. Son manche télescopique réglable assure un confort optimal, tandis que la tête lavable et réutilisable garantit une solution pratique, économique et durable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBalai serpillière plate\n\nUtilisation\nNettoyage humide et sec\n\nType de sols\nCarrelage, parquet, marbre, stratifié\n\nTête de nettoyage\nMicrofibre haute absorption\n\nEntretien\nLavable et réutilisable\n\nManche\nTélescopique réglable\n\nDesign\nPlat, léger et maniable\n\nEfficacité\nCapture poussière, saletés et liquides\n\nUtilisation recommandée\nMaison, cuisine, salle de bain\n\nAvantage clé\nPolyvalent, pratique et durable\n\nRéférence Doshift\nAA8BB099",
+     "short_description": "Cette serpillière plate en microfibre offre un nettoyage puissant et polyvalent pour tous types de sols. Utilisable à sec ou humide, elle capture efficacement poussière, saletés et liquides."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346288-173_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_j1hh4pj1hh4pj1hh-1.png"
    ]
   },
   {
-   "sku": "doshift-42904",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Boîte mixte de clips colorés et d’élastiques",
-     "description": "Antirouille et durable : les pinces à reliure sont fabriquées en métal de haute qualité et la surface peinte avec un revêtement coloré résistant à la rouille, les poignées nickelées peuvent être pliées. Les trombones recouverts de plastique PVC sont faciles à utiliser, sans tomber, à ranger sans nœuds. Les bandes en caoutchouc sont fabriquées en caoutchouc naturel, ont assez d’élasticité, pas faciles à briser.Trombones efficaces : notre lot de pinces est très utile et efficace par rapport au lot de pinces à reliure noires traditionnelles, plusieurs trombones et pinces de classeur, idéal pour la classification de dossiersdossiers pour améliorer l’efficacité du travail. Une fournitures de bureau super mignonnes aux couleurs amusantes, parfaites comme cadeaux d’anniversaire, cadeaux de Thanksgiving, cadeaux de rentrée scolaire, fournitures scolaires pour enseignants.Largement utilisé : le clip de haute qualité est adapté pour les clips de bureau, les trombones de classeur, les clips pour le dessin de papier, les œuvres d’art, les dossiers de bureau, les factures, les reçus, les pinces à frites de pommes de terre, les pinces alimentaires, les clips d’affichage photo, les clips de classeur pour les travaux manuels, les marquepages de bricolage, etc. Idéal pour le bureau, la maison et l’école quotidienne. N’hésitez pas à me contacter si vous avez des questions après réception du produit.",
-     "short_description": "Antirouille et durable : les pinces à reliure sont fabriquées en métal de haute qualité et la surface peinte avec un revêtement coloré résistant à la rouille, les poignées nickelées peuvent être pliées."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346272-171_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44353",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Bouteille Doseuse pour Huile & Vinaigre – Design Élégant et Pratique",
-     "description": "Apportez une touche d’élégance et de précision à votre cuisine avec cette bouteille doseuse en verre, idéale pour l’huile d’olive, le vinaigre ou autres liquides culinaires. Son bec anti-goutte garantit un dosage précis sans éclaboussures, tandis que son design ergonomique assure une prise en main confortable. Parfaite pour assaisonner salades, plats chauds ou cuisiner au quotidien, elle combine esthétique moderne et fonctionnalité durable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nBouteille doseuse pour huile & vinaigre\n\nCapacité\n300 ml\n\nMatériau\nVerre durable et résistant\n\nBec verseur\nAnti-goutte pour un dosage précis\n\nUtilisation\nHuile d’olive, vinaigre, sauces, assaisonnements\n\nDesign\nÉlégant et moderne\n\nPrise en main\nErgonomique, facile à utiliser\n\nEntretien\nFacile à nettoyer\n\nUsage\nCuisine, table, préparation des repas\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Apportez une touche d’élégance et de précision à votre cuisine avec cette bouteille doseuse en verre, idéale pour l’huile d’olive, le vinaigre ou autres liquides culinaires."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_cmp7uocmp7uocmp7-1-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-42892",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Serviette en microfibre pour cheveux",
-     "description": "La serviette sèche-cheveux est un accessoire pratique conçu pour accélérer le séchage des cheveux après le lavage.\n\nElle est faite de matériaux absorbants de haute qualité qui éliminent rapidement l’excès d’eau.\n\nSon design en bonnet enveloppe entièrement les cheveux et reste en place, vous permettant de vaquer à d’autres occupations.\n\nElle réduit les frisottis et les dommages causés par le frottement excessif.\n\nLa serviette est légère et confortable à porter, ne pesant pas sur la tête.\n\nElle convient à tous les types de cheveux.\n\nFacile à utiliser, il suffit de la poser sur les cheveux mouillés, d’enrouler les bords et de la fixer.\n\nLa serviette se lave en machine et sèche à l’air libre.\n\nElle est idéale pour les voyages, la salle de sport ou pour éviter d’utiliser un sèche-cheveux électrique.\n\nC’est un choix écologique qui réduit l’utilisation d’appareils électriques.\n\nLa serviette sèche-cheveux est une solution douce et rapide pour sécher les cheveux.\n\nModèle: serviette de cheveux\n\nPoids (kg): 0.3\n\nCouleur: rose\n\nMatière principale: microfibre",
-     "short_description": "La serviette sèche-cheveux est un accessoire pratique conçu pour accélérer le séchage des cheveux après le lavage."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346246-168_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42803",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Laisse Rétractable 3 m pour Chien – Poignée Ergonomique Bleu",
-     "description": "Offrez à votre chien plus de liberté pendant les promenades avec cette laisse rétractable de 3 mètres, pratique, légère et facile à utiliser au quotidien. Son boîtier ergonomique assure une bonne prise en main, tandis que son système d’enroulement automatique permet de gérer facilement la longueur de la sangle selon vos besoins.\n\nCaractéristique\nDétail\n\nType de produit\nLaisse rétractable pour chien\n\nLongueur de la laisse\n3 m\n\nDimensions du boîtier\n16 x 11 cm\n\nCouleur\nBleu\n\nMatériau du boîtier\nPlastique\n\nMatériau de la sangle\nSangle en nylon\n\nMatériau du crochet\nMétal\n\nFonction\nEnroulement automatique\n\nCommande\nBouton de verrouillage et frein\n\nPoignée\nErgonomique antidérapante\n\nUtilisation\nPromenade et sortie quotidienne\n\nRéférence Doshift\nAA26BB099",
-     "short_description": "Offrez à votre chien plus de liberté pendant les promenades avec cette laisse rétractable de 3 mètres, pratique, légère et facile à utiliser au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-03-26T163113.473.png"
-   ]
-  },
-  {
-   "sku": "doshift-42798",
-   "price": 79,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Housse étui Silicone pour Clé Renault",
-     "description": "100% neuf et de haute qualité.\n\n-Étui de clé télécommande Renault 2 boutons-Il n’y a pas de composants électroniques à l’intérieur.\n\n-Un remplacement parfait pour une clé avec des boutons cassés ou un étui de clé usé.\n\n-Facile à installer, il suffit de retirer l’électronique interne de la télécommande d’origine.",
-     "short_description": "100% neuf et de haute qualité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346078-149_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42713",
+   "sku": "doshift-44141",
    "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "balais et balayette a nettoyage de poussière ordinateur Voiture Table clavier",
-     "description": "Haute qualité des matériaux.Petite taille et portable.Il est propre et pratique de ranger l’excrétion de vos animaux de compagnie lorsque vous sortezFacile à utiliser et durable.Peut être propre après utilisation.",
-     "short_description": "Haute qualité des matériaux.Petite taille et portable.Il est propre et pratique de ranger l’excrétion de vos animaux de compagnie lorsque vous sortezFacile à utiliser et durable.Peut être propre après utilisation."
+     "name": "Pulvérisateur de robinet rotatif, universel étanche aux éclaboussures robinet",
+     "description": "Matériaux de haute qualité: le filtre anti éclaboussures est fait de matériaux sûrs et durables, solides et durables, non toxiques et sûrs à utiliser, à la fois dans l’eau chaude et froide.Facile à installer: vous pouvez l’installer manuellement sans outils, assurez vous simplement que la rallonge de filtre de votre robinet correspond à la taille du robinet.Conception anti éclaboussures: peut réduire l’impulsion de l’eau et empêcher les éclaboussures d’eau. L’eau est douce et riche et n’éclaboussera pas.Conception rétractable: le filtre à eau du robinet est rétractable et peut être utilisé à 360 , ce qui rend le robinet plus pratique et flexible.Adaptez vous à l’économie d’eau: du débit d’eau au réglage de la pulvérisation, il peut économiser plus de 50 d’eau, économiser de l’énergie et protéger l’environnement.",
+     "short_description": "Matériaux de haute qualité: le filtre anti éclaboussures est fait de matériaux sûrs et durables, solides et durables, non toxiques et sûrs à utiliser, à la fois dans l’eau chaude et froide.Facile à installer: vous…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345921-131_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42685",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Fx Tools 4 roulettes doubles avec platine Roulette pivotante",
-     "description": "4 PIÈCES : Notre ensemble est composé de 4 roulettes solides sans freins. Chaque roue mesure 7,5cm de haut avec 4 trous de fixation de 1,5 x 1cm sur la plaque métallique qui permettent de les visser sur une table, une chaise, etc. Chaque roue est pivotante et possède un système de blocage.",
-     "short_description": "4 PIÈCES : Notre ensemble est composé de 4 roulettes solides sans freins. Chaque roue mesure 7,5cm de haut avec 4 trous de fixation de 1,5 x 1cm sur la plaque métallique qui permettent de les visser sur une table, une…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764345870-125_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354613-47_1.jpg"
    ]
   }
  ]

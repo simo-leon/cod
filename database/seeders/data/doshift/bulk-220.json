@@ -1,88 +1,141 @@
 {
  "products": [
   {
-   "sku": "doshift-64121",
-   "price": 269,
+   "sku": "doshift-75156",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
     2,
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support de cou en U pour caméra et smartphone – DINEX DN-24",
+     "description": "Libérez vos mains et filmez facilement vos activités avec ce support de cou en U pratique et stable. Conçu pour maintenir une caméra d’action, un smartphone ou une petite caméra, il permet de capturer des vidéos en vue immersive tout en gardant une grande liberté de mouvement.\n\nUn accessoire simple, léger et efficace pour créer du contenu mains libres, à la maison comme en extérieur.\n\nCaractéristique\nDétail\n\nProduit\nSupport de cou en U\n\nModèle\nDN-24\n\nMarque\nDINEX\n\nUtilisation\nFilmage mains libres\n\nCompatibilité\nCaméra d’action, smartphone, petite caméra\n\nDesign\nForme ergonomique en U\n\nRéglage\nAngle ajustable\n\nAvantage\nStable sans secousse\n\nConfort\nLéger et agréable à porter\n\nUsage recommandé\nVlog, sport, vélo, pêche, voyage, quotidien\n\nRéférence Doshift\nAA8BB599",
+     "short_description": "Libérez vos mains et filmez facilement vos activités avec ce support de cou en U pratique et stable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T174426.600.png"
+   ]
+  },
+  {
+   "sku": "doshift-75126",
+   "price": 579,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     4
    ],
    "locales": {
     "fr": {
-     "name": "Smartwatch AT3 Ultra 2 – Montre connectée + montre classique + bracelets + perles – Coffret multifonction complet",
-     "description": "La Smartwatch AT3 Ultra 2 est un coffret élégant et complet combinant technologie moderne et style classique. Avec sa montre connectée à charge sans fil et ses montres analogiques assorties, ce set 3 en 1 est idéal pour un look polyvalent et raffiné.",
-     "short_description": "La Smartwatch AT3 Ultra 2 est un coffret élégant et complet combinant technologie moderne et style classique."
+     "name": "Lecteur Code-Barres Sans Fil 2.4G – Scanner 1D CCD Rechargeable",
+     "description": "Scannez rapidement vos codes-barres avec ce lecteur sans fil 2.4G conçu pour les commerces, entrepôts, caisses, bureaux et espaces de stockage. Pratique et ergonomique, il permet de lire les codes imprimés, les codes sur papier ainsi que certains codes affichés sur écran.\n\nGrâce à sa connexion filaire et sans fil, il offre une utilisation flexible selon vos besoins. Sa transmission 2.4G facilite le travail à distance, tandis que sa mémoire intégrée permet de stocker les données lorsque la connexion n’est pas disponible. Son design robuste, sa batterie lithium haute capacité et sa prise en main confortable en font un outil fiable pour un usage quotidien.\n\nCaractéristique\nDétail\n\nType\nLecteur code-barres sans fil\n\nTechnologie\nScanner 1D CCD\n\nConnexion\nSans fil 2.4G et filaire USB\n\nTransmission\n2.4G longue portée\n\nModes\nNormal, stockage, jamais manqué\n\nLecture\nCodes imprimés, papier et écran\n\nMémoire\nMémoire intégrée\n\nBatterie\nLithium haute capacité\n\nUtilisation\nCommerce, caisse, stock, entrepôt, bureau\n\nAvantages\nRapide, pratique, ergonomique, fiable\n\nContenu\nScanner, câble USB, récepteur 2.4G, guide rapide, carte de fonctions\n\nRéférence Doshift\nAA40BB099",
+     "short_description": "Scannez rapidement vos codes-barres avec ce lecteur sans fil 2.4G conçu pour les commerces, entrepôts, caisses, bureaux et espaces de stockage."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/32f5f527-5b06-48ce-abb4-f8c7860f11a4.webp"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-29T161917.029.png"
    ]
   },
   {
-   "sku": "doshift-64240",
-   "price": 139,
+   "sku": "doshift-75115",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Horloge murale numérique – GENERIC – DS-3806M – Grand écran – Alimenté par USB – Intérieur",
-     "description": "Marque\n\nGENERIC\n\nType de Produit\n\nHorloge murale\n\nCatégorie de produit – Déco-Luminaire-Rideau\n\nDécoration murale\n\nMatières\n\nPlastique\n\nMatière de la structure – Maison\n\nPlastique – Résine\n\nForme – Général\n\nRectangulaire\n\nUtilisation – Extérieur/Intérieur\n\nIntérieur\n\nType de public\n\nAdulte\n\nGenre\n\nMixte\n\nCouleur principale\n\nNoir\n\nStyle – Maison\n\nEssentiel\n\nPiles fournies\n\nNon\n\nType de pièce\n\nBureau",
-     "short_description": "Marque"
+     "name": "Raquette Électrique Anti-Moustiques Rechargeable 2-en-1",
+     "description": "Profitez d’un environnement plus sain et plus confortable grâce à cette raquette électrique anti-moustiques rechargeable. Conçue pour éliminer rapidement les moustiques et autres insectes volants, elle combine une utilisation manuelle efficace avec un mode lampe UV attractif pour une protection continue, de jour comme de nuit.\n\nSon design ergonomique permet une prise en main confortable, tandis que son fonctionnement rechargeable évite l’achat fréquent de piles. Idéale pour la maison, la chambre, le salon, la cuisine, le bureau, le camping ou les soirées en extérieur.\n\nCaractéristique\nDétail\n\nType\nRaquette électrique anti-moustiques\n\nAlimentation\nBatterie rechargeable\n\nRecharge\nUSB\n\nFonction\nÉlimination des insectes + lampe UV\n\nRotation\nJusqu’à 180°\n\nUtilisation\nIntérieur / Extérieur\n\nRéférence Doshift\nAA7BB599",
+     "short_description": "Profitez d’un environnement plus sain et plus confortable grâce à cette raquette électrique anti-moustiques rechargeable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AAALZ68527_img1.webp"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-06-11T165304.938.png"
    ]
   },
   {
-   "sku": "doshift-64109",
-   "price": 119,
+   "sku": "doshift-75043",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    5
+    3
    ],
    "locales": {
     "fr": {
-     "name": "A22 Wireless Bluetooth Compatible Speaker Colorful Light Car Home Portable Mini Small Audio Subwoofer",
-     "description": "A22 Wireless Bluetooth-compatible Speaker Colorful Light Car Home Portable Mini Small Audio Subwoofer\n\nAvailable Colors: Black, White\n\nHigh-quality materials:\n\nWidth size chart:",
-     "short_description": "A22 Wireless Bluetooth-compatible Speaker Colorful Light Car Home Portable Mini Small Audio Subwoofer"
+     "name": "Sac Lunch Box Élégance Grise",
+     "description": "Optimisez votre pause déjeuner avec ce sac isotherme au design minimaliste et sophistiqué. Conçu pour le professionnel moderne, ce modèle allie une esthétique Bauhaus épurée à une fonctionnalité technique de pointe.\n\nCaractéristique\nDétail\n\nIsolation\nMaintien chaud/froid\n\nMatériaux\nToile coton + cuir\n\nErgonomie\nPoignées renforcées\n\nFormat\nCompact et pratique\n\nDesign\nMinimaliste et élégant\n\nRéférence-doshift\nAA2BB799",
+     "short_description": "Optimisez votre pause déjeuner avec ce sac isotherme au design minimaliste et sophistiqué. Conçu pour le professionnel moderne, ce modèle allie une esthétique Bauhaus épurée à une fonctionnalité technique de pointe."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/de93a23a3cd74b6a89188a8ee3bfa596.png_720x720q80.png_.webp"
+    "https://doshift.ma/wp-content/uploads/2026/04/1-70.png"
    ]
   },
   {
-   "sku": "doshift-64096",
-   "price": 179,
+   "sku": "doshift-75028",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    5,
-    6
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Casque Sans Fil Portable LED – Stéréo Haute Fidélité & Micro Antibruit",
-     "description": "Plongez au cœur de l’action avec ce casque sans fil portable LED, conçu pour offrir une expérience sonore immersive et confortable. Son son stéréo haute fidélité restitue des basses puissantes et des aigus clairs, idéals pour le gaming, la musique ou les films.\n\nÉquipé d’un micro antibruit, il assure une communication nette lors de vos sessions de jeu en ligne ou appels. Son design moderne avec éclairage LED apporte une touche dynamique et gaming, tandis que sa structure légère garantit un port confortable même après de longues heures d’utilisation.",
-     "short_description": "Plongez au cœur de l’action avec ce casque sans fil portable LED, conçu pour offrir une expérience sonore immersive et confortable."
+     "name": "Trousse de Maquillage Matelassée Rose Pastel",
+     "description": "Découvrez l’alliance parfaite du raffinement et de la praticité avec notre trousse de toilette matelassée. Conçue pour celles qui recherchent un accessoire à la fois chic et fonctionnel, cette trousse se distingue par son fini rose poudré et son iconique nœud noir en ruban gros-grain.\n\nCaractéristique\nDétail\n\nDesign\nMatelassé à losanges\n\nDétails\nNœud décoratif + zip robuste\n\nFormat\nSpacieux\n\nUtilisation\nMaquillage / voyage\n\nRéférence-doshift\nAA1BB999",
+     "short_description": "Découvrez l’alliance parfaite du raffinement et de la praticité avec notre trousse de toilette matelassée."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/LED-Wireless-Wearable-Wireless-Headset-with-Mic-Noise-Canceling-Gaming-Stereo-High-Fidelity-Headset.webp"
+    "https://doshift.ma/wp-content/uploads/2026/04/5-57.png"
    ]
   },
   {
-   "sku": "doshift-64205",
+   "sku": "doshift-75013",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac de Voyage et de Sport Matelassé Vert Menthe",
+     "description": "Redéfinissez votre style de vie actif avec une touche de douceur et de modernité. Ce sac de voyage, à la teinte vert menthe rafraîchissante, n’est pas qu’un simple accessoire de transport.\n\nCaractéristique\nDétail\n\nTexture\nMatelassé à motifs cœurs\n\nMatériau\nNylon léger et résistant\n\nTransport\nDouble poignée renforcée\n\nRangement\nCompartiment principal + poche zippée\n\nCouleur\nVert menthe\n\nRéférence-doshift\nAA7BB599",
+     "short_description": "Redéfinissez votre style de vie actif avec une touche de douceur et de modernité. Ce sac de voyage, à la teinte vert menthe rafraîchissante, n’est pas qu’un simple accessoire de transport."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/1-66.png"
+   ]
+  },
+  {
+   "sku": "doshift-74949",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble USB-C vers VGA – Connexion Rapide et Stable Full HD",
+     "description": "Optimisez votre affichage en connectant facilement votre ordinateur portable, tablette ou smartphone compatible USB-C à un écran, moniteur ou projecteur VGA. Ce câble pratique assure une transmission fluide du signal pour une expérience visuelle nette et sans interruption, idéale pour le travail, les présentations ou le divertissement.\n\nCaractéristique\nDétail\n\nType de produit\nCâble adaptateur vidéo\n\nConnecteur d’entrée\nUSB-C mâle\n\nConnecteur de sortie\nVGA mâle\n\nFonction\nConnecter un appareil USB-C à un écran, moniteur ou projecteur VGA\n\nRésolution supportée\nJusqu’à 1080P Full HD\n\nInstallation\nPlug & Play, sans pilote\n\nTransmission\nSignal vidéo stable et fluide\n\nUtilisation\nBureau, présentation, projection, télétravail\n\nCompatibilité\nOrdinateurs, laptops, tablettes et appareils USB-C compatibles\n\nDesign\nLéger, compact et facile à transporter\n\nConception\nDurable et résistante\n\nRéférence Doshift\nAA7BB099",
+     "short_description": "Optimisez votre affichage en connectant facilement votre ordinateur portable, tablette ou smartphone compatible USB-C à un écran, moniteur ou projecteur VGA."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-28T171450.012.png"
+   ]
+  },
+  {
+   "sku": "doshift-74929",
    "price": 99,
    "stock": 10,
    "status": 0,
@@ -92,111 +145,53 @@
    ],
    "locales": {
     "fr": {
-     "name": "Luminária de Mesa – Lampe de Bureau Moderne",
-     "description": "Apportez confort et élégance à votre espace de travail avec cette luminária de mesa pratique et fonctionnelle. Idéale pour le bureau, la chambre ou l’espace d’étude, elle offre un éclairage doux et efficace pour la lecture, le travail ou la détente.",
-     "short_description": "Apportez confort et élégance à votre espace de travail avec cette luminária de mesa pratique et fonctionnelle."
+     "name": "Tournevis Professionnels 6 Pièces – Précision, Confort et Durabilité",
+     "description": "Optimisez vos travaux de bricolage avec cet ensemble de tournevis polyvalent, conçu pour offrir précision, robustesse et confort d’utilisation au quotidien. Grâce à ses embouts variés et sa conception ergonomique, ce kit est idéal pour toutes vos interventions, que ce soit à la maison, à l’atelier ou en extérieur.\n\nChaque tournevis est équipé d’un manche antidérapant assurant une excellente prise en main, même lors d’une utilisation prolongée. Les tiges en acier résistant garantissent une grande durabilité et une performance fiable dans le temps. Adapté aussi bien aux amateurs qu’aux professionnels, cet ensemble vous accompagne dans tous vos projets avec efficacité.\n\nCaractéristique\nDétail\n\nType\nJeu de tournevis\n\nNombre de pièces\n6 pièces\n\nTypes d’embouts\nPlat et cruciforme (Phillips)\n\nMatériau\nAcier haute résistance\n\nPoignée\nErgonomique antidérapante\n\nUtilisation\nBricolage, réparation, montage\n\nAvantages\nPrécision, confort, durabilité\n\nRéférence Doshift\nAA2BB699",
+     "short_description": "Optimisez vos travaux de bricolage avec cet ensemble de tournevis polyvalent, conçu pour offrir précision, robustesse et confort d’utilisation au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/DL-983_Site.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-28T162545.135.png"
    ]
   },
   {
-   "sku": "doshift-64168",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe Frontale LED Multifonction Rechargeable KX-1832",
-     "description": "Profitez d’un éclairage puissant et pratique pour toutes vos activités nocturnes grâce à cette lampe frontale LED multifonction. Équipée d’un zoom télescopique, d’un capteur de mouvement intelligent et de plusieurs modes d’éclairage, elle offre confort, sécurité et performance aussi bien en camping, randonnée, pêche ou travaux d’urgence.\n\nSon design rechargeable et compact garantit une utilisation facile avec un excellent maintien sur la tête grâce à sa bande ajustable.\n\nCaractéristique\nDétail\n\nProduit\nLampe frontale LED multifonction\n\nModèle\nKX-1832\n\nPuissance\n100W\n\nModes d’éclairage\n4 modes\n\nFonction spéciale\nDétection de mouvement Wave Induction\n\nZoom\nTélescopique ajustable\n\nRecharge\nUSB rechargeable\n\nUtilisation\nCamping, randonnée, pêche, urgence\n\nAutonomie\nLongue durée\n\nRésistance\nÉtanche IPX4\n\nAccessoires inclus\nBandeau + câble USB\n\nCouleur\nNoir\n\nRéférence Doshift\nAA5BB099",
-     "short_description": "Profitez d’un éclairage puissant et pratique pour toutes vos activités nocturnes grâce à cette lampe frontale LED multifonction."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-05-22T165627.962.png"
-   ]
-  },
-  {
-   "sku": "doshift-64103",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Enceinte Bluetooth Portable – Son Puissant & Compatible Multi-Appareils-Couleur Aléatoire",
-     "description": "Profitez d’un son clair et dynamique avec cette enceinte Bluetooth portable au design moderne et lumineux. Conçue pour offrir une expérience audio immersive, elle allie performance, praticité et compatibilité étendue.\n\nSon format compact avec poignée intégrée facilite le transport à la maison, au bureau ou en déplacement. Compatible avec la plupart des smartphones, téléviseurs, tablettes et ordinateurs portables, elle se connecte rapidement pour une utilisation simple et fluide.\n\nIdéale pour écouter de la musique, regarder des films ou animer vos moments entre amis, elle délivre un son puissant et équilibré dans un design élégant et contemporain.\n\nCaractéristique\nDétail\n\nType\nEnceinte Bluetooth portable\n\nConnectivité\nBluetooth sans fil\n\nCompatibilité\nSmartphone, TV, tablette, PC\n\nDesign\nFormat cylindrique avec poignée intégrée\n\nCommandes\nBoutons de contrôle intégrés\n\nUtilisation\nMusique, multimédia, usage quotidien\n\nAlimentation\nBatterie rechargeable\n\nRéférence-doshift\nAA9BB099",
-     "short_description": "Profitez d’un son clair et dynamique avec cette enceinte Bluetooth portable au design moderne et lumineux. Conçue pour offrir une expérience audio immersive, elle allie performance, praticité et compatibilité étendue."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-28T161450.477.png"
-   ]
-  },
-  {
-   "sku": "doshift-63976",
-   "price": 659,
+   "sku": "doshift-74792",
+   "price": 109,
    "stock": 10,
    "status": 0,
    "categories": [
     2,
-    11
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Montre Connectée RIVERSONG Glow GOLED – Écran AMOLED pour Femme",
-     "description": "La RIVERSONG Glow Or est une montre connectée élégante spécialement conçue pour les femmes qui recherchent à la fois style et performance. Dotée d’un écran AMOLED lumineux et haute résolution, elle offre un affichage clair et raffiné, idéal pour un usage quotidien comme pour vos séances sportives.",
-     "short_description": "La RIVERSONG Glow Or est une montre connectée élégante spécialement conçue pour les femmes qui recherchent à la fois style et performance."
+     "name": "Support Téléphone pour Manette PS4 – Ajustable & Pratique",
+     "description": "Profitez de vos jeux mobiles plus confortablement grâce à ce support téléphone pour manette PS4. Il permet de fixer votre smartphone directement au-dessus de la manette afin de garder l’écran bien visible pendant vos sessions de jeu.\n\nSon système de maintien accueille le téléphone en position horizontale tandis que l’angle réglable permet d’adapter facilement l’orientation de l’écran selon votre position. Compact et léger, il se transporte facilement pour jouer à la maison, au bureau ou en déplacement.\n\nCaractéristique\nDétail\n\nType\nSupport / pince pour smartphone\n\nUtilisation\nFixation du téléphone sur une manette PS4\n\nCompatibilité indiquée\nManette P4 / PS4\n\nPosition du smartphone\nHorizontale\n\nRéglage\nAngle du support ajustable\n\nInstallation\nFixation directe sur la manette\n\nCouleur\nNoir\n\nFormat\nCompact et portable\n\nContenu\n1 support téléphone\n\nManette incluse\nNon\n\nSmartphone inclus\nNon\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Profitez de vos jeux mobiles plus confortablement grâce à ce support téléphone pour manette PS4."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/AABNV11017_img1.webp"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-08-08T192215.189.png"
    ]
   },
   {
-   "sku": "doshift-63801",
-   "price": 69,
+   "sku": "doshift-74783",
+   "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    2,
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Kit de Nettoyage Complet pour Appareils Électroniques – Handboss FH-HB021",
-     "description": "Nettoyez vos appareils électroniques en toute sécurité et efficacité avec le kit de nettoyage Handboss. Conçu pour éliminer la poussière, les taches et les traces de doigts sans endommager les surfaces délicates.\n\nNettoyant naturel et puissant : Formule biologique à base de plantes, idéale pour dissoudre les graisses et les saletés.\n\nChiffon en microfibre haute performance : Technologie « perle » pour une absorption rapide sans rayer l’écran.\n\nBrosse de précision : Parfaite pour les claviers et les zones difficiles d’accès.\n\nÉcologique et sans danger : Sans produits corrosifs, doux pour vos appareils et respectueux de l’environnement.",
-     "short_description": "Nettoyez vos appareils électroniques en toute sécurité et efficacité avec le kit de nettoyage Handboss. Conçu pour éliminer la poussière, les taches et les traces de doigts sans endommager les surfaces délicates."
+     "name": "Support de Charge Sans Fil Rapide 15W – Design Vertical",
+     "description": "Rechargez votre smartphone facilement avec ce support de charge sans fil pratique et élégant. Sa conception verticale permet de garder l’écran visible pendant la charge, idéale pour le bureau, la table de nuit ou l’espace de travail. Compatible avec les appareils Qi, il offre une charge rapide jusqu’à 15W selon le téléphone et l’adaptateur utilisé.\n\nCaractéristique\nDétail\n\nType de produit\nSupport de charge sans fil\n\nPuissance de charge\nJusqu’à 15W\n\nCompatibilité\nSmartphones compatibles Qi\n\nPosition de charge\nVerticale et horizontale\n\nTechnologie\nDouble bobine\n\nIndicateur\nLED lumineuse\n\nProtection\nProtection intelligente contre la surcharge et la surchauffe\n\nUtilisation\nBureau, chambre, table de nuit, espace de travail\n\nDesign\nCompact, moderne et stable\n\nRéférence Doshift\nAA10BB599",
+     "short_description": "Rechargez votre smartphone facilement avec ce support de charge sans fil pratique et élégant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-17T220302.463.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-63797",
-   "price": 249,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Hachoir Électrique Multifonction en Acier Inoxydable",
-     "description": "Simplifiez la préparation de vos repas avec ce hachoir électrique multifonction, idéal pour hacher rapidement viande, légumes, herbes, oignons, ail et autres ingrédients du quotidien. Grâce à son bol en acier inoxydable 304, il offre une excellente résistance, une bonne durabilité et un entretien facile.\n\nSon moteur puissant assure un hachage rapide et homogène, tandis que ses lames tranchantes permettent de gagner du temps en cuisine. Le couvercle de protection transparent aide à limiter les éclaboussures pendant l’utilisation et les poignées latérales assurent une prise en main plus pratique.\n\nCompact et facile à utiliser, ce hachoir est parfait pour une utilisation domestique quotidienne. Il convient aussi bien pour préparer des farces, sauces, condiments ou ingrédients pour vos plats maison.\n\nCaractéristique\nDétail\n\nType de produit\nHachoir électrique multifonction\n\nUtilisation\nHacher viande, légumes, herbes, ail, oignons\n\nMatière du bol\nAcier inoxydable 304\n\nLames\nLames métalliques\n\nAlimentation\nÉlectrique\n\nTension\n220V / 50Hz\n\nMoteur\nMoteur haute qualité\n\nCouvercle\nTransparent avec poignées latérales\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Simplifiez la préparation de vos repas avec ce hachoir électrique multifonction, idéal pour hacher rapidement viande, légumes, herbes, oignons, ail et autres ingrédients du quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-04-03T193321.583.png"
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-08-24T134436.209.png"
    ]
   }
  ]

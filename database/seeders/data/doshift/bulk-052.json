@@ -1,64 +1,108 @@
 {
  "products": [
   {
-   "sku": "doshift-78417",
-   "price": 79,
+   "sku": "doshift-84053",
+   "price": 109,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Pochette Compatible iPhone 17 Air Rose Poudré",
-     "description": "Protégez votre iPhone avec cette pochette au fini doux et élégant. Son design minimaliste assure une prise en main agréable tout en apportant une touche raffinée au quotidien.\n\nCaractéristique\nDétail\n\nFinition\nSilicone douce\n\nProtection\nContre les rayures\n\nDesign\nFin et léger\n\nPrise en main\nConfortable\n\nDécoupes\nPrécises\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Protégez votre iPhone avec cette pochette au fini doux et élégant. Son design minimaliste assure une prise en main agréable tout en apportant une touche raffinée au quotidien."
+     "name": "Shampooing Démêlant Balea Happy Berry",
+     "description": "Offrez aux enfants une expérience de lavage amusante avec le Shampooing Démêlant Balea Happy Berry. Sa formule douce nettoie efficacement les cheveux tout en facilitant le démêlage pour une coiffure plus simple au quotidien. Son délicieux parfum fruité apporte une sensation de fraîcheur et de plaisir à chaque utilisation.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nHappy Berry\n\nType de produit\nShampooing démêlant\n\nUtilisation\nNettoyage et démêlage des cheveux\n\nParfum\nFruits rouges / Framboise\n\nFormule\nDouce pour un usage quotidien\n\nTexture\nLiquide moussante\n\nType de cheveux\nTous types de cheveux\n\nPublic\nEnfants\n\nDistributeur\nPompe doseuse pratique\n\nParticularité\nFacilite le coiffage et le démêlage\n\nFormule Vegan\nOui\n\nMatière du flacon\nPlastique recyclable\n\nCouleur du flacon\nRose\n\nConditionnement\nFlacon avec pompe",
+     "short_description": "Offrez aux enfants une expérience de lavage amusante avec le Shampooing Démêlant Balea Happy Berry."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-13.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-10T171627.605.png"
    ]
   },
   {
-   "sku": "doshift-78430",
-   "price": 99,
+   "sku": "doshift-84030",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3,
+    11,
+    12
    ],
    "locales": {
     "fr": {
-     "name": "Coque de Protection iP17 Air – Gris",
-     "description": "Protégez votre smartphone avec une coque élégante, fine et résistante, pensée pour un usage quotidien. Son design gris mat offre un look moderne et discret, tandis que sa structure renforcée aide à absorber les chocs et les petites chutes.\n\nLa coque dispose d’un contour surélevé autour de la caméra pour une meilleure protection, ainsi qu’une texture perforée sur la partie inférieure pour améliorer la prise en main et limiter les glissements.\n\nCaractéristique\nDétail\n\nProduit\nCoque de protection smartphone\n\nCompatibilité\niP17 Air\n\nCouleur\nGris\n\nMatière\nSilicone / TPU souple\n\nDesign\nFin, moderne et élégant\n\nProtection\nAntichoc avec contour caméra surélevé\n\nTexture\nPartie inférieure perforée antidérapante\n\nFinition\nMate premium\n\nUtilisation\nProtection quotidienne du téléphone\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Protégez votre smartphone avec une coque élégante, fine et résistante, pensée pour un usage quotidien."
+     "name": "Gel Moussant CeraVe – Nettoyage Doux pour Peaux Normales à Grasses",
+     "description": "Découvrez le Gel Moussant CeraVe, spécialement conçu pour nettoyer efficacement la peau tout en respectant sa barrière protectrice naturelle. Sa formule douce élimine l’excès de sébum, les impuretés et les résidus du quotidien sans dessécher la peau.\n\nCaractéristique\nDétail\n\nType\nGel moussant nettoyant\n\nUtilisation\nVisage et corps\n\nType de peau\nNormale à grasse\n\nParfum\nSans parfum\n\nContenance\n473 ml\n\nTexture\nGel moussant\n\nUne solution idéale pour une peau propre, fraîche et équilibrée au quotidien.",
+     "short_description": "Découvrez le Gel Moussant CeraVe, spécialement conçu pour nettoyer efficacement la peau tout en respectant sa barrière protectrice naturelle."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-23T154144.793.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-10T161329.380.png"
    ]
   },
   {
-   "sku": "doshift-78369",
+   "sku": "doshift-84043",
    "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3,
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Adaptateur USB-C vers HDTV et VGA 2en1 4K",
-     "description": "Connectez facilement votre ordinateur portable, tablette ou smartphone USB-C à un écran, projecteur ou téléviseur grâce à cet adaptateur 2 en 1 compact et performant. Profitez d’une sortie HDTV 4K haute résolution et d’une connexion VGA stable pour vos présentations, vidéos, réunions ou divertissements.\n\nCompact et léger, il est idéal pour le bureau, les déplacements professionnels, les salles de réunion ou une utilisation à domicile. Son installation Plug & Play permet une utilisation rapide sans pilote supplémentaire.\n\nCaractéristique\nDétail\n\nType de produit\nAdaptateur USB-C vers HDTV & VGA\n\nConnectique entrée\nUSB Type-C\n\nConnectique sortie\nHDTV + VGA\n\nRésolution HDTV\nJusqu’à 4K\n\nUtilisation\nPC portable, tablette, écran, projecteur\n\nFonction\nTransmission audio et vidéo\n\nInstallation\nPlug & Play\n\nDesign\nCompact et portable\n\nCouleur\nGris\n\nRéférence Doshift\nAA10BB099",
-     "short_description": "Connectez facilement votre ordinateur portable, tablette ou smartphone USB-C à un écran, projecteur ou téléviseur grâce à cet adaptateur 2 en 1 compact et performant."
+     "name": "Huile Corps Vaseline Cocoa Radiant – Hydratation & Éclat Naturel",
+     "description": "Offrez à votre peau une hydratation intense avec l’Huile Corps Vaseline® Cocoa Radiant. Enrichie en beurre de cacao, sa formule légère aide à nourrir la peau en profondeur tout en lui apportant un éclat naturel et une sensation de douceur durable.\n\nCaractéristique\nDétail\n\nProduit\nHuile Corps Vaseline® Cocoa Radiant\n\nType\nHuile corporelle hydratante\n\nFormule\nEnrichie en beurre de cacao\n\nContenance\n200 ml\n\nUtilisation\nCorps\n\nTexture\nHuile légère\n\nAbsorption\nRapide, non collante\n\nBienfaits\nHydrate, nourrit et adoucit la peau\n\nEffet\nPeau douce, souple et éclatante\n\nType de peau\nTous types de peau\n\nUtilisation recommandée\nAprès la douche ou selon les besoins\n\nRéférence Doshift\nAA11BB599",
+     "short_description": "Offrez à votre peau une hydratation intense avec l’Huile Corps Vaseline® Cocoa Radiant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-15T151707.329.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-10T165033.061.png"
    ]
   },
   {
-   "sku": "doshift-78345",
+   "sku": "doshift-83948",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Après-shampoing réparateur Balea Oil Repair Intensiv",
+     "description": "Soin capillaire intensif conçu pour les cheveux secs, abîmés et fragilisés. Sa formule avec complexe d’huiles et kératine aide à nourrir la fibre capillaire, faciliter le démêlage et laisser les cheveux plus doux, souples et brillants.\n\nIdéal pour une routine de soin quotidienne après le shampoing.\n\nCaractéristique\nDétail\n\nMarque\nBalea Professional\n\nModèle\nOil Repair Intensiv Spülung\n\nType de produit\nAprès-shampoing réparateur\n\nUtilisation\nSoin et démêlage des cheveux\n\nType de cheveux\nCheveux secs, abîmés et fragilisés\n\nFormule\nComplexe d’huiles et kératine\n\nSans silicone\nOui\n\nBienfaits\nNourrit, répare et protège la fibre capillaire\n\nAction\nFacilite le démêlage et réduit la casse\n\nRésultat\nCheveux plus doux, souples et brillants\n\nFréquence d’utilisation\nAprès chaque shampoing\n\nRéférence Doshift\nAA4BB599",
+     "short_description": "Soin capillaire intensif conçu pour les cheveux secs, abîmés et fragilisés. Sa formule avec complexe d’huiles et kératine aide à nourrir la fibre capillaire, faciliter le démêlage et laisser les cheveux plus doux,…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-10T133642.171.png"
+   ]
+  },
+  {
+   "sku": "doshift-83959",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shampooing Anti-Chute Derma/Doc Hair Care",
+     "description": "Shampooing fortifiant conçu pour aider à réduire la chute des cheveux et renforcer la fibre capillaire au quotidien. Sa formule accompagne la repousse, améliore l’apparence de la densité capillaire et convient à tous les types de cheveux. Pratique avec son flacon pompe, il s’utilise facilement sous la douche pour une routine capillaire simple et efficace.\n\nCaractéristique\nDétail\n\nType\nShampooing anti-chute\n\nAction\nFortifiant capillaire\n\nUtilisation\nUsage quotidien\n\nConvient pour\nTous types de cheveux\n\nFormat\nFlacon pompe\n\nBénéfices\nAide à renforcer, densifier et stimuler la repousse",
+     "short_description": "Shampooing fortifiant conçu pour aider à réduire la chute des cheveux et renforcer la fibre capillaire au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-10T135154.689.png"
+   ]
+  },
+  {
+   "sku": "doshift-83783",
    "price": 79,
    "stock": 10,
    "status": 0,
@@ -67,18 +111,38 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes Homme Rondes Vintage",
-     "description": "Ajoutez une touche vintage à votre style avec ces lunettes de soleil pour homme à monture ronde noire. Leur forme originale et leurs verres fumés créent un look tendance, discret et facile à porter au quotidien.\n\nCaractéristique\nDétail\n\nMonture\nRonde noire\n\nVerres\nFumés gris\n\nStyle\nVintage moderne\n\nDesign\nLéger\n\nConfort\nQuotidien\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Ajoutez une touche vintage à votre style avec ces lunettes de soleil pour homme à monture ronde noire. Leur forme originale et leurs verres fumés créent un look tendance, discret et facile à porter au quotidien."
+     "name": "Kit Biberon pour Animaux Nourrissons",
+     "description": "Prenez soin des petits animaux avec ce kit biberon pratique, idéal pour nourrir facilement les chatons, chiots, lapins et autres petits compagnons. Son biberon gradué permet de contrôler la quantité donnée, tandis que les différentes tétines s’adaptent aux besoins de chaque animal.\n\nCaractéristique\nDétail\n\nType\nKit biberon pour animaux\n\nContenu\nBiberon, tétines, goupillon, accessoire de débouchage\n\nCapacité\n45 ml\n\nUtilisation\nChatons, chiots, lapins, petits animaux\n\nAvantage\nNourrissage doux et contrôlé\n\nNettoyage\nBrosse incluse\n\nRéférence Doshift\nAA1BB799",
+     "short_description": "Prenez soin des petits animaux avec ce kit biberon pratique, idéal pour nourrir facilement les chatons, chiots, lapins et autres petits compagnons."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/10-4.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T172421.658.png"
    ]
   },
   {
-   "sku": "doshift-78335",
-   "price": 79,
+   "sku": "doshift-83756",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Anti-Moustiques à Choc Électrique",
+     "description": "Profitez de vos soirées sans moustiques grâce à cette lampe anti-insectes pratique et efficace. Sa lumière UV attire les moustiques et insectes volants, puis les élimine par choc électrique, sans produits chimiques ni odeur.\n\nCaractéristique\nDétail\n\nType\nLampe anti-moustiques électrique\n\nFonction\nAttraction UV + choc électrique\n\nUtilisation\nIntérieur et extérieur\n\nDesign\nFormat lanterne avec poignée\n\nAvantage\nSans fumée, sans odeur, sans produits chimiques\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Profitez de vos soirées sans moustiques grâce à cette lampe anti-insectes pratique et efficace."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T161924.319.png"
+   ]
+  },
+  {
+   "sku": "doshift-83735",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -86,98 +150,38 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes Homme Luxe Noires",
-     "description": "Affirmez votre look avec ces lunettes de soleil pour homme au style carré noir. Leur design sobre, classe et masculin s’adapte facilement à toutes vos tenues, que ce soit pour une sortie, une journée en ville ou un style plus chic.\n\nCaractéristique\nDétail\n\nMonture\nNoire brillante\n\nVerres\nTeintés dégradés\n\nStyle\nLuxe minimaliste\n\nDesign\nForme carrée tendance\n\nConfort\nUsage quotidien\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Affirmez votre look avec ces lunettes de soleil pour homme au style carré noir. Leur design sobre, classe et masculin s’adapte facilement à toutes vos tenues, que ce soit pour une sortie, une journée en ville ou un…"
+     "name": "Organisateur Mural Multifonction 3 Gobelets",
+     "description": "Optimisez l’espace de votre salle de bain avec cet organisateur mural pratique et élégant. Équipé de 3 gobelets amovibles pour toute la famille, il permet de ranger facilement les brosses à dents, dentifrices et accessoires du quotidien. Son étagère supérieure offre un espace supplémentaire pour vos produits de soin, tandis que les crochets intégrés et le porte-serviette facilitent l’organisation de votre espace.\n\nSon installation murale sans perçage permet un gain de place optimal tout en gardant vos accessoires propres, accessibles et bien rangés.\n\nCaractéristique\nDétail\n\nType\nOrganisateur mural de salle de bain\n\nCompartiments\n3 gobelets amovibles\n\nInstallation\nFixation murale sans perçage\n\nRangement supérieur\nOui\n\nPorte-serviette\nIntégré\n\nCrochets\n4 crochets multifonctions\n\nMatériau\nPlastique ABS\n\nUtilisation\nSalle de bain, lavabo, famille\n\nAvantages\nGain de place, rangement pratique, design moderne\n\nRéférence Doshift\nAA8BB599",
+     "short_description": "Optimisez l’espace de votre salle de bain avec cet organisateur mural pratique et élégant."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/4-5.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T152836.579.png"
    ]
   },
   {
-   "sku": "doshift-78308",
-   "price": 149,
+   "sku": "doshift-83749",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    6
+    3,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Souris Gamer Filaire SH M13",
-     "description": "Boostez vos performances de jeu avec la souris gamer SH M13 PRO. Conçue pour la précision, elle dispose d’un capteur réglable jusqu’à 5500 DPI et d’une configuration à 7 boutons pour vos raccourcis.\n\nCaractéristique\nDétail\n\nModèle\nSH M13 PRO\n\nType\nSouris gamer filaire\n\nCapteur\nHaute précision jusqu’à 5500 DPI\n\nBoutons\n7 boutons configurables\n\nErgonomie\nDesign confortable pour gaming\n\nÉclairage\nLED multicolore dynamique\n\nStyle\nGaming moderne\n\nUtilisation\nPC gaming\n\nRéférence-doshift\nAA7BB599",
-     "short_description": "Boostez vos performances de jeu avec la souris gamer SH M13 PRO. Conçue pour la précision, elle dispose d’un capteur réglable jusqu’à 5500 DPI et d’une configuration à 7 boutons pour vos raccourcis."
+     "name": "Lampe Anti-Moustiques USB Mosquito Trap",
+     "description": "Profitez de vos soirées en toute tranquillité grâce à cette lampe anti-moustiques USB Mosquito Trap. Équipée d’une lumière LED UV attractive, elle attire efficacement les moustiques et autres insectes volants pour les éliminer de manière silencieuse et sans produits chimiques. Son design compact et sa double fonction lampe d’éclairage en font l’accessoire idéal pour la maison, le jardin, la terrasse ou le camping.\n\nCaractéristique\nDétail\n\nType\nLampe anti-moustiques USB\n\nAlimentation\nUSB rechargeable\n\nÉclairage\nLED intégrée\n\nTechnologie\nAttraction UV des insectes\n\nZone de couverture\nJusqu’à 25 m²\n\nUtilisation\nIntérieur et extérieur\n\nFonction\nÉclairage + élimination des insectes\n\nAvantage\nSans produits chimiques\n\nNiveau sonore\nFonctionnement silencieux\n\nRéférence Doshift\nAA8BB599",
+     "short_description": "Profitez de vos soirées en toute tranquillité grâce à cette lampe anti-moustiques USB Mosquito Trap."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-9.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-09T160210.067.png"
    ]
   },
   {
-   "sku": "doshift-78303",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris Gamer Filaire iMICE T91",
-     "description": "Donnez une nouvelle dimension à votre expérience de jeu avec la souris gamer filaire iMICE T91. Équipée d’un capteur optique haute précision réglable sur 4 niveaux allant jusqu’à 7200 DPI, elle offre une réactivité sans faille pour s’adapter à tous vos types de jeux (FPS, MOBA, RTS).\n\nCaractéristique\nDétail\n\nModèle\niMICE T91\n\nType\nSouris gamer filaire\n\nCapteur\nOptique haute précision\n\nDPI\nRéglable jusqu’à 7200 DPI\n\nBoutons\n8 boutons programmables\n\nFonction spéciale\nBouton Fire Button latéral\n\nPersonnalisation\nMacros configurables\n\nUtilisation\nFPS, MOBA, RTS\n\nRéférence-doshift\nAA7BB599",
-     "short_description": "Donnez une nouvelle dimension à votre expérience de jeu avec la souris gamer filaire iMICE T91."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-8.png"
-   ]
-  },
-  {
-   "sku": "doshift-78298",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris Gamer Filaire iMICE T80",
-     "description": "Optimisez vos performances de jeu avec la souris gamer filaire iMICE T80. Conçue pour offrir précision et réactivité, elle dispose d’un capteur optique réglable à la volée sur 4 niveaux de sensibilité (800 à 3200 DPI). Ses 7 boutons configurables, incluant une touche de tir rapide (Firepower), vous permettent de personnaliser vos macros et de dominer vos adversaires.\n\nCaractéristique\nDétail\n\nModèle\niMICE T80\n\nType\nSouris gamer filaire\n\nCapteur\nOptique haute précision\n\nDPI\nRéglable de 800 à 3200\n\nBoutons\n7 boutons configurables\n\nFonction spéciale\nTouche Firepower (tir rapide)\n\nPersonnalisation\nSupport des macros\n\nUtilisation\nGaming & e-sport\n\nRéférence-doshift\nAA7BB599",
-     "short_description": "Optimisez vos performances de jeu avec la souris gamer filaire iMICE T80. Conçue pour offrir précision et réactivité, elle dispose d’un capteur optique réglable à la volée sur 4 niveaux de sensibilité (800 à 3200 DPI)."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-7.png"
-   ]
-  },
-  {
-   "sku": "doshift-78293",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4,
-    6
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris Gamer Filaire iMICE X8",
-     "description": "Propulsez vos sessions gaming avec la souris gamer filaire iMICE X8, équipée d’un capteur optique précis jusqu’à 3200 DPI, de 6 boutons ergonomiques et d’une molette 3D antidérapante pour un contrôle fluide, rapide et confortable pendant toutes vos parties.\n\nCaractéristique\nDétail\n\nModèle\niMICE X8\n\nType\nSouris gamer filaire\n\nCapteur\nOptique haute précision\n\nDPI\nRéglable : 800 / 1200 / 2400 / 3200\n\nBoutons\n6 boutons ergonomiques\n\nMolette\n3D antidérapante\n\nConfort\nDesign ergonomique pour longues sessions\n\nUtilisation\nGaming & e-sport\n\nRéférence-doshift\nAA7BB599",
-     "short_description": "Propulsez vos sessions gaming avec la souris gamer filaire iMICE X8, équipée d’un capteur optique précis jusqu’à 3200 DPI, de 6 boutons ergonomiques et d’une molette 3D antidérapante pour un contrôle fluide, rapide et…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/1-6.png"
-   ]
-  },
-  {
-   "sku": "doshift-78355",
-   "price": 79,
+   "sku": "doshift-83564",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -185,13 +189,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lunettes Homme Rondes Violet",
-     "description": "Rehaussez votre style avec ces lunettes de soleil pour homme à monture ronde noire et verres violet dégradé. Leur design élégant et original apporte une touche moderne, parfaite pour les sorties, les vacances ou un look urbain distinctif.\n\nCaractéristique\nDétail\n\nMonture\nRonde noire\n\nVerres\nViolet dégradé\n\nDesign\nÉlégant\n\nBranches\nFines et confortables\n\nUtilisation\nSorties et vacances\n\nRéférence-doshift\nAA2BB599",
-     "short_description": "Rehaussez votre style avec ces lunettes de soleil pour homme à monture ronde noire et verres violet dégradé."
+     "name": "Organisateur d’Épices Mural 3 Compartiments",
+     "description": "Optimisez votre cuisine avec cet organisateur d’épices mural pratique et élégant. Grâce à ses 3 compartiments transparents, gardez vos épices, graines, sucre ou condiments préférés toujours à portée de main tout en économisant de l’espace sur votre plan de travail. Son design moderne s’intègre parfaitement à toutes les cuisines et assure une organisation propre et efficace.\n\nCaractéristique\nDétail\n\nType\nOrganisateur d’épices mural\n\nCompartiments\n3 bocaux intégrés\n\nMatériau\nPlastique robuste et transparent\n\nInstallation\nFixation murale\n\nUtilisation\nÉpices, sucre, sel, graines, condiments\n\nAvantage\nGain de place et accès rapide\n\nEntretien\nBocaux amovibles, nettoyage facile\n\nDesign\nModerne et compact\n\nRéférence Doshift\nAA11BB099",
+     "short_description": "Optimisez votre cuisine avec cet organisateur d’épices mural pratique et élégant. Grâce à ses 3 compartiments transparents, gardez vos épices, graines, sucre ou condiments préférés toujours à portée de main tout en…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/05/16-3.png"
+    "https://doshift.ma/wp-content/uploads/2026/06/Nouveau-projet-2026-06-08T201914.311.png"
    ]
   }
  ]

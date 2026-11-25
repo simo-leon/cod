@@ -1,123 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-60315",
-   "price": 119,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes de Soleil Unisexes – Élégance Moderne & Confort Quotidien",
-     "description": "Apportez une touche d’élégance moderne à toutes vos tenues avec ces lunettes de soleil au design unisexe parfaitement équilibré. Conçues pour convenir aussi bien aux hommes qu’aux femmes, elles offrent un style polyvalent qui s’adapte aussi bien à la vie urbaine qu’aux moments de détente en extérieur. Leur forme harmonieuse met en valeur le visage tout en garantissant un port léger et confortable, idéal pour un usage quotidien sous le soleil.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nStyle\nUnisexe (hommes & femmes)\n\nForme\nArrondie / ovale\n\nUsage\nVille, plage, sorties, quotidien\n\nConfort\nLégères, port agréable\n\nIdée cadeau\nConvient à tous les styles\n\nRéférence-doshift\nAA4BB099",
-     "short_description": "Apportez une touche d’élégance moderne à toutes vos tenues avec ces lunettes de soleil au design unisexe parfaitement équilibré."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T012542-692.png"
-   ]
-  },
-  {
-   "sku": "doshift-60322",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    10
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lunettes de Soleil Géométriques Unisexes – Style Audacieux & Tendance",
-     "description": "Affirmez votre personnalité avec ces lunettes de soleil au design géométrique audacieux et résolument moderne. Leur monture marquée apporte une touche urbaine et tendance à toutes vos tenues, tandis que leur structure robuste assure un excellent confort pour un port quotidien. Polyvalentes, elles s’adaptent aussi bien à un look décontracté qu’à un style plus affirmé, pour accompagner toutes vos sorties en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nLunettes de soleil\n\nGenre\nUnisexe\n\nForme de la monture\nGéométrique\n\nMatériau de la monture\nPlastique résistant\n\nType de verres\nTeintés\n\nCouleurs\nSelon disponibilité\n\nStyle\nModerne / Tendance\n\nUtilisation\nUsage quotidien, sorties urbaines, activités extérieures\n\nRéférence-doshift\nAA4BB099",
-     "short_description": "Affirmez votre personnalité avec ces lunettes de soleil au design géométrique audacieux et résolument moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-03T051043-298.png"
-   ]
-  },
-  {
-   "sku": "doshift-60203",
-   "price": 109,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe Selfie LED Rechargeable – Éclairage Parfait pour Photos & Vidéos",
-     "description": "Améliorez instantanément la qualité de vos selfies, vidéos et appels vidéo grâce à cette lampe selfie LED compacte et performante. Sa lumière circulaire diffuse un éclairage uniforme et naturel qui met en valeur le visage, même dans des conditions de faible luminosité. Facile à fixer sur un smartphone, elle est idéale pour les créateurs de contenu, les visioconférences, le streaming ou les photos du quotidien. Dotée d’une batterie rechargeable intégrée, elle offre une utilisation pratique et nomade sans dépendre d’une prise électrique.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLampe selfie pour smartphone\n\nType d’éclairage\nLED circulaire\n\nFonctions\nÉclairage continu, déclencheur (shutter)\n\nCourant nominal\n0.5 A\n\nType de charge\nUSB Type-C\n\nCapacité de la batterie\n750 mAh\n\nUtilisation\nSelfies, vidéos, visioconférences, streaming\n\nAvantage principal\nÉclairage naturel, portable et facile à utiliser\n\nRéférence-DOSHIFT\nAA2BB899",
-     "short_description": "Améliorez instantanément la qualité de vos selfies, vidéos et appels vidéo grâce à cette lampe selfie LED compacte et performante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T030926-762.png"
-   ]
-  },
-  {
-   "sku": "doshift-60190",
-   "price": 239,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Lampe Selfie LED Rechargeable – Éclairage Parfait pour Photos & Vidéos",
-     "description": "Améliorez instantanément la qualité de vos selfies, vidéos et appels vidéo grâce à cette lampe selfie LED compacte et performante. Sa lumière circulaire diffuse un éclairage uniforme et naturel qui met en valeur le visage, même dans des conditions de faible luminosité. Facile à fixer sur un smartphone, elle est idéale pour les créateurs de contenu, les visioconférences, le streaming ou les photos du quotidien. Dotée d’une batterie rechargeable intégrée, elle offre une utilisation pratique et nomade sans dépendre d’une prise électrique.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLampe selfie pour smartphone\n\nType d’éclairage\nLED circulaire\n\nFonctions\nÉclairage continu, déclencheur (shutter)\n\nCourant nominal\n0.5 A\n\nType de charge\nUSB Type-C\n\nCapacité de la batterie\n750 mAh\n\nUtilisation\nSelfies, vidéos, visioconférences, streaming\n\nAvantage principal\nÉclairage naturel, portable et facile à utiliser\n\nRéférence-doshift\nAA13BB099",
-     "short_description": "Améliorez instantanément la qualité de vos selfies, vidéos et appels vidéo grâce à cette lampe selfie LED compacte et performante."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-02T014836-779.png"
-   ]
-  },
-  {
-   "sku": "doshift-59830",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support de Téléphone Ajustable avec Base Stable – Vision Mains Libres",
-     "description": "Profitez d’un confort optimal pour regarder des vidéos, passer des appels vidéo ou suivre vos contenus préférés grâce à ce support de téléphone pratique et robuste. Conçu pour offrir une utilisation mains libres, il s’adapte facilement à votre environnement : bureau, salon, cuisine ou table de nuit.\n\nGrâce à sa base lourde et stable, votre smartphone reste parfaitement en place sans risque de chute. Son bras réglable et sa tête rotative à 360° permettent d’ajuster l’angle de vision selon vos besoins pour un confort maximal.\n\nCompatible avec la plupart des smartphones, ce support s’étend pour maintenir solidement des appareils de différentes tailles. Idéal pour regarder la télévision sur votre téléphone, enregistrer des vidéos, suivre des recettes ou effectuer des appels vidéo en toute simplicité.\n\nCaractéristique\nDétails\n\nType de produit\nSupport de téléphone de bureau\n\nHauteur réglable\n26 – 35 cm\n\nDiamètre de la base\n15 cm\n\nRotation\n360° ajustable\n\nCompatibilité\nSmartphones 4 à 7 pouces\n\nStructure\nBras flexible avec articulation\n\nBase\nLarge base stable antidérapante\n\nUtilisation\nVidéos, streaming, appels vidéo, lecture\n\nRéférence DOSHIFT\nAA4BB099",
-     "short_description": "Profitez d’un confort optimal pour regarder des vidéos, passer des appels vidéo ou suivre vos contenus préférés grâce à ce support de téléphone pratique et robuste."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-16T151235.598.png"
-   ]
-  },
-  {
-   "sku": "doshift-59825",
-   "price": 409,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Caméra Dashcam Double Objectif 1296P – Enregistrement Avant & Habitacle – Vision Nocturne",
-     "description": "Équipez votre véhicule d’une dashcam double objectif conçue pour enregistrer simultanément la route et l’intérieur de l’habitacle. Compacte et pratique, elle permet de capturer vos trajets avec une résolution HD, tout en offrant une surveillance renforcée grâce à ses fonctions utiles comme la détection de mouvement, l’enregistrement en boucle et le capteur G-Sensor.\n\nCaractéristique\nDétail\n\nType de produit\nDashcam / caméra embarquée\n\nNombre de caméras\nDouble objectif\n\nZones filmées\nRoute avant + habitacle\n\nRésolution vidéo\nJusqu’à 1296P\n\nÉcran\nOui, écran intégré\n\nVision nocturne\nOui\n\nDétection de mouvement\nOui\n\nEnregistrement en boucle\nOui\n\nG-Sensor\nOui\n\nInstallation\nPare-brise\n\nDimensions approximatives caméra avant\n9 x 4 cm\n\nDimensions approximatives écran\n8,6 x 3,6 cm\n\nUtilisation\nVoiture, surveillance de trajet\n\nRéférence Doshift\nAA24BB099",
-     "short_description": "Équipez votre véhicule d’une dashcam double objectif conçue pour enregistrer simultanément la route et l’intérieur de l’habitacle."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-04-09T190856.579.png"
-   ]
-  },
-  {
-   "sku": "doshift-59773",
-   "price": 309,
+   "sku": "doshift-64559",
+   "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -126,18 +11,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Humidificateur d’Air USB à Brume Froide – Format Compact avec Lumière d’Ambiance",
-     "description": "Améliorez la qualité de l’air autour de vous avec cet humidificateur personnel à brume froide, idéal pour le bureau, la maison ou la chambre de bébé. Grâce à sa technologie ultrasonique silencieuse, il diffuse une brume fine et rafraîchissante qui aide à maintenir un bon niveau d’humidité et à soulager la sécheresse de l’air.\n\nDoté de 6 ports de diffusion, de plusieurs modes de pulvérisation et d’une lumière d’ambiance apaisante, cet humidificateur compact crée une atmosphère relaxante et confortable. Son système de captation sonore dynamique ajoute une touche moderne et décorative, parfaite pour un usage quotidien sur un bureau ou une table de nuit. Alimenté par USB, il est facile à utiliser partout.",
-     "short_description": "Améliorez la qualité de l’air autour de vous avec cet humidificateur personnel à brume froide, idéal pour le bureau, la maison ou la chambre de bébé."
+     "name": "Sac de Courses Pliable à Roulettes – Chariot de Shopping Léger et Robuste pour Fruits, Légumes et Achats Quotidiens",
+     "description": "Sac de courses pliable, achat de nourriture, chariot à roulettes, sac d’achat de légumes, organisateur de Shopping, sac Portable, nouvelle collection.\n\nTous les besoins dans le shopping, les voyages, les vacances, le camping, la randonnée, les jeux de plage, le pique-nique, la lessive, les bagages, les fournitures scolaires et bien d’autres utilisations. Sac à la mode indispensable pour les acheteurs, les étudiants, les employés de bureau et plus encore pour les personnes de tous âges. Il s’agit de sacs d’épicerie réutilisables écologiques et à la mode pour vous permettre d’ajouter des articles rapidement et facilement.",
+     "short_description": "Sac de courses pliable, achat de nourriture, chariot à roulettes, sac d’achat de légumes, organisateur de Shopping, sac Portable, nouvelle collection."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/61rTIiptfGL._AC_SL1500_.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T113029.217.jpg"
    ]
   },
   {
-   "sku": "doshift-59574",
-   "price": 519,
+   "sku": "doshift-64523",
+   "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -145,18 +30,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Grande Casserole / Faitout en Acier Inoxydable 30 cm – Capacité Familiale",
-     "description": "Préparez facilement de grandes quantités de plats grâce à cette grande casserole robuste, idéale pour la cuisine quotidienne et les repas familiaux. Sa conception en acier inoxydable garantit une cuisson homogène, une excellente résistance à la chaleur et un entretien facile. Polyvalente, elle est compatible avec tous les types de feux, y compris l’induction, et s’adapte parfaitement à toutes les cuisines.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType\nGrande casserole / Faitout\n\nDiamètre\n30 cm\n\nMatière\nAcier inoxydable\n\nCouvercle\nInclus\n\nPoignées\nDeux poignées latérales\n\nCompatibilité feux\nTous feux (gaz, électrique, vitrocéramique, induction)\n\nEntretien\nNettoyage facile\n\nUtilisation\nCuisson de grandes quantités, mijotage, plats en sauce\n\nRéférence-doshift\nAA30BB099",
-     "short_description": "Préparez facilement de grandes quantités de plats grâce à cette grande casserole robuste, idéale pour la cuisine quotidienne et les repas familiaux."
+     "name": "Boites à épices hermétique en verre avec support en bambou, Pots à épices 6 Pcs",
+     "description": "Boites à épices hermétique en verre avec support en bambou, Pots à épices 6 PcsGrande capacité:  6 pots d’épices peuvent satisfaire des besoins de stockage plus élevés, parfaits pour stocker et organiser des herbes, des assaisonnements, des épices, du café, du thé, du miel, de la confiture, du beurre, des noix, des bonbons, des collations, etc.Maté…",
+     "short_description": "Boites à épices hermétique en verre avec support en bambou, Pots à épices 6 PcsGrande capacité:  6 pots d’épices peuvent satisfaire des besoins de stockage plus élevés, parfaits pour stocker et organiser des herbes, des…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-01-31T075049-849.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/AAAOB13437_img1.webp"
    ]
   },
   {
-   "sku": "doshift-59569",
-   "price": 459,
+   "sku": "doshift-64495",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -164,18 +49,98 @@
    ],
    "locales": {
     "fr": {
-     "name": "Grande Sauteuse en Acier Inoxydable 28 cm – Cuisson Maîtrisée & Polyvalence",
-     "description": "Préparez des plats généreux facilement grâce à cette grande sauteuse de 28 cm en acier inoxydable, idéale pour saisir, sauter et mijoter au quotidien. Son fond à triple épaisseur assure une diffusion homogène de la chaleur pour des cuissons régulières, tandis que le couvercle inclus aide à conserver l’humidité et les saveurs. Robuste et compatible tous feux (y compris induction), elle s’adapte parfaitement aux besoins d’une cuisine moderne et familiale.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSauteuse\n\nDiamètre\n28 cm\n\nMatériau principal\nAcier inoxydable\n\nCouvercle\nOui\n\nFond\nTriple épaisseur\n\nCompatibilité feux\nTous feux, y compris induction\n\nUtilisation\nSaisir, sauter, mijoter\n\nEntretien\nNettoyage facile\n\nRéférence-doshift\nAA26BB099",
-     "short_description": "Préparez des plats généreux facilement grâce à cette grande sauteuse de 28 cm en acier inoxydable, idéale pour saisir, sauter et mijoter au quotidien."
+     "name": "RANGEMEMENT ET ORGANISATEUR 9 PIECES AVEC BOITES À ÉPICES EN VERRE ET COUVERCLE AN BAMBOU",
+     "description": "Grande capacité: 7 pots d’épices peuvent satisfaire des besoins de stockage plus élevés et 2 huilier , parfaits pour stocker et organiser des herbes, des assaisonnements, des épices, du café, du thé, du miel, de la confiture, du beurre, des noix, des bonbons, des collations, etc. Matériaux de qualité supérieure: les couvercles sont en bambou naturel et en silicone, et les pots sont en verre à haute teneur en borosilicate. Le verre est limpide et assez robuste, avec une excellente résistance à la chaleur. Bonne étanchéité à l’air: les couvercles en bambou sont équipés de silicone hermétique, ce qui aide à sceller et à garder l’assaisonnement frais et aromatique pendant longtemps.",
+     "short_description": "Grande capacité: 7 pots d’épices peuvent satisfaire des besoins de stockage plus élevés et 2 huilier , parfaits pour stocker et organiser des herbes, des assaisonnements, des épices, du café, du thé, du miel, de la…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-01-31T074843-875.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/AAAOF87795_img1.webp"
    ]
   },
   {
-   "sku": "doshift-59558",
-   "price": 539,
+   "sku": "doshift-64428",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batteur Électrique LY-610 – Compact & Performant",
+     "description": "Mélangez, fouettez et pétrissez facilement grâce à ce batteur électrique pratique et efficace pour un usage quotidien. Sa poignée ergonomique assure une prise en main confortable, tandis que les fouets en acier inoxydable garantissent un mélange homogène pour vos gâteaux, crèmes, sauces et pâtes. Léger et facile à ranger, il devient un indispensable de votre cuisine.\n\nCaractéristique\nDétail\n\nType de produit\nBatteur électrique\n\nModèle\nTS204\n\nFonctions\nMélanger, fouetter, pétrir\n\nAccessoires\nFouets en acier inoxydable\n\nVitesses\nVitesses multiples\n\nDesign\nErgonomique et léger\n\nCouleurs disponibles\nVert, Rouge, Rose, Bleu (selon disponibilité)\n\nUtilisation\nCuisine domestique",
+     "short_description": "Mélangez, fouettez et pétrissez facilement grâce à ce batteur électrique pratique et efficace pour un usage quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/cd9d9d53-877c-4364-af55-b42066bb87d9.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64417",
+   "price": 339,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Presse-Agrumes Électrique Inox 300W",
+     "description": "Savourez des jus frais et vitaminés en quelques secondes grâce à ce presse-agrumes électrique puissant et élégant. Son moteur 300W assure une extraction rapide et efficace, tandis que son corps en acier inoxydable apporte robustesse et modernité à votre cuisine. Idéal pour oranges, citrons et autres agrumes, il offre un service propre et pratique au quotidien.\n\nCaractéristique\nDétail\n\nPuissance\n300W\n\nMatériau du corps\nAcier inoxydable (Inox)\n\nType d’utilisation\nPression automatique\n\nBec verseur\nOui, anti-goutte\n\nAlimentation\nÉlectrique\n\nEntretien\nPièces démontables",
+     "short_description": "Savourez des jus frais et vitaminés en quelques secondes grâce à ce presse-agrumes électrique puissant et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T041944.997.png"
+   ]
+  },
+  {
+   "sku": "doshift-64410",
+   "price": 195,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mixeur Plongeant 2 en 1 – 200W",
+     "description": "Mixez, fouettez et préparez vos recettes en toute simplicité grâce à une puissance efficace et un format ergonomique conçu pour un usage quotidien.\n\nFormat compact, prise en main confortable et nettoyage rapide pour un gain de temps en cuisine.\n\nCaractéristique\nDétail\n\nType\nMixeur plongeant 2 en 1\n\nPuissance\n200 W\n\nVitesses\n2 niveaux\n\nUtilisation\nSoupes, sauces, smoothies, purées\n\nAlimentation\nÉlectrique\n\nFormat\nCompact et ergonomique",
+     "short_description": "Mixez, fouettez et préparez vos recettes en toute simplicité grâce à une puissance efficace et un format ergonomique conçu pour un usage quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T035857.296.png"
+   ]
+  },
+  {
+   "sku": "doshift-64404",
+   "price": 215,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batteur Électrique 400W – Performance & Précision",
+     "description": "Préparez vos recettes maison avec puissance et facilité grâce à ce batteur électrique performant. Idéal pour fouetter, mélanger et pétrir, il garantit des textures légères et homogènes en quelques minutes. Son design ergonomique assure une prise en main confortable pour un usage quotidien.\n\nParfait pour crèmes, pâtes à gâteaux, chantilly et préparations gourmandes.\n\nCaractéristique\nDétail\n\nPuissance\n400W\n\nVitesses\n5 niveaux réglables\n\nFonction\nMode Turbo\n\nAccessoires\nFouets + Crochets pétrisseurs\n\nUtilisation\nMélange, fouettage, pétrissage\n\nAlimentation\nÉlectrique\n\nDesign\nErgonomique et léger",
+     "short_description": "Préparez vos recettes maison avec puissance et facilité grâce à ce batteur électrique performant. Idéal pour fouetter, mélanger et pétrir, il garantit des textures légères et homogènes en quelques minutes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T030754.279.png"
+   ]
+  },
+  {
+   "sku": "doshift-64388",
+   "price": 119,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -183,13 +148,53 @@
    ],
    "locales": {
     "fr": {
-     "name": "Couscoussier Inox 2 en 1 avec Couvercle en Verre – Polyvalence & Cuisson Maîtrisée",
-     "description": "Permettez une cuisson précise et homogène grâce à ce couscoussier 2 en 1 conçu pour répondre aux besoins d’une cuisine moderne. Sa structure en acier inoxydable garantit robustesse et durabilité pour un usage quotidien, tandis que le couvercle en verre permet de surveiller la cuisson sans perte de chaleur.Le panier vapeur perforé assure une cuisson idéale du couscous, des légumes ou du poisson, et la casserole peut être utilisée séparément pour les soupes, sauces et plats mijotés. Polyvalent, pratique et compatible avec tous types de feux, il s’adapte parfaitement à toutes vos préparations.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCouscoussier et casserole 2 en 1\n\nFonction\nCuisson vapeur et cuisson classique\n\nMatériau\nAcier inoxydable\n\nCouvercle\nVerre résistant à la chaleur\n\nÉléments inclus\nCasserole + panier vapeur + couvercle\n\nCompatibilité feux\nGaz, électrique, vitrocéramique, induction\n\nUtilisation\nCouscous, légumes vapeur, soupes, plats mijotés\n\nEntretien\nNettoyage facile\n\nRéférence-doshift\nAA38BB099",
-     "short_description": "Permettez une cuisson précise et homogène grâce à ce couscoussier 2 en 1 conçu pour répondre aux besoins d’une cuisine moderne."
+     "name": "Théière en Acier Inoxydable 0.8L",
+     "description": "Apportez une touche d’élégance traditionnelle à votre service de thé avec cette théière en acier inoxydable au design raffiné. Sa finition brillante, sa poignée ergonomique et son bec verseur précis assurent un service fluide et sans éclaboussures. Idéale pour préparer un thé à la menthe authentique ou toutes vos infusions préférées.\n\nCaractéristique\nDétail\n\nCapacité\n0.8 Litres\n\nMatière\nAcier inoxydable\n\nFinition\nPoli miroir\n\nType de poignée\nErgonomique, prise facile\n\nUtilisation\nThé, infusions\n\nEntretien\nLavage à la main recommandé",
+     "short_description": "Apportez une touche d’élégance traditionnelle à votre service de thé avec cette théière en acier inoxydable au design raffiné."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-01-31T063112-962.png"
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-02-21T014944.806.png"
+   ]
+  },
+  {
+   "sku": "doshift-64267",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tournevis de Précision Multifonction – Kit 18 Embouts",
+     "description": "Réalisez toutes vos réparations avec précision grâce à ce kit de tournevis compact et efficace, idéal pour les appareils électroniques du quotidien.\n\nDoté d’une poignée ergonomique antidérapante, il assure un excellent confort d’utilisation et une maîtrise parfaite. Sa tête rotative facilite le vissage rapide et précis.\n\nLe kit comprend 18 embouts interchangeables, adaptés aux vis les plus courantes (Phillips, Torx, plat…), pour intervenir facilement sur smartphones, PC, montres ou lunettes.\n\nSon boîtier compact et résistant permet un rangement organisé et un transport pratique partout.\n\nCaractéristique\nDétail\n\nType de produit\nTournevis de précision\n\nNombre d’embouts\n18 pièces\n\nTypes d’embouts\nPhillips, Plat, Torx, etc.\n\nMatériau\nAcier + plastique renforcé\n\nUtilisation\nRéparation électronique, bricolage\n\nBoîtier\nCompact et transparent\n\nPrise en main\nErgonomique antidérapante\n\nRéférence Doshift\nAA2BB599",
+     "short_description": "Réalisez toutes vos réparations avec précision grâce à ce kit de tournevis compact et efficace, idéal pour les appareils électroniques du quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/Nouveau-projet-2026-03-17T163833.852.png"
+   ]
+  },
+  {
+   "sku": "doshift-64230",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Torche Longue Portée – Top Quality Haute Performance",
+     "description": "Profitez d’un éclairage puissant et précis avec cette lampe torche longue portée de haute qualité, conçue pour offrir une visibilité maximale même dans l’obscurité totale. Grâce à son faisceau concentré et sa LED haute intensité, elle permet d’éclairer à grande distance avec une clarté exceptionnelle.",
+     "short_description": "Profitez d’un éclairage puissant et précis avec cette lampe torche longue portée de haute qualité, conçue pour offrir une visibilité maximale même dans l’obscurité totale."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/cree1.jpg"
    ]
   }
  ]

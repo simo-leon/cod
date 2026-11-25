@@ -1,129 +1,180 @@
 {
  "products": [
   {
-   "sku": "doshift-72902",
-   "price": 209,
+   "sku": "doshift-79856",
+   "price": 699,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    4,
-    5
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Enceinte LED avec Chargeur Sans Fil G3",
-     "description": "Transformez votre espace avec cette enceinte LED multifonction alliant son immersif, éclairage d’ambiance et recharge sans fil. Idéale pour la chambre, le bureau ou les moments de détente, elle diffuse un son 360° tout en créant une atmosphère lumineuse personnalisée grâce à ses multiples modes RGB. Son réveil intégré avec simulation de lever de soleil rend vos réveils plus doux et naturels, tandis que la charge sans fil 15W garde votre smartphone toujours prêt à l’usage.\n\nCaractéristique\nDétail\n\nType de produit\nEnceinte LED avec chargeur sans fil\n\nÉclairage\nRGB, 256 modes\n\nCouleurs\n16 millions\n\nLuminosité\nRéglable 1–100%\n\nFonction réveil\nSimulation lever de soleil\n\nAudio\nSon 360°\n\nConnectivité\nBluetooth 5.2\n\nSources\nBluetooth, TF, USB, AUX\n\nAppels\nMains libres\n\nCharge sans fil\n15W\n\nBatterie\n1200–1800 mAh\n\nAutonomie\n2–3 heures\n\nPort de charge\nUSB-C\n\nAffichage\nÉcran LED\n\nFonction\nHorloge + réveil\n\nRéférence Doshift\nAA1BB2099",
-     "short_description": "Transformez votre espace avec cette enceinte LED multifonction alliant son immersif, éclairage d’ambiance et recharge sans fil."
+     "name": "Mini Caméra Body Cam L10 4K WiFi – Objectif Rotatif 180°",
+     "description": "Capturez chaque instant avec discrétion grâce à cette mini caméra body cam 4K WiFi compacte et performante. Son objectif rotatif à 180° permet d’ajuster facilement l’angle de vue selon vos besoins, tandis que la connexion WiFi facilite la visualisation et le transfert des vidéos directement sur smartphone. Idéale pour la sécurité, les déplacements, le sport, les réunions ou les activités professionnelles.\n\nCompacte, légère et simple à clipser, cette caméra embarquée offre une excellente qualité d’image en Full HD/4K avec enregistrement audio et détection de mouvement pour une utilisation encore plus intelligente.\n\nCaractéristique\nDétail\n\nType de produit\nMini Body Camera WiFi\n\nQualité vidéo\n4K Full HD\n\nRotation objectif\n180°\n\nConnectivité\nWiFi\n\nBatterie\n2000mAh\n\nAutonomie\nJusqu’à 5 heures\n\nStockage\nJusqu’à 256Go\n\nFonctions\nVidéo, audio, photo\n\nDétection\nMotion Detection\n\nFixation\nClip arrière\n\nCouleur\nNoir\n\nRéférence Doshift\nAA55BB099",
+     "short_description": "Capturez chaque instant avec discrétion grâce à cette mini caméra body cam 4K WiFi compacte et performante."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/2-11.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-21T135050.232.png"
    ]
   },
   {
-   "sku": "doshift-72871",
-   "price": 99,
+   "sku": "doshift-79718",
+   "price": 219,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Mini Ventilateur Portable avec Support – Design Compact",
-     "description": "Profitez d’une brise fraîche partout avec ce mini ventilateur portable au design pratique et moderne. Léger et facile à transporter, il peut être utilisé à la main ou posé sur son support pour un confort optimal au bureau, à la maison, pendant les études ou en déplacement.\n\nSon format compact permet de le garder près de vous sans encombrer l’espace, tandis que sa grille de protection assure une utilisation plus sûre au quotidien. Idéal pour les journées chaudes, les espaces de travail, la chambre ou les sorties.\n\nCaractéristique\nDétail\n\nType de produit\nMini ventilateur portable\n\nUtilisation\nÀ la main ou posé sur support\n\nDesign\nCompact, léger et pratique\n\nCouleur\nBeige / crème\n\nGrille de protection\nOui\n\nSupport inclus\nOui\n\nIdéal pour\nBureau, maison, chambre, étude, voyage\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Profitez d’une brise fraîche partout avec ce mini ventilateur portable au design pratique et moderne."
+     "name": "Presse-agrumes Électrique RAF 400ml",
+     "description": "Préparez facilement des jus d’agrumes frais et savoureux avec ce presse-agrumes électrique RAF. Compact, élégant et simple à utiliser, il est idéal pour les oranges, citrons et pamplemousses au quotidien. Son design moderne avec récipient transparent permet de visualiser facilement la quantité de jus préparée.\n\nCaractéristique\nDétail\n\nType\nPresse-agrumes électrique\n\nMarque\nRAF\n\nCapacité\n400 ml\n\nPuissance\n30 W\n\nRotation\nBidirectionnelle\n\nUtilisation\nOranges, citrons, agrumes\n\nNettoyage\nFacile\n\nCouleur\nVert clair transparent\n\nRéférence Doshift\nAA11BB099",
+     "short_description": "Préparez facilement des jus d’agrumes frais et savoureux avec ce presse-agrumes électrique RAF. Compact, élégant et simple à utiliser, il est idéal pour les oranges, citrons et pamplemousses au quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-07-06T153111.119.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T203352.625.png"
    ]
   },
   {
-   "sku": "doshift-72880",
-   "price": 89,
+   "sku": "doshift-79684",
+   "price": 289,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Mini Ventilateur Portable Vert Menthe avec Socle",
-     "description": "Profitez d’un peu de fraîcheur où que vous soyez avec ce mini ventilateur portable au design compact et moderne. Son format pratique permet de le tenir facilement en main pour une utilisation personnelle au quotidien.\n\nGrâce à son socle rond, il peut également être posé sur un bureau, une table de chevet ou un plan de travail. Sa finition vert menthe et son manche transparent lui donnent un look original et discret, idéal à la maison, au bureau ou pendant vos déplacements.\n\nCaractéristique\nDétail\n\nType\nMini ventilateur portable\n\nUtilisation\nÀ la main ou posé sur un support\n\nCouleur\nVert menthe\n\nForme\nVentilateur rond avec manche\n\nSocle\nOui, base ronde\n\nManche\nTransparent\n\nGrille de protection\nOui\n\nFormat\nCompact\n\nUtilisations\nBureau, maison, voyage, déplacements\n\nRéférence Doshift\nAA3BB399",
-     "short_description": "Profitez d’un peu de fraîcheur où que vous soyez avec ce mini ventilateur portable au design compact et moderne. Son format pratique permet de le tenir facilement en main pour une utilisation personnelle au quotidien."
+     "name": "Bouilloire Électrique RAF 2L",
+     "description": "Préparez rapidement vos boissons chaudes avec cette bouilloire électrique RAF au design moderne et pratique. Sa grande capacité de 2 litres permet de chauffer l’eau facilement pour le thé, le café ou les infusions au quotidien.\n\nCaractéristiques\nDétails\n\nMarque\nRAF\n\nCapacité\n2.0 L\n\nPuissance\n1500 W\n\nMatière\nAcier inoxydable 304\n\nBase\nRotation 360°\n\nProtection\nAnti-chauffe à sec\n\nUtilisation\nThé, café, eau chaude\n\nCouleur\nBlanc\n\nRéférence Doshift\nAA18BB099",
+     "short_description": "Préparez rapidement vos boissons chaudes avec cette bouilloire électrique RAF au design moderne et pratique."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-09-12T124509.153.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T192041.000.png"
    ]
   },
   {
-   "sku": "doshift-72829",
-   "price": 89,
+   "sku": "doshift-79633",
+   "price": 289,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Mini Ventilateur Mignon en Action",
-     "description": "Profitez d’une brise fraîche à tout moment avec ce mini ventilateur portable au design adorable. Parfait pour votre bureau ou vos moments de détente, il allie praticité et style pour vous garder au frais avec douceur.\n\nCaractéristique\nDétail\n\nType de produit\nMini ventilateur portable rechargeable\n\nMatériau\nPlastique\n\nCouleur\nBeige / Crème\n\nDimensions\n18.5 × 8 × 10 cm\n\nAlimentation\nRechargeable USB\n\nUtilisation\nRefroidissement personnel, bureau, maison\n\nFonction\nVentilation portable\n\nCommande\nBouton marche/arrêt\n\nDesign\nCompact, mignon avec motif ours\n\nEntretien\nFacile à nettoyer\n\nTransport\nLéger et facile à transporter\n\nRéférence-doshift\nAA3BB399",
-     "short_description": "Profitez d’une brise fraîche à tout moment avec ce mini ventilateur portable au design adorable. Parfait pour votre bureau ou vos moments de détente, il allie praticité et style pour vous garder au frais avec douceur."
+     "name": "Bouilloire Électrique RAF 2.0L Noir Élégant",
+     "description": "Préparez rapidement vos boissons chaudes avec cette bouilloire électrique RAF au design moderne et raffiné. Sa grande capacité de 2 litres et sa puissance élevée assurent une chauffe rapide pour le thé, le café ou les infusions au quotidien.\n\nCaractéristique\nDétail\n\nRéférence Doshift\nAA17BB099\n\nMarque\nRAF\n\nType\nBouilloire électrique\n\nCapacité\n2 Litres\n\nPuissance\n1500W\n\nRotation\nBase 360°\n\nCouleur\nNoir\n\nAlimentation\n220-240V / 50-60Hz\n\nMatériau\nPlastique et acier inoxydable\n\nFonction sécurité\nArrêt automatique",
+     "short_description": "Préparez rapidement vos boissons chaudes avec cette bouilloire électrique RAF au design moderne et raffiné."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/1-7.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T171033.357.png"
    ]
   },
   {
-   "sku": "doshift-72812",
-   "price": 99,
+   "sku": "doshift-79627",
+   "price": 179,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    8
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Mini Ventilateur Portable Rechargeable – Cool Comfort",
-     "description": "Profitez d’un air frais partout avec ce mini ventilateur portable rechargeable, compact, léger et pratique pour la maison, le bureau, les voyages ou les journées chaudes. Son design vertical avec socle stable permet de le poser facilement sur une table, un bureau ou une étagère.\n\nÉquipé de 3 vitesses réglables, il s’adapte à vos besoins : brise légère, ventilation moyenne ou airflow plus puissant. Sa batterie rechargeable intégrée se recharge facilement via port Type-C, pour une utilisation simple au quotidien.\n\nCaractéristique\nDétail\n\nProduit\nMini ventilateur portable rechargeable\n\nModèle\nYS-2501\n\nMarque affichée\nCool Comfort\n\nMode de vitesse\n3 vitesses\n\nAlimentation\nRechargeable\n\nPort de charge\nType-C\n\nTension d’entrée\n5V\n\nPuissance\n1-2W\n\nBatterie\n3.7V\n\nTemps de charge\n1 à 2 heures\n\nDimensions\n88 × 53 × 173 mm\n\nPoids net\n108 g\n\nUtilisation\nBureau, maison, voyage, table\n\nRéférence Doshift\nAA3BB899",
-     "short_description": "Profitez d’un air frais partout avec ce mini ventilateur portable rechargeable, compact, léger et pratique pour la maison, le bureau, les voyages ou les journées chaudes."
+     "name": "Boîte de Rangement Pliable HOME",
+     "description": "Organisez votre intérieur avec élégance grâce à cette boîte de rangement pliable HOME. Idéale pour ranger vêtements, jouets, couvertures, linge ou accessoires du quotidien, elle apporte une touche moderne et chaleureuse à chaque pièce de la maison. Son tissu résistant, ses poignées renforcées et son design pliable en font une solution pratique et esthétique pour garder votre espace bien ordonné.\n\nCaractéristique\nDétail\n\nType\nBoîte de rangement pliable\n\nMatière\nTissu renforcé\n\nCouleur\nBeige et marron\n\nUtilisation\nRangement maison\n\nPoignées\nCorde renforcée\n\nFonction\nPliable et pratique\n\nPièces compatibles\nChambre, salon, dressing, buanderie\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Organisez votre intérieur avec élégance grâce à cette boîte de rangement pliable HOME."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-06-18T162214.811.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-20T164451.601.png"
    ]
   },
   {
-   "sku": "doshift-72740",
+   "sku": "doshift-79406",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble d’Ustensiles de Cuisine 6 Pièces avec Support en Bois",
+     "description": "Organisez et modernisez votre cuisine avec cet élégant ensemble d’ustensiles de cuisine 6 pièces. Conçu avec des matériaux résistants et un design moderne effet bois, cet ensemble est idéal pour cuisiner au quotidien tout en gardant votre plan de travail bien organisé.\n\nLes ustensiles offrent une prise en main confortable et sont adaptés aux casseroles et poêles antiadhésives. Grâce à leur support compact en bois, tous vos accessoires restent facilement accessibles.\n\nCaractéristique\nDétail\n\nType\nEnsemble d’ustensiles de cuisine\n\nNombre de pièces\n6 pièces\n\nSupport\nInclus\n\nMatière des ustensiles\nSilicone / plastique résistant\n\nMatière du support\nEffet bois\n\nCouleur\nBeige et bois\n\nUtilisation\nCuisine quotidienne\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA17BB099",
+     "short_description": "Organisez et modernisez votre cuisine avec cet élégant ensemble d’ustensiles de cuisine 6 pièces."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T200417.747.png"
+   ]
+  },
+  {
+   "sku": "doshift-79371",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set d’Ustensiles de Cuisine 6 Pièces avec Support en Bambou",
+     "description": "Préparez vos plats avec élégance grâce à ce set d’ustensiles de cuisine pratique et moderne. Conçu avec des matériaux résistants à la chaleur et des manches ergonomiques effet bois, cet ensemble apporte une touche naturelle et raffinée à votre cuisine. Idéal pour cuisiner au quotidien sans abîmer vos poêles et casseroles antiadhésives.\n\nCaractéristique\nDétail\n\nType\nSet d’ustensiles de cuisine\n\nNombre de pièces\n6 pièces\n\nMatière des ustensiles\nSilicone / Nylon résistant\n\nMatière du support\nBambou\n\nCouleur\nNoir et bois\n\nRésistance à la chaleur\nOui\n\nCompatible lave-vaisselle\nOui\n\nUtilisation\nCuisine quotidienne\n\nRéférence Doshift\nAA17BB099",
+     "short_description": "Préparez vos plats avec élégance grâce à ce set d’ustensiles de cuisine pratique et moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T184540.761.png"
+   ]
+  },
+  {
+   "sku": "doshift-79393",
    "price": 149,
    "stock": 10,
    "status": 0,
    "categories": [
-    3,
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Câble USB-C vers DisplayPort 4K 60Hz",
-     "description": "Profitez d’une qualité d’image exceptionnelle avec ce câble USB-C vers DisplayPort, conçu pour offrir une transmission vidéo fluide et stable. Idéal pour connecter un ordinateur portable, un smartphone ou une tablette équipée d’un port USB-C à un écran, moniteur ou projecteur DisplayPort.\n\nCaractéristique\nDétail\n\nType\nUSB-C vers DisplayPort\n\nRésolution\n4K (3840×2160) à 60Hz\n\nCompatibilité\nPC, MacBook, smartphones, tablettes\n\nInterface\nUSB-C (entrée) / DisplayPort (sortie)\n\nMatériau\nAlliage d’aluminium\n\nPlug & Play\nOui\n\nLongueur\n1.8m\n\nCouleur\nNOIR\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Profitez d’une qualité d’image exceptionnelle avec ce câble USB-C vers DisplayPort, conçu pour offrir une transmission vidéo fluide et stable."
+     "name": "Organisateur de Bureau avec Distributeur de Mouchoirs – Design Compact",
+     "description": "Apportez plus d’ordre et d’élégance à votre espace avec cet organisateur multifonction. Son design moderne permet de ranger facilement vos télécommandes, lunettes, stylos, montres, accessoires et petits objets du quotidien, tout en gardant les mouchoirs toujours à portée de main grâce à son distributeur intégré.\n\nCompact et pratique, il s’adapte parfaitement au salon, au bureau, à la chambre ou à la salle de bain. Sa structure robuste et sa surface lisse facilitent le nettoyage et garantissent une utilisation durable au quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nOrganisateur avec distributeur de mouchoirs\n\nUtilisation\nRangement d’accessoires + distribution de mouchoirs\n\nCompartiments\nPlusieurs espaces de rangement sur le dessus\n\nEmplacement idéal\nSalon, chambre, bureau, salle de bain\n\nMatière\nPlastique PP robuste\n\nDesign\nCompact, moderne et élégant\n\nNettoyage\nSurface lisse facile à nettoyer\n\nDimensions\n21 × 16 × 12 cm\n\nRéférence Doshift\nAA6BB599",
+     "short_description": "Apportez plus d’ordre et d’élégance à votre espace avec cet organisateur multifonction."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-17T180040.310.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-06-18T142923.682.png"
    ]
   },
   {
-   "sku": "doshift-72768",
-   "price": 99,
+   "sku": "doshift-79284",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set d’Ustensiles de Cuisine 6 Pièces avec Support en Bambou",
+     "description": "Apportez une touche moderne et élégante à votre cuisine avec ce set d’ustensiles 6 pièces en silicone et bambou. Résistants à la chaleur, pratiques au quotidien et faciles à ranger grâce à leur support en bambou compact, ces accessoires sont parfaits pour cuisiner sans abîmer vos casseroles et poêles.\n\nCaractéristique\nDétail\n\nType\nSet d’ustensiles de cuisine\n\nNombre de pièces\n6 pièces\n\nMatière des têtes\nSilicone\n\nMatière des manches\nBambou + revêtement antidérapant\n\nSupport\nBambou\n\nCouleur\nGris\n\nRésistance à la chaleur\nOui\n\nUtilisation\nCuisine quotidienne\n\nRéférence Doshift\nAA19BB099",
+     "short_description": "Apportez une touche moderne et élégante à votre cuisine avec ce set d’ustensiles 6 pièces en silicone et bambou."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T150803.813.png"
+   ]
+  },
+  {
+   "sku": "doshift-79276",
+   "price": 279,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -132,72 +183,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Mini Ventilateur Portable",
-     "description": "Profitez d’une fraîcheur douce partout avec ce mini ventilateur compact et pratique. Son design rose avec finitions dorées apporte une touche élégante, tandis que son support permet de le poser facilement sur un bureau, une table de chevet ou un espace de travail.\n\nCaractéristique\nDétail\n\nType\nMini ventilateur portable\n\nVitesse\nUne seule vitesse\n\nUtilisation\nBureau, maison, études, voyage\n\nDesign\nRose avec détails dorés\n\nFonction\nVent doux et agréable\n\nSupport\nBase de pose incluse\n\nAvantage\nCompact, léger et facile à utiliser\n\nRéférence Doshift\nAA3BB599",
-     "short_description": "Profitez d’une fraîcheur douce partout avec ce mini ventilateur compact et pratique."
+     "name": "Chauffage Soufflant Portable RAF 2000W",
+     "description": "Profitez d’une chaleur rapide et confortable avec le chauffage soufflant RAF 2000W, idéal pour réchauffer efficacement vos espaces en hiver. Compact, léger et facile à transporter grâce à sa poignée intégrée, il convient parfaitement à la maison, au bureau ou à la chambre.\n\nDoté de 2 niveaux de chauffe et d’une fonction ventilation, ce chauffage offre une utilisation simple et pratique au quotidien. Son thermostat réglable permet d’adapter facilement la température selon vos besoins tout en assurant une diffusion homogène de la chaleur.\n\nCaractéristique\nDétail\n\nType\nChauffage soufflant portable\n\nMarque\nRAF\n\nPuissance\n2000W\n\nRéglages\n2 niveaux\n\nFonction ventilation\nOui\n\nThermostat\nRéglable\n\nSécurité\nProtection anti-surchauffe\n\nCouleur\nBlanc\n\nUtilisation\nMaison, bureau, chambre\n\nRéférence Doshift\nAA17BB099",
+     "short_description": "Profitez d’une chaleur rapide et confortable avec le chauffage soufflant RAF 2000W, idéal pour réchauffer efficacement vos espaces en hiver."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-06-09T135006.313.png"
-   ]
-  },
-  {
-   "sku": "doshift-72705",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Câble USB-C vers DisplayPort 8K – Haute Performance Vidéo",
-     "description": "Optimisez votre expérience visuelle avec ce câble USB-C vers DisplayPort, conçu pour transmettre une image ultra haute définition avec une fluidité exceptionnelle. Idéal pour connecter un ordinateur portable, une tablette ou un smartphone compatible USB-C à un écran, moniteur ou projecteur DisplayPort.\n\nCaractéristique\nDétail\n\nType de câble\nUSB-C vers DisplayPort\n\nRésolution maximale\n8K Ultra HD\n\nRésolution supportée\n4K à 120 Hz\n\nModes d’affichage\nMiroir (duplication) / Extension\n\nTransmission\nSignal numérique haute qualité\n\nConnecteurs\nUSB Type-C mâle / DisplayPort mâle\n\nCompatibilité\nAppareils USB-C vers écran DisplayPort\n\nInstallation\nPlug & Play\n\nLongueur\nEnviron 1,8 m\n\nUtilisation\nBureau, gaming, streaming, présentation\n\nRéférence Doshift\nAA12BB099",
-     "short_description": "Optimisez votre expérience visuelle avec ce câble USB-C vers DisplayPort, conçu pour transmettre une image ultra haute définition avec une fluidité exceptionnelle."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-17T173918.250.png"
-   ]
-  },
-  {
-   "sku": "doshift-72696",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Télécommande de Présentation Sans Fil 2.4GHz avec Laser",
-     "description": "Optimisez vos présentations avec cette télécommande sans fil pratique et intuitive. Conçue pour les professionnels, enseignants et étudiants, elle vous permet de contrôler vos diapositives à distance tout en gardant une liberté totale de mouvement. Grâce à sa connexion 2.4GHz stable et son système plug & play, aucun logiciel n’est nécessaire : branchez simplement le récepteur USB et commencez immédiatement.\n\nCaractéristique\nDétail\n\nType de connexion\nSans fil 2.4GHz\n\nPortée\nJusqu’à 10-15 mètres\n\nInterface\nUSB (récepteur)\n\nAlimentation\nPile\n\nFonctions\nLaser, navigation, écran noir\n\nCompatibilité\nWindows / Mac OS / Linux / Android\n\nInstallation\nPlug & Play\n\nRéférence Doshift\nAA7BB599",
-     "short_description": "Optimisez vos présentations avec cette télécommande sans fil pratique et intuitive."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-17T162936.477.png"
-   ]
-  },
-  {
-   "sku": "doshift-72689",
-   "price": 99,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pare-soleil Plissé Universel pour Vitre de Voiture – Lot de 2",
-     "description": "Protégez efficacement l’intérieur de votre véhicule avec ce pare-soleil plissé universel, conçu pour bloquer les rayons du soleil tout en conservant une bonne visibilité vers l’extérieur. Son design discret et moderne s’intègre parfaitement à tous types de véhicules.\n\nCaractéristique\nDétail\n\nType\nPare-soleil plissé pour voiture\n\nInstallation\nAdhésif 3M + clip\n\nFonction\nProtection solaire / anti-chaleur / anti-UV\n\nDesign\nPliable et rétractable\n\nCompatibilité\nUniverselle (vitres latérales)\n\nCouleur\nNoir\n\nQuantité\nLot de 2 pièces\n\nMatériau\nTissu + structure ABS\n\nUtilisation\nVoiture, SUV, utilitaire\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Protégez efficacement l’intérieur de votre véhicule avec ce pare-soleil plissé universel, conçu pour bloquer les rayons du soleil tout en conservant une bonne visibilité vers l’extérieur."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-17T161350.995.png"
+    "https://doshift.ma/wp-content/uploads/2026/05/Nouveau-projet-2026-05-19T145106.980.png"
    ]
   }
  ]

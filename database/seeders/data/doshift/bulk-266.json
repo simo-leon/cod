@@ -1,122 +1,162 @@
 {
  "products": [
   {
-   "sku": "doshift-46687",
+   "sku": "doshift-54982",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Planche à Découper Multifonction avec Tiroir – Cuisine Organisée & Hygiénique",
+     "description": "Simplifiez votre préparation en cuisine grâce à cette planche de découpe ingénieuse équipée d’un tiroir collecteur. Elle permet de découper, trancher et séparer les déchets ou les aliments en un seul geste — fini les allers-retours entre la planche et le bol ! Son plateau en bambou offre une surface propre, durable et élégante tandis que le tiroir amovible facilite la récupération ou le rangement des légumes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMatériau plateau\nBambou naturel antibactérien\n\nMatériau base & tiroir\nABS alimentaire\n\nFonction tiroir\nAmovible\n\nUtilisation\nCollecte déchets / aliments\n\nNettoyage\nFacile & rapide\n\nConvient pour\nFruits, légumes, herbes, etc.\n\nRéférence-doshift\nAA8BB099",
+     "short_description": "Simplifiez votre préparation en cuisine grâce à cette planche de découpe ingénieuse équipée d’un tiroir collecteur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_5t1i085t1i085t1i-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-54948",
+   "price": 91,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Flawless Ponceuse à Ongles Électrique 5 en 1 – Manucure & Pédicure",
+     "description": "La Flawless Ponceuse Électrique 5 en 1 est l’outil indispensable pour entretenir ses ongles à la maison comme dans un salon. Compacte, légère et ergonomique, elle permet de façonner, lisser, polir, nettoyer et embellir les ongles des mains et des pieds. Grâce à ses 5 embouts interchangeables, elle offre une solution complète pour le soin des ongles sans effort.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nProduit\nPonceuse électrique manucure/pédicure\n\nFonctions\nLimage – Polissage – Mise en forme – Lissage – Nettoyage\n\nEmbouts inclus\n5 embouts interchangeables\n\nUtilisation\nOngles mains & pieds\n\nNiveau\nDébutant à avancé\n\nAlimentation\nÉlectrique (selon modèle USB/batterie)\n\nErgonomie\nCompacte & légère\n\nCible\nUsage domicile & professionnel\n\nAvantages\nTravail précis + résultat propre\n\nApplication\nNail Art / Beauté / Entretien\n\nRéférence-doshift\nAA4BB599",
+     "short_description": "La Flawless Ponceuse Électrique 5 en 1 est l’outil indispensable pour entretenir ses ongles à la maison comme dans un salon."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_trf03trf03trf03t-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-54891",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    13
+   ],
+   "locales": {
+    "fr": {
+     "name": "Correcteur de Posture intelligent USB, Appareil d’entraînement à bosse, LCD, pour le cou",
+     "description": "Correcteur de posture arrière USB Rappel de vibration Entraîneur de correction de bosse intelligent Soins des os professionnels pour la lecture de marche\n\n1. Puce de haute précision intégrée: Enregistrez avec précision la posture, surveillez les changements d’angle d’inclinaison du corps en temps réel et vibrez pour le rappeler.\n\n2. Fonction: Aider à corriger la mauvaise posture du dos et des épaules, améliorer le bossu, corriger la posture, protéger la vue et remodeler les belles courbes.\n\n3. Matériel: L’aligneur intelligent est fabriqué en silicone de qualité alimentaire, léger et durable, doux et doux pour la peau, pas facile à déformer, s’adapte à la courbe du corps humain, et est confortable à porter.\n\n4. Capteur intelligent: Perception intelligente des mauvaises postures, surveillance des postures en temps réel, aide scientifique et efficace à corriger les mauvaises postures telles que le bossu\n\n5. Applicable: Applicable à diverses occasions telles que le travail, l’étude, la marche, la lecture, etc., vous aidant essentiellement à résoudre les problèmes de posture.\n\nType d’article: Bretelles et supports\n\nNuméro du modèle: Posture Corrector\n\nEffet: Soin des os\n\nApplication: Retour\n\nNombre de pièces: Une unité\n\nCouleur: noir, orange (facultatif)\n\nTaille: Environ 124,7x119mm/4,9×4,68 pouces\n\nTension: 5V\n\nPuissance: 6W\n\nMatériau: ABS + Silicone\n\nChargement: 3.5 heures\n\nNom du produit: correcteur de posture assisMatériau: ABSCouleur: roseTaille: comme indiqué",
+     "short_description": "Correcteur de posture arrière USB Rappel de vibration Entraîneur de correction de bosse intelligent Soins des os professionnels pour la lecture de marche"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057958-21_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-54882",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "2 pcs Rasoir à sourcils épilateur pour le visage tondeuse à sourcils pointu Mini",
+     "description": "12 rasoirs pour femmes , pour sourcils.\n\n3 couleurs différentes\n\nmeilleur rasoirs pour tout types de peau\n\nvous aurez des sourcils parfaitement tracés\n\n12 rasoirs pour femmes , pour sourcils.\n\n3 couleurs différentes\n\nmeilleur rasoirs pour tout types de peau\n\nvous aurez des sourcils parfaitement tracés",
+     "short_description": "12 rasoirs pour femmes , pour sourcils."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057936-12_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-54878",
+   "price": 539,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Baignoire à Pieds Pliante électrique,Bain De Pieds Métropolitain,Séparation Hydroélectrique",
+     "description": "Baignoire à pieds pliante électrique infrarouge, bain de pieds métropolitain, séparation hydroélectrique, bassin de pieds portable, massage pour se détendreMachine de massage électrique pour bain de pieds, nettoyage ionique, mini bain de pieds vibrant, tableau de soins pour le bain de pieds, SPA Aqua Health Therapy, poignées de bœuf1. Irradiation auxiliaire de l’oxygène à bulles et de la lumière rougeDonner un massage plus profond pour libérer rapidement la pression sur les boules de vos pieds\n\n2. Conception de séparation de l’eau et de l’électricité pour votre escorte de sécurité\n\nSystème de chauffage de séparation de l’eau et de l’électricité, facteur de sécurité élevé, vitesse de chauffage rapide\n\n3. Massage de bosse de rouleau de libre-service\n\nPosition de massage auto-contrôlée, force, pour que la presse à pétrir soit juste\n\n4. Technique de massage humain\n\nSimulation humaine douce, pincement, rouleau, presse, dessus, pousser, etc.\n\nTechnique de massage dans son ensemble, une gamme complète de points de massage plus confortable\n\nCatégorie de produit: Bain de pieds pliantMatériau du produit: Matériau PPMode de contrôle: mécaniqueCaractéristiques: stérilisation infrarouge, surf à bullesProfondeur du seau: 20-30cm (environ jusqu’au mollet)Mode de drainage: manuelCapacité d’eau: 8-10 litresDispositif de couverture étanche: OuiPuissance: inférieure à 800WMode de chauffage: Appareil de chauffage de ptcStyle: structure monobloc",
+     "short_description": "Baignoire à pieds pliante électrique infrarouge, bain de pieds métropolitain, séparation hydroélectrique, bassin de pieds portable, massage pour se détendreMachine de massage électrique pour bain de pieds, nettoyage…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057926-8_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-54877",
+   "price": 679,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe portable avec crochet métallique pour éclairage extérieur",
+     "description": "Lampe portable polyvalente avec un design moderne, offrant un éclairage puissant et pratique pour les activités en plein air comme le camping ou les randonnées. Équipée d’un crochet métallique robuste pour une suspension facile et d’une batterie rechargeable pour une utilisation prolongée.\n\nCrochet métallique robuste : Permet une suspension facile dans différents environnements.Éclairage brillant : Offre une lumière puissante et uniforme pour les espaces extérieurs.Sans les mains : Pratique pour les activités en plein air comme le camping, la randonnée ou les soirées.Batterie rechargeable : Fournit une autonomie prolongée, idéale pour les déplacements.Design moderne et élégant : Conception légère et facile à transporter, adaptée à différents usages.Utilisation polyvalente : Convient pour les activités intérieures et extérieures, ainsi que pour une lumière d’appoint.",
+     "short_description": "Lampe portable polyvalente avec un design moderne, offrant un éclairage puissant et pratique pour les activités en plein air comme le camping ou les randonnées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057923-7_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-54876",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe de Table LED Rechargeable – Finition Argentée",
+     "description": "Apportez une touche moderne et élégante à votre intérieur avec cette lampe de table LED à finition argentée. Son design minimaliste combine une structure métallique effet argent brossé avec un diffuseur blanc qui offre une lumière douce et chaleureuse.\n\nGrâce à son port de recharge USB-C, elle peut être utilisée facilement sur une table de chevet, un bureau, une console ou une table de restaurant. Son format compact et son esthétique raffinée en font un excellent choix pour créer une ambiance cosy tout en ajoutant une touche décorative contemporaine.\n\nCaractéristique\nDétail\n\nType de produit\nLampe de table LED\n\nCouleur\nArgenté / Silver et blanc\n\nFinition\nEffet métal argenté brossé\n\nStyle\nModerne et minimaliste\n\nÉclairage\nLumière douce et chaleureuse\n\nDiffuseur\nBlanc\n\nRecharge\nUSB-C\n\nInstallation\nÀ poser\n\nUtilisation\nChambre, salon, bureau, restaurant, café, décoration\n\nFormat\nCompact et peu encombrant\n\nContenu\n1 lampe de table\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Apportez une touche moderne et élégante à votre intérieur avec cette lampe de table LED à finition argentée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-09-17T141833.041.png"
+   ]
+  },
+  {
+   "sku": "doshift-54873",
    "price": 169,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    3
    ],
    "locales": {
     "fr": {
-     "name": "Telephone Portable Nokia 105",
-     "description": "Nokia 105\n\nParlez à tout le monde avec le dernier Nokia 105.Son design ergonomique et ultramoderne vous garantit un confort sans failles quelle que soit la durée de votre conversation. Sa coque vous offre style et qualité des matériaux, tandis que sa couleur unie permet de réduire la visibilité des éraflures.\n\nDESIGN :Le meilleur des deux mondes\n\nLa modernité s’allie à la durabilité pour vous offrir un mobile endurant aux contours ergonomiques qui tient parfaitement dans votre main.Le Nokia 105 est robuste dès sa sortie de la boîte et reste solide quel que soit les circonstances.\n\nClavier Appuyez sur les bons boutons :\n\nLes touches séparées du clavier facilitent son utilisation pour composer des numéros et rédiger des messages en un clin d’œil.\n\nFiche technique :\n\nType TFT, 65K couleurs\n\nEcran : 1.77″\n\nSIM :Dual SIM\n\nRésolution :120 x 160 pixels\n\nRAM : 4Mo\n\nROM : 4Mo\n\nHaut-parleur : Oui\n\nJack 3,5 mm : Oui\n\nRadio : radio FM\n\nUSB : microUSB 1.1 (chargement uniquement)\n\nMessagerie : SMS\n\nJeux : Oui\n\nBatterie amovible Li-Ion 800 mAh",
-     "short_description": "Nokia 105"
+     "name": "Puissant Moulin à épices, Broyeur De Grains",
+     "description": "Description du produitFrançais : Moulin à grains électrique, pulvérisateur de café à épices et herbes pour blé, équipement de broyage ultrafin domestique, petite machine de broyage domestique ultra-fine, broyeur à poudre à bouton-poussoir à une touche .\n\nCaractéristiques :\n\n1. Facile à utiliser : la conception à un bouton rend le broyage simple et rapide. Appuyez simplement sur le bouton pour commencer à moudre.\n\n2. Conception sûre : équipée d’une protection contre la surchauffe et d’une base antidérapante pour assurer la sécurité pendant l’utilisation.\n\n3. Facile à nettoyer : la conception de la tasse de broyage amovible est facile à nettoyer et à garder hygiénique.\n\n4. Compact et portable : conception petite et légère, adaptée à divers espaces de cuisine.\n\nSpécifications :\n\nNom : petit équipement de broyage ultrafin domestique\n\nMatériau : acier inoxydable, plastique de qualité alimentaire\n\nPoids : 780 g\n\nTaille : 8,8 x 4,7 x 5,7 pouces\n\nCouleur : bleu/blanc\n\nContenu de l’emballage :\n\n1 pièce * équipement de broyage ultrafin",
+     "short_description": "Description du produitFrançais : Moulin à grains électrique, pulvérisateur de café à épices et herbes pour blé, équipement de broyage ultrafin domestique, petite machine de broyage domestique ultra-fine, broyeur à…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589126-30_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057913-3_1.jpg"
    ]
   },
   {
-   "sku": "doshift-46663",
-   "price": 249,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Antivol Voiture Extensible – Blocage Volant & Pédales Haute Sécurité",
-     "description": "Protégez efficacement votre véhicule contre le vol grâce à cet antivol robuste et dissuasif, conçu pour bloquer simultanément le volant et les pédales. Sa structure extensible permet une adaptation simple à la majorité des véhicules, tandis que son mécanisme de verrouillage à clé solide offre une sécurité fiable et visible. Facile à installer et à retirer sans outils, il constitue une solution pratique pour renforcer la protection de votre voiture au quotidien, à domicile comme en déplacement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAntivol pour voiture\n\nUtilisation\nBlocage du volant et des pédales\n\nLongueur ajustable\nExtensible pour s’adapter à différents véhicules\n\nSystème de verrouillage\nSerrure à clé\n\nInstallation\nRapide et sans outils\n\nCompatibilité\nConvient à la plupart des voitures\n\nAvantage principal\nDissuasion visible et protection renforcée\n\nRéférence – DOSHIFT\nAA15BB099",
-     "short_description": "Protégez efficacement votre véhicule contre le vol grâce à cet antivol robuste et dissuasif, conçu pour bloquer simultanément le volant et les pédales."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-02-03T180806-936.png"
-   ]
-  },
-  {
-   "sku": "doshift-46599",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pack de sécurité voiture -Triangle d’en panne + Gilet fluorescent + Extincteur",
-     "description": "Pack de Sécurité Voiture\n\nAssurez-vous d’être toujours prêt en cas d’urgence sur la route avec notre pack de sécurité voiture. Ce pack essentiel comprend :\n\nTriangle de signalisation : Indispensable pour signaler votre véhicule en panne et garantir votre sécurité ainsi que celle des autres usagers de la route.\n\nGilet fluorescent : Portez ce gilet haute visibilité pour être facilement repérable, surtout en conditions de faible luminosité.\n\nExtincteur : Un outil crucial pour éteindre les petits incendies et prévenir les dégâts majeurs.",
-     "short_description": "Pack de Sécurité Voiture"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764588975-11_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46573",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Appui Tête de voiture, Coussin siège automobile, repose-nuque confortable 1 pcs",
-     "description": "Appui-tête Confort Voiture – Soulagement Douleurs Cervicales\n\nL’appui-tête de voiture est un accessoire indispensable pour votre confort sur la route. Il est conçu pour soulager les douleurs cervicales et vous offrir un soutien optimal pendant vos trajets.\n\nCaractéristiques:\n\n Soulagement de la douleur: Mousse à mémoire viscoélastique de haute qualité offrant un soutien optimal et un soulagement des douleurs cervicales.\n\n Adaptabilité: Convient pour les voyages de longue distance, les voyages d’affaires, le bureau ou la maison.\n\n Confort maximal: Revêtement en tissu respirant et doux pour une sensation agréable sur la peau.\n\n Design ergonomique: Conforme aux courbes de votre nuque pour un maintien parfait et une meilleure posture.\n\n Ultra-fin: Ne gêne pas la visibilité et s’adapte à tous les sièges.\n\n Amovible: Housse lavable pour un entretien facile.\n\nAvantages:\n\n Diminution des douleurs cervicales et des tensions musculaires.\n\n Amélioration de la posture et de l’alignement de la colonne vertébrale.\n\n Confort accru pendant les longs trajets.\n\n Soutien optimal pour les personnes souffrant de douleurs chroniques.\n\n Adaptabilité à tous les types de sièges.\n\nAvec son design ergonomique et sa mousse à mémoire de forme, cet appui-tête vous assure un confort optimal et un soulagement des douleurs cervicales. Il est parfait pour les conducteurs professionnels, les voyageurs fréquents et toute personne souffrant de douleurs au cou.",
-     "short_description": "Appui-tête Confort Voiture – Soulagement Douleurs Cervicales"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764582012-5_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46565",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pack de sécurité auto",
-     "description": "Soyez prêt à affronter les situations imprévues sur la route avec notre pack de sécurité auto complet. Il comprend tous les essentiels, du triangle de sécurité au gilet réfléchissant, pour vous protéger et assurer votre sécurité en cas de panne.",
-     "short_description": "Soyez prêt à affronter les situations imprévues sur la route avec notre pack de sécurité auto complet."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764581988-3_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46912",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Mini Dv Camera Mini SQ11 1080P caméscope HD avec vision nocturne",
-     "description": "Caractéristiques principales:\n\n120V FOV vous offre une large vue\n\nLa vision nocturne prend en charge la capture d’images haute définition pendant la nuit ou un environnement sombre\n\nLa technologie avancée de compression de photographie H.264 permet de conserver des vidéos de haute qualité et joue également un rôle dans la sauvegarde du stockage.\n\nL’horodatage est propice à regarder à travers\n\nUne clé pour verrouiller la vidéo en cas de situation émergenteEnregistrement du cycle en boucle, enregistre l’espace de stockage efficacement\n\nPrise en charge du stockage de la mémoire de la carte TF maximale de 32 Go (non inclus)\n\nSupporte la distance de détection de mouvement de 5 à 10 m\n\nConstruit en batterie Li-ion de 200mAh",
-     "short_description": "Caractéristiques principales:"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764594688-11_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46841",
-   "price": 79,
+   "sku": "doshift-54872",
+   "price": 1129,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -124,18 +164,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Spatule Grattoir en Acier Inoxydable Manche Bois – Tourneur de Crêpes & Pancakes",
-     "description": "Cette spatule grattoir en acier inoxydable avec manche en bois est idéale pour vos préparations culinaires. Son design robuste et durable, résistant à la rouille, la rend parfaite pour retourner les crêpes, les pancakes, le barbecue, la pizza et bien plus encore. Le manche en bois assure une prise en main confortable et élégante. Un outil indispensable pour une cuisine pratique et efficace.",
-     "short_description": "Cette spatule grattoir en acier inoxydable avec manche en bois est idéale pour vos préparations culinaires."
+     "name": "Moulin professionel Pour Épices et cafe & Céréales 150g",
+     "description": "Broyeur Moulin électrique en acier inoxydable pour café ,épice et herbe. Lame acéré et aiguisé atteignant une vitesse de rotation de 3000 rotation par minute. Pouvant broyer toute sorte grains en poudre fine a 70/300 mesh. Minuterie intégré afin d’ajuster la finesse de broyage en réglant le temps. Le corps de la machine peut être réglé pour se balancer ce qui est utile pour verser le contenu en poudre facilement au lieu de le ramasser. Système d’arrêt automatique si le couvercle de l’appareil est ouvert alors qu’il est en marche. Le couvercle est doté d’une couche en silicone afin permettre une fermeture hermétique sans fuite\n\nBroyeur électrique professionnel 150g Moteur très puissant 1500 wattLe moulin à bascule est plus pratique que le type de supportVous pouvez balancer le corps de la machine pour verser la poudre au lieu de ramasser tout le moulinVerrouillage stable et sécurisé et joli anneau d’étanchéité empêchant efficacement les éclaboussures de poudre",
+     "short_description": "Broyeur Moulin électrique en acier inoxydable pour café ,épice et herbe. Lame acéré et aiguisé atteignant une vitesse de rotation de 3000 rotation par minute."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589508-61_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057911-2_1.jpg"
    ]
   },
   {
-   "sku": "doshift-46831",
-   "price": 99,
+   "sku": "doshift-54871",
+   "price": 889,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -143,51 +183,13 @@
    ],
    "locales": {
     "fr": {
-     "name": "Râpe pour Ail, Gingembre & Fruits – Éplucheur Acier Inoxydable Argent",
-     "description": "Cette râpe en acier inoxydable est idéale pour râper l’ail, le gingembre, les noix et plus encore avec facilité.\n\nSa lame de râpe lisse et résistante permet de couper des copeaux fins et parfaitement dimensionnés avec un minimum d’effort.\n\nElle est facile à utiliser, à nettoyer et à ranger grâce à son œillet suspendu pratique.\n\nUn outil indispensable pour les cuisiniers qui aiment cuisiner des plats savoureux et aromatiques.",
-     "short_description": "Cette râpe en acier inoxydable est idéale pour râper l’ail, le gingembre, les noix et plus encore avec facilité."
+     "name": "Moulin à épices en acier inoxydable 500G",
+     "description": "Ce Moulin à épices électrique 500 G multi-usage est l’outil idéal pour broyer avec rapidité et précision tous vos épices, herbes, graines , et fruits secs …Fabriqué en inox alimentaire résistant à la corrosion ;Compartiment de moulure en inox doté de 3 lames amovibles facile à nettoyer ;Moteur puissant avec fil de cuivre 100% résistant aux hautes températures;Deux verrous empêchent le couvercle hermétique de s’ouvrir accidentellement pendant que le moulin fonctionne.Bloc moteur avec système de d’oscillation 270° et poignée antidérapante ;Base en inox avec pieds antidérapants : pour une meilleure stabilité lors d’utilisation ;Minuterie intégrée vous permet de régler la durée de fonctionnement ;Intercepteur d’initialisation en cas de surcharge ; + Accessoires cadeaux : Tamis en inox et brosse en bois\n\nFabriqué en inox alimentaire résistant à la corrosion ;Compartiment de moulure en inox doté de 3 lames amovibles facile à nettoyer ;Moteur puissant avec fil de cuivre 100% résistant aux hautes températures;Deux verrous empêchent le couvercle hermétique de s’ouvrir accidentellement pendant que le moulin fonctionne.Bloc moteur avec système de d’oscillation 270° et poignée antidérapante ;Base en inox avec pieds antidérapants : pour une meilleure stabilité lors d’utilisation ;Minuterie intégrée vous permet de régler la durée de fonctionnement ;Intercepteur d’initialisation en cas de surcharge ;",
+     "short_description": "Ce Moulin à épices électrique 500 G multi-usage est l’outil idéal pour broyer avec rapidité et précision tous vos épices, herbes, graines , et fruits secs …Fabriqué en inox alimentaire résistant à la corrosion…"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589491-59_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46821",
-   "price": 125,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Souris sans fil Double connexion Bluetooth et 2.4GHz Rechargeable 1600 DPI Réglable optique sans fil 6 boutons",
-     "description": "Découvrez la souris sans fil X2, un accessoire ergonomique et performant conçu pour offrir une précision optimale et une connexion polyvalente. Grâce à sa double connectivité Bluetooth et 2.4 GHz, elle s’adapte parfaitement à vos besoins, que ce soit pour le travail ou le gaming. Son design élégant et son port de charge Type-C garantissent une utilisation fluide et moderne. Caractéristiques PrincipalesDouble mode de connexion : Compatible avec 2.4 GHz (via dongle USB) et Bluetooth, permettant une grande flexibilité d’utilisation.Résolution ajustable : 800/1200/1600 DPI, offrant un réglage précis pour toutes les tâches.Charge rapide Type-C : Batterie rechargeable de 600mAh, assurant une longue autonomie.Moteur optique avancé : Une réactivité améliorée pour une utilisation fluide et sans latence.Ergonomie et design : Compacte et légère, idéale pour un usage quotidien et les déplacements.Durabilité : Conçue pour supporter 3 à 5 millions de clics, garantissant une longévité optimale. Spécifications TechniquesModèle : X2 MouseMéthode de connexion : 2.4GHz Wireless & BluetoothRésolution : 800 / 1200 / 1600 DPIInterface de charge : Type-CTechnologie de suivi : Capteur optiqueDistance de fonctionnement : 10 mètresAlimentation : Batterie lithium rechargeable 600mAhConsommation de courant : 10mA Options de Couleur2.4G Wireless + Bluetooth : Gris Pourquoi Choisir cette Souris ? Connexion ultra-rapide et stable grâce au double mode Bluetooth et 2.4 GHz. Grande autonomie avec une batterie rechargeable longue durée.",
-     "short_description": "Découvrez la souris sans fil X2, un accessoire ergonomique et performant conçu pour offrir une précision optimale et une connexion polyvalente."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589431-57_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46811",
-   "price": 90,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Set de Trois 3 Spatules en bambou + Joli Support 3 Cuillères en Bois",
-     "description": "Set de cuisine sur support, en bois – Tout pour la cuisine La tradition d’utilisation de matériaux naturels remonte à de nombreuses années et est devenue encore plus évidente aujourd’hui.L’ensemble culinaire est en bois – matériau de haute qualité et sûr. Le bambou est idéal pour fabriquer des ustensiles de cuisine. Des ensembles d’ustensiles de cuisine en bois seront un excellent cadeau pour l’hôtesse. Pour obtenir la meilleure surface possible, tous les produits subissent une préparation minutieuse, après quoi ils sont recouverts de cire ou d’huile.",
-     "short_description": "Set de cuisine sur support, en bois – Tout pour la cuisine La tradition d’utilisation de matériaux naturels remonte à de nombreuses années et est devenue encore plus évidente aujourd’hui.L’ensemble culinaire est en bois…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589405-55_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/1768057908-1_1.jpg"
    ]
   }
  ]

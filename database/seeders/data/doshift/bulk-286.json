@@ -1,162 +1,103 @@
 {
  "products": [
   {
-   "sku": "doshift-44512",
+   "sku": "doshift-45370",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Serviettes de bain et bonnet de bain de qualité supérieure(Couleur selon disponibilité)*",
+     "description": "Les serviettes de bain pour femmes sont fabriquées en microfibre super douce et offrent une sensation de douceur au toucher.\n\nElles absorbent l’eau supplémentaire de votre corps après la douche.\n\nLa serviette pour cheveux peut absorber l’eau de vos cheveux et les garder secs.\n\nLe bandeau de bain est réglable et dispose d’une fermeture à pression et d’un dessus élastique.\n\nIl est donc facile à porter et à ajuster à votre corps.\n\nLa serviette pour cheveux peut envelopper vos cheveux afin qu’ils ne mouillent pas vos vêtements.\n\nLa conception des bords de l’emballage est exquise, dense sur mesure, de haute qualité et durable.\n\nLa conception de nœud papillon convient au style féminin simple, élégant et charmant.\n\nLe produit est doux, confortable et protège votre peau.\n\nIl a un fort effet d’absorption d’eau.\n\nLes serviettes peuvent être portées comme des vêtements.\n\nLe produit est idéal pour les voyages ou la maison.\n\nIl est fabriqué en microfibre.\n\nSa couleur est marron.\n\nIl pèse 0,3 kg.\n\nIl s’agit de serviettes et d’un bonnet.\n\nLa matière principale est la microfibre.",
+     "short_description": "Les serviettes de bain pour femmes sont fabriquées en microfibre super douce et offrent une sensation de douceur au toucher."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357759-329_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45349",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Planche à découper fruits légumes pain",
+     "description": "Cette planche à découper ronde en plastique est conçue pour la préparation des fruits.\n\nElle est faite de plastique de haute qualité, résistante à l’usure et durable.\n\nLa surface lisse est facile à nettoyer.\n\nL’ensemble comprend également d’autres accessoires de cuisine pour la découpe des légumes et du pain.\n\nLa planche à découper est verte, mesure 31cmx35cmx37cm et a une épaisseur de 8mm.\n\nElle pèse 0.3kg.\n\nLa matière principale est le plastique.",
+     "short_description": "Cette planche à découper ronde en plastique est conçue pour la préparation des fruits."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357719-324_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45341",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Séchoir Pliable avec Clips – Idéal pour Chaussettes et Sous-vêtements (Couleur selon disponibilité)",
+     "description": "Optimisez le séchage de vos petits vêtements avec ce séchoir pliable équipé de 18 clips. Conçu pour une utilisation en intérieur comme en extérieur, il résiste au vent grâce à son design sécurisé. Compact et facile à ranger, il est parfait pour sécher chaussettes, sous-vêtements, mouchoirs et autres petits textiles.",
+     "short_description": "Optimisez le séchage de vos petits vêtements avec ce séchoir pliable équipé de 18 clips. Conçu pour une utilisation en intérieur comme en extérieur, il résiste au vent grâce à son design sécurisé."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357704-322_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45321",
    "price": 159,
    "stock": 10,
    "status": 0,
    "categories": [
-    12
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Attelle de Poignet Réglable avec Sangles de Maintien – Support Confortable et Ajustable",
-     "description": "Cette attelle de poignet réglable est conçue pour offrir un maintien stable et confortable au quotidien. Grâce à sa structure renforcée et à ses sangles auto-agrippantes, elle épouse correctement la forme du poignet afin d’améliorer le soutien et la stabilité lors des activités de tous les jours.\n\nSon design ergonomique permet un ajustement personnalisé selon le niveau de serrage souhaité. Fabriquée dans une matière résistante et agréable à porter, elle aide à maintenir le poignet tout en laissant une bonne liberté de mouvement aux doigts. Idéale pour un usage domestique, sportif ou professionnel, cette attelle convient aux personnes recherchant un support pratique, simple à mettre en place et réutilisable.\n\nCaractéristique\nDétail\n\nType de produit\nAttelle de poignet\n\nUtilisation\nMaintien et soutien du poignet\n\nSystème de fermeture\nSangles auto-agrippantes réglables\n\nNombre de sangles\n3 sangles principales\n\nMatière\nTissu renforcé et respirant\n\nConception\nAjustable et ergonomique\n\nCouleur\nNoir\n\nTaille\nAjustable\n\nAvantages\nBon maintien, confort d’utilisation, réglage facile\n\nPublic\nUsage adulte\n\nRéutilisable\nOui\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Cette attelle de poignet réglable est conçue pour offrir un maintien stable et confortable au quotidien."
+     "name": "Tondeuse capillaire professionnelle HTC AT-229 : Sculptez votre style avec exactitude",
+     "description": "La tondeuse professionnelle HTC AT-229 excelle en performance et précision pour des coupes variées, grâce à son moteur puissant, sa lame en acier inoxydable et ses peignes interchangeables. Son design ergonomique assure confort et maniabilité pour un usage professionnel ou personnel.\n\nCaractéristiques :\n\nPerformance et précision de coupe : Moteur puissant et lame en acier inoxydable pour des coupes nettes et uniformes.\n\nPolyvalence des styles : Différents peignes interchangeables pour réaliser une variété de coupes avec précision.\n\nConfort et maniabilité : Design ergonomique pour une prise en main agréable et une manipulation facile, même prolongée.",
+     "short_description": "La tondeuse professionnelle HTC AT-229 excelle en performance et précision pour des coupes variées, grâce à son moteur puissant, sa lame en acier inoxydable et ses peignes interchangeables."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-10T184902.714.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357677-318_1.jpg"
    ]
   },
   {
-   "sku": "doshift-44510",
-   "price": 139,
+   "sku": "doshift-45316",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    11
    ],
    "locales": {
     "fr": {
-     "name": "Pince de Greffage de Jardin 3 en 1 avec Lames Interchangeables",
-     "description": "Facilitez vos travaux de greffe avec cette pince de greffage pratique et précise, conçue pour réaliser des coupes nettes et régulières sur vos plantes, arbustes et arbres fruitiers. Grâce à son système ergonomique à ressort, elle offre une prise en main confortable et réduit l’effort pendant l’utilisation. Livrée avec plusieurs lames interchangeables, elle permet d’adapter la coupe selon vos besoins pour améliorer l’assemblage entre porte-greffe et greffon.\n\nCaractéristique\nDétail\n\nType de produit\nPince de greffage\n\nFonction\nCoupe et greffage de plantes\n\nUtilisation\nJardinage, arboriculture, entretien des plantes\n\nMatière\nMétal et plastique robuste\n\nCouleur\nNoir et orange\n\nAccessoires inclus\nLames interchangeables\n\nPrise en main\nErgonomique\n\nRéférence Doshift\nAA8BB599",
-     "short_description": "Facilitez vos travaux de greffe avec cette pince de greffage pratique et précise, conçue pour réaliser des coupes nettes et régulières sur vos plantes, arbustes et arbres fruitiers."
+     "name": "Huile eelhoe pour la croissance des cheveux",
+     "description": "Le sérum de traitement pour la repousse des cheveux peut réparer et activer les follicules pileux, favorisant ainsi l’absorption des nutriments et la croissance des cheveux.\n\nIl prévient également la perte de cheveux en renforçant les racines des cheveux.\n\nLe sérum nourrit les follicules pileux et le cuir chevelu, rendant les cheveux doux, lisses et brillants.\n\nIl contient des ingrédients naturels, sûrs et doux, adaptés à un usage quotidien.\n\nLe sérum pénètre profondément dans la racine du follicule pileux et active les follicules dormants, régénérant efficacement les cheveux.\n\nIl s’agit d’une huile de massage pour la croissance des cheveux de couleur noire, facile à appliquer et adaptée à tous les types de cheveux.\n\nIl est sans produits chimiques, disponible en format 20ML et est fabriqué en ABS.\n\nSon poids est de 0.3 kg.",
+     "short_description": "Le sérum de traitement pour la repousse des cheveux peut réparer et activer les follicules pileux, favorisant ainsi l’absorption des nutriments et la croissance des cheveux."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-01T162358.010.png"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357669-317_1.jpg"
    ]
   },
   {
-   "sku": "doshift-44485",
-   "price": 80,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Rasoir Anti-Bouloche Manuel – Nettoyeur de Peluches & Poils d’Animaux",
-     "description": "Redonnez une seconde vie à vos vêtements, tapis et textiles avec ce rasoir anti-bouloche manuel haute efficacité. Conçu avec une lame en cuivre pur durable et un manche ergonomique en bois, il élimine facilement peluches, poils d’animaux, cheveux et résidus sans abîmer les tissus. Compact, léger et sans batterie, c’est l’outil idéal pour un nettoyage rapide à la maison ou en déplacement, tout en respectant l’environnement.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nRasoir anti-bouloche manuel / Lint remover\n\nMatériau de la lame\nCuivre pur, durable et résistant à l’usure\n\nManche\nBois ergonomique, antidérapant\n\nCouleur\nJaune\n\nFonction\nÉlimination des peluches, bouloches, poils d’animaux\n\nUtilisation\nVêtements, manteaux, canapés, tapis, rideaux, couvertures, meubles\n\nAlimentation\nAucune batterie requise (écologique et économique)\n\nEfficacité\nNettoyage rapide sans résidus collants\n\nPortabilité\nLéger, compact, facile à transporter\n\nAvantage principal\nRéutilisable, écologique et longue durée\n\nRéférence-doshift\nAA1BB599",
-     "short_description": "Redonnez une seconde vie à vos vêtements, tapis et textiles avec ce rasoir anti-bouloche manuel haute efficacité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_xg4hutxg4hutxg4h-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-44480",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Détendeur de gaz à basse pression, Petite Bouteille 6KGS",
-     "description": "Détendeur Gaz de Haute Qualité, conçu pour répondre à tous vos besoins en matière de régulation de pression pour les petites bouteilles de gaz de 6KGS. Que vous soyez un passionné de camping, un professionnel de l’industrie ou tout simplement à la recherche d’un moyen sûr et efficace de gérer la pression de votre gaz, ce détendeur est la solution idéale.Fiabilité inégalée : Notre détendeur est fabriqué avec des matériaux de haute qualité et une ingénierie de pointe pour garantir une fiabilité exceptionnelle. Vous pouvez compter sur lui pour réguler la pression de votre gaz de manière précise et stable, quelle que soit la situation.Sécurité avant tout : La sécurité est notre priorité absolue.",
-     "short_description": "Détendeur Gaz de Haute Qualité, conçu pour répondre à tous vos besoins en matière de régulation de pression pour les petites bouteilles de gaz de 6KGS."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764355434-121_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44475",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Parapluie Pliable Compact avec Housse de Rangement",
-     "description": "Restez protégé contre la pluie avec ce parapluie pliable compact, pratique et élégant, idéal pour un usage quotidien. Léger et facile à transporter, il se glisse aisément dans un sac, une voiture ou un tiroir grâce à son format compact et sa housse assortie.\n\nCaractéristiques\nDétails\n\nType\nParapluie pliable compact\n\nUtilisation\nProtection pluie / intempéries\n\nMatière toile\nTissu imperméable\n\nStructure\nArmature renforcée\n\nFormat\nPliable, portable\n\nAccessoire inclus\nHousse de rangement assortie\n\nPoignée\nErgonomique\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Restez protégé contre la pluie avec ce parapluie pliable compact, pratique et élégant, idéal pour un usage quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Design-sans-titre-2026-04-12T151216.885-1-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-44465",
-   "price": 101,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    12
-   ],
-   "locales": {
-    "fr": {
-     "name": "Genouillère de Compression Sportive Ajustable – Maintien et Protection du Genou",
-     "description": "Améliorez votre confort et protégez vos articulations avec cette genouillère de compression haute qualité, conçue pour offrir un soutien optimal pendant les activités sportives et au quotidien. Fabriquée en tissu élastique respirant, elle assure un maintien ferme tout en restant confortable et agréable à porter pendant de longues heures.\n\nCaractéristiques\nDétails\n\nType de produit\nGenouillère de maintien compressive\n\nMatière\nTissu élastique respirant\n\nFonction\nSoutien, compression et stabilisation du genou\n\nDesign\nErgonomique avec renfort rotulien\n\nUtilisation\nSport, fitness, marche, récupération\n\nTaille\nAjustable / extensible\n\nCouleur\nNoir\n\nEntretien\nLavable et réutilisable\n\nRéférence Doshift\nAA4BB599",
-     "short_description": "Améliorez votre confort et protégez vos articulations avec cette genouillère de compression haute qualité, conçue pour offrir un soutien optimal pendant les activités sportives et au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-04-15T181913.296.png"
-   ]
-  },
-  {
-   "sku": "doshift-42976",
-   "price": 149,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    2
-   ],
-   "locales": {
-    "fr": {
-     "name": "Support pour tablette – Non spécifié – Pliable – Ajustable – Ergonomique – Métal ABS",
-     "description": "Support polyvalent pour tablette, ordinateur portable et téléphone, pliable et ajustable. Idéal pour le travail, l’étude ou le divertissement, il offre confort et efficacité. Fabriqué en métal ABS, il garantit stabilité et durabilité tout en étant facilement transportable.",
-     "short_description": "Support polyvalent pour tablette, ordinateur portable et téléphone, pliable et ajustable. Idéal pour le travail, l’étude ou le divertissement, il offre confort et efficacité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346444-187_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44423",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    5
-   ],
-   "locales": {
-    "fr": {
-     "name": "Ampoule Décorative Bluetooth avec Haut-Parleur Intégré et Télécommande",
-     "description": "Peut être contrôlé via un smartphone ou une tablette en connectant le Bluetooth, puis vous pouvez l’utiliser pour jouer votre musique préférée et vous détendre.Vous pouvez utiliser la télécommande 24 touches incluse pour changer les couleurs rvb et les différents modes de notre ampoule led, très facile à utiliser.Notre ampoule Led est conçue pour s’adapter à la prise standard E27, très facile à installer.Excellente qualité, design créatif et à la mode, protection de l’environnement, faible consommation d’énergie et longue durée de vie.Lumière douce et colorée et belle musique, vous donnant une vie merveilleuse. Parfait pour une utilisation dans votre chambre, placard, armoire, couloir, atelier, sous sol, garage, toit et ainsi de suite.",
-     "short_description": "Peut être contrôlé via un smartphone ou une tablette en connectant le Bluetooth, puis vous pouvez l’utiliser pour jouer votre musique préférée et vous détendre.Vous pouvez utiliser la télécommande 24 touches incluse…"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764355339-109_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-42966",
-   "price": 189,
+   "sku": "doshift-45277",
+   "price": 269,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -164,32 +105,89 @@
    ],
    "locales": {
     "fr": {
-     "name": "Organisateur de voiture pour lunettes, cartes et documents (Couleur selon disponibilité)",
-     "description": "Le support de rangement pour pare-soleil de voiture est fabriqué en cuir de haute qualité, résistant à la saleté et à l’usure.\n\nIl est facile à installer grâce à sa base solide et ses deux bandes élastiques ajustables.\n\nIl possède une grande capacité avec 4 emplacements pour cartes, 1 poche en filet, 1 poche pour téléphone portable, 1 étui à crayons, 1 porte-lunettes et 1 portefeuille zippé.\n\nLe sac de rangement est léger et peut organiser les petits objets dans votre voiture.\n\nIl peut stocker des cartes, permis de conduire, lunettes de soleil, stylos, notes, téléphones portables, clés, portefeuilles, documents, papier, etc.\n\nIl est de couleur noire, en cuir, pèse 0.3 kg et est un modèle pochette.",
-     "short_description": "Le support de rangement pour pare-soleil de voiture est fabriqué en cuir de haute qualité, résistant à la saleté et à l’usure."
+     "name": "Protection de moyeu décorative pour jantes (Couleur selon disponibilité)",
+     "description": "Ces anneaux de protection pour jantes sont faciles à installer, sans nécessiter d’outils spéciaux.\n\nIls sont disponibles dans une variété de tailles, de 12 à 24 pouces, et s’adaptent à différents types de véhicules.\n\nLeur design discret et élégant s’intègre bien avec les jantes de voiture, ajoutant une touche de protection sans affecter l’esthétique du véhicule.\n\nCes anneaux protègent les jantes des dommages et prolongent leur durée de vie.\n\nIls servent également de guide visuel pour les conducteurs, les aidant à estimer la distance entre leur véhicule et les obstacles.\n\nIls sont faits d’ABS et sont disponibles en noir.\n\nLe poids de l’ensemble est de 0.3 kg.",
+     "short_description": "Ces anneaux de protection pour jantes sont faciles à installer, sans nécessiter d’outils spéciaux."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764346427-185_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357596-308_1.jpg"
    ]
   },
   {
-   "sku": "doshift-44412",
-   "price": 249,
+   "sku": "doshift-45243",
+   "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    4
+    3
    ],
    "locales": {
     "fr": {
-     "name": "studio photographie avec Double bande Led Mini Studio Boite à lumière Lightbox(Couleur selon disponibilité)",
-     "description": "1. La boîte à lumière de photographie est conçue pour les passionnés de photographie, les artisans, les artistes, les vendeurs d’etsy et les autres vendeurs en ligne, les professionnels et les annonceurs de produits. Light Box Studio permet de photographier rapidement et facilement de petits produits tels que bijoux, accessoires, jouets, montres, gadgets et autres objets.3. Assemblez votre propre studio photo n’importe où en quelques minutes. Vous pouvez déplier ce studio à LED lightbox et le placer sur n’importe quelle surface pour obtenir le fond parfait pour la photographie professionnelle de petits articles, en prenant des photos pour les produits.4. Conception de la structure de circuit magnétique pliante portable, plus pratique à installer et à transporter, lumière LED intégrée, fournissant une lumière moyenne et évitant les ombres et les reflets de vos photos.5. un voyant intégré et un câble USB vous devez préparer un chargeur USB pour l’alimenter..Mot Clé:mini studio, backround, appareil photo, canon, studio photographie, Lightbox, Photostudio,",
-     "short_description": "1. La boîte à lumière de photographie est conçue pour les passionnés de photographie, les artisans, les artistes, les vendeurs d’etsy et les autres vendeurs en ligne, les professionnels et les annonceurs de produits."
+     "name": "Tabouret Portable De Pêche Chaise De Pêche Multifonctionnel, Chaise De Camping De Plage",
+     "description": "Facile à transporter et à ranger.La chaise en acier inoxydable est durable pour une utilisation intérieure et extérieure.Peut être plié facilement pour économiser plus d’espace.Capacité de charge maximale: 200 kg 440lb",
+     "short_description": "Facile à transporter et à ranger.La chaise en acier inoxydable est durable pour une utilisation intérieure et extérieure.Peut être plié facilement pour économiser plus d’espace.Capacité de charge maximale: 200 kg 440lb"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764355315-106_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357430-301_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45233",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mousseur à Lait Électrique Portable – Sans Fil & Polyvalent",
+     "description": "Préparez facilement des boissons dignes d’un café professionnel avec ce mousseur à lait électrique portable. Compact, léger et puissant, il permet d’obtenir une mousse onctueuse et homogène en quelques secondes. Idéal pour le café, le cappuccino, le latte, le matcha ou encore le chocolat chaud, il est parfait pour une utilisation à la maison, au bureau ou en déplacement. Son design ergonomique et son fonctionnement sans fil en font un accessoire pratique et indispensable pour les amateurs de boissons chaudes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nMousseur à lait électrique portable\n\nFonctionnement\nSans fil – rechargeable USB-C\n\nPerformance\nMousse riche, rapide et homogène\n\nUtilisation\nCafé, latte, cappuccino, matcha, chocolat chaud\n\nMatériau\nAcier inoxydable + plastique ABS\n\nDesign\nCompact, léger et ergonomique\n\nNettoyage\nFacile – rinçage rapide à l’eau\n\nCouleur\nVert menthe / Bleu clair (selon modèle)\n\nAvantage clé\nMultifonction & portable\n\nRéférence DoShift\nAA2BB799",
+     "short_description": "Préparez facilement des boissons dignes d’un café professionnel avec ce mousseur à lait électrique portable. Compact, léger et puissant, il permet d’obtenir une mousse onctueuse et homogène en quelques secondes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_y4rr6cy4rr6cy4rr-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-45184",
+   "price": 289,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventouse en verre professionnelles avec poignée robuste pour levage",
+     "description": "La ventouse est dotée d’un mécanisme de succion puissant.\n\nElle est conçue pour s’adapter aux supports injustes ou aux surfaces inégales.\n\nL’outil de sol intégré facilite la manipulation et l’application.\n\nConvient à la pose de carreaux de céramique sur les sols et les murs intérieurs, ainsi que pour les applications de tension de carrelage.\n\nFabriquée à partir de matériaux de haute qualité, elle est durable et résistante à l’usure.\n\nCouleur: noir/gris.\n\nLongueur totale: 380mm.\n\nDisque à vide diamètre: 120mm.\n\nPoids: 0.3kg.\n\nMatière principale: fond.",
+     "short_description": "La ventouse est dotée d’un mécanisme de succion puissant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357056-273_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-45170",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Balance compacte avec calculateur de prix, pesée précise pour usage quotidien polyvalent.",
+     "description": "Mini balance avec calculatrice intégrée, idéale pour un pesage quotidien précis et polyvalent.\n\nCaractéristiques:\n\nPesée précise jusqu’à plusieurs kilogrammes\n\nFonction calculatrice de prix intégrée\n\nDesign compact et portable\n\nÉcran clair pour une lecture facile\n\nUtilisation simple et rapide",
+     "short_description": "Mini balance avec calculatrice intégrée, idéale pour un pesage quotidien précis et polyvalent."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764357030-269_1.jpg"
    ]
   }
  ]

@@ -1,68 +1,8 @@
 {
  "products": [
   {
-   "sku": "doshift-51440",
-   "price": 159,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Enseigne Lumineuse TAXI – Signalisation Professionnelle pour Véhicule",
-     "description": "Cette enseigne lumineuse TAXI est conçue pour offrir une identification immédiate et professionnelle de votre véhicule, de jour comme de nuit. Grâce à son éclairage puissant et homogène, elle améliore la visibilité du taxi dans la circulation urbaine et renforce la confiance des clients. Facile à installer sur le toit du véhicule, elle est idéale pour les chauffeurs professionnels souhaitant un service clair, fiable et conforme aux usages du transport urbain.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nEnseigne lumineuse de toit pour taxi\n\nMarquage\nTEXTE « TAXI » rouge sur fond blanc\n\nVisibilité\nHaute visibilité de jour et de nuit\n\nÉclairage\nLumineux et homogène\n\nUtilisation\nIdentification claire du véhicule taxi\n\nInstallation\nSimple et rapide sur le toit du véhicule\n\nAlimentation\nÉlectrique (via véhicule)\n\nMatériau\nPlastique résistant et durable\n\nCouleur\nblanc avec inscription rouge\n\nUsage\nTaxi urbain, transport professionnel\n\nRéférence-doshift\nAA4BB599",
-     "short_description": "Cette enseigne lumineuse TAXI est conçue pour offrir une identification immédiate et professionnelle de votre véhicule, de jour comme de nuit."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-22-dec.-2025-15_47_26-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-51434",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Enseigne Lumineuse TAXI – Signalisation Professionnelle pour Véhicule",
-     "description": "Cette enseigne lumineuse TAXI est conçue pour offrir une identification immédiate et professionnelle de votre véhicule, de jour comme de nuit. Grâce à son éclairage puissant et homogène, elle améliore la visibilité du taxi dans la circulation urbaine et renforce la confiance des clients. Facile à installer sur le toit du véhicule, elle est idéale pour les chauffeurs professionnels souhaitant un service clair, fiable et conforme aux usages du transport urbain.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nEnseigne lumineuse de toit pour taxi\n\nMarquage\nTEXTE « TAXI » noir sur fond jaune\n\nVisibilité\nHaute visibilité de jour et de nuit\n\nÉclairage\nLumineux et homogène\n\nUtilisation\nIdentification claire du véhicule taxi\n\nInstallation\nSimple et rapide sur le toit du véhicule\n\nAlimentation\nÉlectrique (via véhicule)\n\nMatériau\nPlastique résistant et durable\n\nCouleur\nJaune avec inscription noire\n\nUsage\nTaxi urbain, transport professionnel\n\nRéférence-doshift\nAA6BB599",
-     "short_description": "Cette enseigne lumineuse TAXI est conçue pour offrir une identification immédiate et professionnelle de votre véhicule, de jour comme de nuit."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-22-dec.-2025-15_27_46-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-51222",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tapis de Sol Automobile Sur Mesure – Protection Totale & Ajustement Parfait",
-     "description": "Offrez à l’intérieur de votre véhicule une protection optimale avec ce tapis de sol automobile sur mesure. Conçu pour s’adapter parfaitement à votre habitacle, il protège efficacement contre l’eau, la boue, la poussière et les saletés du quotidien. Son design robuste et élégant assure sécurité, confort et durabilité, tout en facilitant l’entretien pour garder un intérieur propre en toute circonstance.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTapis de sol automobile sur mesure\n\nMatériau\nTPE premium (Thermoplastique)\n\nÉtanchéité\n100 % étanche\n\nParois\nParois relevées pour retenir liquides et saletés\n\nSurface\nAntidérapante, reste bien en place\n\nProtection\nContre l’eau, la boue, la poussière et l’usure\n\nEntretien\nFacile à nettoyer (lavage à l’eau ou chiffon)\n\nOdeur\nSans odeur\n\nCompatibilité\nAdaptation parfaite selon le modèle du véhicule\n\nUtilisation\nUsage quotidien, urbain et routier\n\nDurabilité\nRésistant à l’usure et aux variations de température\n\nRéférence-doshift\nAA9BB599",
-     "short_description": "Offrez à l’intérieur de votre véhicule une protection optimale avec ce tapis de sol automobile sur mesure."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-20-dec.-2025-17_40_10-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-51182",
-   "price": 79,
+   "sku": "doshift-53984",
+   "price": 59,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -71,76 +11,158 @@
    ],
    "locales": {
     "fr": {
-     "name": "Brosse Auto-Nettoyante pour Animaux – Pelage Doux & Entretien Facile",
-     "description": "Offrez à votre animal un moment de soin agréable avec cette brosse auto-nettoyante conçue pour chiens et chats. Grâce à ses picots souples et flexibles, elle élimine efficacement les poils morts, la poussière et les impuretés tout en respectant la peau sensible de votre compagnon. Son design ergonomique assure une prise en main confortable et un brossage sans effort, transformant le toilettage en un véritable moment de bien-être. Facile à nettoyer et durable, elle contribue également à garder votre maison propre en réduisant la chute des poils.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBrosse auto-nettoyante pour animaux\n\nUtilisation\nChiens et chats, tous types de pelage\n\nFonction\nÉlimination des poils morts et impuretés\n\nPicots\nSouples et doux pour la peau\n\nConfort\nMassage agréable, sans douleur\n\nDesign\nErgonomique et léger\n\nEntretien\nFacile à nettoyer à l’eau\n\nMatériau\nPlastique durable et résistant\n\nAvantage\nRéduit la chute des poils dans la maison\n\nRéférence-doshift\nAA1BB599",
-     "short_description": "Offrez à votre animal un moment de soin agréable avec cette brosse auto-nettoyante conçue pour chiens et chats."
+     "name": "Chapelet (Tasbih) Élégant – Sérénité & Dévotion",
+     "description": "Ce chapelet (Tasbih) raffiné est conçu pour accompagner vos moments de dhikr, méditation et prière avec sérénité et concentration. Fabriqué avec des perles soigneusement polies, il offre une prise en main douce et agréable. Son pompon décoratif élégant et ses finitions soignées en font un accessoire spirituel à la fois traditionnel et esthétique, idéal pour un usage quotidien ou comme cadeau significatif.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nChapelet / Tasbih\n\nUsage\nDhikr, prière, méditation\n\nNombre de perles\n33 perles (format courant)\n\nMatériau des perles\nPerles lisses finition brillante\n\nCouleur\nMarron foncé\n\nFinition\nPompon décoratif avec élément doré\n\nPrise en main\nDouce, confortable et équilibrée\n\nStyle\nClassique & élégant\n\nPublic\nHomme / Unisexe\n\nOccasion\nUsage personnel, cadeau religieux\n\nRéférence-doshift\nAA0BB699",
+     "short_description": "Ce chapelet (Tasbih) raffiné est conçu pour accompagner vos moments de dhikr, méditation et prière avec sérénité et concentration."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-20-dec.-2025-16_06_40-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/d44cd66a-7cf0-43c0-865f-41e30b6c138e.jpg"
    ]
   },
   {
-   "sku": "doshift-51173",
-   "price": 79,
+   "sku": "doshift-53945",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
+    2,
     3,
-    11
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Brosse Massante Manuelle pour Cuir Chevelu",
-     "description": "Transformez votre routine capillaire avec cette brosse massante pour cuir chevelu, conçue pour faciliter le lavage et répartir le shampoing sur l’ensemble de la chevelure. Ses picots souples massent délicatement le cuir chevelu tout en aidant à décoller les impuretés et les résidus de produits.\n\nSon manche ergonomique offre une prise en main confortable, même sous la douche. Compacte et légère, elle convient à différents types de cheveux et peut être utilisée sur cheveux secs ou mouillés.\n\nCaractéristique\nDétail\n\nType de produit\nBrosse massante pour cuir chevelu\n\nUtilisation\nLavage, massage et répartition du shampoing\n\nFonctionnement\nManuel\n\nPicots\nSouples et arrondis\n\nPoignée\nErgonomique avec prise en main confortable\n\nMatière\nPlastique transparent et éléments souples\n\nCouleur\nRose et transparent\n\nType de cheveux\nConvient à différents types de cheveux\n\nUtilisation recommandée\nSur cheveux secs ou mouillés\n\nEntretien\nRinçage à l’eau claire après utilisation\n\nContenu du pack\n1 brosse massante\n\nRéférence Doshift\nAA1BB599",
-     "short_description": "Transformez votre routine capillaire avec cette brosse massante pour cuir chevelu, conçue pour faciliter le lavage et répartir le shampoing sur l’ensemble de la chevelure."
+     "name": "Lampe LED Professionnelle de Remplissage pour Photographie & Vidéo – Modèle PF-26",
+     "description": "La lampe LED professionnelle PF-26 est conçue pour offrir un éclairage puissant, homogène et précis aux photographes, vidéastes et créateurs de contenu. Compacte et facile à transporter, elle se fixe directement sur un appareil photo ou un trépied pour améliorer instantanément la qualité des prises de vue. Grâce à ses réglages de luminosité et de température de couleur, ainsi qu’à ses filtres inclus, elle s’adapte parfaitement aux portraits, interviews, vidéos, vlogs et shootings en intérieur comme en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLampe LED de photographie / vidéo\n\nModèle\nPF-26\n\nÉclairage\nLED haute luminosité\n\nRéglages\nLuminosité & température de couleur ajustables\n\nFiltres inclus\nBlanc, jaune, orange\n\nAlimentation\nUSB (pratique et portable)\n\nFixation\nSupport caméra / trépied\n\nUtilisation\nPhoto, vidéo, portrait, interview, vlog\n\nDiffusion\nLumière douce et uniforme\n\nDesign\nCompact et professionnel\n\nTransport\nLéger et facile à transporter\n\nRéférence-doshift\nAA4BB599",
+     "short_description": "La lampe LED professionnelle PF-26 est conçue pour offrir un éclairage puissant, homogène et précis aux photographes, vidéastes et créateurs de contenu."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-08-03T185022.407.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/14e1c079-8174-4b59-afbd-5a964c007259.jpeg"
    ]
   },
   {
-   "sku": "doshift-51190",
-   "price": 83,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Brosse Nettoyante pour Verres et Tasses à Ventouse",
-     "description": "Cette brosse nettoyante innovante est conçue pour laver efficacement les verres, tasses, bouteilles et mugs directement dans l’évier. Grâce à son système de fixation par ventouses puissantes, elle reste parfaitement stable pendant l’utilisation. Ses poils résistants nettoient en profondeur l’intérieur et l’extérieur des verres sans les rayer, garantissant une hygiène optimale au quotidien. Idéale pour la cuisine, les cafés, restaurants ou un usage domestique intensif.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBrosse nettoyante pour verres\n\nFixation\nVentouses puissantes antidérapantes\n\nUtilisation\nVerres, tasses, mugs, bouteilles\n\nFonction\nNettoyage intérieur et extérieur simultané\n\nMatériau\nPlastique ABS + poils résistants\n\nSécurité\nN’abîme pas le verre, sans rayures\n\nInstallation\nSans perçage, fixation directe dans l’évier\n\nEntretien\nLavable à l’eau, séchage rapide\n\nCouleur\nGris et blanc\n\nUsage\nDomestique et professionnel\n\nRéférence-doshift\nAA1BB799",
-     "short_description": "Cette brosse nettoyante innovante est conçue pour laver efficacement les verres, tasses, bouteilles et mugs directement dans l’évier."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/4-2.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-51154",
+   "sku": "doshift-53932",
    "price": 189,
    "stock": 10,
    "status": 0,
    "categories": [
-    6
+    2,
+    3,
+    4,
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Casque Gaming AKZ GM-019 avec Micro Antibruit et LED RGB – Son Clair et Confort Max pour PC et Console",
-     "description": "AKZ\n\nCasque Gaming AKZ GM-019 – Son clair, Micro intégré, LED RGBLe casque AKZ GM-019 offre un son clair et de haute qualité, idéal pour les jeux, la musique ou les appels. Grâce à ses coussins doux, il garantit un confort même lors d’une utilisation prolongée.\n\nÉquipé d’un microphone intégré, il est parfait pour les appels vocaux sur Skype, WhatsApp, Line, Discord et autres plateformes.\n\nIl dispose également de 7 effets lumineux RGB pour une ambiance gaming stylée, ainsi qu’un arceau réglable à 25°, flexible et adapté à toutes les formes de tête.Liberté de mouvement et contrôle du son\n\nLe casque est équipé d’un câble long de 2 mètres, vous offrant une liberté de mouvement totale pendant vos sessions de jeu ou d’écoute.\n\nIl intègre également un contrôle du volume pratique directement sur le câble, pour ajuster le son facilement et rapidement.\n\nType : Casque filaire (Headset)Longueur du câble : 2 mètresContrôle du volume : Oui (intégré sur le câble)Compatibilité : Universelle (PC, consoles, smartphones)Réponse en fréquence : 20 Hz – 20 000 HzSensibilité du microphone : 96 dBÉclairage : 7 couleurs RGBAjustement : Arceau flexible réglable à 25°Confort : Coussinets doux pour une utilisation prolongéeCouleur : NoirUtilisation : Gaming, appels vocaux, musiqueApplications compatibles : Skype, WhatsApp, Discord, Line, etc.",
-     "short_description": "AKZ"
+     "name": "Anneau Lumineux LED Professionnel pour Photographie & Vidéo – Modèle PF-26",
+     "description": "L’anneau lumineux LED professionnel PF-26 est l’outil indispensable pour obtenir un éclairage uniforme, doux et naturel. Conçu pour la photographie, la vidéo, le maquillage, le streaming et les appels vidéo, il améliore instantanément la qualité de l’image en éliminant les ombres. Alimenté par USB, léger et facile à installer, il offre des couleurs ajustables (chaud, froid et mixte) pour s’adapter à tous les environnements et styles de création.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nAnneau lumineux LED\n\nModèle\nPF-26\n\nUtilisation\nPhoto, vidéo, maquillage, streaming, visioconférence\n\nÉclairage\nLED haute qualité\n\nTempérature de couleur\nChaud, froid et mixte\n\nRéglage de lumière\nIntensité ajustable\n\nAlimentation\nUSB (portable et pratique)\n\nSupport téléphone\nInclus\n\nTrépied\nStable et réglable\n\nDiffusion\nLumière douce sans ombre\n\nInstallation\nRapide et simple\n\nDesign\nModerne et professionnel\n\nRéférence-doshift\nAA9BB599",
+     "short_description": "L’anneau lumineux LED professionnel PF-26 est l’outil indispensable pour obtenir un éclairage uniforme, doux et naturel."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1766236959-13_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/01/a3316ec4-07d9-4705-91de-b4b1ea986848.jpeg"
    ]
   },
   {
-   "sku": "doshift-51163",
-   "price": 89,
+   "sku": "doshift-53953",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panneau LED Professionnel pour Photographie & Vidéo – Modèle M160",
+     "description": "Le panneau LED professionnel M160 est conçu pour offrir un éclairage puissant, uniforme et réglable, idéal pour la photographie, la vidéo, le streaming, les visioconférences et la création de contenu. Grâce à sa luminosité et sa température de couleur ajustables, il garantit un rendu naturel et sans ombres. Compact, rechargeable et facile à fixer sur caméra ou trépied, il s’adapte parfaitement aux besoins des créateurs, professionnels comme amateurs.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPanneau LED pour photo & vidéo\n\nModèle\nM160\n\nÉclairage\nLED haute luminosité\n\nRéglages\nLuminosité & température de couleur réglables\n\nBatterie\nBatterie intégrée\n\nAlimentation\nRecharge USB\n\nFiltres inclus\n3 filtres (Blanc, Rose, Orange)\n\nFixation\nSupport caméra / trépied\n\nUtilisation\nPhoto, vidéo, streaming, visioconférence\n\nDiffusion\nLumière douce et homogène\n\nDesign\nCompact, moderne et professionnel\n\nPortabilité\nLéger et facile à transporter\n\nRéférence-doshift\nAA7BB599",
+     "short_description": "Le panneau LED professionnel M160 est conçu pour offrir un éclairage puissant, uniforme et réglable, idéal pour la photographie, la vidéo, le streaming, les visioconférences et la création de contenu."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-02T181126.496.png"
+   ]
+  },
+  {
+   "sku": "doshift-53926",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Projecteur de Travail LED Multifonction Rechargeable – VR-L802",
+     "description": "Le projecteur de travail LED multifonction VR-L802 est conçu pour offrir un éclairage puissant, fiable et polyvalent dans toutes les situations. Idéal pour le bricolage, les réparations automobiles, le camping ou les situations d’urgence, il dispose de plusieurs modes de luminosité, d’un mode flash et d’une batterie rechargeable haute capacité. Portable, robuste et pratique, il peut être utilisé comme lampe de travail, lampe d’appoint ou source d’énergie grâce à sa fonction power bank intégrée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nProjecteur de travail LED\n\nModèle\nVR-L802\n\nÉclairage\nLED haute luminosité\n\nModes\nLuminosité multiple + mode flash\n\nBatterie\n5400 mAh\n\nFonction\nPower Bank intégrée\n\nAlimentation\nRechargeable\n\nPortabilité\nPortable avec poignée / crochet\n\nUtilisation\nAtelier, garage, camping, urgence\n\nInstallation\nPosable ou suspendable\n\nDesign\nRobuste et compact\n\nCouleur\nBleu et noir\n\nRéférence-doshift\nAA10BB599",
+     "short_description": "Le projecteur de travail LED multifonction VR-L802 est conçu pour offrir un éclairage puissant, fiable et polyvalent dans toutes les situations."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/3aa80d1b-9f49-4eee-bb8f-dcd95ae81a43.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-53721",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe LED RGBW Professionnelle pour Photographie & Vidéo – Modèle PM-26",
+     "description": "La lampe RGBW-LED PM-26 est un éclairage de remplissage professionnel conçu pour les créateurs de contenu, photographes, vidéastes et streamers. Grâce à sa technologie RGBW, elle offre une large gamme de couleurs dynamiques ainsi qu’une lumière blanche homogène, idéale pour les prises de vue en studio, les vidéos YouTube, TikTok, Instagram ou les appels professionnels. Son format plat et compact, combiné à une alimentation USB, la rend facile à utiliser partout. La télécommande incluse permet un contrôle précis de la couleur et de la luminosité pour un rendu visuel optimal.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLampe LED de remplissage (Fill Light)\n\nTechnologie\nRGBW-LED\n\nModèle\nPM-26\n\nModes de couleur\nRGB + Blanc\n\nRéglage de luminosité\nOui\n\nTélécommande\nIncluse\n\nAlimentation\nUSB\n\nUtilisation\nPhotographie, vidéo, streaming, réseaux sociaux\n\nFixation\nSupport compatible trépied\n\nDesign\nPlat, compact et léger\n\nCertifications\nFCC, CE, RoHS\n\nRéférence-doshift\nAA18BB099",
+     "short_description": "La lampe RGBW-LED PM-26 est un éclairage de remplissage professionnel conçu pour les créateurs de contenu, photographes, vidéastes et streamers."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_y0yusjy0yusjy0yu-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53715",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panneau LED RGBW PM-26 – Éclairage Photographie Professionnel",
+     "description": "Améliorez instantanément la qualité de vos photos et vidéos grâce au panneau LED RGBW PM-26. Conçu pour la photographie, le streaming, les réseaux sociaux ou la création de contenu, ce panneau lumineux offre un éclairage homogène, puissant et personnalisable.\n\nGrâce à la technologie RGBW, vous pouvez choisir entre lumière blanche naturelle ou effets colorés dynamiques pour créer l’ambiance parfaite. Son format compact et léger permet une utilisation sur bureau, trépied ou support caméra. La télécommande incluse facilite le réglage de la luminosité, des couleurs et des modes d’éclairage à distance.\n\nIdéal pour les créateurs de contenu, photographes, vidéastes, maquilleurs ou e-commerçants souhaitant un rendu professionnel et maîtrisé.\n\nCaractéristique\nDétail\n\nModèle\nPM-26\n\nType\nPanneau LED RGBW\n\nUtilisation\nPhotographie, vidéo, streaming\n\nModes d’éclairage\nBlanc + RGB multicolore\n\nRéglage luminosité\nOui\n\nContrôle\nTélécommande incluse\n\nAlimentation\nUSB\n\nFixation\nSupport rotatif inclus\n\nFormat\nCompact et portable\n\nRéférence-doshift\nAA18BB099",
+     "short_description": "Améliorez instantanément la qualité de vos photos et vidéos grâce au panneau LED RGBW PM-26."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-82-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53554",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lisseur Professionnel VENCOR VR-5628 – Plaques Céramiques jusqu’à 230°C",
+     "description": "Le lisseur professionnel VENCOR VR-5628 est conçu pour offrir un lissage rapide, efficace et respectueux des cheveux. Grâce à ses plaques en céramique de haute qualité, il assure une répartition uniforme de la chaleur, réduit les frisottis et protège la fibre capillaire contre les dommages.Avec une température réglable allant jusqu’à 230°C, ce lisseur s’adapte à tous les types de cheveux, des plus fins aux plus épais. Son chauffage rapide permet une utilisation immédiate, idéale pour un usage quotidien à domicile ou professionnel. Son design ergonomique garantit une prise en main confortable pour un coiffage précis et durable.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nVENCOR\n\nModèle\nVR-5628\n\nType de produit\nLisseur / Fer à lisser\n\nPlaques\nCéramique\n\nTempérature maximale\nJusqu’à 230°C\n\nRéglage de température\nOui\n\nTemps de chauffe\nRapide\n\nTechnologie\nDiffusion homogène de la chaleur\n\nUtilisation\nDomestique & professionnelle\n\nDesign\nErgonomique et moderne\n\nCouleur\nNoir & Violet\n\nAlimentation\nÉlectrique\n\nRéférence-doshift\nAA17BB099",
+     "short_description": "Le lisseur professionnel VENCOR VR-5628 est conçu pour offrir un lissage rapide, efficace et respectueux des cheveux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_hj83ihhj83ihhj83-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-53546",
+   "price": 759,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -148,53 +170,33 @@
    ],
    "locales": {
     "fr": {
-     "name": "Diffuseur d’Ambiance Mikado – Senteur Menthe Fraîche",
-     "description": "Apportez une touche de fraîcheur naturelle à votre intérieur avec ce diffuseur d’ambiance à bâtonnets parfumés. Son parfum menthe fraîche aide à créer une atmosphère agréable, propre et relaxante dans la maison, le bureau, la salle de bain ou la chambre. Son flacon vert élégant s’intègre facilement dans tout type de décoration tout en diffusant progressivement une senteur douce et rafraîchissante.\n\nCaractéristique\nDétail\n\nType de produit\nDiffuseur d’ambiance à bâtonnets\n\nSenteur\nMenthe fraîche\n\nFormat\nFlacon avec bâtonnets diffuseurs\n\nUtilisation\nMaison, bureau, chambre, salle de bain\n\nDiffusion\nProgressive et continue\n\nDesign\nÉlégant et décoratif\n\nAvantage\nParfum frais et agréable\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Apportez une touche de fraîcheur naturelle à votre intérieur avec ce diffuseur d’ambiance à bâtonnets parfumés."
+     "name": "Plancha RUSSELL HOBBS Fiesta 22550-56 – Puissance et Convivialité en Cuisine",
+     "description": "La Plancha Fiesta RUSSELL HOBBS 22550-56 est l’alliée idéale pour réussir tous vos repas, aussi bien en intérieur qu’en extérieur. Dotée d’une grande surface de cuisson de 45 × 25 cm, elle permet de préparer simultanément viandes, poissons, légumes ou fruits de mer pour toute la famille.Grâce à sa puissance élevée de 2400 W, la plancha chauffe rapidement et atteint une température allant jusqu’à 230°C, assurant une cuisson homogène et maîtrisée. Sa plaque amovible et son réservoir à jus amovible facilitent le nettoyage et garantissent une cuisine plus saine en éliminant l’excès de graisses. Un appareil robuste, pratique et performant pour des moments gourmands et conviviaux.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nRussell Hobbs\n\nModèle\n22550-56\n\nGamme\nFiesta\n\nType de produit\nPlancha électrique\n\nSurface de cuisson\n45 × 25 cm\n\nPuissance\n2400 W\n\nTempérature maximale\nJusqu’à 230°C\n\nPlaque\nAmovible\n\nRéservoir à jus\nAmovible\n\nUtilisation\nIntérieur / Extérieur\n\nEntretien\nFacile à nettoyer\n\nCuisson\nRapide et homogène",
+     "short_description": "La Plancha Fiesta RUSSELL HOBBS 22550-56 est l’alliée idéale pour réussir tous vos repas, aussi bien en intérieur qu’en extérieur."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-05-05T171846.825.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_5khqp45khqp45khq-1.png"
    ]
   },
   {
-   "sku": "doshift-51089",
-   "price": 629,
+   "sku": "doshift-53562",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    7
+    8
    ],
    "locales": {
     "fr": {
-     "name": "Kit LED Ambiance Intérieure RGB pour Voiture – Atmosphere Lamp Multicolore",
-     "description": "Transformez l’intérieur de votre voiture avec une ambiance lumineuse moderne et immersive grâce à ce kit LED RGB multicolore. Facile à installer, il apporte une touche premium et futuriste à votre tableau de bord, portes, console centrale et espace des pieds.\n\nProfitez de plusieurs couleurs dynamiques et d’effets lumineux élégants pour personnaliser l’ambiance de votre véhicule selon votre style. Son design discret s’intègre parfaitement à l’intérieur de la voiture pour un rendu moderne et haut de gamme.\n\nIdéal pour les trajets de nuit, les passionnés d’automobile ou simplement pour donner un look unique à votre habitacle.\n\nCaractéristique\nDétail\n\nType\nKit LED ambiance intérieure voiture\n\nÉclairage\nRGB multicolore\n\nInstallation\nFacile et rapide\n\nUtilisation\nTableau de bord, portes, console centrale, espace des pieds\n\nModes lumineux\nMulti-couleurs\n\nCompatibilité\nUniverselle pour la plupart des véhicules\n\nDesign\nFlexible et discret\n\nAvantages\nAmbiance moderne et personnalisée\n\nContenu\nBandes LED, câbles et accessoires d’installation\n\nRéférence Doshift\nAA43BB099",
-     "short_description": "Transformez l’intérieur de votre voiture avec une ambiance lumineuse moderne et immersive grâce à ce kit LED RGB multicolore."
+     "name": "HighPower – Liquide d’Étanchéité Waterproof Multi-Usage",
+     "description": "Le HighPower Waterproof Repair Seal est une solution d’étanchéité liquide puissante et facile à appliquer, conçue pour réparer et protéger durablement contre les fuites. Grâce à sa formule avancée, il pénètre rapidement dans les fissures et crée une barrière imperméable résistante à l’eau, à l’humidité et aux intempéries.Idéal pour les toitures, murs, canalisations, piscines, terrasses ou surfaces fissurées, ce produit est l’allié parfait pour des réparations rapides, propres et efficaces, aussi bien en intérieur qu’en extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nLiquide d’étanchéité waterproof\n\nFonction principale\nRéparation et protection contre les fuites\n\nÉtanchéité\nTrès haute résistance à l’eau\n\nApplication\nFacile au pinceau ou rouleau\n\nTemps de séchage\nRapide\n\nProtection\nDurable et longue durée\n\nUtilisation\nToits, murs, fissures, canalisations, piscines\n\nUsage\nIntérieur & extérieur\n\nCouleur\nBlanc (devient transparent après séchage selon surface)\n\nRésistance\nIntempéries, humidité, éclaboussures",
+     "short_description": "Le HighPower Waterproof Repair Seal est une solution d’étanchéité liquide puissante et facile à appliquer, conçue pour réparer et protéger durablement contre les fuites."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-05-07T205735.076.png"
-   ]
-  },
-  {
-   "sku": "doshift-51075",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Kit de Pédales Antidérapantes Haute Performance pour Voiture",
-     "description": "Optimisez votre expérience de conduite avec ce kit de pédales antidérapantes au design sportif et moderne. Conçu pour offrir une adhérence maximale, un contrôle précis et une réponse instantanée, ce jeu de pédales améliore à la fois la sécurité et le style de l’intérieur de votre véhicule. Idéal pour la conduite quotidienne comme pour une conduite plus dynamique, il garantit confort, stabilité et performance à chaque pression.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nKit de pédales antidérapantes pour voiture\n\nUtilisation\nAccélérateur, frein et embrayage\n\nAdhérence\nSurface antidérapante haute performance\n\nContrôle\nAméliore la précision et la stabilité de conduite\n\nRéactivité\nRéponse instantanée à la pression du pied\n\nMatériau\nAlliage métallique robuste avec inserts antidérapants\n\nDesign\nSportif et moderne\n\nRésistance\nRésistant à l’usure, à la corrosion et aux chocs\n\nCompatibilité\nUniverselle (boîte manuelle ou automatique selon modèle)\n\nInstallation\nFacile et rapide, sans modification majeure\n\nConfort\nRéduit la fatigue lors des longs trajets\n\nCouleur\nNoir avec inserts bleus\n\nContenu du pack\nPédales accélérateur, frein et embrayage\n\nRéférence-doshift\nAA3BB599",
-     "short_description": "Optimisez votre expérience de conduite avec ce kit de pédales antidérapantes au design sportif et moderne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_tdztmftdztmftdzt-1.png"
+    "https://doshift.ma/wp-content/uploads/2026/01/Gemini_Generated_Image_rw32hcrw32hcrw32-1-1.png"
    ]
   }
  ]

@@ -1,193 +1,207 @@
 {
  "products": [
   {
-   "sku": "doshift-45268",
-   "price": 149,
+   "sku": "doshift-49381",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
-    10
+    3,
+    13,
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Tapis de Prière Velours – Confort & Élégance pour la Salât",
-     "description": "Offrez-vous un moment de recueillement dans le confort et la sérénité avec ce tapis de prière en velours doux, conçu pour accompagner vos prières quotidiennes. Son design raffiné inspiré de l’architecture islamique, associé à une texture agréable et antidérapante, en fait un choix idéal aussi bien pour la maison que pour la mosquée. Léger, facile à transporter et parfaitement dimensionné, il convient à tous les âges.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nTapis de prière\n\nDimensions\n110 cm (longueur) × 35 cm (largeur)\n\nMatière\nVelours doux et confortable\n\nÉpaisseur\nConfort optimal pour les genoux et le front\n\nDesign\nMotif islamique élégant (mihrab)\n\nCouleur\nMarron avec motifs traditionnels\n\nFinition\nFranges décoratives aux extrémités\n\nConfort\nAgréable au toucher, idéal pour la prière prolongée\n\nUtilisation\nMaison, mosquée, voyage\n\nEntretien\nFacile à nettoyer et à entretenir\n\nRéférence-Doshift\nAA6BB599",
-     "short_description": "Offrez-vous un moment de recueillement dans le confort et la sérénité avec ce tapis de prière en velours doux, conçu pour accompagner vos prières quotidiennes."
+     "name": "Ballon de Football FC Barcelone – Bleu & Rouge – Taille Enfant",
+     "description": "Offrez à votre enfant le ballon parfait pour jouer en intérieur comme en extérieur ! Inspiré des couleurs iconiques du FC Barcelone, ce ballon bleu et rouge est idéal pour les petits fans du club. Léger, maniable et résistant, il permet de s’entraîner, jouer au parc, dans le jardin ou même à la maison. Sa surface lisse et durable garantit une excellente prise en main pour un contrôle facile. Un ballon fun, solide et adapté aux enfants pour des heures de jeu et de passion footballistique !\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de football pour enfant\n\nDesign\nFC Barcelona – Bleu & Rouge\n\nMatériau\nPVC léger et résistant\n\nUtilisation\nIntérieur & extérieur\n\nTaille\nTaille enfant (maniable, facile à contrôler)\n\nPoids\nLéger – adapté aux jeunes enfants\n\nSécurité\nSurface douce, sans danger pour l’intérieur\n\nPublic\nGarçons & filles fans du FC Barcelone\n\nAvantages\nTrès maniable, idéal pour apprentissage\n\nCouleur\nBleu & Rouge\n\nLogo officiel\nStyle FCB\n\nRéférence DoShift\nAA1BB599",
+     "short_description": "Offrez à votre enfant le ballon parfait pour jouer en intérieur comme en extérieur ! Inspiré des couleurs iconiques du FC Barcelone, ce ballon bleu et rouge est idéal pour les petits fans du club."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_tqy5e5tqy5e5tqy5-1.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_jhs6qsjhs6qsjhs6-1-1.png"
    ]
   },
   {
-   "sku": "doshift-45216",
-   "price": 179,
+   "sku": "doshift-49366",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    13,
+    14
    ],
    "locales": {
     "fr": {
-     "name": "Étendoir – Non spécifié – Non spécifié – Résistant aux intempéries – Métal – Compact et pratique",
-     "description": "Découvrez cet étendoir robuste et élégant, idéal pour un séchage efficace en extérieur. Résistant aux intempéries et fabriqué en métal de haute qualité, il est parfait pour les chaussettes, sous-vêtements et vêtements de bébé. Pratique et facile à ranger, il s’adapte à tous les espaces.",
-     "short_description": "Découvrez cet étendoir robuste et élégant, idéal pour un séchage efficace en extérieur."
+     "name": "Ballon en Plastique Real Madrid – Léger, Résistant & Amusant pour Enfants",
+     "description": "Ce ballon Jaune en plastique avec le logo du célèbre club Real Madrid est parfait pour offrir des moments de jeu et de sport aux enfants. Conçu en plastique léger et résistant, il est idéal pour une utilisation en intérieur comme en extérieur. Facile à manier, sécurisé et durable, ce ballon permet aux jeunes fans de s’amuser tout en affichant leur passion pour leur équipe préférée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de jeu pour enfants\n\nMatière\nPlastique résistant\n\nCouleur\nJaune\n\nMotif\nLogo Real Madrid\n\nUtilisation\nJeu intérieur & extérieur\n\nPublic\nEnfants\n\nPoids\nLéger\n\nSécurité\nSans danger pour les enfants\n\nEntretien\nFacile à nettoyer\n\nUsage\nJeu, sport, divertissement\n\nRéférence DoShift\nAA1BB599",
+     "short_description": "Ce ballon Jaune en plastique avec le logo du célèbre club Real Madrid est parfait pour offrir des moments de jeu et de sport aux enfants."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764357223-295_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_tktjg5tktjg5tktj-2.png"
    ]
   },
   {
-   "sku": "doshift-45104",
-   "price": 219,
+   "sku": "doshift-49374",
+   "price": 58,
    "stock": 10,
    "status": 0,
    "categories": [
+    3,
+    13,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ballon en Plastique FC Barcelona – Léger, Résistant & Fun pour Enfants",
+     "description": "Ce ballon en plastique décoré du logo du célèbre club FC Barcelona est parfait pour s’amuser à la maison, dans la chambre ou dans la cour. Léger, sécurisé et facile à manipuler, il est idéal pour les enfants. Sa matière en plastique résistant garantit une bonne durabilité face aux chocs et à une utilisation quotidienne. Un excellent choix pour le jeu, le sport et le divertissement des plus jeunes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de jeu pour enfants\n\nMatière\nPlastique résistant\n\nCouleur\nVert\n\nMotif\nLogo FC Barcelona\n\nUtilisation\nJeu intérieur & extérieur\n\nPublic\nEnfants\n\nPoids\nLéger\n\nSécurité\nSans danger pour les enfants\n\nEntretien\nFacile à nettoyer\n\nUsage\nJeu, sport, divertissement\n\nRéférence DoShift\nAA1BB599",
+     "short_description": "Ce ballon en plastique décoré du logo du célèbre club FC Barcelona est parfait pour s’amuser à la maison, dans la chambre ou dans la cour. Léger, sécurisé et facile à manipuler, il est idéal pour les enfants."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_x5n7d6x5n7d6x5n7-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-49360",
+   "price": 58,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    13,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ballon en Plastique FC Barcelona – Léger, Résistant & Fun pour Enfants",
+     "description": "Ce ballon en plastique décoré du logo du célèbre club FC Barcelona est parfait pour s’amuser à la maison, dans la chambre ou dans la cour. Léger, sécurisé et facile à manipuler, il est idéal pour les enfants. Sa matière en plastique résistant garantit une bonne durabilité face aux chocs et à une utilisation quotidienne. Un excellent choix pour le jeu, le sport et le divertissement des plus jeunes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de jeu pour enfants\n\nMatière\nPlastique résistant\n\nCouleur\nRose\n\nMotif\nLogo FC Barcelona\n\nUtilisation\nJeu intérieur & extérieur\n\nPublic\nEnfants\n\nPoids\nLéger\n\nSécurité\nSans danger pour les enfants\n\nEntretien\nFacile à nettoyer\n\nUsage\nJeu, sport, divertissement\n\nRéférence DoShift\nAA1BB599",
+     "short_description": "Ce ballon en plastique décoré du logo du célèbre club FC Barcelona est parfait pour s’amuser à la maison, dans la chambre ou dans la cour. Léger, sécurisé et facile à manipuler, il est idéal pour les enfants."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_t5jl4yt5jl4yt5jl-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-49228",
+   "price": 58,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    13,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ballon en Plastique Real Madrid – Léger, Résistant & Amusant pour Enfants",
+     "description": "Ce ballon rouge en plastique avec le logo du célèbre club Real Madrid est parfait pour offrir des moments de jeu et de sport aux enfants. Conçu en plastique léger et résistant, il est idéal pour une utilisation en intérieur comme en extérieur. Facile à manier, sécurisé et durable, ce ballon permet aux jeunes fans de s’amuser tout en affichant leur passion pour leur équipe préférée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de jeu pour enfants\n\nMatière\nPlastique résistant\n\nCouleur\nRouge\n\nMotif\nLogo Real Madrid\n\nUtilisation\nJeu intérieur & extérieur\n\nPublic\nEnfants\n\nPoids\nLéger\n\nSécurité\nSans danger pour les enfants\n\nEntretien\nFacile à nettoyer\n\nUsage\nJeu, sport, divertissement\n\nRéférence DoShift\nAA1BB599",
+     "short_description": "Ce ballon rouge en plastique avec le logo du célèbre club Real Madrid est parfait pour offrir des moments de jeu et de sport aux enfants."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_3n1n9g3n1n9g3n1n-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-49223",
+   "price": 58,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    13,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ballon en Plastique FC Barcelona – Léger, Résistant & Fun pour Enfants",
+     "description": "Ce ballon en plastique décoré du logo du célèbre club FC Barcelona est parfait pour s’amuser à la maison, dans la chambre ou dans la cour. Léger, sécurisé et facile à manipuler, il est idéal pour les enfants. Sa matière en plastique résistant garantit une bonne durabilité face aux chocs et à une utilisation quotidienne. Un excellent choix pour le jeu, le sport et le divertissement des plus jeunes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBallon de jeu pour enfants\n\nMatière\nPlastique résistant\n\nCouleur\nJaune\n\nMotif\nLogo FC Barcelona\n\nUtilisation\nJeu intérieur & extérieur\n\nPublic\nEnfants\n\nPoids\nLéger\n\nSécurité\nSans danger pour les enfants\n\nEntretien\nFacile à nettoyer\n\nUsage\nJeu, sport, divertissement\n\nRéférence DoShift\nAA1BB599",
+     "short_description": "Ce ballon en plastique décoré du logo du célèbre club FC Barcelona est parfait pour s’amuser à la maison, dans la chambre ou dans la cour. Léger, sécurisé et facile à manipuler, il est idéal pour les enfants."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_bpu6wqbpu6wqbpu6-1-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-49184",
+   "price": 49,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    3,
     8
    ],
    "locales": {
     "fr": {
-     "name": "Clés mixtes SET 6 – 22mm 12Pcs",
-     "description": "COMBINAISON SPANNER X 12:Taille: 1 6 6 mmTaille: 2 7 7 mmTaille: 3 8 8 mmTaille: 4 9 9 mmTaille: 5 10 10 mmTaille: 6 11 11 mmTaille: 7 12 12 mmTaille: 8 13 13 mmTaille: 9 14 14 mmTaille: 10 17 17 mmTaille: 11 19 19 mmTaille: 12 22 22 mm",
-     "short_description": "COMBINAISON SPANNER X 12:Taille: 1 6 6 mmTaille: 2 7 7 mmTaille: 3 8 8 mmTaille: 4 9 9 mmTaille: 5 10 10 mmTaille: 6 11 11 mmTaille: 7 12 12 mmTaille: 8 13 13 mmTaille: 9 14 14 mmTaille: 10 17 17 mmTaille: 11 19 19…"
+     "name": "Panasonic CR2032 3V – Pile Bouton au Lithium (Blister 1 Unité)",
+     "description": "La pile Panasonic CR2032 3V est une pile bouton au lithium haute performance, conçue pour offrir une alimentation stable, fiable et durable à vos appareils électroniques du quotidien. Non rechargeable, elle est idéale pour les télécommandes, clés de voiture, montres, balances, calculatrices, cartes mères (BIOS), jouets électroniques et bien plus encore. Grâce à la qualité reconnue de la marque Panasonic, cette pile garantit une longue durée de vie, une excellente résistance aux fuites et une performance constante même après une longue période de stockage.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nPanasonic\n\nModèle\nCR2032\n\nType de pile\nPile bouton au lithium\n\nTension\n3 Volts\n\nRechargeable\nNon rechargeable\n\nFormat\nCR2032\n\nConditionnement\nBlister 1 unité\n\nTechnologie\nLithium\n\nDurée de vie\nLongue durée de stockage\n\nSécurité\nAnti-fuite\n\nUtilisation\nTélécommande, clé voiture, montre,\n\nbalance, calculatrice, carte mère (BIOS), jouets\n\nCompatibilité\nTous les appareils utilisant des piles CR2032\n\nOrigine\nMade by Panasonic\n\nRéférence DoShift\nAA0BB599",
+     "short_description": "La pile Panasonic CR2032 3V est une pile bouton au lithium haute performance, conçue pour offrir une alimentation stable, fiable et durable à vos appareils électroniques du quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764356930-255_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_5vr52x5vr52x5vr5-1.png"
    ]
   },
   {
-   "sku": "doshift-45049",
-   "price": 103,
+   "sku": "doshift-49167",
+   "price": 69,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    5
    ],
    "locales": {
     "fr": {
-     "name": "Multiprise Électrique 3 Prises avec 2 USB + 1 Type-C et Interrupteur",
-     "description": "Optimisez votre espace de charge avec cette multiprise pratique et polyvalente, idéale pour la maison, le bureau ou la chambre. Équipée de 3 prises secteur, de 2 ports USB et de 1 port Type-C, elle permet d’alimenter et de recharger plusieurs appareils en même temps, sans encombrer votre espace.\n\nSon interrupteur marche/arrêt intégré offre une utilisation simple et sécurisée au quotidien. Grâce à son format allongé et compact, cette multiprise s’installe facilement sur un bureau, une table de chevet ou un plan de travail. Elle convient parfaitement pour brancher vos appareils électriques, smartphones, tablettes, accessoires USB et autres équipements du quotidien.\n\nPratique, moderne et fonctionnelle, elle constitue une solution idéale pour centraliser vos branchements tout en gardant un espace bien organisé.\n\nCaractéristique\nDétail\n\nType de produit\nMultiprise électrique\n\nNombre de prises\n3 prises secteur\n\nPorts USB\n2 ports USB\n\nPort supplémentaire\n1 port Type-C\n\nInterrupteur\nOui\n\nUtilisation\nMaison, bureau, chambre\n\nCouleur\nBlanc\n\nAvantage principal\nPermet de brancher et recharger plusieurs appareils simultanément\n\nRéférence Doshift\nAA4BB099",
-     "short_description": "Optimisez votre espace de charge avec cette multiprise pratique et polyvalente, idéale pour la maison, le bureau ou la chambre."
+     "name": "Pochette de Protection Antichoc pour AirPods Pro 1 / 2 / 3 – Style Supreme Dog",
+     "description": "Cette coque de protection en silicone pour AirPods Pro 1, 2 et 3 allie design tendance “Supreme Dog” et protection maximale. Conçue pour épouser parfaitement la forme du boîtier de AirPods Pro, elle protège efficacement contre les chocs, rayures, poussières et petites chutes du quotidien.Son silicone souple de haute qualité garantit une excellente prise en main, tout en restant léger et agréable à utiliser. Idéale pour une utilisation quotidienne, en déplacement, au sport ou au travail, cette coque associe sécurité, style et praticité.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nCoque / Étui de protection\n\nCompatibilité\nAirPods Pro 1 / 2 / 3 Générations\n\nMatière\nSilicone souple haute qualité\n\nProtection\nAntichoc, anti-rayures, anti-poussière\n\nDesign\nStyle Supreme Dog\n\nAccès au port\nLibre pour câble de charge\n\nConfort d’utilisation\nLéger, souple et agréable en main\n\nUtilisation\nQuotidien, déplacement, sport\n\nCouleur\nSelon modèle\n\nFixation mousqueton\nOui\n\nRéférence DoShift\nAA1BB699",
+     "short_description": "Cette coque de protection en silicone pour AirPods Pro 1, 2 et 3 allie design tendance “Supreme Dog” et protection maximale."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-03-27T162631.821.png"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_z3i1vhz3i1vhz3i1-1.png"
    ]
   },
   {
-   "sku": "doshift-45013",
-   "price": 159,
+   "sku": "doshift-49150",
+   "price": 99,
    "stock": 10,
    "status": 0,
    "categories": [
-    2
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Multiprise avec enrouleur – Pratique – 4 prises 2P+T – Longueur 5m – Sécurisée – Intérieur",
-     "description": "Cette multiprise enrouleur de 5 mètres avec 4 prises 2P+T est idéale pour vos besoins électriques. Son enrouleur intégré évite les enchevêtrements et facilite le rangement. Sécurisée et compatible avec la plupart des appareils, elle est parfaite pour la maison ou le bureau.",
-     "short_description": "Cette multiprise enrouleur de 5 mètres avec 4 prises 2P+T est idéale pour vos besoins électriques. Son enrouleur intégré évite les enchevêtrements et facilite le rangement."
+     "name": "Câble HDTV PREMIUM – Câble HDMI Haute Vitesse 4K × 2K – Version 2.0 – 5 Mètres",
+     "description": "Le câble HDTV PREMIUM 5 mètres est conçu pour offrir une qualité d’image exceptionnelle en ultra-haute définition. Compatible avec la résolution 4K × 2K, le HDR, le Deep Color et la 3D, il garantit une transmission fluide, stable et sans perte. Grâce à sa construction robuste en alliage d’aluminium, ses connecteurs plaqués or 24K et son débit élevé, il assure une performance optimale pour les TV, box TV, lecteurs multimédias, consoles de jeux et projecteurs. Sa longueur de 5 mètres est idéale pour une installation confortable à la maison ou au bureau, tout en conservant une haute fidélité audio et vidéo.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nNom du Produit\nHDTV PREMIUM – High Speed HDTV Cable\n\nVersion HDMI\nHDMI 2.0V\n\nRésolution Supportée\n4K × 2K Ultra HD (2160P)\n\nDébit de Transmission\nJusqu’à 18 Gbps\n\nMode Vidéo\n4K UHD, 3D Ultra HD\n\nTechnologie Couleur\nDeep Color\n\nCompatibilité Audio\nDolby True-HD, DTS-HD, Master Audio, jusqu’à 32 canaux\n\nDouble Affichage\nSupport Dual Screen Display\n\nSupport Voix\nTransmission de 4 signaux vocaux simultanés\n\nMatériau du Connecteur\nPlaqué or 24K\n\nMatériau du Corps du Connecteur\nAlliage d’aluminium durable\n\nDurabilité du Câble\nHaute résistance et réduction des interférences\n\nVitesse Réseau Ethernet\nSupport 10/100 Mbps\n\nLongueur du câble\n5 mètres\n\nCompatibilité Appareils\nPS4/PS5, Blu-ray, Box TV, Lecteur multimédia, Projecteur, TV HD/4K\n\nNormes & Certifications\nCE, RoHS, Recyclage\n\nUtilisations Principales\nTV Box, TV, Player, LCD Display, Projecteur\n\nRéférence DOSHIFT\nAA4BB099",
+     "short_description": "Le câble HDTV PREMIUM 5 mètres est conçu pour offrir une qualité d’image exceptionnelle en ultra-haute définition."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764356757-235_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_l52nhnl52nhnl52n-1.png"
    ]
   },
   {
-   "sku": "doshift-44935",
-   "price": 149,
+   "sku": "doshift-49127",
+   "price": 49,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Distributeur Mural de Cuisine 3 en 1",
-     "description": "Gardez vos rouleaux parfaitement organisés et toujours à portée de main grâce à ce distributeur multifonctionnel. Son design mural compact permet de libérer de l’espace sur le plan de travail tout en facilitant la préparation de vos repas.\n\nIl dispose de deux compartiments adaptés au film alimentaire et au papier aluminium, accompagnés de systèmes de découpe coulissants pour obtenir une coupe rapide et régulière. La partie inférieure sert de support pour rouleau d’essuie-tout.\n\nCaractéristique\nDétail\n\nType de produit\nDistributeur mural multifonction\n\nFonction\n3 en 1\n\nUtilisation\nFilm alimentaire, papier aluminium et essuie-tout\n\nSystème de coupe\nLames coulissantes intégrées\n\nInstallation\nFixation murale\n\nMatière\nPlastique\n\nCouleur\nBlanc\n\nDimensions\n36 × 20 cm\n\nAvantage\nGain de place et cuisine mieux organisée\n\nEntretien\nFacile à nettoyer\n\nRéférence Doshift\nAA7BB099",
-     "short_description": "Gardez vos rouleaux parfaitement organisés et toujours à portée de main grâce à ce distributeur multifonctionnel."
+     "name": "Câble HDMI ASTROO Ultra HD 4K – 1 Mètre – Connectivité Haut Débit",
+     "description": "Le câble HDMI ASTROO Ultra HD 4K de 1 mètre est conçu pour offrir une transmission rapide, stable et de haute qualité pour vos équipements multimédias. Il permet de connecter facilement votre téléviseur, console, PC, lecteur DVD, décodeur ou projecteur avec une qualité d’image 4K Ultra HD et un son haute fidélité. Grâce à ses connecteurs plaqués or et son blindage renforcé, il garantit une excellente durabilité et une protection optimale contre les interférences. Idéal pour le gaming, le home cinéma et les présentations professionnelles.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nMarque\nASTROO\n\nType de produit\nCâble HDMI\n\nRésolution\n4K Ultra HD\n\nCanal Ethernet\nOui\n\nAudio Return Channel (ARC)\nOui\n\nConnecteurs\nHDMI mâle vers HDMI mâle\n\nFinition des connecteurs\nPlaqué Or\n\nBlindage\nTriple blindage renforcé\n\nTransmission\nHaut débit\n\nLongueur du câble\n1 mètre\n\nCompatibilité\nTV, PC, PS4/PS5, Xbox, Projecteur, Décodeur\n\nCouleur\nNoir\n\nUsage\nGaming, Home Cinéma, Bureau\n\nRéférence – Doshift\nAA1BB099",
+     "short_description": "Le câble HDMI ASTROO Ultra HD 4K de 1 mètre est conçu pour offrir une transmission rapide, stable et de haute qualité pour vos équipements multimédias."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-07-13T182133.551.png"
-   ]
-  },
-  {
-   "sku": "doshift-44824",
-   "price": 309,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    13
-   ],
-   "locales": {
-    "fr": {
-     "name": "Revoflex Appareil de musculation abdominale Exerciseur personnel",
-     "description": "L’appareil à abdominaux Revoflex Xtreme vous assure un entraînement abdominal intense, facile etsans efforts en seulement 5 minutes par jour.",
-     "short_description": "L’appareil à abdominaux Revoflex Xtreme vous assure un entraînement abdominal intense, facile etsans efforts en seulement 5 minutes par jour."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764356226-193_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44782",
-   "price": 169,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Etagère murale polyvalente assaisonnements",
-     "description": "L’organisateur d’épices est fabriqué en plastique de haute qualité.\n\nIl est autocollant, ce qui permet une installation facile sans percer de trous.\n\nIl est conçu pour accueillir une variété de bouteilles d’assaisonnement.\n\nIl mesure 32×13.5×9.5 cm et pèse 0.3 kg.\n\nIl est disponible en gris ou en blanc.\n\nIl est conçu pour organiser et ranger les épices.\n\nIl libère de l’espace sur le plan de travail.\n\nIl est polyvalent et convient à une variété de bouteilles d’assaisonnement.",
-     "short_description": "L’organisateur d’épices est fabriqué en plastique de haute qualité."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764356158-184_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44772",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3
-   ],
-   "locales": {
-    "fr": {
-     "name": "Trancheuse multifonctionnelle manuelle pour la maison",
-     "description": "Cette trancheuse est facile à utiliser grâce à sa lame robuste qui permet une coupe uniforme.\n\nElle est multifonctionnelle et peut être utilisée pour couper de la gélatine, des gâteaux de riz, des pommes de terre, des patates douces et des radis.\n\nElle est fabriquée en acier inoxydable et en plastique d’ingénierie respectueux de l’environnement.\n\nElle est petite et facile à transporter.\n\nElle est de haute qualité et durable.\n\nElle pèse 0.2 kg et est disponible en plusieurs couleurs.\n\nElle est faite d’acier inoxydable et d’ABS.",
-     "short_description": "Cette trancheuse est facile à utiliser grâce à sa lame robuste qui permet une coupe uniforme."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764356142-182_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-44763",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Entonnoir d’essence De Voiture De Moto en Plastique D’Automobile avec filtre",
-     "description": "Cet entonnoir  possède un filtre intégré. Il comporte également une poignée de maintien permettant une utilisation plus facile.Diamètre : 135x38mmAvec filtre et rallonge flexible pour le remplissage des orifices difficiles d’accès.Fabrique en plastiques techniques antistatiques et résistant , sur et fiable.Utilisation idéale pour voiture, bateau, atelier, maison et restaurant.",
-     "short_description": "Cet entonnoir  possède un filtre intégré. Il comporte également une poignée de maintien permettant une utilisation plus facile.Diamètre"
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/1764356127-180_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/cable-hdmi-4k-malemale-10-metres-1.jpg"
    ]
   }
  ]

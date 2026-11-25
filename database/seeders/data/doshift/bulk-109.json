@@ -1,84 +1,130 @@
 {
  "products": [
   {
-   "sku": "doshift-46668",
-   "price": 188,
+   "sku": "doshift-51089",
+   "price": 629,
    "stock": 10,
    "status": 0,
    "categories": [
+    3,
     7
    ],
    "locales": {
     "fr": {
-     "name": "Flamingo Cire De Lavage Brillant Shampoo Polish",
-     "description": "La cire de lavage ultra brillant Flamingo a été développée en utilisant les technologies les plus avancées disponibles. Notre mélange exclusif d’agents nettoyants, de lubrifiants de surface et de véritable cire de carnauba est absolument garanti pour répondre aux normes les plus exigeantes.",
-     "short_description": "La cire de lavage ultra brillant Flamingo a été développée en utilisant les technologies les plus avancées disponibles."
+     "name": "Kit LED Ambiance Intérieure RGB pour Voiture – Atmosphere Lamp Multicolore",
+     "description": "Transformez l’intérieur de votre voiture avec une ambiance lumineuse moderne et immersive grâce à ce kit LED RGB multicolore. Facile à installer, il apporte une touche premium et futuriste à votre tableau de bord, portes, console centrale et espace des pieds.\n\nProfitez de plusieurs couleurs dynamiques et d’effets lumineux élégants pour personnaliser l’ambiance de votre véhicule selon votre style. Son design discret s’intègre parfaitement à l’intérieur de la voiture pour un rendu moderne et haut de gamme.\n\nIdéal pour les trajets de nuit, les passionnés d’automobile ou simplement pour donner un look unique à votre habitacle.\n\nCaractéristique\nDétail\n\nType\nKit LED ambiance intérieure voiture\n\nÉclairage\nRGB multicolore\n\nInstallation\nFacile et rapide\n\nUtilisation\nTableau de bord, portes, console centrale, espace des pieds\n\nModes lumineux\nMulti-couleurs\n\nCompatibilité\nUniverselle pour la plupart des véhicules\n\nDesign\nFlexible et discret\n\nAvantages\nAmbiance moderne et personnalisée\n\nContenu\nBandes LED, câbles et accessoires d’installation\n\nRéférence Doshift\nAA43BB099",
+     "short_description": "Transformez l’intérieur de votre voiture avec une ambiance lumineuse moderne et immersive grâce à ce kit LED RGB multicolore."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589077-26_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-05-07T205735.076.png"
    ]
   },
   {
-   "sku": "doshift-46658",
-   "price": 139,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Flamingo Lave Brille 1L F141",
-     "description": "Flamingo Lave Brille a été développé en utilisant les technologies les plus avancées disponibles.\n\nNotre mélange exclusif d’agents de nettoyage, de lubrifiants de surface et de vraie cire de carnauba est absolument garanti pour répondre aux normes les plus rigoureuses.\n\nFournit une incroyable brillance Flamingo\n\nEnlève doucement la saleté qui peut causer des rayures et des tourbillons\n\nAide l’eau à perler sur votre peinture\n\n Fournit une brillance semblable à un miroir pendant que vous vous lavez\n\nRévèle la couleur profonde et éclatante de votre peinture\n\nSENS D’UTILISATION :\n\nUtiliser sur une voiture fraîche, de préférence à l’ombre pour éviter les taches de soleil.\n\nRincez la voiture pour enlever la saleté.\n\nVerser le concentré de lavage dans un seau et mélanger avec de l’eau.\n\nLavez la voiture avec une éponge, un chiffon éponge ou un gant.\n\nRincez la voiture, puis séchez immédiatement avec un tissu éponge doux et sec ou une peau de chamois.",
-     "short_description": "Flamingo Lave Brille a été développé en utilisant les technologies les plus avancées disponibles."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589067-24_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46604",
-   "price": 153,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Antivol vélo à chaîne gainée – Sécurité renforcée avec clés",
-     "description": "Protégez efficacement votre vélo, trottinette, moto légère ou portail grâce à cet antivol à chaîne gainée, conçu pour offrir un bon niveau de sécurité au quotidien. Sa chaîne robuste est recouverte d’une housse textile qui aide à limiter les rayures sur le cadre et améliore le confort d’utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nAntivol à chaîne\n\nUtilisation\nVélo, trottinette, moto légère, portail\n\nSystème de fermeture\nSerrure à clé\n\nStructure\nChaîne flexible\n\nRevêtement extérieur\nGaine textile de protection\n\nCouleur\nROUGE\n\nForme\nEnroulable\n\nAvantage principal\nProtège contre le vol et limite les rayures\n\nContenu\n1 antivol + clés\n\nRéférence Doshift\nAA6BB099",
-     "short_description": "Protégez efficacement votre vélo, trottinette, moto légère ou portail grâce à cet antivol à chaîne gainée, conçu pour offrir un bon niveau de sécurité au quotidien."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764588981-12_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46589",
-   "price": 167,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    7
-   ],
-   "locales": {
-    "fr": {
-     "name": "Pack 2 Flamingo Anti-Crevaison 450ML",
-     "description": "Le produit d’étanchéité et gonfleur de pneu d’urgence est conçu pour trouver rapidement et sceller efficacement la plupart des crevaisons normales et des fuites lentes. Il est applicable à 100 % aux écarts inférieurs à 6 mm dans les pneus en caoutchouc tubeless des voitures, motos et vélos électriques. Aucun changement de cric ou de pneu n’est nécessaire. La procédure de gonflage et de réparation des pneus en une seule étape s’effectue en quelques secondes. Il peut également être rempli de pneus neufs pour éviter des fuites inattendues. Non toxique et inodore. Aucune corrosion et aucun dommage au pneu.",
-     "short_description": "Le produit d’étanchéité et gonfleur de pneu d’urgence est conçu pour trouver rapidement et sceller efficacement la plupart des crevaisons normales et des fuites lentes."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764582077-9_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46903",
+   "sku": "doshift-51075",
    "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit de Pédales Antidérapantes Haute Performance pour Voiture",
+     "description": "Optimisez votre expérience de conduite avec ce kit de pédales antidérapantes au design sportif et moderne. Conçu pour offrir une adhérence maximale, un contrôle précis et une réponse instantanée, ce jeu de pédales améliore à la fois la sécurité et le style de l’intérieur de votre véhicule. Idéal pour la conduite quotidienne comme pour une conduite plus dynamique, il garantit confort, stabilité et performance à chaque pression.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nKit de pédales antidérapantes pour voiture\n\nUtilisation\nAccélérateur, frein et embrayage\n\nAdhérence\nSurface antidérapante haute performance\n\nContrôle\nAméliore la précision et la stabilité de conduite\n\nRéactivité\nRéponse instantanée à la pression du pied\n\nMatériau\nAlliage métallique robuste avec inserts antidérapants\n\nDesign\nSportif et moderne\n\nRésistance\nRésistant à l’usure, à la corrosion et aux chocs\n\nCompatibilité\nUniverselle (boîte manuelle ou automatique selon modèle)\n\nInstallation\nFacile et rapide, sans modification majeure\n\nConfort\nRéduit la fatigue lors des longs trajets\n\nCouleur\nNoir avec inserts bleus\n\nContenu du pack\nPédales accélérateur, frein et embrayage\n\nRéférence-doshift\nAA3BB599",
+     "short_description": "Optimisez votre expérience de conduite avec ce kit de pédales antidérapantes au design sportif et moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_tdztmftdztmftdzt-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-51072",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Turbo Sound XL – Simulateur de Son Turbo Haute Puissance Ø 55–65 mm (1 Pièce)",
+     "description": "Le Turbo Sound XL Haute Puissance est un accessoire automobile renforcé, conçu pour produire un son turbo encore plus fort, profond et sportif que les modèles standards. Grâce à sa conception optimisée et à son diamètre plus large, il amplifie considérablement le flux d’air dans l’échappement, offrant une expérience sonore puissante et réaliste lors des accélérations. Fabriqué en métal haute résistance, il supporte des températures élevées et une utilisation intensive, idéal pour les amateurs de tuning recherchant un rendu sonore impressionnant sans modification mécanique du moteur.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nSimulateur de son turbo haute puissance\n\nNiveau sonore\nPlus puissant et plus profond que le modèle standard\n\nDiamètre compatible\nØ 55 – 65 mm\n\nQuantité\n1 pièce\n\nMatériau\nMétal renforcé haute résistance\n\nFonction\nAmplification du son turbo à l’accélération\n\nInstallation\nRapide et facile, fixation par vis (sans soudure)\n\nCompatibilité\nUniverselle pour échappements larges\n\nRésistance\nAnti-chaleur, anti-corrosion, usage intensif\n\nUtilisation\nTuning automobile, conduite sportive, usage quotidien\n\nRéférence-doshift\nAA2BB799",
+     "short_description": "Le Turbo Sound XL Haute Puissance est un accessoire automobile renforcé, conçu pour produire un son turbo encore plus fort, profond et sportif que les modèles standards."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-20-dec.-2025-12_33_01-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-50850",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Poignée de Volant Assistée Lumineuse avec Navigation Intégrée – Conduite Fluide & Sécurisée",
+     "description": "Optimisez votre expérience de conduite avec cette poignée de volant assistée multifonction, conçue pour offrir un contrôle fluide, une manœuvre facile et un design moderne lumineux. Grâce à sa rotation à 360°, elle facilite les virages, les créneaux et la conduite nocturne. Son compas de navigation intégré apporte une touche pratique et esthétique, idéale pour les trajets urbains comme pour les longues routes.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nPoignée de volant assistée\n\nRotation\n360° fluide pour une conduite sans effort\n\nFonction intégrée\nCompas de navigation lumineux\n\nPrise en main\nAntidérapante et ergonomique\n\nDesign\nModerne avec éclairage LED\n\nCompatibilité\nUniverselle – convient à la majorité des volants\n\nInstallation\nRapide et facile, sans outils\n\nMatériau\nPlastique ABS + métal robuste\n\nDimensions\nHauteur : ~7.3 cm · Largeur : ~6.5 cm · Diamètre : ~6 cm\n\nUtilisation\nIdéale de jour comme de nuit\n\nRéférence-doshift\nAA2BB899",
+     "short_description": "Optimisez votre expérience de conduite avec cette poignée de volant assistée multifonction, conçue pour offrir un contrôle fluide, une manœuvre facile et un design moderne lumineux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/ChatGPT-Image-18-dec.-2025-22_26_36-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-50810",
+   "price": 93,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mega Bubble Blaster – Canon à Bulles Magique Doré pour Enfants",
+     "description": "Offrez des moments de joie inoubliables avec le Mega Bubble Blaster, un canon à bulles magique au design doré unique. Capable de produire des centaines de bulles par minute, ce jouet ludique transforme chaque instant en fête, que ce soit au jardin, au parc ou lors d’anniversaires. Facile à utiliser et à remplir, il convient aussi bien aux enfants qu’aux adultes pour des heures de divertissement en plein air.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nNom du produit\nMega Bubble Blaster\n\nType\nCanon à bulles automatique\n\nProduction de bulles\nDes centaines de bulles par minute\n\nMode de fonctionnement\nAutomatique\n\nAlimentation\nÀ piles\n\nUtilisation\nIntérieur & extérieur\n\nRemplissage\nFacile et rapide\n\nDesign\nDoré, moderne et attractif\n\nPublic\nEnfants & famille\n\nSécurité\nConception adaptée aux enfants\n\nAccessoires inclus\nSolution à bulles incluse\n\nAvantages\nJeu ludique, crée des souvenirs magiques\n\nRéférence-doshift\nAA3BB099",
+     "short_description": "Offrez des moments de joie inoubliables avec le Mega Bubble Blaster, un canon à bulles magique au design doré unique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_f7wgevf7wgevf7wg-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-50689",
+   "price": 1019,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Stylo Traducteur Intelligent à Numérisation – Traduction Vocale & Hors Ligne – 142 Langues",
+     "description": "Le stylo traducteur intelligent à numérisation est un outil innovant conçu pour faciliter l’apprentissage des langues, la lecture et la communication internationale. Grâce à sa technologie avancée de scan et traduction instantanée, il permet de numériser des lignes entières de texte et de les traduire en quelques secondes, avec une grande précision.\n\nDoté d’un écran tactile intuitif, ce stylo prend en charge la traduction vocale, la lecture à haute voix et la traduction hors ligne, ce qui le rend idéal pour les étudiants, voyageurs, professionnels et personnes ayant des difficultés de lecture (dyslexie). Son format portable et léger permet une utilisation partout : bureau, école, voyage ou déplacement professionnel. Il fonctionne sur papier, écrans numériques, étiquettes et documents variés, sans endommager les surfaces.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType de produit\nStylo traducteur intelligent avec lecteur de numérisation\n\nFonction principale\nScan de texte + traduction instantanée\n\nLangues en ligne\nTraduction de 142 langues\n\nLangues hors ligne\n10 langues par numérisation\n\nTraduction vocale\nOui (lecture à haute voix du texte scanné)\n\nTraduction photo\nEn ligne – 142 langues\n\nScan vers smartphone\n52 langues supportées\n\nLangues d’interface\n12 langues système\n\nConnexion\nWi-Fi / Point d’accès\n\nÉcran\nÉcran tactile intégré\n\nMatériau\nABS durable (scan sans marquage du papier)\n\nUtilisation\nÉtudes, voyages, travail, lecture, apprentissage des langues\n\nAvantage clé\nPortable, précis, rapide, utilisable hors ligne\n\nPublic cible\nÉtudiants, professionnels, voyageurs, dyslexiques\n\nRéférence DOSHIFT\nAA76BB099",
+     "short_description": "Le stylo traducteur intelligent à numérisation est un outil innovant conçu pour faciliter l’apprentissage des langues, la lecture et la communication internationale."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_tu64wftu64wftu64-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-50584",
+   "price": 79,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -86,110 +132,71 @@
    ],
    "locales": {
     "fr": {
-     "name": "Hub USB HUB 3.0",
-     "description": "Conforme à la version USB: 1.1/2.0/3.0\n\nPrend en charge les profils de périphériques USB haute vitesse (5G Mbps), pleine vitesse (480 Mbps) et basse vitesse (12 Mbps)\n\nUltra mince conception de structure\n\nBleu alimentation LED indicateur\n\nLongueur de ligne 0.2 M Standard\n\nSortie 4 Port USB standard 3.0 (AF)\n\nBus-protection de courant limite de puissance: 900mA\n\nSystème requis: windows XP, vista, win7, Mac OS (10.X ou plus)\n\nCouleur: noir. blanc\n\nContenu de l’emballage:\n\n1 X Hub 4 ports USB 3.0 avec emballage 1",
-     "short_description": "Conforme à la version USB: 1.1/2.0/3.0"
+     "name": "Lot de 2 Antennes 4G LTE SMA – Gain Élevé pour Modem et Routeur",
+     "description": "Améliorez instantanément la qualité de votre connexion mobile avec ce lot de 2 antennes 4G LTE externes à connecteur SMA. Conçues pour renforcer la réception du signal réseau, ces antennes sont idéales pour les modems 4G, routeurs LTE, hotspots, box internet et équipements M2M / IoT.Grâce à leur gain élevé de 9 dBi, elles assurent une connexion plus stable, une meilleure couverture et des vitesses optimisées, même dans les zones à faible signal. Leur design pivotant permet d’ajuster facilement l’angle pour une réception optimale, tandis que le connecteur SMA mâle doré garantit une excellente conductivité et une installation simple sans outil.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nAntennes 4G LTE externes\n\nQuantité\nLot de 2 antennes\n\nConnecteur\nSMA mâle standard\n\nGain\n9 dBi (gain élevé)\n\nCompatibilité\nModems 4G, routeurs LTE, box 4G, hotspots,\n\néquipements M2M / IoT\n\nFréquence\nRéseaux 4G LTE\n\nLongueur\nEnviron 19 cm\n\nOrientation\nPivotante à 90°\n\nInstallation\nRapide, sans outil\n\nAlimentation\nAntennes passives\n\nCouleur\nBlanc\n\nUtilisation\nIntérieur / extérieur abrité",
+     "short_description": "Améliorez instantanément la qualité de votre connexion mobile avec ce lot de 2 antennes 4G LTE externes à connecteur SMA."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764594389-9_1.jpg"
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_8w056y8w056y8w05-1-1.png"
    ]
   },
   {
-   "sku": "doshift-46851",
-   "price": 89,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Robinet Mural Chromé Multifonction pour Jardin & Extérieur",
-     "description": "Ajoutez une touche pratique et élégante à vos espaces extérieurs avec ce robinet mural chromé multifonction. Conçu en métal résistant avec une finition brillante anticorrosion, il est idéal pour le jardin, la terrasse, la cuisine extérieure, le lavage ou l’arrosage. Son design ergonomique avec poignée facile à manipuler assure une ouverture et fermeture fluides pour une utilisation quotidienne confortable.\n\nCaractéristique\nDétail\n\nType\nRobinet mural\n\nMatière\nMétal chromé\n\nCouleur\nArgent / Chromé\n\nInstallation\nMurale\n\nUtilisation\nJardin, terrasse, cuisine extérieure\n\nHauteur\n111 mm\n\nLongueur\n98 mm\n\nEntrée filetée\n15 mm\n\nSortie\nCompatible tuyau\n\nRéférence Doshift\nAA3BB099",
-     "short_description": "Ajoutez une touche pratique et élégante à vos espaces extérieurs avec ce robinet mural chromé multifonction."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589522-63_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46826",
-   "price": 179,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    3,
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Chaise Pliante Portable – Bleue",
-     "description": "Profitez pleinement de vos moments en plein air avec cette chaise pliante pratique et facile à transporter. Son assise et son dossier en tissu tressé bleu offrent un confort agréable, tandis que sa structure métallique assure une bonne stabilité pendant l’utilisation.\n\nGrâce à son format pliable et compact, elle se range facilement dans le coffre d’une voiture ou dans un espace réduit. Elle convient parfaitement aux sorties à la plage, au camping, aux pique-niques, à la pêche, au jardin ou à la terrasse.\n\nCaractéristique\nDétail\n\nType de produit\nChaise pliante portable\n\nCouleur\nBleu avec rayures blanches et grises\n\nStructure\nCadre métallique tubulaire\n\nAssise\nTissu tressé souple\n\nDossier\nDouble bande en tissu tressé\n\nFonction\nPliable et facile à ranger\n\nTransport\nFormat léger et peu encombrant\n\nUtilisation\nPlage, camping, pique-nique, pêche, jardin et terrasse\n\nInstallation\nOuverture et fermeture rapides\n\nEntretien\nNettoyage avec un chiffon légèrement humide\n\nRéférence Doshift\nAA10BB199",
-     "short_description": "Profitez pleinement de vos moments en plein air avec cette chaise pliante pratique et facile à transporter."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Nouveau-projet-2026-07-16T152713.225.png"
-   ]
-  },
-  {
-   "sku": "doshift-46801",
-   "price": 129,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    8
-   ],
-   "locales": {
-    "fr": {
-     "name": "Siège ergonomique pour la correction de la posture et le soutien de la colonne vertébrale, couleur aliatoire",
-     "description": "Siège ergonomique polyvalent conçu pour améliorer la posture assise et offrir un soutien complet à la colonne vertébrale, parfait pour ceux qui passent de longues heures assis au bureau, à la maison ou en voiture. Ce siège soutient efficacement la région lombaire et les vertèbres, réduisant ainsi la pression et la tension sur les muscles et les articulations. Son design ergonomique épouse la courbure naturelle du corps, favorisant une meilleure circulation sanguine et évitant les crampes musculaires.Fabriqué à partir de matériaux de haute qualité, ce siège combine flexibilité et durabilité, avec un rembourrage doux pour un confort prolongé. Il dispose également de fentes de ventilation pour réduire la chaleur et l’humidité lors d’une utilisation prolongée. Conçu pour soulager les douleurs liées à une mauvaise posture, il aide à maintenir l’alignement naturel de la colonne vertébrale.Ce siège convient à tous les âges et est idéal pour les étudiants, les employés de bureau et les conducteurs souffrant de douleurs dorsales ou souhaitant améliorer leur posture. Facile à transporter grâce à son design léger, il est l’accessoire parfait pour préserver la santé du dos et assurer un confort optimal partout et à tout moment",
-     "short_description": "Siège ergonomique polyvalent conçu pour améliorer la posture assise et offrir un soutien complet à la colonne vertébrale, parfait pour ceux qui passent de longues heures assis au bureau, à la maison ou en voiture."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/1764589386-53_1.jpg"
-   ]
-  },
-  {
-   "sku": "doshift-46505",
-   "price": 53,
-   "stock": 10,
-   "status": 0,
-   "categories": [
-    4
-   ],
-   "locales": {
-    "fr": {
-     "name": "Tapis de Souris – Compact, Précis et Confortable (20 × 17 cm)",
-     "description": "Profitez d’une expérience fluide et précise avec ce tapis de souris conçu pour offrir un contrôle optimal, que ce soit pour le travail, le gaming ou l’utilisation quotidienne. Sa surface lisse garantit une glisse parfaite, tandis que sa base antidérapante assure une stabilité totale, même lors des mouvements rapides. Compact, élégant et durable, il s’intègre parfaitement à tout bureau moderne.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nTapis de souris compact\n\nDimensions\n20 cm (largeur) × 17 cm (hauteur)\n\nSurface\nTexture lisse haute précision pour un contrôle optimal\n\nBase\nBase antidérapante en caoutchouc\n\nMatériau\nSurface durable et résistante à l’usure\n\nCompatibilité\nSouris optiques et laser\n\nNettoyage\nLavable et facile à entretenir\n\nDesign\nMinimaliste avec logo discret – idéal pour setup moderne\n\nUtilisation\nBureau, gaming, télétravail, ordinateur portable\n\nAvantage clé\nCompact, stable, confortable et précis\n\nRéférence Doshift\nAA0BB799",
-     "short_description": "Profitez d’une expérience fluide et précise avec ce tapis de souris conçu pour offrir un contrôle optimal, que ce soit pour le travail, le gaming ou l’utilisation quotidienne."
-    }
-   },
-   "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_evwc3fevwc3fevwc-1.png"
-   ]
-  },
-  {
-   "sku": "doshift-45780",
+   "sku": "doshift-50501",
    "price": 89,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Poupée Princesse Élégante – Jouet Fille avec Robe Bleue Féérique (40 cm)",
+     "description": "Offrez à votre enfant un moment magique avec cette superbe poupée princesse élégante, inspirée des contes de fées. Avec sa robe bleue scintillante, ses détails soignés et sa taille idéale, cette poupée est parfaite pour stimuler l’imagination, le jeu créatif et les moments de bonheur au quotidien. Idéale comme cadeau d’anniversaire, de fête ou simplement pour faire plaisir, elle accompagnera les enfants dans de merveilleuses histoires enchantées.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDescription\n\nType\nPoupée princesse pour fille\n\nHauteur\nEnviron 40 cm\n\nLargeur\nEnviron 10 cm\n\nDesign\nRobe bleue élégante avec motifs féeriques\n\nMatière\nPlastique de qualité + tissu\n\nStyle\nPrincesse / conte de fées\n\nÂge recommandé\nÀ partir de 3 ans\n\nUtilisation\nJeu d’imagination, décoration, cadeau\n\nOccasions\nAnniversaire, fête, cadeau enfant\n\nSécurité\nBords lisses, adaptée aux enfants\n\nRéférence-doshift\nAA6BB099",
+     "short_description": "Offrez à votre enfant un moment magique avec cette superbe poupée princesse élégante, inspirée des contes de fées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/Gemini_Generated_Image_cbp3bvcbp3bvcbp3-1-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-50358",
+   "price": 269,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Plak maxisalon",
+     "description": "lisseur cheveux MAXISALON noir (MX-4750)propose une technologie innovante pour un soin pro. Équipé d’un chauffage céramique, ce lisseur répartit la chaleur de façon uniforme pour des résultats de lissage rapides et durables. Une technologie\n\nHuile rare et précieuseRiche en antioxydants, vitamines et acides gras essentielsNourrit les cheveux et la peauParfum iconique et addictifMarque durable et sans cruaut",
+     "short_description": "lisseur cheveux MAXISALON noir (MX-4750)propose une technologie innovante pour un soin pro."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/12/1765896777-8_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-50354",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
     8
    ],
    "locales": {
     "fr": {
-     "name": "Sac de Lavage pour Chaussures et Baskets en Machine avec Microfibres Chenille",
-     "description": "Finie la corvée du brossage manuel des semelles et des baskets sales grâce à ce sac de lavage automatique pour chaussures en machine. Doté d’une doublure intérieure exclusive garnie de milliers de franges en microfibres de chenille épaisses, il nettoie, désincruste la saleté et élimine les mauvaises odeurs à 360° au fur et à mesure des rotations du tambour.\n\nCaractéristique\nSpécification Détaillée\n\nType\nHousse de lavage et de séchage protectrice pour chaussures et baskets en lave-linge (Shoe Wash Bag)\n\nFonction\nBrossage et nettoyage automatique 360° grâce aux milliers de franges chenille en microfibres ultra-douces\n\nMatériaux\nMaille alvéolée respirante en polyester indéchirable (extérieur jaune/turquoise) et chenille intérieure\n\nFermeture\nZip renforcé avec élastique de sécurité anti-ouverture protégeant le tambour contre les chocs et rayures\n\nCompatibilité\nAdapté pour toutes pointures de baskets de sport, toiles et tennis ; compatible lave-linge et sèche-linge\n\nSKU\n9900006711119",
-     "short_description": "Sac de lavage cylindrique pour baskets en machine avec doublure en microfibre chenille nettoyante et fermeture zippée sécurisée."
+     "name": "Vadrouille Plate à Pulvérisation – Balai Lave-Sol avec Réservoir et Serpillière Microfibre",
+     "description": "La vadrouille à pulvérisation SprayClean est la solution idéale pour un nettoyage rapide et efficace de vos sols sans seau. Grâce à son réservoir intégré et sa fonction spray, elle humidifie le sol juste ce qu’il faut pour un lavage sans effort. Sa tête pivotante à 360° permet d’atteindre les coins difficiles, tandis que la serpillière microfibre attrape poussière, cheveux et saleté en un seul passage.",
+     "short_description": "La vadrouille à pulvérisation SprayClean est la solution idéale pour un nettoyage rapide et efficace de vos sols sans seau."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2025/11/620f3dc3-9ed5-4026-91fb-ef4476430002.webp"
+    "https://doshift.ma/wp-content/uploads/2025/12/1765896767-4_1.jpg"
    ]
   }
  ]

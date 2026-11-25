@@ -1,85 +1,88 @@
 {
  "products": [
   {
-   "sku": "doshift-119430",
-   "price": 399,
+   "sku": "doshift-124001",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    10
+    4
    ],
    "locales": {
     "fr": {
-     "name": "CLOVER — Lunettes de soleil | Doshift × Azylis — Bleu",
-     "description": "Découvrez CLOVER, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Bleu.",
-     "short_description": "Lunettes de soleil CLOVER — collaboration Doshift × Azylis."
+     "name": "Souris Sans Fil HP Wireless Mouse S9000",
+     "description": "Optimisez votre productivité et votre confort au quotidien avec la souris sans fil HP S9000. Dotée de 6 boutons pratiques, d’un design ergonomique et d’une technologie sans fil 2.4GHz stable via micro-récepteur USB, elle offre un contrôle précis et fluide pour le bureau, le télétravail ou le divertissement.\n\nCaractéristique\nDétail\n\nType de produit\nSouris sans fil\n\nMarque\nHP\n\nModèle\nWireless Mouse S9000\n\nCouleur\nGris / Noir texturé\n\nCompatibilité\nOrdinateurs portables et de bureau (Windows, Mac)\n\nFonctionnalités\nTechnologie sans fil 2.4GHz, 6 boutons intégrés (dont touches de navigation), micro-récepteur USB\n\nAvantages\nConfort ergonomique, prise en main antidérapante, navigation rapide et fluide\n\nContenu de la boîte\n1 souris sans fil HP S9000, 1 micro-récepteur USB\n\nDimensions du produit (cm)\n\nLongueur : 10,5 cm\n\nLargeur : 6,8 cm\n\n Hauteur : 3,8 cm\n\nSKU\n700000000000155",
+     "short_description": "Optimisez votre productivité et votre confort au quotidien avec la souris sans fil HP S9000. Dotée de 6 boutons pratiques, d’un design ergonomique et d’une technologie sans fil 2.4GHz stable via micro-récepteur USB, elle offre un contrôle précis et fluide pour le bureau, le télétravail ou le divertissement."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-3e162f5248e04f83.webp"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-11.png"
    ]
   },
   {
-   "sku": "doshift-119371",
-   "price": 279,
+   "sku": "doshift-123995",
+   "price": 139,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    4
    ],
    "locales": {
     "fr": {
-     "name": "Hachoir Électrique Multifonction 2-en-1 Turbo Home (2200W – 3L)",
-     "description": "Polyvalent et ultra-puissant, le hachoir électrique Turbo Home 2-en-1 de 2200 W est conçu pour broyer la viande, hacher les légumes, concasser les fruits secs et émulsionner les sauces en quelques secondes. Doté d’une généreuse capacité de 3 litres et livré avec deux bols interchangeables (un en inox incassable et un en verre transparent), il s’adapte à toutes vos préparations culinaires sans transfert d’odeur.\n\nCaractéristique\nSpécification Détaillée\n\nType\nHachoir électrique culinaire multifonction 2-en-1\n\nPuissance\n2 200 W (moteur en cuivre haute vitesse avec vitesses I / II)\n\nCapacité\n3 litres (grand format familial pour viandes et légumes)\n\nBols\nDouble bol inclus : 1 bol en acier inoxydable + 1 bol en verre épais\n\nLames\nCouteaux 4 lames étagées en acier inoxydable chirurgical\n\nSKU\n9900010929845",
-     "short_description": "Hachoir électrique 2200 W 3 L avec bloc moteur inox à poignée, bols inox et verre, et couteau 4 lames."
+     "name": "Souris Sans Fil Dell Wireless Mouse WM126",
+     "description": "Simplifiez votre quotidien bureautique et vos déplacements avec la souris sans fil Dell WM126. Compacte, confortable et conçue pour une prise en main naturelle, elle offre une connexion sans fil stable et un suivi précis. Idéale pour le bureau, la maison ou en voyage avec votre ordinateur portable.\n\nCaractéristique\nDétail\n\nType de produit\nSouris sans fil\n\nMarque\nDELL\n\nModèle\nWM126\n\nCouleur\nNoir / Gris foncé\n\nCompatibilité\nOrdinateurs portables et de bureau (Windows, Mac, Linux)\n\nFonctionnalités\nTechnologie sans fil RF 2,4 GHz, nano-récepteur USB, Dell Universal Pairing, autonomie longue durée (jusqu’à 1 an)\n\nAvantages\nDesign confortable et ergonomique, installation Plug-and-Play rapide, idéale pour les déplacements\n\nContenu de la boîte\n1 souris sans fil Dell WM126, 1 nano-récepteur USB\n\nDimensions du produit (cm)\n\nLongueur : 9,5 cm\n\nLargeur : 5,8 cm\n\n Hauteur : 3,6 cm\n\nSKU\n700000000000156",
+     "short_description": "Simplifiez votre quotidien bureautique et vos déplacements avec la souris sans fil Dell WM126. Compacte, confortable et conçue pour une prise en main naturelle, elle offre une connexion sans fil stable et un suivi précis. Idéale pour le bureau, la maison ou en voyage avec votre ordinateur portable."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-16-01-5.webp"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-7.png"
    ]
   },
   {
-   "sku": "doshift-119283",
-   "price": 149,
+   "sku": "doshift-123952",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
-    3
+    3,
+    11,
+    13
    ],
    "locales": {
     "fr": {
-     "name": "Tapis Égouttoir à Vaisselle Pliable Multifonction avec Rack",
-     "description": "Optimisez l’espace de votre cuisine avec ce tapis égouttoir pliable multifonction 2-en-1. Conçu pour remplacer les égouttoirs encombrants, il associe un grand tapis en microfibre ultra-absorbante à un râtelier rigide à fentes amovible permettant de caler jusqu’à 15 assiettes et couvercles.\n\nCaractéristique\nSpécification Détaillée\n\nType\nÉgouttoir à vaisselle 2-en-1 avec tapis absorbant et rack\n\nComposition\nTapis microfibre matelassé + râtelier à fentes pour assiettes\n\nMatériaux\nMicrofibre respirante alvéolée et plastique ABS sans BPA\n\nEntretien\nTapis lavable en machine à 30°C et rack compatible lave-vaisselle\n\nRangement\nPliage accordéon compact avec sangle élastique de maintien\n\nSKU\n9900010929821",
-     "short_description": "Tapis égouttoir pliable 60×45 cm en microfibre grise absorbante avec râtelier à assiettes intégré."
+     "name": "Sac de Voyage Bicolore Extensible et Multifonctionnel – Grand Fourre-Tout Rose pour Sport, Week-end et Loisirs",
+     "description": "Partez l’esprit tranquille avec ce grand sac de voyage rose alliant robustesse, élégance et modernité. Équipé de poignées renforcées et d’une conception ingénieuse, il offre un confort de transport optimal. Son compartiment inférieur zippé extensible et ses multiples poches s’adaptent parfaitement à toutes vos affaires pour le sport, les voyages ou le quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSac de voyage / Fourre-tout\n\nMarque\nFEIFANLTUO\n\nModèle\nSac de voyage extensible multifonctionnel\n\nCouleur\nRose\n\nCompatibilité\nBagage cabine, déplacements de week-end, salle de sport, activités du quotidien\n\nFonctionnalités\nCompartiment inférieur extensible, double poignée renforcée, poche frontale zippée\n\nAvantages\nGrande capacité modulable, transport polyvalent, design élégant, résistant et pratique\n\nContenu de la boîte\n1 sac de voyage\n\nDimensions du produit (cm)\n\n• Longueur : 41,0 cm\n\n• Largeur : 22,0 cm\n\n• Hauteur : 28,0 cm\n\nSKU\n700000000000162",
+     "short_description": "Partez l’esprit tranquille avec ce grand sac de voyage rose alliant robustesse, élégance et modernité. Équipé de poignées renforcées et d’une conception ingénieuse, il offre un confort de transport optimal. Son compartiment inférieur zippé extensible et ses multiples poches s’adaptent parfaitement à toutes vos affaires pour le sport, les voyages ou le quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/155fb351-1fc4-498d-b39b-fab73e6caa8f.webp"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-3.png"
    ]
   },
   {
-   "sku": "doshift-119267",
-   "price": 249,
+   "sku": "doshift-123933",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
-    4,
-    5
+    3,
+    11,
+    13
    ],
    "locales": {
     "fr": {
-     "name": "Enceinte Portable Lumineuse Bluetooth MZS-616 (Woofer 6,5″)",
-     "description": "Idéale pour animer vos soirées, pique-niques et sessions karaoké, l’enceinte Bluetooth portable MZS-616 délivre un son puissant et chaleureux grâce à son haut-parleur de 6,5 pouces soutenu par un double évent bass-reflex. Son woofer s’illumine d’un jeu de lumière LED bleu dynamique qui rythme la musique dès la mise en marche.\n\nCaractéristique\nSpécification Détaillée\n\nType\nEnceinte nomade sans fil Bluetooth avec poignée intégrée\n\nHaut-parleur\nWoofer 6,5 pouces avec rétroéclairage LED bleu dynamique\n\nPuissance\nPuissance musicale 100 W avec double évent bass-reflex\n\nConnectivité\nBluetooth sans fil, Radio FM, port USB MP3 et lecteur micro SD\n\nAlimentation\nBatterie Li-ion rechargeable intégrée via câble USB\n\nSKU\n9900010975323",
-     "short_description": "Enceinte nomade Bluetooth 100 W avec woofer 6,5″ à LED bleu, radio FM, ports USB/SD et poignée."
+     "name": "Sac de Voyage Bicolore Extensible et Multifonctionnel – Grand Fourre-Tout Bleu et Gris pour Sport et Week-end",
+     "description": "Le compagnon idéal de vos déplacements ! Ce sac de voyage bicolore allie parfaitement élégance, robustesse et praticité. Grâce à son compartiment inférieur extensible et à ses grands volumes, il s’adapte en un clin d’œil à vos week-ends, vos séances de sport ou votre quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSac de voyage / Fourre-tout\n\nMarque\ndsdsp\n\nModèle\nSac de voyage bicolore extensible\n\nCouleur\nBleu clair et Gris\n\nCompatibilité\nBagage cabine, déplacements de week-end, salle de sport, activités du quotidien\n\nFonctionnalités\nCompartiment inférieur extensible, double poignée renforcée, poches frontales zippées\n\nAvantages\nGrande capacité modulable, transport polyvalent, design sportif, résistant et pratique\n\nContenu de la boîte\n1 sac de voyage\n\nDimensions du produit (cm)\n\n Longueur : 41,0 cm\n\nLargeur : 22,0 cm\n\nHauteur : 28,0 cm\n\nSKU\n700000000000160",
+     "short_description": "Le compagnon idéal de vos déplacements ! Ce sac de voyage bicolore allie parfaitement élégance, robustesse et praticité. Grâce à son compartiment inférieur extensible et à ses grands volumes, il s’adapte en un clin d’œil à vos week-ends, vos séances de sport ou votre quotidien."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/48a1ca19-4d36-4cce-91b7-3d0478d7bd83.webp"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T212659.456.png"
    ]
   },
   {
-   "sku": "doshift-119239",
-   "price": 169,
+   "sku": "doshift-123896",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -88,58 +91,59 @@
    ],
    "locales": {
     "fr": {
-     "name": "Rasoir Électrique de Finition HIENA HYN-825",
-     "description": "Idéal pour les dégradés à blanc, les finitions de barbe et le rasage de près du crâne, le rasoir électrique HIENA HYN-825 offre une puissance de coupe nette sans agresser la peau. Ses deux grilles flottantes dorées en titane épousent les contours du visage pour éliminer les poils courts dès la racine.\n\nCaractéristique\nSpécification Détaillée\n\nType\nRasoir de finition professionnel à double grille flottante\n\nTête\nDouble grille en titane doré hypoallergénique ultra-fine\n\nAffichage\nÉcran numérique LED affichant le pourcentage de batterie\n\nAlimentation\nBatterie Li-ion rechargeable via port USB standard\n\nErgonomie\nCorps noir texturé grain cuir avec liseré jaune vif\n\nSKU\n9900010929807",
-     "short_description": "Rasoir de finition électrique à double grille dorée avec écran LED et batterie rechargeable USB."
+     "name": "Sac à Dos Scolaire et Casual Multicompartiments – Cartable Tendance",
+     "description": "Alliez style et praticité au quotidien avec ce charmant sac à dos coloré, parfait pour l’école, les études ou les loisirs. Doté de multiples poches zippées, de sangles de fermeture à boucle et d’accessoires décoratifs ludiques incluant un adorable petit ours en peluche, il offre un grand confort de port et une organisation optimale pour toutes vos affaires.\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos / Cartable scolaire\n\nMarque\nNon spécifié\n\nModèle\nSac à dos casual multicompartiments avec accessoires\n\nCouleur\nBleu / Indigo et Blanc cassé\n\nCompatibilité\nÉcole, collège, lycée, université, sorties quotidiennes, voyages\n\nFonctionnalités\nPoches frontales multiples, bretelles réglables, fermetures à boucle sécurisées, passants pour badges décoratifs\n\nAvantages\nDesign kawaii et tendance, grand espace de rangement, léger et confortable sur les épaules\n\nContenu de la boîte\n1 sac à dos, 1 pendentif ours en peluche, badges décoratifs\n\nDimensions du produit (cm)\n\n• Hauteur : 40,0 cm\n\n• Largeur : 30,0 cm\n\n• Profondeur : 13,0 cm\n\nSKU\n700000000000106",
+     "short_description": "Alliez style et praticité au quotidien avec ce charmant sac à dos coloré, parfait pour l’école, les études ou les loisirs. Doté de multiples poches zippées, de sangles de fermeture à boucle et d’accessoires décoratifs ludiques incluant un adorable petit ours en peluche, il offre un grand confort de port et une organisation optimale pour toutes vos affaires."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/757b1dc9-38ff-4385-89b9-f1c99887c54d.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T194851.077.png"
    ]
   },
   {
-   "sku": "doshift-119219",
-   "price": 579,
+   "sku": "doshift-123889",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
-    8
+    11,
+    15
    ],
    "locales": {
     "fr": {
-     "name": "Pistolet à mastic électrique sans fil",
-     "description": "Ce pistolet à mastic électrique sans fil accompagne les travaux de jointoiement avec une cartouche compatible. Sa poignée à gâchette permet de commander l’extrusion, tandis que le porte-cartouche longitudinal maintient la cartouche dans l’axe de la tige de poussée.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nPistolet électrique sans fil pour extrusion de mastic en cartouche\n\nMécanisme visible\nTige métallique crantée avec poignée arrière en T\n\nCommande\nGâchette claire à l’avant de la poignée\n\nAlimentation\nBatterie montée sous la poignée, portant les mentions « 36V » et « Li-ion » ; caractéristiques réelles non vérifiées\n\nConception\nCarter rouge, poignée noire à reliefs rouges et long porte-cartouche noir\n\nSKU\n9900010975347",
-     "short_description": "Pistolet à mastic électrique sans fil, avec porte-cartouche longitudinal, gâchette et batterie montée sous la poignée."
+     "name": "Sac à Dos Scolaire et Casual Multicompartiments – Cartable Tendance",
+     "description": "Alliez style et praticité au quotidien avec ce charmant sac à dos coloré, parfait pour l’école, les études ou les loisirs. Doté de multiples poches zippées, de sangles de fermeture à boucle et d’accessoires décoratifs ludiques incluant un adorable petit ours en peluche, il offre un grand confort de port et une organisation optimale pour toutes vos affaires.\n\nCaractéristique\nDétail\n\nType de produit\nSac à dos / Cartable scolaire\n\nMarque\nNon spécifié\n\nModèle\nSac à dos casual multicompartiments avec accessoires\n\nCouleur\nViolet et Blanc cassé\n\nCompatibilité\nÉcole, collège, lycée, université, sorties quotidiennes, voyages\n\nFonctionnalités\nPoches frontales multiples, bretelles réglables, fermetures à boucle sécurisées, passants pour badges décoratifs\n\nAvantages\nDesign kawaii et tendance, grand espace de rangement, léger et confortable sur les épaules\n\nContenu de la boîte\n1 sac à dos, 1 pendentif ours en peluche, badges décoratifs\n\nDimensions du produit (cm)\n\n• Longueur / Hauteur : 40,0 cm\n\n• Largeur : 30,0 cm\n\n• Profondeur / Épaisseur : 13,0 cm\n\nSKU\n700000000000157",
+     "short_description": "Alliez style et praticité au quotidien avec ce charmant sac à dos coloré, parfait pour l’école, les études ou les loisirs. Doté de multiples poches zippées, de sangles de fermeture à boucle et d’accessoires décoratifs ludiques incluant un adorable petit ours en peluche, il offre un grand confort de port et une organisation optimale pour toutes vos affaires."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/89fd9c7c-4e28-4193-a9ff-f113c2f2bb01.webp"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T192153.856.png"
    ]
   },
   {
-   "sku": "doshift-119211",
-   "price": 219,
+   "sku": "doshift-123830",
+   "price": 105,
    "stock": 10,
    "status": 0,
    "categories": [
     3,
-    8,
-    11
+    11,
+    12
    ],
    "locales": {
     "fr": {
-     "name": "Rasoir-tondeuse rechargeable GW-9866",
-     "description": "Le rasoir-tondeuse GW-9866 est présenté comme un appareil rechargeable et sans fil pour le rasage et l’entretien des contours. Sa tête rectangulaire argentée comporte deux bords dentés, encadrés par des extrémités vert citron.\n\nCaractéristique\nDétail\n\nSKU\n9900010975354\n\nMarque et modèle affichés\nGW — GW-9866\n\nType\nRasoir-tondeuse électrique pour homme\n\nAlimentation annoncée\nRechargeable, utilisation sans fil\n\nTête représentée\nRectangulaire argentée, à deux bords dentés et extrémités vert citron\n\nCorps et entretien annoncé\nManche anthracite et vert citron  100% washable",
-     "short_description": "Rasoir-tondeuse GW-9866 rechargeable, pour une utilisation sans fil."
+     "name": "Rasoir Anti-Callosités et Coupe-Cors en Inox – Outil de Pédicure Professionnel avec Lame",
+     "description": "Prenez soin de vos pieds à la maison avec ce rasoir anti-callosités professionnel. Conçu en acier inoxydable robuste avec un manche ergonomique et antidérapant, il élimine efficacement et en douceur les peaux mortes, les cors et les callosités sous les pieds. Idéal pour retrouver des pieds doux, lisses et soignés en toute simplicité.\n\nCaractéristique\nDétail\n\nType de produit\nRasoir anti-callosités / Coupe-cors\n\nMarque\nMade for You\n\nModèle\nCorn Plane / Rasoir pour pieds\n\nCouleur\nArgent / Métallique\n\nCompatibilité\nSoins des pieds, pédicure à domicile ou en institut\n\nFonctionnalités\nTête amovible en acier inoxydable, lame interchangeable, manche ergonomique\n\nAvantages\nÉlimination rapide et efficace des peaux dures, facile à nettoyer, durable et hygiénique\n\nContenu de la boîte\n1 rasoir anti-callosités avec lame intégrée\n\nSKU\n700000000000118",
+     "short_description": "Prenez soin de vos pieds à la maison avec ce rasoir anti-callosités professionnel. Conçu en acier inoxydable robuste avec un manche ergonomique et antidérapant, il élimine efficacement et en douceur les peaux mortes, les cors et les callosités sous les pieds. Idéal pour retrouver des pieds doux, lisses et soignés en toute simplicité."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/c9c8163b-1eb3-4d04-ac6f-b1845b0f8550.webp"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-05T103355.901.png"
    ]
   },
   {
-   "sku": "doshift-119189",
-   "price": 89,
+   "sku": "doshift-123748",
+   "price": 529,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -147,18 +151,18 @@
    ],
    "locales": {
     "fr": {
-     "name": "Lampe Torche LED Rechargeable COBA CB-S16 en Aluminium",
-     "description": "Compacte, robuste et performante, la lampe torche rechargeable COBA CB-S16 est l’alliée indispensable de votre quotidien, de vos sorties nocturnes et de vos situations d’urgence. Usinée dans un alliage d’aluminium de qualité aéronautique résistant aux chocs et aux intempéries, elle délivre un faisceau lumineux blanc net et puissant capable d’éclairer efficacement à grande distance.\n\nCaractéristique\nSpécification Détaillée\n\nType\nLampe torche LED tactique compacte rechargeable (format EDC)\n\nÉclairage\nLED blanche haute intensité à faisceau puissant et focalisable\n\nAlimentation\nBatterie Li-ion rechargeable intégrée via port et câble USB inclus\n\nMatériaux\nCorps tubulaire usiné en alliage d’aluminium anodisé gris titane\n\nCommandes\nInterrupteur multifonction étanche au culot (Pleine puissance / Éco / Flash)\n\nSKU\n9900010929784",
-     "short_description": "Lampe torche LED rechargeable 12,5 cm en aluminium gris titane avec câble USB et dragonne tressée."
+     "name": "Lanterne Cheminée LED Décorative – Effet Flamme Réaliste et Design Rétro",
+     "description": "Apportez une ambiance chaleureuse et cosy à votre intérieur avec cette lanterne cheminée LED au design rétro élégant. Dotée d’un effet de flamme dansante et de fausses bûches incandescentes ultra-réalistes, elle recrée tout le charme d’un feu de cheminée traditionnel en toute sécurité. Idéale pour sublimer votre décoration de salon ou de chambre sans contrainte.\n\nCaractéristique\nDétail\n\nType de produit\nLanterne cheminée décorative\n\nMarque\nNon spécifié\n\nModèle\nLED Fireplace Lantern\n\nCouleur\nNoir effet vieilli\n\nCompatibilité\nDécoration intérieure, salon, chambre, bureau\n\nFonctionnalités\nÉclairage LED à effet de flammes, bûches réalistes, structure sur pieds au design classique\n\nAvantages\nAmbiance cocooning immédiate, sans chaleur excessive, sans fumée ni danger, parfaite pour toutes les pièces\n\nContenu de la boîte\n1 lanterne cheminée LED\n\nSKU\n700000000000117",
+     "short_description": "Apportez une ambiance chaleureuse et cosy à votre intérieur avec cette lanterne cheminée LED au design rétro élégant. Dotée d’un effet de flamme dansante et de fausses bûches incandescentes ultra-réalistes, elle recrée tout le charme d’un feu de cheminée traditionnel en toute sécurité. Idéale pour sublimer votre décoration de salon ou de chambre sans contrainte."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/e85f539c-ce14-49af-995a-097937476de6.jpg"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T165233.778.png"
    ]
   },
   {
-   "sku": "doshift-118931",
-   "price": 219,
+   "sku": "doshift-123740",
+   "price": 255,
    "stock": 10,
    "status": 0,
    "categories": [
@@ -166,32 +170,33 @@
    ],
    "locales": {
     "fr": {
-     "name": "Réchaud de camping ALBA Express – Version d’hiver",
-     "description": "Le réchaud de camping ALBA Express est présenté comme un équipement compact et léger pour cuisiner en extérieur. L’illustration montre un support métallique circulaire placé au-dessus du brûleur, un ensemble inférieur bleu et une base noire. Une molette latérale permet le réglage du débit de gaz.\n\nCaractéristique\nDétail\n\nSKU\n9900010975415\n\nMarque affichée\nALBA Express\n\nType\nRéchaud à gaz de camping pour extérieur\n\nVersion\n« Version d’hiver / Winter Edition » sur l’emballage\n\nStructure représentée\nSupport de cuisson métallique circulaire, réservoir bleu et base noire\n\nCommande et raccordement\nMolette latérale noire ; connexion « Easy Clic Plus » annoncée",
-     "short_description": "Réchaud de camping ALBA Express, version d’hiver, pour cuisiner en extérieur."
+     "name": "Lanterne Cheminée LED Décorative – Effet Flamme Réaliste et Ambiance Chaleureuse",
+     "description": "Créez une atmosphère chaleureuse et apaisante dans votre intérieur avec cette lanterne cheminée LED. Dotée d’un effet de flamme dansante ultra-réaliste et de bûches incandescentes, elle offre tout le charme d’un véritable feu de cheminée en toute sécurité. Idéale pour parfaire votre décoration de salon ou de chambre sans contrainte.\n\nCaractéristique\nDétail\n\nType de produit\nLanterne cheminée décorative\n\nMarque\nNon spécifié\n\nModèle\nLED Fireplace Lantern\n\nCouleur\nNoir / Effet bois vieilli\n\nCompatibilité\nDécoration intérieure, salon, chambre, bureau\n\nFonctionnalités\nÉclairage LED à effet de flammes et bûches réalistes, design arrondi sécurisé\n\nAvantages\nAmbiance chaleureuse sans chaleur excessive, sans fumée ni danger, économique et facile à installer\n\nContenu de la boîte\n1 lanterne cheminée LED\n\nSKU\n\n700000000000116",
+     "short_description": "Créez une atmosphère chaleureuse et apaisante dans votre intérieur avec cette lanterne cheminée LED. Dotée d’un effet de flamme dansante ultra-réaliste et de bûches incandescentes, elle offre tout le charme d’un véritable feu de cheminée en toute sécurité. Idéale pour parfaire votre décoration de salon ou de chambre sans contrainte."
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/ebb7878f-598f-4f80-a712-c55fb1ab407d.png"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T163815.527.png"
    ]
   },
   {
-   "sku": "doshift-118922",
-   "price": 189,
+   "sku": "doshift-123712",
+   "price": 209,
    "stock": 10,
    "status": 0,
    "categories": [
-    11
+    11,
+    13
    ],
    "locales": {
     "fr": {
-     "name": "Sèche-cheveux Ceriotti Super GEK 3800",
-     "description": "Le sèche-cheveux Ceriotti Super GEK 3800 est représenté sur son emballage avec un corps rouge cuivré, une poignée allongée et un embout concentrateur noir. Deux commandes sont placées sur le manche, tandis qu’une boucle de suspension apparaît à sa base.\n\nCaractéristique\nDétail\n\nSKU\n9900010975422\n\nMarque affichée\nCeriotti\n\nModèle affiché\nSuper GEK 3800\n\nType\nSèche-cheveux à poignée\n\nColoris représenté\nRouge cuivré avec éléments noirs\n\nÉléments visibles\nEmbout concentrateur noir, deux commandes sur le manche et boucle de suspension",
-     "short_description": "Sèche-cheveux Ceriotti Super GEK 3800, au coloris rouge cuivré avec embout concentrateur noir."
+     "name": "Sac de Voyage Bicolore Extensible et Multifonctionnel avec Bandoulière",
+     "description": "Le compagnon idéal de vos déplacements ! Ce sac de voyage bicolore allie parfaitement élégance, robustesse et praticité. Grâce à son compartiment inférieur extensible, à sa bandoulière amovible et à ses grands volumes, il s’adapte en un clin d’œil à vos week-ends, vos séances de sport ou votre quotidien.\n\nCaractéristique\nDétail\n\nType de produit\nSac de voyage / Fourre-tout\n\nMarque\nSINGWEI\n\nModèle\nSac de voyage bicolore extensible avec bandoulière\n\nCouleur\nVert et Gris clair\n\nCompatibilité\nBagage cabine, déplacements de week-end, salle de sport, activités du quotidien\n\nFonctionnalités\nCompartiment inférieur extensible, bandoulière réglable et amovible, double poignée renforcée, poche frontale\n\nAvantages\nGrande capacité modulable, transport polyvalent (main ou épaule), design sportif, résistant et pratique\n\nContenu de la boîte\n1 sac de voyage, 1 bandoulière\n\nSKU\n7000000000123",
+     "short_description": "Le compagnon idéal de vos déplacements ! Ce sac de voyage bicolore allie parfaitement élégance, robustesse et praticité. Grâce à son compartiment inférieur extensible, à sa bandoulière amovible et à ses grands volumes, il s’adapte en un clin d’œil à vos week-ends, vos séances de sport ou votre quotidien"
     }
    },
    "image_urls": [
-    "https://doshift.ma/wp-content/uploads/2026/10/c179ba6e-75bf-470b-a347-abe078603e4d.png"
+    "https://doshift.ma/wp-content/uploads/2026/11/Sans-titre-2026-11-04T145500.536.png"
    ]
   }
  ]
