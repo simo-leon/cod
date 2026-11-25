@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-18883",
+   "price": 950,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Défonceuse 1600W 6,8,12 mm",
+     "description": "",
+     "short_description": "Caractéristiques\n\nTension 220-240V ~ 50/60Hz\n\nPuissance d’entrée 1600W\n\nVitesse à vide 22000/min\n\nDiamètre du collet 6mm, 8mm, 12mm, 1/4″, 1/2″\n\nCapacité de plongée 0-55mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-02-12T220027.581.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18849",
+   "price": 1450,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie circulaire 2200W 235mm",
+     "description": "",
+     "short_description": "Tension : 220-240V ~ 50/60Hz\n\nPuissance d’entrée: 2200W\n\nVitesse à vide: 3800 tr/min\n\nDiamètre de lame: 235mm\n\nCapacité de coupe: 80mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-02-04T050844.235.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18811",
+   "price": 1300,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Meuleuse d’angle 3000W 230mm",
+     "description": "",
+     "short_description": "Tension: 220-240V ~ 50 / 60Hz\n\nPuissance d’entrée: 3000W\n\nVitesse à vide: 6300 tr / min."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-27T155447.293-min.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18805",
+   "price": 1050,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Meuleuse d’angle 2400W 230mm",
+     "description": "Meuleuse d’angle TOTAL 2400 W 230 mm (TG1252306)\n\nLa meuleuse TOTAL 2400 W est faite pour les gros travaux : coupe du béton, de la pierre, du marbre et des profilés métalliques épais, meulage de soudures importantes. Son disque de 230 mm permet des coupes profondes en un seul passage.\n\nElle est livrée avec une poignée auxiliaire pour bien la tenir à deux mains et un jeu de balais de charbon de rechange.\n\nCaractéristiques techniques\n\nRéférence\nTG1252306\n\nAlimentation\n220-240 V / 50-60 Hz\n\nPuissance\n2400 W\n\nVitesse à vide\n6300 tr/min\n\nDiamètre du disque\n230 mm\n\nAccessoires\nPoignée auxiliaire, balais de charbon\n\nSécurité\n\nUtilisez toujours le carter de protection et la poignée auxiliaire.\n\nChoisissez un disque de 230 mm adapté au matériau et à la vitesse de la machine.\n\nPortez lunettes, gants et protection auditive.\n\nDisques diamant et à tronçonner dans nos disques. Pour les petits travaux, voyez les modèles 115 et 125 mm parmi nos meuleuses.",
+     "short_description": "Tension : 220-240 V ~ 50/60 Hz.\n\nCapacité : 2400W\n\nVitesse à vide : 6300 tr/min\n\nDiamètre du disque de meulage : 230 mm\n\nComprend 1 poignée auxiliaire et 1 jeu de charbon de bois."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-03-13T222315.607.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18798",
+   "price": 860,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Meuleuse d’angle 2000W 180mm",
+     "description": "Meuleuse d’angle TOTAL 2000 W 180 mm (TG12018026)\n\nEntre la petite meuleuse de 125 mm et la grosse de 230 mm, la meuleuse TOTAL 2000 W de 180 mm offre un bon compromis : assez de profondeur de coupe pour les profilés, la pierre et le béton, tout en restant plus maniable qu’une 230 mm. C’est un outil apprécié des métalliers, maçons et carreleurs.\n\nCaractéristiques techniques\n\nRéférence\nTG12018026\n\nAlimentation\n220-240 V / 50-60 Hz\n\nPuissance\n2000 W\n\nVitesse à vide\n8450 tr/min\n\nDiamètre du disque\n180 mm (7 pouces)\n\nFiletage de broche\nM14\n\nDans la boîte\n\nLa meuleuse, 1 poignée auxiliaire, 1 clé de serrage et 1 jeu de balais de charbon de rechange.\n\nTravaillez toujours avec le carter et la poignée auxiliaire, et portez lunettes, gants et protection auditive. Disques de 180 mm dans nos disques ; voir toutes nos meuleuses.",
+     "short_description": "Meuleuse d’angle TOTAL 2000 W 180 mm (TG12018026)"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/esmeril-angular-180mm-7-2350w-total-tools-tg1241806_toolmania.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/f5f8d6dcee62af2ddead6d8babf02c3f.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TG12018026-TOTAL1.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18793",
+   "price": 890,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Meuleuse d’angle 1500W 125mm",
+     "description": "Meuleuse d’angle 1500W 125mm : La Performance en Force!\n\nTension : 220-240 V~50/60 Hz\n\nPuissance d’entrée : 1 500 W\n\nVitesse à vide : 11 000 tr/min\n\nDiamètre du disque : 125 mm\n\nFiletage de broche : M14\n\nAvec poignée auxiliaire 1 pièces\n\nAvec 1 jeu de balais de charbon\n\nAvec clé 1 pièces",
+     "short_description": "Tension : 220-240 V~50/60 Hz\n\nPuissance d’entrée : 1 500 W\n\nVitesse à vide : 11 000 tr/min\n\nDiamètre du disque : 125 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Untitled-design-3-2.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/0f858ea3a6f81df840cb3b334b95629d.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18679",
+   "price": 329,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Meuleuse d’angle 710W 115mm",
+     "description": "Meuleuse d’angle TOTAL 710 W : la meuleuse 115 mm pour tous les jours\n\nLa meuleuse d’angle TOTAL TG10711536 associe un moteur de 710 W à un disque de 115 mm qui tourne à 11 000 tr/min. Compacte et légère en main, elle convient au bricolage comme aux petits travaux de chantier.\n\nAvec le bon disque, elle coupe le métal, le carrelage ou la pierre, et elle meule ou ébarbe les soudures. La poignée auxiliaire fournie permet de la tenir à deux mains pour plus de contrôle.\n\nUsages courants\n\nCouper des tubes, fers à béton et profilés métalliques\n\nCouper du carrelage et de la pierre avec un disque diamant\n\nMeuler et ébarber les soudures\n\nEnlever la rouille ou la peinture avec une brosse ou un disque à lamelles\n\nCaractéristiques techniques\n\nRéférence\nTG10711536\n\nPuissance\n710 W\n\nAlimentation\n220-240 V, 50/60 Hz\n\nVitesse à vide\n11 000 tr/min\n\nDiamètre du disque\n115 mm\n\nFourni avec\n1 poignée auxiliaire\n\nSécurité\n\nGardez toujours le carter de protection, portez lunettes et gants, et utilisez un disque adapté au matériau. Pour des disques de 125 mm ou des travaux plus lourds, voyez la meuleuse 1100 W 125 mm. Sans câble, il existe la meuleuse sans fil 20 V.",
+     "short_description": "Tension : 220-240V~50/60Hz\n\nPuissance d’entrée : 710W\n\nVitesse à vide : 11000 tr/min\n\nDiamètre du disque : 115mm\n\nLivré avec 1 poignée auxiliaire"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Untitled-design-12.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/261c8721fa274817622aea7fc9b13b82__59127.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18668",
+   "price": 349,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Visseuse sans fil 1 batterie 12V 1.5Ah",
+     "description": "https://youtu.be/0i1rgpIADkg",
+     "short_description": "Tension : 12V\n\nVitesse à vide : 0-750 tr/min\n\nCouple maximal : 20 Nm\n\nCapacité du mandrin : 0,8-10 mm\n\nLumière de travail intégrée\n\nLivré avec 1 batterie de 1,5 Ah & 1 chargeur\n\nLivré avec 1 embout de 65 mm en Cr-V"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Visseuse-sans-fil-1-batterie-12V-1.5Ah-.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18505",
+   "price": 549,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Visseuse 20V 1,5Ah 1 batterie",
+     "description": "Visseuse perceuse sans fil TOTAL 20 V : l’outil de base de la maison\n\nLa visseuse TOTAL TDLI20011 visse, dévisse et perce sans fil grâce à sa batterie lithium-ion 20 V. Avec 45 Nm de couple, elle monte des meubles, fixe des étagères et perce le bois, le métal léger ou le plastique.\n\nSes deux vitesses s’adaptent au travail : la première (0-400 tr/min) pour visser avec contrôle, la seconde (0-1500 tr/min) pour percer. Elle est livrée prête à l’emploi, avec une batterie et un chargeur rapide.\n\nCaractéristiques techniques\n\nRéférence\nTDLI20011\n\nTension\n20 V lithium-ion\n\nVitesse à vide\n0-400 / 0-1500 tr/min\n\nCouple max\n45 Nm\n\nCapacité du mandrin\n0,8 à 10 mm\n\nFourni avec\n1 batterie 1,5 Ah + 1 chargeur rapide\n\nQuelle visseuse choisir ?\n\nPour percer dans le béton, prenez une visseuse à percussion, comme la 55 Nm TDLI205582. Pour de longues journées de travail, un modèle livré avec 2 batteries évite les arrêts. Pour le petit montage de meubles, la visseuse 12 V suffit.",
+     "short_description": "Tension: 20 V\n\nVitesse à vide: 0-400 / 0-1500 / min\n\nCouple max .: 45NM\n\nCapacité du mandrin: 0,8-10 mm\n\nBatterie 20V Lithium-Ion 1.5Ah\n\nAvec 1 batterie 1.5Ah & 1 chargeur rapide"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2022/06/TDLI20011-total.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2022/06/715nYN0f2L.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2022/06/61EHSUAorVL.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18500",
+   "price": 850,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau perforateur 800W 2 mandrins",
+     "description": "https://youtu.be/D_dYezFe0DA",
+     "short_description": "Puissance d’entrée: 800W\n\nVitesse à vide: 0-1100 tr / min\n\nTaux d’impact: 0-4000 bpm\n\nÉnergie d’impact: 2,5J\n\nBéton: 26 mm / Acier: 13 mm / Bois: 30 mm\n\nmandrin SDS plus\n\navec 3 forets et 2 burins"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2022/06/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-18.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-61047",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Douille hexagonale 30mm 1/2″ THTST12301",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/13986-douille-hexagonale-30mm-12-thtst12301.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61045",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince universelle isolée THTIP171-TOTAL",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/10177-pince-universelle-isolee-thtip171-total.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61036",
+   "price": 95,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie à Main 500mm total THT55208",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/14581-scie-a-main-500mm-total-tht55208.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61032",
+   "price": 195,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de 8 clés polygonales coudées THT102486",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/jeu-8-cles-polygonales-total-tht102486.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61030",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de 8 clés plates THT102386-Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/jeu-8-cles-plates-total-tht102386.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61024",
+   "price": 600,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batterie lithium-ion 5.0Ah 20V TOTAL TFBLI20531",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/batterie-5ah-20v-total-tfbli20531.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61018",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support de soudage magnétique 5″ TAMWH25052-Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/10056-support-de-soudge-magnetique-5-tamwh25052-total.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61014",
+   "price": 21,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse métallique TAC31031-total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/brosse-metallique-total-tac31031.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61012",
+   "price": 67,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lame de scie TOTAL TCT 40T pour TAC231415",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/14005-lame-de-scie-total-tct-40t-pour-tac231415.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-60605",
+   "price": 350,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac à outils rigide 16″ poignée métal",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/8.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/07/1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/07/2.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/07/3.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/07/4.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/07/5.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/07/6.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/07/7.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-61075",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé mandrin TAC470131",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/cle-mandrin-total-tac470131.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61071",
+   "price": 2300,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie à onglet 1800W TOTAL TS42152557",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/14842-total-scie-a-onglet-1800w-ts42152557.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61069",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Serre joint 80x900mm 135kg TOTAL THT1346803",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/serre-joint-900mm-total-tht1346803.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61067",
+   "price": 390,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac À Outils 20 KG THT561625",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/14830-sac-a-outils-20-kg-tht561625.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61061",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bottes de pluie TSP302L.43 Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/bottes-de-pluie-total-tsp302l.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61059",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bottes de pluie TSP302L.41 Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/bottes-de-pluie-total-tsp302l.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61057",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bottes de pluie TSP302L.40 Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/bottes-de-pluie-total-tsp302l.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61055",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gants tricotés à PVC à pois TSP11102-TOTAL",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/gants-tricotes-pvc-total-tsp11102.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61053",
+   "price": 850,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Polisseuse d’angle 1400W TP1141806-1-TOTAL",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/polisseuse-angle-1400w-total-tp1141806.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61043",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de limes à aiguilles 3x140mm 6PCS TOTAL | THT91462",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/13970-ensemble-de-limes-a-aiguilles-3x140mm-6pcs-total-tht91462.webp"
+   ]
+  }
+ ]
+}

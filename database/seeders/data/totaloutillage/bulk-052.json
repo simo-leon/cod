@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-61163",
+   "price": 450,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Outils multifonctions 300W-TS3006 TOTAL",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/outil-multifonction-300w-total-ts3006.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61130",
+   "price": 250,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet de pulvérisation TOTAL pour nettoyeurs haute pression (TGTSG026)",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/TGTSG026.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61081",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "TOTAL Lame De Scie TCT POUR Bois 2pcs TAC231410",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/15029-total-lame-de-scie-tct-pour-bois-2pcs-tac231410.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61079",
+   "price": 57,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse métallique torsadée 125 mm TOTAL TAC32051",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/15022-brosse-metallique-torsadee-125-mm-total-tac32051.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61077",
+   "price": 22,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Douille hexagonale 1/2 22 mm TOTAL THTST12221",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/15021-douille-hexagonale-12-22-mm-total-thtst12221.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61073",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Disque diamant ultra fin 115mm TOTAL TAC2131151HT",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/14844-total-disque-diamant-ultra-fin-115mm-tac2131151ht.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61065",
+   "price": 499,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Débroussailleuse à batterie 20V sans batterie ni chargeur – TGTLI20018 TOTAL",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/debroussailleuse-20v-total-tgtli20018.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61063",
+   "price": 530,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à eau périphérique 370W 0.5HP Total – TWP137016",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/9744-pompe-a-eau-peripherique-370w-05hp-total-twp137016.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61051",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "TOTAL Douille hexagonale profonde 1/2″ 30mm THTST12303L",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/13985-total-douille-hexagonale-profonde-12-30mm-thtst12303l.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61049",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "THTST12301 Douille hexagonale 1/2″",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/13987-thtst12301-douille-hexagonale-12.jpg"
+   ]
+  }
+ ]
+}

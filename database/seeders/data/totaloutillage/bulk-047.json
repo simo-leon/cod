@@ -1,0 +1,209 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-62698",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Électrode de soudage en acier au carbone TERCVC2221",
+     "description": "La TOTAL TERCVC2221 est une électrode de soudage E6013 destinée au soudage de l’acier au carbone. Elle mesure 3,2 mm de diamètre et 350 mm de longueur. Conditionnée en boîte de 5 kg, elle convient aux travaux courants de soudage à l’arc et offre une solution pratique pour les ateliers, chantiers et travaux de maintenance.\n\nMarque : TOTAL\n\nModèle : TERCVC2221\n\nType : Électrode de soudage pour acier au carbone\n\nClassification : E6013\n\nDiamètre : 3,2 mm\n\nLongueur : 350 mm",
+     "short_description": "Marque : TOTAL\n\nModèle : TERCVC2221\n\nType : Électrode de soudage pour acier au carbone\n\nClassification : E6013\n\nDiamètre : 3,2 mm\n\nLongueur : 350 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-7-7.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62693",
+   "price": 32,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Électrode de soudage en acier au carbone TETERCVC2121",
+     "description": "La TOTAL TERCVC2121 est une électrode de soudage E6013 conçue pour le soudage de l’acier au carbone. Avec un diamètre de 2,5 mm et une longueur de 350 mm, elle convient aux travaux courants de soudage à l’arc. Elle est conditionnée en boîte de 5 kg, avec chaque paquet protégé dans un emballage sous vide\n\nMarque : TOTAL\n\nModèle : TERCVC2121\n\nType : Électrode de soudage pour acier au carbone\n\nClassification : E6013\n\nDiamètre : 2,5 mm\n\nLongueur : 350 mm\n\nPoids : 5 kg par boîte",
+     "short_description": "Marque : TOTAL\n\nModèle : TERCVC2121\n\nType : Électrode de soudage pour acier au carbone\n\nClassification : E6013\n\nDiamètre : 2,5 mm\n\nLongueur : 350 mm\n\nPoids : 5 kg par boîte"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-7-6.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62668",
+   "price": 550,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur de batterie 6/12 V TBC1501",
+     "description": "Le TOTAL TBC1501 est un chargeur de batterie conçu pour la recharge des batteries automobiles et autres batteries compatibles de 6 V et 12 V. Il fonctionne sur une alimentation de 220–240 V et fournit un courant nominal de 6 A. Il convient aux batteries d’une capacité de référence de 40 à 90 Ah, ce qui le rend pratique pour les garages, ateliers mécaniques et applications automobiles.\n\nMarque : TOTAL\n\nModèle : TBC1501\n\nType : Chargeur de batterie\n\nTension d’entrée : 220–240 V\n\nFréquence : 50/60 Hz\n\nTension de charge : 6/12 V\n\nCourant nominal : 6 A",
+     "short_description": "Marque : TOTAL\n\nModèle : TBC1501\n\nType : Chargeur de batterie\n\nTension d’entrée : 220–240 V\n\nFréquence : 50/60 Hz\n\nTension de charge : 6/12 V\n\nCourant nominal : 6 A"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TBC1501.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62658",
+   "price": 8500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Poste à souder inverter MMA 630 A TW26305",
+     "description": "Le TOTAL TW26305 est un poste à souder inverter MMA industriel équipé de la technologie IGBT. Alimenté en triphasé 380–400 V, il offre un courant de soudage allant jusqu’à 630 A et un cycle de fonctionnement de 60 % à 630 A. Il est conçu pour les travaux de soudage intensifs et accepte des électrodes de 3,2 à 6,0 mm.\n\nMarque : TOTAL\n\nModèle : TW26305\n\nType : Poste à souder inverter MMA\n\nTechnologie : IGBT\n\nAlimentation : 380–400 V\n\nPhase : Triphasé\n\nFréquence : 50/60 Hz\n\nCourant de sortie : 20–630 A\n\nCourant maximal : 630 A\n\nCycle de fonctionnement : 60 % à 630 A",
+     "short_description": "Modèle : TW26305\n\nType : Poste à souder inverter MMA\n\nTechnologie : IGBT\n\nAlimentation : 380–400 V\n\nPhase : Triphasé\n\nFréquence : 50/60 Hz\n\nCourant de sortie : 20–630 A\n\nCourant maxim"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TW26305.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TW26305-600x315w.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62631",
+   "price": 3600,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Poste à souder 160 A TMGT16058",
+     "description": "Le TOTAL TMGT16058 est un poste à souder inverter multiprocess conçu pour les travaux de soudage professionnels et de maintenance. Il prend en charge les procédés MIG, MAG, MMA et TIG Lift, avec une intensité maximale de 160 A. Équipé d’un afficheur LED, d’un dévidoir de fil intégré et compatible avec des bobines jusqu’à 5 kg, il offre une solution polyvalente pour différents travaux de métallerie et de réparation",
+     "short_description": "Marque : TOTAL\n\nModèle : TMGT16058\n\nTechnologie : Inverter IGBT\n\nProcédés : MIG / MAG / MMA / TIG Lift\n\nTension d’alimentation : 220–240 V\n\nFréquence : 50/60 Hz\n\nCourant MIG/MAG : 30–160 A\n\nCourant MMA : 15–160 A\n\nCourant TIG Lift : 15–160 A\n\nCycle de fonctionnement : 30 % à 40 °C\n\nÉcran : LED numérique\n\nTension à vide : 84 V"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/d63f148071314de020bca3db3471cdb9.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-34.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62352",
+   "price": 200,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tuyau haute pression 5 m TGTHPH526",
+     "description": "Le TGTHPH526 est un tuyau haute pression de 5 mètres conçu pour les nettoyeurs haute pression TOTAL. Fabriqué en PVC, il offre une bonne flexibilité et facilite le nettoyage des véhicules, terrasses, façades et autres surfaces. Il est compatible avec plusieurs modèles de nettoyeurs haute pression TOTAL, notamment les série\n\nRéférence : TGTHPH526\n\nType : Tuyau haute pression\n\nLongueur : 5 mètres\n\nMatière : PVC\n\nUtilisation : Nettoyeurs haute pression",
+     "short_description": "Référence : TGTHPH526\n\nType : Tuyau haute pression\n\nLongueur : 5 mètres\n\nMatière : PVC\n\nUtilisation : Nettoyeurs haute pression"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-33.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TGTHPH526.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-1-17.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62331",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lames de scie sabre pour bois 150 mm TAC52644D",
+     "description": "Les **lames de scie sabre TOTAL TAC52644D** sont conçues pour réaliser des coupes rapides et efficaces dans le bois et différents matériaux dérivés. Fabriquées en **acier HCS (acier au carbone)**, elles offrent une bonne résistance et sont adaptées aux travaux de menuiserie, de rénovation et de bricolage.\n\nAvec une **longueur de 150 mm**, une largeur de 19 mm et une denture de **6 TPI**, ces lames permettent de réaliser des coupes rapides dans le bois de construction, le MDF, le contreplaqué, l’OSB ainsi que certains plastiques et matériaux composites.\n\nLe kit contient **2 lames** avec un emmanchement **1/2″**, compatible avec les scies sabres adaptées à ce système. La TOTAL TAC52644D constitue une solution pratique pour les travaux nécessitant des lames fiables et performantes.",
+     "short_description": "* **Référence :** TAC52644D\n\n* **Marque :** TOTAL\n\n* **Type :** Lames de scie sabre\n\n* **Quantité :** 2 pièces\n\n* **Longueur :** 150 mm\n\n* **Largeur :** 19 mm\n\n* **Épaisseur :** 1,25 mm\n\n* **Denture :** 6 TPI\n\n* **Matériau :** HCS (acier au carbone)\n\n* **Emmanchement :** 1/2″\n\n* **Capacité de coupe :** jusqu’à 100 mm dans le bois\n\n* **Matériaux compatibles :** bois, MDF, contreplaqué, OSB, plastique et matériaux composites\n\n* **Utilisation :** menuiserie, bricolage, rénovation et construction\n\n* **Compatibilité :** scies sabres avec emmanchement 1/2″"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-24-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-25-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-26-2.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62314",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bâtons de colle chaude 11,2 × 200 mm – 6 pièces TACGT2061",
+     "description": "Les bâtons de colle chaude TOTAL TACGT2061** sont conçus pour être utilisés avec les pistolets à colle compatibles. Fabriqués en **résine de pétrole**, ils permettent de réaliser des collages rapides et pratiques pour les travaux de bricolage, de réparation, de décoration et d’artisanat.\n\nChaque bâton mesure **11,2 mm de diamètre et 20 cm de longueur**. Le pack contient **6 bâtons de colle**, offrant une solution pratique pour les travaux de collage courants.\n\nGrâce à leur format standard de 11,2 mm, les bâtons **TOTAL TACGT2061** sont adaptés aux pistolets à colle utilisant ce diamètre.",
+     "short_description": "Référence : TACGT2061\n\nMarque : TOTAL\n\nType : Bâtons de colle chaude\n\nQuantité : 6 pièces\n\nDiamètre : 11,2 mm\n\nLongueur : 20 cm\n\nMatière : Résine de pétrole\n\nUtilisation : Bricolage, réparation, décoration et artisanat\n\nCompatibilité : Pistolets à colle chaude acceptant des bâtons de 11,2 mm\n\nConditionnement : Blister"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-19-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-20-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-21-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-22-1.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62305",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à colle chaude TOTAL 45 W TT401116",
+     "description": "Le pistolet à colle chaude TOTAL TT401116** est un outil pratique et polyvalent de **45 W**, idéal pour les travaux de bricolage, de réparation, de décoration et d’artisanat. Il permet de réaliser rapidement des collages propres et efficaces sur différents matériaux.\n\nGrâce à son **débit de colle de 20 à 30 g/min** et à son temps de préchauffage de seulement **3 à 5 minutes**, le TT401116 offre une utilisation simple et efficace. Il est compatible avec des bâtons de colle de **11,2 mm de diamètre et 150 mm de longueur\n\nFonctionnant sous **220–240 V**, ce pistolet à colle est livré avec **8 bâtons de colle**, permettant de commencer immédiatement les travaux. Compact et facile à utiliser, le **TOTAL TT401116** convient aussi bien aux bricoleurs qu’aux professionnels pour les petits travaux d’assemblage et de finition.",
+     "short_description": "Marque : TOTAL\n\nRéférence : TT401116\n\nType : Pistolet à colle chaude\n\nPuissance : 45 W\n\nTension : 220–240 V\n\nFréquence : 50/60 Hz\n\nDébit de collage : 20–30 g/min\n\nDiamètre des bâtons : 11,2 mm\n\nLongueur des bâtons : 150 mm\n\nTemps de préchauffage : 3–5 minutes"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-14-2.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-15-3.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-17-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-18-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-16-1.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62297",
+   "price": 200,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit d’accessoires pour mini perceuse 420 pièces TAKMG4208",
+     "description": "Le kit d’accessoires TOTAL TAKMG4208** comprend **420 pièces** spécialement conçues pour les mini-perceuses et outils rotatifs. Il offre une grande variété d’accessoires pour les travaux de **ponçage, meulage, polissage, découpe, perçage, gravure et finition**.\n\nLe coffret contient notamment des disques de coupe, meules, têtes de ponçage, brosses, fraises, forets, accessoires de polissage, papiers abrasifs et différents mandrins. Il permet ainsi de réaliser de nombreux travaux de précision sur différents matériaux.\n\nL’ensemble est livré dans une **boîte en plastique pratique**, facilitant le rangement, le transport et l’accès rapide aux accessoires. Le **TOTAL TAKMG4208** constitue une solution polyvalente pour les travaux de bricolage, d’artisanat, de réparation et de précision.",
+     "short_description": "Marque : TOTAL\n\nRéférence : TAKMG4208\n\nType : Kit d’accessoires pour mini-perceuse / outil rotatif\n\nNombre de pièces : 420\n\nConditionnement : Boîte en plastique\n\nUtilisations : Ponçage, meulage, polissage, découpe, perçage, gravure et affûtage\n\nCompatibilité : Mini-perceuses et outils rotatifs compatibles\n\nAccessoires inclus : Disques, meules, fraises, forets, brosses, feutres, papiers abrasifs, mandrins et autres accessoires"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-11-2.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-12-2.jpg"
+   ]
+  }
+ ]
+}

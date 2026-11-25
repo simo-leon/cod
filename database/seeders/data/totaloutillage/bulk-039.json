@@ -1,0 +1,208 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-19997",
+   "price": 12000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pilon de bourrage d’essence 6.5HP",
+     "description": "Moteur à essence\nPuissance moteur: 4.8Kw (6.5HP)\nPoids: 79Kgs\nForce d’impact: 10kN\n\nTaux d’impact: 450-660 tr / min\nCourse de saut: 65mm\nPointure: 33X29cm\nVolume du réservoir de carburant: 2,0 L.",
+     "short_description": "Moteur à essence\n\nPuissance moteur: 4.8Kw (6.5HP)\n\nTaux d’impact: 450-660 tr / min\n\nVolume du réservoir de carburant: 2,0 L.\n\nVotre Pilon de bourrage TOTAL : La force sous contrôle!"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/OIP-3-min.jpeg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19975",
+   "price": 400,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cloueuse pneumatique 15-50 mm",
+     "description": "",
+     "short_description": "Capacité de charge: 100 Pièces\n\nTaille de Brad: 15-50mm\n\nAvec des clous de Brad 1000 Pcs\n\nPression de fonctionnement: 0,4-0,7 MPa (60-100 psi)"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/1-1.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/6-1.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/5-1.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/7.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/9.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19962",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Accessoires pour meuleuse droite",
+     "description": "Accessoires pour meuleuse droite\n\nLES PARAMÉTRES TECHNIQUES\n\n1 pièce cylindrique 16*25mm\n\n1 piece type de balle 20*21mm                                                                                                                                                    1 cône PCS 20*32mm\n\n1 piece type T 24*10mm\n\n1 piece rond 20*20mm",
+     "short_description": "1 pièce cylindrique 16*25mm\n\n1 piece type de balle 20*21mm                                                                                                                                                    1 cône PCS 20*32mm\n\n1 piece type T 24*10mm\n\n1 piece rond 20*20mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Design-sans-titre-52.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19958",
+   "price": 1550,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rainureuse 1500W",
+     "description": "Rainureuse murale TOTAL 1500 W (TWLC1256)\n\nLa rainureuse TOTAL TWLC1256 ouvre des saignées nettes et régulières dans les murs en brique, béton ou plâtre pour encastrer les gaines électriques et les tuyaux. Plus rapide et plus propre qu’un burin, elle évite aussi d’abîmer le mur autour de la saignée.\n\nElle travaille avec des disques de 125 mm et réalise des saignées de 8 à 30 mm de large et de 3 à 29 mm de profondeur. Elle est livrée avec 4 disques de coupe.\n\nCaractéristiques techniques\n\nRéférence\nTWLC1256\n\nPuissance\n1500 W\n\nVitesse à vide\n9000 tr/min\n\nDiamètre des disques\n125 mm\n\nProfondeur de coupe\n3 à 29 mm\n\nLargeur de coupe\n8 à 30 mm\n\nAccessoires\n4 disques de coupe\n\nPour les saignées plus profondes et un usage intensif, voyez la rainureuse 3000 W. Raccordez un aspirateur de chantier pour limiter la poussière.",
+     "short_description": "Puissance d’entrée: 1500W\n\nVitesse à vide: 9000 tr / min\n\nDiamètre du disque: 125 mm\n\nProfondeur de coupe: 3-29 mm\n\nLargeur de coupe: 8-30 mm\n\nAvec 4 disques de coupe !"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/1500W-Wall-Chaser-Total-Brand-TWLC1256-MR-Enterprise.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Design-sans-titre-50.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19957",
+   "price": 500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Meuleuse à matrice 550W",
+     "description": "",
+     "short_description": "Meuleuse à matrice 550 W: Performance inégalée!\n\nTension : 220-240V ~ 50/60Hz\n\nPuissance d’entrée : 550W\n\nVitesse à vide: 29000/min\n\nDiamètre De La Colle : 6 Mm\n\nAvec 3pcs Meuleuse-pièces"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Design-sans-titre-49.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19951",
+   "price": 600,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie carrelage et Marbre 1400W",
+     "description": "",
+     "short_description": "Scie Coupe Carrelage & Marbre: Votre chef d’œuvre!\n\nTension: 220-240V ~ 50-60Hz\n\nPuissance d’entrée: 1400W\n\nVitesse à vide: 13000 tr / min\n\nDiamètre de la lame: 110x20mm\n\nCapacité de coupe max: 34 mm\n\nProfondeur de coupe réglable."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-03-07T125014.976.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/TS3141102.webp",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/TS3141102-2.webp",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/TS3141102.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Pistolet-pneumatique-dingqi.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19942",
+   "price": 425,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Touret de Meulage 150W 150mm",
+     "description": "Touret de Meulage 150W: La Précision qui Sculpte la Perfromance!\n\nTension: 220-240V ~ 50Hz\n\nPuissance d’entrée: 150W\n\nVitesse à vide: 2950 tr / min\n\nTaille de roue: 150 mm / 6  »\n\nComprend 1 jeu de protège-yeux\n\n1 boîte de rangement d’outils.",
+     "short_description": "Tension: 220-240V ~ 50Hz\n\nPuissance d’entrée: 150W\n\nVitesse à vide: 2950 tr / min.\n\n*Nous vous invitons cordialement à consulter les spécifications techniques détaillées situées ci-dessous sur cette page."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Design-sans-titre-47.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/TBG15015-2.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/TBG15015-3.webp",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/TBG15015-4.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/TBG15015.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19944",
+   "price": 850,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Polisseuse d’angle 1400W",
+     "description": "",
+     "short_description": "Tension: 220-240V ~ 50/60Hz\n\nPuissance d’entrée: 1400W\n\nVitesse à vide: 1500-4500/min\n\nDiamètre du disque: 180mm (7″)\n\nFiletage de broche M14"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-04-07T033134.238-min.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19920",
+   "price": 465,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à base de sol 550W en INOX",
+     "description": "",
+     "short_description": "Capacité du conteneur: 800 ml\n\nLongueur du cordon d’alimentation: 2,0 m\n\nPression de pulvérisation: 0,1-0,2 bar\n\nDébit max: 850 ml / min.\n\nAccessoires: 1x tasse à mesurer la viscosité / 1x aiguille de nettoyage de buse / 1x bandoulière."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-04-23T024819.121.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19859",
+   "price": 3200,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Vibrateur à béton à essence",
+     "description": "Vibrateur à béton TOTAL : La puissance qui crée la Robustesse!\n\nLES PARAMÉTRES TECHNIQUES:\n\nPuissance du moteur: 4.0Kw (5.5HP)\n\nAccouplement de type griffe\n\nNon inclus vibrateur poker\n\nConvient pour l’article TPVP1381,\n\nTPVP1451, TPVP1601",
+     "short_description": "Vibrateur à béton à essence TOTAL, équipé d’un puissant moteur de 4,0 kW (5,5 HP) et d’un accouplement de type griffe pour une performance optimale dans le bétonnage."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Design-sans-titre-30.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/Design-sans-titre-31.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,197 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-64136",
+   "price": 420,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chaussures de sécurité 44 TSP206SB.44",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/TSP206SB.44.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64134",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gants nitrile",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/15647-gants-nitrile.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64130",
+   "price": 68,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rabot 235mm THT9391",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THT9391-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THT9391.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64128",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clés à griffe Individuelles 12″",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THT171206.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64124",
+   "price": 265,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau de maçon 4KG THSTH63498",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THSTH63498.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THSTH63498-2-scaled.webp",
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THSTH63498.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64122",
+   "price": 160,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à graisse THT111051 Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/pistolet-a-graisse-total-tht111051.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64118",
+   "price": 300,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chandelle 2T THJS0201 Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THJS0201.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64116",
+   "price": 650,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cric hydraulique roulant 2T NEW THT10822 Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THT10822.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64112",
+   "price": 800,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe submersible pour eaux usées TWP87506-TOTAL",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/TWP87506.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64110",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince De Mâchoire Droite THT191002 — TOTAL",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/pince-etau-machoires-droites-total-tht191002.png"
+   ]
+  }
+ ]
+}

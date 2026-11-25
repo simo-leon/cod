@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-25902",
+   "price": 3200,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Outil multifonction taille-haie à essence 4 en 1",
+     "description": "L’outil multifonction taille-haie à essence 4 en 1 est équipé d’un moteur de 52cc, offrant une puissance nominale de 1,4 kW (2,2 HP).\n\nAvec une vitesse maximale de 10 000 tr/min, cet appareil polyvalent vous permet de tailler, couper et entretenir votre jardin avec efficacité.\n\nIdéal pour les professionnels comme les amateurs, il combine plusieurs fonctions essentielles pour des résultats rapides et précis.",
+     "short_description": "Déplacement: 52cc\n\nPuissance nominale : 1.4Kw (2,2 HP)\n\nVitesse maximale ： 10000 tr / min"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/10/2500-Kg-12.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-25885",
+   "price": 990,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aspirateur 2000W/2.5L",
+     "description": "Découvrez la puissance de cet aspirateur de 2000W, équipé d’un moteur à cyclone multiple en fil de cuivre pur pour une performance optimale.\n\nGrâce à sa puissance d’aspiration ajustable entre 260 et 330W, il garantit un nettoyage en profondeur.\n\nSa capacité de 2,5L et sa surface traitée par peinture Spary en font un choix durable et efficace pour votre maison.",
+     "short_description": "Tension: 220V-240V~50/60Hz\n\nPuissance (W):2000W\n\nMoteur à fil de cuivre pur à cyclone multiple\n\nPuissance d’aspiration: 260 ~ 330W\n\nPeinture Spary traitant la surface\n\nCapacité: 2.5L"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/10/2500-Kg-10.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-25818",
+   "price": 3900,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Transpalette 2500Kg",
+     "description": "Transpalette manuel TOTAL 2500 kg : déplacer vos palettes sans effort\n\nLe transpalette TOTAL THT301251 soulève et déplace des charges jusqu’à 2 500 kg. Il suffit de pomper avec le timon pour lever la palette de 8,5 à 20 cm, puis de la tirer à la main. Ses fourches de 55 x 115 cm correspondent au format courant des palettes, dont la palette européenne de 80 x 120 cm.\n\nLa grande roue directrice de 200 mm facilite les manœuvres, et les roues de charge de 80 mm roulent sous la palette.\n\nPour qui ?\n\nEntrepôts et dépôts\n\nMagasins, quincailleries et grossistes\n\nDéchargement de camions et de conteneurs\n\nAteliers et usines\n\nCaractéristiques techniques\n\nRéférence\nTHT301251\n\nCapacité\n2 500 kg\n\nHauteur des fourches abaissées\n8,5 cm\n\nHauteur de levée\n8,5 à 20 cm\n\nDimensions des fourches\n55 x 115 cm\n\nRoue directrice\n200 mm\n\nRoues de charge\n80 mm\n\nConseils d’utilisation\n\nCentrez la charge sur les deux fourches et ne dépassez pas 2 500 kg. Utilisez-le sur un sol plat et dur. Abaissez toujours les fourches quand vous ne vous en servez pas. Voir tous nos transpalettes.",
+     "short_description": "POIDS DE TRANSPORT: 2 500 Kg\n\nCHARIOT ÉLÉVATEUR: 8.5 – 20cm\n\nHAUTEUR FOURCHE: 8.5cm\n\nROUE DE GUIDAGE: Φ – 200mm\n\nROUE CARGO: Φ – 80mm\n\nDIMENSIONS FOURCHE: 55 X 115cm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/10/TOTAL_9_1b19f1be-20b6-4bbc-a3af-e0b2d50825c4_large.webp",
+    "https://totaloutillage.com/wp-content/uploads/2024/10/2500-Kg-1.png",
+    "https://totaloutillage.com/wp-content/uploads/2024/10/Untitled-design-38.png",
+    "https://totaloutillage.com/wp-content/uploads/2024/10/THT301251-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2024/10/2500-Kg-2.png",
+    "https://totaloutillage.com/wp-content/uploads/2024/10/OIP-7.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-25356",
+   "price": 495,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Débroussailleuse électrique 350W",
+     "description": "",
+     "short_description": "Manche télescopique\n\nVitesse à vide : 11 000 tr/min\n\nDiamètre de coupe : 250 mm\n\nPrise en main confortable et large"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/09/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-20.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-25104",
+   "price": 955,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Visseuse brushless et Meuleuse 20V",
+     "description": "Outil de découpe mini à batterie Lithium-ion (TAGLI7601) :\n\nVitesse à vide : 19500 tr/min\n\nDiamètre du disque : 76 mm (3″)\n\nPerceuse-visseuse sans fil à moteur brushless (TDLI20453) :\n\nVitesse à vide : 0-550/0-2000 tr/min\n\nCouple maximal : 52 Nm\n\nMandrin en plastique 0,8-10 mm\n\n4 disques de découpe en métal abrasifs\n\n2 disques de meulage en métal abrasifs\n\n1 disque diamant humide\n\n1 clé hexagonale\n\n47 accessoires\n\n2 batteries de 2,0 Ah (TFBLI20011)\n\n1 chargeur 20V (TFCLI2001)",
+     "short_description": "Outil de découpe mini à batterie Lithium-ion \n\nPerceuse-visseuse sans fil brushless Mandrin plastique\n\n4 disques de découpe & 2 disques de meulage & 1 disque diamant humide\n\n1 clé hexagonale & 47 accessoires\n\n2 batteries de 2,0 Ah & 1 chargeur 20V"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/09/Untitled-design-43.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-25026",
+   "price": 2490,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Meuleuse visseuse et perforateur 20V 4Ah Brushless",
+     "description": "Meuleuse d’angle sans-fil lithium-ion :\nMoteur sans balais (Brushless)\nVitesse à vide : 3000/8000/min\nDiamètre du disque : 115 mm\nFiletage de la broche : M14\nInterrupteur de sécurité\n\nMeuleuse d’angle lithium-ion sans-fil :\nMoteur sans balais (Brushless)\nVitesse à vide : 3000/8000/min\nDiamètre du disque : 115 mm\nFiletage de la broche : M14\nInterrupteur de sécurité\n\nPerceuse à percussion compacte brushless au lithium-ion :\nMoteur sans balais (Brushless)\nVitesse à vide : 0-550/0-2000 tr/min\nFréquence d’impact maximale : 30 000 bpm\nCouple maximal : 60 Nm\nMandrin en métal\nCapacité du mandrin : 13 mm (1/2″ »)\nRéglages de couple : 22+1+1\nEngrenage mécanique à 2 vitesses\nFonction de verrouillage de la broche\nMandrin sans clé à verrouillage automatique\n\nComprend :\n3 forets (6, 8, 10 mm)\n1 burin\n1 jeu de disques de coupe abrasifs pour métaux (10 pièces)\n47 accessoires\n3 forets de maçonnerie\n2 batteries 4,0 Ah (TFBLI2002)\n1 chargeur 20 V (TFCLI2001E)\nTension de charge : 220-240 V~50/60 Hz\n1 sac en toile 16″",
+     "short_description": "Avec 1 perceuse à percussion compacte sans balais au lithium-ion (TIDLI20602E)\n\nAvec 1 meuleuse d’angle au lithium-ion (TAGLI211156)\n\nAvec 1 marteau perforateur au lithium-ion (TRHLI20208)"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/09/Makute-ramadan3.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-24908",
+   "price": 165,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ébrancheur 30″",
+     "description": "Ébrancheur TOTAL 30 pouces (THT1527401)\n\nL’ébrancheur TOTAL coupe les branches trop épaisses pour un sécateur : taille des arbres fruitiers, des haies, des arbustes et des rosiers. Ses longs bras de 760 mm donnent un effet de levier qui réduit l’effort et permettent d’atteindre les branches en hauteur.\n\nIl coupe jusqu’à 25 mm de diamètre. Sa lame en acier au carbone 55 est traitée thermiquement et revêtue de téflon pour mieux glisser dans le bois.\n\nCaractéristiques\n\nRéférence\nTHT1527401\n\nLongueur\n30 pouces (760 mm)\n\nDiamètre de coupe maximal\n25 mm\n\nLame\nAcier au carbone 55, traitée thermiquement, revêtement téflon\n\nVoir toutes nos cisailles et ébrancheurs.",
+     "short_description": "Longueur: 30 « (760 mm)\n\nDiamètre de coupe max: 25 mm\n\nMatériau: acier au carbone 55 #\n\nLame de traitement thermique\n\nLame peinte en téflon"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/08/Untitled-design-30.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-24903",
+   "price": 125,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ébrancheur 28″",
+     "description": "Ébrancheur TOTAL 28 pouces (THT1527101)\n\nL’ébrancheur TOTAL coupe les branches trop épaisses pour un sécateur : taille des arbres fruitiers, des haies, des arbustes et des rosiers. Ses bras de 725 mm donnent un effet de levier qui réduit l’effort.\n\nIl coupe jusqu’à 20 mm de diamètre. Sa lame en acier au carbone 55 est traitée thermiquement et revêtue de téflon pour mieux glisser dans le bois.\n\nCaractéristiques\n\nRéférence\nTHT1527101\n\nLongueur\n28 pouces (725 mm)\n\nDiamètre de coupe maximal\n20 mm\n\nLame\nAcier au carbone 55, traitée thermiquement, revêtement téflon\n\nPour les branches plus grosses, voyez l’ébrancheur 30 pouces. Voir toutes nos cisailles et ébrancheurs.",
+     "short_description": "Longueur: 28 « (725 mm)\n\nDiamètre de coupe max: 20 mm\n\nMatériau: acier au carbone 55 \n\nLame de traitement thermique\n\nLame peinte en téflon"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/08/Untitled-design-29.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-24898",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cisaille d’aviation longue et droite",
+     "description": "",
+     "short_description": "Longueur: 300mm/12″"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/08/Untitled-design-28-1.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-24893",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cisaille aviation (droite)",
+     "description": "Cisaille d’aviation à coupe droite TOTAL (THT523106)\n\nLa cisaille d’aviation coupe la tôle fine, les rails et montants de plaque de plâtre, le grillage et les gaines métalliques. La version à coupe droite convient aux coupes rectilignes et aux grandes courbes.\n\nLongue de 250 mm, elle coupe l’acier au carbone jusqu’à 1,2 mm et l’acier inoxydable jusqu’à 0,7 mm.\n\nCaractéristiques\n\nRéférence\nTHT523106\n\nType de coupe\nDroite\n\nLongueur\n250 mm (10 pouces)\n\nCoupe acier au carbone\n1,2 mm maximum\n\nCoupe acier inoxydable\n0,7 mm maximum\n\nPortez des gants : les bords de tôle coupée sont tranchants. Voir nos outils à main.",
+     "short_description": "Longueur : 250 mm (10″)\n\nÉpaisseur de coupe max. :\n\nAcier au carbone ≤1,2 mm\n\nAcier inoxydable ≤ 0,7 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/08/Untitled-design-27-1.jpg"
+   ]
+  }
+ ]
+}

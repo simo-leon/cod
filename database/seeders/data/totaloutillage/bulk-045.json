@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-64132",
+   "price": 325,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Multimètre numérique 1000V",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/TMT5310002.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64126",
+   "price": 400,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coupe-boulons",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/15773-coupe-boulons.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64120",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Genouillères 215x180mm Total Protection Confort THKPT0201",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/THKPT0201.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64114",
+   "price": 250,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince ampèremétrique numérique AC TMT762001",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/TMT762001.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-64106",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Disque à tronçonner en métal abrasif 115 * 1,6 mm TOTAL TAC2211153",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/09/HardwareStore-TotalTools-Powertoolsaccessories-CuttingDisc-4.5-TAC2211153-600x600-1.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62995",
+   "price": 420,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chaussures de sécurité TSP206SB.41 – Taille 41",
+     "description": "Les TOTAL TSP206SB.41 sont des chaussures de sécurité professionnelles en taille 41, conçues pour protéger les pieds lors des travaux industriels, de chantier et de maintenance. Elles disposent d’une coque de protection en acier, d’une tige textile respirante de type Flyknit et d’une semelle extérieure en EVA et caoutchouc offrant une bonne adhérence.\n\nMarque : TOTAL\n\nModèle : TSP206SB.41\n\nType : Chaussures de sécurité\n\nPointure : 41\n\nClasse de sécurité : SB\n\nEmbout : acier",
+     "short_description": "Marque : TOTAL\n\nModèle : TSP206SB.41\n\nType : Chaussures de sécurité\n\nPointure : 41\n\nClasse de sécurité : SB"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-41.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62941",
+   "price": 420,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chaussures de sécurité TSP206SB.40 – Taille 40",
+     "description": "Les TSP206SB.40 sont des chaussures de sécurité TOTAL en pointure 40, conçues pour offrir une protection fiable et un bon confort lors des travaux professionnels. Elles disposent d’une coque de sécurité en acier, d’une tige textile Flyknit respirante et d’une semelle en EVA et caoutchouc résistante à l’hydrolyse. Leur classe de sécurité est SB.",
+     "short_description": "Les TSP206SB.40 sont des chaussures de sécurité TOTAL en pointure 40, conçues pour offrir une protection fiable et un bon confort lors des travaux professionnels."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/96a3be3cf272e017046d1b2674a52bd32025081409433427532oZSa4MZUer.png.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62915",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Petite pelle de jardin THFTT858",
+     "description": "La TOTAL THFTT858 est une petite pelle de jardin pratique et légère, conçue pour les travaux de plantation, rempotage, ameublissement et entretien du sol. Elle possède une lame en acier au carbone de 340 mm de longueur et 85 mm de largeur, avec une épaisseur de 1,5 mm. Son manche au design breveté assure une prise en main confortable et un bon contrôle pendant l’utilisation.\n\nMarque : TOTAL\n\nRéférence : THFTT858\n\nType : Petite pelle / truelle de jardin\n\nLongueur : 340 mm\n\nLargeur : 85 mm\n\nÉpaisseur : 1,5 mm\n\nMatière : Acier au carbone",
+     "short_description": "Marque : TOTAL\n\nRéférence : THFTT858\n\nType : Petite pelle / truelle de jardin\n\nLongueur : 340 mm\n\nLargeur : 85 mm\n\nÉpaisseur : 1,5 mm\n\nMatière : Acier au carbone"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/001_THFTT858.jpeg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-2-18.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62899",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gonfleur manuel 160 PSI TMPP3811",
+     "description": "Le TOTAL TMPP3811 est un gonfleur manuel haute pression conçu pour le gonflage des pneus de voitures, motos et vélos ainsi que d’autres équipements gonflables. Il dispose d’un manomètre de 50 mm avec lecture en Bar et PSI, d’un tuyau haute pression durable et d’une tête compatible avec les valves Schrader, Presta et Dunlop\n\nModèle : TMPP3811\n\nType : Gonfleur manuel\n\nPression maximale : 160 PSI / 11 bar\n\nDimensions : Ø38 × 500 mm\n\nDiamètre du manomètre : 50 mm\n\nUnités de mesure : Bar et PSI\n\nTuyau : haute pression",
+     "short_description": "Modèle : TMPP3811\n\nType : Gonfleur manuel\n\nPression maximale : 160 PSI / 11 bar\n\nDimensions : Ø38 × 500 mm\n\nDiamètre du manomètre : 50 mm\n\nUnités de mesure : Bar et PSI"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/tmpp3811.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62893",
+   "price": 900,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à eau de circulation 120 W TSCM120",
+     "description": "La TOTAL TSCM120 est une pompe à eau compacte de 120 W, conçue pour la circulation et le transfert de l’eau. Elle offre un débit pouvant atteindre 23 L/min et une hauteur de refoulement maximale de 8 m. Son moteur à bobinage en cuivre et sa conception compacte la rendent adaptée aux applications domestiques, aux systèmes de circulation d’eau et à l’augmentation de pression\n\nModèle : TSCM120\n\nPuissance : 120 W\n\nTension : 220–240 V ~ 50 Hz\n\nDébit maximal : 23 L/min\n\nHauteur maximale : 8 m\n\nMoteur : bobinage en cuivre\n\nRoue : laiton",
+     "short_description": "Modèle : TSCM120\n\nPuissance : 120 W\n\nTension : 220–240 V ~ 50 Hz\n\nDébit maximal : 23 L/min\n\nHauteur maximale : 8 m\n\nMoteur : bobinage en cuivre"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/1_f2d5b9be-4edc-42fb-8114-683e82918db6.webp"
+   ]
+  }
+ ]
+}

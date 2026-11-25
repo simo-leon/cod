@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-37612",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau mécanicien 100g",
+     "description": "",
+     "short_description": "Poids: 1000g\n\n45# acier au carbone\n\nTête de marteau forgée\n\nTraitement thermique\n\nManche en fibre de verre bicolore"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/03/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-03-07T104427.126.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-37596",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Équerre magnétique 3″",
+     "description": "Équerre magnétique de soudure TOTAL 3 pouces (TAMWH25032)\n\nL’équerre magnétique TOTAL maintient deux pièces métalliques à l’angle voulu pendant le pointage et la soudure, sans serre-joint ni aide. Elle se colle sur l’acier grâce à son aimant puissant.\n\nElle positionne les pièces à 45°, 90° et 135°, avec une force de traction de 25 lb. Ce modèle compact de 3 pouces convient aux petites pièces et aux profilés fins.\n\nCaractéristiques\n\nRéférence\nTAMWH25032\n\nTaille\n3 pouces\n\nForce de traction\n25 lb\n\nAngles\n45°, 90° et 135°\n\nPour les pièces plus lourdes, voyez le modèle 5 pouces. Voir toutes nos équerres magnétiques.",
+     "short_description": "FORCE DE TRACTION 25 lb\n\nTAILLE:  3″\n\nANGLES:  45ο – 90ο – 135ο"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/03/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-03-07T100806.304.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-37592",
+   "price": 1500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Générateur d’essence 800W",
+     "description": "Groupe électrogène à essence TOTAL 800 W (TP18001)\n\nCompact et facile à déplacer, le groupe électrogène TOTAL 800 W fournit du courant là où le réseau manque : petits chantiers, souk, camping, ferme, ou en secours lors d’une coupure pour l’éclairage, un téléphone, une petite télévision ou un petit outil.\n\nSon moteur à essence de 63 cm³, refroidi par air, tourne à 3000 tr/min et délivre jusqu’à 0,8 kW en 220-240 V.\n\nCaractéristiques techniques\n\nRéférence\nTP18001\n\nPuissance maximale\n0,8 kW (800 W)\n\nTension nominale\n220-240 V\n\nFréquence\n50 Hz\n\nVitesse nominale\n3000 tr/min\n\nCylindrée\n63 cm³\n\nRefroidissement\nPar air\n\nConseils\n\nAdditionnez la puissance des appareils à brancher sans dépasser 800 W, et faites toujours tourner le groupe à l’extérieur, à l’écart des ouvertures : les gaz d’échappement sont dangereux. Voir tous nos groupes électrogènes.",
+     "short_description": "Tension nominale (V): 220-240\n\nFréquence nominale (Hz): 50\n\nPuissance max. (KW): 0,8\n\nVitesse nominale (tr / min): 3000\n\nDéplacement (ml): 63\n\nSystème de refroidissement: refroidi par air"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/03/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-03-07T092435.074.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-36779",
+   "price": 225,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de 3 pinces isolées 1000V",
+     "description": "",
+     "short_description": "Matériau : Acier au chrome-vanadium (Cr-V)\n\nPince à bec long : 160 mm (6″),\n\nPince coupante diagonale : 160 mm (6″),\n\nPince universelle : 200 mm (8″)\n\nSupport haute pression : 1000 V"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/02/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-02-17T132323.984.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-35949",
+   "price": 849,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Machine vibreur sans fil 20V",
+     "description": "",
+     "short_description": "Tension : 20 V\n\nVitesse à vide : Fréquence de vibration : 0-10 000/min\n\nMax. vitesse : Vibration : 12 vitesses (réglable)\n\nChargeur : 220-240 V ~ 50/60 Hz\n\nDiamètre : Ventouse : 125 mm\n\nMax. forcer : Capacité absorbée : 50 kg"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/01/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-01-30T030920.576.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-34973",
+   "price": 450,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cric Bouteille hydraulique 10 Tonnes",
+     "description": "",
+     "short_description": "10 Tonnes\n\nAvec soupape de sécurité\n\nMin. hauteur : 230MM\n\nMax. hauteur : 460MM\n\nPoids : 5.8 kg"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/01/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-27T033550.946-min-1.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-33548",
+   "price": 135,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de 3 pinces",
+     "description": "Jeu de 3 pinces TOTAL : les trois pinces indispensables\n\nCe jeu TOTAL réunit les trois pinces dont on a besoin au quotidien, pour la maison comme pour le chantier. Les trois pinces arrivent ensemble et forment une bonne base de caisse à outils.\n\nContenu du jeu\n\nPince\nLongueur\nÀ quoi elle sert\n\nPince universelle\n200 mm (8″)\nSaisir, serrer, tordre et couper du fil\n\nPince coupante diagonale\n160 mm (6″)\nCouper net les fils électriques et les petits câbles\n\nPince à bec long\n160 mm (6″)\nAtteindre les endroits étroits, former des boucles de fil\n\nPour qui ?\n\nÉlectriciens et plombiers qui veulent un jeu de base\n\nBricoleurs qui équipent leur caisse à outils\n\nIdée cadeau pratique\n\nVous préférez une seule pince ? Voir la pince universelle 180 mm et la pince coupante diagonale 180 mm. Pour les travaux électriques sous tension, choisissez le jeu de 3 pinces isolées 1000 V.",
+     "short_description": "Le paquet comprend:\n\n1 pince à bec long : 160 mm (6 po)\n\n1 pince coupante diagonale : 160 mm (6″)\n\n1 pince universelle : 200 mm (8 po)"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/12/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-18T013534.334.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-33550",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Buse de pulvérisation à 9 motifs 3/4 »",
+     "description": "Buse de pulvérisation TOTAL à 9 motifs (THWS010901)\n\nCette buse d’arrosage TOTAL se branche au bout du tuyau et propose 9 formes de jet : jet puissant pour nettoyer une terrasse, une voiture ou une cour, pluie fine pour les plantes et les semis, douche pour l’arrosage du jardin.\n\nSon corps en plastique ABS est revêtu de TPR, une matière souple qui amortit les chocs et rend la poignée agréable en main.\n\nCaractéristiques\n\nRéférence\nTHWS010901\n\nMotifs de jet\n9\n\nRaccord\nAdaptateur 3/4 pouce\n\nCorps\nPlastique ABS avec revêtement TPR\n\nPoignée\nSouple, confortable\n\nRésistance\nAux chocs\n\nVoir nos pulvérisateurs et outils de jardin.",
+     "short_description": "Adaptateur d’outil 3/4 « \n\nRésistant aux chocs\n\nCorps en plastique ABS avec TPR\n\nIsolé TPR\n\nPoignée douce confortable"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/12/1-1.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-33549",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Multimètre digital 200V / 600V TMT460012-Total",
+     "description": "Multimètre numérique TOTAL (TMT46001)\n\nLe multimètre TOTAL TMT46001 est l’outil de base de l’électricien et du dépanneur : il mesure la tension, la résistance, teste les diodes et vérifie l’état des piles et batteries. Il aide à contrôler une prise, une installation, un appareil électroménager ou un circuit de voiture.\n\nSon écran LCD rétroéclairé de 1999 points reste lisible dans un tableau électrique ou un endroit sombre, et la fonction de maintien de la mesure (data hold) fige la valeur affichée pour la lire tranquillement.\n\nCaractéristiques\n\nRéférence\nTMT46001\n\nAffichage\nLCD rétroéclairé, 1999 points\n\nTension continue\n200 mV / 2 V / 20 V / 200 V / 600 V\n\nRésistance\n200 Ω à 20 MΩ\n\nAutres fonctions\nTest de diode, maintien de la mesure, test de piles\n\nSécurité\n\nChoisissez toujours un calibre supérieur à la valeur attendue, vérifiez l’état des cordons et ne dépassez jamais 600 V.\n\nVoir aussi nos pinces ampèremétriques, détecteurs de tension et autres outils de mesure.",
+     "short_description": "Affichage: 1999 points / LCD avec rétroéclairage\n\nTension CC: 200mV / 2V / 20V / 200V / 600V\n\nRésistance: 200Ω / 2kΩ / 20kΩ / 200kΩ / 2MΩ / 20MΩ\n\nTest de diode / prise de date\n\nTest de batterie"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/12/multimetre.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-32601",
+   "price": 549,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini meuleuse 20V",
+     "description": "",
+     "short_description": "Tension: 20 V\n\nVitesse à vide: 19 500 tr/min\n\nDiamètre du disque: 76 mm (3″)\n\nFiletage de la broche: M6"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/12/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-09T133123.445.png"
+   ]
+  }
+ ]
+}

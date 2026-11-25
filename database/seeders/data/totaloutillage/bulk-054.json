@@ -1,0 +1,207 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-58907",
+   "price": 500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble Sac à Dos Et Sacs à Outils TOS230912",
+     "description": "Le Pack Ensemble de Sacs à Outils TOTAL TOS230912 est une solution complète de rangement et de transport pour les professionnels et les bricoleurs exigeants. Ce kit regroupe quatre accessoires essentiels : un sac à dos à outils, un sac à outils de 40 cm, une pochette porte-outils et un gilet porte-outils. Fabriqués en polyester Oxford 1680D haute résistance, ces équipements offrent une excellente durabilité, une organisation optimale et un confort de transport adapté aux chantiers, ateliers et interventions de maintenance.",
+     "short_description": "Type : Ensemble de sacs à outils\n\nMatière : Polyester Oxford 1680D\n\nComposition du pack :\n\n1 Sac à dos à outils (THBP02025)\n\n1 Sac à outils 40 cm (THT26162)\n\n1 Pochette à outils (TH16P2032)\n\n1 Gilet porte-outils (TTVT16025)\n\nUtilisation : Rangement, transport et organisation d’outillage\n\nApplications : Chantier, maintenance, électricité, plomberie, mécanique"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/06/Pistolet-pneumatique-dingqi-2026-06-05T155005.520.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/06/Pistolet-pneumatique-dingqi-2026-06-05T155824.855.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/06/Pistolet-pneumatique-dingqi-2026-06-05T160054.962.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/06/Pistolet-pneumatique-dingqi-2026-06-05T160224.244.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/06/Pistolet-pneumatique-dingqi-2026-06-05T160305.108.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-52960",
+   "price": 650,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ponceuse électrique 450W",
+     "description": "La TF2061506 est une ponceuse électrique conçue pour les travaux de finition, de rénovation et de préparation des surfaces. Elle assure un ponçage régulier et efficace sur le bois, le métal ou les surfaces peintes. Son design ergonomique garantit une bonne prise en main et un confort d’utilisation optimal, même lors d’un usage prolongé.",
+     "short_description": "Alimentation : Électrique\n\nUtilisation : Ponçage et finition\n\nApplications : Bois, métal, surfaces peintes\n\nPoignée : Ergonomique\n\nUsage : Bricolage et travaux courants"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/01/Pistolet-pneumatique-dingqi-2026-01-01T162330.573.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-52706",
+   "price": 595,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Visseuse Perceuse à Percussion 55N.m 20V (1BATT+CHARGEUR)",
+     "description": "La perceuse visseuse sans fil TOTAL TDLI205582 est un outil électroportatif performant et polyvalent conçu pour percer, visser et travailler sur une variété de matériaux tels que le bois, le métal ou le plastique. Dotée d’une batterie 20 V Li-ion et d’un mandrin 13 mm, elle offre puissance, autonomie et maniabilité. Son moteur Brushless (sans balais) assure une meilleure efficacité énergétique, une durée de vie plus longue et une performance optimale pour le bricolage ou les travaux professionnels légers à moyens.",
+     "short_description": "Tension : 20 V (batterie Li-ion incluse)\n\nMandrin : 13 mm\n\nMotorisation : Brushless (sans balais)\n\nTorque max : ~55–60 Nm (valeur indic. selon configuration)\n\nVitesses : 2 vitesses variables\n\nFonctions : Percer / Vissser / Réversible\n\nAutonomie : Variable selon batterie (ex. 2 Ah / 4 Ah)\n\nÉclairage : LED de travail intégré\n\nAccessoires : Batterie, chargeur, embouts (selon kit)"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-28T150514.493.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-28T144124.853.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-28T144211.690.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2026-01-10T120554.223.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2026-01-10T121500.610.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-52624",
+   "price": 1595,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Visseuse Perceuse+Clé à Choc 400 N·m 20V",
+     "description": "Le Pack Professionnel TOTAL 20V Brushless est conçu pour répondre aux besoins des utilisateurs exigeants recherchant puissance, autonomie et fiabilité. Il associe une clé à choc sans fil haute performance, capable de délivrer jusqu’à 400 N·m de couple, parfaite pour les opérations de serrage et desserrage intensives, et une perceuse-visseuse 20V adaptée aux travaux de perçage et de vissage de précision.Grâce à la technologie Brushless, ces outils offrent une meilleure efficacité énergétique, moins d’usure du moteur et une durée de vie prolongée. Le pack est livré prêt à l’emploi avec deux batteries lithium-ion 20V, un chargeur, un sac de transport de 13 pouces ainsi que des accessoires utiles, facilitant le travail aussi bien sur chantier qu’en atelier.",
+     "short_description": "Type : Pack combo outils sans fil\n\nAlimentation : Batterie Li-ion\n\nTension nominale : 20 V\n\nTechnologie moteur : Brushless\n\nCouple maximal (clé à choc) : 400 N·m\n\nMandrin perceuse : Autoserrant\n\nBatteries fournies : 2 × 20 V – 2.0 Ah\n\nChargeur : Inclus\n\nSac de transport : Oui (13″)\n\nAccessoires : Douilles + gants\n\nDomaines d’utilisation : Mécanique, maintenance, montage, bricolage avancé, chantier"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-27T113225.911.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-27T115703.664.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-27T115210.470.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-27T115257.216.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-27T115531.301.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-27T115909.064.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-52552",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Couteau Multifonction 15-en-1",
+     "description": "Le couteau multifonction TOTAL THMFK0156 est un outil compact 15 en 1 combinant plusieurs fonctions pratiques : grande lame, ouvre-boîte, tournevis Phillips et plat, ciseaux, scie, décapsuleur, tire-bouchon, poinçon, lime/nettoyeur d’ongles, etc. Conçu pour être transporté facilement, il mesure environ 9,5 cm et s’adresse aux bricoleurs comme aux aventuriers (camping, voyages, usage quotidien).",
+     "short_description": "Référence : THMFK0156\n\nType : Couteau multifonction 15 en 1\n\nDimensions : ~9,5 cm fermé\n\nMatériau : Acier inoxydable + manche aluminium\n\nFonctions : Lame principale, scie, tournevis Phillips, tournevis plat, ciseaux, ouvre-boîte,  etc."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-26T115342.281.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-52544",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Truelle à plâtre avec dents 280×130 mm",
+     "description": "La truelle à plâtre avec dents TOTAL THTT81286 est un outil de finition pour plâtrage et pose d’adhésif. Elle est conçue pour appliquer et répartir le plâtre ou la colle de façon uniforme grâce à ses dents crantées.",
+     "short_description": "Référence : THTT81286\n\nType : Truelle à plâtre avec dents\n\nDimensions : 280 × 130 mm\n\nDents : 10 × 10 mm\n\nMatériau de la lame : Acier inoxydable\n\nPoignée : Ergonomique (ABS + TPR)"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/12/Pistolet-pneumatique-dingqi-2025-12-26T111536.778.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-51832",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Couteau à lame sécable 180mm",
+     "description": "Couteau utilitaire Total 180mm (THT5116118) avec lames SK5\n\nDécouvrez le couteau utilitaire Total 180mm, un outil performant conçu pour offrir précision et fiabilité lors de vos travaux de coupe. Équipé d’une lame SK5 en acier carbone de haute qualité, ce couteau garantit une excellente durabilité et tranchant, idéal pour une utilisation professionnelle ou pour les amateurs de bricolage exigeants.\n\nPourquoi choisir ce couteau utilitaire Total ?\n\nLames en acier SK5 offrant une longue durée de vie et une coupe nette\n\nDesign compact et robuste pour une prise en main confortable\n\nLivré avec 5 lames de rechange pour une utilisation prolongée sans interruption\n\nCaractéristiques techniques\n\nDimensions : 180 x 45 mm\n\nTaille de la lame : 61 x 19 mm\n\nMatériau : Acier carbone SK5\n\nPoids léger avec corps en aluminium (selon modèle)\n\nConditionnement en double blister pour une protection optimale\n\nUtilisation et avantages\n\nCe couteau utilitaire est parfait pour une multitude de tâches de découpe précises, qu’il s’agisse de découper du carton, du tissu, du plastique ou d’autres matériaux courants. Son tranchant aiguisé permet une coupe sécurisée et contrôlée, réduisant la fatigue lors des travaux répétitifs.\n\nIdéal pour\n\nProfessionnels du bâtiment, artisans, bricoleurs avertis et toute personne ayant besoin d’un outil de coupe performant et fiable dans le cadre de projets variés, du plus simple au plus complexe.",
+     "short_description": "Couteau utilitaire Total 180mm (THT5116118) avec lame SK5, conçu pour des découpes précises et durables. Idéal pour les travaux professionnels et les projets DIY grâce à ses lames de rechange incluses."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/12/1-48.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-51849",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse de nettoyage – 3pcs",
+     "description": "Solution Polyvalente et Performante\n\nNotre produit allie innovation et fonctionnalité pour vous offrir une expérience utilisateur optimale. Que ce soit pour un usage professionnel ou personnel, il s’intègre parfaitement à diverses situations, grâce à sa conception robuste et pensée pour la durabilité.\n\nSpécifications Techniques\n\nMatériaux de haute qualité garantissant résistance et longévité\n\nDesign ergonomique facilitant la prise en main et l’utilisation\n\nCompatibilité étendue avec divers accessoires pour plus de polyvalence\n\nDimensions compactes pour un rangement facile\n\nTechnologie évolutive permettant des mises à jour éventuelles\n\nAvantages et Utilisations\n\nOptimise vos tâches quotidiennes grâce à sa simplicité d’usage\n\nAdapté pour un large éventail de contextes et environnements\n\nRéduit la fatigue grâce à sa conception ergonomique\n\nOffre une fiabilité constante même en utilisation intensive\n\nEsthétique moderne s’adaptant à tout type d’intérieur ou d’environnement de travail\n\nChoisir ce produit, c’est opter pour un équipement efficace et durable, capable de s’adapter à toutes vos exigences. Il représente la solution idéale pour améliorer votre quotidien et maximiser votre confort.",
+     "short_description": "Découvrez notre solution polyvalente et innovante, conçue pour répondre efficacement à vos besoins quotidiens. Ce produit, alliant qualité et performance, s’adapte parfaitement à de multiples usages, garantissant ainsi une satisfaction optimale. Sa conception moderne et fiable en fait un incontournable pour ceux qui recherchent praticité et durabilité. Facile à utiliser, il est idéal pour améliorer votre quotidien tout en bénéficiant d’un excellent rapport qualité-prix."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/12/1-33.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-51829",
+   "price": 39,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé hexagonale, 8 pièces",
+     "description": "Disque à tronçonner électrique – SKU – Performance et Précision\n\nCe disque à tronçonner électrique est conçu pour les professionnels exigeants des chantiers. Il permet des découpes précises et rapides sur différents matériaux, alliant robustesse et efficacité.\n\nSpécifications Techniques\n\nMarque/Modèle : Modèle haute performance pour usage professionnel intensif.\n\nDimensions : 115mm x 1.2mm x 22.2mm.\n\nMatériau : Composite abrasif haute qualité.\n\nConception/Performance : Conçu pour une vitesse de rotation élevée garantissant des coupes nettes et rapides.\n\nNormes (si applicable) : Conforme aux normes de sécurité en vigueur pour outils de coupe électrique.\n\nAvantages et Utilisations\n\nOptimisation du temps de travail grâce à une découpe rapide et précise.\n\nDurabilité élevée et compatibilité avec de nombreux matériaux pour un usage polyvalent.\n\nIdéal pour métallurgie, construction, et travaux de démolition sur chantier.\n\nCe disque à tronçonner allie fiabilité et performance, répondant ainsi aux exigences professionnelles les plus strictes.",
+     "short_description": "Disque à tronçonner électrique en Composite abrasif, dimensions 115mm x 1.2mm x 22.2mm, dédié aux professionnels du chantier pour des découpes précises et rapides sur divers matériaux."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/12/1-41.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-51827",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Boite À Outils Vide 14″ En Plastique",
+     "description": "Disque à tronçonner métal Inox 115×1,2×22,2 mm – Haute Précision et Longévité\n\nCe disque à tronçonner métal est un outil essentiel pour les professionnels du chantier et de l’atelier. Conçu pour découper efficacement des matériaux métalliques, il offre une performance fiable et une grande précision.\n\nSpécifications Techniques\n\nMarque/Modèle : Disque à tronçonner métal Inox 115 mm\n\nDimensions : 115 mm de diamètre, 1,2 mm d’épaisseur, 22,2 mm de trou central\n\nMatériau : Acier inoxydable de haute qualité\n\nConception/Performance : Conçu pour une vitesse maximale adaptée à la découpe de métaux, offrant précision et efficacité\n\nNormes (si applicable) : Conforme aux normes industrielles de sécurité et de performance en usage professionnel\n\nAvantages et Utilisations\n\nGain de temps grâce à une coupe nette et rapide\n\nDurabilité accrue pour une utilisation prolongée et économique\n\nUsage professionnel pour métallurgie, construction, et travaux de réparation\n\nFiabilité et robustesse font de ce disque un indispensable pour tous les professionnels exigeants recherchant précision et durabilité dans leurs travaux de découpe métallique.",
+     "short_description": "Disque à tronçonner métal en Inox de 115 mm x 1,2 mm x 22,2 mm, conçu pour les professionnels du chantier et de l’atelier. Parfait pour découper rapidement et efficacement divers métaux avec une grande précision et durabilité."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2025/12/1-52.png"
+   ]
+  }
+ ]
+}

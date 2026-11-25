@@ -1,0 +1,90 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-18777",
+   "price": 270,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batterie au lithium-ion 20V",
+     "description": "Batterie lithium-ion TOTAL 20 V 2,0 Ah (TFBLI2001)\n\nCette batterie TOTAL 20 V s’adapte à tous les outils sans fil de la gamme TOTAL P20S 20 V : perceuses, visseuses, meuleuses, clés à chocs et autres. Une seule plateforme de batteries pour tout votre parc d’outils.\n\nUne batterie de rechange permet de continuer à travailler pendant que l’autre se recharge, ou de remplacer une batterie usée sans racheter l’outil.\n\nCaractéristiques\n\nModèle\nTFBLI2001\n\nTension\n20 V\n\nCapacité\n2,0 Ah\n\nTechnologie\nLithium-ion\n\nCompatibilité\nOutils TOTAL P20S 20 V\n\nRetrouvez les outils compatibles et les chargeurs dans nos outils sans fil.",
+     "short_description": "Batterie lithium-ion TOTAL 20 V 2,0 Ah (TFBLI2001)"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TFBLI2001.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TFBLI2001-01.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TFBLI2001-02.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TFBLI2001-04.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TFBLI2001-06.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TFBLI2001-09.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TFBLI2001-08.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TFBLI2001-07.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18765",
+   "price": 1500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé À Choc Li-ion 20V 2Ah 2 batteries",
+     "description": "https://www.youtube.com/watch?v=DH8YCnoIDP4",
+     "short_description": "Tension : 20V\n\nVitesse à vide : 0-1300/0-2100 min⁻¹\n\nTaux d’impact : 0-2000/0-3300 bpm\n\nMax. couple : 300Nm\n\nCarré d’entraînement : 1/2″\n\nDimensions : 36cm * 21cm * 10cm\n\nBatterie : 2 batteries lithium-ion 20V 2.0Ah\n\nChargeur : 1 pc Chargeur 1 heure\n\nChargeur volts : 100-240V ~ 50/60Hz\n\nPoids : 3kg\n\nConvient avec une batterie de 2,0 Ah, une batterie de 4,0 Ah"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/httpsrabatoutillage.comshopoutils-electroportatifscloueuse-agrafeuse-pneumatique-15-50-mm-total-27.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/568_original.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/10059.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18756",
+   "price": 650,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Perceuse visseuse sans fil 12V 1,5Ah 2 batteries",
+     "description": "Perceuse visseuse sans fil TOTAL 12 V avec 2 batteries (TDLI12325)\n\nCompacte et légère, cette perceuse visseuse TOTAL 12 V est idéale pour la maison et les petits chantiers : montage de meubles, pose d’étagères, de tringles et de charnières, perçage du bois et du métal fin.\n\nElle a 2 vitesses : une lente (0-400 tr/min) pour le vissage, et une rapide (0-1500 tr/min) pour le perçage. Son couple atteint 20 Nm, et une lampe intégrée éclaire la zone de travail. Avec 2 batteries, l’une se recharge pendant que vous travaillez avec l’autre.\n\nCaractéristiques\n\nRéférence\nTDLI12325\n\nTension\n12 V\n\nVitesses à vide\n0-400 / 0-1500 tr/min\n\nCouple maximal\n20 Nm\n\nÉclairage\nLampe de travail intégrée\n\nDans la boîte\n\nLa perceuse, 2 batteries 1,5 Ah, 1 chargeur et 1 embout Cr-V de 65 mm, dans une mallette en plastique.\n\nVoir toutes nos perceuses et visseuses.",
+     "short_description": "Tension: 12 V\n\nVitesse à vide: 0-400 / 0-1500 / min\n\nCouple max: 20NM\n\nLampe de travail intégrée\n\nAvec 2 piles 1.5Ah &  chargeur 1pcs\n\nAvec 1 pièce Cr-V 65mm bits\n\nEmballé dans une boîte en plastique"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Untitled-design-24.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TDLI12325-1.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-18694",
+   "price": 435,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à peinture électrique 550 W 800 ml TOTAL TT5006",
+     "description": "Pistolet à peinture électrique TOTAL : peindre vite et proprement\n\nLe pistolet à peinture TOTAL TT5006 projette jusqu’à 850 ml de peinture par minute avec un moteur de 550 W. Son réservoir de 800 ml permet de peindre longtemps sans remplir.\n\nIl est livré avec une coupe pour mesurer la viscosité de la peinture, une aiguille pour nettoyer la buse et une bandoulière pour porter l’appareil sans fatigue.\n\nUsages courants\n\nMurs, clôtures et portails\n\nMeubles, portes et volets\n\nVernis et lasures sur le bois\n\nCaractéristiques techniques\n\nRéférence\nTT5006\n\nPuissance\n550 W\n\nDébit max\n850 ml/min\n\nPression de pulvérisation\n0,1 à 0,2 bar\n\nRéservoir\n800 ml\n\nFourni avec\nCoupe de viscosité, aiguille de nettoyage de buse, bandoulière\n\nConseil : diluez la peinture et vérifiez sa viscosité avec la coupe fournie avant de commencer, puis faites un essai sur un carton. Voir aussi le pistolet à peinture 450 W.",
+     "short_description": "Débit max : 850 ml/min Puissance : 550 W Pression de pulvérisation : 0,1-0,2 bar Réservoir : 800 ml Accessoires : coupe de viscosité, aiguille de nettoyage de buse, bandoulière"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/TT5006.jpg"
+   ]
+  }
+ ]
+}

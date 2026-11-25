@@ -1,0 +1,212 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-62682",
+   "price": 95,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince porte-électrode 1000 A TOTAL TWAH10006",
+     "description": "La TOTAL TWAH10006 est une pince porte-électrode destinée au soudage MMA. Avec une intensité nominale de 1000 A, elle est conçue pour être utilisée avec les postes à souder MMA TOTAL jusqu’à 630 A. Son nouveau design assure une prise en main pratique et un maintien efficace de l’électrode pendant le soudage\n\nMarque : TOTAL\n\nModèle : TWAH10006\n\nType : Pince porte-électrode\n\nCourant nominal : 1000 A\n\nApplication : Soudage MMA\n\nCompatibilité : Postes à souder MMA jusqu’à 630 A\n\nDesign : Nouveau design TOTAL",
+     "short_description": "Marque : TOTAL\n\nModèle : TWAH10006\n\nType : Pince porte-électrode\n\nCourant nominal : 1000 A\n\nApplication : Soudage MMA\n\nCompatibilité : Postes à souder MMA jusqu’à 630 A\n\nDesign : Nouveau design TOTAL"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-2-15.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-4-10.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-3-12.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-4-11.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62675",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince porte-électrode MMA 800 A TWAH8006",
+     "description": "La TOTAL TWAH8006 est une pince porte-électrode destinée aux travaux de soudage à l’électrode enrobée MMA. Elle possède un courant nominal de 800 A et convient aux postes à souder MMA jusqu’à 630 A. Son design assure une bonne prise en main et un maintien efficace de l’électrode pendant les opérations de soudage.\n\nMarque : TOTAL\n\nModèle : TWAH8006\n\nType : Pince porte-électrode\n\nCourant nominal : 800 A\n\nApplication : Soudage MMA\n\nCompatibilité : Postes à souder MMA jusqu’à 630 A\n\nDesign : Nouveau design TOTAL\n\nMatériau du clip : Cuivre",
+     "short_description": "Marque : TOTAL\n\nModèle : TWAH8006\n\nType : Pince porte-électrode\n\nCourant nominal : 800 A\n\nApplication : Soudage MMA\n\nCompatibilité : Postes à souder MMA jusqu’à 630 A\n\nDesign : Nouveau design TOTAL\n\nMatériau du clip : Cuivre"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-5-8.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-4-9.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-3-11.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-2-15.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62663",
+   "price": 3200,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coupeur plasma inverter 40 A TCUT401",
+     "description": "Le TOTAL TCUT401 est un découpeur plasma inverter équipé de la technologie IGBT, conçu pour découper rapidement et avec précision différents métaux tels que l’acier inoxydable, le fer et l’acier allié. Il fonctionne sur une alimentation de 220–240 V et offre un courant de coupe réglable de 15 à 40 A, avec une capacité de coupe allant jusqu’à 12 mm.\n\nMarque : TOTAL\n\nModèle : TCUT401\n\nType : Découpeur plasma inverter\n\nTechnologie : IGBT\n\nTension d’entrée : 220–240 V\n\nFréquence : 50/60 Hz\n\nCourant de sortie : 15–40 A\n\nÉpaisseur de coupe : ≤ 12 mm",
+     "short_description": "Marque : TOTAL\n\nModèle : TCUT401\n\nType : Découpeur plasma inverter\n\nTechnologie : IGBT\n\nTension d’entrée : 220–240 V\n\nFréquence : 50/60 Hz\n\nCourant de sortie : 15–40 A"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/decoupeur-plasma-40a-total-tcut401.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-1-19.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62652",
+   "price": 5500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Poste à souder inverter MMA 400 A TOTAL TW24003",
+     "description": "Le TOTAL TW24003 est un poste à souder inverter MMA destiné aux travaux de soudage professionnels et industriels. Grâce à sa technologie IGBT, il fournit un courant de soudage réglable de 20 à 400 A. Alimenté en 380–400 V triphasé, il offre un cycle de fonctionnement de 60 % à 400 A, ce qui le rend adapté aux travaux intensifs.\n\nMarque : TOTAL\n\nModèle : TW24003\n\nType : Poste à souder inverter MMA\n\nTechnologie : IGBT\n\nTension d’entrée : 380–400 V\n\nPhase : Triphasé\n\nFréquence : 50/60 Hz\n\nCourant de sortie : 20–400 A\n\nCourant maximal : 400 A\n\nCycle de fonctionnement : 400 A à 60 %",
+     "short_description": "Marque : TOTAL\n\nModèle : TW24003\n\nType : Poste à souder inverter MMA\n\nTechnologie : IGBT\n\nTension d’entrée : 380–400 V\n\nPhase : Triphasé\n\nFréquence : 50/60 Hz\n\nCourant de sortie : 20–400 A"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/12.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62646",
+   "price": 4500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Poste à souder inverter multiprocess 200 A TMGT20058",
+     "description": "Le TOTAL TMGT20058 est un poste à souder inverter multiprocess conçu pour les travaux de soudage en atelier, sur chantier et pour la maintenance. Il permet de travailler avec les procédés MIG/MAG, MMA et TIG Lift, avec un courant de soudage réglable jusqu’à 200 A. Il dispose d’un afficheur LED, d’un dévidoir de fil intégré et accepte des bobines de fil jusqu’à 5 kg.",
+     "short_description": "Marque : TOTAL\n\nModèle : TMGT20058\n\nTechnologie : Inverter IGBT\n\nProcédés : MIG / MAG / MMA / TIG Lift\n\nTension d’alimentation : 220–240 V\n\nFréquence : 50/60 Hz\n\nCourant MIG/MAG : 15–200 A\n\nCourant MMA : 15–200 A\n\nCourant TIG Lift : 15–200 A"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-2-14.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-1-18.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-35.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62291",
+   "price": 1050,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Meuleuse droite 150 mm – 1100 W – TSG1508",
+     "description": "La **meuleuse droite TOTAL TSG1508** est un outil électrique puissant de **1100 W**, conçu pour les travaux de meulage et de finition exigeants. Elle fonctionne sous une tension de **220–240 V** et atteint une vitesse à vide de **5000 tr/min**, offrant de bonnes performances pour les applications professionnelles et de bricolage.\n\nÉquipée d’un **disque de 150 mm** et d’un **filetage de broche M14**, cette meuleuse est adaptée aux différents travaux de meulage, d’ébarbage et de finition sur les matériaux appropriés.\n\nLa TSG1508 est fournie avec **un jeu supplémentaire de charbons**, permettant de prolonger la durée d’utilisation de l’outil. Elle constitue une solution pratique et robuste pour les ateliers, chantiers et travaux de maintenance.",
+     "short_description": "Marque : TOTAL\n\nRéférence : TSG1508\n\nType : Meuleuse droite\n\nPuissance : 1100 W\n\nTension : 220–240 V\n\nFréquence : 50/60 Hz\n\nVitesse à vide : 5000 tr/min\n\nDiamètre du disque : 150 mm\n\nFiletage de broche : M14\n\nCharbons supplémentaires : 1 jeu\n\nAlimentation : Électrique filaire\n\nConditionnement : Boîte couleu"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-7-5.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-8-9.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-10-3.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-9-5.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62251",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Disque diamanté 130 mm × 20 mm pour rainureuse TAC2111301.",
+     "description": "Le TAC2111301 de TOTAL est un disque diamanté segmenté de haute qualité, conçu pour la découpe à sec des matériaux de construction. Il est particulièrement adapté aux rainureuses, notamment au modèle TWLC1301.\n\nGrâce à sa forte concentration en diamant, ce disque offre une bonne efficacité de coupe et une durée de vie adaptée aux travaux professionnels. Sa conception universelle permet une utilisation avec les équipements compatibles.\n\nCaractéristiques techniques :\n\nDiamètre : 130 mm (5″)\n\nAlésage : 20 mm\n\nLargeur de coupe : 12 mm\n\nÉpaisseur de la base métallique : 1,6 mm\n\nType : disque diamanté segmenté\n\nConcentration en diamant : élevée\n\nUtilisation : découpe de matériaux de construction\n\nCompatibilité : rainureuse TOTAL TWLC1301\n\nConditionnement : double blister",
+     "short_description": "Diamètre : 130 mm\n\nAlésage : 20 mm\n\nLargeur de coupe : 12 mm\n\nÉpaisseur de la base métallique : 1,6 mm\n\nType : disque diamanté segmenté\n\nConcentration en diamant : élevée"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-8-8.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62245",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Disque diamanté 125 mm × 22,2 mm – lame 7,5 mm. TAC111254",
+     "description": "Disque diamanté segmenté TOTAL TAC111254 – Ø 125 mm\n\nLe TOTAL TAC111254 est un disque diamanté segmenté conçu pour la découpe rapide et précise des matériaux de construction durs. Il est particulièrement adapté aux travaux de maçonnerie et peut être utilisé avec les rainureuses murales compatibles.\n\nGrâce à sa conception segmentée et à son revêtement diamanté, ce disque offre une bonne efficacité de coupe et une durée de vie adaptée aux travaux professionnels et de chantier.\n\nCaractéristiques techniques\n\nMarque : TOTAL TOOLS\n\nRéférence : TAC111254\n\nType : Disque diamanté segmenté\n\nDiamètre : 125 mm (5″)\n\nAlésage : 22,2 mm\n\nLargeur de lame : 7,5 mm\n\nUtilisation : Coupe de matériaux de construction durs tels que béton, pierre",
+     "short_description": "Marque : TOTAL TOOLS\n\nRéférence : TAC111254\n\nType : Disque diamanté segmenté\n\nDiamètre : 125 mm (5″)\n\nAlésage : 22,2 mm\n\nLargeur de lame : 7,5 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-5-6.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-6-5.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-7-4.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62235",
+   "price": 1500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rainureuse murale 1500 W TWLC1256",
+     "description": "Voici une description longue, claire, simple et naturelle pour la fiche produit :\n\nÉcriture\n\nRainureuse murale 1500 W Ø125 mm TOTAL TWLC1256\n\nLa rainureuse murale TOTAL TWLC1256 est un outil conçu pour réaliser facilement des saignées et des rainures dans les murs. Elle est particulièrement adaptée aux travaux de construction, rénovation, installation électrique et plomberie.\n\nAvec sa puissance de 1500 W, elle permet de réaliser des rainures de manière efficace dans les matériaux adaptés. Elle est pratique pour préparer les murs avant l’installation de câbles électriques, gaines, tuyaux et conduits.\n\nUn outil pratique pour les travaux de rénovation\n\nLa TWLC1256 permet de créer des rainures régulières dans les murs afin d’installer différents éléments sans avoir à utiliser plusieurs outils.\n\nElle est particulièrement utile lors des travaux de rénovation ou de construction lorsque les câbles et les conduites doivent être installés à l’intérieur des murs.\n\nGrâce à son système de coupe, l’utilisateur peut réaliser deux coupes parallèles afin de retirer ensuite la partie centrale et obtenir une rainure propre.\n\nProfondeur et largeur réglables\n\nLa rainureuse permet de régler la profondeur de coupe de 3 à 29 mm. Il est ainsi possible d’adapter la profondeur de la rainure selon le type d’installation à réaliser.\n\nLa largeur de coupe peut également être réglée de 8 à 30 mm, ce qui permet de créer des rainures adaptées aux différentes dimensions de câbles, gaines ou conduits.\n\nDisques diamant de 125 mm\n\nLa TOTAL TWLC1256 utilise des disques diamant de 125 mm, adaptés aux travaux de rainurage dans les matériaux compatibles.\n\nLes disques permettent de réaliser des coupes régulières et facilitent la préparation des murs avant la pose des installations.\n\nPour différents travaux\n\nLa TWLC1256 peut être utilisée pour :\n\nCréer des saignées dans les murs\n\nPréparer le passage de câbles électriques\n\nInstaller des gaines\n\nPréparer le passage de petits conduits\n\nRéaliser des travaux de plomberie\n\nRéaliser des travaux d’électricité\n\nTravaux de construction\n\nTravaux de rénovation\n\nTravaux d’aménagement intérieur\n\nPour les professionnels et les bricoleurs\n\nCette rainureuse murale convient particulièrement aux électriciens, plombiers, artisans du bâtiment, professionnels de la rénovation et bricoleurs expérimentés.\n\nElle permet de gagner du temps lors de la préparation des murs et facilite la réalisation de saignées régulières pour les différentes installations.\n\nCaractéristiques principales\n\nMarque : TOTAL\n\nRéférence : TWLC1256\n\nType : Rainureuse murale\n\nPuissance : 1500 W\n\nDiamètre des disques : 125 mm\n\nProfondeur de coupe : 3 à 29 mm\n\nLargeur de coupe : 8 à 30 mm\n\nUtilisation : Construction, rénovation, électricité et plomberie\n\nEn résumé\n\nLa TOTAL TWLC1256 1500 W est une rainureuse murale pratique pour réaliser des saignées destinées au passage des câbles, gaines et conduits. Grâce à sa profondeur et sa largeur de coupe réglables, elle permet d’adapter facilement les rainures aux besoins du chantier.\n\nC’est un outil particulièrement utile pour les travaux électriques, la plomberie, la rénovation et l’aménagement intérieur, aussi bien pour les professionnels que pour les utilisateurs expérimentés.",
+     "short_description": "Marque : TOTAL\n\nRéférence : TWLC1256\n\nType : Rainureuse murale\n\nPuissance : 1500 W\n\nDiamètre des disques : 125 mm\n\nProfondeur de coupe : 3 à 29 mm\n\nLargeur de coupe : 8 à 30 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-2-12.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-3-9.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-4-7.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62229",
+   "price": 1400,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tronçonneuse à métaux 2400 W TS9243558",
+     "description": "Voici une description longue, claire et naturelle, sans répétitions inutiles :\n\nÉcriture\n\nTronçonneuse à métaux 2400 W TOTAL TS9243558\n\nLa tronçonneuse à métaux TOTAL TS9243558 est une machine conçue pour réaliser des coupes rapides et précises dans différents éléments métalliques. Elle convient particulièrement aux travaux de serrurerie, de construction, de fabrication métallique, de maintenance et de bricolage.\n\nAvec son moteur de 2400 W et son disque de 355 mm, cette machine offre la puissance nécessaire pour travailler efficacement sur différents types de pièces métalliques. Elle permet notamment de couper des tubes, des profilés et des barres en acier.\n\nUne machine adaptée à la découpe du métal\n\nLa TOTAL TS9243558 est conçue pour faciliter la préparation des pièces métalliques avant leur assemblage, leur soudage ou leur installation. Elle peut être utilisée pour différents travaux nécessitant des coupes droites et régulières.\n\nElle convient notamment aux tubes ronds, tubes carrés, profilés rectangulaires et barres en acier, avec des dimensions adaptées à la capacité de la machine.\n\nPuissance de 2400 W\n\nSon moteur de 2400 W offre une puissance importante pour les travaux de découpe. La machine fonctionne à une vitesse à vide de 3800 tr/min, permettant de réaliser efficacement les coupes lorsque le disque et le matériau sont adaptés.\n\nCette puissance la rend adaptée aussi bien aux travaux professionnels qu’aux projets de bricolage nécessitant une machine dédiée à la découpe du métal.\n\nDisque de 355 mm\n\nLa tronçonneuse est équipée d’un disque de 355 mm, une dimension adaptée aux travaux courants de découpe métallique.\n\nLe disque permet de travailler différents types de pièces, notamment les tubes et profilés utilisés en serrurerie et en construction.\n\nDifférents types de pièces métalliques\n\nLa TOTAL TS9243558 peut être utilisée pour couper :\n\nTubes ronds\n\nTubes carrés\n\nProfilés rectangulaires\n\nBarres en acier\n\nDifférentes pièces métalliques adaptées aux capacités de la machine\n\nElle constitue ainsi un outil pratique pour les travaux de fabrication, de réparation et de préparation des éléments métalliques.\n\nPour les travaux de serrurerie et de fabrication\n\nCette tronçonneuse peut trouver sa place dans un atelier de serrurerie, métallerie ou fabrication métallique. Elle permet de préparer rapidement les pièces avant leur assemblage ou leur installation.\n\nElle convient également aux travaux de construction et de maintenance lorsqu’il est nécessaire de réaliser régulièrement des coupes dans des éléments métalliques.\n\nPour les professionnels et les bricoleurs\n\nLa TOTAL TS9243558 s’adresse aux serruriers, métalliers, artisans, professionnels du bâtiment et bricoleurs qui recherchent une machine puissante pour leurs travaux de découpe.\n\nSa conception permet de travailler sur différents projets tout en conservant une utilisation simple et pratique.\n\nCaractéristiques principales\n\nMarque : TOTAL\n\nRéférence : TS9243558\n\nType : Tronçonneuse à métaux\n\nPuissance : 2400 W\n\nVitesse à vide : 3800 tr/min\n\nDiamètre du disque : 355 mm\n\nUtilisation : Découpe de pièces métalliques\n\nApplications : Serrurerie, métallerie, construction, maintenance et bricolage\n\nEn résumé\n\nLa TOTAL TS9243558 2400 W est une tronçonneuse à métaux conçue pour réaliser des coupes efficaces dans les tubes, profilés et barres en acier. Son moteur puissant et son disque de 355 mm en font une solution adaptée aux travaux de serrurerie, de fabrication métallique, de construction et de maintenance.\n\nElle convient aux professionnels comme aux bricoleurs qui ont besoin d’une machine dédiée à la découpe régulière de pièces métalliques.",
+     "short_description": "Marque : TOTAL\n\nRéférence : TS9243558\n\nType : Tronçonneuse à métaux\n\nPuissance : 2400 W\n\nVitesse à vide : 3800 tr/min\n\nDiamètre du disque : 355 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TS9243558.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-1-15.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TS9243558-1.jpg"
+   ]
+  }
+ ]
+}

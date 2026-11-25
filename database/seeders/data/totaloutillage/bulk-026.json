@@ -1,0 +1,202 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-29050",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fil d’acier zingué 9 »",
+     "description": "",
+     "short_description": "Taille: 230mm / 9 »\n\nDiamètre de la tige centrale: 6mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/11/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-25.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-28368",
+   "price": 1590,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Poste 160A et Meuleuse 710W",
+     "description": "Obtenez des performances puissantes et rapides avec la meuleuse d’angle TOTAL !\n\nTension: 220-240V ~ 50 / 60Hz\n\nPuissance d’entrée: 900 W\n\nVitesse à vide: 12000 tr / min\n\nDiamètre du disque: 125 mm\n\nAvec 1 poignée auxiliaire\n\nCourant de sortie max. : 160A\n\n Avec 1 porte-électrode avec câble\n\n Avec 1 pince de terre avec câble\n\n Avec 1 brosse métallique et 1 casque\n\n Emballé dans une boîte en carton",
+     "short_description": "Pack TOTAL Pack Poste 160A et Meuleuse 710W : La puissance en action !\n\n Bénéficiez de 160A pour des soudures précises et de 710W pour des finitions parfaites. Une puissance, une durabilité et une performance optimales, prêtes à relever tous vos défis !"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/11/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-02-14T011247.637.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-28292",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pinceau 4 Pouces 57mm",
+     "description": "",
+     "short_description": "Longueur: 4 Pouces\n\nLongueur des poils: 57mm\n\nEpaisseur: 14mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/11/OIP-10.jpeg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-28188",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse cylindrique Paroi extérieur 10″/255mm",
+     "description": "Brosse cylindrique pour mur extérieur TOTAL 255 mm (THT85101)\n\nCette brosse cylindrique TOTAL (rouleau à peinture) est destinée aux murs extérieurs : façades, murs de clôture, crépis et surfaces rugueuses. Elle couvre une grande surface à chaque passage.\n\nElle mesure 255 mm de large et ses fibres acryliques de 22 mm de long pénètrent dans les reliefs des surfaces extérieures.\n\nCaractéristiques\n\nRéférence\nTHT85101\n\nLargeur\n255 mm (10 pouces)\n\nFibres\nAcrylique, 22 mm\n\nUsage\nMurs extérieurs\n\nVoir nos outils de peinture.",
+     "short_description": "Taille\n255 mm/ 10 pouces\n\nMatériel\nAcrylique\n\nLongueur de la fibre\n22 millimètres\n\nCohérent\nMur extérieur"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/11/2-STEPS-AHEAD.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-28166",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Brosse cylindrique 12 en 1 Set",
+     "description": "Brosse cylindrique 12 en 1 Set – La Performance en Force !",
+     "short_description": "Matériel : Acrylique + Mousse de polyester\n\nTaille : 100mm / 4 « \n\nConvient pour la paroi intérieure et la surface lisse \n\nTige centrale de 6 mm\n\nAvec 5 mini rouleaux en acrylique de 12 mm\n\nAvec 5 rouleaux en mousse de polyester"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/11/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-10T151054.105-min.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-26589",
+   "price": 299,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jacket imperméable XL",
+     "description": "",
+     "short_description": "Résistance\nIndice d’étanchéité : 5000mmH₂O, Perméabilité à l’air : 3000g / ㎡ / 24 heures\n\nMatériel\nTissu Nylon Taslan 228T avec doublure en maille\n\nTaille\nXL"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/10/1-15.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-26543",
+   "price": 1399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Coupe carreaux 1200 mm",
+     "description": "Longueur de coupe maximale : 1200mm\n\nÉpaisseur de coupe maximale : 16mm\n\nPoignée en aluminium moulé sous pression\n\nTaille de la lame : 22x6x2mm\n\nLame à roulement à billes en carbure de tungstène \n\nPoids net : 15kg\n\nDimensions de la base en acier : 1420X200mm\n\nAvec 1 sac\n\nCurseurs extra-longs en aluminium\n\nMultifonction : coupe directe en ligne, coupe en diagonale\n\nDiamètre de la barre coulissante : 20 mm\n\nEmballé par boîte de couleur",
+     "short_description": "Longueur de coupe maximale : 1200mm\n\nÉpaisseur de coupe maximale : 16mm\n\nPoignée en aluminium moulé sous pression\n\nTaille de la lame : 22x6x2mm\n\nLame à roulement à billes en carbure de tungstène\n\nAvec 1 sac"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/11/X_121707486-19917-1.jpeg",
+    "https://totaloutillage.com/wp-content/uploads/2024/11/X_tht571200083.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-26714",
+   "price": 36,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau de Machiniste 200g",
+     "description": "Marteau de machiniste TOTAL 200 g (THT712006)\n\nLe marteau de machiniste, ou marteau à panne ronde, est le marteau de l’atelier de mécanique et de métallerie : frapper sur un pointeau ou un chasse-goupille, redresser une pièce, riveter ou façonner de la tôle.\n\nCe modèle léger de 200 g a une tête forgée en acier au carbone 45 traité thermiquement et un manche en fibre de verre bicolore.\n\nCaractéristiques\n\nRéférence\nTHT712006\n\nPoids\n200 g\n\nTête\nForgée, acier au carbone 45, traitée thermiquement\n\nManche\nFibre de verre bicolore\n\nVoir aussi nos massettes et marteaux et nos outils à main.",
+     "short_description": "Tête de marteau forgée\n\n Traitement thermique, acier au carbone 45 #\n\n Poignée en fibre de verre bicolore\n\n Emballée par étiquette\n\n Poids : 200 g"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/11/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-09T164557.264.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-26706",
+   "price": 450,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Meuleuse angulaire 900W 115mm",
+     "description": "Meuleuse d’angle TOTAL 900 W 115 mm (TG109125565)\n\nLégère et maniable, la meuleuse TOTAL de 115 mm est idéale pour les petits travaux de coupe et de meulage : couper un fer, une tige filetée ou un carreau, ébavurer une soudure, décaper la rouille ou affûter un outil.\n\nSon moteur de 900 W fait tourner le disque à 12000 tr/min.\n\nCaractéristiques techniques\n\nRéférence\nTG109125565\n\nAlimentation\n220-240 V / 50-60 Hz\n\nPuissance\n900 W\n\nVitesse à vide\n12000 tr/min\n\nDiamètre du disque\n115 mm\n\nDans la boîte\n\nLa meuleuse et 1 poignée auxiliaire.\n\nTravaillez avec le carter et la poignée, et portez lunettes et gants. Disques de 115 mm dans nos disques ; voir toutes nos meuleuses.\n\n https://totaloutillage.com/wp-content/uploads/2024/11/Mangoisse11.mp4",
+     "short_description": "Obtenez des performances puissantes et rapides avec la meuleuse d’angle TOTAL ! \n\nTension: 220-240V ~ 50 / 60Hz\n\nPuissance d’entrée: 900 W\n\nVitesse à vide: 12000 tr / min\n\nDiamètre du disque: 115 mm\n\nAvec 1 poignée auxiliaire"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/11/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-09T123554.397-min.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-26381",
+   "price": 1690,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Compresseur 24L et 5 outils pneumatiques",
+     "description": "Compresseur TOTAL 24L TCS1075248 – Compact, puissant et polyvalent\n\nCapacité de la cuve : 24 litres\n\nPuissance moteur : 0.8 HP (600 W)\n\nAlimentation : 220-240V / 50Hz\n\nPression max. : 8 bars\n\nLubrification : À huile\n\nVitesse : 2850 tr/min\n\nPoids : 25 kg\n\nMobilité : Roues solides + poignée de transport\n\nPack de 5 Outils Pneumatiques TOTAL TATK051 – L’essentiel de l’air comprimé dans un seul coffret\n\nContenu du pack :\n\n1 Pistolet de soufflage – Pour le nettoyage rapide et efficace des surfaces et recoins.\n\n1 Pistolet à peinture – Pour une application fine et uniforme de la peinture ou du vernis.\n\n1 Pistolet de gonflage avec manomètre – Idéal pour gonfler pneus, ballons ou équipements gonflables avec précision.\n\n1 Pistolet de graissage – Pour lubrifier machines, roulements et pièces mécaniques.\n\n1 Tuyau spiralé de 5 mètres – Flexible et résistant, avec embouts rapides pour une connexion facile",
+     "short_description": "Le Pack Compresseur 24L & kit d’outils Pneumatiques 5pièces comprend un compresseur 24L, idéal pour une utilisation polyvalente. Il est équipé d’outils pneumatiques performants, notamment un pistolet de gonflage, une soufflette, un pistolet de peinture et un tuyau renforcé !"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2024/10/1-13.png",
+    "https://totaloutillage.com/wp-content/uploads/2024/03/Compresseur-24L-total.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/kit-doutils-Pneumatiques-5-pieces.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/pistolet-peinture-1000cc.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/3.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/4.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/5.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/09/6.png"
+   ]
+  }
+ ]
+}

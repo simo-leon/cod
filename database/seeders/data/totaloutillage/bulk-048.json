@@ -1,0 +1,214 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-62282",
+   "price": 350,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini-meuleuse rotative 130 W TG513326",
+     "description": "La **mini-meuleuse rotative TOTAL TG513326** est un outil polyvalent de **130 W** conçu pour les travaux de précision tels que le meulage, le polissage, la gravure, le découpage, le ponçage et le perçage léger. Grâce à sa vitesse variable de **10 000 à 35 000 tr/min**, elle s’adapte facilement à différents matériaux et applications.\n\nCompacte et ergonomique, cette mini-meuleuse offre une excellente prise en main pour les travaux minutieux. Elle est équipée d’un porte-outil compatible avec les accessoires jusqu’à **3,2 mm** et est livrée avec un arbre flexible permettant d’améliorer la précision lors des opérations délicates.\n\nIdéale pour les bricoleurs, artisans et professionnels, la TOTAL TG513326 constitue une solution pratique et performante pour les travaux de finition et de précision sur le bois, le métal, le plastique et d’autres matériaux.",
+     "short_description": "Référence : TG513326\n\nType : Mini-meuleuse rotative\n\nPuissance : 130 W\n\nTension :220–240 V\n\nFréquence : 50/60 Hz\n\nVitesse à vide :10 000 à 35 000 tr/min\n\nDiamètre de pince :3,2 mm\n\nType d’entraînement : Électrique\n\nUtilisation : Gravure, meulage, ponçage, polissage, perçage et découpe\n\nAccessoires : Livrée avec un ensemble d’accessoires et un arbre flexible\n\nApplication : Bricolage, artisanat, travaux de précision et atelier\n\nMarque TOTAL"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-1-16.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-2-13.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-3-10.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-4-8.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-5-7.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-6-6.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62277",
+   "price": 20000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Compresseur d’air TOTAL 500 L – 7,5 HP – 380V TC1755002",
+     "description": "Le Compresseur d’air TOTAL TC1755002** est un équipement professionnel puissant, conçu pour les ateliers, garages et applications industrielles. Il dispose d’un **réservoir de 500 litres** et d’un moteur de **7,5 HP (5,5 kW)**, offrant une capacité importante pour les travaux nécessitant une alimentation régulière en air comprimé.\n\nAlimenté en **380 V – 50 Hz triphasé**, le TC1755002 est équipé d’une pompe à **2 cylindres**, d’une transmission par **courroie** et d’un système de lubrification à l’huile. Sa pression maximale de **8 bar** permet d’utiliser différents outils et équipements pneumatiques.\n\nGrâce à sa grande capacité de cuve et à sa conception robuste, le **TOTAL TC1755002** constitue une solution adaptée aux travaux professionnels nécessitant un compresseur fiable et performant.",
+     "short_description": "Tension : 380 V~50 Hz\n\nPuissance d’entrée: 5.5kW (7.5HP)\n\nRéservoir: 500L\n\nRéf:TC1755002"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TC1755002.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62265",
+   "price": 15000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Compresseur d’air – 300 L – 5,5 HP (4,1 kW). TC1553002",
+     "description": "Le compresseur d’air TOTAL TC1553002** est un compresseur professionnel équipé d’un **réservoir de 300 litres et d’un moteur puissant de **5,5 HP (4,1 kW)**. Il fonctionne en **380 V – 50 Hz triphasé** et dispose d’un système d’entraînement par courroie avec un compresseur à **2 cylindres**.\n\nConçu pour les ateliers, les garages et les applications professionnelles, il permet d’alimenter efficacement différents outils pneumatiques. Sa pression de fonctionnement maximale atteint **8 bar**.\n\nGrâce à son **moteur à induction à fil de cuivre** et à sa pompe **lubrifiée à l’huile**, le TC1553002 est conçu pour offrir une utilisation fiable et durable. TOTAL indique également une durée de vie annoncée de **3 000 heures",
+     "short_description": "Type : Compresseur d’air\n\nPuissance : 4,1 kW / 5,5 HP\n\nTension : 380 V – 50 Hz\n\nAlimentation : Triphasé\n\nCapacité du réservoir : 300 L"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-14-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-15-2.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62260",
+   "price": 9500,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Compresseur d’air 150 L sans huile 6,4 HP TCS4481508",
+     "description": "Le TOTAL TCS4481508 est un compresseur d’air de 150 litres conçu pour les travaux nécessitant une alimentation importante et régulière en air comprimé. Avec sa puissance de 6,4 HP, il convient particulièrement aux applications professionnelles et aux travaux intensifs en atelier.\n\nSon grand réservoir permet de disposer d’une réserve d’air suffisante pour alimenter différents outils pneumatiques. Sa conception robuste assure une utilisation fiable et adaptée aux besoins des professionnels.\n\nCaractéristiques principales :\n\nMarque : TOTAL\n\nModèle : TCS4481508\n\nCapacité du réservoir : 150 L\n\nPuissance : 6,4 HP\n\nType : Compresseur d’air\n\nUtilisation : professionnelle et intensive\n\nApplications : outils pneumatiques, soufflage, gonflage, nettoyage et travaux d’atelier\n\nLe TCS4481508 est donc une solution idéale pour les professionnels recherchant un compresseur grande capacité, puissant et adapté aux travaux exigeants.",
+     "short_description": "Marque : TOTAL\n\nModèle : TCS4481508\n\nCapacité du réservoir : 150 L\n\nPuissance : 6,4 HP\n\nType : Compresseur d’air\n\nUtilisation : professionnelle et intensive"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-11-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-12-1.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62255",
+   "price": 1450,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Compresseur d’air silencieux 24 L sans huile",
+     "description": "Le TOTAL TCS1110242 est un compresseur d’air de 24 litres, conçu pour fournir une alimentation en air comprimé fiable et pratique pour les travaux de bricolage, d’entretien et les applications professionnelles légères.\n\nÉquipé d’un moteur de 1,5 HP, ce compresseur sans huile offre un fonctionnement plus propre et nécessite moins d’entretien. Sa conception compacte et son réservoir de 24 L facilitent son utilisation et son déplacement dans différents environnements de travail.\n\nCaractéristiques principales :\n\nCapacité du réservoir : 24 L\n\nPuissance : 1,5 HP\n\nType : compresseur sans huile\n\nAlimentation : 220–240 V / 50 Hz\n\nPression maximale : 8 bar\n\nDébit d’air : environ 120 L/min\n\nConception compacte et pratique\n\nConvient aux travaux de gonflage, nettoyage, agrafage et autres applications à air comprimé\n\nLe TCS1110242 constitue une solution pratique pour les utilisateurs recherchant un compresseur compact, facile à utiliser et demandant peu d’entretien.",
+     "short_description": "Capacité du réservoir : 24 L\n\nPuissance : 1,5 HP\n\nType : compresseur sans huile\n\nAlimentation : 220–240 V / 50 Hz\n\nPression maximale : 8 bar\n\nDébit d’air : environ 120 L/min"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-9-4.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-10-2.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/3.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62207",
+   "price": 4800,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie à table 2600 W TS526043 – Lame 254 mm",
+     "description": "La scie à table TOTAL TS526043 est une machine puissante et pratique conçue pour réaliser différents travaux de découpe du bois. Elle convient particulièrement aux travaux de menuiserie, de fabrication, de rénovation et de bricolage.\n\nAvec son moteur de 2600 W et sa lame de 254 mm, cette scie offre une bonne puissance pour travailler efficacement différentes pièces en bois. Elle permet de réaliser des coupes droites, des coupes inclinées et des découpes longitudinales selon les besoins du projet.\n\nUne scie conçue pour les travaux de menuiserie\n\nLa TOTAL TS526043 est idéale pour les travaux nécessitant une coupe régulière et précise. Sa table permet de maintenir et de guider les pièces pendant la découpe, ce qui facilite le travail sur les planches et les panneaux.\n\nElle peut être utilisée pour différents projets de menuiserie, notamment la fabrication de meubles, la découpe de panneaux, la préparation de planches et les travaux d’aménagement.",
+     "short_description": "Marque : TOTAL\n\nRéférence : TS526043\n\nType : Scie à table\n\nPuissance : 2600 W\n\nTension : 220–240 V\n\nFréquence : 50/60 Hz\n\nVitesse à vide : 4800 tr/min\n\nDiamètre de lame : 254 mm\n\nCapacité de coupe à 90° : 86 mm\n\nCapacité de coupe à 45° : 60 mm\n\nTable principale : 643 × 549 mm\n\nExtension gauche : 643 × 65 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TS526043.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-6-4.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-5-5.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62199",
+   "price": 3000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie à table 1500 W TS5152548 – Lame 254 mm",
+     "description": "Scie à table 1500 W TOTAL TS5152548 – Lame 254 mm\n\nLa scie à table TOTAL TS5152548 est une machine conçue pour réaliser des coupes précises et régulières dans le bois et les panneaux. Elle convient particulièrement aux travaux de menuiserie, d’ébénisterie, de fabrication de meubles, de rénovation et de bricolage.\n\nAvec son moteur de 1500 W et sa lame de 254 mm, cette scie offre une puissance adaptée aux travaux de découpe courants en atelier. Elle permet de réaliser des coupes droites et de travailler différentes dimensions de pièces en bois avec une bonne stabilité.\n\nUne scie pratique pour les travaux de menuiserie\n\nLa TOTAL TS5152548 est conçue pour être utilisée sur une table de travail, ce qui permet de positionner les pièces et de réaliser des découpes régulières. Elle est particulièrement utile pour les travaux qui nécessitent plusieurs coupes similaires ou des découpes longitudinales.\n\nElle peut être utilisée pour couper des planches, panneaux, tasseaux et différentes pièces en bois, selon les dimensions compatibles avec la machine.\n\nCette scie convient aussi bien aux travaux de fabrication qu’aux opérations de rénovation et d’aménagement.\n\nMoteur puissant de 1500 W\n\nLa machine est équipée d’un moteur de 1500 W et atteint une vitesse à vide de 4500 tr/min. Cette puissance permet de travailler efficacement avec la lame de 254 mm et de réaliser différents travaux de découpe.\n\nLe moteur est adapté aux travaux réguliers de menuiserie et de bricolage, tout en offrant une bonne vitesse de travail pour les découpes appropriées.\n\nLame de 254 mm\n\nLa TOTAL TS5152548 est équipée d’une lame de 254 × 16 mm. Cette dimension permet de réaliser des coupes adaptées à différents travaux de menuiserie.\n\nLa lame permet d’obtenir une coupe efficace lorsque la pièce est correctement positionnée et que la machine est utilisée avec les réglages adaptés.\n\nBonne capacité de coupe\n\nLa scie offre une capacité de coupe maximale de :\n\n85 mm à 90°\n\n60 mm à 45°\n\nCette capacité permet de travailler différentes épaisseurs de bois et d’adapter la coupe selon le projet.\n\nLa lame peut également être inclinée de 0 à 45°, ce qui permet de réaliser des coupes inclinées lorsque le travail le nécessite.\n\nTable de travail avec extensions\n\nLa table principale mesure 430 × 640 mm. Elle offre une surface pratique pour positionner les pièces avant la coupe.\n\nLa machine dispose également d’extensions latérales de 640 × 150 mm, à gauche et à droite. Ces extensions permettent d’augmenter la surface disponible et facilitent le travail avec des pièces plus larges.\n\nIdéale pour différents projets\n\nLa TOTAL TS5152548 peut être utilisée pour de nombreux travaux, notamment :\n\nDécoupe de planches\n\nDécoupe de panneaux\n\nDécoupe de tasseaux\n\nFabrication de meubles\n\nTravaux de menuiserie\n\nTravaux d’ébénisterie\n\nDécoupes longitudinales\n\nRéalisation de coupes droites\n\nRéalisation de coupes inclinées\n\nTravaux de rénovation\n\nProjets de bricolage\n\nPour les professionnels et les bricoleurs\n\nCette scie à table convient aux menuisiers, artisans, professionnels et bricoleurs qui recherchent une machine capable de réaliser des découpes régulières et précises.\n\nElle peut trouver sa place dans un atelier de menuiserie, un espace de fabrication ou pour différents projets de bricolage nécessitant une scie à table.\n\nCaractéristiques principales\n\nMarque : TOTAL\n\nRéférence : TS5152548\n\nType : Scie à table\n\nPuissance : 1500 W\n\nTension : 220–240 V\n\nFréquence : 50/60 Hz\n\nVitesse à vide : 4500 tr/min\n\nDiamètre de lame : 254 mm\n\nAlésage de la lame : 16 mm\n\nCapacité de coupe à 90° : 85 mm\n\nCapacité de coupe à 45° : 60 mm\n\nInclinaison de la lame : 0 à 45°\n\nTable principale : 430 × 640 mm\n\nExtensions latérales : 640 × 150 mm à gauche et à droite\n\nLame : 254 mm\n\nEmballage : boîte en carton\n\nEn résumé\n\nLa TOTAL TS5152548 est une scie à table de 1500 W équipée d’une lame de 254 mm, conçue pour les travaux de découpe du bois. Sa table de travail, ses extensions latérales et son réglage d’inclinaison permettent de réaliser différents types de coupes selon les besoins.\n\nAvec sa bonne capacité de coupe et son moteur de 1500 W, elle constitue une solution pratique pour les travaux de menuiserie, de fabrication, de rénovation et de bricolage, aussi bien en atelier que pour les projets personnels.",
+     "short_description": "Marque : TOTAL\n\nRéférence : TS5152548\n\nType : Scie à table\n\nPuissance : 1500 W\n\nTension : 220–240 V\n\nFréquence : 50/60 Hz\n\nVitesse à vide : 4500 tr/min\n\nDiamètre de lame : 254 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TS5152548.webp",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/2-3.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-4-6.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62175",
+   "price": 400,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie sauteuse pendulaire 570W TS206656",
+     "description": "Bien compris. Voici une version longue, simple, claire et naturelle, adaptée à une fiche produit, sans répétitions ni surcharge technique :\n\nÉcriture\n\nScie sauteuse TOTAL 570 W TS206656\n\nLa scie sauteuse TOTAL TS206656 est un outil pratique et polyvalent conçu pour réaliser différents travaux de découpe. Elle est particulièrement adaptée à la menuiserie, au bricolage, à la rénovation et aux travaux de fabrication.\n\nAvec sa puissance de 570 W, elle permet de réaliser efficacement les travaux de découpe courants. Sa vitesse réglable de 800 à 3000 tr/min permet d’adapter le fonctionnement de la machine au matériau et au type de coupe à effectuer.\n\nLa TS206656 est idéale pour réaliser des coupes droites, courbes et différentes formes dans le bois. Elle peut également être utilisée pour la découpe de l’acier avec une lame adaptée.\n\nUne scie adaptée à de nombreux travaux\n\nLa scie sauteuse est un outil particulièrement utile lorsque l’on souhaite réaliser des découpes de différentes formes. Contrairement à une scie destinée uniquement aux coupes droites, elle permet de suivre plus facilement une ligne courbe et de réaliser des formes adaptées à différents projets.\n\nLa TOTAL TS206656 peut être utilisée pour découper des planches, des panneaux, des pièces de bois et différents éléments utilisés en menuiserie.\n\nElle convient également pour les travaux de rénovation et de bricolage à la maison ou dans un atelier.\n\nFonction pendulaire réglable\n\nLa TS206656 possède une fonction pendulaire à 4 positions. Ce réglage permet d’adapter le mouvement de la lame selon le travail à effectuer.\n\nCette fonction est particulièrement utile lorsque l’on souhaite réaliser certaines découpes plus rapidement dans le bois. Le choix de la position dépend du matériau, de la lame utilisée et de la finition souhaitée.\n\nVitesse réglable\n\nLa vitesse de la scie peut être réglée entre 800 et 3000 tr/min. Cette possibilité permet de mieux contrôler la coupe et d’adapter le travail au matériau utilisé.\n\nPour les travaux nécessitant davantage de précision, une vitesse adaptée permet de mieux maîtriser la progression de la lame. Pour les découpes appropriées à une vitesse plus élevée, le réglage peut être augmenté.\n\nBonne capacité de coupe\n\nLa TOTAL TS206656 permet de couper jusqu’à 65 mm dans le bois et jusqu’à 8 mm dans l’acier, avec une lame adaptée.\n\nElle peut donc répondre à de nombreux besoins en matière de découpe, notamment pour les travaux de menuiserie et de bricolage.\n\nIdéale pour la menuiserie et le bricolage\n\nCette scie sauteuse peut être utilisée pour différents projets, notamment :\n\nDécouper des planches en bois\n\nDécouper des panneaux\n\nRéaliser des coupes droites\n\nRéaliser des coupes courbes\n\nCréer différentes formes dans le bois\n\nEffectuer des travaux de menuiserie\n\nRéaliser des travaux de rénovation\n\nDécouper certains éléments métalliques avec une lame adaptée\n\n3 lames incluses\n\nLa TOTAL TS206656 est livrée avec 3 lames de scie, ce qui permet de disposer de plusieurs accessoires pour commencer les travaux.\n\nElle est également fournie avec un jeu de charbons de rechange, pratique pour l’entretien de la machine.\n\nPour les professionnels et les particuliers\n\nGrâce à sa polyvalence et à ses différents réglages, la TS206656 convient aussi bien aux professionnels qu’aux bricoleurs.\n\nElle peut être utilisée dans un atelier, sur un chantier ou pour des travaux de bricolage à la maison. Elle constitue un choix pratique pour les utilisateurs qui recherchent une scie sauteuse capable de réaliser différents types de découpes avec un seul outil.\n\nCaractéristiques principales\n\nMarque : TOTAL\n\nModèle : TS206656\n\nType : Scie sauteuse\n\nPuissance : 570 W\n\nVitesse variable : 800 à 3000 tr/min\n\nFonction pendulaire : 4 positions\n\nCapacité de coupe dans le bois : jusqu’à 65 mm\n\nCapacité de coupe dans l’acier : jusqu’à 8 mm\n\nLames fournies : 3\n\nCharbons de rechange : 1 jeu\n\nUtilisation : bois, menuiserie, bricolage et travaux de découpe\n\nEn résumé\n\nLa scie sauteuse TOTAL TS206656 570 W est un outil polyvalent destiné aux travaux de découpe. Elle combine une bonne puissance, une vitesse réglable et une fonction pendulaire à 4 positions pour s’adapter à différents travaux.\n\nAvec ses 3 lames incluses, sa capacité de coupe de 65 mm dans le bois et ses différents réglages, elle convient parfaitement aux travaux de menuiserie, bricolage et rénovation, aussi bien pour les particuliers que pour les professionnels.",
+     "short_description": "Marque : TOTAL\n\nModèle : TS206656\n\nType : Scie sauteuse\n\nPuissance : 570 W\n\nVitesse variable : 800 à 3000 tr/min"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TS206656-1.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/Total_Jig_Saw_570W-Total_One_Stop_Tools_Station-48cd5-355395.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-29.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TS206656.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62170",
+   "price": 300,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie sauteuse 400 W – TS2045565",
+     "description": "Compris. Vous voulez une description longue, mais simple, claire et naturelle, sans répétitions ni texte technique inutile.\n\nÉcriture\n\nScie sauteuse 400 W TOTAL TS2045565\n\nLa scie sauteuse TOTAL TS2045565 est un outil électrique conçu pour réaliser facilement différents travaux de découpe. Elle est idéale pour la menuiserie, le bricolage, la rénovation et les travaux sur le bois.\n\nÉquipée d’un moteur de 400 W, cette scie sauteuse offre une puissance adaptée aux travaux courants. Sa vitesse variable de 800 à 3000 tr/min permet d’adapter la vitesse de coupe en fonction du matériau et du travail à réaliser.\n\nLa TOTAL TS2045565 permet de réaliser des coupes droites, courbes et de différentes formes. Elle est particulièrement pratique pour découper des planches, panneaux, pièces de bois et autres matériaux adaptés à l’utilisation d’une scie sauteuse.\n\nUne scie polyvalente\n\nGrâce à sa vitesse réglable, la TOTAL TS2045565 peut être utilisée pour différents travaux. L’utilisateur peut ajuster la vitesse afin de mieux contrôler la coupe et d’obtenir un résultat propre et régulier.\n\nElle offre une capacité de coupe jusqu’à 55 mm dans le bois et jusqu’à 3 mm dans l’acier, avec une lame adaptée.\n\nCette polyvalence en fait un outil pratique pour les travaux de bricolage et de menuiserie, que ce soit pour réaliser une nouvelle pièce, modifier un élément existant ou effectuer des travaux de rénovation.\n\nFacile à utiliser pour différents travaux\n\nLa scie sauteuse est particulièrement adaptée aux travaux où il est nécessaire de suivre une ligne ou de réaliser une forme particulière. Elle permet de travailler plus facilement les coupes courbes et les découpes de formes que certains outils de coupe plus classiques.\n\nLa TOTAL TS2045565 convient aussi bien aux bricoleurs qu’aux artisans et professionnels qui recherchent une scie sauteuse pratique pour les travaux de découpe.\n\nCaractéristiques principales\n\nMarque : TOTAL\n\nModèle : TS2045565\n\nType : Scie sauteuse\n\nPuissance : 400 W\n\nVitesse : 800 à 3000 tr/min\n\nVitesse variable : Oui\n\nCoupe maximale dans le bois : 55 mm\n\nCoupe maximale dans l’acier : 3 mm\n\nAlimentation : 220–240 V\n\nLame incluse : 1 lame\n\nIdéale pour\n\nLa TOTAL TS2045565 est adaptée pour :\n\nLa découpe du bois\n\nLa menuiserie\n\nLe bricolage\n\nLa rénovation\n\nLa fabrication de meubles\n\nLes découpes droites\n\nLes découpes courbes\n\nLes travaux de finition\n\nEn résumé\n\nLa scie sauteuse TOTAL TS2045565 400 W est un outil polyvalent et pratique pour réaliser différents travaux de découpe. Avec sa vitesse variable, sa bonne capacité de coupe dans le bois et son format maniable, elle constitue un équipement utile pour les travaux de menuiserie, de bricolage et de rénovation.",
+     "short_description": "Marque : TOTAL\n\nModèle : TS2045565\n\nType : Scie sauteuse\n\nPuissance : 400 W\n\nVitesse : 800 à 3000 tr/min\n\nVitesse variable : Oui"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TS2045565.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/6291_ae59e0439f3941671828-scaled.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-1-12.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62164",
+   "price": 240,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ensemble de 12 fraises à défoncer TACSR2121",
+     "description": "Bien sûr. Voici une description longue, très claire et professionnelle pour le TOTAL TACSR2121, sans formulation compliquée :\n\nÉcriture\n\nEnsemble de 12 fraises à défoncer TOTAL TACSR2121\n\nL’ensemble de 12 fraises à défoncer TOTAL TACSR2121 est un coffret complet conçu pour les travaux de menuiserie, d’ébénisterie et de façonnage du bois. Il permet de réaliser différents types de coupes, de rainures et de finitions avec une défonceuse.\n\nGrâce à ses 12 fraises de formes différentes, cet ensemble offre une grande polyvalence pour les travaux sur le bois. Il permet notamment de travailler les bords, créer des rainures, réaliser des chanfreins, effectuer des arrondis et obtenir différents profils décoratifs.\n\nLe coffret est particulièrement pratique pour les professionnels, les artisans et les bricoleurs qui souhaitent disposer de plusieurs types de fraises dans un seul ensemble. Chaque fraise est destinée à une application spécifique, ce qui permet de réaliser différents travaux sans avoir besoin d’acheter les accessoires séparément.\n\nUn ensemble polyvalent pour le travail du bois\n\nLe TACSR2121 convient à de nombreuses applications en menuiserie. Les différentes formes de fraises permettent de réaliser des travaux de finition et de façonnage sur différentes pièces en bois.\n\nIl peut être utilisé pour :\n\nRéaliser des rainures\n\nEffectuer des coupes droites\n\nCréer des chanfreins\n\nRéaliser des arrondis sur les bords\n\nEffectuer des travaux d’affleurage\n\nCréer des profils décoratifs\n\nRéaliser certains assemblages de menuiserie\n\nFaçonner et finir les pièces en bois\n\nPréparer les chants et les bordures\n\nRéaliser différents travaux de finition\n\n12 fraises pour différentes applications\n\nL’avantage principal de cet ensemble est de regrouper 12 fraises différentes dans un seul coffret. Cette diversité permet de choisir facilement la fraise adaptée au travail à effectuer.\n\nQue ce soit pour créer une rainure, modifier la forme d’un bord, réaliser un profil décoratif ou effectuer une finition, le coffret offre plusieurs possibilités pour les travaux courants de menuiserie.\n\nUtilisation avec une défonceuse\n\nLes fraises sont conçues pour être utilisées avec une défonceuse compatible avec le diamètre de queue correspondant. Avant utilisation, il est important de vérifier la compatibilité entre la fraise et la défonceuse.\n\nPour obtenir une coupe propre et régulière, il est recommandé de travailler avec une vitesse adaptée au matériau et de réaliser les passes progressivement. Une bonne fixation de la pièce à travailler est également essentielle pour garantir un travail précis et sécurisé.\n\nIdéal pour les professionnels et les bricoleurs\n\nLe TOTAL TACSR2121 convient aussi bien aux utilisateurs professionnels qu’aux personnes réalisant des travaux de menuiserie à la maison.\n\nIl est particulièrement utile pour :\n\nLes menuisiers\n\nLes ébénistes\n\nLes artisans\n\nLes ateliers de fabrication\n\nLes professionnels du bois\n\nLes bricoleurs\n\nLes travaux de rénovation\n\nLes projets de fabrication de meubles\n\nCoffret pratique\n\nL’ensemble est fourni dans un coffret de rangement, ce qui permet de garder les différentes fraises organisées et facilement accessibles. Le rangement facilite également le transport des accessoires et contribue à éviter de perdre les différentes pièces.\n\nCaractéristiques principales\n\nMarque : TOTAL\n\nRéférence : TACSR2121\n\nType de produit : Ensemble de fraises à défoncer\n\nNombre de pièces : 12\n\nUtilisation : Travail du bois\n\nApplication : Menuiserie, ébénisterie et bricolage\n\nUtilisation : Avec une défonceuse compatible\n\nRangement : Coffret\n\nPourquoi choisir le TOTAL TACSR2121 ?\n\nLe TOTAL TACSR2121 est une solution pratique pour les utilisateurs qui recherchent un ensemble de fraises permettant de réaliser plusieurs opérations de menuiserie avec un seul coffret.\n\nAvec ses 12 fraises différentes, il permet de disposer de plusieurs profils de coupe pour les travaux de façonnage, de rainurage et de finition. Son coffret facilite le rangement et permet de conserver les accessoires ensemble.\n\nC’est donc un ensemble adapté aux travaux de menuiserie, d’ébénisterie, de fabrication de meubles, de finition et de bricolage sur le bois.",
+     "short_description": "Marque : TOTAL\n\nRéférence : TACSR2121\n\nType de produit : Ensemble de fraises à défoncer\n\nNombre de pièces : 12\n\nUtilisation : Travail du bois\n\nApplication : Menuiserie, ébénisterie et bricolage\n\nUtilisation : Avec une défonceuse compatible\n\nRangement : Coffret"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-27.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TACSR1121-A.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/TACSR1121.webp"
+   ]
+  }
+ ]
+}

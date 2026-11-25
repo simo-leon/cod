@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-62839",
+   "price": 3200,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à jet auto-amorçante 2 CV 1500 W TWP315006",
+     "description": "La TOTAL TWP315006 est une pompe à jet auto-amorçante puissante de 1500 W (2 CV), destinée au pompage et à l’alimentation en eau ainsi qu’à l’irrigation. Elle offre une hauteur de refoulement maximale de 60 m, un débit maximal de 100 L/min et une hauteur d’aspiration maximale de 9 m. Son moteur à fil de cuivre et sa roue en acier inoxydable assurent robustesse et durabilité\n\nRéférence : TWP315006\n\nType : Pompe à jet auto-amorçante\n\nPuissance : 1500 W / 2 CV\n\nTension : 220–240 V ~ 50 Hz\n\nHauteur maximale : 60 m\n\nDébit maximal : 100 L/min\n\nAspiration maximale : 9 m",
+     "short_description": "Référence : TWP315006\n\nType : Pompe à jet auto-amorçante\n\nPuissance : 1500 W / 2 CV\n\nTension : 220–240 V ~ 50 Hz\n\nHauteur maximale : 60 m\n\nDébit maximal : 100 L/min\n\nAspiration maximale : 9 m"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/5bbad30fa88c3e99ee15d13f7a1d688940f2af58568d46f486668ad0554c8e9f_1200-1.webp",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/2-5.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62835",
+   "price": 1900,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pompe à jet auto-amorçante 1,5 CV 1100 W TWP311006",
+     "description": "La TOTAL TWP311006 est une pompe à jet auto-amorçante de 1100 W (1,5 CV), conçue pour l’alimentation en eau, l’irrigation et les applications domestiques ou agricoles. Elle offre une hauteur de refoulement maximale de 60 m et un débit maximal de 70 L/min. Son moteur à fil de cuivre, son arbre et sa turbine en acier inoxydable assurent une bonne résistance et une utilisation fiable.\n\nRéférence : TWP311006\n\nType : Pompe à jet auto-amorçante\n\nPuissance : 1100 W / 1,5 CV\n\nTension : 220–240 V ~ 50 Hz\n\nHauteur maximale de refoulement : 60 m\n\nDébit maximal : 70 L/min (4 200 L/h)\n\nHauteur maximale d’aspiration : 9 m",
+     "short_description": "Référence : TWP311006\n\nType : Pompe à jet auto-amorçante\n\nPuissance : 1100 W / 1,5 CV\n\nTension : 220–240 V ~ 50 Hz\n\nHauteur maximale de refoulement : 60 m"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/5bbad30fa88c3e99ee15d13f7a1d688940f2af58568d46f486668ad0554c8e9f_1200.webp",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/2-4.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62735",
+   "price": 36000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Groupe électrogène essence triphasé 19 kW TP1200006T",
+     "description": "Le TOTAL TP1200006T est un groupe électrogène essence triphasé conçu pour les chantiers, ateliers, exploitations agricoles et installations nécessitant une alimentation électrique de forte puissance. Il délivre jusqu’à 19 kW à 380–415 V, avec une puissance nominale de 17 kW. Son moteur V-Twin bicylindre de 999 cm³, son démarrage électrique et son alternateur à bobinage cuivre offrent une solution adaptée aux utilisations professionnelles intensives\n\nMarque : TOTAL\n\nModèle : TP1200006T\n\nType : Groupe électrogène essence\n\nPhase : Triphasé\n\nTension : 220–240 / 380–415 V\n\nFréquence : 50 Hz\n\nPuissance maximale : 19 kW à 380–415 V\n\nPuissance nominale : 17 kW à 380–415 V\n\nPuissance maximale : 6,3 kW à 220–240 V\n\nPuissance nominale : 5,7 kW à 220–240",
+     "short_description": "Marque : TOTAL\n\nModèle : TP1200006T\n\nType : Groupe électrogène essence\n\nPhase : Triphasé\n\nTension : 220–240 / 380–415 V\n\nFréquence : 50 Hz\n\nPuissance maximale : 19 kW à 380–415 V\n\nPuissance nominale : 17 kW à 380–415 V\n\nPuissance maximale : 6,3 kW à 220–240 V\n\nPuissance nominale : 5,7 kW à 220–240 V"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-5-10.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62729",
+   "price": 32000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Groupe électrogène essence 12 kW TP1150006T",
+     "description": "Le TOTAL TP1150006T est un groupe électrogène professionnel à essence et triphasé, conçu pour fournir une alimentation électrique fiable aux chantiers, ateliers, commerces et installations nécessitant une puissance importante. Il délivre jusqu’à 12 kW en 380–415 V, avec une puissance nominale de 11 kW. Son moteur bicylindre V-Twin 4 temps OHV de 713 cm³, son démarrage électrique et son alternateur à bobinage cuivre assurent de bonnes performances pour les utilisations intensives.\n\nMarque : TOTAL\n\nModèle : TP1150006T\n\nType : Groupe électrogène essence triphasé\n\nTension : 220–240 / 380–415 V\n\nFréquence : 50 Hz\n\nPhase : Triphasé\n\nPuissance maximale : 12 kW à 380–415 V\n\nPuissance nominale : 11 kW à 380–415 V\n\nPuissance maximale : 4 kW à 220–240 V\n\nPuissance nominale : 3,6 kW à 220–240 V\n\nMoteur : V-Twin bicylindre, 4 temps OHV",
+     "short_description": "Marque : TOTAL\n\nModèle : TP1150006T\n\nType : Groupe électrogène essence triphasé\n\nTension : 220–240 / 380–415 V\n\nFréquence : 50 Hz\n\nPhase : Triphasé\n\nPuissance maximale : 12 kW à 380–415 V\n\nPuissance nominale : 11 kW à 380–415 V\n\nPuissance maximale : 4 kW à 220–240 V\n\nPuissance nominale : 3,6 kW à 220–240 V\n\nMoteur : V-Twin bicylindre, 4 temps OHV"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-4-13.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62726",
+   "price": 12000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Groupe électrogène essence triphasé 9 kW TP190006T",
+     "description": "Le TOTAL TP190006T est un groupe électrogène à essence triphasé conçu pour alimenter les équipements électriques sur les chantiers, dans les ateliers et pour les applications agricoles. Il offre une puissance maximale de 9 kW à 380–415 V et de 3,5 kW à 220–240 V, avec une puissance nominale respective de 7,5 kW et 3,2 kW. Son moteur 4 temps OHV de 457 cm³ bénéficie d’un démarrage manuel et électrique ainsi que d’un alternateur à bobinage cuivre",
+     "short_description": "Marque : TOTAL\n\nModèle : TP190006T\n\nType : Groupe électrogène essence triphasé\n\nTension : 220–240 / 380–415 V\n\nFréquence : 50 Hz\n\nPhase : Triphasé\n\nPuissance maximale : 9 kW à 380–415 V"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-3-13.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62719",
+   "price": 49000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Groupe électrogène diesel silencieux 10,5 kW TP2105001",
+     "description": "Le TOTAL TP2105001 est un groupe électrogène diesel silencieux conçu pour fournir une alimentation électrique fiable aux maisons, commerces, ateliers et chantiers. Il développe une puissance maximale de 10,5 kW et une puissance nominale de 9,5 kW. Son moteur diesel V-Twin 4 temps refroidi par air, son démarrage électrique et son alternateur à bobine de cuivre en font une solution adaptée à l’alimentation de secours et aux utilisations intensives\n\nMarque : TOTAL\n\nModèle : TP2105001\n\nType : Groupe électrogène diesel silencieux\n\nPuissance maximale : 10,5 kW\n\nPuissance nominale : 9,5 kW\n\nTension : 220–240 V\n\nFréquence : 50 Hz\n\nPhase : Monophasé",
+     "short_description": "Marque : TOTAL\n\nModèle : TP2105001\n\nType : Groupe électrogène diesel silencieux\n\nPuissance maximale : 10,5 kW\n\nPuissance nominale : 9,5 kW\n\nTension : 220–240 V\n\nFréquence : 50 Hz\n\nPhase : Monophasé"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/01c1147e-312c-4e1b-bd70-520998239a49-1.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62712",
+   "price": 28000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Groupe électrogène diesel insonorisé 8 kW TP280001",
+     "description": "Le TOTAL TP280001 est un groupe électrogène diesel insonorisé conçu pour fournir une alimentation électrique de secours fiable. Il délivre une puissance maximale de 8 kW et une puissance nominale de 7,5 kW en monophasé 220–240 V. Son moteur diesel refroidi par air, son démarrage électrique et son alternateur à bobine de cuivre en font une solution adaptée aux chantiers, ateliers, commerces et installations nécessitant une alimentation de secours.\n\nMarque : TOTAL\n\nModèle : TP280001\n\nType : Groupe électrogène diesel insonorisé\n\nPhase : Monophasé\n\nTension : 220–240 V\n\nFréquence : 50 Hz\n\nPuissance maximale : 8,0 kW\n\nPuissance nominale : 7,5 kW",
+     "short_description": "Marque : TOTAL\n\nModèle : TP280001\n\nType : Groupe électrogène diesel insonorisé\n\nPhase : Monophasé\n\nTension : 220–240 V\n\nFréquence : 50 Hz\n\nPuissance maximale : 8,0 kW"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/total-total-single-phase-diesel-generator-8-0kw-tp280001-generator-32701946232966.webp",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-1-20.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-2-16.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62707",
+   "price": 16000,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Groupe électrogène diesel silencieux 5 kW TP250001",
+     "description": "Le TOTAL TP250001 est un groupe électrogène diesel silencieux conçu pour fournir une alimentation électrique fiable à la maison, au chantier ou dans l’atelier. Il développe une puissance maximale de 5 kW et une puissance nominale de 4,5 kW. Son moteur diesel de 9 HP, son démarrage électrique et son alternateur à bobine en cuivre en font une solution adaptée aux besoins d’alimentation de secours et aux applications professionnelles.\n\nMarque : TOTAL\n\nModèle : TP250001\n\nType : Groupe électrogène diesel silencieux\n\nTension nominale : 220–240 V\n\nFréquence : 50 Hz\n\nPhase : Monophasé\n\nPuissance maximale : 5,0 kW\n\nPuissance nominale : 4,5 kW",
+     "short_description": "Marque : TOTAL\n\nModèle : TP250001\n\nType : Groupe électrogène diesel silencieux\n\nTension nominale : 220–240 V\n\nFréquence : 50 Hz\n\nPhase : Monophasé\n\nPuissance maximale : 5,0 kW\n\nPuissance nominale : 4,5 kW"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/groupe-electrogene-diesel-5kw-total-tp250001.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62701",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à souder 90 W avec alimentateur de fil TET160732",
+     "description": "Le TOTAL TET160732 est un pistolet à souder électrique de 90 W avec alimentateur de fil à souder intégré. Il chauffe en seulement 20 secondes et permet de régler la température grâce à une commande rotative et thermostatique. Son élément chauffant en céramique assure une chauffe rapide et stable, tandis que sa panne remplaçable offre une bonne durée de vie.\n\nMarque : TOTAL\n\nModèle : TET160732\n\nType : Pistolet à souder\n\nPuissance : 90 W\n\nTension : 220–240 V\n\nFréquence : 50/60 Hz\n\nTemps de préchauffage : 20 secondes\n\nAlimentateur de fil à souder : intégré",
+     "short_description": "Marque : TOTAL\n\nModèle : TET160732\n\nType : Pistolet à souder\n\nPuissance : 90 W\n\nTension : 220–240 V\n\nFréquence : 50/60 H"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/51nYXkrVkiL._AC_UF8941000_QL80_.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/08/images-4-12.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-62689",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fil fourré de soudage 0,8 mm TEWSFC081001",
+     "description": "Le TOTAL TEWSFC081001 est un fil de soudage fourré E71T-GS destiné au soudage MIG sans gaz des structures en acier au carbone. Son diamètre de 0,8 mm et sa bobine de 1 kg conviennent aux postes à souder compatibles. Il offre un arc stable, réduit les projections et facilite l’élimination du laitier pour obtenir un cordon de soudure propre",
+     "short_description": "Marque : TOTAL\n\nModèle : TEWSFC081001\n\nType : Fil fourré de soudage\n\nRéférence : E71T-GS\n\nDiamètre : 0,8 mm\n\nPoids : 1 kg par bobine\n\nMatériau : Acier au carbone\n\nProcédé : MIG sans gaz / fil fourré"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/08/fil-fourre-soudage-0-8mm-total-tewsfc081001.jpg"
+   ]
+  }
+ ]
+}

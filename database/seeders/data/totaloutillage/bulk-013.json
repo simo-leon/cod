@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-61041",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rouleau 4″ THT85046 Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/10111-rouleau-4-tht85046-total.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61034",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Agrafes THT3981 -Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/agrafes-total-tht3981.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61028",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé À Molette 8″ 200MM Total THT101086",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/cle-a-molette-200mm-total-tht101086.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61026",
+   "price": 95,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Compas coupe-verre 600mm TOTAL TGCT16001",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/10104-compas-coupe-verre-600mm-tgct16001-total.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61022",
+   "price": 299,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Perceuse 500W TD2051026 – Total",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/perceuse-500w-total-td2051026.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61020",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau de soudeur TAMWH6002",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/total-tamwh6002.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61008",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Burin Plat SDS Plus 14X40 250MM TAC15121412",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/13983-burin-plat-sds-plus-14x40-250mm-tac15121412.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-61006",
+   "price": 190,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Souffleur Sans fil Total TABLI2078",
+     "description": "",
+     "short_description": ""
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/07/TABLI2078.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-57812",
+   "price": 2400,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie à onglet 1800W Ø255mm TS421825517",
+     "description": "La scie à onglet TS421825517 1800W Ø255mm est conçue pour des coupes précises et puissantes dans le bois et matériaux dérivés. Grâce à sa grande lame de 255 mm et son moteur performant, elle garantit une coupe nette et rapide. Idéale pour les travaux de menuiserie, atelier et chantier.",
+     "short_description": "Puissance : 1800 W\n\nDiamètre lame : 255 mm\n\nTension : 220-240V ~ 50/60Hz\n\nVitesse à vide : ~4500 tr/min\n\nCoupe : bois, MDF, panneaux"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/04/TS421825517.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-55524",
+   "price": 1399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack visseuse 55N.m et Boulonneuse 400Nm 20V",
+     "description": "Pack puissant et performant regroupant une visseuse 20V 55Nm et une boulonneuse 400Nm brushless. Idéal pour les travaux de fixation, montage et serrage intensif. Conçu pour les professionnels et les travaux exigeants sur chantier ou en atelier.",
+     "short_description": "Visseuse Perceuse à Percussion TDLI205582\n\nTension : 20V\n\nCouple max : 55 Nm\n\nMandrin : 13 mm\n\nAccessoires : 3 forets pour maçonnerie\n\nClé à Chocs Sans Fil Brushless TIWLI20401\n\nEmmanchement : 1/2″\n\nVitesse à vide : Jusqu’à 2300 tr/min\n\nCouple de serrage : 400 Nm\n\nCouple de desserrage : 550 Nm\n\nSac à Outils 13″ THT26131\n\nTaille : 13 pouces (~33 cm)\n\nType : Sac de transport\n\nMatériau : Tissu renforcé haute résistance"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2026/03/Master-tools-14.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/03/Master-tools-11.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/03/Pistolet-pneumatique-dingqi-2026-03-03T143249.912.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/03/Pistolet-pneumatique-dingqi-2026-03-03T142532.610.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/03/Pistolet-pneumatique-dingqi-2026-03-03T144929.920.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2026/03/Pistolet-pneumatique-dingqi-2026-03-03T144508.029.jpg"
+   ]
+  }
+ ]
+}

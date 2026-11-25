@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "totaloutillage-19456",
+   "price": 1150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Malaxeur électrique 1400W",
+     "description": "Malaxeur électrique TOTAL 1400 W (TD614006)\n\nLe malaxeur TOTAL mélange rapidement et de façon homogène le mortier, la colle à carrelage, l’enduit, le plâtre, la résine ou la peinture. Avec 1400 W, il vient à bout des mélanges épais là où une perceuse équipée d’un mélangeur s’essouffle.\n\nIl dispose de deux plages de vitesse : 180 à 480 tr/min pour les produits épais comme le mortier et la colle, et 300 à 750 tr/min pour les produits plus fluides comme la peinture.\n\nCaractéristiques techniques\n\nRéférence\nTD614006\n\nAlimentation\n220-240 V / 50-60 Hz\n\nPuissance\n1400 W\n\nVitesse à vide\n180-480 tr/min et 300-750 tr/min\n\nConseils\n\nDémarrez à basse vitesse avec le fouet plongé dans le produit, pour éviter les projections.\n\nNettoyez le fouet à l’eau juste après usage, avant que le produit ne sèche.\n\nVoir aussi nos outils de maçonnerie et nos outils de peinture.",
+     "short_description": "Tension : 220-240 V~50/60 Hz\n\nPuissance d’entrée : 1 400 W\n\nVitesse à vide : 180-480 tr/min/300-750 tr/min"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/08/Untitled-design-36.jpg",
+    "https://totaloutillage.com/wp-content/uploads/2023/08/Untitled-design-71.jpg.webp"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19426",
+   "price": 100,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Scie à main à métaux 300mm",
+     "description": "",
+     "short_description": "Arborant un design INDUSTRIEL unique. Elle offre un cadre robuste de 300 mm pour des coupes précises. La poignée en aluminium alliée à l’ABS et au TPR garantit un confort supérieur. Réglable en tension et équipée d’un mécanisme de changement de lame à dégagement rapide !"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/08/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-78.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19397",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de clés mixte",
+     "description": "Caractéristiques clés :\n\n– Le jeu comprend 8 clés mixtes, englobant des tailles allant de 6 mm à 19 mm. Chacune d’entre elles est finement polie pour une prise optimale et une manipulation fluide.\n\n– Les tailles soigneusement sélectionnées sont : 6 mm, 8 mm, 10 mm, 12 mm, 14 mm, 15 mm, 17 mm et 19 mm.\n\nChaque clé offre un équilibre subtil entre la force brute et le contrôle précis, vous permettant de surmonter chaque défi mécanique avec aisance. Leur finition soignée garantit une prise confortable et sécurisée.\n\nEmballées dans un cintre en plastique, ces clés témoignent de leur qualité supérieure à chaque utilisation. Transformez chaque projet en un accomplissement mécanique avec notre Jeu de 8 clés mixtes.\n\n#Outil #Robustesse #Précision #Haute-Qualité #Raffinement #Qualité #Durabilité #Excellence #Bricolage",
+     "short_description": "– Le jeu comprend 8 clés mixtes, englobant des tailles allant de 6 mm à 19 mm. \n\n– Les tailles soigneusement sélectionnées sont : 6 mm, 8 mm, 10 mm, 12 mm, 14 mm, 15 mm, 17 mm et 19 mm."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/08/Untitled-design-17.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19385",
+   "price": 499,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de 24 douilles 1/2″",
+     "description": "https://totaloutillage.com/wp-content/uploads/2023/08/TOTAL-socket-set-THT141253-1.mp4",
+     "short_description": "Plongez au cœur de la maîtrise mécanique avec le jeu de 24 douilles 1/2″.  Chaque composant de cet ensemble incarne une fusion de précision, de robustesse et d’ingénierie de pointe. Conçu pour surpasser les attentes les plus exigeantes, cet ensemble offre une gamme complète de fonctionnalités pour répondre à une variété de besoins."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/08/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2025-03-02T020733.948.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19377",
+   "price": 400,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de 45 douilles 1/4″",
+     "description": "",
+     "short_description": "Immergez dans la performance mécanique avec le jeu de 45 douilles 1/4″. Chaque pièce de cet ensemble est un témoignage de l’alliance parfaite entre robustesse inébranlable, raffinement supérieur et qualité exceptionnelle. Dans ce chef-d’œuvre d’ingénierie !"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/08/Untitled-design-20-1.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19374",
+   "price": 749,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de 25 douilles 1/2″",
+     "description": "– Une clé à cliquet 1/4″ avec 45 dents pour une manipulation précise.\n\n– 13 prises 1/4″ Prix Dr allant de 4 mm à 14 mm pour une variété de tâches.\n\n– Un joint universel 1/4″ Dr pour une flexibilité optimale.\n\n– Deux barres d’extension 1/4″ Dr de 50 mm et 100 mm, élargissant vos capacités.\n\n– Une poignée à cliquet spinner de 1/4″ * 150 mm pour un contrôle optimal.\n\n– 20 embouts de tournevis\n\n– Un porte-embouts de tournevis pour une connexion fiable.\n\n– Une barre d’extension flexible de 1/4″ * 150 mm pour une maniabilité inégalée.\n\n– Une barre en T coulissante de 1/4″ * 114 mm, symbole de maîtrise mécanique.\n\n– Quatre clés hexagonales de 1.5 mm à 3 mm, pour une précision absolue.",
+     "short_description": "Clé à cliquet Dr 1Pcs 1/2 » , 45T\n\n18 Pcs Douille Dr 1/2 Pouces\n\n1 joint universel Dr 1/2″\n\n2 barres d’extension Dr 1/2″ : 125 mm et 250 mm\n\n2 prises de bougie d’allumage P 16 mm et 21 mm\n\n1 barre en T coulissante\n\nMatériau: CR-V (50BV30), traité thermiquement."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/08/Untitled-design-19.jpg"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19360",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeu de 7 tournevis de précision en Cr-V",
+     "description": "",
+     "short_description": "Matériel: CR-V\n\nSL2.0 * 50 , SL2.5 * 50,\n\nSL3.0 * 50, PH00 * 50,\n\nPH0 * 50, T6 * 50, T8 * 50."
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/08/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-09T131224.110-min-1.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19263",
+   "price": 330,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Visseuse électrique 10mm 280W",
+     "description": "",
+     "short_description": "Tension: 220-240V ~ 50 / 60Hz\n\nPuissance d’entrée: 280 W\n\nVitesse à vide: 0-750 tr / min\n\nCapacité de perçage max: 10 mm\n\nMandrin sans clé 10 mm 20 + 1 réglages de couple Câbles 4M Emballé par boîte de coule"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/07/2023-07-06-5.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/07/2023-07-06-7.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/07/2023-07-06-11.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/07/2023-07-06-9.png",
+    "https://totaloutillage.com/wp-content/uploads/2023/07/2023-07-06-14.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19054",
+   "price": 399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîte à outils 3 couches",
+     "description": "Boîte à outils métallique TOTAL 3 niveaux (THT10701)\n\nLa boîte à outils TOTAL range et transporte vos outils et votre petit matériel : clés, tournevis, pinces, mètre, visserie. Ses 3 niveaux séparent les petites pièces des outils plus encombrants pour tout retrouver rapidement.\n\nElle est en acier de 0,6 à 0,8 mm d’épaisseur et mesure 495 x 200 x 290 mm.\n\nCaractéristiques\n\nRéférence\nTHT10701\n\nDimensions\n495 x 200 x 290 mm\n\nNiveaux\n3\n\nMatière\nAcier, 0,6 à 0,8 mm\n\nVoir toutes nos boîtes à outils.",
+     "short_description": "Taille : 495 Χ 200 Χ 290mm\n\n3 couches\n\nÉpaisseur de l’acier : 0,6 ~ 0,8 mm"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/Pack-Compresseur-24L-kit-doutils-Pneumatiques-5pieces-2024-12-27T154224.925.png"
+   ]
+  },
+  {
+   "sku": "totaloutillage-19050",
+   "price": 329,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pulvérisateur à dos 16 L 4,5 bars TOTAL THSPP41602",
+     "description": "Pulvérisateur à dos TOTAL 16 L : traiter de grandes surfaces\n\nLe pulvérisateur à dos TOTAL THSPP41602 contient 16 litres, de quoi traiter un grand jardin, un verger ou une parcelle sans remplir à chaque rang. Il se porte sur le dos, ce qui laisse les mains libres pour pomper et diriger la lance.\n\nIl monte jusqu’à 4,5 bars de pression. Sa lance en fibre de verre est légère et solide, et sa buse se règle d’un jet droit à un brouillard fin.\n\nUsages courants\n\nTraitement des arbres fruitiers et du verger\n\nDésherbage des allées et des cours\n\nTraitement des cultures et du potager\n\nDésinfection et nettoyage de grandes surfaces\n\nCaractéristiques techniques\n\nRéférence\nTHSPP41602\n\nCapacité\n16 L\n\nPression\n4,5 bars\n\nLance\nFibre de verre\n\nBuse\nRéglable, du jet droit au brouillard\n\nPour les petits travaux et les plantes d’intérieur, le pulvérisateur à pression 2 L suffit. Sécurité : portez des gants et des lunettes lors des traitements, et rincez l’appareil après usage.",
+     "short_description": "Capacité : 16 L Pression : 4,5 bars Buse réglable du jet au brouillard Lance en fibre de verre"
+    }
+   },
+   "image_urls": [
+    "https://totaloutillage.com/wp-content/uploads/2023/03/PULVERIZADOR-MOCHILA-16L-TOTAL-8539.jpg"
+   ]
+  }
+ ]
+}
