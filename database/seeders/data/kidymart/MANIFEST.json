@@ -1,0 +1,53 @@
+{
+ "built_from": [
+  "new: 387",
+  "uncertain: 74"
+ ],
+ "total_products": 461,
+ "batched": 260,
+ "held_livres": 118,
+ "held_puericulture": 83,
+ "held_no_category": 0,
+ "keyword_guessed": 1,
+ "keyword_guessed_skus": [
+  "kidymart-5269"
+ ],
+ "name_too_long": [],
+ "no_image": [],
+ "truncated_images": [
+  {
+   "sku": "kidymart-5697",
+   "total": 11,
+   "sent": 10
+  }
+ ],
+ "unmapped_categories": {},
+ "batch_files": [
+  "bulk-001.json",
+  "bulk-002.json",
+  "bulk-003.json",
+  "bulk-004.json",
+  "bulk-005.json",
+  "bulk-006.json",
+  "bulk-007.json",
+  "bulk-008.json",
+  "bulk-009.json",
+  "bulk-010.json",
+  "bulk-011.json",
+  "bulk-012.json",
+  "bulk-013.json",
+  "bulk-014.json",
+  "bulk-015.json",
+  "bulk-016.json",
+  "bulk-017.json",
+  "bulk-018.json",
+  "bulk-019.json",
+  "bulk-020.json",
+  "bulk-021.json",
+  "bulk-022.json",
+  "bulk-023.json",
+  "bulk-024.json",
+  "bulk-025.json",
+  "bulk-026.json"
+ ]
+}

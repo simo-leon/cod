@@ -1,0 +1,211 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-4846",
+   "price": 429,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "MICROSCOPIO 1200 DELUXE (FR)",
+     "description": "Description :\n\nMicroscope éducatif deluxe permettant d’observer le monde microscopique avec un grossissement avancé.\n\nCaractéristiques principales :\n\n1️⃣ Grossissement jusqu’à 1200x.\n\n2️⃣ Accessoires scientifiques inclus.\n\n3️⃣ Activité idéale pour les jeunes passionnés de science.\n\nAvantages :\n\n✔ Stimule la curiosité scientifique.\n\n✔ Permet de réaliser de nombreuses observations.\n\n✔ Expérience éducative immersive.\n\nConseils d’utilisation :\n\n• Manipuler avec précaution.\n\n• Nettoyer les lentilles après utilisation.\n\nFavoris",
+     "short_description": "Microscope éducatif avec grossissement avancé."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0021_8005125527502_MICROSCOPIO_1200_DELUXE_FR_F.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4845",
+   "price": 409,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Latelier du tatouage",
+     "description": "Description :\n\nAtelier créatif permettant de réaliser des tatouages temporaires colorés et amusants.\n\nCaractéristiques principales :\n\n1️⃣ Coffret créatif avec accessoires inclus.\n\n2️⃣ Tatouages temporaires faciles à appliquer.\n\n3️⃣ Activité adaptée aux enfants créatifs.\n\nAvantages :\n\n✔ Développe l’imagination artistique.\n\n✔ Activité amusante à partager entre amis.\n\n✔ Permet de créer différents styles.\n\nConseils d’utilisation :\n\n• Appliquer sur une peau propre et sèche.\n\n• Refermer les accessoires après utilisation.\n\nFavoris",
+     "short_description": "Atelier créatif pour réaliser des tatouages temporaires."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0905M0020_8005125527243_Latelier_du_tatouage_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0905M0020_8005125527243_Latelier_du_tatouage_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0905M0020_8005125527243_Latelier_du_tatouage_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4844",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Exploration sur Mars NASA",
+     "description": "Description :\n\nKit scientifique inspiré des missions spatiales de la NASA permettant de découvrir l’exploration de Mars.\n\nCaractéristiques principales :\n\n1️⃣ Activité scientifique et éducative.\n\n2️⃣ Inspiré de l’univers spatial et de la NASA.\n\n3️⃣ Expériences adaptées aux enfants passionnés d’espace.\n\nAvantages :\n\n✔ Développe la curiosité scientifique.\n\n✔ Permet d’apprendre en s’amusant.\n\n✔ Univers fascinant pour les jeunes explorateurs.\n\nConseils d’utilisation :\n\n• Lire les instructions avant les expériences.\n\n• Utiliser sous la supervision d’un adulte.\n\nFavoris",
+     "short_description": "Kit scientifique inspiré des missions Mars de la NASA."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0019_8005125526659_Exploration_sur_Mars_NASA_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0019_8005125526659_Exploration_sur_Mars_NASA_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0019_8005125526659_Exploration_sur_Mars_NASA_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4843",
+   "price": 429,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mon conteur d’histoires Disney",
+     "description": "Description :\n\nConteur interactif Disney permettant aux enfants d’écouter et découvrir de merveilleuses histoires de leurs personnages préférés.\n\nCaractéristiques principales :\n\n1️⃣ Histoires inspirées de l’univers Disney.\n\n2️⃣ Format interactif et éducatif.\n\n3️⃣ Utilisation simple adaptée aux enfants.\n\nAvantages :\n\n✔ Stimule l’imagination et l’écoute.\n\n✔ Favorise l’apprentissage du langage.\n\n✔ Activité calme et divertissante.\n\nConseils d’utilisation :\n\n• Utiliser dans un environnement calme.\n\n• Accompagner les plus jeunes pendant l’écoute.\n\nFavoris",
+     "short_description": "Conteur interactif avec histoires Disney."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0018_8005125526567_Mon_conteur_d_histoires_Disney_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0018_8005125526567_Mon_conteur_d_histoires_Disney_1.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0018_8005125526567_Mon_conteur_d_histoires_Disney_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4842",
+   "price": 339,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mon Ami le Quistiti",
+     "description": "Description :\n\nDécouvrez un adorable compagnon interactif inspiré du quistiti, conçu pour divertir et stimuler l’imagination des enfants.\n\nCaractéristiques principales :\n\n1️⃣ Jouet interactif amusant et éducatif.\n\n2️⃣ Design inspiré du quistiti avec détails réalistes.\n\n3️⃣ Activité adaptée aux jeunes enfants.\n\nAvantages :\n\n✔ Stimule l’imagination et l’affection.\n\n✔ Favorise le jeu interactif.\n\n✔ Compagnon ludique pour les enfants.\n\nConseils d’utilisation :\n\n• Utiliser sous la surveillance d’un adulte.\n\n• Ranger dans un endroit propre après utilisation.\n\nFavoris",
+     "short_description": "Jeu interactif avec un adorable quistiti."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0017_8005125526185_Mon_Ami_le_Quistiti_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0017_8005125526185_Mon_Ami_le_Quistiti_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0017_8005125526185_Mon_Ami_le_Quistiti_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4841",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Je joue avec les nombres",
+     "description": "strong>Description :\n\nJeu éducatif interactif permettant aux enfants de découvrir les chiffres et les premières notions de calcul tout en s’amusant.\n\nCaractéristiques principales :\n\n1️⃣ Jeu pédagogique autour des nombres et du calcul.\n\n2️⃣ Activités adaptées aux enfants en phase d’apprentissage.\n\n3️⃣ Illustrations et exercices ludiques et colorés.\n\nAvantages :\n\n✔ Favorise l’apprentissage des chiffres et des quantités.\n\n✔ Développe les capacités de logique et de concentration.\n\n✔ Activité éducative idéale pour apprendre en jouant.\n\nConseils d’utilisation :\n\n• Réaliser les exercices progressivement avec l’enfant.\n\n• Associer les chiffres à des objets du quotidien pour faciliter l’apprentissage.\n\nFavoris",
+     "short_description": "Activité ludique pour découvrir les chiffres."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0016_8005125525997_Je_joue_avec_les_nombres_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0016_8005125525997_Je_joue_avec_les_nombres_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0016_8005125525997_Je_joue_avec_les_nombres_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4840",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mission Mathématiques",
+     "description": "Description :\n\nJeu éducatif conçu pour apprendre les opérations mathématiques et les tables de multiplication de manière ludique et interactive.\n\nCaractéristiques principales :\n\n1️⃣ Activité éducative autour des calculs et des multiplications.\n\n2️⃣ Exercices progressifs adaptés aux enfants en apprentissage.\n\n3️⃣ Format ludique favorisant la mémorisation des tables.\n\nAvantages :\n\n✔ Facilite l’apprentissage des mathématiques.\n\n✔ Développe la logique et la rapidité de calcul.\n\n✔ Rend les exercices scolaires plus amusants.\n\nConseils d’utilisation :\n\n• Commencer par les opérations les plus simples.\n\n• Encourager l’enfant à résoudre les exercices à voix haute.\n\nFavoris",
+     "short_description": "Jeu éducatif pour apprendre les opérations mathématiques."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0015_8005125525942_Mission_Mathematiques_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0015_8005125525942_Mission_Mathematiques_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0015_8005125525942_Mission_Mathematiques_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4839",
+   "price": 239,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Un monde tout en couleurs",
+     "description": "Description :\n\nDécouvrez un univers coloré et éducatif conçu pour aider les enfants à reconnaître les couleurs tout en développant leur sens de l’observation et leur créativité.\n\nCaractéristiques principales :\n\n1️⃣ Jeu éducatif autour des couleurs et des associations visuelles.\n\n2️⃣ Illustrations colorées adaptées aux jeunes enfants.\n\n3️⃣ Activité pédagogique favorisant l’apprentissage par le jeu.\n\nAvantages :\n\n✔ Développe la reconnaissance des couleurs et l’attention visuelle.\n\n✔ Stimule la logique et l’observation.\n\n✔ Activité amusante idéale pour les tout-petits.\n\nConseils d’utilisation :\n\n• Nommer les couleurs avec l’enfant pendant le jeu.\n\n• Encourager l’enfant à décrire les images observées.\n\nFavoris",
+     "short_description": "Jeu éducatif autour des couleurs et de l’observation."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0905M0014_8005125524112_Un_monde_tout_en_couleurs_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0905M0014_8005125524112_Un_monde_tout_en_couleurs_2.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4838",
+   "price": 409,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ma Chimie",
+     "description": "Description :\n\nLaboratoire scientifique complet permettant de réaliser différentes expériences de chimie pour apprendre tout en s’amusant.\n\nCaractéristiques principales :\n\n1️⃣ Coffret scientifique avec plusieurs expériences chimiques.\n\n2️⃣ Contient instruments et accessoires de laboratoire.\n\n3️⃣ Activité éducative idéale pour les jeunes passionnés de science.\n\nAvantages :\n\n✔ Stimule la curiosité scientifique et l’apprentissage.\n\n✔ Développe l’esprit logique et l’observation.\n\n✔ Expériences variées et interactives.\n\nConseils d’utilisation :\n\n• Utiliser dans un espace propre et sécurisé.\n\n• Toujours suivre les instructions fournies dans le coffre\n\nFavoris",
+     "short_description": "Laboratoire éducatif pour découvrir la chimie."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0013_8005125521074_Ma_Chimie_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0013_8005125521074_Ma_Chimie_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0013_8005125521074_Ma_Chimie_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4837",
+   "price": 229,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ma 1ere Chimie",
+     "description": "Description :\n\nDécouvrez les bases de la chimie grâce à ce laboratoire scientifique conçu pour initier les enfants aux premières expériences amusantes et éducatives.\n\nCaractéristiques principales :\n\n1️⃣ Coffret scientifique d’initiation à la chimie.\n\n2️⃣ Contient accessoires et expériences adaptées aux débutants.\n\n3️⃣ Activité éducative conçue pour les enfants curieux de science.\n\nAvantages :\n\n✔ Permet de découvrir les réactions chimiques de façon ludique.\n\n✔ Développe l’observation et la logique scientifique.\n\n✔ Expérience éducative interactive et amusante.\n\nConseils d’utilisation :\n\n• Réaliser les expériences sous la surveillance d’un adulte.\n\n• Lire attentivement les consignes avant chaque manipulation.\n\nFavoris",
+     "short_description": "Initiation ludique aux expériences de chimie."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0012_8005125520749_Ma_1ere_Chimie_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0012_8005125520749_Ma_1ere_Chimie_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0012_8005125520749_Ma_1ere_Chimie_3.jpg"
+   ]
+  }
+ ]
+}

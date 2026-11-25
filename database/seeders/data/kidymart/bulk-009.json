@@ -1,0 +1,222 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-4884",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Secret Diary: Petulia",
+     "description": "Description :\n\nJournal secret Petulia permettant de conserver ses pensées, secrets et souvenirs dans un carnet décoré et sécurisé.\n\nCaractéristiques principales :\n\n1️⃣ Journal intime décoratif.\n\n2️⃣ Univers Petulia exclusif.\n\n3️⃣ Design coloré et féerique.\n\nAvantages :\n\n✔ Encourage l’écriture créative.\n\n✔ Développe l’expression personnelle.\n\n✔ Activité calme et relaxante.\n\nConseils d’utilisation :\n\n• Écrire avec des stylos adaptés.\n\n• Conserver le journal dans un endroit sécurisé.\n\nFavoris",
+     "short_description": "Journal secret décoratif pour écrire pensées et souvenirs."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0013_694704111355_Secret_Diary_Petulia_F.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4883",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Watercoloring Book Set",
+     "description": "Description :\n\nCoffret de peinture aquarelle permettant de réaliser de magnifiques créations colorées dans l’univers Nebulous Stars.\n\nCaractéristiques principales :\n\n1️⃣ Activité artistique à l’aquarelle.\n\n2️⃣ Accessoires et peintures inclus.\n\n3️⃣ Illustrations à personnaliser.\n\nAvantages :\n\n✔ Développe les compétences artistiques.\n\n✔ Activité relaxante et créative.\n\n✔ Résultats colorés et décoratifs.\n\nConseils d’utilisation :\n\n• Utiliser de l’eau propre pour les peintures.\n\n• Laisser sécher les créations avant rangement.\n\nFavoris",
+     "short_description": "Coffret aquarelle créatif pour réaliser des illustrations colorées."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0012_694704111331_Watercoloring_Book_Set_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0012_694704111331_Watercoloring_Book_Set_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0012_694704111331_Watercoloring_Book_Set_3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0012_694704111331_Watercoloring_Book_Set_4.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4882",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Creative Sketchbook Nenuphia",
+     "description": "Description :\n\nCreative Sketchbook Nenuphia rempli d’activités créatives et de dessins inspirés de la nature et des fleurs.\n\nCaractéristiques principales :</strong\n\n1️⃣ Carnet créatif illustré.\n\n2️⃣ Univers floral et féerique.\n\n3️⃣ Activités artistiques variées.\n\nAvantages :\n\n✔ Développe la créativité.\n\n✔ Favorise l’expression artistique.\n\n✔ Activité ludique et relaxante.\n\nConseils d’utilisation :\n\n• Dessiner dans un espace propre.\n\n• Ranger le carnet après usage.\n\nFavoris",
+     "short_description": "Carnet créatif floral proposant de nombreuses activités artistiques."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0011_694704111324_Creative_Sketchbook_Nenuphia_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0011_694704111324_Creative_Sketchbook_Nenuphia_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0011_694704111324_Creative_Sketchbook_Nenuphia_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4880",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Creative sketchbook Eclipsia",
+     "description": "Description :\n\nCreative sketchbook inspiré d’Eclipsia proposant des activités de dessin et de stylisme dans un univers cosmique.\n\nCaractéristiques principales :\n\n1️⃣ Carnet créatif avec dessins et activités.\n\n2️⃣ Thème cosmique et artistique.\n\n3️⃣ Nombreuses pages à personnaliser.\n\nAvantages :\n\n✔ Développe le sens artistique.\n\n✔ Favorise l’imagination.\n\n✔ Activité calme et créative.\n\nConseils d’utilisation :\n\n• Dessiner sur une surface plane.\n\n• Refermer le carnet après utilisation.\n\nFavoris",
+     "short_description": "Carnet créatif cosmique avec activités artistiques et dessins inspirés d’Eclipsia."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0009_694704111218_Creative_sketchbook_Eclipsia_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0009_694704111218_Creative_sketchbook_Eclipsia_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0009_694704111218_Creative_sketchbook_Eclipsia_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4879",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Crystal Wish Keepers",
+     "description": "Description :\n\nCréez et personnalisez de magnifiques gardiens de souhaits en cristal grâce à ce coffret créatif Nebulous Stars.\n\nCaractéristiques principales :\n\n1️⃣ Activité créative autour des cristaux.\n\n2️⃣ Accessoires décoratifs inclus.\n\n3️⃣ Univers magique et féerique.\n\nAvantages :\n\n✔ Stimule la créativité artistique.\n\n✔ Permet de réaliser des décorations personnalisées.\n\n✔ Activité amusante et relaxante.\n\nConseils d’utilisation :\n\n• Organiser les accessoires avant utilisation.\n\n• Ranger les éléments après l’activité.\n\nFavoris",
+     "short_description": "Coffret créatif permettant de réaliser des gardiens de souhaits en cristal."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0008_694704111072_Crystal_Wish_Keepers_F.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4878",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "Creative Sketchbook – Nebulia",
+     "description": "Description :\n\nPlongez dans l’univers magique de Nebulia avec ce creative sketchbook rempli d’activités artistiques et de dessins inspirants.\n\nCaractéristiques principales :\n\n1️⃣ Carnet créatif avec nombreuses activités artistiques.\n\n2️⃣ Univers féerique Nebulia exclusif.\n\n3️⃣ Format pratique à emporter partout.\n\nAvantages :\n\n✔ Développe l’imagination et la créativité.\n\n✔ Activité relaxante et artistique.\n\n✔ Idéal pour les passionnés de dessin.\n\nConseils d’utilisation :\n\n• Utiliser avec crayons et feutres adaptés.\n\n• Conserver le carnet dans un endroit sec.\n\nFavoris",
+     "short_description": "Carnet créatif féerique rempli d’activités artistiques inspirées de Nebulia."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0007_694704111010_Creative_Sketchbook_Nebulia_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0007_694704111010_Creative_Sketchbook_Nebulia_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0007_694704111010_Creative_Sketchbook_Nebulia_3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0007_694704111010_Creative_Sketchbook_Nebulia_4.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4877",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "SMALL CREATIVE BOOK MAGIC PATTERN",
+     "description": "Description :\n\nLivre créatif Nebulous Stars proposant des motifs magiques et activités décoratives amusantes.\n\nCaractéristiques principales :\n\n1️⃣ Nombreux motifs décoratifs.\n\n2️⃣ Activités artistiques variées.\n\n3️⃣ Format pratique et léger.\n\nAvantages :\n\n✔ Développe la créativité artistique.\n\n✔ Activité calme et amusante.\n\n✔ Facile à transporter partout.\n\nConseils d’utilisation :\n\n• Utiliser avec des crayons adaptés.\n\n• Ranger le livre après chaque activité.\n\nFavoris",
+     "short_description": "Livre créatif proposant des motifs magiques et décoratifs."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0006_694704110266_SMALL_CREATIVE_BOOK_MAGIC_PATTERN_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0006_694704110266_SMALL_CREATIVE_BOOK_MAGIC_PATTERN_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0006_694704110266_SMALL_CREATIVE_BOOK_MAGIC_PATTERN_3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0006_694704110266_SMALL_CREATIVE_BOOK_MAGIC_PATTERN_4.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4876",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14,
+    15
+   ],
+   "locales": {
+    "fr": {
+     "name": "SMALL CREATIVE BOOK FANTASY FOIL",
+     "description": "Description :\n\nPetit livre créatif rempli d’activités fantasy avec décorations brillantes et effets métallisés.\n\nCaractéristiques principales :\n\n1️⃣ Activités créatives fantasy.\n\n2️⃣ Effets foil brillants inclus.\n\n3️⃣ Format compact facile à transporter.\n\nAvantages :\n\n✔ Stimule l’imagination.\n\n✔ Activité créative relaxante.\n\n✔ Idéal pour les déplacements.\n\nConseils d’utilisation :\n\n• Utiliser sur une surface plane.\n\n• Refermer le livre après utilisation.\n\nFavoris",
+     "short_description": "Petit livre créatif avec décorations fantasy brillantes."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0005_694704110259_SMALL_CREATIVE_BOOK_FANTASY_FOIL_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0005_694704110259_SMALL_CREATIVE_BOOK_FANTASY_FOIL_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0005_694704110259_SMALL_CREATIVE_BOOK_FANTASY_FOIL_3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0005_694704110259_SMALL_CREATIVE_BOOK_FANTASY_FOIL_4.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4875",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "Friendship Necklaces",
+     "description": "Description :\n\nCréez de magnifiques colliers d’amitié personnalisés avec ce coffret créatif Nebulous Stars.\n\nCaractéristiques principales :\n\n1️⃣ Kit complet de création de colliers.\n\n2️⃣ Accessoires et pendentifs inclus.\n\n3️⃣ Activité créative adaptée aux enfants.\n\nAvantages :\n\n✔ Développe la créativité.\n\n✔ Permet de créer des bijoux personnalisés.\n\n✔ Activité idéale entre amis.\n\nConseils d’utilisation :\n\n• Trier les accessoires avant utilisation.\n\n• Ranger les pendentifs après l’activité.\n\nFavoris",
+     "short_description": "Kit créatif pour fabriquer des colliers d’amitié personnalisés."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0305M0004_694704110242_Friendship_Necklaces_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0305M0004_694704110242_Friendship_Necklaces_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0305M0004_694704110242_Friendship_Necklaces_3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0305M0004_694704110242_Friendship_Necklaces_4.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4874",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dazzling stickers",
+     "description": "Description :\n\nCoffret de stickers scintillants permettant de personnaliser carnets, dessins et accessoires.\n\nCaractéristiques principales :\n\n1️⃣ Stickers brillants et décoratifs.\n\n2️⃣ Nombreux motifs inclus.\n\n3️⃣ Activité créative facile à réaliser.\n\nAvantages :\n\n✔ Favorise la créativité.\n\n✔ Permet de personnaliser différents objets.\n\n✔ Activité ludique et relaxante.\n\nConseils d’utilisation :\n\n• Coller sur des surfaces propres.\n\n• Conserver les stickers à plat.\n\nFavoris",
+     "short_description": "Coffret créatif de stickers brillants et décoratifs."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0003_694704110235_Dazzling_stickers_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0003_694704110235_Dazzling_stickers_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/C0205M0003_694704110235_Dazzling_stickers_3.jpg"
+   ]
+  }
+ ]
+}

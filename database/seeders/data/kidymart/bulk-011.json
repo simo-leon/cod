@@ -1,0 +1,213 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-4862",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeux de lecture",
+     "description": "Description :\n\nJeu éducatif conçu pour accompagner les enfants dans l’apprentissage de la lecture.\n\nCaractéristiques principales :\n\n1️⃣ Activités autour des lettres et des mots.\n\n2️⃣ Exercices progressifs adaptés aux enfants.\n\n3️⃣ Supports illustrés attractifs.\n\nAvantages :\n\n✔ Développe le vocabulaire et la lecture.\n\n✔ Favorise l’apprentissage autonome.\n\n✔ Activité pédagogique ludique.\n\nConseils d’utilisation :\n\n• Lire les mots à voix haute avec l’enfant.\n\n• Encourager la répétition des exercices.\n\nFavoris",
+     "short_description": "Jeux éducatifs pour développer la lecture."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0036_8005125528042_Jeux_de_lecture_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0036_8005125528042_Jeux_de_lecture_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0036_8005125528042_Jeux_de_lecture_3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0036_8005125528042_Jeux_de_lecture_4.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4861",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Jeux d’écriture",
+     "description": "Description :\n\nActivités éducatives permettant aux enfants d’apprendre les bases de l’écriture de façon ludique.\n\nCaractéristiques principales :\n\n1️⃣ Exercices de graphisme et écriture.\n\n2️⃣ Supports éducatifs adaptés aux enfants.\n\n3️⃣ Activité pédagogique progressive.\n\nAvantages :\n\n✔ Développe la motricité fine.\n\n✔ Facilite l’apprentissage de l’écriture.\n\n✔ Activité éducative et amusante.\n\nConseils d’utilisation :\n\n• Encourager l’enfant à écrire régulièrement.\n\n• Féliciter les progrès réalisés.\n\nFavoris",
+     "short_description": "Activités éducatives pour apprendre à écrire."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0035_8005125528035_Jeux_d_ecriture_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0035_8005125528035_Jeux_d_ecriture_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0035_8005125528035_Jeux_d_ecriture_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4860",
+   "price": 259,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "MON COFFRET DE JEUX MONTESSORI",
+     "description": "Description :\n\nCoffret regroupant plusieurs activités éducatives inspirées de la pédagogie Montessori.\n\nCaractéristiques principales :\n\n1️⃣ Plusieurs jeux éducatifs dans un seul coffret.\n\n2️⃣ Activités adaptées aux jeunes enfants.\n\n3️⃣ Méthode pédagogique Montessori.\n\nAvantages :\n\n✔ Favorise l’apprentissage autonome.\n\n✔ Développe la logique et l’observation.\n\n✔ Activités variées et amusantes.\n\nConseils d’utilisation :\n\n• Réaliser les activités progressivement.\n\n• Encourager l’enfant à expérimenter seul.\n\nFavoris",
+     "short_description": "Coffret complet d’activités Montessori."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0034_8005125528028_MON_COFFRET_DE_JEUX_MONTESSORI_F.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4859",
+   "price": 209,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Le corps humain Montessori",
+     "description": "Description :\n\nJeu éducatif Montessori permettant de découvrir les différentes parties du corps humain de façon ludique.\n\nCaractéristiques principales :\n\n1️⃣ Activité pédagogique sur le corps humain.\n\n2️⃣ Méthode inspirée de Montessori.\n\n3️⃣ Supports éducatifs illustrés.\n\nAvantages :\n\n✔ Développe les connaissances scientifiques.\n\n✔ Facilite l’apprentissage visuel.\n\n✔ Activité éducative interactive.\n\nConseils d’utilisation :\n\n• Nommer les parties du corps avec l’enfant.\n\n• Utiliser des exemples du quotidien.\n\nFavoris",
+     "short_description": "Jeu éducatif Montessori sur le corps humain."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0033_8005125527984_Le_corps_humain_Montessori_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0033_8005125527984_Le_corps_humain_Montessori_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0033_8005125527984_Le_corps_humain_Montessori_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4858",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Les chiffres tactiles Montessori",
+     "description": "Description :\n\nJeu Montessori tactile permettant aux enfants de découvrir les chiffres grâce au toucher et à l’observation.\n\nCaractéristiques principales :\n\n1️⃣ Chiffres tactiles inspirés de Montessori.\n\n2️⃣ Activité sensorielle et éducative.\n\n3️⃣ Adapté aux jeunes enfants.\n\nAvantages :\n\n✔ Stimule la mémoire tactile.\n\n✔ Facilite l’apprentissage des chiffres.\n\n✔ Développe la coordination et l’attention.\n\nConseils d’utilisation :\n\n• Faire suivre les chiffres avec le doigt.\n\n• Associer les chiffres à des quantités simples.\n\nFavoris",
+     "short_description": "Découverte tactile des chiffres selon Montessori."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0032_8005125527960_Les_chiffres_tactiles_Montessori_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0032_8005125527960_Les_chiffres_tactiles_Montessori_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0032_8005125527960_Les_chiffres_tactiles_Montessori_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4855",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "8 jeux en 1",
+     "description": "Description :\n\nCoffret multi-jeux regroupant plusieurs activités éducatives et amusantes pour divertir les enfants.\n\nCaractéristiques principales :\n\n1️⃣ 8 jeux différents dans un seul coffret.\n\n2️⃣ Activités variées et éducatives.\n\n3️⃣ Adapté aux enfants et à la famille.\n\nAvantages :\n\n✔ Offre plusieurs façons de jouer.\n\n✔ Stimule la réflexion et l’apprentissage.\n\n✔ Activité conviviale pour toute la famille.\n\nConseils d’utilisation :\n\n• Lire les règles avant chaque jeu.\n\n• Ranger les pièces après utilisation.\n\nFavoris",
+     "short_description": "Coffret multi-jeux éducatifs et amusants."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0030_8005125527946_8_jeux_en_1_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0030_8005125527946_8_jeux_en_1_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0030_8005125527946_8_jeux_en_1_3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0030_8005125527946_8_jeux_en_1_4.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4854",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "L’heure",
+     "description": "Description :\n\nJeu pédagogique permettant d’apprendre à lire l’heure grâce à des exercices ludiques et interactifs.\n\nCaractéristiques principales :\n\n1️⃣ Activité éducative sur l’apprentissage de l’heure.\n\n2️⃣ Exercices progressifs adaptés aux enfants.\n\n3️⃣ Supports visuels faciles à comprendre.\n\nAvantages :\n\n✔ Facilite la compréhension du temps.\n\n✔ Développe la logique et l’autonomie.\n\n✔ Activité éducative amusante.\n\nConseils d’utilisation :\n\n• Commencer par les heures pleines.\n\n• Utiliser une vraie horloge pour compléter l’apprentissage.\n\nFavoris",
+     "short_description": "Jeu éducatif pour apprendre à lire l’heure."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0029_8005125527922_L_heure_F.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4852",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Les contraires",
+     "description": "Description :\n\nJeu éducatif permettant d’apprendre les notions opposées grâce à des illustrations amusantes.\n\nCaractéristiques principales :\n\n1️⃣ Activité pédagogique sur les contraires.\n\n2️⃣ Illustrations colorées et faciles à comprendre.\n\n3️⃣ Adapté aux jeunes enfants.\n\nAvantages :\n\n✔ Développe le langage et la logique.\n\n✔ Facilite la compréhension des opposés.\n\n✔ Activité ludique et éducative.\n\nConseils d’utilisation :\n\n• Illustrer les notions avec des exemples du quotidien.\n\n• Encourager l’enfant à décrire les images.\n\nFavoris",
+     "short_description": "Jeu éducatif autour des notions opposées."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0027_8005125527892_Les_contraires_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0027_8005125527892_Les_contraires_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0027_8005125527892_Les_contraires_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4850",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "Les nombres",
+     "description": "Description :\n\nJeu pédagogique conçu pour apprendre les nombres et les premières notions de calcul.\n\nCaractéristiques principales :\n\n1️⃣ Activité éducative autour des chiffres.\n\n2️⃣ Exercices progressifs adaptés aux enfants.\n\n3️⃣ Supports visuels colorés.\n\nAvantages :\n\n✔ Facilite l’apprentissage des nombres.\n\n✔ Développe la logique et la concentration.\n\n✔ Activité éducative amusante.\n\nConseils d’utilisation :\n\n• Commencer avec les chiffres simples.\n\n• Associer les nombres à des objets du quotidien.\n\nFavoris",
+     "short_description": "Jeu pédagogique pour apprendre les nombres."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0025_8005125527878_Les_nombres_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0025_8005125527878_Les_nombres_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0025_8005125527878_Les_nombres_3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4847",
+   "price": 379,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    14
+   ],
+   "locales": {
+    "fr": {
+     "name": "MICROSCOPIO SUPER (FR)",
+     "description": "Description :\n\nMicroscope scientifique conçu pour initier les enfants à l’observation et aux découvertes microscopiques.\n\nCaractéristiques principales :\n\n1️⃣ Microscope éducatif complet.\n\n2️⃣ Accessoires et échantillons inclus.\n\n3️⃣ Utilisation adaptée aux débutants.\n\nAvantages :\n\n✔ Développe l’esprit scientifique.\n\n✔ Encourage l’observation et l’analyse.\n\n✔ Activité éducative et amusante.\n\nConseils d’utilisation :\n\n• Lire les instructions avant utilisation.\n\n• Utiliser sur une surface stable.\n\nFavoris",
+     "short_description": "Microscope scientifique pour jeunes explorateurs."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0022_8005125527595_MICROSCOPIO_SUPER_FR_F.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0022_8005125527595_MICROSCOPIO_SUPER_FR_2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0022_8005125527595_MICROSCOPIO_SUPER_FR_3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/06/B0405M0022_8005125527595_MICROSCOPIO_SUPER_FR_4.jpg"
+   ]
+  }
+ ]
+}
