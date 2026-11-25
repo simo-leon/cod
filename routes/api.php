@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Api\CodOrderImportController;
+use App\Http\Controllers\Api\CodProductBulkCreateController;
 use App\Http\Controllers\Api\CodProductCreateController;
 use App\Http\Controllers\Api\CodProductUpdateController;
 use App\Http\Controllers\Api\CodWhatsAppWebhookController;
@@ -25,6 +26,9 @@ Route::post('cod/orders', CodOrderImportController::class)
  * POST /api/cod/products     — create a simple product (inactive by
  *                              default, nothing is published without
  *                              approval).
+ * POST /api/cod/products/bulk — create up to 50 simple products in
+ *                              one request (same rules per product,
+ *                              failures do not stop the rest).
  * POST /api/cod/products/{id} — update one product's per-locale
  *                              content (name, url_key, descriptions,
  *                              meta) and/or stock. Price, categories,
@@ -32,12 +36,16 @@ Route::post('cod/orders', CodOrderImportController::class)
  * Authenticated with the product secret key from the COD System admin
  * settings (X-COD-Product-Key header or Bearer token), generated with
  * `php artisan cod:generate-product-key`. See
- * CodProductCreateController / CodProductUpdateController for the
- * payload formats.
+ * CodProductCreateController / CodProductBulkCreateController /
+ * CodProductUpdateController for the payload formats.
  */
 Route::post('cod/products', CodProductCreateController::class)
     ->middleware([ForceJsonResponse::class, 'throttle:60,1'])
     ->name('api.cod.products.store');
+
+Route::post('cod/products/bulk', CodProductBulkCreateController::class)
+    ->middleware([ForceJsonResponse::class, 'throttle:60,1'])
+    ->name('api.cod.products.bulk');
 
 Route::post('cod/products/{id}', CodProductUpdateController::class)
     ->middleware([ForceJsonResponse::class, 'throttle:60,1'])
