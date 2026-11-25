@@ -6,14 +6,17 @@ use App\Http\Controllers\Controller;
 use App\Services\Promotions\PromotionServiceInterface;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
+use Spatie\ResponseCache\Facades\ResponseCache;
 use Webkul\Product\Models\Product;
 
 /**
- * Per-product offer toggles (cart promotions + the two new store
- * ideas): Simo switches a product in or out of the free-gift offers,
- * the low-stock badge and the buy-2-get-3rd-half offer from the admin
- * product edit page. A product without a row participates in all
- * three (whenever the other conditions hold).
+ * Per-product offer toggles (cart promotions + the store ideas):
+ * Simo switches a product in or out of the free-gift offers, the
+ * low-stock badge, the buy-2-get-3rd-half offer, the "Frequently
+ * bought together" section (as a main product and as a complementary
+ * product) and the daily deals, from the admin product edit page.
+ * A product without a row participates in all of these (whenever the
+ * other conditions hold), except the daily deals, which are opt-in.
  */
 class PromotionProductController extends Controller
 {
@@ -25,6 +28,9 @@ class PromotionProductController extends Controller
             'eligible_as_gift' => ['required', 'boolean'],
             'show_low_stock_badge' => ['required', 'boolean'],
             'eligible_buy2_half' => ['required', 'boolean'],
+            'show_fbt' => ['required', 'boolean'],
+            'fbt_complementary' => ['required', 'boolean'],
+            'in_daily_deal' => ['required', 'boolean'],
         ]);
 
         $promotions = app(PromotionServiceInterface::class);
@@ -43,6 +49,33 @@ class PromotionProductController extends Controller
             (int) $product->id,
             (bool) $data['eligible_buy2_half'],
         );
+
+        $promotions->setShowFbt(
+            (int) $product->id,
+            (bool) $data['show_fbt'],
+        );
+
+        $promotions->setFbtComplementary(
+            (int) $product->id,
+            (bool) $data['fbt_complementary'],
+        );
+
+        $promotions->setInDailyDeal(
+            (int) $product->id,
+            (bool) $data['in_daily_deal'],
+        );
+
+        /*
+         * The toggles change cached storefront pages: the product's
+         * own page (FBT section, low-stock badge), the homepage
+         * (daily deals), and — for a complementary product — the FBT
+         * sections of every other product in its categories. No
+         * single URL covers all of those, so the whole response
+         * cache is cleared, exactly like a core-config save does
+         * (Webkul\FPC\Listeners\CoreConfig). Without this the
+         * storefront would keep the old sections for up to 7 days.
+         */
+        ResponseCache::clear();
 
         return back()->with('success', trans('admin::app.cod.promotions.product-card.saved'));
     }

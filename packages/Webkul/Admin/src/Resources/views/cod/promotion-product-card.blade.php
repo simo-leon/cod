@@ -4,9 +4,12 @@
     It is a separate form: it must NOT sit inside the product form.
 
     Controls whether this product may be offered as a free gift,
-    show the low-stock badge, and count towards the buy-2-get-3rd-half
-    offer. A product without a setting row participates in all three
-    (whenever the other conditions hold); unchecking here excludes
+    show the low-stock badge, count towards the buy-2-get-3rd-half
+    offer, show the "Frequently bought together" section on its
+    page, be suggested as a complementary product, and appear in
+    the daily deals. A product without a setting row participates
+    in all of these (whenever the other conditions hold), except
+    the daily deals, which are opt-in; unchecking here excludes
     it from that offer.
 --}}
 <div class="mt-4 rounded-lg border border-gray-200 bg-white p-4 dark:border-gray-800 dark:bg-gray-900">
@@ -25,6 +28,9 @@
             <input type="hidden" name="eligible_as_gift" value="0">
             <input type="hidden" name="show_low_stock_badge" value="0">
             <input type="hidden" name="eligible_buy2_half" value="0">
+            <input type="hidden" name="show_fbt" value="0">
+            <input type="hidden" name="fbt_complementary" value="0">
+            <input type="hidden" name="in_daily_deal" value="0">
 
             <label class="flex cursor-pointer items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
                 <input
@@ -86,6 +92,66 @@
                 </span>
             </label>
 
+            <label class="flex cursor-pointer items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
+                <input
+                    type="checkbox"
+                    name="show_fbt"
+                    value="1"
+                    @checked($showFbt)
+                    class="mt-0.5 h-4 w-4 accent-yellow-500"
+                >
+
+                <span>
+                    <span class="font-semibold text-gray-800 dark:text-white">
+                        @lang('admin::app.cod.promotions.product-card.fbt')
+                    </span>
+
+                    <span class="block text-xs leading-relaxed text-gray-500 dark:text-gray-400">
+                        @lang('admin::app.cod.promotions.product-card.fbt-info')
+                    </span>
+                </span>
+            </label>
+
+            <label class="flex cursor-pointer items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
+                <input
+                    type="checkbox"
+                    name="fbt_complementary"
+                    value="1"
+                    @checked($fbtComplementary)
+                    class="mt-0.5 h-4 w-4 accent-yellow-500"
+                >
+
+                <span>
+                    <span class="font-semibold text-gray-800 dark:text-white">
+                        @lang('admin::app.cod.promotions.product-card.fbt-complementary')
+                    </span>
+
+                    <span class="block text-xs leading-relaxed text-gray-500 dark:text-gray-400">
+                        @lang('admin::app.cod.promotions.product-card.fbt-complementary-info')
+                    </span>
+                </span>
+            </label>
+
+            <label class="flex cursor-pointer items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
+                <input
+                    type="checkbox"
+                    name="in_daily_deal"
+                    value="1"
+                    @checked($inDailyDeal)
+                    class="mt-0.5 h-4 w-4 accent-yellow-500"
+                >
+
+                <span>
+                    <span class="font-semibold text-gray-800 dark:text-white">
+                        @lang('admin::app.cod.promotions.product-card.daily-deal')
+                    </span>
+
+                    <span class="block text-xs leading-relaxed text-gray-500 dark:text-gray-400">
+                        @lang('admin::app.cod.promotions.product-card.daily-deal-info')
+                    </span>
+                </span>
+            </label>
+
             <div>
                 <button type="submit" class="primary-button">
                     @lang('admin::app.cod.promotions.product-card.save')
@@ -115,6 +181,30 @@
                     @lang('admin::app.cod.promotions.product-card.buy2-yes')
                 @else
                     @lang('admin::app.cod.promotions.product-card.buy2-no')
+                @endif
+            </p>
+
+            <p>
+                @if ($showFbt)
+                    @lang('admin::app.cod.promotions.product-card.fbt-yes')
+                @else
+                    @lang('admin::app.cod.promotions.product-card.fbt-no')
+                @endif
+            </p>
+
+            <p>
+                @if ($fbtComplementary)
+                    @lang('admin::app.cod.promotions.product-card.fbt-complementary-yes')
+                @else
+                    @lang('admin::app.cod.promotions.product-card.fbt-complementary-no')
+                @endif
+            </p>
+
+            <p>
+                @if ($inDailyDeal)
+                    @lang('admin::app.cod.promotions.product-card.daily-deal-yes')
+                @else
+                    @lang('admin::app.cod.promotions.product-card.daily-deal-no')
                 @endif
             </p>
         </div>

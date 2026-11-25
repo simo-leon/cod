@@ -3,6 +3,7 @@
 namespace App\Services\Promotions;
 
 use App\Models\ProductPromotionSetting;
+use Carbon\Carbon;
 use Illuminate\Support\Facades\DB;
 use Webkul\Checkout\Contracts\Cart as CartContract;
 use Webkul\Checkout\Contracts\CartItem as CartItemContract;
@@ -36,6 +37,11 @@ class PromotionService implements PromotionServiceInterface
      * Re-entrancy guard for syncBuy2Discount (same pattern).
      */
     protected static bool $syncingBuy2 = false;
+
+    /**
+     * Re-entrancy guard for syncFbtDiscount (same pattern).
+     */
+    protected static bool $syncingFbt = false;
 
     /**
      * Memoized buy-2 computation for the current request, keyed by a
@@ -852,6 +858,623 @@ class PromotionService implements PromotionServiceInterface
     }
 
     /**
+     * Is the "Frequently bought together" section enabled (admin switch)?
+     */
+    public function isFbtEnabled(): bool
+    {
+        return (bool) (core()->getConfigData('general.promotions.settings.fbt_status') ?? true);
+    }
+
+    /**
+     * Bundle discount percent applied to the complementary products
+     * bought together with the main product (0-100, default 10).
+     */
+    public function fbtDiscountPercent(): float
+    {
+        return min(100, max(0, (float) (core()->getConfigData('general.promotions.settings.fbt_discount_percent') ?? 10)));
+    }
+
+    /**
+     * How many complementary products the FBT section shows at most
+     * (default 4).
+     */
+    public function fbtLimit(): int
+    {
+        return max(1, (int) (core()->getConfigData('general.promotions.settings.fbt_limit') ?? 4));
+    }
+
+    /**
+     * Complementary products for one product page: other active,
+     * simple, saleable products from the same categories (excluding
+     * the product itself), cheapest first, never products Simo
+     * excluded on the product edit page, never out-of-stock ones.
+     */
+    public function fbtProducts(ProductContract $product, ?int $limit = null): array
+    {
+        if (! $this->isFbtEnabled() || $product->type !== 'simple' || ! $product->status) {
+            return [];
+        }
+
+        if (! $this->showFbt((int) $product->id)) {
+            return [];
+        }
+
+        $categoryIds = $product->categories
+            ->pluck('id')
+            ->map(fn ($id) => (int) $id)
+            ->filter(fn ($id) => $id !== 1)
+            ->values()
+            ->all();
+
+        if (! $categoryIds) {
+            return [];
+        }
+
+        $locale = core()->getCurrentLocale()->code;
+        $channel = core()->getCurrentChannelCode();
+
+        $excludedIds = ProductPromotionSetting::query()
+            ->where('fbt_complementary', false)
+            ->pluck('product_id')
+            ->map(fn ($id) => (int) $id)
+            ->all();
+
+        $rows = DB::table('product_flat')
+            ->join('product_categories', 'product_flat.product_id', '=', 'product_categories.product_id')
+            ->where('product_flat.channel', $channel)
+            ->where('product_flat.locale', $locale)
+            ->where('product_flat.status', 1)
+            ->where('product_flat.type', 'simple')
+            ->where('product_flat.product_id', '!=', (int) $product->id)
+            ->whereIn('product_categories.category_id', $categoryIds)
+            ->distinct()
+            ->orderBy('product_flat.price')
+            ->limit(40)
+            ->get(['product_flat.product_id', 'product_flat.name', 'product_flat.url_key', 'product_flat.price']);
+
+        $complements = [];
+        $max = $limit ?? $this->fbtLimit();
+
+        foreach ($rows as $row) {
+            $productId = (int) $row->product_id;
+
+            if (
+                in_array($productId, $excludedIds, true)
+                || empty($row->url_key)
+            ) {
+                continue;
+            }
+
+            $candidate = $this->productRepository->find($productId);
+
+            if (! $candidate) {
+                continue;
+            }
+
+            $type = $candidate->getTypeInstance();
+
+            if (! $type->isSaleable() || ! $type->haveSufficientQuantity(1)) {
+                continue;
+            }
+
+            $price = (float) $type->getFinalPrice();
+
+            if ($price <= 0) {
+                continue;
+            }
+
+            $name = $row->name ?: $this->flatName($productId, 'en');
+            $image = ProductImage::getProductBaseImage($candidate);
+
+            $complements[] = [
+                'id' => $productId,
+                'name' => $name ?: $candidate->name,
+                'price' => $price,
+                'formatted_price' => core()->formatPrice($price),
+                'image' => $image['medium_image_url'] ?? ($image['original_image_url'] ?? null),
+                'url' => route('shop.product_or_category.index', $row->url_key),
+            ];
+
+            if (count($complements) >= $max) {
+                break;
+            }
+        }
+
+        return $complements;
+    }
+
+    /**
+     * May the FBT section show on this product's page? A product
+     * without a promotion row shows it; Simo hides it from the
+     * admin product edit page.
+     */
+    public function showFbt(int $productId): bool
+    {
+        $row = ProductPromotionSetting::query()
+            ->where('product_id', $productId)
+            ->first();
+
+        return $row === null || (bool) $row->show_fbt;
+    }
+
+    /**
+     * Set the per-product FBT section flag (admin product edit page).
+     */
+    public function setShowFbt(int $productId, bool $show): void
+    {
+        ProductPromotionSetting::updateOrCreate(
+            ['product_id' => $productId],
+            ['show_fbt' => $show],
+        );
+    }
+
+    /**
+     * May this product be suggested as a complementary product in
+     * the FBT section? A product without a promotion row may; Simo
+     * excludes products from the admin product edit page.
+     */
+    public function isFbtComplementary(int $productId): bool
+    {
+        $row = ProductPromotionSetting::query()
+            ->where('product_id', $productId)
+            ->first();
+
+        return $row === null || (bool) $row->fbt_complementary;
+    }
+
+    /**
+     * Set the per-product FBT complementary flag (admin product edit page).
+     */
+    public function setFbtComplementary(int $productId, bool $eligible): void
+    {
+        ProductPromotionSetting::updateOrCreate(
+            ['product_id' => $productId],
+            ['fbt_complementary' => $eligible],
+        );
+    }
+
+    /**
+     * Add the main product (when not already in the cart) and the
+     * chosen complementary products to the cart in one action. The
+     * complements are marked with the bundle (main product id +
+     * discount percent) so the discount applies while the main
+     * product stays in the cart.
+     */
+    public function addFbtBundle(CartContract $cart, int $mainProductId, array $complementIds): array
+    {
+        if (! $this->isFbtEnabled()) {
+            throw new \Exception(trans('shop::promotions.disabled'));
+        }
+
+        $main = $this->productRepository->find($mainProductId);
+
+        if (! $main || $main->type !== 'simple' || ! $main->status) {
+            throw new \Exception(trans('shop::promotions.invalid-product'));
+        }
+
+        if (! $this->showFbt($mainProductId)) {
+            throw new \Exception(trans('shop::promotions.not-eligible'));
+        }
+
+        $rate = $this->fbtDiscountPercent();
+
+        $complementIds = array_slice(
+            array_values(array_unique(array_map('intval', $complementIds))),
+            0,
+            $this->fbtLimit()
+        );
+
+        if (! $complementIds) {
+            throw new \Exception(trans('shop::promotions.fbt-empty'));
+        }
+
+        $added = [];
+        $skipped = [];
+
+        // Main product first, so the bundle discount can apply
+        // right away to the complements added below.
+        //
+        // NOTE: never read $cart->items here. Touching the relation
+        // on this shared cart model loads it (empty, for a fresh
+        // cart) and it stays stale: Cart::addProduct creates the
+        // item through the repository, then validateItems() sees the
+        // stale empty relation, deletes the cart, and addProduct()
+        // returns null (TypeError). Query the items through the
+        // repository instead, and unset the relations before every
+        // addProduct call.
+        $mainInCart = $this->cartItemRepository->findWhere([
+            'cart_id' => $cart->id,
+            'product_id' => $mainProductId,
+        ])->contains(fn ($item) => ! $this->isGiftItem($item));
+
+        if (! $mainInCart) {
+            try {
+                $cart->unsetRelation('items');
+                $cart->unsetRelation('all_items');
+
+                Cart::addProduct($main, ['product_id' => $main->id, 'quantity' => 1]);
+                $cart = Cart::getCart();
+            } catch (\Exception $e) {
+                throw new \Exception($e->getMessage());
+            }
+        }
+
+        foreach ($complementIds as $complementId) {
+            if ($complementId === $mainProductId) {
+                $skipped[] = ['id' => $complementId, 'reason' => trans('shop::promotions.fbt-same-product')];
+
+                continue;
+            }
+
+            $complement = $this->productRepository->find($complementId);
+
+            if (! $complement || $complement->type !== 'simple' || ! $complement->status) {
+                $skipped[] = ['id' => $complementId, 'reason' => trans('shop::promotions.invalid-product')];
+
+                continue;
+            }
+
+            if (! $this->isFbtComplementary($complementId)) {
+                $skipped[] = ['id' => $complementId, 'reason' => trans('shop::promotions.not-eligible')];
+
+                continue;
+            }
+
+            $type = $complement->getTypeInstance();
+
+            if (! $type->isSaleable() || ! $type->haveSufficientQuantity(1)) {
+                $skipped[] = ['id' => $complementId, 'reason' => trans('shop::promotions.out-of-stock')];
+
+                continue;
+            }
+
+            if ((float) $type->getFinalPrice() <= 0) {
+                $skipped[] = ['id' => $complementId, 'reason' => trans('shop::promotions.invalid-product')];
+
+                continue;
+            }
+
+            try {
+                $cart->unsetRelation('items');
+                $cart->unsetRelation('all_items');
+
+                Cart::addProduct($complement, ['product_id' => $complement->id, 'quantity' => 1]);
+            } catch (\Exception $e) {
+                $skipped[] = ['id' => $complementId, 'reason' => $e->getMessage()];
+
+                continue;
+            }
+
+            // Mark the line as part of this bundle, so the discount
+            // applies while the main product stays in the cart. The
+            // marker is merged into the item's additional data — the
+            // item itself stays a normal priced item. (Repository
+            // query again — see the note above about the stale
+            // relation on the shared cart model.)
+            $cart = Cart::getCart();
+
+            $item = $this->cartItemRepository->findWhere([
+                'cart_id' => $cart->id,
+                'product_id' => $complementId,
+            ])->first(fn ($i) => ! $this->isGiftItem($i));
+
+            if ($item) {
+                $additional = $item->additional ?? [];
+                $additional['fbt_main_product_id'] = $mainProductId;
+                $additional['fbt_discount_percent'] = $rate;
+
+                $this->cartItemRepository->update(['additional' => $additional], (int) $item->id);
+            }
+
+            $added[] = $complementId;
+        }
+
+        Cart::collectTotals();
+
+        return ['added' => $added, 'skipped' => $skipped];
+    }
+
+    /**
+     * The FBT discount for the cart: per-item amounts plus totals.
+     * Each marked complement gets fbtDiscountPercent() off ONE unit
+     * — the unit bought together with the main product — but only
+     * while the main product of its bundle is in the cart (not as
+     * a gift). Gift items never get it.
+     */
+    public function fbtDiscounts(?CartContract $cart): array
+    {
+        $empty = ['items' => [], 'total' => 0.0, 'base_total' => 0.0];
+
+        if (! $this->isFbtEnabled() || ! $cart) {
+            return $empty;
+        }
+
+        $mainIds = collect($cart->items)
+            ->filter(fn ($item) => ! $this->isGiftItem($item))
+            ->map(fn ($item) => (int) $item->product_id)
+            ->unique()
+            ->all();
+
+        $items = [];
+        $total = 0.0;
+        $baseTotal = 0.0;
+
+        foreach ($cart->items as $item) {
+            if ($this->isGiftItem($item)) {
+                continue;
+            }
+
+            $mainId = (int) ($item->additional['fbt_main_product_id'] ?? 0);
+
+            if ($mainId <= 0 || ! in_array($mainId, $mainIds, true)) {
+                continue;
+            }
+
+            $rate = (float) ($item->additional['fbt_discount_percent'] ?? $this->fbtDiscountPercent());
+
+            if ($rate <= 0) {
+                continue;
+            }
+
+            $discount = round(min((float) $item->price, (float) $item->price * $rate / 100), 2);
+            $baseDiscount = round(min((float) $item->base_price, (float) $item->base_price * $rate / 100), 2);
+
+            if ($discount <= 0) {
+                continue;
+            }
+
+            $items[(int) $item->id] = [
+                'discount' => $discount,
+                'base_discount' => $baseDiscount,
+            ];
+
+            $total = round($total + $discount, 2);
+            $baseTotal = round($baseTotal + $baseDiscount, 2);
+        }
+
+        return [
+            'items' => $items,
+            'total' => $total,
+            'base_total' => $baseTotal,
+        ];
+    }
+
+    /**
+     * The FBT discount amount (in cart currency) of one cart item,
+     * 0 when the item has none.
+     */
+    public function fbtDiscountForItem(int $itemId): float
+    {
+        $item = $this->cartItemRepository->find($itemId);
+
+        if (! $item || ! $item->cart) {
+            return 0.0;
+        }
+
+        $discounts = $this->fbtDiscounts($item->cart);
+
+        return (float) ($discounts['items'][$itemId]['discount'] ?? 0.0);
+    }
+
+    /**
+     * Enforce the FBT discount on the cart. Runs on
+     * checkout.cart.calculate.items.tax.before — after the buy-2
+     * listener (registered before it) and before the tax calc and
+     * the totals summation — so the discount flows into tax, the
+     * cart totals and the order. Adds the computed discount on top
+     * of any cart rule discount and the buy-2 discount, capped at
+     * the item total. Never dispatches cart events.
+     */
+    public function syncFbtDiscount(?CartContract $cart): void
+    {
+        if (! $cart || static::$syncingFbt) {
+            return;
+        }
+
+        static::$syncingFbt = true;
+
+        try {
+            // Same staleness guard as syncCart: reload the items
+            // from the database before computing.
+            $cart->load('items');
+
+            $discounts = $this->fbtDiscounts($cart);
+
+            foreach ($cart->items as $item) {
+                $mine = $discounts['items'][(int) $item->id] ?? null;
+
+                $target = (float) $item->discount_amount;
+                $baseTarget = (float) $item->base_discount_amount;
+
+                if ($mine) {
+                    $target = min(
+                        round($target + $mine['discount'], 2),
+                        round((float) $item->price * (int) $item->quantity, 2)
+                    );
+
+                    $baseTarget = min(
+                        round($baseTarget + $mine['base_discount'], 2),
+                        round((float) $item->base_price * (int) $item->quantity, 2)
+                    );
+                }
+
+                if (
+                    abs($target - (float) $item->discount_amount) > 0.004
+                    || abs($baseTarget - (float) $item->base_discount_amount) > 0.004
+                ) {
+                    $item->discount_amount = $target;
+                    $item->base_discount_amount = $baseTarget;
+                    $item->save();
+                }
+            }
+        } finally {
+            static::$syncingFbt = false;
+        }
+    }
+
+    /**
+     * The FBT payload for the cart API (CartResource).
+     */
+    public function fbtArray(?CartContract $cart): array
+    {
+        $enabled = $this->isFbtEnabled();
+        $discounts = $this->fbtDiscounts($cart);
+
+        return [
+            'enabled' => $enabled,
+            'discount_percent' => $this->fbtDiscountPercent(),
+            'discount_amount' => $discounts['total'],
+            'formatted_discount_amount' => core()->formatPrice($discounts['total']),
+            'applied' => $enabled && $discounts['total'] > 0,
+        ];
+    }
+
+    /**
+     * Is the daily-deals / flash-sale section enabled (admin switch)?
+     */
+    public function isDealsEnabled(): bool
+    {
+        return (bool) (core()->getConfigData('general.promotions.settings.deals_status') ?? true);
+    }
+
+    /**
+     * Custom title for the daily-deals section (admin text field),
+     * null when Simo left it empty (the translated default title
+     * is used then).
+     */
+    public function dealsTitle(): ?string
+    {
+        $title = trim((string) (core()->getConfigData('general.promotions.settings.deals_title') ?? ''));
+
+        return $title === '' ? null : $title;
+    }
+
+    /**
+     * How many deal products the section shows at most (default 8).
+     */
+    public function dealsLimit(): int
+    {
+        return max(1, (int) (core()->getConfigData('general.promotions.settings.deals_limit') ?? 8));
+    }
+
+    /**
+     * When the current daily deals end: midnight tonight,
+     * Africa/Casablanca time. The countdown ticks down to this
+     * moment; tomorrow it is a new day with a new countdown.
+     */
+    public function dealsEndsAt(): Carbon
+    {
+        return Carbon::now('Africa/Casablanca')->endOfDay();
+    }
+
+    /**
+     * Deal products for the homepage: products Simo explicitly
+     * marked for the daily deals (in_daily_deal) whose special
+     * price — the deal price — is below their regular price,
+     * active, simple and saleable. Biggest discount first.
+     */
+    public function dealProducts(?int $limit = null): array
+    {
+        if (! $this->isDealsEnabled()) {
+            return [];
+        }
+
+        $locale = core()->getCurrentLocale()->code;
+        $channel = core()->getCurrentChannelCode();
+
+        $markedIds = ProductPromotionSetting::query()
+            ->where('in_daily_deal', true)
+            ->pluck('product_id')
+            ->map(fn ($id) => (int) $id)
+            ->all();
+
+        if (! $markedIds) {
+            return [];
+        }
+
+        $rows = DB::table('product_flat')
+            ->where('channel', $channel)
+            ->where('locale', $locale)
+            ->where('status', 1)
+            ->where('type', 'simple')
+            ->whereIn('product_id', $markedIds)
+            ->where('price', '>', 0)
+            ->get(['product_id', 'name', 'url_key', 'price']);
+
+        $deals = [];
+
+        foreach ($rows as $row) {
+            $productId = (int) $row->product_id;
+
+            if (empty($row->url_key)) {
+                continue;
+            }
+
+            $product = $this->productRepository->find($productId);
+
+            if (! $product) {
+                continue;
+            }
+
+            $type = $product->getTypeInstance();
+
+            if (! $type->isSaleable() || ! $type->haveSufficientQuantity(1)) {
+                continue;
+            }
+
+            $price = (float) $row->price;
+            $dealPrice = (float) $type->getFinalPrice();
+
+            if ($dealPrice <= 0 || $dealPrice >= $price) {
+                continue;
+            }
+
+            $name = $row->name ?: $this->flatName($productId, 'en');
+            $image = ProductImage::getProductBaseImage($product);
+
+            $deals[] = [
+                'id' => $productId,
+                'name' => $name ?: $product->name,
+                'price' => $price,
+                'formatted_price' => core()->formatPrice($price),
+                'deal_price' => $dealPrice,
+                'formatted_deal_price' => core()->formatPrice($dealPrice),
+                'discount_percent' => (int) round((1 - $dealPrice / $price) * 100),
+                'image' => $image['medium_image_url'] ?? ($image['original_image_url'] ?? null),
+                'url' => route('shop.product_or_category.index', $row->url_key),
+            ];
+        }
+
+        usort($deals, fn ($a, $b) => $b['discount_percent'] <=> $a['discount_percent'] ?: $a['deal_price'] <=> $b['deal_price']);
+
+        return array_slice($deals, 0, $limit ?? $this->dealsLimit());
+    }
+
+    /**
+     * Is this product marked for the daily deals? Opt-in: only a
+     * product Simo explicitly marked appears in the section.
+     */
+    public function isInDailyDeal(int $productId): bool
+    {
+        $row = ProductPromotionSetting::query()
+            ->where('product_id', $productId)
+            ->first();
+
+        return $row !== null && (bool) $row->in_daily_deal;
+    }
+
+    /**
+     * Set the per-product daily-deal flag (admin product edit page).
+     */
+    public function setInDailyDeal(int $productId, bool $inDeal): void
+    {
+        ProductPromotionSetting::updateOrCreate(
+            ['product_id' => $productId],
+            ['in_daily_deal' => $inDeal],
+        );
+    }
+
+    /**
      * Is this cart item a free gift?
      */
     protected function isGiftItem(CartItemContract $item): bool
@@ -880,6 +1503,9 @@ class PromotionService implements PromotionServiceInterface
                 'eligible_as_gift' => (bool) $row->eligible_as_gift,
                 'show_low_stock_badge' => (bool) $row->show_low_stock_badge,
                 'eligible_buy2_half' => (bool) $row->eligible_buy2_half,
+                'show_fbt' => (bool) $row->show_fbt,
+                'fbt_complementary' => (bool) $row->fbt_complementary,
+                'in_daily_deal' => (bool) $row->in_daily_deal,
             ])
             ->all();
 

@@ -34,6 +34,9 @@
         {{  $channel->home_seo['meta_title'] ?? '' }}
     </x-slot>
 
+    <!-- Daily deals / flash sale (ends at midnight, Africa/Casablanca) -->
+    @include('shop::home.daily-deals')
+
     <!-- Loop over the theme customization -->
     @foreach ($customizations as $customization)
         @php ($data = $customization->options) @endphp

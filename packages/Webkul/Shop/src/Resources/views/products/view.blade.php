@@ -381,6 +381,9 @@
         :src="route('shop.api.products.related.index', ['id' => $product->id])"
     />
 
+    <!-- Frequently bought together -->
+    @include('shop::products.view.frequently-bought-together', ['product' => $product])
+
     {!! view_render_event('bagisto.shop.products.view.after', ['product' => $product]) !!}
 
     @pushOnce('scripts')

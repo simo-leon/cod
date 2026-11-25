@@ -44,6 +44,8 @@ class CartItemResource extends JsonResource
             'gift_tier' => (int) ($this->resource->additional['gift_tier'] ?? 0),
             'buy2_discount_amount' => $buy2Discount = app(PromotionServiceInterface::class)->buy2DiscountForItem((int) $this->id),
             'formatted_buy2_discount_amount' => core()->formatPrice($buy2Discount),
+            'fbt_discount_amount' => $fbtDiscount = app(PromotionServiceInterface::class)->fbtDiscountForItem((int) $this->id),
+            'formatted_fbt_discount_amount' => core()->formatPrice($fbtDiscount),
             'low_stock' => $this->product
                 ? app(PromotionServiceInterface::class)->lowStockForProduct($this->product)
                 : ['show' => false, 'qty' => 0],

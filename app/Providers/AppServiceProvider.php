@@ -9,6 +9,7 @@ use App\Listeners\KrayinCrmListener;
 use App\Listeners\SendOrderToDeliveryProvider;
 use App\Listeners\SyncBuy2Discount;
 use App\Listeners\SyncCartPromotions;
+use App\Listeners\SyncFbtDiscount;
 use App\Models\CodOrder;
 use App\Models\OrderStatusHistory;
 use App\Services\Promotions\PromotionServiceInterface;
@@ -130,6 +131,12 @@ class AppServiceProvider extends ServiceProvider
         // boots after AppServiceProvider) would wipe it there.
         Event::listen('checkout.cart.calculate.items.tax.before', [SyncBuy2Discount::class, 'handle']);
 
+        // "Frequently bought together" bundle discount: same event,
+        // registered AFTER the buy-2 listener so it adds its
+        // discount on top of the buy-2 one (both are capped at the
+        // item total). Same reason for the event choice.
+        Event::listen('checkout.cart.calculate.items.tax.before', [SyncFbtDiscount::class, 'handle']);
+
         // Souk sourcing card on the admin product edit page (after
         // the product form): current stock, effective mode, and the
         // mode / cap / margin form.
@@ -154,8 +161,10 @@ class AppServiceProvider extends ServiceProvider
 
         // Cart promotions card on the admin product edit page (after
         // the product form): whether the product may be offered as a
-        // free gift, show the low-stock badge, and count towards the
-        // buy-2-get-3rd-half offer.
+        // free gift, show the low-stock badge, count towards the
+        // buy-2-get-3rd-half offer, show the "Frequently bought
+        // together" section, be suggested as a complementary product,
+        // and appear in the daily deals.
         Event::listen('bagisto.admin.catalog.product.edit.after', function (ViewRenderEventManager $manager) {
             $product = $manager->getParam('product');
 
@@ -170,6 +179,9 @@ class AppServiceProvider extends ServiceProvider
                 'eligible' => $promotions->isEligibleAsGift((int) $product->id),
                 'showLowStockBadge' => $promotions->showLowStockBadge((int) $product->id),
                 'eligibleBuy2' => $promotions->isEligibleBuy2((int) $product->id),
+                'showFbt' => $promotions->showFbt((int) $product->id),
+                'fbtComplementary' => $promotions->isFbtComplementary((int) $product->id),
+                'inDailyDeal' => $promotions->isInDailyDeal((int) $product->id),
                 'canEditPromotions' => bouncer()->hasPermission('catalog.products.edit'),
             ]);
         });

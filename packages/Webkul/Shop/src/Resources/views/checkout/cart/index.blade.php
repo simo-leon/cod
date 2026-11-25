@@ -245,6 +245,13 @@
                                                 @lang('shop::promotions.buy2_item_badge') -@{{ item.formatted_buy2_discount_amount }}
                                             </span>
 
+                                            <span
+                                                v-if="item.fbt_discount_amount > 0"
+                                                class="w-max rounded bg-green-600 px-2 py-0.5 text-[11px] font-bold text-white"
+                                            >
+                                                @lang('shop::promotions.fbt_item_badge') -@{{ item.formatted_fbt_discount_amount }}
+                                            </span>
+
                                             {!! view_render_event('bagisto.shop.checkout.cart.item_name.after') !!}
 
                                             {!! view_render_event('bagisto.shop.checkout.cart.item_details.before') !!}

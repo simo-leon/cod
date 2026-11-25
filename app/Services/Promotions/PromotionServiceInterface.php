@@ -2,6 +2,7 @@
 
 namespace App\Services\Promotions;
 
+use Carbon\Carbon;
 use Webkul\Checkout\Contracts\Cart as CartContract;
 use Webkul\Checkout\Contracts\CartItem as CartItemContract;
 use Webkul\Product\Contracts\Product;
@@ -189,4 +190,151 @@ interface PromotionServiceInterface
      * Set the per-product buy-2 eligibility (admin product edit page).
      */
     public function setEligibleBuy2(int $productId, bool $eligible): void;
+
+    /**
+     * Is the "Frequently bought together" section enabled (admin switch)?
+     */
+    public function isFbtEnabled(): bool;
+
+    /**
+     * Bundle discount percent applied to the complementary products
+     * bought together with the main product (0-100, default 10).
+     */
+    public function fbtDiscountPercent(): float;
+
+    /**
+     * How many complementary products the FBT section shows at most
+     * (default 4).
+     */
+    public function fbtLimit(): int;
+
+    /**
+     * Complementary products for one product page: other active,
+     * simple, saleable products from the same categories (excluding
+     * the product itself), cheapest first, never products Simo
+     * excluded on the product edit page, never out-of-stock ones.
+     * Empty when FBT is disabled, when Simo switched the section
+     * off for this product, or when no complement exists.
+     *
+     * Each entry: ['id', 'name', 'price', 'formatted_price',
+     * 'image', 'url'].
+     */
+    public function fbtProducts(Product $product, ?int $limit = null): array;
+
+    /**
+     * May the FBT section show on this product's page? A product
+     * without a promotion row shows it; Simo hides it from the
+     * admin product edit page.
+     */
+    public function showFbt(int $productId): bool;
+
+    /**
+     * Set the per-product FBT section flag (admin product edit page).
+     */
+    public function setShowFbt(int $productId, bool $show): void;
+
+    /**
+     * May this product be suggested as a complementary product in
+     * the FBT section? A product without a promotion row may; Simo
+     * excludes products from the admin product edit page.
+     */
+    public function isFbtComplementary(int $productId): bool;
+
+    /**
+     * Set the per-product FBT complementary flag (admin product edit page).
+     */
+    public function setFbtComplementary(int $productId, bool $eligible): void;
+
+    /**
+     * Add the main product (when not already in the cart) and the
+     * chosen complementary products to the cart in one action. The
+     * complements are marked with the bundle (main product id +
+     * discount percent) so the discount applies while the main
+     * product stays in the cart. Throws an exception when FBT is
+     * disabled, the main product is not valid, or a complement is
+     * not eligible. Returns ['added' => [product ids], 'skipped' =>
+     * [['id' => x, 'reason' => '...'], ...]].
+     */
+    public function addFbtBundle(CartContract $cart, int $mainProductId, array $complementIds): array;
+
+    /**
+     * The FBT discount for the cart: per-item amounts plus totals.
+     * Each marked complement unit gets fbtDiscountPercent() off one
+     * unit, but only while the main product of its bundle is in the
+     * cart (not as a gift). Gift items never get it.
+     *
+     * Returns ['items' => [itemId => ['discount' => x,
+     * 'base_discount' => y]], 'total' => x, 'base_total' => y].
+     */
+    public function fbtDiscounts(?CartContract $cart): array;
+
+    /**
+     * The FBT discount amount (in cart currency) of one cart item,
+     * 0 when the item has none.
+     */
+    public function fbtDiscountForItem(int $itemId): float;
+
+    /**
+     * Enforce the FBT discount on the cart: add the computed
+     * discount to each item's discount_amount (on top of any cart
+     * rule discount and the buy-2 discount), capped at the item
+     * total. Runs on checkout.cart.calculate.items.tax.before —
+     * after the buy-2 listener, which is registered before it —
+     * so the discount flows into tax, the cart totals and the
+     * order. Never dispatches cart events.
+     */
+    public function syncFbtDiscount(?CartContract $cart): void;
+
+    /**
+     * The FBT payload for the cart API (CartResource).
+     */
+    public function fbtArray(?CartContract $cart): array;
+
+    /**
+     * Is the daily-deals / flash-sale section enabled (admin switch)?
+     */
+    public function isDealsEnabled(): bool;
+
+    /**
+     * Custom title for the daily-deals section (admin text field),
+     * null when Simo left it empty (the translated default title
+     * is used then).
+     */
+    public function dealsTitle(): ?string;
+
+    /**
+     * How many deal products the section shows at most (default 8).
+     */
+    public function dealsLimit(): int;
+
+    /**
+     * When the current daily deals end: midnight tonight,
+     * Africa/Casablanca time. The countdown ticks down to this
+     * moment; tomorrow it is a new day with a new countdown.
+     */
+    public function dealsEndsAt(): Carbon;
+
+    /**
+     * Deal products for the homepage: products Simo explicitly
+     * marked for the daily deals (in_daily_deal) whose special
+     * price — the deal price — is below their regular price,
+     * active, simple and saleable. Biggest discount first.
+     * Empty when deals are disabled or nothing is marked.
+     *
+     * Each entry: ['id', 'name', 'price', 'formatted_price',
+     * 'deal_price', 'formatted_deal_price', 'discount_percent',
+     * 'image', 'url'].
+     */
+    public function dealProducts(?int $limit = null): array;
+
+    /**
+     * Is this product marked for the daily deals? Opt-in: only a
+     * product Simo explicitly marked appears in the section.
+     */
+    public function isInDailyDeal(int $productId): bool;
+
+    /**
+     * Set the per-product daily-deal flag (admin product edit page).
+     */
+    public function setInDailyDeal(int $productId, bool $inDeal): void;
 }

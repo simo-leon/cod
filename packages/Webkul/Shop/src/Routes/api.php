@@ -82,6 +82,8 @@ Route::group(['prefix' => 'api'], function () {
 
     Route::controller(PromotionController::class)->prefix('checkout/cart')->group(function () {
         Route::post('gift', 'storeGift')->name('shop.api.checkout.cart.gift.store');
+
+        Route::post('fbt', 'storeFbt')->name('shop.api.checkout.cart.fbt.store');
     });
 
     Route::controller(OnepageController::class)->prefix('checkout/onepage')->group(function () {
