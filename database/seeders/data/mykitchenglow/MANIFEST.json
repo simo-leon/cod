@@ -1,0 +1,26 @@
+{
+ "built_from": [
+  "new: 39 from mkg-new-products.json",
+  "uncertain: 50 from mkg-uncertain.json"
+ ],
+ "total_products": 89,
+ "batched": 89,
+ "held_no_category": 0,
+ "keyword_guessed": 0,
+ "desc_images_added": 0,
+ "empty_description": [],
+ "oversized_images_dropped": [],
+ "name_too_long": [],
+ "no_image": [],
+ "batch_files": [
+  "bulk-001.json",
+  "bulk-002.json",
+  "bulk-003.json",
+  "bulk-004.json",
+  "bulk-005.json",
+  "bulk-006.json",
+  "bulk-007.json",
+  "bulk-008.json",
+  "bulk-009.json"
+ ]
+}
