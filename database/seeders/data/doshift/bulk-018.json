@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "doshift-103333",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Balea Lovely Fruits",
+     "description": "Découvrez une expérience fruitée avec la douche parfumée Balea Lovely Fruits. Son parfum doux et gourmand associe différentes notes de fruits pour rendre la douche plus agréable. Sa formule met également en avant l’huile de noyau de pêche.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nLovely Fruits\n\nType\nDouche parfumée\n\nParfum\nFruité et doux\n\nIngrédient mis en avant\nHuile de noyau de pêche\n\nUtilisation\nNettoyage quotidien du corps\n\nPrésentation\nFlacon avec bouchon\n\nCouleurs du flacon\nRose clair et orange\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Découvrez une expérience fruitée avec la douche parfumée Balea Lovely Fruits. Son parfum doux et gourmand associe différentes notes de fruits pour rendre la douche plus agréable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-19T134536.671.png"
+   ]
+  },
+  {
+   "sku": "doshift-103216",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Balea Mango Malaga",
+     "description": "Évadez-vous sous la douche avec Balea Mango Malaga. Ce gel douche offre un parfum gourmand de mangue associé à des notes de fruits tropicaux. Son univers coloré et exotique apporte une sensation de fraîcheur à votre routine corporelle quotidienne.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nMango Malaga\n\nType\nGel douche\n\nParfum\nMangue et fruits tropicaux\n\nTexture\nGel\n\nUtilisation\nNettoyage quotidien du corps\n\nPrésentation\nFlacon avec bouchon\n\nÉdition\nÉdition limitée\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Évadez-vous sous la douche avec Balea Mango Malaga. Ce gel douche offre un parfum gourmand de mangue associé à des notes de fruits tropicaux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T205835.360.png"
+   ]
+  },
+  {
+   "sku": "doshift-103209",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Balea Floral Elegance",
+     "description": "Profitez d’une douche délicatement parfumée avec Balea Floral Elegance. Sa fragrance inspirée de fleurs élégantes crée une ambiance raffinée et relaxante. Sa formule contient de l’huile de coco pour accompagner agréablement votre routine quotidienne.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nFloral Elegance\n\nType\nDouche parfumée\n\nParfum\nNotes florales\n\nIngrédient mis en avant\nHuile de coco\n\nUtilisation\nNettoyage quotidien du corps\n\nPrésentation\nFlacon avec bouchon\n\nCouleur du flacon\nMauve et violet\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Profitez d’une douche délicatement parfumée avec Balea Floral Elegance. Sa fragrance inspirée de fleurs élégantes crée une ambiance raffinée et relaxante."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T205309.665.png"
+   ]
+  },
+  {
+   "sku": "doshift-103203",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Balea Hibiscus Havana",
+     "description": "Apportez une touche tropicale à votre routine avec le gel douche Balea Hibiscus Havana. Son parfum floral inspiré de l’hibiscus et de la rose de Damas transforme chaque douche en un agréable moment de fraîcheur. Son flacon coloré et pratique trouve facilement sa place dans la salle de bain.\n\nCaractéristique\nDétail\n\nMarque\nBalea\n\nGamme\nHibiscus Havana\n\nType\nGel douche\n\nParfum\nHibiscus et rose de Damas\n\nTexture\nGel\n\nUtilisation\nNettoyage quotidien du corps\n\nPrésentation\nFlacon avec bouchon\n\nÉdition\nÉdition limitée\n\nRéférence Doshift\nAA3BB099",
+     "short_description": "Apportez une touche tropicale à votre routine avec le gel douche Balea Hibiscus Havana. Son parfum floral inspiré de l’hibiscus et de la rose de Damas transforme chaque douche en un agréable moment de fraîcheur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T204955.842.png"
+   ]
+  },
+  {
+   "sku": "doshift-103145",
+   "price": 829,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Booster de démarrage multifonction avec compresseur d’air",
+     "description": "Soyez prêt à faire face aux imprévus sur la route avec cet appareil automobile multifonction. Compact et pratique, il combine un booster de démarrage pour véhicules 12 V, un compresseur d’air, une batterie externe et un éclairage LED d’urgence.\n\nSon écran numérique facilite la consultation des informations, tandis que ses commandes intégrées permettent une utilisation simple. Le compresseur peut servir à gonfler les pneus de voiture ou de vélo ainsi que les ballons et autres équipements compatibles.\n\nGrâce à sa fonction batterie externe, l’appareil permet également de recharger vos appareils électroniques compatibles. Son éclairage LED avec mode SOS apporte une visibilité supplémentaire lors des situations d’urgence ou des interventions nocturnes.\n\nCaractéristique\nDétail\n\nType de produit\nBooster de démarrage multifonction\n\nCompatibilité\nVéhicules 12 V\n\nFonction principale\nAide au démarrage du véhicule\n\nGonflage\nCompresseur d’air intégré\n\nUtilisations\nPneus de voiture, pneus de vélo et ballons\n\nAffichage\nÉcran numérique\n\nBatterie externe\nRecharge des appareils compatibles\n\nÉclairage\nLampe LED intégrée\n\nMode d’urgence\nSignal lumineux SOS\n\nCouleur\nNoir\n\nAccessoires\nPinces, tuyau de gonflage et embouts\n\nRéférence Doshift\nAA65BB099",
+     "short_description": "Soyez prêt à faire face aux imprévus sur la route avec cet appareil automobile multifonction."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T164848.153.png"
+   ]
+  },
+  {
+   "sku": "doshift-103136",
+   "price": 829,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Booster de démarrage 12 V avec compresseur d’air",
+     "description": "Un appareil multifonction pratique conçu pour vous accompagner lors de vos déplacements. Il permet de démarrer un véhicule 12 V en cas de batterie faible et de gonfler rapidement les pneus grâce à son compresseur intégré.\n\nSon écran numérique facilite le contrôle du gonflage. Il peut également servir de batterie externe pour recharger vos appareils mobiles. Son éclairage LED avec mode SOS apporte une meilleure visibilité en cas d’urgence nocturne.\n\nCompact et facile à transporter, ce booster trouve facilement sa place dans le coffre de votre voiture.\n\nCaractéristique\nDétail\n\nType de produit\nBooster de démarrage multifonction\n\nFonction principale\nDémarrage d’urgence d’un véhicule\n\nCompatibilité\nVéhicules 12 V\n\nFonction gonflage\nCompresseur d’air intégré\n\nAffichage\nÉcran numérique\n\nUnités affichées\nBar, PSI, kPa et kg/cm²\n\nBatterie externe\nRecharge des appareils numériques\n\nÉclairage\nLampe LED intégrée\n\nMode d’urgence\nÉclairage SOS\n\nUtilisations\nDémarrage, gonflage des pneus et recharge mobile\n\nCouleur\nNoir avec détail rouge\n\nFormat\nCompact et portable\n\nRéférence Doshift\nAA65BB099",
+     "short_description": "Un appareil multifonction pratique conçu pour vous accompagner lors de vos déplacements."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-18T163856.699.png"
+   ]
+  },
+  {
+   "sku": "doshift-102862",
+   "price": 709,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Caméra Sport Portable 1080P WiFi",
+     "description": "Immortalisez vos activités quotidiennes avec cette mini caméra sport compacte et légère. Grâce à son format discret, elle peut être portée autour du cou avec sa fixation magnétique ou installée sur un vêtement à l’aide du clip arrière.\n\nSa résolution 1080P permet d’enregistrer vos sorties sportives, voyages, promenades et moments du quotidien. Le clip rotatif à 360° facilite l’ajustement de l’angle de prise de vue selon vos besoins.\n\nCaractéristique\nDétail\n\nType de produit\nMini caméra sport portable\n\nRésolution vidéo\n1080P\n\nConnectivité\nWiFi\n\nFormat vidéo indiqué\nH.264\n\nFixation principale\nCordon avec fixation magnétique\n\nFixation secondaire\nClip arrière portable\n\nRotation du clip\nRéglable à 360°\n\nCouleur\nBlanc\n\nUtilisations\nSport, vélo, randonnée, voyage et enregistrement quotidien\n\nContenu du pack\nCaméra, cordon magnétique et clip arrière\n\nRéférence Doshift\nAA53BB099",
+     "short_description": "Immortalisez vos activités quotidiennes avec cette mini caméra sport compacte et légère."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T201200.123.png"
+   ]
+  },
+  {
+   "sku": "doshift-102810",
+   "price": 929,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    2,
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lunettes Intelligentes avec Caméra 8 MP et Commande Tactile",
+     "description": "Découvrez une nouvelle façon de capturer vos meilleurs moments grâce à ces lunettes intelligentes au design moderne. Leur caméra intégrée de 8 MP permet de prendre des photos et d’enregistrer des vidéos directement depuis les lunettes, tout en gardant les mains libres.\n\nGrâce à la commande tactile, l’utilisation est simple et intuitive. La transmission Wi-Fi facilite le transfert des données vers un appareil compatible, tandis que la fonction de reconnaissance d’objets offre une expérience connectée adaptée aux activités quotidiennes, aux voyages et à la création de contenu.\n\nLeur monture noire élégante s’intègre facilement à différents styles vestimentaires. Les branches épaisses accueillent discrètement les composants électroniques sans compromettre le confort d’utilisation.\n\nCaractéristique\nDétail\n\nType de produit\nLunettes intelligentes connectées\n\nCouleur\nNoir\n\nType de monture\nMonture rectangulaire\n\nCaméra\nIntégrée\n\nRésolution annoncée\n8 MP\n\nFonctions multimédias\nPhotos, vidéos et enregistrement audio\n\nCommandes\nCommande tactile\n\nTransmission des données\nWi-Fi\n\nFonction intelligente\nReconnaissance d’objets\n\nUtilisation\nVoyage, promenade, création de contenu et moments du quotidien\n\nApplication\nApplication mobile compatible\n\nContenu du pack\nLunettes intelligentes et accessoires fournis selon le pack\n\nRéférence Doshift\nAA75BB099",
+     "short_description": "Découvrez une nouvelle façon de capturer vos meilleurs moments grâce à ces lunettes intelligentes au design moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T173815.229.png"
+   ]
+  },
+  {
+   "sku": "doshift-102678",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bague Noire – Design Minimaliste & Élégant",
+     "description": "Adoptez un style sobre et moderne avec cette bague noire à finition brillante. Son design épuré et sa forme large lui donnent une allure masculine et élégante, facile à associer avec différents styles vestimentaires.\n\nParfaite pour être portée au quotidien comme pour compléter une tenue plus habillée, elle est disponible en plusieurs tailles : 17, 18, 19 et 20.\n\nCaractéristique\nDétail\n\nType\nBague\n\nCouleur\nNoir\n\nFinition\nBrillante\n\nDesign\nMinimaliste et épuré\n\nTailles disponibles\n17, 18, 19, 20\n\nStyle\nModerne et élégant\n\nUtilisation\nQuotidien, sorties, occasions\n\nMatière\nNon communiquée\n\nRéférence Doshift\nAA1BB599",
+     "short_description": "Adoptez un style sobre et moderne avec cette bague noire à finition brillante. Son design épuré et sa forme large lui donnent une allure masculine et élégante, facile à associer avec différents styles vestimentaires."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-17T134953.392.png"
+   ]
+  },
+  {
+   "sku": "doshift-101651",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Robe Longue Violette à Manches Transparentes – Élégante & Fluide",
+     "description": "Apportez une touche d’élégance à votre tenue avec cette robe longue violette au style féminin et raffiné. Sa coupe ample et fluide offre une silhouette confortable tout en restant élégante, idéale pour les sorties, les visites ou les occasions décontractées.\n\nSon véritable atout réside dans ses manches transparentes à pois, légèrement évasées et décorées de volants. L’encolure ronde est complétée par de petits boutons décoratifs qui apportent une finition délicate à l’ensemble.\n\nCaractéristiques\n\nCaractéristique\nDétail\n\nType de produit\nRobe longue pour femme\n\nCouleur\nViolet\n\nCoupe\nAmple et fluide\n\nLongueur\nLongue / Maxi\n\nEncolure\nRonde\n\nManches\nMi-longues, transparentes et évasées\n\nDétail des manches\nTulle/mesh à pois avec volants\n\nFermeture / décoration\nPetits boutons sur le devant\n\nStyle\nFéminin, élégant et décontracté\n\nUtilisation\nQuotidien, sorties, visites et occasions décontractées\n\nRéférence Doshift\nAA12BB099",
+     "short_description": "Apportez une touche d’élégance à votre tenue avec cette robe longue violette au style féminin et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/08/Nouveau-projet-2026-08-12T202939.411.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "products": [
+  {
+   "sku": "doshift-56590",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Bol & Pinceau Coloration – Coiffure Professionnelle – Antidérapant & Résistant",
+     "description": "Idéal pour les salons de coiffure comme pour une utilisation à domicile, ce kit de coloration comprend un bol de mélange et un pinceau applicateur. Conçus en matériaux résistants aux produits chimiques, ils permettent une application uniforme, précise et propre des colorations et soins capillaires. La poignée ergonomique et la base stable offrent un confort optimal pour un travail fluide et professionnel\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nContenu du kit\n1 bol + 1 pinceau\n\nMatériau\nPlastique résistant aux produits chimiques\n\nBase du bol\nAntidérapante + bec verseur\n\nPinceau\nPoignée ergonomique + pointe pour sectionnement\n\nRésistance\nHaute résistance aux colorations & oxydants\n\nUtilisation\nColoration, balayage, décoloration, soins\n\nAdapté pour\nSalon & usage domestique\n\nNettoyage\nFacile, réutilisable\n\nAvantage principal\nApplication précise & propre\n\nRéférence DOSHIFT\nAA8BB099",
+     "short_description": "Idéal pour les salons de coiffure comme pour une utilisation à domicile, ce kit de coloration comprend un bol de mélange et un pinceau applicateur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/5f56e3b5-24cf-4c05-91ed-2ed18ba8d5d7.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56585",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Blanc Prestige – 200 Photos – Fenêtre Personnalisable – Texture Couture Haute Qualité",
+     "description": "Préservez vos plus beaux souvenirs dans cet album photo au style prestige, doté d’une couverture en simili-cuir blanc avec texture décorative en losanges. Idéal pour les mariages, les photos de famille, les voyages et les événements mémorables. Sa fenêtre personnalisable permet d’ajouter une photo de couverture pour un rendu unique. Les pages à pochettes transparentes protègent vos photos tout en permettant un classement propre avec espace mémo pour annoter vos instants précieux.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n13×18 cm\n\nCouverture\nSimili-cuir blanc\n\nTexture\nCouture décorative en losanges\n\nFenêtre personnalisable\nOui\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nÉpuré & haut de gamme\n\nUtilisations\nMariage, famille, souvenirs, baptême, voyages\n\nAvantage principal\nMise en valeur + protection\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Préservez vos plus beaux souvenirs dans cet album photo au style prestige, doté d’une couverture en simili-cuir blanc avec texture décorative en losanges."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/3b2a9342-cf18-456e-ab90-eeee6e4d6e5b.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56571",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Blanc Premium – Fenêtre Personnalisable – 200 Photos – Format 10×15 cm",
+     "description": "Conservez vos souvenirs les plus précieux dans cet album photo premium en simili-cuir blanc. Sa fenêtre personnalisable en couverture permet d’afficher une photo de votre choix pour un rendu unique et élégant. Idéal pour les photos de famille, les mariages, les baptêmes, les voyages ou les moments du quotidien. Les pages à pochettes transparentes assurent une protection durable et un classement propre, tandis que l’espace mémo permet de noter dates, noms et anecdotes importantes.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm\n\nCouverture\nSimili-cuir blanc\n\nFenêtre personnalisable\nOui\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nÉlégant & décoratif\n\nUtilisations\nMariage, famille, baptême, souvenirs, voyages…\n\nAvantage principal\nMise en valeur + protection\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Conservez vos souvenirs les plus précieux dans cet album photo premium en simili-cuir blanc. Sa fenêtre personnalisable en couverture permet d’afficher une photo de votre choix pour un rendu unique et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1fcbfb43-bbe8-4ca7-9142-e7d14dbaf21c.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56565",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Intemporel – 200 Photos – Simili-Cuir Noir & Dorures – Format 10×15 cm",
+     "description": "Conservez et racontez vos plus beaux moments avec cet album photo au style intemporel. Sa couverture en simili-cuir noir ornée de bandes dorées apporte une touche raffinée idéale pour les souvenirs familiaux, les voyages, les mariages ou les événements spéciaux. Les pages à pochettes transparentes protègent vos photos et un espace mémo permet de noter dates, noms et anecdotes pour enrichir chaque souvenir.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm\n\nCouverture\nSimili-cuir noir avec dorures\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nÉlégant & intemporel\n\nUtilisations\nFamille, mariage, voyages, souvenirs\n\nAvantage principal\nOrganisation + mise en valeur\n\nModèle / Couleur\nSelon disponibilité\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Conservez et racontez vos plus beaux moments avec cet album photo au style intemporel."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/985da5b8-5caa-42c5-9620-7960ab67572a.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56552",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Luxe Doré – 200 Photos – Fenêtre Personnalisable – Simili-Cuir Premium",
+     "description": "Sublimez vos souvenirs avec cet album photo prestigieux en simili-cuir doré. Son design raffiné avec fenêtre personnalisable permet d’y insérer votre photo de couverture pour un rendu unique et élégant. Idéal pour les mariages, voyages, souvenirs familiaux et événements mémorables. Les pages à pochettes protègent parfaitement vos photos tout en facilitant leur organisation.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm\n\nMatière de la couverture\nSimili-cuir doré\n\nDesign\nFenêtre personnalisable\n\nCouture\nCoutures décoratives\n\nType de pages\nPochettes transparentes\n\nUtilisation\nMariage, famille, souvenirs, voyages…\n\nStyle\nLuxe & élégant\n\nAvantage principal\nMise en valeur + protection\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Sublimez vos souvenirs avec cet album photo prestigieux en simili-cuir doré. Son design raffiné avec fenêtre personnalisable permet d’y insérer votre photo de couverture pour un rendu unique et élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/e3faca9e-c34a-499f-8fa6-7dcfac032987.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56542",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Premium – 200 Photos – Format 13×18 cm – Design Floral Édition Luxe",
+     "description": "Capturez et conservez vos plus beaux souvenirs avec cet album photo premium au design floral élégant. Sa couverture rigide illustrée apporte une touche décorative raffinée, parfaite pour les photos de famille, d’amour, de voyages ou d’événements spéciaux. Les pages à pochettes transparentes protègent vos images tout en facilitant le classement. Un espace mémo vous permet également d’ajouter dates, noms et messages pour raconter vos moments précieux.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n13×18 cm\n\nCouverture\nRigide illustrée\n\nDesign\nFloral élégant\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nPremium & décoratif\n\nUtilisations\nFamille, souvenirs, voyages, événements…\n\nCouleur / Modèle\nSelon disponibilité\n\nAvantage principal\nConservation + mise en valeur\n\nRéférence DOSHIFT\nAA5BB099",
+     "short_description": "Capturez et conservez vos plus beaux souvenirs avec cet album photo premium au design floral élégant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/a2a050fd-424d-44cc-8f60-fb0740cc78a7.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56536",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Floral – 200 Photos – Format 13×18 cm – Pages à Pochettes & Mémo",
+     "description": "Conservez et partagez vos plus beaux souvenirs avec cet album photo au design floral pastel. Sa couverture rigide illustrée offre une touche décorative élégante, idéale pour mettre en valeur les photos de famille, de voyages et d’événements. Grâce aux pochettes transparentes et à l’espace mémo, vous pouvez organiser vos photos, noter les dates et raconter vos meilleurs moments en images.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n13×18 cm\n\nCouverture\nRigide illustrée\n\nDesign\nFloral pastel\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nÉlégant & décoratif\n\nUtilisations\nFamille, souvenirs, voyages, événements…\n\nCouleurs / Modèles\nSelon disponibilité\n\nAvantage principal\nOrganisation + mise en valeur\n\nRéférence DOSHIFT\nAA5BB099",
+     "short_description": "Conservez et partagez vos plus beaux souvenirs avec cet album photo au design floral pastel."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/3c20768a-632a-498f-9374-a940974e48a9.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56525",
+   "price": 119,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Vintage Floral – 200 Photos – Format 13×18 cm",
+     "description": "Conservez vos plus beaux souvenirs avec cet album photo au design vintage floral. Sa couverture rigide illustrée apporte une touche élégante et chaleureuse, idéale pour immortaliser vos moments en famille, voyages, mariages, anniversaires et toutes les occasions précieuses. Les pages à pochettes transparentes protègent vos photos tout en facilitant le classement. Un espace mémo permet d’ajouter des notes, dates et descriptions afin de raconter votre histoire en images.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n13×18 cm\n\nType de pages\nPochettes claires\n\nCouverture\nRigide illustrée\n\nDesign\nVintage floral\n\nEspace mémo\nOui\n\nUtilisation\nSouvenirs, famille, voyages, événements…\n\nStyle\nÉlégant & décoratif\n\nCouleur / Modèle\nSelon disponibilité\n\nAvantage principal\nConservation + mise en valeur\n\nRéférence DOSHIFT\nAA5BB099",
+     "short_description": "Conservez vos plus beaux souvenirs avec cet album photo au design vintage floral. Sa couverture rigide illustrée apporte une touche élégante et chaleureuse, idéale pour immortaliser vos moments en famille, voyages,…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/af8dd56a-66bc-4459-9836-eb4d40f83836.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56559",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo Classique Écossais – 200 Photos – Format 10×15 cm – Simili-Cuir & Mémo",
+     "description": "Préservez vos plus beaux souvenirs avec cet album photo classique au motif écossais intemporel. Sa couverture rigide en simili-cuir lui confère une touche élégante idéale pour les souvenirs familiaux, les voyages, les anniversaires et les moments précieux. Les pages à pochettes transparentes garantissent une conservation durable, tandis que l’espace mémo permet de noter dates, noms et anecdotes pour enrichir vos souvenirs.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm\n\nCouverture\nRigide en simili-cuir + motif écossais\n\nType de pages\nPochettes transparentes\n\nEspace mémo\nOui\n\nStyle\nClassique & décoratif\n\nUtilisation\nFamille, souvenirs, événements, voyages…\n\nCouleur / Modèle\nSelon disponibilité\n\nAvantage principal\nArchivage + mise en valeur\n\nRéférence DOSHIFT\nAA3BB899",
+     "short_description": "Préservez vos plus beaux souvenirs avec cet album photo classique au motif écossais intemporel."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/e8091873-fce7-401c-8645-e11c0f516751.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56547",
+   "price": 109,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Album Photo en Simili-Cuir – 200 Photos – Fermeture à Sangle – Style Élégant",
+     "description": "Conservez et organisez vos souvenirs avec cet album photo en simili-cuir au style moderne et raffiné. Sa fermeture à sangle permet de garder vos photos en sécurité tandis que les pages à pochettes facilitent le classement. Idéal pour les photos de famille, voyages et événements. Sa finition élégante permet aussi de l’utiliser comme objet décoratif dans votre salon ou bureau.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nCapacité\n200 photos\n\nFormat photo accepté\n10×15 cm / 4×6″\n\nFermeture\nSangle à bouton\n\nMatière\nSimili-cuir\n\nType de pages\nPochettes transparentes\n\nUtilisation\nFamille, voyages, événements, souvenirs\n\nFinition\nÉlégante & moderne\n\nCouleur / Modèle\nSelon disponibilité\n\nAvantage principal\nProtection + Archivage\n\nRéférence DOSHIFT\nAA5BB099",
+     "short_description": "Conservez et organisez vos souvenirs avec cet album photo en simili-cuir au style moderne et raffiné."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/f48a6136-12c2-4494-b815-95243206d5cb.jpeg"
+   ]
+  }
+ ]
+}

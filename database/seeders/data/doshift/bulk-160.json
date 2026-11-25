@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "doshift-119430",
+   "price": 399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "CLOVER — Lunettes de soleil | Doshift × Azylis — Bleu",
+     "description": "Découvrez CLOVER, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Bleu.",
+     "short_description": "Lunettes de soleil CLOVER — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-3e162f5248e04f83.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119371",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Hachoir Électrique Multifonction 2-en-1 Turbo Home (2200W – 3L)",
+     "description": "Polyvalent et ultra-puissant, le hachoir électrique Turbo Home 2-en-1 de 2200 W est conçu pour broyer la viande, hacher les légumes, concasser les fruits secs et émulsionner les sauces en quelques secondes. Doté d’une généreuse capacité de 3 litres et livré avec deux bols interchangeables (un en inox incassable et un en verre transparent), il s’adapte à toutes vos préparations culinaires sans transfert d’odeur.\n\nCaractéristique\nSpécification Détaillée\n\nType\nHachoir électrique culinaire multifonction 2-en-1\n\nPuissance\n2 200 W (moteur en cuivre haute vitesse avec vitesses I / II)\n\nCapacité\n3 litres (grand format familial pour viandes et légumes)\n\nBols\nDouble bol inclus : 1 bol en acier inoxydable + 1 bol en verre épais\n\nLames\nCouteaux 4 lames étagées en acier inoxydable chirurgical\n\nSKU\n9900010929845",
+     "short_description": "Hachoir électrique 2200 W 3 L avec bloc moteur inox à poignée, bols inox et verre, et couteau 4 lames."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/Gemini-2026-10-16-01-5.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119283",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis Égouttoir à Vaisselle Pliable Multifonction avec Rack",
+     "description": "Optimisez l’espace de votre cuisine avec ce tapis égouttoir pliable multifonction 2-en-1. Conçu pour remplacer les égouttoirs encombrants, il associe un grand tapis en microfibre ultra-absorbante à un râtelier rigide à fentes amovible permettant de caler jusqu’à 15 assiettes et couvercles.\n\nCaractéristique\nSpécification Détaillée\n\nType\nÉgouttoir à vaisselle 2-en-1 avec tapis absorbant et rack\n\nComposition\nTapis microfibre matelassé + râtelier à fentes pour assiettes\n\nMatériaux\nMicrofibre respirante alvéolée et plastique ABS sans BPA\n\nEntretien\nTapis lavable en machine à 30°C et rack compatible lave-vaisselle\n\nRangement\nPliage accordéon compact avec sangle élastique de maintien\n\nSKU\n9900010929821",
+     "short_description": "Tapis égouttoir pliable 60×45 cm en microfibre grise absorbante avec râtelier à assiettes intégré."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/155fb351-1fc4-498d-b39b-fab73e6caa8f.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119267",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4,
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Enceinte Portable Lumineuse Bluetooth MZS-616 (Woofer 6,5″)",
+     "description": "Idéale pour animer vos soirées, pique-niques et sessions karaoké, l’enceinte Bluetooth portable MZS-616 délivre un son puissant et chaleureux grâce à son haut-parleur de 6,5 pouces soutenu par un double évent bass-reflex. Son woofer s’illumine d’un jeu de lumière LED bleu dynamique qui rythme la musique dès la mise en marche.\n\nCaractéristique\nSpécification Détaillée\n\nType\nEnceinte nomade sans fil Bluetooth avec poignée intégrée\n\nHaut-parleur\nWoofer 6,5 pouces avec rétroéclairage LED bleu dynamique\n\nPuissance\nPuissance musicale 100 W avec double évent bass-reflex\n\nConnectivité\nBluetooth sans fil, Radio FM, port USB MP3 et lecteur micro SD\n\nAlimentation\nBatterie Li-ion rechargeable intégrée via câble USB\n\nSKU\n9900010975323",
+     "short_description": "Enceinte nomade Bluetooth 100 W avec woofer 6,5″ à LED bleu, radio FM, ports USB/SD et poignée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/48a1ca19-4d36-4cce-91b7-3d0478d7bd83.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119239",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rasoir Électrique de Finition HIENA HYN-825",
+     "description": "Idéal pour les dégradés à blanc, les finitions de barbe et le rasage de près du crâne, le rasoir électrique HIENA HYN-825 offre une puissance de coupe nette sans agresser la peau. Ses deux grilles flottantes dorées en titane épousent les contours du visage pour éliminer les poils courts dès la racine.\n\nCaractéristique\nSpécification Détaillée\n\nType\nRasoir de finition professionnel à double grille flottante\n\nTête\nDouble grille en titane doré hypoallergénique ultra-fine\n\nAffichage\nÉcran numérique LED affichant le pourcentage de batterie\n\nAlimentation\nBatterie Li-ion rechargeable via port USB standard\n\nErgonomie\nCorps noir texturé grain cuir avec liseré jaune vif\n\nSKU\n9900010929807",
+     "short_description": "Rasoir de finition électrique à double grille dorée avec écran LED et batterie rechargeable USB."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/757b1dc9-38ff-4385-89b9-f1c99887c54d.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-119219",
+   "price": 579,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pistolet à mastic électrique sans fil",
+     "description": "Ce pistolet à mastic électrique sans fil accompagne les travaux de jointoiement avec une cartouche compatible. Sa poignée à gâchette permet de commander l’extrusion, tandis que le porte-cartouche longitudinal maintient la cartouche dans l’axe de la tige de poussée.\n\nCaractéristique\nSpécification Détaillée\n\nType de produit\nPistolet électrique sans fil pour extrusion de mastic en cartouche\n\nMécanisme visible\nTige métallique crantée avec poignée arrière en T\n\nCommande\nGâchette claire à l’avant de la poignée\n\nAlimentation\nBatterie montée sous la poignée, portant les mentions « 36V » et « Li-ion » ; caractéristiques réelles non vérifiées\n\nConception\nCarter rouge, poignée noire à reliefs rouges et long porte-cartouche noir\n\nSKU\n9900010975347",
+     "short_description": "Pistolet à mastic électrique sans fil, avec porte-cartouche longitudinal, gâchette et batterie montée sous la poignée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/89fd9c7c-4e28-4193-a9ff-f113c2f2bb01.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119211",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rasoir-tondeuse rechargeable GW-9866",
+     "description": "Le rasoir-tondeuse GW-9866 est présenté comme un appareil rechargeable et sans fil pour le rasage et l’entretien des contours. Sa tête rectangulaire argentée comporte deux bords dentés, encadrés par des extrémités vert citron.\n\nCaractéristique\nDétail\n\nSKU\n9900010975354\n\nMarque et modèle affichés\nGW — GW-9866\n\nType\nRasoir-tondeuse électrique pour homme\n\nAlimentation annoncée\nRechargeable, utilisation sans fil\n\nTête représentée\nRectangulaire argentée, à deux bords dentés et extrémités vert citron\n\nCorps et entretien annoncé\nManche anthracite et vert citron  100% washable",
+     "short_description": "Rasoir-tondeuse GW-9866 rechargeable, pour une utilisation sans fil."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/c9c8163b-1eb3-4d04-ac6f-b1845b0f8550.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119189",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Torche LED Rechargeable COBA CB-S16 en Aluminium",
+     "description": "Compacte, robuste et performante, la lampe torche rechargeable COBA CB-S16 est l’alliée indispensable de votre quotidien, de vos sorties nocturnes et de vos situations d’urgence. Usinée dans un alliage d’aluminium de qualité aéronautique résistant aux chocs et aux intempéries, elle délivre un faisceau lumineux blanc net et puissant capable d’éclairer efficacement à grande distance.\n\nCaractéristique\nSpécification Détaillée\n\nType\nLampe torche LED tactique compacte rechargeable (format EDC)\n\nÉclairage\nLED blanche haute intensité à faisceau puissant et focalisable\n\nAlimentation\nBatterie Li-ion rechargeable intégrée via port et câble USB inclus\n\nMatériaux\nCorps tubulaire usiné en alliage d’aluminium anodisé gris titane\n\nCommandes\nInterrupteur multifonction étanche au culot (Pleine puissance / Éco / Flash)\n\nSKU\n9900010929784",
+     "short_description": "Lampe torche LED rechargeable 12,5 cm en aluminium gris titane avec câble USB et dragonne tressée."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/e85f539c-ce14-49af-995a-097937476de6.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-118931",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Réchaud de camping ALBA Express – Version d’hiver",
+     "description": "Le réchaud de camping ALBA Express est présenté comme un équipement compact et léger pour cuisiner en extérieur. L’illustration montre un support métallique circulaire placé au-dessus du brûleur, un ensemble inférieur bleu et une base noire. Une molette latérale permet le réglage du débit de gaz.\n\nCaractéristique\nDétail\n\nSKU\n9900010975415\n\nMarque affichée\nALBA Express\n\nType\nRéchaud à gaz de camping pour extérieur\n\nVersion\n« Version d’hiver / Winter Edition » sur l’emballage\n\nStructure représentée\nSupport de cuisson métallique circulaire, réservoir bleu et base noire\n\nCommande et raccordement\nMolette latérale noire ; connexion « Easy Clic Plus » annoncée",
+     "short_description": "Réchaud de camping ALBA Express, version d’hiver, pour cuisiner en extérieur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/ebb7878f-598f-4f80-a712-c55fb1ab407d.png"
+   ]
+  },
+  {
+   "sku": "doshift-118922",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sèche-cheveux Ceriotti Super GEK 3800",
+     "description": "Le sèche-cheveux Ceriotti Super GEK 3800 est représenté sur son emballage avec un corps rouge cuivré, une poignée allongée et un embout concentrateur noir. Deux commandes sont placées sur le manche, tandis qu’une boucle de suspension apparaît à sa base.\n\nCaractéristique\nDétail\n\nSKU\n9900010975422\n\nMarque affichée\nCeriotti\n\nModèle affiché\nSuper GEK 3800\n\nType\nSèche-cheveux à poignée\n\nColoris représenté\nRouge cuivré avec éléments noirs\n\nÉléments visibles\nEmbout concentrateur noir, deux commandes sur le manche et boucle de suspension",
+     "short_description": "Sèche-cheveux Ceriotti Super GEK 3800, au coloris rouge cuivré avec embout concentrateur noir."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/c179ba6e-75bf-470b-a347-abe078603e4d.png"
+   ]
+  }
+ ]
+}

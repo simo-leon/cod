@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "doshift-22798",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur HDMI 4K via Ethernet RJ45 – Jusqu’à 30m",
+     "description": "Le prolongateur HDMI 4K vous permet de transmettre un signal vidéo haute définition sur une longue distance à l’aide d’un simple câble réseau RJ45. Grâce à ce dispositif, vous pouvez connecter une source HDMI (PC, console, décodeur, etc.) à un écran situé jusqu’à 30 mètres sans perte de signal ni besoin d’alimentation externe.\n\nCompact, fiable et facile à installer, il convient parfaitement pour les usages domestiques et professionnels : home cinéma, salles de réunion, bureaux, installations murales ou bornes interactives.\n\n📌 Fiche Technique :\n\nRésolution supportée : jusqu’à 4K Ultra HD (3840 x 2160) à 30Hz\n\nPort d’entrée : HDMI standard\n\nPort de sortie : HDMI via câble RJ45\n\nDistance maximale : jusqu’à 30 mètres avec câble CAT6\n\nCompatibilité câble réseau : CAT5e / CAT6 / UTP\n\nFonctionnement sans alimentation externe\n\nPlug & Play : aucun pilote ou logiciel requis\n\nMatériau : plastique ABS robuste\n\nUtilisation : TV, PC, box, projecteurs, moniteurs, consoles",
+     "short_description": "Le prolongateur HDMI 4K vous permet de transmettre un signal vidéo haute définition sur une longue distance à l’aide d’un simple câble réseau RJ45."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/06/HOSSAM-2025-06-20T190534.295.png"
+   ]
+  },
+  {
+   "sku": "doshift-22775",
+   "price": 159,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Repartiteur HDMI 4K 1 Entrée 2 Sorties – Ultra HD 4K 30Hz avec Adaptateur",
+     "description": "Diffusion 4K Simultanée avec Répartiteur HDMI 1×2\n\n4K@30Hz • Plug & Play • Compatible PS5/PC/TV\n\n🔥 74% du stock déjà commandé !\n\n✨\n\n⭐\n\n💫\n\n✨\n\n🔌\n\nVotre Signal HDMI Multi-Écrans\n\nLe répartiteur HDMI 4K 1×2 diffuse un signal vers deux écrans sans perte de qualité.\n\nUltra HD, compatibilité universelle et installation plug & play, prêt pour maison, bureau & gaming.\n\n📺\n\nDual Display\n\n1 source → 2 écrans simultanés\n\n🎬\n\n4K Ultra HD\n\nRésolution 3840×2160 @30Hz\n\n⚡\n\nPlug & Play\n\nAucun pilote, installation instantanée\n\n🌟\n\nPourquoi Ils Adorent\n\n✓\n\nRésolution 4K@30Hz + Full HD\n\nPro\n\nImage nette et fluide sur les deux écrans\n\n✓\n\nCompatibilité Universelle\n\nPopulaire\n\nPC, TV, PS4/PS5, Xbox, Blu-ray, projecteurs\n\n✓\n\nSupport 3D & HDCP 1.4\n\nContenus protégés et immersion totale\n\n✓\n\nBoîtier ABS Compact\n\nRésistant à la chaleur, discret et durable\n\n✓\n\nAlimentation Stable Incluse\n\nFiable\n\nAdaptateur 5V DC pour fonctionnement optimal\n\n⭐⭐⭐⭐⭐\n\n4.9/5\n\nNote Clients\n\n0\n\nUtilisateurs Équipés\n\n🚚\n\nLivraison\n\n24-48h\n\n📋\n\nCaractéristiques\n\n📶\n\nHDMI 1.4\n\n🎬\n\n4K@30Hz\n\n🔌\n\n1×2 Ports\n\n⚡\n\nPlug & Play\n\n🎯\n\nUsages Recommandés\n\n▼\nHome Cinéma\n\nGaming\n\nBureau/Présentations\n\nÉducation\n\nAffichage Pro\n\n🔧\n\nSpécifications Techniques\n\n▼\nModèle: Répartiteur HDMI 4K 1×2\n\nEntrées/Sorties: 1× HDMI Input / 2× HDMI Output\n\nRésolutions: 4K@30Hz (3840×2160) / 1080p Full HD / 3D\n\nNormes: HDMI 1.4 / HDCP 1.4\n\nAudio: Transmission son HD sans compression\n\nMatériau: Boîtier ABS résistant à la chaleur\n\nAlimentation: Adaptateur secteur 5V DC inclus\n\nInstallation: Plug & Play – aucun pilote requis\n\nCompatibilité: PC, TV, Box TV, PS4/PS5, Xbox, Blu-ray, projecteurs\n\nDimensions: Compact, facile à dissimuler\n\n📦\n\nDans la Boîte\n\n▼\n\n✓ 1x Répartiteur HDMI 1×2 4K\n\n✓ 1x Adaptateur secteur 5V DC\n\n✓ Notice d’utilisation FR/AR\n\n✓ Garantie qualité incluse\n\n🚚\n\nPaiement à la livraison\n\n↩️\n\nRetour 15j Gratuit\n\n📞\n\nSupport WhatsApp\n\n⭐\n\nGarantie Satisfait\n\n/* 🎨 VARIABLES & RESET – LIGHT MODE ONLY */\n\n*, *::before, *::after { box-sizing: border-box; }\n\n.dt-product-vivant {\n\n –dt-hero-bg: linear-gradient(135deg, #0094B0 0%, #005f73 100%);\n\n –dt-primary: #e63946;\n\n –dt-primary-light: #ff4d5a;\n\n –dt-secondary: #1d3557;\n\n –dt-accent: #ffd700;\n\n –dt-accent-light: #ffed4a;\n\n –dt-success: #00d9a5;\n\n –dt-light: #f8f9fa;\n\n –dt-dark: #1a1a2e;\n\n –dt-gray: #6c757d;\n\n –dt-radius: 14px;\n\n –dt-shadow: 0 10px 30px rgba(0,0,0,0.12);\n\n font-family: -apple-system, BlinkMacSystemFont, ‘Segoe UI’, Roboto, Helvetica, Arial, sans-serif;\n\n color: var(–dt-dark);\n\n line-height: 1.6;\n\n max-width: 100%;\n\n margin: 0;\n\n padding: 0;\n\n overflow-x: hidden;\n\n background: #ffffff;\n\n}\n\n/* 🔥 HERO BANNER */\n\n.dt-hero-banner {\n\n background: var(–dt-hero-bg);\n\n color: white;\n\n padding: 24px 16px;\n\n border-radius: 0;\n\n margin: 0 0 8px 0;\n\n position: relative;\n\n overflow: hidden;\n\n box-shadow: var(–dt-shadow);\n\n animation: dt-slideUp 0.6s ease-out;\n\n}\n\n@keyframes dt-slideUp {\n\n from { opacity: 0; transform: translateY(30px); }\n\n to { opacity: 1; transform: translateY(0); }\n\n}\n\n.dt-floating-badge {\n\n position: absolute;\n\n background: var(–dt-accent);\n\n color: var(–dt-dark);\n\n padding: 5px 12px;\n\n border-radius: 20px;\n\n font-weight: 800;\n\n font-size: 0.8rem;\n\n box-shadow: 0 4px 15px rgba(0,0,0,0.2);\n\n z-index: 2;\n\n top: 12px;\n\n left: 50%;\n\n transform: translateX(-50%);\n\n animation: dt-float 3s ease-in-out infinite;\n\n}\n\n@keyframes dt-float {\n\n 0%, 100% { transform: translate(-50%, 0); }\n\n 50% { transform: translate(-50%, -6px); }\n\n}\n\n.dt-banner-title {\n\n font-size: 1.3rem;\n\n font-weight: 800;\n\n margin: 0 0 6px 0;\n\n line-height: 1.3;\n\n color: #ffffff;\n\n}\n\n.dt-highlight {\n\n background: var(–dt-accent);\n\n color: var(–dt-dark);\n\n padding: 2px 6px;\n\n border-radius: 5px;\n\n display: inline-block;\n\n}\n\n.dt-banner-subtitle {\n\n font-size: 0.9rem;\n\n opacity: 0.95;\n\n margin: 0 0 12px 0;\n\n}\n\n.dt-progress-bar {\n\n height: 6px;\n\n background: rgba(255,255,255,0.3);\n\n border-radius: 10px;\n\n overflow: hidden;\n\n margin: 10px 0;\n\n}\n\n.dt-progress-fill {\n\n height: 100%;\n\n background: var(–dt-accent);\n\n border-radius: 10px;\n\n animation: dt-fillBar 1.5s ease-out;\n\n box-shadow: 0 0 10px rgba(255,215,0,0.5);\n\n}\n\n@keyframes dt-fillBar {\n\n from { width: 0; }\n\n to { width: 78%; }\n\n}\n\n.dt-progress-text {\n\n font-size: 0.8rem;\n\n margin: 0;\n\n font-weight: 600;\n\n}\n\n.dt-sparkles {\n\n position: absolute;\n\n width: 100%;\n\n height: 100%;\n\n top: 0;\n\n left: 0;\n\n pointer-events: none;\n\n}\n\n.dt-sparkle {\n\n position: absolute;\n\n font-size: 1.1rem;\n\n animation: dt-sparkle 2s infinite;\n\n animation-delay: calc(var(–i) * 0.3s);\n\n}\n\n.dt-sparkle:nth-child(1) { top: 18%; left: 8%; }\n\n.dt-sparkle:nth-child(2) { top: 62%; left: 4%; }\n\n.dt-sparkle:nth-child(3) { top: 28%; right: 8%; }\n\n.dt-sparkle:nth-child(4) { top: 72%; right: 12%; }\n\n@keyframes dt-sparkle {\n\n 0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }\n\n 50% { opacity: 1; transform: scale(1) rotate(180deg); }\n\n}\n\n/* 📱 SECTIONS */\n\n.dt-section {\n\n padding: 20px 16px;\n\n margin: 0;\n\n animation: dt-fadeIn 0.6s ease-out;\n\n}\n\n@keyframes dt-fadeIn {\n\n from { opacity: 0; }\n\n to { opacity: 1; }\n\n}\n\n.dt-section-header {\n\n display: flex;\n\n align-items: center;\n\n gap: 8px;\n\n margin-bottom: 12px;\n\n}\n\n.dt-emoji-bounce {\n\n font-size: 1.6rem;\n\n animation: dt-bounce 2s infinite;\n\n}\n\n@keyframes dt-bounce {\n\n 0%, 100% { transform: translateY(0); }\n\n 50% { transform: translateY(-5px); }\n\n}\n\n.dt-section-title {\n\n font-size: 1.2rem;\n\n color: var(–dt-secondary);\n\n margin: 0;\n\n font-weight: 700;\n\n}\n\n.dt-desc-text {\n\n font-size: 0.95rem;\n\n color: #444;\n\n margin-bottom: 16px;\n\n line-height: 1.6;\n\n}\n\n.dt-text-gradient {\n\n background: var(–dt-gradient-1);\n\n -webkit-background-clip: text;\n\n -webkit-text-fill-color: transparent;\n\n background-clip: text;\n\n}\n\n.dt-reveal-text mark {\n\n background: var(–dt-accent-light);\n\n padding: 2px 5px;\n\n border-radius: 4px;\n\n color: var(–dt-dark);\n\n}\n\n/* 💳 CARTES BÉNÉFICES */\n\n.dt-benefits-cards {\n\n display: grid;\n\n grid-template-columns: 1fr;\n\n gap: 10px;\n\n}\n\n.dt-benefit-card {\n\n background: white;\n\n padding: 14px;\n\n border-radius: 10px;\n\n text-align: center;\n\n box-shadow: 0 3px 12px rgba(0,0,0,0.08);\n\n position: relative;\n\n overflow: hidden;\n\n animation: dt-cardSlide 0.6s ease-out backwards;\n\n animation-delay: calc(var(–delay) * 0.1s);\n\n border: 2px solid transparent;\n\n transition: all 0.3s ease;\n\n}\n\n@keyframes dt-cardSlide {\n\n from { opacity: 0; transform: translateX(-20px); }\n\n to { opacity: 1; transform: translateX(0); }\n\n}\n\n.dt-benefit-card:active {\n\n transform: scale(0.98);\n\n border-color: var(–dt-primary);\n\n}\n\n.dt-card-icon {\n\n font-size: 2.2rem;\n\n margin-bottom: 6px;\n\n}\n\n.dt-icon-bounce {\n\n display: inline-block;\n\n animation: dt-iconBounce 2s infinite;\n\n}\n\n@keyframes dt-iconBounce {\n\n 0%, 100% { transform: scale(1); }\n\n 50% { transform: scale(1.1); }\n\n}\n\n.dt-benefit-card h4 {\n\n margin: 0 0 2px 0;\n\n color: var(–dt-secondary);\n\n font-size: 1rem;\n\n}\n\n.dt-benefit-card p {\n\n margin: 0;\n\n font-size: 0.85rem;\n\n color: var(–dt-gray);\n\n}\n\n.dt-card-glow {\n\n position: absolute;\n\n top: -50%;\n\n left: -50%;\n\n width: 200%;\n\n height: 200%;\n\n background: radial-gradient(circle, rgba(230,57,70,0.1) 0%, transparent 70%);\n\n opacity: 0;\n\n transition: opacity 0.3s;\n\n}\n\n.dt-benefit-card:active .dt-card-glow { opacity: 1; }\n\n/* ✅ FEATURES INTERACTIVES */\n\n.dt-section-features {\n\n background: var(–dt-light);\n\n border-radius: 0;\n\n margin: 0;\n\n padding: 20px 16px;\n\n}\n\n.dt-features-interactive {\n\n display: flex;\n\n flex-direction: column;\n\n gap: 8px;\n\n}\n\n.dt-feature-item {\n\n background: white;\n\n padding: 12px;\n\n border-radius: 10px;\n\n display: flex;\n\n flex-direction: column;\n\n gap: 4px;\n\n box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n\n transition: all 0.3s ease;\n\n cursor: pointer;\n\n}\n\n.dt-tap-effect:active {\n\n transform: scale(0.98);\n\n box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n\n}\n\n.dt-feature-check {\n\n color: var(–dt-success);\n\n font-weight: bold;\n\n font-size: 1.2rem;\n\n}\n\n.dt-feature-content {\n\n display: flex;\n\n align-items: center;\n\n gap: 6px;\n\n}\n\n.dt-feature-content strong {\n\n color: var(–dt-secondary);\n\n font-size: 0.9rem;\n\n}\n\n.dt-feature-tag {\n\n background: var(–dt-primary);\n\n color: white;\n\n padding: 2px 6px;\n\n border-radius: 8px;\n\n font-size: 0.65rem;\n\n font-weight: 700;\n\n}\n\n.dt-feature-tag.hot { background: var(–dt-gradient-1); }\n\n.dt-feature-tag.gift { background: var(–dt-success); }\n\n.dt-feature-item p {\n\n margin: 0;\n\n font-size: 0.8rem;\n\n color: var(–dt-gray);\n\n padding-left: 20px;\n\n}\n\n/* 📊 PREUVE SOCIALE */\n\n.dt-social-proof-vivant {\n\n display: grid;\n\n grid-template-columns: 1fr;\n\n gap: 8px;\n\n padding: 16px;\n\n margin: 0;\n\n}\n\n.dt-proof-card {\n\n background: white;\n\n padding: 12px;\n\n border-radius: 10px;\n\n text-align: center;\n\n box-shadow: var(–dt-shadow);\n\n animation: dt-scaleIn 0.5s ease-out backwards;\n\n}\n\n.dt-proof-card-1 { animation-delay: 0.1s; border-top: 3px solid var(–dt-accent); }\n\n.dt-proof-card-2 { animation-delay: 0.2s; border-top: 3px solid var(–dt-primary); }\n\n.dt-proof-card-3 { animation-delay: 0.3s; border-top: 3px solid var(–dt-success); }\n\n@keyframes dt-scaleIn {\n\n from { opacity: 0; transform: scale(0.8); }\n\n to { opacity: 1; transform: scale(1); }\n\n}\n\n.dt-proof-rating { font-size: 1.1rem; margin-bottom: 2px; }\n\n.dt-proof-score { font-size: 1.6rem; font-weight: 800; color: var(–dt-primary); line-height: 1; }\n\n.dt-proof-number { font-size: 1.8rem; font-weight: 800; background: var(–dt-gradient-1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }\n\n.dt-proof-label { font-size: 0.8rem; color: var(–dt-gray); margin-top: 3px; }\n\n.dt-proof-icon { font-size: 2.2rem; margin-bottom: 2px; }\n\n.dt-proof-text { font-size: 0.85rem; color: var(–dt-dark); }\n\n.dt-proof-text strong { color: var(–dt-primary); font-size: 1rem; }\n\n/* ⚙️ SPECS */\n\n.dt-section-specs {\n\n background: white;\n\n margin: 0;\n\n border-radius: 0;\n\n padding: 20px 16px;\n\n}\n\n.dt-specs-swipe {\n\n display: flex;\n\n gap: 8px;\n\n overflow-x: auto;\n\n padding: 8px 0;\n\n margin-bottom: 10px;\n\n scrollbar-width: none;\n\n -ms-overflow-style: none;\n\n}\n\n.dt-specs-swipe::-webkit-scrollbar { display: none; }\n\n.dt-spec-chip {\n\n flex-shrink: 0;\n\n background: var(–dt-light);\n\n padding: 8px 14px;\n\n border-radius: 18px;\n\n display: flex;\n\n align-items: center;\n\n gap: 5px;\n\n font-size: 0.85rem;\n\n font-weight: 600;\n\n color: var(–dt-secondary);\n\n border: 2px solid transparent;\n\n transition: all 0.3s ease;\n\n}\n\n.dt-spec-chip:active {\n\n border-color: var(–dt-primary);\n\n transform: scale(0.95);\n\n}\n\n.dt-spec-chip-icon { font-size: 1.1rem; }\n\n/* Accordion */\n\n.dt-specs-accordion { display: flex; flex-direction: column; gap: 6px; }\n\n.dt-accordion-item { background: var(–dt-light); border-radius: 8px; overflow: hidden; }\n\n.dt-accordion-summary {\n\n padding: 10px 12px;\n\n display: flex;\n\n align-items: center;\n\n gap: 8px;\n\n cursor: pointer;\n\n list-style: none;\n\n font-weight: 600;\n\n color: var(–dt-secondary);\n\n transition: background 0.3s;\n\n}\n\n.dt-accordion-summary:active { background: rgba(230,57,70,0.1); }\n\n.dt-accordion-summary::-webkit-details-marker { display: none; }\n\n.dt-accordion-icon { font-size: 1.2rem; }\n\n.dt-accordion-arrow { margin-left: auto; transition: transform 0.3s; }\n\n.dt-accordion-item[open] .dt-accordion-arrow { transform: rotate(180deg); }\n\n.dt-accordion-content { padding: 0 12px 12px 38px; animation: dt-slideDown 0.3s ease-out; }\n\n@keyframes dt-slideDown {\n\n from { opacity: 0; transform: translateY(-10px); }\n\n to { opacity: 1; transform: translateY(0); }\n\n}\n\n.dt-accordion-list { margin: 0; padding: 0; list-style: none; }\n\n.dt-accordion-list li { padding: 5px 0; color: var(–dt-gray); font-size: 0.85rem; }\n\n.dt-zones-grid { display: flex; flex-wrap: wrap; gap: 6px; }\n\n.dt-zone-tag { background: white; padding: 5px 10px; border-radius: 12px; font-size: 0.8rem; font-weight: 600; color: var(–dt-secondary); box-shadow: 0 2px 5px rgba(0,0,0,0.05); }\n\n/* 🎁 TRUST BADGES */\n\n.dt-trust-vivant {\n\n display: grid;\n\n grid-template-columns: repeat(2, 1fr);\n\n gap: 8px;\n\n padding: 16px 16px 24px 16px;\n\n margin: 0;\n\n}\n\n.dt-trust-item {\n\n background: white;\n\n padding: 10px;\n\n border-radius: 10px;\n\n text-align: center;\n\n display: flex;\n\n flex-direction: column;\n\n align-items: center;\n\n gap: 4px;\n\n box-shadow: 0 2px 8px rgba(0,0,0,0.06);\n\n animation: dt-trustPulse 2s infinite backwards;\n\n animation-delay: calc(var(–delay, 0) * 0.2s);\n\n}\n\n@keyframes dt-trustPulse {\n\n 0%, 100% { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }\n\n 50% { box-shadow: 0 4px 15px rgba(230,57,70,0.2); }\n\n}\n\n.dt-trust-icon { font-size: 1.6rem; }\n\n.dt-trust-item span:last-child { font-size: 0.75rem; font-weight: 600; color: var(–dt-secondary); }\n\n/* 📱 TABLET & DESKTOP (Restitution d’un cadre centré) */\n\n@media (min-width: 640px) {\n\n .dt-benefits-cards { grid-template-columns: repeat(3, 1fr); }\n\n .dt-social-proof-vivant { grid-template-columns: repeat(3, 1fr); }\n\n .dt-trust-vivant { grid-template-columns: repeat(4, 1fr); }\n\n .dt-banner-title { font-size: 1.5rem; }\n\n}\n\n@media (min-width: 768px) {\n\n .dt-product-vivant { max-width: 100%; margin: 0; padding: 0; }\n\n .dt-hero-banner {\n\n max-width: 760px;\n\n margin: 16px auto 0 auto;\n\n padding: 28px 24px;\n\n border-radius: var(–dt-radius);\n\n }\n\n .dt-section {\n\n max-width: 760px;\n\n margin: 0 auto;\n\n padding: 24px 20px;\n\n }\n\n .dt-section-features, .dt-section-specs {\n\n max-width: 760px;\n\n margin: 16px auto;\n\n border-radius: var(–dt-radius);\n\n padding: 24px 20px;\n\n }\n\n .dt-social-proof-vivant, .dt-trust-vivant {\n\n max-width: 760px;\n\n margin: 0 auto;\n\n padding: 20px;\n\n }\n\n .dt-banner-title { font-size: 1.8rem; }\n\n}\n\n/* 🎨 ACCESSIBILITÉ */\n\n@media (prefers-reduced-motion: reduce) {\n\n * {\n\n animation-duration: 0.01ms !important;\n\n animation-iteration-count: 1 !important;\n\n transition-duration: 0.01ms !important;\n\n }\n\n}",
+     "short_description": "Diffusion 4K Simultanée avec Répartiteur HDMI 1×2"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/06/HOSSAM-2025-06-18T131431.388.png"
+   ]
+  },
+  {
+   "sku": "doshift-22698",
+   "price": 249,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Clé USB SanDisk 128 Gb Ultra Dual Drive USB Type-C – Double Connecteur, Transfert Facile",
+     "description": "La SanDisk Ultra Dual Drive USB Type-C est une clé USB 2-en-1 ingénieuse, dotée à la fois d’un connecteur USB Type-C (réversible, nouvelle génération) et d’un USB Type-A classique, vous permettant de transférer vos données entre plusieurs appareils sans adaptateur.\n\nElle prend en charge des vitesses de lecture allant jusqu’à 150 Mo/s (modèles USB 3.1 Gen 1) pour un transfert rapide de photos, vidéos 4K, documents et fichiers audio. Son design compact et rétractable protège les connecteurs tout en restant élégant et facile à transporter.\n\nGrâce à l’application SanDisk Memory Zone (Android), vous pouvez facilement gérer et sauvegarder vos fichiers sur votre appareil mobile. Que vous soyez étudiant, professionnel ou créateur de contenu, cette clé vous simplifie la vie numérique.\n\n📐 Fiche Technique :\n\nModèle : SanDisk Ultra Dual Drive USB Type-C\n\nConnecteurs : USB Type-C + USB Type-A\n\nCapacités : 32 Go, 64 Go, 128 Go, 256 Go, 512 Go\n\nInterface : USB 3.1 Gen 1\n\nVitesse de lecture : Jusqu’à 150 Mo/s\n\nCompatibilité : Android (OTG), Windows, macOS\n\nApplication : SanDisk Memory Zone (gestion des fichiers)\n\nDesign : Rétractable, compact, léger",
+     "short_description": "La SanDisk Ultra Dual Drive USB Type-C est une clé USB 2-en-1 ingénieuse, dotée à la fois d’un connecteur USB Type-C (réversible, nouvelle génération) et d’un USB Type-A classique, vous permettant de transférer vos…"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/06/HOSSAM-2025-06-17T200936.592.png"
+   ]
+  },
+  {
+   "sku": "doshift-22338",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Casque Bandeau Sans Fil RGB DeepBass R9 NOIR– Bluetooth avec Éclairage LED",
+     "description": "Le DeepBass R9 est un casque bandeau sans fil au design RGB moderne, idéal pour les amateurs de musique et de gaming. Grâce à sa connexion Bluetooth stable, il vous libère des câbles tout en offrant un son clair, riche et équilibré.\n\nL’éclairage RGB dynamique intégré dans le bandeau apporte une touche unique, parfaite pour les sessions de jeu ou l’écoute musicale en style. Son microphone intégré permet de passer des appels en toute liberté, tandis que la structure légère et pliable avec coussinets rembourrés garantit un confort prolongé.\n\nCe casque est également équipé d’un port jack 3,5 mm pour une utilisation filaire si nécessaire. Sa batterie rechargeable longue durée vous accompagne tout au long de la journée.\n\n📐 Fiche Technique :\n\nModèle : DeepBass R9\n\nType : Casque bandeau Bluetooth sans fil\n\nEffets lumineux : RGB LED intégrés\n\nConnectivité : Bluetooth + câble audio 3,5 mm\n\nMicrophone : Oui, intégré\n\nAutonomie : Jusqu’à 8 heures\n\nChargement : Port micro USB\n\nConfort : Coussinets doux, arceau ajustable, design pliable\n\nUtilisation : Musique, appels, jeux, multimédia",
+     "short_description": "Le DeepBass R9 est un casque bandeau sans fil au design RGB moderne, idéal pour les amateurs de musique et de gaming."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/06/HOSSAM-2025-06-11T203341.293.png"
+   ]
+  },
+  {
+   "sku": "doshift-21490",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lot de 3 Adaptateurs de Prise Universelle vers Prise EU",
+     "description": "Ce lot de 3 adaptateurs de voyage universels vers prise européenne est idéal pour les globe-trotteurs, expatriés ou les utilisateurs d’appareils étrangers. Il permet de connecter facilement des fiches US, UK, AU ou CN à une prise EU standard (type E/F), présente dans la plupart des pays européens.\n\nChaque adaptateur est conçu avec des matériaux durables et résistants à la chaleur, supportant une tension jusqu’à 250V et un courant de 16A. Le format compact facilite le transport et l’utilisation au quotidien, à la maison ou en déplacement.\n\n💡 Important : Ces adaptateurs ne convertissent pas la tension. Assurez-vous que vos appareils supportent la tension locale (généralement 220–240V en Europe).\n\n📐 Fiche Technique :\n\nProduit : Adaptateur de prise universelle vers EU (x3)\n\nCompatibilité entrée : US / UK / AU / CN\n\nSortie : Prise européenne 2 broches (type E/F)\n\nTension supportée : 100–250V\n\nCourant maximal : 16A\n\nQuantité : 3 pièces par lot\n\nMatériau : ABS ignifugé + connecteurs métal\n\nUtilisation : Voyages, expatriation, conversion de prise étrangère",
+     "short_description": "Ce lot de 3 adaptateurs de voyage universels vers prise européenne est idéal pour les globe-trotteurs, expatriés ou les utilisateurs d’appareils étrangers."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/05/HOSSAM-2025-05-28T171804.203.png"
+   ]
+  },
+  {
+   "sku": "doshift-21314",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis de Prière Élégant 70 x 110 cm",
+     "description": "Apportez confort et sérénité à vos moments de prière avec ce tapis de prière raffiné au design élégant et aux finitions soignées. Sa texture douce et agréable offre un excellent confort d’utilisation au quotidien, à la maison comme en déplacement.\n\nSon motif inspiré de l’architecture orientale, associé aux détails bleu et doré, apporte une touche spirituelle et décorative à votre espace.\n\nCaractéristique\nDétail\n\nType\nTapis de prière\n\nDimensions\n70 x 110 cm\n\nCouleur\nGris, bleu et doré\n\nMatière\nTissu doux\n\nUtilisation\nPrière quotidienne\n\nStyle\nOriental élégant\n\nRéférence Doshift\nAA5BB099",
+     "short_description": "Apportez confort et sérénité à vos moments de prière avec ce tapis de prière raffiné au design élégant et aux finitions soignées."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/05/Nouveau-projet-2026-05-25T195630.861.png"
+   ]
+  },
+  {
+   "sku": "doshift-21071",
+   "price": 62,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Peau de chamois synthétique Kanebo – Haute absorption – Petite",
+     "description": "Peau de chamois synthétique Kanebo – Haute absorption – Petite est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
+     "short_description": "Peau de chamois synthétique Kanebo – Performance fiable et design moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-07-T173136-158.png"
+   ]
+  },
+  {
+   "sku": "doshift-21070",
+   "price": 92,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Peau de chamois synthétique Kanebo – Haute absorption – GRAND",
+     "description": "Peau de chamois synthétique Kanebo – Haute absorption est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
+     "short_description": "Peau de chamois synthétique Kanebo – Performance fiable et design moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-07-T173136-158.png"
+   ]
+  },
+  {
+   "sku": "doshift-21036",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Oreiller de Voyage Ergonomique à Mémoire de Forme – Confort Premium pour Déplacements",
+     "description": "Profitez d’un confort optimal pendant tous vos trajets avec cet oreiller de voyage ergonomique conçu pour soutenir efficacement la nuque, la tête et les joues. Sa forme enveloppante assure un maintien stable, réduisant les tensions cervicales lors des voyages en avion, train, voiture ou bus.\n\nCaractéristique\nDétail\n\nType\nOreiller de voyage ergonomique\n\nMatière\nTissu doux respirant + mousse mémoire\n\nDimensions\n28 x 25 x 13 cm\n\nFonction\nSoutien tête, cou et joues\n\nAjustement\nCordon de serrage réglable\n\nExtra\nPoche latérale intégrée\n\nUtilisation\nAvion, voiture, train, bureau\n\nRéférence Doshift\nAA16BB599",
+     "short_description": "Oreiller de voyage – Performance fiable et design moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/04/Nouveau-projet-2026-04-13T204803.950.png"
+   ]
+  },
+  {
+   "sku": "doshift-21032",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Flamingo Nettoyant Plastique SP-250 – Rénovateur intérieur 250 ml",
+     "description": "Flamingo Nettoyant Plastique SP-250 – Rénovateur intérieur 250 ml est un accessoire technologique utile, conçu pour améliorer votre expérience au quotidien.\n\nCaractéristiques techniques :\n\n– Fonction : Voir description produit\n\n– Compatibilité : Universelle\n\n– Design : Compact et ergonomique\n\n– Utilisation : Polyvalente\n\nUn indispensable pour vos activités numériques.",
+     "short_description": "Flamingo Nettoyant Plastique SP-250 – Performance fiable et design moderne."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/04/HOSSAM-2025-04-07-T124828-493.png"
+   ]
+  }
+ ]
+}

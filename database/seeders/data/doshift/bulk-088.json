@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "doshift-57657",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "tapis Éducatif Enfant en Mousse EVA – Lettres – Motif Plage – 60×60 cm",
+     "description": "Offrez à votre enfant un espace de jeu ludique, confortable et sécurisé avec ce tapis éducatif en mousse EVA au motif plage. Conçu pour stimuler l’apprentissage tout en s’amusant, il aide les enfants à reconnaître les lettres, développer leur motricité et leur créativité. Sa matière douce et résistante protège du sol froid et amortit les chocs, ce qui le rend idéal pour la chambre d’enfant, la salle de jeux ou même l’extérieur.",
+     "short_description": "Offrez à votre enfant un espace de jeu ludique, confortable et sécurisé avec ce tapis éducatif en mousse EVA au motif plage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/D_NQ_NP_2X_728839-MLA99906406679_112025-F.webp"
+   ]
+  },
+  {
+   "sku": "doshift-57731",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gobelet en Verre Pyrex avec Manchon en Silicone & Paille en Verre – HO Smart – 450 ml",
+     "description": "Ce gobelet en verre Pyrex HO Smart allie élégance, praticité et sécurité pour une utilisation quotidienne. D’une capacité de 450 ml, il est idéal pour l’eau, les jus, le café ou les boissons froides et chaudes. Son couvercle limite les éclaboussures, tandis que la paille en verre offre une alternative saine et réutilisable.\n\nLe manchon en silicone assure une prise en main confortable, antidérapante et protège contre la chaleur, rendant l’utilisation plus sûre au bureau, à la maison ou en déplacement. Fabriqué en verre de haute qualité, il ne retient ni les goûts ni les odeurs, pour une boisson toujours pure et agréable.",
+     "short_description": "Ce gobelet en verre Pyrex HO Smart allie élégance, praticité et sécurité pour une utilisation quotidienne. D’une capacité de 450 ml, il est idéal pour l’eau, les jus, le café ou les boissons froides et chaudes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/518dbLxbVyL._AC_.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-57672",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Trousse de Toilette 3 en 1 Lis – Qualis",
+     "description": "Le kit trousse de toilette 3 en 1 Lis – Qualis est la solution idéale pour organiser vos essentiels de beauté et d’hygiène, à la maison comme en voyage. Composé de trois trousses assorties, il permet de séparer facilement maquillage, soins, accessoires ou produits personnels. Son design élégant et sa matière résistante assurent praticité et durabilité au quotidien. Compact et fonctionnel, ce kit est parfait pour les déplacements, le sac à main ou la valise.",
+     "short_description": "Le kit trousse de toilette 3 en 1 Lis – Qualis est la solution idéale pour organiser vos essentiels de beauté et d’hygiène, à la maison comme en voyage."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/kit_necessaire_3_em_1_lis_qualis_13633_1_4b76faffca44b76f79d4054954b8c88b.webp"
+   ]
+  },
+  {
+   "sku": "doshift-57611",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouteille en Verre avec Double Embout & Manchon en Silicone",
+     "description": "Cette bouteille en verre pratique et élégante est conçue pour s’adapter à tous vos besoins du quotidien. Grâce à son double embout, elle permet de boire directement ou à l’aide d’une paille, offrant un confort optimal en toute situation, au bureau, à la maison ou en déplacement.\n\nFabriquée en verre de haute qualité, elle ne retient ni les goûts ni les odeurs, garantissant une boisson toujours pure. Son manchon en silicone assure une prise en main sûre, antidérapante et protège contre la chaleur, pour une utilisation à la fois confortable et sécurisée. Idéale pour l’eau, les jus ou les boissons chaudes et froides.",
+     "short_description": "Cette bouteille en verre pratique et élégante est conçue pour s’adapter à tous vos besoins du quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/350ml_Double_Drinking_Spout_Coffee_Glass-Blue_9902405-B_Product_Image.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-57290",
+   "price": 239,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Microphone Candc",
+     "description": "L’adaptateur CANDC Handheld transforme un micro sans fil en micro à main, parfait pour interviews, reportages et prises de vue professionnelles.",
+     "short_description": "L’adaptateur CANDC Handheld transforme un micro sans fil en micro à main, parfait pour interviews, reportages et prises de vue professionnelles."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1769113996-8_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-57200",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bonbonnière Décorative en Verre Sculpté avec Socle Élégant",
+     "description": "Apportez une touche d’élégance et de raffinement à votre intérieur grâce à cette magnifique bonbonnière décorative au design sophistiqué. Son verre sculpté aux motifs géométriques capte la lumière et crée de superbes reflets, tandis que son socle élégant lui confère une allure luxueuse idéale pour sublimer votre décoration.\n\nParfaite pour présenter des bonbons, des dattes, des chocolats ou des fruits secs, cette coupe décorative devient rapidement une pièce centrale sur une table, un buffet ou une vitrine. Son couvercle assorti avec poignée décorative permet de protéger le contenu tout en ajoutant une touche esthétique supplémentaire.\n\nIdéale pour la maison, les réceptions, les mariages ou comme objet décoratif, cette bonbonnière combine praticité et style pour embellir n’importe quel espace.\n\nCaractéristique\nDétail\n\nType\nBonbonnière décorative avec couvercle\n\nUtilisation\nBonbons, dattes, chocolats, fruits secs\n\nMatériau\nVerre sculpté\n\nStyle\nDécoratif / Élégant\n\nBase\nSocle stable décoratif\n\nContenu\n1 coupe + 1 couvercle\n\nIdéal pour\nSalon, table, réception\n\nRéférence Doshift\nAA9BB099",
+     "short_description": "Apportez une touche d’élégance et de raffinement à votre intérieur grâce à cette magnifique bonbonnière décorative au design sophistiqué."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-16T173932.517.png"
+   ]
+  },
+  {
+   "sku": "doshift-57205",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Vase Décoratif en Verre Doré – Élégance Classique & Luxe Intemporel",
+     "description": "Apportez une touche de raffinement et de prestige à votre intérieur avec ce vase décoratif en verre doré au design classique. Conçu avec un verre finement travaillé et une finition dorée luxueuse, il s’intègre parfaitement dans un salon, une salle à manger, une bibliothèque ou sur une table de réception. Son style élégant et intemporel en fait un véritable objet de décoration haut de gamme, idéal pour sublimer votre espace avec des fleurs sèches, des compositions décoratives ou même seul comme pièce maîtresse.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nObjet décoratif de table\n\nStyle\nLuxe / Classique / Oriental\n\nUtilisation\nDécoration intérieure\n\nMatériau principal\nVerre travaillé\n\nFinition\nDorée brillante\n\nBase\nMétal avec finition or\n\nDesign\nMotifs sculptés élégants\n\nCouleur\nOr ambré\n\nHauteur\nEnviron 30 cm (12 pouces)\n\nEmplacement idéal\nTable à manger, salon, buffet, cheminée\n\nEntretien\nNettoyage doux avec chiffon sec\n\nContenu\n1 pièce décorative\n\nRéférence-doshift\nAA8BB599",
+     "short_description": "Apportez une touche de raffinement et de prestige à votre intérieur avec ce vase décoratif en verre doré au design classique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/4970a0c1-0ed8-4faa-bc6c-441ef388c1bc.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-57046",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Universal Better Sponge Kit 3 éponges abrasif en silicone",
+     "description": "L’éponge lave vaisselle est faite de silicone, résistant à la chaleur et adapté au contact avec des aliments, en plus d’être Eco durable. Un bon choix pour nettoyer vaisselle, casseroles, poêles, fruits et légumes. Peut également être utilisée comme base isolante pour casseroles et vous pouvez l’utiliser pour nettoyer la douche. Super facile à nettoyer et se sèche rapidement. Douce et flexible, capable de nettoyer verres et angles des poêles, rendant le nettoyage plus efficace. La brosse est faite de matériaux de haute qualité, offre la même nettoyage de la laine d’acier, sans aucun éraflure.\n\n3 pièces éponge nettoyantes et dégraissantes pour la vaisselle. Élimine les bactéries.\n\n1 éponge en forme d’étoile – 1 éponge en forme de marguerite – 1 éponge de forme ovale.\n\nPassent au lave-vaisselle.\n\nBetter Sponge Kit 3 éponges abrasif en silicone pour aliments Anti-adhésif 3 éponges anti-graisse, Antibactériennes en silicone Better Sponge Lavage Fruits, légumes, cuisine, adaptées à assiettes et casserole\n\n3 pièces éponge pour assiettes antibactérien en siliconeFacile à nettoyer et à sécherDurable et flexible Constitués de matériau de haute qualitéMatériau écologique et de haute qualité",
+     "short_description": "L’éponge lave vaisselle est faite de silicone, résistant à la chaleur et adapté au contact avec des aliments, en plus d’être Eco durable. Un bon choix pour nettoyer vaisselle, casseroles, poêles, fruits et légumes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1-37.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-57043",
+   "price": 129,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lingettes Nettoyantes pour Chaussures Blanches, Lot de 30 Lingettes Jetables Portables, Nettoyage Rapide Baskets et Chaussures en Cuir, Usage Voyage",
+     "description": "Description :À qui s’adresse le produit et à quoi il sertCes lingettes jetables pour chaussures sont destinées à toute personne souhaitant garder ses chaussures propres en toutes circonstances. Elles servent à éliminer rapidement la saleté, la poussière et les traces sur les baskets blanches, chaussures de sport et chaussures en cuir.Utilisation du produitIl suffit de sortir une lingette, puis de frotter délicatement la surface de la chaussure. Les lingettes sont prêtes à l’emploi, sans besoin d’eau ni de produit supplémentaire, idéales pour un nettoyage express.Occasions ou utilisations idéalesParfaites pour les déplacements, voyages, sorties quotidiennes, travail, école ou après une activité sportive. Elles sont idéales pour une utilisation rapide avant une réunion, une sortie ou un événement.Contenu du produitLot de 30 lingettes nettoyantes jetables pour chaussures, emballées individuellement pour une meilleure conservation et une utilisation hygiénique.Service clientProduit contrôlé avant expédition. Service client disponible pour toute question ou assistance après achat. Description en Arabe :لمن هذا المنتج وما الغرض منههذه المناديل المبللة الخاصة بتنظيف الأحذية موجهة لكل من يرغب في الحفاظ على نظافة حذائه في أي وقت. تساعد على إزالة الأوساخ والغبار والبقع من الأحذية البيضاء، الأحذية الرياضية، وأحذية الجلد.طريقة الاستعماليتم إخراج منديل واحد ومسح سطح الحذاء بلطف. المناديل جاهزة للاستعمال ولا تحتاج إلى ماء أو مواد تنظيف إضافية.المناسبات أو الاستعمالات المثاليةمناسبة للسفر، التنقل اليومي، العمل، الدراسة، أو بعد ممارسة الرياضة. مثالية لتنظيف سريع قبل الخروج أو المناسبات.محتوى المنتجعلبة تحتوي على 30 منديل تنظيف للأحذية، مغلفة بشكل فردي للحفاظ على النظافة وسهولة الحمل.خدمة الزبناءالمنتج يخضع لمراقبة الجودة قبل الشحن، وخدمة الزبناء رهن الإشارة لأي استفسار بعد الشراء.\n\nNettoyage rapide et efficace des chaussuresIdéal pour baskets blanches et cuirLingettes jetables et faciles à transporterPrêtes à l’emploi, sans eauFormat pratique pour voyage et sacLot économique de 30 lingettes",
+     "short_description": "Description :À qui s’adresse le produit et à quoi il sertCes lingettes jetables pour chaussures sont destinées à toute personne souhaitant garder ses chaussures propres en toutes circonstances."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/1769027745-15_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-57031",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Robinet Extenseur Flexible 1080° pour Lavabo",
+     "description": "Améliorez votre confort au quotidien avec ce robinet extenseur flexible 1080°, conçu pour diriger l’eau avec précision selon vos besoins. Grâce à ses bras articulés rotatifs, il permet d’orienter le jet facilement pour le lavage du visage, le rinçage du lavabo ou le nettoyage rapide de différentes zones. Pratique et compact, il s’adapte à de nombreux robinets pour une utilisation plus fonctionnelle dans la salle de bain ou la cuisine.\n\nSa conception en métal robuste assure une bonne résistance à l’usage quotidien, tandis que sa tête orientable facilite l’accès à l’eau sous plusieurs angles. Idéal pour les enfants comme pour les adultes, cet accessoire rend le lavage plus simple, plus propre et plus confortable.\n\nCaractéristique\nDétail\n\nProduit\nExtenseur de robinet articulé\n\nRotation\n1080°\n\nUtilisation\nLavabo, salle de bain, cuisine\n\nMatière\nMétal\n\nFonction\nOrientation flexible du jet d’eau\n\nInstallation\nSe fixe sur robinet compatible\n\nAvantage\nFacilite le lavage du visage et le nettoyage\n\nCouleur\nArgenté\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Améliorez votre confort au quotidien avec ce robinet extenseur flexible 1080°, conçu pour diriger l’eau avec précision selon vos besoins."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/Nouveau-projet-2026-03-18T173949.949.png"
+   ]
+  }
+ ]
+}

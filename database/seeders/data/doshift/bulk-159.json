@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "doshift-119664",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Panier à Frites Individuel en Inox (Service & Présentation)",
+     "description": "Apportez l’élégance et la convivialité des brasseries et restaurants modernes à votre table grâce à ce mini panier à frites individuel en acier inoxydable. Idéal pour servir de manière originale des frites dorées, des rondelles d’oignons, des nuggets ou des tapas, son maillage métallique aéré laisse circuler l’air pour préserver le croustillant de vos fritures sans ramollir.\n\nCaractéristique\nSpécification Détaillée\n\nType\nMini panier de service et présentation individuelle\n\nUsage\nFrites, tapas, nuggets, beignets et amuse-bouches chauds\n\nMatériaux\nAcier inoxydable alimentaire résistant à la corrosion\n\nManche\nPoignée étrier allongée en fil d’acier soudée anti-chaleur\n\nEntretien\nLavage facile à la main et compatible lave-vaisselle\n\nSKU\n9900010929883",
+     "short_description": "Mini-panier de service à frites rectangulaire en fil d’acier inoxydable avec manche à étrier."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/8c55e956-da79-4852-bf94-44cc502cb710.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119439",
+   "price": 349,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "CLAR BROWN — Lunettes de soleil | Doshift × Azylis — Marron",
+     "description": "Découvrez CLAR BROWN, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Marron.",
+     "short_description": "Lunettes de soleil CLAR BROWN — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-1cf6e639cb373e5a.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119438",
+   "price": 349,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "OLIVER — Lunettes de soleil | Doshift × Azylis",
+     "description": "Découvrez OLIVER, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.",
+     "short_description": "Lunettes de soleil OLIVER — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-359b62a2cd443257.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119437",
+   "price": 399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "BLAZE — Lunettes de soleil | Doshift × Azylis — Noir",
+     "description": "Découvrez BLAZE, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Noir.",
+     "short_description": "Lunettes de soleil BLAZE — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-926f1da27d85bf41.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119436",
+   "price": 349,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "FALCON — Lunettes de soleil | Doshift × Azylis",
+     "description": "Découvrez FALCON, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.",
+     "short_description": "Lunettes de soleil FALCON — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-24c8334ff4b75463.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119435",
+   "price": 349,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "TALE — Lunettes de soleil | Doshift × Azylis — Doré",
+     "description": "Découvrez TALE, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Doré.",
+     "short_description": "Lunettes de soleil TALE — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-b118f3f82d83564d.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119434",
+   "price": 399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "ROMERO — Lunettes de soleil | Doshift × Azylis — Noir",
+     "description": "Découvrez ROMERO, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Noir.",
+     "short_description": "Lunettes de soleil ROMERO — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-19258d5fc788ec73.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119433",
+   "price": 399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "ENZO — Lunettes de soleil | Doshift × Azylis — Gris",
+     "description": "Découvrez ENZO, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Gris.",
+     "short_description": "Lunettes de soleil ENZO — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-d025b5a30f80c1b2.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119432",
+   "price": 399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "JHON — Lunettes de soleil | Doshift × Azylis — Noir",
+     "description": "Découvrez JHON, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Noir.",
+     "short_description": "Lunettes de soleil JHON — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-d3a1556318c42ad7.webp"
+   ]
+  },
+  {
+   "sku": "doshift-119431",
+   "price": 399,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    10
+   ],
+   "locales": {
+    "fr": {
+     "name": "GLITCH — Lunettes de soleil | Doshift × Azylis — Saumon",
+     "description": "Découvrez GLITCH, un modèle de lunettes de soleil proposé par Doshift en collaboration avec Azylis.\n\nColoris sélectionné : Saumon.",
+     "short_description": "Lunettes de soleil GLITCH — collaboration Doshift × Azylis."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/10/dos-eye-b2-981d94298f32cbe1.webp"
+   ]
+  }
+ ]
+}

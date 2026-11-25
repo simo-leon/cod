@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "doshift-75020",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis de Salon Moelleux Shaggy Dégradé Gris (150×200 cm)",
+     "description": "Créez une atmosphère douillette, contemporaine et chaleureuse dans votre salon ou votre chambre avec ce grand tapis shaggy de 150 × 200 cm. Confectionné à partir de microfibres soyeuses haute densité au toucher peluche incomparable, il invite à la détente tout en isolant efficacement vos pieds de la fraîcheur du sol.\n\nCaractéristique\nSpécification Détaillée\n\nType\nTapis de sol d’intérieur shaggy ultra-moelleux\n\nDimensions\n150 × 200 cm (1,5 m × 2,0 m)\n\nMatériaux\nMicrofibre 100 % polyester pelucheuse et sous-couche éponge\n\nMotif\nDégradé marbré tie-dye moderne gris anthracite et blanc\n\nBase\nSemelle textile doublée de picots antidérapants en silicone\n\nSKU\n9900009453665",
+     "short_description": "Tapis de salon shaggy 150×200 cm à poils longs moelleux dégradé tie-dye gris avec envers antidérapant."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/8ee80ecd-486f-4969-bb74-3a437c135a9d.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-75000",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Présentoir à Brochettes Inox – 2 Supports avec 10 Brochettes 35 cm",
+     "description": "Organisez et servez vos brochettes avec élégance.Ce présentoir à brochettes en inox permet de suspendre et présenter vos brochettes de manière pratique, propre et originale. Idéal pour les grillades, barbecues, repas en famille ou soirées entre amis, il offre une présentation verticale qui met en valeur les brochettes tout en facilitant le service. Sa structure en acier inoxydable assure une bonne résistance, tandis que les 10 brochettes incluses permettent de préparer plusieurs portions à la fois.\n\nCaractéristique\nDétail\n\nProduit\nPrésentoir à brochettes\n\nMatière\nAcier inoxydable\n\nNombre de supports\n2 supports\n\nBrochettes incluses\n10 brochettes\n\nHauteur des supports\n47 cm\n\nLongueur des brochettes\n35 cm\n\nUtilisation\nBarbecue, grillades, service à table, repas en extérieur\n\nAvantages\nPrésentation verticale, service pratique, design élégant, facile à utiliser\n\nRéférence Doshift\nAA10BB099",
+     "short_description": "Organisez et servez vos brochettes avec élégance.Ce présentoir à brochettes en inox permet de suspendre et présenter vos brochettes de manière pratique, propre et originale."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-28T222616.097.png"
+   ]
+  },
+  {
+   "sku": "doshift-74834",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis en Fourrure Synthétique Premium – Nuances de Sable et Crème",
+     "description": "Apportez une touche de douceur absolue et de raffinement à votre pièce de vie avec ce tapis haut de gamme en fourrure synthétique. Arborant un mélange organique de teintes beiges, taupe et crème, son motif marbré rappelle la fluidité des paysages désertiques ou la texture d’un pelage naturel.\n\nCaractéristique\nDétail\n\nConfort\nUltra-moelleux\n\nDesign\nStyle moderne et neutre\n\nFinition\nBordures + surface antidérapante\n\nAmbiance\nEffet cocooning\n\nRéférence-doshift\nAA1BB7099",
+     "short_description": "Apportez une touche de douceur absolue et de raffinement à votre pièce de vie avec ce tapis haut de gamme en fourrure synthétique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/3-65.png"
+   ]
+  },
+  {
+   "sku": "doshift-74821",
+   "price": 279,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis en Fourrure Synthétique Premium – Nuances de Café et Moka",
+     "description": "Plongez dans un confort absolu avec ce tapis en fourrure synthétique haut de gamme, conçu pour apporter une touche de chaleur et d’élégance contemporaine à votre intérieur. Arborant un dégradé sophistiqué de teintes Café et Moka, ce modèle se distingue par son aspect marbré naturel qui s’intègre parfaitement aux décors modernes comme classiques.\n\nCaractéristique\nDétail\n\nTexture\nDoux et épais\n\nDesign\nTons bruns naturels\n\nFinition\nBordure + surface antidérapante\n\nEntretien\nRésistant et durable\n\nRéférence-doshift\nAA1BB7099",
+     "short_description": "Plongez dans un confort absolu avec ce tapis en fourrure synthétique haut de gamme, conçu pour apporter une touche de chaleur et d’élégance contemporaine à votre intérieur."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/3-63.png"
+   ]
+  },
+  {
+   "sku": "doshift-74586",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur Compact Métallisé",
+     "description": "Alliez fonctionnalité et esthétique contemporaine avec ce mini ventilateur de bureau compact. Doté d’une finition métallique galvanisée haut de gamme, ce modèle se distingue par son design unique en forme d’ours et son élégant dégradé de couleurs, allant d’un violet profond à un cuivre rosé.\n\nCaractéristique\nDétail\n\nDesign\nForme ours moderne\n\nFinition\nMétal brillant dégradé\n\nAérodynamisme\nFlux d’air optimisé\n\nSécurité\nGrille de protection\n\nInclinaison\nAngle ajustable\n\nStabilité\nBase antidérapante\n\nRéférence-doshift\nAA3BB599",
+     "short_description": "Alliez fonctionnalité et esthétique contemporaine avec ce mini ventilateur de bureau compact."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/1-57.png"
+   ]
+  },
+  {
+   "sku": "doshift-74550",
+   "price": 219,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Piscine Gonflable Family FunPool 75 × 50 × 120 cm",
+     "description": "Profitez pleinement de l’été avec cette piscine gonflable familiale conçue pour offrir des moments de détente et de jeu aux enfants. Son design coloré et ses motifs amusants apportent une ambiance estivale parfaite pour le jardin, la terrasse ou les espaces extérieurs.\n\nFacile à installer, légère et pratique, elle se gonfle rapidement pour créer un espace rafraîchissant en quelques minutes.\n\nCaractéristique\nDétail\n\nProduit\nPiscine gonflable familiale\n\nDimensions\n75 × 50 × 120 cm\n\nType\nPiscine rectangulaire\n\nUtilisation\nJardin, terrasse, extérieur\n\nPublic\nEnfants & famille\n\nMatière\nPVC résistant\n\nDesign\nMotifs colorés et ludiques\n\nGonflage\nRapide et facile\n\nAvantages\nLégère, durable et facile à ranger\n\nSaison\nÉté\n\nCouleur\nBleu avec illustrations\n\nRéférence Doshift\nAA13BB099",
+     "short_description": "Profitez pleinement de l’été avec cette piscine gonflable familiale conçue pour offrir des moments de détente et de jeu aux enfants."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-05-21T163116.430.png"
+   ]
+  },
+  {
+   "sku": "doshift-74580",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Transmetteur FM Bluetooth Pro",
+     "description": "Redonnez vie au système audio de votre véhicule avec élégance et simplicité.\n\nCe transmetteur FM Bluetooth haute performance est l’accessoire indispensable pour transformer chaque trajet en une expérience sonore immersive. Conçu avec une silhouette ergonomique en « L » et une finition noir mat sophistiquée, il s’intègre parfaitement à l’habitacle des voitures modernes comme classiques.\n\nCaractéristique\nDétail\n\nConnectivité\nStreaming audio via FM\n\nAppels\nMains libres\n\nCharge\nCharge rapide intégrée\n\nDesign\nCompact et robuste\n\nRéférence-doshift\nAA2BB599",
+     "short_description": "Redonnez vie au système audio de votre véhicule avec élégance et simplicité."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/1-56.png"
+   ]
+  },
+  {
+   "sku": "doshift-74430",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Drap avec 2 taies d’oreiller assorties – 230 x 250 cm",
+     "description": "Apportez une touche propre et élégante à votre chambre avec ce drap accompagné de 2 taies d’oreiller assorties. Son tissu doux et confortable offre un toucher agréable au quotidien, tout en donnant au lit un rendu lumineux, simple et soigné. Pratique, résistant et facile à entretenir, il convient parfaitement pour habiller un lit double avec style.\n\nCaractéristique\nDétail\n\nType de produit\nDrap avec taies d’oreiller\n\nComposition du set\n1 drap + 2 taies d’oreiller assorties\n\nDimensions du drap\n230 x 250 cm\n\nDimensions des taies\n50 x 70 cm\n\nTissu\nDoux et agréable\n\nConfort\nRespirant et confortable\n\nFinition\nSoignée\n\nStyle\nSimple, propre, élégant\n\nUtilisation\nChambre à coucher, lit double\n\nAvantages\nConfortable, résistant, facile à assortir et simple à entretenir\n\nEntretien\nLavage simple\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Apportez une touche propre et élégante à votre chambre avec ce drap accompagné de 2 taies d’oreiller assorties."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-25T214505.662.png"
+   ]
+  },
+  {
+   "sku": "doshift-74417",
+   "price": 149,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Drap avec 2 taies d’oreiller assorties – 230 x 250 cm",
+     "description": "Apportez une touche sobre et élégante à votre chambre avec ce drap accompagné de 2 taies d’oreiller assorties. Son tissu doux et agréable assure un confort quotidien, tout en donnant au lit un rendu propre, moderne et facile à assortir. Pratique, résistant et simple à entretenir, il est idéal pour habiller un lit double avec style.\n\nCaractéristique\nDétail\n\nType de produit\nDrap avec taies d’oreiller\n\nComposition du set\n1 drap + 2 taies d’oreiller assorties\n\nDimensions du drap\n230 x 250 cm\n\nDimensions des taies\n50 x 70 cm\n\nTissu\nDoux et agréable\n\nConfort\nRespirant et confortable\n\nFinition\nSoignée\n\nStyle\nSimple, moderne, élégant\n\nUtilisation\nChambre à coucher, lit double\n\nAvantages\nConfortable, résistant, facile à assortir et simple à entretenir\n\nEntretien\nLavage simple selon les instructions du textile\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Apportez une touche sobre et élégante à votre chambre avec ce drap accompagné de 2 taies d’oreiller assorties."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-25T211203.198.png"
+   ]
+  },
+  {
+   "sku": "doshift-74399",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Drap avec 2 taies d’oreiller assorties – 230 x 250 cm",
+     "description": "Apportez une touche vive et élégante à votre chambre avec ce drap accompagné de 2 taies d’oreiller assorties. Son tissu doux et confortable offre un agréable toucher au quotidien, tout en donnant au lit un rendu propre, moderne et soigné. Résistant, pratique et facile à entretenir, il est idéal pour habiller un lit double avec style.\n\nCaractéristique\nDétail\n\nType de produit\nDrap avec taies d’oreiller\n\nComposition du set\n1 drap + 2 taies d’oreiller assorties\n\nDimensions du drap\n230 x 250 cm\n\nDimensions des taies\n50 x 70 cm\n\nTissu\nDoux et agréable\n\nConfort\nRespirant et confortable\n\nFinition\nSoignée\n\nStyle\nSimple, moderne, élégant\n\nUtilisation\nChambre à coucher, lit double\n\nAvantages\nPratique, confortable, résistant et facile à entretenir\n\nEntretien\nLavage simple selon les instructions du textile\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Apportez une touche vive et élégante à votre chambre avec ce drap accompagné de 2 taies d’oreiller assorties."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/04/Nouveau-projet-2026-04-25T204132.149.png"
+   ]
+  }
+ ]
+}

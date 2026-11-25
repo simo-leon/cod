@@ -1,0 +1,203 @@
+{
+ "products": [
+  {
+   "sku": "doshift-56228",
+   "price": 869,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Projecteur Solaire JD-8800L 100W avec Télécommande – IP67 Étanche",
+     "description": "Le projecteur solaire JD-8800L est une solution d’éclairage puissante, économique et fiable pour les espaces extérieurs. Grâce à son panneau solaire haute efficacité et sa batterie intégrée longue durée, il éclaire automatiquement la nuit sans consommation électrique. Son boîtier en aluminium étanche IP67 le rend idéal pour les jardins, façades, terrasses, garages ou chantiers. La télécommande incluse permet de régler l’intensité, les modes et la minuterie pour un confort d’utilisation optimal.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nModèle\nJD-8800L\n\nPuissance LED\n100W\n\nType d’alimentation\nSolaire\n\nPanneau solaire\nHaute efficacité externe\n\nTélécommande\nOui\n\nCapteur crépusculaire\nOui (Auto ON/OFF)\n\nDébit lumineux\nHaute intensité\n\nÉtanchéité\nIP67 (Résistant pluie & poussière)\n\nMatériau\nAluminium + Verre\n\nModes d’éclairage\nRéglables\n\nInstallation\nExtérieure\n\nUtilisation\nJardin, façade, terrasse, parking, entrée, camping\n\nAvantages\nSans électricité – Longue durée – Gestion intelligente\n\nContenu\nProjecteur + Panneau solaire + Télécommande + Câble\n\nRéférence-doshift\nAA65BB599",
+     "short_description": "Le projecteur solaire JD-8800L est une solution d’éclairage puissante, économique et fiable pour les espaces extérieurs."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/a4ccd247-aa8d-4afc-bc9a-b8d12e2bc05c.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56182",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lantern Solaire Camping TESLA – Lumière Ambiante & Rechargeable",
+     "description": "Profitez d’un éclairage écologique et agréable lors de vos activités extérieures grâce à la lanterne solaire TESLA. Compacte, durable et dotée d’un anneau lumineux bleu doux, elle crée une ambiance chaleureuse idéale pour les soirées camping, les repas en plein air ou les situations d’urgence. Son crochet intégré permet de la suspendre partout — tente, branche, table — pour un maximum de confort et de polyvalence.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nAlimentation\nPanneau solaire + Batterie rechargeable\n\nAutonomie\n4 à 5 heures\n\nÉclairage\nLumière bleue ambiante\n\nFixation\nCrochet suspendu intégré\n\nUtilisation\nCamping, jardin, extérieur, urgences\n\nFormat\nCompact & durable\n\nRecharge\nCharge solaire\n\nRéférence-doshift\nAA5BB099",
+     "short_description": "Profitez d’un éclairage écologique et agréable lors de vos activités extérieures grâce à la lanterne solaire TESLA."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/17456081-7663-4842-ba9e-40f6a89edf69.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56233",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "XM-G69– Système Solaire Portable Sans-Fil avec Haut-Parleur & LED",
+     "description": "Profitez d’une source d’énergie portable et multifonction grâce au XM-G69, idéal pour le camping, les sorties nocturnes, les pannes de courant ou les soirées en plein air. Ce système combine puissance lumineuse, haut-parleur Bluetooth, radio FM, ainsi qu’une power bank intégrée permettant de recharger vos appareils mobiles. Compact, solide et entièrement rechargeable via l’énergie solaire, il offre une solution complète pour vos aventures et loisirs.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nModèle\nXM-G69\n\nHaut-parleur Bluetooth\nOui\n\nRadio FM\nOui\n\nÉclairage LED\n1 LED + 4 panneaux LED supplémentaires\n\nAlimentation\nSolaire + USB rechargeable\n\nFonction Power Bank\nOui (recharge téléphone)\n\nSupport média\nUSB / Carte TF\n\nBatterie\n4500mAh\n\nUtilisation idéale\nCamping / Extérieur / Urgences\n\nAccessoire inclus\nCâble USB\n\nRéférence-doshift\nAA9BB599",
+     "short_description": "Profitez d’une source d’énergie portable et multifonction grâce au XM-G69, idéal pour le camping, les sorties nocturnes, les pannes de courant ou les soirées en plein air."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/e260b599-9d6f-43f8-a690-92ad5abfa00e.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56165",
+   "price": 179,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe Murale Solaire à Double Tête – Détection PIR",
+     "description": "Éclairez efficacement votre entrée, jardin, garage ou allée grâce à cette lampe murale solaire moderne à double tête. Conçue pour offrir une luminosité puissante, elle s’allume automatiquement lorsqu’un mouvement est détecté, garantissant confort, sécurité et économie d’énergie. Grâce à son panneau solaire intégré, elle ne nécessite aucun câble et fonctionne entièrement à l’énergie solaire.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType d’éclairage\nLED Haute Luminosité\n\nDouble tête\nOui – éclairage haut + bas\n\nDétection PIR\nOui – capteur de mouvement\n\nCapteur crépusculaire\nOui – activation automatique la nuit\n\nAlimentation\nPanneau solaire intégré\n\nBatterie\nRechargeable intégrée\n\nÉtanchéité\nIP65 – Résiste à la pluie & poussière\n\nPort de charge\nUSB Type-C\n\nInstallation\nSans câbles – facile\n\nUsage\nExtérieur\n\nIdéal pour\nEntrée, façade, jardin, garage, allée\n\nRéférence-doshift\nAA9BB099",
+     "short_description": "Éclairez efficacement votre entrée, jardin, garage ou allée grâce à cette lampe murale solaire moderne à double tête."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/a99b9f98-4dc4-4833-9e89-4dc2c8027263.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56159",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Projecteur LED Solaire Portable",
+     "description": "Éclairez vos activités en extérieur grâce à ce projecteur LED compact, puissant et éco-responsable. Alimenté par énergie solaire et rechargeable, il offre une luminosité intense tout en restant économique et durable. Idéal pour le camping, les travaux, les situations d’urgence, le garage ou encore l’éclairage de jardin.\n\nCaractéristiques du Produit:\n\nSpécification\nDétail\n\nSource lumineuse\nLED haute luminosité\n\nAlimentation\nÉnergie solaire + recharge\n\nÉtanchéité\nIP66 – Résiste à l’eau et à la poussière\n\nUtilisation\nExtérieur, Camping, Garage, Urgence\n\nDesign\nCompact, portable, support inclinable\n\nDurabilité\nConstruction robuste & longue durée\n\nInstallation\nSans câbles – Pose libre\n\nAvantage écologique\nZéro consommation secteur grâce au solaire\n\nRéférence-doshift\nAA5BB599",
+     "short_description": "Éclairez vos activités en extérieur grâce à ce projecteur LED compact, puissant et éco-responsable. Alimenté par énergie solaire et rechargeable, il offre une luminosité intense tout en restant économique et durable."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/82a8a5cf-efcd-4738-a607-a46f14ee40a3.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56148",
+   "price": 309,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe de Travail Rechargeable Multifonction COB – Atelier / Auto / Camping",
+     "description": "Cette lampe de travail rechargeable est conçue pour offrir un éclairage puissant et fiable dans toutes les situations. Grâce à sa technologie COB LED, elle délivre une lumière homogène et intense idéale pour la mécanique automobile, le bricolage, le camping ou les situations d’urgence. Son design ergonomique avec tête orientable permet d’ajuster facilement l’angle d’éclairage selon les besoins. Durable, portable et polyvalente, elle devient un outil essentiel pour tout atelier ou usage extérieur.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nSource lumineuse\nCOB LED haute intensité\n\nAlimentation\nRechargeable (batterie longue durée)\n\nUtilisation\nAuto / Atelier / Camping / Urgence / DIY\n\nTête réglable\nOui – orientation ajustable\n\nPoignée\nErgonomique et antidérapante\n\nAutonomie\nLongue durée\n\nRobustesse\nRésistante pour usage intensif\n\nPortabilité\nFacile à transporter et à poser au sol\n\nApplications\nRéparation mécanique, éclairage d’appoint, extérieur\n\nRéférence-doshift\nAA19BB099",
+     "short_description": "Cette lampe de travail rechargeable est conçue pour offrir un éclairage puissant et fiable dans toutes les situations."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/89999446-dadc-4835-bf76-12d58c1659e5.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56153",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe LED Rechargeable Multi-Fonction",
+     "description": "Idéale pour le camping, les urgences, le bricolage et les activités nocturnes, cette lanterne compacte offre un éclairage puissant et uniforme tout en servant de power bank USB pour recharger vos appareils. Son design portable et résistant permet une utilisation intérieure comme extérieure.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétails\n\nType\nLanterne LED Rechargeable\n\nÉclairage\nLED haute luminosité\n\nFonction Power Bank\nSortie USB 5V\n\nRéglage luminosité\nVariable / Ajustable\n\nUtilisation\nCamping, Urgence, Extérieur, Atelier\n\nDesign\nPortable + Durable\n\nPort USB\n1 Sortie USB intégrée\n\nAlimentation\nBatterie rechargeable intégrée\n\nCouleur\nBlanc + Orange\n\nAvantage\nSert à charger le téléphone\n\nUsage\nIntérieur / Extérieur\n\nMatériau\nABS renforcé\n\nRéférence-doshift\nAA5BB299",
+     "short_description": "Idéale pour le camping, les urgences, le bricolage et les activités nocturnes, cette lanterne compacte offre un éclairage puissant et uniforme tout en servant de power bank USB pour recharger vos appareils."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/e3585b4a-265e-4eba-8343-6673b11dca1a.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56078",
+   "price": 99,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Marteau Arrache-Clous – Bois & Acier Trempé",
+     "description": "Le marteau arrache-clous est un outil indispensable pour tout travail de menuiserie, montage, bricolage et réparation. Sa tête en acier trempé permet de planter les clous efficacement tandis que sa griffe courbée permet de les retirer sans effort. Son manche en bois naturel offre une prise en main confortable, solide et antidérapante, idéale pour une utilisation prolongée.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nMarteau arrache-clous\n\nUtilisation\nMenuiserie, montage, bricolage\n\nFonction principale\nPlanter & retirer les clous\n\nTête\nAcier trempé renforcé\n\nGriffe\nCourbée pour extraction facile\n\nManche\nBois solide & anti-glisse\n\nPrise en main\nErgonomique\n\nAvantage clé\nPolyvalent & durable\n\nRéférence DOSHIFT\nAA2B099",
+     "short_description": "Le marteau arrache-clous est un outil indispensable pour tout travail de menuiserie, montage, bricolage et réparation."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/de91c679-9cde-486f-9a45-4bbd06c5cbf7.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56048",
+   "price": 169,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tête de Douchette WC – Jet réglable – Blanc",
+     "description": "La tête de douchette WC est conçue pour offrir un nettoyage hygiénique, efficace et confortable au quotidien. Grâce à sa gâchette de contrôle manuel, elle permet d’ajuster facilement le débit d’eau pour un usage précis, sans gaspillage. Idéale pour les toilettes, salles d’eau, bidets et nettoyage domestique, elle s’installe rapidement sur la plupart des flexibles standards. Compacte, durable et ergonomique, elle améliore instantanément l’hygiène et la praticité dans la salle de bain.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nTête de douchette WC\n\nFonction\nNettoyage hygiénique & directionnel\n\nContrôle\nGâchette ergonomique\n\nJet\nDoux et efficace\n\nInstallation\nSans outils\n\nCompatibilité\nFlexible vissable standard\n\nMatériau\nPlastique renforcé + finition chromée\n\nHygiène\nNettoyage précis et propre\n\nAvantage\nÉconomie d’eau + contrôle manuel\n\nCouleur\nBlanc\n\nRéférence DOSHIFT\nAA10BB099",
+     "short_description": "La tête de douchette WC est conçue pour offrir un nettoyage hygiénique, efficace et confortable au quotidien."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/ffb995d4-5743-48b2-ab9d-fa148c050a66.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-56030",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aérateur de Robinet Anti-Éclaboussures – Filtre Économie d’Eau (Lot de 20 pcs)",
+     "description": "Améliorez instantanément le confort de votre robinet grâce à cet aérateur anti-éclaboussures. Sa conception filtrante permet d’obtenir un jet d’eau fluide, stable et silencieux, tout en réduisant la consommation d’eau jusqu’à 30%. Facile à installer sans outils, il se fixe directement sur la majorité des robinets domestiques (cuisine, salle de bain, lavabo). Il retient efficacement les impuretés, sédiments et particules tout en prolongeant la durée de vie de votre robinetterie.\n\nIdéal pour les foyers, hôtels, restaurants, sanitaires collectifs et rénovations.\n\nCaractéristiques du Produit:\n\nCaractéristiques\nDétails\n\nType\nAérateur de robinet anti-éclaboussures\n\nFonction principale\nJet d’eau fluide, silencieux et sans éclaboussures\n\nÉconomie d’eau\nJusqu’à -30% de consommation\n\nFiltration\nRetient sédiments & impuretés\n\nInstallation\nSans outils – montage rapide\n\nCompatibilité\nRobinet cuisine / salle de bain / lavabo\n\nMatériau\nAcier + maille filtrante\n\nQuantité par lot\n20 pièces\n\nUtilisation\nMaison, hôtels, restaurants, sanitaires\n\nDurabilité\nAnti-rouille & longue durée\n\nEntretien\nFacile à nettoyer\n\nRéférence DOSHIFT\nAA2BB399",
+     "short_description": "Améliorez instantanément le confort de votre robinet grâce à cet aérateur anti-éclaboussures."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/01/470d2f0a-9332-43c5-83f9-0decf17408b7.jpeg"
+   ]
+  }
+ ]
+}

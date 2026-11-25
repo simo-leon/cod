@@ -9,9 +9,12 @@ use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Event;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Str;
+use Illuminate\Validation\Rule;
 use Webkul\Attribute\Repositories\AttributeFamilyRepository;
 use Webkul\Attribute\Repositories\AttributeRepository;
+use Webkul\Core\Rules\Slug;
 use Webkul\Inventory\Repositories\InventorySourceRepository;
 use Webkul\Product\Contracts\Product;
 use Webkul\Product\Repositories\ProductAttributeValueRepository;
@@ -398,6 +401,163 @@ class ProductApiService
         $result['product'] = $product;
 
         return $result;
+    }
+
+    /**
+     * Create ONE product from a bulk payload item — the exact
+     * per-product path of POST /api/cod/products/bulk, shared by the
+     * bulk endpoint (CodProductBulkCreateController) and the bundled
+     * doshift import command (`jemla:import-doshift`). Any failure
+     * is returned as a result entry, never thrown, so a batch (or a
+     * command run) continues with the next product.
+     *
+     * Returns ['sku' => …, 'created' => bool, 'payload' => […]].
+     */
+    public function createBulkItem(mixed $item): array
+    {
+        $sku = is_array($item) ? ($item['sku'] ?? null) : null;
+
+        try {
+            $validator = Validator::make($item ?? [], $this->bulkItemRules());
+
+            if ($validator->fails()) {
+                return $this->bulkFailure($sku, 'The given data was invalid.', $validator->errors()->toArray());
+            }
+
+            $validated = $validator->validated();
+
+            $locales = $validated['locales'];
+            $defaultLocale = $this->defaultLocaleCode();
+
+            $errors = $this->validateLocales($locales);
+
+            if (empty($locales[$defaultLocale]['name'] ?? null)) {
+                $errors["locales.{$defaultLocale}.name"] = ["The name in the default locale ({$defaultLocale}) is required."];
+            }
+
+            foreach ($locales as $locale => $fields) {
+                if (empty($fields['name'] ?? null)) {
+                    $errors["locales.{$locale}.name"] = ['Each provided locale needs a name.'];
+                }
+
+                if (! empty($fields['name'])) {
+                    $duplicate = $this->findDuplicateName($fields['name'], $locale);
+
+                    if ($duplicate) {
+                        $errors["locales.{$locale}.name"] = ["A product with this name already exists in locale '{$locale}': #{$duplicate['id']} (SKU {$duplicate['sku']})."];
+                    }
+                }
+            }
+
+            $imageCount = count($validated['image_urls'] ?? []);
+
+            if ($imageCount > self::MAX_IMAGES) {
+                $errors['images'] = ['At most '.self::MAX_IMAGES.' images are allowed per product.'];
+            }
+
+            if (! empty($errors)) {
+                return $this->bulkFailure($sku, 'The given data was invalid.', $errors);
+            }
+
+            try {
+                $imageFiles = $this->collectImageFiles(
+                    [],
+                    $validated['image_urls'] ?? []
+                );
+            } catch (ProductImageException $e) {
+                return $this->bulkFailure($sku, $e->getMessage(), ['images' => [$e->getMessage()]]);
+            }
+
+            $result = $this->createProduct($validated, $imageFiles);
+
+            $product = $result['product'];
+            $defaultUrlKey = $this->defaultUrlKey($product, $locales, $result['locales']);
+
+            return [
+                'sku' => $product->sku,
+                'created' => true,
+                'payload' => [
+                    'product' => [
+                        'id' => $product->id,
+                        'sku' => $product->sku,
+                        'url' => $defaultUrlKey ? $this->productUrl($product, $defaultUrlKey) : null,
+                    ],
+                ],
+            ];
+        } catch (\Throwable $e) {
+            return $this->bulkFailure($sku, $e->getMessage());
+        }
+    }
+
+    /**
+     * Per-product validation rules for a bulk payload item —
+     * identical to the single-create endpoint, except multipart
+     * `images[]` is not accepted in bulk (JSON only, `image_urls`).
+     */
+    public function bulkItemRules(): array
+    {
+        return [
+            'sku' => ['required', 'string', 'max:255', new Slug, Rule::unique('products', 'sku')],
+            'price' => 'required|numeric|min:0',
+            'stock' => 'nullable|integer|min:0',
+            'status' => 'nullable|boolean',
+            'categories' => 'nullable|array',
+            'categories.*' => 'integer|exists:categories,id',
+            'locales' => 'required|array',
+            'locales.*' => 'array',
+            'locales.*.name' => 'nullable|string|min:1|max:255',
+            'locales.*.url_key' => ['nullable', 'string', 'max:255', 'regex:/^[a-z0-9]+(?:-[a-z0-9]+)*$/'],
+            'locales.*.short_description' => 'nullable|string',
+            'locales.*.description' => 'nullable|string',
+            'locales.*.meta_title' => 'nullable|string|max:255',
+            'locales.*.meta_description' => 'nullable|string',
+            'locales.*.meta_keywords' => 'nullable|string|max:255',
+            'image_urls' => 'nullable|array|max:'.self::MAX_IMAGES,
+            'image_urls.*' => ['string', 'url', 'regex:/^https?:\/\//i'],
+        ];
+    }
+
+    /**
+     * Failure result entry for one product of a bulk import.
+     */
+    protected function bulkFailure(?string $sku, string $message, array $errors = []): array
+    {
+        $payload = ['error' => $message];
+
+        if (! empty($errors)) {
+            $payload['errors'] = $errors;
+        }
+
+        return [
+            'sku' => $sku,
+            'created' => false,
+            'payload' => $payload,
+        ];
+    }
+
+    /**
+     * The url_key stored for the default locale (for the response
+     * URL). It was generated by the service when not provided, so
+     * read it back from the database.
+     */
+    protected function defaultUrlKey(Product $product, array $locales, array $writtenLocales): ?string
+    {
+        $defaultLocale = $this->defaultLocaleCode();
+
+        if (! empty($locales[$defaultLocale]['url_key'])) {
+            return $locales[$defaultLocale]['url_key'];
+        }
+
+        if (! in_array('url_key', $writtenLocales[$defaultLocale] ?? [], true)) {
+            return null;
+        }
+
+        return DB::table('product_attribute_values as pav')
+            ->join('attributes', 'attributes.id', '=', 'pav.attribute_id')
+            ->where('pav.product_id', $product->id)
+            ->where('pav.locale', $defaultLocale)
+            ->where('attributes.code', 'url_key')
+            ->value('pav.text_value');
     }
 
     /**

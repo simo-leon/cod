@@ -1,0 +1,203 @@
+{
+ "products": [
+  {
+   "sku": "doshift-64716",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sérum Visage à la Papaye – Hydratation & Éclat",
+     "description": "Sublimez votre peau avec ce sérum concentré enrichi en extrait de papaye, conçu pour hydrater intensément, lisser l’apparence des rides et raviver l’éclat naturel du teint. Sa texture légère pénètre rapidement et laisse la peau douce, fraîche et revitalisée.\n\nIdéal pour les peaux matures ou fatiguées, il aide à améliorer visiblement la souplesse et l’uniformité du teint tout en apportant un effet lumineux au quotidien.\n\nCaractéristique\nDétail\n\nType\nSérum visage\n\nActif principal\nExtrait de papaye\n\nBénéfices\nHydratant, lissant, illuminateur\n\nAction\nAide à réduire l’apparence des rides et ridules\n\nTexture\nFluide, pénétration rapide\n\nUtilisation\nApplication quotidienne matin et/ou soir\n\nType de peau\nTous types de peau, peaux matures",
+     "short_description": "Sublimez votre peau avec ce sérum concentré enrichi en extrait de papaye, conçu pour hydrater intensément, lisser l’apparence des rides et raviver l’éclat naturel du teint."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/2-2026-02-21T125510.200.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64801",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    7
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aexit Clé à Douille Hexagonale 8 mm – Manche en T Antidérapant Jaune",
+     "description": "La clé à douille hexagonale Aexit 8 mm avec manche en T en caoutchouc antidérapant est un outil pratique et robuste, idéal pour les travaux de mécanique, bricolage et maintenance. Son design en forme de T permet une meilleure transmission de force et un serrage efficace sans effort excessif. Grâce à sa poignée ergonomique en caoutchouc jaune, elle assure une prise en main confortable et sécurisée, même lors d’une utilisation prolongée.",
+     "short_description": "La clé à douille hexagonale Aexit 8 mm avec manche en T en caoutchouc antidérapant est un outil pratique et robuste, idéal pour les travaux de mécanique, bricolage et maintenance."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/51oHE7ARNGL._AC_SL1100_.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64710",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lotion Corps à la Papaye – Hydratation & Douceur 24H",
+     "description": "Hydratez intensément et adoucissez votre peau avec cette lotion corporelle enrichie en extrait de papaye et vitamines essentielles. Idéale pour les peaux normales à sèches, elle aide à nourrir, lisser et améliorer l’apparence générale de la peau au quotidien.\n\nSa texture légère et non grasse pénètre rapidement, laissant une sensation douce et confortable sans résidu collant. Formulée pour renforcer la barrière d’hydratation, elle contribue à maintenir une peau souple, éclatante et bien protégée.\n\nCaractéristique\nDétail\n\nType\nLotion hydratante pour le corps\n\nIngrédient clé\nExtrait de papaye\n\nEnrichie en\nVitamine E & Vitamine B5\n\nEffet\nHydrate, adoucit, améliore l’éclat\n\nTexture\nLégère, non grasse\n\nAbsorption\nRapide\n\nType de peau\nNormale à sèche\n\nUtilisation\nApplication quotidienne",
+     "short_description": "Hydratez intensément et adoucissez votre peau avec cette lotion corporelle enrichie en extrait de papaye et vitamines essentielles."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/AABDM92690_img1.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64701",
+   "price": 59,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gel Gommage Exfoliant 2 en 1 – Nettoyage & Éclat en 30 Secondes",
+     "description": "Purifiez et ravivez votre peau en un seul geste grâce à ce gel gommage 2 en 1 adapté au visage et au corps. Sa formule exfoliante aide à éliminer les cellules mortes, nettoyer en profondeur et améliorer visiblement la fraîcheur du teint.\n\nEn seulement 30 secondes, la peau paraît plus lisse, plus douce et plus lumineuse. Sa texture légère contribue à hydrater et laisser une sensation propre et confortable après rinçage.\n\nCaractéristique\nDétail\n\nType\nGel gommage exfoliant 2 en 1\n\nAction\nExfolie, nettoie, ravive l’éclat\n\nZone d’application\nVisage et corps\n\nTemps d’action\n30 secondes\n\nEffet\nPeau plus lisse et fraîche\n\nType de peau\nTous types de peau\n\nUtilisation\nAppliquer, masser doucement puis rincer à l’eau tiède",
+     "short_description": "Purifiez et ravivez votre peau en un seul geste grâce à ce gel gommage 2 en 1 adapté au visage et au corps."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T124820.022.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64779",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fer à Souder Électrique 40 W – Outil de Soudure à Chauffe Rapide (842040)",
+     "description": "Le fer à souder électrique 40 W est un outil indispensable pour toute réparation électronique, bricolage ou travaux d’assemblage de circuits. Conçu pour chauffer rapidement et offrir une performance stable, ce fer à souder est idéal pour les travaux de micro-soudure, composants électroniques, cartes de circuits imprimés (PCB), ou projets DIY. Grâce à sa puissance réglable et sa poignée ergonomique, il assure un contrôle précis et un confort d’utilisation même lors de longues sessions de soudage.",
+     "short_description": "Le fer à souder électrique 40 W est un outil indispensable pour toute réparation électronique, bricolage ou travaux d’assemblage de circuits."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/31BCPYTsIcL.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64686",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Set de 3 Trousses Cosmétiques – Élégance & Organisation",
+     "description": "Organisez vos essentiels beauté avec style grâce à ce set de 3 trousses cosmétiques assorties. Idéal pour le maquillage, les accessoires ou les articles de voyage, cet ensemble pratique permet de garder vos produits bien rangés à la maison comme en déplacement.\n\nConçues en matière résistante avec une finition soignée, ces pochettes offrent un équilibre parfait entre fonctionnalité et élégance. Leur format compact et léger facilite le transport dans un sac ou une valise.\n\nCaractéristique\nDétail\n\nType\nSet de trousses cosmétiques\n\nQuantité\n3 pièces\n\nMatière\nNylon durable\n\nCouleur\nRouge\n\nUtilisation\nMaquillage, accessoires, voyage\n\nFermeture\nZip sécurisé\n\nAvantage\nLégères, pratiques et faciles à transporter",
+     "short_description": "Organisez vos essentiels beauté avec style grâce à ce set de 3 trousses cosmétiques assorties."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/AIMEE-KESTENBERG-Women-s-Chelsea-Set-Of-3-Cosmetic-Bag-Red-One-Size_273d2028-a860-46f6-b53c-26b86ede7562.b2cbe7e7f55ac14cad2081e9b9411bf3.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-64681",
+   "price": 89,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Petit Sac Élégant – Compact & Tendance",
+     "description": "Adoptez un style minimaliste et pratique avec ce petit sac élégant, parfait pour vos sorties quotidiennes. Compact mais bien pensé, il permet de transporter facilement l’essentiel : téléphone, portefeuille, clés et petits accessoires.\n\nSon design moderne s’adapte aussi bien à une tenue décontractée qu’à un look plus habillé. Léger et facile à porter, il se glisse aisément dans votre quotidien tout en ajoutant une touche chic à votre style.\n\nCaractéristique\nDétail\n\nType\nPetit sac / Mini sac\n\nStyle\nModerne et minimaliste\n\nCapacité\nTéléphone, portefeuille, clés\n\nUtilisation\nQuotidien, sorties\n\nFermeture\nZip sécurisé\n\nPort\nÀ main ou bandoulière (selon modèle)\n\nAvantage\nLéger, compact et pratique",
+     "short_description": "Adoptez un style minimaliste et pratique avec ce petit sac élégant, parfait pour vos sorties quotidiennes."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/GoodWaysGoodBagmini.webp"
+   ]
+  },
+  {
+   "sku": "doshift-64670",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Crème Brillance à l’Huile de Coco – Contrôle & Nutrition",
+     "description": "Sublimez vos boucles et maîtrisez les frisottis grâce à cette crème brillance enrichie en huile de coco. Elle aide à renforcer les cheveux fragiles, limiter la casse et créer une barrière d’hydratation protectrice autour de la fibre capillaire.\n\nIdéale pour les cheveux très bouclés, crépus ou rêches, sa formule nourrissante apporte douceur, souplesse et éclat sans alourdir. Parfaite pour définir les boucles et maintenir une chevelure disciplinée et brillante.\n\nCaractéristique\nDétail\n\nType\nCrème capillaire brillance\n\nIngrédient clé\nHuile de coco\n\nAction\nAnti-frisottis, renforce et protège\n\nBénéfice\nHydratation et réduction de la casse\n\nType de cheveux\nBouclés, crépus, rêches\n\nTexture\nCrème nourrissante\n\nUtilisation\nApplication sur cheveux humides ou secs",
+     "short_description": "Sublimez vos boucles et maîtrisez les frisottis grâce à cette crème brillance enrichie en huile de coco."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/1-2026-02-21T122044.547.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64665",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gel Sourcils Waterproof – Définition & Tenue Longue Durée",
+     "description": "Sculptez et structurez vos sourcils avec précision grâce à ce gel sourcils hautement pigmenté. Sa formule permet de remplir, définir et fixer les sourcils pour un rendu naturellement plus dense et harmonieux.\n\nRésistant à l’eau et à l’humidité, il assure une tenue longue durée sans bavure. Sa texture liquide légère s’applique facilement et sèche rapidement sans effet cartonné, pour un regard parfaitement maîtrisé toute la journée.\n\nCaractéristique\nDétail\n\nType\nGel sourcils liquide\n\nEffet\nRemplit, sculpte et fixe\n\nPigmentation\nIntense et uniforme\n\nFormule\nWaterproof\n\nTenue\nLongue durée\n\nTexture\nLégère, séchage rapide\n\nApplication\nBrosse intégrée + pinceau précision",
+     "short_description": "Sculptez et structurez vos sourcils avec précision grâce à ce gel sourcils hautement pigmenté. Sa formule permet de remplir, définir et fixer les sourcils pour un rendu naturellement plus dense et harmonieux."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/61oxziwLSkL._SL1500_.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-64660",
+   "price": 59,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    11
+   ],
+   "locales": {
+    "fr": {
+     "name": "Rouge à Lèvres Double Embout 2-en-1 – Couleur & Soin",
+     "description": "Sublimez vos lèvres avec ce rouge à lèvres innovant combinant couleur intense et soin hydratant. D’un côté, une formule liquide longue tenue waterproof offrant une pigmentation riche et uniforme. De l’autre, une huile à lèvres nourrissante qui apporte brillance et confort tout au long de la journée.\n\nSa texture légère assure une application facile sans effet collant, pour des lèvres éclatantes, lisses et parfaitement hydratées.\n\nCaractéristique\nDétail\n\nType\nRouge à lèvres double embout\n\nFonction 1\nCouleur liquide longue tenue\n\nFonction 2\nHuile à lèvres nourrissante\n\nEffet\nPigmentation intense & brillance\n\nFormule\nWaterproof\n\nTexture\nLégère, non collante\n\nUtilisation\nApplication quotidienne ou occasions spéciales",
+     "short_description": "Sublimez vos lèvres avec ce rouge à lèvres innovant combinant couleur intense et soin hydratant. D’un côté, une formule liquide longue tenue waterproof offrant une pigmentation riche et uniforme."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2026/02/41-JSO7gO6L._SL1000_.jpg"
+   ]
+  }
+ ]
+}

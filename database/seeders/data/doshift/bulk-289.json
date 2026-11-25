@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "doshift-44236",
+   "price": 139,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sac Bandoulière Antivol Élégant et Pratique",
+     "description": "Transportez vos essentiels avec sécurité et style grâce à ce sac bandoulière moderne au design ergonomique. Léger et confortable, il est idéal pour les déplacements quotidiens, les voyages, le travail ou les sorties urbaines. Son format compact permet de garder téléphone, portefeuille, clés et accessoires toujours à portée de main.\n\nCaractéristique\nDétail\n\nType\nSac bandoulière poitrine\n\nStyle\nModerne & minimaliste\n\nUtilisation\nQuotidien, voyage, travail\n\nCompartiments\nMultiples poches zippées\n\nConfort\nSangle ajustable\n\nSécurité\nDesign antivol discret\n\nMatière\nTissu résistant\n\nCouleur\nBleu foncé\n\nFermeture\nZip sécurisé\n\nRéférence Doshift\nAA6BB099",
+     "short_description": "Transportez vos essentiels avec sécurité et style grâce à ce sac bandoulière moderne au design ergonomique."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Nouveau-projet-2026-05-16T165211.397.png"
+   ]
+  },
+  {
+   "sku": "doshift-42583",
+   "price": 479,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    5
+   ],
+   "locales": {
+    "fr": {
+     "name": "Oraimo FreePods 4 Écouteurs Sans Fil avec Appels Ultra-Clairs",
+     "description": "Son Immersif & Appels Cristallins avec Technologie Haybass™\n\n4 Mics ENC • 35h Autonomie • Mode Gaming\n\n🔥 78% du stock déjà vendu !\n\n✨\n\n⭐\n\n💫\n\n✨\n\n🎧\n\nVotre Expérience Audio Pro\n\nLes Oraimo FreePods 4 redéfinissent l’écoute sans fil !\n\nAppels clairs, basses puissantes et confort absolu, prêts pour votre quotidien.\n\n🎵\n\nSon HD\n\nBasses renforcées Haybass™\n\n📞\n\nAppels Clairs\n\n4 microphones + réduction bruit\n\n🔋\n\nAutonomie XL\n\nJusqu’à 35h au total\n\n🌟\n\nPourquoi Ils Adorent\n\n✓\n\n4 Microphones ENC\n\nPro\n\nAppels nets même en environnement bruyant\n\n✓\n\nHaybass™ + Oraimo Sound\n\nAudio immersif et basses profondes\n\n✓\n\nMode Gaming Latence Zéro\n\nPopulaire\n\nSynchro parfaite vidéo & jeux\n\n✓\n\nBluetooth 5.x Stable\n\nConnexion rapide et sans coupure\n\n✓\n\nRecharge USB-C Rapide\n\nModerne\n\nBoîtier rond premium, prise universelle\n\n⭐⭐⭐⭐⭐\n\n4.8/5\n\nNote Clients\n\n0\n\nClients Satisfaits\n\n🚚\n\nLivraison\n\n24-48h\n\n📋\n\nCaractéristiques\n\n📶\n\nBluetooth 5.x\n\n🔌\n\nRecharge USB-C\n\n🔋\n\n35h Autonomie\n\n🎙️\n\nENC 4 Mics\n\n🎯\n\nUsages Recommandés\n\n▼\nMusique\n\nAppels Pro\n\nGaming\n\nVidéos\n\nSport\n\n🔧\n\nSpécifications Techniques\n\n▼\nModèle: Oraimo FreePods 4 – OEB E105D\n\nAudio: Haybass™ + Oraimo Sound (Son HD)\n\nAppels: 4 microphones ENC (réduction bruit)\n\nAutonomie: 6-8h (écouteurs) / 30-35h (avec boîtier)\n\nConnexion: Bluetooth 5.x (Android, iOS, PC)\n\nMode: Gaming (faible latence) + Tactile\n\nDesign: Léger, ergonomique, boîtier rond premium\n\nRecharge: Port USB-C universel\n\nRéférence: AA29BB599\n\n📦\n\nDans la Boîte\n\n▼\n\n✓ 1x Paire Oraimo FreePods 4\n\n✓ 1x Boîtier de charge USB-C\n\n✓ 1x Câble de recharge USB-C\n\n✓ 3x Embouts silicone (S/M/L)\n\n✓ Notice d’utilisation FR/AR\n\n🚚\n\nPaiement à la livraison\n\n↩️\n\nRetour 15j Gratuit\n\n📞\n\nSupport WhatsApp\n\n⭐\n\nGarantie Satisfait\n\n/* 🎨 VARIABLES & RESET – LIGHT MODE ONLY */\n\n*, *::before, *::after { box-sizing: border-box; }\n\n.dt-product-vivant {\n\n –dt-hero-bg: linear-gradient(135deg, #0094B0 0%, #005f73 100%);\n\n –dt-primary: #e63946;\n\n –dt-primary-light: #ff4d5a;\n\n –dt-secondary: #1d3557;\n\n –dt-accent: #ffd700;\n\n –dt-accent-light: #ffed4a;\n\n –dt-success: #00d9a5;\n\n –dt-light: #f8f9fa;\n\n –dt-dark: #1a1a2e;\n\n –dt-gray: #6c757d;\n\n –dt-radius: 14px;\n\n –dt-shadow: 0 10px 30px rgba(0,0,0,0.12);\n\n font-family: -apple-system, BlinkMacSystemFont, ‘Segoe UI’, Roboto, Helvetica, Arial, sans-serif;\n\n color: var(–dt-dark);\n\n line-height: 1.6;\n\n max-width: 100%;\n\n margin: 0;\n\n padding: 0;\n\n overflow-x: hidden;\n\n background: #ffffff;\n\n}\n\n/* 🔥 HERO BANNER */\n\n.dt-hero-banner {\n\n background: var(–dt-hero-bg);\n\n color: white;\n\n padding: 24px 16px;\n\n border-radius: 0;\n\n margin: 0 0 8px 0;\n\n position: relative;\n\n overflow: hidden;\n\n box-shadow: var(–dt-shadow);\n\n animation: dt-slideUp 0.6s ease-out;\n\n}\n\n@keyframes dt-slideUp {\n\n from { opacity: 0; transform: translateY(30px); }\n\n to { opacity: 1; transform: translateY(0); }\n\n}\n\n.dt-floating-badge {\n\n position: absolute;\n\n background: var(–dt-accent);\n\n color: var(–dt-dark);\n\n padding: 5px 12px;\n\n border-radius: 20px;\n\n font-weight: 800;\n\n font-size: 0.8rem;\n\n box-shadow: 0 4px 15px rgba(0,0,0,0.2);\n\n z-index: 2;\n\n top: 12px;\n\n left: 50%;\n\n transform: translateX(-50%);\n\n animation: dt-float 3s ease-in-out infinite;\n\n}\n\n@keyframes dt-float {\n\n 0%, 100% { transform: translate(-50%, 0); }\n\n 50% { transform: translate(-50%, -6px); }\n\n}\n\n.dt-banner-title {\n\n font-size: 1.3rem;\n\n font-weight: 800;\n\n margin: 0 0 6px 0;\n\n line-height: 1.3;\n\n color: #ffffff;\n\n}\n\n.dt-highlight {\n\n background: var(–dt-accent);\n\n color: var(–dt-dark);\n\n padding: 2px 6px;\n\n border-radius: 5px;\n\n display: inline-block;\n\n}\n\n.dt-banner-subtitle {\n\n font-size: 0.9rem;\n\n opacity: 0.95;\n\n margin: 0 0 12px 0;\n\n}\n\n.dt-progress-bar {\n\n height: 6px;\n\n background: rgba(255,255,255,0.3);\n\n border-radius: 10px;\n\n overflow: hidden;\n\n margin: 10px 0;\n\n}\n\n.dt-progress-fill {\n\n height: 100%;\n\n background: var(–dt-accent);\n\n border-radius: 10px;\n\n animation: dt-fillBar 1.5s ease-out;\n\n box-shadow: 0 0 10px rgba(255,215,0,0.5);\n\n}\n\n@keyframes dt-fillBar {\n\n from { width: 0; }\n\n to { width: 78%; }\n\n}\n\n.dt-progress-text {\n\n font-size: 0.8rem;\n\n margin: 0;\n\n font-weight: 600;\n\n}\n\n.dt-sparkles {\n\n position: absolute;\n\n width: 100%;\n\n height: 100%;\n\n top: 0;\n\n left: 0;\n\n pointer-events: none;\n\n}\n\n.dt-sparkle {\n\n position: absolute;\n\n font-size: 1.1rem;\n\n animation: dt-sparkle 2s infinite;\n\n animation-delay: calc(var(–i) * 0.3s);\n\n}\n\n.dt-sparkle:nth-child(1) { top: 18%; left: 8%; }\n\n.dt-sparkle:nth-child(2) { top: 62%; left: 4%; }\n\n.dt-sparkle:nth-child(3) { top: 28%; right: 8%; }\n\n.dt-sparkle:nth-child(4) { top: 72%; right: 12%; }\n\n@keyframes dt-sparkle {\n\n 0%, 100% { opacity: 0; transform: scale(0) rotate(0deg); }\n\n 50% { opacity: 1; transform: scale(1) rotate(180deg); }\n\n}\n\n/* 📱 SECTIONS */\n\n.dt-section {\n\n padding: 20px 16px;\n\n margin: 0;\n\n animation: dt-fadeIn 0.6s ease-out;\n\n}\n\n@keyframes dt-fadeIn {\n\n from { opacity: 0; }\n\n to { opacity: 1; }\n\n}\n\n.dt-section-header {\n\n display: flex;\n\n align-items: center;\n\n gap: 8px;\n\n margin-bottom: 12px;\n\n}\n\n.dt-emoji-bounce {\n\n font-size: 1.6rem;\n\n animation: dt-bounce 2s infinite;\n\n}\n\n@keyframes dt-bounce {\n\n 0%, 100% { transform: translateY(0); }\n\n 50% { transform: translateY(-5px); }\n\n}\n\n.dt-section-title {\n\n font-size: 1.2rem;\n\n color: var(–dt-secondary);\n\n margin: 0;\n\n font-weight: 700;\n\n}\n\n.dt-desc-text {\n\n font-size: 0.95rem;\n\n color: #444;\n\n margin-bottom: 16px;\n\n line-height: 1.6;\n\n}\n\n.dt-text-gradient {\n\n background: var(–dt-gradient-1);\n\n -webkit-background-clip: text;\n\n -webkit-text-fill-color: transparent;\n\n background-clip: text;\n\n}\n\n.dt-reveal-text mark {\n\n background: var(–dt-accent-light);\n\n padding: 2px 5px;\n\n border-radius: 4px;\n\n color: var(–dt-dark);\n\n}\n\n/* 💳 CARTES BÉNÉFICES */\n\n.dt-benefits-cards {\n\n display: grid;\n\n grid-template-columns: 1fr;\n\n gap: 10px;\n\n}\n\n.dt-benefit-card {\n\n background: white;\n\n padding: 14px;\n\n border-radius: 10px;\n\n text-align: center;\n\n box-shadow: 0 3px 12px rgba(0,0,0,0.08);\n\n position: relative;\n\n overflow: hidden;\n\n animation: dt-cardSlide 0.6s ease-out backwards;\n\n animation-delay: calc(var(–delay) * 0.1s);\n\n border: 2px solid transparent;\n\n transition: all 0.3s ease;\n\n}\n\n@keyframes dt-cardSlide {\n\n from { opacity: 0; transform: translateX(-20px); }\n\n to { opacity: 1; transform: translateX(0); }\n\n}\n\n.dt-benefit-card:active {\n\n transform: scale(0.98);\n\n border-color: var(–dt-primary);\n\n}\n\n.dt-card-icon {\n\n font-size: 2.2rem;\n\n margin-bottom: 6px;\n\n}\n\n.dt-icon-bounce {\n\n display: inline-block;\n\n animation: dt-iconBounce 2s infinite;\n\n}\n\n@keyframes dt-iconBounce {\n\n 0%, 100% { transform: scale(1); }\n\n 50% { transform: scale(1.1); }\n\n}\n\n.dt-benefit-card h4 {\n\n margin: 0 0 2px 0;\n\n color: var(–dt-secondary);\n\n font-size: 1rem;\n\n}\n\n.dt-benefit-card p {\n\n margin: 0;\n\n font-size: 0.85rem;\n\n color: var(–dt-gray);\n\n}\n\n.dt-card-glow {\n\n position: absolute;\n\n top: -50%;\n\n left: -50%;\n\n width: 200%;\n\n height: 200%;\n\n background: radial-gradient(circle, rgba(230,57,70,0.1) 0%, transparent 70%);\n\n opacity: 0;\n\n transition: opacity 0.3s;\n\n}\n\n.dt-benefit-card:active .dt-card-glow { opacity: 1; }\n\n/* ✅ FEATURES INTERACTIVES */\n\n.dt-section-features {\n\n background: var(–dt-light);\n\n border-radius: 0;\n\n margin: 0;\n\n padding: 20px 16px;\n\n}\n\n.dt-features-interactive {\n\n display: flex;\n\n flex-direction: column;\n\n gap: 8px;\n\n}\n\n.dt-feature-item {\n\n background: white;\n\n padding: 12px;\n\n border-radius: 10px;\n\n display: flex;\n\n flex-direction: column;\n\n gap: 4px;\n\n box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n\n transition: all 0.3s ease;\n\n cursor: pointer;\n\n}\n\n.dt-tap-effect:active {\n\n transform: scale(0.98);\n\n box-shadow: 0 4px 12px rgba(0,0,0,0.1);\n\n}\n\n.dt-feature-check {\n\n color: var(–dt-success);\n\n font-weight: bold;\n\n font-size: 1.2rem;\n\n}\n\n.dt-feature-content {\n\n display: flex;\n\n align-items: center;\n\n gap: 6px;\n\n}\n\n.dt-feature-content strong {\n\n color: var(–dt-secondary);\n\n font-size: 0.9rem;\n\n}\n\n.dt-feature-tag {\n\n background: var(–dt-primary);\n\n color: white;\n\n padding: 2px 6px;\n\n border-radius: 8px;\n\n font-size: 0.65rem;\n\n font-weight: 700;\n\n}\n\n.dt-feature-tag.hot { background: var(–dt-gradient-1); }\n\n.dt-feature-tag.gift { background: var(–dt-success); }\n\n.dt-feature-item p {\n\n margin: 0;\n\n font-size: 0.8rem;\n\n color: var(–dt-gray);\n\n padding-left: 20px;\n\n}\n\n/* 📊 PREUVE SOCIALE */\n\n.dt-social-proof-vivant {\n\n display: grid;\n\n grid-template-columns: 1fr;\n\n gap: 8px;\n\n padding: 16px;\n\n margin: 0;\n\n}\n\n.dt-proof-card {\n\n background: white;\n\n padding: 12px;\n\n border-radius: 10px;\n\n text-align: center;\n\n box-shadow: var(–dt-shadow);\n\n animation: dt-scaleIn 0.5s ease-out backwards;\n\n}\n\n.dt-proof-card-1 { animation-delay: 0.1s; border-top: 3px solid var(–dt-accent); }\n\n.dt-proof-card-2 { animation-delay: 0.2s; border-top: 3px solid var(–dt-primary); }\n\n.dt-proof-card-3 { animation-delay: 0.3s; border-top: 3px solid var(–dt-success); }\n\n@keyframes dt-scaleIn {\n\n from { opacity: 0; transform: scale(0.8); }\n\n to { opacity: 1; transform: scale(1); }\n\n}\n\n.dt-proof-rating { font-size: 1.1rem; margin-bottom: 2px; }\n\n.dt-proof-score { font-size: 1.6rem; font-weight: 800; color: var(–dt-primary); line-height: 1; }\n\n.dt-proof-number { font-size: 1.8rem; font-weight: 800; background: var(–dt-gradient-1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }\n\n.dt-proof-label { font-size: 0.8rem; color: var(–dt-gray); margin-top: 3px; }\n\n.dt-proof-icon { font-size: 2.2rem; margin-bottom: 2px; }\n\n.dt-proof-text { font-size: 0.85rem; color: var(–dt-dark); }\n\n.dt-proof-text strong { color: var(–dt-primary); font-size: 1rem; }\n\n/* ⚙️ SPECS */\n\n.dt-section-specs {\n\n background: white;\n\n margin: 0;\n\n border-radius: 0;\n\n padding: 20px 16px;\n\n}\n\n.dt-specs-swipe {\n\n display: flex;\n\n gap: 8px;\n\n overflow-x: auto;\n\n padding: 8px 0;\n\n margin-bottom: 10px;\n\n scrollbar-width: none;\n\n -ms-overflow-style: none;\n\n}\n\n.dt-specs-swipe::-webkit-scrollbar { display: none; }\n\n.dt-spec-chip {\n\n flex-shrink: 0;\n\n background: var(–dt-light);\n\n padding: 8px 14px;\n\n border-radius: 18px;\n\n display: flex;\n\n align-items: center;\n\n gap: 5px;\n\n font-size: 0.85rem;\n\n font-weight: 600;\n\n color: var(–dt-secondary);\n\n border: 2px solid transparent;\n\n transition: all 0.3s ease;\n\n}\n\n.dt-spec-chip:active {\n\n border-color: var(–dt-primary);\n\n transform: scale(0.95);\n\n}\n\n.dt-spec-chip-icon { font-size: 1.1rem; }\n\n/* Accordion */\n\n.dt-specs-accordion { display: flex; flex-direction: column; gap: 6px; }\n\n.dt-accordion-item { background: var(–dt-light); border-radius: 8px; overflow: hidden; }\n\n.dt-accordion-summary {\n\n padding: 10px 12px;\n\n display: flex;\n\n align-items: center;\n\n gap: 8px;\n\n cursor: pointer;\n\n list-style: none;\n\n font-weight: 600;\n\n color: var(–dt-secondary);\n\n transition: background 0.3s;\n\n}\n\n.dt-accordion-summary:active { background: rgba(230,57,70,0.1); }\n\n.dt-accordion-summary::-webkit-details-marker { display: none; }\n\n.dt-accordion-icon { font-size: 1.2rem; }\n\n.dt-accordion-arrow { margin-left: auto; transition: transform 0.3s; }\n\n.dt-accordion-item[open] .dt-accordion-arrow { transform: rotate(180deg); }\n\n.dt-accordion-content { padding: 0 12px 12px 38px; animation: dt-slideDown 0.3s ease-out; }\n\n@keyframes dt-slideDown {\n\n from { opacity: 0; transform: translateY(-10px); }\n\n to { opacity: 1; transform: translateY(0); }\n\n}\n\n.dt-accordion-list { margin: 0; padding: 0; list-style: none; }\n\n.dt-accordion-list li { padding: 5px 0; color: var(–dt-gray); font-size: 0.85rem; }\n\n.dt-zones-grid { display: flex; flex-wrap: wrap; gap: 6px; }\n\n.dt-zone-tag { background: white; padding: 5px 10px; border-radius: 12px; font-size: 0.8rem; font-weight: 600; color: var(–dt-secondary); box-shadow: 0 2px 5px rgba(0,0,0,0.05); }\n\n/* 🎁 TRUST BADGES */\n\n.dt-trust-vivant {\n\n display: grid;\n\n grid-template-columns: repeat(2, 1fr);\n\n gap: 8px;\n\n padding: 16px 16px 24px 16px;\n\n margin: 0;\n\n}\n\n.dt-trust-item {\n\n background: white;\n\n padding: 10px;\n\n border-radius: 10px;\n\n text-align: center;\n\n display: flex;\n\n flex-direction: column;\n\n align-items: center;\n\n gap: 4px;\n\n box-shadow: 0 2px 8px rgba(0,0,0,0.06);\n\n animation: dt-trustPulse 2s infinite backwards;\n\n animation-delay: calc(var(–delay, 0) * 0.2s);\n\n}\n\n@keyframes dt-trustPulse {\n\n 0%, 100% { box-shadow: 0 2px 8px rgba(0,0,0,0.06); }\n\n 50% { box-shadow: 0 4px 15px rgba(230,57,70,0.2); }\n\n}\n\n.dt-trust-icon { font-size: 1.6rem; }\n\n.dt-trust-item span:last-child { font-size: 0.75rem; font-weight: 600; color: var(–dt-secondary); }\n\n/* 📱 TABLET & DESKTOP (Restitution d’un cadre centré) */\n\n@media (min-width: 640px) {\n\n .dt-benefits-cards { grid-template-columns: repeat(3, 1fr); }\n\n .dt-social-proof-vivant { grid-template-columns: repeat(3, 1fr); }\n\n .dt-trust-vivant { grid-template-columns: repeat(4, 1fr); }\n\n .dt-banner-title { font-size: 1.5rem; }\n\n}\n\n@media (min-width: 768px) {\n\n .dt-product-vivant { max-width: 100%; margin: 0; padding: 0; }\n\n .dt-hero-banner {\n\n max-width: 760px;\n\n margin: 16px auto 0 auto;\n\n padding: 28px 24px;\n\n border-radius: var(–dt-radius);\n\n }\n\n .dt-section {\n\n max-width: 760px;\n\n margin: 0 auto;\n\n padding: 24px 20px;\n\n }\n\n .dt-section-features, .dt-section-specs {\n\n max-width: 760px;\n\n margin: 16px auto;\n\n border-radius: var(–dt-radius);\n\n padding: 24px 20px;\n\n }\n\n .dt-social-proof-vivant, .dt-trust-vivant {\n\n max-width: 760px;\n\n margin: 0 auto;\n\n padding: 20px;\n\n }\n\n .dt-banner-title { font-size: 1.8rem; }\n\n}\n\n/* 🎨 ACCESSIBILITÉ */\n\n@media (prefers-reduced-motion: reduce) {\n\n * {\n\n animation-duration: 0.01ms !important;\n\n animation-iteration-count: 1 !important;\n\n transition-duration: 0.01ms !important;\n\n }\n\n}",
+     "short_description": "Son Immersif & Appels Cristallins avec Technologie Haybass™"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/MkRjsQZEcu7zC2Zs7OnLSJNeSCJXbNpzRvQF8dLS.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-44146",
+   "price": 132,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit tournevis multifonctions 115 en 1 pour réparations de téléphones",
+     "description": "Le kit comprend un assortiment de tournevis de précision, de leviers en plastique, de pinces et d’autres outils.\n\nIl est compatible avec une large gamme de marques et de modèles de smartphones.\n\nLes outils sont fabriqués en acier au chrome vanadium.\n\nLes outils sont ergonomiques et faciles à manipuler.\n\nLe kit peut également être utilisé pour réparer les tablettes, les ordinateurs portables et d’autres gadgets électroniques.\n\nLe kit est livré dans un étui de transport compact et organisé.\n\nLe kit contient un jeu d’embouts de tournevis magnétiques en acier au chrome-vanadium de couleur noire.",
+     "short_description": "Le kit comprend un assortiment de tournevis de précision, de leviers en plastique, de pinces et d’autres outils."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354621-48_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44132",
+   "price": 79,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Télécommande de rechange compatible pour téléviseurs LCD, LED, HDTV et Smart TV.",
+     "description": "Cette télécommande universelle est conçue pour remplacer efficacement les télécommandes perdues ou endommagées de téléviseurs LCD, LED, HDTV et Smart TV. Facile à utiliser et sans configuration compliquée, elle offre une compatibilité étendue avec de nombreux modèles de téléviseurs, assurant un contrôle pratique et rapide de vos appareils.\n\nCaractéristiques :\n\nCompatible avec la majorité des téléviseurs LCD, LED, HDTV et Smart TV\n\nFonctionnement simple sans besoin de programmation\n\nDesign ergonomique pour une prise en main confortable\n\nPortée de signal stable et efficace\n\nFabriquée en matériaux durables pour une longue durée d’utilisation",
+     "short_description": "Cette télécommande universelle est conçue pour remplacer efficacement les télécommandes perdues ou endommagées de téléviseurs LCD, LED, HDTV et Smart TV."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354600-45_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44121",
+   "price": 76,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tapis antidérapant pour une chambre, de forme ovale, avec de belles couleurs(Couleur selon disponibilité)",
+     "description": "Tapis de bain\n\nTaille : 40x60cm\n\nDisponible en plusieurs couleurs\n\nConvient à tous les styles de décoration\n\nAntidérapant\n\nPeut être utilisé dans la salle de bain, les toilettes, la douche, le sol, la cuisine\n\nLes animaux domestiques l’apprécieront peut-être.",
+     "short_description": "Tapis de bain"
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764354579-42_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-44009",
+   "price": 69,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gants de Protection Haute Performance – Confort, Précision & Sécurité Maximale",
+     "description": "Les gants de protection haute performance sont conçus pour offrir une sécurité optimale sans compromis sur le confort. Que vous soyez professionnel du bâtiment, mécanicien, bricoleur ou jardinier, ils deviennent rapidement une véritable seconde peau. Leur revêtement adhérent innovant garantit une excellente prise en main, tandis que leur conception ergonomique et respirante permet de travailler longtemps sans fatigue. Idéals pour les tâches exigeantes comme pour les travaux de précision, ces gants assurent protection, contrôle et confort au quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nGants de protection de travail\n\nAdhérence\nRevêtement antidérapant paume & doigts\n\nDextérité\nHaute précision pour manipulations fines\n\nProtection\nAnti-abrasion, anti-éraflures, coupures légères\n\nConfort\nPoignets élastiques en maille\n\nRespirabilité\nDos respirant anti-transpiration\n\nDesign\nErgonomique, forme pré-courbée\n\nUtilisation\nBâtiment, mécanique, jardinage, bricolage\n\nDurabilité\nRésistance à l’usure quotidienne\n\nAvantage principal\nSécurité + confort + précision\n\nRéférence-doshift\nAA12BB99",
+     "short_description": "Les gants de protection haute performance sont conçus pour offrir une sécurité optimale sans compromis sur le confort."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/33d6c2fd-08b2-4662-9db1-c20f89c96d5a.jpeg"
+   ]
+  },
+  {
+   "sku": "doshift-43938",
+   "price": 199,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3,
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Balance Intelligente Connectée en Marbre – Pèse-Personne Digital Bluetooth avec IMC",
+     "description": "Cette balance intelligente en marbre allie design élégant et technologie avancée pour un suivi précis de votre bien-être. Elle permet de mesurer le poids et l’IMC via une application mobile, avec synchronisation Bluetooth. Son verre trempé ultra-résistant et son grand écran digital offrent sécurité, précision et style pour un usage quotidien.\n\nCaractéristiques du Produit:\n\nCaractéristique\nDétail\n\nType de produit\nBalance de salle de bain intelligente\n\nDesign\nEffet marbre élégant\n\nMatériau\nVerre trempé ultra-résistant\n\nAffichage\nÉcran digital LED\n\nMesures\nPoids corporel et IMC\n\nConnectivité\nBluetooth\n\nApplication mobile\nOui (suivi des données)\n\nProfils utilisateurs\nMulti-utilisateurs\n\nUtilisation\nSuivi du bien-être et de la santé\n\nPrécision\nHaute précision de mesure\n\nUsage\nDomestique\n\nRéférence-doshift\nAA11BB099",
+     "short_description": "Cette balance intelligente en marbre allie design élégant et technologie avancée pour un suivi précis de votre bien-être."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/Gemini_Generated_Image_wajdaowajdaowajd-1.png"
+   ]
+  },
+  {
+   "sku": "doshift-42577",
+   "price": 259,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    4
+   ],
+   "locales": {
+    "fr": {
+     "name": "Micro cravate type c enregistrement audio vidéo",
+     "description": "Le microphone à revers Lavalier est doté d’un connecteur de type C pour les appareils de type C tels que Samsung, Huawei, Xiaomi, LG, Oppo, Vivo, Google Pixel, etc.\n\nIl est compatible avec tous les types de périphériques à connecteur de type C comme les ordinateurs portables, les Mac, les ordinateurs portables, les smartphones et autres appareils prenant en charge USB Type-C.\n\nLe microphone possède une prise de type C de meilleure qualité avec un câble anti-interférence de haute qualité.\n\nIl est parfait pour les interviews, la parole, l’animateur et la diffusion, le podcast, le chat en ligne comme Facebook, Youtube, les jeux, le Vlog, la diffusion en direct, l’enregistrement audio et vidéo, la vidéoconférence, Face time, Skype, la vidéo de mariage même dans un environnement bruyant.\n\nLe microphone a les caractéristiques suivantes:\n\n– Transducteur: condensateur électret\n\n– Diagramme polaire: omnidirectionnel\n\n– Gamme de fréquences: 20Hz-16KHz\n\n– Signal / bruit: moins de 58 dB\n\n– Sensibilité: -34 +/- 2dB\n\n– Connecteur: Type-C\n\n– Longueur du câble: 1,5 m (59 « )\n\n– Poids: 25g\n\n– Modèle: microphones, microphone, microphone bm 800, microphone karaoké, support de microphone, microphone pc, microphone boya, microphone cravate, microphone gamer, Free faire, Gamer\n\n– Poids (kg): 0.3",
+     "short_description": "Le microphone à revers Lavalier est doté d’un connecteur de type C pour les appareils de type C tels que Samsung, Huawei, Xiaomi, LG, Oppo, Vivo, Google Pixel, etc."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764345680-104_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-42563",
+   "price": 189,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    8
+   ],
+   "locales": {
+    "fr": {
+     "name": "Tabouret pliable portable idéal pour camping, plage et activités extérieures.",
+     "description": "Ce tabouret pliable portable est un compagnon idéal pour toutes vos aventures en plein air. Léger, compact et facile à transporter, il convient parfaitement au camping, à la randonnée, à la pêche, aux pique-niques ou à la plage. Son design robuste assure stabilité et confort à tout moment.\n\nCaractéristiques :\n\nStructure pliante pour un rangement facile.\n\nLéger et facile à transporter.\n\nMatériaux résistants adaptés à l’extérieur.\n\nDesign compact, peu encombrant.\n\nConvient à de multiples activités : camping, plage, pêche…",
+     "short_description": "Ce tabouret pliable portable est un compagnon idéal pour toutes vos aventures en plein air."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764345654-101_1.jpg"
+   ]
+  },
+  {
+   "sku": "doshift-42559",
+   "price": 59,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    3
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support à savon avec système d’écoulement automatique (Couleur selon disponibilité)",
+     "description": "Porte-savon pratique avec système d’écoulement automatique, conçu pour garder le savon sec, propre et durable. Idéal pour la salle de bain ou la cuisine.\n\nCaractéristiques :\n\nConception inclinée pour un drainage rapide\n\nEmpêche l’accumulation d’eau sous le savon\n\nFabriqué en matériau durable et antidérapant\n\nFacile à nettoyer et à installer\n\nConvient pour tous types de savon",
+     "short_description": "Porte-savon pratique avec système d’écoulement automatique, conçu pour garder le savon sec, propre et durable. Idéal pour la salle de bain ou la cuisine."
+    }
+   },
+   "image_urls": [
+    "https://doshift.ma/wp-content/uploads/2025/11/1764345645-100_1.jpg"
+   ]
+  }
+ ]
+}
