@@ -382,7 +382,10 @@
                                     .then(response => {
                                         const paymentMethods = response.data?.payment_methods || response.data;
                                         const list = Array.isArray(paymentMethods) ? paymentMethods : (paymentMethods?.payment_methods || []);
-                                        const defaultPaymentMethod = list[0];
+
+                                        // Jemla : le paiement à la livraison est le mode par défaut
+                                        // du magasin — ne pas prendre le 1er de la liste (Stripe).
+                                        const defaultPaymentMethod = list.find((method) => method.method === 'cashondelivery') || list[0];
 
                                         if (defaultPaymentMethod) {
                                             this.selectedPaymentMethod = defaultPaymentMethod.method;
