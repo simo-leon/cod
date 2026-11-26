@@ -59,7 +59,12 @@ class ThemeController extends Controller
             'type' => 'required|in:product_carousel,product_grid,category_carousel,static_content,image_carousel,footer_links,services_content,deals_countdown,notification_bar,best_sellers,shop_by_category,customer_reviews,trust_badges',
             'channel_id' => 'required|in:'.implode(',', (core()->getAllChannels()->pluck('id')->toArray())),
             'theme_code' => 'required',
+            'status' => 'sometimes|boolean',
         ]);
+
+        // A new topic is active by default: the create modal sends
+        // status 1 unless Simo explicitly picks inactive.
+        $validated['status'] = (int) request()->boolean('status', true);
 
         Event::dispatch('theme_customization.create.before');
 
@@ -153,6 +158,13 @@ class ThemeController extends Controller
             'status' => $massUpdateRequest->input('value'),
         ], $selectedThemeIds);
 
+        // The datagrid bulk status change otherwise bypasses the
+        // update event, so the homepage FPC would keep serving the
+        // stale copy until cache:clear.
+        foreach ($selectedThemeIds as $themeId) {
+            Event::dispatch('theme_customization.update.after', $this->themeCustomizationRepository->find($themeId));
+        }
+
         return new JsonResponse([
             'message' => trans('admin::app.settings.themes.update-success'),
         ]);
@@ -163,6 +175,8 @@ class ThemeController extends Controller
         $selectedThemeIds = $massDestroyRequest->input('indices');
 
         foreach ($selectedThemeIds as $themeId) {
+            Event::dispatch('theme_customization.delete.before', $themeId);
+
             $this->themeCustomizationRepository->delete($themeId);
         }
 

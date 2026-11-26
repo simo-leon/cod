@@ -174,6 +174,37 @@
 
                                     <x-admin::form.control-group.error control-name="theme" />
                                 </x-admin::form.control-group>
+
+                                <!-- Status (active by default, so a new topic shows on the homepage without an extra step) -->
+                                <x-admin::form.control-group>
+                                    <x-admin::form.control-group.label class="required">
+                                        @lang('admin::app.settings.themes.edit.status')
+                                    </x-admin::form.control-group.label>
+
+                                    <x-admin::form.control-group.control
+                                        type="select"
+                                        name="status"
+                                        rules="required|in:0,1"
+                                        value="1"
+                                        :label="trans('admin::app.settings.themes.edit.status')"
+                                    >
+                                        <option
+                                            value="1"
+                                            v-pre
+                                        >
+                                            @lang('admin::app.settings.themes.index.datagrid.active')
+                                        </option>
+
+                                        <option
+                                            value="0"
+                                            v-pre
+                                        >
+                                            @lang('admin::app.settings.themes.index.datagrid.inactive')
+                                        </option>
+                                    </x-admin::form.control-group.control>
+
+                                    <x-admin::form.control-group.error control-name="status" />
+                                </x-admin::form.control-group>
                             </x-slot>
 
                              <!-- Modal Footer -->
