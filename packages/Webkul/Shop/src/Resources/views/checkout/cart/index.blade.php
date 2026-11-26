@@ -231,14 +231,6 @@
                                             </span>
 
                                             <span
-                                                v-if="item.low_stock && item.low_stock.show"
-                                                class="w-max rounded px-2 py-0.5 text-[11px] font-bold"
-                                                style="background-color: #FEF3C7; color: #92400E;"
-                                            >
-                                                @{{ "@lang('shop::promotions.low_stock_badge')".replace(':count', item.low_stock.qty) }}
-                                            </span>
-
-                                            <span
                                                 v-if="item.buy2_discount_amount > 0"
                                                 class="w-max rounded bg-green-600 px-2 py-0.5 text-[11px] font-bold text-white"
                                             >

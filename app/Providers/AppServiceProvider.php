@@ -4,6 +4,7 @@ namespace App\Providers;
 
 use App\Cod\Orders\OrderServiceInterface;
 use App\Cod\Souk\SoukServiceInterface;
+use App\Listeners\AdjustStockOnCodConfirmation;
 use App\Listeners\AssignZeroStockToSouk;
 use App\Listeners\ImportOrderToCod;
 use App\Listeners\KrayinCrmListener;
@@ -142,6 +143,20 @@ class AppServiceProvider extends ServiceProvider
         // creates no task at checkout (see handleOrder above).
         Event::listen('eloquent.created: App\Models\CodOrder', [AssignZeroStockToSouk::class, 'handleCodOrderConfirmed']);
         Event::listen('eloquent.updated: App\Models\CodOrder', [AssignZeroStockToSouk::class, 'handleCodOrderConfirmed']);
+
+        // Physical stock follows the COD confirmation, not the
+        // checkout: a COD order that becomes confirmed deducts its
+        // quantities (the stock may go negative — overselling is
+        // allowed), a refused or cancelled one puts them back.
+        // Same created/updated pattern as the souk listener above.
+        Event::listen('eloquent.created: App\Models\CodOrder', [AdjustStockOnCodConfirmation::class, 'handleCodOrder']);
+        Event::listen('eloquent.updated: App\Models\CodOrder', [AdjustStockOnCodConfirmation::class, 'handleCodOrder']);
+
+        // A store order cancelled or returned from the admin puts
+        // the confirmation deduction back too — the COD record may
+        // stay confirmed, so the listener above would never fire.
+        Event::listen('sales.order.update-status.after', [AdjustStockOnCodConfirmation::class, 'handleStoreOrderStatus']);
+        Event::listen('sales.order.cancel.after', [AdjustStockOnCodConfirmation::class, 'handleStoreOrderCancel']);
 
         // Cart promotions (free delivery + tiered free gifts): enforce
         // the rules on every totals collection — drop stale gifts,

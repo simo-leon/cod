@@ -30,14 +30,6 @@
 
             <div class="mt-1.5 flex flex-wrap gap-1.5">
                 <span
-                    v-if="item.low_stock && item.low_stock.show"
-                    class="w-max rounded px-2 py-0.5 text-[11px] font-bold"
-                    style="background-color: #FEF3C7; color: #92400E;"
-                >
-                    @{{ "@lang('shop::promotions.low_stock_badge')".replace(':count', item.low_stock.qty) }}
-                </span>
-
-                <span
                     v-if="item.buy2_discount_amount > 0"
                     class="w-max rounded bg-green-600 px-2 py-0.5 text-[11px] font-bold text-white"
                 >
@@ -61,25 +53,57 @@
 
             {!! view_render_event('bagisto.shop.checkout.onepage.summary.item_name.after') !!}
 
-            <p class="mt-2.5 flex flex-col text-[1.05rem] font-medium text-zinc-900 max-md:mt-1 max-md:text-base max-md:font-normal max-sm:text-sm">
+            <p class="mt-2.5 text-[1.05rem] font-medium text-zinc-900 max-md:mt-1 max-md:text-base max-md:font-normal max-sm:text-sm">
                 <template v-if="displayTax.prices == 'including_tax'">
-                    @lang('shop::app.checkout.onepage.summary.price_and_qty', ['price' => '@{{ item.formatted_price_incl_tax }}', 'qty' => '@{{ item.quantity }}'])
+                    @{{ item.formatted_price_incl_tax }}
                 </template>
 
                 <template v-else-if="displayTax.prices == 'both'">
-                    @lang('shop::app.checkout.onepage.summary.price_and_qty', ['price' => '@{{ item.formatted_price_incl_tax }}', 'qty' => '@{{ item.quantity }}'])
+                    @{{ item.formatted_price_incl_tax }}
 
                     <span class="text-xs font-normal">
                         @lang('shop::app.checkout.onepage.summary.excl-tax')
 
-                        <span class="font-medium">@{{ item.formatted_total }}</span>
+                        <span class="font-medium">@{{ item.formatted_price }}</span>
                     </span>
                 </template>
 
                 <template v-else>
-                    @lang('shop::app.checkout.onepage.summary.price_and_qty', ['price' => '@{{ item.formatted_price }}', 'qty' => '@{{ item.quantity }}'])
+                    @{{ item.formatted_price }}
                 </template>
             </p>
+
+            {{-- Jemla: the quantity can be changed from the summary.
+                Minus stops at 1 (the changer never emits below its
+                minimum) — removing an item is done from the cart
+                page. Gift items cannot change quantity. --}}
+            <div class="mt-2 flex items-center justify-between gap-3">
+                <x-shop::quantity-changer
+                    v-if="item.can_change_qty"
+                    ::key="'summary-qty-' + item.id + '-' + refreshKey"
+                    class="flex max-w-max items-center gap-x-2 rounded-[54px] border border-navyBlue px-2.5 py-1"
+                    name="quantity"
+                    ::value="item?.quantity"
+                    @change="updateItemQuantity(item.id, $event)"
+                />
+
+                <span
+                    v-else
+                    class="text-sm font-medium text-zinc-500"
+                >
+                    × @{{ item.quantity }}
+                </span>
+
+                <p class="text-[1.05rem] font-semibold text-zinc-900 max-md:text-base max-sm:text-sm">
+                    <template v-if="displayTax.prices == 'including_tax' || displayTax.prices == 'both'">
+                        @{{ item.formatted_total_incl_tax }}
+                    </template>
+
+                    <template v-else>
+                        @{{ item.formatted_total }}
+                    </template>
+                </p>
+            </div>
         </div>
     </div>
 </div>

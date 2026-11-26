@@ -103,11 +103,15 @@ class CodOrder extends Model
         'items_count',
         'source',
         'payload',
+        'stock_deducted',
+        'stock_deductions',
     ];
 
     protected $casts = [
         'grand_total' => 'decimal:2',
         'payload' => 'array',
+        'stock_deducted' => 'boolean',
+        'stock_deductions' => 'array',
         'assigned_at' => 'datetime',
         'callback_at' => 'datetime',
         'confirmation_attempts' => 'integer',

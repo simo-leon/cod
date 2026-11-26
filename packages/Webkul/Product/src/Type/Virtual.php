@@ -173,14 +173,15 @@ class Virtual extends AbstractType
 
     /**
      * Have sufficient quantity.
+     *
+     * Jemla sells over stock on purpose (cash on delivery): the
+     * stock is deducted only when the COD order is confirmed
+     * (see App\Cod\Inventory\CodStockService), so the quantity
+     * check must never block the cart or the checkout.
      */
     public function haveSufficientQuantity(int $qty): bool
     {
-        if (! $this->product->manage_stock) {
-            return true;
-        }
-
-        return $qty <= $this->totalQuantity();
+        return true;
     }
 
     /**

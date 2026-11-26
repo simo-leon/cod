@@ -526,29 +526,14 @@
 
                                 @include('shop::products.view.types.booking')
 
-                                <!-- Stock status -->
-                                <div class="mt-4">
-                                    @if ($product->isSaleable(1))
-                                        <span class="inline-block rounded-full bg-green-100 px-3 py-1 text-sm font-medium text-green-800">
-                                            @lang('shop::app.products.view.in-stock')
-                                        </span>
-                                    @else
-                                        <span class="inline-block rounded-full bg-red-100 px-3 py-1 text-sm font-medium text-red-800">
-                                            @lang('shop::app.products.view.out-of-stock')
-                                        </span>
-                                    @endif
-
-                                    {{-- Low-stock badge: shows when the stock is at or under the admin threshold. --}}
-                                    @php
-                                        $lowStock = app(\App\Services\Promotions\PromotionServiceInterface::class)->lowStockForProduct($product);
-                                    @endphp
-
-                                    @if ($lowStock['show'])
-                                        <span class="ml-2 inline-block rounded-full px-3 py-1 text-sm font-medium" style="background-color: #FEF3C7; color: #92400E;">
-                                            @lang('shop::promotions.low_stock_badge', ['count' => $lowStock['qty']])
-                                        </span>
-                                    @endif
-                                </div>
+                                {{-- Jemla: no stock information is shown to
+                                     the customer (no "in stock" / "out of
+                                     stock" status and no "only X left"
+                                     badge). The store sells over stock and
+                                     the quantity is deducted only when the
+                                     COD order is confirmed, so a stock
+                                     status here would be wrong. Stock stays
+                                     visible in the admin only. --}}
 
                                 {{-- Buy-2 offer badge: this product's own terms
                                      (buy N, discount percent) — per-product

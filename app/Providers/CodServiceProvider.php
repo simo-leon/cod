@@ -21,6 +21,8 @@ use App\Cod\Delivery\DeliveryService;
 use App\Cod\Delivery\DeliveryServiceInterface;
 use App\Cod\Delivery\TrackingSyncService;
 use App\Cod\Delivery\TrackingSyncServiceInterface;
+use App\Cod\Inventory\CodStockService;
+use App\Cod\Inventory\CodStockServiceInterface;
 use App\Cod\Orders\OrderService;
 use App\Cod\Orders\OrderServiceInterface;
 use App\Cod\Souk\SoukService;
@@ -78,6 +80,8 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(SoukSettings::class);
 
         $this->app->singleton(SoukServiceInterface::class, SoukService::class);
+
+        $this->app->singleton(CodStockServiceInterface::class, CodStockService::class);
 
         $this->app->singleton(PromotionServiceInterface::class, PromotionService::class);
 

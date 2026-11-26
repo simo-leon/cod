@@ -148,14 +148,17 @@ class Simple extends AbstractType
 
     /**
      * Have sufficient quantity.
+     *
+     * Jemla sells over stock on purpose (cash on delivery): a
+     * customer may order more than the on-hand quantity, and the
+     * stock is deducted only when the COD order is confirmed
+     * (see App\Cod\Inventory\CodStockService). The quantity check
+     * must therefore never block adding to the cart, changing the
+     * cart quantity, or placing the order.
      */
     public function haveSufficientQuantity(int $qty): bool
     {
-        if (! $this->product->manage_stock) {
-            return true;
-        }
-
-        return $qty <= $this->totalQuantity() ?: (bool) core()->getConfigData('catalog.inventory.stock_options.back_orders');
+        return true;
     }
 
     /**

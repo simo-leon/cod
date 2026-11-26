@@ -152,6 +152,8 @@
                     return {
                         cart: null,
 
+                        refreshKey: 0,
+
                         displayTax: {
                             prices: "{{ core()->getConfigData('sales.taxes.shopping_cart.display_prices') }}",
 
@@ -226,6 +228,38 @@
                                 this.$emitter.emit('add-flash', { type: 'success', message: response.data.message });
                             })
                             .catch(error => {});
+                    },
+
+                    updateItemQuantity(itemId, quantity) {
+                        this.$axios.put('{{ route('shop.api.checkout.cart.update') }}', {
+                                qty: { [itemId]: quantity },
+                            })
+                            .then(response => {
+                                if (response.data.data?.items !== undefined) {
+                                    this.cart = response.data.data;
+
+                                    this.$emitter.emit('add-flash', { type: 'success', message: response.data.message });
+                                } else {
+                                    this.$emitter.emit('add-flash', {
+                                        type: 'warning',
+                                        message: response.data.data?.message || response.data.message,
+                                    });
+
+                                    this.getCart();
+                                }
+
+                                this.refreshKey++;
+                            })
+                            .catch(error => {
+                                this.$emitter.emit('add-flash', {
+                                    type: 'error',
+                                    message: error.response?.data?.message,
+                                });
+
+                                this.getCart();
+
+                                this.refreshKey++;
+                            });
                     },
 
                     stepForward(step) {

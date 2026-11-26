@@ -160,16 +160,15 @@ class Grouped extends AbstractType
 
     /**
      * Is product have sufficient quantity.
+     *
+     * Jemla sells over stock on purpose (cash on delivery): the
+     * stock is deducted only when the COD order is confirmed
+     * (see App\Cod\Inventory\CodStockService), so the quantity
+     * check must never block the cart or the checkout.
      */
     public function haveSufficientQuantity(int $qty): bool
     {
-        foreach ($this->product->grouped_products as $groupedProduct) {
-            if ($groupedProduct->associated_product->haveSufficientQuantity($qty)) {
-                return true;
-            }
-        }
-
-        return false;
+        return true;
     }
 
     /**

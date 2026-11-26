@@ -454,13 +454,16 @@ class OrderController extends Controller
                     $orderItem->save();
                 }
 
-                // If goods were physically shipped, return them to inventory source
-                if ($orderItem->qty_shipped > 0 && $orderItem->product && $orderItem->product->manage_stock) {
-                    $inventory = $orderItem->product->inventories()->first();
-                    if ($inventory) {
-                        $inventory->update(['qty' => $inventory->qty + $orderItem->qty_shipped]);
-                    }
-                }
+                /*
+                 * Jemla: no extra add-back of qty_shipped here.
+                 * returnQtyToProductInventory above already returns
+                 * the shipped (minus invoiced) quantity to the
+                 * stock, so adding qty_shipped a second time
+                 * inflated the stock — e.g. shipping 20 of 30 then
+                 * cancelling left 50 in stock instead of 30. The
+                 * cancel() action path never had this block and
+                 * restores correctly.
+                 */
             }
         }
     }

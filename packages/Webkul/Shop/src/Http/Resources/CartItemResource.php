@@ -48,9 +48,6 @@ class CartItemResource extends JsonResource
             'formatted_fbt_discount_amount' => core()->formatPrice($fbtDiscount),
             'coupon_discount_amount' => $couponDiscount = app(PromotionServiceInterface::class)->couponDiscountForItem((int) $this->id),
             'formatted_coupon_discount_amount' => core()->formatPrice($couponDiscount),
-            'low_stock' => $this->product
-                ? app(PromotionServiceInterface::class)->lowStockForProduct($this->product)
-                : ['show' => false, 'qty' => 0],
         ];
     }
 

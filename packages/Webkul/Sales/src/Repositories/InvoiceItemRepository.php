@@ -2,6 +2,8 @@
 
 namespace Webkul\Sales\Repositories;
 
+use App\Cod\Inventory\CodStockService;
+use App\Cod\Inventory\CodStockServiceInterface;
 use Illuminate\Support\Facades\Event;
 use Webkul\Core\Eloquent\Repository;
 
@@ -47,6 +49,19 @@ class InvoiceItemRepository extends Repository
             ->orderBy('qty', 'desc')
             ->get();
 
+        /*
+         * Jemla: the physical stock was already deducted when the
+         * COD order was confirmed
+         * (App\Cod\Inventory\CodStockService), so the invoice must
+         * not take it a second time. The ordered reservation above
+         * was still reduced.
+         */
+        if ($this->isStockAlreadyDeducted($data['invoice']->order)) {
+            Event::dispatch('catalog.product.update.after', $data['product']);
+
+            return;
+        }
+
         foreach ($inventories as $inventory) {
             if ($inventory->qty >= $data['qty']) {
                 $inventory->update(['qty' => $inventory->qty - $data['qty']]);
@@ -60,5 +75,24 @@ class InvoiceItemRepository extends Repository
         }
 
         Event::dispatch('catalog.product.update.after', $data['product']);
+    }
+
+    /**
+     * Whether the physical stock of this order was already deducted
+     * at COD confirmation. Defensive on purpose: when the app
+     * service is missing (stock Bagisto) the original behaviour
+     * applies, and any failure here must never break an invoice.
+     */
+    protected function isStockAlreadyDeducted($order): bool
+    {
+        if (! $order || ! class_exists(CodStockService::class)) {
+            return false;
+        }
+
+        try {
+            return app(CodStockServiceInterface::class)->isDeductedForOrder((int) $order->id);
+        } catch (\Throwable) {
+            return false;
+        }
     }
 }
