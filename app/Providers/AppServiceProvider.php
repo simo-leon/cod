@@ -2,6 +2,7 @@
 
 namespace App\Providers;
 
+use App\Cod\Orders\OrderServiceInterface;
 use App\Cod\Souk\SoukServiceInterface;
 use App\Listeners\AssignZeroStockToSouk;
 use App\Listeners\ImportOrderToCod;
@@ -105,6 +106,26 @@ class AppServiceProvider extends ServiceProvider
 
         // Record cash-on-delivery orders in the COD System (phase 2)
         Event::listen('checkout.order.save.after', [ImportOrderToCod::class, 'handle']);
+
+        // Phase 2 (status sync): a store order that changes status
+        // after creation — in particular one cancelled from the shop
+        // account or the admin — must sync into the COD System too.
+        // Before this, only checkout.order.save.after re-imported,
+        // so a cancelled order kept showing "pending confirmation"
+        // in COD forever (live order #47). importOrder() is
+        // idempotent, and storeCodOrder() only syncs while the COD
+        // record is still pending confirmation, so confirmed /
+        // delivered records are untouched.
+        Event::listen('sales.order.update-status.after', function ($order) {
+            try {
+                app(OrderServiceInterface::class)->importOrder($order);
+            } catch (\Throwable $e) {
+                Log::warning('COD: failed to sync order status change', [
+                    'order_id' => $order->id ?? null,
+                    'error' => $e->getMessage(),
+                ]);
+            }
+        });
 
         // Souk (market sourcing): a product that just hit zero
         // available stock is assigned to the souk panel

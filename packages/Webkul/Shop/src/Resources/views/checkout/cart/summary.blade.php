@@ -146,7 +146,14 @@
 
         <!-- Shipping Rates -->
         {!! view_render_event('bagisto.shop.checkout.onepage.summary.delivery_charges.before') !!}
-        
+
+        <!--
+            Jemla: same as the onepage summary — before a shipping
+            method is chosen the cart has no shipping amount, so the
+            old code showed "+ 0.00" and a grand total without
+            delivery, which reads as free delivery.
+        -->
+        <template v-if="cart.shipping_method">
         <template v-if="displayTax.shipping == 'including_tax'">
             <div class="flex justify-between text-right">
                 <p class="text-base max-sm:text-sm">
@@ -187,6 +194,19 @@
                     + @{{ cart.formatted_shipping_amount }}
                 </p>
             </div>
+        </template>
+
+        <template v-else>
+            <div class="flex justify-between text-right">
+                <p class="text-base max-sm:text-sm">
+                    @lang('shop::app.checkout.cart.summary.delivery-charges')
+                </p>
+
+                <p class="text-base font-medium text-zinc-500 max-sm:text-sm">
+                    @lang('shop::app.checkout.cart.summary.delivery-to-be-calculated')
+                </p>
+            </div>
+        </template>
         </template>
 
         {!! view_render_event('bagisto.shop.checkout.onepage.summary.delivery_charges.after') !!}
@@ -310,6 +330,13 @@
                 @{{ cart.formatted_grand_total }}
             </p>
         </div>
+
+        <p
+            class="text-right text-xs text-zinc-500"
+            v-if="! cart.shipping_method && cart.have_stockable_items"
+        >
+            @lang('shop::app.checkout.cart.summary.grand-total-excludes-delivery')
+        </p>
 
         {!! view_render_event('bagisto.shop.checkout.cart.summary.grand_total.after') !!}
 
