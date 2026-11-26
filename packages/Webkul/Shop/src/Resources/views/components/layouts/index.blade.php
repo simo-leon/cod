@@ -233,15 +233,25 @@
                         to { opacity: 1; transform: translateY(0); }
                     }
 
-                    /* Jemla: on phone format, lift the WhatsApp button
-                       above the sticky "Passer la commande" bar on the
-                       checkout page so it never covers the order button.
-                       (!important wins over the inline bottom:24px.) */
-                    @media (max-width: 768px) {
-                        #wa-floating-widget {
-                            bottom: 96px !important;
+                    /*
+                        Jemla: on phone format, lift the WhatsApp button
+                        above the sticky "Passer la commande" bar — but
+                        ONLY on the onepage checkout, the one page that
+                        has that bar. The lift used to apply site-wide,
+                        so on the product page the button hovered 96px
+                        up and covered the "Commander via WhatsApp"
+                        button of the right-hand related-product card
+                        ("Comma via Wha…" in Simo's screenshot).
+                        Everywhere else it stays at bottom:24px.
+                        (!important wins over the inline bottom:24px.)
+                    */
+                    @if (request()->routeIs('shop.checkout.onepage.index'))
+                        @media (max-width: 768px) {
+                            #wa-floating-widget {
+                                bottom: 96px !important;
+                            }
                         }
-                    }
+                    @endif
                 </style>
             @endif
         @endif
