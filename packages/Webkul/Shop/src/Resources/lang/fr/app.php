@@ -1027,7 +1027,7 @@ return [
         ],
 
         'view' => [
-            'empty' => 'Aucun produit disponible dans cette catégorie',
+            'empty' => 'Aucun produit trouvé',
             'load-more' => 'Charger plus',
         ],
     ],

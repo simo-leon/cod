@@ -212,7 +212,12 @@
             v-else
             class="text-sm text-zinc-600"
         >
-            @{{ "@lang('shop::promotions.buy2_remaining')".replace(':count', cart.buy2.units_needed) }}
+            {{--
+                Jemla (round 2C): singular/plural — "Add 1 more item",
+                not "Add 1 more items". The count comes from the cart,
+                so the key is picked in JS, not in PHP.
+            --}}
+            @{{ cart.buy2.units_needed == 1 ? "@lang('shop::promotions.buy2_remaining_one')" : "@lang('shop::promotions.buy2_remaining')".replace(':count', cart.buy2.units_needed) }}
         </p>
     </div>
 

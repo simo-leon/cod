@@ -2,6 +2,7 @@
 
 namespace Webkul\Shop\Http\Controllers\API;
 
+use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Support\Facades\DB;
@@ -51,9 +52,24 @@ class ProductController extends APIController
              * there is only one filter that is query param
              */
             if (count(request()->except(['mode', 'sort', 'limit'])) == 1) {
+                /*
+                    Jemla (round 2C): searchFromDatabase() returns a
+                    simplePaginate() Paginator since 0ff61d8 — and a
+                    plain Paginator has no total() (only the
+                    LengthAwarePaginator does). Calling ->total() here
+                    made EVERY search API call 500, local and live
+                    (BadMethodCallException: Collection::total / see
+                    Paginator::__call). The search-term job only records
+                    an approximate result count, so the page count is
+                    enough when there is no LengthAware total.
+                */
+                $resultsCount = $products instanceof LengthAwarePaginator
+                    ? $products->total()
+                    : $products->count();
+
                 UpdateCreateSearchTermJob::dispatch([
                     'term' => $query,
-                    'results' => $products->total(),
+                    'results' => $resultsCount,
                     'channel_id' => core()->getCurrentChannel()->id,
                     'locale' => app()->getLocale(),
                 ]);

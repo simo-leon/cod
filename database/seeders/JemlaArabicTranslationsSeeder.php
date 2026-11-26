@@ -2,9 +2,12 @@
 
 namespace Database\Seeders;
 
+use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Seeder;
 use Webkul\Category\Models\Category;
 use Webkul\CMS\Models\Page;
+use Webkul\Product\Helpers\Indexers\Flat;
+use Webkul\Product\Models\Product;
 use Webkul\Product\Repositories\ProductRepository;
 
 /**
@@ -141,7 +144,7 @@ class JemlaArabicTranslationsSeeder extends Seeder
 
     public function run(): void
     {
-        \Illuminate\Database\Eloquent\Model::reguard();
+        Model::reguard();
 
         $this->setupLocalesAndCurrency();
         $this->translateCategories();
@@ -295,8 +298,8 @@ class JemlaArabicTranslationsSeeder extends Seeder
 
             // Régénère les lignes product_flat ar + fr (le refresh boucle
             // sur les locales du canal).
-            app(\Webkul\Product\Helpers\Indexers\Flat::class)
-                ->refresh(\Webkul\Product\Models\Product::find($product->id));
+            app(Flat::class)
+                ->refresh(Product::find($product->id));
 
             $done++;
         }
@@ -358,14 +361,20 @@ class JemlaArabicTranslationsSeeder extends Seeder
                 if (str_contains($options['html'], 'home-offer')) {
                     $optionsAr = $options;
                     $optionsFr = $options;
-                    $optionsAr['html'] = '<div class="home-offer"><h1>احصل على خصم حتى 40% على طلبك الأول — تسوق الآن</h1></div>';
-                    $optionsFr['html'] = '<div class="home-offer"><h1>Profitez de jusqu\'à 40% de réduction sur votre 1ère commande — Achetez maintenant</h1></div>';
+                    // Jemla (round 2C): <p>, not <h1> — the homepage's
+                    // only <h1> is the store name (sr-only, in
+                    // home/index.blade.php). The CSS selector is
+                    // updated by the matching data migration for rows
+                    // seeded before this change.
+                    $optionsAr['html'] = '<div class="home-offer"><p>احصل على خصم حتى 40% على طلبك الأول — تسوق الآن</p></div>';
+                    $optionsFr['html'] = '<div class="home-offer"><p>Profitez de jusqu\'à 40% de réduction sur votre 1ère commande — Achetez maintenant</p></div>';
                     $this->saveThemeTranslation($row->theme_customization_id, 'ar', $optionsAr);
                     $this->saveThemeTranslation($row->theme_customization_id, 'fr', $optionsFr);
                 } else {
                     $this->saveThemeTranslation($row->theme_customization_id, 'ar', $options);
                     $this->saveThemeTranslation($row->theme_customization_id, 'fr', $options);
                 }
+
                 continue;
             }
 
@@ -387,6 +396,7 @@ class JemlaArabicTranslationsSeeder extends Seeder
                     }
                     $this->saveThemeTranslation($row->theme_customization_id, $locale, $translated);
                 }
+
                 continue;
             }
 
@@ -400,14 +410,15 @@ class JemlaArabicTranslationsSeeder extends Seeder
 
                     foreach ($this->services as $enTitle => $map) {
                         $built['services'][] = [
-                            'title'        => $locale === 'en' ? $enTitle : ($locale === 'ar' ? $map[0] : $map[2]),
-                            'description'  => $locale === 'en' ? $map[4] : ($locale === 'ar' ? $map[1] : $map[3]),
+                            'title' => $locale === 'en' ? $enTitle : ($locale === 'ar' ? $map[0] : $map[2]),
+                            'description' => $locale === 'en' ? $map[4] : ($locale === 'ar' ? $map[1] : $map[3]),
                             'service_icon' => $map[5],
                         ];
                     }
 
                     $this->saveThemeTranslation($row->theme_customization_id, $locale, $built);
                 }
+
                 continue;
             }
 

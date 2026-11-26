@@ -29,6 +29,7 @@ return [
     'buy2_title' => 'Achetez-en 2, le 3ᵉ à moitié prix',
     'buy2_applied' => '3ᵉ article à moitié prix : -:amount',
     'buy2_remaining' => 'Ajoutez encore :count articles pour avoir le 3ᵉ à moitié prix',
+    'buy2_remaining_one' => 'Ajoutez encore 1 article pour avoir le 3ᵉ à moitié prix',
     'buy2_unlocked' => 'Vous avez débloqué le 3ᵉ à moitié prix !',
     'buy2_item_badge' => '3ᵉ à moitié prix',
     'buy2_discount_line' => '3ᵉ article à moitié prix',

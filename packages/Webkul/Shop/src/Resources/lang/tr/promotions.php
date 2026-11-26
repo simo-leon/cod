@@ -29,6 +29,7 @@ return [
     'buy2_title' => 'Buy 2, the 3rd half price',
     'buy2_applied' => '3rd item half price: -:amount',
     'buy2_remaining' => 'Add :count more items to get the 3rd half price',
+    'buy2_remaining_one' => 'Add 1 more item to get the 3rd half price',
     'buy2_unlocked' => 'You unlocked the 3rd half price!',
     'buy2_item_badge' => '3rd half price',
     'buy2_discount_line' => '3rd item half price',

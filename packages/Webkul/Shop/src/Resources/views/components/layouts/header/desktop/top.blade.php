@@ -194,6 +194,7 @@
                     :src="locale.logo_url || '{{ bagisto_asset('images/default-language.svg') }}'"
                     width="24"
                     height="16"
+                    alt=""
                 />
 
                 @{{ locale.name }}

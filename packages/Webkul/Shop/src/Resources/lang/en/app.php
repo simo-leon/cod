@@ -56,9 +56,9 @@ return [
             'email' => 'Email',
             'first-name' => 'First Name',
             'footer' => '© :current_year Jemla En Ligne. All rights reserved.',
-            'form-signup-text' => 'If you are new to our store, we glad to have you as member.',
+            'form-signup-text' => 'If you are new to our store, we\'re glad to have you as a member.',
             'last-name' => 'Last Name',
-            'page-title' => 'Become User',
+            'page-title' => 'Create an Account',
             'password' => 'Password',
             'sign-in-button' => 'Sign In',
             'subscribe-to-newsletter' => 'Subscribe to newsletter',
@@ -1027,7 +1027,7 @@ return [
         ],
 
         'view' => [
-            'empty' => 'No products available in this category',
+            'empty' => 'No products found',
             'load-more' => 'Load More',
         ],
     ],

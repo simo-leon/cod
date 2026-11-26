@@ -155,9 +155,17 @@ class ThemeCustomizationTableSeeder extends Seeder
                         'locale' => $locale,
 
                         'options' => json_encode([
-                            'html' => '<div class="home-offer"><h1>'.trans('installer::app.seeders.shop.theme-customizations.offer-information.content.title', [], $locale).'</h1></div>',
+                            /*
+                                Jemla (round 2C): the offer banner is a
+                                <p>, not an <h1> — the page's only <h1>
+                                is the store name (sr-only, in
+                                home/index.blade.php). A promo slogan
+                                as <h1> hurt SEO, and the old CSS
+                                selector is retargeted below to match.
+                            */
+                            'html' => '<div class="home-offer"><p>'.trans('installer::app.seeders.shop.theme-customizations.offer-information.content.title', [], $locale).'</p></div>',
 
-                            'css' => '.home-offer h1 {display: block;font-weight: 500;text-align: center;font-size: 22px;font-family: DM Serif Display;background-color: #E8EDFE;padding-top: 20px;padding-bottom: 20px;}@media (max-width:768px){.home-offer h1 {font-size:18px;padding-top: 10px;padding-bottom: 10px;}@media (max-width:525px) {.home-offer h1 {font-size:14px;padding-top: 6px;padding-bottom: 6px;}}',
+                            'css' => '.home-offer p {display: block;font-weight: 500;text-align: center;font-size: 22px;font-family: DM Serif Display;background-color: #E8EDFE;padding-top: 20px;padding-bottom: 20px;}@media (max-width:768px){.home-offer p {font-size:18px;padding-top: 10px;padding-bottom: 10px;}@media (max-width:525px) {.home-offer p {font-size:14px;padding-top: 6px;padding-bottom: 6px;}}',
                         ]),
                     ], [
                         'theme_customization_id' => 3,
@@ -361,25 +369,45 @@ class ThemeCustomizationTableSeeder extends Seeder
                         'locale' => $locale,
 
                         'options' => json_encode([
-                            'services' => [
+                            /*
+                                Jemla (round 2C): the Velocity defaults
+                                seeded here were false claims for this
+                                store — "Free Shipping on all orders"
+                                (free delivery only starts at 300 DH),
+                                "No cost EMI" (no instalments in
+                                Moroccan COD), "Product Replace" and
+                                "24/7 Support" (neither exists). A fresh
+                                database showed them until the Jemla
+                                translations seeder ran. These three
+                                services are the verified Jemla facts
+                                (same wording as
+                                JemlaArabicTranslationsSeeder::$services):
+                                cash on delivery, the announced delivery
+                                times, and ordering via WhatsApp with a
+                                phone confirmation before shipping.
+                                Locales other than en/ar/fr fall back to
+                                the English text, like the other Jemla
+                                promotion strings.
+                            */
+                            'services' => collect([
                                 [
-                                    'title' => trans('installer::app.seeders.shop.theme-customizations.services-content.title.free-shipping', [], $locale),
-                                    'description' => trans('installer::app.seeders.shop.theme-customizations.services-content.description.free-shipping-info', [], $locale),
-                                    'service_icon' => 'icon-truck',
-                                ], [
-                                    'title' => trans('installer::app.seeders.shop.theme-customizations.services-content.title.product-replace', [], $locale),
-                                    'description' => trans('installer::app.seeders.shop.theme-customizations.services-content.description.product-replace-info', [], $locale),
-                                    'service_icon' => 'icon-product',
-                                ], [
-                                    'title' => trans('installer::app.seeders.shop.theme-customizations.services-content.title.emi-available', [], $locale),
-                                    'description' => trans('installer::app.seeders.shop.theme-customizations.services-content.description.emi-available-info', [], $locale),
+                                    'title' => ['en' => 'Cash on Delivery', 'ar' => 'الدفع عند الاستلام', 'fr' => 'Paiement à la livraison'],
+                                    'description' => ['en' => 'Pay cash when you receive your order, after inspecting it', 'ar' => 'ادفع نقدا عند استلام طلبك بعد معاينته', 'fr' => 'Payez en espèces à la réception de votre commande, après l\'avoir inspectée'],
                                     'service_icon' => 'icon-dollar-sign',
                                 ], [
-                                    'title' => trans('installer::app.seeders.shop.theme-customizations.services-content.title.time-support', [], $locale),
-                                    'description' => trans('installer::app.seeders.shop.theme-customizations.services-content.description.time-support-info', [], $locale),
+                                    'title' => ['en' => 'Fast Delivery', 'ar' => 'توصيل سريع', 'fr' => 'Livraison rapide'],
+                                    'description' => ['en' => '24-48h in major cities, 2-4 days elsewhere', 'ar' => '24-48 ساعة في المدن الكبرى، و2-4 أيام في باقي المناطق', 'fr' => '24-48h dans les grandes villes, 2-4 jours ailleurs'],
+                                    'service_icon' => 'icon-truck',
+                                ], [
+                                    'title' => ['en' => 'Order via WhatsApp', 'ar' => 'الطلب عبر واتساب', 'fr' => 'Commande via WhatsApp'],
+                                    'description' => ['en' => 'Order via WhatsApp; your order is confirmed by phone before shipping', 'ar' => 'اطلب عبر واتساب، ويتم تأكيد طلبك هاتفيا قبل الشحن', 'fr' => 'Commandez via WhatsApp, votre commande est confirmée par téléphone avant l\'expédition'],
                                     'service_icon' => 'icon-support',
                                 ],
-                            ],
+                            ])->map(fn ($service) => [
+                                'title' => $service['title'][$locale] ?? $service['title']['en'],
+                                'description' => $service['description'][$locale] ?? $service['description']['en'],
+                                'service_icon' => $service['service_icon'],
+                            ])->values()->all(),
                         ]),
                     ],
                 ]);

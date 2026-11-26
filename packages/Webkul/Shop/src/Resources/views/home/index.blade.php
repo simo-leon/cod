@@ -49,6 +49,13 @@
 @endpush
 
 <x-shop::layouts>
+    {{--
+        Jemla (round 2C, issue #8): the homepage's only <h1> is the
+        store name, visually hidden — the promo slogan used to be the
+        <h1> (home-offer banner, now a <p>). No visual change.
+    --}}
+    <h1 class="sr-only">Jemla En Ligne</h1>
+
     <!-- Page Title -->
     <x-slot:title>
         {{  $channel->home_seo['meta_title'] ?? '' }}

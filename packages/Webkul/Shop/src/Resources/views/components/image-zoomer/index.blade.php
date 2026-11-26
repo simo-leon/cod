@@ -73,6 +73,7 @@
                                 <!-- For Desktop -->
                                 <img
                                     :src="attachment.url"
+                                    :alt="imageAlt"
                                     class="max-h-full max-w-full transition-transform duration-300 ease-out max-md:hidden"
                                     :class="{
                                         'cursor-zoom-in': ! isZooming,
@@ -91,6 +92,7 @@
                                 <!-- For Mobile -->
                                 <img
                                     :src="attachment.url"
+                                    :alt="imageAlt"
                                     class="max-h-full max-w-full transition-transform duration-300 ease-out md:hidden"
                                     :class="{
                                         'cursor-zoom-in': ! isZooming,
@@ -113,6 +115,7 @@
                                 '!border-navyBlue': currentIndex === index + 1,
                             }"
                             :src="attachment.url"
+                            :alt="imageAlt"
                             :key="index"
                             v-if="attachment.type === 'image'"
                             @click="navigate(currentIndex = index + 1)"
@@ -155,8 +158,19 @@
 
                 initialIndex: {
                     type: String,
-                    
+
                     default: 0,
+                },
+
+                /*
+                    Jemla (round 2C, issue #9): alt text for the zoomed
+                    images — the product name, passed from the gallery.
+                    Without it the zoomer's images had no alt at all.
+                */
+                imageAlt: {
+                    type: String,
+
+                    default: '',
                 },
             },
 
