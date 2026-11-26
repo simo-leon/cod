@@ -126,8 +126,8 @@
                         registry of product ids already displayed and
                         drop duplicates (e.g. "Nouveautés" vs "Nos Promos"
                         vs a category section showing the same products).
-                        Because the API paginates (12 per page, the
-                        `limit` filter is ignored server-side), keep
+                        Because the API paginates (the `limit` filter
+                        follows the storefront per-page values), keep
                         fetching following pages until this section is
                         full, so a section never ends up almost empty
                         just because its first page overlapped an
@@ -180,19 +180,27 @@
                 swipeLeft() {
                     const container = this.$refs.swiperContainer;
 
-                    container.scrollLeft -= this.offset;
+                    /*
+                        Jemla: in RTL (Arabic) scrollLeft starts at 0
+                        and goes negative, so "previous" scrolls the
+                        opposite way from LTR.
+                    */
+                    container.scrollLeft += (document.dir === 'rtl' ? 1 : -1) * this.offset;
                 },
 
                 swipeRight() {
                     const container = this.$refs.swiperContainer;
 
+                    // Distance already scrolled from the start, either direction.
+                    const scrolled = Math.abs(container.scrollLeft);
+
                     // Check if scroll reaches the end
-                    if (container.scrollLeft + container.clientWidth >= container.scrollWidth) {
+                    if (scrolled + container.clientWidth >= container.scrollWidth - 1) {
                         // Reset scroll to the beginning
                         container.scrollLeft = 0;
                     } else {
-                        // Scroll to the right
-                        container.scrollLeft += this.offset;
+                        // Scroll to the next products (negative in RTL)
+                        container.scrollLeft += (document.dir === 'rtl' ? -1 : 1) * this.offset;
                     }
                 },
             },

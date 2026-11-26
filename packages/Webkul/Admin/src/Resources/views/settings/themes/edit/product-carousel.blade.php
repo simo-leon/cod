@@ -106,7 +106,7 @@
                         label="@lang('admin::app.settings.themes.edit.limit')"
                     >
                         <select
-                            name="options[filters][limit]"
+                            name="{{ $currentLocale->code }}[options][filters][limit]"
                             v-bind="field"
                             class="custom-select flex min-h-[39px] w-full rounded-md border border-gray-300 bg-white px-3 py-1.5 text-sm font-normal text-gray-600 transition-all hover:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300 dark:hover:border-gray-400"
                             :class="[errors['options[filters][limit]'] ? 'border border-red-600 hover:border-red-600' : '']"

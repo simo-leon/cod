@@ -22,6 +22,27 @@
                     </div>
                 </div>
 
+                <!-- Title -->
+                <x-admin::form.control-group class="mb-2.5 pt-4">
+                    <x-admin::form.control-group.label class="required">
+                        @lang('admin::app.settings.themes.edit.filter-title')
+                    </x-admin::form.control-group.label>
+
+                    <v-field
+                        type="text"
+                        name="{{ $currentLocale->code }}[options][title]"
+                        value="{{ $theme->translate($currentLocale->code)->options['title'] ?? '' }}"
+                        class="flex min-h-[39px] w-full rounded-md border px-3 py-2 text-sm text-gray-600 transition-all hover:border-gray-400 focus:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300 dark:hover:border-gray-400 dark:focus:border-gray-400"
+                        :class="[errors['{{ $currentLocale->code }}[options][title]'] ? 'border border-red-600 hover:border-red-600' : '']"
+                        rules="required"
+                        label="@lang('admin::app.settings.themes.edit.filter-title')"
+                        placeholder="@lang('admin::app.settings.themes.edit.filter-title')"
+                    >
+                    </v-field>
+
+                    <x-admin::form.control-group.error control-name="{{ $currentLocale->code }}[options][title]" />
+                </x-admin::form.control-group>
+
                 <!-- Sort -->
                 <x-admin::form.control-group>
                     <x-admin::form.control-group.label class="required">
@@ -36,7 +57,7 @@
                         label="@lang('admin::app.settings.themes.edit.sort')"
                     >
                         <select
-                            name="{{ $currentLocale->code }}[options][sort]"
+                            name="{{ $currentLocale->code }}[options][filters][sort]"
                             v-bind="field"
                             class="custom-select flex min-h-[39px] w-full rounded-md border bg-white px-3 py-1.5 text-sm font-normal text-gray-600 transition-all hover:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300"
                             :class="[errors['{{ $currentLocale->code }}[options][filters][sort]'] ? 'border border-red-600 hover:border-red-600' : '']"

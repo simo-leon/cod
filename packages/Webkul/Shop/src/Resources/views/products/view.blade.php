@@ -57,6 +57,21 @@
 
     <?php $productBaseImage = product_image()->getProductBaseImage($product); ?>
 
+    {{--
+        Jemla: preload the gallery's main image so the browser starts
+        fetching it during HTML parse. The gallery only sets the image
+        URL after Vue mounts, which left the product photo white for
+        seconds on slow connections.
+    --}}
+    @if (! empty($productBaseImage['large_image_url']))
+        <link
+            rel="preload"
+            as="image"
+            href="{{ $productBaseImage['large_image_url'] }}"
+            fetchpriority="high"
+        >
+    @endif
+
     <meta name="twitter:card" content="summary_large_image" />
 
     <meta name="twitter:title" content="{{ $product->name }}" />

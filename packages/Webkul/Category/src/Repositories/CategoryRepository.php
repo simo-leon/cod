@@ -58,6 +58,17 @@ class CategoryRepository extends Repository
                     $queryBuilder->where('category_translations.locale', $value);
 
                     break;
+                case 'sort':
+                    /*
+                        Jemla: the category-carousel admin form offers
+                        asc/desc, but the value never reached the query
+                        (the form saved it under the wrong key, and
+                        this repository ignored it). Sort by the
+                        admin category order (position).
+                    */
+                    $queryBuilder->orderBy('categories.position', strtolower((string) $value) === 'desc' ? 'desc' : 'asc');
+
+                    break;
             }
         }
 

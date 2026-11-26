@@ -18,6 +18,33 @@
             class="container mt-14 max-lg:px-8 max-md:mt-7 max-md:!px-0 max-sm:mt-5"
             v-if="! isLoading && categories?.length"
         >
+            <!--
+                Jemla: the section title used to be dropped — the
+                homepage passes it, but this template never rendered
+                it (and the admin form had no title field at all).
+            -->
+            <div
+                class="mb-8 flex justify-between max-md:mb-5"
+                v-if="title || navigationLink"
+            >
+                <h2
+                    class="font-dmserif text-3xl max-md:text-2xl max-sm:text-xl"
+                    v-if="title"
+                >
+                    @{{ title }}
+                </h2>
+
+                <a
+                    :href="navigationLink"
+                    class="flex items-center gap-1 text-xl max-md:text-base max-sm:text-sm"
+                    v-if="navigationLink"
+                >
+                    @lang('shop::app.components.products.carousel.view-all')
+
+                    <span class="icon-arrow-right rtl:icon-arrow-left text-2xl max-md:text-lg max-sm:text-sm"></span>
+                </a>
+            </div>
+
             <div class="relative">
                 <div
                     ref="swiperContainer"
@@ -130,13 +157,19 @@
                 swipeLeft() {
                     const container = this.$refs.swiperContainer;
 
-                    container.scrollLeft -= this.offset;
+                    /*
+                        Jemla: in RTL (Arabic) scrollLeft starts at 0
+                        and goes negative, so "previous" scrolls the
+                        opposite way from LTR.
+                    */
+                    container.scrollLeft += (document.dir === 'rtl' ? 1 : -1) * this.offset;
                 },
 
                 swipeRight() {
                     const container = this.$refs.swiperContainer;
 
-                    container.scrollLeft += this.offset;
+                    // Scroll to the next categories (negative in RTL).
+                    container.scrollLeft += (document.dir === 'rtl' ? -1 : 1) * this.offset;
                 },
             },
         });

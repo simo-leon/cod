@@ -58,11 +58,9 @@
                 aria-label="@lang('shop::app.components.layouts.header.mobile.bagisto')"
             >
                 <img
-                    class="block"
+                    class="block h-[30px] w-auto max-w-[150px] object-contain"
                     src="{{ core()->getCurrentChannel()->logo_url ?? bagisto_asset('images/logo.svg') }}"
                     alt="{{ config('app.name') }}"
-                    width="131"
-                    height="29"
                 >
             </a>
 
@@ -280,9 +278,8 @@
                         <a href="{{ route('shop.home.index') }}">
                             <img
                                 src="{{ core()->getCurrentChannel()->logo_url ?? bagisto_asset('images/logo.svg') }}"
+                                class="block h-[30px] w-auto max-w-[150px] object-contain"
                                 alt="{{ config('app.name') }}"
-                                width="131"
-                                height="29"
                             >
                         </a>
                     </div>
