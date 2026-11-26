@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-42490",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Inductances Torique pour EMI/EMC",
+     "description": "Inductances Toroïdal pour EMI/EMC\n\nCet inducteur (inductance) torique (Toroïdal) à faible fuite magnétique est conçu pour le filtrage des parasites et la suppression des interférences électromagnétiques (EMI/EMC) dans vos alimentations à découpage, lignes de données et circuits de puissance.\n\n🔧 Caractéristiques techniques\n\nNoyau : ferrite torique type 5026 (Ø ext. 13 mm, Ø int. 6 mm, épaisseur 5 mm) \n\nFil : cuivre émaillé 0,45 mm de diamètre\n\nInductances disponibles : 10 µH · 22 µH · 33 µH · 47 µH · 68 µH · 100 µH · 220 µH · 330 µH · 470 µH\n\nCourant maximal recommandé : 3A\n\nRésistance DC : typ. 0,6 Ω à 1,5 Ω selon la valeur (à mesurer pour chaque inductance)\n\nPlage de fréquence utile : de quelques kHz à plusieurs MHz\n\nImpédance élevée en HF pour un filtrage efficace des parasites\n\n💡 Applications typiques\n\nFiltrage EMI/EMC d’alimentations à découpage et convertisseurs DC-DC\n\nSuppression de parasites sur lignes USB, CAN, Ethernet, I²C, SPI\n\nLissage de la tension de sortie dans les alimentations stabilisées\n\nProtection des circuits audio et RF contre les interférences\n\nRéalisation de circuits résonants et de découplage haute fréquence\n\n🛠️ Brochage / Connexions\n\nFils axiaux : les deux extrémités du fil cuivre émaillé se soudent directement sur le PCB ou se fixent à des supports traversants 2,54 mm.\n\nConseil de montage : placez le noyau près de la zone d’entrée ou de sortie de votre convertisseur pour un filtrage optimal des parasites.\n\nMots clés: fuse, inducteur torique, EMI, EMC, choke, ferrite, filtre bruit.",
+     "short_description": "Cet inducteur (inductance) torique à faible fuite magnétique est conçu pour le filtrage des parasites et la suppression des interférences électromagnétiques (EMI/EMC)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/699-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-19208",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Inductance 6x8mm",
+     "description": "Inductance 6x8mm 17 Valeurs 2.2uH-100mH\n\nInductance 6x8mm 17 Valeurs 2.2uH-100mH.\n\nValeurs: 2.2uH | 4.7uH | 10uH | 22uH | 47uH | 100uH | 220uH | 470uH | 680uH | 1mH | 2.2mH | 3.3mH | 4.7mH | 10mH | 22mH | 47mH | 100mH.\n\nFil: fil de cuivre\n\nJauge de fil: 2UEW 0,27 mm\n\nNoyau magnétique: ferrite\n\nPlage de température de fonctionnement: -20 ° C ~ + 80 ° C\n\nMots clés: inductor, coil.",
+     "short_description": "Inductances 6x8mm 17 Valeurs 2.2uH-100mH.\n\nValeurs: 2.2uH | 4.7uH | 10uH | 22uH | 47uH | 100uH | 220uH | 470uH | 680uH | 1mH | 2.2mH | 3.3mH | 4.7mH | 10mH | 22mH | 47mH | 100mH."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/11/700-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-33574",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Inductance 1W",
+     "description": "Inductance 1W\n\nInductance 1W 15 Valeurs 2.2uH-10mH\n\nValeurs: Variations 2.2uH, 4.7uH, 10uH, 22uH, 47uH, 68uH, 100uH, 220uH, 330uH, 470uH, 680uH, 820uH, 1mH, 2.2mH, 3.3mH, 4.7mH, 10mH.",
+     "short_description": "iInductance 1W\n\nInductance 1W 15 Valeurs 2.2uH-10mH\n\nValeurs: Variations 2.2uH, 4.7uH, 10uH, 22uH, 47uH, 68uH, 100uH, 220uH, 470uH, 680uH, 1mH, 2.2mH, 3.3mH, 4.7mH, 10mH"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/12/701-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3580",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Condensateurs Électrolytiques",
+     "description": "Condensateurs Électrolytiques\n\nCondensateurs électrolytiques 53 Valeurs, 0.22uF-10000uF.\n\nValeurs:\n\n0.22uF 50V\n\n0.47uF 50V\n\n1uF 50V, 1uF 100V, 1uF 400V\n\n2.2uF 50V\n\n3.3uF 50V\n\n4.7uF 50V,\n\n10uF 25V, 10uF 50V, 10uF 100V\n\n22uF 25V, 22uF 50V,\n\n33uF 16V, 33uF 25V, 33uF 50V\n\n47uF 16V, 47uF 25V, 47uF 50V, 47uF 100V, 47uF 400V\n\n100uF 16V, 100uF 35V, 100uF 100V\n\n220uF 16V, 220uF 25V, 220uF 50V, 220uF 100V\n\n330uF 16V, 330uF 25V, 330uF 50V\n\n470uF 16V, 470uF 25V, 470uF 35V, 470uF 50V, 470uF 100V\n\n1000uF 16V, 1000uF 25V, 1000uF 35V, 1000uF 50V, 1000uF 100V\n\n2200uF 16V, 2200uF 25V, 2200uF 35V, 2200uF 50V\n\n3300uF 16V, 3300uF 25V\n\n4700uF 10V, 4700uF 16V, 4700uF 25V\n\n10000uF 16V,10000uF 25V\n\nTension\nValeurs disponibles\n\n10 V\n4700uF\n\n16 V\n33uF 47uF 100uF 220uF 330uF 470uF 1000uF 2200uF 3300uF 4700uF 10000uF\n\n25 V\n10uF 22uF 33uF 47uF 220uF 330uF 470uF 1000uF 2200uF 3300uF 4700uF 10000uF\n\n35 V\n100uF 470uF 1000uF 2200uF\n\n50 V\n0.22uF 0.47uF 1uF 2.2uF 3.3uF 4.7uF 10uF 22uF 33uF 47uF 220uF 330uF 470uF\n\n100 V\n1uF 10uF 47uF 100uF 220uF 470uF 1000uF\n\n400 V\n1uF 47uF\n\nMots clés: caps, capacitor, chimique, electrlytic.",
+     "short_description": "Condensateurs électrolytique 53 Valeurs, 0.22uF-10000uF"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/702-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3596",
+   "price": 0.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Condensateur Céramique 50V",
+     "description": "Condensateur Céramique / Monolithique\n\nCondensateur céramique / Monolithique, multicouche 41 Valeurs 1pF-10uF 50V.\n\nValeurs:\n\n1pF – 2pF – 2.2pF – 3pF – 5pF. (céramique)\n\n10pF – 15pF – 18pF – 22pF – 30pF – 33pF – 47pF – 68pF – 75pF – 82pF – 100pF – 150pF – 220pF – 330pF – 470pF – 680pF. (monolithique)\n\n1nF – 1.5nF – 2.2nF – 3.3nF – 4.7nF – 6.8nF – 10nF – 15nF – 22nF – 33nF – 47nF – 68nF – 100nF – 220nF – 330nF – 470nF – 680nF. (monolithique)\n\n1uF – 2.2uF – 4.7uF – 10uF. (monolithique)\n\nMots clés: capacitor.",
+     "short_description": "Condensateur céramique / monolithique multicouche 41 Valeurs 2pF-10uF 50V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/703-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/703-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42677",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "680uF 450V Condensateur Électrolytique",
+     "description": "680uF 450V Condensateur Électrolytique\n\nDeux versions disponibles : le condensateur haut de gamme Nippon Chemi-Con, reconnu pour son ESR faible et sa longévité élevée, et la version générique économique.\n\n🔧 Caractéristiques techniques\n\nCapacité : 680 µF\n\nTension nominale : 450 V DC\n\nTolérance : ±20 %\n\nESR (à 120 Hz) :\n\nNippon : typ. 0,95 Ω\n\nGénérique : typ. 1,5 Ω\n\nCourant de fuite : ≤ 2 mA (Nippon) / ≤ 5 mA (Générique)\n\nTempérature de service : –40 °C à +105 °C\n\nDurée de vie (85 °C) :\n\nNippon : 2000 h\n\nGénérique : 1000 h\n\nDimensions : 30×55mm (Nippon), 35x60mm (Generic)\n\nEspacement des pattes : 7,5 mm radial\n\nPolarité : patte longue = +, marquage bande = –\n\n💡 Applications typiques\n\nFiltrage de bus DC dans alimentations à découpage\n\nLissage de rotor / bus intermédiaire d’onduleurs et variateurs\n\nCircuits haute tension (HV power supplies, amplificateurs RF)\n\nAlimentation de pompes à vide et flashs photo\n\nÉlectronique industrielle et équipements audio pro\n\n🛠️ Montage / Connexions\n\nInsérez les pattes radiales dans le PCB en respectant la polarité (+ long, – court).\n\nSoudez avec un fer à 300–350 °C, puis dégagez l’air autour pour une bonne ventilation.\n\nLaissez un espace libre autour du corps pour dissiper la chaleur et préserver la durée de vie du condensateur.",
+     "short_description": "680uF 450V un condensateur haut de gamme Nippon Chemi-Con, reconnu pour son ESR faible et sa longévité élevée, et la version générique économique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/704-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/704-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42503",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Diac DB4 – Diode de Déclenchement Symétrique DO-35",
+     "description": "Diac DB4 – Diode de Déclenchement Symétrique DO-35\n\nLe DB4 est un diac (diode for alternating current) conçu pour générer un front abrupt de déclenchement dans les circuits de commande de triacs ou autres thyristors. En boîtier axial DO-35, il offre une tension de claquage précise et un comportement symétrique en alternance.\n\n🔧 Caractéristiques techniques\n\nType : DIAC, diode de déclenchement\n\nPackage : DO-35 axial (verre)\n\nTension de claquage (Breakover voltage) : typ. 28 V – 32 V\n\nCourant de maintien (IH) : typ. 100 µA\n\nCourant maximal de déclenchement (ITM) : 1 A\n\nTemps de récupération : rapide (≤ 200 ns)\n\nCapacité parasite : ~ 30 pF\n\nTempérature de fonctionnement : – 20 °C à + 125 °C\n\n💡 Applications typiques\n\nGênes de déclenchement de triacs dans variateurs de lumière (dimmer)\n\nCommande de moteurs universels (outils électroportatifs)\n\nGénération d’impulsions pour circuits de seuil\n\nProtection contre surtensions transitoires\n\nCircuits de déclenchement à seuil constant en alternance\n\n🛠️ Brochage / Connexions\n\nBroche\nFonction\nCommentaire\n\nDeux broches identiques\nDiac symétrique\nLe DB4 n’est pas polarisé : connexion interchange\n\nMontage\n\nInsérez le DB4 en série avec la gâchette du triac ou dans le circuit de commande AC.\n\nL’orientation n’a pas d’importance : les deux extrémités sont équivalentes.\n\nChoisissez une résistance de limitation en amont pour contrôler le courant de déclenchement.\n\nConseil : pour un déclenchement fiable, placez le DB4 près du triac et minimisez les longueurs de piste pour réduire les inductances parasites.\n\nMots clés: DB3.",
+     "short_description": "Le DB4 est un diac (diode for alternating current) conçu pour générer un front abrupt de déclenchement dans les circuits de commande de triacs ou autres thyristors"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/706-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7090",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N5349B Diode Zener 12V 5W",
+     "description": "Diode Zener 1N5349B 12V 5W\n\nDiode Zener 1N5349B 12V 5W.\n\nFiche technique",
+     "short_description": "Diode Zener 1N5349B 12V 5W."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/707-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35209",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N5346B Diode Zener 9.1V 5W",
+     "description": "1N5346B Diode Zener 9.1V 5W\n\nDiode Zener 1N5346B 9.1V 5W\n\nFiche technique",
+     "short_description": "Diode Zener 1N5346B 9.1V 5W"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/707-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35205",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N5338B Diode Zener 5.1V 5W",
+     "description": "1N5338 Diode Zener 5.1V 5W\n\nDiode Zener 1N5338 5.1V 5W\n\nFiche technique",
+     "short_description": "1N5338 Diode Zener 5.1V 5W"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/707-1.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3113",
+   "price": 175,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "A4988 Shield CNC + 4 Driver Moteur Pas à pas",
+     "description": "Shield CNC + 4 Driver Moteur Pas à pas A4988\n\nShield A4988 pour CNC avec 4 driver moteur  pas-à-pas avec refroidisseurs.\n\n_ Le shield comporte 4 slots pour y monter les drivers de moteurs A4988. Il permet de piloter une imprimante 3D ou une machine de gravure, avec commande des 3 axes (xyz) ainsi qu’un autre moteur pas à pas pour faire avancer le fil d’impression.Chaque moteur pas à pas n’a besoin que de deux ports entrées/sorties.Il est très simple à utiliser, avec de nombreux projets d’imprimantes 3D en open source.\n\n_ Le Driver + refroidisseur, est basée sur le circuit A4988, il permet de contrôler un moteur pas-à-pas bipolaire à partir d’une sortie PWM (vitesse des pas) et d’une sortie digitale (sens de rotation) d’un microcontrôleur (Arduino, etc).\n\nTrois entrées permettent de sélectionner le mode de fonctionnement (pas complet, demi-pas, quart de pas, 1/8 de pas ou 1/16 de pas). Un potentiomètre permet de régler l’intensité de sortie (elle ne doit pas être supérieure à 70% de l’intensité nominale de votre moteur).\n\nRemarques:\n\n– ne pas débrancher/brancher de moteur lorsque le module est alimenté (destruction du module)\n\n– le module est livré avec des connecteurs à souder soi-même en fonction de l’utilisation.\n\n– un échauffement important du circuit intégré est possible et normal en fonctionnement\n\nAlimentation:\n\n– partie logique: 3 à 5,5 Vcc\n\n– partie moteur: 8 à 35 Vcc\n\nSortie: 1 A par phase (2 A avec refroidisseur)\n\nProtections contre:\n\n– les surintensités\n\n– les températures trop élevées\n\nDimensions: 21 x 15 x 3 mm.\n\nMots clés: printer, motor, stepper.",
+     "short_description": "Shield CNC avec 4 driver moteur  pas-à-pas et refroidisseurs.\n\n_ Le shield comporte 4 slots pour y monter les drivers de moteurs A4988. Il permet de piloter une imprimante 3D ou une machine de gravure, avec commande des 3 axes (xyz) ainsi qu’un autre moteur pas à pas pour faire avancer le fil d’impression.\n\n_ Le Driver + refroidisseur, est basée sur le circuit A4988, il permet de contrôler un moteur pas-à-pas bipolaire à partir d’une sortie PWM (vitesse des pas) et d’une sortie digitale (sens de rotation) d’un microcontrôleur (Arduino, etc)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/369-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5759",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Variateur de Vitesse PWM 20A Pour Moteur DC",
+     "description": "Variateur de Vitesse PWM 20A Pour Moteur DC\n\nAvec ce contrôleur. contrôler la vitesse d’un moteur à courant continu. haute efficacité, un couple élevé, faible production de chaleur, avec protection de polarité inverse, et protection contre un courant élevé.\n\nLe régulateur de vitesse du moteur à courant continu permet de contrôler la vitesse d’un moteur à courant continu utilisant une tension continue modulée en largeur d’impulsion (PWM) avec un cycle de service entièrement réglable.\n\nLe régulateur de vitesse du moteur peut facilement fournir un courant continu de 18A à votre moteur à courant continu ou une autre charge DC.\n\nLe circuit comprend également un fusible de protection de 20A, avec raccordement inversé de la tension d’alimentation et de la tension de commande.\n\nCaractéristiques:\n\nModèle: CCMHC\n\nTension de fonctionnement: DC 10V – DC 60V.\n\nPuissance de contrôle: 0.01 – 1200W.\n\nCourant de sortie: 0-18A, ( Max 20A, un dissipateur de chaleur est requis)\n\nFréquence PWM: 25 KHz.\n\nMatériel: Plastique, métal.\n\nTaille du produit: env. 76mm*44mm*26mm\n\nPoids net: env. 68g\n\nMots clés: motor, speed.",
+     "short_description": "Avec ce contrôleur. contrôler la vitesse d’un moteur à courant continu ou une autre charge DC. haute efficacité, un couple élevé, faible production de chaleur, avec protection de polarité inverse, et protection contre un courant élevé."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/03/370-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6221",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Variateur de Vitesse PWM 30A Pour Moteur DC",
+     "description": "Variateur de Vitesse PWM 30A Pour Moteur DC\n\nIl s’agit d’un contrôleur de vitesse de moteur DC simple et facile à utiliser de petite taille, d’apparence élégante et de performances stables. Il est fabriqué avec un circuit imprimé de haute qualité qui assure une durée de vie plus longue.\n\nLe courant peut être ajusté de 0A à 30A.\n\nConçu avec un affichage numérique qui montre le taux en pourcentage de la la cycle réelle.\n\nCe contrôleur de vitesse du moteur utilise des bornes à vis pour un câblage pratique et rapide.\n\nLe pôle positif et négatif du contrôleur doit être connecté correctement, sinon le module sera endommagé.\n\nLa tension d’entrée du contrôleur est préférable d’être la même que la tension nominale du moteur.\n\nCaractéristques:\n\nTension d’entrée: DC6V-60V\n\nTension de sortie: Linéaire avec charge (chute de tension aux bornes du moteur 2)\n\nCourant de sortie: 0A-30A\n\nCourant max en continu: <20A\n\nPlage de vitesse: 0% à 100% (variable)\n\nMéthode de régulation: Potentiomètre (Linéaire)\n\nType de régulation: Courant de régulation (ne peut pas être utilisé comme régulateur de tension)\n\nFréquence de contrôle: 15KHz (largeur d’impulsion)\n\nType de câblage: Borne à vis\n\nPotentiométre rotatif: 100K avec interrupteur (270 °)\n\nTaille: 75 x 56 x 28 mm\n\nMots clés: motor, speed, controller.",
+     "short_description": "Il s’agit d’un contrôleur de vitesse de moteur DC simple et facile à utiliser de petite taille, d’apparence élégante et de performances stables. Il est fabriqué avec un circuit imprimé de haute qualité qui assure une durée de vie plus longue."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/371-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/371-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6224",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Variateur de Vitesse PWM 3A 80W Pour Moteur DC",
+     "description": "Variateur de Vitesse PWM 3A 80W Pour Moteur DC\n\nCe contrôleur de vitesse de moteur à courant continu permet de contrôler la direction d’un moteur à courant continu en utilisant une tension continue à modulation de largeur d’impulsion (PWM) avec un cycle de fonctionnement entièrement réglable de 0% à 100%.\n\nLe contrôleur de vitesse du moteur peut facilement fournir un courant continu de 3A à votre moteur CC ou à toute autre charge CC.\n\nCaractéristiques:\n\nTension d’entrée: 6V-28VDC\n\nLa puissance de sortie maximale: 80W\n\nLe courant de sortie continu: 3A\n\nCycle de service réglable: 0% -100%\n\nTaille: 5cm * 3.2cm\n\nMots clés: motor, speed.",
+     "short_description": "Ce contrôleur de vitesse de moteur à courant continu permet de contrôler la direction d’un moteur à courant continu en utilisant une tension (PWM) avec un cycle de fonctionnement entièrement réglable de 0% à 100%."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/372-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/372-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-11547",
+   "price": 260,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Variateur de Vitesse PWM 100A Pour Moteur DC",
+     "description": "Variateur de Vitesse PWM 100A Pour Moteur DC\n\nIl s’agit d’un contrôleur de vitesse de moteur DC simple et facile à utiliser de petite taille, d’apparence élégante et de performances stables. Il est fabriqué avec un circuit imprimé de haute qualité qui assure une durée de vie plus longue.\n\nLe courant peut être ajusté de 0A à 100A.\n\nConçu avec un affichage numérique qui montre le taux en pourcentage de la cycle réelle.\n\nCe contrôleur de vitesse du moteur utilise des bornes à vis pour un câblage pratique et rapide.\n\nLe pôle positif et négatif du contrôleur doit être connecté correctement, sinon le module sera endommagé.\n\nLa tension d’entrée du contrôleur est préférable d’être la même que la tension nominale du moteur.\n\nCaractéristques:\n\nTension d’entrée: DC10V-55V\n\nTension de sortie: Linéaire avec charge (chute de tension aux bornes du moteur 2)\n\nCourant de sortie: 0A-100A\n\nCourant de crête: 100A\n\nCourant max en continu: 60A\n\nCourant au repos: 0,01 A (veille)\n\nPlage de vitesse: 0% à 100% (variable)\n\nMéthode de régulation: Potentiomètre (Linéaire)\n\nFréquence de contrôle: 15KHz (largeur d’impulsion)\n\nType de câblage: Borne à vis\n\nPotentiométre rotatif: 100K avec interrupteur ON/OFF (270 °)\n\nTrou: 7 mm\n\nAffichage numérique: 0 à 100% de la vitesse nominale du moteur\n\nPuissance continue maximale: 3300W\n\n12 V: 720 W (max), 24 V: 1440 W (max), 36 V: 2160 W (max), 48 V: 2880 W (max), 50 V: 3000 W (max).\n\nPuissance de crête: 5500W\n\nProtection contre l’inversion de polarité: NON\n\nProtection contre les surintensités: NON\n\nContrôle de rotation du moteur avec interrupteur: avant / arrêt / arrière\n\nTaille: 120x97x28mm.\n\nMots clés: motor, speed.",
+     "short_description": "Il s’agit d’un contrôleur de vitesse de moteur DC simple et facile à utiliser de petite taille, d’apparence élégante et de performances stables. Il est fabriqué avec un circuit imprimé de haute qualité qui assure une durée de vie plus longue."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/373-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/373-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3107",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Variateur de Vitesse PWM 10A Pour Moteur DC",
+     "description": "Variateur de Vitesse PWM 10A Pour Moteur DC\n\nAvec ce contrôleur. contrôler la vitesse d’un moteur à courant continu. haute efficacité, un couple élevé, faible production de chaleur, avec protection de polarité inverse, et protection contre un courant élevé.\n\nCourant Max: 10A\n\nTension de travail: 12V DC – DC 40v.\n\nContrôle de puissance: 0.01 – 400w.\n\nCourant statique: 0.02 A (veille).\n\nPWM cycle de service: 10% -100%.\n\nFréquence PWM: 13 khz.\n\nmatériau: plastique, métal.\n\ntaille: 6cm x 7.5cm x 2.8cm\n\npoids: 70g\n\nMots clés: motor, speed.",
+     "short_description": "Avec ce contrôleur. contrôler la vitesse d’un moteur à courant continu. haute efficacité, un couple élevé, faible production de chaleur, avec protection de polarité inverse, et protection contre un courant élevé.\n\nCourant Max: 10A\n\nTension de travail: 12V DC – DC 40v.\n\nContrôle de puissance: 0.01 – 400w.\n\nCourant statique: 0.02 A (veille).\n\nPWM cycle de service: 10% -100%.\n\nFréquence PWM: 13 khz."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/365-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/365-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42060",
+   "price": 290,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Variateur de Vitesse PWM 30A 12V-80V DC",
+     "description": "Variateur de Vitesse PWM 30A 12V-80V DC\n\nCe régulateur permet de piloter la vitesse de vos moteurs DC de 12 à 80 V jusqu’à 30 A via modulation PWM, avec fonction soft start/stop et affichage numérique de la vitesse en pourcentage.\n\n🔧 Caractéristiques techniques\n\nTension d’entrée : DC 12–80 V\n\nTension de sortie : 0–100 % de la tension d’entrée.\n\nCourant max. : 30 A\n\nPlage de puissance recommandée :\n\n12 V → ≤ 250 W\n\n24 V → ≤ 350 W\n\n48 V → ≤ 500 W.\n\nFréquence PWM : 21 kHz\n\nFonction soft start/stop pour réduire les à-coups mécaniques\n\nAffichage LED 3 chiffres (0–100 %) + boutons MENU / ▲ / ▼ pour paramétrage\n\nDimensions boîtier : 110 × 77 × 36 mm ; panneau : 92 × 69 × 13 mm\n\n💡 Applications typiques\n\nContrôle de la vitesse de moteurs DC (pompes, ventilateurs, convoyeurs)\n\nAutomatisation industrielle et prototypes DIY\n\nVéhicules électriques légers (kart, vélo, trottinette)\n\nBancs d’essai et réglage de couples\n\nProjets IoT embarquant pilotage moteur\n\n🛠️ Brochage / Câblage\n\nAlimentation : relier V+ à la borne +12–80 V, V– à la masse.\n\nMoteur : relier M+ et M– aux bornes de votre moteur DC.\n\nPanneau de contrôle (câble 4 fils) :\n\nRouge → +5 V (panneau)\n\nNoir → GND\n\nVert → Signal PWM\n\nJaune → Données (affichage)\n\nVeillez à une alimentation stable et à un bon serrage des bornes pour éviter toute surchauffe.\n\nMots clés: motor, speed, controller.",
+     "short_description": "Ce régulateur permet de piloter la vitesse de vos moteurs DC de 12 à 80 V jusqu’à 30 A via modulation PWM"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/376-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/376-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4048",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moteur Réducteur Pour Voiture Robot 2WD/4WD",
+     "description": "Moteur Réducteur Pour Voiture Robot Intelligent 2WD/4WD\n\nMoteur Réducteur pour voiture robot intelligent 2WD/4WD.\n\nTension d’alimentation: 3V à 12V DC ( tension recommandé: 6 à 8 V)\n\nCouple: 800gf cm min (pour 3V)\n\nRapport de réduction: 1:48 (pour 3V)\n\nMots clés: car. dinamo.",
+     "short_description": "Moteur Réducteur Pour Voiture Robot Intelligent 2WD/4WD.\n\nTension d’alimentation: 3V à 12V DC ( tension recommandé: 6 à 8 V)\n\nCouple maximal: 800gf cm min (pour 3V)\n\nRapport de réduction: 1:48 (pour 3V)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/08/382-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/08/382-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6159",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Plaque en Acrylique pour Voiture 2WD",
+     "description": "Plaque en Acrylique pour Chassis Robot Voiture 2WD\n\nPlaque en Acrylique pour Chassis Robot Voiture 2WD.\n\nMatiére: Acrylique\n\nCouleur: Transparent",
+     "short_description": "Plaque transparent en acrylique pour chassis robot voiture 2WD."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/384-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42067",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bobine de Fil de Cuivre 1.0mm",
+     "description": "Bobine de Fil de Cuivre 1.0mm\n\nCe fil de cuivre émaillé de 1 mm de diamètre est idéal pour le bobinage de moteurs, transformateurs, inductances, haut-parleurs et projets de bobinage DIY. Son isolant émaillé fin permet un nombre maximal de spires sans risque de court-circuit entre tours.\n\n🔧 Caractéristiques techniques\n\nDiamètre conducteur : 1,00 mm ± 0,02 mm\n\nLongueur de la bobine : 10 m\n\nMatériau : cuivre de haute pureté (99,99 %)\n\nIsolation : vernis polyuréthane émaillé (classe H)\n\nRésistance linéique : ~0,018 Ω/m\n\nTempérature de service : – 40 °C à + 155 °C\n\nRésistance diélectrique : > 500 V entre couches\n\nSouplesse : plusieurs séances de pliage sans fissuration du vernis\n\n💡 Applications typiques\n\nBobinages de moteurs DC/AC, transformateurs et inductances\n\nEnroulements de solénoïdes et électroaimants\n\nRéalisation de bobines pour haut-parleurs et capteurs à inductance\n\nPrototypes Arduino / CNC nécessitant des self-tests\n\nBijoux et art filaire offrant un aspect cuivre brillant après vernis\n\n🛠️ Conseils d’utilisation\n\nDénudez soigneusement l’émail (ponçage fin ou décapant chimique) avant soudure.\n\nUtilisez une étain-flux adapté pour garantir une bonne adhérence de la soudure.\n\nMaintenez une tension régulière lors du bobinage pour des tours bien alignés.\n\nMots clés: copper, wire, solder.",
+     "short_description": "Ce fil de cuivre émaillé de 1 mm de diamètre est idéal pour le bobinage de moteurs, transformateurs, inductances, haut-parleurs et projets de bobinage DIY."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/09/390-a-1.png"
+   ]
+  }
+ ]
+}

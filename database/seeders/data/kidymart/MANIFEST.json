@@ -4,9 +4,9 @@
   "uncertain: 74"
  ],
  "total_products": 461,
- "batched": 260,
- "held_livres": 118,
- "held_puericulture": 83,
+ "batched": 461,
+ "held_livres": 0,
+ "held_puericulture": 0,
  "held_no_category": 0,
  "keyword_guessed": 1,
  "keyword_guessed_skus": [
@@ -48,6 +48,61 @@
   "bulk-023.json",
   "bulk-024.json",
   "bulk-025.json",
-  "bulk-026.json"
- ]
+  "bulk-026.json",
+  "bulk-027.json",
+  "bulk-028.json",
+  "bulk-029.json",
+  "bulk-030.json",
+  "bulk-031.json",
+  "bulk-032.json",
+  "bulk-033.json",
+  "bulk-034.json",
+  "bulk-035.json",
+  "bulk-036.json",
+  "bulk-037.json",
+  "bulk-038.json",
+  "bulk-039.json",
+  "bulk-040.json",
+  "bulk-041.json",
+  "bulk-042.json",
+  "bulk-043.json",
+  "bulk-044.json",
+  "bulk-045.json",
+  "bulk-046.json",
+  "bulk-047.json"
+ ],
+ "second_bundle": {
+  "built": "2026-11-25",
+  "batched": 201,
+  "batch_files": [
+   "bulk-027.json",
+   "bulk-028.json",
+   "bulk-029.json",
+   "bulk-030.json",
+   "bulk-031.json",
+   "bulk-032.json",
+   "bulk-033.json",
+   "bulk-034.json",
+   "bulk-035.json",
+   "bulk-036.json",
+   "bulk-037.json",
+   "bulk-038.json",
+   "bulk-039.json",
+   "bulk-040.json",
+   "bulk-041.json",
+   "bulk-042.json",
+   "bulk-043.json",
+   "bulk-044.json",
+   "bulk-045.json",
+   "bulk-046.json",
+   "bulk-047.json"
+  ],
+  "categories": {
+   "17 Livres": 118,
+   "18 Puériculture": 83
+  },
+  "name_too_long": [],
+  "no_image": [],
+  "held_remaining": 0
+ }
 }

@@ -1,0 +1,197 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-22438",
+   "price": 790,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "RXN-305D Alimentation Ajustable DC 30V 5A",
+     "description": "RXN-305D Alimentation Ajustable DC 30V 5A\n\nRXN-305D Alimention Ajustable DC de laboratoire, avec une tension de sortie de 0-30V et un courant de 0-5A, la tension d’entrée est de 220VAC.\n\nRadiateur interne et refroidissement par contrôle électronique de la température\n\nTension de sortie et courant de sortie d’affichage de compteur numérique ou à pointeur\n\nLa protection de limitation de courant et les utilisateurs peuvent définir le point de protection de chaulage de manière arbitraire\n\nProtection contre l’inversion de polarité\n\nTension de sortie: 0-30 V\n\nCourant de sortie: 0-5 A\n\nTension d’entrée AC 220V± 10% 50Hz/60Hz (peut également être AC 110V± 10% 50Hz/60Hz si nécessaire)\n\nTempérature de condition de travail : -10-40Degree Celsius Humidité relative :\n\nTempérature de condition de stockage : -10-40 degrés Celsius Humidité relative :\n\nStabilité de tension de fonctionnement à tension constante : 0,01 % + 2 mV\n\nStabilité de charge : ≤ 0.01%+2mV\n\nTemps de récupération : ≤ 100uS\n\nOndulation et bruit : ≤ 1mVrms (valeur effective)\n\nCoefficient de température : ≤ 200PPM/degré Celsius\n\nFonctionnement à courant constant Stabilité du courant : 0,1 % + 3 mA\n\nStabilité de charge : ≤ 0.2%+3mA\n\nOndulation et bruit : ≤ 2mArms (valeur effective)\n\nAffichage de la tension Affichage LED de précision à 4 chiffres : ± 1%\n\nAffichage LED de précision de l’affichage actuel à 4 chiffres : ± 1 %\n\nTaille : 275 x 155 x 126 mm\n\nMots clés: swicthing, power, supply,",
+     "short_description": "RXN-305D Alimention Ajustable DC de laboratoire, avec une tension de sortie de 0-30V et un courant de 0-5A, la tension d’entrée est de 220VAC."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/424-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30570",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 5V 10A 50W",
+     "description": "Alimentation à Découpage 5V 10A 50W\n\nAlimentation à découpage 5V, 220/110V AC, capable d’un courant de 10A.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 5V DC\n\nCourant de sortie: 10A max\n\nPuissance: 50W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation à découpage 5V, 220/110V AC, capable d’un courant de 10A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/06/424-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35214",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 5V 20A 100W",
+     "description": "Alimentation à Découpage 5V 20A 100W\n\nAlimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 5V, maximum 20A 100W. Deux ports de sortie. Si la consommation dépasse 20A, seulement 20A seront fournis et l’alimentation sera bientôt endommagée. NE JAMAIS SURCHARGER !\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 5V DC\n\nCourant de sortie: 20A max\n\nPuissance: 100W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 5V, maximum 20 A 100W. Deux ports de sortie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0424-C.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50598",
+   "price": 180,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 5V 40A 200W",
+     "description": "Alimentation à Découpage 5V 40A 100W\n\nAlimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 5V, maximum 40A 200W. Deux ports de sortie.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 5V DC\n\nCourant de sortie: 40A max\n\nPuissance: 200W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 5V, maximum 40 A 200W. Deux ports de sortie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/424-d-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35212",
+   "price": 140,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 24V 5A 120W",
+     "description": "Alimentation à Découpage 24V 5A 120W\n\nAlimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 24 V, maximum 5 A 120 W. Deux ports de sortie.\n\nIl peut fournir tous les courants inférieurs à 5A, tels que 1A, 2A, 2,5A, 3A, 3,5A, 4A, 4,2A, 4,5A, 4,7A, 5A. Par exemple, si votre appareil consomme 3,8 A, alors 3,8 A sera fourni. Si la consommation dépasse 5A, seulement 5A seront fournis et l’alimentation sera bientôt endommagée. NE JAMAIS SURCHARGER !\n\nIl est largement utilisé pour piloter une bande lumineuse LED 24 V, un projecteur, un projet d’éclairage commercial, un routeur sans fil, des chats ADSL, un HUB, des caméras de sécurité domestiques, des appareils audio/vidéo, une imprimante 3D, un système de surveillance CCTV DVR NVR, un écran LCD/moniteur LED, routeur webcam, haut-parleur ou autres appareils 24 V de moins de 120 W.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 24V DC\n\nCourant de sortie: 5A max\n\nPuissance: 120W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 24 V, maximum 5 A 120 W. Deux ports de sortie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0424-E.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35213",
+   "price": 190,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 24V 10A 240W",
+     "description": "Alimentation à Découpage 24V 10A 240W\n\nAlimentation universelle à découpage avec ventilateur. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 24 V, maximum 10A 240 W. Deux ports de sortie. Si la consommation dépasse 10A, seulement 10A seront fournis et l’alimentation sera bientôt endommagée. NE JAMAIS SURCHARGER !\n\nIl est largement utilisé pour piloter une bande lumineuse LED 24 V, un projecteur, un projet d’éclairage commercial, un routeur sans fil, des chats ADSL, un HUB, des caméras de sécurité domestiques, des appareils audio/vidéo, une imprimante 3D, un système de surveillance CCTV DVR NVR, un écran LCD/moniteur LED, routeur webcam, haut-parleur ou autres appareils 24 V de moins de 240W.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 24V DC\n\nCourant de sortie: 10A max\n\nPuissance: 240W.\n\nMots clés: swicthing, power, supply",
+     "short_description": "Alimentation universelle à découpage avec ventilateur. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 24 V, maximum 10A 240 W. Deux ports de sortie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0424-F.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0424-F-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4107",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte d’alimentation 5V 2.5A 13W 220VAC",
+     "description": "Carte d’alimentation 220VAC 5V 2.5A 13W\n\nCarte d’alimentation 5V 2.5A 220V AC – switching power supply – de haute fiabilité et stabilité, avec une tension de sortie de 5V et capable d’un courant de sortie de 2.5A, peut être utilisé pour alimenter vos projets, ou remplacer / réparer vos dispositifs et appareils électronique et électrique.\n\nProtection contre:\n\nSurtensions: Oui\n\nSurintensité: Oui\n\nCourts circuits: Oui\n\nCaractéristiques\n\nTension d’entrée: AC 100V-240V 50-60Hz\n\nTension de sortie: 5V\n\nCourant de sortie: 2.5A\n\nDimensions: 55mm x 32mm x 17mm",
+     "short_description": "Carte d’alimentation 220V AC – switching power supply – de haute fiabilité et stabilité, avec une tension de sortie de 5V et capable d’un courant de sortie de 2.5A, peut être utilisé pour alimenter vos projets, ou remplacer / réparer vos dispositifs et appareils électronique et électrique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/425-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4682",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte d’alimentation 12V 400mA 220VAC",
+     "description": "Carte d’alimentation 220VAC 12V 400mA\n\nCarte d’alimentation 12V 400mA 220V AC – switching power supply – de haute fiabilité et stabilité, avec une tension de sortie de 12V et capable d’un courant de sortie de 400mA, peut être utilisé pour alimenter vos projets, ou remplacer / réparer vos dispositifs et appareils électronique et électrique.\n\nProtection contre:\n\nSurtensions: Oui\n\nSurintensité: Oui\n\nSurchauffe: Oui\n\nCourts circuits: Oui\n\nCaractéristiques\n\nTension d’entrée: AC 85V-265V 50-60Hz\n\nTension de sortie: 11.9 – 12.1V\n\nCourant de sortie: 400-450mA",
+     "short_description": "Carte d’alimentation 12V 400mA 220V AC – switching power supply – de haute fiabilité et stabilité, avec une tension de sortie de 12V et capable d’un courant de sortie de 400mA, peut être utilisé pour alimenter vos projets, ou remplacer / réparer vos dispositifs et appareils électronique et électrique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/426-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/426-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/426-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6185",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation 5V 3A Avec On/Off pour Raspberry Pi",
+     "description": "Alimentation 5V 3A pour Raspberry Pi\n\nCet adaptateur compact convertit le secteur 100–240 V AC en 5 V DC stabilisé 3 A, avec connecteur USB-C (Type-C) et interrupteur on/off intégré, pour alimenter en toute sécurité vos Raspberry Pi, Arduino et autres appareils 5 V.\n\n🔧 Caractéristiques techniques\n\nEntrée : 100–240 V AC, 50/60 Hz\n\nSortie : 5 V DC ⎓ 3 A (15 W)\n\nConnecteur : USB Type-C (câble intégré)\n\nInterrupteur : bouton on/off sur le bloc d’alimentation\n\nProtections : court-circuit, surcharge, surchauffe\n\nIndicateur LED : mise sous tension\n\nRendement : > 85 %\n\nCâble : longueur 1,2 m (approx.)\n\nConformités : CE, FCC, RoHS\n\n💡 Applications typiques\n\nAlimentation du Raspberry Pi 4B/3B/Zero\n\nModules Arduino, ESP32, ESP8266, etc.\n\nRouteurs, caméras IP et petits serveurs 5 V\n\nBandes LED 5 V, ventilateurs DC\n\nProjets IoT et systèmes embarqués nécessitant un on/off facile\n\nMots clés: power supply, chargeur, charger.",
+     "short_description": "Alimentation 5V 3A avec interrupteur On/Off, micro Usb pour Raspberry Pi3, ou Raspberry Pi4 en ajoutant le convertisseur Type-c vers Micro usb."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/427-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6272",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation 12V 2A",
+     "description": "Alimentation 12V 2A\n\nAlimentation 12V 2A Avec Prise DC 5.5×2.5mm.\n\nMots clés: power supply, chargeur.",
+     "short_description": "Alimentation 12V 2A Avec Prise DC 5.5×2.5mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/430-2.png"
+   ]
+  }
+ ]
+}

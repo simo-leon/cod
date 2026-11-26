@@ -1,0 +1,23 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-1870",
+   "price": 274,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    18
+   ],
+   "locales": {
+    "fr": {
+     "name": "BABYJEM Serviette de Bain Nouveau-né Grise",
+     "description": "Description : \n\nLa Serviette de Bain Nouveau-né Grise de BABYJEM est spécialement conçue pour envelopper et sécher délicatement les bébés dès la naissance. Fabriquée dans une matière ultra-douce et très absorbante (souvent du coton éponge), elle assure un séchage rapide tout en préservant la peau sensible du nourrisson. Elle est généralement dotée d’une capuche pour maintenir la tête de bébé au chaud et faciliter l’emmaillotage après le bain. Sa couleur grise est un choix neutre et moderne.\n\nCaractéristiques principales : \n\n1️⃣ Conception : Grande taille adaptée aux nourrissons, incluant une capuche pour couvrir et sécher la tête.\n\n2️⃣ Matériaux : Tissu éponge de haute qualité (souvent 100% coton ou un mélange doux), très absorbant et doux pour la peau.\n\n3️⃣ Fonction : Sèche rapidement le bébé et le maintient au chaud immédiatement après le bain.\n\nAvantages : \n\n✔ Confort Optimal : La matière douce et la capuche garantissent chaleur et confort pour le bébé.\n\n✔ Absorption Efficace : Le tissu éponge absorbe rapidement l’humidité, réduisant le temps de séchage.\n\n✔ Praticité : Facile à manipuler pour envelopper bébé et lavable en machine.\n\nConseils d’utilisation : \n\n• Placer le bébé sur la serviette ouverte après le bain et utiliser la capuche pour sécher ses cheveux.\n\n• Laver la serviette à 40°C avant la première utilisation pour optimiser l’absorption.\n\nFavoris",
+     "short_description": "Serviette de bain ultra-douce et très absorbante avec capuche intégrée. Idéale pour envelopper et sécher les nouveau-nés en douceur."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/8681049210623-featured.jpg"
+   ]
+  }
+ ]
+}

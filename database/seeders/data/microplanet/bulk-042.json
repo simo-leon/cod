@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6274",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation 9V 2A",
+     "description": "Alimentation 9V 2A\n\nAlimentation 9V 2A Avec Prise DC 5.5×2.5mm.\n\nMots clés: power supply, chargeur.",
+     "short_description": "Alimentation 9V 2A Avec Prise DC 5.5×2.5mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/430-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6367",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte d’alimentation 5V 700mA 3.5W 220VAC",
+     "description": "Carte d’alimentation 5V 700mA 3.5W 220VAC\n\nCarte d’alimentation 5V 700mA 220V AC – switching power supply – de haute fiabilité et stabilité, avec une tension de sortie de 5V et capable d’un courant de sortie de 700-800mA, peut être utilisé pour alimenter vos projets, ou remplacer / réparer vos dispositifs et appareils électronique et électrique.\n\nProtection contre:\n\nSurtensions: Oui\n\nSurintensité: Oui\n\nSurchauffe: Oui\n\nCourts circuits: Oui\n\nCaractéristiques\n\nTension d’entrée: AC 85 – 265V 50-60Hz / DC 100 – 370V\n\nTension de sortie: 5V (+ / – 0.2 V)\n\nCourant de sortie: 700-800mA\n\nPuissance de sortie: 3.5W\n\nCourant d’entrée: 0.027A (AC110V) 0.014A (AC220V)\n\nDimensions:  3 x 2 x 1.8 cm\n\nMots clés: power, supply, board.",
+     "short_description": "Carte d’alimentation 5V 700mA 220V AC – switching power supply – de haute fiabilité et stabilité, avec une tension de sortie de 5V et capable d’un courant de sortie de 700-800mA."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/432-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/432-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/432-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7292",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HLK-PM03 Alimentation 220V AC 3.3V 3W",
+     "description": "Alimentation 220V AC HLK-PM03, 3.3V 3W\n\nAlimentation 220V AC HLK-PM03, avec une tension de sortie de 3.3V.\n\nCaractéristiques:\n\nTension d’entrée: 100-240V AC 50-60Hz\n\nTension de sortie: 3.3V DC\n\nPuissance: 3W.\n\nMots clés: swicthing, power, supply, mini.",
+     "short_description": "Alimentation 220V AC HLK-PM03, avec une tension de sortie de 3.3V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/434-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/433-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7294",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HLK-PM01 Alimentation 220V AC 5V 3W",
+     "description": "Alimentation 220V AC HLK-PM01, 5V 3W\n\nAlimentation 220V AC HLK-PM01, avec une tension de sortie de 5V.\n\nCaractéristiques:\n\nTension d’entrée: 100-240V AC 50-60Hz\n\nTension de sortie: 5V DC\n\nPuissance: 3W.\n\nMots clés: swicthing, power, supply, mini.",
+     "short_description": "Alimentation 220V AC HLK-PM01, avec une tension de sortie de 5V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/435-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/433-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17828",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "YX8018 Elevateur de Tension, Joule Thief, Driver Led",
+     "description": "YX8018 Elevateur de Tension, Joule Thief, Driver Led\n\nYX8018 est un driver Led à haute efficacité 80-90%, équipé d’un oscillateur fermé qui fonctionne à environ 200 kHz entraînant un interrupteur NMOS à drain ouvert (sortie sur la broche 1).\n\nDocumentation",
+     "short_description": "YX8018 est un driver Led à haute efficacité 80-90%."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/443-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6448",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL6019 5A Abaisseur / Élévateur de Tension Automatique",
+     "description": "Abaisseur / Élévateur de Tension Automatique XL6019 5A\n\nAlimentation Abaisseur et élévateur de Tension automatique (La sortie peut être supérieure ou inférieure à l’entrée), à base de XL6019, les commutateurs MOSFET intégrés 5A permettent une efficacité allant jusqu’à 94%, fréquence de commutation élevée 180KHz, l’ondulation est plus petite, la dimension est plus petite.\n\nRectification: Rectification non synchrone\n\nTension d’entrée: 5V – 32V\n\nTension de sortie: 1.25V – 35V (Réglable depuis un potentiométre de précision)\n\nCourant d’entrée: 4A (max)\n\nCourant de sortie : 5A (Un dissipateur thermique est requis pour un courant plus de 3A)\n\nEfficacité de conversion: 94% max\n\nFréquence de commutation: 180KHz\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: non\n\nFonction d’arrêt thermique intégrée\n\nDimensions: 26mm * 53mm * 14mm\n\nFiche technique\n\nMots clés: boost, buck, converter, power, supply.",
+     "short_description": "Alimentation Abaisseur et élévateur de Tension automatique (La sortie peut être supérieure ou inférieure à l’entrée), à base de XL6019, les commutateurs MOSFET intégrés 5A permettent une efficacité allant jusqu’à 94%."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/444-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35777",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL6019 5A Élévateur de Tension",
+     "description": "XL6019 5A Élévateur de Tension\n\nAlimentation élévateur de Tension automatique, à base de XL6019, les commutateurs MOSFET intégrés 5A permettent une efficacité allant jusqu’à 94%, fréquence de commutation élevée 180KHz, l’ondulation est plus petite, la dimension est plus petite.\n\nCaractéristiques:\n\nType de module : Convertisseur élévateur/élévateur DC-DC (non isolé)\n\nCircuit intégré de contrôle de commutation : XLSemi XL6019\n\nPlage de tension d’entrée : 3,5 – 35 V CC\n\nPlage de tension de sortie : 5,0 – 40 V CC\n\nCourant de sortie maximum : 4 A Nominal, (max 5A, nécessite un refroidissement supplémentaire)\n\nPuissance de sortie maximale : 30 W (si une puissance supérieure à 10 W nécessite un refroidissement supplémentaire)\n\nEfficacité de conversion : jusqu’à 94 %\n\nFréquence de fonctionnement : 180 kHz\n\nTension d’ondulation de sortie : < 100 mV\n\nRégulation de charge : ±0,5 %\n\nTempérature de fonctionnement : -45 à +85°C\n\nProtection intégrée : protection contre l’inversion de polarité d’entrée, court-circuit de sortie ; Surchauffe\n\nIndicateurs LED : LED d’alimentation rouge\n\nDimensions : ~(50 mm x 28 mm x 13 mm)\n\nFiche technique\n\nMots clés: boost, buck, converter, power, supply.",
+     "short_description": "Alimentation élévateur de Tension automatique, à base de XL6019, les commutateurs MOSFET intégrés 5A permettent une efficacité allant jusqu’à 94%, fréquence de commutation élevée 180KHz, l’ondulation est plus petite, la dimension est plus petite."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/04/444-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3156",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Convertisseur de niveau logique bidirectionnel 3.3V/5V",
+     "description": "Convertisseur de niveau logique bidirectionnel 3.3V/5V\n\nLe Convertisseur logique de niveau bidirectionnel connecte facilement ensemble différents niveaux logiques de tension pour une communication bidirectionnelle sur jusqu’à 4 canaux, vous permettant d’utiliser des capteurs à basse tension avec un microcontrôleur en 5V ou des capteurs en 5V sur un microcontrôleur de 3,3V.\n\nCommunication jusqu’à 4 canaux\n\nConnexion à la masse (GND) à passage direct\n\nMots clés: logic, level, converter.",
+     "short_description": "Le Convertisseur logique de niveau bidirectionnel connecte facilement ensemble différents niveaux logiques de tension pour une communication bidirectionnelle sur jusqu’à 4 canaux, vous permettant d’utiliser des capteurs à basse tension avec un microcontrôleur en 5 V ou des capteurs en 5 V sur un microcontrôleur de 3,3 V.\n\nCommunication jusqu’à 4 canaux\n\nConnexion à la masse (GND) à passage direct"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/445-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30729",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TXS0108E Convertisseur de niveau logique bidirectionnel 3.3V/5V",
+     "description": "TXS0108E Convertisseur de niveau logique bidirectionnel 3.3V/5V 8 Canaux\n\nÉtant donné que l’Arduino (et le Basic Stamp) sont des appareils 5V, et que la plupart des capteurs, écrans, flashcards et modes modernes sont de 3,3V uniquement, de nombreux fabricants constatent qu’ils doivent effectuer un changement de niveau/conversion pour protéger l’appareil 3,3V de 5V.\n\nC’est là qu’intervient cette jolie puce, le convertisseur de niveau bidirectionnel TXS0108E ! Cette puce effectue un changement de niveau bidirectionnel de pratiquement n’importe quelle tension à n’importe quelle tension et détectera automatiquement la direction. La seule chose qui ne fonctionne pas bien avec cette puce est i2c (car elle utilise de fortes tractions qui confondent le capteur de direction automatique). Si vous avez besoin d’utiliser des pullups, vous pouvez mais ils doivent être d’au moins 50K ohms – ceux internes aux AVR/Arduino sont d’environ 100K ohms donc ils sont OK.\n\nDimensions : 21 mm x 15 mm.\n\nDans le cas d’une conversion entre le système 3,3 V et le système 5 V :\n\nVCCA se connecte à l’alimentation 3.3V\n\nVCCB se connecte à l’alimentation 5V\n\nGND se connecte respectivement au pôle négatif d’alimentation, les deux alimentations doivent être mises à la terre en commun l’une avec l’autre\n\nLorsque Ax a une entrée TTL 3.3V, Bx obtiendra une sortie TTL 5V\n\nLorsque Bx a une entrée TTL 5V, Ax obtiendra une sortie TTL 3.3V\n\nAUCUN contrôle de direction requis\n\nFiche technique",
+     "short_description": "Cette puce effectue un changement de niveau bidirectionnel de pratiquement n’importe quelle tension à n’importe quelle tension et détectera automatiquement la direction"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/06/445-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3157",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL6009 Abaisseur / Élévateur de Tension Automatique 4A",
+     "description": "Abaisseur / Élévateur de Tension Automatique XL6009 4A\n\nAlimentation Abaisseur et élévateur de Tension automatique (La sortie peut être supérieure ou inférieure à l’entrée), à base de XL6009, les commutateurs MOSFET intégrés 4A permettent une efficacité allant jusqu’à 94%, fréquence de commutation élevée 400KHz, l’ondulation est plus petite, la dimension est plus petite.\n\nRectification: Rectification non synchrone\n\nTension d’entrée: 3.8V – 32V\n\nTension de sortie: 1.25V – 35V (Réglable depuis un potentiométre de précision)\n\nCourant d’entrée: 3A (max), sans charge 18mA (entrée 5V, sortie 8V, sans charge inférieure à 18mA.)\n\nCourant de sortie : 4A (Un dissipateur thermique est requis pour un courant plus de 3A)\n\nEfficacité de conversion: 94% max\n\nFréquence de commutation: 400KHz\n\nOnduleur de sortie: 50mV\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 0,5%\n\nTempérature de fonctionnement: -40 – +85\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: non\n\nFonction d’arrêt thermique intégrée\n\nDimensions: 48mm * 25mm * 14mm\n\nFiche technique\n\nMots clés: boost, buck, converter, power, supply.",
+     "short_description": "Alimentation Abaisseur et élévateur de Tension automatique (La sortie peut être supérieure ou inférieure à l’entrée), à base de XL6009, les commutateurs MOSFET intégrés 4A permettent une efficacité allant jusqu’à 94%, fréquence de commutation élevée 400KHz, l’ondulation est plus petite, la dimension est plus petite.\n\nTension d’entrée: 3.8V – 32V\n\nTension de sortie: 1.25V – 35V (Réglable depuis un potentiométre de précision)\n\nCourant d’entrée: 3A (max), sans charge 18mA.\n\nCourant de sortie : 4A (Un dissipateur thermique est requis pour un courant plus de 3A)\n\nEfficacité de conversion: 94% max\n\nFréquence de commutation: 400KHz\n\nOnduleur de sortie: 50mV\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: non\n\nFonction d’arrêt thermique intégrée\n\nDimensions: 48mm * 25mm * 14mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/446-1.png"
+   ]
+  }
+ ]
+}

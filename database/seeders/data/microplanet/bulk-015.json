@@ -1,0 +1,197 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-42505",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Analyseur Logique USB SCM 24MHz 8 Canaux",
+     "description": "Analyseur Logique USB SCM 24 MHz 8 Canaux\n\nL’analyseur logique USB SCM est un outil de debug polyvalent, capable de capturer jusqu’à 8 canaux à 24MHz et un taux d’échantillonnage de 24MS/s. Il se connecte en USB à votre PC et fonctionne avec les logiciels libres Sigrok/PulseView, Saleae Logic ou Arduino IDE (via plugins), pour l’analyse de protocoles numériques (I²C, SPI, UART, 1-Wire…).\n\n🔧 Caractéristiques techniques\n\nNombre de canaux : 8 logiques (TTL 3,3 V/5 V compatible)\n\nBande passante de capture : 24 MHz\n\nTaux d’échantillonnage : 24 MS/s (max.)\n\nMémoire tampon : 16 k échantillons par canal\n\nInterface : USB 2.0 full-speed (12 Mbps)\n\nLogiciels supportés : Sigrok/PulseView, Saleae Logic, Arduino IDE\n\nAlimentation : via USB (5 V DC ±5 %)\n\nDimensions : 65 × 23 × 12 mm\n\nConnecteur : câble IDC 10 broches (2 × 5) à 8 × 2,54 mm pour sondes\n\n💡 Applications typiques\n\nAnalyse et décodage de bus SPI, I²C, UART, CAN, 1-Wire…\n\nDebug de microcontrôleurs (Arduino, ESP32, STM32…), FPGA\n\nVérification de triggers et de front montant/descendant\n\nTracé de timing, mesure de fréquence, test de signaux numériques\n\nÉducation et formation en électronique\n\n🛠️ Brochage / Connexions\n\nBroche IDC (2×5)\nCanal logique\nFonction\nRemarque\n\n1\nCH0\nEntrée logique 0\nTTL 3,3/5 V compatible\n\n2\nCH1\nEntrée logique 1\n…\n\n3\nCH2\nEntrée logique 2\n…\n\n4\nCH3\nEntrée logique 3\n…\n\n7\nCH4\nEntrée logique 4\n…\n\n8\nCH5\nEntrée logique 5\n…\n\n9\nCH6\nEntrée logique 6\n…\n\n10\nCH7\nEntrée logique 7\n…\n\n5 (GND)\nGND\nMasse\nRelié à la masse du circuit\n\n6 (VCC)\n5 V\nAlimentation\nOptionnel pour modules externes\n\nConnectez le câble IDC à l’analyseur et branchez les sondes sur vos signaux.\n\nReliez la masse (GND) à votre référence commune.\n\nLancez PulseView ou Saleae Logic, sélectionnez le périphérique “USB SCM 24 MHz”, et configurez vos canaux.\n\nDéfinissez votre trigger (front montant/descendant) et démarrez la capture pour visualiser et décoder vos trames numériques.\n\n⚙️ Comment l’utiliser (logiciels compatibles)\n\nConnexion matérielle\n\nBranchez l’analyseur USB SCM sur un port USB de votre PC.\n\nConnectez le câble IDC aux sondes, et reliez la masse (GND) à votre circuit.\n\nSigrok / PulseView\n\nTéléchargez et installez Sigrok (inclut PulseView) depuis : https://sigrok.org/download\n\nLancez PulseView, dans Device, sélectionnez “USB SCM 24 MHz” et choisissez la fréquence d’échantillonnage (par ex. 24 MS/s).\n\nActivez les canaux CH0–CH7, configurez un trigger (front montant/descendant) puis cliquez sur Run pour capturer et décoder vos signaux (I²C, SPI, UART…).\n\nSaleae Logic\n\nTéléchargez Saleae Logic (version gratuite) : https://www.saleae.com/downloads\n\nLancez l’application, dans Device, choisissez “USB SCM”, réglez la fréquence de capture et cochez les canaux désirés.\n\nDéfinissez votre trigger et démarrez la capture. Vous pouvez utiliser les plugins de décodage intégrés pour analyser vos protocoles.\n\nArduino IDE\n\nInstallez la bibliothèque ”LogicAnalyzer” ou un plugin compatible (disponible via le Library Manager).\n\nDans l’IDE, ouvrez l’exemple “USBLogic”, sélectionnez le port correspondant à l’analyseur, puis téléversez.\n\nUtilisez le Moniteur Série ou un script Python associé pour récupérer et afficher les données logique.\n\nSigrok CLI (optionnel)\n\nInstallez l’outil en ligne de commande :\n\npip install sigrok-cli\n\nPour capturer 100 000 échantillons sur CH0 à 10 MS/s et enregistrer au format VCD :\n\nsigrok-cli --driver scm_logic --samples 100000 --channels CH0 --config samplerate=10000000 -O vcd -o capture.vcd\n\nVous disposez ainsi d’un ensemble complet de logiciels pour visualiser, analyser et déboguer vos signaux numériques avec l’analyseur USB SCM 24 MHz 8 canaux.\n\nMots clés: analyzer, logic, programmer, programmeur.",
+     "short_description": "L’analyseur logique USB SCM est un outil de debug polyvalent, capable de capturer jusqu’à 8 canaux à 24MHz et un taux d’échantillonnage de 24 MS/s."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/103-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/103-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30644",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Relais Statique SSR-40DA",
+     "description": "Relais Statique SSR-40DA 40A\n\nLe relais statique SSR-40DA est un relais à semi-conducteurs de haute qualité capable de commuter des courants jusqu’à 40A en courant alternatif (AC). Il est conçu pour des applications nécessitant une isolation électrique entre les circuits de commande et les circuits de puissance, offrant ainsi une solution fiable et durable pour le contrôle de charges électriques élevées.\n\nCaractéristiques détaillées\n\nType de relais: Relais statique (SSR – Solid State Relay)\n\nModèle: SSR-40DA\n\nCourant nominal: 40A\n\nTension de sortie: 24-380V AC\n\nTension de commande: 3-32V DC\n\nTemps de commutation: Moins de 10 ms\n\nIsolation électrique: 2500V AC\n\nTempérature de fonctionnement: -30°C à 80°C\n\nDimensions: Environ 63 x 45 x 23 mm\n\nFonctionnement\n\nLe relais statique SSR-40DA fonctionne en utilisant des composants électroniques pour commuter l’état du circuit de sortie (ouvert/fermé) en réponse à une tension de commande appliquée sur l’entrée. Contrairement aux relais mécaniques, il n’a pas de pièces mobiles, ce qui augmente sa durabilité et sa fiabilité, notamment dans des environnements soumis à des vibrations ou des commutations fréquentes.\n\nApplications\n\nContrôle de charges résistives telles que les chauffages électriques\n\nContrôle de moteurs AC\n\nÉclairage industriel\n\nSystèmes de commande automatisés\n\nAppareils de cuisine industriels\n\nUtilisation avec Arduino Uno\n\nPour utiliser le relais statique SSR-40DA avec une carte Arduino Uno, vous aurez besoin des composants suivants :\n\n1 x Relais statique SSR-40DA\n\n1 x Arduino Uno\n\n1 x Breadboard\n\nFils de connexion\n\nCode Arduino UNO exemple :\n\nconst int relaisPin = 7; // Pin de commande du relais\r\n\nvoid setup() {\r\npinMode(relaisPin, OUTPUT); // Définit la pin de commande comme une sortie\r\n}\r\n\nvoid loop() {\r\ndigitalWrite(relaisPin, HIGH); // Allume le relais\r\ndelay(5000); // Attend 5 secondes\r\ndigitalWrite(relaisPin, LOW); // Éteint le relais\r\ndelay(5000); // Attend 5 secondes\r\n}\n\nExplication détaillée du code\n\nDéclaration de la pin de commande: La pin 7 de l’Arduino Uno est définie comme la sortie pour contrôler le relais.\n\nConfiguration du relais: Dans la fonction setup(), la pin de commande est initialisée en mode sortie.\n\nBoucle principale: Le relais est activé en envoyant un signal HIGH à la pin de commande pendant 5 secondes, puis désactivé en envoyant un signal LOW pendant 5 secondes. Cette boucle continue indéfiniment.\n\nBrochage\n\nEntrée (control): Connecter le positif (+) à une sortie numérique de l’Arduino (ex. pin 7) et le négatif (-) à la masse (GND) de l’Arduino.\n\nSortie (load): Connecter les bornes de sortie à l’appareil à contrôler en série avec l’alimentation AC.\n\nFiche technique\n\nFiche technique\n\nMots clés: relay, channel, canaux, canal, static.",
+     "short_description": "Le relais statique SSR-40DA est un relais à semi-conducteurs capable de commuter jusqu’à 40A AC, idéal pour les applications industrielles de contrôle de charges élevées."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/06/104-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2023/06/105-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41943",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Relais Statique SSR-40AA 40A",
+     "description": "Relais Statique SSR-40AA 40A\n\nRelais statique SSR-40AA – Module SSR AC-AC 40 A (commande 80–250 V AC, sortie 24–380 V AC).Le SSR-40AA est un relais à semi-conducteurs conçu pour commuter des charges AC jusqu’à 40 A. Il se pilote directement en AC 80–250 V, sans usure mécanique ni bruit, et offre une commutation au passage par zéro pour limiter les parasites.\n\n🔧 Caractéristiques techniques :\n\nModèle : SSR-40AA\n\nTension de commande : 80 – 250 V AC 50/60 Hz\n\nCourant de commande : 12 mA max.\n\nTension de sortie : 24 – 380 V AC \n\nCourant de sortie max. : 40A\n\nChute de tension à l’état passant : ≤ 1,5 V (Imax)\n\nCourant de fuite à l’état bloqué : ≤ 2 mA \n\nTemps de réponse ON/OFF : ≤ 10 ms (50/60 Hz)\n\nMéthode de commutation : passage par zéro (zero-cross)\n\nIsolation : 2500 V AC, 1 min Finglai\n\nTempérature de fonctionnement : – 30 °C à + 80 °C\n\nBornes de connexion : vis à serrage rapide \n\n💡 Applications typiques :\n\nAutomatisation industrielle (moteurs AC, vannes solénoïdes)\n\nChauffage électrique, résistances industrielles\n\nPilotage de lampes et appareils électroménagers\n\nIntégration dans coffrets de distribution et tableaux de contrôle\n\nDomotique et systèmes embarqués exigeant commutation silencieuse\n\n🧰 Compatibilité :\n\nSe pilote directement en AC 80–250 V\n\nAdapté aux microcontrôleurs ou PLC via relais auxiliaires ou triacs\n\n⚠️ Remarques importantes :\n\nPrévoir un radiateur pour des courants supérieurs à 20 A\n\nRespecter les plages de tension et température pour garantir la longévité\n\nUtiliser un câblage adapté et des protections contre les surtensions\n\nMots clés: relay, channel, canaux, canal, static.",
+     "short_description": "Relais statique SSR-40AA – Module SSR AC-AC 40 A (commande 80–250 V AC, sortie 24–380 V AC)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/105-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30646",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Relais Statique SSR-40DD 40A",
+     "description": "Relais Statique SSR-40DD 40A\n\nLe SSR-40DD est un relais à semi-conducteurs (SSR) de type DC-DC, permettant de commuter une charge continue (5–60 V DC) jusqu’à 40A, à l’aide d’un simple signal de commande DC (3–32 V DC). Compact, robuste et sans pièces mécaniques, il offre une commutation silencieuse et une longue durée de vie pour vos applications industrielles et embarquées.\n\n🔧 Caractéristiques techniques :\n\nModèle : SSR-40DD\n\nTension de commande : 3–32 V DC\n\nCourant de commande : ≤ 25 mA (typ.)\n\nTension de sortie : 5–60 V DC\n\nCourant de sortie max. : 40A\n\nChute de tension à l’état passant : ≤ 1,5 V\n\nTemps de réponse ON/OFF : ≤ 10 ms\n\nCourant de fuite à l’état bloqué : ≤ 2 mA\n\nRésistance d’isolation : ≥ 500 MΩ @ 500 V DC\n\nTension de tenue : 2500 V AC (50/60 Hz, 1 min)\n\nTempérature de fonctionnement : – 30 °C à + 75 °C\n\nDimensions : 63 × 45,5 × 23,5 mm\n\nBornes de connexion : vis\n\nFonctionnalités principales\n\nRelais statique DC-DC (commande DC, sortie DC)\n\nTension de commande étendue pour compatibilité CMOS/TTL\n\nCommutation sans étincelle, sans usure mécanique\n\nIndication LED de l’état de conduction\n\nMontage facile sur dissipateur via bornes à vis\n\nApplications typiques :\n\nAutomatisation industrielle (commande de moteurs DC, vannes solénoïdes)\n\nPilotage de pompes et équipements de laboratoire\n\nAlimentation et pilotage de LED haute puissance ou bancs de condensateurs\n\nIntégration dans coffrets de régulation et tableaux de distribution\n\nSystèmes embarqués exigeant fiabilité et longévité\n\nFonctionnement\n\nLe relais statique SSR-100DA utilise des composants électroniques pour contrôler l’état du circuit de sortie en réponse à une tension de commande appliquée à l’entrée. Grâce à un optocoupleur intégré, le circuit de commande est isolé du circuit de puissance, assurant une sécurité accrue et une longue durée de vie sans pièces mobiles.\n\nApplications\n\nAutomatisation industrielle: Contrôle de charges comme les chauffages, moteurs, solénoïdes et éclairages.\n\nSystèmes de contrôle de température: Utilisé dans les fours, réfrigérateurs et systèmes de climatisation.\n\nContrôle de l’éclairage: Adapté pour les systèmes de gradation d’éclairage sans scintillement.\n\nDispositifs médicaux: Utilisé dans les systèmes de surveillance et les équipements de diagnostic.\n\nDistribution d’énergie: Employé dans les disjoncteurs et les tableaux de distribution pour une commutation sécurisée et fiable.\n\n🧰 Compatibilité :\n\nCommande directe par microcontrôleurs (Arduino, Raspberry Pi) ou PLC fournissant 3–32 V DC\n\nAdaptable à la plupart des architectures de contrôle DC\n\n⚠️ Remarques importantes :\n\nMonter impérativement sur radiateur pour charges > 20 A\n\nNe pas dépasser les spécifications de tension, courant et température\n\nPrévoir protection contre surtensions et bon câblage de masse\n\nMots clés: relay, channel, canaux, canal, static.",
+     "short_description": "Le SSR-40DD est un relais à semi-conducteurs (SSR) de type DC-DC, permettant de commuter une charge continue (5–60 V DC) jusqu’à 40A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/06/105-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6500",
+   "price": 9,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Relais 12V 20A",
+     "description": "Relais 12V 20A AC125V\n\nLe relais 12V 20A est un relais électromécanique capable de commuter des charges électriques importantes. Ce relais est souvent utilisé dans les applications automobiles et industrielles pour contrôler des circuits à haute puissance à l’aide d’une tension de commande de 12V.\n\nCaractéristiques détaillées\n\nType de relais: Relais électromécanique\n\nTension de commande: 12V DC\n\nCourant nominal: 20A\n\nConfiguration des contacts: SPDT (Single Pole Double Throw)\n\nTension de charge: 125V AC / 14V DC\n\nRésistance de la bobine: Environ 85 Ohms\n\nTemps de commutation: <10 ms\n\nTempérature de fonctionnement: -30°C à +75°C\n\nDimensions: Variable selon le modèle, généralement compact pour montage sur PCB\n\nIsolation: Entre bobine et contacts\n\nTerminaisons: Broches pour montage sur circuit imprimé (PCB)\n\nFonctionnement\n\nLe relais fonctionne en activant une bobine électromagnétique avec une tension de commande de 12V. Lorsque la bobine est alimentée, elle crée un champ magnétique qui attire un contact mobile, fermant ainsi le circuit de charge. Cela permet de contrôler des charges électriques élevées avec une faible tension de commande.\n\nApplications\n\nAutomobile: Contrôle de phares, ventilateurs, pompes à carburant, et autres composants électriques.\n\nAutomatisation industrielle: Commutation de moteurs, chauffages, et autres équipements industriels.\n\nSystèmes de sécurité: Utilisé dans les systèmes d’alarme et de surveillance pour activer des sirènes ou des lumières.\n\nDomotique: Contrôle d’éclairages et autres appareils électriques dans les maisons intelligentes.\n\nUtilisation avec Arduino Uno\n\nPour utiliser ce relais avec une carte Arduino Uno, vous aurez besoin des composants suivants :\n\n1 x Relais 12V 20A\n\n1 x Arduino Uno\n\n1 x Diode (ex. 1N4007) pour protection contre les pics de tension\n\n1 x Transistor (ex. 2N2222) pour activer la bobine du relais\n\nRésistances (330 Ohms et 10k Ohms)\n\nBreadboard et fils de connexion\n\nExemple de code Arduino Uno\n\nconst int relaisPin = 7; // Pin de commande du relais\r\n\nvoid setup() {\r\npinMode(relaisPin, OUTPUT); // Définit la pin de commande comme une sortie\r\n}\r\n\nvoid loop() {\r\ndigitalWrite(relaisPin, HIGH); // Allume le relais\r\ndelay(5000); // Attend 5 secondes\r\ndigitalWrite(relaisPin, LOW); // Éteint le relais\r\ndelay(5000); // Attend 5 secondes\r\n}\n\nExplication détaillée du code\n\nDéclaration de la pin de commande: La pin 7 de l’Arduino Uno est définie comme la sortie pour contrôler le relais.\n\nConfiguration du relais: Dans la fonction setup(), la pin de commande est initialisée en mode sortie.\n\nBoucle principale: Le relais est activé en envoyant un signal HIGH à la pin de commande pendant 5 secondes, puis désactivé en envoyant un signal LOW pendant 5 secondes. Cette boucle continue indéfiniment.\n\nBrochage\n\nEntrée (commande): Connecter le positif (+) de la bobine à la sortie du transistor (collecteur), et le négatif (-) à la masse (GND) de l’Arduino via une résistance.\n\nSortie (charge): Connecter les bornes de sortie aux dispositifs à contrôler en série avec l’alimentation électrique.\n\nMots clés: relay, channel, canaux, canal.",
+     "short_description": "Le relais 12V 20A permet de contrôler des charges électriques importantes avec une commande de 12V, idéal pour les applications automobiles et industrielles."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/108-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6502",
+   "price": 9,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Relais 5V 20A",
+     "description": "Relais 5V 20A AC125V\n\nLe relais 5V 20A est un relais électromécanique conçu pour commuter des charges électriques importantes, avec une tension de commande de 5V DC. Il est couramment utilisé dans des applications nécessitant un contrôle fiable de charges élevées, telles que dans les systèmes de sécurité, d’automatisation industrielle et d’automobile.\n\nCaractéristiques détaillées\n\nType de relais: Relais électromécanique\n\nTension de commande: 5V DC\n\nCourant nominal: 20A\n\nConfiguration des contacts: SPDT (Single Pole Double Throw)\n\nTension de charge: Jusqu’à 277V AC ou 30V DC\n\nRésistance de la bobine: Environ 47 Ohms\n\nTemps de commutation: <10 ms\n\nTempérature de fonctionnement: -40°C à +85°C\n\nDimensions: 29 x 13 x 26.5 mm\n\nIsolation: 4 kV entre la bobine et les contacts\n\nTerminaisons: Broches pour montage sur circuit imprimé (PCB)\n\nDurée de vie: 100 000 opérations électriques, 10 000 000 opérations mécaniques\n\nFonctionnement\n\nLe relais fonctionne en activant une bobine électromagnétique avec une tension de commande de 5V. Cette activation crée un champ magnétique qui attire un contact mobile, fermant ainsi le circuit de charge. Cela permet de contrôler des charges électriques élevées avec une faible tension de commande.\n\nApplications\n\nAutomobile: Contrôle de phares, ventilateurs, pompes à carburant et autres composants électriques.\n\nAutomatisation industrielle: Commutation de moteurs, chauffages et autres équipements industriels.\n\nSystèmes de sécurité: Utilisé dans les systèmes d’alarme et de surveillance pour activer des sirènes ou des lumières.\n\nDomotique: Contrôle d’éclairages et autres appareils électriques dans les maisons intelligentes.\n\nUtilisation avec Arduino Uno\n\nPour utiliser ce relais avec une carte Arduino Uno, vous aurez besoin des composants suivants :\n\n1 x Relais 5V 20A\n\n1 x Arduino Uno\n\n1 x Diode (ex. 1N4007) pour protection contre les pics de tension\n\n1 x Transistor (ex. 2N2222) pour activer la bobine du relais\n\nRésistances (330 Ohms et 10k Ohms)\n\nBreadboard et fils de connexion\n\nExemple de code Arduino Uno\n\nconst int relaisPin = 7; // Pin de commande du relais\r\n\nvoid setup() {\r\npinMode(relaisPin, OUTPUT); // Définit la pin de commande comme une sortie\r\n}\r\n\nvoid loop() {\r\ndigitalWrite(relaisPin, HIGH); // Allume le relais\r\ndelay(5000); // Attend 5 secondes\r\ndigitalWrite(relaisPin, LOW); // Éteint le relais\r\ndelay(5000); // Attend 5 secondes\r\n}\n\nExplication détaillée du code\n\nDéclaration de la pin de commande: La pin 7 de l’Arduino Uno est définie comme la sortie pour contrôler le relais.\n\nConfiguration du relais: Dans la fonction setup(), la pin de commande est initialisée en mode sortie.\n\nBoucle principale: Le relais est activé en envoyant un signal HIGH à la pin de commande pendant 5 secondes, puis désactivé en envoyant un signal LOW pendant 5 secondes. Cette boucle continue indéfiniment.\n\nBrochage\n\nEntrée (commande): Connecter le positif (+) de la bobine à la sortie du transistor (collecteur), et le négatif (-) à la masse (GND) de l’Arduino via une résistance.\n\nSortie (charge): Connecter les bornes de sortie aux dispositifs à contrôler en série avec l’alimentation électrique.\n\nMots clés: relay, channel, canaux, canal.",
+     "short_description": "Relais 5v 20A 125V AC, 5 broches."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/107-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10642",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Relais 24V 10A",
+     "description": "Relais 24V 10A\n\nLe relais 24V 10A est un relais électromécanique conçu pour commuter des charges importantes avec une tension de commande de 24V DC. Ce relais est largement utilisé dans des applications industrielles et automobiles pour le contrôle de circuits à haute puissance.\n\nCaractéristiques détaillées\n\nType de relais: Relais électromécanique\n\nTension de commande: 24V DC\n\nCourant nominal: 10A\n\nConfiguration des contacts: SPDT (Single Pole Double Throw)\n\nTension de charge: 250V AC / 125V DC\n\nRésistance de la bobine: Environ 430 Ohms\n\nTemps de commutation: <25 ms\n\nTempérature de fonctionnement: -25°C à +60°C\n\nDimensions: 34.5 x 34.5 x 53.3 mm\n\nIsolation: 4 kV entre la bobine et les contacts\n\nTerminaisons: Plug-in\n\nDurée de vie: 100 000 opérations électriques, 10 000 000 opérations mécaniques\n\nFonctionnement\n\nLe relais 24V 10A utilise une bobine électromagnétique activée par une tension de 24V pour fermer ou ouvrir les contacts. Cela permet de contrôler des charges électriques élevées à l’aide d’une faible tension de commande, garantissant une isolation efficace et une commutation fiable.\n\nApplications\n\nAutomobile: Utilisé pour le contrôle des phares, des ventilateurs, des pompes et autres composants électriques.\n\nAutomatisation industrielle: Emploi dans la commutation de moteurs, de chauffages et d’autres équipements industriels.\n\nSystèmes de sécurité: Intégré dans les systèmes d’alarme pour activer des sirènes ou des dispositifs de signalisation.\n\nDomotique: Contrôle de l’éclairage et des appareils électriques dans les maisons intelligentes.\n\nUtilisation avec Arduino Uno\n\nPour utiliser ce relais avec une carte Arduino Uno, vous aurez besoin des composants suivants :\n\n1 x Relais 24V 10A\n\n1 x Arduino Uno\n\n1 x Diode (ex. 1N4007) pour protection contre les pics de tension\n\n1 x Transistor (ex. 2N2222) pour activer la bobine du relais\n\nRésistances (330 Ohms et 10k Ohms)\n\nBreadboard et fils de connexion\n\nComposants nécessaires pour le test\n\nArduino Uno\n\nRelais 24V 10A\n\nBreadboard\n\nFils de connexion\n\nDiode 1N4007\n\nTransistor 2N2222\n\nRésistances 330 Ohms et 10k Ohms\n\nExemple de code Arduino Uno\n\nconst int relaisPin = 7; // Pin de commande du relais\r\n\nvoid setup() {\r\n  pinMode(relaisPin, OUTPUT); // Définit la pin de commande comme une sortie\r\n}\r\n\nvoid loop() {\r\n  digitalWrite(relaisPin, HIGH); // Allume le relais\r\n  delay(5000); // Attend 5 secondes\r\n  digitalWrite(relaisPin, LOW); // Éteint le relais\r\n  delay(5000); // Attend 5 secondes\r\n}\n\nExplication détaillée du code\n\nDéclaration de la pin de commande: La pin 7 de l’Arduino Uno est définie comme la sortie pour contrôler le relais.\n\nConfiguration du relais: Dans la fonction setup(), la pin de commande est initialisée en mode sortie.\n\nBoucle principale: Le relais est activé en envoyant un signal HIGH à la pin de commande pendant 5 secondes, puis désactivé en envoyant un signal LOW pendant 5 secondes. Cette boucle continue indéfiniment.\n\nBrochage\n\nEntrée (commande): Connecter le positif (+) de la bobine à la sortie du transistor (collecteur), et le négatif (-) à la masse (GND) de l’Arduino via une résistance.\n\nSortie (charge): Connecter les bornes de sortie aux dispositifs à contrôler en série avec l’alimentation électrique.\n\nMots clés: relay, channel, canaux, canal.",
+     "short_description": "Le relais 24V 10A permet de contrôler des charges électriques importantes avec une commande de 24V, idéal pour les applications industrielles et automobiles."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/106-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4764",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Relais 12V 10A",
+     "description": "Relais 12V 10A AC250V\n\nLe relais 12V 10A, 5 broches, est un relais électromécanique conçu pour commuter des charges importantes avec une tension de commande de 12V DC. Ce relais est couramment utilisé dans des applications industrielles, automobiles, et de domotique pour le contrôle de circuits à haute puissance.\n\nCaractéristiques détaillées\n\nType de relais: Relais électromécanique\n\nTension de commande: 12V DC\n\nCourant nominal: 10A\n\nConfiguration des contacts: SPDT (Single Pole Double Throw)\n\nTension de charge: Jusqu’à 250V AC ou 30V DC\n\nRésistance de la bobine: 400 Ohms\n\nTemps de commutation: <10 ms pour allumer, <5 ms pour éteindre\n\nTempérature de fonctionnement: -40°C à +85°C\n\nDimensions: Environ 29 x 12.7 x 25.3 mm\n\nIsolation: 4 kV entre la bobine et les contacts\n\nTerminaisons: Broches pour montage sur circuit imprimé (PCB)\n\nDurée de vie: 100 000 opérations électriques, 10 000 000 opérations mécaniques\n\nFonctionnement\n\nLe relais 12V 10A utilise une bobine électromagnétique activée par une tension de commande de 12V pour fermer ou ouvrir les contacts. Cela permet de contrôler des charges électriques élevées à l’aide d’une faible tension de commande, garantissant une isolation efficace et une commutation fiable.\n\nApplications\n\nAutomobile: Utilisé pour le contrôle des phares, des ventilateurs, des pompes et autres composants électriques.\n\nAutomatisation industrielle: Emploi dans la commutation de moteurs, de chauffages et d’autres équipements industriels.\n\nSystèmes de sécurité: Intégré dans les systèmes d’alarme pour activer des sirènes ou des dispositifs de signalisation.\n\nDomotique: Contrôle de l’éclairage et des appareils électriques dans les maisons intelligentes.\n\nComment l’utiliser avec Arduino Uno\n\nPour utiliser ce relais avec une carte Arduino Uno, vous aurez besoin des composants suivants :\n\n1 x Relais 12V 10A\n\n1 x Arduino Uno\n\n1 x Diode (ex. 1N4007) pour protection contre les pics de tension\n\n1 x Transistor (ex. 2N2222) pour activer la bobine du relais\n\nRésistances (330 Ohms et 10k Ohms)\n\nBreadboard et fils de connexion\n\nInstructions de connexion:\n\nConnexion du relais à Arduino: Connectez la pin de commande du relais (ex. pin 7 de l’Arduino) à la base du transistor via une résistance de 330 Ohms. Connectez l’émetteur du transistor à la masse (GND) et le collecteur au pin négatif de la bobine du relais. Le pin positif de la bobine est connecté à une alimentation de 12V via une diode de roue libre (1N4007) pour protéger contre les pics de tension.\n\nAlimentation de la charge: Connectez le commun (COM) du relais à l’alimentation, et le normalement ouvert (NO) ou normalement fermé (NC) à la charge en fonction du comportement désiré (NO pour activer la charge lors de l’activation du relais, NC pour désactiver).\n\nExemple de code Arduino Uno:\n\nconst int relaisPin = 7; // Pin de commande du relais\r\n\nvoid setup() {\r\npinMode(relaisPin, OUTPUT); // Définit la pin de commande comme une sortie\r\n}\r\n\nvoid loop() {\r\ndigitalWrite(relaisPin, HIGH); // Allume le relais\r\ndelay(5000); // Attend 5 secondes\r\ndigitalWrite(relaisPin, LOW); // Éteint le relais\r\ndelay(5000); // Attend 5 secondes\r\n}\n\nBrochage\n\nPin 1 et 2: Connectés à la bobine pour la commande (12V et GND).\n\nPin 3 (COM): Connecté à une des extrémités de la charge.\n\nPin 4 (NC): Normalement fermé, connecté à la charge quand le relais est désactivé.\n\nPin 5 (NO): Normalement ouvert, connecté à la charge quand le relais est activé.\n\nMots clés: relay, channel, canaux, canal.",
+     "short_description": "Le relais 12V 10A permet de contrôler des charges électriques importantes avec une commande de 12V, idéal pour les applications automobiles et industrielles."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/109-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2837",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Relais 5V 10A",
+     "description": "Relais 5V 10A AC250V\n\nLe relais 5V 10A 5 broches, est un relais électromécanique conçu pour commuter des charges importantes avec une tension de commande de 5V DC. Ce relais est largement utilisé dans des applications de commutation de circuits à haute puissance, y compris les projets d’automatisation, les appareils ménagers et les systèmes de contrôle industriel.\n\nCaractéristiques détaillées\n\nType de relais: Relais électromécanique\n\nTension de commande: 5V DC\n\nCourant nominal: 10A\n\nConfiguration des contacts: SPDT (Single Pole Double Throw)\n\nTension de charge: Jusqu’à 250V AC ou 30V DC\n\nRésistance de la bobine: 70 Ohms\n\nTemps de commutation: <10 ms pour allumer, <5 ms pour éteindre\n\nTempérature de fonctionnement: -40°C à +85°C\n\nDimensions: Environ 19.1 x 15.5 x 15.3 mm\n\nIsolation: 4 kV entre la bobine et les contacts\n\nTerminaisons: Broches pour montage sur circuit imprimé (PCB)\n\nDurée de vie: 100 000 opérations électriques, 10 000 000 opérations mécaniques\n\nFonctionnement\n\nLe relais 5V 10A fonctionne en utilisant une bobine électromagnétique activée par une tension de commande de 5V pour ouvrir ou fermer les contacts. Cela permet de contrôler des charges électriques élevées avec une faible tension de commande, garantissant une isolation efficace et une commutation fiable.\n\nApplications\n\nAutomatisation industrielle: Commutation de moteurs, de chauffages et d’autres équipements industriels.\n\nDomotique: Contrôle de l’éclairage et des appareils électriques dans les maisons intelligentes.\n\nSystèmes de sécurité: Utilisé dans les systèmes d’alarme pour activer des sirènes ou des dispositifs de signalisation.\n\nAppareils ménagers: Contrôle des charges comme les ventilateurs, les pompes et autres composants électriques.\n\nComment l’utiliser avec Arduino Uno\n\nPour utiliser ce relais avec une carte Arduino Uno, vous aurez besoin des composants suivants :\n\n1 x Relais 5V 10A\n\n1 x Arduino Uno\n\n1 x Diode (ex. 1N4007) pour protection contre les pics de tension\n\n1 x Transistor (ex. 2N2222) pour activer la bobine du relais\n\nRésistances (330 Ohms et 10k Ohms)\n\nBreadboard et fils de connexion\n\nInstructions de connexion:\n\nConnexion du relais à Arduino: Connectez la pin de commande du relais (ex. pin 7 de l’Arduino) à la base du transistor via une résistance de 330 Ohms. Connectez l’émetteur du transistor à la masse (GND) et le collecteur au pin négatif de la bobine du relais. Le pin positif de la bobine est connecté à une alimentation de 5V via une diode de roue libre (1N4007) pour protéger contre les pics de tension.\n\nAlimentation de la charge: Connectez le commun (COM) du relais à l’alimentation, et le normalement ouvert (NO) ou normalement fermé (NC) à la charge en fonction du comportement désiré (NO pour activer la charge lors de l’activation du relais, NC pour désactiver).\n\nExemple de code Arduino Uno:\n\nconst int relaisPin = 7; // Pin de commande du relais\r\n\nvoid setup() {\r\npinMode(relaisPin, OUTPUT); // Définit la pin de commande comme une sortie\r\n}\r\n\nvoid loop() {\r\ndigitalWrite(relaisPin, HIGH); // Allume le relais\r\ndelay(5000); // Attend 5 secondes\r\ndigitalWrite(relaisPin, LOW); // Éteint le relais\r\ndelay(5000); // Attend 5 secondes\r\n}\r\n\nBrochage\n\nPin 1 et 2: Connectés à la bobine pour la commande (5V et GND).\n\nPin 3 (COM): Connecté à une des extrémités de la charge.\n\nPin 4 (NC): Normalement fermé, connecté à la charge quand le relais est désactivé.\n\nPin 5 (NO): Normalement ouvert, connecté à la charge quand le relais est activé.\n\nMots clés: relay, channel, canaux, canal.",
+     "short_description": "Le relais 5V 10A permet de contrôler des charges électriques importantes avec une commande de 5V, idéal pour les projets d’automatisation et de domotique. 5 broches (SRD-05VDC-SL-C)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/110-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41991",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shield Relais à ESP8266 ESP01",
+     "description": "Shield Relais à ESP8266 ESP01 (sans module ESP01)\n\nShield Relais à ESP8266 ESP01 est un module relais intelligent basé sur le module WiFi ESP-01/01S. Il permet de piloter à distance, via Wi-Fi, une charge jusqu’à 10 A en AC ou DC, et se configure facilement à l’aide de commandes AT ou de firmwares Lua.\n\nNote: Le shield se vend sans module ESP01, vous pouvez l’acheter séparément ici.\n\n🔧 Caractéristiques techniques :\n\nTension de fonctionnement : DC 5 – 12 V\n\nCourant de fonctionnement : ≥ 250 mA\n\nModule Wi-Fi supporté : ESP-01 / ESP-01S\n\nDistance de transmission Wi-Fi : jusqu’à 400 m en champ libre\n\nCharge AC commutable : 10 A / 250 VAC\n\nCharge DC commutable : 10 A / 30 VDC\n\nContrôle : via GPIO0 de l’ESP-01 (niveau LOW active le relais)\n\nIndications LED : alimentation, Wi-Fi, relais\n\nDimensions : 37 × 25 mm \n\n💡 Applications typiques :\n\nDomotique : contrôle de lampes, volets, prises…\n\nProjets IoT et Smart Home\n\nAutomatisation et pilotage à distance\n\nPrototypage avec Arduino, Raspberry Pi, ESP8266\n\n🧰 Compatibilité :\n\nFonctionne avec tout microcontrôleur ou hôte supportant UART 3,3 V\n\nProgrammation/configuration via commandes AT ou scripts Lua\n\nIntégrable dans Arduino IDE via l’ESP-01\n\nVoici un exemple minimal en Arduino IDE à téléverser directement sur votre module ESP-01 (avec le Relay Shield) pour faire déclencher le relais ON/OFF toutes les secondes:\n\n#include <ESP8266WiFi.h>\r\n\n// Remplacez par vos identifiants Wi-Fi\r\nconst char* ssid = \"VOTRE_SSID\";\r\nconst char* password = \"VOTRE_MDP\";\r\n\n// Broche de contrôle du relais sur l'ESP-01\r\n// (sur le Relay Shield, GPIO0 pilote le relais : LOW = ON, HIGH = OFF)\r\nconst uint8_t relayPin = 0;\r\n\nvoid setup() {\r\n// Console Série pour debug\r\nSerial.begin(115200);\r\ndelay(10);\r\n\n// Initialisation de la broche relais\r\npinMode(relayPin, OUTPUT);\r\ndigitalWrite(relayPin, HIGH); // État OFF au démarrage\r\n\n// Connexion Wi-Fi (facultative, mais souvent utile)\r\nSerial.print(\"Connexion au Wi-Fi \");\r\nSerial.print(ssid);\r\nWiFi.begin(ssid, password);\r\nwhile (WiFi.status() != WL_CONNECTED) {\r\ndelay(500);\r\nSerial.print('.');\r\n}\r\nSerial.println(\"\\nConnecté au réseau Wi-Fi !\");\r\n}\r\n\nvoid loop() {\r\n// Active le relais\r\nSerial.println(\"Relais ON\");\r\ndigitalWrite(relayPin, LOW);\r\ndelay(1000);\r\n\n// Désactive le relais\r\nSerial.println(\"Relais OFF\");\r\ndigitalWrite(relayPin, HIGH);\r\ndelay(1000);\r\n}\n\n📋 Étapes pour téléverser :\n\nInstallez le support ESP8266 dans l’Arduino IDE (via Tools > Board > Boards Manager > esp8266)\n\nFichier > Préférences\n\nDans URL gestionnaire de cartes, ajoutez.\n\nhttps://raw.githubusercontent.com/esp8266/Arduino/gh-pages/package_esp8266_index.json\n\nSélectionnez la carte ESP-01 :\n\nOutils > Type de carte > Generic ESP8266 Module\n\nOutils > ESP8266 Module > Module : choisissez “ESP-01”\n\nRéglez la vitesse de flash (généralement 115200), Flash Size sur 1M (no SPIFFS), etc.\n\nChoisissez le bon port COM.\n\nBranchez votre ESP-01 sur le Relay Shield, puis sur un adaptateur USB-TTL 3.3 V, et téléversez ce sketch.\n\nDès la mise sous tension, le relais va s’activer et se désactiver toutes les secondes !\n\nMots clés: h6: relay, WiFi, Smart Home, IoT, domotique.",
+     "short_description": "Le Relais Shield ESP01 est un module relais intelligent basé sur le module WiFi ESP-01/01S"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/110-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/110-a-2.png"
+   ]
+  }
+ ]
+}

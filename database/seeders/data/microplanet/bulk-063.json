@@ -1,0 +1,197 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-4596",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L293D Double Pont-H Driver Moteur",
+     "description": "L293D Double Pont-H Driver Moteur\n\nLe L293D est un double pont-H, ce qui signifie qu’il est possible de l’utiliser pour commander quatre moteurs distincts (dans un seul sens) grâce à ses 4 canaux.\n\nIl est également possible de constituer deux pont-h afin de piloter deux moteurs distincts, dans les deux sens et indépendamment l’un de l’autre.\n\nIl est important de noter que le L293D peut délivrer au maximum 600mA, veuillez donc choisir vos moteurs en conséquence.\n\nCaractéristiques techniques:\n\nNombre de pont-H: 2\n\nCourant Max Régime continu: 600mA (x2)\n\nCourant de pointeMax < 2ms: 1200mA\n\nVS Max Alim moteur: 36v\n\nVSS Max Alim logique: 7v\n\nNbre de Broches: 16 DIP\n\nPerte de tension: 1.3v\n\nBranchement:\n\nEnable1: permet d’envoyer (ou pas) la tension sur les sorties du moteur via OUTPUT1 et OUTPUT2 et commande l’activation/désactivation du premier Pont-H. Si ENABLE1 = GND, le pont-H est déconnecté et le moteur ne fonctionne pas. Si ENABLE1 = VSS, le pont-H est connecté aux sorties et le moteur fonctionne dans un sens ou l’autre ou pas en fonction des tensions appliquée sur INPUT1 & INPUT2.\n\nInput1: avec Input 2, sont les broches de commande du Pont-H Output1/Output2. Il sera directement brancher à votre Arduino pour commander le sens du courant entre Output 1 et Output 2.\n\nOuput1: avec Output 2, sera branché directement sur le moteur.\n\nGND: qui doit être raccorder à la masse de la source d’alimentation de puissance VS et à la masse de la source d’alimentation de la logique “VSS” (donc GND Arduino).\n\nOuput2: avec Output 1, sera branché directement sur le moteur.\n\nInput2: avec Input 1, sont les broches de commande du Pont-H Output1/Output2. Il sera directement brancher à votre Arduino pour commander le sens du courant entre Output 1 et Output 2.\n\nVS: Alimentation de puissance des moteurs.\n\nEnable2: commande l’activation du second pont-H constitué de Output3/Output4\n\nInput3: avec Input 4, sont les broches de commande du Pont-H Output3/Output4. Il sera directement brancher à votre Arduino pour commander le sens du courant entre Output 3 et Output 4.\n\nOuput3: avec Output 4, sera branché directement sur le moteur.\n\nGND\n\nGND\n\nOuput4: avec Output 3, sera branché directement sur le moteur.\n\nInput4: avec Input 3, sont les broches de commande du Pont-H Output3/Output4. Il sera directement brancher à votre Arduino pour commander le sens du courant entre Output 3 et Output 4.\n\nVSS: Alimentation de la logique de commande (5V). A raccorder à la borne +5V de votre Arduino.\n\nVeuillez noter que les pins Enable1 et Enable2  permettent moduler la vitesse du moteur en utilisant des broches PWM de votre Arduino. Si vous ne souhaitez pas moduler la vitesse du moteur DC, ilvous suffit de brancher Enable1 sur la broche VSS de votre Arduino.\n\nFiche technique",
+     "short_description": "Le L293D est un double pont-H, ce qui signifie qu’il est possible de l’utiliser pour commander quatre moteurs distincts (dans un seul sens) grâce à ses 4 canaux.\n\nIl est également possible de constituer deux pont-h afin de piloter deux moteurs distincts, dans les deux sens et indépendamment l’un de l’autre."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/768-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/768-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/768-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5638",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74HC74 7474 Circuit logique Double Bascule D",
+     "description": "74HC74 7474 Circuit logique Double Bascule D\n\nSN74HC74, 7474 Circuit logique double bascule D.\n\nFiche technique",
+     "short_description": "SN74HC74, 7474 Circuit logique double bascule D."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/02/769-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8140",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SN754410 Quadruple Demi Pont en H",
+     "description": "SN754410 Quadruple Demi Pont en H\n\nLe circuit intégré SN754410 est un quadruple demi pont en H permettant de controler facilement un moteur pas à pas à deux bobines. Il permet ainsi de controler un courant de 1A sous une tension de 4.5V à 36V pour alimenter les bobines des moteurs pas à pas, des moteurs à courant continu, des relais, des bobines. Les entrées sont compatibles des niveau TTL et bas-niveau CMOS.\n\nExemple d’utilisation pour piloter 2 moteurs à courant continu :\n\nPin\nName\nFonction\nNotes\n\n1\n1,2 EN\nActivation Moteur 1\nEn mettant cette pin au 0V (LOW ou GND), cela coupera l’alimentation du moteur et en la mettant au 5V (HIGH), cela activera l’alimentation du moteur.\n\n2\n1A\nMoteur 1 Forward\nUn 5V (HIGH) sur cette pin permettra au moteur de tourner dans une direction.\n\nLa vitesse peut être contrôllé à l’aide d’une PWM.\n\n3\n1Y\nMoteur 1 Power\nCette pin doit être connecté à l’une des broches du moteur à courant continu.\n\n4\n Masse\nMasse\nCette pin doit être connecté à la masse.\n\n5\n Masse\nMasse\nCette pin doit être connecté à la masse.\n\n6\n2Y\nMoteur 1 Power\nCette pin doit être connecté à l’une des broches du moteur à courant continu.\n\n7\n 2A\nMoteur 1 Reverse\nUn 5V (HIGH) sur cette pin permettra au moteur de tourner dans direction inverse.La vitesse peut être contrôllé à l’aide d’une PWM.\n\n8\n VCC2\nMoteur Power Source\nCette pin permet d’alimenter vos moteur (max 36V)\n\n9\n 3,4 EN\nMoteur 2 Enable\nEn mettant cette pin au 0V (LOW ou GND), cela coupera l’alimentation du moteur et en la mettant au 5V (HIGH), cela activera l’alimentation du moteur.\n\n10\n 3A\nMoteur 2 Forward\nUn 5V (HIGH) sur cette pin permettra au moteur de tourner dans une direction.\n\nLa vitesse peut être contrôllé à l’aide d’une PWM.\n\n11\n 3Y\nMoteur 2 Power\nCette pin doit être connecté à l’une des broches du moteur à courant continu.\n\n12\n Masse\nMasse\nCette pin doit être connecté à la masse.\n\n13\n Masse\nMasse\nCette pin doit être connecté à la masse.\n\n14\n 4Y\nMoteur 2 Power\nCette pin doit être connecté à l’une des broches du moteur à courant continu.\n\n15\n4A\nMoteur 2 Reverse\nUn 5V (HIGH) sur cette pin permettra au moteur de tourner dans direction inverse.\n\nLa vitesse peut être contrôllé à l’aide d’une PWM.\n\n16\n VCC1\nLogic Power\nAlimentation du circuit (+5V)\n\nFiche technique\n\nMots clés: sn754410ne, sn75441one.",
+     "short_description": "SN754410 Quadruple Demi Pont en H"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/770-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-12081",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74LS93 Compteur Binaire Asynchrone",
+     "description": "74LS93 Compteur Binaire Asynchrone\n\n74LS93 Compteur binaire asynchrone.\n\nFiche technique",
+     "short_description": "74LS93 Compteur binaire asynchrone."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/773-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-12082",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74LS390 Double Compteur Décimal",
+     "description": "74LS390 Double Compteur Décimal\n\n74LS390 Double Compteur Décimal.\n\nFiche technique",
+     "short_description": "74LS390 Double Compteur Décimal"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/774-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3682",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74HC595 Registre À Décalage",
+     "description": "74HC595 Registre À Décalage\n\n74HC595 Registre À Décalage, Il peut être utilisé pour ajouter des sorties aux cartes Arduino / Microcontrôleurs\n\nFiche technique",
+     "short_description": "74HC595 Registre À Décalage, Il peut être utilisé pour ajouter des sorties aux cartes Arduino / Microcontrôleurs"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/776-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/776-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4619",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74HC00 7400 Circuit logique 4 Portes Nand",
+     "description": "74HC00 7400 Circuit logique Porte Nand\n\n74hc00 / 74ls00 / 7400 Circuit intégré logique, 4 Portes Nand 2 entrées.\n\nFiche technique",
+     "short_description": "74HC00 (7400) Circuit intégré logique, quad Porte Nand 2 entrées."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/777-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4621",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74HC04 7404 Circuit logique 6 Portes Non",
+     "description": "74HC04 7404 Circuit logique 6 Portes Non\n\n74hc04 / 74ls04 / 7404 Circuit logique 6 Portes Non (inverseurs).\n\nFiche technique",
+     "short_description": "74hc04 / 74ls04 / 7404 Circuit logique 6 Portes Non (inverseurs)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/778-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4623",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74HC08 7408 Circuit logique 4 Portes ET",
+     "description": "74HC08 7408 Circuit logique 4 Portes ET\n\n74hc08 / 74ls08 / 7408 Circuit logique 4 Portes ET 2 entrées.\n\nFiche technique",
+     "short_description": "74hc08 / 74ls08 / 7408 Circuit logique 4 Portes ET 2 entrées."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/779-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4625",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74HC32 7432 Circuit logique 4 Portes OU",
+     "description": "74HC32 7432 Circuit logique 4 Portes OU\n\n74hc32 / 74ls32 / 7432 Circuit logique 4 Portes OU 2 entrées.\n\nMarque: Texas Instruments\n\nFiche technique",
+     "short_description": "74hc32 / 74ls32 / 7432 Circuit logique 4 Portes OU 2 entrées."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/780-1.png"
+   ]
+  }
+ ]
+}

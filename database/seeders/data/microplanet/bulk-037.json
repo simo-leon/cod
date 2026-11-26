@@ -1,0 +1,204 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3088",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SG90 Servo Moteur Tower Pro 180°",
+     "description": "Servo Moteur Tower Pro SG90\n\nLe Micro Servo Module est composé d’un moteur électrique mécaniquement lié à un potentiomètre.On utilise la librairie Servo Library pour pouvoir piloter facilement ce module avec un kit Arduino.\n\nL’electronique à l’intérieur du servo-moteur transforme une largeur d’impulsion PWM en position physique : Quand le servo est commandé, le moteur sera actionné jusqu’à atteindre la valeur du potentiomètre correspondante à la position demandée.\n\nUn kit de 3 extrêmités en plastique et une vis est fournit avec le micro sero-moteur pour pouvoir facilement le relier à l’univers mécanique.\n\nCaractéristiques:\n\nModulation : Analogique\n\nForce : 4.8V (1.6 kg-cm)\n\nVitesse : 4.8V 0.1 sec/60°\n\nPoids : 9g\n\nDimensions : 23mm x 12.2mm x 29 mm\n\nAngle de rotation : 180°\n\nConnectique : Connecteur 3 points\n\nMots clés: motor.",
+     "short_description": "Le Micro Servo Module dispose d’une connectique standard 3 points, c’est un choix idéal pour réaliser vos projet de robototique et mécatronique piloté par Arduino.\n\nModulation : Analogique\n\nForce : 4.8V (1.6 kg-cm)\n\nVitesse : 4.8V 0.1 sec/60°\n\nPoids : 9g\n\nDimensions : 23mm x 12.2mm x 29 mm\n\nAngle de rotation : 180°"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/344-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3093",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support Pour Servo Moteur SG90",
+     "description": "Support Pour Servo Moteur SG90\n\nCe support facilite le montage de votre servo SG90 sur quelque chose de solide. La fente de montage inférieure est encastrée pour permettre des emplacements et des choix de montage plus souples.\n\nMots clés: motor, holder.",
+     "short_description": "Ce support facilite le montage de votre servo SG90 sur quelque chose de solide. La fente de montage inférieure est encastrée pour permettre des emplacements et des choix de montage plus souples."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/348-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/348-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3090",
+   "price": 48,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MG90S Servo Moteur Tower Pro 180°",
+     "description": "Servo Moteur Tower Pro MG90S\n\nCe micro servo digital MG90S à pignon métallique conviendra parfaitement pour les avions. Il trouvera sa place dans  bien des applications , avion voltige jusqu’à 1.5kgs , racer, helico type 450 , planeur jusqu’à 2.5m …\n\nType : TowerPro MG90S\n\nDimensions : 22,8 x 12,2 x 28,5 mm\n\nPoids : 13,4g\n\nVitesse: 0.10 sec/60° sous 4.8V – 0,08sec/60° sous 6V\n\nCouple de blocage : 1.8Kg/cm sous 4.8V – 2,2kg/cm sous 6V\n\nTension: 4.8V – 6V\n\nPrise type Graupner UNI\n\nPignons métalliques\n\nservo digital/numérique\n\nMots clés: motor.",
+     "short_description": "Ce micro servo digital à pignon métallique conviendra parfaitement pour les avions. Il trouvera sa place dans  bien des applications , avion voltige jusqu’à 1.5kgs , racer, helico type 450 , planeur jusqu’à 2.5m …\n\nPoids : 13,4g\n\nVitesse: 0.10 sec/60° sous 4.8V – 0,08sec/60° sous 6V\n\nCouple de blocaqge : 1.8Kg/cm sous 4.8V – 2,2kg/cm sous 6V\n\nTension: 4.8V – 6V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/345-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3091",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "S3003 Servo Moteur Futaba 180°",
+     "description": "Servo Moteur Futaba S3003\n\nServo universel S3003 compact et robuste avec couple élevé de 41 Ncm. Conçu pour la nouvelle technique de montage sans fil d’où une grande résistance aux vibrations et une longévité élevée. Le potentiomètre de rappel est équipé d’un contact par frottement sextuple et il est attaqué sans jeu. Technologie de pointe à bon prix.\n\nCaractéristiques techniques:\n\nencombrement: 40.4 x 19.8 x 36.0 mm\n\nPoids: 37.20 g\n\nTension nominale: 4.80 v – 6.00 volts\n\nCouple : 3.2kg.cm sous 4.8V\n\nCouple : 4.1kg.cm sous 6V\n\nVitesse : 0.23s/60° sous 4.8V\n\nVitesse : 0.19s/60° sous 6V\n\nPignons en nylon\n\nMots clés: motor",
+     "short_description": "Servo universel compact et robuste avec couple élevé de 41 Ncm. Conçu pour la nouvelle technique de montage sans fil d’où une grande résistance aux vibrations et une longévité élevée.\n\nencombrement: 40.4 x 19.8 x 36.0 mm\n\nMasse/poids: 37.20 g\n\nTension nominale: 4.80 v – 6.00 volts\n\nCouple : 3.2kg.cm sous 4.8V, 4.1kg.cm sous 6V\n\nVitesse : 0.23s/60° sous 4.8V, 0.19s/60° sous 6V\n\nPignons en nylon"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/346-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3092",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MG995 Servo Moteur Tower Pro 180°",
+     "description": "Servo Moteur Tower Pro MG995\n\nCe servo MG995 est le plus haut de la gamme standard TowerPro, il est équipé de pignons métaux et 2 roulements lui assurant une precision et une longévité sans égale. Le couple est exceptionnel (jusqu’à 13kg/cm).\n\nIl est particulièrement conseillé pour les voitures, avions voltige et petit-gros, hélico classe 50, ainsi que grand planeur.\n\nType : TowerPro MG995\n\nDimensions : 40 x 20 x 36,5 mm\n\nPoids : 60g\n\nPignons tout métal\n\nDouble roulement\n\nMoteur coreless\n\nVitesse: 0.16 sec/60° sous 4.8V – 0.13 sec/60° sous 6.0V\n\nCouple: 11Kg/cm sous 4.8V – 13Kg/cm sous 6.0V\n\nTension: 4.8V – 6V\n\nPrise type Graupner UNI\n\nMots clés: motor.",
+     "short_description": "Ce servo est le plus haut de la gamme standard TowerPro, il est équipé de pignons métaux et 2 roulements lui assurant une precision et une longévité sans égale. Le couple est exceptionnel (jusqu’à 13kg/cm).\n\nIl est particulièrement conseillé pour les voitures, avions voltige et petit-gros, hélico classe 50, ainsi que grand planeur.\n\nDimensions : 40 x 20 x 36,5 mm\n\nPoids : 60g\n\nDouble roulement\n\nMoteur coreless\n\nVitesse: 0.16 sec/60° sous 4.8V – 0.13 sec/60° sous 6.0V\n\nCouple: 11Kg/cm sous 4.8V – 13Kg/cm sous 6.0V\n\nTension: 4.8V – 6V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/347-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21077",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MG996R Servo Moteur Tower Pro 180°",
+     "description": "MG996R Servo Moteur Tower Pro\n\nLe MG996R est un servomoteur à engrenages métalliques avec un couple de décrochage maximal de 11 kg / cm. Comme les autres servos RC, le moteur tourne de 0 à 180 degrés en fonction du cycle de service de l’onde PWM fournie à sa broche de signal.\n\nLa tension de fonctionnement est généralement de + 5V\n\nCourant: 2,5 A (6 V)\n\nCouple de décrochage: 9,4 kg / cm (à 4,8 V)\n\nCouple de décrochage maximal: 11 kg / cm (6 V)\n\nLa vitesse de fonctionnement est de 0,17 s / 60 °\n\nType d’engrenage: Métal\n\nRotation: 0 ° -180 °\n\nPoids du moteur: 55gm\n\nMots clés: motor.",
+     "short_description": "Le MG996R est un servomoteur à engrenages métalliques avec un couple de décrochage maximal de 11 kg / cm. Comme les autres servos RC, le moteur tourne de 0 à 180 degrés en fonction du cycle de service de l’onde PWM fournie à sa broche de signal."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/347-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34431",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Micro Moteur à vibration, Vibreur 11x6mm 3-6V",
+     "description": "Micro Moteur à vibration 11x6mm 3-6V\n\nMoteur vibreur à petite taille de 11x6mm, alimenté par une tension DC 3-6V, utilisé pour téléphones mobiles, téléavertisseur, équipement de vibration électronique.\n\nCaractéristiques :\n\nMatériel: fer\n\nTension nominale : 5 V CC.\n\nTension appropriée: DC3V-6V\n\nDiamètre extérieur : 11mm\n\nÉpaisseur : 6mm\n\nLongueur du câble : environ 25mm\n\nPoids : 2 g\n\nTension / courant: 3V 28mA /  5V 60mA  /  6V 83mA",
+     "short_description": "Moteur vibreur à petite taille de 11x6mm, alimenté par une tension DC 3-6V, utilisé pour téléphones mobiles, téléavertisseur, équipement de vibration électronique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0348-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0348.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42658",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moteur DC 180 12V FK-180SH",
+     "description": "Moteur DC 180 12V FK-180SH-14180 Avec Hélice\n\nLe FK-180SH-14180 est un moteur à courant continu compact à brosses carbone, offrant un régime élevé et un couple suffisant pour de petites applications mécaniques, robotique légère ou aéronefs réduits.\n\n🔧 Caractéristiques techniques\n\nTension nominale : 12 V DC\n\nRégime à vide : 12 000 tr/min\n\nCourant à vide : 0,07 A\n\nRégime @ rendement max. : 10 000 tr/min à 0,34 A\n\nCouple @ rendement max. : 23,6 g·cm\n\nPuissance @ rendement max. : 2,41 W\n\nCouple de blocage (stall) : 140 g·cm\n\nCourant de blocage : 1,7 A\n\nAxe de sortie : ø 2 mm, longueur 7 mm\n\nDimensions :\n\nCorps : 32 mm (L) × 20,25 mm (Ø)\n\nLongueur totale (axe inclus) : 42,8 mm\n\nFixation : 2 trous M2 Ø 2 mm écartés de 12,5 mm\n\nAccessoire : 0,1 µF condensateur anti-parasites à souder aux bornes\n\n💡 Applications typiques\n\nPlates-formes mobiles & robots légers\n\nMicro-drones et aéronefs réduits\n\nVentilateurs et pompes miniatures\n\nProjets Arduino/ESP32 demandant un moteur rapide\n\nDispositifs mécaniques à haute vitesse, faible couple\n\n⚙️ Comment l’utiliser\n\nAlimentation : +12 V → borne positive, GND → borne négative.\n\nSens de rotation : inversez la polarité.\n\nPilotage PWM : utilisez un driver MOSFET (≥ 2 A) ou un pont en H (L298N, L293D).\n\nMontage : fixez le moteur par les trous M2, laissez 5–10 mm de libre tout autour pour ventiler.\n\nFiltrage : soudez un condensateur 0,1 µF entre les bornes pour réduire les interférences.\n\n🔩 Accessoires optionnels\n\nHélice 75 mm, 2 pales\n\nAlésage : 2 mm (montage direct sur l’axe)\n\nUsage : propulsion micro-drone, ventilateur d’appoint\n\nVitesse recommandée : 8 000–12 000 tr/min pour un débit optimal\n\nVous disposez ainsi d’un moteur rapide, fiable et modulable, prêt à accueillir une hélice 75 mm pour vos applications aériennes ou de ventilation.\n\nMots clés: motor, dinamo, motor, holder, dinamo, fk180, dc180, propeller.",
+     "short_description": "Le FK-180SH-14180 est un moteur à courant continu compact à brosses carbone."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/350-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/350-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/350-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/350-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/350-5.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/350-6.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34495",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "N20 Moteur DC 6V Avec Réducteur",
+     "description": "N20 Moteur DC 6V Avec Réducteur\n\nCe moteur à engrenages est largement utilisé dans les serrures électroniques, les voitures jouets de bricolage, les petits robots, le suivi des voitures, l’équilibrage des voitures, etc.\n\nCe moteur à engrenages CC présente un moment de force important, une faible vitesse et un faible bruit. Ce moteur à engrenages adopte une structure en forme de joint et a un bon effet anti-poussière.\n\nFaible chaleur et faible perte: Ce motoréducteur est constitué d’une bobine de fil de cuivre pur, avec une faible chaleur et une faible perte.\n\nLongue durée de vie: Le moteur est constitué d’un engrenage métallique, résistant à l’usure, évite la casse des dents, donc avec une longue durée de vie.\n\nCaractéristiques :\n\nTension : DC 6 V\n\nMatériel: Métal\n\nModèle : N20\n\nVitesse de rotation : 50/200/1000 RPM\n\nLongueur totale : 36 mm\n\nTaille du moteur: 12 mm (diamètre) * 26 mm (hauteur)\n\nTaille de l’arbre: 3 mm (diamètre) * 10 mm (longueur)\n\nPoids : environ 13 g\n\nDiamètre de la boîte de vitesses : 14 mm, tranchant 0,5 mm,",
+     "short_description": "Ce moteur à engrenages est largement utilisé dans les serrures électroniques, les voitures jouets de bricolage, les petits robots, le suivi des voitures, l’équilibrage des voitures, etc."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0351.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42663",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moteur DC RS-775 18V 20000rpm",
+     "description": "Moteur DC RS-775 18V 20000rpm\n\nCe moteur RS-775 à brosses carbone de la série RS-775-8014 offre un compromis idéal entre régime élevé et puissance, pour des applications allant de la petite robotique aux outils portatifs et micro-broches.\n\n🔧 Caractéristiques techniques\n\nTension nominale : 18 V DC (plage 16,8–20,4 V)\n\nÀ vide (18 V) : 20 000 tr/min · I₀ = 2,5 A\n\nPoint de puissance max.\n\nVitesse : 17 300 tr/min\n\nCourant : 16,2 A\n\nCouple : 1 330 g·cm (0,13 N·m)\n\nPuissance mécanique : 237 W\n\nRendement : 81,4 %\n\nBlocage (stall) : couple 10 000 g·cm (0,98 N·m) · Iₛ = 105 A\n\nDimensions :\n\nCorps Ø 46 × 67 mm\n\nAxe : Ø 5 × 17 mm\n\nFixation : 2× M4 (entraxe 29 mm)\n\nTempérature de fonctionnement : –10 °C à +60 °C\n\n💡 Applications typiques\n\nMicro-broches et perceuses haute vitesse\n\nOutils portatifs (mini-meuleuses, polisseuses)\n\nRobotique légère nécessitant un moteur rapide\n\nPompes et ventilateurs compacts\n\nProjets Arduino/ESP32 requérant une puissance mécanique élevée\n\n⚙️ Installation & câblage\n\nBranchement :\n\nFil rouge → +18 V DC\n\nFil noir → GND\n\nSens de rotation : inverser la polarité pour changer le sens de rotation.\n\nPilotage PWM :\n\nUtiliser un driver MOSFET capable de supporter 120 A en pointe (ex. pont en H BTS7960).\n\nAjouter un condensateur de 0,1 µF entre les bornes pour filtrer les parasites.\n\nMontage : fixer le corps sur son châssis via les deux trous M4, en laissant au moins 5 mm d’espace autour pour la dissipation thermique.\n\nConseil : assurez une alimentation 18 V capable de fournir au moins 30 A pour exploiter pleinement la puissance de crête de ce moteur.\n\nMots clés: motor, dinamo, motor, holder, dinamo.",
+     "short_description": "Ce moteur à brosses carbone de la série RS-775 offre un compromis idéal entre régime élevé et puissance, pour des applications allant de la petite robotique aux outils portatifs et micro-broches."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/352-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/352-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/352-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/352-4.png"
+   ]
+  }
+ ]
+}

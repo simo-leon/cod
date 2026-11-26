@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-37003",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteurs JST Male / Femelle avec Câble 30cm",
+     "description": "Connecteurs JST 2.54mm Male / Femelle avec Câble 30cm\n\nCes connecteurs JST 2.54mm Dupont Male + Femelle sont idéaux pour divers projets électroniques, dotés de câbles de 30cm pour des connexions pratiques. Disponibles en plusieurs variations de broches (2, 3, 4, 5, 6, 8, 10), ils sont compatibles avec de nombreux modules et circuits, garantissant des connexions rapides et fiables.\n\nCaractéristiques\n\nMatériau : Connecteurs en plastique durable avec contacts métalliques\n\nType de connecteur : Dupont mâle et femelle\n\nNombre de broches : 2, 3, 4, 5, 6, 8, 10 broches\n\nLongueur du câble : 30cm\n\nCouleurs des fils : Multicolores pour faciliter l’identification\n\nComment l’utiliser\n\nPréparation des câbles :\n\nSélectionnez la variation de broches nécessaire pour votre application.\n\nVérifiez les couleurs des fils pour correspondre aux connexions.\n\nConnexion aux modules :\n\nInsérez les connecteurs Dupont mâles dans les broches femelles des modules ou circuits.\n\nAssurez-vous que les connexions sont correctes et sécurisées.\n\nApplications :\n\nUtilisés pour les projets Arduino, Raspberry Pi, et autres microcontrôleurs.\n\nIdéal pour le prototypage et les montages électroniques.\n\nConseils de sécurité :\n\nVérifiez les connexions avant d’alimenter le circuit.\n\nUtilisez les couleurs des fils pour une identification facile et éviter les erreurs de connexion.\n\nCes connecteurs Dupont avec câbles et variations de broches sont parfaits pour réaliser des connexions rapides et fiables dans vos projets électroniques.",
+     "short_description": "Connecteurs JST mâle et femelle avec câbles de 30 cm, idéaux pour les projets électroniques nécessitant des connexions fiables et durables. Ils sont souvent utilisés pour les batteries, les capteurs, et autres composants électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/529-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3237",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Dupont Mâle/Femelle 20CM X 10",
+     "description": "Câble Dupont Mâle/Femelle 20CM X 10\n\nCâble dupont (10 fils) mâle/femelle pour breadboard 20cm.\n\nMots clés: fils, file, connexion.",
+     "short_description": "10 fils dupont mâle/femelle pour breadboard 20cm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/531-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3238",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Dupont Mâle / Mâle 20CM X10",
+     "description": "Câble Dupont Mâle / Mâle 20CM X10\n\nCâble dupont (10 fils) mâle / mâle pour breadboard, longueur: 20cm.\n\nMots clés: fils, file, connexion.",
+     "short_description": "10 fils dupont mâle/mâle pour breadboard 20cm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/532-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3239",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Dupont Femelle/Femelle 20CM X 10",
+     "description": "Câble Dupont Femelle/Femelle 20CM X 10\n\nCâble dupont (10 fils) femelle/femelle pour breadboard 20cm.\n\nMots clés: fils, file, connexion.",
+     "short_description": "10 fils dupont femelle/femelle pour breadboard 20cm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/533-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3240",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble avec Fiche Crocodile/Banane 1M",
+     "description": "Câble avec Fiche Crocodile/Banane 1M\n\nCâble avec Fiche Crocodile/Banane, longueur: 1M.",
+     "short_description": "Câble avec Fiche Crocodile/Banane, longueur: 1M"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/534-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35000",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble à Pince Crocodile / Crocodile 1M",
+     "description": "Câble à Pince Crocodile 1M\n\ncâble à Pince Crocodile 1M, les deux extrémités des cordons de test sont des pinces crocodiles. La largeur maximale de l’ouverture des pinces crocodiles est de 10mm. Longueur du fil 1M. La pince crocodile est fermement fixée au fil et la couche d’isolation en caoutchouc garantit qu’elle ne glissera pas pendant l’utilisation. Le ressort de la pince crocodile est assez solide et ne se déformera pas lorsque vous l’utiliserez plus souvent. Parfait pour tous les tests électriques, les applications électroniques telles que les accessoires automobiles et les circuits de test. Tant que ce que vous testez utilise un fusible de 15A ou moins.\n\nCaractéristiques:\n\nLongueur: 1M\n\nTension: 1000V\n\nCourant: 15A",
+     "short_description": "câble à Pince Crocodile 1M, les deux extrémités des cordons de test sont des pinces crocodiles. La largeur maximale de l’ouverture des pinces crocodiles est de 10mm. Longueur du fil 1M."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0534-A.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3245",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble avec Fiche Crochet/Banane 1M",
+     "description": "Câble avec Fiche Crochet/Banane 1M\n\nCâble avec Fiche Crochet/Banane, longueur: 1M.",
+     "short_description": "Câble avec Fiche Crochet/Banane, longueur: 1M"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/537-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3246",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble USB avec fiche Mini USB 30CM",
+     "description": "Câble USB avec fiche Mini USB 30CM (Pour Arduino)\n\nCâble Mini USB vers fiche usb mâle, longueur: 30CM, peut être utilisé pour alimentation d’Arduino Nano.",
+     "short_description": "Câble Mini USB vers fiche usb mâle, longueur: 30CM, peut être utilisé pour alimentation d’Arduino Nano"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/538-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6206",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Usb Mâle Type A",
+     "description": "Connecteur Usb Mâle Type A\n\nConnecteur Usb Mâle type A, 4 broches, peut-être utilisée pour alimentation / communication usb.",
+     "short_description": "Connecteur Usb Mâle type A, 4 broches, peut-être utilisée pour alimentation / communication usb."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/540-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6119",
+   "price": 0.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Isolant Thermique en Silicone pour TO-220",
+     "description": "Isolant Thermique en Silicone pour TO-220\n\nIsolant Thermique en Silicone pour TO-220.\n\nMatiére: Silicone\n\nDimension: 19 x 13mm",
+     "short_description": "Isolant Thermique en Silicone pour TO-220."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/542-1.png"
+   ]
+  }
+ ]
+}

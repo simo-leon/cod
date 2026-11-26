@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3134",
+   "price": 14,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCB Simple Face Perforé 9X15CM",
+     "description": "PCB Simple Face 9X15CM\n\nCircuit imprimé Simple Face, dimensions 9X15cm, pour prototypage de vos circuits électroniques.",
+     "short_description": "Circuit imprimé Simple Face, dimensions 9X15cm, pour prototypage de vos circuits électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/411-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3135",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCB Simple Face Perforé 5X7CM",
+     "description": "PCB Simple Face 5X7CM\n\nCircuit imprimé, PCB Simple Face, dimensions 5X7cm, pour prototypage de vos circuits électroniques.",
+     "short_description": "Circuit imprimé Simple Face, dimensions 5X7cm, pour prototypage de vos circuits électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/412-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3145",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Breadboard, Plaque d’essai 170 Points 6 Couleurs",
+     "description": "Breadboard, Plaque d’essai 170 Points 6 Couleurs\n\nPlaque d’essai ( Breadboard ), 170 Points en 6 couleurs: rouge, blanc, bleu, vert, noir, jaune pour prototypage de vos circuits électroniques. Il peut étre relié entre eux pour former un grand breadboard.",
+     "short_description": "Plaque d’essai ( Breadboard ), 170 Points en 6 couleurs: rouge, blanc, bleu, vert, noir, jaune pour prototypage de vos circuits électroniques. Il peut étre relié entre eux pour former un grand breadboard."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/417-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3151",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Breadboard, Plaque d’essai 400 Points",
+     "description": "Breadboard, Plaque d’essai 400 Points\n\nPlaque d’essai ( Breadboard ) 400 Points, pour prototypage de vos circuits électroniques. Il peut étre relié entre eux pour former un grand breadboard.",
+     "short_description": "Plaque d’essai ( Breadboard ) 400 Points, pour prototypage de vos circuits électroniques. Il peut étre relié entre eux pour former un grand breadboard."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/418-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42400",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 12V 5A 60W",
+     "description": "Alimentation à Découpage 12V 5A 60W\n\nAlimentation à découpage 12V, 220/110V AC, capable d’un courant de 5A.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 12V DC\n\nCourant de sortie: 5A max\n\nPuissance: 60W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation à découpage 12V, 220/110V AC, capable d’un courant de 10A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/422-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50600",
+   "price": 135,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 9V 10A 90W",
+     "description": "Alimentation à Découpage 9V 10A 90W\n\nAlimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 9V, maximum 10A 90W. Deux ports de sortie.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 9V DC\n\nCourant de sortie: 10A max\n\nPuissance: 90W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 9V, maximum 10 A 90W. Deux ports de sortie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/422-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50605",
+   "price": 190,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 36V 5A 180W",
+     "description": "Alimentation à Découpage 36V 5A 180W\n\nAlimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 36V, maximum 5A 180W. Deux ports de sortie.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 36V DC\n\nCourant de sortie: 5A max\n\nPuissance: 180W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 36V, maximum 5A 180W. Deux ports de sortie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/422-e-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50607",
+   "price": 220,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 48V 5A 240W",
+     "description": "Alimentation à Découpage 48V 5A 240W\n\nAlimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 48V, maximum 5A 240W. Deux ports de sortie.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 48V DC\n\nCourant de sortie: 5A max\n\nPuissance: 240W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation universelle à découpage. Entrée : CA 110 V/220 V, 50/60 Hz ; Sortie : DC 48V, maximum 5A 240W. Deux ports de sortie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/422-g-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7285",
+   "price": 180,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 12V 20A 240W",
+     "description": "Alimentation à Découpage 12V 20A 240W\n\nAlimentation à découpage 12V, 220/110V AC, capable d’un courant de 20A.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 12V DC\n\nCourant de sortie: 20A max\n\nPuissance: 240W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation à découpage 12V, 220/110V AC, capable d’un courant de 20A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/423-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/423-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/423-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7281",
+   "price": 220,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 12V 30A 360W",
+     "description": "Alimentation à Découpage 12V 30A 360W\n\nAlimentation à découpage 12V, 220/110V AC, capable d’un courant de 30A, avec refroidisseur automatique.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 12V DC\n\nCourant de sortie: 30A max\n\nPuissance: 360W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation à découpage 12V, 220/110V AC, capable d’un courant de 30A, avec refroidisseur automatique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/424-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/424-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/424-2.png"
+   ]
+  }
+ ]
+}

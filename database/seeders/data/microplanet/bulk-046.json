@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-50615",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "3S 40A BMS Chargeur de Batteries Lithium 3 Cellules",
+     "description": "3S 40A BMS Chargeur de Batteries Lithium 3 Cellules\n\nCe module BMS 3S 40A est un circuit de protection et de gestion destiné aux batteries lithium Li-ion / 18650 de 3,6-3,7 V, assemblées en 3 cellules en série (3S), soit une tension nominale d’environ 11,1 V et une tension de charge maximale de 12,6 V.\n\nIl permet de protéger la batterie pendant la charge et la décharge contre les principaux défauts électriques : surcharge, décharge excessive, surintensité et court-circuit.\n\nCette version intègre également une fonction d’équilibrage des cellules, permettant de limiter les différences de tension entre les trois cellules pendant la charge.\n\nGrâce à son courant de décharge pouvant atteindre 40 A, ce BMS convient notamment aux batteries utilisées avec des moteurs, outils électriques, projets DIY, systèmes alimentés par cellules 18650 et autres applications nécessitant un courant relativement élevé.\n\nCompatible avec les batteries lithium 3S ;\n\nCompatible avec les cellules 18650 Li-ion 3,6 V / 3,7 V ;\n\nProtection contre la surcharge ;\n\nProtection contre la décharge excessive ;\n\nProtection contre les surintensités ;\n\nProtection contre les courts-circuits ;\n\nFonction d’équilibrage des 3 cellules ;\n\nCourant de charge pouvant atteindre 20 A ;\n\nCourant de décharge pouvant atteindre 40 A ;\n\nConvient notamment aux moteurs et outils électriques.\n\nCaractéristiques:\n\nType : BMS / Circuit de protection batterie lithium\n\nConfiguration batterie : 3S\n\nNombre de cellules en série : 3\n\nType de batterie : Lithium-ion / 18650\n\nTension nominale du pack : 11,1 V\n\nTension maximale de charge : 12,6 V\n\nCourant de décharge continu maximum : 40 A\n\nCourant de charge continu maximum : 20 A\n\nÉquilibrage des cellules : Oui\n\nProtection contre surcharge : Oui\n\nProtection contre décharge excessive : Oui\n\nProtection contre surintensité : Oui\n\nProtection contre court-circuit : Oui\n\nMatériau : PCB\n\nCouleur : Vert\n\nBranchement:\n\nLe module doit être connecté aux trois cellules du pack batterie afin de surveiller individuellement leur tension.\n\nB- : borne négative générale de la batterie\n\nB1 : connexion entre la cellule 1 et la cellule 2\n\nB2 : connexion entre la cellule 2 et la cellule 3\n\nB+ : borne positive générale de la batterie\n\nP+ / P- : sortie vers la charge et connexion du chargeur, selon le marquage présent sur la carte\n\nPour un pack 3S constitué de cellules de 3,7 V :\n\n3 × 3,7 V = 11,1 V nominal\n\nÀ pleine charge :\n\n3 × 4,2 V = 12,6 V maximum\n\nIl est recommandé d’utiliser des cellules de même type, de capacité similaire et avec un niveau de charge proche avant de les assembler en série.\n\nAttention : ce module est un BMS de protection et d’équilibrage. Il ne remplace pas un chargeur lithium adapté. Pour charger le pack, utiliser un chargeur Li-ion 3S / 12,6 V approprié.\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module BMS 3S 40A est un circuit de protection et de gestion destiné aux batteries lithium Li-ion / 18650 de 3,6-3,7 V, assemblées en 3 cellules en série (3S), soit une tension nominale d’environ 11,1 V et une tension de charge maximale de 12,6 V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/488-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/488-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42109",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "4S 40A BMS Chargeur de Batteries Lithium 4 Cellules",
+     "description": "4S 40A BMS Chargeur de Batteries Lithium 4 Cellules\n\nCe module BMS 4 cellules en série (4S) supporte un courant de décharge continu de 40A et assure la protection complète de votre pack Li-ion 14,8 V (max. charge 16,8 V–18,1 V). Il intègre l’équilibrage passif des cellules pour prolonger la durée de vie de la batterie.\n\n🔧 Caractéristiques techniques\n\nConfiguration : 4 cellules en série (3,6 V/3,7 V nominal, 16,8 V max. charge)\n\nCourant de décharge continu : 40 A (pointe jusqu’à 60 A si refroidissement adapté) \n\nCourant de charge max. : 20 A continuous (réglable selon version)\n\nCourant d’équilibrage : ≃ 100 mA par cellule\n\nMOSFETs : 10 transistors basse résistance pour limiter les pertes\n\nTension de charge recommandée : 16,8 V – 18,1 V (4×4,2 V)\n\nProtections intégrées : surcharge (OVP), décharge excessive (UVP), surintensité (OCP), court-circuit, inversion de polarité, surchauffe\n\nDimension du PCB : ~ 55 × 45 × 3,4 mm\n\nTempérature de fonctionnement : – 20 °C à + 60 °C\n\n💡 Applications typiques\n\nPacks Li-ion pour e-bike, trottinette électrique, outils sans fil\n\nDrones et modèles réduits nécessitant forts courants\n\nBancs de test et alimentations portables\n\nSystèmes UPS et powerbanks DIY\n\nProjets Arduino/ESP32 avec alimentation 14,8 V\n\n🛠️ Connexions / Brochage\n\nBroche\nDescription\n\nB–\nNégatif pack (– de la cellule 1)\n\nB1\nJonction entre cellule 1 et cellule 2\n\nB2\nJonction entre cellule 2 et cellule 3\n\nB3\nJonction entre cellule 3 et cellule 4\n\nB+\nPositif pack (+ de la cellule 4)\n\nP–\nSortie négative vers le chargeur ou la charge (généralement reliée à B–)\n\nP+\nSortie positive vers le chargeur ou la charge (généralement reliée à B+)\n\nBranchez d’abord les fils B– → B1 → B2 → B3 → B+ sur votre pack 4 cells, puis connectez P– / P+ à la charge ou au chargeur. Vérifiez toujours la polarité et l’isolation pour garantir une utilisation en toute sécurité.\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module BMS 4 cellules en série (4S) supporte un courant de décharge continu de 40A et assure la protection complète de votre pack Li-ion 14,8 V (max. charge 16,8 V–18,1 V)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/488-b-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/488-b-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4099",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "4S 15A BMS Chargeur de Batteries Lithium 4 Cellules",
+     "description": "Chargeur de Batteries Lithium Avec Circuit de Protection 4S\n\nCe module est un chargeur de batteries lithium ( 4 cellules en série ) de 3.6-3.7V comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 15A max, la carte est adaptée aux tensions nominales 14.4V (3.6v x 4), 14.8V (3.7v x 4), 16.8V (4.2v x 4).\n\nProtection Contre:\n\nCourts-circuits\n\nSurcharges\n\nSurcharges\n\nSurintensités\n\nCaractéristiques:\n\nTension de détection de surcharge: 4,25 ± 0,025 V.\n\nSurcharge Soulever la tension: 4.15 ± 0.05V.\n\nTension de détection de décharge: 2,50 ± 0,08V.\n\nSurcharge Soulever la tension: 3.00 ± 0.1V.\n\nCourant de surintensité: 20-30A.\n\nCourant de fonctionnement: 15A max (10A – refroidissement naturel , 15A – ajouter un dissipateur de chaleur, le courant instantané maximum 30A).\n\nTempérature de fonctionnement: -40 – 85c\n\nTaille: 50 * 22 * 4mm.\n\nFiche technique\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module est un chargeur de batteries lithium ( 4 cellules en série ) de 3.6-3.7V comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 15A max, la carte est adaptée aux tensions nominales 14.4V (3.6v x 4), 14.8V (3.7v x 4), 16.8V (4.2v x 4)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/490-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/490-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20949",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "5S 15A BMS Chargeur de Batteries Lithium 5 Cellules",
+     "description": "Chargeur de Batteries Lithium 5 Cellules 5S 15A\n\nCe module est un chargeur de batteries lithium 5S ( 5 cellules en série ) de 3.6-3.7V comme “18650”, équipé d’un circuit de protection contre: température élevée, courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 15A max, la carte est adaptée aux tensions nominales 18V (3.6v x 5), 18.5V (3.7v x 4), 21V (4.2v x 4).\n\nProtection Contre:\n\nCourts-circuits\n\nSurcharges\n\nSurcharges\n\nSurintensités\n\nTempérature élevée\n\nCaractéristiques:\n\nTension de chargement: 21V\n\nTension de détection de surcharge: 4,25 ± 0,025 V.\n\nSurcharge Soulever la tension: 4.15 ± 0.05V.\n\nTension de détection de décharge: 2,50 ± 0,08V.\n\nSurcharge Soulever la tension: 3.00 ± 0.1V.\n\nCourant de surintensité: 20-30A.\n\nCourant de fonctionnement: 15A max (10A – refroidissement naturel , 15A – ajouter un dissipateur de chaleur, le courant instantané maximum 30A).\n\nTempérature de fonctionnement: -40 – 85c\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module est un chargeur de batteries lithium 5S ( 5 cellules en série ) de 3.6-3.7V comme “18650”"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/490-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20952",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "6S 15A BMS Chargeur de Batteries Lithium 6 Cellules",
+     "description": "Chargeur de Batteries Lithium 6 Cellules 6S 15A\n\nCe module est un chargeur de batteries lithium 6S ( 6 cellules en série ) de 3.6-3.7V comme “18650”, équipé d’un circuit de protection contre: température élevée, courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 15A max, la carte est adaptée aux tensions nominales 21.6V (3.6v x 5), 22.2V (3.7v x 4), 25.2V (4.2v x 4).\n\nProtection Contre:\n\nCourts-circuits\n\nSurcharges\n\nSurcharges\n\nSurintensités\n\nTempérature élevée\n\nCaractéristiques:\n\nTension de chargement: 25.5V\n\nTension de détection de surcharge: 4,28 ± 0,05 V.\n\nSurcharge Soulever la tension: 4.08 ± 0.05V.\n\nTension de détection de décharge: 2,55 ± 0,08V.\n\nSurcharge Soulever la tension: 2.9 ± 0.1V.\n\nCourant de surintensité: 20-30A.\n\nCourant de fonctionnement: 15A max (10A – refroidissement naturel , 15A – ajouter un dissipateur de chaleur, le courant instantané maximum 30A).\n\nTempérature de fonctionnement: -40 – 85c\n\nDimensions: 50*30*2mm\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module est un chargeur de batteries lithium 6S ( 6 cellules en série ) de 3.6-3.7V comme “18650”"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/490-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3203",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pile 9V Standard",
+     "description": "Pile 9V Standard\n\nPile 9V standard 6F22 Pb (non rechargable).\n\nMots clés: batterie, battery.",
+     "short_description": "Pile 9V standard 6F22 Pb (non rechargable)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/493-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34279",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pile 9V Alkaline VARTA",
+     "description": "Pile 9V Alkaline VARTA\n\nLa pile Varta Energy 6LR61 9V est une pile de haute qualité offrant des performances durables. Il fournit au produit une énergie durable à un prix abordable. Énergie durable pour les appareils à besoins énergétiques constants et faibles, tels que les télécommandes pour téléviseurs et systèmes de musique, horloges murales, radios, etc. Emballage ‘Single Press Out’ individuel garantissant une ouverture facile et un stockage optimal des piles non utilisées Stockage garantie pendentif 10 ans\n\nTaille: 6LR61\n\nRéférence CEI : 6LP3146\n\nVARTA Type: 04122\n\nHauteur : 48,5 mm\n\nPoids : 46g\n\nSystème chimique : manganèse alcalin primaire\n\nTension : 9 V",
+     "short_description": "Pile 9V Alkaline VARTA\n\nLa pile Varta Energy 6LR61 9V est une pile de haute qualité offrant des performances durables. Il fournit au produit une énergie durable à un prix abordable. Énergie durable pour les appareils à besoins énergétiques constants et faibles, tels que les télécommandes pour téléviseurs et systèmes de musique, horloges murales, radios, etc. Emballage ‘Single Press Out’ individuel garantissant une ouverture facile et un stockage optimal des piles non utilisées Stockage garantie pendentif 10 ans"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0493-C-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0493-C.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3204",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur de Batterie 9V",
+     "description": "Connecteur de Batterie 9V\n\nConnecteur de Batterie 9V, sert à faciliter l’alimentation de vos projet par les batteries 9V.\n\nMots clés: connector, battery.",
+     "short_description": "Connecteur de Batterie 9V, sert à faciliter l’alimentation de vos projet par les batteries 9V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/494-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3205",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur de Batterie 9V Avec Prise DC",
+     "description": "Connecteur de Batterie 9V Avec Prise DC\n\nConnecteur de Batterie 9V Avec Prise DC, sert à faciliter l’alimentation de vos projet par les batteries 9V.\n\nMots clés: connector, battery.",
+     "short_description": "Connecteur de Batterie 9V Avec Prise DC, sert à faciliter l’alimentation de vos projet par les batteries 9V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/495-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3206",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "boîtier Pour Batterie 9V Avec Prise DC",
+     "description": "Support de Batterie 9V Avec Prise DC\n\nSupport de Batterie 9V Avec Prise DC et Interrupteur ON/OFF. Sert à faciliter l’alimentation de vos projet par les batteries 9V.\n\nMots clés: boîtier, holder, battery, boite.",
+     "short_description": "Support de Batterie 9V Avec Prise DC et Interrupteur ON/OFF. Sert à faciliter l’alimentation de vos projet par les batteries 9V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/496-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/496-1.png"
+   ]
+  }
+ ]
+}

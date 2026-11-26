@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-1954",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "TROTRO A TROP CHAUD",
+     "description": "Âne Trotro a trop chaud des éditions Gallimard Jeunesse aborde le thème de la gestion de la chaleur estivale et des manières de se rafraîchir. Le petit âne se retrouve un jour où le soleil brille très fort et cherche des solutions pour faire face à la chaleur : boire de l’eau, se mettre en maillot ou déguster une glace. C’est un livre idéal pour lier la lecture à une expérience sensorielle et quotidienne de l’enfant.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur la chaleur et les moyens de se rafraîchir. Aborde l’hydratation et les activités d’été."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-17.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1953",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ÂNE TROTRO FAIT UN SPECTACLE",
+     "description": "Âne Trotro fait un spectacle met en scène le petit âne dans un moment de créativité et de représentation. L’album dépeint le processus de préparation d’un spectacle, du choix de l’idée jusqu’à la performance finale. Il est un excellent support pour explorer le thème de l’expression artistique et du dépassement de soi face à un public.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur la créativité et la gestion du trac. Encourage l’expression artistique et le dépassement de soi en public."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-18.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1952",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ÂNE TROTRO ET LA MAIN DE NANA",
+     "description": "Âne Trotro et la main de Nana de Gallimard Jeunesse aborde le thème de la timidité et des premiers sentiments amoureux ou d’amitié naissante. Le livre raconte la rencontre entre Trotro et Nana lors d’une promenade, et la difficulté de Trotro à surmonter sa timidité pour lui donner la main. C’est une histoire tendre et simple qui explore les enjeux émotionnels des interactions sociales chez les tout-petits.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur la timidité face à l’amitié. Aborde les premiers sentiments et le dépassement de soi."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-19.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1951",
+   "price": 74,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ÂNE TROTRO ET LA MARGUERITE",
+     "description": "Âne Trotro et la marguerite est un charmant album jeunesse qui aborde des thèmes simples et poétiques de la nature et de l’amitié. Le récit se concentre sur Trotro et une simple fleur, la marguerite, illustrant la beauté des petites choses de la vie et la tendresse des liens affectifs. Ce livre encourage l’enfant à observer la nature et son environnement immédiat, tout en explorant les notions d’attachement et de partage dans des situations douces et familières.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur la nature et la tendresse. Encourage l’observation de la nature, l’attachement et le partage."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-20.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1950",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ÂNE TROTRO FAIT DU BATEAU",
+     "description": "Âne Trotro fait du bateau est un album qui plonge le petit âne dans l’univers marin et l’aventure. Il raconte l’histoire de Trotro construisant ou jouant avec un bateau, explorant ainsi le thème de l’imagination et du jeu symbolique. Ce livre est idéal pour encourager la créativité et la découverte de nouveaux environnements (l’eau, la navigation). Il accompagne l’enfant dans ses premières expériences imaginaires et sensorielles liées à l’eau, tout en restant dans le cadre rassurant des aventures de Trotro.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur l’imagination et la navigation. Encourage le jeu symbolique, la créativité et la découverte de l’eau."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-21.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1947",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "L’ÂNE TROTRO FAIT DES GALIPETTES",
+     "description": "Âne Trotro : Galipettes de la collection Giboulées est un album jeunesse mettant en scène le célèbre petit âne espiègle. Cet ouvrage suit Trotro dans ses jeux et ses mésaventures quotidiennes, où il découvre le plaisir de faire des galipettes et d’autres acrobaties. Le livre, conçu avec des illustrations simples, est parfait pour les tout-petits. Il encourage l’enfant à explorer son propre corps, à développer sa motricité tout en traitant de thèmes familiers de l’enfance.\n\nFavoris",
+     "short_description": "Album jeunesse de la collection Trotro. Suit le petit âne dans ses jeux et acrobaties, encourageant la motricité et l’exploration corporelle."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-23.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1946",
+   "price": 164,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "FINGERPRINT ACTIVITÉS ART",
+     "description": "Ce livre propose des dizaines d’activités créatives utilisant l’encre et les empreintes de doigts. L’enfant est guidé pour transformer ses empreintes en animaux, personnages ou motifs amusants, encourageant l’expérimentation artistique. C’est une manière originale et simple de développer la créativité et la coordination œil-main sans avoir besoin de pinceaux.\n\nFavoris",
+     "short_description": "Livre d’activités Usborne. Un cahier d’activités créatives basé sur l’empreinte des doigts."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9781805317982-featured.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9781805317982-2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9781805317982-3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9781805317982-4.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1945",
+   "price": 204,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "USBORNE BOOK AND JIGSAW TELLING THE TIME",
+     "description": "Ce kit éducatif permet d’apprendre à lire l’heure de manière interactive. Il contient un livre illustré qui explique clairement le fonctionnement des horloges (heures, minutes) et un puzzle géant pour reconstituer un cadran d’horloge. C’est un excellent outil pour aider l’enfant à acquérir cette compétence essentielle tout en développant sa motricité et son raisonnement spatial.\n\nFavoris",
+     "short_description": "Livre-puzzle Usborne. Un kit pour apprendre l’heure, comprenant un livre et un puzzle."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9781805312932-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1944",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "AVEC DOIGT IMAGIER ANIMÉ ANIMAUX",
+     "description": "Cet imagier cartonné invite les tout-petits à interagir directement avec les illustrations en faisant bouger les images avec leur doigt (mécanisme push-pull). Il présente différents animaux dans des scènes amusantes, stimulant ainsi la motricité fine et l’éveil visuel. C’est un livre ludique qui rend la découverte du monde animal dynamique et captivante.\n\nFavoris",
+     "short_description": "Livre d’éveil Usborne. Un imagier interactif avec des animations à faire bouger avec le doigt."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9781409594949-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1923",
+   "price": 15.4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    18
+   ],
+   "locales": {
+    "fr": {
+     "name": "BABYJEM Bavoir en Mousseline Zoo",
+     "description": "Description : \n\nLe Bavoir en Mousseline Zoo de BABYJEM est conçu pour un usage quotidien, idéal pour absorber les régurgitations, les bavements et protéger les vêtements durant les repas. Fabriqué en mousseline 100% coton, il est reconnu pour son incroyable douceur, qui augmente après chaque lavage, le rendant parfaitement adapté à la peau délicate du bébé. Le tissu léger et respirant assure un confort optimal. Ce modèle est décoré d’un charmant motif sur le thème des animaux du Zoo.\n\nCaractéristiques principales : \n\n1️⃣ Matériaux : 100% Coton Mousseline, garantissant une haute capacité d’absorption et une douceur extrême.\n\n2️⃣ Conception : Tissu léger et respirant pour un confort toute la journée.\n\n3️⃣ Design : Motif animaux du Zoo amusant et coloré.\n\nAvantages : \n\n✔ Très absorbant, gérant efficacement l’humidité et les liquides.\n\n✔ Tissu hypoallergénique et doux, prévenant les irritations cutanées.\n\n✔ Facile d’entretien et sèche rapidement.\n\nConseils d’utilisation : \n\n• Il peut être lavé et séché facilement, conservant sa douceur lavage après lavage.\n\n• Utiliser une lessive pour bébé et éviter les adoucissants qui peuvent réduire l’absorption de la mousseline.\n\nFavoris",
+     "short_description": "Bavoir très doux et absorbant en 100% coton mousseline. Idéal pour les régurgitations, motifs animaux du Zoo."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/8681049293794-featured.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/8681049293794-2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/8681049293794-3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/8681049293794-4.jpg"
+   ]
+  }
+ ]
+}

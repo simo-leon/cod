@@ -1,0 +1,197 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-7130",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TL494CN Circuit Intégré de contrôle PWM",
+     "description": "TL494CN Circuit Intégré de contrôle PWM\n\nLe TL494 est un circuit de commande à modulation de largeur d’impulsion, d’un fréquence fixe, conçu principalement pour le contrôle de l’alimentation à découpage (switch mode power supply).\n\nFiche technique",
+     "short_description": "Le TL494 est un circuit de commande à modulation de largeur d’impulsion, d’un fréquence fixe, conçu principalement pour le contrôle de l’alimentation à découpage (switch mode power supply)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/792-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22833",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PN8024R Contrôleur d’alimentation à découpage",
+     "description": "PN8024R Contrôleur d’alimentation à découpage\n\nPN8024R Circuit intégré, Contrôleur d’alimentation à découpage.\n\nFiche technique",
+     "short_description": "PN8024R Circuit intégré, Contrôleur d’alimentation à découpage."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/793-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20875",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "7660S Convertisseur de Tension Super",
+     "description": "7660S Convertisseur de Tension Super\n\nLes super convertisseurs de tension 7660S 7660SCPZ sont des circuits intégrés de conversion de tension CMOS monolithiques qui garantissent des avantages de performance significatifs par rapport à d’autres circuits intégrés similaires. Ils remplacent directement la norme industrielle ICL7660 offrant une plage de tension d’alimentation de fonctionnement étendue jusqu’à 12 V, avec un courant d’alimentation plus faible. Une broche d’amplification de fréquence a été incorporée pour permettre à l’utilisateur d’obtenir une impédance de sortie plus faible malgré l’utilisation de condensateurs plus petits.\n\nMarque: Intersil Corporation\n\nFiche technique",
+     "short_description": "Les super convertisseurs de tension 7660S 7660SCPZ sont des circuits intégrés de conversion de tension CMOS monolithiques qui garantissent des avantages de performance significatifs."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/799-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-12075",
+   "price": 9,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "DS1307 Horloge RTC",
+     "description": "DS1307 Horloge RTC\n\nDS1307 Horloge RTC.\n\nFiche technique",
+     "short_description": "DS1307 Horloge RTC."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/803-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6539",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78L24 Régulateur de Tension To-92 24V 0.1A",
+     "description": "Régulateur de Tension To-92 78L24 24V 0.1A\n\nRégulateur de Tension To-92 78L24 24V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 78L24 24V 0.1A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/809-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3684",
+   "price": 9,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM334 Source de Courant 10mA",
+     "description": "LM334 Source de Courant 10mA\n\nLM334 Source de Courant 10mA.\n\nFiche technique",
+     "short_description": "LM334 Source de Courant 10mA"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/811-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/811-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3686",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78L05 Régulateur de Tension To-92 5V 0.1A",
+     "description": "Régulateur de Tension To-92 78L05 5V 0.1A\n\nRégulateur de Tension To-92 78L05 5V 0.1A\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 78L05 5V 0.1A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/813-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/813-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20886",
+   "price": 3.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78M05 Régulateur de tension 5V 0.5A",
+     "description": "78M05 Régulateur de tension 5V 0.5A\n\nLa série LM78MXX 78M05 de régulateurs de tension positive à trois bornes utilise une limitation de courant intégrée, un arrêt thermique et une protection de zone de fonctionnement sûre, ce qui les rend pratiquement insensibles aux dommages causés par les surcharges de sortie. Avec une dissipation thermique adéquate, ils peuvent fournir un courant de sortie supérieur à 0,5 A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "La série LM78MXX 78M05 de régulateurs de tension positive à trois bornes utilise une limitation de courant intégrée, un arrêt thermique et une protection de zone de fonctionnement sûre, ce qui les rend pratiquement insensibles aux dommages causés par les surcharges de sortie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/813-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20873",
+   "price": 3.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L78L33 Régulateur de Tension To-92 3.3V 0.1A",
+     "description": "Régulateur de Tension To-92 L78L33 5V 0.1A\n\nL78L33 Régulateur de Tension To-92 3.3V 0.1A.\n\nFiche technique",
+     "short_description": "L78L33 Régulateur de Tension To-92 3.3V 0.1A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/813-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3687",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78L06 Régulateur de Tension To-92 6V 0.1A",
+     "description": "Régulateur de Tension To-92 78L06 6V 0.1A\n\nRégulateur de Tension To-92 78L06 6V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 78L06 6V 0.1A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/814-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/814-2.png"
+   ]
+  }
+ ]
+}

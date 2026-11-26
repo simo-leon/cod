@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-2942",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ7 Module Capteur de CO (Monoxyde de Carbone)",
+     "description": "Module Capteur de CO (Monoxyde de Carbone) MQ7\n\nCapteur de gaz MQ7 simple à utiliser.\n\nSensible au monoxyde de carbone\n\nLa tension de sortie augmente parallèlement à la concentration des gaz mesurés\n\nRéponse et récupération rapides\n\nSensibilité réglable\n\nIndicateur de sortie de signal.\n\nMots clés: sensor, gas, air, weather, méteo, mq-7",
+     "short_description": "Sensible au monoxyde de carbone\n\nLa tension de sortie augmente parallèlement à la concentration des gaz mesurés\n\nRéponse et récupération rapides\n\nSensibilité réglable\n\nIndicateur de sortie de signal"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/183-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/183-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2943",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ8 Module Capteur d’Hydrogène",
+     "description": "Module Capteur d’Hydrogène MQ8\n\nCapteur de gaz MQ8 simple à utiliser.\n\nCapteur de gaz d’hydrogène H2 simple à utiliser\n\nUtilisé dans des équipements de détection des fuites de gaz dans des applications individuelles et industrielles\n\nPrévient les émanations d’alcool, les vapeurs de cuisson, de GPL et de monoxyde de carbone\n\nLa sensibilité peut être ajustée au moyen d’un potentiomètre.\n\nMots clés: sensor, gas, air, weather, méteo, mq-8.",
+     "short_description": "Capteur de gaz d’hydrogène H2 simple à utiliser\n\n• Utilisé dans des équipements de détection des fuites de gaz dans des applications individuelles et industrielles\n\n• Prévient les émanations d’alcool, les vapeurs de cuisson, de GPL et de monoxyde de carbone\n\n• La sensibilité peut être ajustée au moyen d’un potentiomètre"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/184-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/184-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2944",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ9 Module Capteur de GPL / CO / Méthane",
+     "description": "Module Capteur de GPL / CO / Méthane MQ9\n\nCapteur de gaz MQ9 simple à utiliser.\n\nAlimentation électrique : 5 V\n\nD’une sensibilité élevée au monoxyde de carbone, au méthane et au GPL\n\nPeut être utilisé pour détecter les différents gaz contenant du CO et des gaz combustibles\n\nType de capteur : semi-conducteur.\n\nMots clés: sensor, gas, air, weather, méteo, mq-9.",
+     "short_description": "• Alimentation électrique : 5 V\n\n• D’une sensibilité élevée au monoxyde de carbone, au méthane et au GPL\n\n• Peut être utilisé pour détecter les différents gaz contenant du CO et des gaz combustibles\n\n• Type de capteur : semi-conducteur"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/185-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/185-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2945",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ135 Module Capteur de Gaz Polluants / Ammoniac / CO2",
+     "description": "Module Capteur de Gaz Polluants / Ammoniac / CO2 MQ135\n\nCapteur de gaz MQ135 simple à utiliser.\n\nLe MQ135 est un capteur qui permet de mesurer la qualité de l’air.\n\nSensible aux gaz polluants, Ammoniac (NH3), benzène, alcool, à la fumée, CO2, l’oxyde d’azote (NOx)\n\nLa tension de sortie augmente parallèlement à la concentration des gaz mesurés\n\nRéponse et récupération rapides\n\nSensibilité réglable\n\nIndicateur de sortie de signal.\n\nMots clés: sensor, gas, air, weather, méteo, mq-135.",
+     "short_description": "Le MQ135 est un capteur qui permet de mesurer la qualité de l’air.\n\nSensible aux gaz polluants, Ammoniac (NH3), benzène, alcool, à la fumée, CO2, l’oxyde d’azote (NOx)\n\nLa tension de sortie augmente parallèlement à la concentration des gaz mesurés\n\nRéponse et récupération rapides\n\nSensibilité réglable\n\nIndicateur de sortie de signal"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/186-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/186-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2948",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "RC522 Module Lecteur RFID",
+     "description": "Module Lecteur RFID RC522\n\nLe module RFID-RC522 de Joy-it est une carte d’interface compatible Arduino et Raspberry Pi, basée sur le circuit MFRC-522 de NXP et est utilisée pour lire et écrire sur des cartes ou badges RFID de type Mifare.\n\nLa carte microprocesseur (Arduino, Raspberry ou compatible) et le module RFID communiquent via le bus SPI permettant de laisser libres les autres ports de la carte pour d’autres applications.\n\nCe module est idéal pour des projets de domotique pour identifier la personne avec son badge avant d’ouvrir la porte. Il peut être utilisé dans n’importe quel projet d’identification, il est livré avec une carte et un badge porte-clé.\n\nAlimentation: 3,3 Vcc\n\nDimensions: 66 x 40 x 8 mm\n\nCourant: en opération: 13~26mA, en arrêt: 10~13mA, en veille: <80μA, Max: <30mA\n\nFréquence d’opération: 13.56MHz\n\nPlage de lecture: 0~60mm（mifare1）\n\nInterface SPI: 10Mbit/s max\n\nCarte supportées: mifare1 S50 mifare1 S70 mifare UltraLight mifare Pro mifare Design\n\nTemperature d’opération: -20~80℃\n\nHumidité: %5~%95.\n\nManuel d’utilisation et exemple de programme avec Arduino et Raspberry Pi en français: Tutoriel\n\nMots clés: tag, id, wireless, memory, reader.",
+     "short_description": "Le module RFID-RC522 de Joy-it est une carte d’interface compatible Arduino et Raspberry Pi, basée sur le circuit MFRC-522 de NXP et est utilisée pour lire et écrire sur des cartes ou badges RFID de type Mifare. Ce module est idéal pour des projets de domotique pour identifier la personne avec son badge avant d’ouvrir la porte. Il peut être utilisé dans n’importe quel projet d’identification.\n\nAlimentation: 3,3 Vcc\n\nDimensions: 66 x 40 x 8 mm\n\nCourant d’opération: 13~26mA/DC3.3V\n\nCourant en arrêt : 10~13mA/DC3.3V\n\nCourant en veille: <80μA\n\nCourant max: <30mA\n\nFréquence d’opération: 13.56MHz\n\nPlage de lecture: 0~60mm（mifare1）\n\nInterface SPI: 10Mbit/s max\n\nCarte supportées: mifare1 S50 mifare1 S70 mifare UltraLight mifare Pro mifare Design\n\nTemperature d’opération: -20~80℃\n\nHumidité: %5~%95"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/187-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7209",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lecteur RFID Usb 125Khz EM4100",
+     "description": "📡 Lecteur RFID USB 125 kHz EM4100 — Lecture automatique des badges d’identification\n\nLe lecteur RFID USB 125 kHz est spécialement conçu pour lire les identifiants des cartes, porte-clés et badges compatibles EM4100 ou TK4100. Il se branche directement sur un ordinateur et transmet automatiquement le numéro du badge comme s’il avait été saisi au clavier.\n\nCette solution simple ne nécessite ni Arduino ni alimentation externe et convient parfaitement au pointage, à l’identification des utilisateurs et à l’enregistrement des badges basse fréquence.\n\n⚙️ Caractéristiques techniques\n\nType : lecteur RFID USB de bureau\n\nFréquence : 125 kHz\n\nBadges compatibles : EM4100 et TK4100\n\nFonction : lecture de l’identifiant RFID\n\nInterface : USB\n\nMode de sortie : émulation clavier USB\n\nInstallation : Plug and Play\n\nAlimentation : 5 V DC par le port USB\n\nDistance de lecture : environ 5 à 8 cm\n\nFormat de sortie par défaut : 10 chiffres décimaux\n\nSignal de lecture : buzzer intégré\n\nDimensions : environ 98 × 63 × 10 mm\n\nTempérature d’utilisation : −10 °C à +70 °C\n\nTempérature de stockage : −20 °C à +80 °C\n\nCouleur : noire\n\n✨ Points forts\n\n🪪 Compatible avec les badges EM4100 et TK4100\n\n🔌 Alimenté directement par USB\n\n⌨️ Identifiant saisi automatiquement sur l’ordinateur\n\n🔔 Buzzer de confirmation intégré\n\n🧩 Aucun montage électronique nécessaire\n\n⚡ Lecture rapide et répétable\n\n💡 Applications principales\n\nPointage du personnel\n\nGestion de présence\n\nEnregistrement de badges\n\nContrôle d’accès autorisé\n\nIdentification des membres d’un club\n\nGestion des visiteurs\n\nSystèmes de fidélité\n\nProjets scolaires et démonstrations RFID\n\n🚀 Tutoriel d’utilisation\n\nConnectez le lecteur à un port USB de l’ordinateur.\n\nOuvrez le Bloc-notes, Word, Excel ou votre application.\n\nPlacez le curseur dans le champ où l’identifiant doit apparaître.\n\nApprochez un badge EM4100 ou TK4100 de 125 kHz.\n\nAprès le signal sonore, le numéro du badge est automatiquement affiché.\n\nEnregistrez cet identifiant dans votre base de données si nécessaire.\n\n💡 Pour vérifier plusieurs badges, placez chaque identifiant sur une nouvelle ligne ou dans une nouvelle cellule Excel.\n\n⚠️ Compatibilité et limitations\n\nCe lecteur ne détecte pas les badges 13,56 MHz.\n\nUn badge de 125 kHz utilisant un autre protocole n’est pas nécessairement compatible.\n\nLes badges EM4100 et TK4100 sont généralement en lecture seule.\n\nLe lecteur transmet l’identifiant, mais ne programme pas les badges.\n\nLa duplication ou l’utilisation d’un badge d’accès sans autorisation peut être interdite.\n\nMots clés: tag, id, wireless, keychain, memory, reader.",
+     "short_description": "Lecteur RFID USB 125 kHz Plug and Play pour badges EM4100 et TK4100, avec saisie automatique de l’identifiant et buzzer intégré."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/234-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-11510",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lecteur RFID Usb 13.56Mhz",
+     "description": "📡 Lecteur RFID USB 13,56 MHz — Identification rapide des cartes et badges\n\nLe lecteur RFID USB 13,56 MHz permet de récupérer rapidement l’identifiant des cartes et badges compatibles sur un ordinateur. Grâce à son fonctionnement Plug and Play, il se comporte comme un clavier USB et saisit automatiquement le numéro du badge dans Word, Excel, le Bloc-notes ou un logiciel de gestion.\n\nIl constitue une solution pratique pour l’enregistrement des utilisateurs, le pointage, la gestion des membres, l’identification de produits et les systèmes de contrôle d’accès autorisés.\n\n⚙️ Caractéristiques techniques\n\nType : lecteur RFID USB de bureau\n\nFréquence : 13,56 MHz\n\nFonction : lecture de l’identifiant RFID\n\nInterface : USB\n\nMode de sortie : émulation clavier USB\n\nInstallation : Plug and Play\n\nAlimentation : 5 V DC par le port USB\n\nDistance de lecture : environ 5 à 8 cm\n\nVitesse RFID annoncée : 106 kbit/s\n\nFormat de sortie par défaut : 10 chiffres décimaux\n\nSignal de lecture : buzzer intégré\n\nDimensions : environ 98 × 63 × 10 mm\n\nTempérature d’utilisation : −10 °C à +70 °C\n\nTempérature de stockage : −20 °C à +80 °C\n\nCouleur : noire\n\n✨ Points forts\n\n🔌 Connexion USB simple, sans alimentation externe\n\n⚡ Lecture rapide et sans contact\n\n⌨️ Saisie automatique comme un clavier USB\n\n🔔 Confirmation sonore après lecture\n\n💻 Utilisable avec Word, Excel ou un logiciel compatible\n\n📦 Format compact pour un bureau ou un comptoir\n\n💡 Applications principales\n\nEnregistrement de cartes RFID\n\nGestion des membres et abonnés\n\nPointage du personnel\n\nIdentification des étudiants\n\nContrôle d’accès autorisé\n\nGestion de présence et d’événements\n\nSystèmes de fidélité\n\nInventaire et traçabilité\n\n🚀 Tutoriel d’utilisation\n\nBranchez le lecteur sur un port USB de l’ordinateur.\n\nAttendez quelques secondes que le périphérique soit reconnu.\n\nOuvrez Word, Excel, le Bloc-notes ou votre logiciel de gestion.\n\nCliquez dans le champ destiné à recevoir l’identifiant.\n\nApprochez une carte ou un badge 13,56 MHz compatible.\n\nLe buzzer confirme la lecture et le numéro est automatiquement saisi.\n\n💡 Dans Excel, configurez la colonne au format Texte pour conserver les éventuels zéros placés au début de l’identifiant.\n\n⚠️ Compatibilité et limitations\n\nLa fréquence 13,56 MHz ne garantit pas la compatibilité avec toutes les cartes NFC.\n\nLe lecteur récupère principalement l’identifiant du support ; il ne lit pas nécessairement sa mémoire interne.\n\nCe modèle est un lecteur, pas un graveur ou un copieur.\n\nLes cartes bancaires, passeports et autres supports sécurisés ne fonctionnent pas comme de simples badges RFID.\n\nUtilisez-le uniquement avec des cartes et systèmes pour lesquels vous disposez d’une autorisation.\n\nMots clés: tag, id, wireless, keychain, memory, reader.",
+     "short_description": "Lecteur RFID USB 13,56 MHz Plug and Play avec buzzer, permettant de saisir automatiquement l’identifiant des badges compatibles sur un ordinateur."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/234-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21423",
+   "price": 220,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Copieur De Carte / Badge RFID 125KHZ",
+     "description": "Copieur De Carte / Badge RFID 125KHZ\n\nCet appareil est utilisé pour cloner / copier les cartes / badges FRID 125Khz  EM4100 / EM410X. Il est très facile à utiliser, prend en charge 125Khz EM4100 / EM410X (norme HID NON compatible!), les cartes / badges vierges prise en charge: T5557, EM4305.\n\nCarte RFID vierge T5557, EM4305: acheter\n\nBagde RFID vierge T5557, EM4305: acheter\n\nSpécification:\n\nMatériau: acrylonitrile butadiène styrène (ABS)\n\nTaille: 65x110mm\n\nDistance: ≤25mm (badge) ≤60mm (carte)\n\nCarte / badge vierge prise en charge: T5557, EM4305.\n\nFréquence de fonctionnement: 125Khz\n\nAlimentation: pile AAA en deux pièces (les piles ne sont pas incluses)\n\nComment copier:\n\n1. Appuyez sur l’interrupteur d’alimentation à droite de l’appareil, il se conservera deux ou trois fois, et la LED est allumée signifie que cela fonctionne.\n\n2. Placez l’autre carte près de l’antenne à gauche de l’appareil, puis appuyez sur le bouton LIRE, le voyant est allumé lorsque la lecture est réussie, si bip 2 fois, passez à l’étape 3, si bip 3 fois, passez à l’étape 4 , cliquez à nouveau sur LIRE s’il n’émet pas de bip.\n\n3. Changez une nouvelle carte vierge comme T5557 / EM4305, puis appuyez sur le bouton WRITE, lorsque le bip PASS LED est allumé, le clonage est réussi, s’il ne bip et ne s’allume pas, veuillez réécrire.\n\n4. Changez un T5557 vierge, puis appuyez sur le bouton WRITE, lorsque le bip LED PASS est allumé, le clonage est réussi, s’il ne bip et ne s’allume pas, veuillez réécrire.\n\n5. Répétez l’étape 3 ou l’étape 4 si vous souhaitez créer plus de la même carte d’identité.\n\n6. Éteignez pour économiser de l’énergie.\n\nMots clés: tag, id, wireless, keychain, memory, reader.",
+     "short_description": "Cet appareil est utilisé pour cloner / copier les cartes / badges FRID 125Khz  EM4100 / EM410X. Il est très facile à utiliser, prend en charge 125Khz EM4100 / EM410X (norme HID NON compatible!), les cartes / badges vierges prise en charge: T5557, EM4305."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/187-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42030",
+   "price": 185,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lecteur RFID Usb 125Khz / 13.56Mhz",
+     "description": "📶 Lecteur RFID USB Double Fréquence 125 kHz et 13,56 MHz — Deux technologies dans un seul appareil\n\nLe lecteur RFID USB double fréquence permet d’identifier des badges fonctionnant à 125 kHz ainsi que des cartes compatibles à 13,56 MHz. Il évite l’utilisation de deux lecteurs séparés et représente une solution polyvalente pour les entreprises, établissements scolaires, ateliers et intégrateurs de systèmes RFID.\n\nUne fois connecté, il transmet automatiquement l’identifiant du badge à l’ordinateur grâce à son interface USB Plug and Play.\n\n⚙️ Caractéristiques techniques\n\nType : lecteur RFID USB double fréquence\n\nFréquences : 125 kHz et 13,56 MHz\n\nSupports 125 kHz courants : EM4100, TK4100 et compatibles\n\nSupports 13,56 MHz courants : cartes compatibles ISO 14443A\n\nFonction : lecture de l’identifiant RFID\n\nInterface : USB\n\nMode de sortie : émulation clavier USB\n\nInstallation : Plug and Play\n\nAlimentation : 5 V DC par USB\n\nDistance de lecture : jusqu’à environ 8 cm selon le badge\n\nTemps de lecture : environ 0,2 seconde\n\nSignalisation : buzzer et indicateur lumineux\n\nDimensions : environ 98 × 63 × 10 mm\n\nCouleur : noire\n\n✨ Points forts\n\n📶 Deux fréquences dans un seul lecteur\n\n🪪 Compatible avec plusieurs familles de badges\n\n🔌 Connexion directe par USB\n\n⌨️ Sortie automatique de l’identifiant\n\n🔔 Confirmation sonore et lumineuse\n\n🧩 Aucun Arduino ou circuit externe nécessaire\n\n💼 Idéal pour les installations utilisant plusieurs types de cartes\n\n💡 Applications principales\n\nEnregistrement de badges basse et haute fréquence\n\nPointage et contrôle de présence\n\nGestion des employés, étudiants et visiteurs\n\nIdentification dans les parkings\n\nGestion des membres et abonnés\n\nIntégration dans un logiciel de contrôle d’accès\n\nVérification du type de badge utilisé\n\nInventaire et traçabilité\n\n🚀 Tutoriel d’utilisation\n\nBranchez le lecteur sur le port USB de l’ordinateur.\n\nAttendez sa détection automatique.\n\nOuvrez un éditeur de texte, Excel ou votre logiciel de gestion.\n\nPlacez le curseur dans le champ de lecture.\n\nApprochez un badge compatible de 125 kHz ou 13,56 MHz.\n\nLe lecteur détecte le support et saisit automatiquement son identifiant.\n\nRépétez l’opération pour enregistrer les autres badges.\n\n💡 Lors d’une utilisation dans Excel, sélectionnez le format Texte avant de lire les badges afin d’éviter la suppression des zéros initiaux.\n\n⚠️ Compatibilité et limitations\n\nLe lecteur ne détermine pas obligatoirement la fréquence dans son texte de sortie : il transmet principalement l’identifiant.\n\nToutes les cartes de 13,56 MHz ne sont pas compatibles, car plusieurs protocoles existent sur cette fréquence.\n\nTous les badges de 125 kHz ne suivent pas le protocole EM4100/TK4100.\n\nCe produit est destiné à la lecture, pas à l’écriture ou à la copie.\n\nUne carte détectée n’est pas nécessairement compatible avec votre système de contrôle d’accès.\n\nUtilisez uniquement des badges vous appartenant ou pour lesquels vous disposez d’une autorisation.\n\nMots clés: tag, id, wireless, keychain, memory, reader, hid.",
+     "short_description": "Lecteur RFID USB double fréquence 125 kHz et 13,56 MHz, idéal pour récupérer automatiquement l’identifiant de différents badges sur ordinateur."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/234-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50660",
+   "price": 550,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lecteur et Copieur RFID/NFC USB Multifréquence",
+     "description": "Lecteur-graveur et copieur RFID/NFC multifréquence avec câble USB\n\nCe lecteur RFID/NFC portable permet d’identifier, lire et programmer différents badges et cartes compatibles basse fréquence et 13,56 MHz. Son écran couleur et ses commandes intégrées facilitent son utilisation sans ordinateur pour les opérations courantes.\n\nIl prend en charge plusieurs technologies utilisées dans le contrôle d’accès, l’identification et la gestion de badges, notamment les supports compatibles EM4100/EM4200, T5577, EM4305, MIFARE Classic, UID, Ultralight et certains NTAG. La compatibilité dépend cependant de la puce, de la fréquence et du niveau de protection de chaque badge.\n\nFréquences prises en charge\n\n125 kHz\n\n250 kHz\n\n375 kHz\n\n500 kHz\n\n625 kHz\n\n750 kHz\n\n875 kHz\n\n1 000 kHz\n\n13,56 MHz, ISO 14443 A/B\n\nMode H-ID/HID Prox 125 kHz selon le type de badge\n\nCaractéristiques\n\nLecture et écriture de badges RFID/NFC compatibles\n\nIdentification automatique de nombreux badges\n\nÉcran couleur d’environ 3,2 pouces\n\nInterface et indications vocales en anglais\n\nClavier physique intégré\n\nZone de lecture située au dos de l’appareil\n\nConnexion à un ordinateur par USB\n\nAlimentation par 4 piles AAA ou par USB 5 V\n\nFormat portable et facile à transporter\n\nSaisie manuelle possible de certains identifiants\n\nCompatible avec les cartes réinscriptibles appropriées\n\nSupports couramment compatibles\n\nLecture\n\nEM4100 et EM4200\n\nCartes ID basse fréquence compatibles\n\nMIFARE Classic\n\nCartes UID\n\nMIFARE Ultralight\n\nCertains badges HID Prox\n\nCertains tags NTAG203, NTAG213, NTAG215 et NTAG216\n\nÉcriture\n\nT5577\n\nEM4305\n\nCartes UID 13,56 MHz réinscriptibles\n\nCertains badges H-ID/HID compatibles\n\nUne carte lisible n’est pas nécessairement réinscriptible. Pour copier un badge autorisé, utilisez toujours un support vierge compatible avec sa fréquence et son protocole.\n\nApplications\n\nGestion de badges appartenant à une entreprise\n\nMaintenance de systèmes de contrôle d’accès\n\nIdentification de la fréquence d’une carte\n\nProgrammation de badges réinscriptibles\n\nTests de compatibilité RFID/NFC\n\nLaboratoires et ateliers électroniques\n\nSauvegarde de badges dont vous êtes propriétaire\n\nFormation aux technologies RFID\n\nMini-tutoriel : lire et programmer un badge compatible\n\n1. Alimenter l’appareil\n\nInsérez quatre piles AAA en respectant leur polarité ou raccordez l’appareil à une alimentation USB 5 V avec le câble fourni.\n\n2. Lire le badge d’origine\n\nAllumez le lecteur.\n\nPlacez votre badge autorisé sur la zone de détection au dos.\n\nAppuyez sur SCAN.\n\nAttendez l’identification de la fréquence et l’affichage des informations.\n\n3. Programmer un badge vierge\n\nRetirez le badge d’origine après sa lecture.\n\nPlacez un badge réinscriptible compatible dans la zone de détection.\n\nAppuyez sur WRITE.\n\nAttendez le message confirmant la réussite de l’écriture.\n\nTestez le nouveau badge uniquement sur le système pour lequel vous disposez d’une autorisation.\n\nPour une carte 125 kHz, utilisez par exemple un support T5577 ou EM4305 compatible. Pour une carte 13,56 MHz, un support UID réinscriptible approprié peut être nécessaire.\n\nCompatibilité et limitations\n\nL’appareil ne copie pas toutes les cartes RFID ou NFC.\n\nLes cartes bancaires, titres de transport, passeports et autres supports sécurisés ne sont pas pris en charge comme de simples badges réinscriptibles.\n\nCertaines cartes protégées ou utilisant une authentification avancée peuvent être détectées sans pouvoir être reproduites.\n\nLa fonction NFC ne garantit pas la compatibilité avec tous les smartphones ou tags NFC.\n\nLes fonctions sur ordinateur et leur compatibilité peuvent dépendre de la version du logiciel et de Windows.\n\nUtilisez uniquement le logiciel provenant d’une source fiable et analysez-le avec une solution de sécurité avant son installation.\n\nUtilisation responsable\n\nCe produit est destiné à la lecture, à la programmation et à la maintenance de cartes dont vous êtes propriétaire ou pour lesquelles vous disposez d’une autorisation explicite. La duplication non autorisée d’un badge d’accès ou d’identification peut être illégale.\n\nPiles et badges réinscriptibles non inclus.",
+     "short_description": "Lecteur-graveur RFID/NFC portable prenant en charge plusieurs fréquences de 125 kHz à 13,56 MHz. Équipé d’un écran couleur et livré avec un câble USB."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/187-e-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/187-e-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/187-e-3.png"
+   ]
+  }
+ ]
+}

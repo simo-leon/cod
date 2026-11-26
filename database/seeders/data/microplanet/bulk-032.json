@@ -1,0 +1,208 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-2982",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur 7 Segments 1 Bit 0.56″",
+     "description": "Afficheur 7 Segments 1 Bit\n\nAfficheur 7 Segments Cathode / Anode Commun 1 Bit Rouge.\n\nBroches: 10 pins\n\n1 Chiffre\n\nTaille: 0.56 inch / 1.4 cm\n\nCouleur: Rouge.\n\nMots clés: display, 7segments.",
+     "short_description": "Afficheur 7 Segments Cathode / Anode Commun 1 Bit."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/242-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2983",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur 7 Segments 2 Bits 0.56″",
+     "description": "🔢 Afficheur LED 7 Segments 2 Chiffres 0,56″ — Cathode ou Anode Commune\n\nCet afficheur LED rouge à 7 segments et 2 chiffres permet d’afficher les nombres de 00 à 99, ainsi que certains caractères simples. Compact et facile à intégrer, il convient aux compteurs, thermomètres, minuteries, instruments de mesure et projets Arduino.\n\nChaque chiffre mesure environ 0,56″ (14 mm). Le produit est disponible en deux variantes : cathode commune ou anode commune.\n\n🔄 Variantes disponibles\n\nVariante\nConnexion commune\nLogique des segments\n\nCathode commune\nCommun commuté vers GND\nSegment allumé par un niveau HIGH\n\nAnode commune\nCommun commuté vers l’alimentation\nSegment allumé par un niveau LOW\n\n⚠️ Sélectionnez la variante adaptée à votre montage. Les versions à cathode et à anode commune utilisent une logique de commande inversée.\n\n✨ Points forts\n\n🔢 Affichage de deux chiffres\n\n🔴 Éclairage LED rouge visible\n\n📏 Chiffres de 14 mm\n\n🔌 Boîtier traversant à 10 broches\n\n⚡ Faible consommation avec multiplexage\n\n🤖 Compatible avec Arduino et microcontrôleurs\n\n🧩 Disponible en cathode ou anode commune\n\n🛠️ Facile à intégrer sur PCB\n\n🎓 Idéal pour apprendre le multiplexage\n\n🔧 Caractéristiques techniques\n\nType : afficheur LED à 7 segments\n\nNombre de chiffres : 2\n\nPlage d’affichage numérique : 00 à 99\n\nTaille de chaque chiffre : 0,56″, soit environ 14 mm\n\nCouleur : rouge\n\nNombre de broches : 10\n\nSegments : A, B, C, D, E, F et G\n\nPoint décimal : DP, selon la référence\n\nVariantes : cathode commune ou anode commune\n\nCommande : multiplexée\n\nMontage : traversant sur PCB ou plaque d’essai\n\nRésistances externes : obligatoires pour limiter le courant\n\nCet afficheur ne possède pas de contrôleur intégré. Il doit être commandé par un microcontrôleur ou un circuit driver externe.\n\n🧠 Principe de fonctionnement\n\nLes deux chiffres partagent les lignes des segments A à G et du point décimal DP. Chaque chiffre possède cependant sa propre connexion commune.\n\nLe microcontrôleur active alternativement les deux chiffres à grande vitesse :\n\nIl active le premier chiffre et affiche sa valeur.\n\nIl le désactive.\n\nIl active le second chiffre et affiche sa valeur.\n\nIl répète continuellement cette séquence.\n\nLa commutation est suffisamment rapide pour donner l’impression que les deux chiffres restent allumés simultanément.\n\n📌 Brochage général\n\nL’afficheur possède normalement :\n\n8 lignes de segments : A, B, C, D, E, F, G et DP\n\n2 lignes communes : DIG1 et DIG2\n\nTotal : 10 broches\n\n⚠️ La position des broches varie selon la référence inscrite sur le boîtier. Identifiez le brochage exact avant de souder ou d’appliquer une tension.\n\n🧰 Matériel nécessaire pour le tutoriel\n\n1 × Arduino Uno ou Nano\n\n1 × afficheur 7 segments à 2 chiffres\n\n8 × résistances de 220 à 330 Ω\n\nFils de connexion\n\nPlaque d’essai\n\nBibliothèque Arduino SevSeg\n\nPour une luminosité élevée ou une utilisation prolongée, des transistors de commande sont recommandés sur les lignes communes.\n\n🔌 Exemple de connexion Arduino\n\nAprès avoir identifié les broches de l’afficheur :\n\nLigne de l’afficheur\nArduino\n\nA\nD2 via une résistance\n\nB\nD3 via une résistance\n\nC\nD4 via une résistance\n\nD\nD5 via une résistance\n\nE\nD6 via une résistance\n\nF\nD7 via une résistance\n\nG\nD8 via une résistance\n\nDP\nD9 via une résistance\n\nDIG1\nD10\n\nDIG2\nD11\n\nChaque ligne de segment doit disposer de sa propre résistance de limitation.\n\n💻 Code Arduino — Compteur de 00 à 99\n\nInstallez la bibliothèque SevSeg depuis le gestionnaire de bibliothèques de l’Arduino IDE.\n\n#include <SevSeg.h>\r\n\nSevSeg afficheur;\r\n\nconst byte nombreChiffres = 2;\r\n\n// Connexions communes des deux chiffres\r\nbyte brochesChiffres[] = {10, 11};\r\n\n// Segments dans l’ordre : A, B, C, D, E, F, G, DP\r\nbyte brochesSegments[] = {2, 3, 4, 5, 6, 7, 8, 9};\r\n\nunsigned long tempsPrecedent = 0;\r\nint compteur = 0;\r\n\nvoid setup() {\r\n byte typeAfficheur = COMMON_CATHODE;\r\n\n bool resistancesSurSegments = true;\r\n bool actualisationAvecDelais = false;\r\n bool zerosAGauche = true;\r\n bool desactiverPointDecimal = false;\r\n\n afficheur.begin(\r\n typeAfficheur,\r\n nombreChiffres,\r\n brochesChiffres,\r\n brochesSegments,\r\n resistancesSurSegments,\r\n actualisationAvecDelais,\r\n zerosAGauche,\r\n desactiverPointDecimal\r\n );\r\n\n afficheur.setBrightness(70);\r\n afficheur.setNumber(compteur);\r\n}\r\n\nvoid loop() {\r\n if (millis() - tempsPrecedent >= 1000) {\r\n tempsPrecedent = millis();\r\n\n compteur++;\r\n\n if (compteur > 99) {\r\n compteur = 0;\r\n }\r\n\n afficheur.setNumber(compteur);\r\n }\r\n\n // Nécessaire pour maintenir l’affichage multiplexé\r\n afficheur.refreshDisplay();\r\n}\nPour utiliser la variante anode commune, remplacez :\n\nbyte typeAfficheur = COMMON_CATHODE;\npar :\n\nbyte typeAfficheur = COMMON_ANODE;\n⚠️ Conseils d’utilisation\n\nInstallez une résistance sur chaque ligne de segment.\n\nNe branchez jamais une LED interne directement entre 5 V et GND.\n\nVérifiez la variante avant de réaliser le circuit.\n\nN’utilisez pas de longs delay() pendant le multiplexage.\n\nAppelez continuellement refreshDisplay() dans la boucle principale.\n\nVérifiez le brochage exact indiqué par la référence de l’afficheur.\n\nUtilisez des transistors si le courant demandé dépasse les capacités du microcontrôleur.\n\n🎯 Applications principales\n\n🔢 Compteurs de 00 à 99\n\n⏱️ Minuteries et chronomètres\n\n🌡️ Affichage de température\n\n🔋 Indicateurs de tension\n\n⚙️ Affichage de vitesse ou de fréquence\n\n🏭 Petits panneaux de commande\n\n🤖 Projets Arduino et robotique\n\n🎓 Travaux pratiques d’électronique\n\n🛠️ Instruments de mesure DIY\n\n🎮 Affichage de scores\n\nMots clés: display, 7segments.",
+     "short_description": "Afficheur LED rouge 7 segments à 2 chiffres de 0,56″, disponible en cathode ou anode commune pour Arduino et circuits numériques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/243-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2984",
+   "price": 13,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur 7 Segments 3 Bits 0.56″",
+     "description": "🔢 Afficheur LED 7 Segments 3 Chiffres 0,56″ — Cathode ou Anode Commune\n\nCet afficheur LED rouge à 7 segments et 3 chiffres permet de présenter des valeurs comprises entre 000 et 999, ainsi que certains caractères simples. Il convient parfaitement aux compteurs, thermomètres, voltmètres, minuteries et panneaux de contrôle.\n\nChaque chiffre mesure environ 0,56″ (14 mm). L’afficheur est disponible en deux variantes : cathode commune et anode commune.\n\n🔄 Variantes disponibles\n\nVariante\nConnexion commune\nLogique des segments\n\nCathode commune\nCommun commuté vers GND\nSegment allumé par un niveau HIGH\n\nAnode commune\nCommun commuté vers l’alimentation\nSegment allumé par un niveau LOW\n\n⚠️ La logique de commande dépend de la variante. Vérifiez votre sélection avant de réaliser le câblage ou de programmer le microcontrôleur.\n\n✨ Points forts\n\n🔢 Affichage de trois chiffres\n\n🔴 LED rouges clairement visibles\n\n📏 Hauteur de chaque chiffre : environ 14 mm\n\n🔌 Format traversant à 12 broches\n\n⚡ Faible consommation grâce au multiplexage\n\n🤖 Compatible avec Arduino et microcontrôleurs\n\n🧩 Deux variantes disponibles\n\n🛠️ Facile à intégrer sur un circuit imprimé\n\n🎓 Idéal pour apprendre la commande multiplexée\n\n🔧 Caractéristiques techniques\n\nType : afficheur LED à 7 segments\n\nNombre de chiffres : 3\n\nPlage d’affichage numérique : 000 à 999\n\nTaille de chaque chiffre : 0,56″, soit environ 14 mm\n\nCouleur d’affichage : rouge\n\nNombre de broches : 12\n\nSegments : A, B, C, D, E, F et G\n\nPoint décimal : DP, selon la référence\n\nVariantes : cathode commune ou anode commune\n\nCommande : multiplexée\n\nMontage : traversant sur PCB ou plaque d’essai\n\nRésistances de limitation : nécessaires sur les segments\n\nCet afficheur est livré sans contrôleur intégré. Il doit être piloté par un microcontrôleur ou un circuit driver externe.\n\n🧠 Principe du multiplexage\n\nLes trois chiffres partagent les mêmes lignes de segments A à G et DP. Chaque chiffre possède toutefois sa propre broche commune.\n\nPour afficher trois valeurs différentes, le microcontrôleur :\n\nActive le premier chiffre et applique les segments correspondants.\n\nDésactive le premier chiffre.\n\nActive le deuxième, puis le troisième.\n\nRépète rapidement cette séquence.\n\nLa commutation étant très rapide, l’œil humain perçoit les trois chiffres comme s’ils étaient allumés simultanément.\n\n📌 Brochage général\n\nL’afficheur comporte normalement :\n\n8 lignes partagées : A, B, C, D, E, F, G et DP\n\n3 lignes communes : DIG1, DIG2 et DIG3\n\n1 broche supplémentaire interne, selon la construction du modèle\n\nTotal : 12 broches\n\n⚠️ Le brochage physique varie selon la référence inscrite sur le boîtier. Consultez la fiche technique correspondante ou identifiez les broches avec une résistance avant la soudure définitive.\n\n🧰 Matériel nécessaire pour le tutoriel\n\n1 × Arduino Uno ou Nano\n\n1 × afficheur 7 segments à 3 chiffres\n\n8 × résistances de 220 à 330 Ω\n\nFils de connexion\n\nPlaque d’essai\n\nBibliothèque Arduino SevSeg\n\nDes transistors de commande sont recommandés sur les broches communes pour une luminosité élevée ou une utilisation prolongée.\n\n🔌 Exemple de connexion Arduino\n\nAprès avoir identifié les broches de votre afficheur :\n\nLigne de l’afficheur\nArduino\n\nA\nD2 via une résistance\n\nB\nD3 via une résistance\n\nC\nD4 via une résistance\n\nD\nD5 via une résistance\n\nE\nD6 via une résistance\n\nF\nD7 via une résistance\n\nG\nD8 via une résistance\n\nDP\nD9 via une résistance\n\nDIG1\nD10\n\nDIG2\nD11\n\nDIG3\nD12\n\nChaque ligne de segment doit être équipée de sa propre résistance de limitation.\n\n💻 Code Arduino — Compteur de 000 à 999\n\nInstallez la bibliothèque SevSeg depuis le gestionnaire de bibliothèques de l’Arduino IDE.\n\n#include <SevSeg.h>\r\n\nSevSeg afficheur;\r\n\nconst byte nombreChiffres = 3;\r\n\n// Connexions communes des trois chiffres\r\nbyte brochesChiffres[] = {10, 11, 12};\r\n\n// Segments dans l’ordre : A, B, C, D, E, F, G, DP\r\nbyte brochesSegments[] = {2, 3, 4, 5, 6, 7, 8, 9};\r\n\nunsigned long tempsPrecedent = 0;\r\nint compteur = 0;\r\n\nvoid setup() {\r\n byte typeAfficheur = COMMON_CATHODE;\r\n\n bool resistancesSurSegments = true;\r\n bool actualisationAvecDelais = false;\r\n bool zerosAGauche = true;\r\n bool desactiverPointDecimal = false;\r\n\n afficheur.begin(\r\n typeAfficheur,\r\n nombreChiffres,\r\n brochesChiffres,\r\n brochesSegments,\r\n resistancesSurSegments,\r\n actualisationAvecDelais,\r\n zerosAGauche,\r\n desactiverPointDecimal\r\n );\r\n\n afficheur.setBrightness(70);\r\n afficheur.setNumber(compteur);\r\n}\r\n\nvoid loop() {\r\n if (millis() - tempsPrecedent >= 1000) {\r\n tempsPrecedent = millis();\r\n\n compteur++;\r\n\n if (compteur > 999) {\r\n compteur = 0;\r\n }\r\n\n afficheur.setNumber(compteur);\r\n }\r\n\n // Nécessaire pour maintenir le multiplexage\r\n afficheur.refreshDisplay();\r\n}\nPour la version anode commune, remplacez :\n\nbyte typeAfficheur = COMMON_CATHODE;\npar :\n\nbyte typeAfficheur = COMMON_ANODE;\n⚠️ Conseils d’utilisation\n\nUtilisez une résistance pour chaque ligne de segment.\n\nNe branchez jamais les LED internes directement à l’alimentation.\n\nVérifiez la variante cathode ou anode commune avant la programmation.\n\nN’utilisez pas de longs delay() pendant le multiplexage.\n\nAppelez continuellement refreshDisplay() dans la boucle principale.\n\nRéduisez la luminosité si l’afficheur ou le microcontrôleur chauffe.\n\nAjoutez des transistors si le courant demandé dépasse les capacités des sorties.\n\nVérifiez le brochage exact avant de souder le composant.\n\n🎯 Applications principales\n\n🔢 Compteurs de 000 à 999\n\n⏱️ Chronomètres et minuteries\n\n🌡️ Thermomètres numériques\n\n🔋 Voltmètres et ampèremètres\n\n⚙️ Tachymètres et fréquencemètres\n\n🏭 Panneaux de contrôle\n\n🤖 Projets Arduino et robotique\n\n🎓 Travaux pratiques d’électronique\n\n🛠️ Instruments de mesure DIY\n\n🎮 Affichage de scores ou de quantités\n\nMots clés: display, 7segments.",
+     "short_description": "Afficheur LED rouge 7 segments à 3 chiffres de 0,56″, disponible en cathode ou anode commune pour Arduino et circuits numériques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/244-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2986",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur 7 Segments 4 Bits 0.56″",
+     "description": "🔢 Afficheur LED 7 Segments 4 Chiffres 0,56″ — Cathode ou Anode Commune\n\nCet afficheur LED rouge à 7 segments et 4 chiffres permet de présenter des nombres, compteurs, températures, tensions, heures et autres informations numériques. Chaque chiffre mesure environ 0,56″ (14 mm) pour offrir une lecture claire tout en conservant un format compact.\n\nDisponible en cathode commune ou anode commune, il peut être contrôlé par Arduino, ESP32, Raspberry Pi Pico ou un circuit logique grâce à la technique du multiplexage.\n\n🔄 Variantes disponibles\n\nVariante\nConnexion commune\nCommande des segments\n\nCathode commune\nCommun relié vers GND\nSegment allumé par un niveau HIGH\n\nAnode commune\nCommun relié vers l’alimentation\nSegment allumé par un niveau LOW\n\n⚠️ Sélectionnez la variante correspondant à votre circuit et à votre programme. Les modèles à cathode et à anode commune ne possèdent pas la même logique de commande.\n\n✨ Points forts\n\n🔢 Affichage de quatre chiffres\n\n🔴 LED rouges clairement visibles\n\n📏 Hauteur de chaque chiffre : environ 14 mm\n\n🔌 Format traversant à 12 broches\n\n⚡ Faible consommation avec multiplexage\n\n💡 Points décimaux intégrés selon le modèle\n\n🤖 Compatible avec les microcontrôleurs\n\n🧩 Deux variantes disponibles\n\n🛠️ Idéal pour le prototypage électronique\n\n🔧 Caractéristiques techniques\n\nType : afficheur LED à 7 segments\n\nNombre de chiffres : 4\n\nTaille de chaque chiffre : 0,56″, soit environ 14 mm\n\nCouleur d’affichage : rouge\n\nNombre de broches : 12\n\nVariantes : cathode commune ou anode commune\n\nMontage : traversant sur PCB ou plaque d’essai\n\nSegments : A, B, C, D, E, F et G\n\nPoint décimal : DP\n\nCommande : multiplexée\n\nRésistances externes : nécessaires pour limiter le courant\n\nIl s’agit d’un composant d’affichage sans contrôleur intégré. Un microcontrôleur, un circuit de commande ou un driver externe est nécessaire.\n\n🧠 Comment fonctionne un afficheur multiplexé ?\n\nLes quatre chiffres partagent les mêmes lignes de segments A à G et DP. Chaque chiffre possède cependant sa propre connexion commune.\n\nLe microcontrôleur active rapidement les chiffres l’un après l’autre tout en appliquant les segments correspondants. Cette commutation est suffisamment rapide pour donner l’impression que les quatre chiffres sont allumés simultanément.\n\nCette méthode réduit le nombre de broches nécessaires par rapport à la commande indépendante de chaque LED.\n\n📌 Brochage général\n\nL’afficheur possède normalement :\n\n8 lignes partagées : A, B, C, D, E, F, G et DP\n\n4 lignes communes : DIG1, DIG2, DIG3 et DIG4\n\nTotal : 12 broches\n\n⚠️ La position physique des broches peut varier selon la référence exacte imprimée sur l’afficheur. Vérifiez son marquage ou testez les broches avec une résistance avant de réaliser le câblage définitif.\n\n🧰 Matériel nécessaire pour le tutoriel\n\n1 × Arduino Uno ou Nano\n\n1 × afficheur 7 segments à 4 chiffres\n\n8 × résistances de 220 à 330 Ω\n\nFils de connexion\n\nPlaque d’essai\n\nBibliothèque Arduino SevSeg\n\nPour une utilisation prolongée ou une luminosité élevée, l’ajout de transistors ou d’un circuit driver est recommandé pour les lignes communes des chiffres.\n\n🔌 Exemple de connexion Arduino\n\nCet exemple suppose que vous avez identifié les broches des segments et des chiffres :\n\nLigne de l’afficheur\nArduino\n\nA\nD2 via résistance\n\nB\nD3 via résistance\n\nC\nD4 via résistance\n\nD\nD5 via résistance\n\nE\nD6 via résistance\n\nF\nD7 via résistance\n\nG\nD8 via résistance\n\nDP\nD9 via résistance\n\nDIG1\nD10\n\nDIG2\nD11\n\nDIG3\nD12\n\nDIG4\nD13\n\nChaque ligne de segment doit utiliser sa propre résistance de limitation.\n\n💻 Code Arduino — Compteur de 0000 à 9999\n\n#include <SevSeg.h>\r\n\nSevSeg afficheur;\r\n\nconst byte nombreChiffres = 4;\r\n\n// Broches communes des quatre chiffres\r\nbyte brochesChiffres[] = {10, 11, 12, 13};\r\n\n// Broches des segments : A, B, C, D, E, F, G, DP\r\nbyte brochesSegments[] = {2, 3, 4, 5, 6, 7, 8, 9};\r\n\nunsigned long tempsPrecedent = 0;\r\nint compteur = 0;\r\n\nvoid setup() {\r\n byte typeAfficheur = COMMON_CATHODE;\r\n\n bool resistancesSurSegments = true;\r\n bool actualisationAvecDelais = false;\r\n bool zerosAGauche = true;\r\n bool desactiverPointDecimal = false;\r\n\n afficheur.begin(\r\n typeAfficheur,\r\n nombreChiffres,\r\n brochesChiffres,\r\n brochesSegments,\r\n resistancesSurSegments,\r\n actualisationAvecDelais,\r\n zerosAGauche,\r\n desactiverPointDecimal\r\n );\r\n\n afficheur.setBrightness(70);\r\n afficheur.setNumber(compteur);\r\n}\r\n\nvoid loop() {\r\n if (millis() - tempsPrecedent >= 1000) {\r\n tempsPrecedent = millis();\r\n\n compteur++;\r\n\n if (compteur > 9999) {\r\n compteur = 0;\r\n }\r\n\n afficheur.setNumber(compteur);\r\n }\r\n\n // Cette fonction doit être appelée continuellement\r\n afficheur.refreshDisplay();\r\n}\nPour la variante anode commune, remplacez simplement :\n\nbyte typeAfficheur = COMMON_CATHODE;\npar :\n\nbyte typeAfficheur = COMMON_ANODE;\n⚠️ Conseils d’utilisation\n\nInstallez toujours une résistance de limitation sur chaque ligne de segment.\n\nNe connectez pas une LED interne directement à l’alimentation sans résistance.\n\nVérifiez la variante sélectionnée avant de téléverser le programme.\n\nNe bloquez pas le programme avec de longs délais, car le multiplexage doit être actualisé continuellement.\n\nRéduisez la luminosité ou utilisez des transistors si le courant demandé devient trop important.\n\nIdentifiez le brochage exact avant de souder l’afficheur.\n\n🎯 Applications principales\n\n⏱️ Chronomètres et minuteries\n\n🌡️ Thermomètres numériques\n\n🔋 Voltmètres et ampèremètres\n\n🔢 Compteurs d’impulsions\n\n⚙️ Affichage de vitesse ou de fréquence\n\n🕒 Horloges numériques\n\n🏭 Panneaux de contrôle industriels\n\n🤖 Projets Arduino et robotique\n\n🎓 Travaux pratiques d’électronique\n\n🛠️ Appareils de mesure DIY\n\nMots clés: display, 7segments.",
+     "short_description": "Afficheur LED rouge 7 segments à 4 chiffres de 0,56″, disponible en cathode ou anode commune pour Arduino et projets électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/245-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2987",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur 7 Segments 4 Bits + (2 Points) 0.56″",
+     "description": "Afficheur 7 Segments 4 Bits + (2 Points)\n\nAfficheur 7 Segments Cathode / Anode Commun 4 Bits avec 2 points pour horloge (clock).\n\nBroches: 12 pins\n\n4 Chiffres\n\nTaille (chaque bit): 0.56 inch / 1.4 cm\n\nCouleur: Rouge\n\nMots clés: display, 7segments.",
+     "short_description": "Afficheur 7 Segments Cathode / Anode Commun 4 Bits avec 2 points (clock)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/246-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/246-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2988",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MAX7219 Module Afficheur Led Matrice 8×8",
+     "description": "Module Afficheur Led Matrice 8×8 MAX7219\n\nLe module matrice LED 8×8 (en 2 couleurs: rouge ou vert) intègre un pilote MAX7219 qui facilite la commande de 64 LEDs via une simple interface SPI. Vous pouvez chaîner plusieurs modules pour créer des panneaux plus grands, afficher des textes, des animations ou des graphiques à partir d’un microcontrôleur (Arduino, ESP32…).\n\n🔧 Caractéristiques techniques :\n\nDriver : MAX7219 – pilote 8×8 LEDs (64 canaux)\n\nCouleur: Rouge ou Vert\n\nTension d’alimentation : 5 V DC\n\nCourant max. par segment : 40 mA\n\nInterface : SPI (DIN, CS, CLK)\n\nChaînable : HS et LOAD en cascade pour jusqu’à 8 modules (512 LEDs)\n\nRésolution d’affichage : 8×8 pixels par module\n\nDimensions : 32 × 32 × 15 mm environ\n\nTempérature de fonctionnement : –20 °C à +70 °C\n\n💡 Applications typiques :\n\nAffichage de textes défilants et notifications\n\nHorloges et compte-à-rebours\n\nJeux et animations graphiques simples\n\nIndicateurs de statut pour projets IoT\n\nTableaux de score ou panneaux d’information\n\nExemple de code Arduino (avec la bibliothèque LedControl)\n\n#include <LedControl.h>\r\n\n// Broches CS, DIN, CLK (DataIn, ChipSelect, Clock)\r\nLedControl lc = LedControl(12, 11, 10, 1); // 1 module\r\n\nvoid setup() {\r\nlc.shutdown(0, false); // Sortir du mode veille\r\nlc.setIntensity(0, 8); // Intensité 0 (min) à 15 (max)\r\nlc.clearDisplay(0); // Effacer l'afficheur\r\n\n// Exemple : dessiner un cœur au démarrage\r\nbyte heart[8] = {\r\nB00000000,\r\nB01100110,\r\nB11111111,\r\nB11111111,\r\nB11111111,\r\nB01111110,\r\nB00111100,\r\nB00011000\r\n};\r\nfor (int row = 0; row < 8; row++) {\r\nlc.setRow(0, row, heart[row]);\r\n}\r\n}\r\n\nvoid loop() {\r\n// Texte défilant \"HELLO\"\r\nString msg = \"HELLO \";\r\nfor (int pos = 0; pos < msg.length() * 8; pos++) {\r\nlc.clearDisplay(0);\r\n// Pour chaque caractère, dessiner à la position (–pos)\r\nfor (int i = 0; i < 8; i++) {\r\nbyte col = lc.getColumn(0, i);\r\nlc.setColumn(0, i, col);\r\n}\r\ndelay(200);\r\n}\r\n}\n\nNote : pour plus de contrôle de texte défilant, explorez la bibliothèque MD_MAX72XX / MD_Parola.\n\n🛠️ Brochage / Wiring\n\nBroche Module MAX7219\nFonction\nArduino UNO\n\nVCC\nAlimentation 5 V\n5 V\n\nGND\nMasse\nGND\n\nDIN (Data In)\nDonnées MOSI\nD11 (MOSI)\n\nCS (Chip Select / LOAD)\nSélection du module\nD12 (SS)\n\nCLK (Clock)\nHorloge SPI\nD13 (SCK)\n\nChainer plusieurs modules : reliez le DOUT (Data Out) du premier à DIN du suivant, CS à CS, et CLK à CLK.\n\nAssurez-vous que VCC et GND sont partagés sur tous les modules.\n\nMots clés: display, matrix.",
+     "short_description": "Ce module utilise le circuit MAX7219 et il peut être monté en cascade. Cette matrice de leds 8×8 est facile à utiliser et compatible avec Arduino."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/247-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/247-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/247-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/247-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/247-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6289",
+   "price": 105,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MAX7219 Module Afficheur Led Matrice 8×32",
+     "description": "Module Afficheur Led Matrice 8×32 MAX7219\n\nCe module 8×32 rassemble quatre matrices 8×8 pilotées par un MAX7219, offrant un panneau LED compact capable d’afficher textes, chiffres et animations défilantes. Disponible en rouge ou vert, il se connecte via une interface SPI simple et peut être chaîné avec d’autres modules pour créer des affichages plus grands.\n\n🔧 Caractéristiques techniques :\n\nDriver : MAX7219 (pilotage de 64 LEDs par sous-module)\n\nRésolution : 8 × 32 pixels (4 × 8×8 en cascade)\n\nTension d’alimentation : 5 V DC\n\nConsommation : env. 80 mA (intensité moyenne)\n\nEspacement des pixels : 3 mm\n\nDimensions (PCB) : 135 × 32 × 12 mm\n\nInterface : SPI – broches DIN, CS (LOAD), CLK\n\nChaînage : DOUT → DIN du module suivant\n\nIntensité réglable : 0 (min) à 15 (max) via registre MAX7219\n\nCouleurs disponibles : LED rouges ou vertes\n\n💡 Applications typiques :\n\nTextes défilants et messages d’information\n\nHorloges, compte-à-rebours et minuteries\n\nIndicateurs de statut pour automates et IoT\n\nJeux simples et animations graphiques\n\nTableaux de scores et panneaux interactifs\n\n📝 Exemple de code Arduino (bibliothèques MD_MAX72XX & MD_Parola)\n\n#include <MD_Parola.h>\r\n#include <MD_MAX72xx.h>\r\n#include <SPI.h>\r\n\n// Type de matériel et nombre de modules\r\n#define HARDWARE_TYPE MD_MAX72XX::FC16_HW\r\n#define MAX_DEVICES 4\r\n\n// Pins SPI\r\n#define DATA_PIN 11 // MOSI\r\n#define CLK_PIN 13 // SCK\r\n#define CS_PIN 10 // SS / LOAD\r\n\nMD_Parola display = MD_Parola(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);\r\n\nvoid setup() {\r\ndisplay.begin();\r\ndisplay.setIntensity(8); // Intensité 0–15\r\ndisplay.displayText(\"Micro-Planet.ma\", PA_CENTER, 100, 0, PA_SCROLL_LEFT);\r\n}\r\n\nvoid loop() {\r\nif (display.displayAnimate()) {\r\ndisplay.displayReset();\r\n}\r\n}\n\nExplication du code\n\nOn inclut les bibliothèques MD_Parola et MD_MAX72XX pour piloter facilement les matrices.\n\nLe HARDWARE_TYPE et MAX_DEVICES indiquent la configuration matériel (4 modules FC16 en cascade).\n\nDATA_PIN, CLK_PIN et CS_PIN sont reliés respectivement à MOSI, SCK et SS de l’Arduino.\n\nDans setup(), on initialise l’afficheur, règle l’intensité à 8/15 et lance un texte défilant centré.\n\nDans loop(), displayAnimate() fait défiler l’affichage ; lorsqu’il atteint la fin du message, on appelle displayReset() pour recommencer.\n\n🛠️ Brochage / Wiring\n\nBroche Module\nFonction\nArduino UNO\n\nVCC\nAlimentation +5 V\n5 V\n\nGND\nMasse\nGND\n\nDIN\nDonnées SPI (MOSI)\nD11\n\nCS (LOAD)\nSélection du module\nD10\n\nCLK\nHorloge SPI (SCK)\nD13\n\nChaînage de plusieurs modules :\n\nReliez DOUT (output data) du 1ᵉʳ module à DIN du 2ᵉ module, maintenez CS et CLK communs.\n\nAlimentez tous les modules en parallèle sur VCC et GND.\n\nMots clés: display, matrix.",
+     "short_description": "Ce module est composé de 4 afficheur Max7219 montés en cascade. Cette matrice de leds 8×32 est facile à utiliser et compatible avec Arduino."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/259-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/259-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/259-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/247-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/247-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2991",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module I2C Pour Afficheur 1602/2004",
+     "description": "Module I2C Pour Afficheur 1602/2004\n\nAvec ce module I2C, vous pouvez contrôler un écran LCD facilement en utilisant 2 fils connectés à votre carte Arduino via l’entrée SDA et SCL.\n\nCette carte à une puce I2C PCF8574 qui convertit des données série I2C en données parallèles pour l’afficheur 1602/2004.\n\nAlimentation 5V\n\nLe rétro-éclairage peut être activé ou désactivé via un jumper sur le module.\n\nContrôle de contraste par potentiomètre\n\nPeut contenir 8 modules sur un seul bus I2C (changer l’adresse via les jumper à souder)\n\nTaille: 41.6mm x 19.2mm",
+     "short_description": "Sur ce module I2C, vous pouvez contrôler un écran LCD (1602/2004) facilement en utilisant 2 fils connectés à votre carte Arduino via l’entrée SDA et le SCL.\n\nCette carte a une puce I2C PCF8574 qui convertit des données série I2C en données parallèles pour l’afficheur 1602/2004."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/248-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2993",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 1602",
+     "description": "Afficheur LCD 16X02 – 1602\n\nAfficheur LCD 1602 HD44780 (16×02), cet afficheur LCD est très pratique, fiable, esthétique, dont la luminosité et le contraste sont réglable, il y a 16 bornes à souder, mais pour un usage « simple » seul 10 bornes suffisent.\n\nCe module afficheur LCD 1602 est facilement connectable à une carte Arduino ou à toute autre carte microcontrôlée. Grâce à son interface pour bus I2C , il n’utilise que deux broches sur la carte Arduino.\n\nAlimentation : 5V\n\n2 lignes de 16 caractères\n\nRétro-éclairage vert/bleu, caractères blancs\n\nAdresse I2C : 0x20\n\nPotentiomètre pour réglage du contraste\n\nDimensions : 36 x 79 x 20 mm\n\nPoids : 40g\n\nFiche technique: HD44780U\n\nMots clés: display, screen.",
+     "short_description": "Afficheur LCD HD44780 (16×02), cet afficheur LCD est très pratique, fiable, esthétique, dont la luminosité et le contraste sont réglable, il y a 16 bornes à souder, mais pour un usage « simple » seul 10 bornes suffisent.\n\nCe module afficheur LCD 1602 est facilement connectable à une carte Arduino ou à toute autre carte microcontrôlée. Grâce à son interface pour bus I2C , il n’utilise que deux broches sur la carte Arduino."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/249-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/249-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/249-5.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/249-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/249-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5924",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 1602 Avec module I2c",
+     "description": "Afficheur LCD 1602 Avec module I2c\n\nAfficheur LCD 1602 HD44780 (16×02) avec module I2c (déja soudé), cet afficheur LCD est très pratique, fiable, esthétique, dont la luminosité et le contraste sont réglable.\n\nCe module afficheur LCD 1602 est facilement connectable à une carte Arduino ou à toute autre carte microcontrôlée. Grâce à son interface pour bus I2C , il n’utilise que deux broches sur la carte Arduino.\n\nAlimentation : 5V\n\n2 lignes de 16 caractères\n\nRétro-éclairage vert/bleu, caractères blancs\n\nAdresse I2C : 0x20\n\nPotentiomètre pour réglage du contraste\n\nDimensions : 36 x 79 x 20 mm\n\nPoids : 40g\n\nFiche technique: HD44780U\n\nMots clés: display, screen.",
+     "short_description": "Afficheur LCD 1602 HD44780 (16×02) avec module I2c, cet afficheur LCD est très pratique, fiable, esthétique, dont la luminosité et le contraste sont réglable."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/258-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/0249-B-1.png"
+   ]
+  }
+ ]
+}

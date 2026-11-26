@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3683",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD4060 Oscillateur – Temporisateur",
+     "description": "CD4060 Oscillateur – Temporisateur\n\nCD4060 temporisateur avec oscillateur intégré.\n\nMarque: Texas Instruments\n\nFiche technique",
+     "short_description": "CD4060 temporisateur avec oscillateur intégré"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/782-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/782-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20796",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD40174BE 6 Bascules D",
+     "description": "CD40174BE 6 Bascules D\n\nLe Cd40174B se compose de six bascules identiques de type «D» ayant des entrées DATA indépendantes. Les entrées CLOCK et CLEAR sont communes aux six unités. Les données sont transférées aux sorties Q lors de la transition positive de l’impulsion d’horloge. Toutes les bascules sic sont réinitialisées simultanément par un niveau bas sur l’entrée CLEAR.\n\nMarque: Texas Instruments\n\nFiche technique",
+     "short_description": "Le Cd40174B se compose de six bascules identiques de type «D» ayant des entrées DATA indépendantes"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/782-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20814",
+   "price": 16,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD74HC221E Multivibrateurs monostables à grande vitesse",
+     "description": "CD74HC221E Multivibrateurs monostables à grande vitesse\n\nLe 74HC221 CD74HC221E sont des multivibrateurs monostables doubles avec réinitialisation. Une résistance externe (RX) et un condensateur externe (CX) contrôlent la synchronisation et la précision du circuit. Le réglage de RX et CX fournit une large gamme de largeurs d’impulsion de sortie à partir des bornes Q et Q \\. Le déclenchement d’impulsion sur l’entrée B se produit à un niveau de tension particulier et n’est pas lié au temps de montée et de descente de l’impulsion de déclenchement.\n\nMarque: Harris\n\nPackage: DIP-16\n\nFiche technique",
+     "short_description": "Le 74HC221 CD74HC221E sont des multivibrateurs monostables doubles avec réinitialisation"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/782-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7956",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD4066B Quad CMOS Commutateur Bilatéral",
+     "description": "CD4066B Quad CMOS Commutateur Bilatéral\n\nCD4066B CD4066 Quad CMOS Commutateur Bilatéral.\n\nFiche technique",
+     "short_description": "CD4066B CD4066 Quad CMOS Commutateur Bilatéral."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/784-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10112",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD4017 Compteur Décimal",
+     "description": "CD4017 Compteur Décimal\n\nCD4017B (CD4017) Compteur Décimal, 10 sorties.\n\nFiche technique",
+     "short_description": "CD4017B (CD4017) Compteur Décimal, 10 sorties."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/07/785-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-12079",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD4001 Circuit logique 4 Portes NOR",
+     "description": "CD4001 Circuit logique 4 Portes NOR\n\nCD4001 Circuit logique 4 Portes NOR 2 entrées.\n\nFiche technique",
+     "short_description": "CD4001 Circuit logique 4 Portes NOR 2 entrées."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/785-A-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-12078",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD4077 Circuit logique 4 Portes XNOR Exclusive NOR",
+     "description": "CD4077 Circuit logique 4 Portes XNOR exclusive NOR\n\nCD4077 Circuit logique 4 Portes XNOR exclusive NOR, 2 entrées.\n\nFiche technique",
+     "short_description": "CD4077 Circuit logique 4 Portes XNOR exclusive NOR, 2 entrées."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/785-B-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20922",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD4011BE Circuit logique 4 Portes Nand",
+     "description": "CD4011BE Circuit logique 4 Portes Nand\n\nLes portes NAND CD4011BE, CD4012BE et CD4023BE fournissent une implémentation directe de la fonction NAND et complètent la famille existante de portes CMOS. Toutes les entrées et sorties sont mises en mémoire tampon.\n\nFiche technique",
+     "short_description": "Les portes NAND CD4011BE, CD4012BE et CD4023BE fournissent une implémentation directe de la fonction NAND et complètent la famille existante de portes CMOS. Toutes les entrées et sorties sont mises en mémoire tampon."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/785-c-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-11212",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74LS47 7447 Décodeur BCD 7 segments",
+     "description": "74LS47 Décodeur BCD 7 segments\n\n74LS47 74HC47 7447 Décodeur BCD vers 7 segments.\n\nFiche technique",
+     "short_description": "74LS47 74HC47 7447 Décodeur BCD vers 7 segments."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/12/788-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-12076",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "74HC02 7402 Circuit Logique 4 Portes NOR",
+     "description": "74HC02 7402 Circuit Logique 4 Portes NOR\n\n74HC02 7402 Circuit Logique 4 Portes NOR.\n\nFiche technique",
+     "short_description": "74HC02 7402 Circuit Logique 4 Portes NOR."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/789-1.png"
+   ]
+  }
+ ]
+}

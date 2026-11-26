@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-2006",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°47 MAX EST DANS LA LUNE",
+     "description": "Max est dans la lune (N°47) est un ouvrage qui aborde le thème de l’inattention et de la rêverie chez l’enfant. À travers le personnage de Max, l’histoire explore ce qu’implique le fait d’être souvent distrait ou de « partir dans ses pensées ». L’ouvrage aide à valoriser l’imagination et la créativité tout en soulignant l’importance d’apprendre à se concentrer et à être présent au moment voulu. C’est un bon support pour accompagner l’enfant dans la gestion de son attention.\n\nFavoris",
+     "short_description": "Livre pour enfants sur l’inattention et la rêverie. Aide à valoriser l’imagination tout en apprenant à gérer sa concentration."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884454933-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2005",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "LILI REGARDE TROP LA TÉLÉ",
+     "description": "Lili regarde trop la télé est un titre de la collection Max et Lili qui se penche sur la question de la surconsommation d’écrans et de ses effets sur les enfants. L’histoire explore la difficulté de Lili à se détacher de la télévision, montrant les conséquences sur ses autres activités et ses relations. Ce livre est un outil pertinent pour aborder avec l’enfant la nécessité de la modération et de trouver un équilibre sain entre le temps passé devant les écrans et les loisirs réels.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la surconsommation de télévision et le temps d’écran. Aide à trouver un équilibre entre écrans et loisirs réels."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884454681-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2004",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°42 MAX ET LILI VEULENT DES CÂLINS",
+     "description": "Max et Lili veulent des câlins (N°42) est un ouvrage qui se penche sur le besoin d’affection physique et la nécessité des câlins dans le développement de l’enfant. Le livre explore l’importance du contact et de la tendresse pour se sentir aimé, réconforté ou rassuré. C’est un excellent support pour discuter en famille du rôle des gestes d’affection, de leur expression, et de la manière dont ils contribuent au bien-être émotionnel des enfants.\n\nFavoris",
+     "short_description": "Livre pour enfants sur le besoin d’affection et l’importance des câlins. Aborde le rôle du contact et de la tendresse."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884454247-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2003",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°40 MAX A UNE [AMOUR]",
+     "description": "Max a une [amoureuse] (N°40) est un titre qui aborde les premières émotions amoureuses et les sentiments d’affection chez l’enfant. À travers Max, le livre explore ce que signifie avoir un ou une amoureux(se), les jeux partagés et la complicité que cela peut engendrer. C’est un outil précieux pour parler des relations et des sentiments tendres de manière adaptée, aidant l’enfant à mettre des mots sur ses propres émois naissants.\n\nFavoris",
+     "short_description": "Livre pour enfants sur les premières émotions amoureuses et l’affection. Aide à mettre des mots sur les sentiments tendres et les relations."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884454018-featured.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2002",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°39 MAX N’AIME PAS PERDRE",
+     "description": "Max n’aime pas perdre (N°39) est un ouvrage qui se concentre sur la difficulté qu’éprouvent beaucoup d’enfants à gérer la déception et la frustration de l’échec. Le livre suit Max qui réagit mal à la défaite, et vise à lui apprendre (ainsi qu’au lecteur) que perdre fait partie du jeu. Il enseigne l’importance de l’esprit sportif, du fair-play et comment transformer la frustration en motivation pour faire mieux la prochaine fois.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la difficulté à accepter la défaite. Enseigne l’esprit sportif, le fair-play et la gestion de la frustration."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884454001-featured.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2001",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°38 MAX EST RACKETÉ",
+     "description": "Max est racketé (N°38) est un livre de la collection Max qui aborde la thématique sérieuse du racket et du harcèlement à l’école. L’histoire décrit la situation angoissante que vit Max, pris pour cible par des camarades, et explore les sentiments de peur et d’isolement qui en découlent. C’est un outil essentiel pour libérer la parole de l’enfant, lui montrer qu’il n’est pas seul et l’encourager à parler à un adulte de confiance pour mettre fin à cette situation.\n\nFavoris",
+     "short_description": "Livre pour enfants sur le racket et le harcèlement scolaire. Outil pour libérer la parole et inciter l’enfant à demander de l’aide à un adulte."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884453769-featured.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2000",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°35 MAX ET LILI SE SONT PERDUS",
+     "description": "Dans cet épisode de la collection Calligram, Max et Lili vivent la situation angoissante de se perdre. Ce livre aborde la peur et l’inquiétude que cette expérience provoque chez l’enfant, mais surtout les réflexes et attitudes à adopter pour rester calme et savoir comment demander de l’aide en toute sécurité. C’est un outil pédagogique essentiel pour sensibiliser l’enfant aux consignes de sécurité, tout en validant ses émotions et en renforçant sa confiance.\n\nFavoris",
+     "short_description": "Livre pour enfants sur l’expérience de se perdre. Offre des clés pour gérer la peur et savoir réagir dans une situation d’égarement."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884453738-featured.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1999",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°29 MAX EST MALADROIT",
+     "description": "Max est souvent le héros de situations cocasses où sa maladresse le met dans l’embarras. Ce livre de la collection Calligram aborde avec tendresse et humour ce trait de caractère fréquent chez l’enfant. Il permet d’ouvrir la discussion sur le fait d’avoir des difficultés dans certaines activités et d’apprendre à s’accepter tel que l’on est. L’ouvrage est une belle leçon d’estime de soi et d’acceptation de ses propres différences, encourageant l’enfant à dédramatiser.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la maladresse de Max. Aide à accepter ses petites différences et à renforcer l’estime de soi."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884453240-featured.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1998",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°28 MAX EST JALOUX",
+     "description": "Max est jaloux (N°28) est un ouvrage qui se penche sur l’émotion de la jalousie chez l’enfant. À travers des situations de la vie quotidienne, le livre aide à identifier ce sentiment souvent difficile à gérer. L’objectif est de montrer que la jalousie est naturelle, mais qu’il est possible de la comprendre et de la maîtriser en valorisant ses propres qualités et en apprenant à apprécier les réussites des autres. C’est un outil essentiel pour l’éducation émotionnelle.\n\nFavoris",
+     "short_description": "Livre pour enfants sur l’émotion de la jalousie. Aide à identifier, comprendre et maîtriser ce sentiment dans les relations quotidiennes."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884453141-featured.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1997",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°18 MAX ET LILI ONT VOLÉ DES BONBONS",
+     "description": "Max et Lili ont volé des bonbons (N°18) est un livre de la collection Max et Lili qui aborde la question du vol et de ses conséquences sur la conscience et la relation aux autres. L’histoire raconte la petite transgression des deux personnages et explore les sentiments qui s’ensuivent : la culpabilité, la peur et le besoin d’avouer. Ce livre est un excellent point de départ pour discuter avec les enfants des notions de propriété, d’honnêteté et de la responsabilité de ses actes.\n\nFavoris",
+     "short_description": "Livre pour enfants sur le thème du vol, de la culpabilité et de l’honnêteté. Idéal pour discuter de la propriété et de la responsabilité des actes."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884451901-featured.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-22916",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCF8591 Convertisseur Analogique Numérique DAC ADC",
+     "description": "PCF8591 Convertisseur Analogique Numérique DAC ADC\n\nCe module est essentiellement une conception de référence pour montrer certaines applications possibles de la puce PCF8591. C’est un bon module d’apprentissage qui intègre à la fois des entrées ADC et une sortie DAC et comprend des capteurs de base dans un joli petit boîtier peu coûteux. Il a également une certaine utilité pratique dans des projets qui peuvent utiliser les fonctionnalités intégrées.\n\nLe module PCF8591 avec interface I2C dispose de 4 entrées analogiques, 1 sortie analogique et LDR, thermistance et potentiomètre intégrés.\n\nEntrées de conversion analogique-numérique 8 bits à 4 canaux\n\nSortie de conversion numérique-analogique à 1 canal 8 bits\n\nLDR intégré (résistance de détection de lumière)\n\nThermistance intégrée\n\nPotentiomètre intégré\n\nbus I2C\n\nCompatible logique 3,3V et 5V.\n\nCaractéristiques:\n\nVcc 2,7 – 6V (3,3 V ou 5V typique)\n\nPlage de tension de sortie VOut (sans charge) 0V à Vcc\n\nPlage de tension de sortie (charge 10K) 0V à 0,9 x Vcc\n\nRésolution Entrée analogique 8 bits\n\nSortie analogique 8 bits\n\nDimensions L x l (PCB) 35 x 23 mm (1,38 x 0,9″)\n\nSortie analogique DAC:\n\nLa sortie DAC est connectée à la broche AOUT.\n\nLa sortie unique 8 bits fournit 256 étapes de résolution. Pour un VCC de 5V, la taille du pas sera de 5V/256 = 20mV.\n\nLa sortie DAC a une capacité de courant modeste pour commencer et est également reliée à une résistance de 1K et à une LED. La LED permet de voir facilement l’effet de la modification de la sortie analogique pour l’expérimentation, mais pour une utilisation dans des applications réelles, elle limite l’oscillation de sortie d’atteindre la pleine Vcc. Si Vcc est de 5V, il atteindra un maximum d’environ 4,2V. Pour les applications qui nécessitent l’oscillation complète GND à Vcc de la sortie DAC, il est recommandé de retirer la LED pour éviter la charge supplémentaire sur la sortie.\n\nLe DAC est également utilisé en interne par les entrées ADC. Si vous utilisez la sortie DAC, un circuit de suivi et de maintien conserve la valeur qui a été définie sur la broche de sortie pendant que le circuit DAC est utilisé par le circuit ADC.\n\nEntrées analogiques ADC:\n\nLes 4 entrées analogiques se connectent aux broches d’en-tête AIN0-AIN3 et peuvent être utilisées comme 4 entrées analogiques à usage général. Par défaut, il s’agit de 4 entrées asymétriques référencées à la masse. La puce PCF8591 prend également en charge leur utilisation comme 2 entrées différentielles. Reportez-vous à la fiche technique pour plus de détails sur l’utilisation de ce mode.\n\nIl y a 3 jumpers installés sur le module qui connectent alternativement un LDR intégré, une thermistance et un potentiomètre à 3 de ces 4 entrées comme suit. Si vous souhaitez utiliser ces entrées comme entrées à usage général, le cavalier doit être retiré de cet emplacement.\n\nJ5 – Connecte LDR au canal 0 (AIN0)\n\nJ4 – Connecte la thermistance au canal 1 (AIN1)\n\nJ6 – Connecte le potentiomètre au canal 3 (AIN3)\n\nNotez que le canal 2 (AIN2) n’a pas d’autre fonction, donc aucun cavalier n’est nécessaire.\n\nLDR: La résistance de détection de lumière (LDR) peut détecter les changements de base dans l’intensité de la lumière qui la frappe.\n\nUne diminution de la quantité de lumière frappant le capteur entraînera une augmentation de la tension sur le canal 0.\n\nLe LDR est utile pour détecter des changements de lumière plus importants ou faire la différence entre la nuit et le jour. La valeur lue est un nombre relatif plutôt qu’une valeur d’intensité lumineuse absolue.\n\nThermistance: La thermistance est une résistance qui change de résistance en fonction de la température.\n\nUne baisse de température entraînera une augmentation de la tension sur le canal 1.\n\nLa thermistance est utile pour détecter les changements de température. Étant donné que la spécification de la thermistance n’est pas connue, il est donc difficile de l’utiliser pour mesurer la température réelle. Il est mieux adapté pour mesurer les changements relatifs de température et dans certains cas, les lectures peuvent être corrélées à une température par des tests empiriques.\n\nPotentiomètre: Le potentiomètre 10K est connecté entre Vcc et Gnd avec l’essuie-glace connecté au canal 3.\n\nLa rotation du potentiomètre fera varier la tension entre 0V et Vcc. La rotation du potentiomètre CW diminue la tension sur la voie 3.\n\nLe potentiomètre peut être utilisé comme entrée de commande analogique à usage général. Par exemple, le potentiomètre peut être lu et la sortie DAC pilotant la LED peut être réglée pour correspondre à la valeur lue.\n\nInterface I2C\n\nAdresse I2C:\n\nLe module a une adresse I2C fixe de 0x48. La puce elle-même a 3 broches d’adresse mais elles sont toutes reliées à la terre sur le module, elle n’est donc pas réglable.\n\nRésistances de rappel I2C:\n\nLe module comprend deux résistances pull-up 10K sur les lignes I2C SCL et SDA.\n\nModule Connections\n\nLes connexions au module sont assez simples.\n\nFournir une alimentation de 3,3 ou 5 V pour correspondre à l’alimentation et à la terre du MCU.\n\nConnectez les lignes I2C SCL et SDA au même sur le MCU.\n\n1 x 4 en-tête\n\nSCL =   I2C SCL se connecte au MCU SCL\n\nSDA =  I2C SDA se connecte au MCU SDA\n\nGND =  La masse se connecte à la masse du MCU\n\nVCC =  Puissance (2,5 à 6 V). Se connecte généralement à la même alimentation que le MCU.\n\n1 x 5 en-tête\n\nAOUT = sortie analogique DAC\n\nAIN0 = entrée CAN canal 0\n\nAIN1 = entrée CAN canal 1\n\nAIN2 = entrée CAN canal 2\n\nAIN3 = entrée CAN canal 3\n\nMots clés: digital, analog, converter.",
+     "short_description": "Le module PCF8591 avec interface I2C dispose de 4 entrées analogiques, 1 sortie analogique et LDR, thermistance et potentiomètre intégrés."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/11/218-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/11/218-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/11/218-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/11/218-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6304",
+   "price": 58,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MCP4725 Convertisseur numérique-analogique DAC 12-bit",
+     "description": "Convertisseur numérique-analogique DAC MCP4725\n\nLe MCP4725 est un convertisseur numérique-analogique (DAC) contrôlé par I2C. Un DAC vous permet d’envoyer un signal analogique, tel qu’une onde sinusoïdale, à partir d’une source numérique, telle que l’interface I2C sur le microcontrôleur Arduino. Les convertisseurs numériques-analogiques sont parfaits pour la génération de sons, les instruments de musique et bien d’autres projets créatifs!\n\nCette carte éclate chaque broche dont vous aurez besoin pour accéder et utiliser le MCP4725, y compris les broches GND et Signal OUT pour la connexion à un oscilloscope ou à tout autre périphérique dont vous avez besoin pour vous connecter à la carte. Également à bord sont SCL, SDA, VCC, et un autre GND pour votre brochage I2C de base. De plus, si vous cherchez à avoir plus d’un MCP4725 sur un bus, les résistances pull-up sur cette carte peuvent être désactivées il suffit de consulter le “guide de connexion” au dessous.\n\nCaractéristiques:\n\nRésolution 12 bits\n\nInterface I2C (prise en charge standard, rapide et haute vitesse)\n\nPetite taille\n\nAlimentation de 2.7V à 5.5V\n\nEEPROM interne pour stocker les paramètres\n\nFiche technique\n\nMots clés: digital, analog, converter.",
+     "short_description": "Le MCP4725 est un convertisseur numérique-analogique (DAC) contrôlé par I2C. Un DAC vous permet d’envoyer un signal analogique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/219-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6319",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XD-58C Module Capteur de rythme cardiaque",
+     "description": "Module Capteur de rythme cardiaque XD-58C\n\nCe module XD-58C est un capteur de fréquence cardiaque, utilisé pour détecter le rythme cardiaque humain. avec un amplificateur optique intégré et un circuit d’élimination du bruit.\n\nCaractéristiques:\n\nAlimentation: 3-5 v\n\nDiamètre: 16MM\n\nAmplification: 330\n\nLongueur d’onde de LED: 609 nm\n\nMots clés: heart, battement, coeur, rate, sensor, heartbeat.",
+     "short_description": "Ce module XD-58C est un capteur de fréquence cardiaque, utilisé pour détecter le rythme cardiaque humain. avec un amplificateur optique intégré et un circuit d’élimination du bruit."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/222-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/222-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2888",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module Détecteur de rythme cardiaque",
+     "description": "Module Détecteur de rythme cardiaque\n\nDétecteur de rythme cardiaque, ce module permet de mesurer vos pulsations en plaçant un doigt entre la diode et le phototransistor.\n\nExplication: si vous placez votre doigt devant une lampe de poche, il deviendra plus ou moins translucide. Selon l’endroit éclairé, on peut vaguement discerner le pompage du sang.\n\nCe pompage du sang dans la veine présente une densité différente et donc des différences de luminosité dans le flux sanguin. Ce sont ces différences de luminosité que le module peut détecter et ainsi compter les pulsations.\n\nMots clés: heart, battement, coeur, rate, sensor, heartbeat.",
+     "short_description": "Ce module permet de mesurer vos pulsations en plaçant un doigt entre la diode et le phototransistor.\n\nExplication: si vous placez votre doigt devant une lampe de poche, il deviendra plus ou moins translucide. Selon l’endroit éclairé, on peut vaguement discerner le pompage du sang.\n\nCe pompage du sang dans la veine présente une densité différente et donc des différences de luminosité dans le flux sanguin. Ce sont ces différences de luminosité que le module peut détecter et ainsi compter les pulsations."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/144-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24596",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MAX30102 Module Capteur d’Oxygéne et rythme cardiaque",
+     "description": "MAX30102 Module Capteur d’Oxygéne et rythme cardiaque\n\nIl s’agit d’une carte de déploiement d’oxymétrie de pouls et de moniteur de fréquence cardiaque basée sur MAX30102. Il comprend des LED internes, des photodétecteurs, des éléments optiques et des composants électroniques à faible bruit\n\nAvec rejet de la lumière ambiante. Le MAX30102 fournit une solution système complète pour faciliter le processus de conception des appareils mobiles et portables.\n\nLe MAX30102 fonctionne sur une seule alimentation 1,8 V et une alimentation séparée 3,3 V pour les LED internes. La communication s’effectue via une interface standard compatible I2C. Le module peut être arrêté via un logiciel avec un courant de veille nul, permettant aux rails d’alimentation de rester alimentés à tout moment.\n\nIl est largement utilisé dans les appareils portables, les assistants de fitness, les smartphones et les tables.\n\nCaractéristiques:\n\nLongueur d’onde maximale des LED : 660 nm/880 nm\n\nTension d’alimentation LED : 3,3 ~ 5 V.\n\nInterface : interface I2C\n\nPlage de températures de fonctionnement : -40°C à +85°C\n\nDimensions : 20,3 x 15,2 mm\n\nPoids : 1,1 g\n\nFiche technique\n\nLibrairie\n\nMots clés: heart, battement, coeur, rate, sensor, heartbeat.",
+     "short_description": "Il s’agit d’un oxymétrie de pouls et de moniteur de fréquence cardiaque basée sur MAX30102."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/03/222-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34500",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MAX30100 Module Capteur d’Oxygène et rythme cardiaque",
+     "description": "MAX30100 Module Capteur d’Oxygène et rythme cardiaque\n\nLe clic de fréquence cardiaque porte l’oxymétrie de pouls et le capteur de fréquence cardiaque intégrés Maxim MAX30100. C’est un capteur optique qui dérive ses lectures de l’émission de deux longueurs d’onde de lumière à partir de deux led-une rouge et une infrarouge-, puis de la mesure de l’absorbance du sang pulsant à travers un photodétecteur. Cette combinaison de couleurs LED est optimisée pour lire les données à travers le bout du doigt.\n\nCe module n’est pas compatible avec l’Arduino directement, vous devez apporter certaines modifications à la carte pour la faire fonctionner avec Arduino, veuillez suivre ce tutoriel en PDF: Télécharger\n\nCaractéristiques\n\nAlimentation 3,3V à 5,5V\n\nConsommation de courant ~600μA (pendant les mesures) ~0,7μA (en mode veille)\n\nLongueur d’onde LED rouge 660 nm\n\nLongueur d’onde LED IR 880 nm\n\nPlage de température -40 ˚C à +85 ˚C\n\nPrécision de la température ±1˚C",
+     "short_description": "Le clic de fréquence cardiaque porte l’oxymétrie de pouls et le capteur de fréquence cardiaque intégrés Maxim MAX30100. C’est un capteur optique qui dérive ses lectures de l’émission de deux longueurs d’onde de lumière à partir de deux led-une rouge et une infrarouge-, puis de la mesure de l’absorbance du sang pulsant à travers un photodétecteur."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0222-C.png"
+   ]
+  },
+  {
+   "sku": "microplanet-26198",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AD8232 ECG Module Capteur de rythme cardiaque",
+     "description": "AD8232 ECG Module Capteur de rythme cardiaque\n\nCe module est basé sur le moniteur de fréquence cardiaque Sparkfun AD8232 Single Lead, c’est une carte économique utilisée pour mesurer l’activité électrique du cœur. Cette activité électrique peut être tracée sous forme d’ECG ou d’électrocardiogramme et sortie sous forme de lecture analogique. Les ECG peuvent être extrêmement bruyants, le moniteur de fréquence cardiaque à une dérivation AD8232 agit comme un amplificateur opérationnel pour aider à obtenir facilement un signal clair à partir des intervalles PR et QT.\n\nL’AD8232 est un bloc de conditionnement de signal intégré pour l’ECG et d’autres applications de mesure du biopotentiel. Il est conçu pour extraire, amplifier et filtrer les petits signaux biopotentiels en présence de conditions bruyantes, telles que celles créées par le mouvement ou le placement d’électrodes à distance.\n\nLe moniteur de fréquence cardiaque AD8232 sépare neuf connexions du circuit intégré auxquelles vous pouvez souder des broches, des fils ou d’autres connecteurs. SDN, LO+, LO-, OUTPUT, 3.3V, GND fournissent des broches essentielles pour faire fonctionner ce moniteur avec un Arduino ou une autre carte de développement. Des broches RA (bras droit), LA (bras gauche) et RL (jambe droite) sont également fournies sur cette carte pour fixer et utiliser vos propres capteurs personnalisés. De plus, il y a un voyant LED qui vibre au rythme d’un battement de cœur. Ce kit comprend trois capteurs biomédicaux et un câble de capteur.\n\nFrontal ECG à dérivation unique entièrement intégré\n\nTaux de réjection en mode commun : 80 dB (cc à 60 Hz)\n\nConfigurations à deux ou trois électrodes\n\nQualifié pour une application automobile\n\nFonctionnement à alimentation unique : 2,0 V à 3,5\n\nLa fonction de restauration rapide améliore la stabilisation du filtre\n\nTaille : 3,5 cm x 3 cm\n\nFiche technique\n\nCode et logiciel\n\nMots clés: heart, battement, coeur, rate, sensor, heartbeat.",
+     "short_description": "Ce module est basé sur le moniteur de fréquence cardiaque Sparkfun AD8232 Single Lead, c’est une carte économique utilisée pour mesurer l’activité électrique du cœur."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/06/223-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-23805",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module MAX6675 Thermocouple",
+     "description": "Module MAX6675 Thermocouple\n\nModule amplificateur numérique MAX6675 thermocouple de type K, pour mesurer la température sur une large plage ( 0-1024 °C ).\n\nCaractéristiques:\n\nTension de fonctionnement: 3. 0 ~ 5. 5 V\n\nCourant de fonctionnement: 50mA\n\nMode de sortie: signal numérique SPI\n\nUtilisation de la communication SPI 3 fils\n\nLe signal de température est converti en numérique 12 bits\n\nCircuit interne de compensation de soudure froide intégré;\n\nCircuit de détection de thermocouple intégré.\n\nPlage de température pour MAX6675: (0-1024 degrés).\n\nMots clés: probe, sensor.",
+     "short_description": "Module amplificateur numérique MAX6675 thermocouple de type K, pour mesurer la température sur une large plage ( 0-1024 °C )."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/01/225-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-23808",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Sonde Thermocouple Type K",
+     "description": "Sonde Thermocouple Type K\n\nThermocouple de type K, pour mesurer la température sur une large plage ( 0-600 °C ). Le capteur thermocouple a un diamètre de 4,5 mm avec un boulon de montage fileté de 6 mm. La longueur totale du capteur, câble et connecteurs compris, est d’environ 50cm.\n\nMots clés: probe, sensor.",
+     "short_description": "Thermocouple de type K, pour mesurer la température sur une large plage ( 0-600 °C )."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/01/225-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6336",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MAX6675 Module Avec Thermocouple Type K",
+     "description": "Module MAX6675 Avec Thermocouple Type K\n\nModule amplificateur numérique MAX6675, avec thermocouple de type K, pour mesurer la température sur une large plage ( 0-600 °C ).\n\nCaractéristiques:\n\nTension de fonctionnement: 3. 0 ~ 5. 5 V\n\nCourant de fonctionnement: 50mA\n\nMode de sortie: signal numérique SPI\n\nUtilisation de la communication SPI 3 fils\n\nLe signal de température est converti en numérique 12 bits\n\nCircuit interne de compensation de soudure froide intégré;\n\nCircuit de détection de thermocouple intégré.\n\nPlage de température pour MAX6675: (0-1024 degrés)\n\nPlage de température pour le thermocouple: (0-600 degrés)\n\nLa précision de la mesure de la température: ± 1,5 ° C\n\nRésolution de température de: 0. 25 degré\n\nTempérature de stockage: -50 ~ 150 ° C\n\nAvec des trous de fixation fixes pour une installation fixe facile.\n\nTaille du module: 25mm * 15mm * 13mm\n\nMots clés: probe, sensor.",
+     "short_description": "Module amplificateur numérique MAX6675, avec thermocouple de type K, pour mesurer la température sur une large plage ( 0-600 °C )."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/225-1.png"
+   ]
+  }
+ ]
+}

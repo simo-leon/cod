@@ -1,0 +1,207 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-8213",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîtier pour Raspberry PI3 b / b+",
+     "description": "Boîtier pour Raspberry PI3 b / b+.\n\nLe boîtier pour Raspberry Pi 3 B/B+ est conçu pour protéger les cartes Raspberry Pi 3 B et B+. Ce boîtier robuste et esthétique est disponible en couleur blanc et rouge, offrant une protection optimale tout en permettant un accès facile à tous les ports et connecteurs de la carte.\n\nCaractéristiques\n\nCompatibilité : Raspberry Pi 3 B et B+\n\nCouleurs : Blanc et rouge\n\nMatériau : Plastique de haute qualité\n\nAccès : Découpes précises pour tous les ports et connecteurs\n\nFonctionnement\n\nLe boîtier enveloppe la carte Raspberry Pi 3 B ou B+, offrant une protection contre les chocs, la poussière et les débris. Les découpes précises permettent un accès complet aux ports et connecteurs sans avoir à retirer la carte du boîtier.\n\nApplications\n\nProjets DIY : Idéal pour protéger votre Raspberry Pi dans divers projets faits maison.\n\nProjets éducatifs : Utilisé dans les environnements éducatifs pour protéger le matériel tout en permettant un accès facile pour les démonstrations et les expériences.\n\nUtilisation quotidienne : Parfait pour les utilisateurs de Raspberry Pi souhaitant une protection simple et efficace pour leur carte.\n\nComment l’utiliser\n\nAssemblage :\n\nPlacez votre carte Raspberry Pi 3 B ou B+ à l’intérieur du boîtier.\n\nAlignez les ports et connecteurs avec les découpes du boîtier.\n\nFixez le boîtier en utilisant les vis et les clips fournis.\n\nConnexions et Composants nécessaires\n\nRaspberry Pi 3 B ou B+ : Carte principale à insérer dans le boîtier.\n\nAlimentation : Utilisez l’adaptateur secteur pour alimenter la carte Raspberry Pi.\n\nPériphériques : Connectez des périphériques tels que clavier, souris, écran via les ports accessibles.",
+     "short_description": "Boîtier pour Raspberry, couleur blanc / rouge, compatible avec Raspberry pi 3 b/b+."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/39-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/39-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2789",
+   "price": 38,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîtier Noir Raspberry PI3",
+     "description": "Boîtier Noir Raspberry PI3\n\nLe boîtier noir pour Raspberry Pi 3 est conçu pour protéger la carte Raspberry Pi 3 B. Il est fabriqué en plastique de haute qualité, se compose de deux parties, et est facile à installer. Sa conception élégante et sobre permet une protection optimale tout en offrant un accès facile à tous les ports et connecteurs de la carte.\n\nCaractéristiques\n\nCompatibilité : Raspberry Pi 3 B\n\nCouleur : Noir\n\nMatériau : Plastique de haute qualité\n\nAccès : Découpes précises pour tous les ports et connecteurs\n\nFonctionnement\n\nLe boîtier enveloppe la carte Raspberry Pi 3 B, offrant une protection contre les chocs, la poussière et les débris. Les découpes précises permettent un accès complet aux ports et connecteurs, facilitant l’installation de composants supplémentaires.\n\nApplications\n\nProjets DIY : Idéal pour protéger votre Raspberry Pi dans divers projets faits maison.\n\nProjets éducatifs : Utilisé dans les environnements éducatifs pour protéger le matériel tout en permettant un accès facile pour les démonstrations et les expériences.\n\nUtilisation quotidienne : Parfait pour les utilisateurs de Raspberry Pi souhaitant une protection simple et efficace pour leur carte.\n\nComment l’utiliser\n\nAssemblage :\n\nPlacez votre carte Raspberry Pi 3 B à l’intérieur du boîtier.\n\nAlignez les ports et connecteurs avec les découpes du boîtier.\n\nFixez le boîtier en utilisant les vis et les clips fournis.\n\nConnexions et Composants nécessaires\n\nRaspberry Pi 3 B : Carte principale à insérer dans le boîtier.\n\nAlimentation : Utilisez l’adaptateur secteur pour alimenter la carte Raspberry Pi.\n\nPériphériques : Connectez des périphériques tels que clavier, souris, écran via les ports accessibles.\n\nAucun composant supplémentaire n’est nécessaire pour le test du boîtier, car il s’agit uniquement d’un accessoire de protection pour la carte Raspberry Pi 3.\n\nMots clés: case, pasp, boite.",
+     "short_description": "Boîtier noir de haute qualité compatible avec le Raspberry Pi 3 B, en deux parties, et facile à installer.\n\nCouleur: Noir"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/23-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/23-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2790",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîtier 5 couches Raspberry PI3",
+     "description": "Boîtier 5 couches Raspberry PI3\n\nLe boîtier 5 couches pour Raspberry Pi 3 est un boîtier de haute qualité compatible avec le Raspberry Pi 3 B. Il permet d’installer des shields supplémentaires ou des afficheurs. Le boîtier est disponible en couleur transparente/noir.\n\nCaractéristiques\n\nCompatibilité : Raspberry Pi 3 B\n\nMatériau : Acrylique de haute qualité\n\nCouleurs : Transparent et noir\n\nCouches : 5 couches pour une protection robuste\n\nFonctionnement\n\nLe boîtier protège la carte Raspberry Pi 3 B tout en permettant l’installation de composants supplémentaires comme des shields et des afficheurs.\n\nApplications\n\nProjets DIY : Idéal pour protéger votre Raspberry Pi dans divers projets faits maison.\n\nProjets éducatifs : Utilisé pour protéger le matériel tout en permettant un accès facile pour les démonstrations.\n\nUtilisation quotidienne : Protection efficace pour une utilisation quotidienne.\n\nComment l’utiliser\n\nAssemblage :\n\nPlacez votre carte Raspberry Pi 3 B entre les couches du boîtier.\n\nAlignez les ports et connecteurs avec les découpes du boîtier.\n\nFixez les couches ensemble en utilisant les vis et les clips fournis.\n\nConnexions et Composants nécessaires\n\nRaspberry Pi 3 B : Carte principale à insérer dans le boîtier.\n\nAlimentation : Utilisez l’adaptateur secteur pour alimenter la carte Raspberry Pi.\n\nPériphériques : Connectez des périphériques tels que clavier, souris, écran via les ports accessibles.\n\nMots clés: case, pasp, boite.",
+     "short_description": "Boîtier 5 couches de haute qualité compatible avec le Raspberry Pi 3 B, pour installer des shields supplémentaire ou une afficheur.\n\nCouleur: Transparent/Noir"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/24-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/24-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/27-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2791",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "3 Dissipateurs thermique Pour Raspberry Pi",
+     "description": "3 Dissipateurs thermique Pour Raspberry Pi 3/4\n\nLes dissipateurs thermiques sont conçus pour améliorer le refroidissement des composants du Raspberry Pi, réduisant la chaleur pour améliorer les performances et la durabilité. Ce lot comprend trois dissipateurs : deux petits et un grand, adaptés pour les Raspberry Pi 3 et 4. Ils sont faciles à installer grâce à l’adhésif thermique inclus.\n\nCaractéristiques\n\nCompatibilité : Raspberry Pi 3 et 4\n\nQuantité : 3 dissipateurs (2 petits, 1 grand)\n\nInstallation : Facile avec adhésif thermique\n\nFonctionnement\n\nLes dissipateurs thermiques dissipent la chaleur générée par les composants, améliorant ainsi les performances et la durabilité du Raspberry Pi. Ils sont fixés sur les composants avec l’adhésif thermique pour une installation rapide et efficace.\n\nApplications\n\nRefroidissement : Utilisés pour maintenir une température optimale des composants du Raspberry Pi.\n\nProjets DIY : Parfait pour des projets nécessitant un refroidissement supplémentaire.\n\nUtilisation quotidienne : Améliore la fiabilité et la durée de vie du Raspberry Pi en réduisant les risques de surchauffe.\n\nComment l’utiliser\n\nInstallation :\n\nNettoyez la surface des composants à refroidir.\n\nRetirez le film protecteur de l’adhésif thermique des dissipateurs.\n\nApposez les dissipateurs sur les composants correspondants.\n\nAppuyez fermement pour assurer une bonne adhérence.\n\nConnexions et Composants nécessaires\n\nDissipateurs thermiques : Inclus dans le lot (2 petits, 1 grand).\n\nRaspberry Pi : Carte principale à refroidir (non incluse).\n\nAdhésif thermique : Pré-appliqué sur les dissipateurs pour une installation facile.\n\nMots clés: heatsink, cooler, température, temperature, radiateur.",
+     "short_description": "3 dissipateurs de chaleur, il peut être utilisé comme refroidisseur pour Raspberry pi ou n’importe quel circuit intégré pour améliorer les performances et la durabilité des circuits intégrés.\n\nInstallation facile\n\nIl y a deux petits dissipateurs et un plus grand, comme sur la photo\n\nGrâce à l’adhésif pâte thermique , la pose sur un raspberry pi se fait très simplement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/25-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/25-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2793",
+   "price": 230,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur Tactile 3.5″ (480X320) Pour Raspberry PI",
+     "description": "L’afficheur Tactile 3.5″ (480X320) Pour Raspberry PI3\n\nL’afficheur tactile 3.5″ est un écran TFT résolument conçu pour le Raspberry Pi 3. Il offre une résolution de 480×320 pixels et utilise une interface SPI. L’écran est tactile résistif et utilise le contrôleur XPT2046.\n\nCaractéristiques\n\nType de LCD : TFT\n\nInterface : SPI\n\nType d’écran tactile : Résistif\n\nContrôleur tactile : XPT2046\n\nRétro-éclairage : LED\n\nRésolution : 480×320 pixels\n\nRapport d’aspect : 2:3\n\nSupport système : Raspbian\n\nFonctionnement\n\nCet écran tactile permet de contrôler le Raspberry Pi sans clavier ni souris, parfait pour les applications interactives et les projets embarqués.\n\nApplications\n\nProjets interactifs : Contrôle tactile pour diverses applications.\n\nSurveillance vidéo : Lecture de vidéos et prise de photos.\n\nÉducation : Apprentissage de l’interface tactile et du développement embarqué.\n\nComment l’utiliser\n\nConnexion :\n\nConnectez l’afficheur au Raspberry Pi via l’interface SPI.\n\nConfiguration :\n\nConfigurez le système Raspbian pour utiliser l’écran tactile.\n\nUtilisation :\n\nUtilisez l’écran pour interagir avec les applications et le système.\n\nConnexions et Composants nécessaires\n\nRaspberry Pi : Modèle 3 recommandé.\n\nCâble d’interface SPI : Pour la connexion.\n\nAlimentation : Via le Raspberry Pi.\n\nMots clés: touch, display, screen, pasp, raspberrypi, raspery, raspbeery, rasbery.",
+     "short_description": "Une solution alternative et idéale  pour HDMI moniteur. Comme c’est un écran tactile, vous pouvez l’utiliser dans de nombreux projets.\n\nType de LCD : TFT\n\nInterface LCD : SPI\n\nType d’écran tactile : résistif\n\nContrôleur d’écran tactile : XPT2046\n\nRétro-éclairage : par DEL\n\nRésolution : 320 x 480 pixels, meilleur affichage\n\nRapport d’aspect : 2:3"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/27-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/27-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/27-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/27-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3738",
+   "price": 160,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shield Wifi ESP8266 UART Pour Uno/Mega",
+     "description": "Shield Wifi ESP8266 UART\n\nLe Shield Wifi ESP8266 UART pour Arduino Uno/Mega est basé sur l’ESP-8266EX. Il permet d’ajouter une connectivité Wi-Fi à vos projets Arduino, rendant ainsi possible la communication sans fil.\n\nCaractéristiques\n\nMicrocontrôleur : ESP-8266EX\n\nBroches : 11 digitales, 1 analogique\n\nTéléchargement OTA : Supporté\n\nLEDs : Indicateurs de l’état du module\n\nConvertisseur de niveau TTL : 5V à 3.3V intégré\n\nAntenne PCB : Améliorée pour un meilleur signal\n\nFonctionnement\n\nLe shield se connecte directement à un Arduino Uno ou Mega, ajoutant une fonctionnalité Wi-Fi pour les projets nécessitant une communication sans fil.\n\nApplications\n\nMaison intelligente : Contrôle et surveillance de la température, humidité, etc.\n\nIoT : Périphériques intelligents offrant des services réseau.\n\nComment l’utiliser\n\nConnexion :\n\nConnectez le shield à un Arduino Uno ou Mega.\n\nConfiguration :\n\nUtilisez l’IDE Arduino pour écrire et téléverser des sketches.\n\nUtilisation :\n\nUtilisez les bibliothèques ESP8266 pour ajouter des fonctionnalités Wi-Fi à vos projets.\n\nMots clés: internet, wireless.",
+     "short_description": "Shield Wifi ESP8266 UART Pour Arduino Uno/Mega, basé sur l’ESP-8266EX.\n\nApplications:\n\nContrôle d’Avion électrique\n\nPour les périphériques intelligents qui offrent des services réseau.\n\nContrôle et surveille la température / l’humidité …, les maisons intelligentes\n\nInterrupteur intelligent, etc."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/32-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/32-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/32-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30655",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Programmateur pour ESP32-CAM",
+     "description": "Adaptateur Programmateur pour ESP32-CAM\n\nCet adaptateur programmateur est spécialement conçu pour la carte de développement ESP32-CAM. Il intègre un convertisseur USB-série CH340, permettant à la fois l’alimentation (5 V via micro-USB) et la programmation de l’ESP32-CAM directement depuis l’IDE Arduino, sans nécessiter de câblage FTDI supplémentaire.\n\nCaractéristiques\n\nCompatibilité : ESP32-CAM AI-Thinker et clones\n\nInterface USB : Micro-USB, full-speed USB 2.0 via CH340G\n\nAlimentation : 5 V USB, régulateur interne vers 3.3 V\n\nConvertisseur série : CH340 (prise en charge des signaux DTR, RTS pour auto-reset et auto-boot)\n\nFonctionnement\n\nL’adaptateur se monte simplement sur les broches de l’ESP32-CAM. Le CH340G gère la conversion USB ↔ UART et, grâce aux lignes DTR et RTS, peut basculer automatiquement l’ESP32-CAM entre son mode normal et son mode flash lors du téléversement .\n\nApplications\n\nPrototypage IoT : développement rapide de caméras connectées\n\nTests et débogage : upload fréquent de firmwares\n\nÉducation : initiation à l’ESP32 et à la vision embarquée\n\nBrochage\n\nL’adaptateur dispose d’un connecteur 6 broches aligné sur l’ESP32-CAM (mêmes repères que la carte). Les broches utiles sont :\n\n5 V → Broche 5 V de l’ESP32-CAM\n\nGND → Masse\n\nTXD (CH340) → RX (GPIO 3) de l’ESP32-CAM\n\nRXD (CH340) → TX (GPIO 1) de l’ESP32-CAM\n\nIO0 → Mise à la masse pour entrer en mode flash (via bouton ou cavalier)\n\nRST (si disponible) → Broche Reset pour redémarrage manuel\n\nComment l’utiliser avec Arduino Uno\n\nExemple de code basique\n\n// Test de l’adaptateur et de la connexion série : clignotement de la LED flash\r\nconst int ledPin = 4; // GPIO4 = LED de flash\r\nvoid setup() {\r\nSerial.begin(115200);\r\npinMode(ledPin, OUTPUT);\r\n}\r\nvoid loop() {\r\ndigitalWrite(ledPin, HIGH);\r\ndelay(1000);\r\ndigitalWrite(ledPin, LOW);\r\ndelay(1000);\r\n}\r\n\nBut du code\n\nVérifier la bonne alimentation et la transmission série entre l’IDE Arduino et l’ESP32-CAM pour valider le fonctionnement de l’adaptateur.\n\nComposants nécessaires\n\nESP32-CAM (AI-Thinker)\n\nAdaptateur programmateur CH340 (micro-USB)\n\nCâble micro-USB\n\nExplication détaillée du code\n\nSerial.begin(115200) : initialise la liaison série à 115 200 bps.\n\npinMode(ledPin, OUTPUT) : configure la broche flash en sortie.\n\ndigitalWrite/ delay : alterne l’état de la LED toutes les secondes, prouvant que le microcontrôleur exécute bien le code.\n\nMots clés: programer.",
+     "short_description": "Cette carte adaptateur est spécialement conçue pour la carte de développement ESP32-CAM. Il permet à l’ESP32-CAM d’être alimenté et programmé automatiquement à partir du port USB d’un ordinateur"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/06/34-b-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2023/06/34-b-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41933",
+   "price": 210,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ESP32 Avec Afficheur OLED 0.96″",
+     "description": "ESP32 Avec Afficheur OLED 0.96″\n\nESP32 Avec Afficheur OLED 0.96″ I2C (128×64) sur la carte, ce qui en fait une solution idéale pour vos projets IoT compacts. Basée sur le module ESP-WROOM-32, elle combine Wi-Fi, Bluetooth, et un processeur dual-core 32 bits, avec un affichage embarqué prêt à l’emploi.\n\n🔧 Caractéristiques techniques :\n\nMicrocontrôleur : ESP32 (ESP-WROOM-32, Xtensa LX6, dual-core 32 bits, 240 MHz)\n\nMémoire Flash : 4 MB\n\nRAM : 520 KB\n\nConnectivité :\n\nWi-Fi 802.11 b/g/n\n\nBluetooth v4.2 BR/EDR et BLE\n\nÉcran intégré : OLED 0.96″, 128×64 pixels, monochrome (blanc), protocole I2C\n\nAdresse I2C de l’écran : 0x3C\n\nBroches écran OLED :\n\nSDA : GPIO 21\n\nSCL : GPIO 22\n\nUSB : micro-USB pour alimentation et programmation\n\nLED intégrée : GPIO 2\n\nAlimentation : 5 V via USB (régulation interne à 3.3 V)\n\nDimensions : env. 55 x 28 mm\n\nPoids : 9 g\n\n💡 Avantages :\n\nÉcran OLED intégré → aucun câblage nécessaire\n\nIdéal pour les projets embarqués, capteurs, affichages d’état ou mini dashboards\n\nCompatible avec Arduino IDE, PlatformIO, et MicroPython\n\nEspacement standard pour breadboard\n\n🧪 Exemple de code – Affichage OLED (texte simple)\n\n📦 Bibliothèques requises :\n\nAdafruit SSD1306\n\nAdafruit GFX\n\nInstallez-les via Croquis > Inclure une bibliothèque > Gérer les bibliothèques\n\n📝 Code Arduino :\n\n#include <Wire.h>\r\n#include <Adafruit_GFX.h>\r\n#include <Adafruit_SSD1306.h>\r\n\n#define SCREEN_WIDTH 128\r\n#define SCREEN_HEIGHT 64\r\n#define OLED_RESET -1\r\n#define SCREEN_ADDRESS 0x3C // Adresse I2C de l'écran OLED\r\n\nAdafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);\r\n\nvoid setup() {\r\nSerial.begin(115200);\r\n\n// Initialisation de l'écran\r\nif (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {\r\nSerial.println(F(\"Échec de l'initialisation OLED\"));\r\nfor (;;);\r\n}\r\n\ndisplay.clearDisplay();\r\ndisplay.setTextSize(1); // Taille du texte\r\ndisplay.setTextColor(SSD1306_WHITE); // Couleur du texte\r\ndisplay.setCursor(0, 10); // Position du texte\r\ndisplay.println(F(\"Bonjour Micro-Planet!\"));\r\ndisplay.display(); // Affiche le tout\r\n}\r\n\nvoid loop() {\r\n// Rien dans la boucle principale\r\n}\n\n⚠️ Remarques importantes :\n\nVeillez à bien sélectionner la carte “ESP32 Dev Module” dans l’IDE Arduino\n\nAssurez-vous que l’adresse I2C de votre écran est bien 0x3C (par défaut sur la plupart des modules)\n\nConnectez la carte via USB micro-B avec un câble de données.\n\nMots clés: wireless, display, lcd.",
+     "short_description": "ESP32 Avec Afficheur OLED 0.96″ I2C (128×64) sur la carte. Basée sur le module ESP-WROOM-32, elle combine Wi-Fi, Bluetooth, et un processeur dual-core 32 bits."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/34-e-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6026",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "STM32 32-bit ARM Cortex-M3, 72MHZ 64KB",
+     "description": "STM32 32-bit ARM Cortex-M3, 72MHZ\n\nSTM32, La famille de lignes de performance moyenne densité STM32F103C8T6 intègre le coeur RISC ARM®Cortex®-M3 32 bits hautes performances fonctionnant à une fréquence de 72 MHz, des mémoires intégrées haute vitesse.\n\nCaractéristiques:\n\nBloc d’alimentation flexible: USB VBUS ou source externe (3.3V, 5V)\n\nLED de l’utilisateur: LED1\n\nUn bouton-poussoir: RESET\n\nPort de programmation / débogage\n\nConnecteur USB Micro-B\n\nSTM32F103C8T6\n\nCPU ARM® 32 bits Cortex®-M3\n\nFréquence CPU maximale de 72 MHz\n\nVDD de 2,0 V à 3,6 V\n\n64 KB Flash\n\n20 Ko SRAM\n\nGPIO (32) avec capacité d’interruption externe\n\nADC 12 bits (2) avec 10 canaux\n\nRTC\n\nTimers (4)\n\nI2C (2)\n\nUSART (3)\n\nSPI (2)\n\nUSB 2.0 à pleine vitesse\n\nCAN.\n\nProgrammer stm32:\n\nLe “Programmateur USB Serial TTL CP2102” peut être utilisé pour programmer le stm32.\n\nDans l’image ci-dessus, vous voyez deux jumpers jaunes marqués BOOT0 et BOOT1. Ceux-ci spécifient la source du code pour le micro-contrôleur. Dans l’état par défaut des deux étant 0, le microcontrôleur utilise son propre bootloader de mémoire flash – ce qu’il n’y en a pas pour le moment – et que nous ajoutons. Pour l’instant, être en mesure de programmer le micro en utilisant USART, vous devez définir boot0 comme 1 et laisser Boot1 à 0. déplacer Fondamentalement, le premier sauteur et laissez le second\n\nVous devrez appuyer sur le bouton de réinitialisation (Reset) avant d’envoyer le code.\n\nAssurez-vous de remettre le sauteur BOOT0 sur la position 0 aprés programmation, sinon votre code sera supprimé après la réinitialisation de la carte.\n\nFiche technique",
+     "short_description": "STM32, La famille de lignes de performance moyenne densité STM32F103C6T6 intègre le coeur RISC ARM®Cortex®-M3 32 bits hautes performances fonctionnant à une fréquence de 72 MHz, 32 KB Flash\n\n20 Ko SRAM, 37 GPIO."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/35-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/35-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/35-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6201",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur 30x30x9mm pour Raspberry Pi",
+     "description": "Ventilateur 30x30x9mm pour Raspberry Pi 3/2\n\nVentilateur pour Raspberry pi, parfaitement adapté pour Raspberry Pi 2 / 3 Modèle B + Orange Pi et Banana Pi.\n\nRéduire significativement la température du CPU.\n\nPresque sans aucun bruit.\n\nStable et grande force.\n\nAvec des vis et des écrous, facile et simple à installer.\n\nCaractéristiques:\n\nCouleur: noire\n\nMatériel: ABS\n\nTaille: environ 3 CM * 3 CM * 0,9 CM\n\nTension: DC 5V 0.2A\n\nMots clés: fan, cooler.",
+     "short_description": "Ventilateur pour Raspberry pi, parfaitement adapté pour Raspberry Pi 2, 3 Modèle B + Orange Pi et Banana Pi."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/36-2.png"
+   ]
+  }
+ ]
+}

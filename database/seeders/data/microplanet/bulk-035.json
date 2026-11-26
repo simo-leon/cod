@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3067",
+   "price": 0.6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 5mm Transparent",
+     "description": "Led 5mm Transparent\n\nLed 5mm Transparent 5 couleurs: rouge, bleu, jaune, vert, blanc. Une LED se caractérise principalement par 3 grandeurs :\n\n– la chute de tension directe Vf aux bornes de la LED pour un courant I de 20 mA.\n\n– l’intensité lumineuse Iv qui s’exprime en mcd (millicandela).\n\n– l’angle de rayonnement par rapport à l’axe optique, en degrés.\n\nRaccordement : la résistance à insérer en série avec une led se calcule par la loi d’Ohm :\n\nR = (Vcc – Vf) / I\n\nR s’exprime en Ohms\n\nVcc et Vf s’expriment en Volts\n\nI s’exprime en Ampères\n\nCouleur\n   Vf\nLambda\n\n Rouge\n 1,6 V\n 660 nm\n\n Orange\n 2,0 V\n 625 nm\n\n Jaune\n 2,4 V\n 590 nm\n\n Verte\n 2,4 V\n 565 nm\n\n Bleue\n 3,0 V\n 470 nm\n\n Blanche\n 3,5 V\n\nMots clés: light.",
+     "short_description": "Led 5mm Transparent 5 couleurs: rouge, bleu, jaune, vert, blanc."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/293-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3073",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 10mm Transparent",
+     "description": "Led 10mm\n\nLed 10mm blanc, bleu, vert, rouge, jaune, orange.\n\nTension: 3.2-3.8V\n\nCourant nominal: 30mA (Max: 75mA).\n\nPuissance: 80mW\n\nMots clés: light.",
+     "short_description": "Led 10mm blanc, bleu, vert, rouge, jaune, orange.\n\nTension: 3.2-3.8V\n\nCourant nominal: 30mA (Max: 75mA).\n\nPuissance: 80mW"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/294-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42053",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 10mm",
+     "description": "Led 10mm 5 couleurs\n\nCes LED rondes 10 mm offrent un éclairage vif et homogène dans cinq teintes standards : rouge, bleu, jaune, vert et orange. Montées en traversant le circuit (THT), elles sont idéales pour vos montages électroniques, projets DIY et panneaux d’indication.\n\n🔧 Caractéristiques techniques\n\nType : LED THT 10 mm ronde\n\nCouleurs disponibles : rouge, bleu, jaune, vert, orange\n\nTension directe :\n\nRouge/Vert/Orange : 1,9 – 2,2 V\n\nJaune : 2,0 – 2,2 V\n\nBleu : 3,0 – 3,2 V\n\nCourant de fonctionnement : 10 – 20 mA\n\nAngle de vision : 20 – 30° (focalisé)\n\nIntensité lumineuse typique :\n\nRouge/Vert/Orange : 800 – 1200 mcd\n\nJaune : 600 – 1000 mcd\n\nBleu : 400 – 800 mcd\n\nTempérature de fonctionnement : – 40 °C à + 85 °C\n\n💡 Applications typiques\n\nVoyants et témoins de panneau de commande\n\nÉclairage d’indication dans boîtiers et armoires\n\nProjets Arduino/Raspberry Pi (status LED)\n\nEnseignes et signalétique décorative\n\nPrototypes et cartes de prototypage (breadboard)\n\n🛠️ Brochage / Wiring\n\nBroche\nFonction\nConnexion typique\n\nLongue\nAnode (+)\nRésistance → +V (3 – 5 V)\n\nCourte\nCathode (–)\nGND\n\nConseil : utilisez toujours une résistance série (220 Ω – 1 kΩ) pour limiter le courant et protéger la LED.\n\nRaccordement : la résistance à insérer en série avec une led se calcule par la loi d’Ohm :\n\nR = (Vcc – Vf) / I\n\nR s’exprime en Ohms\n\nVcc et Vf s’expriment en Volts\n\nI s’exprime en Ampères\n\nMots clés: light.",
+     "short_description": "Led 10mm 5 couleurs: rouge, bleu, jaune, vert et orange"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/294-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3074",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led Émetteur Infrarouge 5mm 850nm",
+     "description": "Led Émetteur Infrarouge 5mm 850nm\n\nLed émetteur Infrarouge 5mm 850nm.\n\nTension: 1.5-1.65V\n\nCourant: 50mA\n\nMots clés: ir, light, infrared.",
+     "short_description": "Led Infrarouge 5mm 850nm.\n\nTension: 1.5-1.65V\n\nCourant: 50mA"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/295-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3077",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led Ultraviolet 5mm",
+     "description": "Led Ultraviolet 5mm\n\nLed Ultraviolet 5mm.\n\nLongueur d’onde: 395-410nm\n\nDurée de vie: 100,000 Heures\n\nLuminosité: 1000-1200MCD\n\nAngle: 20 degrees\n\nTension: 3.2-3.8V\n\nCourant: 20mA\n\nMots clés: uv light.",
+     "short_description": "Led Ultraviolet 5mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/298-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/298-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/298-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8104",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 100W",
+     "description": "Led 100W\n\nLed 100w, couleur blanc neutre (4000K) ou blanc froid (6000K).\n\nAngle(°):140°\n\nDurée de vie (hrs): 50 000 heures\n\nVoltage: 32v-36v\n\nCourrant: 1800-2250mA\n\nLuminosité: 8000-9000LM.\n\nMots clés: light.",
+     "short_description": "Led 100w, couleur blanc naturel ou blanc chaud."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/299-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35141",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ESC 30A Contrôleur pour moteur brushless",
+     "description": "ESC 30A Contrôleur pour moteur brushless\n\nLe controlleur ESC adopte une conception de moteur sans balais, plus pratique à utiliser et améliore la sécurité de votre drone, il est équipé d’une alimentation haute puissance, ce qui peut améliorer efficacement l’efficacité du moteur. le controlleur ESC est équipé d’une alimentation haute puissance, ce qui peut améliorer efficacement l’efficacité du moteur. \n\nCaractéristiques :\n\n30A : un instant 45A, 40A continu 10 secondes\n\nTaille : 30A-45 X 24 X 8 mm\n\nplage de tension : 5,5 V-12 V\n\nnuméro de batterie : 4-12 NIMH 2-3LIPO (4LIPO BEC ne permet pas l’utilisation de la sortie)\n\nSortie BEC : 30A, stressée : 5 V 3A. 2 Micro-boîtier de direction LIPO 4-5 3 Micro-boîtier de direction LIPO 3-4 /\n\nProtection : sélection automatique 2-3 LIPO où la tension protégée est de 6 V/9 V ; automatiquement élu NIMH, chaque tension protégée est de 0,8 V ;\n\nsécurité démarrée, la position de l’accélérateur n’interdit pas la protection de la température démarrée, la température de surface de 110 degrés de temps d’arrêt; hors de contrôle\n\nprotection, sans signal une seconde après l’arrêt.\n\nDescription de la propriété : limite de vitesse, dans un 2 à aussi élevé que 300 000 à 12 à 50 000, à un très, très étranger aux 14 à 42 000. Contrôle PWM 8KHz,\n\nl’utilisation de la courbe de contrôle de la vitesse. S’adapte automatiquement à l’accélérateur, plus adapté aux appareils de contrôle à distance.",
+     "short_description": "Le controlleur ESC adopte une conception de moteur sans balais, plus pratique à utiliser et améliore la sécurité de votre drone."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0331.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35146",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Paire d’hélices 1045 10″",
+     "description": "Paire d’hélices 1045 10″\n\nUn jeu de 2 x 1045 hélices. L’ensemble comprend une hélice tournant dans le sens des aiguilles d’une montre et une hélice tournant dans le sens inverse des aiguilles d’une montre avec 2 adaptateurs d’arbre d’hélice. Les adaptateurs permettent d’utiliser l’hélice avec des moteurs de différents diamètres d’arbre.\n\nCette hélice 1045 peut être utilisée avec des moteurs sans balais d’une puissance nominale de 800 à 2 200 kV. Avec un moteur à faible kV (800 – 1400 kV), cette hélice offre des vols fluides avec des temps de vol plus longs, parfaits pour le FPV et la photographie aérienne. Dotée d’un moteur à haut kV (plus de 1200 kV) cette hélice offre des vols rapides parfaits pour les vols acrobatiques.\n\nSpécifications :\n\nDiamètre : 10″ (25,4 cm)\n\nPas : 4,5″ (11,43 cm)\n\nLongueur : 10″.\n\nPas : 4,5″.\n\nPoids : 28 g.\n\nDiamètre de la tige : 9,5 mm.\n\nLongueur totale: 10 pouces/250 mm\n\nMatériau : nylon carbone.\n\nMots clés: motor, dinamo, motor, propeller.",
+     "short_description": "Un jeu de 2 x 1045 hélices. L’ensemble comprend une hélice tournant dans le sens des aiguilles d’une montre et une hélice tournant dans le sens inverse des aiguilles d’une montre avec 2 adaptateurs d’arbre d’hélice."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0332.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35136",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "A2212/6T 2200KV Moteur brushless",
+     "description": "A2212/6T 2200KV Moteur brushless\n\nIl s’agit d’un moteur brushless A2212 spécialement conçu pour alimenter les quadricoptères (drones) et les multirotors. C’est un moteur 2200kV. Il offre des performances élevées, une super puissance et une efficacité. Ces moteurs sont parfaits pour les quadricoptères de taille moyenne avec des hélices de 8 pouces à 10 pouces.\n\nSpécifications:\n\nKv: 2200 RPM / V\n\nTension recommandée : 2-12 VDC\n\nEfficacité maximale : 80 %\n\nRésistance interne : 90 mΩ\n\nCourant maximum : 12A/60s\n\nPuissance maximale : 239 W\n\nCourant de charge : 21,5 A\n\nTaille de l’arbre : 3,17 mm.\n\nPoids : 49 g (tous les accessoires compris)\n\nDimensions : 27,5×30 (mm)\n\nESC minimum recommandé : 18 A\n\nPoids du modèle recommandé : 300-1000g\n\nTrous de montage : 3 mm (M3)",
+     "short_description": "Il s’agit d’un moteur brushless A2212 spécialement conçu pour alimenter les quadricoptères (drones) et les multirotors. C’est un moteur 2200kV."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0333.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35265",
+   "price": 280,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "A2212 2200Kv Moteur brushless + ESC 30A + Hélices 1045",
+     "description": "A2212 2200Kv Moteur brushless + ESC 30A + Hélices 1045\n\nIl s’agit d’un moteur brushless A2212 spécialement conçu pour alimenter les quadricoptères (drones) et les multirotors. C’est un moteur 2200kV. Il offre des performances élevées, une super puissance et une efficacité. Ces moteurs sont parfaits pour les quadricoptères de taille moyenne avec des hélices de 8 pouces à 10 pouces. Avec l’ESC 30A et les hélices 10″ à haut rendement, ces moteurs fournissent jusqu’à 800 g. L’utilisation de 4 de ces moteurs sur un quadricoptère avec les hélices vous donnera un total de 3,2 kg de poussée !\n\nCaractéristiques: Moteur\n\nKv: 2200 RPM / V\n\nTension recommandée : 2-12 VDC\n\nEfficacité maximale : 80 %\n\nRésistance interne : 90 mΩ\n\nCourant maximum : 12A/60s\n\nPuissance maximale : 239 W\n\nCourant de charge : 21,5 A\n\nTaille de l’arbre : 3,17 mm.\n\nPoids : 49 g (tous les accessoires compris)\n\nDimensions : 27,5×30 (mm)\n\nESC minimum recommandé : 18 A\n\nPoids du modèle recommandé : 300-1000g\n\nTrous de montage : 3 mm (M3)\n\nCaractéristiques: ESC 30A\n\n30A : un instant 45A, 40A continu 10 secondes\n\nTaille : 30A-45 X 24 X 8 mm\n\nplage de tension : 5,5 V-12 V\n\nnuméro de batterie : 4-12 NIMH 2-3LIPO (4LIPO BEC ne permet pas l’utilisation de la sortie)\n\nSortie BEC : 30A, stressée : 5 V 3A. 2 Micro-boîtier de direction LIPO 4-5 3 Micro-boîtier de direction LIPO 3-4 /\n\nProtection : sélection automatique 2-3 LIPO où la tension protégée est de 6 V/9 V ; automatiquement élu NIMH, chaque tension protégée est de 0,8 V ;\n\nsécurité démarrée, la position de l’accélérateur n’interdit pas la protection de la température démarrée, la température de surface de 110 degrés de temps d’arrêt; hors de contrôle\n\nprotection, sans signal une seconde après l’arrêt.\n\nDescription de la propriété : limite de vitesse, dans un 2 à aussi élevé que 300 000 à 12 à 50 000, à un très, très étranger aux 14 à 42 000. Contrôle PWM 8KHz,\n\nl’utilisation de la courbe de contrôle de la vitesse. S’adapte automatiquement à l’accélérateur, plus adapté aux appareils de contrôle à distance.\n\nL’utilisation de BEC, alimentation séparée MCU, un travail plus stable.\n\nMots clés: motor, quadcopter, drone, propeller.",
+     "short_description": "Il s’agit d’un moteur brushless A2212 spécialement conçu pour alimenter les quadricoptères (drones) et les multirotors. C’est un moteur 2200kV."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/07/0334-GRP.png"
+   ]
+  }
+ ]
+}

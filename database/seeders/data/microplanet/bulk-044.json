@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-4678",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module Régulateur de Tension 3.3V 800mA",
+     "description": "Régulateur de Tension 3.3V 800mA\n\nModule régulateur de Tension 3.3V 800mA.\n\nEntrée: DC 4.5V – 7V (la tension d’entrée doit être supérieure à la tension de sortie par 1V ou plus).\n\nSortie: 3.3V, 800mA max\n\nAvec voyant d’alimentation (rouge)\n\nMots clés: buck, regulator.",
+     "short_description": "Module régulateur de Tension 3.3V 800mA.\n\nEntrée: DC 4.5V – 7V (la tension d’entrée doit être supérieure à la tension de sortie par 1V ou plus).\n\nSortie: 3.3V, 800mA max\n\nAvec voyant d’alimentation (rouge)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/464-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3170",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module Régulateur de Tension 3.3V 800mA",
+     "description": "Régulateur de Tension 3.3V 800mA\n\nModule régulateur de Tension 3.3V 800mA.\n\nEntrée: DC 4.5V – 7V (la tension d’entrée doit être supérieure à la tension de sortie par 1V ou plus).\n\nSortie: 3.3V, 800mA max\n\nDes trous de fixation à deux broches spécialement conçus, peuvent être fixés directement sur la carte d’extension.\n\nDimensions: 2,5 cm * 1,1 cm\n\nAvec voyant d’alimentation (rouge)\n\nMots clés: buck, regulator.",
+     "short_description": "Module abaisseur régulateur de Tension 3.3V 800mA.\n\nEntrée: DC 4.5V – 7V (la tension d’entrée doit être supérieure à la tension de sortie par 1V ou plus).\n\nSortie: 3.3V, 800mA max\n\nDimensions: 2,5 cm * 1,1 cm\n\nAvec voyant d’alimentation (rouge)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/465-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3169",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Driver Led 3W 700mA 5-35V",
+     "description": "Driver Led 3W 700mA 5-35V\n\nDriver Led 3w avec un courant de sortie constant de 700mA, il peut alimenter de 1 à 10 led de 3w.\n\nTension d’entrée: DC 5-35V (dépend de nombre de led attachées)\n\nCourant de sortie: 700mA ± 20mA, constant, faible ondulation.\n\nSupporte la gradation PWM\n\nHaut niveau désactive la sortie, niveau bas active la sortie\n\nLe mode LED buck permet de s’assurer que la différence de tension totale est inférieure à la tension d’alimentation d’entrée (2-3 V).\n\nProtection contre: Surcharge, court-circuit, les surintensités, pour assurer la sécurité de l’alimentation.\n\nDimensions: longueur 3.6cm * Largeur 2cm\n\nMots clés: light, controller, current.",
+     "short_description": "Driver Led 3w avec un courant de sortie constant de 700mA, il peut alimenter de 1 à 10 led de 3w.\n\nTension d’entrée: DC 5-35V\n\nCourant de sortie: 700mA ± 20mA, constant, faible ondulation.\n\nSupporte la gradation PWM\n\nHaut niveau désactive la sortie, niveau bas active la sortie\n\nProtection contre: Surcharge, court-circuit, les surintensités"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/466-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3172",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MP2307 3A Mini Abaisseur de Tension",
+     "description": "Abaisseur de Tension Mini MP2307 3A\n\nAlimentation mini (Ultra petit) abaisseur de tension MP2307 avec sortie de courant élevée (3A max), Idéal pour les projets petits.\n\nTension d’entrée: 4.75 ~ 23V\n\nTension de sortie: 1V ~ 17V\n\nCourant de sortie: 1.8A nominale, 3A (max, avec refroidissement)\n\nEfficacité: 96% (Max)\n\nFréquence de commutation: 340Khz\n\nRégulation de charge: ± 0.5%\n\nRégulation de tension: ± 2,5%\n\nProtection contre les courts-circuits: Non (Veuillez ne pas court-circuiter)\n\nEntrée Protection inverse: Non\n\nTempérature de fonctionnement: -20 à +85\n\nDimensions: 18mm*12mm*4mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation mini (Ultra petit) abaisseur de tension MP2307 avec sortie de courant élevée (3A max), Idéal pour les projets petits.\n\nTension d’entrée: 4.75 ~ 23V\n\nTension de sortie: 1V ~ 17V\n\nCourant de sortie: 1.8A nominale, 3A (max, avec refroidissement)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/468-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3173",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM2596 3A Abaisseur de Tension",
+     "description": "Abaisseur de Tension LM2596 3A\n\nAlimentation abaisseur de tension à base de LM2596.\n\nMode: non synchrone\n\nTension d’entrée: 4V-40V\n\nTension de sortie: 1.3V-35V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 3A max (plus de 2.5A, un dissipateur thermique est requis)\n\nEfficacité de conversion: 92% (max)\n\nFréquence de commutation: 150KHz\n\nOndulation de sortie: 30mV (maximum)\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: oui\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 43mm * 21mm * 14mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de LM2596.\n\nMode: non synchrone\n\nTension d’entrée: 4V-40V\n\nTension de sortie: 1.3V-35V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 3A max (plus de 2.5A, un dissipateur thermique est requis)\n\nEfficacité de conversion: 92% (max)\n\nFréquence de commutation: 65KHz\n\nOndulation de sortie: 30mV (maximum)\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: oui\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 43mm * 21mm * 14mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/469-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3174",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM2596 3A Abaisseur de Tension Avec Voltmétre",
+     "description": "Abaisseur de Tension LM2596 3A Avec Voltmétre\n\nAlimentation abaisseur de tension à base de LM2596 avec voltmétre pour visualiser la tension de sortie ou d’entrée en temps réel.\n\nMode: non synchrone\n\nTension d’entrée: 4.5V-40V\n\nTension de sortie: 1.25V-35V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 3A max (plus de 2.5A, un dissipateur thermique est requis)\n\nPlage de voltmètre: 0 à 40V, erreur ± 0,1 V\n\nEfficacité de conversion: 92% (max)\n\nFréquence de commutation: 65KHz\n\nOndulation de sortie: 30mV (maximum)\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: oui\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 43mm * 21mm * 14mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de LM2596 avec voltmétre pour visualiser la tension de sortie en temps réel.\n\nMode: non synchrone\n\nTension d’entrée: 4.5V-40V\n\nTension de sortie: 1.25V-35V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 3A max (plus de 2.5A, un dissipateur thermique est requis)\n\nPlage de voltmètre: 0 à 40V, erreur ± 0,1 V\n\nEfficacité de conversion: 92% (max)\n\nFréquence de commutation: 65KHz\n\nOndulation de sortie: 30mV (maximum)\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: oui\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 43mm * 21mm * 14mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/470-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3176",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM2596 3A Abaisseur de Tension CC-CV",
+     "description": "Abaisseur de Tension CC-CV LM2596 3A\n\nAlimentation abaisseur de tension à base de LM2596 avec option de régler la tension de sortie (potentiométre 1), limitation de courant de sortie (CC) (potentiométre 3), le 2éme potentiométre sert à régler le seuil de courant de sortie à lequel la Led OK s’allume indiquant que le chargement est terminé, en cas de chargement des batteries.\n\nExemple: Nous voulons charger une batterie au lithium 3.7v, nous ajustons la tension de sortie ex: 4.2v et le courant max de chargement ex: 1A, et nous réglons également le courant de charge (potentiomètre au centre) que la batterie absorbe lorsqu’il est complètement chargé Ex: 50mA. Lorsque la batterie est presque chargée, le courant absorbé commencera à baisser et lorsqu’il descend en dessous de 50mA, la led OK s’allume indiquant que la batterie est complètement chargée.\n\nApplications:\n\nAlimenter LED de haute puissance qui nécessite un courant constant.\n\nChargeur de batterie de lithium, nickel-hydrure métallique, nickel-cadmium (y compris ferroélectrique)\n\nChargeur de batterie 4V, 6V, 12V, 14V,  24V\n\nPanneaux solaires et éoliennes\n\n…\n\nCaractéristiques:\n\nMode: non synchrone\n\nTension d’entrée: 7V-40V\n\nTension de sortie: 1.25V-30V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 0-3A (plus de 2.5A, un dissipateur thermique est requis), (réglable à l’aide d’un potentimétre de précision).\n\nEfficacité de conversion: 92% (max)\n\nFréquence de commutation: 150KHz\n\nOndulation de sortie: 50mV (maximum)\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 43mm * 21mm * 14mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de LM2596 avec option de régler la tension de sortie (potentiométre 1), limitation de courant de sortie (CC) (potentiométre 3), le 2éme potentiométre sert à régler le seuil de courant de sortie à lequel la Led OK s’allume indiquant que le chargement est terminé, en cas de chargement des batteries.\n\nMode: non synchrone\n\nTension d’entrée: 7V-40V\n\nTension de sortie: 1.25V-30V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 0-3A (plus de 2.5A, un dissipateur thermique est requis), (réglable à l’aide d’un potentimétre de précision).\n\nEfficacité de conversion: 92% (max)\n\nFréquence de commutation: 65KHz\n\nOndulation de sortie: 50mV (maximum)\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 43mm * 21mm * 14mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/471-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3177",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL4005 5A Abaisseur de Tension",
+     "description": "Abaisseur de Tension XL4005 5A\n\nAlimentation abaisseur de tension à base de XL4005, ce module peut facilement atteindre 3.5A 50W, en ajoutant un dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance. La tension de sortie est réglable à l’aide du potentiomètre de haute précision 0.8-24V.\n\nTension d’entrée: 5V-32V\n\nTension de sortie: 0.8V-24V\n\nCourant de sortie: 5A max (plus de 3.5A, un dissipateur thermique est requis)\n\nFréquence de fonctionnement: 300 KHz\n\nEfficacité de conversion: 90%\n\nProtection contre polarité inverse: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimensions: 43mm * 21mm * 14mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de XL4005, ce module peut facilement atteindre 3.5A 50W, en ajoutant un dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance. La tension de sortie est réglable à l’aide du potentiomètre de haute précision 0.8-24V.\n\nTension d’entrée: 5V-32V\n\nTension de sortie: 0.8V-24V\n\nCourant de sortie: 5A max (plus de 3.5A nécessite d’ajouter un refroidisseur)\n\nFréquence de fonctionnement: 300 KHz\n\nEfficacité de conversion: 90%\n\nProtection contre polarité inverse: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimensions: 43mm * 21mm * 14mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/472-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3179",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL4005 5A Abaisseur de Tension CC-CV",
+     "description": "Abaisseur de Tension CC-CV XL4005 5A\n\nAlimentation abaisseur de tension à base de XL4005 avec option de régler la tension de sortie (potentiométre 1), limitation de courant de sortie (CC) (potentiométre 3), le 2éme potentiométre sert à régler le seuil de courant de sortie à lequel le Led OK s’allume indiquant que le chargement est terminé, en cas de chargement des batteries, ce module peut 5A 75W, équipée d’un refroidisseur pour maximiser le performance.\n\nExemple: Nous voulons charger une batterie 12v, nous ajustons la tension de sortie ex: 15v et le courant max de chargement ex: 3A, et nous réglons également le courant de charge (potentiomètre au centre) que la batterie absorbe lorsqu’il est complètement chargé Ex: 100mA. Lorsque la batterie est presque chargée, le courant absorbé commencera à baisser et lorsqu’il descend en dessous de 100mA, la led OK s’allume indiquant que la batterie est complètement chargée.\n\nApplications:\n\nAlimenter LED de haute puissance qui nécessite un courant constant.\n\nChargeur de batterie de lithium, nickel-hydrure métallique, nickel-cadmium (y compris ferroélectrique)\n\nChargeur de batterie 4V, 6V, 12V, 14V,  24V\n\nPanneaux solaires et éoliennes.\n\n…\n\nCaractéristiques:\n\nMode: non synchrone\n\nTension d’entrée: 4.5V-30V\n\nTension de sortie: 0.8V-30V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 0-5A (réglable à l’aide d’un potentimétre de précision).\n\nEfficacité de conversion: 95% (max)\n\nFréquence de commutation: 300KHz\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: oui (pour des courant d’entrée qui ne dépasse pas 2A max)\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 64mm * 28mm * 20mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de XL4005 avec option de régler la tension de sortie (potentiométre 1), limitation de courant de sortie (CC) (potentiométre 3), le 2éme potentiométre sert à régler le seuil de courant de sortie à lequel le Led OK s’allume indiquant que le chargement est terminé, en cas de chargement des batteries, ce module peut 5A 75W, équipée d’un refroidisseur pour maximiser le performance.\n\nMode: non synchrone\n\nTension d’entrée: 4.5V-30V\n\nTension de sortie: 0.8V-30V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 0-5A (réglable à l’aide d’un potentimétre de précision).\n\nEfficacité de conversion: 95% (max)\n\nFréquence de commutation: 300KHz\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: oui (pour des courant d’entrée qui ne dépasse pas 2A max)\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 64mm * 28mm * 20mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/473-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3182",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL4015 5A Abaisseur de Tension CC-CV",
+     "description": "Abaisseur de Tension CC-CV XL4015 5A\n\nAlimentation abaisseur de tension à base de XL4015 avec option de régler la tension de sortie (potentiométre 1), limitation de courant de sortie (CC) (potentiométre 2), ce module peut facilement atteindre 3.5A 50W, en ajoutant un dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance, ce module peut aussi fonctionner comme un chargeur de batteries, la Led bleu indique que la batterie est en cours de chargement, et la Led vert indique que la batterie est complètement chargée.\n\nExemple: Nous voulons charger une batterie au lithium 3.7v, avec une tension maximale de 4.2v (complètement chargé), nous ajustons la tension de sortie à 4.2v, pour choisir le courant de chargement on doit savoir la capacité du batterie ex: 2000mAH, donc pour un courant de 0.5C on régle le courant de chargement à 1A, le seuil de courant à lequel la led vert s’allume et définit par usine à (0.1 X courant de chargement) donc 100mA. Lorsque la batterie est presque chargée, le courant absorbé commencera à baisser et lorsqu’il descend en dessous de (0.1 X 1A = 100mA), la led vert s’allume indiquant que la batterie est complètement chargée.\n\nApplications:\n\nAlimenter LED de haute puissance qui nécessite un courant constant.\n\nChargeur de batterie de lithium, nickel-hydrure métallique, nickel-cadmium (y compris ferroélectrique)\n\nChargeur de batterie 4V, 6V, 12V, 14V,  24V\n\nPanneaux solaires et éoliennes\n\n…\n\nCaractéristiques:\n\nMode: non synchrone\n\nTension d’entrée: 6V-36V\n\nTension de sortie: 1.25V-35V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 0-5A (plus de 3.5A nécessite d’ajouter un refroidisseur), (réglable à l’aide d’un potentimétre de précision).\n\nEfficacité de conversion: 95% (max)\n\nFréquence de commutation: 300KHz\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nOnduleur de sortie: 50mV (maximum) 20M de bande passante\n\nProtection contre polarité inverse d’ntrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 61mm * 28mm * 20mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de XL4015 avec option de régler la tension de sortie (potentiométre 1), limitation de courant de sortie (CC) (potentiométre 2), ce module peut facilement atteindre 3.5A 50W, en ajoutant un dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance, ce module peut aussi fonctionner comme un chargeur de batteries, la Led bleu indique que la batterie est en cours de chargement, et la Led vert indique que la batterie est complètement chargée.\n\nMode: non synchrone\n\nTension d’entrée: 6V-38V\n\nTension de sortie: 1.25V-36V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 0-5A (plus de 3.5A nécessite d’ajouter un refroidisseur), (réglable à l’aide d’un potentimétre de précision).\n\nEfficacité de conversion: 95% (max)\n\nFréquence de commutation: 300KHz\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nOnduleur de sortie: 50mV (maximum) 20M de bande passante\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’ntrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 61mm * 28mm * 20mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/474-1.png"
+   ]
+  }
+ ]
+}

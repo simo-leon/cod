@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3028",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 10W",
+     "description": "Led 10W\n\nLed 10w, couleur blanc neutre (4000K) ou blanc froid (6000K).\n\nAngle(°):140°\n\nDurée de vie (hrs): 50000 heures\n\nVoltage: 9v-12v ( Pour 12V l’utilisation d’une résistance de 1.5 ohm en série est recommandée )\n\nCourrant: 800-900 mA\n\nLuminosité: 900-1000LM.\n\nMots clés: light.",
+     "short_description": "Led 10w, couleur blanc neutre (4000K) ou blanc froid (6000K)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/283-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3031",
+   "price": 28,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 20W",
+     "description": "Led 20W\n\nLed 20w, couleur blanc neutre (4000K) ou blanc froid (6000K).\n\nAngle(°):140°\n\nDurée de vie (hrs): 50 000 heures\n\nVoltage: 32v-34v\n\nCourrant: 400-600mA\n\nLuminosité: 1600-2000LM.\n\nMots clés: light.",
+     "short_description": "Led 20w, couleur blanc naturel ou blanc chaud."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/284-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3037",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led RGB 5mm",
+     "description": "Led RGB 5mm\n\nLed RGB 5mm Anode/Cathode commun.\n\nTension: R:1.8-2.2V G:3.0-3.4V B:3.0-3.4V\n\nCourant Max: 20mA.\n\nMots clés: light.",
+     "short_description": "Led RGB 5mm Anode commun.\n\nTension: R:1.8-2.2V G:3.0-3.4V B:3.0-3.4V\n\nCourant Max: 20mA"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/285-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3040",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led RGB 5mm Transparent",
+     "description": "Led RGB 5mm Transparent\n\nLed RGB Transparent 5mm Anode/Cathode commun.\n\nTension: R:1.8-2.2V G:3.0-3.4V B:3.0-3.4V\n\nCourant Max: 20mA.\n\nMots clés: light.",
+     "short_description": "Led RGB Transparent 5mm Anode/Cathode commun.\n\nTension: R:1.8-2.2V G:3.0-3.4V B:3.0-3.4V\n\nCourant Max: 20mA"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/286-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3041",
+   "price": 3.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led RGB 10mm",
+     "description": "Led RGB 10mm\n\nLed RGB 10mm Anode commun.\n\nTension: R:2-2.2V G:3.0-3.2V B:3.0-3.2V\n\nCourant Max: 20mA.\n\nMots clés: light",
+     "short_description": "Led RGB 10mm Anode commun.\n\nTension: R:2-2.2V G:3.0-3.2V B:3.0-3.2V\n\nCourant Max: 20mA"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/287-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3042",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led RGB 3mm/5mm 7 Couleurs Clignotant",
+     "description": "Led RGB 3mm/5mm 7 Couleurs Clignotant\n\nLed RGB 3mm/5mm, 2 broche (+/-) avec 7 couleurs clignotant.\n\nTension: 3.1-3.8v\n\nCourant Max: 20mA\n\nModéle: K-S5MUBS\n\nMots clés: light.",
+     "short_description": "Led RGB 3mm/5mm, 2 broche (+/-) avec 7 couleurs clignotant.\n\nTension: 3.1-3.8v\n\nCourant Max: 20mA\n\nModéle: K-S5MUBS"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/288-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/288-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/288-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3043",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led Rectangulaire 2x5x7mm",
+     "description": "Led Rectangulaire 2x5x7mm\n\nLed Rectangulaire 2x5x7mm, 5 couleurs: rouge, bleu, jaune, vert, blanc. Une LED se caractérise principalement par 3 grandeurs :\n\n– la chute de tension directe Vf aux bornes de la LED pour un courant I de 20 mA.\n\n– l’intensité lumineuse Iv qui s’exprime en mcd (millicandela).\n\n– l’angle de rayonnement par rapport à l’axe optique, en degrés.\n\nRaccordement : la résistance à insérer en série avec une led se calcule par la loi d’Ohm :\n\nR = (Vcc – Vf) / I\n\nR s’exprime en Ohms\n\nVcc et Vf s’expriment en Volts\n\nI s’exprime en Ampères\n\nCouleur\n   Vf\nLambda\n\n Rouge\n 1,6 V\n 660 nm\n\n Orange\n 2,0 V\n 625 nm\n\n Jaune\n 2,4 V\n 590 nm\n\n Verte\n 2,4 V\n 565 nm\n\n Bleue\n 3,0 V\n 470 nm\n\n Blanche\n 3,5 V\n\nMots clés: light, rectangular.",
+     "short_description": "Led Rectangulaire 2x5x7mm, 5 couleurs: rouge, bleu, jaune, vert, blanc."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/289-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3048",
+   "price": 0.4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 3mm",
+     "description": "Led 3mm\n\nLed 3mm 5 couleurs: rouge, bleu, jaune, vert, orange. Une LED se caractérise principalement par 3 grandeurs :\n\n– la chute de tension directe Vf aux bornes de la LED pour un courant I de 20 mA.\n\n– l’intensité lumineuse Iv qui s’exprime en mcd (millicandela).\n\n– l’angle de rayonnement par rapport à l’axe optique, en degrés.\n\nRaccordement : la résistance à insérer en série avec une led se calcule par la loi d’Ohm :\n\nR = (Vcc – Vf) / I\n\nR s’exprime en Ohms\n\nVcc et Vf s’expriment en Volts\n\nI s’exprime en Ampères\n\nCouleur\n   Vf\nLambda\n\n Rouge\n 1,6 V\n 660 nm\n\n Orange\n 2,0 V\n 625 nm\n\n Jaune\n 2,4 V\n 590 nm\n\n Verte\n 2,4 V\n 565 nm\n\n Bleue\n 3,0 V\n 470 nm\n\n Blanche\n 3,5 V\n\nMots clés: light.",
+     "short_description": "Led 3mm 5 couleurs: rouge, bleu, jaune, vert, orange."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/290-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3053",
+   "price": 0.4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 3mm Transparent",
+     "description": "Led 3mm Transparent\n\nLed 3mm Transparent 5 couleurs: rouge, bleu, jaune, vert, blanc. Une LED se caractérise principalement par 3 grandeurs :\n\n– la chute de tension directe Vf aux bornes de la LED pour un courant I de 20 mA.\n\n– l’intensité lumineuse Iv qui s’exprime en mcd (millicandela).\n\n– l’angle de rayonnement par rapport à l’axe optique, en degrés.\n\nRaccordement : la résistance à insérer en série avec une led se calcule par la loi d’Ohm :\n\nR = (Vcc – Vf) / I\n\nR s’exprime en Ohms\n\nVcc et Vf s’expriment en Volts\n\nI s’exprime en Ampères\n\nCouleur\n   Vf\nLambda\n\n Rouge\n 1,6 V\n 660 nm\n\n Orange\n 2,0 V\n 625 nm\n\n Jaune\n 2,4 V\n 590 nm\n\n Verte\n 2,4 V\n 565 nm\n\n Bleue\n 3,0 V\n 470 nm\n\n Blanche\n 3,5 V\n\nMots clés: light.",
+     "short_description": "Led 3mm Transparent 5 couleurs: rouge, bleu, jaune, vert, blanc."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/291-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3061",
+   "price": 0.6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 5mm",
+     "description": "Led 5mm\n\nLed 5mm 5 couleurs: rouge, bleu, jaune, vert, orange. Une LED se caractérise principalement par 3 grandeurs :\n\n– la chute de tension directe Vf aux bornes de la LED pour un courant I de 20 mA.\n\n– l’intensité lumineuse Iv qui s’exprime en mcd (millicandela).\n\n– l’angle de rayonnement par rapport à l’axe optique, en degrés.\n\nRaccordement : la résistance à insérer en série avec une led se calcule par la loi d’Ohm :\n\nR = (Vcc – Vf) / I\n\nR s’exprime en Ohms\n\nVcc et Vf s’expriment en Volts\n\nI s’exprime en Ampères\n\nCouleur\n   Vf\nLambda\n\n Rouge\n 1,6 V\n 660 nm\n\n Orange\n 2,0 V\n 625 nm\n\n Jaune\n 2,4 V\n 590 nm\n\n Verte\n 2,4 V\n 565 nm\n\n Bleue\n 3,0 V\n 470 nm\n\n Blanche\n 3,5 V\n\nMots clés: light.",
+     "short_description": "Led 5mm 5 couleurs: rouge, bleu, jaune, vert, orange."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/292-2.png"
+   ]
+  }
+ ]
+}

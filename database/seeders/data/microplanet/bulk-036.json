@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-35134",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "A2212/13T 1000KV Moteur brushless",
+     "description": "A2212/13T 1000KV Moteur brushless\n\nIl s’agit d’un moteur brushless A2212 spécialement conçu pour alimenter les quadricoptères (drones) et les multirotors. C’est un moteur 1000kV. Il offre des performances élevées, une super puissance et une efficacité. Ces moteurs sont parfaits pour les quadricoptères de taille moyenne avec des hélices de 8 pouces à 10 pouces. Avec l’ESC 30A et les hélices 10″ à haut rendement, ces moteurs fournissent jusqu’à 800 g. L’utilisation de 4 de ces moteurs sur un quadricoptère avec les hélices vous donnera un total de 3,2 kg de poussée !\n\nSpécifications:\n\nKv: 1000 RPM / V\n\nEfficacité maximale: 80%\n\nMax efficacité actuelle: 4 – 10A (> 75%)\n\nCourant à vide: 0.5A @ 10V\n\nRésistance: 0.090 Ohm\n\nCourant max: 12A pendant 60s\n\nMax Watts: 150W\n\nPoids: 51g\n\nTaille: 28 mm de diamètre x 28 mm de longueur cloche\n\nlongeur total : 40mmm\n\nDiamètre de l arbre: 3,2 mm\n\nPôles: 14\n\nMots clés: motor, quadcopter, drone.",
+     "short_description": "Il s’agit d’un moteur brushless A2212 spécialement conçu pour alimenter les quadricoptères (drones) et les multirotors. C’est un moteur 1000kV."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0334.png"
+   ]
+  },
+  {
+   "sku": "microplanet-26295",
+   "price": 290,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "A2212 1000Kv Moteur brushless + ESC 30A + Hélices 1045",
+     "description": "A2212 1000Kv Moteur brushless + ESC 30A + 1 Paire 1045 Hélice DJI F450 550 Quadcopter\n\nIl s’agit d’un moteur brushless A2212 spécialement conçu pour alimenter les quadricoptères (drones) et les multirotors. C’est un moteur 1000kV. Il offre des performances élevées, une super puissance et une efficacité. Ces moteurs sont parfaits pour les quadricoptères de taille moyenne avec des hélices de 8 pouces à 10 pouces. Avec l’ESC 30A et les hélices 10″ à haut rendement, ces moteurs fournissent jusqu’à 800 g. L’utilisation de 4 de ces moteurs sur un quadricoptère avec les hélices vous donnera un total de 3,2 kg de poussée !\n\nCaractéristiques: Moteur\n\nCourant à vide : 10 V : 0,5 A.\n\nCapacité actuelle : 12 A/60 s\n\nCourant à vide à 10 V : 0,5 A\n\nEfficacité maximale : 80 %\n\nCourant d’efficacité maximum : 4-10 A (> 75 %)\n\nPoids : 47 g/ensemble\n\nNombre de cellules : 2-3 Li-Poly\n\nDimensions du moteur : 27,5 x 30 mm\n\nDiamètre de l’arbre : 934 ; 3,17 mm\n\nDiamètre de la tige : 3,175 mm.\n\nSpécification minimale de l’ESC : 18 A (30 A suggéré)\n\nPoussée @ 3S avec hélice 1045 : 800 g environ\n\nCaractéristiques: ESC 30A\n\n30A : un instant 45A, 40A continu 10 secondes\n\nTaille : 30A-45 X 24 X 8 mm\n\nplage de tension : 5,5 V-12 V\n\nnuméro de batterie : 4-12 NIMH 2-3LIPO (4LIPO BEC ne permet pas l’utilisation de la sortie)\n\nSortie BEC : 30A, stressée : 5 V 3A. 2 Micro-boîtier de direction LIPO 4-5 3 Micro-boîtier de direction LIPO 3-4 /\n\nProtection : sélection automatique 2-3 LIPO où la tension protégée est de 6 V/9 V ; automatiquement élu NIMH, chaque tension protégée est de 0,8 V ;\n\nsécurité démarrée, la position de l’accélérateur n’interdit pas la protection de la température démarrée, la température de surface de 110 degrés de temps d’arrêt; hors de contrôle\n\nprotection, sans signal une seconde après l’arrêt.\n\nDescription de la propriété : limite de vitesse, dans un 2 à aussi élevé que 300 000 à 12 à 50 000, à un très, très étranger aux 14 à 42 000. Contrôle PWM 8KHz,\n\nl’utilisation de la courbe de contrôle de la vitesse. S’adapte automatiquement à l’accélérateur, plus adapté aux appareils de contrôle à distance.\n\nL’utilisation de BEC, alimentation séparée MCU, un travail plus stable.\n\nMots clés: motor, quadcopter, drone, propeller.",
+     "short_description": "Il s’agit d’un moteur brushless A2212 spécialement conçu pour alimenter les quadricoptères (drones) et les multirotors. C’est un moteur 1000kV."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/07/0334-GRP.png"
+   ]
+  },
+  {
+   "sku": "microplanet-19052",
+   "price": 170,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Nema17 Moteur Pas à pas 48mm",
+     "description": "Nema17 Moteur Pas à pas\n\nLe moteur pas à pas NEMA17 est le moteur le plus populaire utilisé pour construire des imprimantes 3D, des fraiseuses, des traceurs et d’autres appareils à commande électronique.\n\nVitesse initiale élevée\n\nObtenez des mouvements angulaires précis.\n\nLa facilité d’utilisation rend le moteur pratique à utiliser.\n\nModéle: 48mm 17HS8401\n\nDimensions: 42 mm x 42 mm x 48 mm (L x P x H)\n\nDiamètre de l’arbre du moteur: 5 mm\n\nAngle de pas: 1,8 degrés\n\nRésistance / phase: 1,8Ω\n\nTension: 3.1V\n\nCourant / phase: 1,7 A\n\nInductance / phase: 3.2 mH\n\nCouple de maintien: 0,52 N.m\n\nPoids: 0,35 kg\n\nMots clés: motor, stepper, nema, cnc.",
+     "short_description": "Le moteur pas à pas NEMA17 est le moteur le plus populaire utilisé pour construire des imprimantes 3D, des fraiseuses, des traceurs et d’autres appareils à commande électronique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/11/336-6.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10649",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TB6600 Driver Moteur Pas à pas 4A",
+     "description": "Driver Moteur Pas à pas TB6600 4A\n\nLe pilote de moteur pas à pas TB6600 est un pilote professionnel facile à utiliser, qui peut commander un moteur pas à pas à deux phases. Il est compatible avec Arduino et d’autres microcontrôleurs pouvant émettre un signal d’impulsion numérique de 5V. Il dispose d’une entrée de tension étendue, d’une alimentation 9 ~ 42VDC. Et il est capable de produire un courant de créte de 4A, ce qui est suffisant pour la plupart des moteurs pas à pas.\n\nLe pilote pas à pas prend en charge le contrôle de la vitesse et de la direction. Vous pouvez régler son micro-pas et son courant de sortie avec 6 commutateurs DIP. Il existe 7 types de micro-étapes (1, 2 / A, 2 / B, 4, 8, 16, 32) et 8 types de contrôle de courant (0.5A, 1A, 1.5A, 2A, 2.5A, 2.8A, 3.0 A, 3,5A) en tout. Et tous les terminaux de signaux adoptent une isolation par optocoupleur à haute vitesse, renforçant ainsi sa capacité de brouillage anti-haute fréquence.\n\nEn tant que dispositif professionnel, il est capable de piloter un moteur pas à pas hybride biphasé, quadriphasé de type 42, de type 42.\n\nCourant d’entrée: 0 ~ 5A\n\nCourant de sortie: 0.5 ~ 4.0A\n\nSignal de commande: 3.3 ~ 24V\n\nPuissance (MAX): 160W\n\nMicro Step: 1, 2 / A, 2 / B, 4, 8, 16, 32\n\nSemi-débit automatique pour réduire la chaleur\n\nDissipateur thermique grande surface\n\nProtection anti-retour d’entrée\n\nProtection contre la surchauffe, les surintensités et les courts-circuits\n\nTempérature: -10 à 45\n\nHumidité: pas de condensation\n\nPoids: 0,2 kg\n\nDimension: 96 * 71 * 37 mm",
+     "short_description": "Le pilote de moteur pas à pas TB6600 est un pilote professionnel facile à utiliser, qui peut commander un moteur pas à pas à deux phases. Il est compatible avec Arduino et d’autres microcontrôleurs pouvant émettre un signal d’impulsion numérique de 5V. Il dispose d’une entrée de tension étendue, d’une alimentation 9 ~ 42VDC. Et il est capable de produire un courant de créte de 4A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/337-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/337-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7170",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Driver Moteur Pas à pas DRV8825 Pour CNC",
+     "description": "Driver Moteur Pas à pas DRV8825 Pour CNC\n\nLe stepstick DRV8825 est une carte opto-isolée pour le Texas Instruments DRV8825, contrôleur de moteur pas à pas. Vous pouvez utiliser ce module pour agir comme interface entre votre microcontrôleur et moteur pas à pas.\n\nLe DRV8825 est capable de délivrer jusqu’à 2,5 A et peut être contrôlé avec une simple interface étape / direction. Le contrôleur a un résolution de min. 1/32 pas et fonctions de protection pour surintensité, court-circuit et surchauffe. Voir la fiche technique pour plus de détails .\n\nLe DRV8825 remplace le A4988. Le but est que le DRV8825 soit un remplacement instantané pour le A4988.\n\nCaractéristiques:\n\nTension de fonctionnement (logic): 3-5.25V\n\nTension de fonctionnement (vmot): 12-24V\n\nCourant Max: 2.5A\n\nSix résolutions différentes: pleine, 1/2, 1/4, 1/8 ,1/16, 1/32.\n\nUne interface simple de commande des étapes et de la direction.\n\nLe potentiomètre réglable peut ajuster le courant de sortie maximum, résultant en un taux de pas plus élevé.\n\nDétection / sélection automatique du mode de déclin.\n\nCircuit d’arrêt thermique, verrouillage à minimum de tension, protection contre les courants de croisement.\n\nProtection contre les courts-circuits à la terre et protection contre les courts-circuits de la charge.\n\nDimensions 20.4×15.6mm\n\nAvertissements de sécurité:\n\nToujours débrancher la source d’alimentation de la carte avant de débrancher le moteur pas à pas et / ou réglage du courant. Ne pas le faire peut entraîner dommages permanents au module.\n\nIl est recommandé de conduire le moteur pas à pas avec un courant aussi bas que possible pour réduire la consommation d’énergie et augmenter la durée de vie.\n\nFiche technique\n\nMots clés: motor, 3d printer.",
+     "short_description": "Le stepstick DRV8825 est une carte opto-isolée pour le Texas Instruments DRV8825, contrôleur de moteur pas à pas. Vous pouvez utiliser ce module pour agir comme interface entre votre microcontrôleur et moteur pas à pas."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/338-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/338-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3078",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moteur Pas à pas 5V 28BYJ-48",
+     "description": "Moteur Pas à pas 5V 28BYJ-48\n\nMoteur pas à pas unipolaire à 4 enroulements avec réducteur. Pour applications diverses telles que équipement de bureau, robotique, automation, etc.\n\nAlimentation : 5 Vcc\n\nRésistance: 50 ohms\n\nIntensité: 25 mA\n\nRéduction: 1/64\n\nNombre de pas: 64 (réduction de 4096 en sortie d’axe)\n\nCouple: 340 gf.cm\n\nNiveau sonore: 40 dB.\n\nEntraxe de fixation: 35 mm\n\nAxe: Ø5 mm avec double méplat (épaisseur 3 mm)\n\nLongueur de l’axe: 8 mm\n\nMots clés: motor, stepper.",
+     "short_description": "Moteur pas-à-pas unipolaire à 4 enroulements avec réducteur. Pour applications diverses telles que équipement de bureau, robotique, automation, etc.\n\nAlimentation : 5 Vcc\n\nRésistance: 50 ohms\n\nIntensité: 25 mA\n\nRéduction: 1/64\n\nNombre de pas: 64 (réduction de 4096 en sortie d’axe)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/339-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3080",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moteur Pas à pas 12V 28BYJ-48",
+     "description": "⚙️ Moteur Pas à Pas 28BYJ-48 12 V avec Réducteur — Positionnement précis pour Arduino\n\nLe 28BYJ-48 12 V est un moteur pas à pas unipolaire compact équipé d’un réducteur mécanique. Il permet de contrôler précisément la position, la vitesse et le sens de rotation dans les projets d’automatisation, de robotique et de prototypage.\n\nGrâce à son connecteur à cinq fils, il peut être associé facilement à un driver ULN2003A et commandé par Arduino, ESP32, Raspberry Pi Pico ou un autre microcontrôleur.\n\n✨ Points forts\n\n⚙️ Déplacement précis, étape par étape\n\n🔋 Fonctionnement sous 12 V DC\n\n🔄 Rotation dans les deux sens\n\n🧩 Réducteur mécanique intégré\n\n🎯 Bon maintien de position à l’arrêt\n\n🔌 Connecteur femelle à cinq fils\n\n🤖 Compatible avec Arduino et autres microcontrôleurs\n\n📏 Format compact et facile à intégrer\n\n🔇 Fonctionnement relativement silencieux\n\n🔧 Caractéristiques techniques\n\nModèle : 28BYJ-48\n\nType : moteur pas à pas unipolaire\n\nTension nominale : 12 V DC\n\nNombre de phases : 4\n\nNombre de fils : 5\n\nRésistance d’enroulement indicative : 200 Ω ±7 % à 25 °C\n\nRapport de réduction nominal : environ 1:64\n\nAngle de pas indiqué : 5,625°/64\n\nNombre de demi-pas par tour de sortie : environ 4096\n\nFréquence nominale indicative : 100 Hz\n\nCouple indicatif : environ 450 gf·cm\n\nNiveau sonore indicatif : jusqu’à environ 35 dB\n\nConnecteur : femelle 5 broches compatible ULN2003\n\nSens de rotation : horaire et antihoraire\n\nLes valeurs de couple, de réduction et de nombre de pas peuvent légèrement varier selon le fabricant et le lot.\n\n🧠 Comment fonctionne un moteur pas à pas ?\n\nContrairement à un moteur DC classique, le 28BYJ-48 ne tourne pas simplement lorsqu’il reçoit une tension continue. Ses quatre enroulements doivent être alimentés successivement selon une séquence précise.\n\nChaque changement de séquence fait avancer le rotor d’un petit angle. Le réducteur mécanique diminue ensuite la vitesse et augmente le couple disponible sur l’axe de sortie.\n\nLe microcontrôleur génère la séquence, tandis que le driver ULN2003A fournit le courant nécessaire aux bobines.\n\n📊 Moteur pas à pas ou moteur DC classique ?\n\nCritère\nMoteur DC\n28BYJ-48\n\nContrôle de position\nDifficile sans encodeur\n✅ Précis par comptage des pas\n\nRéglage de la vitesse\nPar PWM\n✅ Par fréquence des pas\n\nMaintien de position\n❌ Non\n✅ Oui, lorsqu’il est alimenté\n\nRéducteur intégré\nSelon le modèle\n✅ Oui\n\nCommande électronique\nPont en H ou transistor\nULN2003 recommandé\n\nRotation continue rapide\n✅ Adaptée\nPlus lente\n\nPetits mécanismes précis\nPossible\n✅ Très adapté\n\n🔌 Driver nécessaire\n\nLe moteur ne doit pas être branché directement sur les broches d’un Arduino. Les sorties du microcontrôleur ne peuvent pas fournir le courant nécessaire aux enroulements.\n\nUtilisez une carte ULN2003A, qui intègre :\n\nQuatre canaux de commande pour les phases\n\nDes transistors de puissance\n\nDes diodes de protection contre les tensions inductives\n\nDes LED indiquant l’activation des bobines\n\nUn connecteur adapté au moteur 28BYJ-48\n\n⚠️ Le driver ULN2003A n’est pas inclus avec cette fiche du moteur seul, sauf indication contraire dans l’offre sélectionnée.\n\n🧰 Matériel nécessaire pour le tutoriel\n\n1 × Arduino Uno ou Nano\n\n1 × moteur 28BYJ-48 12 V\n\n1 × driver ULN2003A\n\n1 × alimentation externe 12 V DC\n\nFils de connexion\n\nBibliothèque Arduino AccelStepper\n\n🔧 Branchement avec Arduino et ULN2003A\n\nULN2003A\nArduino / alimentation\n\nIN1\nD8\n\nIN2\nD9\n\nIN3\nD10\n\nIN4\nD11\n\n+\nPositif de l’alimentation 12 V\n\n–\nNégatif de l’alimentation 12 V\n\nConnecteur moteur\nConnecteur 5 fils du 28BYJ-48\n\nReliez également le GND de l’Arduino au négatif de l’alimentation 12 V afin d’obtenir une masse commune.\n\n⚠️ Ne branchez jamais le 12 V sur la broche 5 V de l’Arduino et n’alimentez pas le moteur depuis cette broche.\n\n💻 Code Arduino — Un tour dans chaque sens\n\nInstallez la bibliothèque AccelStepper depuis le gestionnaire de bibliothèques de l’Arduino IDE.\n\n#include <AccelStepper.h>\r\n\n// Ordre adapté au 28BYJ-48 avec ULN2003 :\r\n// IN1, IN3, IN2, IN4\r\nAccelStepper moteur(\r\n AccelStepper::HALF4WIRE,\r\n 8, 10, 9, 11\r\n);\r\n\nconst long demiPasParTour = 4096;\r\n\nvoid setup() {\r\n moteur.setMaxSpeed(600);\r\n moteur.setAcceleration(200);\r\n moteur.moveTo(demiPasParTour);\r\n}\r\n\nvoid loop() {\r\n moteur.run();\r\n\n if (moteur.distanceToGo() == 0) {\r\n delay(500);\r\n\n // Inverser la destination à chaque arrivée\r\n moteur.moveTo(-moteur.currentPosition());\r\n }\r\n}\nCe programme effectue environ un tour dans un sens, marque une courte pause, puis revient dans le sens opposé.\n\n📐 Précision du nombre de pas\n\nLa valeur 4096 demi-pas par tour est une approximation couramment utilisée. Selon la construction exacte du réducteur, le rapport réel peut être légèrement différent de 64:1.\n\nPour une application exigeant un positionnement angulaire très précis :\n\nCommandez plusieurs tours complets.\n\nMesurez l’erreur obtenue.\n\nAjustez la constante demiPasParTour.\n\nAjoutez un capteur de référence ou un fin de course pour retrouver la position initiale.\n\n⚠️ Conseils d’utilisation\n\nUtilisez uniquement une alimentation adaptée à la version 12 V.\n\nNe confondez pas ce modèle avec le 28BYJ-48 de 5 V.\n\nNe bloquez pas l’axe pendant que le moteur est alimenté.\n\nRéduisez la vitesse si le moteur perd des pas ou vibre sans tourner.\n\nUtilisez une accélération progressive lorsque la charge est importante.\n\nDébranchez l’alimentation avant de modifier le câblage.\n\nÉvitez de maintenir inutilement les bobines alimentées afin de limiter l’échauffement.\n\n🎯 Applications principales\n\n🤖 Petits robots et mécanismes automatisés\n\n🌬️ Positionnement de volets et clapets\n\n📷 Plateformes rotatives pour caméra\n\n🔬 Instruments et dispositifs de laboratoire\n\n🏠 Systèmes domotiques\n\n📡 Orientation de capteurs et d’antennes légères\n\n💧 Petites vannes et distributeurs\n\n🖨️ Mécanismes d’entraînement\n\n🪟 Contrôle de stores et d’aérations\n\n🎓 Projets éducatifs Arduino\n\nMots clés: motor, stepper.",
+     "short_description": "Moteur pas à pas 28BYJ-48 12 V avec réducteur intégré, idéal pour le positionnement précis, la robotique et les projets Arduino."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/340-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3081",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ULN2003A Driver Moteur Pas à pas",
+     "description": "Driver Moteur Pas à pas ULN2003A\n\nUn driver moteur pas à pas basé sur un ULN2003A permettant de contrôler directement le moteur avec un microcontrôleur (ex: Arduino) sans interface de puissance. Pour applications diverses telles que équipement de bureau, robotique, automation, etc.\n\nRated Voltage: DC5V-12V\n\nBoard Size: Approx. 40×21 mm\n\nMots clés: motor, stepper.",
+     "short_description": "Un driver moteur pas à pas basé sur un ULN2003A permettant de contrôler directement le moteur avec un microcontrôleur (ex: Arduino) sans interface de puissance. Pour applications diverses telles que équipement de bureau, robotique, automation, etc.\n\nRated Voltage: DC5V-12V\n\nBoard Size: Approx. 40×21 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/341-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3083",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moteur Pas à pas 5V 28BYJ-48 + Driver",
+     "description": "Moteur Pas à pas 5V 28BYJ-48 + Driver\n\nMoteur pas-à-pas 28BYJ-48 unipolaire à 4 enroulements avec réducteur et driver basé sur un ULN2003A permettant de contrôler directement le moteur avec un microcontrôleur (ex: Arduino) sans interface de puissance. Pour applications diverses telles que équipement de bureau, robotique, automation, etc.\n\nAlimentation : 5 Vcc\n\nRésistance: 50 ohms\n\nIntensité: 25 mA\n\nRéduction: 1/64\n\nNombre de pas: 64 (réduction de 4096 en sortie d’axe)\n\nCouple: 340 gf.cm\n\nNiveau sonore: 40 dB.\n\nEntraxe de fixation: 35 mm\n\nAxe: Ø5 mm avec double méplat (épaisseur 3 mm)\n\nLongueur de l’axe: 8 mm\n\nMots clés: motor, stepper.",
+     "short_description": "Moteur pas-à-pas unipolaire à 4 enroulements avec réducteur et driver basé sur un ULN2003A permettant de contrôler directement le moteur avec un microcontrôleur (ex: Arduino) sans interface de puissance. Pour applications diverses telles que équipement de bureau, robotique, automation, etc.\n\nAlimentation : 5 Vcc\n\nRésistance: 50 ohms\n\nIntensité: 25 mA\n\nRéduction: 1/64\n\nNombre de pas: 64 (réduction de 4096 en sortie d’axe)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/342-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3084",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Moteur Pas à pas 12V 28BYJ-48 + Driver",
+     "description": "Moteur Pas à pas 12V 28BYJ-48 + Driver\n\nMoteur pas-à-pas unipolaire à 4 enroulements avec réducteur et driver basé sur un ULN2003A permettant de contrôler directement le moteur avec un microcontrôleur (ex: Arduino) sans interface de puissance. Pour applications diverses telles que équipement de bureau, robotique, automation, etc.\n\nAlimentation : 12 Vcc\n\nRésistance: 200Ω ±7%(25℃)\n\nRéduction: 1/64\n\nAngle: 5.625° /64\n\nFréquence: 100Hz\n\nFréquence de traction inactive: > 600Hz, fréquence de sortie hors traction: > 1000 Hz\n\nCouple: 450 gf.cm\n\nNiveau sonore: 35 dB.\n\nMots clés: motor, stepper.",
+     "short_description": "Moteur pas-à-pas unipolaire à 4 enroulements avec réducteur et driver basé sur un ULN2003A permettant de contrôler directement le moteur avec un microcontrôleur (ex: Arduino) sans interface de puissance. Pour applications diverses telles que équipement de bureau, robotique, automation, etc.\n\nAlimentation : 12 Vcc\n\nRésistance: 200Ω ±7%(25℃)\n\nRéduction: 1/64\n\nAngle: 5.625° /64\n\nFréquence: 100Hz"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/343-1.png"
+   ]
+  }
+ ]
+}

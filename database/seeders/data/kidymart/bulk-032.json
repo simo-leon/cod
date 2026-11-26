@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-2029",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°117 MAX ET LILI ONT PEUR DE PARLER EN PUBLIC",
+     "description": "Max et Lili ont peur de parler en public (N°117) est un livre qui aborde la glossophobie ou l’anxiété liée à la prise de parole devant un groupe. L’histoire explore les sentiments de trac et de peur du jugement que les enfants peuvent ressentir. Ce livre est conçu pour dédramatiser cette peur, offrir des conseils pratiques et encourager l’enfant à s’exercer et à prendre confiance en ses capacités de communication orale.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la peur de parler en public (glossophobie). Dédramatise l’anxiété et donne des conseils pour la communication orale."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884807821-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2027",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°113 MAX EN A MARRE DE SA SŒUR",
+     "description": "Max en a marre de sa sœur (N°113) est un livre qui aborde les inévitables conflits de la fratrie et la difficulté de la cohabitation. L’histoire explore les sentiments de Max face aux disputes, à l’agacement et à la jalousie envers sa sœur. Ce livre est un excellent outil pour normaliser les tensions entre frères et sœurs, tout en soulignant l’importance de l’amour fraternel et de l’apprentissage des compromis pour maintenir une bonne entente familiale.\n\nFavoris",
+     "short_description": "Livre pour enfants sur les conflits de la fratrie, l’agacement et la jalousie. Normalise les tensions et encourage l’amour fraternel."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884807531-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2026",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°111 MAX SE TROUVE TROP PETIT",
+     "description": "Max se trouve trop petit (N°111) est un ouvrage qui se penche sur le sentiment d’infériorité et les frustrations liées à la taille ou à l’âge chez l’enfant. Max est confronté aux limites de ce qu’il peut faire ou obtenir. Ce livre a pour objectif de valoriser le fait d’être petit, en mettant en lumière les avantages de sa taille et le développement de ses propres talents. Il encourage l’enfant à s’accepter tel qu’il est et à grandir à son propre rythme.\n\nFavoris",
+     "short_description": "Livre pour enfants sur les sentiments d’infériorité liés à la taille ou à l’âge. Encourage l’acceptation de soi et la valorisation de ses propres talents."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884807111-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2025",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°109 MAX ET LILI ONT PEUR DES IMAGES VIOLENTES",
+     "description": "Max et Lili ont peur des images violentes (N°109) est un livre qui aborde l’impact émotionnel de la violence médiatique sur les enfants. L’histoire explore les peurs et les cauchemars générés par ces images, soulignant l’importance d’un cadre protecteur et du dialogue. Ce livre est un outil essentiel pour aider les parents à filtrer l’information, à rassurer l’enfant sur la distance entre fiction et réalité, et à développer une pensée critique face aux médias.\n\nFavoris",
+     "short_description": "Livre pour enfants sur l’impact des images violentes des médias. Aide à rassurer, filtrer l’information et développer la pensée critique."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884807074-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2024",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°108 MAX ET LILI VONT CHEZ PAPY ET MAMY",
+     "description": "Max et Lili vont chez Papy et Mamy (N°108) est un ouvrage qui se penche sur la relation privilégiée entre les enfants et leurs grands-parents. Le livre explore les joies, les différences de règles et les moments spéciaux vécus pendant ces visites. C’est un excellent outil pour aborder les liens intergénérationnels, l’amour de la famille, et pour préparer l’enfant à passer du temps loin de ses parents, renforçant ainsi son autonomie.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la relation privilégiée avec les grands-parents. Aborde les liens intergénérationnels, l’autonomie et les visites."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884806954-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2021",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°96 MAX VEUT SAUVER LES ANIMAUX",
+     "description": "Max veut sauver les animaux (N°96) est un livre qui aborde la thématique de la protection animale et de la sensibilité écologique chez l’enfant. L’histoire explore l’empathie de Max pour les animaux en danger, que ce soit domestiques ou sauvages. L’ouvrage est conçu pour sensibiliser le jeune lecteur au respect du vivant, à la biodiversité et aux actions concrètes qu’il est possible d’entreprendre à son échelle pour contribuer à la cause animale.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la protection animale et l’écologie. Sensibilise au respect du vivant et encourage les actions concrètes."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884805933-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2020",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°93 MAX ET LILI VEULENT ÉDUQUER LEURS PARENTS",
+     "description": "Max et Lili veulent éduquer leurs parents (N°93) est un ouvrage qui aborde avec humour et finesse la relation enfants-parents du point de vue des enfants. Le livre explore les moments où Max et Lili trouvent leurs parents injustes, incohérents ou trop exigeants. Il permet d’ouvrir une discussion constructive sur les règles de la maison, la communication et le fait que les parents, eux aussi, peuvent faire des erreurs. C’est un excellent outil pour améliorer les échanges familiaux.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la relation enfants-parents. Aborde avec humour les règles, la communication et les frustrations face aux parents."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884805711-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2019",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°89 MAX DÉCIDE DE FAIRE DES EFFORTS",
+     "description": "Max décide de faire des efforts (N°89) est un livre qui explore le thème de la volonté et de la persévérance face à la difficulté ou la paresse. L’histoire suit Max qui réalise l’importance de s’impliquer davantage, que ce soit à l’école ou dans les tâches. Ce livre est un excellent support pour encourager l’enfant à sortir de sa zone de confort, à ne pas baisser les bras devant l’obstacle et à comprendre que les résultats découlent directement des efforts fournis.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la volonté, la persévérance et l’importance de l’effort dans la réussite. Encourage l’enfant à s’impliquer."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884805315-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2018",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°86 MAX SE POSE DES QUESTIONS",
+     "description": "Max se pose des questions (N°86) est un ouvrage qui met en lumière la curiosité et le besoin de comprendre le monde chez l’enfant. Le livre aborde la multitude de questions existentielles, pratiques ou complexes que Max peut se poser. Il encourage le dialogue avec l’adulte, la recherche d’informations et la pensée critique. C’est un outil précieux pour valider les interrogations de l’enfant et l’accompagner dans sa quête de savoir.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la curiosité et le besoin de comprendre le monde. Encourage le dialogue, la recherche et la pensée critique."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884804738-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2017",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°81 MAX SE TROUVE NUL",
+     "description": "Max se trouve nul (N°81) est un livre qui aborde la question de la dévalorisation et du manque d’estime de soi chez l’enfant. L’histoire explore les situations où Max se sent incapable, en échec ou moins bien que les autres. Ce livre vise à dédramatiser l’échec, à montrer à l’enfant que chacun a ses propres talents et à l’aider à prendre conscience de ses qualités. C’est un support essentiel pour renforcer la confiance en soi et apprendre à s’accepter positivement.\n\nFavoris",
+     "short_description": "Livre pour enfants sur le manque d’estime de soi et la dévalorisation. Aide à dédramatiser l’échec et à renforcer la confiance en ses qualités."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884803625-1.jpg"
+   ]
+  }
+ ]
+}

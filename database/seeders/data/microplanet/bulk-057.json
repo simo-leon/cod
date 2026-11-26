@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-42715",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SR5150 Diode Schottky 5A 150V",
+     "description": "SR5150 Diode Schottky 5A 150V\n\nLa SR5150 est une diode à barrière Schottky offrant un faible VF, une commutation rapide et une forte capacité de pointe, idéale pour les circuits de redressement et de protection.\n\n🔧 Caractéristiques techniques\n\nCourant continu moyen IF(AV) : 5 A\n\nTension inverse répétitive VRRM : 150 V\n\nChute de tension directe VF [max] : 0,9 V @ IF=5 A\n\nCourant de fuite inverse IR : 10 µA max. @ VR=150 V\n\nCourant de pointe non répétitif IFSM : 150 A (demi-onde 8,3 ms)\n\nTemps de récupération inverse : < 200 ns\n\nTempérature de jonction TJ : –55 °C à +150 °C\n\nPackage : DO-201AD axial, plastique UL94V-0\n\n💡 Applications typiques\n\nRedressement haute fréquence dans alimentations à découpage\n\nDiode de roue libre pour moteurs et inductances\n\nProtection anti-inversion de polarité\n\nSuppression des pointes de tension et filtrage EMI\n\nPonts de diodes et modules de redressement\n\n🛠️ Brochage / Connexions\n\nBroche\nFonction\n\nAnode (sans bague)\nEntrée de courant (– vers la source)\n\nCathode (avec bague)\nSortie redressée (+ vers la charge)\n\nPour un usage optimal, montez l’anode vers la source AC/DC et la cathode vers la charge ou le rail positif en respectant la polarité.",
+     "short_description": "La SR5150 est une diode à barrière Schottky offrant un faible VF, une commutation rapide et une forte capacité de pointe."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/725-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6533",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2N2907 Transistor PNP To-92 0.6A 60V",
+     "description": "Transistor PNP To-92 2N2907 0.6A 60V\n\nTransistor PNP To-92 2N2907 0.6A 60V.\n\nFiche technique",
+     "short_description": "Transistor PNP To-92 2N2907 0.6A 60V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/726-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6531",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2N3904 Transistor NPN To-92 0.2A 60V",
+     "description": "Transistor NPN To-92 2N3904 0.2A 60V\n\nTransistor NPN To-92 2N3904 0.2A 60V.\n\nFiche technique",
+     "short_description": "Transistor NPN To-92 2N3904 0.2A 60V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/727-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6529",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC548 Transistor NPN To-92 0.1A 30V",
+     "description": "Transistor NPN To-92 BC548 0.1A 30V\n\nTransistor NPN To-92  BC548 0.1A 30V.\n\nFiche technique",
+     "short_description": "Transistor NPN To-92  BC548 0.1A 30V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/728-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-12083",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC549 Transistor NPN To-92 0.1A 30V",
+     "description": "Transistor NPN To-92 BC549 0.1A 30V\n\nTransistor NPN To-92 BC549 0.1A 30V.\n\nFiche technique",
+     "short_description": "Transistor NPN To-92 BC549 0.1A 30V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/728-A-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5958",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2N2222A Transistor NPN To-92 0.8A 50V",
+     "description": "Transistor NPN To-92 2N2222A 0.8A 50V\n\nTransistor NPN To-92 2N2222A 0.8A 50V.\n\nFche technique",
+     "short_description": "Transistor NPN To-92 2N2222A 0.8A 50V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/729-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20816",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BS170 Transistor Mosfet à Canal N 60V 0.5A",
+     "description": "BS170 Transistor Mosfet à Canal N 60V 0.5A\n\nLe BS170 est un transistor Mosfet à canal N produit à l’aide de la technologie DMOS à haute densité de cellules. Ce processus à très haute densité a été conçu pour minimiser la résistance à l’état passant tout en offrant des performances de commutation robustes, fiables et rapides. Il peut être utilisé dans la plupart des applications nécessitant jusqu’à 500 mA CC. Il convient également aux applications à basse tension et à faible courant telles que la commande de petits servomoteurs, les pilotes de grille MOSFET de puissance et d’autres applications de commutation.\n\nFiche technique",
+     "short_description": "Le BS170 est un transistor Mosfet à canal N produit à l’aide de la technologie DMOS à haute densité de cellules."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/729-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24404",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BS250 Transistor Mosfet à Canal P 45V 0.23A",
+     "description": "BS250 Transistor Mosfet à Canal P 45V 0.23A\n\nBS250 Transistor Mosfet à Canal P TO-92 45V 0.23A.\n\nFiche technique",
+     "short_description": "BS250 Transistor Mosfet à Canal P TO-92 45V 0.23A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/03/729-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24527",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BS107A Transistor Mosfet à Canal N 200V 0.25A",
+     "description": "BS107A Transistor Mosfet à Canal N 200V 0.25A\n\nBS107A Transistor Mosfet à Canal N 200V 0.25A.\n\nFiche technique",
+     "short_description": "BS107A Transistor Mosfet à Canal N 200V 0.25A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/03/729-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4617",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC640 Transistor PNP To-92 1A 80V",
+     "description": "Transistor PNP To-92 BC640 1A 80V\n\nTransistor PNP To-92 BC640 1A 80V.\n\nFiche technique",
+     "short_description": "Transistor PNP To-92 BC640 1A 80V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/730-1.png"
+   ]
+  }
+ ]
+}

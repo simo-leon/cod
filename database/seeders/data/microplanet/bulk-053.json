@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-5640",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fusible Céramique 5x20mm",
+     "description": "Fusible Céramique 17 Valeurs 0.1-30A\n\nFusible Céramique M5x20mm 17 Valeurs 0.1-30A 250V.\n\nValeurs: 0.1A, 0.2A, 0.25A, 0.4A, 0.5A, 1A, 2A, 3A, 4A, 5A, 6A, 8A, 10A, 12A, 15A, 20A, 25A, 30A\n\nDimensions: 5×20 mm.\n\nMots clés: fuse.",
+     "short_description": "Fusible Céramique M5x20mm 17 Valeurs 0.1-30A 250V.\n\nValeurs: 0.1A, 0.2A, 0.25A, 0.4A, 0.5A, 1A, 2A, 3A, 4A, 5A, 6A, 8A, 10A, 12A, 15A, 20A, 25A, 30A\n\nDimensions: 5×20 mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/02/682-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42468",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Fusible en Verre 6x30mm",
+     "description": "Fusible en Verre 6x30mm 18 Valeurs\n\nUn assortiment complet de fusibles à action rapide de format standard 6x30mm, couvrant 18 calibres de 0,10A à 30A pour protéger vos circuits en courant alternatif et continu.\n\n🔧 Caractéristiques techniques\n\nFormat : tube en verre Ø 6 mm × L 30 mm\n\nType : fusible rapide (Fast-Acting)\n\nTension nominale : 250 VAC / 125 VDC\n\nCourants disponibles : 0,10 A · 0,20 A · 0,25 A · 0,40 A · 0,50 A · 1 A · 2 A · 3 A · 4 A · 5 A · 6 A · 8 A · 10 A · 12 A · 15 A · 20 A · 25 A · 30 A\n\nÂme fusible : alliage étain/plomb à point de fusion contrôlé\n\nContacts : embouts métalliques plaqués étain\n\nTemps de fusion : typ. < 4 s à 200 % du courant nominal\n\nRésistance de contact : < 50 mΩ\n\nMontage : porte-fusible 6 × 30 mm (clip, support en métal ou plastique)\n\n💡 Applications typiques\n\nProtection d’alimentations, de blocs d’éclairage et de modules à découpage\n\nSécurité de cartes électroniques, amplificateurs audio, routers, Raspberry Pi\n\nPanneaux de commande, coffrets industriels et dispositifs domotiques\n\nPrototypage et bancs de test nécessitant un remplacement rapide de fusible\n\nCircuits DC (batteries, chargeurs) et AC (moteurs, moteurs pas-à-pas, pompes)\n\n🛠️ Installation et remplacement\n\nDébranchez toujours l’alimentation avant toute intervention.\n\nChoisissez un fusible du même calibre et type (6 × 30 mm, fast-acting).\n\nOuvrez le porte-fusible, retirez l’ancien tube en verre, et insérez le nouveau en veillant à un bon contact sur les embouts métalliques.\n\nResserrez ou reclipsez le support puis remettez l’alimentation sous tension.\n\nVérifiez l’absence de surcharge pour éviter une nouvelle coupure.\n\nMots clés: fuse.",
+     "short_description": "Un assortiment complet de fusibles à action rapide de format standard 6x30mm, couvrant 18 calibres de 0,10A à 30A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/683-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42654",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Porte-fusible 6x30mm avec capot transparent",
+     "description": "Porte-fusible 6x30mm avec capot transparent\n\nCe porte-fusible clipse un fusible verre 6x30mm et le protège d’un capot en polycarbonate transparent. Adapté à une installation en façade de boîtier ou coffret, il offre une manipulation rapide du fusible et une visibilité permanente de son état.\n\n🔧 Caractéristiques techniques\n\nDimensions du fusible : 6 × 30 mm (longueur × diamètre)\n\nMatériau du corps : nylon PA66 UL94 V-0 (noir)\n\nCapot : polycarbonate transparent\n\nContacts : ressort en acier inoxydable nickelé\n\nTension nominale : 250 VAC / 125 V DC\n\nCourant maximal : 10 A (suivant type de fusible)\n\nMontage : insertion frontale, perçage panneau Ø 22 mm\n\nFixation : clip arrière intégré\n\nTempérature de service : –20 °C à +85 °C\n\n💡 Applications typiques\n\nProtection de circuits d’alimentation et modules électroniques\n\nCoffrets de commande, armoires électriques industrielles\n\nAlimentation d’amplificateurs audio, équipements de mesure\n\nPrototypage et bancs de test nécessitant remplacements fréquents\n\nAppareils électroménagers et véhicules de loisir (bateaux, camping-cars)\n\nMots clés: fuse, holder.",
+     "short_description": "Ce porte-fusible clipse un fusible verre 6x30mm et le protège d’un capot en polycarbonate transparent."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/684-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/684-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3516",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Porte Fusible 5x20mm",
+     "description": "Porte Fusible 5x20mm\n\nSupport (porte fusible) Pour Fusible avec broche dip et couvercle, pour protéger vos projets contre surintensité.\n\ncompatible avec les fusibles de 5×20 mm\n\nDimensions: 28×9.7×18.2 mm.\n\nMots clés: fuse, holder.",
+     "short_description": "Support Pour Fusible avec broche dip et couvercle, pour protéger vos projets contre surintensité.\n\ncompatible avec les fusibles de 5×20 mm\n\nDimensions: 28×9.7×18.2 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/685-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3533",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble Porte Fusible Plat",
+     "description": "Câble Porte Fusible Plat\n\nCâble Porte Fusible (support) plat avec câble, pour protéger vos projets contre surintensité.\n\ncompatible avec les fusibles de 5×20 mm\n\nDimensions: 28×9.7×18.2 mm.\n\nMots clés: fuse, holder.",
+     "short_description": "Support Pour Fusible plat avec câble, pour protéger vos projets contre surintensité.\n\ncompatible avec les fusibles de 5×20 mm\n\nDimensions: 28×9.7×18.2 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/686-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/686-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3535",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Potentiomètre Rotatif WH148",
+     "description": "Potentiomètre Rotatif WH148 10 Valeurs 1K-1MΩ\n\nPotentiomètre rotatif WH148 10 Valeurs 1K-1MΩ.\n\nValeurs: 1KΩ, 2KΩ, 5KΩ, 10KΩ, ,20KΩ, 50KΩ, 100KΩ, 250KΩ, 500KΩ, 1MΩ.\n\nMots clés: rotary, potentiometer.",
+     "short_description": "Potentiomètre rotatif 9 Valeurs 1K-1MΩ\n\nValeurs: 1KΩ, 2KΩ, 5KΩ, 10KΩ, ,20KΩ, 50KΩ, 100KΩ, 250KΩ, 500KΩ, 1MΩ."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/687-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3543",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouchon Pour Potentiomètre Rotatif",
+     "description": "Bouchon Pour Potentiomètre Rotatif\n\nBouchon en plastique pour potentiomètre rotatif, 6 couleurs.\n\nMots clés: knob, cap",
+     "short_description": "Bouchon en plastique pour potentiomètre rotatif, 6 couleurs."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/688-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/688-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3544",
+   "price": 3.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Potentiomètre de Précision Multitours",
+     "description": "Potentiomètre de Précision Multitours 13 Valeurs 100Ω-2MΩ\n\nPotentiomètre de Précision Multitours 3296W.\n\nValeurs: 100Ω, 500Ω, 1KΩ, 2KΩ, 5KΩ, 10KΩ, 20KΩ, 50KΩ, 100KΩ, 200KΩ, 500KΩ, 1MΩ, 2MΩ\n\nPrécision: 25 tours\n\nFiche technique",
+     "short_description": "Potentiomètre de Précision Multitours.\n\nValeurs: 100Ω, 500Ω, 1KΩ, 2KΩ, 5KΩ, 10KΩ, 20KΩ, 50KΩ, 100KΩ, 200KΩ, 500KΩ, 1MΩ, 2MΩ\n\nPrécision: 25 tours"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/689-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22670",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Potentiomètre de Précision Multitours 3590S",
+     "description": "Potentiomètre de Précision Multitours 3590S 5 Valeurs\n\nPotentiomètre de Précision Multitours 3590S, avec bouton de commande.\n\nValeurs: 100Ω, 1KΩ, 5KΩ, 2KΩ, 10KΩ, 20KΩ, 50KΩ, 100KΩ\n\nPrécision: 10 tours\n\nLe bouton de commande du potentiomètre a une surface lisse et est facile à installer. Il est spécialement utilisé pour les potentiomètres\n\nLe bouton est fabriquée dans un matériau de haute qualité, solide et garantissant la durabilité.\n\nMaterial: Plastic\n\nDiameter: 26mm\n\nHigh: 15mm\n\nBore diameter: 6.4mm 6mm\n\nDiameter: 40mm\n\nAxis Diameter: 10mm\n\nThickness: 0.5mm",
+     "short_description": "Potentiomètre de Précision Multitours 3590S, avec bouton de commande."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/689-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/689-A-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3552",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Potentiométre Trimpot",
+     "description": "Potentiométre Trimpot 14 Valeurs 100Ω-2MΩ\n\nPotentiométre Trimpot (trimmer) RM065, 14 Valeurs 100Ω-2MΩ.\n\nValeurs: 100Ω, 200Ω, 500Ω, 1KΩ, 2KΩ, 5KΩ, 10KΩ, 20KΩ, 50KΩ, 100KΩ, 200KΩ, 500KΩ, 1MΩ, 2MΩ.",
+     "short_description": "Potentiométre Trimpot RM065, 14 Valeurs 100Ω-2MΩ\n\nValeurs: 100Ω, 200Ω, 500Ω, 1KΩ, 2KΩ, 5KΩ, 10KΩ, 20KΩ, 50KΩ, 100KΩ, 200KΩ, 500KΩ, 1MΩ, 2MΩ."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/690-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/690-1.png"
+   ]
+  }
+ ]
+}

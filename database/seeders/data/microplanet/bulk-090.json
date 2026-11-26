@@ -1,0 +1,205 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3698",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7812 Régulateur de Tension To-220 12V 1.5A",
+     "description": "Régulateur de Tension To-220 L7812 12V 1.5A\n\nRégulateur de Tension To-220 L7812 12V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7812 12V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/824-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/824-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3700",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7824 Régulateur de Tension To-220 24V 1.5A",
+     "description": "Régulateur de Tension To-220 L7824 24V 1.5A\n\nRégulateur de Tension To-220 L7824 24V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7824 24V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/826-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/826-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3701",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7905 Régulateur de Tension To-220 -5V 1.5A",
+     "description": "Régulateur de Tension To-220 L7905 -5V 1.5A\n\nRégulateur de Tension To-220 L7905 -5V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7905 -5V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/827-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/827-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3703",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7906 Régulateur de Tension To-220 -6V 1.5A",
+     "description": "Régulateur de Tension To-220 L7906 -6V 1.5A\n\nRégulateur de Tension To-220 L7906 -6V 1.5A\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7906 -6V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/828-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/828-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3704",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7908 Régulateur de Tension To-220 -8V 1.5A",
+     "description": "Régulateur de Tension To-220 L7908 -8V 1.5A\n\nRégulateur de Tension To-220 L7908 -8V 1.5A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7908 -8V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/829-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/829-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3705",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7909 Régulateur de Tension To-220 -9V 1.5A",
+     "description": "Régulateur de Tension To-220 L7909 -9V 1.5A\n\nRégulateur de Tension To-220 L7909 -9V 1.5A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7909 -9V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/830-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/830-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3706",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7912 Régulateur de Tension To-220 -12V 1.5A",
+     "description": "Régulateur de Tension To-220 L7912 -12V 1.5A\n\nRégulateur de Tension To-220 L7912 -12V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7912 -12V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/831-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/831-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3707",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7915 Régulateur de Tension To-220 -15V 1.5A",
+     "description": "Régulateur de Tension To-220 L7915 -15V 1.5A\n\nRégulateur de Tension To-220 L7915 -15V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7915 -15V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/832-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/832-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3709",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM317 Régulateur de Tension To-220 1.2V-37V 1.5A",
+     "description": "Régulateur de Tension To-220 LM317 1.2V-37V 1.5A\n\nRégulateur de Tension To-220 LM317 1.2V-37V 1.5A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 LM317 1.2V-37V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/834-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/834-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/834-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10726",
+   "price": 650,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Démarrage Complet Uno, RFID, 70 en 1",
+     "description": "Kit Complet Arduino Uno,\n\nUn kit de démarrage Arduino Uno complet 70 en 1, contenant tout le nécessaire pour les débutants qui souhaitent se lançer en électronique et dans le logiciel embarqué et systéme RFID. On retrouvre des éléments simple pour pouvoir réaliser une multitude de montage DIY.\n\nLe kit comprend :\n\nArduino Uno R3 + câble X1\n\nServo moteur SG90 X1\n\nMoteur pas à pas 5V 28BYJ-48 X1\n\nDriver moteur pas à pas ULN2003 X1\n\nMoteur DC 3V X1\n\nLame de ventillation X1\n\nModule d’extension pour Arduino uno X1\n\nModule lecteur RFID RC522 X1\n\nModule ultrasonique SR04 X1\n\nModule détecteur de mouvement HC-SR501 X1\n\nModule Infrarouge détécteur d’obstacle X1\n\nTélécommande infrarouge X1\n\nModule récepteur Infrarouge X1\n\nModule gyroscope MPU6050 X1\n\nModule capteur de sons/voix X1\n\nModule joystick X1\n\nModule capteur de niveau d’eau X1\n\nModule horloge RTC DS3231 X1\n\nModule capteur de température DHT11 X1\n\nModule clavier keypad 4×4 X1\n\nModule tactile capacitif 1 boutton TTP223 X1\n\nModule encodeur rotatif X1\n\nCapteur d’inclinaison SW-520D  X1\n\nCapteur de lumiére LDR X2\n\nThermistance X1\n\nRelais 5V 10A X1\n\nAlimentation 9V 1A X1\n\nAlimentation 3.3-5V pour breadboard MB102 X1\n\nBreadboard 830 point X1\n\nCâble dupont male-femelle X20\n\nCâble mele-male X65\n\nPile 9v X1\n\nConnecteur avec prise 9V X1\n\nBouton poussoir X5\n\nInterrupteur coulissant 2 positions X1\n\nAfficheur à Led Matrice 8×8 X1\n\nAfficheur 7 segments 1bit X1\n\nAfficheur 7 segments 4bit X1\n\nAfficheur LCD 16×02 X1\n\nLED blanche 5mm X5\n\nLED jaune 5mm X5\n\nLED bleue 5mm X5\n\nLED verte 5mm X5\n\nLED rouge 5mm X5\n\nLED orange 5mm X5\n\nLED RGB X1\n\nLED UV Ultraviolet 5mm X1\n\nCondensateur céramique 22pf X5\n\nCondensateur céramique 100nf X5\n\nCondensateur électrolytique (10UF 50V) X2\n\nCondensateur électrolytique (100UF 50V) X2\n\nDiode (1N4007) X5\n\nTransistor NPN (PN2222) X5\n\nTransistor NPN (S8050) X5\n\nCircuit intégré L293D X1\n\nRegistre à décalage 74HC595 X1\n\nBuzzer passif X1\n\nBuzzer actif X1.\n\nPotentiomètre 10k X1\n\nRésistance (10R) X10\n\nRésistance (100R) X10\n\nRésistance (220R) X10\n\nRésistance (330R) X10\n\nRésistance (1K) X10\n\nRésistance (2K) X10\n\nRésistance (5K1) X10\n\nRésistance (10K) X10\n\nRésistance (100K) X10\n\nRésistance (1M) X10\n\nCD X1 (installation, drivers, logiciel de simuation, tutoriels détaillées)\n\nMots clés: starter, apprentissage.",
+     "short_description": "Un kit de démarrage Arduino Uno complet 70 en 1, contenant tout le nécessaire pour les débutants qui souhaitent se lançer en électronique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/11/1011-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/11/1011-3.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-2980",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shield d’Extension E/S Pour Nano",
+     "description": "Shield d’Extension E/S Pour Arduino Nano\n\nCe Shield est conçu pour Arduino Nano, vous pouvez rendre la disposition des broches d’Arduino Nano identique à celle du standard facilement, par conséquent vous pouvez utiliser Arduino Shields avec Nano.\n\nLes broches Arduino sont en format 3 broches (GND 5V Signal) afin que les capteurs et les entrées et sorties diverses puissent être facilement connectés. La broche de réinitialisation est transportée à bord et l’entrée de l’adaptateur CC est de 2,1 mm d’entrée positive du centre, tout comme les autres cartes Arduino. Les broches d’alimentation 5V, 3.3V et GND sont multipliées et portées sur le tableau.\n\nUne autre caractéristique de ce Shield est qu’il peut également être utilisé avec Uno, Mega et Leonardo aussi. Les broches à bord ont une disposition de broche standard et elles peuvent être empilées sur d’autres Arduinos en soudant les en-têtes empilables et vous pouvez commencer à utiliser les aventures de la carte.\n\nMots clés: expander.",
+     "short_description": "Ce bouclier est conçu pour Arduino Nano, vous pouvez rendre la disposition des broches d’Arduino Nano identique à celle du standard facilement, par conséquent vous pouvez utiliser Arduino Shields avec Nano.\n\nUne autre caractéristique de Nano Shield est qu’il peut également être utilisé avec Uno, Mega et Leonardo non seulement Nano."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/206-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6286",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shield de Prototype à breadboard pour Uno",
+     "description": "Shield de Prototype à breadboard pour Arduino Uno\n\nShield de Prototype à breadboard pour Arduino uno, le shield est utilisé pour construire un prototype, les composants peuvent être directement soudés sur la carte, vous pouvez également connecter la mini breadboard et la carte de circuit imprimé via des connexions adhésives double face.\n\nMots clés: plaque d’essai.",
+     "short_description": "Shield de Prototype à breadboard pour Arduino uno, le shield est utilisé pour construire un prototype."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/218-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/218-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21090",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shield de Prototype à breadboard pour Mega",
+     "description": "Shield de Prototype à breadboard pour Arduino Mega\n\nShield de Prototype à breadboard pour Arduino mega, le shield est utilisé pour construire un prototype, les composants peuvent être directement soudés sur la carte, vous pouvez également connecter la mini breadboard et la carte de circuit imprimé via des connexions adhésives double face.\n\nMots clés: plaque d’essai.",
+     "short_description": "Shield de Prototype à breadboard pour Arduino mega, le shield est utilisé pour construire un prototype."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/206-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21093",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shield de Capteurs V4.0",
+     "description": "Shield de Capteurs V4.0\n\nCe Shield de capteurs V4.0 permet d’ajouter de nombreux capteurs et accessoires à votre projet Arduino, en multipliant les broches de connexion. Chaque entrée/sortie, digitale ou analogue, est doublée d’un bloc de 3 broches (Vcc, GND, in/out), ce qui permet de brancher directement un connecteur type Dupont comme ceux qui équipent la plupart des capteurs, servo, relais, boutons, etc.\n\nCe bouclier vous permettra d’ajouter de nombreux composants à votre projet en les branchant facilement les uns à côté des autres, comme des briques. Les connexions sont plus robustes. Equipé d’un port Com pouvant être configurer en I2C ou UART (COM), et d’un bouton Reset.\n\nMots clés: sensor, expansion, extension.",
+     "short_description": "Ce Shield de capteurs V4.0 permet d’ajouter de nombreux capteurs et accessoires à votre projet Arduino, en multipliant les broches de connexion"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/206-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4709",
+   "price": 68,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ADS1115 Module ADC PGA 16 Bit 4 Canaux, I2C",
+     "description": "Module ADC PGA 16 Bit 4 Canaux, I2C ADS1115\n\nModule ADC pour les microcontrôleurs sans convertisseur analogique-numérique ou lorsque vous voulez un ADC de plus haute précision, l’ADS1115 fournit une précision de 16 bits à 860 échantillons / seconde sur I2C. La puce peut être configurée comme 4 canaux d’entrée asymétriques ou deux canaux différentiels.\n\nIl comprend même un amplificateur de gain programmable, jusqu’à x16, pour aider à amplifier les signaux simples / différentiels plus petits à la gamme complète. Nous aimons cet ADC car il peut fonctionner de 2V à 5V puissance / logique, peut mesurer une large gamme de signaux et super facile à utiliser. C’est un grand convertisseur 16 bits à usage général.\n\nCe convertisseur est bien évidemment utile à tous ceux qui ne disposent pas d’un microcontrôleur avec convertisseur analogique-numérique. Il peut également être rajouté à un CAN existant pour des mesures plus précises sur petits et grands signaux. Un tel dispositif peut être utilisé pour créer un appareil de mesure de la température, un système automatique ou de contrôle des processus, ou bien encore un indicateur de niveau de charge des batteries. Sa très petite taille lui permet de prendre place dans des projets portables très réduits.\n\nCaractéristiques:\n\nPrécision : 16 bits\n\nTension de fonctionnement : 2-5,5 V\n\nConsommation : 150 uA en mode continu (Mode impulsion par impulsion : arrêt automatique)\n\nDébit de données programmable : 8SPS à 860SPS (échantillons par seconde)\n\nTension de référence à faible dérive\n\nOscillateur interne\n\nAmplificateur de gain programmable interne\n\nInterface I2C : Jusqu’à 4 adresses sélectionnables par broche\n\n4 canaux unidirectionnels ou 2 canaux différentiels\n\nComparateur programmable",
+     "short_description": "Pour les microcontrôleurs sans convertisseur analogique-numérique ou lorsque vous voulez un ADC de plus haute précision, l’ADS1115 fournit une précision de 16 bits à 860 échantillons / seconde sur I2C. La puce peut être configurée comme 4 canaux d’entrée asymétriques ou deux canaux différentiels."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/212-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4711",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "CD74HC4067 Module Multiplexeur Analog/Digital 16 canaux",
+     "description": "Module Multiplexeur Analog / Digital 16 canaux CD74HC4067\n\nCD74HC4067 est un multiplexeur / démultiplexeur analogiques / numériques à 16 canaux. Cette puce est comme un commutateur rotatif – en interne achemine le pin commun (COM dans le schéma, SIG sur la carte) à l’une des 16 broches de canal (Cxx). Il fonctionne avec les signaux numériques et analogiques (la tension ne peut pas être supérieure à VCC), et les connexions fonctionnent dans les deux sens. Pour le contrôler, connectez 4 sorties numériques à l’adresse broches de sélection (S0-S3) de la puce, et l’envoyer l’adresse binaire du canal que vous voulez (voir la fiche technique pour plus de détails). Cela vous permet de connecter jusqu’à 16 capteurs à votre système en utilisant seulement 5 broches!\n\nComme le multiplexeur / démultiplexeur fonctionne également avec des signaux numériques, vous pouvez l’utiliser pour acheminer des données série de niveau TTL vers ou depuis plusieurs périphériques. Par exemple, vous pouvez l’utiliser pour connecter les broches TX de 16 périphériques à une broche RX sur votre microcontrôleur. Vous pouvez ensuite sélectionner l’un de ces 16 appareils à écouter. Si vous souhaitez des communications bidirectionnelles, vous pouvez ajouter une deuxième carte pour router la ligne TX de votre microcontrôleur vers les lignes RX de 16 périphériques. En utilisant plusieurs cartes, vous pouvez créer des arrangements similaires pour I2C, SPI, etc.\n\nLes commutateurs internes sont des tensions bidirectionnelles, le support entre la masse et VCC, ont une faible « à la » résistance et faible « off » de fuite, et pour empêcher la diaphonie, effectuer une commutation « break-before-make ». La carte éclate également la broche «enable» de la puce qui, lorsqu’elle est haute, déconnecte complètement la broche commune (tous les interrupteurs sont éteints).\n\nCaractéristiques:\n\nTension de fonctionnement: 2V à 6V\n\n“On” résistance: 70 Ohms (4.5V)\n\n6ns pause-avant-faire (4.5V)\n\nLarge plage de température de fonctionnement: -55C à 125C\n\nFiche technique",
+     "short_description": "CD74HC4067 est un multiplexeur / démultiplexeur analogiques / numériques à 16 canaux. Cette puce est comme un commutateur rotatif – en interne achemine le pin commun (COM dans le schéma, SIG sur la carte) à l’une des 16 broches de canal (Cxx). Il fonctionne avec les signaux numériques et analogiques (la tension ne peut pas être supérieure à VCC)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/213-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34506",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCA82C250 Interface de contrôleur CAN",
+     "description": "PCA82C250 Interface de contrôleur CAN\n\nPCA82C250 est l’interface entre le contrôleur de protocole CAN et le bus physique.\n\nCe dispositif offre une capacité de transmission différentielle au bus et une capacité de réception différentielle au contrôleur CAN.\n\nPuce d’interface de contrôleur CAN PCA82C250 intégrée.\n\nLes broches communes de la puce ont été retirées, ce qui est pratique pour la connexion et l’utilisation.\n\nAlimentation broche 5V.",
+     "short_description": "PCA82C250 est l’interface entre le contrôleur de protocole CAN et le bus physique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0214.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34502",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SN65HVD230 Interface de contrôleur CAN",
+     "description": "SN65HVD230 Interface de contrôleur CAN\n\nLe module émetteur-récepteur SN65HVD230 a la capacité d’envoyer et de recevoir des signaux à différents débits. Il peut être utilisé dans un environnement à fortes interférences.\n\nSN65HVD230 haute vitesse, rampe et trois modes d’attente différents. Le mode de contrôle peut être obtenu en contrôlant la broche Rs. La figure 2 est un système de bus CAN SN65HVD230 dans un diagramme d’application typique. Comme le montre la figure, le contrôleur CAN est connecté à la broche de sortie Tx SN65HVD230, terminal d’entrée de données D, ce nœud CAN peut envoyer des données transférées au réseau CAN ; Contrôleur CAN et broches de réception de la sortie de données Rx et SN65HVD230 R couplées pour recevoir des données. Options Port SN65HVD230 Rs via des cavaliers et une résistance de rampe mise à la terre à une extrémité, une manière peut être obtenue par le matériel, choisissez 3 modes, dans lesquels la rampe est un potentiomètre de résistance de 0 ~ 100 kΩ.\n\nEntièrement conforme aux normes ISO11898 ;\n\nImpédance d’entrée élevée, permettant 120 nœuds ;\n\nMode veille à faible courant, le courant typique est de 370 μA ;\n\nTaux de transfert de signal jusqu’à 1 Mb/s ;\n\nProtection thermique, fonction de sécurité ouverte ;\n\nAvec bus de fonction de protection contre les interférences momentanées ;\n\nContrôle de la pente, réduction des interférences radio (RFI) ;\n\nRécepteur différentiel avec une large gamme de capacités anti-interférences de mode commun et d’interférences électromagnétiques (EMI).\n\nLogique de mode et de contrôle",
+     "short_description": "Le module émetteur-récepteur SN65HVD230 a la capacité d’envoyer et de recevoir des signaux à différents débits. Il peut être utilisé dans un environnement à fortes interférences."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0215.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42504",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MCP2515 Interface de contrôleur BUS CAN",
+     "description": "Module CAN-BUS MCP2515 + TJA1050 – Contrôleur CAN 2.0B via SPI\n\nLe module MCP2515 associe le contrôleur CAN 2.0B MCP2515 à l’interface physique TJA1050, permettant d’ajouter facilement une communication CAN 1 Mb/s à vos projets Arduino, ESP32, Raspberry Pi, etc.\n\n🔧 Caractéristiques techniques\n\nProtocole CAN : version 2.0B à 1 Mb/s Faranux Electronics\n\nContrôleur : MCP2515 via interface SPI (CS, SCLK, SI, SO) et interruption INT Faranux Electronics\n\nTransceiver : TJA1050 (niveau CAN H/CAN L) Faranux Electronics\n\nAlimentation : 5 V DC (typ. 5 mA en fonctionnement, 1 µA en veille) Faranux Electronics\n\nRésistance de terminaison : 120 Ω (pont soudable pour activation) Faranux Electronics\n\nIndicateurs LED : TX (émission) et RX (réception) Faranux Electronics\n\nTempérature de fonctionnement : –40 °C à +85 °C Faranux Electronics\n\nDimensions : 44 × 28 mm, entraxe des fixations 23 × 38 mm Faranux Electronics\n\n💡 Applications typiques\n\nRéseaux CAN automobiles et industrialisés\n\nSystèmes de télémétrie et de capteurs distribués\n\nContrôle de moteurs, actionneurs et automatisation\n\nProjets IoT embarqués nécessitant un bus robuste\n\nPonts de données entre microcontrôleurs et équipements CAN\n\nExemple de code Arduino (utilisant la bibliothèque mcp_can)\n\n#include <SPI.h>\r\n#include <mcp_can.h>\r\n\nconst int SPI_CS_PIN = 10;\r\nMCP_CAN CAN(SPI_CS_PIN);\r\n\nvoid setup() {\r\nSerial.begin(115200);\r\nwhile (CAN_OK != CAN.begin(CAN_500KBPS)) {\r\nSerial.println(\"Initialisation CAN échouée\");\r\ndelay(100);\r\n}\r\nSerial.println(\"CAN initialisé à 500 kbps\");\r\n}\r\n\nvoid loop() {\r\n// Envoi d'un message CAN 11-bit ID 0x100, 8 octets\r\nbyte data[8] = {0xDE,0xAD,0xBE,0xEF,0x00,0x11,0x22,0x33};\r\nCAN.sendMsgBuf(0x100, 0, 8, data);\r\ndelay(1000);\r\n\n// Lecture\r\nif (CAN_MSGAVAIL == CAN.checkReceive()) {\r\nunsigned long id;\r\nbyte len;\r\nbyte buf[8];\r\nCAN.readMsgBuf(&len, buf);\r\nid = CAN.getCanId();\r\nSerial.print(\"Reçu ID 0x\"); Serial.print(id, HEX);\r\nfor (byte i = 0; i < len; i++) {\r\nSerial.print(\" \"); Serial.print(buf[i], HEX);\r\n}\r\nSerial.println();\r\n}\r\n}\n\nExplication du code\n\nOn initialise la liaison SPI et le module MCP2515 à 500 kbps via CAN.begin(...).\n\nDans loop(), on envoie un trame CAN de 8 octets à l’ID 0x100 avec sendMsgBuf().\n\nEnsuite, on vérifie la disponibilité d’un message avec checkReceive(), puis on lit l’ID et les données via readMsgBuf() et getCanId(), et on affiche tout dans le moniteur série.\n\n🛠️ Brochage / Wiring\n\nBroche module\nFonction\nArduino UNO\n\nVCC\nAlimentation +5 V DC\n5 V\n\nGND\nMasse commune\nGND\n\nCS\nChip Select SPI (actif bas)\nD10\n\nSO (MISO)\nSPI Master In Slave Out\nD12\n\nSCLK\nSPI Clock\nD13\n\nSI (MOSI)\nSPI Master Out Slave In\nD11\n\nINT\nInterruption (message CAN reçu)\nD2\n\nCANH / CANL\nBroches bus CAN (screw terminals)\nBranchez au bus\n\nNote : activez la terminaison 120 Ω en soudant le pont prévu si votre module est aux extrémités du bus.",
+     "short_description": "Le module MCP2515 associe le contrôleur CAN 2.0B MCP2515 à l’interface physique TJA1050, permettant d’ajouter facilement une communication CAN 1 Mb/s à vos projets Arduino, ESP32, Raspberry Pi, etc."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/216-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5926",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "OV7670 Camera VGA",
+     "description": "Camera OV7670 VGA pour Arduino\n\nCamera OV7670, de petite taille, basse tension de fonctionnement, et fournit toutes les fonctionnalités de la caméra VGA monopuce et du processeur d’image. Grâce à la commande de bus SCCB, vous pouvez sortir la trame entière, sous-échantillonnée, avec une résolution de données de 8 bits. L’image VGA du produit est jusqu’à 30 images / sec 640×480. Les utilisateurs peuvent entièrement contrôler la qualité d’image, le format de données et le mode de transmission. Le processus des fonctions de traitement d’image comprenant les courbes gamma, la balance des blancs, la saturation, et ainsi de suite peut être programmé à travers l’interface SCCB.\n\nCaractéristiques:\n\nTension d’entrée-sortie 2,5V à 3,0V (LDO interne aux alimentations de base)\n\nopération de puissance 60mW / 15fps VGAYUV\n\nSommeil <20 μ A\n\nInterface SCCB standard compatible avec l’interface I2C\n\nResolution du capteur 640X480\n\nTaille optique de 1/6 “\n\nangle de champ de vue de 25 °\n\ntaux maximum de Zhen 30fps VGA\n\nSensibilité 1.3V / (Lux-sec)\n\nrapport signal sur bruit de 46 dB\n\nplage dynamique de 52 dB\n\nexposition électronique\n\nzone de 3,6 μm x 3,6 μm\n\nCompensation de perte de lumière\n\nDétection 50 / 60Hz\n\nprendre en charge l’échelle d’image\n\nVoie de sous-échantillonnage VarioPixel\n\nFormat de sortie (8 bits) YUV / YCbCr4 RGB565 / 555/444 GRB4: 2: 2: 2: 2 Données RVB brutes\n\nFormat de sortie RawRGB vers RVB (GRB4: 2: 2, RGB565 / 555/444), YUV (4: 2: 2) et YCbCr (4: 2: 2)\n\néliminer les bandes claires, calibrage automatique du niveau de noir, contrôle de la qualité de l’image, y compris la saturation des couleurs, la teinte, le gamma, la netteté ANTI_BLOOM\n\nla saturation s’ajuste automatiquement (réglage UV)\n\nl’amélioration des bords s’ajuste automatiquement\n\nLa réduction du bruit s’ajuste automatiquement\n\nISP a éliminer le bruit et la fonction de compensation de pixels morts\n\ntempérature de fonctionnement de -30 ° C à 70 ° C\n\nmode de navigation progressif\n\ncourant d’obscurité 12 mV / s à 60 ° C",
+     "short_description": "Camera Capteur d’image OV7670, de petite taille, basse tension de fonctionnement, et fournit toutes les fonctionnalités de la caméra VGA monopuce et du processeur d’image."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/217-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/217-2.png"
+   ]
+  }
+ ]
+}

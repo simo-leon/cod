@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-42106",
+   "price": 280,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SK120 120W 6A Abaisseur / Élévateur de Tension Automatique",
+     "description": "SK120 120W 6A Abaisseur / Élévateur de Tension Automatique\n\nLe SK120 est un convertisseur CNC Abaisseur / Élévateur de Tension automatique, ajustable à tension et courant constants (CC/CV) de 120W, capable de fonctionner en mode boost ou buck sur une large plage 6-36V DC. Son écran VA couleur et ses commandes par encodeur et boutons offrent un pilotage précis, avec 10 mémoires utilisateurs et protections complètes.\n\n🔧 Caractéristiques techniques\n\nTension d’entrée : 6,0 – 36,0 V DC\n\nTension de sortie : 0,0 – 36,0 V DC ajustable\n\nCourant de sortie : 0 – 6,000 A (protection OCP réglable 0 – 6,2 A, défaut 6,2 A)\n\nPuissance max. : 120 W\n\nModes : CV (tension constante), CC (courant constant), CW (puissance constante)\n\nAfficheur : plein-vue VA couleur (lecture V, A, W simultanés)\n\nMémoires : 10 couples V/I stockables\n\nProt. intégrées : inversion de polarité, anti-retour, sous-tension, surtension, surintensité, surpuissance, surchauffe, anti-surtension inverse\n\nComp. Modbus : interface série TTL pour commande RS485 ou module Wi-Fi\n\nTempérature de travail : –20 °C à +60 °C\n\nDimensions : 92 × 69 × 13 mm (panneau), 135 × 32 × 27 mm (carte de puissance)\n\n💡 Applications typiques\n\nBanc de tests et alimentation de laboratoire\n\nCharge CC/CV de batteries Li-ion, SLA…\n\nPilotage de LEDs haute puissance\n\nContrôle de moteurs DC\n\nChargeurs solaires boost en CC/CV\n\nProjets CNC/robotique nécessitant tension variable\n\n🛠️ Brochage / Câblage\n\nConnecteur\nFonction\n\nIN+ / IN–\nEntrée d’alimentation 6–36 V DC\n\nOUT+ / OUT–\nSortie régulée 0–36 V DC @ 0–6 A\n\nNTC 10 kΩ\nSonde de température externe (XH2.54-2P)\n\nUART (4 broches)\nSérie TTL pour Modbus RTU (TX, RX, 5 V, GND) ou module Wi-Fi\n\nBoutons / Encodeur\nVSET, ISET, SW et encodeur rotatif sur le panneau frontal\n\nProcédure de mise en service\n\nCoupler IN+ / IN– à la source DC, OUT+ / OUT– à la charge.\n\nAppuyer brièvement sur VSET pour régler la tension (CV), tourner l’encodeur puis re-appuyer pour confirmer.\n\nAppuyer sur ISET pour régler le courant (CC) de la même manière.\n\nSW bascule l’affichage entrée/sortie ; maintien 2 s pour entrer dans le menu avancé.\n\nPour coupure automatique sur sous-tension, régler le potar UVLO via Modbus ou menu interne.\n\nVeillez à bien ventiler la carte de puissance si vous approchez les limites (6 A / 120 W).\n\nMots clés: boost, buck, converter, power, supply, display.",
+     "short_description": "Le SK120 120W est un convertisseur CNC Abaisseur / Élévateur de Tension automatique, ajustable à tension et courant constants (CC/CV) de 120W"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/448-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/448-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3161",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Élévateur de Tension Mini chargeur Usb 5V 600mA",
+     "description": "Mini chargeur Usb, Élévateur de Tension 5V 600mA\n\nMini chargeur Usb Élévateur de Tension 5V, accepte une tension d’entrée de 0.9v à 5v (batteries 1.5v ou autres sources) et la transforme en 5V constant et stable, avec un port de sortie USB peut charger un smartphone avec batteries 1.5v ou lithium ou alimenter des appareils ou circuits 5V…\n\nTension d’entrée: 0,9-5V DC\n\nMini PFM Control\n\nTension de sortie: 5V DC\n\nCourant de sortie: 500-600mA\n\nEfficacité de conversion: maximum à 96%\n\nPetite dimension\n\nMots clés: boost, converter, power, supply.",
+     "short_description": "Mini chargeur Usb 5V Élévateur de Tension, accepte une tension d’entrée de 0.9v à 5v (batteries 1.5v ou autres sources) et la transforme en 5V constant et stable, avec un port de sortie USB peut charger un smartphone avec batteries 1.5v ou lithium ou alimenter des appareils ou circuits 5V…\n\nTension d’entrée: 0,9-5V DC\n\nMini PFM Control\n\nTension de sortie: 5V DC\n\nCourant de sortie: 500-600mA\n\nEfficacité de conversion: maximum à 96%\n\nPetite dimension"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/455-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4680",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Driver Led 10W 900mA 10-20V AC/DC",
+     "description": "Driver Led 10W 900mA 10-20V\n\nDriver Led 10w avec un courant de sortie constant de 850-900mA, il peut alimenter une led de 10w.\n\nTension d’entrée: DC 10-20V AC ou DC\n\nCourant de sortie: 850-900mA, constant, faible ondulation.\n\nProtection contre: Surcharge, court-circuit, les surintensités, pour assurer la sécurité de l’alimentation.\n\nMots clés: light, controller, current.",
+     "short_description": "Driver Led 10w avec un courant de sortie constant de 850-900mA, il peut alimenter une led de 10w."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/463-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3191",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL4005 5A Abaisseur de Tension CC-CV à Voltmétre / Ampèremètre",
+     "description": "Abaisseur de Tension CC-CV Avec Voltmétre et Ampèremètre XL4005 5A\n\nAlimentation abaisseur de tension à base de XL4005 avec option de régler la tension de sortie (CC) (potentiométre 1), limitation de courant de sortie (CC) (potentiométre 2),  équipée d’un voltmétre et ampèremètre qui mesure la tension et le courant de sortie en temps réel, ce module peut facilement atteindre 3.5A 50W, en ajoutant un dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance, ce module peut aussi fonctionner comme un chargeur de batteries, la Led bleu indique que la batterie est en cours de chargement, et la Led rouge à côté indique que la batterie est complètement chargée.\n\nExemple: Nous voulons charger une batterie au lithium 3.7v, avec une tension maximale de 4.2v (complètement chargé), nous ajustons la tension de sortie à 4.2v, pour choisir le courant de chargement on doit savoir la capacité du batterie ex: 2000mAH, donc pour un courant de 0.5C on régle le courant de chargement à 1A, le seuil de courant à lequel la led vert s’allume et définit par usine à (0.1 X courant de chargement) donc 100mA, lorsque la batterie est presque chargée, le courant absorbé commencera à baisser et lorsqu’il descend en dessous de (0.1 X 1A = 100mA), la led rouge s’allume indiquant que la batterie est complètement chargée.\n\nApplications:\n\nAlimenter LED de haute puissance qui nécessite un courant constant.\n\nChargeur de batterie de lithium, nickel-hydrure métallique, nickel-cadmium (y compris ferroélectrique)\n\nChargeur de batterie 4V, 6V, 12V, 14V,  24V\n\nPanneaux solaires et éoliennes.\n\n…\n\nCaractéristiques:\n\nMode: non synchrone\n\nTension d’entrée: 5V-30V\n\nTension de sortie: 0.8V-29V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 0-5A (plus de 3.5A nécessite d’ajouter un refroidisseur), (réglable à l’aide d’un potentimétre de précision)\n\nEfficacité de conversion: 95% (max)\n\nFréquence de commutation: 300KHz\n\nOnduleur de sortie: 50mV (maximum) 20M de bande passante\n\nCourant de fonctionnement: 15mA\n\nPrécision de mesure: 0,1%\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nTaux de rafraîchissement: environ 200ms / fois\n\nAfficheurs: 0.28 pouces\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’ntrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 64mm * 28mm * 20mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de XL4005 avec option de régler la tension de sortie (CC) (potentiométre 1), limitation de courant de sortie (CC) (potentiométre 2),  équipée d’un voltmétre et ampèremètre qui mesure la tension et le courant de sortie en temps réel, ce module peut facilement atteindre 3.5A 50W, en ajoutant un dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance, ce module peut aussi fonctionner comme un chargeur de batteries, la Led bleu indique que la batterie est en cours de chargement, et la Led rouge à côté indique que la batterie est complètement chargée.\n\nMode: non synchrone\n\nTension d’entrée: 5V-30V\n\nTension de sortie: 0.8V-29V (réglable à l’aide d’un potentimétre de précision)\n\nCourant de sortie: 0-5A (plus de 3.5A nécessite d’ajouter un refroidisseur), (réglable à l’aide d’un potentimétre de précision)\n\nEfficacité de conversion: 95% (max)\n\nFréquence de commutation: 300KHz\n\nOnduleur de sortie: 50mV (maximum) 20M de bande passante\n\nCourant de fonctionnement: 15mA\n\nPrécision de mesure: 0,1%\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nTaux de rafraîchissement: environ 200ms / fois\n\nAfficheurs: 0.28 pouces\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’ntrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 64mm * 28mm * 20mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/476-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42090",
+   "price": 95,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Abaisseur de Tension 8-90V vers USB 5V 2A",
+     "description": "Abaisseur de Tension 8-90V vers USB 5V 2A\n\nCe module abaisseur de Tension buck abaisse n’importe quelle tension d’entrée comprise entre 8 et 90 V DC vers une sortie USB 5V stabilisée à 2A max. Compact et robuste, il intègre un régulateur à commutation haute efficacité, idéal pour alimenter vos périphériques USB (Raspberry Pi, caméras, chargeurs de téléphones) directement depuis une source 12–72 V.\n\n🔧 Caractéristiques techniques\n\nTension d’entrée : 8–90 V DC\n\nTension de sortie : 5V DC ⎓ 2A max. via port USB-A\n\nEfficacité : jusqu’à 95 %\n\nCourant de fonctionnement : jusqu’à 2 A continu, 2,5 A crête\n\nOndulation de sortie : < 50 mV\n\nProtection : court-circuit, surcharge, température\n\nFréquence de commutation : 150 kHz\n\nDimensions : env. 42 × 17 × 12 mm\n\nIndicateur LED : puissance sous tension\n\n💡 Applications typiques\n\nAlimentation de Raspberry Pi, NanoPi, Orange Pi\n\nCharge de smartphones, tablettes et accessoires USB\n\nÉlectronique embarquée (drones, véhicules électriques)\n\nSystèmes audio, caméras de tableau de bord\n\nProjets IoT alimentés par batterie ou panneau solaire\n\nMots clés: buck, converter, power, supply, power, bank.",
+     "short_description": "Ce module abaisseur de Tension buck abaisse n’importe quelle tension d’entrée comprise entre 8 et 90 V DC vers une sortie USB 5V stabilisée à 2A max."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/479-b-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/479-b-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-33841",
+   "price": 100,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur de batteries Lithium 18650 x2",
+     "description": "Chargeur de batteries Lithium 18650 x2\n\nChargeur de batterie au lithium à double charge avec deux ports USB NICE DEVICE MS-282AU.Convient à diverses batteries au lithium de 3,7 V.Temps de charge : 1 à 5 heures.Spécifications de taille : Longueur : 13,3 cm Largeur : 5,2 Hauteur : 3,7 cm Entrée prise UE : 100 -240 V 50/60 Hz Sortie CC : 4,2 V – 1000 mA Sortie USB : 5 V-1000 mA. Ce chargeur dispose de deux ports de charge USB. Protection intelligente contre les courts-circuits, protection contre les surintensités, protection contre les surtensions, protection de connexion inversée de la batterie, arrêt entièrement automatique. Indication de charge : connectez le chargeur, le voyant vert est allumé, installé. L’indicateur devient rouge lorsque la batterie est en charge et vert lorsqu’elle est complètement chargée.\n\nCaractéristiques:\n\nType d’appareil :Chargeur\n\nPrincipe d’opération :impulsion\n\nTension de sortie maximale, en volts :6\n\nTension de sortie minimale, en volts :1.2\n\nCapacité maximale de la batterie en cours de charge, en ampères par heure :3.7\n\nMatériel de corpus :Plastique\n\nModèle :Chargeur de batterie NICE DEVICE MS-282AU\n\nCode du fabricant :4772.\n\nMots clés: charger, balance, bms, tester, battery, meter, lithium, polymer.",
+     "short_description": "Chargeur de batterie au lithium à double charge avec deux ports USB NICE DEVICE MS-282AU.Convient à diverses batteries au lithium de 3,7 V.Temps de charge : 1 à 5 heures."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/01/0481-B.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/01/0481-B-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-43904",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur de batteries Lithium 18650 x4 MS-5D84A",
+     "description": "Chargeur de batteries Lithium 18650 x4 MS-5D84A\n\nUn chargeur intelligent et portable pour batteries Li-Ion (3,7 V), doté de 4 emplacements indépendants et alimenté par une simple prise USB 5 V. Idéal pour recharger rapidement vos accus 10440 à 26650.\n\n🔧 Caractéristiques techniques\n\nAlimentation : USB A 5 V ⎓ 1–2 A via port PC, powerbank ou adaptateur secteur\n\nSortie : 4,20 V ±0,05 V, courant max. 2 000 mA (une seule batterie), 1 000 mA (2 batteries), 500 mA (3–4 batteries)\n\nSlots : 4 emplacements indépendants\n\nCompatibilité : 10440, 14500, 16340, 16650, 17670, 18350, 18500, 18650, 22650, 26650… \n\nIndication : LED par slot (rouge = charge, vert = terminée)\n\nProtections : surchauffe, surcharge, inversion de polarité, court-circuit \n\nDimensions : 133 × 90 × 35 mm (L × l × H)\n\nCâble USB : 55 cm intégré, USB A mâle\n\nPoids : ≃ 120 g\n\n💡 Applications typiques\n\nRechargement de vos accus Li-Ion 18650/14500 pour lampes, torches, e-cigarettes\n\nAlimentation rapide de batteries de drones, outils sans fil et appareils photo\n\nMaintenance et usage nomade : dépannages, ateliers de réparation\n\nBancs de test et prototypage nécessitant plusieurs tensions 4,2 V\n\n⚙️ Utilisation\n\nBrancher le câble USB sur une source 5 V (port PC, chargeur mural, powerbank).\n\nInsérer les batteries dans les emplacements (sens +/– respecté).\n\nObserver les LED :\n\nRouge = en cours de charge\n\nVert = charge terminée, mise hors tension automatique\n\nRetirer les accus une fois le voyant vert fixé.\n\nAstuce : pour une longévité optimale, utilisez un adaptateur USB capable de fournir au moins 2 A et privilégiez la charge d’une batterie à la fois si vous avez besoin d’un courant rapide (2 000 mA).\n\nMots clés: charger, balance, bms, tester, battery, meter, lithium, polymer.",
+     "short_description": "Un chargeur intelligent et portable pour batteries Li-Ion (3,7 V), doté de 4 emplacements indépendants et alimenté par une simple prise USB 5 V. Idéal pour recharger rapidement vos accus 10440 à 26650."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/06/481-c-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/06/481-c-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6433",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte de Charge pour Power Bank 2A",
+     "description": "Carte de Charge pour Power Bank 2A\n\nCette carte est un système de gestion d’alimentation multifonction, avec un convertisseur élévateur de tension intégré, une gestion de la charge de la batterie au lithium et une indication de niveau de la batterie, fournissant une solution d’alimentation complète pour les appareils mobiles. Compatible avec les batteries Lithium 18650, utilisées pour les Power banks, avec deux ports USB avec un courant de charge de 2A, et équipé de 4 leds pour montrer l’état de charge, en plus d’une Led blanche qui peut être utilisé comme une lampe de poche.\n\nCette carte peut être utilisée pour construire un Power bank à partir de cellules de batterie au lithium (vous pouvez connecter autant de cellules que vous voulez en parallèle), pour charger tous vos appareils mobiles compatibles avec 5V.\n\nRemarques:\n\nNe pas connecter les bornes de la batterie en polarité inverse, cela peut endommager la carte.\n\nAppuyez deux fois sur l’interrupteur, la lumière de la lampe de poche s’allume, puis appuyez deux fois pour l’éteindre.\n\nFonctionnalités:\n\nProtection contre les surcharges\n\nProtection contre les décharges excessives\n\nProtection contre les surintensités.\n\nTension et courant de sortie stable\n\nDétecte automatiquement l’insertion et le débranchement du téléphone\n\nProtection contre surchauffe\n\nCaractérstiques:\n\nInterface: Micro USB\n\nType de batteries: lithium-ion (18650)\n\nTension d’entrée: 5V 1A\n\nTension de sortie: 5V 2A (double interface USB)\n\nAffichage de charge: 4 leds d’indication\n\nConsommation en veille inférieure à 100 μA\n\nJusqu’à 97% d’efficacité de charge\n\njusqu’à 96% d’efficacité d’élévation de tension\n\nTaille du produit: 8 X 32 X 69 mm\n\nMots clés: battery, charger, phone, chargeur, powerbank.",
+     "short_description": "Une carte de charge pour les batteries Lithium 18650, utilisées pour les Power banks, avec deux ports USB avec un courant de charge de 2A, et équipé de 4 leds pour montrer l’état de charge, en plus d’une Led blanche qui peut être utilisé comme une lampe de poche."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/482-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/482-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6427",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte de Charge pour Power Bank 1A / 2.1A avec Lcd",
+     "description": "Carte de Charge pour Power Bank 1A / 2.1A avec Lcd\n\nUne carte de charge pour les batteries Lithium 18650, utilisées pour les Power banks, avec deux ports USB avec un courant de charge de 1A et 2.1A, et équipé d’un écran lcd pour montrer l’état de charge, et le pourcentage reste à utiliser, en plus d’une Led blanche qui peut être utilisé comme une lampe de poche.\n\nCette carte peut être utilisée pour construire un Power bank à partir de cellules de batterie au lithium (vous pouvez connecter autant de cellules que vous voulez en parallèle), pour charger tous vos appareils mobiles compatibles avec 5V.\n\nRemarque: ne pas connecter les bornes de la batterie en polarité inverse, cela peut endommager la carte.\n\nFonctionnalités:\n\nProtection contre les surcharges\n\nProtection contre les décharges excessives\n\nProtection contre les surintensités.\n\nTension et courant de sortie stable\n\nCaractérstiques:\n\nInterface: Micro USB\n\nType de batteries: lithium-ion (18650)\n\nTension d’entrée: 5V 1A\n\nTension de sortie: 5V 2.1A / 5V 1A (double interface USB)\n\nAffichage de charge: affichage numérique intelligent\n\nTaille du produit: 57mm x 28mm\n\nTaille de l’écran: 27mm x 17mm\n\nMots clés: battery, charger, phone, chargeur, powerbank.",
+     "short_description": "Une carte de charge pour les batteries Lithium 18650, utilisées pour les Power banks, avec deux ports USB avec un courant de charge de 1A et 2.1A, et équipé d’un écran lcd pour montrer l’état de charge, et le pourcentage reste à utiliser, en plus d’une Led blanche peutétre utilisé comme une lampe de poche."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/483-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/483-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-43910",
+   "price": 370,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Power Bank 30000mAh Dinex QC 3.0 PD Type-C",
+     "description": "Power Bank 30000mAh Dinex QC 3.0 PD Type-C\n\nUn accumulateur portable haute capacité doté de câbles intégrés et de ports QC/PD pour recharger jusqu’à quatre appareils simultanément en déplacement.\n\n🔧 Caractéristiques techniques\n\nCapacité : 30 000 mAh / 3,7 V (≈ 111 Wh)\n\nEntrées\n\nUSB-C IN : 5 V / 3 A · 9 V / 2,2 A · 12 V / 1,6 A (PD jusqu’à 20 W)\n\nMicro-USB IN : 5 V / 3 A (15 W)\n\nSorties\n\n2× USB-A QC3.0 : 5 V / 3 A · 9 V / 2,23 A · 12 V / 1,67 A (jusqu’à 22,5 W chacune)\n\n1× USB-C PD : 5 V / 3 A · 9 V / 2,23 A · 12 V / 1,67 A (jusqu’à 30 W)\n\nCâbles rétractables intégrés\n\nUSB-C et Lightning, toujours à portée de main\n\nAffichage : écran LED digital indiquant l’autonomie restante (%)\n\nProtections : surcharge, décharge excessive, court-circuit, surchauffe\n\nDimensions & poids : env. 150 × 75 × 24 mm, ≃ 280 g\n\n💡 Applications typiques\n\nRecharge rapide de smartphones et tablettes\n\nAlimentation nomade de PC portables légers compatibles PD\n\nPuissance d’appoint pour enceintes Bluetooth, caméras, drones\n\nAlimentation de petits accessoires USB (ventilateur, lampe LED)\n\nSolution d’urgence en voyage, camping et bureaux nomades\n\n⚙️ Utilisation & conseils\n\nChargement du power bank\n\nBranchez un câble USB-C ou micro-USB vers l’entrée appropriée.\n\nPrivilégiez un adaptateur 18–20 W pour un temps de charge optimal.\n\nAlimentation de vos appareils\n\nSélectionnez port USB-A QC pour devices Quick Charge ou port USB-C PD pour appareils PD.\n\nLe module négocie automatiquement la tension (5 V/9 V/12 V).\n\nGestion & affichage\n\nL’écran LED indique la charge restante par paliers de 1 %.\n\nEn l’absence de charge, le power bank se met en veille pour économiser sa batterie.\n\nEntretien & précautions\n\nÉvitez les températures extrêmes et l’humidité.\n\nNe débranchez pas brutalement le câble rétractable ; tirez toujours sur le connecteur.\n\nRangez l’appareil chargé à ~ 50 % pour un stockage prolongé.\n\nAstuce : pour réduire les pertes, utilisez de préférence le câble rétractable intégré et évitez les rallonges USB trop longues.\n\nMots clés: battery, charger, phone, chargeur, powerbank.",
+     "short_description": "Un accumulateur portable haute capacité doté de câbles intégrés et de ports QC/PD pour recharger jusqu’à quatre appareils simultanément en déplacement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/06/483-d-1.png"
+   ]
+  }
+ ]
+}

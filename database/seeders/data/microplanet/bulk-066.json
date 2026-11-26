@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3689",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78L08 Régulateur de Tension To-92 8V 0.1A",
+     "description": "Régulateur de Tension To-92 78L08 8V 0.1A\n\nRégulateur de Tension To-92 78L08 8V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 78L08 8V 0.1A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/815-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/815-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3690",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78L09 Régulateur de Tension To-92 9V 0.1A",
+     "description": "Régulateur de Tension To-92 78L09 9V 0.1A\n\nRégulateur de Tension To-92 78L09 9V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 78L09 9V 0.1A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/816-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/816-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20832",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78L10 Régulateur de Tension To-92 10V 0.1A",
+     "description": "Régulateur de Tension To-92 78L10 10V 0.1A\n\nRégulateur de Tension To-92 78L10 10V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 78L10 10V 0.1A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/816-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3691",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78L12 Régulateur de Tension To-92 12V 0.1A",
+     "description": "Régulateur de Tension To-92 78L12 12V 0.1A\n\nRégulateur de Tension To-92 78L12 12V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 78L12 12V 0.1A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/817-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/817-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3692",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "78L15 Régulateur de Tension To-92 15V 0.1A",
+     "description": "Régulateur de Tension To-92 78L15 15V 0.1A\n\nRégulateur de Tension To-92 78L15 15V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 78L15 15V 0.1A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/818-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/818-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3708",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM317LZ Régulateur de Tension To-92 1.2V-37V 0.1A",
+     "description": "Régulateur de Tension To-92 LM317LZ 1.2V-37V 0.1A\n\nRégulateur de Tension To-92 LM317LZ 1.2V-37V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 LM317LZ 1.2V-37V 0.1A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/833-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/833-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/833-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20834",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "79L05 Régulateur de Tension To-92 -5V 0.1A",
+     "description": "Régulateur de Tension To-92 79L05 -5V 0.1A\n\nRégulateur de Tension To-92 79L05 -5V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 79L05 -5V 0.1A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/836-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20837",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "79L08 Régulateur de Tension To-92 -8V 0.1A",
+     "description": "Régulateur de Tension To-92 79L08 -8V 0.1A\n\nRégulateur de Tension To-92 79L08 -8V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 79L08 -8V 0.1A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/837-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20840",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "79L09 Régulateur de Tension To-92 -9V 0.1A",
+     "description": "Régulateur de Tension To-92 79L09 -9V 0.1A\n\nRégulateur de Tension To-92 79L09 -9V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 79L09 -9V 0.1A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/838-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20843",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "79L12 Régulateur de Tension To-92 -12V 0.1A",
+     "description": "Régulateur de Tension To-92 79L12 -12V 0.1A\n\nRégulateur de Tension To-92 79L12 -12V 0.1A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-92 79L12 -12V 0.1A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/839-1.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6063",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panneau Solaire en Polycrystalline",
+     "description": "Panneau Solaire 5V, 6V, 12V en Polycrystalline\n\nDes panneaux solaires en Polycrystalline, très facile à utiliser, ce panneau solaire s’intègrera parfaitement dans vos petits projets statiques ou mobiles. Les cellules produit des tensions continue de 5V, 6V ou 12V. Plusieurs panneaux peuvent être disposés en série et/ou en parallèle pour accroître la tension et le courant.\n\nVersions disponibles:\n\n5V, 0.3W max, dimensions: 68x37mm\n\n5V, 1.8W max, dimensions: 123x83x3mm\n\n5V, 5.2W max, dimensions: 200x130x3mm\n\n6V, 1W max, dimensions: 110x60mm\n\n12V, 2W max, dimensions: 110x136x3mm\n\n12v 5w max, dimensions: 210x165x3mm\n\nApplications:\n\nStation météo solaire\n\nEclairage de nuit autonome\n\nMini-robot mobile solaire\n\ncharger les téléphones cellulaires\n\nle bricolage alimentation jouet solaire\n\npompe à eau fonctionnant à l’énergie solaire\n\nMots clés: solar, panel, energy.",
+     "short_description": "Des panneaux solaires en Polycrystalline 5V, 6V ou 12."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/504-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/504-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34426",
+   "price": 95,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Panneau Solaire USB 5V 2W",
+     "description": "Panneau Solaire USB 5V 2W\n\n5V 400mA panneau solaire 2W sortie USB système solaire portable extérieur, chargeur de téléphone portable\n\nSpécification:\n\nPlaquette: polysilicium\n\nProcessus: stratification d’EVA\n\nPuissance de sortie: 2W\n\nTension de fonctionnement: 5V\n\nCourant de travail: 0-400mA\n\nEfficacité de conversion: 18.8%\n\nPort de sortie: USB\n\nLongueur du câble USB: 50cm\n\nTaille du produit: 157*94mm",
+     "short_description": "5V 400mA panneau solaire 2W sortie USB système solaire portable extérieur pour chargeurs de téléphone portable."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0504-A.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6439",
+   "price": 9,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "18650 X1 Porte-piles Pour Batterie",
+     "description": "🔋 Porte-Batterie 18650 ×1 — Support pour une Cellule Li-ion\n\nCe porte-batterie 18650 pour une cellule permet d’intégrer facilement un accumulateur lithium-ion rechargeable dans un montage électronique. Il assure le maintien mécanique de la batterie et facilite son remplacement sans soudure directe sur ses bornes.\n\nIl convient aux prototypes, éclairages LED, robots, objets connectés, alimentations portables et autres projets fonctionnant avec une tension comprise entre environ 3 et 4,2 V.\n\n✨ Points forts\n\n🔋 Compatible avec une cellule au format 18650\n\n🔄 Batterie facilement amovible et remplaçable\n\n🔧 Installation simple dans un boîtier ou sur un prototype\n\n🛡️ Évite de souder directement sur la batterie\n\n⚡ Sortie directe de la tension de la cellule\n\n🤖 Adapté aux projets électroniques et robotiques\n\n📦 Format compact\n\n🛠️ Idéal pour les montages DIY\n\n🔧 Caractéristiques principales\n\nType : porte-batterie pour cellule cylindrique\n\nFormat compatible : 18650\n\nNombre de cellules : 1\n\nTechnologie habituelle de la cellule : lithium-ion\n\nTension nominale de sortie : 3,6 ou 3,7 V, selon la batterie\n\nTension maximale avec une cellule chargée : 4,2 V\n\nConfiguration : 1S\n\nConnexion : contacts métalliques avec sortie positive et négative\n\nMontage : intégration dans un boîtier ou un circuit\n\nRecharge intégrée : non\n\nProtection électronique intégrée : non\n\nLa batterie 18650, le chargeur et le circuit de protection sont vendus séparément.\n\n📊 Tension d’une batterie 18650\n\nÉtat de la cellule\nTension indicative\n\nComplètement chargée\n4,2 V\n\nTension nominale\n3,6 à 3,7 V\n\nBatterie faible\nEnviron 3 V\n\nDécharge excessive\nÀ éviter\n\nLa tension de sortie du support varie avec l’état de charge de la batterie. Il ne s’agit pas d’une sortie régulée.\n\n⚙️ Principe de fonctionnement\n\nLe porte-batterie maintient la cellule 18650 entre deux contacts métalliques. Les bornes positive et négative sont ensuite accessibles pour alimenter le circuit.\n\nLe support ne modifie pas la tension et ne contrôle pas la charge. Une batterie chargée à 4,2 V fournira environ 4,2 V à la sortie, puis cette tension diminuera progressivement pendant son utilisation.\n\nPour obtenir une sortie stable de 5 V, 9 V ou une autre valeur, ajoutez un convertisseur DC-DC adapté.\n\n🛠️ Tutoriel d’utilisation\n\nVérifiez que la cellule 18650 n’est ni gonflée, ni percée, ni endommagée.\n\nRepérez les symboles + et – sur le support.\n\nInsérez la borne négative de la cellule du côté indiqué –.\n\nPressez légèrement le ressort, puis placez la borne positive du côté +.\n\nVérifiez la polarité de la sortie avec un multimètre.\n\nConnectez le positif du support au positif du circuit.\n\nConnectez le négatif du support au GND du circuit.\n\nAjoutez un interrupteur si vous souhaitez couper facilement l’alimentation.\n\nSi le support possède des fils, le rouge correspond généralement au positif et le noir au négatif. Vérifiez néanmoins la polarité au multimètre avant la première utilisation.\n\n🔌 Exemple de branchement\n\nPorte-batterie + ─── Interrupteur ─── VCC du circuit\r\nPorte-batterie – ──────────────────── GND du circuit\nAvant le branchement, vérifiez que votre circuit accepte une tension pouvant atteindre 4,2 V.\n\n🔄 Comment recharger la batterie ?\n\nCe support ne constitue pas un chargeur. Pour recharger la cellule :\n\nRetirez-la et utilisez un chargeur 18650 adapté, ou\n\nAjoutez un module de charge lithium-ion 1S, par exemple un circuit basé sur le TP4056.\n\nUtilisez de préférence un module comprenant une protection contre la surcharge, la décharge excessive et les courts-circuits.\n\nVérifiez que le courant de charge convient à la capacité et aux spécifications de la cellule.\n\nNe branchez jamais directement une alimentation 5 V sur une batterie 18650.\n\n⚠️ Précautions de sécurité\n\nRespectez impérativement la polarité.\n\nNe court-circuitez jamais les deux sorties.\n\nUtilisez une cellule de qualité, correctement protégée.\n\nNe rechargez pas la batterie sans chargeur Li-ion adapté.\n\nNe dépassez pas le courant autorisé par la cellule et le support.\n\nN’utilisez jamais une batterie déformée, rouillée ou dont l’enveloppe est déchirée.\n\nÉvitez la chaleur, l’humidité et les objets métalliques.\n\nRetirez la cellule avant de travailler sur le câblage.\n\nVérifiez la longueur de la batterie : certaines cellules protégées sont plus longues que le format standard.\n\nConservez les cellules lithium-ion hors de portée des enfants.\n\n🎯 Applications principales\n\n🤖 Robots et véhicules électroniques\n\n💡 Lampes et éclairages LED\n\n📡 Objets connectés et capteurs autonomes\n\n🔊 Petits amplificateurs audio\n\n🛠️ Prototypes électroniques\n\n🔋 Alimentations portables\n\n🌡️ Stations de mesure autonomes\n\n📟 Appareils électroniques DIY\n\n🚨 Systèmes d’alarme basse tension\n\n☀️ Projets solaires avec chargeur adapté\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Porte-batterie compact pour une cellule Li-ion 18650, idéal pour alimenter facilement les projets électroniques et remplacer la batterie sans soudure."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/505-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21413",
+   "price": 13,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "18650 X2 Porte-piles Pour Batterie",
+     "description": "Porte-piles Pour Batterie 18650 X 2\n\nBoîtier (porte-piles) Pour Batterie 18650 X 2, facilite l’alimentation de vos projets et cartes éléctroniques.\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Boîtier (porte-piles) Pour Batterie 18650 X 2, facilite l’alimentation de vos projets et cartes éléctroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/505-2-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-25091",
+   "price": 16,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "18650 X3 Porte-piles Pour Batterie",
+     "description": "🔋 Porte-Batteries 18650 ×3 en Série — Alimentation Li-ion 11,1 V\n\nCe porte-batteries pour trois cellules 18650 connecte les batteries en série afin d’obtenir une tension nominale totale de 11,1 V et jusqu’à 12,6 V lorsque les trois cellules sont complètement chargées.\n\nIl permet de remplacer facilement les batteries sans les souder directement et convient aux robots, moteurs, éclairages LED, amplificateurs, équipements portables et projets électroniques nécessitant une alimentation proche de 12 V.\n\n✨ Points forts\n\n🔋 Accueille trois cellules 18650\n\n🔗 Connexion interne en série\n\n⚡ Tension nominale de sortie de 11,1 V\n\n🔝 Tension maximale de 12,6 V\n\n🔄 Batteries facilement remplaçables\n\n🛡️ Évite la soudure directe sur les cellules\n\n🤖 Adapté aux projets électroniques et robotiques\n\n📦 Format compact pour une intégration facile\n\n🛠️ Compatible avec un circuit BMS 3S adapté\n\n🔧 Caractéristiques principales\n\nType : porte-batteries pour cellules cylindriques\n\nFormat compatible : 18650\n\nNombre de cellules : 3\n\nConfiguration électrique : 3S\n\nType de connexion : série\n\nTension nominale d’une cellule : 3,6 ou 3,7 V\n\nTension nominale totale : 10,8 ou 11,1 V\n\nTension maximale du pack : 12,6 V\n\nTension maximale par cellule : 4,2 V\n\nSortie : positive et négative\n\nRecharge intégrée : non\n\nProtection BMS intégrée : non\n\nBatteries incluses : non\n\nLa tension de sortie n’est pas régulée : elle diminue progressivement pendant la décharge des cellules.\n\n🔗 Fonctionnement de la connexion en série\n\nDans une connexion en série, les tensions des trois batteries s’additionnent, tandis que la capacité en ampères-heures reste celle d’une seule cellule.\n\nCellule 1 Cellule 2 Cellule 3\r\n 3,7 V + 3,7 V + 3,7 V\r\n = 11,1 V nominal\nExemple avec trois batteries de 3,7 V et 3000 mAh :\n\nTension nominale du pack : 11,1 V\n\nTension maximale : 12,6 V\n\nCapacité totale : 3000 mAh, et non 9000 mAh\n\n📊 Tension du pack 3S\n\nÉtat du pack\nTension totale indicative\n\nComplètement chargé\n12,6 V\n\nTension nominale\n11,1 V\n\nBatterie faible\nEnviron 9 V\n\nDécharge excessive\nÀ éviter\n\nLe seuil minimal exact dépend des caractéristiques des cellules et du circuit de protection utilisé.\n\n🛡️ BMS 3S indispensable\n\nPour réaliser une batterie rechargeable sûre, ajoutez un BMS 3S adapté au courant consommé par votre projet.\n\nLe BMS protège généralement le pack contre :\n\nLa surcharge des cellules\n\nLa décharge excessive\n\nLes courts-circuits\n\nLes surintensités\n\nLe déséquilibre entre les cellules, si le BMS possède une fonction d’équilibrage\n\n⚠️ Un BMS ne remplace pas un chargeur. Utilisez également un chargeur Li-ion 3S de 12,6 V avec régulation CC/CV.\n\n🛠️ Tutoriel d’utilisation\n\nUtilisez trois cellules 18650 identiques.\n\nVérifiez qu’elles possèdent la même capacité, la même référence et un état similaire.\n\nMesurez leur tension avant l’installation.\n\nInsérez chaque cellule en respectant les symboles + et – du support.\n\nVérifiez la tension de sortie avec un multimètre.\n\nUne valeur proche de 9 à 12,6 V doit être mesurée selon leur charge.\n\nConnectez la sortie du support à un BMS 3S correctement câblé.\n\nReliez ensuite la sortie protégée du BMS à votre appareil.\n\nPour la recharge, utilisez un chargeur 12,6 V prévu pour les packs lithium-ion 3S.\n\n🔌 Exemple de connexion\n\n3 cellules 18650\r\n │\r\nPorte-batteries 3S\r\n │\r\n BMS 3S\r\n │\r\nInterrupteur + fusible\r\n │\r\n Circuit ou appareil\nSi le circuit nécessite une tension stable, ajoutez un convertisseur DC-DC entre le BMS et la charge.\n\n⚠️ Précautions importantes\n\nNe mélangez jamais des cellules de capacités ou de marques différentes.\n\nN’utilisez pas simultanément des cellules neuves et usagées.\n\nVérifiez que leurs tensions sont proches avant de les insérer.\n\nRespectez impérativement la polarité de chaque emplacement.\n\nNe court-circuitez jamais la sortie du support.\n\nN’utilisez pas un chargeur 1S de 4,2 V pour ce pack.\n\nN’utilisez pas non plus une alimentation 12 V classique comme chargeur.\n\nUtilisez un chargeur Li-ion 12,6 V CC/CV et un BMS 3S.\n\nRetirez toute cellule gonflée, rouillée ou dont l’isolant est endommagé.\n\nVérifiez que l’appareil accepte jusqu’à 12,6 V, pas seulement 11,1 V.\n\nAjoutez un fusible adapté lorsque le circuit peut consommer un courant important.\n\n🎯 Applications principales\n\n🤖 Robots et véhicules électroniques\n\n⚙️ Petits moteurs et motoréducteurs\n\n💡 Éclairages LED 12 V compatibles\n\n🔊 Amplificateurs audio portables\n\n📡 Systèmes de communication autonomes\n\n🛠️ Alimentations portables DIY\n\n🚨 Alarmes et systèmes de sécurité\n\n🌡️ Stations de mesure autonomes\n\n☀️ Projets solaires avec chargeur adapté\n\n🔋 Packs de batteries Li-ion 3S\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Porte-batteries 18650 ×3 câblé en série, fournissant 11,1 V nominal et jusqu’à 12,6 V pour les projets électroniques et robotiques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/04/505-3-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21414",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "18650 X4 Porte-piles Pour Batterie",
+     "description": "Porte-piles Pour Batterie 18650 X 4\n\nBoîtier (porte-piles) Pour Batterie 18650 X 4, facilite l’alimentation de vos projets et cartes éléctroniques.\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Boîtier (porte-piles) Pour Batterie 18650 X 4, facilite l’alimentation de vos projets et cartes éléctroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/505-4-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6441",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Batterie 18650 3.7V",
+     "description": "Batterie 18650 3.7V\n\nBatterie 18650 3.7V standard.\n\nModéle: 18650\n\nTension nominale: 3.7v\n\nRésistance interne: 0.12 ohm\n\nDimensions: 18.4x65mm\n\nMots clés: lithium, battery.",
+     "short_description": "Batterie 18650 3.7V standard."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/0506-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8138",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AAA X1 Porte-piles Pour Batterie",
+     "description": "🔋 Porte-Pile AAA ×1 — Alimentation Compacte de 1,5 V ou 1,2 V\n\nCe porte-pile pour une batterie AAA permet d’alimenter facilement les petits montages électroniques tout en gardant la pile amovible. Il évite de souder directement sur la batterie et facilite son remplacement.\n\nLe support fournit 1,5 V avec une pile alcaline AAA ou 1,2 V avec un accumulateur Ni-MH rechargeable.\n\n✨ Points forts\n\n🔋 Compatible avec une pile ou un accu AAA\n\n⚡ Sortie de 1,5 V ou 1,2 V\n\n🔄 Batterie facilement remplaçable\n\n🛡️ Évite la soudure directe sur la pile\n\n📏 Format compact et léger\n\n🛠️ Facile à intégrer dans un boîtier\n\n🎓 Idéal pour les prototypes électroniques\n\n💡 Adapté aux circuits à faible consommation\n\n🔧 Caractéristiques principales\n\nFormat compatible : AAA\n\nNombre d’emplacements : 1\n\nTension avec une pile alcaline : 1,5 V\n\nTension avec un accu Ni-MH : 1,2 V\n\nSortie : positive et négative\n\nRégulation de tension : non\n\nChargeur intégré : non\n\nPile incluse : non\n\nLa tension réelle varie en fonction du type de batterie, de son état de charge et du courant demandé par le circuit.\n\n📊 Pile alcaline ou accu Ni-MH ?\n\nBatterie utilisée\nTension nominale\nRechargeable\n\nPile alcaline AAA\n1,5 V\n❌ Non\n\nAccu Ni-MH AAA\n1,2 V\n✅ Oui, avec un chargeur adapté\n\n🛠️ Tutoriel d’utilisation\n\nVérifiez que votre circuit fonctionne avec une tension comprise autour de 1,2 à 1,5 V.\n\nRepérez les symboles + et – dans le support.\n\nInsérez la batterie AAA en respectant sa polarité.\n\nMesurez la tension de sortie avec un multimètre.\n\nReliez la sortie positive au VCC du circuit.\n\nReliez la sortie négative au GND.\n\nAjoutez un interrupteur si nécessaire.\n\nPorte-pile + ─── Interrupteur ─── VCC\r\nPorte-pile – ──────────────────── GND\n⚠️ Précautions d’utilisation\n\nRespectez impérativement la polarité.\n\nNe court-circuitez jamais les sorties.\n\nNe rechargez pas une pile alcaline.\n\nRetirez l’accu Ni-MH pour le recharger avec un chargeur adapté.\n\nN’utilisez pas une batterie qui fuit ou présente des dommages.\n\nRetirez la batterie lors d’un stockage prolongé.\n\nVérifiez que le circuit accepte la tension disponible.\n\n🎯 Applications principales\n\n💡 Petites LED avec résistance adaptée\n\n🔔 Buzzers basse tension\n\n🎓 Expériences électroniques\n\n📟 Petits afficheurs et circuits\n\n🧸 Jouets électroniques\n\n📡 Capteurs à faible consommation\n\n🛠️ Prototypes DIY\n\n🔬 Projets scolaires\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Porte-pile compact pour une batterie AAA, fournissant 1,5 V avec une pile alcaline ou 1,2 V avec un accu Ni-MH."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/510-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22070",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AAA X2 Porte-piles Pour Batterie",
+     "description": "🔋 Porte-Piles AAA ×2 en Série — Sortie 3 V ou 2,4 V\n\nCe porte-piles pour deux batteries AAA constitue une solution compacte pour alimenter les petits circuits électroniques, capteurs, jouets et projets portables. Les deux emplacements sont câblés en série afin d’additionner les tensions.\n\nIl fournit 3 V avec deux piles alcalines AAA ou 2,4 V avec deux accumulateurs Ni-MH rechargeables.\n\n✨ Points forts\n\n🔋 Compatible avec deux batteries AAA\n\n🔗 Connexion interne en série\n\n⚡ Sortie de 3 V avec des piles alcalines\n\n♻️ Sortie de 2,4 V avec des accus Ni-MH\n\n🔄 Batteries facilement remplaçables\n\n📏 Faible encombrement\n\n🛡️ Aucun soudage direct sur les batteries\n\n🤖 Adapté aux circuits électroniques compacts\n\n🔧 Caractéristiques principales\n\nFormat compatible : AAA\n\nNombre d’emplacements : 2\n\nConfiguration : 2S\n\nConnexion : série\n\nTension avec des piles alcalines : 1,5 V × 2 = 3 V\n\nTension avec des accus Ni-MH : 1,2 V × 2 = 2,4 V\n\nSortie : positive et négative\n\nRégulation intégrée : non\n\nRecharge intégrée : non\n\nPiles incluses : non\n\n⚙️ Principe de la connexion en série\n\nLes tensions s’additionnent, mais la capacité reste celle d’une seule batterie.\n\n2 piles alcalines :\r\n1,5 V + 1,5 V = 3 V\r\n\n2 accus Ni-MH :\r\n1,2 V + 1,2 V = 2,4 V\nDeux accus de 800 mAh fournissent un pack d’environ 2,4 V et 800 mAh, et non 1600 mAh.\n\n🛠️ Tutoriel d’utilisation\n\nUtilisez deux batteries AAA identiques.\n\nVérifiez leur état et leur tension.\n\nRepérez les indications + et – dans chaque emplacement.\n\nInsérez les batteries selon les polarités indiquées.\n\nMesurez la tension totale avec un multimètre.\n\nConnectez la sortie positive au VCC du circuit.\n\nConnectez la sortie négative au GND.\n\nAjoutez un interrupteur si nécessaire.\n\nPorte-piles + ─── Interrupteur ─── VCC\r\nPorte-piles – ──────────────────── GND\n⚠️ Précautions d’utilisation\n\nNe mélangez pas des piles alcalines et des accus Ni-MH.\n\nUtilisez deux batteries de même marque, capacité et état de charge.\n\nN’associez pas une batterie neuve et une batterie usagée.\n\nNe rechargez jamais des piles alcalines.\n\nRechargez les accus avec un chargeur Ni-MH adapté.\n\nRespectez la polarité de chaque emplacement.\n\nNe court-circuitez pas la sortie.\n\nRetirez les batteries pendant un stockage prolongé.\n\n🎯 Applications principales\n\n🤖 Petits robots et jouets\n\n📟 Circuits électroniques 3 V\n\n💡 Éclairages LED adaptés\n\n🔔 Alarmes et buzzers\n\n📡 Capteurs autonomes\n\n🎮 Contrôleurs et petits appareils\n\n🎓 Projets scolaires\n\n🛠️ Prototypes basse tension\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Porte-piles AAA ×2 câblé en série, fournissant 3 V avec des piles alcalines ou 2,4 V avec des accus Ni-MH rechargeables."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/07/510-2-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22072",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AAA X3 Porte-piles Pour Batterie",
+     "description": "🔋 Porte-Piles AAA ×3 en Série — Sortie 4,5 V ou 3,6 V\n\nCe porte-piles pour trois batteries AAA permet de réaliser une alimentation compacte pour les projets électroniques, robots, éclairages et appareils portables. Les trois batteries sont connectées en série, ce qui additionne leurs tensions.\n\nLe support délivre 4,5 V avec trois piles alcalines AAA ou 3,6 V avec trois accumulateurs Ni-MH rechargeables.\n\n✨ Points forts\n\n🔋 Compatible avec trois batteries AAA\n\n🔗 Câblage interne en série\n\n⚡ Sortie de 4,5 V avec des piles alcalines\n\n♻️ Sortie de 3,6 V avec des accus Ni-MH\n\n🔄 Remplacement rapide des batteries\n\n📦 Format compact\n\n🛡️ Évite la soudure directe sur les cellules\n\n🤖 Convient aux projets électroniques mobiles\n\n🛠️ Facile à installer dans un boîtier\n\n🔧 Caractéristiques principales\n\nFormat compatible : AAA\n\nNombre d’emplacements : 3\n\nConfiguration : 3S\n\nConnexion électrique : série\n\nTension avec des piles alcalines : 1,5 V × 3 = 4,5 V\n\nTension avec des accus Ni-MH : 1,2 V × 3 = 3,6 V\n\nSortie : positive et négative\n\nRégulation intégrée : non\n\nRecharge intégrée : non\n\nPiles incluses : non\n\nLa sortie n’est pas régulée. Sa tension diminue progressivement pendant l’utilisation des batteries.\n\n⚙️ Principe de la connexion en série\n\n3 piles alcalines :\r\n1,5 V + 1,5 V + 1,5 V = 4,5 V\r\n\n3 accus Ni-MH :\r\n1,2 V + 1,2 V + 1,2 V = 3,6 V\nLa capacité totale reste celle d’une seule batterie. Trois accus de 1000 mAh fournissent environ 3,6 V et 1000 mAh.\n\n🛠️ Tutoriel d’utilisation\n\nVérifiez la plage de tension acceptée par votre circuit.\n\nChoisissez trois piles alcalines ou trois accus Ni-MH identiques.\n\nContrôlez leur état et leur tension.\n\nInsérez chaque batterie en respectant les symboles + et –.\n\nMesurez la tension de sortie avec un multimètre.\n\nReliez le positif du support au VCC du circuit.\n\nReliez le négatif au GND.\n\nAjoutez un interrupteur ou un connecteur adapté.\n\nPorte-piles + ─── Interrupteur ─── VCC\r\nPorte-piles – ──────────────────── GND\nSi votre circuit exige exactement 3,3 V, utilisez un régulateur adapté lorsque la tension du pack peut atteindre 4,5 V.\n\n⚠️ Précautions d’utilisation\n\nUtilisez trois batteries identiques.\n\nNe mélangez pas différentes technologies.\n\nN’associez pas des batteries neuves et usagées.\n\nNe rechargez jamais des piles alcalines.\n\nRechargez les accus Ni-MH avec un chargeur compatible.\n\nRespectez la polarité de chaque emplacement.\n\nNe court-circuitez jamais les sorties.\n\nVérifiez que le circuit supporte la tension maximale.\n\nRetirez les batteries lors d’un stockage prolongé.\n\nRemplacez immédiatement toute batterie qui fuit ou chauffe.\n\n🎯 Applications principales\n\n🤖 Petits robots et mécanismes\n\n💡 Éclairages LED portables\n\n📡 Capteurs et modules autonomes\n\n🔊 Petits circuits audio\n\n🎮 Jouets et contrôleurs\n\n🚨 Alarmes électroniques\n\n🎓 Projets éducatifs\n\n🛠️ Montages et prototypes DIY\n\n📟 Appareils fonctionnant autour de 4,5 V\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Porte-piles AAA ×3 câblé en série, fournissant 4,5 V avec des piles alcalines ou 3,6 V avec des accus Ni-MH rechargeables."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/07/510-3-1.png"
+   ]
+  }
+ ]
+}

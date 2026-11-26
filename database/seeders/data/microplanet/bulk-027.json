@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-34423",
+   "price": 170,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "RA-02 SX1278 433MHZ 10KM Module LORA",
+     "description": "RA-02 SX1278 433MHZ 10KM Module LORA\n\nRA-02 est un module de transmission sans fil basé sur l’émetteur-récepteur sans fil SX1278. Il adopte la technologie avancée de spectre étalé LoRa, avec une distance de communication de 10 000 mètres. Il a une forte capacité d’anti-brouillage et à la fonction de consommation de réveil d’air. Le module RF SX1278 est principalement utilisé pour la communication à spectre étalé à longue portée et peut minimiser la consommation de courant. Le SX1278 a une sensibilité élevée de -148 dBm avec une puissance de sortie de +20 dBm, une longue distance de transmission et une fiabilité élevée. Dans le même temps, par rapport à la technologie de modulation traditionnelle, la technologie de modulation LoRa ™ présente des avantages évidents en matière d’antiblocage et de sélection, ce qui résout le problème selon lequel le schéma de conception traditionnel ne peut pas prendre en compte simultanément la distance, les interférences et la consommation d’énergie.\n\nIl peut couvrir des milliers de personnes dans l’environnement du quartier, particulièrement adapté à la lecture des compteurs, à la maison intelligente et aux équipements d’alarme antivol.\n\nCaractéristiques :\n\nTechnologie de modulation LoRa Spread Spectrum\n\nPuissance de sortie RF constante à un changement de tension de + 20 dBm-100 mW\n\nHaute sensibilité : jusqu’à -148 dBm\n\nCommunication SPI semi-duplex\n\nDébits binaires programmables jusqu’à 300 kbps\n\nPrend en charge les modes de modulation FSK, GFSK, MSK, GMSK, LoRa et OOK\n\nPlage dynamique RSSI de 127 dB\n\nDétection automatique du signal RF, mode CAO et AFC très haute vitesse\n\nMoteur de paquets avec CRC jusqu’à 256 octets\n\nEnsemble de patchs à double rangée de trous de tampon à faible encombrement\n\nBoîtier blindé\n\nAntenne à ressort",
+     "short_description": "RA-02 est un module de transmission sans fil basé sur l’émetteur-récepteur sans fil SX1278. Il adopte la technologie avancée de spectre étalé LoRa, avec une distance de communication de 10 000 mètres. Il a une forte capacité d’anti-brouillage et à la fonction de consommation de réveil d’air."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0193-D-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0193-D.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4328",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HC06 Module Bluetooth HC-06",
+     "description": "Module Bluetooth HC-06\n\nLe module Bluetooth HC-06 permet d’établir une liaison Bluetooth (liaison série) entre une carte Arduino et un autre équipement possédant une connexion Bluetooth (Smartphone, tablette, seconde carte Arduino, etc…). Le module HC-06 est un module “esclave” contrairement au module HC-05 qui est “maître”. Un module “maître” peut demander à un autre élément Bluetooth de s’appairer avec lui. Alors qu’un module “esclave” ne peut recevoir que des demandes d’appairage.\n\nCes deux modules peuvent être configurés grâce à des commandes AT (ou commandes Hayes).\n\nLa tension d’alimentation de ces modules doit être comprise entre 3,3 et 5 V, mais la broche RX ne peut recevoir qu’une tension maximale de 3,3 V. Il faudra prévoir un pont diviseur / convertisseur de tension, pour ramener la tension 5V délivrée par la carte Arduino pour ne pas endommager la broche RX du module Bluetooth.\n\nBaud Rate par défault: 9600,8,1,n.\n\nAntenne intégrée.\n\nCouverture du signal jusqu’à 30ft.\n\nVersion Bluetooth: V2.0 + EDR\n\nTension de fonctionnement: 3.3V\n\nTaille de l’article: 4.3 * 1.6 * 0.7cm.\n\nMots clés: wireless.",
+     "short_description": "Le module Bluetooth HC-06 permet d’établir une liaison Bluetooth (liaison série) entre une carte Arduino et un autre équipement possédant une connexion Bluetooth (Smartphone, tablette, seconde carte Arduino, etc…).\n\nBaud Rate par défault: 9600,8,1,n.\n\nAntenne intégrée.\n\nCouverture du signal jusqu’à 30ft.\n\nVersion Bluetooth: V2.0 + EDR\n\nTension de fonctionnement: 3.3V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/208-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/208-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2964",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ESP-01 Module Wifi ESP8266",
+     "description": "Module Wifi ESP8266 ESP-01\n\nESP8266 ESP-01 est un module Wi-Fi qui permet aux microcontrôleurs d’accéder à un réseau Wi-Fi. Ce module est un système autonome (System On a Chip) qui n’a pas nécessairement besoin d’un microcontrôleur pour manipuler les entrées et les sorties comme vous le feriez normalement avec un Arduino, par exemple parce que l’ESP-01 agit comme un petit ordinateur. Selon la version de l’ESP8266, il est possible d’avoir jusqu’à 9 GPIO (sortie d’entrée à usage général). Ainsi, nous pouvons donner un accès Internet au microcontrôleur comme le bouclier Wi-Fi à l’Arduino, ou nous pouvons simplement programmer l’ESP8266 pour accéder non seulement à un réseau Wi-Fi, mais aussi pour agir comme microcontrôleur. Cela rend l’ESP8266 très polyvalent, et il peut vous faire économiser de l’argent et de l’espace dans vos projets.\n\nSPECIFICATIONS:\n\n802.11 b/g/n\n\nSerial/UART baud rate: 115200 bps\n\nProtocole TCP / IP intégrée\n\nTension: 3.3V\n\nTolérance de tension E / S: 3.6V Max\n\nCourant nominal: ~70mA, max: ~300mA, fuite: <10µA\n\nSortie de +19.5dBm en mode 802.11b\n\nCapacité mémoire flash: 512Kb\n\nModes de sécurité WiFi: WPA, WPA2\n\nDimensions: 24.75mm x 14.5mm.\n\nMots clés: iot, wireless, esp01.",
+     "short_description": "ESP8266 ESP-01 est un module Wi-Fi qui permet aux microcontrôleurs d’accéder à un réseau Wi-Fi. Ce module est un système autonome (System On a Chip) qui n’a pas nécessairement besoin d’un microcontrôleur pour manipuler les entrées et les sorties comme vous le feriez normalement avec un Arduino"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/196-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-15870",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ESP-01S Module Wifi ESP8266",
+     "description": "Module Wifi ESP8266 ESP-01S\n\nESP8266 ESP-01S est un module Wi-Fi qui permet aux microcontrôleurs d’accéder à un réseau Wi-Fi. Ce module est un système autonome (System On a Chip) qui n’a pas nécessairement besoin d’un microcontrôleur pour manipuler les entrées et les sorties comme vous le feriez normalement avec un Arduino, par exemple parce que l’ESP-01S agit comme un petit ordinateur. Selon la version de l’ESP8266, il est possible d’avoir jusqu’à 9 GPIO (sortie d’entrée à usage général). Ainsi, nous pouvons donner un accès Internet au microcontrôleur comme le bouclier Wi-Fi à l’Arduino, ou nous pouvons simplement programmer l’ESP8266 pour accéder non seulement à un réseau Wi-Fi, mais aussi pour agir comme microcontrôleur. Cela rend l’ESP8266 très polyvalent, et il peut vous faire économiser de l’argent et de l’espace dans vos projets.\n\nSPECIFICATIONS:\n\n802.11 b / g / n\n\nWi-Fi Direct (P2P), soft-AP\n\nPile de protocoles TCP / IP intégrée\n\nCommutateur TR, balun, LNA, amplificateur de puissance et réseau d’adaptation intégrés\n\nPLL, régulateurs, DCXO et unités de gestion de l’alimentation intégrés\n\n+ 19,5 dBm de puissance de sortie en mode 802.11b\n\nCourant de fuite de <10uA\n\nMémoire flash: 1 Mo (8Mbits)\n\nUn processeur 32 bits intégré de faible puissance peut être utilisé comme processeur d’application\n\nSDIO 1.1 / 2.0, SPI, UART\n\nSTBC, 1 × 1 MIMO, 2 × 1 MIMO\n\nAgrégation A-MPDU et A-MSDU et intervalle de garde de 0,4 ms\n\nWake up et transmission des paquets en <2 ms\n\nConsommation en veille de <1,0 mW (DTIM3)\n\nDimensions: 24.75mm x 14.5mm.\n\nMots clés: iot, wireless, esp01.",
+     "short_description": "ESP8266 ESP-01S est un module Wi-Fi qui permet aux microcontrôleurs d’accéder à un réseau Wi-Fi. Ce module est un système autonome (System On a Chip) qui n’a pas nécessairement besoin d’un microcontrôleur pour manipuler les entrées et les sorties comme vous le feriez normalement avec un Arduino"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/05/196-1-A.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21070",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Pour Module ESP-01",
+     "description": "Adaptateur Pour Module ESP-01\n\nIl s’agit d’un adaptateur de breadboard pour le modèle populaire ESP01 du module émetteur-récepteur série-WiFi ESP8266. Comme les arrangements de broches ESP-01 ne sont pas compatibles avec la plaque d’essai et ne sont pas étiquetés, ce qui le rend peu gênant pour le prototypage rapide. Cet adaptateur vous aidera à rendre le prototypage avec le module esp-01 beaucoup plus facile.\n\nNous avons ajouté un condensateur de découplage de 0,1 µF pour que le module fonctionne toujours correctement et sans accroc.\n\nURAT – Adapter\n\n3,3V – VCC\n\n3.3V – CH-PD\n\nTX – RX\n\nRX – TX\n\nChoisissez à la fois la vitesse de transmission NL CR 15200.\n\nMots clés: adapter, wireless, serial, programmer.",
+     "short_description": "Il s’agit d’un adaptateur de breadboard pour le modèle populaire ESP-01 ESP01 du module émetteur-récepteur série-WiFi ESP8266."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/196-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21072",
+   "price": 13,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur pour Module NRF24L01",
+     "description": "📡 Adaptateur pour Module NRF24L01 — Alimentation 3,3 V stable et branchement simplifié\n\nL’adaptateur pour NRF24L01 facilite l’utilisation des modules radio 2,4 GHz avec Arduino et d’autres microcontrôleurs. Il accepte une alimentation de 5 à 12 V DC et fournit une tension régulée de 3,3 V au module NRF24L01.\n\nSon régulateur intégré contribue à réduire les problèmes de communication, redémarrages et pertes de paquets provoqués par une alimentation 3,3 V insuffisante ou instable. Les différentes lignes SPI sont également accessibles sur des broches clairement organisées.\n\n⚙️ Caractéristiques techniques\n\nType : adaptateur d’alimentation et de connexion\n\nModules compatibles : NRF24L01 et NRF24L01+\n\nTension d’entrée : 5 à 12 V DC\n\nTension fournie au NRF24L01 : 3,3 V régulée\n\nInterface de communication : SPI\n\nBroches disponibles : VCC, GND, CE, CSN, SCK, MOSI, MISO et IRQ\n\nIndicateur : LED d’alimentation\n\nInstallation : module NRF24L01 enfiché directement sur le support\n\nAlimentation externe du NRF24L01 : non nécessaire lorsqu’il est installé sur l’adaptateur\n\n✨ Pourquoi utiliser cet adaptateur ?\n\n⚡ Fournit une alimentation 3,3 V plus stable\n\n📶 Améliore la fiabilité des communications radio\n\n🔌 Permet une alimentation depuis la broche 5 V d’un Arduino\n\n🧩 Facilite le branchement des huit broches\n\n🛡️ Réduit les risques de chute de tension\n\n💡 LED intégrée pour vérifier la présence de l’alimentation\n\n🛠️ Idéal pour le prototypage sur breadboard\n\n💡 Applications principales\n\nCommunication sans fil entre deux cartes Arduino\n\nTélécommandes et robots radiocommandés\n\nRéseaux de capteurs sans fil\n\nStations météo connectées\n\nDomotique et automatisation\n\nTransmission de température, humidité ou pression\n\nAlarmes et systèmes de surveillance\n\nProjets IoT locaux sans Wi-Fi\n\n🔌 Branchement avec Arduino Uno\n\nBroche de l’adaptateur\nArduino Uno\nFonction\n\nVCC\n5 V\nAlimentation de l’adaptateur\n\nGND\nGND\nMasse commune\n\nCE\nD9\nActivation radio\n\nCSN ou CS\nD10\nSélection SPI\n\nSCK\nD13\nHorloge SPI\n\nMOSI\nD11\nDonnées Arduino vers NRF24L01\n\nMISO\nD12\nDonnées NRF24L01 vers Arduino\n\nIRQ\nNon connectée\nInterruption facultative\n\n⚠️ Ce brochage correspond à l’Arduino Uno. Les broches SPI sont différentes sur certaines cartes comme l’Arduino Mega, Nano Every, ESP32 ou Raspberry Pi Pico.\n\n🚀 Tutoriel — Vérifier la détection du NRF24L01\n\nInstallez la bibliothèque RF24 depuis le gestionnaire de bibliothèques de l’Arduino IDE :\n\nOuvrez Croquis → Inclure une bibliothèque → Gérer les bibliothèques.\n\nRecherchez RF24.\n\nInstallez la bibliothèque RF24.\n\nEffectuez le branchement indiqué ci-dessus.\n\nTéléversez le programme suivant.\n\n#include <SPI.h>\r\n#include <RF24.h>\r\n\nRF24 radio(9, 10); // CE, CSN\r\n\nvoid setup() {\r\n Serial.begin(9600);\r\n\n if (radio.begin()) {\r\n Serial.println(\"NRF24L01 detecte avec succes !\");\r\n radio.printDetails();\r\n } else {\r\n Serial.println(\"Erreur : NRF24L01 non detecte.\");\r\n }\r\n}\r\n\nvoid loop() {\r\n // Test de detection uniquement\r\n}\nOuvrez ensuite le Moniteur série à 9600 bauds. Si le branchement et l’alimentation sont corrects, le programme affichera que le NRF24L01 a été détecté.\n\n🛠️ Conseils en cas de problème\n\nVérifiez l’orientation du NRF24L01 avant de l’insérer.\n\nAssurez-vous que toutes les masses sont reliées ensemble.\n\nGardez les fils SPI aussi courts que possible.\n\nÉloignez le module radio des moteurs et alimentations à découpage.\n\nUtilisez une alimentation suffisamment stable avec les versions à antenne amplifiée.\n\nVérifiez que les broches CE et CSN correspondent au programme.\n\n⚠️ Remarques importantes\n\nL’adaptateur régule l’alimentation, mais ne remplace pas le module NRF24L01.\n\nIl ne convertit pas le protocole SPI en USB, série ou Wi-Fi.\n\nNe branchez jamais directement une tension de 5 à 12 V sur la broche d’alimentation du NRF24L01 sans cet adaptateur.\n\nL’adaptateur ne remplace pas nécessairement un convertisseur de niveaux logiques. Vérifiez la compatibilité électrique du microcontrôleur utilisé.\n\nMots clés: adapter, wireless, serial, programmer.",
+     "short_description": "Adaptateur avec régulateur 3,3 V pour module NRF24L01, conçu pour stabiliser son alimentation et simplifier son branchement avec Arduino."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/197-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2967",
+   "price": 270,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SIM900 Module GSM GPRS Quadri-Bande",
+     "description": "Module GSM GPRS Quadri-Bande SIM900\n\nmodule GSM/GPRS double-bande SIM900/quadri-bande. Le GPRS Shield vous offre un moyen de communiquer à l’aide du réseau GSM. Le Shield vous permet d’atteindre SMS, MMS, GPRS et Audio via UART en envoyant des commandes AT (GSM 07.07, 07.05 et SIMCOM Enhanced AT Commands). Le Shield dispose également des 12 GPIO, 2 PWM et un ADC du module SIM900 (Ils sont tous 2V8 logique) présents à bord.\n\nQuad-Band 850/900/1800/1900 MHz – fonctionnerait sur les réseaux GSM dans tous les pays du monde entier.\n\nGPRS multi-slot classe 10/8\n\nGPRS station mobile classe B\n\nConforme à GSM phase 2/2 +\n\nClasse 4 (2 W à 850/900 MHz)\n\nClasse 1 (1 W à 1800 / 1900MHz)\n\nContrôle via les commandes AT – Commandes standard: GSM 07.07 & 07.05 | Commandes améliorées: commandes SIMCOM AT.\n\nService de SMS – afin que vous puissiez envoyer de petites quantités de données sur le réseau (ASCII ou hexadécimal brut).\n\nPile TCP / UDP intégrée – vous permet de télécharger des données sur un serveur Web.\n\nRTC pris en charge.\n\nPort série sélectionnable.\n\nprises casque et haut-parleurs\n\nFaible consommation d’énergie – 1.5mA (mode veille)\n\nGamme de température industrielle: -40 ° C à +85 ° C\n\nDimension: 8.5×5.7x2cm (environ)\n\nDocumentation\n\nMots clés: phone, call, wireless, 2g, 3g.",
+     "short_description": "module GSM/GPRS double-bande SIM900/quadri-bande. Le GPRS Shield vous offre un moyen de communiquer à l’aide du réseau GSM. Le Shield vous permet d’atteindre SMS, MMS, GPRS et Audio via UART en envoyant des commandes AT (GSM 07.07, 07.05 et SIMCOM Enhanced AT Commands). Le Shield dispose également des 12 GPIO, 2 PWM et un ADC du module SIM900 (Ils sont tous 2V8 logique) présents à bord.\n\nQuad-Band 850/900/1800/1900 MHz – fonctionnerait sur les réseaux GSM dans tous les pays du monde entier.\n\nGPRS multi-slot classe 10/8\n\nGPRS station mobile classe B\n\nConforme à GSM phase 2/2 +\n\nClasse 4 (2 W à 850/900 MHz)\n\nClasse 1 (1 W à 1800 / 1900MHz)\n\nService de SMS\n\nPile TCP / UDP intégrée – vous permet de télécharger des données sur un serveur Web.\n\nRTC pris en charge.\n\nPort série sélectionnable.\n\nprises casque et haut-parleurs\n\nFaible consommation d’énergie – 1.5mA (mode veille)\n\nGamme de température industrielle: -40 ° C à +85 ° C\n\nDimension: 8.5×5.7x2cm (environ)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/199-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/199-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42033",
+   "price": 370,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SIM808 Module GSM GPRS + GPS Quadri-Bande",
+     "description": "SIM808 Module GSM GPRS + GPS Quadri-Bande\n\nLe SIM808 est un module tout-en-un intégrant un modem GSM/GPRS quad-bande et un récepteur GPS (L1 1575,42 MHz). Fournissant appels vocaux, SMS, données GPRS et positionnement satellite, il est idéal pour la télémétrie, le suivi d’objets et les applications IoT mobiles. Livré sur une carte de développement avec connecteurs UART, micro-SD, batterie, et une antenne 1,5 m, il simplifie l’intégration dans vos projets.\n\n🔧 Caractéristiques techniques :\n\nModem GSM/GPRS quad-bande : 850/900/1800/1900 MHz\n\nGPRS : Classe 12 (max. 85,6 kbps downlink, 42,8 kbps uplink)\n\nGPS : L1 1575,42 MHz, Une seule puce (patch interne + connecteur externe)\n\nTension d’alimentation : 5 V DC via VIN ou USB\n\nCourant en appel/data : pic ~2 A\n\nInterface : UART TTL (3,3 V) (TX, RX), DTR, RI, NET\n\nSlot micro-SD : jusqu’à 32 Go pour stocker données ou firmware\n\nConnecteur batterie : LiPo 3,7 V – 4,2 V\n\nAntenne incluse : câble 1,5 m, connecteur SMA droit, support GPS & GSM\n\nBoîtier / plaque : PCB avec indicateurs LED (PWR, NET, GPS)\n\nDimensions : env. 60 × 40 × 15 mm\n\n 💡 Applications typiques :\n\nSuivi GPS de véhicules et assets\n\nStations météo ou capteurs distants avec remontée GPRS\n\nAlarmes et télésurveillance\n\nInterfaces IoT mobiles\n\nPrototypage Arduino/ESP32 embarquant connexion cellulaire et géolocalisation\n\nExemple de code Arduino – Envoi de SMS & lecture GPS\n\n#include <SoftwareSerial.h>\r\n\nSoftwareSerial sim808(7, 8); // RX, TX\r\n\nvoid setup() {\r\nSerial.begin(9600);\r\nsim808.begin(9600);\r\ndelay(1000);\r\n\n// Vérifier communication\r\nsim808.println(\"AT\");\r\nattente(\"OK\", 1000);\r\n\n// Activer GPS\r\nsim808.println(\"AT+CGPSPWR=1\");\r\nattente(\"OK\", 1000);\r\n\n// Paramétrer mode GPS autonome\r\nsim808.println(\"AT+CGPSRST=0\");\r\nattente(\"OK\", 1000);\r\n\n// Envoyer un SMS\r\nsim808.println(\"AT+CMGF=1\"); // mode texte\r\nattente(\"OK\", 1000);\r\nsim808.println(\"AT+CMGS=\\\"+212600000000\\\"\"); // numéro destinataire\r\nattente(\">\", 1000);\r\nsim808.print(\"Test SIM808 GPS!\");\r\nsim808.write(0x1A); // CTRL+Z\r\nattente(\"OK\", 5000);\r\n}\r\n\nvoid loop() {\r\n// Lire position GPS\r\nsim808.println(\"AT+CGPSINF=0\");\r\nif (attente(\"+CGPSINF:\", 2000)) {\r\nString gps = sim808.readStringUntil('\\n');\r\nSerial.println(\"GPS: \" + gps);\r\n}\r\ndelay(5000);\r\n}\r\n\n// Fonction utilitaire\r\nbool attente(const char* mot, unsigned long timeout) {\r\nunsigned long t = millis();\r\nwhile (millis() - t < timeout) {\r\nif (sim808.find(mot)) return true;\r\n}\r\nreturn false;\r\n}\n\n🛠️ Brochage / Wiring\n\nBroche module\nDescription\nConnexion Arduino UNO\n\nVIN\nAlimentation 5 V DC\n5 V via USB ou pin 5 V\n\nGND\nMasse commune\nGND\n\nTXD\nTX du module → RX Arduino\nD7 (SoftwareSerial RX)\n\nRXD\nRX du module ← TX Arduino\nD8 (SoftwareSerial TX)\n\nDTR\nReset/Power control (optionnel)\n–\n\nNET\nIndicateur réseau (LED externe)\n–\n\nGPS\nSortie NMEA GPS (optionnel)\n–\n\nBAT+ / BAT–\nBatterie LiPo 3,7 V (optionnel)\n–\n\nSoudez les broches mâles puis câblez VIN→5 V, GND→GND.\n\nConnectez TXD→7, RXD→8 pour SoftwareSerial.\n\nBranchez l’antenne SMA au connecteur externe.\n\nAlimentez en USB, puis téléversez le sketch !\n\nMots clés: wireless, call, phone, location, map.",
+     "short_description": "Le SIM808 est un module tout-en-un intégrant un modem GSM/GPRS quad-bande et un récepteur GPS (L1 1575,42 MHz). Fournissant appels vocaux, SMS, données GPRS et positionnement satellite,"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/200-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-26204",
+   "price": 220,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SIM800A Module GSM GPRS Quadri-Bande",
+     "description": "SIM800A Module GSM GPRS Quadri-Bande\n\nLe module GSM/GPRS quadri-bande SIM800A avec interface RS232 est une solution GSM/GPRS quadri-bande complète de type LGA (Land grid array) qui peut être intégrée dans les applications client. SIM800A prend en charge le quadribande 850/900/1800/1900 MHz, il peut transmettre des informations vocales, SMS et de données avec une faible consommation d’énergie.\n\nAvec une petite taille, il peut s’adapter aux exigences minces et compactes de la conception personnalisée. Doté d’une AT intégrée, il permet des économies totales et un délai de mise sur le marché rapide pour les applications client.\n\nLe modem SIM800A dispose d’une puce GSM SIM800A et d’une interface RS232 tout en permettant une connexion facile avec l’ordinateur ou l’ordinateur portable à l’aide de l’USB au connecteur série ou au microcontrôleur à l’aide du convertisseur RS232 vers TTL. Une fois que vous avez connecté le modem SIM800A à l’aide du connecteur USB vers RS232, vous devez trouver le port COM correct dans le gestionnaire de périphériques de l’adaptateur USB vers série.\n\nEnsuite, vous pouvez ouvrir Putty ou tout autre logiciel de terminal et ouvrir une connexion à ce port COM à un débit en bauds de 9600, qui est le débit en bauds par défaut de ce modem. Une fois qu’une connexion série est ouverte via l’ordinateur ou votre microcontrôleur, vous pouvez commencer à envoyer les commandes AT. Lorsque vous envoyez des commandes AT, par exemple “AT\\r”, vous devriez recevoir une réponse du modem SIM800A indiquant “OK” ou une autre réponse en fonction de la commande envoyée.\n\nCaractéristiques\n\nModule GSM quadri-bande SIM800A\n\nBandes : GSM 850 MHz, EGSM 900 MHz, DCS 1 800 MHz, PCS 1 900 MHz\n\nSchémas de codage : CS-1, CS-2, CS-3, CS-4 Puissance Tx : Classe 4 (2W), Classe 1 (1W)\n\nGPRS: classe 2/10\n\nContrôle via les commandes AT (3GPP TS 27.007, 27.005 et jeu de commandes AT amélioré SIMCOM).\n\nAlimentation en tension requise – 9VDC à 12VDC avec une capacité de courant de crête d’au moins 2A\n\nInterface 5V pour une communication directe avec le kit MCU.\n\nSorties RS232 basées sur connecteur TTL Rx et TTL Tx et DB9\n\nDébit en bauds configurable.\n\nSupport de carte SIM intégré.\n\nLED d’état du réseau intégrée.\n\nPuissante pile de protocoles TCP/IP intégrée pour le transfert de données Internet via GPRS.\n\nFonction de batterie faible.\n\nTempérature de fonctionnement : -40C à +85C\n\nAntenne externe de type doigt\n\nPoids – 40g\n\nApplication\n\nSurveillance et contrôle des données à distance.\n\nComptage de débit d’eau, de gaz et d’huile.\n\nAMR (relevé automatique des compteurs).\n\nSurveillance et contrôle de la centrale électrique.\n\nTerminaux POS (point de vente) à distance.\n\nSurveillance et contrôle des feux de circulation.\n\nGestion de flotte.\n\nSupervision du réseau de distribution d’énergie.\n\nSurveillance du système de chauffage central.\n\nTransmission des données de la station météo.\n\nAcquisition de données hydro-logiques.\n\nDistributeur automatique.\n\nGuidage des infos trafic.\n\nParcmètre et moniteur de taxi.\n\nSupervision d’équipements télécoms (Station de base mobile, micro-ondes ou station de relais optique).\n\nMots clés: wireless, call, phone.",
+     "short_description": "Le module GSM/GPRS quadri-bande SIM800A avec interface RS232 est une solution GSM/GPRS quadri-bande complète de type LGA (Land grid array) qui peut être intégrée dans les applications client."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/06/201-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4176",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SIM800L Module GSM GPRS Quadri-Bande",
+     "description": "Module GSM GPRS Quadri-Bande SIM800L\n\nLe module GSM SIM800L est l’un des plus petits modules GSM du monde avec une taille de 2.2 cm x 1.8 cm. C’est un module puissant qui démarre automatiquement et recherche automatiquement le réseau. Il inclut notamment le Bluetooth 3.0+EDR et la radio FM (récepteur uniquement). Il vous permettra d’échanger des SMS, de passer des appels mais aussi, et c’est nouveau, de récupérer de la data en GPRS 2G+. Ainsi vous pourrez faire transiter des données sur une très longue distance, si par exemple la radio FM ou le Bluetooth ne vous suffit plus.\n\nCette carte est compacte et consomme peu de courant. Grâce à une technique d’économie d’énergie, la consommation de courant est seulement de 1 mA en mode veille. La carte communique avec le microcontrôleur via le port UART et prend en charge les commandes, y compris les commandes AT améliorées 3GPP TS 27.007, 27.005 et SIMCOM.\n\nTension: 3.7 – 4.2V\n\nDimensions: 2.5cm x 2.3cm\n\nInterface série de niveau TTL.\n\nRéseau: Quad-Band 850/900/1800/1900 MHz, il peut transmettre la voix, SMS et de données. \n\nAjouter une antenne pour le module SIM800L: ICI\n\nConseils:\n\nVoici quelques conseils pour vous aider à résoudre tout problème de connectivité que vous pourriez rencontrer avec le module:\n\nSi le module ne s’allume pas ou le voyant du module clignote 6 à 7 fois et s’arrête pendant 2 secondes,et répéte le cycle, cela signifie que le module redémarre lors de la recherche du réseau en raison d’un courant d’alimentation insuffisant, pour résoudre le problème:\n\nIl faut utilser une alimentation ou batterie capable de fournir un courant de crête de 2A et tension de 3.7-4.2v.\n\nVous devez utiliser un fil épais pour alimenter le module car il nécessite 2A comme courant de crête; si le fil est long ou mince, il fonctionne comme une résistance qui abaisse la tension qui atteint le module, ce qui entraîne un redémarrage continu.\n\nVous devez ajouter un condensateur de 1000uf ou plus dans les broches vcc et gnd du module sim800l pour stabiliser la tension.\n\nIl faut insérer la carte sim avant d’alimenter le module, sinon il faut le redémarrer pour commencer l’enregistrement sur le réseau.\n\nSi le probléme est résolue, le voyant commence a clignoter une fois chaque 2 seconds comme indication d’enregistrement dans le réseau.\n\nDocumentation\n\nMots clés: wireless, call, phone.",
+     "short_description": "Le module GSM SIM800L est l’un des plus petits modules GSM du monde. C’est un module puissant qui démarre automatiquement et recherche automatiquement le réseau. Il inclut notamment le Bluetooth 3.0+EDR et la radio FM (récepteur uniquement). Il vous permettra d’échanger des SMS, de passer des appels mais aussi, de récupérer de la data en GPRS 2G+."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/207-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/207-2.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-1965",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "T’CHOUPI ET LES ÉMOTIONS",
+     "description": "À travers différentes situations de son quotidien, T’choupi expérimente les grandes émotions que sont la joie, la colère, et la tristesse. Ce livre aide l’enfant à mettre des mots sur ses propres ressentis en s’identifiant aux réactions du petit héros. Il est un support essentiel pour apprendre à gérer les émotions et à mieux les comprendre.\n\nFavoris",
+     "short_description": "Livre jeunesse cartonné. T’choupi explore et nomme les émotions principales (joie, colère, tristesse)."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782095013998-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1964",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "T’CHOUPI VA À LA FERME",
+     "description": "T’choupi part en excursion à la ferme, où il fait la rencontre de nombreux animaux : vaches, cochons, poules… Il apprend leurs noms, leurs bruits et comment ils vivent. Cette histoire, pleine de découvertes, est idéale pour enrichir le vocabulaire de l’enfant et lui faire connaître l’environnement de la ferme de manière ludique et rassurante.\n\nFavoris",
+     "short_description": "Livre jeunesse cartonné. T’choupi découvre les animaux de la ferme et leurs bruits."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782092574386-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1962",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "T’CHOUPI RANGE SA CHAMBRE",
+     "description": "La chambre de T’choupi est un vrai bazar, et il ne retrouve plus rien ! Grâce à l’aide de ses parents, il apprend l’importance et le plaisir de ranger ses jouets après avoir joué. Cette histoire aborde de manière simple et ludique le thème de l’ordre et de la responsabilité, aidant les enfants à intégrer le rituel du rangement dans leur quotidien.\n\nFavoris",
+     "short_description": "Livre jeunesse cartonné. T’choupi apprend à ranger ses jouets et à garder sa chambre propre."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782092492895-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1961",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "T’CHOUPI MANGE DE TOUT",
+     "description": "T’choupi, le petit héros préféré des tout-petits, est parfois difficile à table, mais il va apprendre une leçon importante : il faut goûter à tous les aliments pour être en forme ! Ce livre cartonné, illustré de manière colorée, aide les enfants à aborder l’alimentation équilibrée sans peur et encourage la curiosité face aux nouveautés culinaires. Une histoire rassurante pour les parents.\n\nFavoris",
+     "short_description": "Livre jeunesse cartonné. T’choupi découvre l’importance de manger équilibré et de goûter à tous les aliments."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782092491645-featured.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782092491645-2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782092491645-3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782092491645-4.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782092491645-5.png"
+   ]
+  },
+  {
+   "sku": "kidymart-1960",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "TROTRO VA À LA CANTINE",
+     "description": "Aujourd’hui, Trotro doit rester à la cantine à l’école, car son papa ne peut pas déjeuner avec lui. D’abord déçu, il doit faire face à un menu qu’il n’aime pas : du poisson et non des frites ! Heureusement, ses amis sont là pour rendre le repas amusant et l’aider à échanger ses plats. Il en garde finalement un bon souvenir.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur la découverte de la cantine et le plaisir de déjeuner avec ses amis."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-11.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1959",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ÂNE TROTRO SE DÉGUISE",
+     "description": "Trotro est d’humeur joueuse et a décidé de se transformer en un animal majestueux : un tigre ! Pour cela, il se déshabille et se peint des rayures sur le corps. Son déguisement est si réussi qu’il s’amuse à surprendre sa maman, avant d’en profiter pour déguster de délicieuses crêpes. Une aventure qui célèbre l’imagination et le plaisir de jouer des rôles.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur le thème du déguisement. Trotro se transforme en tigre et s’amuse à effrayer sa maman."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-10.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1958",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ÂNE TROTRO, LE ROI DE LA GALETTE",
+     "description": "Pour fêter les rois, Trotro a invité tous ses amis pour le rituel de la galette. Il a mis la main à la pâte pour confectionner le délicieux dessert, aidé par sa maman. C’est Boubou qui se glisse sous la table pour distribuer les parts. L’excitation est à son comble pour savoir qui de Trotro ou de ses amis sera couronné roi ou reine du jour !\n\nFavoris",
+     "short_description": "Album jeunesse Trotro pour fêter l’Épiphanie. Trotro invite ses amis pour la galette des Rois et attend de découvrir qui aura la fève."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-14.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1957",
+   "price": 74,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "OÙ SONT LES FLEURS EN HIVER ?",
+     "description": "Où sont les fleurs en hiver ? met en scène Trotro qui s’inquiète de la disparition des fleurs et du gel en hiver. L’album aborde de manière simple et réconfortante le thème du cycle des saisons et de la dormance de la nature. C’est un excellent outil pour expliquer aux jeunes enfants que l’absence de fleurs en hiver n’est que temporaire, grâce au savoir et à l’explication rassurante de Maman.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur l’hiver et le cycle des saisons. Rassure l’enfant sur la disparition temporaire de la nature."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-13.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1956",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ÂNE TROTRO EST AMOUREUX",
+     "description": "Âne Trotro est amoureux de la jolie Nana. L’album explore les premiers sentiments amoureux et la jalousie enfantine lorsque Trotro, après avoir été repoussé, se console avec une autre amie. C’est une histoire pleine de tendresse et d’émotions qui normalise la complexité des premières relations affectives. Ce titre est essentiel pour aborder la gestion des sentiments naissants chez les tout-petits.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur les premiers sentiments d’amour et la jalousie. Normalise les émotions complexes chez l’enfant."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-12.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1955",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ÂNE TROTRO S’HABILLE",
+     "description": "Âne Trotro s’habille est un album qui explore le thème de l’autonomie vestimentaire et de l’apprentissage des gestes quotidiens. Trotro décide de s’habiller tout seul, mais, pris par son enthousiasme, il met toutes ses affaires, y compris son manteau et son écharpe… en plein été ! Le livre aborde avec humour la fierté d’y arriver seul et l’importance d’adapter ses vêtements aux saisons et à la météo.\n\nFavoris",
+     "short_description": "Album jeunesse Trotro sur l’autonomie vestimentaire. Aborde l’apprentissage de s’habiller seul et l’adaptation à la météo."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/01/1-16.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-35207",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N5333B Diode Zener 3.3V 5W",
+     "description": "1N5333B Diode Zener 3.3V 5W\n\nDiode Zener 1N5333B 3.3V 5W\n\nFiche technique",
+     "short_description": "Diode Zener 1N5333B 3.3V 5W"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/707-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7087",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HER508 Diode Redresseur 5A 1000V",
+     "description": "Diode Redresseur HER508 5A 1000V\n\nDiode Redresseur de haute efficacité HER508 5A 1000V.\n\nFiche technique",
+     "short_description": "Diode Redresseur de haute efficacité HER508 5A 1000V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/708-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7085",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2CL77 Diode Redresseur Haute tension 20KV 5mA",
+     "description": "Diode Redresseur Haute tension 2CL77 20KV 5mA\n\nDiode Redresseur Haute tension 2CL77 20KV 5mA.\n\nFiche technique",
+     "short_description": "Diode Redresseur Haute tension 2CL77 20KV 5mA 100ns."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/709-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7083",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "20SQ045 Diode Schottky Redresseur 45V 20A",
+     "description": "Diode Schottky Redresseur 20SQ045 45V 20A\n\nDiode Schottky Redresseur 20SQ045 45V 20A.\n\nFiche technique",
+     "short_description": "Diode Schottky Redresseur 20SQ045 45V 20A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/710-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42502",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "30SQ080 Diode Schottky Redresseur 80V 30A",
+     "description": "30SQ080 Diode Schottky Redresseur 80V 30A\n\nLe 30SQ080 est une diode Schottky à faible chute de tension, conçue pour un courant continu jusqu’à 30A et une tension inverse répétitive de 80V. Son boîtier axial DO-7 facilite l’intégration dans les ponts de diodes et les circuits de redressement.\n\n🔧 Caractéristiques techniques\n\nType : Schottky Barrier Rectifier\n\nCourant redressé moyen IF(AV) : 30 A\n\nCourant de pointe non répétitif IFSM : 300 A (demi-onde, 10 ms)\n\nTension inverse répétitive VRRM : 80 V \n\nChute de tension directe VF : 0,81 V typ. à 30 A, TJ = 125 °C \n\nCourant de fuite inverse IRM : 0,55 mA max. @ VR = 80 V, TJ = 25 °C\n\nTemps de récupération inverse trr : < 30 ns\n\nTempérature de jonction TJ : –55 °C à +175 °C\n\n💡 Applications typiques\n\nRedressement dans alimentations à découpage et ponts de diodes\n\nDiode de roue libre pour moteurs et convertisseurs DC-DC\n\nProtection anti-retour et circuits photovoltaïques\n\nClamping de surtension et modules de démarrage\n\n🛠️ Brochage / Connexions\n\nExtrémité\nFonction\nIdentification\n\nExtrémité non marquée\nAnode\nCôté sans bague\n\nExtrémité marquée\nCathode\nCôté repéré par anneau\n\nMontez l’anode vers la phase ou la sortie AC d’un transformateur, et la cathode vers le positif de votre charge DC. Assurez une bonne dissipation thermique en utilisant un support métallique ou un dissipateur adapté.",
+     "short_description": "Le 30SQ080 est une diode Schottky à faible chute de tension, conçue pour un courant continu jusqu’à 30A et une tension inverse répétitive de 80V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/710-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3629",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N4007 Diode Redresseur 1A 1000V",
+     "description": "Diode Redresseur 1N4007 1A 1000V\n\nDiode Redresseur 1N4007 1A 1000V.\n\nFiche technique",
+     "short_description": "Diode Redresseur 1N4007 1A 1000V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/711-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3631",
+   "price": 1.25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N5399 Diode Redresseur 1.5A 1000V",
+     "description": "Diode Redresseur 1N5399 1.5A 1000V\n\nDiode Redresseur 1N5399 1.5A 1000V.\n\nFiche technique",
+     "short_description": "Diode Redresseur 1N5399 1.5A 1000V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/712-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3632",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N5408 Diode Redresseur 3A 1000V",
+     "description": "Diode Redresseur 1N5408 3A 1000V\n\nDiode Redresseur 1N5408 3A 1000V.\n\nFiche technique",
+     "short_description": "Diode Redresseur 1N5408 3A 1000V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/713-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3633",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "10A10 Diode Redresseur 10A 1000V",
+     "description": "Diode Redresseur 10A10 10A 1000V\n\nDiode Redresseur 10A10 10A 1000V\n\nFiche technique",
+     "short_description": "Diode Redresseur 10A10 10A 1000V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/714-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42501",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "20A10 Diode Redresseur 20A 1000V",
+     "description": "20A10 Diode Redresseur 20A 1000V\n\nLa diode 20A10 est une diode redresseuse en silicium à haute capacité de courant et haute tension inverse, conçue pour les applications de redressement dans les alimentations, inverters et ponts de diodes.\n\n🔧 Caractéristiques techniques\n\nType : diode redresseuse au silicium\n\nCourant continu maximal IF(AV) : 20 A\n\nTension inverse répétitive VRRM : 1000 V\n\nTension directe typique VF : 1,1 V à 20 A\n\nCourant de pointe non répétitif IFSM : 400 A (demi-onde, 8,3 ms)\n\nTemps de récupération inverse trr : 4 µs (typ.)\n\nTempérature de fonctionnement Tj : –65 °C à +150 °C\n\nPackage : DO-201AD axial\n\nDimensions approx. : longueur corps 37 mm, diamètre 8 mm, fils 0,8 mm\n\n💡 Applications typiques\n\nRedressement de courant alternatif (alimentation secteur, transformateurs)\n\nConstruction de ponts de diodes et modules de redressement\n\nCharge de batteries et sources de courant constant\n\nInverseurs et contrôleurs de moteurs DC\n\nProtection contre les surtensions et recirculation de courant\n\n🛠️ Brochage\n\nExtrémité\nFonction\n\nSans bande (côté anodique)\nAnode (+ courant entrant)\n\nAvec bande (côté cathodique)\nCathode (– côté redressé)\n\nLa bande noire imprimée sur le corps désigne la cathode. Pour monter en redressement, orientez l’anode vers la phase ou le secondaire du transformateur, et la cathode vers la charge DC.",
+     "short_description": "La diode 20A10 est une diode redresseuse en silicium à haute capacité de courant et haute tension inverse, conçue pour les applications de redressement dans les alimentations, inverters et ponts de diodes."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/714-a-1.png"
+   ]
+  }
+ ]
+}

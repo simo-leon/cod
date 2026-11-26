@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3160",
+   "price": 295,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "D3806 6A Abaisseur / Élévateur de Tension CC-CV Digital",
+     "description": "Abaisseur / Élévateur de Tension CC-CV Digital Automatique D3806 6A\n\nAlimentation Abaisseur / Élévateur (La sortie peut être supérieure ou inférieure à l’entrée) de Tension/Courant Digital (numérique) Automatique D3806 6A, Cette alimentation est équipé d’un afficheur et des boutons pour régler la tension (CV) et limiter le courant de sortie (CC) et d’autres options comme affichage en temps réel, de tension, courant, puissance (W), capacité (AH) en cas de chargement / déchargement des batteries ou transformation d’énergie solaire…\n\nLa fonction mémoire peut enregistrer 10 groupes de paramètres, avec la possibilité de les récupérer en tout moment.\n\nAvec des microprocesseurs avancés, il permet un réglage précis de la tension et du courant de sortie.\n\nPeut définir l’état initiale de la sortie après la mise sous tension du module.\n\nUne touche pour économiser la tension actuelle et les valeurs actuelles.\n\nAvec les indicateurs de sortie “OUT”, tension constante “CV” et courant constant “CC”, vous pouvez vérifier l’état de fonctionnement en temps réel.\n\nL’affichage numérique à 4 chiffres montre la tension de sortie, le courant, la puissance, la capacité et d’autres paramètres en temps réel de manière automatique ou manuelle.\n\nLa fonction de tension et courant constante assurent la stabilité de la tension de sortie, même lorsque la tension d’entrée est supérieure ou inférieure à la tension de sortie.\n\nCaractéristiques techniques:\n\nTension d’entrée: DC 10 ~ 40 V\n\nCourant d’entrée: 0 ~ 8 A\n\nTension de sortie: DC 0 ~ 38 V\n\nCourant de sortie: 0 ~ 6 A\n\nRésolution d’affichage: tension (0,01 V) courant (0.001A) puissance (0.001W) capacité (0.001Ah)\n\nEfficacité de conversion: jusqu’à 80% (max)\n\nFréquence de commutation: 150KHz\n\nOndulation de sortie: 50mV (maximum)\n\nTempérature de fonctionnement: -40 ~ + 85 °\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimensions: 10 x 8 x 2.9 cm\n\nFiche technique\n\nMots clés: boost, buck, converter, power, supply.",
+     "short_description": "Alimentation Abaisseur/Élévateur (La sortie peut être supérieure ou inférieure à l’entrée) de Tension/Courant Digital (numérique) Automatique D3806 6A, Cette alimentation est équipé d’un afficheur et des boutons pour régler la tension (CV) et limiter le courant de sortie (CC) et d’autres options comme affichage en temps réel, de tension, courant, puissance (W), capacité (AH) en cas de chargement/déchargement des batteries ou transformation d’énergie solaire… .\n\nTension d’entrée: DC 10 ~ 40 V\n\nCourant d’entrée: 0 ~ 8 A\n\nTension de sortie: DC 0 ~ 38 V\n\nCourant de sortie: 0 ~ 6 A\n\nRésolution d’affichage: tension (0,01 V) courant (0.001A) puissance (0.001W) capacité (0.001Ah)\n\nEfficacité de conversion: jusqu’à 80% (max)\n\nFréquence de commutation: 150KHz\n\nOndulation de sortie: 50mV (maximum)\n\nTempérature de fonctionnement: -40 ~ + 85 °\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimensions: 10 x 8 x 2.9 cm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/447-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4113",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MT3608 2A Élévateur de Tension, Avec Connecteur",
+     "description": "Élévateur de Tension MT3608 2A Micro Usb / Type-C\n\nLe MT3608 est un convertisseur élévateur de tension compact et performant, capable de monter une tension d’entrée de 2–24V DC vers une sortie réglable de 5–28V DC. Il se décline en deux versions selon votre confort de connexion : l’une équipée d’un port Micro-USB, l’autre d’un port USB-C pour l’alimentation.\n\n🔧 Caractéristiques techniques\n\nCircuit intégré : MT3608\n\nTension d’entrée : 2–24 V DC\n\nTension de sortie : 5–28 V DC (ajustable via potentiomètre)\n\nCourant de sortie : jusqu’à 2A continu (pointe 3A)\n\nEfficacité de conversion : jusqu’à 93 %\n\nFréquence de commutation : 1,2 MHz\n\nConnecteur d’entrée :\n\nVersion Micro-USB (5V via câble USB standard)\n\nVersion USB-C (5V via câble USB-C, réversible)\n\nTrimmer : potentiomètre ajustable pour régler précisément VOUT\n\nBroche EN : activation (HIGH = sortie active, LOW = coupure)\n\nDimensions : env. 25 × 17 × 4 mm\n\nTempérature : – 40 °C à + 85 °C\n\n💡 Applications typiques\n\nAlimentation portable de modules Arduino, ESP32, Raspberry Pi Zero\n\nProjets IoT et capteurs nécessitant une tension nomade\n\nÉclairage LED haute luminosité (bandeaux, éclairage DIY)\n\nCharge partielle de batteries Li-ion (mise en boost pour cellules ≥ 5 V)\n\nBancs d’essai et prototypes de conversion DC-DC\n\nConseil : avant utilisation, ajustez VOUT au plus juste à l’aide d’un voltmètre, pour protéger vos circuits sensibles.\n\nFiche technique\n\nMots clés: boost, booster, converter, power supply.",
+     "short_description": "Le MT3608 est un convertisseur élévateur de tension compact et performant, capable de monter une tension d’entrée de 2–24 V DC vers une sortie réglable de 5–28 V DC."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/454-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/454-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3164",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MT3608 2A Élévateur de Tension",
+     "description": "Élévateur de Tension MT3608 2A\n\nAlimentation mini élévateur de tension (La sortie est supérieure à l’entrée) à base de MT3608.\n\nTension d’entrée: 2 v ~ 24 v\n\nTension de sortie: 5V ~ 28 v (Réglable à l’aide d’un potentiométre de précision)\n\nCourant de sortie: 2A Max\n\nEfficacité: 93% Max\n\nDimensions: 36 mm * 17 mm * 14 mm\n\nFiche technique\n\nMots clés: boost, converter, power supply.",
+     "short_description": "Alimentation mini élévateur de tension (La sortie est supérieure à l’entrée) à base de MT3608.\n\nTension d’entrée: 2 v ~ 24 v\n\nTension de sortie: 5V ~ 28 v (Réglable à l’aide d’un potentiométre de précision)\n\nCourant de sortie: 2A Max\n\nEfficacité: 93% Max\n\nDimensions: 36 mm * 17 mm * 14 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/456-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3166",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL6009 4A Élévateur de Tension",
+     "description": "Élévateur de Tension XL6009 4A\n\nAlimentation élévateur de tension (la tension de sortie est toujours supérieure à l’entrée) à base de XL6009.\n\nCaractéristiques:\n\nTension d’entrée : DC 3.8V-32V\n\nTension de sortie ajustable : DC 5V-35V\n\nCourant de sortie : 4A (Un dissipateur thermique est requis pour un courant plus de 3A)\n\nEfficacité de conversion: 94% max\n\nFréquence de commutation: 400KHz\n\nOnduleur de sortie: 50mV\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 0,5%\n\nTempérature de fonctionnement : -40 °C ~ 85 °C\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: non\n\nFonction d’arrêt thermique intégrée\n\nDimensions : 43 x 21 x 14mm\n\nFiche technique\n\nMots clés: boost, converter, power, supply.",
+     "short_description": "Alimentation élévateur de tension (la tension de sortie est toujours supérieure à l’entrée) à base de XL6009"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/457-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30876",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL6009 4A Élévateur de Tension avec Voltmétre",
+     "description": "Élévateur de Tension XL6009 4A avec Voltmétre\n\nAlimentation élévateur de tension (la tension de sortie est toujours supérieure à l’entrée) à base de XL6009, avec voltmétre intégré.\n\nCaractéristiques:\n\nTension d’entrée : DC 4.3V-32V\n\nTension de sortie ajustable : DC 5V-39V\n\nCourant de sortie : 4A (Un dissipateur thermique est requis pour un courant plus de 3A)\n\nEfficacité de conversion: 94% max\n\nFréquence de commutation: 400KHz\n\nOnduleur de sortie: 50mV\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 0,5%\n\nTempérature de fonctionnement : -40 °C ~ 85 °C\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: non\n\nFonction d’arrêt thermique intégrée\n\nDimensions : 6,98 cm x 3,80 cm\n\nFiche technique\n\nMots clés: boost, converter, power, supply.",
+     "short_description": "Alimentation élévateur de tension (la tension de sortie est toujours supérieure à l’entrée) à base de XL6009, avec voltmétre intégré."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/07/457-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3167",
+   "price": 100,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LTC1871 6A 100W Élévateur de Tension Avec Voltmétre",
+     "description": "Élévateur de Tension Avec Voltmétre LTC1871 6A 100W\n\nAlimentation Élévateur de Tension à base de LTC1871, équipé d’un voltmétre pour mesurer les tensions d’entrée ou de sortie, et qui supporte des courants de sortie jusqu’a 6A, équipé d’un refroidisseur ce qui améliore la puissance maximale de sortie à 100W (lorsque la tension d’entrée est supérieure à 20V, la sortie peut atteindre 128W).\n\nLes MOSFET de puissance élimine la nécessité d’une résistance de détection, maximisant l’efficacité, (allant jusqu’à 96,4%), supporte un courant élevé, un rendement élevé de Schottky, les traces de PCB larges sont épaissés, ce qui garantie une basse température, ondulation à faible débit. Performance stable.\n\nAvantages fonctionnels:\n\nVoyant LED à bord pour visualiser l’état d’entrée et sortie.\n\nAfficheur (voltmétre) pour visualiser la tension d’entrée ou de sortie (un bouton pour basculer entre les mesures de tension d’entrée et de sortie).\n\nUn bouton pour éteindre l’affichage de tension (voltmétre).\n\nLe voltmètre a une fonction d’auto-étalonnage (calibrage automatique), donc Il n’y aura jamais de problème de mesure inexacte!\n\nParamètres de performance:\n\nTension d’entrée: 2.5 ~ 36V DC (Remarque: si la tension d’entrée est inférieure à 4V, le voltmètre s’éteint)\n\nCourant d’entrée: 9A (max.)\n\nTension de sortie: 3.5 ~ 36V DC\n\nLe courant de sortie: 6A (max)\n\nLa puissance de sortie: 100W (lorsque la tension d’entrée est supérieure à 20V, la sortie peut atteindre 128W)\n\nL’efficacité de conversion: 96,7% (maximum)\n\nL’ondulation de sortie: 24mV\n\nGamme de mesure de Voltmétre: 4 ~ 40V, erreur + -0.1V\n\nProtection contre les courts-circuits: oui (limite de courant 14A). Conseils: il est recommandé de mettre le module en marche, puis attacher la charge.\n\nProtection contre l’inversion de polarité d’entrée: non\n\nProtection contre les surtensions de sortie: oui\n\nDimensions: Longueur x largeur x hauteur 67 * 43 * 12mm (à l’exclusion des piliers).\n\nFiche technique\n\nMots clés: boost, converter, power, supply.",
+     "short_description": "Alimentation Élévateur de Tension à base de LTC1871, équipé d’un voltmétre pour mesurer les tensions d’entrée ou de sortie, et qui supporte des courants de sortie jusqu’a 6A, équipé d’un refroidisseur ce qui améliore la puissance maximale de sortie à 100W (lorsque la tension d’entrée est supérieure à 20V, la sortie peut atteindre 128W).\n\nTension d’entrée: 2.5 ~ 36V DC\n\nCourant d’entrée: 9A (max.)\n\nTension de sortie: 3.5 ~ 36V DC\n\nLe courant de sortie: 6A (max)\n\nLa puissance de sortie: 100W\n\nL’efficacité de conversion: 96,7% (maximum)\n\nGamme de mesure de Voltmétre: 4 ~ 40V, erreur + -0.1V\n\nProtection contre les courts-circuits: oui (limite de courant 14A). Conseils: il est recommandé de mettre le module en marche, puis attacher la charge.\n\nProtection contre l’inversion de polarité d’entrée: non\n\nProtection contre les surtensions de sortie: oui\n\nDimensions: 67 * 43 * 12mm (à l’exclusion des piliers)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/458-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41548",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Élévateur de Tension 150W 8A",
+     "description": "Module Convertisseur Élévateur de Tension DC-DC 150W 10A\n\nCe module convertisseur élévateur (step-up) DC-DC est conçu pour augmenter efficacement une tension continue d’entrée de 12 à 32V vers une tension de sortie réglable entre 12 et 35V. Grâce à sa capacité de courant jusqu’à 10 A et sa puissance maximale de 150 W, il est idéal pour alimenter des équipements nécessitant une tension plus élevée, tels que des moteurs, des LED haute puissance ou des appareils électroniques embarqués.\n\nCaractéristiques techniques :\n\nTension d’entrée : 12 V à 32V DC\n\nTension de sortie : 12 V à 35V DC (réglable via potentiomètre)\n\nTension de sortie par défaut : 19V\n\nCourant de sortie max : 10A (avec refroidissement adéquat)\n\nPuissance maximale : 150W\n\nEfficacité de conversion : jusqu’à 96 %\n\nDimensions : env. 65 × 35 × 23 mm\n\nProtection thermique : présente\n\nRefroidissement : radiateur en aluminium intégré​\n\nApplications typiques :\n\nAlimentation de moteurs DC ou de LED haute puissance\n\nProjets Arduino, Raspberry Pi ou ESP nécessitant une tension supérieure\n\nSystèmes embarqués, drones, robots, modélisme\n\nAlimentation de routeurs, caméras ou équipements de laboratoire​\n\nAvantages :\n\nTension de sortie réglable en continu pour une grande flexibilité\n\nHaute efficacité énergétique avec faible échauffement\n\nComposants robustes : inductance toroïdale, condensateurs haute capacité, MOSFET de puissance\n\nFacile à intégrer dans des boîtiers ou des montages DIY​\n\nRemarques :\n\nAssurez-vous que la tension de sortie est supérieure à la tension d’entrée pour un fonctionnement optimal.\n\nPour des charges dépassant 5 A, un refroidissement actif (ventilateur) est recommandé.\n\nNe pas dépasser la puissance maximale de 150 W pour éviter d’endommager le module.\n\nMots clés: boost, converter, power, supply.",
+     "short_description": "Ce module convertisseur élévateur (step-up) DC-DC est conçu pour augmenter efficacement une tension continue d’entrée de 12 à 32V vers une tension de sortie réglable entre 12 et 35V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/04/459-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42105",
+   "price": 220,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Élévateur de Tension 1200W 20A",
+     "description": "Élévateur de Tension 1200W 20A 97V\n\nCe convertisseur élévateur non isolé permet de monter une tension d’entrée de 10-60V DC vers une sortie réglable de 13-97V DC, tout en assurant un mode courant constant (CC) jusqu’à 20 A et un mode tension constante (CV). Idéal pour alimenter ou charger des batteries et piloter des charges gourmandes.\n\n🔧 Caractéristiques techniques\n\nTension d’entrée : 10–60 V DC\n\nTension de sortie : 13–97 V DC réglable\n\nCourant de sortie : 0–20 A continu (pointe 40 A VIN ≥ 31 V)\n\nPuissance max. : 1200 W (avec refroidissement actif)\n\nEfficacité : 92–98 %\n\nFréquence de commutation : ~110 kHz\n\nProtections : inversion de polarité, sous-tension d’entrée, surcharge, court-circuit, surchauffe\n\nTempérature de fonctionnement : –40 °C à +85 °C\n\nDimensions : 130 × 51 × 80 mm (4 trous Ø 3 mm pour fixation)\n\n💡 Applications typiques\n\nAlimentation boost pour périphériques USB/CCTV depuis batterie 12 V\n\nCharge CC/CV de batteries Li-ion, SLA, etc.\n\nAlimentation de PC portables ou équipements 48 V\n\nProjets DIY nécessitant une tension supérieure à la batterie\n\nRégulation de panneaux solaires pour systèmes 48–60 V\n\n🛠️ Guide d’utilisation\n\nRaccordement\n\nReliez VIN+ et VIN– à votre source (10–60 V).\n\nReliez VOUT+ et VOUT– à la charge ou batterie à charger.\n\nRéglage de la tension (CV)\n\nAssurez-vous qu’aucune charge n’est connectée.\n\nTournez le potentiomètre V-ADJ : sens horaire pour augmenter, antihoraire pour diminuer.\n\nVérifiez la tension avec un voltmètre avant de connecter la charge.\n\nRéglage du courant (CC)\n\nTournez A-ADJ complètement en antihoraire pour ramener le courant au minimum.\n\nConnectez la charge (ou batterie quasi déchargée).\n\nTournez A-ADJ sens horaire jusqu’au courant désiré (lisez avec un ampèremètre).\n\nRéglage UVLO (sous-tension d’entrée)\n\nAlimentez le module et tournez le potentiomètre UVLO jusqu’à extinction de la LED de sous-tension, puis 2 tours en arrière pour fixer le seuil.\n\nMises en garde\n\nNe jamais inverser les polarités VIN± ou VOUT±.\n\nPour P > 500 W, prévoir un ventilateur externe.\n\nNe pas monter en continu à plus de 80 % de la puissance maximale.\n\nÉviter l’humidité et assurer une bonne ventilation.\n\n🛠️ Brochage / Câblage\n\nBroche\nFonction\n\nVIN+\nEntrée + (10–60 V DC)\n\nVIN–\nEntrée – (masse)\n\nVOUT+\nSortie + (13–97 V DC)\n\nVOUT–\nSortie – (masse)\n\nBranchez d’abord l’entrée, réglez V et I, puis connectez la charge pour démarrer l’alimentation.\n\nLe module Boost 1200 W / 20 A (QS-4884CCCV) dispose de trois trimmers (potentiomètres multivœux), chacun dédié à une fonction spécifique :\n\nV-ADJ (Voltage Adjust)\n\nSert à régler la tension de sortie en mode CV.\n\nTournez dans le sens horaire pour augmenter la tension, antihoraire pour la baisser.\n\nÀ ajuster sans charge connectée, en vérifiant la valeur exacte avec un voltmètre.\n\nA-ADJ (Current Adjust)\n\nFixe la limite de courant en mode CC.\n\nTournez antihoraire pour ramener le courant à zéro, puis horaire jusqu’à atteindre le courant désiré (lire avec un ampèremètre en série).\n\nÀ régler avec la charge (ou une batterie quasi déchargée) connectée, afin de calibrer la véritable limite de courant.\n\nUVLO-ADJ (Under-Voltage Lockout Adjust)\n\nDéfinit le seuil de sous-tension d’entrée en dessous duquel le module se désactive pour protéger la source.\n\nEn mode réglage : tournez jusqu’à extinction de la LED UVLO (signale la coupure), puis revenez de 1 à 2 tours pour fixer le seuil.\n\nUtile pour éviter que la tension d’entrée (batterie, alim) ne descende en dessous d’un seuil critique.\n\nRemarque\n\nLes trimmers sont des potentiomètres multitours, offrant une grande précision de réglage.\n\nToujours vérifier la valeur réglée à l’aide d’instruments externes (voltmètre, ampèremètre) avant de charger des équipements sensibles.\n\nMots clés: boost, converter, power, supply.",
+     "short_description": "Ce convertisseur élévateur de tension 1200W 20A non isolé permet de monter une tension d’entrée de 10–60 V DC vers une sortie réglable de 13–97 V DC,"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/460-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/460-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/460-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/460-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50692",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PD Decoy Module déclencheur USB-C PD/QC 12 V",
+     "description": "PD Decoy Module déclencheur USB-C PD/QC 12 V PD Decoy\n\nCe module USB-C PD Trigger, également appelé PD Decoy, permet d’obtenir une sortie continue de 12 V depuis un chargeur ou une batterie externe compatible avec les protocoles de charge rapide.\n\nLe module communique avec la source USB-C pour demander le profil 12 V, puis rend cette tension disponible sur ses deux sorties à souder + et −. Il constitue une solution compacte pour alimenter des routeurs, rubans LED, ventilateurs et autres équipements 12 V à partir d’une alimentation USB-C compatible.\n\nCaractéristiques techniques\n\nModèle : CTP9\n\nType : module déclencheur USB-C PD/QC\n\nConnecteur d’entrée : USB Type-C\n\nTension demandée : 12 V DC\n\nPolarité de sortie clairement indiquée : + et −\n\nSortie par deux pastilles traversantes à souder\n\nTensions configurables sur la carte : 9, 12, 15 ou 20 V\n\nConfiguration par pont de soudure\n\nConfiguration par défaut de cette version : 12 V\n\nProtocoles annoncés : PD 2.0, PD 3.0, QC 2.0, QC 3.0 et AFC\n\nCourant maximal annoncé : jusqu’à 5 A\n\nDimensions approximatives : 23,5 × 12 × 4,5 mm\n\nFormat compact pour intégration dans un boîtier\n\nFonctionnement important\n\nCe module n’est pas un convertisseur élévateur ou abaisseur de tension. Il ne transforme pas automatiquement une alimentation USB 5 V en 12 V : il demande simplement à une alimentation compatible de fournir son profil 12 V.\n\nLa sortie dépend donc de trois éléments :\n\nLe chargeur doit prendre en charge une sortie 12 V compatible.\n\nLe câble USB-C doit supporter la puissance demandée.\n\nLe courant disponible dépend du chargeur, du câble et de la charge.\n\nCertains chargeurs USB-C PD ne proposent pas de profil 12 V. Dans ce cas, le module peut rester à 5 V ou ne pas fournir la tension attendue. Vérifiez toujours la sortie au multimètre avant de connecter votre appareil.\n\nApplications\n\nAlimentation de routeurs et modems 12 V\n\nRubans et modules LED\n\nVentilateurs 12 V\n\nPetits écrans et appareils électroniques\n\nProjets portables alimentés par batterie externe USB-C\n\nBancs de test\n\nAdaptation d’anciens appareils à une alimentation USB-C\n\nProjets électroniques et domotiques\n\nAlimentations compactes personnalisées\n\nGuide d’utilisation\n\n1. Vérifier la configuration\n\nLa pastille correspondant à 12 V doit être reliée par le pont de soudure. Une seule tension doit être sélectionnée à la fois.\n\nNe reliez jamais simultanément plusieurs sélections comme 9 V, 12 V, 15 V ou 20 V.\n\n2. Souder la sortie\n\nPastille du module\nConnexion\n\n+\nPositif de l’appareil\n\n−\nMasse ou négatif\n\nUtilisez des fils adaptés au courant consommé par votre appareil et protégez les soudures contre les courts-circuits.\n\n3. Connecter l’alimentation\n\nVérifiez sur le chargeur que le profil 12 V est disponible.\n\nBranchez un câble USB-C compatible avec la charge rapide.\n\nConnectez le câble au module.\n\nMesurez la tension entre les sorties + et −.\n\nConnectez la charge uniquement après avoir confirmé une tension proche de 12 V.\n\nContrôlez la température du module, du câble et des connexions lors du premier essai.\n\nModification de la tension\n\nLe circuit comporte des sélections pour 9 V, 12 V, 15 V et 20 V. Pour modifier la sortie :\n\nDébranchez entièrement le chargeur et la charge.\n\nRetirez le pont de soudure existant.\n\nReliez uniquement les pastilles correspondant à la nouvelle tension.\n\nVérifiez que le chargeur prend en charge cette tension.\n\nMesurez la sortie au multimètre avant de connecter un appareil.\n\nCette modification est destinée aux personnes maîtrisant la soudure électronique.\n\nPrécautions\n\nVérifiez la tension de sortie avant chaque première utilisation.\n\nRespectez impérativement la polarité + et −.\n\nNe connectez jamais 12 V directement à une entrée 5 V ou 3,3 V.\n\nPour alimenter un Arduino, ESP32 ou Raspberry Pi, utilisez une entrée adaptée ou un convertisseur abaisseur.\n\nLe courant réellement disponible ne correspond pas forcément aux 5 A annoncés : il est limité par le chargeur, son profil 12 V, le câble et le câblage.\n\nAjoutez un fusible adapté pour une installation permanente.\n\nIsolez le dessous du circuit afin d’éviter tout court-circuit.\n\nN’utilisez pas le module dans un environnement humide sans boîtier.\n\nNe modifiez pas les ponts de sélection lorsque le module est alimenté.\n\nCe module ne recharge pas directement une batterie et n’intègre pas de gestion de charge.",
+     "short_description": "Module USB-C PD/QC CTP9 configuré pour demander une sortie 12 V à un chargeur compatible. Idéal pour alimenter des équipements et projets 12 V depuis une source USB-C PD."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/461-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4705",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MB102 3.3V / 5V Alimentation Pour Breadboard",
+     "description": "Alimentation Pour Breadboard MB102 3.3V / 5V\n\nAlimentation pour breadboard MB102 3.3V / 5V Avec entrée par port DC ou port USB.\n\nTension d’entrée: 6.5-12 V (DC) ou alimentation USB\n\nTension de sortie: 3.3V / 5V peut basculer\n\nCourant de sortie maximal: 700 ma\n\nLa sortie est sélectionnable entre 0 V, 3,3 V, 5 V\n\nMots clés: power, supply, regulator.",
+     "short_description": "Alimentation 3.3V / 5V Avec entrée par port DC ou port USB pour Breadboard MB102.\n\nTension d’entrée: 6.5-12 V (DC) ou alimentation USB\n\nTension de sortie: 3.3V / 5V peut basculer\n\nCourant de sortie maximal: 700 ma\n\nLa sortie est sélectionnable entre 0 V, 3,3 V, 5 V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/462-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/462-2.png"
+   ]
+  }
+ ]
+}

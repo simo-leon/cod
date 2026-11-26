@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3634",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N5819 Diode Schottky 1A 40V",
+     "description": "Diode Schottky 1N5819 1A 40V\n\nDiode Schottky 1N5819 1A 40V.\n\nFiche technique",
+     "short_description": "Diode Schottky 1N5819 1A 40V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/715-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3635",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1N5822 Diode Schottky 3A 40V",
+     "description": "Diode Schottky 1N5822 3A 40V\n\nDiode Schottky 1N5822 3A 40V.\n\nFiche technique",
+     "short_description": "Diode Schottky 1N5822 3A 40V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/716-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3639",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "DB107 Diode Pont Redresseur 1A 1000V",
+     "description": "Diode Pont Redresseur DB107 1A 1000V\n\nDiode Pont Redresseur DB107 1A 1000V.\n\nFiche technique",
+     "short_description": "Diode Pont Redresseur DB107 1A 1000V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/720-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3640",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KBP307 Diode Pont Redresseur 3A 700V",
+     "description": "Diode Pont Redresseur KBP307 3A 700V\n\nDiode Pont Redresseur KBP307 3A 700V.\n\nFiche technique",
+     "short_description": "Diode Pont Redresseur KBP307 3A 700V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/721-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3641",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KBU1010 Diode Pont Redresseur 10A 1000V",
+     "description": "Diode Pont Redresseur KBU1010 10A 1000V\n\nDiode Pont Redresseur KBU1010 10A 1000V.\n\nFiche technique",
+     "short_description": "Diode Pont Redresseur KBU1010 10A 1000V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/722-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7196",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KBU2510 Diode Pont Redresseur 25A 1000V",
+     "description": "Diode Pont Redresseur KBU2510 25A 1000V\n\nDiode Pont Redresseur KBU2510 25A 1000V.\n\nFiche technique",
+     "short_description": "Diode Pont Redresseur KBU2510 25A 1000V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/722-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-23589",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KBPC5010 Diode Pont Redresseur 50A 1000V",
+     "description": "KBPC5010 Diode Pont Redresseur 50A 1000V\n\nKBPC5010 Diode Pont Redresseur 50A 1000V.\n\nFiche technique",
+     "short_description": "KBPC5010 Diode Pont Redresseur 50A 1000V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/01/722-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3642",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Diode Zener 1W",
+     "description": "Diode Zener 28 Valeurs 2.7V-47V 1W\n\nDiode Zener 28 Valeurs, 2.7V-47V 1W\n\nValeurs: 2.7V, 3V, 3.3V, 3.6V, 3.9V, 4.3V, 4.7V, 5.1V, 5.6V, 6.2V, 6.8V, 7.5V, 8.2V, 9.1V, 10V, 12V, 13V, 15V, 16V, 18V, 20V, 22V, 24V, 27V, 30V, 33V, 36V, 47V.\n\nPuissance: 1W",
+     "short_description": "Diode Zener 28 Valeurs, 2.7V-47V 1W\n\nValeurs: 2.7V, 3V, 3.3V, 3.6V, 3.9V, 4.3V, 4.7V, 5.1V, 5.6V, 6.2V, 6.8V, 7.5V, 8.2V, 9.1V, 10V, 12V, 13V, 15V, 16V, 18V, 20V, 22V, 24V, 27V, 30V, 33V, 36V, 47V.\n\nPuissance: 1W"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/723-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4610",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "FR307 Diode de Commutation Rapide 3A 1000V",
+     "description": "Diode de Commutation Rapide FR307 3A 1000V\n\nDiode de Commutation Rapide FR307 3A 1000V.\n\nFiche technique",
+     "short_description": "Diode de Commutation Rapide FR307 3A 1000V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/724-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4627",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SR5100 Diode Schottky 5A 100V",
+     "description": "Diode Schottky SR5100 5A 100V\n\nDiode Schottky SR5100 / SB5100 5A 100V.\n\nFiche technique",
+     "short_description": "Diode Schottky SR5100 / SB5100 5A 100V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/725-1.png"
+   ]
+  }
+ ]
+}

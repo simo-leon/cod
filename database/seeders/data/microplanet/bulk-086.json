@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-50672",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCT-213 Connecteur électrique rapide – 32A / 250V",
+     "description": "Connecteur électrique rapide PCT-213 – 3 voies – 32 A / 250 V\n\nLe PCT-213 est un connecteur rapide à leviers permettant de réunir jusqu’à trois conducteurs électriques sans vis ni ruban isolant. Réutilisable et compact, il assure un câblage propre dans les boîtes de dérivation, luminaires, installations domestiques et projets électriques.\n\nSes leviers individuels acceptent les fils rigides et souples, facilitant l’installation, le contrôle et le remplacement des conducteurs.\n\nCaractéristiques techniques\n\nModèle : PCT-213\n\nNombre de connexions : 3\n\nTension nominale : 250 V\n\nCourant nominal maximal annoncé : 32 A\n\nTension de tenue aux impulsions : jusqu’à 4 kV\n\nLongueur de dénudage : environ 9 à 10 mm\n\nConducteurs rigides : environ 0,08 à 2,5 mm²\n\nConducteurs souples : jusqu’à environ 4 mm²\n\nSystème de serrage à leviers\n\nCompatible avec les conducteurs en cuivre rigides et multibrins\n\nConnecteur réutilisable\n\nBoîtier compact et isolant\n\nLes valeurs 250 V, 32 A et un dénudage de 10 mm sont également indiquées dans la fiche technique du PCT-213.\n\nFonctionnement important\n\nLes trois entrées du PCT-213 sont électriquement reliées entre elles. Ce connecteur sert donc à réunir trois fils appartenant au même circuit électrique.\n\nIl ne faut pas connecter simultanément la phase, le neutre et la terre dans un seul PCT-213. Pour distribuer ces trois conducteurs, utilisez trois connecteurs séparés :\n\nUn pour la phase\n\nUn pour le neutre\n\nUn pour la terre\n\nApplications\n\nRaccordement de luminaires\n\nBoîtes de dérivation\n\nDistribution d’un conducteur vers deux départs\n\nInstallations électriques domestiques\n\nProjets de domotique\n\nCâblage d’armoires électriques\n\nConnexions temporaires ou permanentes\n\nMaintenance et dépannage\n\nGuide d’utilisation\n\nCoupez l’alimentation électrique au disjoncteur.\n\nVérifiez l’absence de tension avec un appareil approprié.\n\nDénudez environ 9 à 10 mm de chaque conducteur.\n\nRelevez le levier correspondant.\n\nInsérez entièrement le cuivre dénudé dans l’ouverture.\n\nRabaissez fermement le levier.\n\nTirez légèrement sur chaque fil pour contrôler sa fixation.\n\nPlacez le connecteur dans une boîte ou une enveloppe électrique adaptée avant de rétablir l’alimentation.\n\nAucun brin de cuivre ne doit rester visible à l’extérieur du connecteur.\n\nPrécautions de sécurité\n\nN’intervenez jamais sur une installation sous tension.\n\nUtilisez uniquement des conducteurs en cuivre propres et non endommagés.\n\nNe dépassez pas les valeurs imprimées sur le connecteur reçu.\n\nLe courant réellement admissible dépend également de la section du câble, de sa température, du mode de pose et des protections du circuit.\n\nNe choisissez jamais la section d’un câble sur la seule valeur « 32 A » du connecteur.\n\nPour un fil souple très fin, utilisez un embout de câblage adapté si l’installation l’exige.\n\nInstallez le connecteur dans une boîte fermée, sèche et appropriée.\n\nPour une installation secteur fixe, faites intervenir un électricien qualifié.",
+     "short_description": "Connecteur rapide PCT-213 à trois voies avec leviers, conçu pour réunir facilement des fils rigides ou souples. Caractéristiques nominales annoncées : 32 A et 250 V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/558-c-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/558-c-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50675",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2EDG-5.08 Connecteur enfichable – 2P, 3P ou 4P",
+     "description": "2EDG-5.08 Connecteur enfichable – 2P, 3P ou 4P\n\nLe 2EDG-5.08 est un bornier à vis enfichable conçu pour connecter rapidement des câbles à une carte électronique, une alimentation ou un appareil équipé de l’embase correspondante. Son pas standard de 5,08 mm et sa partie amovible facilitent l’installation et la maintenance sans dévisser les fils à chaque intervention.\n\nDisponible en trois variantes, il convient aux alimentations, systèmes de commande, automatismes, amplificateurs et équipements électroniques.\n\nVariantes disponibles\n\nVariante\nNombre de contacts\nExemple d’utilisation\n\n2P\n2\nAlimentation positive et négative\n\n3P\n3\nPhase, neutre et terre ou signal à trois fils\n\n4P\n4\nDeux alimentations, moteur pas à pas ou plusieurs signaux\n\nChaque contact est électriquement indépendant. Contrairement à un connecteur de dérivation, les différentes bornes ne sont pas reliées entre elles.\n\nCaractéristiques techniques\n\nSérie : 2EDG\n\nPas entre les contacts : 5,08 mm\n\nVariantes : 2, 3 ou 4 positions\n\nType : bornier femelle enfichable à vis\n\nRaccordement du câble : cage de serrage à vis\n\nSection courante des conducteurs : 0,2 à 2,5 mm²\n\nCalibre indicatif : 28 à 12 AWG\n\nLongueur de dénudage indicative : environ 7 à 8 mm\n\nVis généralement de type M3\n\nMontage et démontage rapides\n\nCompatible avec les conducteurs rigides et souples\n\nCouleur : généralement verte\n\nSelon les versions et certifications, les valeurs courantes sont d’environ 12 A sous 320 V selon IEC ou 15 A sous 300 V selon UL. Elles peuvent varier entre fabricants : les valeurs imprimées sur le connecteur et la fiche du fournisseur restent prioritaires. Spécifications d’une série 2EDG-5.08 comparable\n\nApplications\n\nCartes électroniques et circuits imprimés\n\nAlimentations AC ou DC\n\nAmplificateurs audio\n\nContrôleurs industriels\n\nAutomates et systèmes de commande\n\nDrivers de moteurs\n\nÉquipements d’éclairage\n\nMachines et instruments de mesure\n\nProjets Arduino et domotiques\n\nGuide d’utilisation\n\nCoupez entièrement l’alimentation.\n\nVérifiez que l’embase possède le même nombre de contacts et un pas de 5,08 mm.\n\nDénudez environ 7 à 8 mm de chaque fil.\n\nDesserrez la vis de la borne souhaitée.\n\nInsérez entièrement le conducteur.\n\nSerrez la vis avec un tournevis plat adapté, sans excès.\n\nTirez légèrement sur le fil pour vérifier sa fixation.\n\nEnfichez le bornier sur l’embase en respectant l’orientation et la polarité.\n\nPour retirer le connecteur, saisissez son boîtier et tirez droit. Ne tirez jamais directement sur les câbles.\n\nExemple de branchement en courant continu\n\nPour alimenter un appareil avec la variante 2P :\n\nBorne\nConnexion\n\n1\nV+ de l’alimentation\n\n2\nGND ou V−\n\nRespectez toujours les indications sérigraphiées sur l’appareil. Le connecteur n’est pas polarisé électriquement : une inversion des fils peut endommager l’équipement.\n\nCompatibilité\n\nLe pas de 5,08 mm doit correspondre exactement à celui de l’embase. Un connecteur de 5,08 mm peut ressembler à un modèle de 5,00 mm sans être parfaitement compatible.\n\nVérifiez également :\n\nLe nombre de contacts\n\nL’orientation de l’entrée des câbles\n\nLa forme du détrompeur\n\nLa profondeur d’insertion\n\nLes valeurs de tension et de courant\n\nL’embase mâle pour circuit imprimé peut être vendue séparément selon l’option proposée.\n\nPrécautions\n\nNe branchez ou débranchez pas le connecteur sous charge.\n\nAucun cuivre dénudé ne doit rester visible.\n\nUtilisez un embout de câblage adapté avec les fils multibrins lorsque nécessaire.\n\nRespectez la section du câble et le courant maximal admissible par l’ensemble du circuit.\n\nPour une utilisation sur le secteur, installez le connecteur dans un boîtier isolant fermé.\n\nFaites réaliser les installations secteur fixes par une personne qualifiée.",
+     "short_description": "Bornier à vis enfichable 2EDG au pas de 5,08 mm pour réaliser des connexions fiables et facilement démontables. Disponible en versions 2P, 3P et 4P."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/558-d-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/558-d-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/558-d-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/558-d-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24854",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur BNC Mâle",
+     "description": "Connecteur BNC Mâle\n\nLes connecteurs mâles BNC pour câble coaxial sont extrêmement populaires pour une utilisation par les installateurs de sécurité professionnels. Le câble RG59 avec connecteurs BNC est utilisé dans les caméras CCTV, les caméras SDI, les caméras HD-TVI, les caméras AHD et d’autres installations vidéo. Les connecteurs à sertir BNC fournissent une connexion sécurisée au câble coaxial qui durera éternellement lorsqu’il est appliqué correctement.\n\nMots clés: plug, connector.",
+     "short_description": "Les connecteurs mâles BNC pour câble coaxial sont extrêmement populaires pour une utilisation par les installateurs de sécurité professionnels"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/04/559-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3279",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Prise DC Femelle DC-005",
+     "description": "🔌 Prise DC Femelle DC-005 — Connexion d’alimentation fiable pour vos montages\n\nLa prise DC femelle DC-005 permet d’intégrer facilement une entrée d’alimentation continue à vos circuits électroniques, boîtiers DIY, cartes de commande et petits équipements. Elle dispose de trois broches, dont un contact commuté pouvant déconnecter automatiquement une source interne lors de l’insertion d’une fiche.\n\n⚙️ Caractéristiques techniques\n\nType : prise d’alimentation DC femelle\n\nModèle : DC-005\n\nFormat courant : 5,5 × 2,1 mm\n\nNombre de broches : 3\n\nTension nominale : 30 V DC\n\nCourant nominal : 0,5 A\n\nRésistance de contact : ≤ 0,03 Ω\n\nRésistance d’isolement : ≥ 100 MΩ\n\nTest diélectrique : 500 V AC pendant 1 minute\n\nForce d’insertion : 3 à 20 N\n\nTempérature d’utilisation : −40 °C à +55 °C\n\nMontage : soudure sur circuit imprimé ou fils\n\nLe test à 500 V AC correspond uniquement à un essai d’isolation. La prise ne doit pas être utilisée comme connecteur secteur.\n\n✨ Points forts\n\n🔌 Connexion et déconnexion rapides de l’alimentation\n\n🔄 Contact commuté intégré\n\n🛠️ Installation facile sur PCB ou montage personnalisé\n\n📦 Format compact pour une intégration dans un boîtier\n\n⚡ Adaptée aux alimentations continues basse tension\n\n💡 Applications principales\n\nCartes Arduino, ESP32 et Raspberry Pi\n\nAlimentations pour circuits électroniques\n\nBoîtiers de commande et prototypes\n\nÉquipements audio basse tension\n\nRouteurs, rubans LED et petits appareils\n\nProjets DIY et systèmes embarqués\n\n🔧 Tutoriel de branchement\n\nUtilisez le mode continuité d’un multimètre pour identifier la broche centrale, la masse extérieure et le contact commuté.\n\nChoisissez la polarité de votre montage. Le centre positif est courant, mais il n’est pas imposé par le connecteur.\n\nSoudez les fils sur les broches correspondantes.\n\nIsolez soigneusement les connexions afin d’éviter les courts-circuits.\n\nInsérez la fiche mâle, puis contrôlez la tension et la polarité avant de connecter votre circuit.\n\n⚠️ Ne déterminez jamais les broches uniquement d’après leur position physique : vérifiez-les au multimètre.\n\nMots clés: plug, female.",
+     "short_description": "Prise DC-005 femelle 5,5 × 2,1 mm à trois broches, conçue pour alimenter facilement vos circuits et équipements électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/560-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3280",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Prise DC Mâle DC-005",
+     "description": "🔌 Prise DC Mâle DC-005 — Connecteur à souder pour câble d’alimentation\n\nLa prise DC mâle DC-005 est destinée à la fabrication ou à la réparation de câbles d’alimentation basse tension. Son format courant 5,5 × 2,1 mm convient à de nombreux appareils électroniques, cartes de développement et projets DIY.\n\n⚙️ Caractéristiques techniques\n\nType : fiche d’alimentation DC mâle\n\nModèle : DC-005\n\nDimensions du connecteur : 5,5 × 2,1 mm\n\nConnexion : bornes à souder\n\nNombre de contacts : 2\n\nPolarité : définie lors du câblage\n\nUtilisation : alimentation continue basse tension\n\nBoîtier : protection isolante\n\nMontage : sur câble à deux conducteurs\n\n✨ Points forts\n\n🛠️ Idéale pour fabriquer un câble d’alimentation personnalisé\n\n🔧 Permet de réparer un connecteur endommagé\n\n📦 Format compact et facile à installer\n\n♻️ Réutilisable lors des opérations de maintenance\n\n🔌 Compatible avec une prise femelle de même dimension\n\n💡 Applications principales\n\nCâbles pour adaptateurs secteur DC\n\nProjets Arduino, ESP32 et Raspberry Pi\n\nRubans et contrôleurs LED\n\nCaméras et petits équipements électroniques\n\nBoîtiers de commande\n\nRéparation d’alimentations basse tension\n\n🔧 Tutoriel de montage\n\nDévissez le capot isolant du connecteur.\n\nFaites passer le câble dans le capot avant la soudure.\n\nDénudez environ 3 à 5 mm de chaque conducteur.\n\nIdentifiez au multimètre la borne reliée au contact central et celle reliée à la partie extérieure.\n\nSoudez les fils selon la polarité souhaitée.\n\nVérifiez qu’aucun brin de cuivre ne crée de court-circuit.\n\nRefermez le capot, puis contrôlez la tension de sortie avec un multimètre.\n\n⚠️ Le centre positif est une convention fréquente, mais certains appareils utilisent la polarité inverse. Vérifiez toujours le symbole indiqué sur l’équipement.\n\nMots clés: plug.",
+     "short_description": "Fiche DC-005 mâle 5,5 × 2,1 mm à souder, idéale pour fabriquer ou réparer un câble d’alimentation basse tension."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/561-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6208",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Usb Femelle Type A",
+     "description": "Connecteur Usb Femelle Type A\n\nConnecteur Usb femelle type A, 4 broches, peut-être utilisée pour alimentation / communication usb.",
+     "short_description": "Connecteur Usb femelle type A, 4 broches, peut-être utilisée pour alimentation / communication usb."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/570-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21113",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Pour Carte SIM 6 Broches",
+     "description": "📱 Connecteur pour Carte SIM 6 Broches — Intégration dans les Modules GSM et IoT\n\nCe connecteur pour carte SIM à 6 broches permet d’intégrer une carte SIM à une carte électronique, un modem GSM/LTE ou un équipement de communication. Ses contacts assurent la liaison entre la carte SIM et l’interface dédiée du module cellulaire.\n\nCompact et conçu pour le montage sur PCB, il convient aux systèmes de télémétrie, alarmes connectées, traceurs, automatismes et autres projets nécessitant une communication mobile.\n\n✨ Points forts\n\n📱 Connexion électrique d’une carte SIM\n\n📌 Six contacts fonctionnels\n\n📡 Adapté aux modules GSM et LTE\n\n🧩 Intégration sur circuit imprimé\n\n🔄 Carte SIM amovible et remplaçable\n\n🤖 Convient aux projets IoT\n\n📏 Format compact\n\n🛠️ Idéal pour la réparation et la conception électronique\n\n🔧 Caractéristiques principales\n\nType : connecteur ou lecteur mécanique pour carte SIM\n\nNombre de contacts : 6\n\nMontage : sur circuit imprimé\n\nInterface électrique : compatible avec les signaux SIM ISO/IEC 7816\n\nAlimentation de la carte : fournie par le module GSM/LTE\n\nFonction modem intégrée : non\n\nConversion de niveau intégrée : non\n\nProtection ESD intégrée : non spécifiée\n\nDétection de carte : non spécifiée\n\nCarte SIM incluse : non\n\n⚠️ Le format physique de la carte SIM doit être vérifié à partir des dimensions et de la forme du connecteur. Le nombre de broches ne permet pas, à lui seul, de déterminer s’il accepte une Mini-SIM, Micro-SIM ou Nano-SIM.\n\n📌 Fonctions des six contacts SIM\n\nUne interface SIM standard utilise généralement les contacts suivants :\n\nContact SIM\nSignal\nFonction\n\nC1\nVCC\nAlimentation de la carte SIM\n\nC2\nRST\nRéinitialisation\n\nC3\nCLK\nSignal d’horloge\n\nC5\nGND\nMasse\n\nC6\nVPP\nAncienne tension de programmation, souvent inutilisée\n\nC7\nI/O\nCommunication série bidirectionnelle\n\nLes contacts C4 et C8 d’une carte SIM standard ne sont généralement pas utilisés, ce qui explique la présence de six connexions fonctionnelles.\n\n⚠️ La disposition physique des broches du connecteur peut varier. Identifiez chaque contact à partir de son empreinte PCB ou avec un multimètre avant de concevoir le circuit.\n\n⚙️ Principe de fonctionnement\n\nLe connecteur ne lit pas lui-même les informations de la carte SIM. Il assure uniquement le contact mécanique et électrique entre la carte et un circuit compatible.\n\nLe module GSM ou LTE :\n\nFournit la tension adaptée à la carte SIM.\n\nGénère le signal d’horloge.\n\nRéinitialise la carte.\n\nCommunique avec elle par la ligne I/O.\n\nUtilise ensuite ses informations pour accéder au réseau mobile.\n\nUn Arduino seul ne peut pas exploiter directement la carte SIM sans modem ou interface SIM compatible.\n\n🔌 Schéma fonctionnel\n\nCarte SIM\r\n │\r\nConnecteur 6 broches\r\n │\r\nVCC • RST • CLK • I/O • GND\r\n │\r\nModule GSM / LTE\r\n │\r\nUART, USB ou autre interface\r\n │\r\nMicrocontrôleur\n🛠️ Tutoriel d’intégration\n\nVérifiez que le format de la carte correspond au connecteur.\n\nConsultez la fiche technique du module GSM ou LTE.\n\nIdentifiez les six contacts du support avec un multimètre.\n\nReliez VCC à la sortie SIM_VCC du modem.\n\nReliez RST à SIM_RST.\n\nReliez CLK à SIM_CLK.\n\nReliez I/O à SIM_DATA ou SIM_IO.\n\nReliez GND à la masse du module.\n\nLaissez VPP non connecté si la documentation du modem ne demande aucune liaison.\n\nAjoutez une protection ESD adaptée près du connecteur.\n\nInsérez ou retirez la carte uniquement lorsque le circuit est hors tension.\n\nVérifiez son orientation avant la première mise sous tension.\n\nGardez les pistes SIM courtes et éloignées des antennes, convertisseurs à découpage, moteurs et autres sources de perturbations.\n\n⚠️ Tension et niveaux logiques\n\nLes cartes SIM modernes fonctionnent généralement avec une tension prévue par le modem, souvent 1,8 V ou 3 V.\n\nNe connectez pas VCC directement au 5 V d’un Arduino.\n\nN’appliquez pas directement des niveaux logiques 5 V aux lignes RST, CLK ou I/O.\n\nUtilisez exclusivement les sorties SIM dédiées du modem.\n\nVérifiez la tension acceptée par la carte et le module.\n\nUne mauvaise tension peut endommager immédiatement la carte SIM.\n\n🛡️ Conseils de conception\n\nPlacez le connecteur près du module cellulaire.\n\nUtilisez un plan de masse propre.\n\nAjoutez des protections ESD à faible capacité.\n\nÉvitez les pistes longues sur CLK et I/O.\n\nNe faites pas passer les lignes SIM sous une antenne RF.\n\nVérifiez la qualité des soudures sur les fixations mécaniques.\n\nPrévoyez un accès facile pour remplacer la carte.\n\nNe forcez jamais l’insertion si l’orientation est incorrecte.\n\n🎯 Applications principales\n\n📡 Modules GSM, GPRS, 3G, 4G ou LTE compatibles\n\n🚗 Traceurs GPS connectés\n\n🚨 Alarmes avec notification mobile\n\n🏠 Systèmes domotiques\n\n🌡️ Stations de télémétrie\n\n💳 Terminaux et équipements communicants\n\n🏭 Automatisation industrielle\n\n🤖 Projets IoT\n\n🛠️ Réparation de lecteurs SIM\n\n📱 Conception d’appareils mobiles\n\nMots clés: card, phone, gsm, connector.",
+     "short_description": "Connecteur PCB à 6 broches pour intégrer une carte SIM aux modules GSM, LTE, systèmes de télémétrie et projets électroniques connectés."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/573-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21134",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Convertisseur Prise AC Mâle US vers EU",
+     "description": "Convertisseur Prise AC Mâle US vers EU\n\nConvertisseur Prise AC Mâle de US vers EU.\n\nMots clés: plug.",
+     "short_description": "Convertisseur Prise AC Mâle de US vers EU."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/574-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-33611",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Prise d’Alimentation AC 220V avec interrupteur / fusible.",
+     "description": "Prise d’alimentation mâle AC 220V avec interrupteur intégré et porte-fusible.\n\nCaractéristiques:\n\nPossède une prise de fusible intégrée (pas de fusible inclus)\n\nPossède un interrupteur à bascule.\n\nParfait pour une utilisation dans vos propres projets.\n\nLargement utilisé dans les équipements de laboratoire, les appareils médicaux, les équipements de fitness, les appareils d’automatisation industrielle.\n\nSes avantages sont une installation facile et une esthétique élevée, ce qui augmente l’esthétique globale de la conception.\n\nTension maximale : 250 V\n\nCourant du connecteur : 10 A\n\nCourant de l’interrupteur : 6A 250V AC / 10A 125VAC\n\nMots clés: switch, fuse, socket, plug, inlet.",
+     "short_description": "Prise d’alimentation mâle AC 220V avec interrupteur intégré et porte-fusible."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/12/587-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6508",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur Fin de Course avec levier à galet 16A 250V",
+     "description": "Interrupteur Fin de Course avec levier à galet 16A 250V\n\nInterrupteur de fin de course avec levier à galet 16A 250V, 3 broches (commun, contact N.ouvert, contact N.fermé)\n\nCharge nominale: AC250V 16A\n\nRésistance de tension: AC 1000V / min\n\nRésistance de contact: <= 0,025 Ω\n\nDimensions: 28 x 16 x 9mm\n\nRésistance d’isolement: >= 100 MΩ\n\nDurée de vie éléctrique: 100 000 cycles.\n\nDurée de vie mécanique: 20 000 000 cycles.\n\nRésistance d’isolation initiale (à 500 V cc) ≥100 mΩ\n\nTempérature ambiante -25 à +85\n\nFréquence de fonctionnement Mécanique (60 fois / min), Électrique (25 fois / min)\n\nVitesse de fonctionnement 0.01mm-1m / s\n\nMots clés: limit, switch.",
+     "short_description": "Interrupteur de fin de course avec levier à galet 16A 250V, 3 broches (commun, contact N.ouvert, contact N.fermé)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/589-1.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6161",
+   "price": 28,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Accessoires de fixation pour Voiture 2WD",
+     "description": "Accessoires de fixation pour Chassis robotique Voiture 2WD\n\nAccessoires de fixation pour Chassis robotique Voiture 2WD",
+     "short_description": "Accessoires de fixation pour Chassis robotique Voiture 2WD"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/385-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10673",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCB Double Face Perforé 20X15CM",
+     "description": "🧩 PCB Perforé Double Face 20 × 15 cm — Grande Plaque de Prototypage à Souder\n\nCette plaque PCB universelle perforée double face de 20 × 15 cm permet de réaliser des circuits électroniques permanents sans fabriquer un circuit imprimé personnalisé. Elle constitue une excellente étape intermédiaire entre la breadboard temporaire et un PCB conçu sur mesure.\n\nSa grande surface accueille de nombreux composants traversants, connecteurs et modules. Les pastilles présentes sur les deux faces facilitent la soudure, la création de connexions et l’organisation de prototypes complexes.\n\n✨ Points forts\n\n📐 Grande surface de 20 × 15 cm\n\n🔄 Pastilles accessibles sur les deux faces\n\n🔩 Perçages déjà réalisés\n\n🧩 Compatible avec de nombreux composants traversants\n\n✂️ Peut être découpée pour créer plusieurs circuits\n\n🔧 Permet des montages permanents et réparables\n\n🛠️ Aucun procédé de gravure nécessaire\n\n🎓 Idéale pour l’apprentissage de la soudure\n\n🤖 Adaptée aux projets électroniques et robotiques\n\n🔧 Caractéristiques principales\n\nType : plaque universelle de prototypage\n\nStructure : PCB perforé double face\n\nDimensions : 20 × 15 cm\n\nMontage des composants : traversant\n\nConnexion : soudure et fils de liaison\n\nDécoupe : possible avec un outil approprié\n\nSoudure : possible sur les deux faces\n\nMasque de soudure : selon le modèle fourni\n\nComposants inclus : aucun\n\nLe pas exact des trous et la présence éventuelle de trous métallisés doivent être vérifiés sur la plaque reçue avant de concevoir l’implantation définitive.\n\n🔍 Que signifie « double face » ?\n\nUne plaque double face possède des pastilles conductrices sur ses deux côtés. Cela offre plusieurs avantages :\n\nPossibilité de souder depuis la face supérieure ou inférieure\n\nMeilleure fixation mécanique des composants\n\nRoutage plus flexible\n\nConnexions plus faciles dans les circuits complexes\n\nUtilisation possible de fils sur les deux côtés\n\n⚠️ Double face ne signifie pas obligatoirement que chaque trou est métallisé intérieurement. Si les pastilles supérieure et inférieure ne sont pas reliées, soudez la patte du composant sur les deux faces ou créez une liaison adaptée.\n\n📊 PCB perforé ou breadboard ?\n\nCritère\nBreadboard\nPCB perforé\n\nSoudure nécessaire\n❌ Non\n✅ Oui\n\nModification rapide\n✅ Très facile\nPossible\n\nSolidité mécanique\nLimitée\n✅ Bonne\n\nMontage permanent\n❌ Non\n✅ Oui\n\nUtilisation dans un boîtier\nTemporaire\n✅ Adaptée\n\nCircuits complexes\nLimitée\n✅ Grande surface\n\nRéutilisation des composants\nFacile\nPlus difficile\n\n🧰 Matériel recommandé\n\nFer à souder avec panne fine\n\nFil de soudure pour électronique\n\nFlux de soudure\n\nPince coupante\n\nFils rigides ou souples isolés\n\nMultimètre\n\nEntretoises et vis de fixation\n\nLunettes de protection\n\nExtracteur de fumée ou espace ventilé\n\n🛠️ Tutoriel de montage\n\nDessinez d’abord le schéma électrique du circuit.\n\nPlacez les composants sur la plaque sans les souder.\n\nVérifiez leur orientation et l’espace disponible.\n\nDéfinissez les lignes d’alimentation et de masse.\n\nRetournez la plaque en maintenant les composants.\n\nSoudez une seule patte de chaque composant.\n\nVérifiez leur position, puis soudez les autres pattes.\n\nRéalisez les connexions avec les pattes coupées ou des fils isolés.\n\nAjoutez des ponts entre les deux faces lorsque nécessaire.\n\nContrôlez toutes les continuités avec un multimètre.\n\nVérifiez l’absence de court-circuit entre l’alimentation et la masse.\n\nNettoyez les résidus de flux avant la mise sous tension.\n\n🔌 Exemple d’organisation\n\nZone gauche Zone centrale Zone droite\r\nAlimentation → Circuit principal → Connecteurs\r\nVCC / GND CI et composants Entrées / sorties\nPlacez les condensateurs de découplage près des circuits intégrés et séparez autant que possible les signaux sensibles des moteurs, relais et convertisseurs à découpage.\n\n✂️ Comment découper la plaque ?\n\nLa grande plaque peut être divisée pour réaliser plusieurs projets :\n\nTracez la ligne de découpe entre deux rangées de trous.\n\nFixez solidement la plaque.\n\nPortez des lunettes de protection et un masque antipoussière.\n\nUtilisez une scie fine ou un outil adapté aux PCB.\n\nÉvitez d’inhaler les poussières produites.\n\nLimez doucement les bords après la découpe.\n\nNettoyez soigneusement la plaque avant la soudure.\n\nNe cassez pas la plaque brutalement, car cela peut décoller les pastilles ou produire des éclats.\n\n✅ Conseils pour un montage fiable\n\nUtilisez des couleurs de fils différentes pour VCC, GND et les signaux.\n\nÉvitez les fils trop longs.\n\nNe créez pas de ponts de soudure involontaires.\n\nAjoutez des connecteurs pour les éléments démontables.\n\nUtilisez des entretoises pour fixer la carte dans un boîtier.\n\nRenforcez les fils soumis à une traction.\n\nÉtiquetez les entrées et sorties.\n\nTestez chaque section avant d’alimenter l’ensemble.\n\n⚠️ Précautions\n\nTravaillez dans un espace correctement ventilé.\n\nNe touchez pas la panne chaude du fer à souder.\n\nPortez une protection oculaire lors de la coupe des pattes.\n\nCoupez l’alimentation pendant toute modification.\n\nVérifiez la polarité des composants avant la soudure.\n\nNe posez pas la carte alimentée sur une surface métallique.\n\nLimitez le courant de la première mise sous tension si possible.\n\nCette plaque n’est pas destinée directement aux tensions secteur sans conception, isolation et protection appropriées.\n\n🎯 Applications principales\n\n🤖 Robots et systèmes automatisés\n\n🔊 Amplificateurs et circuits audio\n\n⚡ Alimentations basse tension\n\n📡 Capteurs et modules IoT\n\n💡 Contrôleurs pour LED\n\n🔔 Alarmes et automatismes\n\n🎓 Projets scolaires et universitaires\n\n🛠️ Réparations et adaptateurs électroniques\n\n🧪 Circuits de laboratoire\n\n📦 Fabrication de montages permanents",
+     "short_description": "Grande plaque PCB perforée double face de 20 × 15 cm pour réaliser des prototypes électroniques soudés, permanents et facilement personnalisables."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/409-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10669",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCB Double Face Perforé 10X15CM",
+     "description": "Description 1 — PCB double face 10 × 15 cm\n\n🧩 PCB Perforé Double Face 10 × 15 cm — Plaque Universelle de Prototypage\n\nCette plaque PCB perforée double face de 10 × 15 cm permet de transformer un montage temporaire réalisé sur breadboard en un circuit électronique soudé, solide et durable.\n\nSa surface intermédiaire offre suffisamment d’espace pour installer des circuits intégrés, alimentations, relais, capteurs et connecteurs, tout en restant facile à intégrer dans un boîtier ou un projet robotique.\n\n✨ Points forts\n\n📐 Surface pratique de 10 × 15 cm\n\n🔄 Pastilles disponibles sur les deux faces\n\n🔩 Trous déjà réalisés\n\n🧩 Adaptée aux composants traversants\n\n🔧 Montage permanent et réparable\n\n✂️ Plaque découpable selon le projet\n\n🛠️ Aucune gravure chimique nécessaire\n\n🎓 Idéale pour apprendre la soudure\n\n🤖 Convient aux projets électroniques complexes\n\n🔧 Caractéristiques principales\n\nType : plaque PCB universelle perforée\n\nStructure : double face\n\nDimensions : 10 × 15 cm\n\nMontage : composants traversants\n\nConnexion : soudure et fils de liaison\n\nDécoupe : possible avec un outil adapté\n\nSoudure : accessible sur les deux faces\n\nComposants inclus : aucun\n\nLe pas des trous et leur éventuelle métallisation interne doivent être vérifiés sur la plaque reçue avant de réaliser l’implantation définitive.\n\n🔍 Avantages du double face\n\nLes pastilles présentes sur les deux côtés permettent :\n\nDe souder depuis la face supérieure ou inférieure\n\nD’améliorer la fixation mécanique des composants\n\nD’utiliser les deux faces pour organiser les connexions\n\nDe simplifier les montages possédant de nombreux signaux\n\nDe créer des ponts plus courts et plus propres\n\n⚠️ Les pastilles des deux faces ne sont pas nécessairement reliées à l’intérieur de chaque trou. Vérifiez leur continuité au multimètre.\n\n🧰 Matériel recommandé\n\nFer à souder avec panne fine\n\nFil de soudure électronique\n\nFlux\n\nPince coupante\n\nFils isolés\n\nMultimètre\n\nEntretoises de fixation\n\nLunettes de protection\n\nExtracteur de fumée\n\n🛠️ Tutoriel de montage\n\nDessinez le schéma électrique du projet.\n\nPositionnez tous les composants sans les souder.\n\nRegroupez les sections alimentation, commande et sorties.\n\nPrévoyez des lignes distinctes pour VCC et GND.\n\nSoudez une patte de chaque composant.\n\nVérifiez leur position avant de terminer les soudures.\n\nRéalisez les liaisons avec du fil rigide ou isolé.\n\nUtilisez l’autre face pour éviter les croisements.\n\nVérifiez la continuité de chaque connexion.\n\nContrôlez l’absence de court-circuit entre VCC et GND.\n\nNettoyez les résidus de flux.\n\nEffectuez la première mise sous tension avec une alimentation limitée en courant si possible.\n\n✂️ Découpe de la plaque\n\nTracez la découpe entre deux rangées de trous.\n\nFixez la plaque avant de travailler.\n\nPortez des lunettes et un masque antipoussière.\n\nUtilisez une scie fine ou un outil adapté aux PCB.\n\nLimez doucement les bords.\n\nNettoyez les poussières avant la soudure.\n\n⚠️ Conseils et précautions\n\nN’utilisez pas de produits de gravure : cette plaque est déjà perforée.\n\nÉvitez les ponts de soudure involontaires.\n\nPlacez les condensateurs de découplage près des circuits intégrés.\n\nSéparez les signaux faibles des moteurs, relais et convertisseurs.\n\nUtilisez des fils suffisamment épais pour les lignes de puissance.\n\nCoupez l’alimentation avant chaque modification.\n\nNe posez jamais la carte alimentée sur une surface métallique.\n\nRéservez les tensions secteur aux conceptions respectant les règles d’isolation appropriées.\n\n🎯 Applications principales\n\n🤖 Robotique et automatisation\n\n⚡ Alimentations basse tension\n\n🔊 Amplificateurs audio\n\n📡 Capteurs et objets connectés\n\n💡 Commandes de LED\n\n🔁 Cartes à relais\n\n🛠️ Adaptateurs et réparations\n\n🎓 Projets scolaires\n\n🧪 Prototypes de laboratoire\n\n📦 Circuits permanents en boîtier",
+     "short_description": "Plaque PCB perforée double face de 10 × 15 cm pour réaliser des prototypes électroniques soudés, durables et facilement personnalisables."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/410-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3136",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCB Double Face Perforé 3X7CM",
+     "description": "PCB Double Face 3X7CM\n\nCircuit imprimé, PCB double face, dimensions 3X7cm, pour prototypage de vos circuits électroniques.",
+     "short_description": "Circuit imprimé double face, dimensions 3X7cm, pour prototypage de vos circuits électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/413-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3137",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCB Double Face Perforé 4X6CM",
+     "description": "PCB Double Face 4X6CM\n\nCircuit imprimé, PCB double face, dimensions 4X6cm, pour prototypage de vos circuits électroniques.",
+     "short_description": "Circuit imprimé double face, dimensions 4X6cm, pour prototypage de vos circuits électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/414-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3138",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCB Double Face Perforé 2X8CM",
+     "description": "PCB Double Face 2X8CM\n\nCircuit imprimé PCB double face, dimensions 2X8cm, pour prototypage de vos circuits électroniques.",
+     "short_description": "Circuit imprimé double face, dimensions 2X8cm, pour prototypage de vos circuits électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/415-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3143",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCB Double Face Perforé 5X7CM",
+     "description": "🧩 PCB Perforé Double Face 5 × 7 cm — Plaque Compacte pour Petits Circuits\n\nCette plaque PCB perforée double face de 5 × 7 cm est idéale pour réaliser de petits circuits électroniques permanents. Son format compact convient aux capteurs, régulateurs, interfaces, modules audio, commandes de LED et adaptateurs destinés à être placés dans un boîtier.\n\nLes pastilles accessibles sur les deux faces offrent davantage de possibilités de soudure et de routage, sans nécessiter de fabrication ou de gravure chimique.\n\n✨ Points forts\n\n📏 Format compact de 5 × 7 cm\n\n🔄 Pastilles disponibles sur les deux faces\n\n🔩 Trous déjà réalisés\n\n🧩 Compatible avec les composants traversants\n\n📦 Facile à intégrer dans un boîtier\n\n🔧 Montage solide et permanent\n\n🛠️ Aucun produit de gravure nécessaire\n\n🎓 Adaptée aux débutants\n\n💰 Solution économique pour les petits projets\n\n🔧 Caractéristiques principales\n\nType : PCB universel perforé\n\nStructure : double face\n\nDimensions : 5 × 7 cm\n\nMontage : composants traversants\n\nConnexion : soudure et fils de liaison\n\nSoudure : possible sur les deux faces\n\nDécoupe : possible si une dimension plus petite est nécessaire\n\nComposants inclus : aucun\n\nLe pas des trous et la présence éventuelle de métallisation interne doivent être vérifiés directement sur la plaque.\n\n📊 Pourquoi choisir le format 5 × 7 cm ?\n\nCritère\nAvantage\n\nEncombrement\n✅ Facile à placer dans un petit boîtier\n\nNombre de composants\nAdapté aux circuits simples ou moyens\n\nCoût\n✅ Économique\n\nTemps de câblage\nGénéralement réduit\n\nRoutage\nDeux faces disponibles\n\nUtilisation\nModules autonomes et interfaces\n\n🛠️ Tutoriel de montage\n\nTestez d’abord votre circuit sur breadboard.\n\nDessinez l’implantation des composants.\n\nPlacez les éléments les plus volumineux en premier.\n\nPositionnez ensuite les résistances, diodes et condensateurs.\n\nRéservez un bord pour les connecteurs.\n\nSoudez une patte de chaque composant.\n\nCorrigez leur alignement, puis terminez les soudures.\n\nReliez les pastilles avec du fil rigide ou isolé.\n\nUtilisez la seconde face pour les connexions croisées.\n\nVérifiez la continuité avec un multimètre.\n\nRecherchez les courts-circuits avant la mise sous tension.\n\nNettoyez les résidus de flux.\n\n💡 Conseils d’organisation\n\nEntrée Circuit principal Sortie\r\n │ │ │\r\nConnecteur → Composants actifs → Connecteur\r\n VCC et GND\n\nPlacez les condensateurs près des circuits intégrés.\n\nGardez les connexions courtes.\n\nUtilisez un fil rouge pour VCC et un fil noir pour GND.\n\nÉtiquetez les connecteurs.\n\nAjoutez des points de test lorsque cela est possible.\n\n⚠️ Conseils et précautions\n\nLes pastilles supérieure et inférieure ne sont pas forcément reliées.\n\nN’appliquez pas trop longtemps le fer sur une pastille.\n\nÉvitez les ponts de soudure entre les trous voisins.\n\nCoupez l’alimentation pendant toute modification.\n\nPortez des lunettes lors de la coupe des pattes.\n\nTravaillez dans un espace ventilé.\n\nNe posez pas le circuit alimenté sur une surface conductrice.\n\nN’utilisez pas directement cette plaque sur le secteur sans respecter les distances d’isolement et les protections requises.\n\n🎯 Applications principales\n\n📡 Modules de capteurs\n\n💡 Commandes pour LED\n\n🔊 Petits circuits audio\n\n⚡ Régulateurs et alimentations\n\n🔔 Alarmes et buzzers\n\n🤖 Interfaces robotiques\n\n🧪 Adaptateurs de laboratoire\n\n🎓 Projets éducatifs\n\n🛠️ Réparations électroniques\n\n📦 Circuits compacts en boîtier",
+     "short_description": "Plaque PCB perforée double face de 5 × 7 cm pour fabriquer facilement de petits circuits électroniques soudés et permanents."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/416-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3152",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Breadboard, Plaque d’essai 830 Points",
+     "description": "Breadboard, Plaque d’essai 830 Points\n\nPlaque d’essai ( Breadboard ) 830 Points, pour prototypage de vos circuits électroniques. Il peut étre relié entre eux pour former un grand breadboard.",
+     "short_description": "Plaque d’essai ( Breadboard ) 830 Points, pour prototypage de vos circuits électroniques. Il peut étre relié entre eux pour former un grand breadboard."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/419-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22550",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Breadboard, Plaque d’essai 1660 Points",
+     "description": "Breadboard, Plaque d’essai 1660 Points\n\nPlaque d’essai ( Breadboard ) 1660 Points, avec 3 connecteur à embace banane, pour prototypage de vos circuits électroniques.\n\nTaille: 16.5 x 11.1 x 0.85 cm",
+     "short_description": "Plaque d’essai ( Breadboard ) 1660 Points"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/419-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21138",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Papier De Transfert Thermique Pour PCB A4",
+     "description": "Papier De Transfert Thermique Pour PCB A4\n\nLa méthode de transfert thermique a produit facilement des circuits imprimés à la maison, consiste à dessiner un bon graphique, une imprimante laser à imprimer dans du papier de transfert thermique, puis du papier de transfert couvrant la chaleur du cuivre lié, faire fondre le toner est complètement adsorbé dans le cuivre déposé, après refroidissement le papier de transfert, vous pouvez voir le transfert des graphiques de la carte vers le cuivre collé, couche anti-corrosion noire, c’est-à-dire que nous voulons le diagramme PCB, la corrosion finale, c’est-à-dire que nous pouvons obtenir ce que nous voulons le PCB.\n\nVous ne pouvez utiliser que l’imprimante laser! Impossible d’utiliser une imprimante à jet d’encre! Carte PCB avec une imprimante laser, frappez le côté lisse et enveloppez-la sur le cuivre dans une machine de fabrication de plaques rapide ou un transfert de fer.\n\nMots clés: thermal, transfer, paper.",
+     "short_description": "La méthode de transfert thermique a produit facilement des circuits imprimés à la maison, consiste à dessiner un bon graphique, une imprimante laser à imprimer dans du papier de transfert thermique"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/420-b-1.png"
+   ]
+  }
+ ]
+}

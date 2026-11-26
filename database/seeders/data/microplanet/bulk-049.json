@@ -1,0 +1,207 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-21109",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur XT60 60A",
+     "description": "XT60 XT-60 Connecteur Male / Femelle\n\nLe XT60 est un connecteur de puissance fiable, conçu pour les courants élevés (jusqu’à 60 A) et les applications RC, drones, et batteries LiPo. Disponible en version mâle et femelle, il se décline en deux marques : Amass (certifié UL, plastique haute-température) et Generic (équivalent économique).\n\n🔧 Caractéristiques techniques\n\nCourant nominal : 60 A continu\n\nTension de service : jusqu’à 500 V DC\n\nRésistance de contact : ≤ 0,5 mΩ\n\nMatériau isolant :\n\nAmass : Nylon PA66, UL94 V-0, supporte 105 °C\n\nGeneric : Polypropylène ou PA6, UL94 HB, supporte 80 °C\n\nContacts : laitons plaqués or (Amass) ou étain (Generic)\n\nPolarité : anse jaune = +, corps noir = –\n\nCouple de serrage des soudures : 40–60 N·cm\n\nDimensions (unité) : env. 21 × 12 × 9 mm\n\nMontage : soudure directe sur fils gros calibre ou sur PCB via pattes coudées\n\n💡 Applications typiques\n\nAlimentation de moteurs brushless sur drones, avions RC, voitures RC\n\nConnexion de packs LiPo pour FPV, modélisme et robotics\n\nTransfert de puissance pour onduleurs et systèmes embarqués\n\nAssemblages DIY de batteries externes et powerbanks\n\nPrototypage de convertisseurs DC-DC et bancs d’essai de batteries\n\n🛠️ Brochage / Connexions\n\nVers le pack / batterie\nVers l’appareil / ESC\nPolarité\n\nXT60 mâle (jaune)\nXT60 femelle (noir)\n+ (centre)\n\nXT60 mâle (noir)\nXT60 femelle (jaune)\n– (coque)\n\nPréparation du câble : dénudez 8–10 mm de gaine, étamez le brin.\n\nChauffage : placez le fer à 350–380 °C, maintenez le connecteur stable.\n\nSoudure : injectez l’étain sur la broche en appuyant le fil jusqu’à remplissage complet.\n\nVérification : assurez-vous qu’il n’y ait pas de court-circuit entre + et –.\n\nEmmanchement : poussez la partie mâle dans la femelle jusqu’à ‘clic’ de verrouillage.\n\nMots clés: plug, female, male, connector.",
+     "short_description": "Le XT60 est un connecteur de puissance fiable, conçu pour les courants élevés (jusqu’à 60 A) et les applications RC, drones, et batteries LiPo"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/563-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42146",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur XT90 90A",
+     "description": "Connecteur XT90 XT-90 90A\n\nLe XT90 est un connecteur haute puissance, conçu pour des courants jusqu’à 90 A continu, idéal pour les batteries LiPo de forte capacité, les drones, vélos électriques et systèmes embarqués. Disponible en version mâle et femelle, il se décline chez Amass (UL94 V-0, contacts plaqués or) et en version Generic (polypropylène, contacts étain).\n\n🔧 Caractéristiques techniques\n\nCourant nominal : 90 A continu\n\nTension de service : jusqu’à 500 V DC\n\nRésistance de contact : ≤ 0,5 mΩ\n\nMatériau isolant :\n\nAmass : nylon PA66 UL94 V-0, résiste à 105 °C\n\nGeneric : polypropylène/PA6 UL94 HB, résiste à 80 °C\n\nContacts : laiton plaqué or (Amass) ou étain (Generic)\n\nPolarité : centre = +, corps = –\n\nDimensions (unité) : env. 21 × 16 × 8 mm\n\nMontage : soudure directe sur fils gros calibre ou sur PCB via pattes coudées\n\n💡 Applications typiques\n\nAlimentation de drones et multicoptères lourds\n\nPacks LiPo pour e-bikes, e-scooters, modélisme RC hautes performances\n\nSystèmes de batterie UPS et onduleurs portables\n\nPrototypage de convertisseurs DC-DC et systèmes de gestion d’énergie\n\nApplications robotiques et drones professionnels\n\n🛠️ Brochage / Connexions\n\nVers la batterie (XT90 mâle)\nVers l’appareil (XT90 femelle)\nPolarité\n\nBroche centrale\nBroche centrale\n+ (positif)\n\nCorps métallique\nCorps métallique\n– (négatif)\n\nPréparez le câble : dénudez 10–12 mm, étamez soigneusement les brins.\n\nChauffez le fer à souder : 350–380 °C, maintenez le connecteur stable.\n\nSoudez l’étain sur chaque broche tout en insérant le fil jusqu’à remplissage complet.\n\nVérification : assurez-vous qu’il n’y ait aucun court-circuit entre + et –.\n\nEmmanchement : poussez la partie mâle dans la femelle jusqu’au “clic” de verrouillage.\n\nConseil : pour des performances optimales, utilisez des câbles de section adaptée (≥ 8 AWG) et isolez les soudures avec de la gaine thermorétractable.\n\nMots clés: plug, female, male, connector.",
+     "short_description": "Le XT90 est un connecteur de puissance compact, conçu pour des courants jusqu’à 90 A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/563-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42131",
+   "price": 3.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur XT30 30A",
+     "description": "Connecteur XT30 XT-30 30A\n\nLe XT30 est un connecteur de puissance compact, conçu pour des courants jusqu’à 30 A, idéal pour les petits drones, packs LiPo et modèles réduits. Disponible en version mâle et femelle, proposé par Amass (UL94 V-0, contacts plaqués or) et Generic (polypropylène, contacts étain).\n\n🔧 Caractéristiques techniques\n\nCourant nominal : 30 A continu\n\nTension de service : jusqu’à 500 V DC\n\nRésistance de contact : ≤ 1 mΩ\n\nMatériau isolant :\n\nAmass : Nylon PA66, UL94 V-0, supporte 105 °C\n\nGeneric : Polypropylène ou PA6, UL94 HB, supporte 80 °C\n\nContacts : laiton plaqué or (Amass) ou étain (Generic)\n\nPolarité : centre = +, corps = –\n\nDimensions : env. 15 × 12 × 7 mm\n\nMontage : soudure directe sur fils gros calibre ou sur PCB via pattes coudées\n\n💡 Applications typiques\n\nConnexion de petits packs LiPo pour drones mini, FPV Cinéwhoop\n\nAlimentation de micro-ESC et micro-moteurs brushless\n\nProjets Arduino/ESP32 nécessitant alimentation 30 A\n\nPowerbanks et batteries externes compactes\n\nPrototypage de convertisseurs DC-DC à faible encombrement\n\n🛠️ Brochage / Connexions\n\nVers le pack / batterie\nVers l’appareil / ESC\nPolarité\n\nXT30 mâle (+)\nXT30 femelle (+)\n+ (centre)\n\nXT30 mâle (–)\nXT30 femelle (–)\n– (coque)\n\nPréparez le câble : dénudez 6–8 mm et étamez le brin.\n\nChauffez votre fer à 350–380 °C, maintenez le connecteur stable.\n\nSoudez l’étain sur la broche tout en insérant le fil jusqu’à remplissage complet.\n\nVérifiez l’absence de court-circuit entre + et –.\n\nEmboîtez la partie mâle dans la femelle jusqu’au “clic” de verrouillage.\n\nMots clés: plug, female, male, connector.",
+     "short_description": "Le XT30 est un connecteur de puissance compact, conçu pour des courants jusqu’à 30 A, idéal pour les petits drones, packs LiPo et modèles réduits"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/563-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3283",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Supports de Circuits Intégrés",
+     "description": "Supports de Circuits Intégrés 6-40 broches\n\nLes supports de circuits intégrés sont utilisés comme espace réservé pour les circuits intégrés et utilisée pour permettre l’enlèvement et l’insertion sécurisés des circuits intégrés sans soudure, plusieurs dimensions sont disponible: de 6 à 40 broches.\n\nTailles: 6, 8, 14, 16, 18, 20, 24 (taille petite), 24 (taille large), 28, 32, 40.\n\nMots clés: ic, socket.",
+     "short_description": "les support de circuits intégrés sont utilisés comme espace réservé pour les circuits intégrés et utilisée pour permettre l’enlèvement et l’insertion sécurisés des circuits intégrés sans soudure, plusieurs dimensions sont disponible: de 6 à 40 broches.\n\nTailles: 6, 8, 14, 16, 18, 20, 24 (taille petite), 24 (taille large), 28, 32, 40"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/564-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/564-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/564-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5653",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cosse électrique 6.3mm",
+     "description": "Cosse électrique Mâle/Femelle 6.3mm\n\nConnecteur de cosse électrique mâle / femelle 6.3mm.\n\nMatiére: Cuivre, PVC, Fer blanc.\n\nCouleur: rouge / bleu\n\nConnecteurs femelles entièrement isolés\n\nLargeur de lame mâle de 6,3 mm\n\nUtilisable avec des diamètres de câble: 1.25 – 2.5mm\n\nCourant maximum: 15A\n\nTension d’isolation: 600V\n\nMots clés: spade, connector, crimp.",
+     "short_description": "Connecteur de cosse électrique mâle / femelle.\n\nLargeur de lame mâle de 6,3 mm\n\nUtilisable avec des diamètres de câble: 1.25 – 2.5mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/02/567-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/02/567-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/02/567-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/02/567-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6217",
+   "price": 13,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support pour Circuits Intégrés ZIF",
+     "description": "Support 14 / 20 / 40 broches pour Circuits Intégrés\n\nSupport de 14 / 20 / 40 broches pour tester les circuits Intégrés / microcontrôleurs…\n\nMots clés: ic, socket, zif.",
+     "short_description": "Support de 14 / 20 / 40 broches pour tester les circuits Intégrés / microcontrôleurs…"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/571-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/571-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/571-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/571-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/571-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7268",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur OTG pour Android",
+     "description": "Connecteur OTG Micro Usb / Type C pour Android\n\nConnecteur Usb OTG, pour les Smartphones, vous permet de connecter n’importe quel périphérique USB à votre smartphone Android.",
+     "short_description": "Connecteur Usb OTG, pour les Smartphones, vous permet de connecter n’importe quel périphérique USB à votre smartphone Android."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/572-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/572-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22360",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Aimant Neodymium (néodyme)",
+     "description": "Aimant Neodymium (néodyme)\n\nDes aimants puissants, disponibles en plusieurs formats pour s’adapter à tous vos projets DIY, industriels ou de modélisme. Revêtement Ni – Cu – Ni pour une bonne résistance à la corrosion.\n\n🔧 Caractéristiques techniques\n\nRevêtement : Ni – Cu – Ni (nickel-cuivre-nickel)\n\nTempérature de service : jusqu’à 80 °C\n\nAimantation : axiale (faces opposées)\n\nFormes & dimensions :\n\nRonds (Ø × ép.) : 5×2.5mm · 12×2.5mm · 20×2.5mm · 30×2.5mm (±1.5mm)\n\nFraisés (avec trou Ø 4 mm + vis M4) : 10×2 mm · 20×5mm (±1.5mm)\n\nRectangulaires (L × l × ép.) : 20×10×1.5mm · 30×10×2.5mm (±1.5mm)\n\n💡 Applications typiques\n\nFixations magnétiques pour supports, panneaux, câbles\n\nMécanismes à verrouillage rapide (portes, capots)\n\nPrototypage et robotique (capteurs à effet Hall)\n\nModélisme (avions, bateaux, trains)\n\nFabrication de joints magnétiques, fermetures aimantées\n\nConseil : manipuler avec précaution – ces aimants sont fragiles et peuvent s’accrocher violemment les uns aux autres ou à des surfaces métalliques. Usez de protections (gant fin) et évitez le contact avec pacemakers.\n\nMots clés: magnet.",
+     "short_description": "Des aimants puissants, disponibles en plusieurs formats pour s’adapter à tous vos projets DIY, industriels ou de modélisme. Revêtement Ni – Cu – Ni pour une bonne résistance à la corrosion."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/575-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/0575-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/575-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22651",
+   "price": 0.75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "M3 Espaceur Hexagonale",
+     "description": "M3 Espaceur à Vis Hexagonale Mâle/Femelle\n\nM3 Espaceur Hexagonale Mâle/Femelle à Vis/écrou pour les cartes PCB.\n\nVariations:\n\nEspaceur Mâle – Femelle 6mm +6mm\n\nEspaceur Mâle – Femelle 10mm +6mm\n\nEspaceur Mâle – Femelle 15mm +6mm\n\nEspaceur Mâle – Femelle 20mm +6mm\n\nEspaceur Mâle – Femelle 30mm +6mm\n\nEspaceur Femelle – Femelle 6mm\n\nEspaceur Femelle – Femelle 10mm\n\nEspaceur Femelle – Femelle 15mm\n\nEspaceur Femelle – Femelle 20mm\n\nEspaceur Femelle – Femelle 30mm\n\nVis + écrou M3 6mm\n\nMots clés: spacer, brass hex, nut, screw.",
+     "short_description": "M3 Espaceur  Hexagonale Mâle/Femelle à Vis/écrou pour les carte PCB."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/576-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/576-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6511",
+   "price": 9,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur ON/OFF 3 Broches 6A 250V",
+     "description": "Interrupteur ON/OFF 3 Broches 6A 250V\n\nInterrupteur on/off 6A 250VAC, 2 positions, 3 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: AC250V 6A, AC125V 10A\n\nRésistance de contact: <= 0,05 Ω\n\nDurée de vie: 100 000 cycles\n\nMots clés: switch.",
+     "short_description": "Interrupteur on/off 6A 250VAC, 2 positions, 3 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/588-1.png"
+   ]
+  }
+ ]
+}

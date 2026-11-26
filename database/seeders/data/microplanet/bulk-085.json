@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-17911",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Micro Hdmi Vers Hdmi",
+     "description": "Connecteur Micro Hdmi Vers Hdmi\n\nConnecteur HDMI Type A Femelle vers Micro HDMI Type D Mâle.\n\nMots clés: adapter, port, connector, display, raspberry,",
+     "short_description": "Connecteur HDMI Type A Femelle vers Micro HDMI Type D Mâle."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/552-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/552-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17916",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble avec Connecteur Micro Hdmi vers Hdmi",
+     "description": "Câble avec Connecteur Micro Hdmi vers Hdmi\n\nCâble 1,5m avec Connecteur HDMI Type A Mâle vers Micro HDMI Type D Mâle.\n\nMots clés: adapter, port, connector, display, raspberry,",
+     "short_description": "Câble 1,5m avec Connecteur HDMI Type A Mâle vers Micro HDMI Type D Mâle."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/552-b-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42125",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Banane Male 4mm",
+     "description": "Connecteur Banane Male 4mm\n\nLe connecteur (fiche) banane mâle 4 mm offre une connexion fiable pour les applications audio, mesure et prototypage. Conçu en laiton nickelé, avec une coiffe isolante en PVC colorée, il se fixe solidement sur un câble via une terminaison à vis.\n\n🔧 Caractéristiques techniques\n\nType : connecteur banane mâle 4 mm\n\nMatériau conducteur : laiton massif, placage nickel\n\nIsolation : corps en PVC moulé\n\nTension nominale : 30 VAC\n\nMontage câble : fixation par vis (cable mount)\n\nDiamètre de plot : 4 mm\n\nCouleurs disponibles : rouge, bleu, jaune, vert, noir\n\n💡 Applications typiques\n\nConnexion d’enceintes, amplificateurs et systèmes audio haute puissance\n\nBornes de mesure sur multimètres et bancs d’essai\n\nPonts de laboratoire, alimentations de test et prototypage électronique\n\nPanneaux de distribution et reliures rapides pour projets DIY\n\nÉquipements de formation et didacticiels en électronique\n\n🛠️ Utilisation / Montage\n\nPréparer le câble : dénudez l’âme conductrice (environ 5 mm).\n\nInsérer le fil : ouvrez la vis du connecteur, glissez le câble dans l’alvéole.\n\nSerrer la vis : assurez une connexion mécanique et électrique solide.\n\nBrancher : inserrez la partie mâle de 4 mm dans la prise banane femelle correspondante.\n\nIdentification : utilisez la couleur du capuchon PVC pour coder vos circuits ou canaux.\n\nAstuce : pour une tenue optimale, utilisez un câble de section 2mm² – 4mm² et vérifiez périodiquement le serrage des vis.",
+     "short_description": "Le connecteur banane mâle 4 mm offre une connexion fiable pour les applications audio, mesure et prototypage. Conçu en laiton nickelé, avec une coiffe isolante en PVC colorée"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/552-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3266",
+   "price": 3.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur avec Embase Banane Femelle",
+     "description": "Connecteur avec Embase Banane Femelle\n\nConnecteur de Liaison avec embase banane femelle 4mm avec protection de sécurité, disponible en 5 couleurs. Convient pour connecter une fiche banane de 4mm.\n\nCaractéristique :\n\nCouleur: noir, rouge, jaune, bleu, vert\n\nTaille: 11*15mm\n\nCourant: max 10A\n\nTige filetée en cuivre nickelé, adaptée à une prise jack de 4mm\n\nÉcrou à vis: métal en alliage de zinc\n\nJoint: fer",
+     "short_description": "Connecteur de Liaison avec embase banane femelle 4mm avec protection de sécurité, disponible en 5 couleurs. Convient pour connecter une fiche banane de 4mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/0553.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/553-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3267",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Avec Port Usb Mâle",
+     "description": "Connecteur Avec Port Usb Mâle\n\nConnecteur convertisseur de Port Usb Mâle en 4 broches. Peut être utilisé pour intégrer une communication usb à vos projets ou pour les alimenter.",
+     "short_description": "Connecteur convertisseur de Port Usb Mâle en 4 broches, peut être utilisé pour intégrer une communication usb à vos projets ou pour les alimenter."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/554-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3270",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Avec Port Usb Femelle",
+     "description": "Connecteur Avec Port Usb Femelle\n\nConnecteur convertisseur de Port Usb femelle en 4 broches. Peut être utilisé pour intégrer une communication usb à vos projets ou pour les alimenter.",
+     "short_description": "Connecteur convertisseur de Port Usb femelle en 4 broches, peut être utilisé pour intégrer une communication usb à vos projets ou pour les alimenter."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/555-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3272",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Avec Port Micro Usb Femelle",
+     "description": "🔌 Connecteur Micro-USB Femelle sur Carte 4 Broches — Alimentation et Données USB\n\nCe connecteur Micro-USB femelle avec sortie sur quatre broches facilite l’intégration d’un port USB dans un prototype ou une carte électronique. Son circuit d’adaptation rend les connexions plus accessibles que les minuscules contacts du connecteur Micro-USB.\n\nIl peut être utilisé pour recevoir une alimentation 5 V USB ou pour établir une communication USB 2.0 grâce aux lignes D+ et D−, à condition que le circuit connecté soit compatible.\n\n✨ Points forts\n\n🔌 Port Micro-USB femelle\n\n📌 Sortie accessible sur quatre broches\n\n⚡ Récupération de l’alimentation USB 5 V\n\n📡 Accès aux lignes de données D+ et D−\n\n🛠️ Plus facile à souder qu’un connecteur CMS seul\n\n🧪 Adapté aux prototypes et réparations\n\n📏 Format compact\n\n🔄 Compatible avec les câbles Micro-USB standards\n\n🔧 Caractéristiques principales\n\nType : connecteur Micro-USB femelle sur carte\n\nInterface : USB 2.0\n\nNombre de sorties accessibles : 4\n\nAlimentation USB : 5 V nominal\n\nLignes disponibles : VBUS, D−, D+ et GND\n\nLigne ID : généralement non accessible\n\nConversion de tension : non\n\nChargeur de batterie intégré : non\n\nConvertisseur USB-série intégré : non\n\nCe produit est un connecteur d’adaptation passif. Il ne régule pas la tension et ne transforme pas automatiquement le signal USB.\n\n📌 Brochage\n\nBroche\nFonction\nDescription\n\nVBUS / VCC\n+5 V\nAlimentation provenant du port USB\n\nD−\nDonnée négative\nLigne différentielle USB\n\nD+\nDonnée positive\nLigne différentielle USB\n\nGND\nMasse\nRéférence électrique\n\nVérifiez toujours les inscriptions sérigraphiées sur votre carte avant le branchement.\n\n⚙️ Deux modes d’utilisation\n\nUtilisation\nBroches nécessaires\n\nAlimentation uniquement\nVBUS et GND\n\nAlimentation et communication USB\nVBUS, D−, D+ et GND\n\nLa quantité de courant disponible dépend de la source USB, du câble et de l’appareil connecté. Le connecteur seul ne négocie pas une charge rapide.\n\n🛠️ Tutoriel — Utilisation comme entrée 5 V\n\nCoupez l’alimentation du montage.\n\nIdentifiez les broches VBUS et GND.\n\nSoudez VBUS à l’entrée positive du circuit.\n\nSoudez GND à la masse du circuit.\n\nVérifiez qu’aucun court-circuit n’existe entre VBUS et GND.\n\nBranchez le câble Micro-USB.\n\nMesurez la tension avant de connecter une charge sensible.\n\nMicro-USB VBUS ─── Protection ─── Entrée 5 V du circuit\r\nMicro-USB GND ────────────────── GND du circuit\nIl est recommandé d’ajouter un fusible réarmable, une protection contre l’inversion ou un circuit de limitation selon l’application.\n\n📡 Tutoriel — Utilisation des données USB\n\nPour transmettre les données :\n\nConnectez D+ à la ligne D+ de votre circuit USB.\n\nConnectez D− à la ligne D−.\n\nGardez les deux pistes courtes, proches et de longueur similaire.\n\nÉvitez de les faire passer près des convertisseurs, moteurs ou relais.\n\nReliez impérativement les masses des deux circuits.\n\nUtilisez un microcontrôleur ou une interface disposant d’un contrôleur USB compatible.\n\nLe connecteur ne permet pas, à lui seul, d’ajouter une fonction USB à un microcontrôleur qui ne possède pas de contrôleur USB.\n\n🔋 Recharge d’une batterie\n\nNe connectez jamais directement une batterie lithium-ion aux broches VBUS et GND.\n\nPour recharger une batterie :\n\nAjoutez un contrôleur de charge adapté à sa technologie.\n\nUtilisez un module de protection approprié.\n\nVérifiez le courant de charge autorisé.\n\nRespectez la polarité et la tension maximale de la batterie.\n\n⚠️ Précautions d’utilisation\n\nVérifiez le brochage avant la soudure.\n\nNe court-circuitez pas VBUS et GND.\n\nNe dépassez pas les capacités du câble et de la source USB.\n\nNe branchez pas deux sources 5 V simultanément sans circuit de gestion.\n\nN’inversez jamais D+ et D−.\n\nRenforcez mécaniquement le connecteur si le câble est souvent manipulé.\n\nUtilisez une protection ESD pour les applications sensibles.\n\nNe considérez pas ce produit comme un chargeur ou un convertisseur.\n\n🎯 Applications principales\n\n🔋 Entrée d’alimentation USB 5 V\n\n🧪 Prototypes et plaques d’essai\n\n🤖 Projets avec microcontrôleur USB\n\n🛠️ Réparation de connecteurs\n\n📡 Communication USB 2.0\n\n💡 Éclairage et petits circuits 5 V\n\n🔊 Modules audio alimentés par USB\n\n📟 Appareils électroniques DIY\n\n🎓 Travaux pratiques d’électronique",
+     "short_description": "Connecteur Micro-USB femelle sur carte avec quatre sorties accessibles pour récupérer l’alimentation 5 V et les lignes de données USB."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/556-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42128",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Breakout Type-C USB Femelle, 4 Broches",
+     "description": "Connecteur Breakout Type-C USB Femelle, 4 Broches\n\nCe module breakout USB Type-C femelle simplifie l’intégration d’un connecteur USB-C sur vos cartes et prototypes, en exposant les quatre lignes essentielles pour l’USB 2.0 : alimentation 5 V, masse et données différentielles (D–, D+).\n\n🔧 Caractéristiques techniques\n\nConnecteur : USB Type-C femelle 4 broches (USB 2.0 seulement)\n\nBroches exposées : VBUS (5 V), D–, D+, GND\n\nTaux de transfert : jusqu’à 480 Mbps (USB 2.0)\n\nCourant maximal VBUS : 1 A (dépend du câble et de la source)\n\nIsolation : plaquettes PCB séparées pour éviter les courts-circuits\n\nFixation : quatre trous M2 pour montage sur châssis ou carte mère\n\nDimensions PCB : env. 28 × 14 mm\n\n💡 Applications typiques\n\nAjout d’un port USB-C à vos cartes Arduino, ESP32, Raspberry Pi Zero\n\nPrototypage rapide de périphériques USB 2.0 (claviers, souris, capteurs)\n\nAlimentation 5 V depuis adaptateur USB-C pour modules et capteurs\n\nProjets DIY nécessitant un connecteur réversible facile\n\nConversion rapide d’un câble USB-C en fils volants\n\n🛠️ Brochage / Connexions\n\nBroche\nFonction\nRemarque\n\nVBUS\n+5 V DC\nAlimentation USB\n\nD–\nDonnée négative\nLigne différentielle –\n\nD+\nDonnée positive\nLigne différentielle +\n\nGND\nMasse\nRéférence commune\n\nSoudez ou connectez fils / headers sur VBUS, D–, D+, GND.\n\nConnectez VBUS à votre rail 5 V (ou en entrée d’un régulateur).\n\nReliez D– / D+ à l’interface de données de votre microcontrôleur (si support USB 2.0).\n\nBranchez GND au commun de votre système.\n\nConseil : pour une fiabilité maximale, utilisez des fils courts et torsadés pour D–/D+ afin de préserver l’intégrité du signal.\n\nMots clés: connector.",
+     "short_description": "Ce module breakout USB Type-C femelle simplifie l’intégration d’un connecteur USB-C sur vos cartes et prototypes, en exposant les quatre lignes essentielles pour l’USB 2.0"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/556-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/556-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3274",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KF301-2P Bornier à Vis 2 Broches",
+     "description": "Bornier à Vis 2 Broches\n\nBornier à Vis 2 Broches, KF301-2P\n\nTension nominale: 300 V\n\nCourant nominal: 16A\n\nDistance entre broches: 4,5 mm à 5,0 mm\n\nRésistance de Contact: 20 mΩ\n\nRésistance d’isolement: 5000MΩ/DC1000V\n\nTension de tenue: AC1500V/1 Min\n\nGamme de fil: 24-14AWG 2.5mm2\n\nPlage de température: -40 à +105 C.\n\nMots clés: screw, terminal, block.",
+     "short_description": "Bornier à Vis 2 Broches, KF301-2P\n\nTension nominale: 300 V\n\nCourant nominal: 16A\n\nDistance entre broches: 4,5 mm à 5,0 mm\n\nRésistance de Contact: 20 mΩ\n\nRésistance d’isolement: 5000MΩ/DC1000V\n\nTension de tenue: AC1500V/1 Min\n\nGamme de fil: 24-14AWG 2.5mm2\n\nPlage de température: -40 à +105 C"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/557-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/557-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21417",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KF128-2P Bornier à Vis 2 Broches",
+     "description": "KF128-2P Bornier à Vis 2 Broches\n\nBornier à Vis 2 Broches, KF128-2P.\n\nTension nominale: 300 V\n\nCourant nominal: 10A\n\nDistance entre broches: 5,0 mm\n\nRésistance de Contact: 20 mΩ\n\nRésistance d’isolement: 5000MΩ/DC1000V\n\nTension de tenue: AC1500V/1 Min\n\nGamme de fil: 22-14AWG\n\nPlage de température: -30 à +120 C.\n\nMots clés: screw, terminal, block.",
+     "short_description": "Bornier à Vis 2 Broches, KF128-2P"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/557-a-1.png"
+   ]
+  }
+ ]
+}

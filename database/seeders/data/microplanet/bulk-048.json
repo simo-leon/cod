@@ -1,0 +1,203 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-42124",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur 12V DC 92x92x25mm 9225",
+     "description": "Ventilateur 12V DC 92x25mm 9225\n\nCe ventilateur axial de 92×92×25mm, 9225 12 V DC, 0,4 A, est conçu pour le refroidissement des boîtiers PC, alimentations, amplificateurs et équipements électroniques. Son format standard et son connecteur 2 broches en font une solution simple à intégrer.\n\n🔧 Caractéristiques techniques\n\nTension de fonctionnement : 12 V DC\n\nCourant : 0,4 A (max.)\n\nDimensions : 92 × 92 × 25 mm\n\nConnecteur : 2 broches standard 0,1″ (Red = +12 V, Black = GND)\n\nVitesse : ≃ 2200 tr/min (±10 %)\n\nDébit d’air : ≃ 30 CFM (≈ 50 m³/h)\n\nNiveau sonore : ≃ 30 dB(A)\n\nPalier : sleeve bearing (manchon lisse)\n\nTempérature de fonctionnement : –10 °C à +70 °C\n\nDimensions de perçage : fixation 82,5 × 82,5 mm (4 trous Ø 4,5 mm)\n\n💡 Applications typiques\n\nRefroidissement de boîtiers PC et serveurs\n\nVentilation d’alimentations et onduleurs\n\nDissipation de chaleur pour amplificateurs audio\n\nRefroidissement de modules LED haute puissance\n\nIntégration dans projets DIY et systèmes embarqués\n\n🛠️ Brochage / Câblage\n\nBroche\nFonction\nConnexion typique\n\nRouge\n+12 V DC\nAlimentation +12 V\n\nNoir\nMasse (GND)\nAlimentation GND\n\nBranchez le fil rouge sur le +12 V et le noir sur la masse pour démarrer le ventilateur. Une alimentation 12 V stable et un câblage soigné garantissent une longévité maximale.\n\nMots clés: fan, cooler, radiateur.",
+     "short_description": "Ce ventilateur axial de 92×92×25mm, 9225 12 V DC, 0,4 A, est conçu pour le refroidissement des boîtiers PC, alimentations, amplificateurs et équipements électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/548-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3251",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Gaine Thermorétractable 1M -heat shrink tube-",
+     "description": "Gaine Thermorétractable 1M -heat shrink tube-\n\nLa gaine Thermorétractable est un produit multifonction, non seulement elle fournit à vos câbles une protection contre l’abrasion, les produits chimiques et la mauvaise météo, mais ce produit vous permet aussi d’organiser et Isoler vos câbles et les réparer. Lorsque la gaine thermorétractable est exposé à une source de chaleur élevée ≥70°C il commence à rétrécir en diamètre, il atteint son rétrécissement complet à 110°C, Le diamètre final est la moitié (1/2) de diamétre original. Vous avez l’options de choisir une gaine de diamétre appropriée à votre projet parmi 10 diamétres de 1mm à 20mm avec une longueur de 1m.\n\n(en cas de besoins d’autres longueurs, il suffit de commander plusieurs parties de 1m et nous les enverrons non coupés)\n\nDiamétres: 1mm, 2mm, 3mm, 4mm, 5mm, 6mm, 8mm, 10mm, 14mm,  20mm.\n\nLogueur: 1m\n\nRapport de rétrécissement: 2:1\n\nTempérature de rétrécissement: minimale 70 °C, maximale 110 °C (rétrécissement complet)\n\nTempérature de fonctionnement: -55 ° C à + 125 ° C\n\nRésistance à la traction: 10,4 Mpa\n\nRigidité diélectrique: 15 KV / mm\n\nSpécification de fabrication: ISO9001\n\nInflammabilité: retardateur de flamme.\n\nMots clés: heat, shrink, tube, thermique.",
+     "short_description": "La gaine Thermorétractable est un produit multifonction, non seulement elle fournit à vos câbles une protection contre l’abrasion, les produits chimiques et la mauvaise météo, mais ce produit vous permet aussi d’organiser et Isoler vos câbles et les réparer."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/0551-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/0551-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22545",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pince Crocodile Noire/Rouge",
+     "description": "Pince Crocodile Noire/Rouge\n\nPince Crocodile Noire / Rouge.\n\nDiamétre: 4mm\n\nLongueur : 52mm",
+     "short_description": "Pince Crocodile Noire / Rouge."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/553-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/553-a-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/553-a-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/553-a-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42129",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KF128-4P Bornier à Vis 4 Broches",
+     "description": "KF128-4P Bornier à Vis 4 Broches\n\nLe KF128-4P est un bornier à vis droit pour PCB, offrant 4 positions de connexion robustes et un pas standard de 5,08mm. Il permet de raccorder facilement des fils via des vis, idéal pour les prototypes, alimentations et industriels.\n\n🔧 Caractéristiques techniques\n\nNombre de positions : 4\n\nPas entre broches : 5,08 mm\n\nCourant nominal : 8 A (max.)\n\nTension nominale : 300 V AC/DC\n\nMatériau du corps : PA66 (nylon) UL94V-0\n\nMatériau des contacts : laiton étamé\n\nØ de vis : M2,5\n\nØ de passage de fil : 0,5 – 2,5 mm²\n\nHauteur totale : env. 10 mm\n\nLongueur : env. 27 mm\n\nMontage : insertion droite sur PCB, épaisseur 1,6 mm\n\n💡 Applications typiques\n\nBorniers d’alimentation sur cartes électroniques\n\nConnexions de capteurs et actionneurs\n\nProjets Arduino / Raspberry Pi nécessitant raccordement filaire\n\nTableaux de commande et coffrets électriques\n\nPrototypage et petits équipements industriels\n\nMots clés: screw, terminal, block.",
+     "short_description": "Le KF128-4P est un bornier à vis droit pour PCB, offrant 4 positions de connexion robustes et un pas standard de 5,08mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/558-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3275",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KF301-3P Bornier à Vis 3 Broches",
+     "description": "Bornier à Vis 3 Broches\n\nBornier à Vis 3 Broches, KF301-3P\n\nTension nominale: 300 V\n\nCourant nominal: 16A\n\nDistance entre broches: 4,5 mm à 5,0 mm\n\nRésistance de Contact: 20 mΩ\n\nRésistance d’isolement: 5000MΩ/DC1000V\n\nTension de tenue: AC1500V/1 Min\n\nGamme de fil: 24-14AWG 2.5mm2\n\nPlage de température: -40 à +105 C\n\nMots clés: screw, terminal, block.",
+     "short_description": "Bornier à Vis 3 Broches, KF301-3P\n\nTension nominale: 300 V\n\nCourant nominal: 16A\n\nDistance entre broches: 4,5 mm à 5,0 mm\n\nRésistance de Contact: 20 mΩ\n\nRésistance d’isolement: 5000MΩ/DC1000V\n\nTension de tenue: AC1500V/1 Min\n\nGamme de fil: 24-14AWG 2.5mm2\n\nPlage de température: -40 à +105 C"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/558-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/558-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21419",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KF128-3P Bornier à Vis 3 Broches",
+     "description": "KF128-3P Bornier à Vis 3 Broches\n\nBornier à Vis 3 Broches, KF128-3P.\n\nTension nominale: 300 V\n\nCourant nominal: 10A\n\nDistance entre broches: 5,0 mm\n\nRésistance de Contact: 20 mΩ\n\nRésistance d’isolement: 5000MΩ/DC1000V\n\nTension de tenue: AC1500V/1 Min\n\nGamme de fil: 22-14AWG\n\nPlage de température: -30 à +120 C.\n\nMots clés: screw, terminal, block.",
+     "short_description": "Bornier à Vis 3 Broches, KF128-3P."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/558-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3277",
+   "price": 0.75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shunt de Court-Circuit",
+     "description": "Shunt de Court-Circuit\n\nShunt de court-circuit compatible avec les en-tête 2.54mm standard.\n\nMots clés: jumper, short circuit.",
+     "short_description": "Shunt de court-circuitcompatible avec les en-tête 2.54mm standard"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/559-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/559-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-25127",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur GX16 16mm",
+     "description": "Connecteur GX16 16mm\n\nLe connecteur GX16 est un connecteur circular push-pull robuste adapté aux environnements industriels. Disponible en 3, 6 ou 9 broches et en versions mâle ou femelle, il assure des liaisons fiables pour l’alimentation et la transmission de signaux.\n\n🔧 Caractéristiques techniques\n\nOrifice de panneau : Ø16 mm\n\nCorps : alliage d’aluminium nickelé\n\nContacts : laiton étamé, Ø1,5 mm\n\nCourant par broche : 5 A nominal\n\nTension nominale : 250 V AC/DC\n\nNombre de broches : 3 / 6 / 9\n\nVersions :\n\nMâle (plots saillants)\n\nFemelle (douilles encaissées)\n\nIndice de protection : IP50 (standard)\n\nTempérature de service : –40 °C à +85 °C\n\nMontage panneau : empreinte circulaire + écrou arrière + joint torique\n\nMontage câble (version mâle) : serre-câble intégré\n\n💡 Applications typiques\n\nAlimentation monophasée/triphasée et contrôle de moteurs (3 broches)\n\nTransmission de données et alimentation auxiliaire (6 broches)\n\nMulti-signal (audio, vidéo, capteurs, commutations) (9 broches)\n\nRaccordements sur armoires électriques, CNC, impression 3D\n\nSystèmes audio/vidéo professionnels et éclairage de scène\n\nMots clés: plug, connector.",
+     "short_description": "Le connecteur GX16 est un connecteur circular push-pull robuste adapté aux environnements industriels. Disponible en 3, 6 ou 9 broches et en versions mâle ou femelle"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/04/559-b-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2022/04/559-b-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2022/04/0559-B-6.png",
+    "https://www.microplanet.ma/wp-content/uploads/2022/04/559-b-1-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3281",
+   "price": 4.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Prise d’Alimentation DC Mâle",
+     "description": "Prise d’Alimentation DC Mâle\n\nPrise d’alimentation DC mâle vers borniers â vis, dimensions 5.5×2.1mm.\n\nMots clés: plug.",
+     "short_description": "Prise d’alimentation DC mâle vers borniers â vis, dimensions 5.5×2.1mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/562-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3282",
+   "price": 4.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Prise d’Alimentation DC Femelle",
+     "description": "Prise d’Alimentation DC Femelle\n\nPrise d’alimentation DC femelle vers borniers â vis, dimensions 5.5×2.1mm.\n\nMots clés: plug.",
+     "short_description": "Prise d’alimentation DC femelle vers borniers â vis, dimensions 5.5×2.1mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/563-1.png"
+   ]
+  }
+ ]
+}

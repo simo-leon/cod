@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6559",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LR44 Batterie 1.5V Alkaline",
+     "description": "Batterie 1.5V Alkaline LR44\n\nPile 1.5V Alkaline LR44 A76/AG13\n\nMots clés: battery.",
+     "short_description": "Batterie 1.5V Alkaline LR44 A76/AG13"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/508-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22074",
+   "price": 14,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AAA X4 Porte-piles Pour Batterie",
+     "description": "Porte-piles Pour Batterie AAA X 4\n\nBoîtier (porte-piles) Pour Batterie AAA X 4, facilite l’alimentation de vos projets et cartes éléctroniques, il supporte les batteries de taille AAA rechargeable 1.2v ou non rechargable 1.5v.\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Boîtier (porte-piles) Pour Batterie AAA X 4, facilite l’alimentation de vos projets et cartes éléctroniques, il supporte les batteries de taille AAA rechargeable 1.2v ou non rechargable 1.5v."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/07/510-4-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4600",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit 65 Fils Dupont Mâle / Mâle",
+     "description": "Kit 65 Fils Dupont Mâle / Mâle\n\nKit 65 Fils Dupont Mâle / Mâle de plusieurs longueurs pour breadboard (plaque d’essai).\n\nMots clés: kits, wire.",
+     "short_description": "Kit 65 Fils Dupont Mâle / Mâle de plusieurs longueurs pour breadboard (plaque d’essai)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/530-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3241",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble avec Fiche Crocodile/Crocodile 50cm",
+     "description": "Câble avec Fiche Crocodile/Crocodile 50cm\n\nCâble avec Fiche crocodile/crocodile.\n\nlongueur: 50CM\n\n5 couleurs: rouge, noir, vert, blanc, jaune.",
+     "short_description": "Câble avec Fiche crocodile/crocodile.\n\nlongueur: 50CM\n\n5 couleurs: rouge, noir, vert, blanc, jaune."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/535-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/535-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/535-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3244",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble avec Fiche USB / Crocodile 60CM",
+     "description": "Câble avec Fiche Crocodile / USB  60CM\n\nCâble avec Fiche Crocodile / USB mâle, longueur 60CM.\n\nMots clés: cable, male.",
+     "short_description": "Câble avec Fiche USB mâle / crocodile, longueur 60CM"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/536-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3247",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble USB avec Fiche B 30CM",
+     "description": "Câble USB avec Fiche B 30CM (Pour Arduino)\n\nCâble Usb type B vers fiche usb mâle, longueur: 30CM, peut être utilisé pour alimentation d’Arduino uno et mega.",
+     "short_description": "Câble Usb type B vers fiche usb mâle, longueur: 30CM, peut être utilisé pour alimentation d’Arduino uno et mega"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/539-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6203",
+   "price": 4.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Prise DC Femelle 5.5×2.1mm",
+     "description": "Prise DC Femelle 5.5×2.1mm\n\nPrise DC Femelle 5.5×2.1mm, 3 broches, avec possibilité de montage sur panneau.\n\nCaractéristiques:\n\nFonctionne avec le bouchon mâle avec diamètre intérieur: 2,1 mm, diamètre extérieur: 5,5 mm\n\nFourni avec une rondelle et un écrou de fixation hexagonal.\n\nSpécifications: 1A 16V DC\n\nTaille de connecteur: 5.5mm x 2.1mm\n\nDimension: 12mm x 12mm x 20mm\n\nMots clés: plug, female.",
+     "short_description": "Prise DC Femelle 5.5×2.1mm, 3 broches, avec possibilité de montage sur panneau."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/541-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4669",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dissipateur de Chaleur en Aluminium 20x20x6mm",
+     "description": "Dissipateur de Chaleur en Aluminium 20x20x6mm\n\nCe dissipateur en aluminium compact offre une solution simple et efficace pour évacuer la chaleur de vos composants (MOSFET, régulateurs, drivers pas-à-pas, IC). Son pad thermoconducteur adhésif garantit un contact parfait et une meilleure transmission de la chaleur vers le radiateur.\n\n🔧 Caractéristiques techniques\n\nMatériau : aluminium\n\nDimensions : 20 × 20 × 6 mm (L × l × h)\n\nCouleur : argent naturel brossé\n\nPad thermoconducteur : silicone adhésif en face inférieure (épaisseur ~1 mm)\n\nAdhésion : facile à poser et à déloger sans endommager le composant\n\nRésistance électrique : isolant\n\nTempérature de service : – 40 °C à + 155 °C\n\nRésistance à la corrosion : excellente\n\n💡 Applications typiques\n\nRefroidissement de drivers de moteurs pas-à-pas (A4988, DRV8825…)\n\nGestion thermique de régulateurs de tension (LM2596, AMS1117…)\n\nDissipation de chaleur sur modules LED haute puissance\n\nRefroidissement de puces FPGA, microcontrôleurs ou Raspberry Pi/Orange Pi\n\nUtilisation sur cartes d’alimentation, alimentations à découpage et amplificateurs audio\n\nVous pouvez simplement retirer le film de protection du pad, le positionner sur votre composant, puis appliquer le dissipateur en appuyant fermement pendant quelques secondes. L’association aluminium massif + pad thermoconducteur permet de maintenir vos circuits à une température optimale pour une fiabilité et une durée de vie accrues.\n\nMots clés: cooler, cooling, heatsink, radiateur, heat sink.",
+     "short_description": "Ce dissipateur en aluminium compact offre une solution simple et efficace pour évacuer la chaleur de vos composants (MOSFET, régulateurs, drivers pas-à-pas, IC)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/546-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4665",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dissipateur de Chaleur en Aluminium 8.8×8.8x5mm",
+     "description": "Dissipateur de Chaleur en Aluminium 8.8×8.8x5mm\n\nDissipateur de Chaleur en Aluminium, idéal pour le refroidissement des circuits intégrés (dip ou smd) , transistors de puissance, leds de puissance, processeurs (raspberry pi…), une “pâte thermique” peut être utilisé pour fixer le disspateur sur le circuit intégré / processeur…\n\nDimensions: 8.8×8.8x5mm\n\nMatiére: aluminium\n\nMots clés: cooler, cooling, heatsink, radiateur, heat sink, heatsink.",
+     "short_description": "Dissipateur de Chaleur en Aluminium, idéal pour le refroidissement des circuits intégrés (dip ou smd) , transistors de puissance, leds de puissance, processeurs (raspberry pi…), une “pâte thermique” peut être utilisé pour fixer le disspateur sur le circuit intégré / processeur…"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/547-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34556",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur 24V DC 92x92x38mm 9238",
+     "description": "Ventilateur 24V DC 92x38mm 9238\n\nMini Ventilateur 24V DC 92x38mm 9238 brushless, avec connecteur 2 broches, très faible niveau de bruit, idéal pour vos petits projets nécessitant un refroidissement.",
+     "short_description": "Mini Ventilateur 24V DC 92x38mm 9238 brushless, avec connecteur 2 broches, très faible niveau de bruit, idéal pour vos petits projets nécessitant un refroidissement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0548-B.png"
+   ]
+  }
+ ]
+}

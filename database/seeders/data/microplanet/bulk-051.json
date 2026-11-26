@@ -1,0 +1,202 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-22064",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Micro Bouton Poussoir YD-003",
+     "description": "Micro Bouton Poussoir YD-003\n\nBouton Poussoir YD-003 3 broches N.ouvert / N.fermé, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nMots clés: tactile, switch, mouse, souris.",
+     "short_description": "Bouton Poussoir YD-003 3 broches N.ouvert, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/07/596-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3303",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur Fin de Course avec levier à galet KW12-3 5A 250V",
+     "description": "Interrupteur Fin de Course avec levier à galet KW12-3 5A 250V\n\nInterrupteur de fin de course avec levier à galet KW11-3 5A 250V, 3 broches (commun, contact N.ouvert, contact N.fermé)\n\nCharge nominale: AC250V 5A\n\nRésistance de tension: AC 1000V / min\n\nRésistance de contact: <= 0,05 Ω\n\nDimensions: 20x10x6mm\n\nRésistance d’isolement: >= 100 MΩ\n\nDurée de vie: 1 000 000 cycles.\n\nMots clés: limit, switch.",
+     "short_description": "Interrupteur de fin de course avec levier à galet KW11-3 5A 250V, 3 broches (commun, contact N.ouvert, contact N.fermé)\n\nCharge nominale: AC250V 5A\n\nRésistance de tension: AC 1000V / min\n\nRésistance de contact: <= 0,05 Ω\n\nRésistance d’isolement: >= 100 MΩ\n\nDimensions: 20x10x6mm\n\nDurée de vie: 1 000 000 cycles"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/597-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3305",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur Double 8x8mm 6 Broches",
+     "description": "Interrupteur Double 8x8mm 6 Broches\n\nInterrupteur double 8x8mm 6 Broches, (commun, contact N.ouvert, contact N.fermé) X 2 (voir images pour shéma), il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC30V 0.1A\n\nDurée de vie: 10 000 cycles\n\nMots clés: switch.",
+     "short_description": "Interrupteur double 8x8mm 6 Broches, (commun, contact N.ouvert, contact N.fermé) X 2 (voir images pour shéma), il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC30V 0.1A\n\nDurée de vie: 10 000 cycles"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/598-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/598-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3315",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur 2 Positions MTS-102 6A",
+     "description": "Interrupteur 2 Positions MTS-102 6A\n\nInterrupteur 2 Positions MTS-102 6A 125VAC, 3 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: AC125V 6A, AC250V 3A\n\nRésistance de contact: <= 0,05 Ω\n\nDimensions: 33x13x8mm\n\nDurée de vie: 100 000 cycles\n\nMots clés: switch.",
+     "short_description": "il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/601-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/601-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/601-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7211",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur 3 Positions MTS-103 6A",
+     "description": "Interrupteur 3 Positions MTS-103 6A\n\nInterrupteur 3 Positions MTS-103 6A 125VAC, 3 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: AC125V 6A, AC250V 3A\n\nRésistance de contact: <= 0,05 Ω\n\nDimensions: 33x13x8mm\n\nDurée de vie: 100 000 cycles\n\nMots clés: toggle, switch.",
+     "short_description": "Interrupteur 3 Positions MTS-103 6A 125VAC, 3 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/601-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35014",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MTS-203 6A Interrupteur Double 3 Positions",
+     "description": "MTS-203 6A Interrupteur Double 3 Positions\n\nInterrupteur double 3 Positions MTS-203 6A 125VAC, 6 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: AC125V 6A, AC250V 3A\n\nDiamétre: 6mm\n\nRésistance de contact: <= 0,05 Ω\n\nDurée de vie: 10000 cycles\n\nMots clés: toggle, switch.",
+     "short_description": "Interrupteur double 3 Positions MTS-203 6A 125VAC, 6 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0601-B.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0601-B-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3316",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur 3 Positions KCD1 6A 250V",
+     "description": "Interrupteur 3 Positions KCD1 6A\n\nInterrupteur 3 Positions KCD1 6A 250VAC, 3 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir des entrées utilisateur supplémentaires.\n\nCharge nominale: AC250V 6A, AC125V 10A\n\nRésistance de contact: <= 0,05 Ω\n\nDurée de vie: 100 000 cycles\n\nMots clés: switch.",
+     "short_description": "Interrupteur 3 Positions KCD1 6A 250VAC, 3 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir des entrées utilisateur supplémentaires.\n\nCharge nominale: AC250V 6A, AC125V 10A\n\nRésistance de contact: <= 0,05 Ω\n\nDurée de vie: 100 000 cycles"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/602-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3319",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur ON/OFF 2 Broches 6A 250V",
+     "description": "Interrupteur ON/OFF 2 Broches 6A 250V\n\nInterrupteur on/off 6A 250VAC, 2 positions, 2 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: AC250V 6A, AC125V 10A\n\nRésistance de contact: <= 0,05 Ω\n\nDurée de vie: 100 000 cycles\n\nMots clés: switch.",
+     "short_description": "Interrupteur on/off 6A 250VAC, 2 positions, 2 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: AC250V 6A, AC125V 10A\n\nRésistance de contact: <= 0,05 Ω\n\nDurée de vie: 100 000 cycles"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/603-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3320",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur DIP 1-10 Bit",
+     "description": "Interrupteur DIP 1-10 Bit\n\nInterrupteur DIP de 1 à 10 Bit, compatible avec les broches 2.54mm.\n\nMots clés: switch.",
+     "short_description": "Interrupteur DIP de 1 à 10 Bit, compatible avec les broches 2.54mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/604-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/604-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42151",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouton Poussoir à Verrouillage 16mm Avec LED 9-30V",
+     "description": "Bouton Poussoir à Verrouillage 16mm Avec LED 9-30V\n\nCe bouton poussoir 16mm en acier inoxydable 304 combine un contact latching (auto-bloquant) et un anneau LED coloré (rouge, bleu ou vert) fonctionnant sous 9–30 V DC. Classé IP65, il résiste à la poussière et aux projections d’eau, et il est livré avec son câble pré-câblé et sa prise femelle pour un branchement rapide.\n\n🔧 Caractéristiques techniques\n\nDiamètre de perçage : 16 mm\n\nType : auto-bloquant (latching)\n\nLED intégrée : anneau 360° (rouge, bleu ou vert), 9–30 V DC\n\nCourant de contact : 3 A @ 250 V AC\n\nRésistance de contact : < 20 mΩ\n\nTension d’isolation : 2 000 V AC (1 min)\n\nForce de commutation : 500 g\n\nDurabilité mécanique : > 500 000 cycles\n\nIndice de protection : IP65 (face)\n\nMatériau : inox 304 brossé\n\nTempérature : –20 °C à +55 °C\n\n💡 Applications typiques\n\nPanneaux de commande industriels et marins\n\nDémarrage/arrêt de moteurs, pompes, alimentations\n\nVéhicules utilitaires, bateaux, véhicules tout-terrain\n\nAutomatisation bureautique et domotique exigeante\n\nTableaux de bord et tableaux de distribution\n\n🛠️ Câblage / Connectique\n\nÉlément\nFonction\n\nCâble 2 m pré-câblé\n4 conducteurs : +LED, GND, Signal NO, Signal COM\n\nPrise femelle M12 4 broches\nRaccord rapide pour le panneau / armoire\n\nBroches de la prise\n1 = +LED (9–30 V) • 2 = GND LED\n\n3 = COM (contact commun) • 4 = NO (contact)\n\nBranchez la prise femelle M12 sur la contre-partie du tableau.\n\nAlimentez le fil +LED en 9–30 V DC, GND LED au négatif.\n\nUtilisez COM/NO pour piloter votre charge (3 A max).\n\nPour un câblage direct, dénudez et connectez les conducteurs du câble pré-câblé selon le schéma ci-dessus.\n\nMots clés: switch, momentary, self locking.",
+     "short_description": "Ce bouton poussoir 16mm en acier inoxydable 304 combine un contact latching (auto-bloquant) et un anneau LED coloré (rouge, bleu ou vert) fonctionnant sous 9–30 V DC"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/606-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/606-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/606-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/606-2.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3661",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BD139 Transistor NPN To-126 1.5A 80V",
+     "description": "Transistor NPN To-126 BD139 1.5A 80V\n\nTransistor NPN To-126  BD139 1.5A 80V.\n\nFiche technique",
+     "short_description": "Transistor NPN To-126  BD139 1.5A 80V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/735-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3662",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BD140 Transistor PNP To-126 1.5A 80V",
+     "description": "Transistor PNP To-126 BD140 1.5A 80V\n\nTransistor PNP To-126  BD140 1.5A 80V.\n\nFiche technique",
+     "short_description": "Transistor PNP To-126  BD140 1.5A 80V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/736-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3665",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PC817 Optocoupleur Phototransistor",
+     "description": "Optocoupleur Phototransistor PC817\n\nOptocoupleur Phototransistor PC817.\n\nMarque: Sharp\n\nFiche technique",
+     "short_description": "Optocoupleur Phototransistor PC817"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/739-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/739-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3666",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MOC3021 Optocoupleur Phototriac",
+     "description": "Optocoupleur Phototriac MOC3021\n\nOptocoupleur Phototriac MOC3021\n\nMarque: FAIRCHILD Semiconductor\n\nFiche technique",
+     "short_description": "Optocoupleur Phototriac MOC3021"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/740-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/740-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3667",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "IRF740 Transistor Mosfet à Canal N 10A 400V",
+     "description": "Transistor Mosfet à Canal N IRF740 10A 400V\n\nTransistor Mosfet à Canal N IRF740 10A 400V.\n\nFiche technique",
+     "short_description": "Transistor Mosfet à Canal N IRF740 10A 400V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/741-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/741-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-23584",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "IRF630 Transistor Mosfet à Canal N 9A 200V",
+     "description": "IRF630 Transistor Mosfet à Canal N 9A 200V\n\nIRF630 Transistor Mosfet à Canal N 9A 200V.\n\nMarque: IOR International Rectifier\n\nFiche technique",
+     "short_description": "IRF630 Transistor Mosfet à Canal N 9A 200V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/01/741-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3669",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "IRF3205 Transistor Mosfet à Canal N 110A 55V",
+     "description": "Transistor Mosfet à Canal N IRF3205 110A 55V\n\nTransistor Mosfet à Canal N IRF3205 110A 55V.\n\nFiche technique",
+     "short_description": "Transistor Mosfet à Canal N IRF3205 110A 55V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/742-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/742-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-19653",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BF245C Transistor à effet de champ en silicium à Canal N",
+     "description": "Transistor à effet de champ en silicium BF245C à Canal N\n\nTransistor à effet de champ en silicium BF245C à Canal N.\n\nFiche technique",
+     "short_description": "Transistor à effet de champ en silicium BF245C à Canal N."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/12/742-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24401",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "J113 Transistor à effet de champ en silicium à Canal N",
+     "description": "J113 Transistor à effet de champ en silicium à Canal N\n\nJ113 Transistor à effet de champ en silicium à Canal N.\n\nFiche technique",
+     "short_description": "J113 Transistor à effet de champ en silicium à Canal N."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/03/742-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3670",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BT169D Thyristor To-92 0.5A 400V",
+     "description": "Thyristor To-92 BT169D 0.5A 400V\n\nThyristor To-92  BT169D 0.5A 400V\n\nFiche technique",
+     "short_description": "Thyristor To-92  BT169D 0.5A 400V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/743-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/743-1.png"
+   ]
+  }
+ ]
+}

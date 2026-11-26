@@ -4,7 +4,7 @@
   "uncertain: 2075 from doshift-uncertain-products.json"
  ],
  "total_products": 3563,
- "batched": 3509,
+ "batched": 3563,
  "held_jouets_only": 0,
  "keyword_guessed": 117,
  "name_too_long": [
@@ -363,7 +363,13 @@
   "bulk-348.json",
   "bulk-349.json",
   "bulk-350.json",
-  "bulk-351.json"
+  "bulk-351.json",
+  "bulk-352.json",
+  "bulk-353.json",
+  "bulk-354.json",
+  "bulk-355.json",
+  "bulk-356.json",
+  "bulk-357.json"
  ],
- "held_no_category": 54
+ "held_no_category": 0
 }

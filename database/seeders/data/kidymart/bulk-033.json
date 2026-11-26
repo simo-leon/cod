@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-2016",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°78 MAX AIME LES MONSTRES",
+     "description": "Max aime les monstres (N°78) est un ouvrage qui se penche sur la peur des monstres ou des créatures imaginaires chez l’enfant. Le livre adopte une approche originale en transformant la peur en curiosité et en jouant avec l’imagination pour dédramatiser ces figures terrifiantes. En montrant que les monstres peuvent aussi être drôles ou imaginaires, l’ouvrage aide l’enfant à maîtriser ses angoisses nocturnes et à distinguer le réel de l’imaginaire. C’est un outil très utile pour les parents.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la peur des monstres. Utilise l’imagination pour dédramatiser les angoisses nocturnes et distinguer le réel de l’imaginaire."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884803212-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2015",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°77 MAX NE RESPECTE RIEN",
+     "description": "Max ne respecte rien (N°77) est un livre qui aborde la notion fondamentale de respect dans différents contextes : envers les autres, les règles, les objets ou l’environnement. L’histoire explore les conséquences des comportements irrespectueux de Max et vise à aider l’enfant à comprendre pourquoi le respect est essentiel pour vivre ensemble. Ce livre est un excellent outil pédagogique pour initier l’enfant aux règles sociales, à la politesse et à la considération d’autrui.\n\nFavoris",
+     "short_description": "Livre pour enfants sur le respect des autres, des règles et de l’environnement. Aide à comprendre l’importance des règles sociales et de la politesse."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884803076-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2014",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°74 MAX ET LILI AIDENT LES ENFANTS DU MONDE",
+     "description": "Max et Lili aident les enfants du monde (N°74) est un ouvrage qui sensibilise les jeunes lecteurs à la solidarité internationale et aux conditions de vie difficiles d’autres enfants à travers le globe. Le livre met l’accent sur l’importance de l’entraide, du partage et du rôle que chacun peut jouer pour améliorer la vie des autres. Il vise à développer l’empathie et la générosité chez l’enfant, l’encourageant à prendre conscience des inégalités et à s’engager dans des actions de soutien.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la solidarité, l’entraide internationale et l’empathie. Sensibilise aux inégalités dans le monde."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884802079-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2013",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°73 MAX VEUT ÊTRE DÉLÉGUÉ DE CLASSE",
+     "description": "Max veut être délégué de classe (N°73) est un livre qui aborde le thème de la démocratie et de l’engagement civique à l’école. L’histoire suit Max dans sa démarche de candidature, explorant la nature des promesses électorales et l’importance de représenter les autres. Ce livre est un excellent outil pédagogique pour initier l’enfant aux notions de responsabilité, de vote et d’écoute des besoins de la communauté, renforçant ainsi son sens civique.\n\nFavoris",
+     "short_description": "Livre pour enfants sur l’engagement civique, la démocratie et le rôle du délégué de classe. Aborde la responsabilité et le vote."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884802062-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2012",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°68 LA MAISON MAX ET LILI A ÉTÉ CAMBRIOLÉE",
+     "description": "La maison de Max et Lili a été cambriolée (N°68) est un ouvrage qui traite de l’événement traumatisant du cambriolage et de ses répercussions émotionnelles sur l’enfant. Le livre aborde les sentiments d’insécurité, de violation de l’intimité et de perte qui découlent de cet acte. Il est conçu pour aider l’enfant à exprimer ses peurs, à comprendre la situation et à se reconstruire émotionnellement après un choc de ce type. C’est un outil précieux pour rassurer et engager le dialogue.\n\nFavoris",
+     "short_description": "Livre pour enfants sur le cambriolage. Aborde les sentiments d’insécurité et de violation de l’intimité pour aider l’enfant à se reconstruire."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884800679-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2011",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°67 MAX SE FAIT INSULTER À LA RÉCRÉ",
+     "description": "Max se fait insulter à la récré (N°67) est un livre qui aborde le thème douloureux des insultes et de l’agressivité verbale en milieu scolaire. L’histoire explore l’impact des mots blessants sur l’enfant, les réactions possibles et la difficulté de demander de l’aide. Ce livre est essentiel pour dédramatiser la situation, encourager l’enfant à ne pas intérioriser la violence verbale, et apprendre les moyens de se défendre sans violence, en faisant appel aux adultes.\n\nFavoris",
+     "short_description": "Livre pour enfants sur les insultes et l’agressivité verbale à l’école. Aide à se défendre sans violence et à chercher l’aide des adultes."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884800662-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2010",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°59 MAX FAIT PIPI AU LIT",
+     "description": "Max fait pipi au lit (N°59) est un ouvrage qui s’attaque au problème de l’énurésie chez l’enfant. Le livre explore les sentiments de honte, de culpabilité et d’impuissance que Max peut éprouver face à ce phénomène involontaire. Il est conçu pour dédramatiser la situation, rassurer l’enfant sur le fait qu’il n’est pas seul et qu’il ne s’agit pas de sa faute. L’ouvrage encourage l’ouverture au dialogue avec les parents et, si nécessaire, avec un professionnel de la santé.\n\nFavoris",
+     "short_description": "Livre pour enfants sur l’énurésie (faire pipi au lit). Dédramatise la situation, rassure l’enfant et encourage le dialogue."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884800105-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2009",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "LILI TROUVE SA MAÎTRESSE MÉCHANTE",
+     "description": "[Max/Lili] trouve sa maîtresse méchante est un titre qui aborde la difficulté des relations avec l’autorité et le personnel enseignant. Le livre explore les sentiments d’injustice ou d’opposition que l’enfant peut ressentir face à une maîtresse perçue comme « méchante ». Il vise à aider l’enfant à verbaliser ses frustrations, à comprendre le rôle de l’enseignant et à chercher des solutions constructives pour améliorer la communication et la situation à l’école.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la perception d’une maîtresse « méchante » et la difficulté à gérer l’autorité. Aide à verbaliser les frustrations et à communiquer."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884455848-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2008",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°54 MAX EMBÊTE LES FILLES",
+     "description": "Max embête les filles (N°54) est un ouvrage qui aborde les relations entre garçons et filles à un jeune âge, en se concentrant sur les comportements d’agacement ou les petites taquineries. Le livre permet d’ouvrir la discussion sur le respect, l’amitié et les différentes manières d’interagir avec l’autre sexe. C’est un outil utile pour aider les enfants à comprendre leurs propres comportements et ceux des autres, favorisant ainsi des relations plus saines.\n\nFavoris",
+     "short_description": "Livre pour enfants sur les relations entre garçons et filles et les petites taquineries. Aborde le respect et l’amitié."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884455596-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-2007",
+   "price": 84,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "N°49 MAX ADORE [QUELQUE CHOSE]",
+     "description": "Max adore [quelque chose] (N°49) est un titre qui met en lumière un thème ou une activité que le personnage apprécie particulièrement. L’ouvrage explore la passion et l’enthousiasme de Max pour cette activité spécifique, encourageant le lecteur à identifier ses propres centres d’intérêt et à cultiver ses passions. Ce livre est un support positif pour discuter de ce qui rend l’enfant heureux et le motive, renforçant ainsi sa confiance et son identité.\n\nFavoris",
+     "short_description": "Livre pour enfants sur la passion et l’enthousiasme pour une activité ou un thème spécifique. Renforce la confiance et l’identité de l’enfant."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782884454957-1.jpg"
+   ]
+  }
+ ]
+}

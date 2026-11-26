@@ -1,0 +1,197 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3671",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MCR100 Thyristor To-92 0.8A 600V",
+     "description": "Thyristor To-92 MCR100 0.8A 600V\n\nThyristor To-92 MCR100 0.8A 600V.\n\nFiche technique",
+     "short_description": "Thyristor To-92 MCR100 0.8A 600V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/744-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/744-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22667",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BTW69-1200 Thyristor TOP3 50A 1200V",
+     "description": "BTW69-1200 Thyristor TOP3 50A 1200V\n\nBTW69-1200 Thyristor de puissance TOP3 50A 1200V.\n\nFiche technique",
+     "short_description": "BTW69-1200 Thyristor de puissance TOP3 50A 1200V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/745-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3673",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BT131 Triac To-92 1A 600V",
+     "description": "Triac To-92 BT131 1A 600V\n\nTriac To-92 BT131 1A 600V.\n\nFiche technique",
+     "short_description": "Triac To-92 BT131 1A 600V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/746-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/746-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4105",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2SK3878 Transistor Mosfet à Canal N 9A 900V",
+     "description": "Transistor Mosfet Toshiba à Canal N 2SK3878 9A 900V\n\nTransistor Mosfet à Canal N 2SK3878 ( Toshiba K3878 ) 9A 900V, couramment utilisé pour les machines à souder.\n\nMarque: Toshiba\n\nFiche technique",
+     "short_description": "Transistor Mosfet à Canal N 2SK3878 ( Toshiba K3878 ) 9A 900V, couramment utilisé pour les machines à souder."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/748-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4434",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "IRFZ44N Transistor Mosfet à Canal N 49A 55V",
+     "description": "Transistor Mosfet à Canal N IRFZ44N 49A 55V\n\nTransistor Mosfet à Canal N IRFZ44N 49A 55V 94W.\n\nFiche technique",
+     "short_description": "Transistor Mosfet à Canal N IRFZ44N 49A 55V 94W."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/10/749-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/10/749-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50514",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "IRF9520 Transistor Mosfet à Canal P 100V 6.8A",
+     "description": "IRF9520 Transistor Mosfet à Canal P 100V 6.8A\n\nIRF9520 Transistor Mosfet à Canal P 100V 6.8A.\n\nTension drain-source maximale : −100 V (VDS). Le signe négatif indique la polarité d’un transistor à canal P.\n\nCourant de drain continu maximal : −6,8 A, lorsque le boîtier du transistor est maintenu à 25 °C.\n\nÀ une température de boîtier de 100 °C, le courant continu maximal descend à −4,8 A.\n\nFiche technique",
+     "short_description": "IRF9520 Transistor Mosfet à Canal P 100V 6.8A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/749-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7112",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC546 Transistor NPN To-92 0.1A 65V",
+     "description": "Transistor NPN To-92 BC546 0.1A 65V\n\nTransistor NPN To-92  BC546 0.1A 65V.\n\nFiche technique",
+     "short_description": "Transistor NPN To-92  BC546 0.1A 65V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/751-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7115",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2N5401 Transistor PNP To-92 0.6A 150V",
+     "description": "Transistor PNP To-92 2N5401 0.6A 150V\n\nTransistor PNP To-92 2N5401, 0.6A 150V.\n\nFiche technique",
+     "short_description": "Transistor PNP To-92 2N5401, 0.6A 150V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/752-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7949",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "RU6099R Transistor Mosfet à Canal N 120A 60V",
+     "description": "Transistor Mosfet à Canal N RU6099R 120A 60V\n\nTransistor Mosfet à Canal N RU6099R 120A 60V.\n\nMarque: RUICHIPS\n\nFiche technique",
+     "short_description": "Transistor Mosfet à Canal N RU6099R 120A 60V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/753-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22835",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "STP110N7F6 Transistor Mosfet à Canal N 110A 68V",
+     "description": "STP110N7F6 Transistor Mosfet à Canal N 110A 68V\n\nSTP110N7F6 Transistor Mosfet à Canal N 110A 68V.\n\nFiche technique",
+     "short_description": "STP110N7F6 Transistor Mosfet à Canal N 110A 68V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/753-a-1.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,207 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-10698",
+   "price": 450,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Démarrage Uno, RFID, 50 en 1",
+     "description": "Kit Démarrage Arduino Uno, RFID 50 en 1\n\nUn kit de démarrage Arduino Uno 50 en 1, contenant tout le nécessaire pour les débutants qui souhaitent se lançer en électronique et dans le logiciel embarqué et systéme RFID. On retrouvre des éléments simple pour pouvoir réaliser une multitude de montage DIY.\n\nLe kit comprend :\n\nArduino Uno R3 + câble X1\n\nServo moteur SG90 X1\n\nMoteur pas à pas 5V 28BYJ-48 X1\n\nDriver moteur pas à pas ULN2003 X1\n\nMoteur DC 3V X1 + ventilateur\n\nModule lecteur RFID RC522 X1\n\nModule RGB 5mm X1\n\nModule capteur de température DHT11 X1\n\nModule capteur de sons/voix X1\n\nModule joystick X1\n\nRelais 5V 10A X1\n\nModule capteur de niveau d’eau X1\n\nModule horloge RTC DS3231 X1\n\nModule keypad à matrice 16 touches 4×4 X1\n\nCapteur de lumiére LDR X3\n\nCapteur de d’inclinaison SW-520D X2\n\nCapteur de température LM35 x1.\n\nTélécommande infrarouge X1\n\nLed 5mm Infrarouge émetteur X1\n\nLed 5mm Infrarouge récepteur X1\n\nLed RGB 5mm A.C Transparent X1\n\nLed 5mm bleu X5\n\nLed 5mm rouge X5\n\nLed 5mm jaune X5\n\nLed 5mm vert X5\n\nLed 5mm orange x5\n\nLed 5mm blanche x5\n\nAfficheur LCD 16×02 X1 (avec module i2c)\n\nAfficheur à Led Matrice 8×8 X1\n\nAfficheur 7 segments 1bit X1\n\nAfficheur 7 segments 4bit X1\n\nPlaque d’essai 830 points X1\n\nRésistance 1/4w 220ohm X10\n\nRésistance 1/4w 1Kohm X10\n\nRésistance 1/4w 10Kohm X10\n\nCâble dupont male-femelle X10\n\nCâble mele-male X65\n\nPile 9v X1\n\nConnecteur avec prise 9V X1\n\nBouton poussoir 12x12x7.3mm X5\n\nBouchons pour bouton poussoir X5\n\nInterrupteur ON/OFF coulissant X1\n\nPotentiométre rotatif 10Kohm X1\n\nRegistre à décalage 74HC595 X1\n\nRégulateur de tension 5V 78L05 x1\n\nTransistor NPN BC546 X1\n\nTransistor PNP BC557 X1\n\nDiode redresseur 1N4007 x1\n\nBuzzer passif X1\n\nBuzzer actif X1.\n\nMots clés: starter, apprentissage.",
+     "short_description": "Un kit de démarrage 50 en 1, contenant tout le nécessaire pour les débutants qui souhaitent se lançer en électronique et dans le logiciel embarqué et systéme RFID. On retrouvre des éléments simple pour pouvoir réaliser une multitude de montage DIY."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/11/1010-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/11/1010-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/11/1010-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-11573",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit de Gaine Thermorétractable 560 piéces",
+     "description": "Kit de Gaine Thermorétractable 560 piéces\n\nUn Kit de gaines thermorétractable de 11 tailles et 5 couleurs organisé dans une boitier pour faciliter la sélection, avec un total de 560 piéces. La gaine Thermorétractable est un produit multifonction, non seulement elle fournit à vos câbles une protection contre l’abrasion, les produits chimiques et la mauvaise météo, mais ce produit vous permet aussi d’organiser et Isoler vos câbles et les réparer. Lorsque la gaine thermorétractable est exposé à une source de chaleur élevée ≥70°C il commence à rétrécir en diamètre, il atteint son rétrécissement complet à 110°C, Le diamètre final est la moitié (1/2) de diamétre original\n\nSpécification:\n\nCouleur: 5 couleurs noir, bleu, rouge, vert, jaune\n\nQuantité: 560 pièces\n\nTaux de rétrécissable: 2: 1\n\nDiamètre: 1,0 mm, 1,5 mm, 2,0 mm, 2,5 mm, 3,5 mm, 4,0 mm, 5,0 mm, 6,0 mm, 7,0 mm, 10,0 mm, 13,0 mm\n\nRétrécissement minimum Temp: +70 °C\n\nTempérature de rétrécissement complet: +110 °C maximum\n\nInflammabilité: ignifuge\n\nFormat: Le produit est fourni rond\n\nLe Kit comprend:\n\n90pcs x 1,0 mm x 45 mm noir\n\n70pcs x 1,5 mm x 45 mm rouge\n\n70pcs x 2,0 mm x 45 mm jaune\n\n50pcs x 2,5 mm x 45 mm blue\n\n50pcs x 3,5 mm x 45 mm vert\n\n50 pièces x 4,0 mm x 45 mm rouge\n\n50 pièces x 4,0 mm x 45 mm noir\n\n30 pièces x 5,0 mm x 45 mm bleu\n\n30 pièces x 6,0 mm x 45 mm bleu\n\n25 pièces x 7,0 mm x 45 mm rouge\n\n20pcs x 10.0mm x 45mm noir\n\n20pcs x 13.0mm x 45mm noir\n\nMots clés: heat, shrink, tube, thermique.",
+     "short_description": "Un Kit de gaines thermorétractable de 11 tailles et 5 couleurs organisé dans une boitier pour faciliter la sélection, avec un total de 560 piéces."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/1040-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/1040-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/1040-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/1040-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24011",
+   "price": 180,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Composants Basiques, 215 en 1",
+     "description": "Kit Composants Basiques, 215 en 1\n\nLe Kit Composants Basiques, 215 en 1 est un excellent choix pour les débutants en électronique et en programmation, ce kit est idéal pour se familiariser avec les composants de base utilisés dans les projets Arduino. Il permet de réaliser une large variété de montages électroniques simples à complexes.\n\nCaractéristiques principales :\n\nKit 100% compatible avec la carte Arduino Uno R3 (non incluse)\n\nPlus de 200 composants inclus\n\nIdéal pour l’apprentissage, les tests et les prototypes\n\nCompatible avec la breadboard (sans soudure)\n\nComposants rangés pour un accès facile\n\nContenu du kit :\n\nModules & alimentation :\n\n1x Module d’alimentation pour breadboard (attention : ne pas utiliser plus de 9V)\n\n1x Breadboard 830 points\n\n1x IC 74HC595\n\n1x IC optocoupleur 4N35\n\nFils & connecteurs :\n\n65x Câbles Dupont mâle-mâle\n\n140x Fils pour breadboard sans soudure\n\n20x Fils Dupont femelle-mâle\n\n2x Barre de broches (40 pins)\n\nComposants actifs :\n\n2x Photo-résistances\n\n1x Thermistance\n\n5x Diodes 1N4007\n\n5x Transistors NPN PN2222\n\n1x Buzzer actif\n\n1x Buzzer passif\n\nComposants passifs :\n\n10x Boutons poussoirs\n\n10x Condensateurs céramiques 22pF\n\n10x Condensateurs céramiques 104\n\n5x Condensateurs électrolytiques 10uF 50V\n\n5x Condensateurs électrolytiques 100uF 50V\n\nLEDs :\n\n10x LEDs blanches\n\n10x LEDs jaunes\n\n10x LEDs bleues\n\n10x LEDs vertes\n\n10x LEDs rouges\n\n1x LED RGB\n\nRésistances :\n\n10x Résistances 10Ω\n\n10x Résistances 100Ω\n\n10x Résistances 220Ω\n\n10x Résistances 330Ω\n\n10x Résistances 1KΩ\n\n10x Résistances 2KΩ\n\n10x Résistances 5.1KΩ\n\n10x Résistances 10KΩ\n\n10x Résistances 100KΩ\n\n10x Résistances 1MΩ\n\nMots clés: starter, apprentissage.",
+     "short_description": "Le Kit Composants Basiques, 215 en 1 est un excellent choix pour les débutants en électronique et en programmation"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/02/1042-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2022/02/1042-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2022/02/1042-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41235",
+   "price": 290,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Composants Basiques, 1900 en 1",
+     "description": "Kit Composants Basiques, 1900 en 1\n\nCe kit complet de composants électroniques est idéal pour les passionnés d’Arduino, les étudiants et les bricoleurs. Il comprend 1900 pièces diverses pour vous aider à réaliser une multitude de projets électroniques. Tous les composants sont triés et présentés dans des compartiments pratiques pour un accès facile.\n\nComposants inclus :\n\n1000 Résistances 1/4W, film métallique, 1% (50 valeurs différentes, 20 pièces par valeur)\n\n180 Transistors TO-92, 16 types différents (10 pièces par type)\n\n120 Condensateurs électrolytiques (12 valeurs différentes, 10 pièces par valeur)\n\n100 Diodes (8 types différents, 5 à 25 pièces par type)\n\n200 LEDs 3mm et 5mm (Rouge, vert, bleu, jaune, blanc, 20 pièces par couleur)\n\n300 Condensateurs céramiques 50V, de 1pF à 0.1µF (31 valeurs différentes, 10 pièces par valeur)\n\n2 Transistors PNP au Germanium (1N270)\n\n12 Potentiomètres ajustables (Trim Pot) (100Ω, 500Ω, 1K, 2K, 5K, 10K, 20K, 50K, 100K, 200K, 500K, 1M)\n\n4 PCB pour prototypage (2×8, 4×6, 5×7, 7×9 cm)\n\n3 Connecteurs DC Jack (DC-022, 5.5*2.1mm)\n\n3 Connecteurs PCB Jack DC (DC-005, 5.5*2.1mm)\n\n1 Mini Haut-parleur 0.25W 8Ω\n\n2 ICs LM358 (Op-Amp Dual)\n\n2 ICs NE555 (Oscillateur Timer)\n\n2 ICs JRC4558 (Op-Amp Dual)\n\nCaractéristiques principales :\n\nBoîte en carton durable pour organiser et protéger tous les composants\n\nComposants emballés individuellement dans des sacs plastiques pour une meilleure conservation\n\nValeurs des résistances estampillées pour une identification facile\n\nIdéal pour les projets Arduino : Contient une large variété de composants pour vos créations électroniques\n\nApplications :\n\nParfait pour les projets Arduino, les expériences en électronique et les démonstrations pédagogiques.\n\nPermet de construire des circuits électroniques variés, d’explorer l’optique, l’audio et d’autres technologies.\n\nCe kit est la solution idéale pour quiconque cherche à se lancer dans la conception de circuits électroniques ou à améliorer ses compétences en électronique pratique. Que vous soyez un débutant ou un professionnel, ce kit vous fournira tout ce dont vous avez besoin pour vos futurs projets.\n\nMots clés: apprentissage, learn, basic, starter.",
+     "short_description": "Ce kit complet de composants électroniques est idéal pour les passionnés d’Arduino, les étudiants et les bricoleurs. Il comprend 1900 pièces diverses pour vous aider à réaliser une multitude de projets électroniques"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/04/1043-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/04/1043-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41894",
+   "price": 160,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Transistor NPN PNP TO-92, 600 en 1",
+     "description": "Kit Transistor NPN PNP TO-92, 600 en 1\n\nCe kit complet comprend 600 transistors répartis en 15 types courants de boîtiers TO-92, incluant des modèles NPN et PNP tels que 2N2222, 2N3904, 2N3906, 2N5401, 2N5551, A1015, C1815, C945, S8050, S8550, S9012, S9013, S9014, S9015 et S9018. Chaque type est conditionné en 40 exemplaires, idéal pour les projets électroniques, les réparations et les expérimentations.\n\nCaractéristiques techniques :\n\nNombre total de transistors : 600 pièces\n\nTypes inclus : 15 références NPN et PNP\n\nBoîtier : TO-92\n\nTension nominale : 30 à 160 V (selon le modèle)\n\nCourant nominal : 50 à 1000 mA (selon le modèle)\n\nDimensions du coffret : environ 170 × 95 × 23 mm\n\nConditionnement : boîte de rangement compartimentée en plastique transparent\n\nApplications typiques :\n\nProjets électroniques DIY\n\nPrototypage et développement de circuits\n\nRéparations d’appareils électroniques\n\nEnseignement et formation en électronique\n\nAvantages :\n\nLarge variété de transistors pour couvrir de nombreux besoins\n\nOrganisation pratique grâce à la boîte compartimentée\n\nIdéal pour les professionnels, les étudiants et les amateurs\n\nGain de temps et d’efficacité dans la sélection des composants\n\nMots clés: assortment, basic, starter.",
+     "short_description": "Ce kit complet comprend 600 transistors répartis en 15 types courants de boîtiers TO-92, incluant des modèles NPN et PNP."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/1045-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17792",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîtier Transparent pour Mega 2560",
+     "description": "Boîtier Transparent pour Arduino Mega 2560\n\nLe boîtier transparent pour Arduino Mega 2560 est un boîtier de protection conçu spécifiquement pour la carte Arduino Mega 2560. Fabriqué en acrylique transparent, ce boîtier permet de protéger votre carte tout en laissant visible l’ensemble de ses composants et connexions. Il offre une protection contre les dommages physiques, la poussière et les débris, tout en conservant un accès facile aux ports et connecteurs.\n\nCaractéristiques\n\nMatériau : Acrylique transparent\n\nCompatibilité : Arduino Mega 2560\n\nDimensions : Conformes aux dimensions de l’Arduino Mega 2560\n\nAccès : Découpes précises pour tous les ports et connecteurs\n\nMontage : Facile à assembler avec vis et écrous inclus\n\nFonctionnement\n\nLe boîtier transparent enveloppe la carte Arduino Mega 2560, offrant une protection sans interférer avec le fonctionnement de la carte. Les découpes précises permettent un accès sans entrave aux connecteurs USB, au port d’alimentation, aux broches GPIO et autres interfaces.\n\nApplications\n\nProjets de prototypage : Idéal pour protéger votre carte Arduino lors de la création de prototypes.\n\nProjets d’éducation : Utile pour les étudiants et les enseignants pour protéger le matériel tout en le rendant visible pour l’apprentissage.\n\nProjets de démonstration : Parfait pour les présentations et démonstrations, montrant clairement le matériel utilisé.\n\nComment l’utiliser\n\nAssemblage :\n\nPlacez votre carte Arduino Mega 2560 à l’intérieur du boîtier.\n\nAlignez les découpes avec les ports et connecteurs de la carte.\n\nFixez le boîtier en utilisant les vis et écrous fournis.\n\nAccès aux connecteurs :\n\nUtilisez les découpes pour brancher les câbles USB, les alimentations et autres périphériques sans avoir à retirer la carte du boîtier.\n\nProtection :\n\nUtilisez le boîtier pour protéger la carte contre les chocs, la poussière et autres contaminants.\n\nMots clés: case, boite.",
+     "short_description": "Boîtier Transparent en acrylique pour Arduino Mega 2560."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/2-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/2-a-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/2-a-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-1797",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Arduino UNO R3 + Câble Usb",
+     "description": "UNO R3 + Câble Usb\n\nL’Arduino Uno R3 est l’une des cartes de développement les plus populaires de la famille Arduino. Basée sur le microcontrôleur ATmega328P, elle est conçue pour être simple à utiliser, idéale pour les débutants tout en offrant des fonctionnalités suffisantes pour des projets plus avancés. La carte est fournie avec un câble USB pour faciliter la programmation et l’alimentation.\n\nCaractéristiques:\n\nMicrocontrôleur: ATmega328P\n\nConvertisseur USB-Serial: ATmega16U2\n\nTension de fonctionnement: 5V\n\nTension d’entrée recommandée: 7-12V\n\nTension d’entrée limite: 6-20V\n\nBroches numériques I/O: 14 (dont 6 peuvent être utilisées comme sorties PWM)\n\nEntrées analogiques: 6\n\nCourant DC par I/O Pin: 20 mA\n\nCourant DC pour les broches 3.3V: 50 mA\n\nMémoire Flash: 32 KB (0.5 KB utilisés par le bootloader)\n\nSRAM: 2 KB\n\nEEPROM: 1 KB\n\nHorloge: 16 MHz\n\nComment ça marche: L’Arduino Uno R3 utilise le microcontrôleur ATmega328P pour exécuter des programmes écrits en langage Arduino. La carte peut être alimentée via le port USB ou une alimentation externe. Elle permet de contrôler divers capteurs, modules et autres composants électroniques.\n\nApplications:\n\nProjets éducatifs et d’apprentissage\n\nPrototypage rapide de circuits électroniques\n\nAutomatisation domestique simple\n\nProjets interactifs et artistiques\n\nApplications nécessitant des interfaces utilisateur de base\n\nComment l’utiliser:\n\nConnexion: Connectez l’Arduino Uno R3 à votre ordinateur à l’aide du câble USB fourni.\n\nInstallation de l’IDE: Téléchargez et installez l’IDE Arduino depuis le site officiel.\n\nConfiguration: Ouvrez l’IDE, sélectionnez “Arduino/Genuino Uno” dans le menu “Outils” -> “Type de carte”.\n\nProgrammation: Écrivez votre code ou utilisez un exemple fourni dans l’IDE.\n\nTéléversement: Cliquez sur le bouton “Téléverser” pour transférer votre code sur la carte.\n\nPinout Connection: L’Arduino Uno R3 dispose de nombreuses connexions I/O réparties comme suit:\n\nBroches numériques (0-13): Utilisées pour les entrées/sorties numériques.\n\nPWM (3, 5, 6, 9, 10, 11): Broches pouvant générer des signaux PWM.\n\nEntrées analogiques (A0-A5): Utilisées pour lire des signaux analogiques.\n\nComposants nécessaires pour un test de base:\n\n1x Arduino Uno R3\n\n1x Câble USB (fourni)\n\n1x LED (pour tester une sortie numérique)\n\n1x Résistance de 220 ohms (pour limiter le courant de la LED)\n\n1x Breadboard et des câbles de connexion\n\nExemple de code pour tester une LED:\n\nint ledPin = 13; // Broche de la LED\r\n\nvoid setup() {\r\npinMode(ledPin, OUTPUT); // Définir la broche comme sortie\r\n}\r\n\nvoid loop() {\r\ndigitalWrite(ledPin, HIGH); // Allumer la LED\r\ndelay(1000); // Attendre une seconde\r\ndigitalWrite(ledPin, LOW); // Éteindre la LED\r\ndelay(1000); // Attendre une seconde\r\n}\n\nExplication détaillée du code:\n\nsetup(): Cette fonction est appelée une fois au démarrage du programme. Elle est utilisée ici pour définir la broche 13 comme sortie.\n\nloop(): Cette fonction tourne en boucle après l’exécution de setup(). Elle allume la LED, attend une seconde, éteint la LED, puis attend encore une seconde, créant ainsi un clignotement continu de la LED.\n\nCe guide vous aide à démarrer avec l’Arduino Uno R3 et à comprendre ses caractéristiques et ses applications. Pour des projets plus avancés, explorez les bibliothèques et les ressources supplémentaires disponibles dans l’IDE Arduino et la communauté Arduino en ligne.\n\nMots clés: développement.",
+     "short_description": "3ème génération de la célèbre plate-forme de prototypage et d’apprentissage UNO\n\nMicrocontrôleur : ATMega 328\n\nTension opérationnelle : 5 V\n\nTension d’alimentation recommandée : 7-12 V\n\nTension d’alimentation (limites) : 6-20 V\n\nPins digitaux I/O : 14 (dont 6 fournissent une sortie PWM)\n\nPins d’entrée analogiques : 6 Courant direct par pin I/O : 40 mA\n\nCourant direct (pin 3,3 V) : 50 mA\n\nMémoire flash : 32 KB SRAM : 2 KB\n\nEEPROM : 1 KB\n\nFréquence : 16 MHz"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/3-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17787",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîtier Transparent pour Arduino Uno",
+     "description": "Boîtier Transparent pour Arduino Uno\n\nLe boîtier transparent pour Arduino Uno est un boîtier de protection conçu spécifiquement pour la carte Arduino Uno. Fabriqué en acrylique transparent, ce boîtier offre une protection efficace tout en permettant de voir les composants et connexions de la carte. Il protège contre les dommages physiques, la poussière et les débris, tout en conservant un accès facile à tous les ports et connecteurs.\n\nCaractéristiques\n\nMatériau : Acrylique transparent\n\nCompatibilité : Arduino Uno\n\nDimensions : Conformes aux dimensions de l’Arduino Uno\n\nAccès : Découpes précises pour tous les ports et connecteurs\n\nMontage : Facile à assembler avec vis et écrous inclus\n\nFonctionnement\n\nLe boîtier transparent enveloppe la carte Arduino Uno, offrant une protection sans interférer avec le fonctionnement de la carte. Les découpes précises permettent un accès sans entrave aux connecteurs USB, au port d’alimentation, aux broches GPIO et autres interfaces.\n\nApplications\n\nProjets de prototypage : Idéal pour protéger votre carte Arduino lors de la création de prototypes.\n\nProjets d’éducation : Utile pour les étudiants et les enseignants pour protéger le matériel tout en le rendant visible pour l’apprentissage.\n\nProjets de démonstration : Parfait pour les présentations et démonstrations, montrant clairement le matériel utilisé.\n\nComment l’utiliser\n\nAssemblage :\n\nPlacez votre carte Arduino Uno à l’intérieur du boîtier.\n\nAlignez les découpes avec les ports et connecteurs de la carte.\n\nFixez le boîtier en utilisant les vis et écrous fournis.\n\nAccès aux connecteurs :\n\nUtilisez les découpes pour brancher les câbles USB, les alimentations et autres périphériques sans avoir à retirer la carte du boîtier.\n\nProtection :\n\nUtilisez le boîtier pour protéger la carte contre les chocs, la poussière et autres contaminants.\n\nMots clés: case, boite.",
+     "short_description": "Boîtier Transparent en acrylique pour Arduino Uno R3."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/3-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/3-a-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/3-a-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50653",
+   "price": 140,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Arduino Pro Micro Type-C ATmega32U4 – 5 V / 16 MHz",
+     "description": "Arduino Pro Micro Type-C ATmega32U4 – 5 V / 16 MHz\n\nLa Pro Micro Type-C est une carte de développement compacte basée sur le microcontrôleur ATmega32U4. Grâce à son interface USB native, elle peut être programmée directement depuis Arduino IDE et peut également fonctionner comme un périphérique USB tel qu’un clavier, une souris ou un contrôleur personnalisé.\n\nSon connecteur USB Type-C offre une connexion pratique pour l’alimentation et la programmation. Son format réduit convient parfaitement aux projets de robotique, d’automatisation, de domotique, aux contrôleurs de jeux et aux périphériques HID personnalisés.\n\nCaractéristiques\n\nMicrocontrôleur : ATmega32U4\n\nTension de fonctionnement : 5 V\n\nFréquence : 16 MHz\n\nConnecteur : USB Type-C\n\n12 entrées/sorties numériques\n\n5 sorties compatibles PWM\n\n9 entrées analogiques avec convertisseur 10 bits\n\nMémoire Flash : 32 Ko\n\nSRAM : 2,5 Ko\n\nEEPROM : 1 Ko\n\nInterfaces UART, I²C et SPI\n\nCommunication USB intégrée\n\nCompatible avec Arduino IDE\n\nPeut émuler un clavier ou une souris USB\n\nFormat compact et adapté aux projets embarqués\n\nLes caractéristiques d’entrées/sorties correspondent à la plateforme Pro Micro 5 V / 16 MHz basée sur l’ATmega32U4. Documentation SparkFun\n\nApplications\n\nClaviers et pavés numériques personnalisés\n\nSouris et contrôleurs USB\n\nJoysticks et simulateurs\n\nRobotique et domotique\n\nAcquisition de données\n\nProjets électroniques compacts\n\nContrôle de LED, capteurs, relais et servomoteurs\n\nMini-tutoriel : premier programme avec une LED\n\nInstallation dans Arduino IDE\n\nConnectez la Pro Micro avec un câble USB-C permettant le transfert de données.\n\nOuvrez Arduino IDE.\n\nInstallez le package SparkFun AVR Boards depuis le gestionnaire de cartes si nécessaire.\n\nSélectionnez SparkFun Pro Micro.\n\nChoisissez impérativement ATmega32U4 – 5V, 16MHz.\n\nSélectionnez le port COM de la carte.\n\nLe choix de la bonne version 5 V / 16 MHz est important pour éviter les problèmes de téléversement et de détection USB. Guide Pro Micro\n\nBranchement de la LED\n\nBroche Pro Micro\nConnexion\n\nD9\nRésistance de 220 à 330 Ω\n\nRésistance\nPatte longue de la LED\n\nGND\nPatte courte de la LED\n\nCode Arduino\n\nconst int ledPin = 9;\r\n\nvoid setup() {\r\n pinMode(ledPin, OUTPUT);\r\n Serial.begin(9600);\r\n}\r\n\nvoid loop() {\r\n digitalWrite(ledPin, HIGH);\r\n Serial.println(\"LED allumee\");\r\n delay(1000);\r\n\n digitalWrite(ledPin, LOW);\r\n Serial.println(\"LED eteinte\");\r\n delay(1000);\r\n}\nAprès le téléversement, la LED clignote toutes les secondes. Ouvrez le moniteur série à 9600 bauds pour afficher son état.\n\nConseils d’utilisation\n\nUtilisez un câble USB-C compatible avec les données, et pas uniquement avec la charge.\n\nLes entrées et sorties fonctionnent avec une logique de 5 V.\n\nNe connectez pas directement un module limité à 3,3 V sans adaptation de niveau.\n\nPour une alimentation 5 V externe, utilisez uniquement une tension correctement régulée sur VCC.\n\nDébranchez l’alimentation avant de modifier le câblage.\n\nSi la carte n’est plus détectée, une double réinitialisation rapide entre RST et GND peut activer temporairement le bootloader. Dépannage SparkFun",
+     "short_description": "Carte Pro Micro compacte avec ATmega32U4, connecteur USB Type-C et fonctionnement en 5 V à 16 MHz. Idéale pour les projets Arduino et les périphériques USB personnalisés."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/10-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17781",
+   "price": 58,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîtier Transparent pour Raspberry PI3 B+",
+     "description": "Boîtier Transparent pour Raspberry PI3 B+\n\nLe boîtier transparent pour Raspberry Pi 3 B+ est conçu pour protéger la carte Raspberry Pi 3 B+ tout en permettant la visibilité des composants internes. Ce boîtier offre la possibilité d’installer des shields supplémentaires, des ventilateurs, ou des afficheurs.\n\nCaractéristiques\n\nCompatibilité : Raspberry Pi 3 B+\n\nMatériau : Plastique transparent\n\nAccès : Découpes précises pour tous les ports et connecteurs\n\nFlexibilité : Permet l’ajout de ventilateurs et d’afficheurs\n\nFonctionnement\n\nLe boîtier enveloppe la carte Raspberry Pi 3 B+, offrant une protection contre les dommages physiques, la poussière et les débris. Les découpes précises permettent un accès complet aux ports et connecteurs, facilitant l’installation de composants supplémentaires.\n\nApplications\n\nProjets DIY : Idéal pour protéger votre Raspberry Pi dans divers projets faits maison.\n\nProjets éducatifs : Utilisé dans les environnements éducatifs pour protéger le matériel tout en permettant un accès facile pour les démonstrations et les expériences.\n\nUtilisation quotidienne : Parfait pour les utilisateurs de Raspberry Pi souhaitant une protection simple et efficace pour leur carte.\n\nComment l’utiliser\n\nAssemblage :\n\nPlacez votre carte Raspberry Pi 3 B+ à l’intérieur du boîtier.\n\nAlignez les ports et connecteurs avec les découpes du boîtier.\n\nFixez le boîtier en utilisant les vis et les clips fournis.\n\nInstallation de composants :\n\nAjoutez des shields, ventilateurs ou afficheurs en utilisant les découpes prévues.\n\nConnexions et Composants nécessaires\n\nRaspberry Pi 3 B+ : Carte principale à insérer dans le boîtier.\n\nAlimentation : Utilisez l’adaptateur secteur pour alimenter la carte Raspberry Pi.\n\nPériphériques : Connectez des périphériques tels que clavier, souris, écran via les ports accessibles.\n\nMots clés: case, pasp, boite.",
+     "short_description": "Boîtier transparent compatible avec le Raspberry Pi 3 B+, pour installer des shields supplémentaire, ventilateur, ou une afficheur."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/24-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/24-a-2.png"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6689",
+   "price": 95,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BME280 5V Module Capteur de Pression, température, humidité",
+     "description": "Module Capteur de Pression, température, humidité Haute précision BME280 5V\n\nGY-BME280 BME280 est un capteur de pression atmosphére, de température et d’humidité de haute précision. Il utilise à la fois l’interface I2C et SPI (support SPI 3, 4 fils).\n\nCaractéristiques:\n\nTension d’alimentation: 1,8 – 5V DC (version 3.3V)\n\nInterface: I2C (jusqu’à 3,4 MHz), SPI (jusqu’à 10 MHz)\n\nGamme opérationnelle\n\nTempérature: -40 à + 85 ° C\n\nHumidité: 0-100%\n\nPression: 300-1100 hPa\n\nRésolution:\n\nTempérature: 0.01 ° C\n\nHumidité: 0.008%\n\nPression: 0.18Pa\n\nPrécision:\n\nTempérature: +- 1 ° C\n\nHumidité: +- 3%\n\nPression: +- 1 Pa\n\nAdresse I2C:\n\nSDO LOW: 0x76\n\nSDO HIGH: 0x77\n\nFiche technique\n\nMots clés: humidity, pressure, sensor.",
+     "short_description": "GY-BME280, BME280 5V est un capteur de pression atmosphére, de température et d’humidité de haute précision. Il utilise à la fois l’interface I2C et SPI (support SPI 3, 4 fils)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/229-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8108",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BME280 3.3V Module Capteur de Pression, température, humidité",
+     "description": "Module Capteur de Pression, température, humidité Haute précision BME280 3.3V\n\nGY-BME280 BME280 est un capteur de pression atmosphére, de température et d’humidité de haute précision. Il utilise à la fois l’interface I2C et SPI (support SPI 3, 4 fils).\n\nCaractéristiques:\n\nTension d’alimentation: 3.3V DC  (version 5V)\n\nInterface: I2C (jusqu’à 3,4 MHz), SPI (jusqu’à 10 MHz)\n\nGamme opérationnelle\n\nTempérature: -40 à + 85 ° C\n\nHumidité: 0-100%\n\nPression: 300-1100 hPa\n\nRésolution:\n\nTempérature: 0.01 ° C\n\nHumidité: 0.008%\n\nPression: 0.18Pa\n\nPrécision:\n\nTempérature: +- 1 ° C\n\nHumidité: +- 3%\n\nPression: +- 1 Pa\n\nAdresse I2C:\n\nSDO LOW: 0x76\n\nSDO HIGH: 0x77\n\nFiche technique\n\nMots clés: humidity, pressure, sensor.",
+     "short_description": "GY-BME280, BME280 3.3V est un capteur de pression atmosphére, de température et d’humidité de haute précision. Il utilise à la fois l’interface I2C et SPI (support SPI 3, 4 fils)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/236-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21067",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MPS20N0040D Capteur de Pression 40Kpa",
+     "description": "MPS20N0040D Capteur de Pression 40Kpa\n\nMPS20N0040D MPS20N0040D-S Capteur de Pression 40Kpa.\n\nGamme: 40kpa (pression différentielle)\n\nSortie: signal mV\n\nAlimentation: 5VDC ou courant constant 1Ma\n\nPrécision linéaire: 0,25% FS\n\nMesurer la plage de pression de 580 PSIG, 40KPaG\n\nCapacité de pression maximale de trois fois la plage de mesure\n\nImpédance d’entrée de 4 à 6 KΩ\n\nL’impédance de sortie de 4 à 6 KΩ\n\nTempérature de fonctionnement -40-85 ° C -40 ° F – +185 ° F\n\nTempérature de stockage -40-125 ° C -40 ° F – +257 ° F\n\nFluides accessibles, gaz propres, secs et non corrosifs\n\nTension de polarisation ± 25 mV\n\nTension de sortie pleine échelle 50-100 mV\n\nRésistance du pont jusqu’à 4-6 KΩ\n\nLinéarité ± 0,3% E.M.\n\nHystérésis ± 0,7% E.M.\n\nCoefficient de température de polarisation ± 0,08% de la pleine échelle / ° c\n\nCoefficient de température de sensibilité -0,21% PE / ° c\n\nFiche technique\n\nMots clés: pressure, sensor, weather, méteo.",
+     "short_description": "MPS20N0040D MPS20N0040D-S Capteur de Pression 40Kpa."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/177-d-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/177-d-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42005",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HX710B Module Capteur de Pression Analogique",
+     "description": "HX710B Module Capteur de Pression Analogique\n\nLe HX710B est un module capteur de pression basé sur un capteur piézorésistif 0–40 kPa et un convertisseur analogique-numérique haute résolution. Il délivre une tension proportionnelle à la pression lue, facile à interfacer avec un microcontrôleur pour mesurer la pression d’air ou le niveau de liquide via un tuyau 2,5 mm \n\n🔧 Caractéristiques techniques :\n\nPlage de mesure : 0 – 40 kPa\n\nTension d’alimentation : 3,3 – 5 V DC\n\nSortie : analogique 0–VCC proportionnelle à la pression\n\nPrécision : ±1,5 % FS\n\nTemps de réponse : ≤ 1 ms\n\nTempérature de fonctionnement : –40 °C à +85 °C\n\nDimensions : 18 × 15 × 5 mm\n\n💡 Applications typiques :\n\nMesure de la pression atmosphérique (station météo)\n\nContrôle de niveau de liquide (réservoirs, pompes)\n\nSystèmes de détection de fuite et de surpression\n\nAutomatisation industrielle, contrôle pneumatique\n\nProjets DIY Arduino/ESP32 pour baromètres ou manomètres\n\nExemple de code Arduino\n\nconst int pressurePin = A0; // Broche analogique reliée à la sortie OUT du module\r\nvoid setup() {\r\nSerial.begin(9600);\r\n}\r\nvoid loop() {\r\nint raw = analogRead(pressurePin);\r\n// Conversion ADC → tension (si Vcc=5V)\r\nfloat voltage = raw * (5.0 / 1023.0);\r\n// Conversion tension → pression (0–40 kPa)\r\nfloat pressure = (voltage / 5.0) * 40.0;\r\nSerial.print(\"Pression : \");\r\nSerial.print(pressure, 2);\r\nSerial.println(\" kPa\");\r\ndelay(500);\r\n}\n\n🛠️ Brochage\n\nBroche module HX710B\nFonction\nConnexion Arduino UNO\n\nVCC\nAlimentation 3,3–5 V\n5 V (ou 3,3 V si Vcc=3,3 V)\n\nGND\nMasse commune\nGND\n\nOUT\nSortie analogique (0–VCC)\nA0\n\nNC\nNon connecté\n–\n\nVCC → 5 V (ou 3,3 V selon votre alimentation).\n\nGND → GND (Masse commune).\n\nOUT → A0 pour lire la tension proportionnelle à la pression.\n\nNote : Adaptez la formule de conversion (tension → pression) si vous alimentez en 3,3 V.",
+     "short_description": "Le HX710B est un module capteur de pression basé sur un capteur piézorésistif 0–40 kPa et un convertisseur analogique-numérique haute résolution."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/177-e-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50655",
+   "price": 160,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Capteur de pression hydraulique G1/4 5V",
+     "description": "Capteur de pression hydraulique G1/4 – 5 V – 0,5 MPa ou 3 MPa\n\nCe capteur de pression transforme la pression d’un circuit hydraulique en un signal analogique exploitable par un Arduino, un automate ou un système d’acquisition. Son corps métallique robuste et son raccord fileté G1/4 facilitent son installation sur les pompes, réservoirs, conduites et bancs de test.\n\nIl fonctionne sous 5 V DC et fournit une sortie analogique linéaire généralement comprise entre 0,5 et 4,5 V, permettant de détecter les défauts de câblage plus facilement qu’une sortie 0–5 V. Ce type de sortie est notamment documenté sur les capteurs G1/4 5 V de même catégorie.\n\nVariantes disponibles\n\nVariante\nPlage en bars\nPlage approximative en PSI\n\n0 à 0,5 MPa\n0 à 5 bars\n0 à 72,5 PSI\n\n0 à 3 MPa\n0 à 30 bars\n0 à 435 PSI\n\nChoisissez une plage légèrement supérieure à la pression maximale prévue dans votre installation. Une plage plus faible offre généralement une meilleure résolution de mesure, mais elle ne doit jamais être dépassée.\n\nCaractéristiques\n\nAlimentation : 5 V DC\n\nSortie : signal analogique linéaire 0,5 à 4,5 V\n\nRaccord hydraulique mâle : G1/4\n\nTrois connexions : alimentation, masse et signal\n\nDeux plages disponibles : 0–0,5 MPa et 0–3 MPa\n\nCorps métallique résistant\n\nLecture possible avec Arduino et autres microcontrôleurs 5 V\n\nAdapté aux systèmes hydrauliques, pompes et bancs de mesure\n\nMesure continue et intégration facile\n\nApplications\n\nSurveillance de circuits hydrauliques\n\nMesure de la pression d’une pompe\n\nContrôle de réservoirs et de conduites\n\nMachines industrielles\n\nSystèmes d’irrigation\n\nBancs de test\n\nAlarmes de pression\n\nEnregistrement de données avec Arduino\n\nMini-tutoriel avec Arduino\n\nBranchement\n\nLe capteur comporte trois fils ou trois bornes. Identifiez leur fonction à partir du marquage ou de la documentation fournie.\n\nCapteur\nArduino Uno/Nano\n\nVCC / +5V\n5V\n\nGND / 0V\nGND\n\nOUT / Signal\nA0\n\nLes couleurs courantes sont rouge pour l’alimentation, noir pour la masse et jaune, vert ou bleu pour le signal. Ne vous fiez pas uniquement aux couleurs, car elles peuvent varier selon les séries.\n\nCode Arduino pour les deux variantes\n\nconst byte sensorPin = A0;\r\n\n// Choisir la plage correspondant au capteur :\r\n// 0.5 pour la version 0-0,5 MPa\r\n// 3.0 pour la version 0-3 MPa\r\nconst float maxPressureMPa = 0.5;\r\n\nvoid setup() {\r\n Serial.begin(9600);\r\n}\r\n\nvoid loop() {\r\n long total = 0;\r\n\n // Moyenne de 20 mesures pour stabiliser l'affichage\r\n for (byte i = 0; i < 20; i++) {\r\n total += analogRead(sensorPin);\r\n delay(5);\r\n }\r\n\n float adcValue = total / 20.0;\r\n float voltage = adcValue * 5.0 / 1023.0;\r\n\n // Sortie 0,5 à 4,5 V :\r\n // 0,5 V = 0 pression\r\n // 4,5 V = pression maximale\r\n float pressureMPa =\r\n (voltage - 0.5) * maxPressureMPa / 4.0;\r\n\n // Limitation de l'affichage à la plage du capteur\r\n if (pressureMPa < 0) {\r\n pressureMPa = 0;\r\n }\r\n\n if (pressureMPa > maxPressureMPa) {\r\n pressureMPa = maxPressureMPa;\r\n }\r\n\n float pressureBar = pressureMPa * 10.0;\r\n\n Serial.print(\"Tension : \");\r\n Serial.print(voltage, 3);\r\n Serial.print(\" V | Pression : \");\r\n Serial.print(pressureMPa, 3);\r\n Serial.print(\" MPa | \");\r\n Serial.print(pressureBar, 2);\r\n Serial.println(\" bar\");\r\n\n delay(500);\r\n}\nPour la variante 0–3 MPa, remplacez simplement :\n\nconst float maxPressureMPa = 0.5;\npar :\n\nconst float maxPressureMPa = 3.0;\nOuvrez ensuite le moniteur série d’Arduino IDE à 9600 bauds pour afficher la tension, la pression en MPa et la pression en bars.\n\nInstallation hydraulique\n\nDépressurisez entièrement le circuit.\n\nVérifiez que le raccord de l’installation est bien compatible avec un filetage G1/4.\n\nUtilisez un joint ou une solution d’étanchéité compatible avec le fluide et la pression.\n\nSerrez le capteur à l’aide de sa partie hexagonale, jamais en tournant le câble.\n\nVérifiez l’absence de fuite à faible pression avant de monter progressivement en pression.\n\nPrécautions importantes\n\nNe dépassez jamais la plage maximale de la variante choisie.\n\nUtilisez uniquement des raccords et conduites homologués pour la pression du circuit.\n\nNe démontez jamais le capteur lorsque le circuit est sous pression.\n\nVérifiez la compatibilité chimique du capteur et du joint avec le liquide utilisé.\n\nLa sortie peut atteindre environ 4,5 V : pour un ESP32 ou un microcontrôleur limité à 3,3 V, ajoutez un pont diviseur ou un circuit d’adaptation.\n\nPour une meilleure précision, calibrez la valeur minimale et maximale avec un manomètre de référence.\n\nCe produit n’est pas destiné aux applications médicales ou aux systèmes de sécurité critiques.",
+     "short_description": "Capteur de pression hydraulique G1/4 alimenté en 5 V avec sortie analogique 0,5–4,5 V. Disponible en deux plages : 0–0,5 MPa et 0–3 MPa."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/177-f-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2936",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ2 Module Capteur de Gaz GPL / Hydrogéne / Propane / Fumée",
+     "description": "Module Capteur de Gaz GPL / Hydrogéne / Propane / Fumée MQ2\n\nCapteur de gaz MQ2 simple à utiliser.\n\nAdapté à la détection du GPL, de l’isobutane, du propane, du méthane, de l’alcool, de l’hydrogène et de la fumée.\n\nUtilisé pour la détection des fuites de gaz aussi bien pour les usagers que l’industrie.\n\nSensibilité élevée et temps de réponse rapide.\n\nLa sensibilité peut être ajustée au moyen d’un potentiomètre.\n\nMots clés: sensor, gas, air, weather, méteo, mq-2.",
+     "short_description": "• Capteur de gaz simple à utiliser.\n\n• Adapté à la détection du GPL, de l’isobutane, du propane, du méthane, de l’alcool, de l’hydrogène et de la fumée.\n\n• Utilisé pour la détection des fuites de gaz aussi bien pour les usagers que l’industrie.\n\n• Sensibilité élevée et temps de réponse rapide.\n\n• La sensibilité peut être ajustée au moyen d’un potentiomètre."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/178-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/178-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2937",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ3 Module Capteur d’Alcool / Ethanol",
+     "description": "Module Capteur de Gaz d’Alcool / Ethanol MQ3\n\nCapteur de gaz MQ3 simple à utiliser.\n\nSensible à l’alcool, à l’éthanol\n\nRéponse et récupération rapides\n\nSensibilité réglable\n\nIndicateur de sortie de signal\n\nLa tension de sortie augmente parallèlement à la concentration des gaz mesurés.\n\nMots clés: sensor, gas, air, weather, méteo, mq-3.",
+     "short_description": "Sensible à l’alcool, à l’éthanol\n\nRéponse et récupération rapides\n\nSensibilité réglable\n\nIndicateur de sortie de signal\n\nLa tension de sortie augmente parallèlement à la concentration des gaz mesurés"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/179-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/179-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2939",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ4 Module Capteur de Gaz Naturel / Méthane",
+     "description": "Module Capteur de Gaz Naturel / Méthane MQ4\n\nCapteur de gaz MQ4 simple à utiliser.\n\nCapteur de gaz simple à utiliser\n\nAdapté aux émissions de méthane (CH4), gaz naturel, GNL, pour prévenir l’exposition à l’alcool, aux fumées de cuisson et à la fumée de cigarette\n\nMQ4 est utilisé dans les équipements de détection de fuites de gaz\n\nStable et durable\n\nLa sensibilité peut être ajustée au moyen d’un potentiomètre.\n\nMots clés: sensor, gas, air, weather, méteo, mq-4.",
+     "short_description": "• Capteur de gaz simple à utiliser\n\n• Adapté aux émissions de CH4, gaz naturel, GNL, pour prévenir l’exposition à l’alcool, aux fumées de cuisson et à la fumée de cigarette\n\n• MQ4 est utilisé dans les équipements de détection de fuites de gaz\n\n• Stable et durable\n\n• La sensibilité peut être ajustée au moyen d’un potentiomètre"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/180-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/180-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2940",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ5 Module Capteur de Gaz Naturel / GPL",
+     "description": "Module Capteur de Gaz Naturel / GPL MQ5\n\nCapteur de gaz MQ5 simple à utiliser.\n\nSensible au GPL, au gaz naturel, au gaz de charbon\n\nRéponse et récupération rapides\n\nSensibilité réglable\n\nIndicateur de sortie de signal\n\nLa tension de sortie augmente parallèlement à la concentration des gaz mesurés.\n\nMots clés: sensor, gas, air, weather, méteo, mq-5.",
+     "short_description": "Sensible au GPL, au gaz naturel, au gaz de charbon\n\nRéponse et récupération rapides\n\nSensibilité réglable\n\nIndicateur de sortie de signal\n\nLa tension de sortie augmente parallèlement à la concentration des gaz mesurés"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/181-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/181-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2941",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MQ6 Module Capteur de GPL / Isobutane / Propane",
+     "description": "Module Capteur de GPL / Isobutane / Propane MQ6\n\nCapteur de gaz MQ6 simple à utiliser.\n\nAlimentation électrique : 5 V\n\nCapteur de gaz de pétrole liquéfié (GPL), Propane, Isobutane simple à utiliser\n\nPeut être utilisé dans les équipements de détection de fuites de gaz dans les applications grand-public et industrielles.\n\nMots clés: sensor, gas, air, weather, méteo, mq-6.",
+     "short_description": "Alimentation électrique : 5 V\n\n• Capteur de gaz de pétrole liquéfié (GPL), Propane, Isobutane simple à utiliser\n\n• Peut être utilisé dans les équipements de détection de fuites de gaz dans les applications grand-public et industrielles"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/182-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/182-2.png"
+   ]
+  }
+ ]
+}

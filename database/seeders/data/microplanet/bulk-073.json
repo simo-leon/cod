@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-17779",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module RGB 5050 à 8 Led",
+     "description": "Module RGB 5050 à 8 Led\n\nLe module RGB 5050 à 8 LED est un dispositif utilisant des LEDs RGB de type 5050, chacune pouvant être contrôlée individuellement pour produire une large gamme de couleurs. Ce module est couramment utilisé pour des projets d’éclairage décoratif, des affichages LED et des projets de bricolage nécessitant des effets lumineux complexes.\n\nCaractéristiques en détails\n\nTension de fonctionnement : 5V DC\n\nLEDs : 8 x 5050 RGB LED\n\nProtocole de communication : Utilisation de plusieurs broches de données\n\nDimensions : 51mm x 10mm x 3mm\n\nCourant de fonctionnement : ~18mA par LED\n\nFréquence de scan : ≥400Hz/s\n\nNiveaux de luminosité : 256 niveaux par couleur, permettant jusqu’à 16 777 216 couleurs\n\nType de module : Chaînable, permettant la connexion de plusieurs modules ensemble\n\nFonctionnement\n\nLe module utilise des LEDs 5050, chacune avec un circuit de contrôle intégré. Cela permet un contrôle précis de chaque LED via des broches de données séparées. En envoyant des signaux de données spécifiques, vous pouvez ajuster les couleurs et la luminosité de chaque LED individuellement. Ce type de module est souvent utilisé avec des microcontrôleurs comme Arduino, qui peuvent envoyer les signaux nécessaires pour contrôler les LED.\n\nApplications\n\nÉclairage décoratif\n\nAffichages LED\n\nProjets DIY (Do It Yourself)\n\nEnseignement et démonstrations\n\nSignalisation lumineuse\n\nBrochage\n\nVCC : Connecté à +5V\n\nGND : Connecté à la masse (GND)\n\nD0 à D7 : Connexions pour chaque LED\n\nR : Anode de la LED rouge (connecté à une broche PWM)\n\nB : Anode de la LED bleue (connecté à une broche PWM)\n\nG : Anode de la LED verte (connecté à une broche PWM)\n\nComment l’utiliser:\n\nPour utiliser ce module, connectez l’alimentation (VCC et GND) à une source de 5V et les broches de données (D0 à D7) aux sorties de données d’un microcontrôleur. Utilisez des bibliothèques comme Adafruit NeoPixel ou FastLED pour contrôler les LEDs.\n\nExemple de code Arduino de base\n\n#define RED_PIN 10  // Pin for red color\r\n#define GREEN_PIN 11  // Pin for green color\r\n#define BLUE_PIN 12  // Pin for blue color\r\n\n#define D0 2\r\n#define D1 3\r\n#define D2 4\r\n#define D3 5\r\n#define D4 6\r\n#define D5 7\r\n#define D6 8\r\n#define D7 9\r\n\nvoid setup() {\r\n  pinMode(RED_PIN, OUTPUT);\r\n  pinMode(GREEN_PIN, OUTPUT);\r\n  pinMode(BLUE_PIN, OUTPUT);\r\n\n  pinMode(D0, OUTPUT);\r\n  pinMode(D1, OUTPUT);\r\n  pinMode(D2, OUTPUT);\r\n  pinMode(D3, OUTPUT);\r\n  pinMode(D4, OUTPUT);\r\n  pinMode(D5, OUTPUT);\r\n  pinMode(D6, OUTPUT);\r\n  pinMode(D7, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n  // Example: Set all LEDs to red\r\n  setColor(255, 0, 0);  // Set all LEDs to red\r\n  delay(1000);  // Wait 1 second\r\n\n  // Example: Set all LEDs to green\r\n  setColor(0, 255, 0);  // Set all LEDs to green\r\n  delay(1000);  // Wait 1 second\r\n\n  // Example: Set all LEDs to blue\r\n  setColor(0, 0, 255);  // Set all LEDs to blue\r\n  delay(1000);  // Wait 1 second\r\n\n  // Example: Cycle through colors\r\n  for (int i = 0; i < 256; i++) {\r\n    setColor(i, 255 - i, 0);  // Change colors\r\n    delay(10);  // Wait 10 milliseconds\r\n  }\r\n}\r\n\n// Function to set color for all LEDs\r\nvoid setColor(int red, int green, int blue) {\r\n  analogWrite(RED_PIN, red);\r\n  analogWrite(GREEN_PIN, green);\r\n  analogWrite(BLUE_PIN, blue);\r\n}\n\nBut du code\n\nCe code permet de contrôler chaque LED du module RGB 5050 individuellement, en utilisant des broches dédiées pour chaque couleur et chaque LED.\n\nComposants nécessaires pour le code de base\n\nArduino Uno\n\nModule RGB 5050 à 8 LED\n\nFils de connexion\n\nExplication détaillée du code\n\nDéfinition des broches :\n\n#define RED_PIN 10, #define GREEN_PIN 11, #define BLUE_PIN 12 : Définit les broches pour les couleurs rouge, verte et bleue.\n\n#define D0 2 à #define D7 9 : Définit les broches pour chaque LED.\n\nConfiguration des broches dans setup() :\n\npinMode(RED_PIN, OUTPUT), pinMode(GREEN_PIN, OUTPUT), pinMode(BLUE_PIN, OUTPUT) : Configure les broches de couleurs comme sorties.\n\npinMode(D0, OUTPUT) à pinMode(D7, OUTPUT) : Configure les broches pour chaque LED comme sorties.\n\nBoucle principale loop() :\n\nsetColor(255, 0, 0), setColor(0, 255, 0), setColor(0, 0, 255) : Définit les couleurs rouge, verte et bleue pour toutes les LEDs.\n\nfor (int i = 0; i < 256; i++) : Cycle à travers les couleurs en utilisant la fonction setColor.\n\nFonction setColor() :\n\nanalogWrite(RED_PIN, red), analogWrite(GREEN_PIN, green), analogWrite(BLUE_PIN, blue) : Écrit les valeurs de couleurs pour les broches de couleurs.\n\nBrochage pour le code de base\n\nVCC → Arduino 5V\n\nGND → Arduino GND\n\nD0 → Arduino Pin 2\n\nD1 → Arduino Pin 3\n\nD2 → Arduino Pin 4\n\nD3 → Arduino Pin 5\n\nD4 → Arduino Pin 6\n\nD5 → Arduino Pin 7\n\nD6 → Arduino Pin 8\n\nD7 → Arduino Pin 9\n\nR → Arduino PWM Pin 10\n\nB → Arduino PWM Pin 11\n\nG → Arduino PWM Pin 12\n\nExemple de code Arduino avancé avec plus d’effets de couleurs.\n\n#define RED_PIN 10 // Pin pour la couleur rouge\r\n#define GREEN_PIN 11 // Pin pour la couleur verte\r\n#define BLUE_PIN 12 // Pin pour la couleur bleue\r\n\n#define D0 2 // Pin de données pour la LED 0\r\n#define D1 3 // Pin de données pour la LED 1\r\n#define D2 4 // Pin de données pour la LED 2\r\n#define D3 5 // Pin de données pour la LED 3\r\n#define D4 6 // Pin de données pour la LED 4\r\n#define D5 7 // Pin de données pour la LED 5\r\n#define D6 8 // Pin de données pour la LED 6\r\n#define D7 9 // Pin de données pour la LED 7\r\n\nvoid setup() {\r\n// Configurer les broches de couleur comme sorties\r\npinMode(RED_PIN, OUTPUT);\r\npinMode(GREEN_PIN, OUTPUT);\r\npinMode(BLUE_PIN, OUTPUT);\r\n\n// Configurer les broches de données des LEDs comme sorties\r\npinMode(D0, OUTPUT);\r\npinMode(D1, OUTPUT);\r\npinMode(D2, OUTPUT);\r\npinMode(D3, OUTPUT);\r\npinMode(D4, OUTPUT);\r\npinMode(D5, OUTPUT);\r\npinMode(D6, OUTPUT);\r\npinMode(D7, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n// Exemple : Fixer toutes les LEDs à rouge\r\nsetColor(255, 0, 0); // Fixer toutes les LEDs à rouge\r\ndelay(1000); // Attendre 1 seconde\r\n\n// Exemple : Fixer toutes les LEDs à vert\r\nsetColor(0, 255, 0); // Fixer toutes les LEDs à vert\r\ndelay(1000); // Attendre 1 seconde\r\n\n// Exemple : Fixer toutes les LEDs à bleu\r\nsetColor(0, 0, 255); // Fixer toutes les LEDs à bleu\r\ndelay(1000); // Attendre 1 seconde\r\n\n// Cycle à travers les couleurs\r\nfor (int i = 0; i < 256; i++) {\r\nsetColor(i, 255 - i, 0); // Changer les couleurs progressivement\r\ndelay(10); // Attendre 10 millisecondes\r\n}\r\n\n// Effet de fondu\r\nfor (int i = 0; i < 256; i++) {\r\nsetColor(i, i, i); // Fondu entrant\r\ndelay(10); // Attendre 10 millisecondes\r\n}\r\nfor (int i = 255; i >= 0; i--) {\r\nsetColor(i, i, i); // Fondu sortant\r\ndelay(10); // Attendre 10 millisecondes\r\n}\r\n\n// Effet arc-en-ciel\r\nfor (int i = 0; i < 256; i++) {\r\nint r = sin(i * 0.01) * 127 + 128;\r\nint g = sin(i * 0.01 + 2) * 127 + 128;\r\nint b = sin(i * 0.01 + 4) * 127 + 128;\r\nsetColor(r, g, b); // Effet arc-en-ciel\r\ndelay(10); // Attendre 10 millisecondes\r\n}\r\n\n// Effet de respiration\r\nfor (int i = 0; i < 256; i++) {\r\nint r = sin(i * 0.01) * 127 + 128;\r\nint g = sin(i * 0.01) * 127 + 128;\r\nint b = sin(i * 0.01) * 127 + 128;\r\nsetColor(r, g, b); // Effet de respiration\r\ndelay(10); // Attendre 10 millisecondes\r\n}\r\nfor (int i = 255; i >= 0; i--) {\r\nint r = sin(i * 0.01) * 127 + 128;\r\nint g = sin(i * 0.01) * 127 + 128;\r\nint b = sin(i * 0.01) * 127 + 128;\r\nsetColor(r, g, b); // Effet de respiration sortant\r\ndelay(10); // Attendre 10 millisecondes\r\n}\r\n}\r\n\n// Fonction pour définir la couleur pour toutes les LEDs\r\nvoid setColor(int red, int green, int blue) {\r\nanalogWrite(RED_PIN, red);\r\nanalogWrite(GREEN_PIN, green);\r\nanalogWrite(BLUE_PIN, blue);\r\n}\n\nExplication détaillée du code\n\nDéfinition des broches :\n\n#define RED_PIN 10, #define GREEN_PIN 11, #define BLUE_PIN 12 : Définit les broches pour les couleurs rouge, verte et bleue.\n\n#define D0 2 à #define D7 9 : Définit les broches pour chaque LED.\n\nConfiguration des broches dans setup() :\n\npinMode(RED_PIN, OUTPUT), pinMode(GREEN_PIN, OUTPUT), pinMode(BLUE_PIN, OUTPUT) : Configure les broches de couleurs comme sorties.\n\npinMode(D0, OUTPUT) à pinMode(D7, OUTPUT) : Configure les broches pour chaque LED comme sorties.\n\nBoucle principale loop() :\n\nsetColor(255, 0, 0), setColor(0, 255, 0), setColor(0, 0, 255) : Définit les couleurs rouge, verte et bleue pour toutes les LEDs.\n\nfor (int i = 0; i < 256; i++) : Cycle à travers les couleurs en utilisant la fonction setColor.\n\nFonction setColor() :\n\nanalogWrite(RED_PIN, red), analogWrite(GREEN_PIN, green), analogWrite(BLUE_PIN, blue) : Écrit les valeurs de couleurs pour les broches de couleurs.\n\nDétails de chaque section\n\nInclusion des broches :\n\nLes broches pour les couleurs sont définies pour connecter le module aux broches PWM de l’Arduino, permettant le contrôle de l’intensité des couleurs.\n\nSetup :\n\nConfigure les broches définies comme sorties pour permettre le contrôle des LEDs et des couleurs.\n\nLoop :\n\nLa boucle principale change les couleurs des LEDs à des intervalles réguliers et crée divers effets lumineux comme le changement de couleurs, les fondus, l’effet arc-en-ciel, et l’effet de respiration.\n\nFonction setColor :\n\nCette fonction utilise analogWrite pour envoyer des valeurs PWM aux broches de couleurs, permettant de régler l’intensité de chaque couleur (rouge, vert, bleu) et de créer une large gamme de couleurs.\n\nBrochage\n\nVCC → Arduino 5V\n\nGND → Arduino GND\n\nD0 → Arduino Pin 2\n\nD1 → Arduino Pin 3\n\nD2 → Arduino Pin 4\n\nD3 → Arduino Pin 5\n\nD4 → Arduino Pin 6\n\nD5 → Arduino Pin 7\n\nD6 → Arduino Pin 8\n\nD7 → Arduino Pin 9\n\nR → Arduino PWM Pin 10\n\nB → Arduino PWM Pin 11\n\nG → Arduino PWM Pin 12\n\nFiche technique\n\nMots clés: light, LED RGB, Module LED, Arduino, Éclairage, Couleur, DIY, PWM, Arduino tutorial, RGB LED module color.",
+     "short_description": "Module LED RGB 5050 à 8 LED permettant de créer des effets de lumière colorée avec Arduino. Idéal pour les projets de décoration, d’affichage et de signalisation."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/175-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2932",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BH1750FVI Module Capteur d’Intensité de Lumière Numérique",
+     "description": "Module Capteur d’Intensité de Lumière Numérique BH1750FVI\n\nLe module capteur d’intensité de lumière numérique BH1750FVI est un capteur de lumière ambiante numérique qui utilise l’interface I2C pour communiquer. Ce capteur peut mesurer la luminosité en lux (lx) dans une gamme de 1 à 65535 lx, ce qui le rend idéal pour ajuster la luminosité des écrans de téléphones mobiles, d’écrans LCD, ainsi que pour contrôler les phares des voitures en fonction de l’éclairage extérieur.\n\nCaractéristiques en détails\n\nTension de fonctionnement : 3V à 5V\n\nGamme de mesure : 1 à 65535 lx\n\nConsommation de courant : 0.12 mA\n\nInterface de communication : I2C\n\nPrécision : ±20%\n\nSpectre de détection : Sensibilité maximale à 560 nm (spectre visible à l’œil humain)\n\nRejet de bruit lumineux : 50/60Hz\n\nCompatibilité : Compatible avec les microcontrôleurs utilisant une logique de 3.3V ou 5V\n\nFonctionnement\n\nLe BH1750FVI mesure l’intensité lumineuse incidente et convertit cette valeur en un nombre numérique 16 bits. Le capteur fournit directement la valeur de lux par l’intermédiaire de l’interface I2C, ce qui facilite son utilisation avec les microcontrôleurs comme Arduino. La sortie est directement lisible en lux, évitant ainsi tout calcul supplémentaire.\n\nApplications\n\nAjustement de la luminosité des écrans de téléphones mobiles et d’écrans LCD\n\nContrôle des phares des voitures en fonction de la luminosité ambiante\n\nCapteurs de lumière ambiante pour contrôler la luminosité des écrans\n\nApplications domotiques pour mesurer l’intensité lumineuse ambiante\n\nBrochage\n\nVCC : Alimentation (3.3V ou 5V)\n\nGND : Masse\n\nSDA : Ligne de données pour I2C\n\nSCL : Ligne de l’horloge pour I2C\n\nADDR : Sélection de l’adresse I2C (par défaut LOW = 0x23, HIGH = 0x5C)\n\nComment l’utiliser\n\nLe capteur BH1750FVI est simple à utiliser grâce à son interface I2C. Connectez simplement les broches du capteur à votre microcontrôleur, puis utilisez une bibliothèque comme la bibliothèque BH1750 pour lire les valeurs de luminosité en lux.\n\nComment l’utiliser avec Arduino:\n\nCode Arduino de base\n\n#include <Wire.h>\r\n#include <BH1750.h>\r\n\nBH1750 lightMeter;\r\n\nvoid setup(){\r\n  Serial.begin(9600); // Initialiser la communication série\r\n  Wire.begin(); // Initialiser la communication I2C\r\n  lightMeter.begin(); // Initialiser le capteur BH1750\r\n  Serial.println(\"BH1750 Test\"); // Message de test\r\n}\r\n\nvoid loop() {\r\n  float lux = lightMeter.readLightLevel(); // Lire la valeur de luminosité\r\n  Serial.print(\"Light: \");\r\n  Serial.print(lux);\r\n  Serial.println(\" lx\");\r\n  delay(1000); // Attendre 1 seconde avant la prochaine lecture\r\n}\n\nBut du code\n\nCe code initialise le capteur BH1750 et lit les valeurs de luminosité en lux toutes les secondes, affichant les résultats dans le Moniteur Série de l’Arduino.\n\nComposants nécessaires pour le code de base\n\nArduino Uno\n\nModule capteur d’intensité de lumière BH1750FVI\n\nFils de connexion\n\nExplication détaillée du code\n\nInclusion des bibliothèques :\n\n#include <Wire.h> : Inclut la bibliothèque Wire pour la communication I2C.\n\n#include <BH1750.h> : Inclut la bibliothèque BH1750 pour interagir avec le capteur.\n\nInitialisation dans setup() :\n\nSerial.begin(9600); : Initialise la communication série à 9600 bauds.\n\nWire.begin(); : Initialise la bibliothèque Wire pour la communication I2C.\n\nlightMeter.begin(); : Initialise le capteur BH1750.\n\nBoucle principale loop() :\n\nfloat lux = lightMeter.readLightLevel(); : Lit la valeur de la luminosité en lux.\n\nSerial.print(\"Light: \"); Serial.print(lux); Serial.println(\" lx\"); : Affiche la valeur lue dans le Moniteur Série.\n\ndelay(1000); : Attendre une seconde avant de lire à nouveau.\n\nBrochage détaillé\n\nVCC : Connecté au +5V de l’Arduino\n\nGND : Connecté à la masse (GND) de l’Arduino\n\nSDA : Connecté à la broche A4 de l’Arduino\n\nSCL : Connecté à la broche A5 de l’Arduino\n\nCode Arduino avancé\n\nCe code utilise un écran LCD I2C 1602 pour afficher les valeurs de luminosité en lux.\n\n#include <Wire.h>\r\n#include <BH1750.h>\r\n#include <LiquidCrystal_I2C.h>\r\n\n// Initialiser le capteur BH1750\r\nBH1750 lightMeter;\r\n\n// Initialiser l'écran LCD I2C à l'adresse 0x27 avec 16 colonnes et 2 lignes\r\nLiquidCrystal_I2C lcd(0x27, 16, 2);\r\n\nvoid setup(){\r\n  Serial.begin(9600); // Initialiser la communication série\r\n  Wire.begin(); // Initialiser la communication I2C\r\n  lightMeter.begin(BH1750::CONTINUOUS_HIGH_RES_MODE); // Initialiser le capteur en mode haute résolution continue\r\n  lcd.begin(); // Initialiser l'écran LCD\r\n  lcd.backlight(); // Allumer le rétroéclairage de l'écran LCD\r\n  lcd.print(\"BH1750 Test\"); // Message de test\r\n  Serial.println(\"BH1750 Advanced Test\"); // Message de test pour le Moniteur Série\r\n}\r\n\nvoid loop() {\r\n  float lux = lightMeter.readLightLevel(); // Lire la valeur de luminosité\r\n  lcd.setCursor(0, 0); // Positionner le curseur à la première ligne\r\n  lcd.print(\"Light: \"); // Afficher le texte \"Light:\" sur l'écran LCD\r\n  lcd.setCursor(0, 1); // Positionner le curseur à la deuxième ligne\r\n  lcd.print(lux); // Afficher la valeur de luminosité sur l'écran LCD\r\n  lcd.print(\" lx\"); // Afficher l'unité de mesure \"lx\"\r\n  Serial.print(\"Light: \");\r\n  Serial.print(lux);\r\n  Serial.println(\" lx\");\r\n  delay(500); // Attendre 500 ms avant la prochaine lecture\r\n}\n\nExplication détaillée du code avancé\n\nInclusion des bibliothèques :\n\n#include <Wire.h> : Inclut la bibliothèque Wire pour la communication I2C.\n\n#include <BH1750.h> : Inclut la bibliothèque BH1750 pour interagir avec le capteur.\n\n#include <LiquidCrystal_I2C.h> : Inclut la bibliothèque LiquidCrystal_I2C pour contrôler l’écran LCD.\n\nInitialisation dans setup() :\n\nSerial.begin(9600); : Initialise la communication série à 9600 bauds.\n\nWire.begin(); : Initialise la bibliothèque Wire pour la communication I2C.\n\nlightMeter.begin(BH1750::CONTINUOUS_HIGH_RES_MODE); : Initialise le capteur BH1750 en mode haute résolution continue.\n\nlcd.begin(); : Initialise l’écran LCD.\n\nlcd.backlight(); : Allume le rétroéclairage de l’écran LCD.\n\nlcd.print(\"BH1750 Test\"); : Affiche un message de test sur l’écran LCD.\n\nSerial.println(\"BH1750 Advanced Test\"); : Affiche un message de test dans le Moniteur Série.\n\nBoucle principale loop() :\n\nfloat lux = lightMeter.readLightLevel(); : Lit la valeur de la luminosité en lux.\n\nlcd.setCursor(0, 0); lcd.print(\"Light: \"); : Affiche le texte “Light:” sur l’écran LCD.\n\nlcd.setCursor(0, 1); lcd.print(lux); lcd.print(\" lx\"); : Affiche la valeur de luminosité sur l’écran LCD.\n\nSerial.print(\"Light: \"); Serial.print(lux); Serial.println(\" lx\"); : Affiche la valeur de luminosité dans le Moniteur Série.\n\ndelay(500); : Attendre 500 millisecondes avant de lire à nouveau.\n\nBrochage détaillé\n\nCapteur BH1750FVI\n\nVCC → Arduino 5V\n\nGND → Arduino GND\n\nSDA → Arduino A4\n\nSCL → Arduino A5\n\nÉcran LCD I2C 1602\n\nVCC → Arduino 5V\n\nGND → Arduino GND\n\nSDA → Arduino A4 (partagée avec le capteur BH1750)\n\nSCL → Arduino A5 (partagée avec le capteur BH1750)\n\nMots clés: intensity, light, luminosity, digital, sensor.",
+     "short_description": "Module Capteur d’Intensité de Lumière Numérique BH1750FVI.\n\nAlimentation: 3-5 v\n\nHaute précision de 1 lux pour une large gamme de luminosité\n\nLe capteur construit de 16bit convertisseur AD.\n\nSortie numérique directe,\n\nTaille: 13.9mm X 18.5mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/176-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2933",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BMP280 Module Capteur de Pression Haute Précision",
+     "description": "Module Capteur de Pression Haute Précision BMP280\n\nLe module BMP280 est un capteur de pression atmosphérique de haute précision conçu par Bosch. Il peut mesurer à la fois la pression barométrique et la température ambiante avec une grande précision. Ce capteur est disponible en deux versions : une version avec 6 broches et une autre avec 4 broches. Il peut être utilisé dans une variété d’applications, notamment la météorologie, la navigation GPS et les stations météorologiques domestiques.\n\nCaractéristiques en détails\n\nGamme de mesure de la pression : 300 hPa à 1100 hPa\n\nPrécision de la pression : ±1 hPa\n\nGamme de mesure de la température : -40°C à +85°C\n\nPrécision de la température : ±1.0°C\n\nInterface : I2C (jusqu’à 3.4 MHz) ou SPI (jusqu’à 10 MHz)\n\nTension de fonctionnement (I2C) : 1.71V à 3.6V (intégré avec régulateur 5V)\n\nTension de fonctionnement (SPI) : 1.8V à 3.6V\n\nConsommation de courant : 2.7 µA en mode veille, 725 µA en mode actif\n\nDimensions du module : 11.5 mm x 15 mm (GY-BMP280)\n\nFonctionnement\n\nLe BMP280 utilise un capteur de pression MEMS pour mesurer la pression atmosphérique et la température. Il convertit les variations de pression en données numériques, qui peuvent ensuite être utilisées pour calculer l’altitude ou surveiller les changements météorologiques.\n\nApplications\n\nStations météorologiques\n\nAppareils GPS pour améliorer le temps de premier fix et la détection de pente\n\nNavigation intérieure (détection d’étages, d’ascenseurs)\n\nNavigation extérieure, loisirs et sports\n\nPrévisions météorologiques domestiques\n\nApplications de soins de santé\n\nIndication de vitesse verticale (montée/descente)\n\nJouets volants et montres connectées\n\nComment l’utiliser :\n\nLe module BMP280 est utilisé pour mesurer la pression atmosphérique et la température. Il peut être intégré dans des systèmes météorologiques, des appareils GPS, des systèmes de navigation intérieure, et des appareils de soins de santé pour des mesures précises de la pression et de la température. Pour les variantes I2C, le module inclut un régulateur intégré permettant l’utilisation avec une alimentation de 5V.\n\nComment l’utiliser avec Arduino Uno\n\nBrochage pour le Code Basique\n\nInterface I2C :\n\nVCC à 5V ou 3.3V sur l’Arduino.\n\nGND à la masse sur l’Arduino.\n\nSCL à A5 (SCL) sur l’Arduino.\n\nSDA à A4 (SDA) sur l’Arduino.\n\nExemple de Code Basique (I2C)\n\n#include <Wire.h>\r\n#include <Adafruit_Sensor.h>\r\n#include <Adafruit_BMP280.h>\r\n\n// Déclaration du capteur BMP280\r\nAdafruit_BMP280 bmp;\r\n\nvoid setup() {\r\n// Initialisation de la communication série\r\nSerial.begin(9600);\r\n\n// Vérification de la connexion avec le capteur\r\nif (!bmp.begin(0x76)) {\r\nSerial.println(F(\"Impossible de trouver le capteur BMP280, vérifiez les connexions !\"));\r\nwhile (1);\r\n}\r\n}\r\n\nvoid loop() {\r\n// Lecture de la température et affichage sur le moniteur série\r\nSerial.print(F(\"Température = \"));\r\nSerial.print(bmp.readTemperature());\r\nSerial.println(\" *C\");\r\n\n// Lecture de la pression et affichage sur le moniteur série\r\nSerial.print(F(\"Pression = \"));\r\nSerial.print(bmp.readPressure());\r\nSerial.println(\" Pa\");\r\n\n// Pause de 2 secondes entre les lectures\r\ndelay(2000);\r\n}\n\nBut du code : Ce code initialise le capteur BMP280 et lit la température et la pression, affichant les valeurs sur le moniteur série.\n\nComposants nécessaires :\n\nArduino Uno\n\nModule BMP280\n\nFils de connexion\n\nExplications détaillées du code :\n\nInclusion de la bibliothèque : #include <Wire.h>, #include <Adafruit_Sensor.h>, #include <Adafruit_BMP280.h> inclut les bibliothèques nécessaires pour le fonctionnement du capteur.\n\nDéclaration de l’objet capteur : Adafruit_BMP280 bmp; crée un objet pour interagir avec le BMP280.\n\nInitialisation dans setup() :\n\nSerial.begin(9600); initialise la communication série.\n\nbmp.begin(0x76) initialise le capteur BMP280 avec l’adresse I2C 0x76.\n\nSi le capteur n’est pas détecté, un message d’erreur est affiché et le programme s’arrête.\n\nBoucle principale loop() :\n\nbmp.readTemperature() lit la température et l’affiche sur le moniteur série.\n\nbmp.readPressure() lit la pression et l’affiche sur le moniteur série.\n\ndelay(2000); crée une pause de 2 secondes entre chaque lecture.\n\nBrochage pour le Code Avancé\n\nInterface I2C avec Afficheur LCD :\n\nVCC à 5V ou 3.3V sur l’Arduino.\n\nGND à la masse sur l’Arduino.\n\nSCL à A5 (SCL) sur l’Arduino.\n\nSDA à A4 (SDA) sur l’Arduino.\n\nVCC (LCD) à 5V sur l’Arduino.\n\nGND (LCD) à la masse sur l’Arduino.\n\nSCL (LCD) à A5 (SCL) sur l’Arduino.\n\nSDA (LCD) à A4 (SDA) sur l’Arduino.\n\nExemple de Code Avancé (I2C avec Afficheur LCD)\n\n#include <Wire.h>\r\n#include <Adafruit_Sensor.h>\r\n#include <Adafruit_BMP280.h>\r\n#include <LiquidCrystal_I2C.h>\r\n\n// Déclaration du capteur BMP280\r\nAdafruit_BMP280 bmp;\r\n\n// Adresse I2C du LCD (0x27 ou 0x3F selon votre module)\r\nLiquidCrystal_I2C lcd(0x27, 16, 2);\r\n\nvoid setup() {\r\n  // Initialisation de la communication série\r\n  Serial.begin(9600);\r\n\n  // Initialisation de l'afficheur LCD\r\n  lcd.begin();\r\n  lcd.backlight();\r\n  lcd.print(\"Initialisation\");\r\n\n  // Vérification de la connexion avec le capteur\r\n  if (!bmp.begin(0x76)) {\r\n    lcd.print(\"Erreur BMP280\");\r\n    Serial.println(F(\"Impossible de trouver le capteur BMP280, vérifiez les connexions !\"));\r\n    while (1);\r\n  }\r\n\n  // Affichage prêt\r\n  lcd.clear();\r\n  lcd.print(\"BMP280 Pret\");\r\n}\r\n\nvoid loop() {\r\n  // Effacer l'écran avant d'afficher les nouvelles valeurs\r\n  lcd.clear();\r\n\n  // Lecture de la température et affichage sur le LCD\r\n  lcd.setCursor(0, 0);\r\n  lcd.print(\"Temp: \");\r\n  lcd.print(bmp.readTemperature());\r\n  lcd.print(\" C\");\r\n\n  // Lecture de la pression et affichage sur le LCD\r\n  lcd.setCursor(0, 1);\r\n  lcd.print(\"Press: \");\r\n  lcd.print(bmp.readPressure() / 100);  // Diviser par 100 pour obtenir la pression en hPa\r\n  lcd.print(\" hPa\");\r\n\n  // Pause de 2 secondes entre les lectures\r\n  delay(2000);\r\n}\n\nBut du code : Ce code initialise le capteur BMP280 et un afficheur LCD I2C, puis lit la température et la pression, affichant les valeurs sur l’écran LCD.\n\nComposants nécessaires :\n\nArduino Uno\n\nModule BMP280\n\nAfficheur LCD I2C (16×2)\n\nFils de connexion\n\nExplications détaillées du code :\n\nInclusion de la bibliothèque : #include <Wire.h>, #include <Adafruit_Sensor.h>, #include <Adafruit_BMP280.h>, #include <LiquidCrystal_I2C.h> inclut les bibliothèques nécessaires pour le fonctionnement du capteur BMP280 et de l’afficheur LCD.\n\nDéclaration de l’objet capteur et de l’afficheur :\n\nAdafruit_BMP280 bmp; crée un objet pour interagir avec le BMP280.\n\nLiquidCrystal_I2C lcd(0x27, 16, 2); initialise l’afficheur LCD avec l’adresse I2C (0x27 ou 0x3F selon le module) et la taille (16 colonnes et 2 lignes).\n\nInitialisation dans setup() :\n\nSerial.begin(9600); initialise la communication série pour les messages de débogage.\n\nlcd.begin(); initialise l’afficheur LCD.\n\nlcd.backlight(); allume le rétroéclairage de l’afficheur.\n\nlcd.print(\"Initialisation\"); affiche un message de démarrage sur le LCD.\n\nbmp.begin(0x76) initialise le capteur BMP280 avec l’adresse I2C 0x76.\n\nSi le capteur n’est pas détecté, un message d’erreur est affiché sur le LCD et sur le moniteur série, et le programme s’arrête.\n\nSi le capteur est détecté, le message “BMP280 Pret” est affiché sur le LCD.\n\nBoucle principale loop() :\n\nlcd.setCursor(0, 0); positionne le curseur à la première ligne, première colonne de l’afficheur.\n\nlcd.print(\"Temp: \"); affiche le texte “Temp: ” sur le LCD.\n\nlcd.print(bmp.readTemperature()); lit la température du capteur et l’affiche sur le LCD.\n\nlcd.print(\" C\"); ajoute l’unité de température (Celsius) après la valeur.\n\nlcd.setCursor(0, 1); positionne le curseur à la deuxième ligne, première colonne de l’afficheur.\n\nlcd.print(\"Press: \"); affiche le texte “Press: ” sur le LCD.\n\nlcd.print(bmp.readPressure() / 100); lit la pression du capteur, la convertit en hPa (hectopascal) et l’affiche sur le LCD.\n\nlcd.print(\" hPa\"); ajoute l’unité de pression (hPa) après la valeur.\n\ndelay(2000); crée une pause de 2 secondes entre chaque lecture pour laisser le temps de voir les valeurs affichées.\n\nInstallation de Drivers/bibliothèques\n\nPour utiliser ce capteur avec Arduino, vous devez installer les bibliothèques Adafruit BMP280 et Adafruit Unified Sensor depuis le gestionnaire de bibliothèques de l’IDE Arduino. Pour l’afficheur LCD, installez la bibliothèque LiquidCrystal_I2C.\n\nBMP280 remplace l’ancien BMP180.\n\nMots clés: pressure, sensor, weather, Atmospheric méteo.",
+     "short_description": "Le module BMP280 mesure la pression atmosphérique et la température avec une grande précision, idéal pour les applications météorologiques et de navigation."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/177-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/177-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2960",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "433Mhz Module RF Émetteur + Récepteur",
+     "description": "Module RF Émetteur + Récepteur 433Mhz\n\nModule RF avec Récepteur et Émetteur sans fil 433mhz.\n\nRécepteur:\n\nModèle: MX-05V\n\nVoltage: DC 5V\n\nCourant: 4mA\n\nFréquence: 433.92MHZ\n\nSensibilité: -105DB\n\nDimension: 30*14*7mm\n\nÉmetteur:\n\nModéle: MX-FS-03V\n\nDistance de transmission: 20-200 Metres.\n\nVoltage: 3.5-12V\n\nDimension: 19*19mm\n\nMode: AM\n\nVitesse de transmission: 4KB/S\n\nPuissance de transmission: 10mW\n\nFréquence: 433M.\n\nMots clés: receiver, transmitter, wireless.",
+     "short_description": "Module RF avec Récepteur et Émetteur sans fil 433mhz"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/193-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2961",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HC05 Module Bluetooth HC-05",
+     "description": "Module Bluetooth HC-05\n\nModule bluetooth HC-05 pour communication sans fil, vous pouvez le connecter avec la plateforme Arduino en utilisant le port série pour envoyer et recevoir des informations.\n\nDoté d’un émetteur-récepteur radio de 2,4 GHz\n\nProtocole de communication : UART Bluetooth 2.0\n\nConforme RoHS\n\nLe niveau du port du module est 3.3v.\n\nLa tension d’entrée ne doit pas dépasser plus de 7 V.\n\nPrise en charge du débit en bauds standard 4800bps-1382bps.\n\nMots clés: wireless.",
+     "short_description": "Module bluetooth HC-05 pour communication sans fil, vous pouvez le connecter avec la plateforme Arduino en utilisant le port série pour envoyer et recevoir des informations.\n\nDoté d’un émetteur-récepteur radio de 2,4 GHz\n\nProtocole de communication : UART Bluetooth 2.0\n\nConforme RoHS\n\nLe niveau du port du module est 3.3v.\n\nLa tension d’entrée ne doit pas dépasser plus de 7 V.\n\nPrise en charge du débit en bauds standard 4800bps-1382bps."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/194-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2962",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HM-10 Module Bluetooth 4.0",
+     "description": "Module Bluetooth 4.0 HM-10\n\nModule Bluetooth 4.0 émetteur-récepteur TTL, permet à votre périphérique cible de communiquer avec vos dispositifs iPhone / iPAD, IOS ou Android. Il est facile à utiliser et entièrement encapsulé, vous pouvez le définir comme esclave ou maître.\n\nTension d’entrée: 3.6 – 6V\n\nFréquence: bande ISG 2,4 GHz.\n\nMéthode de modulation: GFSK (Gaussian Frequency Shift Keying).\n\nPuissance RF: ≤ 4dBm, classe 2.\n\nLa puissance peut être ajustée -23dbm, -6dbm, 0dbm, 6dbm, à travers une commande AT (AT + POWER).\n\nSensibilité: ≤-84dBm à 0,1% de BER.\n\nPortée: 60m max\n\nVitesse: 2.1Mbps (Max) / 160 kbps (Asynchrone), 1Mbps / 1Mbps (Max) (Synchrone).\n\nSécurité: service d’authentification et de cryptage:\n\nTempérature de fonctionnement: -5 ~ +65 degrés centigrades\n\nFlash: 256Kb\n\nPuissance: 0,5 mA pour veille, Active 8,5 mA,\n\nPrend en charge veille automatique.\n\nFonction de conversion de niveau intégrée.\n\nMots clés: wireless.",
+     "short_description": "Cette petite taille Bluetooth module émetteur-récepteur 4.0 TTL permet à votre périphérique cible communiquer avec vos dispositifs iPhone / iPAD, IOS ou Android.\n\nIl est facile à utiliser et entièrement encapsulé, vous pouvez le définir comme esclave ou maître."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/195-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7192",
+   "price": 38,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Usb TTL vers ESP8266 ESP-01 CH340",
+     "description": "Adaptateur Usb TTL vers ESP8266 ESP-01 CH340\n\nCe moduel est un adaptateur USB / programmateur pour les modèles ESP8266 de type ESP-01, peut être utilisé comme un port série WIFI. Il est commodément équipé d’un 2x4P embase femelle de 2,54 mm pour brancher l’ESP01, et configurez-le ou exécutez-le immédiatement. Le module est basé sur le bridget USB-UART CH340 de WCH qui est compatible avec toutes les plates-formes.\n\nRemarque: pour une utilisation avec la plate-forme Arduino ESP8266 et pour Arduino IDE il est nécessaire de changer manuellement l’état GPIO0 pour le mode de fonctionnement, afin d’obtenir un téléchargement entièrement automatique.\n\nDriver\n\nMots clés: adapter, wireless, serial, programmer.",
+     "short_description": "Ce moduel est un adaptateur USB / programmateur pour les modèles ESP8266 de type ESP-01, peut être utilisé comme un port série WIFI. Il est commodément équipé d’un 2x4P embase femelle de 2,54 mm pour brancher l’ESP01."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/87-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/87-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/87-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2965",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "NRF24L01 Module Émetteur-Récepteur 2.4Ghz",
+     "description": "Module NRF24L01 Émetteur-Récepteur 2.4Ghz\n\nLe module nRF24L01 est un émetteur-récepteur (= transceiver) RF 2.4 GHz à très basse consommation et très faible coût, permettant de réaliser une liaison sans fil 2,4 GHz. Il communique avec le microcontrôleur (Arduino ou compatible) via le bus SPI. Qui convient particulièrement bien pour les applications DIY. Il fonctionne avec une tension d’alimentation de 3.3 V, mais ses signaux sont tolérants au 5 V et peut donc être utilisé avec un Arduino Uno par exemple.\n\nFréquence : 2.4 GHz\n\nTension d’alimentation : 1.9 à 3.6 V\n\nInterface SPI jusqu’à 10 Mb/s (tolérant 5 V)\n\nVitesses de transmission : 1 Mb/s et 2 Mb/s\n\nTrès basse consommation (plusieurs mois, voire années avec une pile bouton ou des piles AA/AAA). 900 nA deep sleep mode. 13.3 mA Radio RX at 2 Mb/s on-air data-rate.\n\nPeut être utilisé avec des microcontrôleurs très basiques comme l’ATtiny\n\nPortée : quelques mètres (30 métres max en plein air) avec une antenne PCB (modèle présenté ici) et jusqu’à un kilomètre avec une antenne externe.\n\nProtocole propriétaire Enhanced ShockBurst™ qui permet la communication bidirectionnelle avec mise en mémoire tampon des paquets de données, confirmation des paquets reçus et retransmission automatique des paquets perdus.\n\nMots clés: wireless.",
+     "short_description": "Le module nRF24L01 est un émetteur-récepteur (= transceiver) RF 2.4 GHz à très basse consommation et très faible coût, permettant de réaliser une liaison sans fil 2,4 GHz. Il communique avec le microcontrôleur (Arduino ou compatible) via le bus SPI. Qui convient particulièrement bien pour les applications DIY. Il fonctionne avec une tension d’alimentation de 3.3 V, mais ses signaux sont tolérants au 5 V et peut donc être utilisé avec un Arduino Uno par exemple."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/197-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8110",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur Usb TTL vers NRF24L01 CH340",
+     "description": "Adaptateur Usb TTL vers NRF24L01 CH340\n\nCe moduel est un adaptateur Usb TTL série vers NRF24L01 à base de CH340, vous permettant ainsi d’utiliser facilement votre ordinateur pour effectuer le débogage de NRF24L01. Le module sans fil NRF24L01 peut être directement branché sur l’en-tête à broche sans aucun fil de connexion.\n\nCaractéristiques:\n\nTension de fonctionnement: 4.5V ~ 5.5V (régulateur LDO 3.3v embarqué)\n\nCourant de fonctionnement: 150mA\n\nPuce USB vers série TTL: CH340T\n\nNiveau logique: 3.3V\n\nApplications: domotique, réseaux de capteurs, commande industrielle sans fil.\n\nMots clés: adapter, wireless, serial, programmer.",
+     "short_description": "Ce moduel est un adaptateur Usb TTL série vers NRF24L01 à base de CH340, vous permettant ainsi d’utiliser facilement votre ordinateur pour effectuer le débogage de NRF24L01."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/237-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2966",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "NRF24L01 Module Émetteur-Récepteur 2.4Ghz + Antenne",
+     "description": "Module NRF24L01 Émetteur-Récepteur 2.4Ghz + Antenne\n\nLe module nRF24L01 est un émetteur-récepteur (= transceiver) RF 2.4 GHz à très basse consommation et très faible coût, avec Antenne pour augementer la portée de communication jusqu’à un kilomètre 1000 métres. Permettant de réaliser une liaison sans fil 2,4 GHz. Il communique avec le microcontrôleur (Arduino ou compatible) via le bus SPI. Qui convient particulièrement bien pour les applications DIY. Il fonctionne avec une tension d’alimentation de 3.3 V, mais ses signaux sont tolérants au 5 V et peut donc être utilisé avec un Arduino Uno par exemple.\n\nFréquence : 2.4 GHz\n\nTension d’alimentation : 1.9 à 3.6 V\n\nInterface SPI jusqu’à 10 Mb/s (tolérant 5 V)\n\nVitesses de transmission : 1 Mb/s et 2 Mb/s\n\nTrès basse consommation (plusieurs mois, voire années avec une pile bouton ou des piles AA/AAA). 900 nA deep sleep mode. 13.3 mA Radio RX at 2 Mb/s on-air data-rate.\n\nPeut être utilisé avec des microcontrôleurs très basiques comme l’ATtiny\n\nPortée : Jusqu’à un kilomètre 1000 métres en plein air.\n\nProtocole propriétaire Enhanced ShockBurst™ qui permet la communication bidirectionnelle avec mise en mémoire tampon des paquets de données, confirmation des paquets reçus et retransmission automatique des paquets perdus.\n\nMots clés: wireless, transceiver.",
+     "short_description": "Le module nRF24L01 est un émetteur-récepteur (= transceiver) RF 2.4 GHz à très basse consommation et très faible coût, avec Antenne pour augementer la portée de communication jusqu’à un kilomètre 1000 métres. Permettant de réaliser une liaison sans fil 2,4 GHz. Il communique avec le microcontrôleur (Arduino ou compatible) via le bus SPI. Qui convient particulièrement bien pour les applications DIY. Il fonctionne avec une tension d’alimentation de 3.3 V, mais ses signaux sont tolérants au 5 V et peut donc être utilisé avec un Arduino Uno par exemple."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/198-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/198-1.png"
+   ]
+  }
+ ]
+}

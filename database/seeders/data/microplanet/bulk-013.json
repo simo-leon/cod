@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-21064",
+   "price": 140,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PIC18F4550 Microcontrôleur 48Mhz 32KB",
+     "description": "PIC18F4550 Microcontrôleur 48Mhz 32KB\n\nLe microcontrôleur PIC18F4550 est un puissant microcontrôleur 8 bits de Microchip, offrant des fonctionnalités avancées et une haute performance pour diverses applications embarquées. Il est idéal pour les projets nécessitant des capacités de traitement, de communication USB et de stockage flash.\n\nCaractéristiques:\n\nMicrocontrôleur: PIC18F4550\n\nFréquence d’horloge: Jusqu’à 48 MHz\n\nMémoire Flash: 32 KB\n\nMémoire RAM: 2 KB\n\nPériphériques: USB 2.0, SPI, I2C, UART, CAN\n\nBroches I/O: 35 broches\n\nTimer: 4 timers 8 bits/16 bits\n\nCanaux ADC: 10 bits, jusqu’à 13 canaux\n\nComment ça marche:\n\nLe PIC18F4550 fonctionne en exécutant des instructions depuis sa mémoire flash, traitant des données en RAM et interagissant avec des périphériques via ses nombreuses interfaces I/O. Il supporte la communication USB 2.0, permettant une connexion directe à des ordinateurs pour des applications variées.\n\nApplications:\n\nDéveloppement de périphériques USB\n\nAutomatisation industrielle\n\nSystèmes embarqués\n\nProjets de robotique\n\nInterfaces utilisateur\n\nComment l’utiliser:\n\nProgrammation: Utilisez un programmateur PIC compatible (comme le PICkit 3) et l’IDE MPLAB pour programmer le microcontrôleur.\n\nAlimentation: Connectez une source de 5V DC à la broche Vdd et la masse à la broche Vss.\n\nConnexion: Utilisez les broches I/O pour connecter des capteurs, actuateurs et autres périphériques.\n\nDéveloppement: Écrivez et téléchargez votre code via l’IDE MPLAB, en utilisant les bibliothèques appropriées pour les périphériques utilisés.\n\nBrochage: Voici un schéma de brochage pour le PIC18F4550 (DIP 40):\n\nVdd: Broches 11 et 32\n\nVss: Broches 12 et 31\n\nOSC1/CLKI: Broche 13\n\nOSC2/CLKO: Broche 14\n\nMCLR/Vpp: Broche 1\n\nUSB D+: Broche 15\n\nUSB D-: Broche 16\n\nADC: Broches AN0 à AN12\n\nUART TX/RX: Broches 25 et 26 (RC6 et RC7)\n\nFiche technique\n\nMots clés: pic, développement, programmation, flash, microchip.",
+     "short_description": "PIC18F4550 Microcontrôleur 48Mhz 32KB."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/48-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2801",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ATMega32 Microcontrôleur 16Mhz 32KB",
+     "description": "Microcontrôleur ATMega32\n\nLe microcontrôleur ATMega32 est un composant puissant et flexible, largement utilisé dans les projets de développement électronique et les systèmes embarqués. Il offre une grande capacité de traitement et une variété de fonctionnalités intégrées.\n\nCaractéristiques:\n\nMicrocontrôleur: ATMega32\n\nFréquence d’horloge: Jusqu’à 16 MHz\n\nMémoire Flash: 32 KB\n\nMémoire EEPROM: 1 KB\n\nMémoire SRAM: 2 KB\n\nBroches I/O: 32 entrées/sorties\n\nBlocs de minuterie: 3 (2x 8 bits, 1x 16 bits)\n\nInterfaces: UART, SPI, I2C\n\nCanaux ADC: 8 canaux 10 bits\n\nBoîtier: DIP 40 broches\n\nComment ça marche:\n\nLe microcontrôleur ATMega32 exécute des instructions à partir de sa mémoire flash, traite des données en SRAM et interagit avec des périphériques via ses nombreuses broches I/O. Il peut être programmé et reprogrammé pour divers projets électroniques.\n\nApplications:\n\nProjets éducatifs en électronique\n\nSystèmes embarqués et de prototypage\n\nAutomatisation et contrôle industriel\n\nProjets de robotique\n\nInterfaces utilisateur\n\nComment l’utiliser:\n\nProgrammation: Utilisez un programmateur AVR compatible (comme le USBasp) et l’IDE Atmel Studio pour programmer le microcontrôleur.\n\nAlimentation: Connectez une source de 5V DC à la broche Vcc et la masse à la broche GND.\n\nConnexion: Utilisez les broches I/O pour connecter des capteurs, actuateurs et autres périphériques.\n\nDéveloppement: Écrivez et téléchargez votre code via l’IDE Atmel Studio, en utilisant les bibliothèques appropriées pour les périphériques utilisés.\n\nBrochage: Voici un schéma de brochage pour l’ATMega32 (DIP 40):\n\nVcc: Broche 10\n\nGND: Broches 11 et 31\n\nRESET: Broche 9\n\nXTAL1: Broche 12\n\nXTAL2: Broche 13\n\nADC: Broches 40 à 33 (PA0 à PA7)\n\nI/O: Broches 14 à 30 (PC0 à PC6, PD0 à PD7)\n\nFiche technique\n\nMots clés: atmel, avr, développement, programmation, flash.",
+     "short_description": "Microcontrôleur ATMega32, 16 MHz, 32 KB de mémoire flash, 32 broches I/O, idéal pour des projets de développement et de systèmes embarqués."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/51-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/51-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2803",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ATMEGA328 Microcontrôleur 20Mhz 32KB",
+     "description": "Microcontrôleur ATMega328\n\nLe microcontrôleur ATMega328 est un composant très populaire et puissant, largement utilisé dans les projets de développement électronique et les systèmes embarqués. Il offre une grande capacité de traitement et une variété de fonctionnalités intégrées, souvent utilisé dans les projets Arduino.\n\nCaractéristiques:\n\nMicrocontrôleur: ATMega328\n\nFréquence d’horloge: Jusqu’à 20 MHz\n\nMémoire Flash: 32 KB\n\nMémoire EEPROM: 1 KB\n\nMémoire SRAM: 2 KB\n\nBroches I/O: 23 entrées/sorties\n\nBlocs de minuterie: 3 (2x 8 bits, 1x 16 bits)\n\nInterfaces: UART, SPI, I2C\n\nCanaux ADC: 6 canaux 10 bits\n\nBoîtier: DIP 28 broches\n\nComment ça marche:\n\nLe microcontrôleur ATMega328 exécute des instructions à partir de sa mémoire flash, traite des données en SRAM et interagit avec des périphériques via ses nombreuses broches I/O. Il peut être programmé et reprogrammé pour divers projets électroniques.\n\nApplications:\n\nProjets éducatifs en électronique\n\nSystèmes embarqués et de prototypage\n\nAutomatisation et contrôle industriel\n\nProjets de robotique\n\nInterfaces utilisateur\n\nComment l’utiliser:\n\nProgrammation: Utilisez un programmateur AVR compatible (comme le USBasp) et l’IDE Arduino ou Atmel Studio pour programmer le microcontrôleur.\n\nAlimentation: Connectez une source de 5V DC à la broche Vcc et la masse à la broche GND.\n\nConnexion: Utilisez les broches I/O pour connecter des capteurs, actuateurs et autres périphériques.\n\nDéveloppement: Écrivez et téléchargez votre code via l’IDE Arduino ou Atmel Studio, en utilisant les bibliothèques appropriées pour les périphériques utilisés.\n\nBrochage: Voici un schéma de brochage pour l’ATMega328 (DIP 28):\n\nVcc: Broche 7 et 20\n\nGND: Broches 8 et 22\n\nRESET: Broche 1\n\nXTAL1: Broche 9\n\nXTAL2: Broche 10\n\nADC: Broches 23 à 28 (PC0 à PC5)\n\nI/O: Broches 2 à 6, 11 à 19\n\nTutoriel: Flasher le Bootloader Arduino Uno sur un ATMega328\n\nFlasher le bootloader Arduino sur un ATMega328 améliore la facilité d’utilisation, la flexibilité et la compatibilité avec l’écosystème Arduino, rendant le développement et la mise à jour des projets plus simples et plus efficaces.\n\nMatériel nécessaire:\n\n1x Arduino Uno (comme programmateur)\n\n1x ATMega328 (sans bootloader)\n\n1x Résistance de 10 kΩ\n\nCâbles de connexion\n\nBreadboard\n\nÉtapes:\n\nPréparation de l’Arduino Uno:\n\nOuvrez l’IDE Arduino.\n\nAllez dans Fichier > Exemples > 11. ArduinoISP > ArduinoISP.\n\nTéléversez le sketch sur votre Arduino Uno.\n\nConnexion des broches:\n\nConnectez le ATMega328 sur la breadboard.\n\nConnectez les broches comme suit:\n\nArduino Uno à ATMega328:\n\nPin 10 à Reset\n\nPin 11 à Pin 17 (MOSI)\n\nPin 12 à Pin 18 (MISO)\n\nPin 13 à Pin 19 (SCK)\n\n5V à Vcc (Pin 7 et 20)\n\nGND à GND (Pin 8 et 22)\n\nAjoutez une résistance de 10 kΩ entre Vcc et Reset sur le ATMega328.\n\nFlasher le bootloader:\n\nDans l’IDE Arduino, allez dans Outils > Type de carte et sélectionnez “Arduino Uno”.\n\nAllez dans Outils > Programmateur et sélectionnez “Arduino as ISP”.\n\nCliquez sur Outils > Graver la séquence d’initialisation.\n\nVérification:\n\nUne fois la gravure terminée, déconnectez le ATMega328 de la breadboard et insérez-le dans un Arduino Uno pour vérifier le bon fonctionnement.\n\nVotre ATMega328 est maintenant prêt à être utilisé comme un Arduino Uno!\n\nFiche technique\n\nMots clés: atmel, avr, développement, programmation, flash, arduino, ATMega328P.",
+     "short_description": "Microcontrôleur ATMega328, 20 MHz, 32 KB de mémoire flash, 23 broches I/O, idéal pour des projets de développement et de systèmes embarqués."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/52-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2804",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ATMega8 Microcontrôleur 16Mhz 8KB",
+     "description": "Microcontrôleur ATMega8\n\nLe microcontrôleur ATMega8 est un composant 8 bits polyvalent et économique, idéal pour les projets de développement électronique et les systèmes embarqués. Il offre une performance fiable et une variété de fonctionnalités intégrées.\n\nCaractéristiques:\n\nMicrocontrôleur: ATMega8\n\nFréquence d’horloge: Jusqu’à 16 MHz\n\nMémoire Flash: 8 KB\n\nMémoire EEPROM: 512 octets\n\nMémoire SRAM: 1 KB\n\nBroches I/O: 23 entrées/sorties\n\nBlocs de minuterie: 2 (8 bits) + 1 (16 bits)\n\nInterfaces: UART, SPI, I2C\n\nCanaux ADC: 6 canaux 10 bits\n\nBoîtier: DIP 28 broches\n\nComment ça marche:\n\nLe microcontrôleur ATMega8 exécute des instructions depuis sa mémoire flash, traite des données en SRAM et interagit avec des périphériques via ses nombreuses broches I/O. Il est programmable et reprogrammable pour divers projets électroniques.\n\nApplications:\n\nProjets éducatifs en électronique\n\nSystèmes embarqués et de prototypage\n\nAutomatisation et contrôle industriel\n\nProjets de robotique\n\nInterfaces utilisateur\n\nComment l’utiliser:\n\nProgrammation: Utilisez un programmateur AVR compatible (comme le USBasp) et l’IDE Atmel Studio pour programmer le microcontrôleur.\n\nAlimentation: Connectez une source de 5V DC à la broche Vcc et la masse à la broche GND.\n\nConnexion: Utilisez les broches I/O pour connecter des capteurs, actuateurs et autres périphériques.\n\nDéveloppement: Écrivez et téléchargez votre code via l’IDE Atmel Studio, en utilisant les bibliothèques appropriées pour les périphériques utilisés.\n\nBrochage: Voici un schéma de brochage pour l’ATMega8 (DIP 28):\n\nVcc: Broche 7 et 20\n\nGND: Broches 8 et 22\n\nRESET: Broche 1\n\nXTAL1: Broche 9\n\nXTAL2: Broche 10\n\nADC: Broches 23 à 28 (PC0 à PC5)\n\nI/O: Broches 2 à 6, 11 à 19\n\nFiche technique\n\nMots clés: atmel, avr, développement, programmation, flash.",
+     "short_description": "Microcontrôleur ATMega8, 16 MHz, 8 KB de mémoire flash, 23 broches I/O, idéal pour des projets de développement et de systèmes embarqués."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/53-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2812",
+   "price": 28,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PIC16F676 Microcontrôleur 20Mhz 1.75KB",
+     "description": "Microcontrôleur PIC16F676\n\nLe PIC16F676 est un microcontrôleur 8 bits CMOS avec une mémoire Flash de 1.75 KB, adapté pour des applications embarquées variées nécessitant une faible consommation d’énergie.\n\nCaractéristiques:\n\nMicrocontrôleur: PIC16F676\n\nFréquence d’horloge: Jusqu’à 20 MHz\n\nMémoire Flash: 1.75 KB\n\nMémoire RAM: 64 octets\n\nMémoire EEPROM: 128 octets\n\nBroches I/O: 12 broches\n\nBlocs de minuterie: 2 (8 bits)\n\nInterfaces: UART, SPI, I2C\n\nComparateurs: 1\n\nConvertisseur ADC: 10 bits, 8 canaux\n\nTension de fonctionnement: 2V à 5.5V\n\nComment ça marche:\n\nLe PIC16F676 exécute des instructions depuis sa mémoire flash, traite des données en RAM et interagit avec des périphériques via ses broches I/O. Il supporte la programmation en circuit (ICSP) et offre plusieurs modes de veille pour économiser l’énergie.\n\nApplications:\n\nProjets éducatifs en électronique\n\nSystèmes embarqués et de prototypage\n\nAutomatisation industrielle\n\nProjets de robotique\n\nInterfaces utilisateur\n\nComment l’utiliser:\n\nProgrammation: Utilisez un programmateur PIC compatible (comme le PICkit 3) et l’IDE MPLAB pour programmer le microcontrôleur.\n\nAlimentation: Connectez une source de 5V DC à la broche Vdd et la masse à la broche Vss.\n\nConnexion: Utilisez les broches I/O pour connecter des capteurs, actuateurs et autres périphériques.\n\nDéveloppement: Écrivez et téléchargez votre code via l’IDE MPLAB, en utilisant les bibliothèques appropriées pour les périphériques utilisés.\n\nBrochage: Voici un schéma de brochage pour le PIC16F676 (DIP 14):\n\nVdd: Broche 1\n\nVss: Broche 14\n\nOSC1/CLKI: Broche 2\n\nOSC2/CLKO: Broche 3\n\nMCLR/Vpp: Broche 4\n\nI/O: Broches 5 à 13\n\nFiche technique\n\nMots clés: pic, développement, programmation, flash, microchip.",
+     "short_description": "Microcontrôleur PIC16F676, 20 MHz, 1.75 KB de mémoire flash, 12 broches I/O, idéal pour des projets de développement et de systèmes embarqués."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/60-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2814",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PIC12F675 Microcontrôleur 20Mhz 1.75KB",
+     "description": "Microcontrôleurs PIC12F675\n\nLe PIC12F675 est un microcontrôleur 8 bits CMOS avec une mémoire Flash de 1.75 KB. Il est conçu pour des applications embarquées nécessitant une faible consommation d’énergie et une performance fiable.\n\nCaractéristiques:\n\nMicrocontrôleur: PIC12F675\n\nFréquence d’horloge: Jusqu’à 20 MHz\n\nMémoire Flash: 1.75 KB\n\nMémoire RAM: 64 octets\n\nMémoire EEPROM: 128 octets\n\nBroches I/O: 6 broches\n\nBlocs de minuterie: 1 (8 bits) et 1 (16 bits)\n\nInterfaces: UART, SPI, I2C\n\nComparateurs: 1\n\nConvertisseur ADC: 10 bits, 4 canaux\n\nTension de fonctionnement: 2V à 5.5V\n\nComment ça marche:\n\nLe PIC12F675 exécute des instructions depuis sa mémoire flash, traite des données en RAM et interagit avec des périphériques via ses broches I/O. Il supporte la programmation en circuit (ICSP) et offre plusieurs modes de veille pour économiser l’énergie.\n\nApplications:\n\nProjets éducatifs en électronique\n\nSystèmes embarqués et de prototypage\n\nAutomatisation industrielle\n\nProjets de robotique\n\nInterfaces utilisateur\n\nComment l’utiliser:\n\nProgrammation: Utilisez un programmateur PIC compatible (comme le PICkit 3) et l’IDE MPLAB pour programmer le microcontrôleur.\n\nAlimentation: Connectez une source de 5V DC à la broche Vdd et la masse à la broche Vss.\n\nConnexion: Utilisez les broches I/O pour connecter des capteurs, actuateurs et autres périphériques.\n\nDéveloppement: Écrivez et téléchargez votre code via l’IDE MPLAB, en utilisant les bibliothèques appropriées pour les périphériques utilisés.\n\nBrochage: Voici un schéma de brochage pour le PIC12F675 (DIP 8):\n\nVdd: Broche 1\n\nVss: Broche 8\n\nOSC1/CLKI: Broche 2\n\nOSC2/CLKO: Broche 3\n\nMCLR/Vpp: Broche 4\n\nI/O: Broches 5 à 7\n\nFiche technique\n\nMots clés: pic, développement, programmation, flash, microchip.",
+     "short_description": "Microcontrôleur PIC12F675, 20 MHz, 1.75 KB de mémoire flash, 6 broches I/O, idéal pour des projets de développement et de systèmes embarqués."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/62-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2816",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PIC12F683 Microcontrôleur 20Mhz 3.5KB",
+     "description": "Microcontrôleurs PIC12F683\n\nLe PIC12F683 est un microcontrôleur 8 bits CMOS avec une mémoire Flash de 3.5 KB. Il est conçu pour des applications embarquées nécessitant une faible consommation d’énergie et une performance fiable.\n\nCaractéristiques:\n\nMicrocontrôleur: PIC12F683\n\nFréquence d’horloge: Jusqu’à 20 MHz\n\nMémoire Flash: 3.5 KB\n\nMémoire RAM: 128 octets\n\nMémoire EEPROM: 256 octets\n\nBroches I/O: 6 broches\n\nBlocs de minuterie: 2 (8 bits)\n\nInterfaces: UART, SPI, I2C\n\nComparateurs: 1\n\nConvertisseur ADC: 10 bits, 4 canaux\n\nTension de fonctionnement: 2V à 5.5V\n\nComment ça marche:\n\nLe PIC12F683 exécute des instructions depuis sa mémoire flash, traite des données en RAM et interagit avec des périphériques via ses broches I/O. Il supporte la programmation en circuit (ICSP) et offre plusieurs modes de veille pour économiser l’énergie.\n\nApplications:\n\nProjets éducatifs en électronique\n\nSystèmes embarqués et de prototypage\n\nAutomatisation industrielle\n\nProjets de robotique\n\nInterfaces utilisateur\n\nComment l’utiliser:\n\nProgrammation: Utilisez un programmateur PIC compatible (comme le PICkit 3) et l’IDE MPLAB pour programmer le microcontrôleur.\n\nAlimentation: Connectez une source de 5V DC à la broche Vdd et la masse à la broche Vss.\n\nConnexion: Utilisez les broches I/O pour connecter des capteurs, actuateurs et autres périphériques.\n\nDéveloppement: Écrivez et téléchargez votre code via l’IDE MPLAB, en utilisant les bibliothèques appropriées pour les périphériques utilisés.\n\nBrochage: Voici un schéma de brochage pour le PIC12F683 (DIP 8):\n\nVdd: Broche 1\n\nVss: Broche 8\n\nOSC1/CLKI: Broche 2\n\nOSC2/CLKO: Broche 3\n\nMCLR/Vpp: Broche 4\n\nI/O: Broches 5 à 7\n\nFiche technique\n\nMots clés: pic, développement, programmation, flash, microchip.",
+     "short_description": "Microcontrôleur PIC12F683, 20 MHz, 3.5 KB de mémoire flash, 6 broches I/O, idéal pour des projets de développement et de systèmes embarqués."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/63-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2817",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AT24C256 Module I²C EEPROM 256Kbits",
+     "description": "Module I²C EEPROM AT24C256 256Kbits\n\nLe module EEPROM I²C AT24C256 de 256Kbits (32 Ko) est équipé d’un support DIP8 acceptant des mémoires séries I²C du type 24Cxxx. Livré avec une mémoire EEPROM ATMEL 24C256, ce module est idéal pour le stockage non volatile dans les projets électroniques.\n\nCaractéristiques:\n\nMémoire EEPROM: AT24C256\n\nCapacité: 256Kbits (32 Ko)\n\nInterface: I²C\n\nTension de fonctionnement: 2.5V à 5.5V\n\nBroches: 8 broches DIP\n\nComment ça marche:\n\nLe module utilise l’interface I²C pour la communication avec un microcontrôleur, permettant de lire et d’écrire des données non volatiles. L’EEPROM conserve les données même après la mise hors tension.\n\nApplications:\n\nStockage de paramètres de configuration\n\nEnregistrement de données pour des capteurs\n\nProjets éducatifs et prototypes\n\nComment l’utiliser:\n\nConnexion: Connectez les broches Vcc et GND pour l’alimentation. Connectez SDA et SCL aux broches correspondantes de votre microcontrôleur.\n\nProgrammation: Utilisez une bibliothèque I²C pour lire et écrire des données sur l’EEPROM.\n\nTest: Testez les fonctions de lecture et d’écriture avec un code exemple.\n\nBrochage:\n\nVcc: Broche 8\n\nGND: Broche 4\n\nSDA: Broche 5\n\nSCL: Broche 6\n\nMots clés: développement, programmation, flash, atmel, avr, memory, one wire, i2c.",
+     "short_description": "Module EEPROM I²C AT24C256 256Kbits, interface I²C, 8 broches DIP, stockage non volatile pour projets électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/64-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2819",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Oscillateurs à Quartz",
+     "description": "Oscillateurs à Quartz 32Khz-25Mhz\n\nLes oscillateurs à quartz couvrent une gamme de fréquences allant de 32KHz à 25MHz. Ils sont utilisés pour fournir une fréquence stable dans divers circuits électroniques.\n\nCaractéristiques:\n\nGamme de fréquences: 32KHz, 4MHz, 8MHz, 10MHz, 12MHz, 16MHz, 20MHz, 25MHz\n\nType: Oscillateurs à quartz\n\nApplication: Génération de fréquence stable\n\nComment ça marche:\n\nIl utilisent la résonance d’un cristal de quartz pour générer une fréquence précise et stable, utilisée pour synchroniser les opérations dans les circuits électroniques.\n\nApplications:\n\nHorloges en temps réel\n\nMicrocontrôleurs\n\nSystèmes de communication\n\nInstruments de mesure\n\nComment l’utiliser:\n\nConnexion: Soudez les deux broches de l’oscillateur sur le circuit imprimé.\n\nAlimentation: Fournissez la tension appropriée selon les spécifications.\n\nIntégration: Connectez les broches de sortie aux composants nécessitant une horloge stable.\n\nMots clés: crystal, cristal, résonateur, resonator, oscillator.",
+     "short_description": "Oscillateurs à Quartz de valeurs: 32Khz, 4Mhz, 8Mhz, 10Mhz, 12Mhz, 16Mhz, 20Mhz, 25Mhz."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/66-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24923",
+   "price": 260,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Programmateur MK2 USB ISP XP2 AVR",
+     "description": "Programmateur MK2 USB ISP XP2 AVR\n\nLe programmateur USB AVRISP MkII XP2 est un outil professionnel pour programmer en circuit les microcontrôleurs AVR. Il est compatible avec les interfaces ISP et PDI, prenant en charge une large gamme de microcontrôleurs AVR. Le programmateur utilise l’interface USB pour se connecter au PC, offrant une solution stable et fiable pour le développement de systèmes embarqués.\n\nAVRISP mkii XPII AVR ISP mk2 USB AVRISP programmateur intégré au système prend en charge AVR Studio 4 & 5 & 6 & 7. Prend en charge WIN10, mais lorsque vous utilisez WIN10, veuillez télécharger AVR Studio > 7.\n\nCompatibilité: Prend en charge tous les dispositifs AVR avec interface ISP ou PDI, y compris les XMEGA.\n\nInterface USB: USB 2.0 Full Speed (12 Mbps)\n\nSupport logiciel: Compatible avec AVR Studio 4/5/6/7 et WINAVR(GCC)\n\nFonctionnalités: Programmation des mémoires Flash et EEPROM, support des bits de verrouillage et des fusibles\n\nVitesse de programmation: Réglable jusqu’à 8 MHz\n\nAlimentation: Alimenté par le port USB, aucune alimentation externe nécessaire\n\nMise à jour du firmware: Prend en charge la mise à jour automatique du firmware pour les futurs appareils\n\nCâbles: Livré avec des câbles optionnels pour la connexion à la carte cible\n\nApplications:\n\nProgrammation et débogage de microcontrôleurs AVR\n\nDéveloppement et prototypage de systèmes embarqués\n\nMise à jour de firmware et réparation de matériel électronique\n\nLogiciels pris en charge: \n\nAVR Studio 6 ou WINAVR (GCC) est utilisé comme logiciel frontal\n\nPrend en charge les fichiers de programme générés par IAR, ICCAVR, CVAVR\n\nAppareil pris en charge:\n\nUSB AVRISP MKII prend en charge tous les appareils AVR avec interface ISP et PDI. La prise en charge de nouveaux appareils sera ajoutée avec les nouvelles versions d’AVR Studio.\n\nPrend en charge AT86RF401/AT89S51/AT89S52.\n\nUC3, Mega, SAM , Tiny, Xmega.\n\nSe connecter au PC:\n\nUtilise une interface USB pour la communication avec le logiciel frontal (probablement AVR Studio)\n\nUtilisation de PDIUSBD12, USB 1.1 (USB 2.0 pleine vitesse) 12 Mbits/seconde\n\nChaque USB AVRISP MKII a un identifiant unique, un PC peut se connecter à plusieurs appareils en même temps.\n\nConnexion au cible:\n\nL’USB AVRISP MKII se connecte à la carte cible via 3 câbles optionnels. Selon le connecteur existant sur la carte cible, le câble doit être changé en conséquence.\n\nConnecteur ISP Sandard à 6 broches, utilisant un câble ISP à 6 broches\n\nConnecteur ISP standard à 10 broches, utilisant un câble ISP 6 broches à 10 broches\n\nConnecteur ISP personnalisé, utilisant un câble de connecteur personnalisé multicolore à 6 fils\n\nLes figures 1 et 2 montrent les brochages des connecteurs ISP à 10 et 6 broches.\n\nAlimentation par le bus USB:\n\nBranche l’alimentation du bus USB, pas besoin d’alimentation supplémentaire.\n\nLa carte cible doit être alimentée par une autre alimentation.\n\nBrochage:\n\nConnecteur ISP:\n\nVCC: Alimentation 5V\n\nGND: Masse\n\nMOSI: Master Out Slave In\n\nMISO: Master In Slave Out\n\nSCK: Serial Clock\n\nRESET: Reset du microcontrôleur\n\nMots clés: programer, flash, eeprom, chip, edid, memory, reader,iic, i2c, bios, mcu, fpga.",
+     "short_description": "Programmateur USB AVRISP MkII XP2, supporte les interfaces ISP et PDI pour les microcontrôleurs AVR, interface USB 2.0, idéal pour le développement de systèmes embarqués."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/04/86-1.png"
+   ]
+  }
+ ]
+}

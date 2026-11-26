@@ -1,0 +1,198 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-23811",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HX711 Module Capteur de Force / Poids",
+     "description": "HX711 Module Capteur de Force / Poids\n\nModule capteur de force / poids HX711, à base de HX711, un convertisseur analogique / numérique à 24 bits de précision, conçu pour les applications de pesée et de contrôle industriel, à interfacer directement avec un capteur à base de pont comme des cellules de charge.\n\nTemps de réponse rapide\n\nHaute précision de 24 bits\n\nDeux canaux d’entrée différentiels sélectionnables\n\nPGA actif à faible bruit sur puce avec gain sélectionnable de 32, 64 et 128\n\nRégulateur de tension sur puce pour l’alimentation de cellule de charge et ADC analogique\n\nOscillateur sur puce ne nécessitant aucun composant externe avec cristal externe en option\n\nPower-on-chip Reset sur la puce\n\nCommande numérique simple et interface série: commandes pilotées par broche, aucune programmation nécessaire\n\nDébit de données de sortie sélectionnable 10SPS ou 80SPS\n\nRejet simultané de l’alimentation 50 et 60Hz\n\nConnection:\n\nRouge vers E+\n\nNoire vers E-\n\nVert vers A+\n\nBlanc vers A-\n\nCaractéristiques:\n\nTension d’alimentation: 2.6 ~ 5.5V\n\nLa consommation: fonctionnement normal <1.5mA, veille <1uA\n\nSignale de sortie: 1.0 + – 0.15mV / V\n\nRépétabilité: 0,03% FS\n\nFluage (5 minutes): 0,03% FS\n\nEffet de la température sur la sortie: 0.01% F.S / C\n\nEffet de la température sur le zéro: 0,05% F.S / C\n\nZéro balance: + – 0,1 mV / V\n\nImpédance d’entrée: 1115 + -10%\n\nImpédance de sortie: 1000 + – 10%\n\nRésistance d’isolation:> = 1000 M\n\nTaux de surcharge de sécurité: 150% FS\n\nTaux de surcharge ultime: 200% FS\n\nMatériel: alliage d’aluminium\n\nClasse de protection: IP65\n\nTempérature de fonctionnement: -20 degrés ~ +85 degrés\n\nMots clés: weight, sensor, load, cell.",
+     "short_description": "Module capteur de force / poids HX711, à base de HX711."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/01/226-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-23815",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cellule de Charge 20Kg, Capteur de Poids",
+     "description": "Cellule de Charge 20Kg, Capteur de Poids\n\ncellule de charge / pesage 0-20Kg.\n\nCharge nominale : 20 kg\n\nSortie nominale : 1,0 mV/V ± 0,15 mV/V\n\nSortie zéro : ±0,1 mV/V\n\nFluage : 0,03 % F.S./30 min\n\nFin d’entrée : rouge +, noir-\n\nFin de sortie : vert +, blanc-\n\nImpédance d’entrée : 1115±10%Ω\n\nImpédance de sortie : 1000±10%Ω\n\nTaille totale : 80 mm x 13 mm x 13 mm (L*l*H)\n\nTension de fonctionnement recommandée : 3 ~ 15 V CC\n\nLongueur du câble : 200 mm\n\nMatériel: Alliage d’aluminium\n\nMots clés: weight, sensor, load, cell, hx711.",
+     "short_description": "cellule de charge / pesage 0-20Kg."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/01/226-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35148",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cellule de Charge 5Kg, Capteur de Poids",
+     "description": "Cellule de Charge 5Kg, Capteur de Poids\n\ncellule de charge / pesage 0-5Kg, pour module HX711.\n\nCharge nominale : 5 kg\n\nSortie nominale : 1,0 mV/V ± 0,15 mV/V\n\nSortie zéro : ±0,1 mV/V\n\nFluage : 0,03 % F.S./30 min\n\nFin d’entrée : rouge +, noir-\n\nFin de sortie : vert +, blanc-\n\nImpédance d’entrée : 1115±10%Ω\n\nImpédance de sortie : 1000±10%Ω\n\nTaille totale : 80 mm x 13 mm x 13 mm (L*l*H)\n\nTension de fonctionnement recommandée : 3 ~ 15 V CC\n\nLongueur du câble : 200 mm\n\nMatériel: Alliage d’aluminium\n\nMots clés: weight, sensor, load, cell, hx711.",
+     "short_description": "cellule de charge / pesage 0-5Kg, pour module HX711."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0226-C.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6340",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HX711 Module Capteur de Force / Poids Avec Cellule 20Kg",
+     "description": "Module Capteur de Force / Poids HX711 Avec Cellule de Charge 20Kg\n\nModule capteur de force / poids HX711 avec cellule de charge / pesage 20Kg, à base de HX711, un convertisseur analogique / numérique à 24 bits de précision, conçu pour les applications de pesée et de contrôle industriel, à interfacer directement avec un capteur à base de pont comme des cellules de charge.\n\nTemps de réponse rapide\n\nHaute précision de 24 bits\n\nDeux canaux d’entrée différentiels sélectionnables\n\nPGA actif à faible bruit sur puce avec gain sélectionnable de 32, 64 et 128\n\nRégulateur de tension sur puce pour l’alimentation de cellule de charge et ADC analogique\n\nOscillateur sur puce ne nécessitant aucun composant externe avec cristal externe en option\n\nPower-on-chip Reset sur la puce\n\nCommande numérique simple et interface série: commandes pilotées par broche, aucune programmation nécessaire\n\nDébit de données de sortie sélectionnable 10SPS ou 80SPS\n\nRejet simultané de l’alimentation 50 et 60Hz\n\nConnection:\n\nRouge vers E+\n\nNoire vers E-\n\nVert vers A+\n\nBlanc vers A-\n\nCaractéristiques:\n\nTension d’alimentation: 2.6 ~ 5.5V\n\nLa consommation: fonctionnement normal <1.5mA, veille <1uA\n\nCharge nominale: 20KG\n\nSignale de sortie: 1.0 + – 0.15mV / V\n\nRépétabilité: 0,03% FS\n\nFluage (5 minutes): 0,03% FS\n\nEffet de la température sur la sortie: 0.01% F.S / C\n\nEffet de la température sur le zéro: 0,05% F.S / C\n\nZéro balance: + – 0,1 mV / V\n\nImpédance d’entrée: 1115 + -10%\n\nImpédance de sortie: 1000 + – 10%\n\nRésistance d’isolation:> = 1000 M\n\nTaux de surcharge de sécurité: 150% FS\n\nTaux de surcharge ultime: 200% FS\n\nMatériel: alliage d’aluminium\n\nClasse de protection: IP65\n\nTempérature de fonctionnement: -20 degrés ~ +85 degrés\n\nMots clés: weight, sensor, load, cell.",
+     "short_description": "Module capteur de force / poids HX711 avec cellule de charge / pesage 20Kg, à base de HX711, un convertisseur analogique / numérique à 24 bits de précision."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/226-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35297",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HX711 Module Capteur de Force / Poids Avec Cellule 5Kg",
+     "description": "HX711 Module Capteur de Force / Poids Avec Cellule 5Kg\n\nModule capteur de force / poids HX711 avec cellule de charge / pesage 5Kg, à base de HX711, un convertisseur analogique / numérique à 24 bits de précision, conçu pour les applications de pesée et de contrôle industriel, à interfacer directement avec un capteur à base de pont comme des cellules de charge.\n\nTemps de réponse rapide\n\nHaute précision de 24 bits\n\nDeux canaux d’entrée différentiels sélectionnables\n\nPGA actif à faible bruit sur puce avec gain sélectionnable de 32, 64 et 128\n\nRégulateur de tension sur puce pour l’alimentation de cellule de charge et ADC analogique\n\nOscillateur sur puce ne nécessitant aucun composant externe avec cristal externe en option\n\nPower-on-chip Reset sur la puce\n\nCommande numérique simple et interface série: commandes pilotées par broche, aucune programmation nécessaire\n\nDébit de données de sortie sélectionnable 10SPS ou 80SPS\n\nRejet simultané de l’alimentation 50 et 60Hz\n\nConnection:\n\nRouge vers E+\n\nNoire vers E-\n\nVert vers A+\n\nBlanc vers A-\n\nCaractéristiques:\n\nTension d’alimentation: 2.6 ~ 5.5V\n\nLa consommation: fonctionnement normal <1.5mA, veille <1uA\n\nCharge nominale: 5KG\n\nSignale de sortie: 1.0 + – 0.15mV / V\n\nRépétabilité: 0,03% FS\n\nFluage (5 minutes): 0,03% FS\n\nEffet de la température sur la sortie: 0.01% F.S / C\n\nEffet de la température sur le zéro: 0,05% F.S / C\n\nZéro balance: + – 0,1 mV / V\n\nImpédance d’entrée: 1115 + -10%\n\nImpédance de sortie: 1000 + – 10%\n\nRésistance d’isolation:> = 1000 M\n\nTaux de surcharge de sécurité: 150% FS\n\nTaux de surcharge ultime: 200% FS\n\nMatériel: alliage d’aluminium\n\nClasse de protection: IP65\n\nTempérature de fonctionnement: -20 degrés ~ +85 degrés\n\nMots clés: weight, sensor, load, cell.",
+     "short_description": "Module capteur de force / poids HX711 avec cellule de charge / pesage 5Kg, à base de HX711, un convertisseur analogique / numérique à 24 bits de précision."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/03/0226-GRP2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7174",
+   "price": 180,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AS608 Module Lecteur d’Empreintes digitales",
+     "description": "AS608 Module Lecteur d’Empreintes digitales\n\nCe module d’empreinte digitale AS608 est un module intégré de traitement d’empreinte digitale intégrant le chemin optique et le traitement d’empreinte digitale. Il a les caractéristiques de petite taille, de faible consommation d’énergie, d’interface simple, de fiabilité élevée, de vitesse d’identification rapide, de bonne adaptabilité aux doigts humides et secs et de vitesse de recherche rapide d’empreintes digitales.\n\nL’interface de communication de ce module est USB et UART.\n\nLors de l’enregistrement des empreintes digitales, chaque empreinte digitale est saisie deux fois, les images saisies deux fois sont traitées et le modèle synthétisé est stocké dans le module.\n\nLorsque l’empreinte digitale correspond, l’image d’empreinte digitale à vérifier est saisie via le capteur d’empreinte digitale et traitée, puis mise en correspondance et comparée au modèle d’empreinte digitale dans le module (si elle correspond à un modèle spécifié dans le module, elle est appelée empreinte digitale). méthode de comparaison, c’est-à-dire le mode 1:1 ; si elle correspond à plusieurs modèles, elle est appelée mode de recherche d’empreintes digitales, c’est-à-dire le mode 1:N), et le module donne le résultat de la correspondance (réussite ou échec).\n\nCaractéristiques :\n\nRésolution : 500dpi\n\nTension d’alimentation: DC 3.3V\n\nCourant de fonctionnement: < 60mA\n\nCourant de crête: < 60mA\n\nTemps d’entrée de l’image d’empreinte digitale: < 1.0 secondes\n\nZone de fenêtre: 15.3*18.2mm",
+     "short_description": "Ce module d’empreinte digitale AS608 est un module intégré de traitement d’empreinte digitale intégrant le chemin optique et le traitement d’empreinte digitale."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/231-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/0231-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10666",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "YFS201 Capteur de débit 1-30L/min",
+     "description": "Capteur de débit 1-30L/min YFS201\n\nCe capteur de débit YFS201 est constitué d’un rotor et d’un capteur à effet hall. Lorsque l’eau passe dans le capteur, la rotation du rotor génère des impulsions en fonction du débit. La fréquence de sortie varie en fonction de la vitesse du rotor. Convient pour de l’eau uniquement.\n\nBrochage:\n\nnoir: masse\n\nrouge: +5 à +24 Vcc\n\njaune: signal\n\nAlimentation: 5 à 24 Vcc\n\nConsommation: 15 mA (sous 5 Vcc)\n\nPlage de mesure: 1 à 30 l/min\n\nPression maxi: 1,2 Mpa\n\nPrécision: +/- 3% (entre 1 et 10 l/min)\n\nFormule de conversion: débit (en l/min) = fréquence (en Hz) / 7,5\n\nDimensions: 63 x 36 x 35 mm\n\nTempérature d’utilisation: 0 à 80°C\n\nDiamètre du filet: 1/2”\n\nPoids: 43 g\n\nMots clés: sensor, water, flow.",
+     "short_description": "Ce capteur de débit YFS201 est constitué d’un rotor et d’un capteur à effet hall. Lorsque l’eau passe dans le capteur, la rotation du rotor génère des impulsions en fonction du débit. La fréquence de sortie varie en fonction de la vitesse du rotor. Convient pour de l’eau uniquement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/238-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50664",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "YF-S401 Capteur de débit d’eau – 0,3 à 6 L/min – 1/4″",
+     "description": "Capteur de débit d’eau YF-S401 – 0,3 à 6 L/min – 1/4″\n\nLe YF-S401 est un débitmètre compact permettant de mesurer le débit instantané et le volume total d’eau circulant dans une conduite. Sa turbine interne entraîne un capteur à effet Hall qui génère des impulsions électriques proportionnelles à la quantité de liquide traversant le capteur.\n\nCompatible avec Arduino et de nombreux microcontrôleurs, il convient aux systèmes d’irrigation, distributeurs d’eau, machines à café, installations domotiques et dispositifs de dosage.\n\nCaractéristiques techniques\n\nModèle : YF-S401\n\nPlage de mesure : 0,3 à 6 L/min\n\nRaccordement : 1/4 pouce\n\nPrincipe de mesure : turbine avec capteur à effet Hall\n\nSignal de sortie : impulsions numériques\n\nTension d’alimentation : 5 à 18 V DC\n\nTension minimale : environ 4,5 V DC\n\nCourant maximal : environ 15 mA sous 5 V\n\nPression maximale admissible : 1,75 MPa, soit environ 17,5 bars\n\nTempérature d’utilisation recommandée : jusqu’à 80 °C\n\nCycle du signal : 50 % ±10 %\n\nFormule indicative : F = 98 × Q\n\nEnviron 5 880 impulsions par litre\n\nDans la formule, F représente la fréquence en hertz et Q le débit en litres par minute. Ces données sont indiquées dans la documentation technique du YF-S401.\n\nApplications\n\nMesure de la consommation d’eau\n\nSystèmes d’irrigation automatisés\n\nDistributeurs de boissons\n\nMachines à café\n\nRemplissage automatique de réservoirs\n\nContrôle de pompes\n\nCircuits de refroidissement\n\nProjets Arduino et domotiques\n\nDétection d’absence ou d’interruption de débit\n\nMini-tutoriel avec Arduino\n\nBranchement\n\nFil du YF-S401\nFonction\nArduino Uno/Nano\n\nRouge\nAlimentation positive\n5V\n\nNoir\nMasse\nGND\n\nJaune\nSignal d’impulsions\nD2\n\nLe fil de signal doit être connecté à une broche compatible avec les interruptions. Sur un Arduino Uno ou Nano, la broche D2 convient parfaitement.\n\nCode Arduino\n\nCe programme affiche le débit instantané en litres par minute ainsi que le volume total écoulé.\n\nconst byte flowPin = 2;\r\nconst float pulsesPerLiter = 5880.0;\r\n\nvolatile unsigned long pulseCount = 0;\r\n\nunsigned long previousTime = 0;\r\nunsigned long previousPulseCount = 0;\r\nfloat totalLiters = 0.0;\r\n\nvoid countPulse() {\r\n pulseCount++;\r\n}\r\n\nvoid setup() {\r\n Serial.begin(9600);\r\n\n pinMode(flowPin, INPUT_PULLUP);\r\n attachInterrupt(\r\n digitalPinToInterrupt(flowPin),\r\n countPulse,\r\n FALLING\r\n );\r\n\n previousTime = millis();\r\n}\r\n\nvoid loop() {\r\n unsigned long currentTime = millis();\r\n\n if (currentTime - previousTime >= 1000) {\r\n noInterrupts();\r\n unsigned long currentPulseCount = pulseCount;\r\n interrupts();\r\n\n unsigned long elapsedTime = currentTime - previousTime;\r\n unsigned long newPulses =\r\n currentPulseCount - previousPulseCount;\r\n\n float flowRate =\r\n (newPulses * 60000.0) /\r\n (pulsesPerLiter * elapsedTime);\r\n\n totalLiters =\r\n currentPulseCount / pulsesPerLiter;\r\n\n Serial.print(\"Debit : \");\r\n Serial.print(flowRate, 3);\r\n Serial.print(\" L/min | Volume total : \");\r\n Serial.print(totalLiters, 3);\r\n Serial.println(\" L\");\r\n\n previousPulseCount = currentPulseCount;\r\n previousTime = currentTime;\r\n }\r\n}\nOuvrez le moniteur série à 9600 bauds. Lorsque l’eau traverse le capteur, le programme affiche le débit instantané et le volume cumulé.\n\nInstallation\n\nCoupez l’arrivée d’eau et dépressurisez la conduite.\n\nInstallez le capteur en respectant la flèche indiquant le sens d’écoulement.\n\nUtilisez un tuyau et des raccords 1/4″ adaptés.\n\nAssurez correctement l’étanchéité sans forcer sur le corps en plastique.\n\nVérifiez l’absence de fuite à faible pression.\n\nEffectuez ensuite le branchement électrique hors tension.\n\nInstallez de préférence le capteur sur une section droite de la conduite. Évitez les bulles d’air, les vibrations importantes et la proximité immédiate d’un coude ou d’une pompe, qui peuvent perturber la mesure.\n\nÉtalonnage conseillé\n\nLa constante de 5 880 impulsions par litre est une valeur indicative. Pour améliorer la précision :\n\nFaites passer exactement un litre d’eau dans le capteur.\n\nRelevez le nombre d’impulsions comptées.\n\nRemplacez 5880.0 dans le programme par la valeur mesurée.\n\nRépétez le test deux ou trois fois et utilisez la moyenne obtenue.\n\nPrécautions\n\nNe dépassez pas un débit de 6 L/min.\n\nNe dépassez pas la pression maximale indiquée.\n\nNe faites pas fonctionner le capteur à sec pendant une longue période.\n\nÉvitez les liquides contenant des particules susceptibles de bloquer la turbine.\n\nVérifiez la compatibilité des matériaux avant de l’utiliser avec un liquide autre que l’eau.\n\nPour un ESP32 ou un autre microcontrôleur 3,3 V, protégez l’entrée avec une adaptation de niveau appropriée.\n\nLa pression maximale est une limite admissible, pas une pression de fonctionnement continu recommandée.",
+     "short_description": "Débitmètre YF-S401 à effet Hall pour mesurer un débit d’eau de 0,3 à 6 L/min. Compatible Arduino, avec raccords 1/4″ et sortie numérique à impulsions."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/239-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6550",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led Bargraph 10 segments",
+     "description": "Led Bargraph 10 segments.\n\nLed Bargraph 10 segments.\n\nCaractéristiques:\n\nCouleurs: Rouge / Multicouleurs (1*Bleu 4*Vert 3*Jaune 2*Rouge)\n\nTension: voir tableau\n\nBroches: 20\n\nSegments: 10\n\nDimensions:  2.5 x 1cm, Led 0.5 x 0.2 cm\n\nParamètres électriques\n\nLe tableau montre la tension d’alimentation de la LED à un courant de 10 mA, (utiliser des résistances en série pour protéger les leds).\n\nLED\nCouleur\nTension (Uf)\n\nA\n\nbleu\n3,0 V\n\nB\n\nvert\n2,85 V\n\nC\n\nvert\n2,85 V\n\nD\n\nvert\n2,85 V\n\nE\n\nvert\n2,85 V\n\nF\n\njaune\n2,0 V\n\nG\n\njaune\n2,0 V\n\nH\n\njaune\n2,0 V\n\nI\n\nrouge\n1,95 V\n\nJ\n\nrouge\n1,95 V\n\nMots clés: bar, graph, display, afficheur.",
+     "short_description": "Led Bargraph 10 segments."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/260-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/240-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/240-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2981",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TM1637 Afficheur Digital 4Bits",
+     "description": "Afficheur Digital 4Bits TM1637\n\nModule d’affichage 4 bits digital à LED, idéal pour affichage de mesures telles que température, temps, horloge, voltage, ampérage, poids, etc avec Arduino, Pi ou autres.\n\nDimensions du module: 42 x 25 x 10 mm\n\nDimensions de l’affichage: 30 x 15 mm (0.36″)\n\nNombre de caractères: 4 + deux points\n\nTension de fonctionnement: 5V ou 3.3V\n\nConnexion 4 pins: CLK, DIO, VCC,GND.\n\nMots clés: display, 7 segments, 7segments.",
+     "short_description": "Module d’affichage 4 bits digital à LED, idéal pour affichage de mesures telles que température, temps, horloge, voltage, ampérage, poids, etc avec Arduino, Pi ou autres.\n\nDimensions du module: 42 x 25 x 10 mm\n\nDimensions de l’affichage: 30 x 15 mm (0.36″)\n\nNombre de caractères: 4 + deux points\n\nTension de fonctionnement: 5V ou 3.3V\n\nConnexion 4 pins: CLK, DIO, VCC,GND"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/241-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/241-1.png"
+   ]
+  }
+ ]
+}

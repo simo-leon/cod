@@ -1,0 +1,196 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-2949",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Badge Rfid 13.56Mhz",
+     "description": "Badge RFID 13.56MHZ\n\nBadge RFID 13.56Mhz.\n\nCapacité de stockage: 1 – 16 partitions.\n\nFréquence: 13.56 MHZ\n\nVitesse de communication: 106 kboud\n\nDistance lecture/écriture: 2.5 – 10 cm\n\nNombre d’effacement > 100000 fois\n\nStockage > 10 années\n\nNorme: ISO 14443, ISO 14443.\n\nMots clés: tag, tags, id, wireless, keychain, memory, reader.",
+     "short_description": "Badge pour module RFID RC522."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/188-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/188-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7200",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Badge Rfid EM4100 TK4100 125Khz",
+     "description": "Badge RFID EM4100 TK4100 125KHZ\n\nBadge RFID EM4100 TK4100 125KHZ.\n\nDimension: 43.7×30.5×5.3mm\n\nFréquence de réponse: 125 KHz,\n\nType de puce: EM4100, TK4100\n\nTempérature de fonctionnement: -40 ° C à 85 ° C\n\nImperméable (waterproof)\n\nApplications: transport, stationnement, identification de l’identité, système de présence, billetterie, paiement par carte, logo du produit, etc.\n\nNote: Le badge est en lecture seule, il enregistre au système que vous voulez utiliser (le code est écrit sur le badge), puis il peut être utilisée directement.\n\nPour une version effaçable cliquez ici\n\nMots clés: tag, tags, id, wireless, keychain, memory, reader.",
+     "short_description": "Badge RFID EM4100 TK4100 125KHZ, en lecture seule, il enregistre au système que vous voulez utiliser, puis il peut être utilisée directement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/233-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8112",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Badge Rfid EM4305, TK5577 125Khz",
+     "description": "Badge RFID 125KHZ EM4305, TK5577\n\nBadge RFID 125KHz EM4305, TK5577.\n\nDimension: 3.5 x 2.9 x 0.5cm\n\nFréquence de réponse: 125 KHz,\n\nType de puce: EM4305, TK5577\n\nBadge RFID en lecture et écriture (effaçable). (cliquez ici pour version en lecture seule avec code intégré)\n\nDistance de détéction: 0-5cm\n\nTempérature de fonctionnement: -40 ° C à 85 ° C\n\nImperméable (waterproof)\n\nApplications: transport, stationnement, identification de l’identité, système de présence, billetterie, paiement par carte, logo du produit, etc.\n\nMots clés: tag, tags id, wireless, keychain, memory, reader.",
+     "short_description": "Badge RFID 125KHz EM4305, TK5577, en lecture et écriture (effaçable)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/235-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2953",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte RFID 13.56MHz 1Kb EEPROM",
+     "description": "Carte RFID 13.56MHz 1Kb EEPROM\n\nCarte RFID 13.56Mhz Pour le module Lecteur RFID RC522.\n\nFréquence: 13.56 MHz\n\nDimension: 85mm x 54mm x 0.9mm\n\nMatiére: PVC, Waterproof\n\nPour Lecteur Mifare 13.56MHz ISO14443A S50.\n\nDistance de lecture: 0 – 10cm\n\n1K byte mémoire EEPROM (768 Bytes libre disponible)\n\nOrganisé en 16 secteur avec 4 blocs de 16 bytes chacun (Un bloc se compose de 16 Bytes)\n\nEndurance: 100,000 cycle d’écriture\n\nNormes :ISO 14443 / 14443A.\n\nMots clés: tag, id, wireless, card, memory, reader.",
+     "short_description": "Carte RFID 13.56Mhz Pour le module Lecteur RFID RC522."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/189-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7198",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte RFID EM4100, TK4100 125KHz",
+     "description": "Carte RFID TK4100, EM4100 125KHz\n\nCarte RFID 125KHz TK4100 EM4100 EM4102, pour le lecteur de carte Rfid.\n\nCaractéristiques:\n\nType de carte: ID TK4100 EM4100 EM4102\n\nFréquence de fonctionnement: 125 kHz\n\nUsage courant: Billetterie, carte à puce sans contact, excellente sécurité\n\nPlage de lecture testée: 2,5 ~ 10 cm\n\nMulti-détection: Oui\n\nTaille: 86 x 54x 0,8 mm\n\nMatiére: PVC\n\nCouleur: blanc\n\nPoids: 5 g ± 0,5 g\n\nConformité: EM4100, EM4200\n\nSpécifications de fonctionnement: Étanche et anti-poussière\n\nRésistance à l’immersion dans l’eau salée, alcool, huile, 10% HCL, Ammoniac\n\nTempérature de fonctionnement de -25 ° C à + 70 ° C\n\nMots clés: tag, id, wireless, card, memory, reader.",
+     "short_description": "Carte RFID 125KHz TK4100 EM4100 EM4102, pour le lecteur de carte Rfid."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/232-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21429",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte Rfid 125Khz EM4305, TK5577",
+     "description": "Carte RFID 125KHZ EM4305, TK5577\n\nCarte RFID en lecture et écriture (effaçable), 125KHz EM4305, TK5577.\n\nType de carte: ID EM4305 TK5577\n\nFréquence de fonctionnement: 125 kHz\n\nUsage courant: Billetterie, carte à puce sans contact, excellente sécurité\n\nPlage de lecture testée: 2,5 ~ 10 cm\n\nMulti-détection: Oui\n\nTaille: 86 x 54x 0,8 mm\n\nMatiére: PVC\n\nCouleur: blanc\n\nPoids: 5 g ± 0,5 g\n\nConformité: EM4100, EM4200\n\nSpécifications de fonctionnement: Étanche et anti-poussière\n\nRésistance à l’immersion dans l’eau salée, alcool, huile, 10% HCL, Ammoniac\n\nTempérature de fonctionnement de -25 ° C à + 70 ° C",
+     "short_description": "Carte RFID en lecture et écriture (effaçable), 125KHz EM4305, TK5577."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/189-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2954",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ENC28J60 Module Ethernet",
+     "description": "Module Ethernet ENC28J60 SPI — Versions 10 et 12 broches\n\nAjoutez une connexion Ethernet filaire à vos projets Arduino, ESP32, STM32, PIC ou AVR grâce au module ENC28J60. Équipé d’un port RJ45 avec transformateur intégré, il permet de connecter un microcontrôleur à un réseau local pour créer un serveur web, transmettre des mesures ou commander des équipements à distance.\n\nDeux variantes sont proposées : 10 broches pour une intégration compacte et 12 broches pour accéder à davantage de connexions d’alimentation et de contrôle. Les deux versions utilisent le même contrôleur Ethernet ENC28J60 et communiquent avec le microcontrôleur par le bus SPI.\n\n🔄 Variantes disponibles\n\nCaractéristique\nVersion 10 broches\nVersion 12 broches\n\nConnecteur principal\nRangée de 10 broches\nConnecteur 2 × 6 broches\n\nCommunication\nSPI\nSPI\n\nSignaux essentiels\nCS, SCK, SI, SO\nCS, SCK, SI, SO\n\nBroches auxiliaires\nRESET, INT, WOL, CLKOUT\nRESET, INT, WOL, CLKOUT\n\nAlimentation\nVCC selon le marquage\nSouvent 5 V et 3,3 V séparés\n\nUtilisation\nMontage compact\nPrototypage et câblage flexible\n\nLa fonction réseau reste identique. Le brochage et le circuit d’alimentation peuvent toutefois varier selon la fabrication : suivez toujours les indications imprimées sur le module reçu.\n\n⭐ Points forts\n\n✅ Connexion Ethernet stable par câble RJ45\n\n✅ Deux formats disponibles : 10 ou 12 broches\n\n✅ Communication SPI simple à intégrer\n\n✅ Contrôleur Ethernet ENC28J60\n\n✅ Compatible avec de nombreux microcontrôleurs\n\n✅ Voyants Link et Activity selon la version\n\n✅ Bibliothèques Arduino disponibles\n\n✅ Solution économique pour les projets IoT filaires\n\n🔧 Caractéristiques techniques\n\nContrôleur : Microchip ENC28J60\n\nStandard réseau : Ethernet IEEE 802.3\n\nInterface réseau : 10BASE-T\n\nDébit Ethernet : jusqu’à 10 Mbit/s\n\nCommunication avec le microcontrôleur : SPI\n\nMémoire tampon interne : 8 Ko\n\nConnecteur réseau : RJ45 avec transformateur intégré\n\nFréquence de l’oscillateur : 25 MHz\n\nTension du contrôleur : 3,3 V\n\nEntrées SPI du circuit tolérantes au 5 V\n\nFonctions auxiliaires : interruption, reset, Wake-on-LAN et sortie d’horloge\n\nPile TCP/IP gérée par la bibliothèque du microcontrôleur\n\nNombre de broches : 10 ou 12 selon la variante\n\n📌 Fonctions des broches\n\nMarquage\nFonction\n\nVCC / 3V3\nAlimentation 3,3 V\n\n5V\nEntrée 5 V sur les modules avec régulateur\n\nGND\nMasse\n\nCS / SS\nSélection du module SPI\n\nSCK\nHorloge SPI\n\nSI / MOSI\nDonnées du microcontrôleur vers le module\n\nSO / MISO\nDonnées du module vers le microcontrôleur\n\nRESET / RST\nRéinitialisation active à l’état bas\n\nINT\nSortie d’interruption\n\nWOL\nSignal Wake-on-LAN\n\nCLKOUT\nSortie d’horloge programmable\n\nSur la version 12 broches, ne branchez jamais simultanément les entrées 5 V et 3,3 V. Utilisez uniquement l’alimentation correspondant au marquage et à la configuration du module.\n\n🔌 Branchement avec Arduino Uno/Nano\n\nENC28J60\nArduino Uno/Nano\n\nCS\nD10\n\nSI / MOSI\nD11\n\nSO / MISO\nD12\n\nSCK\nD13\n\nGND\nGND\n\nRESET\nRESET ou broche numérique optionnelle\n\nINT\nNon nécessaire pour l’exemple\n\nWOL\nNon connecté\n\nCLKOUT\nNon connecté\n\nPour l’alimentation :\n\nVersion avec entrée 5V et régulateur intégré → connecter à 5 V.\n\nVersion marquée uniquement 3V3 → utiliser une alimentation 3,3 V externe suffisamment puissante.\n\nVersion marquée VCC → vérifier la tension indiquée sur la carte avant le branchement.\n\nLa sortie 3,3 V d’un Arduino Uno peut ne pas fournir suffisamment de courant pour certains modules ENC28J60. Une alimentation 3,3 V externe stable est alors recommandée.\n\n💻 Exemple Arduino — Mini serveur web\n\nInstallez la bibliothèque EthernetENC depuis le gestionnaire de bibliothèques d’Arduino IDE.\n\n#include <SPI.h>\r\n#include <EthernetENC.h>\r\n\nbyte mac[] = {\r\n 0x02, 0x12, 0x34, 0x56, 0x78, 0x90\r\n};\r\n\nIPAddress ip(192, 168, 1, 177);\r\nEthernetServer server(80);\r\n\nvoid setup() {\r\n Serial.begin(9600);\r\n\n // Broche CS utilisée avec Arduino Uno/Nano\r\n Ethernet.init(10);\r\n\n Ethernet.begin(mac, ip);\r\n server.begin();\r\n\n Serial.print(\"Adresse IP : \");\r\n Serial.println(Ethernet.localIP());\r\n}\r\n\nvoid loop() {\r\n EthernetClient client = server.available();\r\n\n if (client) {\r\n bool ligneVide = true;\r\n\n while (client.connected()) {\r\n if (client.available()) {\r\n char caractere = client.read();\r\n\n if (caractere == '\\n' && ligneVide) {\r\n client.println(\"HTTP/1.1 200 OK\");\r\n client.println(\"Content-Type: text/html\");\r\n client.println(\"Connection: close\");\r\n client.println();\r\n\n client.println(\"<!DOCTYPE html>\");\r\n client.println(\"<html>\");\r\n client.println(\"<head><meta charset='UTF-8'></head>\");\r\n client.println(\"<body>\");\r\n client.println(\"<h1>Micro-Planet</h1>\");\r\n client.println(\"<p>ENC28J60 connecte avec succes.</p>\");\r\n client.println(\"</body></html>\");\r\n break;\r\n }\r\n\n if (caractere == '\\n') {\r\n ligneVide = true;\r\n } else if (caractere != '\\r') {\r\n ligneVide = false;\r\n }\r\n }\r\n }\r\n\n delay(1);\r\n client.stop();\r\n }\r\n}\nAprès le téléversement, connectez le module à votre routeur avec un câble Ethernet, puis ouvrez 192.168.1.177 dans un navigateur connecté au même réseau.\n\nAdaptez l’adresse IP si votre routeur utilise une autre plage, par exemple 192.168.0.x.\n\n🏠 Domotique et IoT\n\nServeur web local avec Arduino\n\nCommande de relais par réseau Ethernet\n\nSurveillance de température et d’humidité\n\nTransmission de mesures de capteurs\n\nAutomatismes sans connexion Wi-Fi\n\nIntégration avec Home Assistant\n\nAlarmes et systèmes de sécurité\n\n🏭 Applications professionnelles\n\nAcquisition de données\n\nSupervision de machines\n\nContrôle d’accès\n\nAutomatisation industrielle légère\n\nTerminaux de mesure connectés\n\nEnregistreurs de données\n\nPasserelles Ethernet personnalisées\n\n⚠️ Précautions\n\nVérifiez la tension d’alimentation imprimée sur le PCB.\n\nNe branchez jamais 5 V sur une entrée marquée uniquement 3,3 V.\n\nNe connectez pas simultanément 5 V et 3,3 V.\n\nUtilisez une alimentation stable et une masse commune.\n\nVérifiez le brochage plutôt que la position physique des broches.\n\nCe module est limité à Ethernet 10 Mbit/s.\n\nIl ne prend pas en charge le Gigabit Ethernet.\n\nLe module n’est pas compatible PoE et ne doit pas être alimenté par le câble réseau.\n\nÉvitez les câbles Dupont trop longs pour les signaux SPI.\n\nNe confondez pas les bibliothèques ENC28J60 avec celles destinées au W5100 ou au W5500.\n\nMots clés: network, internet.",
+     "short_description": "Module Ethernet ENC28J60 avec port RJ45 et communication SPI, idéal pour connecter un microcontrôleur à un réseau filaire. Disponible en versions 10 et 12 broches."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/190-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/190-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10689",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "W5100 Shield Ethernet",
+     "description": "Shield Ethernet W5100\n\nCe shield Ethernet ajoute des fonctionalités réseau et un slot pour carte micro-SD, qui peut être utilisé pour stocker des fichiers pour le service sur le réseau.\n\nIl est compatible avec les cartes programmables Arduino Duemilanove (168 ou 328), Uno, ainsi que les Mega (1280 / 2560) et peut être interfacé simplement en utilisant la librairie SD.\n\nLe W5100 Wiznet fournit une adresse réseau (IP) gérant à la fois des protocoles TCP et UDP. Il prend en charge jusqu’à quatre socket de connexions simultanées. Utilisez la bibliothèque Ethernet pour écrire des programmes qui se connectent à Internet en utilisant ce shield.\n\nTension d’alimentation de 5V ( fournit par la carte Arduino )\n\nContrôleur Ethernet : W5100\n\nVitesse de connexion : 10/100Mb\n\nConnection avec l’arduino : SPI\n\nMots clés: module.",
+     "short_description": "Ce shield Ethernet ajoute des fonctionalités réseau et un slot pour carte micro-SD, qui peut être utilisé pour stocker des fichiers pour le service sur le réseau."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/239-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2958",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HX1838 Module Récepteur Infrarouge avec Télécommande",
+     "description": "Module Récepteur Infrarouge avec Télécommande HX1838\n\nUn module récepteur infrarouge à distance HX1838, facile à utiliser, 17 boutons offre une grande flexibilité pour contrôler les appareils dans une plage allant jusqu’à 8m, la télécommande fonctionne avec une pile bouton CR2025.\n\nContenu du kit:\n\nTélécommande KEYES\n\nModule récepteur HX1838\n\nCâble dupont 3 pôles\n\nLed infrarouge\n\nDonnées techniques:\n\nDistance de transmission max: 8m\n\nAngle effectif: 60°\n\nCourant statique: 3-5uA\n\nCourant dynamique: 3-5mA\n\nTension de fonctionnement: 5V\n\nDimensions télécommande: 8.5 x 4 x 0.65mm\n\nTélécommande fonctionne avec pile CR2025 (non fournie).\n\nMots clés: infrared, remote, control, receiver, wireless.",
+     "short_description": "Un module récepteur infrarouge à distance, facile à utiliser, 17 boutons offre une grande flexibilité pour contrôler les appareils dans une plage allant jusqu’à 8m, la télécommande fonctionne avec une pile bouton CR2025."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/192-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22911",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "RF96 Module LORA 868Mhz",
+     "description": "RF96 Module LORA 868Mhz\n\nLes émetteurs-récepteurs RF96 sont équipés du modem longue portée LoRa® qui fournit une communication à spectre étalé ultra-longue portée et une haute immunité aux interférences tout en minimisant la consommation de courant.\n\nEn utilisant la technique de modulation LoRa brevetée de Semtech, le RF96 peut atteindre une sensibilité de plus de -148 dBm en utilisant un cristal et une nomenclature à faible coût. La haute sensibilité combinée à l’amplificateur de puissance intégré +20 dBm permet d’obtenir un budget de liaison de premier plan, ce qui le rend optimal pour toute application nécessitant une portée ou une robustesse. LoRa offre également des avantages significatifs en termes de blocage et de sélectivité par rapport aux techniques de modulation conventionnelles, résolvant le compromis de conception traditionnel entre la portée, l’immunité aux interférences et la consommation d’énergie.\n\nCommunication semi-duplex\n\nExcellente immunité de blocage\n\nMultibande ISM, gratuit sans demande de fréquences\n\nMultifréquence en option, taux de transmission multiple, peut être appliqué dans les technologies FDMA et FM\n\nRéinitialisation intelligente, moniteur de basse tension, réveil de synchronisation, mode basse consommation, mode veille\n\nCourant RX de faible puissance : 10.3 mA\n\nDétection de canal ISSI\n\nMode de transmission：FIFO/mode direct（recommander le mode paquet FIFO）\n\nConfiguration：AFC/réveil aérien/faible consommation/détection de la porteuse/correction d’erreur FEC/cryptage AEC\n\nApplications:\n\nSystème de contrôle à distance et de collecte de données\n\nAMR (compteur d’eau, ampèremètre et compteur de gaz) relevé de compteur automatisé\n\nUnité portative sans fil, champ pétrolifère, zone minière, chantier de construction, usine\n\nCollecte, transmission et contrôle intelligent des données industrielles\n\nSystème d’alarme sans fil\n\nSystème de maison intelligente\n\nMoniteur de bébé, système d’appel d’hôpital\n\nTerminal de données sans fil de petite taille\n\nMots clés: wireless, transceiver.",
+     "short_description": "Les émetteurs-récepteurs RF96 sont équipés du modem longue portée LoRa®"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/193-b-1.png"
+   ]
+  }
+ ]
+}

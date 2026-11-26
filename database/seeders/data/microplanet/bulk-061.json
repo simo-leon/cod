@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-7952",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "FQA38N30 Transistor Mosfet QFET à Canal N 38.4A 300V",
+     "description": "Transistor Mosfet QFET à Canal N FQA38N30 38.4A 300V\n\nTransistor Mosfet QFET à Canal N FQA38N30 38N30, 38.4A 300V.\n\nFiche technique",
+     "short_description": "Transistor Mosfet QFET à Canal N FQA38N30 38N30, 38.4A 300V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/754-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8204",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "IRF840 Transistor Mosfet à Canal N 8A 500V",
+     "description": "Transistor Mosfet à Canal N IRF840 8A 500V\n\nTransistor Mosfet à Canal N IRF840 8A 500V.\n\nFiche technique",
+     "short_description": "Transistor Mosfet à Canal N IRF840 8A 500V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/756-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8208",
+   "price": 9,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "P55NF06 Transistor Mosfet à Canal N 50A 50V.",
+     "description": "Transistor Mosfet à Canal N P55NF06 50A 50V.\n\nTransistor Mosfet à Canal N P55NF06 ( STP55NF06 ) STripFET 50A 50V.\n\nFiche technique",
+     "short_description": "Transistor Mosfet à Canal N P55NF06 ( STP55NF06 ) STripFET 50A 50V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/757-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-8211",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "IRFP460 Transistor Mosfet de puissance à Canal N 20A 500V",
+     "description": "Transistor Mosfet de puissance à Canal N IRFP460 20A 500V\n\nTransistor Mosfet de puissance à Canal N IRFP460 ( IRFP460PBF ) 20A 500V 280W.\n\nMarque: VISHAY SILICONIX\n\nFiche technique",
+     "short_description": "Transistor Mosfet de puissance à Canal N IRFP460 ( IRFP460PBF ) 20A 500V 280W."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/02/758-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21356",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "GT50JR22 50JR22 IGBT à Canal N 50A 600V",
+     "description": "GT50JR22 50JR22 TOSHIBA IGBT à Canal N 50A 600V\n\nTransistor GT50JR22 50JR22 IGBT à Canal N en silicon 50A 600V.\n\nMarque: Toshiba\n\nFiche technique",
+     "short_description": "Trans GT50JR22 50JR22 IGBT à Canal N en silicon 50A 600V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/758-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22425",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "FGH60N60SMD IGBT à Canal N 60A 600V",
+     "description": "FGH60N60SMD FGH60N60 IGBT à Canal N 60A 600V\n\nTransistor FGH60N60SMD FGH60N60 IGBT à Canal N 60A 600V.\n\nMarque: ON Semiconductor\n\nFiche technique",
+     "short_description": "Transistor FGH60N60SMD FGH60N60 IGBT à Canal N 60A 600V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/09/758-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5962",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "NE556 Dual Temporisateur de précision",
+     "description": "NE556 Dual Temporisateur de précision\n\nNE556 Dual Temporisateur de précision, de microsecondes à plusieurs heures.\n\nFiche technique",
+     "short_description": "NE556 Dual Temporisateur de précision, de microsecondes à plusieurs heures."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/759-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20911",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TL064CN Amplificateur opérationnel",
+     "description": "TL064CN Amplificateur opérationnel à Entrée JFET\n\nTL064CN Amplificateur opérationnel à Entrée JFET. Ils se caractérisent par une impédance d’entrée élevée, une large bande passante, une vitesse de balayage élevée et un faible décalage d’entrée et des courants de polarisation d’entrée. La série TL06x présente les mêmes affectations de bornes que les séries TL07x et TL08x.\n\nFiche technique",
+     "short_description": "TL064CN Amplificateur opérationnel à Entrée JFET"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/759-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20914",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TL071CP Amplificateur opérationnel",
+     "description": "TL071CP Amplificateur opérationnel à faible bruit à Entrée JFET\n\nLes amplificateurs opérationnels à entrée JFET TL071 TL071CP intègrent des transistors JFET et bipolaires haute tension bien adaptés dans un circuit intégré monolithique. Les dispositifs présentent des taux de balayage élevés, des courants de polarisation et de décalage d’entrée faibles et un faible coefficient de température de tension de décalage. La faible distorsion harmonique et le faible bruit font de la série TL07x la solution idéale pour les applications haute fidélité et préamplificateurs audio. Le dispositif TL071 a des broches de décalage pour prendre en charge la correction de décalage d’entrée externe.\n\nMarque: Texas Instruments / Generic\n\nPackage: DIP-8\n\nFiche technique",
+     "short_description": "Les amplificateurs opérationnels à entrée JFET TL071 TL071CP intègrent des transistors JFET et bipolaires haute tension bien adaptés dans un circuit intégré monolithique"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/759-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5960",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TL072 Amplificateur opérationnel",
+     "description": "TL072CP TL072CN Amplificateur opérationnel à faible bruit d’entrée JFET\n\nTL072CP TL072CN Amplificateur opérationnel à faible bruit avec entrée JFET.\n\nMarque: Texas Instruments / STMicroelectronics / Generic\n\nPackage: DIP-8\n\nFiche technique: TL072CP\n\nFiche technique: TL072CN",
+     "short_description": "TL072CP TL072CN Amplificateur opérationnel à faible bruit avec entrée JFET."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/760-2.png"
+   ]
+  }
+ ]
+}

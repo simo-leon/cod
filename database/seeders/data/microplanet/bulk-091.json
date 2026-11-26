@@ -1,0 +1,204 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-41230",
+   "price": 320,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Bras Robotique 4-DOF en Acrylique",
+     "description": "Kit Bras Robotique 4-DOF en Acrylique\n\n​Le Kit bras robotique 4-DOF mécanique en acrylique est un kit de robotique éducatif avec Arduino uno, 4 servos moteurs SG90 et joystick en couleur noir, conçu pour les passionnés et les étudiants souhaitant explorer la robotique et la mécatronique. Ce kit non assemblé offre une expérience pratique précieuse, permettant aux utilisateurs de comprendre les principes fondamentaux des systèmes robotiques.​\n\nFonctionnalités:\n\nConception en acrylique transparent: Offre une visibilité claire des composants internes, facilitant l’apprentissage et la compréhension des mécanismes.​\n\nQuatre degrés de liberté (4-DOF): Permet une gamme variée de mouvements, simulant les articulations d’un bras humain pour des applications diverses.\n\nAssemblage éducatif: Fournit une expérience pratique dans la construction et la programmation de systèmes robotiques, renforçant les compétences en ingénierie et en résolution de problèmes.​\n\nCaractéristiques:\n\nConception en acrylique transparent : Offre une visibilité claire des composants internes, facilitant l’apprentissage et la compréhension des mécanismes du bras robotique.​\n\nContrôleur Arduino Uno inclus : Fournit une plateforme de programmation open-source polyvalente, idéale pour les débutants et les utilisateurs avancés.​\n\nQuatre servomoteurs : Assurent des mouvements précis et fluides, permettant au bras d’effectuer une variété de tâches avec une grande précision.​\n\nJoystick de contrôle : Permet une manipulation intuitive et en temps réel du bras robotique, améliorant l’expérience utilisateur.\n\nApplications:\n\nProjets éducatifs: Idéal pour les salles de classe et les ateliers, aidant les étudiants à comprendre les concepts de la robotique et de la mécatronique.​\n\nDéveloppement de prototypes: Convient aux ingénieurs et aux amateurs pour créer et tester des concepts robotiques avant la production à grande échelle.​\n\nExpérimentation personnelle: Parfait pour les passionnés de robotique souhaitant explorer et développer leurs compétences à domicile.​​\n\nContenu du kit :\n\nPièces en acrylique pour l’assemblage du bras robotique​\n\n1 contrôleur Arduino Uno​\n\n4 servomoteurs​\n\n1 joystick de contrôle​\n\nTous les accessoires nécessaires pour l’assemblage​\n\nVeuillez noter que ce kit Bras Robotique 4-DOF en Acrylique est livré en pièces détachées et nécessite un assemblage.",
+     "short_description": "Le Kit bras robotique mécanique en acrylique 4-DOF est un kit de robotique éducatif avec Arduino uno, 4 servos moteurs SG90 et joystick en couleur noir."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/04/1012-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/04/1012-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-18547",
+   "price": 250,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "KIT 37 Capteurs et modules",
+     "description": "KIT 37 Capteurs pour Arduino\n\nUn Kit de 37 capteurs avec boitier pour Arduino ou n’importe quel platforme de développement.\n\nContenu du kit:\n\n1 x Module Flash 7 Couleurs\n\n1 x Module Emission laser\n\n1 x Module Bouton Poussoir\n\n1 x Module détcteur de vibration\n\n1 x Module Roue Codeuse\n\n2 x Modules Light-Cup ( détection inclinaison )\n\n1 x Module interrupteur au mercure\n\n1 x Module Tilt Switch ( détecteur d’inclinaison )\n\n1 x Module Photorésistance\n\n1 x Module Joystick\n\n1 x Module Relais\n\n1 x Module Buzzer Grande Taille\n\n1 x Module Buzzer Petite Taille\n\n1 x Module Suiveur de Ligne\n\n1 x Module Évitement d’Obstacle\n\n1 x Module Capteur de Flamme\n\n1 x Module Capteur à Effet Hall linéaire\n\n1 x Module Détecteur de Contact Métallique\n\n1 x Module Thermometre Numérique\n\n1 x Module Buzzer Actif\n\n1 x Module Busser Passif\n\n1 x Module Diode ÉlectroLuminescente Rouge Vert Bleu ( LED RGB )\n\n1 x Module Diode ÉlectroLuminescente Rouge Vert Bleu ( LED RGB CMS )\n\n1 x Module Emission Couleur Dual Tone\n\n1 x Mini Module Emission Couleur Dual Tone\n\n1 x Module Émission Infrarouge\n\n1 x Module Récepteur Infrarouge\n\n1 x Module Détecteur de Chocs\n\n1 x Module Détection Rupture de Faisceau\n\n1 x Module Détecteur de Champ Électromagnétique\n\n1 x Module Reed Switch ( interrupteur piloté par aimant )\n\n1 x Module Capteur Fréquence Cardiaque\n\n1 x Module Capteur Humidité et Température\n\n1 x Module Capteur à Effet Hall Analogique\n\n1 x Module Capteur à Effet Hall Magnétique\n\n1 x Module Capteur de Température 18B20\n\n1 x Module Capteur de Température Analogique\n\nMots clés: starter, apprentissage.",
+     "short_description": "Un Kit de 37 capteurs pour Arduino ou n’importe quel platforme de développement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/09/1041-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/09/1041-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/09/1041-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41237",
+   "price": 190,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit de Résistances 130 valeurs 1/4W 2600 en 1",
+     "description": "Kit de Résistances 1/4W 2600 en 1\n\nCe kit d’assortiment de résistances en film métallique de haute qualité est composé de 2600 résistances avec 130 valeurs différentes, parfait pour une large gamme de projets électroniques.\n\nCaractéristiques principales :\n\nType de résistance : Résistances en film métallique 1/4W, connues pour leur précision de 1%.\n\nQuantité par valeur : Chaque valeur est fournie en 20 pièces.\n\nTotal : 2600 pièces couvrant une large gamme de valeurs de résistance.\n\nOrganisation pratique : Résistances triées et stockées dans une boîte compartimentée pour une identification facile.\n\nListe des valeurs incluses dans le kit :\n\n1Ω – 9.1Ω\n10Ω – 91Ω\n100Ω – 910Ω\n1kΩ – 9.1kΩ\n10kΩ – 91kΩ\n100kΩ – 910KΩ\n1MΩ – 3MΩ\n\n1Ω (20 pcs)\n10Ω (20 pcs)\n100Ω (20 pcs)\n1kΩ (20 pcs)\n10kΩ (20 pcs)\n100kΩ (20 pcs)\n1MΩ (20 pcs)\n\n1.2Ω (20 pcs)\n12Ω (20 pcs)\n120Ω (20 pcs)\n1.2kΩ (20 pcs)\n12kΩ (20 pcs)\n120kΩ (20 pcs)\n1.5MΩ (20 pcs)\n\n1.5Ω (20 pcs)\n15Ω (20 pcs)\n150Ω (20 pcs)\n1.5kΩ (20 pcs)\n15kΩ (20 pcs)\n150kΩ (20 pcs)\n2MΩ (20 pcs)\n\n1.8Ω (20 pcs)\n18Ω (20 pcs)\n180Ω (20 pcs)\n1.8kΩ (20 pcs)\n18kΩ (20 pcs)\n180kΩ (20 pcs)\n3MΩ (20 pcs)\n\n2Ω (20 pcs)\n20Ω (20 pcs)\n200Ω (20 pcs)\n2kΩ (20 pcs)\n20kΩ (20 pcs)\n200kΩ (20 pcs)\n\n2.2Ω (20 pcs)\n22Ω (20 pcs)\n220Ω (20 pcs)\n2.2kΩ (20 pcs)\n22kΩ (20 pcs)\n220kΩ (20 pcs)\n\n2.4Ω (20 pcs)\n24Ω (20 pcs)\n240Ω (20 pcs)\n2.4kΩ (20 pcs)\n24kΩ (20 pcs)\n240kΩ (20 pcs)\n\n2.7Ω (20 pcs)\n27Ω (20 pcs)\n270Ω (20 pcs)\n2.7kΩ (20 pcs)\n27kΩ (20 pcs)\n270kΩ (20 pcs)\n\n3Ω (20 pcs)\n30Ω (20 pcs)\n300Ω (20 pcs)\n3kΩ (20 pcs)\n30kΩ (20 pcs)\n300kΩ (20 pcs)\n\n3.3Ω (20 pcs)\n33Ω (20 pcs)\n330Ω (20 pcs)\n3.3kΩ (20 pcs)\n33kΩ (20 pcs)\n330kΩ (20 pcs)\n\n3.6Ω (20 pcs)\n36Ω (20 pcs)\n360Ω (20 pcs)\n3.6kΩ (20 pcs)\n36kΩ (20 pcs)\n360kΩ (20 pcs)\n\n3.9Ω (20 pcs)\n39Ω (20 pcs)\n390Ω (20 pcs)\n3.9kΩ (20 pcs)\n39kΩ (20 pcs)\n390kΩ (20 pcs)\n\n4.3Ω (20 pcs)\n43Ω (20 pcs)\n430Ω (20 pcs)\n4.3kΩ (20 pcs)\n43kΩ (20 pcs)\n430kΩ (20 pcs)\n\n4.7Ω (20 pcs)\n47Ω (20 pcs)\n470Ω (20 pcs)\n4.7kΩ (20 pcs)\n47kΩ (20 pcs)\n470kΩ (20 pcs)\n\n5.1Ω (20 pcs)\n51Ω (20 pcs)\n510Ω (20 pcs)\n5.1kΩ (20 pcs)\n51kΩ (20 pcs)\n510kΩ (20 pcs)\n\n5.6Ω (20 pcs)\n56Ω (20 pcs)\n560Ω (20 pcs)\n5.6kΩ (20 pcs)\n56kΩ (20 pcs)\n560kΩ (20 pcs)\n\n6.2Ω (20 pcs)\n62Ω (20 pcs)\n620Ω (20 pcs)\n6.2kΩ (20 pcs)\n62kΩ (20 pcs)\n620kΩ (20 pcs)\n\n6.8Ω (20 pcs)\n68Ω (20 pcs)\n680Ω (20 pcs)\n6.8kΩ (20 pcs)\n68kΩ (20 pcs)\n680kΩ (20 pcs)\n\n7.5Ω (20 pcs)\n75Ω (20 pcs)\n750Ω (20 pcs)\n7.5kΩ (20 pcs)\n75kΩ (20 pcs)\n750kΩ (20 pcs)\n\n8.2Ω (20 pcs)\n82Ω (20 pcs)\n820Ω (20 pcs)\n8.2kΩ (20 pcs)\n82kΩ (20 pcs)\n820kΩ (20 pcs)\n\n9.1Ω (20 pcs)\n91Ω (20 pcs)\n910Ω (20 pcs)\n9.1kΩ (20 pcs)\n91kΩ (20 pcs)\n910kΩ (20 pcs)\n\nType de résistance : Résistances en film métallique 1/4W, connues pour leur précision de 1%.\n\nQuantité par valeur : Chaque valeur est fournie en 20 pièces.\n\nTotal : 2600 pièces couvrant une large gamme de valeurs de résistance.\n\nOrganisation pratique : Résistances triées et stockées dans une boîte compartimentée pour une identification facile.\n\nApplications :\n\nPrototypage et conception de circuits électroniques.\n\nRéparations électroniques pour divers appareils.\n\nÉducation en électronique et pour les étudiants.\n\nRésumé :\n\nLe kit d’assortiment de résistances en film métallique 1/4W est un excellent choix pour les professionnels et les amateurs d’électronique grâce à sa large gamme de valeurs, sa haute précision (1%) et sa commodité. Il permet une utilisation facile dans des projets de prototypage, de réparation ou d’apprentissage.\n\nMots clés: assortment, resistor, basic, starter.",
+     "short_description": "Ce kit d’assortiment de résistances en film métallique de haute qualité est composé de 2600 résistances avec 130 valeurs différentes."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/04/1044-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/04/1044-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41898",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Condensateurs Céramiques 2pF-0.1uF, 300 en 1",
+     "description": "Kit Condensateurs Céramiques 2pF-0.1uF, 300 en 1\n\nCe kit contient 300 condensateurs céramiques soigneusement sélectionnés et répartis en 30 valeurs différentes, avec 10 pièces par valeur. Il couvre une large gamme de capacités allant de 2 pF à 100 nF, ce qui en fait un choix idéal pour les tests, les réparations, les montages de circuits, ou les projets Arduino/ESP.\n\nCaractéristiques techniques :\n\nNombre total de pièces : 300 condensateurs\n\nNombre de valeurs : 30 valeurs différentes\n\nNombre par valeur : 10 pcs chacune\n\nType : Condensateurs céramiques à disque\n\nTolérance : ±5 % à ±10 % (selon le modèle)\n\nTension nominale : 50V\n\nTempérature de fonctionnement : -25 °C à +85 °C\n\nConditionnement : boîte plastique compartimentée avec étiquetage\n\nValeurs incluses :\n\nEn picofarads (pF) :2 pF, 3 pF, 5 pF, 10 pF, 15 pF, 22 pF, 30 pF, 33 pF, 47 pF, 68 pF, 75 pF, 82 pF\n\nCodées en marquage standard :\n\n101 (100 pF), 151 (150 pF), 221 (220 pF), 331 (330 pF), 471 (470 pF), 681 (680 pF)\n\nEn nanofarads (nF) :\n\n102 (1 nF), 152 (1.5 nF), 222 (2.2 nF), 332 (3.3 nF), 472 (4.7 nF), 682 (6.8 nF), 103 (10 nF), 153 (15 nF), 223 (22 nF), 473 (47 nF), 683 (68 nF), 104 (100 nF)\n\nApplications typiques :\n\nProjets Arduino, ESP32, Raspberry Pi\n\nFiltres passe-haut/bas, oscillateurs, temporisations RC\n\nRemplacement ou réparation de composants CMS\n\nPrototypage de circuits analogiques ou numériques\n\nEnseignement et laboratoires électroniques\n\nAvantages :\n\nTrès large éventail de valeurs pour une grande flexibilité\n\nCodage standardisé (101, 102, etc.) facile à identifier\n\nBoîte compartimentée bien organisée\n\nIdéal pour techniciens, étudiants, makers, bricoleurs\n\nRemarques :\n\nCe type de condensateur est non polarisé, donc peut être monté dans n’importe quel sens.\n\nPrévoir une protection contre les surtensions si utilisés sur des lignes d’alimentation.\n\nMots clés: assortment, caps, capacitor ceramic, basic, starter.",
+     "short_description": "Ce kit contient 300 condensateurs céramiques soigneusement sélectionnés et répartis en 30 valeurs différentes, avec 10 pièces par valeur."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/1046-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/1046-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41895",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Led 5mm/3mm 5 couleurs, 200 en 1",
+     "description": "Kit Led 5mm/3mm 5 couleurs, 200 en 1\n\nCe kit contient 200 LED réparties en 10 variantes : 5 couleurs différentes (Rouge, Vert, Bleu, Blanc, Jaune) chacune disponible en deux tailles (3 mm et 5 mm). C’est un assortiment essentiel pour tous vos projets électroniques, vous offrant un large éventail de possibilités pour l’affichage, l’indication lumineuse, le prototypage et l’expérimentation.\n\nCaractéristiques techniques :\n\nNombre total de LED : 200 pièces\n\nCouleurs incluses : Rouge, Vert, Bleu, Blanc, Jaune\n\nTailles : 3 mm et 5 mm\n\nRépartition :\n\n3mm Rouge – 20 pcs\n\n5mm Rouge – 20 pcs\n\n3mm Vert – 20 pcs\n\n5mm Vert – 20 pcs\n\n3mm Bleu – 20 pcs\n\n5mm Bleu – 20 pcs\n\n3mm Blanc – 20 pcs\n\n5mm Blanc – 20 pcs\n\n3mm Jaune – 20 pcs\n\n5mm Jaune – 20 pcs\n\nTension directe typique : 1.8V–3.2V selon la couleur\n\nCourant nominal : 20 mA\n\nAngle d’émission : environ 120°\n\nBoîtier : Standard transparent, diffuseur clair ou coloré selon couleur\n\nConditionnement : boîte plastique compartimentée\n\nApplications typiques :\n\nProjets Arduino, ESP32, Raspberry Pi\n\nIndicateurs lumineux, voyants de signalisation\n\nEnseignement et prototypage électronique\n\nDécoration lumineuse DIY, maquettes interactives\n\nRéparations ou modifications d’appareils électroniques\n\nRemarques :\n\nUne résistance en série est fortement recommandée pour chaque LED afin de limiter le courant et prolonger leur durée de vie.\n\nRespecter la polarité : la patte longue est l’anode (+) et la patte courte est la cathode (−).",
+     "short_description": "Kit Led 5mm/3mm 5 couleurs, 200 en 1"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/1048-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41938",
+   "price": 360,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Caméra Raspberry Pi V2 8MP",
+     "description": "Caméra Raspberry Pi V2 8MP\n\nLe Raspberry Pi Camera Module V2 est une caméra officielle compacte et performante, dotée d’un capteur Sony IMX219 de 8 mégapixels. Conçue pour s’intégrer parfaitement aux cartes Raspberry Pi via l’interface CSI, elle est idéale pour la photographie, la vidéo HD, la détection de mouvement, la surveillance et les projets embarqués.\n\n🔧 Caractéristiques techniques :\n\nCapteur : Sony IMX219, 8 mégapixels\n\nRésolution photo : 3280 × 2464 pixels\n\nRésolutions vidéo :\n\n1080p à 30 images/s\n\n720p à 60 images/s\n\n640×480 à 90 images/s\n\nObjectif : focale fixe, ouverture f/2.0, longueur focale 3.04 mm\n\nChamp de vision : 62.2°\n\nTaille du capteur : 1/4″\n\nDimensions : 25 × 24 × 9 mm\n\nPoids : environ 3 g\n\nInterface : connecteur CSI (Camera Serial Interface)\n\nCompatibilité : toutes les cartes Raspberry Pi avec port CSI (adaptateur requis pour Raspberry Pi Zero)\n\n💡 Applications typiques :\n\nPhotographie et enregistrement vidéo HD\n\nSurveillance et détection de mouvement\n\nPhotographie en accéléré (time-lapse)\n\nProjets de vision par ordinateur et d’intelligence artificielle\n\nApplications embarquées et robotiques\n\n🧰 Compatibilité et développement :\n\nCompatible avec Raspberry Pi OS et autres distributions Linux\n\nSupportée par les bibliothèques Python telles que picamera\n\nUtilisable avec des outils comme raspistill et raspivid\n\nExemples et documentation disponibles sur le site officiel de Raspberry Pi",
+     "short_description": "Le Raspberry Pi Camera Module V2 est une caméra officielle compacte et performante, dotée d’un capteur Sony IMX219 de 8 mégapixels."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/25-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2792",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Caméra 5MP Raspberry PI",
+     "description": "Caméra 5MP Raspberry PI3\n\nLa caméra 5MP pour Raspberry Pi 3 est une caméra de haute qualité, facile à installer, idéale pour créer une webcam, une caméra IP, ou une caméra de vidéosurveillance. Elle utilise le capteur OmniVision OV5647, permettant une capture vidéo et photo de haute résolution.\n\nCaractéristiques\n\nType de capteur : OmniVision OV5647\n\nRésolution : 5 mégapixels (2592×1944 pixels)\n\nObjectif : f = 3.6mm, f/2.9\n\nAngle de vue : 54×41 degrés\n\nVidéo : 1080p à 30 fps, jusqu’à 90 fps en VGA\n\nFonctionnement\n\nLa caméra se connecte facilement au port CSI du Raspberry Pi et est compatible avec les logiciels de traitement d’image tels que OpenCV. Elle peut capturer des images fixes et des vidéos de haute qualité.\n\nApplications\n\nWebcam : Pour les appels vidéo et la capture d’images.\n\nSurveillance : Utilisée comme caméra de sécurité pour la surveillance vidéo.\n\nProjets éducatifs : Pour des projets de vision par ordinateur et d’intelligence artificielle.\n\nComment l’utiliser\n\nConnexion :\n\nConnectez la caméra au port CSI du Raspberry Pi.\n\nConfiguration :\n\nInstallez les logiciels nécessaires (comme raspistill et raspivid pour capturer des images et des vidéos).\n\nUtilisation :\n\nUtilisez les commandes Linux pour capturer et enregistrer des images ou des vidéos.\n\nConnexions et Composants nécessaires\n\nRaspberry Pi : Carte principale compatible (Raspberry Pi 3 recommandée).\n\nAlimentation : Adaptateur secteur pour le Raspberry Pi.\n\nCâble CSI : Pour connecter la caméra au Raspberry Pi.\n\nFiche technique\n\nMots clés: camera",
+     "short_description": "Une caméra 5 Mégapixels pour Raspberry Pi. Facile à installer, une solution idéale pour concevoir une Webcam, Caméra IP ou Caméra de vidéosurveillance à partir de votre Raspberry Pi.\n\nType de capteur: OmniVision OV5647 Couleur CMOS QSXGA\n\nTaille du capteur: 3.67×2.74mm (1/4 ” format)\n\nNombre de pixels: 2592×1944 (5mégapixels)\n\nPixel Taille: 1.4×1.4 um\n\nObjectif: f = 3.6mm, f/2.9\n\nAngle de Vue: 54×41 degrés\n\nChamp de Vision: 2.0×1.33 m à 2 m\n\nFull-frame REFLEX objectif équivalent: 35mm\n\nMise Au Point fixe: 1 m à l’infini\n\nVidéo: 1080 p à 30 fps avec codec H.264 (AVC)\n\nJusqu’à 90 fps Vidéo à VGA"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/26-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/26-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6021",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ESP-32S Espressif Dual core, 2.4GHZ, Wifi, Bluetooth",
+     "description": "ESP-32S (Esp32s) Dual core, 2.4GHZ Wifi, Bluetooth (ESPRESSIF Original)\n\nLe module ESP-32S est un système sur puce (SoC) à faible coût et faible consommation d’énergie, intégrant Wi-Fi et Bluetooth bi-mode. Ce module est basé sur le microprocesseur dual-core 32 bits Xtensa® LX6, offrant une grande puissance de traitement et de connectivité pour les projets IoT.\n\nCaractéristiques:\n\nRapport performance-prix élevé\n\nPetit volume, facilement intégré à d’autres produits\n\nForte fonction avec le protocole LWIP de soutien, Freertos\n\nPrend en charge trois modes: AP, STA et AP + STA\n\nSupporte le programme Lua, facile à développer.\n\nCPU et mémoire\n\nXtensa® Dual-Core32-bitLX6microprocessors,up to 600 DMIPS\n\n448 KByte ROM\n\n520 KByte SRAM\n\n16 KByte SRAM in RTC\n\nQSPI Flash / SRAM, up to 4×16 MBytes\n\nAlimentation: 2.2V – 3.6V\n\nFonctionnalités avancées\n\n2 convertisseurs Analogique -> Numérique 8 canaux avec une précision sur 12 bit\n\n2 convertisseurs Numérique -> Analogique avec une précision sur 8 bit\n\n16 canaux PWM avec une précision sur 16 bits\n\n3 canaux PWM pour le contrôle de moteurs avec une précision sur 16 bits\n\n2 UART avec contrôle du flux de données + 1 UART\n\n2 interfaces I2C pouvant être utilisées en tant qu’hôte ou esclave\n\n2 interfaces I2S\n\n3 interfaces SPI supportant les modes hôte et esclaves\n\n8 canaux pour des émetteurs et récepteurs IR\n\n10 GPIO compatibles avec des touches tactiles capacitives\n\n1 contrôleur hôte SD / SDIO / MMC compatible avec le standard SD 3.01\n\n1 contrôleur SDIO esclave compatible avec le standard SD 2.0\n\n1 interface JTAG\n\n1 adresse MAC et 1 interface pour contrôleur Ethernet\n\n21 GPIO fonctionnant à 3.3V, pas de compatibilité 5V officielle\n\nHorloges et Temporisateurs\n\nOscillateur interne 8MHz avec étalonnage\n\nOscillateur RC interne avec étalonnage\n\nOscillateur de Cristal Externe 2MHz à 40MHz\n\nOscillateur à quartz externe 32kHz pour RTC avec étalonnage\n\nDeux groupes de minuterie, y compris les minuteurs 2×64 bits et 1x watchdog principal dans chaque groupe\n\nTemporisateur RTC avec une précision inférieure à la seconde\n\nWatchdog RTC\n\nWIFI\n\n802.11 b / g / n / e / i\n\n802.11 n (2,4 GHz), jusqu’à 150 Mbits / s\n\n802.11 e: QoS pour la technologie multimédia sans fil.\n\nWMM-PS, UAPSD\n\nMPDU et A-MSDU agrégation\n\nBloquer ACK\n\nFragmentation et défragmentation\n\nSurveillance / balayage automatique des balises\n\nFonctions de sécurité 802.11 i: pré-authentification et TSN\n\nAccès protégé Wi-Fi (WPA) / WPA2 / WPA2-Entreprise / Wi-Fi Protected Setup (WPS)\n\nInfrastructure BSS Station mode / mode SoftAP\n\nWi-Fi Direct (P2P), Découverte P2P, Mode Propriétaire du groupe P2P et Gestion de l’alimentation P2P\n\nUMA conforme et certifié\n\nDiversité d’antennes et sélection\n\nBluetooth\n\nConforme à la spécification Bluetooth v4.2 BR / EDR et BLE\n\nÉmetteur classe 1, classe 2 et classe 3 sans amplificateur de puissance externe\n\nContrôle de puissance amélioré\n\n+10 dBm de puissance d’émission\n\nRécepteur NZIF avec une sensibilité de -98 dBm\n\nSaut de fréquence adaptatif (AFH)\n\nIHM standard basé sur SDIO / SPI / UART UART haute vitesse UART, jusqu’à 4 Mbits / s\n\nContrôleur BT 4.2 et pile hôte\n\nService Discover Protocol (SDP)\n\nProfil d’accès général (GAP)\n\nSecurity Manage Protocol (SMP)\n\nBluetooth Low Energy (BLE)\n\nATT / GATT\n\nHID\n\nTous les profils basés sur le GATT sont pris en charge\n\nProfil fondé sur le SPP, basé sur le GATT\n\nBalise BLE\n\nA2DP / AVRCP / SPP, HSP / HFP, RFCOMM\n\nCVSD et SBC pour le codec audio\n\nBluetooth Piconet et Scatternet.\n\nApplication\n\nConcentrateur de capteur IoT générique de faible puissance\n\nEnregistreurs IoT génériques de faible puissance\n\nVidéo en streaming depuis une caméra\n\nDispositifs Over The Top (OTT)\n\nLecteurs audio – Lecteurs de musique Internet – Appareils de diffusion audio\n\nJouets compatibles Wi-Fi – Loggers – Jouets de détection de proximité\n\nDispositifs de reconnaissance vocale Wi-Fi\n\nCasques audio\n\nAutomatisation domotique\n\nMesh Network\n\nIoT : Surveillance et contrôle à distance.\n\nAutomatisation : Domotique, projets interactifs.\n\nPrototypage rapide : Développement de solutions connectées.\n\nFonctionnement\n\nLe module ESP-32S peut être programmé via l’IDE Arduino, MicroPython ou ESP-IDF. Il est idéal pour les applications IoT, les systèmes de maison intelligente, les dispositifs de surveillance à distance, etc.\n\nComment ajouter le support pour ESP32 dans l’IDE Arduino\n\nInstallation de l’IDE Arduino :\n\nTéléchargez et installez l’IDE Arduino depuis le site officiel.\n\nAjout du support pour ESP32 :\n\nOuvrez l’IDE Arduino.\n\nAllez dans Fichier > Préférences.\n\nDans la section URL de gestionnaire de cartes supplémentaires, ajoutez : https://dl.espressif.com/dl/package_esp32_index.json.\n\nAllez dans Outils > Gestionnaire de cartes et recherchez “esp32”.\n\nSélectionnez “esp32” et cliquez sur “Installer”.\n\nConfiguration de la carte :\n\nSélectionnez Outils > Type de carte > ESP32 Dev Module.\n\nExemple de projet : Clignotement d’une LED\n\nCet exemple montre comment faire clignoter une LED connectée à une broche GPIO.\n\nConnexion :\n\nConnectez la LED à la broche GPIO 2 avec une résistance de 220Ω en série.\n\nConnectez l’autre côté de la LED au GND.\n\nCode Arduino :\n\nvoid setup() {\r\npinMode(2, OUTPUT); // Configure la broche 2 comme sortie\r\n}\r\n\nvoid loop() {\r\ndigitalWrite(2, HIGH); // Allume la LED\r\ndelay(1000); // Attend une seconde\r\ndigitalWrite(2, LOW); // Éteint la LED\r\ndelay(1000); // Attend une seconde\r\n}\n\nTéléversement du code :\n\nConnectez le module ESP-32S à votre ordinateur via le câble micro-USB.\n\nSélectionnez le port correspondant dans Outils > Port.\n\nCliquez sur Téléverser pour envoyer le programme à la carte.\n\nExplication du code\n\nsetup() : Initialise la broche 2 comme une sortie.\n\nloop() : Fait clignoter la LED toutes les secondes en alternant entre HIGH et LOW.\n\nConnexions et Composants nécessaires\n\nCâble micro-USB : Pour alimentation et programmation.\n\nLED et résistance : Pour le test de clignotement.\n\nBreadboard et fils : Pour les connexions.\n\nFiche technique",
+     "short_description": "ESP32 est une série de systèmes à faible coût et à faible consommation d’énergie sur microcontrôleur à puce avec Wi-Fi intégré et Bluetooth bi-mode. La série ESP32 utilise un microprocesseur Tensilica Xtensa LX6 dans les deux versions dual-core et monocœur et inclut des commutateurs d’antenne intégrés, un balun RF, un amplificateur de puissance, un amplificateur de réception à faible bruit, des filtres et des modules de gestion de l’alimentation."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/34-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/34-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/34-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/34-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30888",
+   "price": 480,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Power Bank 50000mAh QC4.0 PD 20W USB-C",
+     "description": "Power Bank 50000mAh QC4.0 PD 20W USB-C\n\nBénéficiez d’une charge rapide et fiable avec la Power Bank Shtel P50 de 50000 mAh. Dotée d’une capacité exceptionnelle de 22.5W, cette batterie externe offre une charge ultra-rapide de 22.5W via USB PD 20W. Idéale pour tous vos appareils électroniques, elle garantit une haute capacité de charge, vous permettant de rester connecté en toutes circonstances.\n\nAvec sa conception portable, la Power Bank Shtel P50 est l’accessoire parfait pour vos déplacements. Sa compatibilité étendue la rend adaptée à la plupart des appareils électroniques. Ne manquez plus jamais de batterie avec cette solution de charge haute performance.\n\nMarque : SHTEL\n\nCharge rapide Oui\n\nCharge ultra-rapide : Oui, 22.5W\n\nCharge via USB PD : Oui, 20W\n\nCapacité de la batterie : 50000 mAh\n\nPuissance de charge : 22.5W\n\nType de charge : USB PD 20W\n\nAffichage : afficheur d’indication de pourcentage de charge\n\nLampe Led : activé en appuyant sur le bouton ON pendant 3s\n\nEntrées: Type-c, Micro, Lightning DC 5V 2A, 9V 2A, 12V 1.5A\n\nSortie1: 4.5V 5A, 5v 3A, 9V 2A, 12V 1.5A 22.5w max\n\nSortie2: 5v 3A, 9V 2.22A, 12V 1.67A PD20w max\n\nCompatibilité : étendue Adaptée à la plupart des appareils électroniques",
+     "short_description": "Power Bank 50000mAh QC4.0 PD 20W USB-C"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/07/483-b-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3209",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support Pour Batterie 3V CR2032/CR2025",
+     "description": "🔋 Support pour Pile 3 V CR2032/CR2025 — Alimentation compacte pour circuits électroniques\n\nLe support pour pile bouton CR2032 ou CR2025 permet d’installer facilement une pile au lithium de 3 V sur un circuit électronique. Il maintient fermement la pile tout en facilitant son insertion et son remplacement, sans avoir à souder directement sur celle-ci.\n\n⚙️ Caractéristiques techniques\n\nType : support pour pile bouton\n\nPiles compatibles : CR2032 et CR2025\n\nTension nominale de la pile : 3 V\n\nDiamètre compatible : 20 mm\n\nÉpaisseur CR2032 : 3,2 mm\n\nÉpaisseur CR2025 : 2,5 mm\n\nPolarité : positive et négative\n\nInstallation : sur circuit électronique\n\nPile incluse : non\n\n✨ Points forts\n\n🔋 Compatible avec deux formats courants de piles 3 V\n\n🔄 Remplacement rapide de la pile\n\n🛡️ Maintien stable et contacts fiables\n\n📦 Encombrement réduit\n\n🔧 Évite de souder directement sur la pile\n\n💡 Applications principales\n\nHorloges RTC et sauvegarde de l’heure\n\nMémoires et paramètres de secours\n\nTélécommandes et petits appareils\n\nCalculatrices et jouets électroniques\n\nBalises, capteurs et objets connectés\n\nPrototypes Arduino, ESP32 et Raspberry Pi\n\n🔧 Tutoriel d’utilisation\n\nRepérez les indications + et − sur le support ou vérifiez-les au multimètre.\n\nInstallez le support sur votre circuit en respectant la polarité.\n\nInsérez la pile avec la face marquée + orientée vers le contact positif.\n\nMesurez la tension aux bornes : une pile neuve doit fournir environ 3 V.\n\nCoupez l’alimentation avant de retirer ou de remplacer la pile.\n\n⚠️ Les piles CR2032 et CR2025 ne sont pas rechargeables. Elles conviennent aux circuits à faible consommation, mais pas à l’alimentation directe de moteurs, relais ou LED de puissance.\n\n⚠️ Gardez les piles bouton hors de portée des enfants. Leur ingestion constitue une urgence médicale grave.\n\nMots clés: battery, holder.",
+     "short_description": "Support compact pour piles bouton CR2032 et CR2025 de 3 V, idéal pour les horloges RTC, mémoires et circuits à faible consommation."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/498-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/498-1.png"
+   ]
+  }
+ ]
+}

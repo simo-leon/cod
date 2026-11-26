@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6117",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BTA24 Triac To-220 25A 600V",
+     "description": "Triac TO-220 BTA24 25A 600V\n\nTriac TO-220 BTA24 25A 600V.\n\nTriac de courant élevé\n\nFaible résistance thermique avec liaison par clip\n\nCommutation élevée (4 quadrants) ou très élevée, commutation (3 quadrants)\n\nFiche technique",
+     "short_description": "Triac TO-220 BTA24 25A 600V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/750-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20818",
+   "price": 9,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BTA16 Triac To-220 16A 600V",
+     "description": "BTA16 Triac TO-220 16A 600V\n\nBTA16 Triac TO-220 16A 600V.\n\nTriac de courant élevé\n\nFaible résistance thermique avec liaison par clip\n\nCommutation élevée (4 quadrants) ou très élevée, commutation (3 quadrants)\n\nFiche technique",
+     "short_description": "BTA16 Triac TO-220 16A 600V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/750-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7134",
+   "price": 11,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TNY178PN Convertisseur AC-DC 16W",
+     "description": "TNY178PN Convertisseur AC-DC 16W\n\nTNY178PN Convertisseur AC-DC 16W 85-265 VAC, DIP8.\n\nFiche technique",
+     "short_description": "TNY178PN Convertisseur AC-DC 16W 85-265 VAC, DIP8."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/794-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7145",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LNK305PN Convertisseur AC-DC",
+     "description": "LNK305PN Convertisseur AC-DC\n\nLNK305PN Convertisseur AC-DC 85-265 VAC, DIP8.\n\nFiche technique",
+     "short_description": "LNK305PN Convertisseur AC-DC 85-265 VAC, DIP8."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/797-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5964",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM338 Régulateur de Tension To-220 1.2V-32V 5A",
+     "description": "Régulateur de Tension To-220 LM338 1.2V-32V 5A\n\nRégulateur de Tension To-220 LM338 1.2V-32V 5A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 LM338 1.2V-32V 5A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/04/810-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3693",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM1117T Régulateur de Tension To-220 3.3V 0.8A",
+     "description": "Régulateur de Tension To-220 LM1117T 3.3V 0.8A\n\nRégulateur de Tension To-220 LM1117T 3.3V 0.8A.\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 LM1117T 3.3V 0.8A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/819-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/819-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3694",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7805 Régulateur de Tension To-220 5V 1.5A",
+     "description": "Régulateur de Tension To-220 L7805 5V 1.5A\n\nRégulateur de Tension To-220 L7805 5V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7805 5V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/820-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/820-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3695",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7806 Régulateur de Tension To-220 6V 1.5A",
+     "description": "Régulateur de Tension To-220 L7806 6V 1.5A\n\nRégulateur de Tension To-220 L7806 6V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7806 6V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/821-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/821-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3696",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7808 Régulateur de Tension To-220 8V 1.5A",
+     "description": "Régulateur de Tension To-220 L7808 8V 1.5A\n\nRégulateur de Tension To-220 L7808 8V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7808 8V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/822-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/822-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3697",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L7809 Régulateur de Tension To-220 9V 1.5A",
+     "description": "Régulateur de Tension To-220 L7809 9V 1.5A\n\nRégulateur de Tension To-220 L7809 9V 1.5A.\n\nMarque: STMicroelectronics\n\nFiche technique",
+     "short_description": "Régulateur de Tension To-220 L7809 9V 1.5A"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/823-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/823-2.png"
+   ]
+  }
+ ]
+}

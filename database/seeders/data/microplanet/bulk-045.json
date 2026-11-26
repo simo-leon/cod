@@ -1,0 +1,203 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-30861",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL4015 5A Abaisseur de Tension Avec Voltmétre",
+     "description": "Abaisseur de Tension Avec Voltmétre XL4015 5A\n\nAlimentation abaisseur de tension à base de XL4015 avec la tension de sortie réglable, la tension peut être régler à l’aide d’un potentiométre, et à l’aide d’un voltmétre intégrée qui mesure la tension de sortie ou d’entrée en temps réel. ce module peut facilement atteindre 3.5A 50W, en ajoutant le dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance.\n\nCaractéristiques:\n\nMode: non synchrone\n\nTension d’entrée: 5V-36V\n\nTension de sortie: 1V-32V\n\nCourant de sortie: 5A max\n\nEfficacité de conversion: 95% (max)\n\nFréquence de commutation: 300KHz\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nOnduleur de sortie: 50mV (maximum) 20M de bande passante\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 66mm * 38mm * 14mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de XL4015 avec la tension de sortie réglable, la tension peut être régler à l’aide d’un potentiométre, et à l’aide d’un voltmétre intégrée qui mesure la tension de sortie ou d’entrée en temps réel."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/07/474-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3185",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL4015 5A Abaisseur de Tension Digital Avec Voltmétre",
+     "description": "Abaisseur de Tension Digital Avec Voltmétre XL4015 5A\n\nAlimentation abaisseur de tension à base de XL4015 avec la tension de sortie réglable, ce qui différencie ce module, c’est qu’il est complètement numérique, donc pas besoin d’un potentiométre, la tension peut être régler à l’aide des boutons avec des pas de 0.1V ou 1V, et à l’aide d’un voltmétre intégrée qui mesure la tension de sortie ou d’entrée en temps réel. ce module peut facilement atteindre 3.5A 50W, en ajoutant un dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance.\n\nInterface de module:\n\nBouton ON/OFF:\n\nappui bref: éteindre/allumer la sortie\n\nappui long: régler l’état initiale de la sortie ON/OFF (il est recommandé de régler l’état initiale de la sortie en OFF)\n\nBouton I/O:\n\nappui bref: basculer entre l’affichage de tension d’entrée ou de sortie\n\nappui long: désactiver/activer le voltmétre\n\nBouton (+):\n\nappui bref: incrémenter la tension de sortie par 0.1v\n\nappui long: incrémenter la tension de sortie par 1v\n\nBouton (-):\n\nappui bref: décrémenter la tension de sortie par 0.1v\n\nappui long: décrémenter la tension de sortie par 1v\n\nCaractéristiques:\n\nMode: non synchrone\n\nTension d’entrée: 5V-36V\n\nTension de sortie: 1V-32V\n\nCourant de sortie: 5A max (plus de 3.5A nécessite d’ajouter un refroidisseur)\n\nEfficacité de conversion: 95% (max)\n\nFréquence de commutation: 300KHz\n\nRégulation de charge: ± 0,5%\n\nRégulation de tension: ± 2,5%\n\nOnduleur de sortie: 50mV (maximum) 20M de bande passante\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 69mm * 39mm * 18mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de XL4015 avec la tension de sortie réglable, ce qui différencie ce module, c’est qu’il est complètement numérique, donc pas besoin d’un potentiométre, la tension peut être régler à l’aide des boutons avec des pas de 0.1V ou 1V, et à l’aide d’un voltmétre intégrée qui mesure la tension de sortie ou d’entrée en temps réel. ce module peut facilement atteindre 4A 50W, en ajoutant un dissipateur de chaleur il peut atteindre 75W 5A, et avec une efficacité élevée et une haute performance."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/475-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/475-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3194",
+   "price": 280,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "B3603 3A Abaisseur de Tension CC-CV Digital",
+     "description": "Abaisseur de Tension CC-CV Digital B3603 3A\n\nAlimentation Abaisseur de Tension Digital (numérique) B3603, Cette alimentation est équipé d’un afficheur et des boutons pour régler la tension (CV) et limiter le courant de sortie (CC) et d’autres options comme affichage en temps réel, de tension, courant, puissance (W), capacité (AH) en cas de chargement / déchargement des batteries ou transformation d’énergie solaire…\n\nLa fonction mémoire peut enregistrer 10 groupes de paramètres, avec la possibilité de les récupérer en tout moment.\n\nAvec des microprocesseurs avancés, il permet un réglage précis de la tension et du courant de sortie.\n\nPeut définir l’état initiale de la sortie après la mise sous tension du module.\n\nUne touche pour économiser la tension actuelle et les valeurs actuelles.\n\nAvec les indicateurs de sortie “OUT”, tension constante “CV” et courant constant “CC”, vous pouvez vérifier l’état de fonctionnement en temps réel.\n\nL’affichage numérique à 4 chiffres montre la tension de sortie, le courant, la puissance, la capacité et d’autres paramètres en temps réel de manière automatique ou manuelle.\n\nLa fonction de tension et courant constante assurent la stabilité de la tension de sortie, même lorsque la tension d’entrée se fluctuer.\n\nCaractéristiques:\n\nTension d’entrée: 6V-40V\n\nTension de sortie: 0V-36V\n\nCourant de sortie: 0-3A max (plus de 2.5A, un dissipateur thermique supplémentaire est requis)\n\nEfficacité de conversion: 92% (max)\n\nFréquence de commutation: 150KHz\n\nOndulation de sortie: 30mV (maximum)\n\nRésolution d’affichage: tension (0.01V) courant (0.001A) puissance (0.001W) capacité (0.001Ah)\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 66mm * 50mm * 21mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation Abaisseur de Tension/Courant Digital (numérique), Cette alimentation est équipé d’un afficheur et des boutons pour régler la tension (CV) et limiter le courant de sortie (CC) et d’autres options comme affichage en temps réel, de tension, courant, puissance (W), capacité (AH) en cas de chargement / déchargement des batteries ou transformation d’énergie solaire…\n\nTension d’entrée: 6V-40V\n\nTension de sortie: 0V-36V\n\nCourant de sortie: 0-3A max (plus de 2.5A, un dissipateur thermique supplémentaire est requis)\n\nEfficacité de conversion: 92% (max)\n\nFréquence de commutation: 150KHz\n\nOndulation de sortie: 30mV (maximum)\n\nRésolution d’affichage: tension (0.01V) courant (0.001A) puissance (0.001W) capacité (0.001Ah)\n\nTempérature de fonctionnement: -40 ° C – + 85 ° C\n\nProtection contre polarité inverse d’entrée: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimension: 66mm * 50mm * 21mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/478-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/478-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/478-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42102",
+   "price": 420,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XY-6020L 1200W 20A 60V Abaisseur de Tension avec Afficheur",
+     "description": "XY-6020L 1200W 20A 60V Abaisseur de Tension avec Afficheur\n\nLe XY-6020L est un convertisseur abaisseur à courant constant/tension constante (CC/CV) de 1200 W, capable de gérer jusqu’à 20 A en sortie sous 0–60 V, avec une large plage d’entrée (6–70 V DC). Son grand écran LCD et son encodeur rotatif offrent un réglage et une lecture en temps réel de la tension, du courant, de la puissance et de l’énergie.\n\n🔧 Caractéristiques techniques\n\nModule : XY-6020L\n\nTension d’entrée : 6–70 V DC\n\nTension de sortie : 0,00–60,00 V DC (résolution 0,01 V)\n\nCourant de sortie : 0,00–20,00 A (résolution 0,01 A)\n\nPuissance maximale : 1200 W\n\nMode CC/CV automatique : maintien de la valeur programmée\n\nAfficheur : grand LCD rétroéclairé (lecture V, I, P, Ah, Wh, Tps)\n\nContrôle : encodeur rotatif + bouton de validation\n\nRefroidissement : ventilateur intégré, activation auto (>2 A ou >50 W, température >50 °C)\n\nProtections :\n\nsurtension d’entrée (réglable, défaut 71 V)\n\nsous-tension d’entrée (réglable, défaut 4,8 V)\n\nsurintensité (0–22 A, défaut 22 A)\n\nsurpuissance (0–1250 W, défaut 1250 W)\n\nsurchauffe (réglable 60–110 °C, défaut 95 °C)\n\ncourt-circuit en sortie\n\nPrécision : tension ±0,4 % +1 digit, courant ±0,5 % +3 digits\n\nDimensions : 160 × 110 × 35 mm\n\nPoids : env. 400 g\n\n💡 Applications typiques\n\nBancs d’essai et alimentation de laboratoire\n\nCharge de batteries (CC/CV programmable)\n\nPilotage de moteurs DC et LED haute puissance\n\nProjets IoT et prototypes avec besoins CC/CV\n\nAutomatisation industrielle et tests de composants\n\n🛠️ Brochage / Câblage\n\nBroche\nFonction\nConnexion typique\n\nVIN+\nEntrée + (6–70 V)\n+ de la source DC\n\nVIN–\nEntrée – (masse)\n– de la source DC\n\nVOUT+\nSortie + (0–60 V)\n+ de la charge\n\nVOUT–\nSortie – (masse)\n– de la charge\n\nGND\nMasse logique (afficheur et logique)\nMasse commune\n\nBranchez VIN+/ VIN– à votre alimentation, VOUT+/ VOUT– à la charge, puis réglez la tension et le courant via l’encodeur pour démarrer la sortie.\n\nFiche technique\n\nGuide d’utilisation et configuration du module XY-6020L\n\nLe module XY-6020L est un convertisseur DC-DC ajustable à courant constant/tension constante (CV / CC) offrant jusqu’à 1200 W (60 V @ 20 A). Il associe une carte de puissance et un contrôleur LCD séparés, et propose de nombreux modes de réglage et interfaces externes .\n\nConnexions électriques:\n\nVIN+ / VIN– (6–70 V DC) → entrée d’alimentationVOUT+ / VOUT– (0–60 V DC @ 0–20 A) → sortie vers la chargeGND (logique) → masse commune pour le contrôleur LCDPorts et headers :• XH2.54-2P blanc : sonde NTC externe (10 kΩ) pour protection température • UART (4 broches) : interface RS485 Modbus ou module Wi-Fi XY-WFPOW • 3-bit toggle switch (DIP) : preset de tension stand-alone (5 V, 9 V, 12 V, 24 V, 36 V, 48 V, 60 V) • Power switch ON/OFF : alimentation logique du module\n\nPanneau LCD et encodeur\n\nLe contrôleur affiche simultanément :– tension sortie, courant sortie, puissance, capacité (Ah), énergie (Wh), durée (h), tension d’entrée, état CV/CC, ON/OFF Encodeur rotatif + bouton intégré servent à naviguer et modifier les paramètres.\n\nFonctionnement des boutons\n\nV/A (bouton du haut) :• Courte pression : entrer/sortir mode réglage tension (CV) ou courant (CC)SW (bouton du milieu) :• Courte pression : basculer affichage entrée/sortie tension (ICONS “IN” pour entrée) ou naviguer• Maintien (2 s) : entrer interface générale de réglage des paramètresON/OFF (bouton du bas) :• Courte pression : activer/désactiver la sortie• Maintien (2 s) : effacer statistiques (Ah, Wh, h)\n\nRéglage de la tension et du courant\n\nEn mode normal, appuyer sur V/A pour entrer en réglage tension (symbole SET+CV).\n\nTourner l’encodeur pour changer la valeur (résolution 0,01 V) ; courte pression sur l’encodeur ou SW pour sélectionner le chiffre à modifier.\n\nReappuyer sur V/A pour passer au réglage du courant (symbole SET+CC, résolution 0,01 A).\n\nRefaire tourner l’encodeur pour ajuster, puis V/A longue pression pour sauvegarder et revenir en mode normal\n\nRépertoire de paramètres avancés\n\n• 10 presets de sortie (Cd0 – Cd9) : accès rapide aux couples tension/courant prédéfinis GY21208GY21208• Verrouillage des paramètres : maintien sur encodeur (2 s) pour bloquer la modification accidentelle• Protection LVP/OVP/OCP/OPP/OTP/ETP/OHP/OAH/OPH : réglables en interface paramètre (valeurs et unités ajustables) GY21208GY21208• Timeout (0–100 h), over-capacity (0–9999 Ah), over-energy (0–9999 Wh) : coupure automatique selon seuil GY21208GY21208\n\nStand-alone via toggle switch 3 bits\n\nLorsque le contrôleur LCD n’est pas utilisé, basculer le DIP (ON = 1, NC = 0) sur la carte de puissance pour sélectionner une tension fixe (5 V, 9 V, 12 V, 24 V, 36 V, 48 V ou 60 V). Le courant max reste 20 A. Le réglage par encodeur est désactivé GY21208GY21208\n\nContrôle externe\n\nModbus RTU (RS485) : connecteur UART + module RS485 TTL → communiquer via registre Modbus, piloter V/I, lire paramètresWi-Fi (XY-WFPOW + app SiniLink) : brancher module Wi-Fi sur header UART, enregistrer dans l’app, contrôler et monitorer à distance GY21208GY21208\n\nSonde de température externe\n\nConnecter une NTC 10 kΩ à la prise blanche XH2.54-2P pour activer la protection thermique externe (ETP) réglable 0–110 °C GY21208GY21208\n\nMémoire et démarrage\n\nLes derniers réglages (tension, courant, mode) sont mémorisés en cas de coupure d’alimentation. En redémarrage, le module reprend l’état précédent (ON ou OFF).\n\nÉtapes de mise en service\n\nVérifier DIP en NC pour mode LCD (ou positionner presets)\n\nBrancher VIN+ / VIN–\n\nMettre sous tension chassis (interrupteur ON)\n\nRégler V/I selon besoins\n\nConnecter la charge sur VOUT+ / VOUT–\n\nActiver la sortie (bouton ON/OFF ou via commande externe) GY21208GY21208\n\nRemarques\n\n– Toujours respecter VOUT < VIN – 1,1* et spécification thermique– Ventilateur auto-contrôlé s’active > 2 A ou > 50 W ou > 50 °C– Lire attentivement les protections et presets avant utilisation– Pour la charge de batterie, s’assurer VSET > tension batterie et DIP en NC\n\nVous disposez désormais de tous les réglages et interfaces pour exploiter pleinement les capacités du XY-6020L.",
+     "short_description": "Le XY-6020L est un convertisseur abaisseur à courant constant/tension constante (CC/CV) de 1200 W avec afficheur, capable de gérer jusqu’à 20 A en sortie sous 0–60 V, avec une large plage d’entrée (6–70 V DC)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/478-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/478-a-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/478-a-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7965",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XL7015 5-80V Abaisseur de Tension",
+     "description": "Abaisseur de Tension XL7015 5-80V\n\nAlimentation abaisseur de tension à base de XL7015, avec une efficacité élevée et une haute performance. La tension de sortie est réglable à l’aide du potentiomètre de haute précision.\n\nTension d’entrée: 5-80V\n\nTension de sortie: 5-20V\n\nCourant de sortie: 0.8A max (0.6A recommendée)\n\nFréquence de fonctionnement: 150 KHz\n\nProtection contre polarité inverse: non\n\nProtection contre court-circuit: oui\n\nFonction d’arrêt thermique intégrée\n\nDimensions: 16 mm * 44 mm\n\nFiche technique\n\nMots clés: buck, converter, power, supply.",
+     "short_description": "Alimentation abaisseur de tension à base de XL7015, avec une efficacité élevée et une haute performance. La tension de sortie est réglable à l’aide du potentiomètre de haute précision."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/01/479-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34441",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "XY-3606 3A Abaisseur de Tension",
+     "description": "XY-3606 3A Abaisseur de Tension\n\nLe module abaisseur réglable XY-3606 24V/12V à 5V 5A convertit la tension d’entrée 6-24 V CC en sortie 5V 5A. Il ajuste automatiquement la sortie comme une sortie stable de 5 volts CC. Ce module peut également être utile lorsque vous alimentez votre robot basé sur Raspberry Pi avec une batterie 12V. Comme il offre une grande efficacité, il économisera également la batterie.\n\nCaractéristiques :\n\nSchéma de redressement synchrone\n\nAvec prise CC et bornier, facile à utiliser ;\n\nAvec port USB, avec puce d’identification de charge rapide Compatible avec Android iPhone\n\nTension d’alimentation d’entrée : 9 V ~ 36 VDC\n\nTension de sortie : 5,2V / 5A / 25 W.\n\nCapacité de sortie :\n\nEntrée 9 ~ 24 V : sortie 5,2V / 6A/ 30 W.\n\nEntrée 24 ~ 32 V : sortie 5,2V / 5A / 25 W.\n\nEntrée 32 ~ 36 V : sortie 5,2V / 3,5A / 18 W.\n\nLongueur : 63 mm\n\nLargeur : 27 mm\n\nHauteur : 10mm\n\nPoids : 22 g",
+     "short_description": "Le module abaisseur réglable XY-3606 24V/12V à 5V 5A convertit la tension d’entrée 6-24 V CC en sortie 5V 5A. Il ajuste automatiquement la sortie comme une sortie stable de 5 volts CC"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0479-A.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6376",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "1S 15A BMS Chargeur de Batteries Lithium 1 Cellule",
+     "description": "Chargeur de Batteries Lithium 1 Cellule 1S 15A, Avec circuit de protection\n\nCe module est un chargeur de batteries lithium ( 1 cellule ) de 3.6-3.7V comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 15A max.\n\nCircuit de détection de tension de haute précision;\n\nBorne du chargeur utilisant un dispositif haute tension;\n\nCircuit intégré de détection de surintensité à trois étages (surintensité 1, surintensité 2, court-circuit de charge);\n\nLe transistor MOS peut contrôler la charge et la décharge de la batterie\n\nCaractéristiques:\n\nTension de charge: 4.25 ± 0.05V\n\nTension de coupure de charge: 4.23 ± 0.05V\n\nTension de coupure de décharge: 2.54 ± 0.1V\n\nCourant continu de charge / décharge maximum: 15A\n\nTaille: 35 * 7 * 2mm\n\nPoids: 10g\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module est un chargeur de batteries lithium ( 1 cellule ) de 3.6-3.7V comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 15A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/485-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/485-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42108",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2S 10A BMS Chargeur de Batteries Lithium 2 Cellules",
+     "description": "2S 10A BMS Chargeur de Batteries Lithium 2 Cellules\n\nCe module 2S 10A BMS protège et équilibre automatiquement deux cellules Li-ion (18650, 3,7 V nominal), garantissant une charge sûre et une décharge contrôlée de votre pack 7,4 V.\n\n🔧 Caractéristiques techniques\n\nConfiguration : 2 cellules en série (7,4 V nominal, 8,4 V max)\n\nCourant continu charge/décharge : 10 A (pointes jusqu’à 15 A)\n\nCourant d’équilibrage : ≃ 20–30 mA/cellule\n\nCourant de veille : < 10 µA\n\nRésistance interne : < 300 mΩ\n\nProtection surcharge : détection à 4,26–4,31 V/cellule, rétablissement 4,03–4,13 V, délai 700–1300 ms\n\nProtection décharge excessive : détection à 2,82–2,98 V/cellule, rétablissement 2,90–3,10 V, délai 70–150 ms\n\nProtection court-circuit & inversion de polarité : coupure instantanée et rétablissement à la suppression du défaut\n\nCompensation thermique : non intégrée\n\nTempérature de fonctionnement : – 20 °C à + 60 °C\n\nDimensions : ~ 40 × 16 × 3,5 mm\n\n💡 Applications typiques\n\nPacks Li-ion 7,4 V pour drones, e-bikes, modélisme RC\n\nPowerbanks et systèmes de secours DC – DC\n\nOnduleurs portables et mini-UPS DIY\n\nBancs de test batterie et stations de charge maison\n\nProjets embarqués (Arduino, ESP32) alimentés par pack Li-ion\n\n🛠️ Connexions / Brochage\n\nBroche\nFonction\n\nB–\nNégatif pack (– de la batterie)\n\nB1\nConnexion intermédiaire (– de la 2ᵉ cellule)\n\nB+\nPositif pack (+ de la batterie)\n\nP–\nSortie négative (vers chargeur / charge)\n\nP+\nSortie positive (souvent reliée à B+, vers chargeur / charge)\n\nSchéma de câblage\n\nB– → pôle négatif du pack\n\nB1 → séparateur entre cellule 1 et cellule 2\n\nB+ → pôle positif du pack\n\nP– / P+ → bornes vers chargeur et vers consommateurs (si distinctes)\n\nVeillez à bien isoler le module et à respecter la polarité lors de l’installation.\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module BMS 2S 10A protège et équilibre automatiquement deux cellules Li-ion (18650, 3,7 V nominal)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/486-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/486-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6384",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "3S 10A BMS Chargeur de Batteries Lithium 3 Cellules",
+     "description": "Chargeur de Batteries Lithium 3 Cellules 3S 10A\n\nCe module est un chargeur de batteries lithium de 3.6-3.7V ( 3 cellules en séries 10.8V 11.1V)  comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 10A max.\n\nCircuit de détection de tension de haute précision;\n\nBorne du chargeur utilisant un dispositif haute tension;\n\nCircuit intégré de détection de surintensité à trois étages (surintensité 1, surintensité 2, court-circuit de charge);\n\nLe transistor MOS peut contrôler la charge et la décharge de la batterie\n\nFaible consommation de courant en veille.\n\nCaractéristiques:\n\nCourant de décharge maximum: 10A\n\nCourant de fonctionnement maximum: 5A-8A\n\nCourant transitoire: 9A-10A\n\nTension de coupure de charge: 4.25-4.35V ± 0.05V\n\nTension de coupure de décharge: 2.3-3.0V ± 0.05V\n\nTempérature de fonctionnement: -40 ~ 50 degrés\n\nCourant en veille: <6uA\n\nRésistance interne: <60 mΩ\n\nDurée de vie: > 30 000 heures\n\nTaille: 50x21x1mm\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module est un chargeur de batteries lithium de 3.6-3.7V ( 3 cellules en séries 10.8V 11.1V)  comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 10A max."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/487-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/487-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6395",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "3S 20A BMS Chargeur de Batteries Lithium 3 Cellules",
+     "description": "Chargeur de Batteries Lithium 3 Cellules 3S 20A\n\nCe module est un chargeur de batteries lithium de 3.6-3.7V ( 3 cellules en séries 10.8V 11.1V)  comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 20A max.\n\nCircuit de détection de tension de haute précision;\n\nBorne du chargeur utilisant un dispositif haute tension;\n\nCircuit intégré de détection de surintensité à trois étages (surintensité 1, surintensité 2, court-circuit de charge);\n\nLe transistor MOS peut contrôler la charge et la décharge de la batterie\n\nFaible consommation de courant en veille.\n\nCaractéristiques:\n\nCourant de décharge maximum: 20A\n\nCourant de fonctionnement maximum: 15A\n\nTenson de chargement: 12.6V\n\nTension de coupure de charge: 4.25-4.35V ± 0.05V\n\nTension de coupure de décharge: 2.5-3.0V ± 0.05V\n\nTempérature de fonctionnement: -40 ~ 50 degrés\n\nCourant en veille: <30uA\n\nRésistance interne: <100 mΩ\n\nDurée de vie: > 30 000 heures\n\nTaille: 58x20x3.6mm\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module est un chargeur de batteries lithium de 3.6-3.7V ( 3 cellules en séries 10.8V 11.1V)  comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 20A max."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/488-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/488-2.png"
+   ]
+  }
+ ]
+}

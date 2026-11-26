@@ -1,0 +1,202 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3000",
+   "price": 70,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 1602 Avec Clavier",
+     "description": "Afficheur LCD 1602 Avec Clavier\n\nCe shield permet simplement de rajouter une interface conviviale à votre projet Arduino ou autre. Il permet aux utilisateurs de passer par un menu, faire des sélections, etc. Il est constitué d’un afficheur LCD 1602 (caractères blancs sur un rétro éclairage bleu) et d’un clavier avec 5 touches : sélection, haut, droite, bas et gauche.\n\nCaractéristiques :\n\nLCD 1602\n\nClavier 5 touches\n\nCapacité d’affichage: 16 × 2 caractères\n\nTension de fonctionnement: 4.5-5.5V\n\nCourant de fonctionnement: 2.0mA (5.0V)\n\nDimensions: 2.95 × 4.35 mm.\n\nMots clés: keypad, display, screen.",
+     "short_description": "Ce shield permet simplement de rajouter une interface conviviale à votre projet Arduino ou autre. Il permet aux utilisateurs de passer par un menu, faire des sélections, etc. Il est constitué d’un afficheur LCD 1602 (caractères blancs sur un rétro éclairage bleu) et d’un clavier avec 5 touches : sélection, haut, droite, bas et gauche.\n\nLCD 1602\n\nClavier 5 touches"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/250-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2999",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 2004",
+     "description": "Afficheur LCD 2004\n\nCet afficheur LCD 2004 20×04 permet de visualiser des lettres, des nombres, des symboles. Il permet d’afficher 4 lignes de 20 caractères chacune. Transfert de données 4 et 8 bits. Offre aussi une matrice de 5×7 et un curseur.\n\nCaractéristiques :\n\nAlimentation : 5V\n\n4 lignes\n\n20 caractères par ligne\n\nCaractères blanc\n\nRétro-éclairage: bleu / vert\n\nMots clés: display, screen.",
+     "short_description": "Cet afficheur LCD permet de visualiser des lettres, des nombres, des symboles. Il permet d’afficher 4 lignes de 20 caractères chacune. Transfert de données 4 et 8 bits. Offre aussi une matrice de 5×7 et un curseur."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/251-5.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/251-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/251-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/251-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/251-6.png"
+   ]
+  },
+  {
+   "sku": "microplanet-18414",
+   "price": 95,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 2004 Avec Module I2C",
+     "description": "Afficheur LCD 2004 Avec Module I2C\n\nCet afficheur LCD 2004 20×04, avec module I2c (déja soudé), permet de visualiser des lettres, des nombres, des symboles. Il permet d’afficher 4 lignes de 20 caractères chacune. Transfert de données 4 et 8 bits. Offre aussi une matrice de 5×7 et un curseur. Grâce à son interface pour bus I2C , il n’utilise que deux broches sur la carte Arduino.\n\nCaractéristiques :\n\nAlimentation : 5V\n\n4 lignes\n\n20 caractères par ligne\n\nPilote LCD: HD44780\n\nIC d’extension d’E / S 8 bits: PCF8574A (PCF8574AT)\n\nAdresse I2C: 0x27 (fixe)\n\nCaractères blanc\n\nRétro-éclairage: bleu / vert\n\nMots clés: display, screen.",
+     "short_description": "Cet afficheur LCD 2004 20×04, avec module I2c (déja soudé), permet de visualiser des lettres, des nombres, des symboles. Il permet d’afficher 4 lignes de 20 caractères chacune. Transfert de données 4 et 8 bits. Offre aussi une matrice de 5×7 et un curseur. Grâce à son interface pour bus I2C , il n’utilise que deux broches sur la carte Arduino."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/08/251-a-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/08/251-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3002",
+   "price": 110,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 12864",
+     "description": "Afficheur LCD 12864\n\nC’est un afficheur graphique dont la résolution d’image est de 128×64 pixels. Il utilise deux drivers type KS0108B, combinés avec un KS0107B. Chaque contrôleur gère l’affichage d’un bloc (moitié gauche ou moitié droite) de 64×64 pixels. Cette structure, simple, permet l’interfaçage de l’afficheur avec un microcontrôleur de 8 bits.\n\nAfficheur à matrice 128 x 64 points.\n\nAffichage bleu/vert rétroéclairé. Interface 8 bits.\n\nDimensions: 75 x 52 x 9,6 mm.\n\nRéglage de contraste.\n\nConvertisseur DC/DC intégré.\n\nAlimentation: 5 Vcc.\n\nT° de service: -20°C à +70°C.\n\nMots clés: display, screen.",
+     "short_description": "C’est un afficheur graphique dont la résolution d’image est de 128×64 pixels. Il utilise deux drivers type KS0108B, combinés avec un KS0107B. Chaque contrôleur gère l’affichage d’un bloc (moitié gauche ou moitié droite) de 64×64 pixels. Cette structure, simple, permet l’interfaçage de l’afficheur avec un microcontrôleur de 8 bits."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/252-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/252-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/252-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/252-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24406",
+   "price": 0.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led SMD 1210 3528",
+     "description": "Led SMD 1210 3528\n\nLed SMD 1210 3528 20mA, 6 couleur: blanc chaud, bleu, rouge, vert, jaune, orange\n\nMots clés: light.",
+     "short_description": "Led SMD 1210 3528 20mA, 6 couleur: blanc chaud, bleu, rouge, vert, jaune, orange"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/03/275-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20957",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led Miniature 3mm 12V",
+     "description": "Led Miniature 3mm 12V\n\nLed Miniature 3mm 12V 0.02A.\n\nMots clés: lampe, led, light.",
+     "short_description": "Ampoule Miniature 3mm 12V 0.04A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/276-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6181",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 50W",
+     "description": "Led 50W\n\nLed 50W, couleur blanc neutre (4000K) ou blanc froid (6000K).\n\nAngle(°):140°\n\nDurée de vie (hrs): 50 000 heures\n\nVoltage: 32v-34v\n\nCourrant: 900-1125mA\n\nLuminosité: 4000-4500LM.\n\nMots clés: light.",
+     "short_description": "Led 50w, couleur blanc naturel ou blanc chaud."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/278-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3012",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 1W",
+     "description": "Led 1W\n\nLed 1w, couleur blanc froid, chaud ou neutre.\n\nAngle(°):120°\n\nDurée de vie (hrs):100000hours\n\nVoltage: 3.2v-3.4v\n\nCourant: 300mA\n\nLuminosité: 100-120LM.\n\nMots clés: light.",
+     "short_description": "Led 1w, couleur blanc froid, chaud ou neutre."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/280-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3018",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led 3W",
+     "description": "Led 3W\n\nLed 3w, couleur blanc naturel (6000K), blanc neutre (4000K), ou blanc chaud (3000k).\n\nAngle(°):120°\n\nDurée de vie (hrs): 100 000 heures\n\nVoltage: 3.2v-3.4v\n\nCourrant: 700mA\n\nLuminosité: 220-250LM\n\nVous pouvez utiliser (Driver Led 3W 700mA 5-35V) pour alimenter la led avec sa luminosité maximale (700mA).\n\nMots clés: light.",
+     "short_description": "Led 3w, couleur blanc naturel (6000K), blanc neutre (4000K), ou blanc chaud (3000k)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/281-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3027",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Refroidisseur Led 1W/3W/5W",
+     "description": "Refroidisseur Led 1W/3W/5W\n\nRefroidisseur Compatible avec les Led 1w/3w/5w.\n\nMots clés: cooler, cooling, heatsink, radiateur.",
+     "short_description": "Refroidisseur Compatible avec les Led 1w/3w/5w."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/282-1.png"
+   ]
+  }
+ ]
+}

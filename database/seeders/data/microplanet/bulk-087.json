@@ -1,0 +1,216 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3307",
+   "price": 7,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouton Poussoir PBS-110 1A",
+     "description": "Bouton Poussoir PBS-110 1A\n\nBouton Poussoir PBS-110 2 broches N.ouvert, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: AC250V 1A\n\nRésistance de contact: <= 0,05 Ω\n\nDimensions: 25x9mm\n\nDurée de vie: 10 000 cycles.\n\nMots clés: switch.",
+     "short_description": "Bouton Poussoir PBS-110 2 broches N.ouvert."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/599-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/599-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/599-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/599-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3312",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur ON/OFF G130 KCD1-101 6A",
+     "description": "Interrupteur ON/OFF G130 KCD1-101 6A 250VAC\n\nLe G130 KCD1-101 est un interrupteur unipolaire à bascule auto-maintenu (ON/OFF), conçu pour commuter des courants jusqu’à 6 A sous 250V AC. Il s’intègre dans un panneau via une découpe standard de 21×15 mm et dispose de broches en laiton nickelé offrant une excellente conductivité et résistance à la corrosion.\n\n🔧 Caractéristiques techniques\n\nType : SPST (1 pôle, 2 positions ON/OFF)\n\nCourant nominal : 6 A @ 250 V AC (10 A @ 125 V AC)\n\nMatériau du boîtier : plastique thermodurci noir\n\nBroches : Cuivre étamé ou laiton nickelé\n\nForce de commutation : ~3 N\n\nDurée de vie mécanique : > 50 000 cycles\n\nTempérature de service : – 20 °C à + 85 °C\n\nDimensions boîtier : env. 25 × 13 × 20 mm (L × l × H)\n\nDécoupe panneau : 21×15 mm\n\nFixation : clips arrière intégrés\n\n💡 Applications typiques\n\nMarche/arrêt principal sur alimentations et blocs secteur\n\nPanneaux de commande et tableaux de distribution\n\nCommande de ventilateurs, pompes ou petits moteurs\n\nProjets DIY (Arduino, Raspberry Pi) nécessitant un interrupteur robuste\n\nArmoires électriques et équipements industriels\n\nMots clés: switch.",
+     "short_description": "Le G130 KCD1-101 est un interrupteur unipolaire à bascule auto-maintenu (ON/OFF), conçu pour commuter des courants jusqu’à 6 A sous 250V AC."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/600-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/600-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/600-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34488",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur ON/OFF JD03-A1 4 Broches 30A 250V",
+     "description": "Interrupteur ON/OFF JD03-A1 4 Broches 30A 250V\n\nInterrupteur JD03-A1 ON/OFF Rocker switch, à 4 Broches avec un courant max de 30A 250V, pour poste de soudage.\n\nDurée de vie : 50 000 fois, T85/55\n\nCourant/tension de fonctionnement : 30A, 125V/250V\n\nTension de tenue: AC1500V(50/60HZ)/1Min\n\nRésistance de contact : 50 (mΩ)\n\nRésistance d’isolation : 100 (MΩ)",
+     "short_description": "Interrupteur JD03-A1 ON/OFF Rocker switch, à 4 Broches avec un courant max de 30A 250V, pour poste de soudage."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0605.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0605-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0605-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3328",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Capteur de Niveau d’Eau à Flotteur Verticale",
+     "description": "Capteur de Niveau d’Eau à Flotteur Verticale\n\nCapteur de niveau d’eau à flotteur verticale avec un interrupteur utilisé pour détecter le niveau de liquide dans un réservoir. l’interrupteur peut actionner une pompe, un indicateur, une alarme, ou autre appareil.\n\nPuissance Max: 10W\n\nTension de commutation: 100V DC/AC max\n\nTension de charge: 220V max\n\nCourant de commutation: 0.5A\n\nCourant de charge: 1A max\n\nRésistance de contact: 0.1Ω\n\nLongueur (Fil Exclus): 6.7cm\n\nLongueur du câble: 36cm\n\nTempérature de fonctionnement: -10 à +85C\n\nMots clés: water, level, switch, float.",
+     "short_description": "Capteur de niveau d’eau à flotteur verticale avec un interrupteur utilisé pour détecter le niveau de liquide dans un réservoir. l’interrupteur peut actionner une pompe, un indicateur, une alarme, ou autre appareil.\n\nPuissance Max: 10W\n\nTension de commutation: 100V DC/AC max\n\nTension de charge: 220V max\n\nCourant de commutation: 0.5A\n\nCourant de charge: 1A max\n\nRésistance de contact: 0.1Ω\n\nLongueur (Fil Exclus): 6.7cm\n\nLongueur du câble: 36cm\n\nTempérature de fonctionnement: -10 à +85C"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/611-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/611-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3330",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Capteur de Niveau d’Eau à Flotteur Horizontale",
+     "description": "Capteur de Niveau d’Eau à Flotteur Horizontale\n\nCapteur de niveau d’eau à flotteur horizontale avec un interrupteur utilisé pour détecter le niveau de liquide dans un réservoir. l’interrupteur peut actionner une pompe, un indicateur, une alarme, ou autre appareil.\n\nPuissance Max: 10W\n\nTension de commutation: 100V DC/AC max\n\nTension de charge: 220V max\n\nCourant de commutation: 0.5A\n\nCourant de charge: 1A max\n\nRésistance de contact: 0.1Ω\n\nLongueur du câble: 37.5 cm\n\nTempérature de fonctionnement: -10 à +85C\n\nPoids: 20g\n\nMots clés: water, level, switch, float.",
+     "short_description": "Capteur de niveau d’eau à flotteur horizontale avec un interrupteur utilisé pour détecter le niveau de liquide dans un réservoir. l’interrupteur peut actionner une pompe, un indicateur, une alarme, ou autre appareil.\n\nPuissance Max: 10W\n\nTension de commutation: 100V DC/AC max\n\nTension de charge: 220V max\n\nCourant de commutation: 0.5A\n\nCourant de charge: 1A max\n\nRésistance de contact: 0.1Ω\n\nLongueur du câble: 37.5 cm\n\nTempérature de fonctionnement: -10 à +85C\n\nPoids: 20g"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/612-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/612-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/612-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/612-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42001",
+   "price": 100,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Capteur de Niveau d’Eau en Inox à Flotteur Verticale",
+     "description": "Capteur de niveau d’eau en inox à flotteur vertical – contact normalement fermé\n\nCe capteur à flotteur vertical permet de détecter un ou deux seuils de niveau dans un réservoir ou une cuve, selon la variante choisie. Son flotteur se déplace avec le liquide et actionne un contact interne. Le capteur fonctionne comme un interrupteur : il ne mesure pas la hauteur du liquide en continu.\n\nLe contact est normalement fermé (NC). Son état change lorsque le flotteur se déplace. Avant d’utiliser ce changement d’état pour déclencher une alarme ou commander un équipement, vérifiez à quel niveau il se produit dans votre installation.\n\nVariantes disponibles\n\nVariante\nLongueur nominale\nNombre de flotteurs\nSeuils de détection\n\n10 cm – simple\n10 cm\n1\n1\n\n10 cm – double\n10 cm\n2\n2\n\n20 cm – double\n20 cm\n2\n2\n\n30 cm – double\n30 cm\n2\n2\n\nLes versions à deux flotteurs permettent de détecter deux positions sur la tige. Choisissez la longueur et la position des flotteurs en fonction des niveaux à surveiller.\n\nCaractéristiques techniques\n\nType : capteur de niveau vertical à flotteur\n\nMatériau : acier inoxydable\n\nContact : normalement fermé (NC)\n\nLongueurs disponibles : 10, 20 et 30 cm\n\nNombre de flotteurs : un ou deux selon la variante\n\nDétection : un seuil pour la version simple, deux seuils pour les versions doubles\n\nMontage : vertical, avec fixation filetée\n\nLes limites de tension, de courant, de température et de pression doivent être vérifiées sur la fiche technique de la variante reçue avant son installation.\n\nApplications\n\nDétection d’un niveau haut ou bas\n\nSurveillance du remplissage d’un réservoir\n\nAlarme de débordement\n\nProtection d’une pompe contre le fonctionnement à sec\n\nProjets Arduino et autres systèmes de commande\n\nInstallation\n\nChoisissez la variante correspondant aux niveaux à détecter.\n\nMontez la tige verticalement dans un emplacement adapté.\n\nFixez le capteur avec les éléments de montage fournis.\n\nVérifiez que chaque flotteur peut se déplacer librement, sans toucher la paroi ou un autre élément du réservoir.\n\nIdentifiez les fils de chaque contact à l’aide d’un multimètre.\n\nDéplacez chaque flotteur à la main et vérifiez le changement d’état avant la mise en service.\n\nBranchement avec Arduino\n\nPour un flotteur, raccordez les deux fils de son contact à l’Arduino comme suit :\n\nFil du contact\nArduino Uno/Nano\nFonction\n\nPremier fil\nD2\nEntrée de détection\n\nDeuxième fil\nGND\nRéférence commune\n\nPour deux flotteurs câblés séparément, raccordez une paire de fils entre D2 et GND, puis l’autre entre D3 et GND. Identifiez d’abord chaque paire au multimètre : ne vous fiez pas uniquement à la couleur des fils.\n\nAucun fil du contact ne doit être raccordé directement au 5 V dans ce montage. Avec INPUT_PULLUP, l’entrée Arduino indique HIGH lorsque le contact est ouvert et LOW lorsqu’il est fermé. Documentation Arduino\n\nCode Arduino\n\nRéglez nombreFlotteurs sur 1 pour la version simple ou sur 2 pour une version double dont les deux contacts sont câblés séparément.\n\nconst byte nombreFlotteurs = 2; // 1 ou 2\r\nconst byte capteurPins[2] = {2, 3};\r\n\nvoid setup() {\r\n Serial.begin(9600);\r\n\n for (byte i = 0; i < nombreFlotteurs; i++) {\r\n pinMode(capteurPins[i], INPUT_PULLUP);\r\n }\r\n}\r\n\nvoid loop() {\r\n for (byte i = 0; i < nombreFlotteurs; i++) {\r\n bool contactFerme = digitalRead(capteurPins[i]) == LOW;\r\n\n Serial.print(\"Flotteur \");\r\n Serial.print(i + 1);\r\n Serial.print(\" : contact \");\r\n\n if (contactFerme) {\r\n Serial.println(\"ferme\");\r\n } else {\r\n Serial.println(\"ouvert\");\r\n }\r\n }\r\n\n Serial.println();\r\n delay(500);\r\n}\nOuvrez le moniteur série à 9600 bauds. Le programme affiche l’état électrique de chaque contact. Déplacez les flotteurs manuellement pour déterminer quel état correspond au niveau haut ou bas dans votre montage. Le code n’associe pas automatiquement « contact fermé » à « niveau atteint ».\n\nPrécautions\n\nVérifiez la compatibilité du matériau et des éléments d’étanchéité avec le liquide utilisé.\n\nVérifiez les limites électriques du modèle reçu avant de raccorder une charge.\n\nUtilisez un relais ou un contacteur adapté pour commander une pompe, une électrovanne ou une charge secteur.\n\nProtégez les raccordements électriques contre l’eau et l’humidité.\n\nNe raccordez jamais une tension secteur à une entrée Arduino.\n\nVérifiez les exigences applicables avant toute utilisation avec de l’eau potable ou dans une installation de sécurité.\n\nMots clés: float, sensor, water, level.",
+     "short_description": "Capteur de niveau d’eau vertical en inox SUS304 avec contact Reed passif, disponible en longueurs de 10, 20 ou 30 cm. Idéal pour les réservoirs, pompes, aquariums et systèmes automatisés."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/612-a-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/612-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/612-a-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/612-a-5.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/612-a-6.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/612-a-7.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/612-a-8.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3334",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MC-38 Interrupteur Magnétique Détecteur d’Ouverture de Porte",
+     "description": "Interrupteur Magnétique Détecteur d’Ouverture de Porte\n\nInterrupteur magnétique MC-38 détecteur d’ouverture de porte est un petit commutateur magnétique spécialement conçu pour vous alerter lorsque des portes, tiroirs, ou tout autre système à ouverture s’ouvre. Ces types d’interrupteurs sont principalement utilisés dans les systèmes de sécurité résidentiels. Une moitié de l’ensemble est fixé sur un châssis de fenêtre ou de porte et l’autre est fixée à la fenêtre ou à la porte elle-même. Lorsque les pièces du commutateur sont séparées l’une de l’autre, le contact est rompu et cela déclenche une alarme ou selon vos projet.\n\nMatiére: ABS anti-feu\n\nmode de connexion: NC (normalement fermé)\n\ncourant nominal: 0.5A\n\ndistance de fonctionnement: moin de 15mm = contact fermé, plus de 15mm = contact ouvert\n\npuissance nominale: 3 W\n\naucune alimentation externe est nécessaire.\n\nMots clés: door, magnetic, switch.",
+     "short_description": "Interrupteur magnétique détecteur d’ouverture de porte est un petit commutateur magnétique spécialement conçu pour vous alerter lorsque des portes, tiroirs, ou tout autre système à ouverture s’ouvre. Ces types d’interrupteurs sont principalement utilisés dans les systèmes de sécurité résidentiels. Une moitié de l’ensemble est fixé sur un châssis de fenêtre ou de porte et l’autre est fixée à la fenêtre ou à la porte elle-même. Lorsque les pièces du commutateur sont séparées l’une de l’autre, le contact est rompu et cela déclenche une alarme ou selon vos projet.\n\nMatiére: ABS anti-feu\n\nmode de connexion: NC (normalement fermé)\n\ncourant nominal: 0.5A\n\ndistance de fonctionnement: moin de 15mm = contact fermé, plus de 15mm = contact ouvert\n\npuissance nominale: 3 W\n\naucune alimentation externe est nécessaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/613-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/613-4.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/613-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/613-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4179",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Électrovanne 12V DC Pour Eau / Air 1/2″ NC",
+     "description": "Électrovanne 12V DC Pour Eau / Air 1/2″ NC\n\nUne électrovanne ou électrovalve est une vanne commandée électriquement. Grâce à cet organe, il est possible d’agir sur le débit d’un fluide dans un circuit par un signal électrique.\n\nL’électrovanne 12v dispose de deux raccord 1/2 pouce (~1.3cm). La valve est Normalement fermée, quand une tension de 12VDC est appliquée aux deux bornes, la vanne s’ouvre et l’eau / air peu pousser cette dernière pour passer au travers. La conception de l’électrovanne utilise un joint interne, par conséquent, un minimum de pression est nécessaire pour l’activer (0.02 Mpa).\n\nLe liquide ne peut aussi circuler que dans un seul sens (indiqué par une flèche sous la vanne).\n\nIl est possible d’activer la vanne à partir d’une tension de 6VDC pour le modéle de 12VDC (mais elle est plus lente à s’ouvrir).\n\n6V   → 220mA\n\n9V   → 330mA\n\n12V → 440mA\n\nCaractéristiques:\n\nMatériau: métal + plastique\n\nDiamètre vis: env. 20mm\n\nDimensions: 84 x 57mm (L x H)\n\nTaille de la bobine: env. 34 x 23mm (L x H)\n\nTension: DC 12VDC\n\nPuissance: 8W Max\n\nCourant: 0.6A Max (pour 12V)\n\nEntrée et sortie: tuyau de 1/2 pouce (diamètre extérieur)\n\nPression: 0.02- 0.8Mpa un minimum de pression est nécessaire pour l’activer (0.02 Mpa).\n\nTempérature maximale du fluide: 100 ° C\n\nMode d’opération: normalement fermé\n\nType de soupape: diaphragme\n\nUtilisation: eau et fluides à faible viscosité.\n\nNote: Pour de longue période d’activation, une tension d’alimentation de 8-9VDC est recommandé pour limiter la surchauffe du bobine.\n\nMots clés: solenoid, solenoide, water, liquid, switch.",
+     "short_description": "L’électrovanne 12vdc dispose de deux raccord 1/2 pouce (~1.3cm). La valve est Normalement fermée, quand une tension de 12VDC est appliquée aux deux bornes, la vanne s’ouvre et l’eau / air peu pousser cette dernière pour passer au travers. Le liquide ne peut aussi circuler que dans un seul sens (indiqué par une flèche sous la vanne)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/614-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/614-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/614-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50690",
+   "price": 90,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Électrovanne 220V AC Pour Eau / Air 1/2″ NC",
+     "description": "Électrovanne 220 V AC 1/2″ normalement fermée\n\nCette électrovanne permet de commander automatiquement l’arrivée d’eau à l’aide d’un interrupteur, d’un programmateur, d’un flotteur ou d’un relais. Son fonctionnement normalement fermé (NC) maintient le passage bloqué lorsque la bobine n’est pas alimentée. L’application de 220–240 V AC ouvre la vanne et autorise l’écoulement.\n\nElle convient notamment aux systèmes d’irrigation, au remplissage automatique de réservoirs, aux distributeurs d’eau et aux projets de domotique.\n\nCaractéristiques techniques\n\nType : électrovanne normalement fermée\n\nTension de la bobine : 220–240 V AC\n\nFréquence : 50/60 Hz\n\nFonctionnement : tout ou rien, ouverte ou fermée\n\nRaccordement hydraulique : 1/2 pouce\n\nPression indicative : 0,02 à 0,8 MPa, soit 0,2 à 8 bars\n\nFluide recommandé : eau et liquides propres à faible viscosité\n\nTempérature maximale indicative du liquide : environ 60 °C\n\nCorps en plastique avec mécanisme électromagnétique\n\nDeux bornes électriques plates\n\nSens d’écoulement indiqué par une flèche sur le corps\n\nFiltre d’entrée selon la série\n\nCes valeurs correspondent au modèle similaire indiqué. Vérifiez toujours les inscriptions présentes sur la bobine de l’exemplaire reçu.\n\nFonctionnement\n\nÉtat électrique\nÉtat de la vanne\n\nBobine non alimentée\nPassage fermé\n\nBobine alimentée en 220 V AC\nPassage ouvert\n\nCoupure de courant\nFermeture automatique\n\nCette vanne sert à ouvrir ou fermer complètement le passage. Elle n’est pas conçue pour régler progressivement le débit.\n\nApplications\n\nIrrigation automatique\n\nRemplissage de réservoirs\n\nSystèmes avec flotteur électrique\n\nDistributeurs d’eau\n\nPurificateurs et installations RO\n\nCommande de pompes et circuits d’eau\n\nMachines automatiques\n\nProjets domotiques\n\nMinuteries d’arrosage\n\nGuide d’installation hydraulique\n\nCoupez l’eau et dépressurisez entièrement la conduite.\n\nRepérez la flèche indiquant le sens d’écoulement sur le corps.\n\nInstallez l’entrée et la sortie dans le bon sens.\n\nUtilisez des raccords femelles 1/2″ compatibles.\n\nAppliquez un produit d’étanchéité approprié sur les filetages.\n\nSerrez les raccords sans exercer une force excessive sur le corps en plastique.\n\nRétablissez progressivement la pression et vérifiez l’absence de fuite.\n\nLe modèle fonctionne avec une membrane assistée par la pression. Il nécessite donc généralement une pression minimale à l’entrée et peut ne pas fonctionner correctement avec un réservoir alimenté uniquement par une très faible gravité.\n\nBranchement électrique\n\nLa bobine possède deux bornes d’alimentation AC sans polarité :\n\nUne borne vers la phase commutée\n\nUne borne vers le neutre\n\nLa phase doit être commandée par un interrupteur, un contacteur ou un relais correctement dimensionné pour 220–240 V AC. Un Arduino, ESP32 ou Raspberry Pi ne doit jamais être raccordé directement à la bobine : un relais secteur isolé est indispensable.\n\nPrécautions essentielles\n\nLe 220 V AC présente un risque mortel d’électrocution.\n\nFaites réaliser le câblage secteur par une personne qualifiée.\n\nCoupez le disjoncteur et vérifiez l’absence de tension avant toute intervention.\n\nPlacez les bornes électriques dans un boîtier isolant protégé contre l’eau.\n\nLa bobine et ses connexions ne doivent pas être immergées.\n\nAjoutez une protection électrique adaptée au circuit.\n\nNe dépassez pas la pression et la température indiquées sur le produit.\n\nNe l’utilisez pas pour le gaz, le carburant ou un liquide corrosif sans certification appropriée.\n\nCe modèle générique n’est pas garanti pour l’eau potable.\n\nNettoyez périodiquement le filtre et empêchez les particules d’atteindre la membrane.",
+     "short_description": "Électrovanne 220–240 V AC normalement fermée avec raccords 1/2″, conçue pour automatiser l’ouverture et la fermeture d’un circuit d’eau."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/615-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-5833",
+   "price": 360,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Elechouse V3 Module de Reconnaissance Vocale",
+     "description": "Module de Reconnaissance Vocale Elechouse V3\n\nCe module est un appareil compact pour le contrôle et reconnaissance vocale compatible Arduino. Il peut supporter jusqu’a 80 commandes (7 commandes en même temps), il existe deux façons d’utiliser ce module, en utilisant le port série ou via les broches GPIO intégrées. La carte V3 a la capacité de stocker jusqu’à 80 commandes vocales d’une durée de 1500 millisecondes chacune. Il comparera vos commandes avec un ensemble de voix déjà enregistré. Donc, il n’y a pas de barrières linguistiques pour utiliser ce module. Vous pouvez enregistrer votre commande dans n’importe quelle langue ou littéralement n’importe quel son peut être enregistré et utilisé comme une commande. Vous devez donc l’entraîner avant de le laisser reconnaître les commandes vocales.\n\nCARACTÉRISTIQUES:\n\nTension: 4.5-5.5V\n\nCourant: <40mA\n\nInterface Digitale: Niveau 5V TTL pour UART et GPIO\n\nInterface Analogique: microphone mono-canal 3,5 mm\n\nDimensions: 31mm x 50mm\n\nPrécision de reconnaissance: 99% (idéal)\n\nSupporte 80 voix vocales, (1500ms – 2 ou 3 mots),\n\n7 commandes vocales simultanés\n\nBibliothèque Arduino\n\nContrôle facile: UART / GPIO\n\nSortie de broche générale de contrôle utilisateur\n\nFiche technique, codes\n\nVideo tutoriel (en arabe)\n\nTutoriel (en anglais)",
+     "short_description": "Ce module est un appareil compact pour la reconnaissance et contrôle vocale compatible Arduino. Il peut supporter jusqu’a 80 commandes (7 commandes en même temps), il existe deux façons d’utiliser ce module, en utilisant le port série ou via les broches GPIO intégrées."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/03/216-1.png"
+   ]
+  }
+ ]
+}

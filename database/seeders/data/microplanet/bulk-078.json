@@ -1,0 +1,202 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-7296",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation à Découpage 12V 10A 120W",
+     "description": "Alimentation à Découpage 12V 10A 120W\n\nAlimentation à découpage 12V, 220/110V AC, capable d’un courant de 10A.\n\nCaractéristiques:\n\nTension d’entrée: 100-220V AC ±15%\n\nTension de sortie: 12V DC\n\nCourant de sortie: 10A max\n\nPuissance: 120W.\n\nMots clés: swicthing, power, supply.",
+     "short_description": "Alimentation à découpage 12V, 220/110V AC, capable d’un courant de 10A."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/422-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/422-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/422-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21152",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur 38W DINEX Fast Charging",
+     "description": "Chargeur 38W DINEX Fast Charging\n\nChargeur USB Fast charge 38W DINEX.\n\nTension d’entrée: 220V AC\n\nSortie: 5V 3A / 9V 2.22A / 12V 1.67A\n\nMots clés: power supply, alimentation.",
+     "short_description": "Chargeur USB Fast charge 38W DINEX."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/427-b-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/427-b-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30898",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Chargeur USB Type C 27W Fast Charging QC 3.0",
+     "description": "Chargeur USB Type C 27W Fast Charging QC 3.0\n\nChargeur USB Type C 27W Fast Charging QC 3.0 IPGOLD.\n\nTension d’entrée: 220V AC\n\nTension de sortie: 9V 3A / 11V 2.45A\n\nPuissance: 27W\n\nMots clés: power supply, alimentation.",
+     "short_description": "Chargeur USB Type C 27W Fast Charging QC 3.0 IPGOLD."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/07/427-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34176",
+   "price": 260,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Samsung Chargeur Officiel 25W Type-C",
+     "description": "Chargeur Samsung 25W Super fast Original Samsung 25W, PD 3.0\n\nCe chargeur d’origine de Samsung est une aide indispensable pour la maison et en déplacement. Sa fonction de charge ultra-rapide gardera votre appareil toujours complètement chargé. Seuls les appareils prenant en charge la norme Power Delivery 3.0 peuvent être chargés rapidement avec une vitesse allant jusqu’à 25 W, tandis que d’autres peuvent être rechargés à une vitesse régulière. Son design compact en fait un parfait compagnon de voyage peu encombrant.\n\nCaractéristiques :\n\n– Adaptateur de charge d’origine avec une fonction de charge rapide de Samsung\n\n– Adaptateur de charge rapide pour charger les appareils compatibles via USB Type-C\n\n– Les appareils compatibles PD 3.0 prennent en charge la charge ultra-rapide avec une vitesse allant jusqu’à 25 W\n\n– Les appareils qui ne prennent pas en charge la charge rapide seront rechargé à une vitesse régulière\n\n– Son design compact et léger en fait un compagnon peu encombrant idéal\n\n– Utilisez le câble de charge Samsung USB-C vers USB-C pour des résultats de charge optimaux (non inclus)\n\n– Recharge également les smartphones ou les tablettes d’autres fabricants\n\nSpécifications :\n\n– Interface de sortie : Type C\n\n– Tension d’entrée : 100 – 240V\n\n– Tension de sortie (charge normale) : 5V\n\n– Tension de sortie (charge rapide) : PDO : 9V 2.77A, PPS : 3,3-5,9V 3A ou 3,3-11,0V 2.25A\n\n– Courant de sortie : 3A\n\n– Puissance de sortie maximale : 25W\n\n– Dimensions : 47,4 x 78,1 x 26,2mm\n\n– Poids : 50g\n\n– Avec prise EU standard",
+     "short_description": "Chargeur Samsung 25W Super fast Original Samsung 25W, PD 3.0\n\nCe chargeur d’origine de Samsung est une aide indispensable pour la maison et en déplacement. Sa fonction de charge ultra-rapide gardera votre appareil toujours complètement chargé. Seuls les appareils prenant en charge la norme Power Delivery 3.0 peuvent être chargés rapidement avec une vitesse allant jusqu’à 25 W, tandis que d’autres peuvent être rechargés à une vitesse régulière. Son design compact en fait un parfait compagnon de voyage peu encombrant."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/01/427-d-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/01/427-d-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34182",
+   "price": 130,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MI Xiaomi Chargeur 20W Type-C",
+     "description": "Chargeur MI Xiaomi 20W Type-C\n\nPuissance élevée de 20W Exploitez à fond le potentiel de charge haute vitesse de votre appareil.\n\nConnecteur réversible pour une utilisation facile et encore plus rapide. Prise en charge de plusieurs protocoles de charge rapide grâce à la puissance du port USB-C grand public.\n\nCompatibilité intelligente avec une large gamme d’appareils Charge rapide pour divers appareils populaires, dont le Samsung, l’iPad Pro et la Nintendo Switch, grâce à la compatibilité avec plusieurs protocoles de charge rapide.",
+     "short_description": "Chargeur MI Xiaomi 20W Type-C\n\nPuissance élevée de 20W Exploitez à fond le potentiel de charge haute vitesse de votre appareil.\n\nConnecteur réversible pour une utilisation facile et encore plus rapide. Prise en charge de plusieurs protocoles de charge rapide grâce à la puissance du port USB-C grand public.\n\nCompatibilité intelligente avec une large gamme d’appareils Charge rapide pour divers appareils populaires, dont le Samsung, l’iPad Pro et la Nintendo Switch, grâce à la compatibilité avec plusieurs protocoles de charge rapide."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/01/427-e-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6198",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Carte d’alimentation 12V 5A 220V AC",
+     "description": "Carte d’alimentation 12V 5A 60W 220V AC\n\nCarte d’alimentation 12V 5A 220V AC – switching power supply – avec une tension de sortie de 12V et capable d’un courant de sortie maximale de 5A, peut être utilisé pour alimenter vos projets, ou remplacer / réparer vos dispositifs et appareils électronique et électrique.\n\nProtection contre:\n\nSurtensions: Oui\n\nSurintensité: Oui\n\nCourts circuits: Oui\n\nCaractéristiques:\n\nTension d’entrée: 100-240V (les poles N et L sur la carte)\n\nTension d’entrée: 12 V (les poles + et – sur la carte)\n\nCourant: 4A nominale, 5A Maximale\n\nDimensions: 46x92x25mm",
+     "short_description": "Carte d’alimentation 12V 5A 220V AC – switching power supply -, avec une tension de sortie de 12V et capable d’un courant de sortie de 5A, peut être utilisé pour alimenter vos projets, ou remplacer / réparer vos dispositifs et appareils électronique et électrique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/429-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/429-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10612",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Alimentation 5V 2A",
+     "description": "Alimentation 5V 2A\n\nAlimentation 5V 2A Avec Prise DC 5.5×2.5mm.\n\nMots clés: power supply, chargeur.",
+     "short_description": "Alimentation 5V 2A Avec Prise DC 5.5×2.5mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/430-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7289",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HLK-PM12 Alimentation 220V AC 12V 3W",
+     "description": "Alimentation 220V AC HLK-PM12, 12V 3W\n\nAlimentation 220V AC HLK-PM12, avec une tension de sortie de 12V.\n\nCaractéristiques:\n\nTension d’entrée: 100-240V AC 50-60Hz\n\nTension de sortie: 12V DC\n\nPuissance: 3W.\n\nMots clés: swicthing, power, supply, mini.",
+     "short_description": "Alimentation 220V AC HLK-PM12, avec une tension de sortie de 12V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/433-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/433-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3153",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Régulateur De Tension / Vitesse SCR 220V AC 2000W",
+     "description": "Régulateur De Tension / Vitesse SCR 220V AC 2000W\n\nRégulateur De Tension AC – gradateur – à base de SCR (dimmer).\n\nApplications: réglage de luminosité des ampoules AC, réglage de vitesse et tension, réglage de température, Four électrique, chauffe-eau, lampes, petit moteur, fer à repasser électrique.\n\nTension d’entrée: 220V AC\n\nTension de sortie réglable: 50-220V AC\n\nPuissance Max: 2000W\n\nDimensions: 48 x 54 x 27mm\n\nPoids: 43g\n\nMots clés: buck, converter, speed.",
+     "short_description": "Régulateur De Tension AC à base de SCR.\n\nApplications: réglage de luminosité des ampoules AC, réglage de vitesse et tension, réglage de température, Four électrique, chauffe-eau, lampes, petit moteur, fer à repasser électrique.\n\nTension d’entrée: 220V AC\n\nTension de sortie réglable: 50-220V AC\n\nPuissance Max: 2000W\n\nDimensions: 48 x 54 x 27mm\n\nPoids: 43g"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/436-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/436-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3155",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Régulateur De Tension / Vitesse SCR 220V AC 4000W",
+     "description": "Régulateur De Tension / Vitesse SCR 220V AC 4000W\n\nRégulateur De Tension AC – gradateur – à base de SCR avec cage de protection.\n\nApplications: réglage de luminosité des ampoules AC, réglage de vitesse et tension, réglage de température, Four électrique, chauffe-eau, lampes, petit moteur, fer à repasser électrique.\n\nTension d’entrée: 220V AC\n\nTension de sortie réglable: 10-220V AC\n\nPuissance Max: 4000W (charge résistive)\n\nEfficacité: 90%\n\nDimensions: 85 x 55 x 38 mm\n\nMots clés: buck, converter, speed.",
+     "short_description": "Régulateur De Tension AC – gradateur – à base de SCR avec cage de protection.\n\nApplications: réglage de luminosité des ampoules AC, réglage de vitesse et tension, réglage de température, Four électrique, chauffe-eau, lampes, petit moteur, fer à repasser électrique."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/437-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/437-4.png"
+   ]
+  }
+ ]
+}

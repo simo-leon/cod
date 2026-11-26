@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-5273",
+   "price": 429,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack lecture préados",
+     "description": "Associe romans courts et BD pour toucher les profils différents (passionnés de foot, amateurs d’humour…). Parfait pour les enfants qui ‘n’aiment pas lire’ – ces livres changent souvent les avis !\n\nFavoris",
+     "short_description": "Quatre titres pour les lecteurs confirmés qui aiment les histoires qui leur ressemblent : aventure, sport, humour et BD. Une sélection variée pour maintenir l’envie de lire et aborder des thèmes du quotidien (amitié, famille, émotions)."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/07/pack-lecture-preados.webp"
+   ]
+  },
+  {
+   "sku": "kidymart-5271",
+   "price": 337,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack lecture jeunesse",
+     "description": "Mêle différents styles (albums animés, imagier, histoires du quotidien) pour varier les plaisirs de lecture. Idéal pour créer une mini bibliothèque de départ ou offrir à la naissance.\n\nFavoris",
+     "short_description": "Un pack de livres soigneusement choisis pour accompagner les tout-petits dans leurs premières lectures : T’choupi pour les émotions, Trotro pour le plaisir des histoires, Max et Lili pour mieux se comprendre, et un imagier interactif pour enrichir le vocabulaire."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/07/pack-lecture-jeunesse.webp"
+   ]
+  },
+  {
+   "sku": "kidymart-5265",
+   "price": 939,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    18
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pack Cocon nouveau-né",
+     "description": "Offre une solution clé en main pour la naissance. Évite aux jeunes parents de multiplier les achats séparément et garantis des produits complémentaires de qualité.\n\nFavoris",
+     "short_description": "Tout ce dont les parents ont besoin pour accueillir bébé dans les meilleures conditions : confort, hygiène et premier doudou réconfortant. Un cadeau naissance complet et pratique."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/07/pack-cocon-nouvean-ne.webp"
+   ]
+  },
+  {
+   "sku": "kidymart-4215",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "CLEVATESS T02",
+     "description": "Clevatess, le jeune vampire, continue de chercher sa place dans un monde qui le rejette. Après avoir découvert une partie de ses capacités et s’être fait de nouveaux alliés, il est confronté à des ennemis plus puissants et organisés qui s’intéressent de près à sa nature singulière. Ce tome explore l’approfondissement de ses pouvoirs et la complexité de son héritage vampirique.\n\nFavoris",
+     "short_description": "Manga sh_nen d’action. L’aventure du jeune vampire Clevatess se poursuit, confront? ? de nouveaux ennemis et ? son identit?."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/05/featured-2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/05/2-2.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4214",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "LES CARNETS DE L’APOTHICAIRE T04",
+     "description": "Une nouvelle affaire, cette fois en dehors du quartier des femmes, requiert les compétences d’enquêtrice de Mao Mao. Accompagnée de Jinshi, elle est chargée d’examiner un événement troublant qui pourrait avoir des répercussions sur la stabilité du palais impérial. Ce déplacement lui permet de voir d’autres aspects de la société tout en approfondissant sa relation complexe avec Jinshi.\n\nFavoris",
+     "short_description": "Manga seinen. Mao Mao quitte le quartier des femmes pour enqu?ter sur un nouvel ?v?nement troublant en dehors du palais."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/05/1-12.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4213",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "LES CARNETS DE L’APOTHICAIRE T03",
+     "description": "Dans ce tome, Mao Mao est confrontée à une énigme qui dépasse les simples intrigues de cour : une affaire de vol d’herbes médicinales rares, menaçant la santé de plusieurs personnes au palais. Parallèlement, elle continue de déchiffrer les mystères liés aux concubines et aux relations impériales, usant de son esprit vif et de ses connaissances en pharmacologie pour faire éclater la vérité.\n\nFavoris",
+     "short_description": "Manga seinen historique. Mao Mao est impliqu?e dans une affaire de vol d’herbes m?dicinales et poursuit ses enqu?tes au palais."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/05/1-11.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4212",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "LES CARNETS DE L’APOTHICAIRE T02",
+     "description": "Promue goûteuse de la favorite Gyokuyo, Mao Mao commence une nouvelle vie où son talent pour les remèdes et les enquêtes est indispensable. Sa nouvelle mission de taille est de trouver la cause du mal qui ronge Lifa, la mère du prince décédé, tout en déjouant les coups bas et la jalousie des autres concubines. Les intrigues de la cour se resserrent autour de l’apothicaire.\n\nFavoris",
+     "short_description": "Manga seinen. Mao Mao, d?sormais go?teuse officielle, doit enqu?ter sur les myst?res et les maux qui touchent les concubines imp?riales."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/05/1-10.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4211",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "LES CARNETS DE L’APOTHICAIRE T01",
+     "description": "Mao Mao, une jeune apothicaire formée dans le quartier des plaisirs, est enlevée et se retrouve vendue comme simple servante au quartier des femmes du palais impérial. Sa passion et ses connaissances pour les poisons et la médecine attirent l’attention du bel et calculateur haut fonctionnaire Jinshi. Elle est alors promue goûteuse personnelle, la plongeant au cœur des intrigues mortelles de la cour.\n\nFavoris",
+     "short_description": "Manga seinen historique. Mao Mao, jeune apothicaire, est enlev?e et vendue comme servante au palais imp?rial."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/05/1-9.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4210",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "VALKYRIE APOCALYPSE T04",
+     "description": "Apr?s un affrontement ext?nuant, le duel l?gendaire entre Adam et Zeus trouve sa conclusion. La Valkyrie Brunhilde doit alors choisir son troisi?me champion pour ?galiser face aux dieux. Ce nouveau duel oppose l’?p?iste japonais Kojiro Sasaki, r?put? pour ?tre le plus grand perdant de l’histoire, au dieu des mers, Pos?idon, dans un affrontement d’une pr?cision mortelle.\n\nFavoris",
+     "short_description": "Manga seinen. Le deuxi?me combat touche ? sa fin, ouvrant la voie au troisi?me duel entre un h?ros japonais et un dieu marin."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/05/1-8.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-4209",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "VALKYRIE APOCALYPSE T03",
+     "description": "Le deuxième duel du Ragnarök met en scène Adam, le père de l’humanité, face au puissant Zeus, le souverain des dieux grecs. Le combat devient une démonstration de vitesse et de puissance pure, alors qu’Adam tente de rivaliser avec la technique foudroyante de Zeus, le « Poing qui dépasse le temps ». L’humanité retient son souffle devant cette confrontation épique entre les deux figures fondatrices.\n\nFavoris",
+     "short_description": "Manga seinen d’action. Le second combat du Ragnar?k oppose le p?re de l’humanit?, Adam, au dieu grec Zeus."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/05/1-6.jpg"
+   ]
+  }
+ ]
+}

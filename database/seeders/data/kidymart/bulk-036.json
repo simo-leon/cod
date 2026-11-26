@@ -1,0 +1,201 @@
+{
+ "products": [
+  {
+   "sku": "kidymart-1983",
+   "price": 194,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "MORTELLE ADÈLE RELIQUES T04",
+     "description": "Ce tome des Reliques plonge les lecteurs dans les archives secrètes de Mortelle Adèle, offrant une collection de dessins inédits et d’objets oubliés liés à son univers. C’est l’occasion de découvrir des facettes méconnues de la vie d’Adèle, ses premiers croquis et les coulisses de ses pires inventions. Un véritable trésor pour les fans qui veulent en savoir plus sur leur héroïne favorite.\n\nFavoris",
+     "short_description": "Bande dessinée jeunesse. Ce tome de la série « Reliques » dévoile des trésors oubliés de l’univers d’Adèle."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782494678101-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1979",
+   "price": 214,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "300 MANDALAS À COLORIER",
+     "description": "Ce grand recueil propose 300 motifs de mandalas variés, allant des dessins simples aux plus complexes, offrant des heures de coloriage relaxant. Le mandala est reconnu pour ses vertus apaisantes et méditatives, aidant à la concentration et à la réduction du stress. C’est le cahier idéal pour un moment de détente et d’expression artistique.\n\nFavoris",
+     "short_description": "Cahier de coloriage pour adultes et adolescents. Un recueil de 300 mandalas pour la relaxation."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782383826163-featured.png",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782383826163-2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782383826163-3.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1977",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "SAINT SEIYA SAINTIA SHŌ T01",
+     "description": "Ce premier tome se concentre sur Shō, une jeune fille qui voit sa vie basculer lorsqu’elle apprend qu’elle est destinée à devenir une Saintia, une guerrière sacrée protégeant la déesse Athéna. Confrontée à de nouveaux ennemis et à des pouvoirs qu’elle ne maîtrise pas encore, Shō doit rapidement accepter son destin et se lancer dans des combats cosmiques pour la survie du Sanctuaire.\n\nFavoris",
+     "short_description": "Manga shōnen. Ce spin-off de Saint Seiya introduit une nouvelle caste de guerrières sacrées, les Saintia."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782368520505-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1972",
+   "price": 194,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "RECUEIL DE TEXTES ALPHAS NIVEAU 1",
+     "description": "Ce recueil propose une série de textes courts et progressifs spécialement conçus pour les enfants qui débutent en lecture selon la méthode des Alphas (niveau 1). Chaque texte met en scène les personnages Alphas et utilise uniquement les sons simples pour faciliter le déchiffrage. Il permet à l’enfant de gagner en fluidité et en confiance, en passant de la découverte des sons à la lecture de phrases complètes.\n\nFavoris",
+     "short_description": "Recueil de lecture pour l’apprentissage de la lecture au CP, utilisant la méthode phonétique des Alphas."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782366471823-featured.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782366471823-2.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1971",
+   "price": 64,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "UN AMI FIDÈLE (Les Alphas)",
+     "description": "Cet album, conçu pour les enfants qui commencent à lire (niveau Début CP), raconte la tendre histoire de Petit Malin et de Julius, un adorable chiot. Une jolie amitié naît de cette rencontre, permettant d’aborder des valeurs positives. Le livre utilise une présentation adaptée à l’apprentissage de la lecture (gros caractères, codes couleurs pour les sons simples) selon la célèbre méthode des Alphas.\n\nFavoris",
+     "short_description": "Album de lecture. Un récit idéal pour le début du CP, utilisant la méthode phonétique des Alphas."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782366470956-featured.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782366470956-2.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1970",
+   "price": 114,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "ERASED T01",
+     "description": "Satoru Fujinuma possède un don étrange, le « Revival », qui le propulse quelques minutes dans le passé pour empêcher une catastrophe. Lorsqu’il est accusé du meurtre de sa mère, son pouvoir le renvoie 18 ans en arrière, à l’époque de l’école primaire. Il doit alors non seulement empêcher le meurtre de sa camarade Kayo Hinazuki, mais aussi élucider l’affaire qui a brisé son enfance.\n\nFavoris",
+     "short_description": "Manga seinen de mystère et science-fiction. Un jeune homme a la capacité de voyager dans le temps pour empêcher des tragédies."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782355926990-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1969",
+   "price": 94,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "LA FAMILLE TROP D’FILLES : SOS BABYSITTEUR !",
+     "description": "L’heure est venue pour Billy, le babysitteur adoré de la famille Arthur, de retourner en Irlande, plongeant tout le monde dans la tristesse. Les enfants, déterminés, s’associent à Billy pour leur ultime mission : trouver un remplaçant digne de ce nom. Cette histoire aborde avec sensibilité le thème de la séparation et du changement, aidant les jeunes lecteurs à gérer leurs émotions et à passer à une nouvelle étape.\n\nFavoris",
+     "short_description": "Roman jeunesse. La famille Arthur doit trouver un nouveau babysitteur suite au départ de Billy."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782095049867-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1968",
+   "price": 94,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "EN AVANT FOOT !",
+     "description": "Ce livre d’éveil propose aux petits une initiation amusante au monde du football. Grâce à des matières à toucher, des tirettes et des animations interactives, l’enfant découvre le stade, le ballon, les joueurs et les gestes de ce sport populaire. C’est une manière ludique de développer la motricité fine et d’associer la lecture à l’activité physique.\n\nFavoris",
+     "short_description": "Livre jeunesse. Un livre d’éveil tactile et interactif sur le thème du football."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782095049379-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1967",
+   "price": 134,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "MOI ET MA SUPER BANDE",
+     "description": "Ce livre joyeux et coloré célèbre la force et la beauté de l’amitié. Il suit les aventures d’un groupe d’amis inséparables qui partagent tout : les jeux, les bêtises, mais aussi les petits chagrins. L’ouvrage met en avant l’importance de la solidarité, du partage et de l’acceptation des différences au sein d’une « super bande ».\n\nFavoris",
+     "short_description": "Livre jeunesse illustré. Un livre sur l’amitié, les liens et les aventures partagées avec ses amis."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782095049317-1.jpg"
+   ]
+  },
+  {
+   "sku": "kidymart-1966",
+   "price": 164,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    17
+   ],
+   "locales": {
+    "fr": {
+     "name": "MON GRAND IMAGIER",
+     "description": "Ce grand imagier est un outil d’éveil indispensable pour accompagner l’enfant dans l’acquisition du langage. Il présente des centaines d’images claires et colorées, classées par thèmes (animaux, maison, nourriture, transport, etc.), ce qui facilite l’apprentissage des mots et la construction de phrases. C’est un livre parfait pour stimuler la curiosité et le développement du vocabulaire des tout-petits.\n\nFavoris",
+     "short_description": "Livre d’éveil cartonné. Un imagier riche pour nommer des centaines d’objets, d’animaux et d’actions."
+    }
+   },
+   "image_urls": [
+    "https://kidymart.com/wp-content/uploads/2026/02/9782095046019-featured.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782095046019-2.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782095046019-3.jpg",
+    "https://kidymart.com/wp-content/uploads/2026/02/9782095046019-4.jpg"
+   ]
+  }
+ ]
+}

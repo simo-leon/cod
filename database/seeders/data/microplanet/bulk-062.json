@@ -1,0 +1,199 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-17767",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LF357N Amplificateur Opérationnel",
+     "description": "LF357N Amplificateur Opérationnel J-FET\n\nLF357N Amplificateur Opérationnel J-FET.\n\nMarque: National Semiconductor (original) / Generic\n\nFiche technique",
+     "short_description": "LF357N Amplificateur Opérationnel J-FET."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/760-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20927",
+   "price": 18,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LF356N Amplificateur Opérationnel J-FET",
+     "description": "LF356N Amplificateur Opérationnel J-FET\n\nLes dispositifs LF356N sont les premiers amplificateurs opérationnels d’entrée JFET monolithiques à incorporer des JFET haute tension bien adaptés sur la même puce avec des transistors bipolaires standard (technologie BI-FET ™). Ces amplificateurs présentent une faible polarisation d’entrée et des courants de décalage / une faible tension de décalage et une dérive de tension de décalage, associés à un réglage de décalage, qui ne dégrade pas la dérive ou la réjection de mode commun. Les appareils sont également conçus pour une vitesse de balayage élevée, une large bande passante, un temps de stabilisation extrêmement rapide, un bruit de tension et de courant faible et un coin de bruit 1 / f faible.\n\nMarque: Texas Instruments\n\nFiche technique",
+     "short_description": "Les dispositifs LF356N sont les premiers amplificateurs opérationnels d’entrée JFET monolithiques à incorporer des JFET haute tension bien adaptés sur la même puce avec des transistors bipolaires standard (technologie BI-FET ™)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/760-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20918",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TL074CN Amplificateur opérationnel",
+     "description": "TL074CN Amplificateur opérationnel à faible bruit à Entrée JFET\n\nLes amplificateurs opérationnels à entrée JFET TL074CN TL074 intègrent des transistors JFET et bipolaires haute tension bien adaptés dans un circuit intégré monolithique. Les dispositifs présentent des taux de balayage élevés, des courants de polarisation et de décalage d’entrée faibles et un faible coefficient de température de tension de décalage. La faible distorsion harmonique et le faible bruit font de la série TL07x la solution idéale pour les applications haute fidélité et préamplificateurs audio.\n\nFiche technique",
+     "short_description": "Les amplificateurs opérationnels à entrée JFET TL074CN TL074 intègrent des transistors JFET et bipolaires haute tension bien adaptés dans un circuit intégré monolithique"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/760-c-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3675",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "NE555 Temporisateur",
+     "description": "NE555 Temporisateur\n\nTemporisateur NE555 / LM555.\n\nMarque: Texas Instruments / Generic\n\nFiche technique",
+     "short_description": "Temporisateur NE555 / LM555."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/06/761-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/761-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3676",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM324 Quad Amplificateur Opérationnel",
+     "description": "LM324 Quad Amplificateur Opérationnel\n\nLM324 Quad Amplificateur Opérationnel.\n\nFiche technique",
+     "short_description": "LM324 Quad Amplificateur Opérationnel"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/762-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/762-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3679",
+   "price": 4.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM339 Quad Comparateur Analogique",
+     "description": "LM339 Quad Comparateur Analogique\n\nLM339 Quad Comparateur Analogique.\n\nFiche technique",
+     "short_description": "LM339 Quad Comparateur Analogique"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/764-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/746-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3680",
+   "price": 3,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM393 Dual Comparateur Analogique",
+     "description": "LM393 Dual Comparateur Analogique\n\nLM393 Dual Comparateur Analogique\n\nFiche technique",
+     "short_description": "LM393 Dual Comparateur Analogique"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/765-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/765-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3681",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ULN2003 Réseau de Transistors Darlington",
+     "description": "ULN2003 Réseau de Transistors Darlington, Driver Moteur\n\nULN2003 (ULN2003A) Transistors Darlington, Driver Moteur pas à pas.\n\nFiche technique",
+     "short_description": "ULN2003 (ULN2003A) Transistors Darlington, Driver Moteur pas à pas."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/766-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/766-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4589",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "UA741CP Amplificateur Opérationnel",
+     "description": "UA741CP Amplificateur Opérationnel\n\nUA741CP UA741 est un amplificateur opérationnel à usage général en boîtier DIP 8 broches. La gamme de tension d’entrée de mode commun élevée et l’absence de verrouillage rend l’amplificateur idéal pour des applications de suiveur de tension. Le dispositif est protégé contre les courts-circuits et une compensation en fréquence interne garantit la stabilité sans composants externes. Un potentiomètre à faible valeur peut être connecté entre les entrées à offset nul et la tension d’offset de sortie nulle.\n\nMarque: Texas Instruments / Generic\n\nCapacité nulle de tension d’offset\n\nLarge gamme de tension différentielle et de mode commun\n\nCompensation de fréquence et verrouillage non requis\n\nProduit de bande passante de gain de 1MHz\n\nPlage de tension d’alimentation de ± 5V à ± 15V\n\nVitesse de balayage à gain unitaire de 0.5V/µs\n\nTension d’offset d’entrée de 1mV à TA = 25°C\n\nCourant de polarisation d’entrée 80nA à TA = 25°C\n\nTaux de réjection du mode commun (CMRR) de 70dB à TA = 25°C\n\nGamme de température d’utilisation de 0°C à 70°C.\n\nFiche technique",
+     "short_description": "L’UA741CP est un amplificateur opérationnel à usage général en boîtier DIP 8 broches. La gamme de tension d’entrée de mode commun élevée et l’absence de verrouillage rend l’amplificateur idéal pour des applications de suiveur de tension."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/767-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20891",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "LM741 Amplificateur Opérationnel",
+     "description": "LM741 Amplificateur Opérationnel\n\nLM741 LM741CN est un amplificateur opérationnel à usage général en boîtier DIP 8 broches. La gamme de tension d’entrée de mode commun élevée et l’absence de verrouillage rend l’amplificateur idéal pour des applications de suiveur de tension. Le dispositif est protégé contre les courts-circuits et une compensation en fréquence interne garantit la stabilité sans composants externes. Un potentiomètre à faible valeur peut être connecté entre les entrées à offset nul et la tension d’offset de sortie nulle.\n\nFiche technique",
+     "short_description": "LM741 LM741CN est un amplificateur opérationnel à usage général en boîtier DIP 8 broches. La gamme de tension d’entrée de mode commun élevée et l’absence de verrouillage rend l’amplificateur idéal pour des applications de suiveur de tension."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/767-a-1.png"
+   ]
+  }
+ ]
+}

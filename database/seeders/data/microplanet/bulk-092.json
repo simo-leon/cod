@@ -1,0 +1,139 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-7274",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Câble 5A USB-A vers Micro USB / Type-C DINEX DI-026",
+     "description": "Câble USB-A vers Micro USB / Type-C 5A DINEX DI-026\n\nProfitez d’un câble haut-performance signé DINEX : le modèle DI-026 accepte un courant jusqu’à 5A, idéal pour recharger rapidement ou synchroniser vos appareils.Deux variantes disponibles : connecteur Micro USB (pour anciens smartphones, tablettes, accessoires) ou connecteur Type-C (pour les appareils récents, smartphones Android, tablettes, etc.).Grâce à un câble robuste, un revêtement renforcé et une compatibilité universelle USB-A ➝ Micro/Type-C, ce modèle convient aussi bien aux usages quotidiens qu’aux besoins intensifs (gaming, tablette, power-bank).\n\nCaractéristiques principales\n\nMarque : DINEX\n\nModèle : DI-026\n\nConnecteur : USB-A mâle → Micro USB mâle ou Type-C mâle (sélection à faire)\n\nIntensité maximale supportée : jusqu’à 5 A\n\nUsage : charge rapide + transfert de données\n\nLongueur : 1m\n\nRevêtement : câble renforcé, durable (coloris et finition selon stock)\n\nCompatibilité : smartphones, tablettes, accessoires USB-A vers Micro USB ou Type-C\n\nAvantages\n\nUn seul modèle avec deux variantes : simplification des stocks et fiche produit unique avec option « choisir connecteur ».\n\nCharge rapide 5 A : permet une recharge plus efficace que les câbles standard.\n\nVariété des connecteurs : compatible anciens et nouveaux appareils.\n\nCâble durable : finition robuste, usage quotidien prolongé.\n\nConseils d’utilisation\n\nAu moment de commander, choisissez bien la variante Micro USB ou Type-C pour correspondre à votre appareil.\n\nUtilisez un adaptateur secteur offrant au minimum 2 A ou plus pour bénéficier pleinement de la charge rapide.\n\nÉvitez de plier le câble à l’extrême près des connecteurs pour prolonger sa durée de vie.",
+     "short_description": "Câble usb vers Micro usb ou type-c, avec un longueur de 1m."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/527-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/527-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34356",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Cable Dinex 3A USB vers Micro USB",
+     "description": "Cable Dinex 3A USB vers Micro USB\n\nCable Dinex 3A USB vers Micro USB, avec un longueur de 1m.",
+     "short_description": "Cable Dinex 3A USB vers Micro USB, avec un longueur de 1m."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/527-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3284",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Barette de 40 En-tête Femelle",
+     "description": "Barette de 40 En-tête Femelle\n\nBarette de 40 En-tête Femelle standard.\n\nNombre de broches: 40\n\nDistance entre broche: 2.54mm.\n\nMots clés: header.",
+     "short_description": "Barette de 40 En-tête Femelle.\n\nNombre de broches: 40\n\nDistance entre broche: 2.54mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/565-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3295",
+   "price": 4,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Barette de 40 En-tête Mâle",
+     "description": "Barette de 40 En-tête Mâle\n\nBarette de 40 En-tête mâle standard.\n\nNombre de broches: 40\n\nDistance entre broche: 2.54mm.\n\nMots clés: header.",
+     "short_description": "Barette de 40 En-tête mâle.\n\nNombre de broches: 40\n\nDistance entre broche: 2.54mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/566-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6163",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Barette de 40 En-tête Femelle Angle Droit",
+     "description": "Barette de 40 En-tête Femelle Angle Droit\n\nBarette de 40 En-tête Femelle angle droit.\n\nNombre de broches: 40\n\nDistance entre broche: 2.54mm.\n\nMots clés: header.",
+     "short_description": "Barette de 40 En-tête Femelle angle droit."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/568-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6165",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Barette de 40 En-tête Mâle Angle Droit",
+     "description": "Barette de 40 En-tête Mâle Angle Droit\n\nBarette de 40 En-tête Mâle Angle Droit.\n\nNombre de broches: 40\n\nDistance entre broche: 2.54mm.\n\nMots clés: header.",
+     "short_description": "Barette de 40 En-tête Mâle Angle Droit."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/569-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50855",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Vis M3 cruciformes avec écrous — Pack de 10",
+     "description": "Vis M3 cruciformes avec écrous — Pack de 10\n\nRéalisez des assemblages solides, propres et facilement démontables grâce à ce pack de 10 vis M3 accompagné de 10 écrous compatibles. Fabriquées en acier inoxydable, ces vis résistent à la corrosion et conviennent parfaitement aux projets d’électronique, de robotique, d’impression 3D, de mécanique légère et de bricolage.\n\nDisponibles en trois longueurs — 10, 20 et 30 mm, elles permettent d’adapter la fixation à l’épaisseur des pièces à assembler. Leur empreinte cruciforme assure un serrage simple avec un tournevis Phillips adapté.\n\n📏 Variantes disponibles\n\nVariante\nDimensions\nUtilisation indicative\n\nM3 × 10 mm\nØ 3 × 10 mm\nPCB, capteurs et petites pièces\n\nM3 × 20 mm\nØ 3 × 20 mm\nBoîtiers, supports et châssis\n\nM3 × 30 mm\nØ 3 × 30 mm\nAssemblages plus épais et structures\n\nLa longueur d’une vis se mesure généralement sous la tête jusqu’à son extrémité.\n\n📦 Contenu de chaque pack\n\n10 × vis M3 dans la longueur sélectionnée\n\n10 × écrous M3 compatibles\n\nChaque vis est fournie avec son écrou. Les rondelles ne sont pas incluses, sauf indication contraire.\n\n🔧 Caractéristiques techniques\n\nType : vis métrique avec écrou\n\nDiamètre du filetage : M3, soit 3 mm\n\nPas métrique standard : 0,5 mm\n\nLongueurs proposées : 10, 20 ou 30 mm\n\nEmpreinte : cruciforme\n\nMatériau : acier inoxydable\n\nDiamètre indicatif de la tête : environ 5,2 mm\n\nAssemblage démontable et réutilisable\n\nBonne résistance à la corrosion\n\nSerrage avec un tournevis cruciforme\n\nÉcrou M3 inclus avec chaque vis\n\n⭐ Pourquoi choisir ce pack ?\n\n✅ Vis et écrous fournis ensemble\n\n✅ Trois longueurs adaptées à différents assemblages\n\n✅ Format M3 très utilisé en électronique et robotique\n\n✅ Acier inoxydable résistant à la corrosion\n\n✅ Fixation robuste mais facilement démontable\n\n✅ Idéal pour les makers, techniciens et étudiants\n\n✅ Pack pratique de 10 ensembles complets\n\n🛠️ Guide d’utilisation\n\nChoisissez une longueur supérieure à l’épaisseur totale des pièces à fixer.\n\nAlignez les trous des différentes pièces.\n\nInsérez la vis M3 à travers l’assemblage.\n\nPlacez l’écrou fourni sur l’extrémité filetée.\n\nMaintenez l’écrou avec une petite clé ou une pince adaptée.\n\nSerrez la vis avec un tournevis cruciforme sans forcer excessivement.\n\nLaissez suffisamment de filetage dépasser pour que l’écrou puisse être complètement engagé.\n\n🤖 Électronique et robotique\n\nFixation de cartes Arduino, ESP32 et Raspberry Pi\n\nAssemblage de capteurs et de modules\n\nMontage de robots et petits châssis\n\nFixation de supports de moteurs\n\nInstallation de PCB dans un boîtier\n\n🖨️ Impression 3D\n\nAssemblage de pièces imprimées\n\nFixation de couvercles et charnières\n\nMontage de supports mécaniques\n\nCréation de boîtiers démontables\n\nPrototypes et mécanismes personnalisés\n\n🏗️ Bricolage et mécanique\n\nPetites structures métalliques ou plastiques\n\nBoîtiers électriques\n\nSupports et panneaux\n\nModélisme et maquettes\n\nRéparation de petits équipements\n\n💡 Comment choisir la bonne longueur ?\n\n10 mm : recommandée pour les pièces fines, PCB et petits modules.\n\n20 mm : polyvalente pour les boîtiers, entretoises et supports.\n\n30 mm : adaptée aux assemblages épais ou comportant plusieurs pièces.\n\nAvant la commande, additionnez l’épaisseur des pièces, de l’écrou et éventuellement des rondelles, puis prévoyez une petite marge de filetage.\n\n⚠️ Conseils\n\nNe serrez pas excessivement sur un PCB ou une pièce imprimée en 3D.\n\nAjoutez une entretoise pour éviter que la carte électronique touche une surface conductrice.\n\nUtilisez une rondelle si la matière assemblée est tendre ou fragile.\n\nVérifiez que la longueur choisie ne risque pas de toucher un circuit ou un câble.\n\nPour les montages soumis aux vibrations, ajoutez un écrou autobloquant ou un frein-filet adapté.",
+     "short_description": "Pack de 10 vis M3 cruciformes en acier inoxydable, chacune fournie avec son écrou. Disponible en longueurs de 10, 20 ou 30 mm pour l’électronique, la robotique et l’impression 3D."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/577-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/577-2.png"
+   ]
+  }
+ ]
+}

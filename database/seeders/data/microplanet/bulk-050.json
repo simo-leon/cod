@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6214",
+   "price": 28,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur ON/OFF à Clef 3A 250V",
+     "description": "Interrupteur ON/OFF à Clé 3A 250V\n\nInterrupteur ON/OFF à Clef, avec 2 clés pour verrouillage, 3A 250V.\n\nMots clés: key, lock, switch.",
+     "short_description": "Interrupteur ON/OFF à Clé pour verrouillage, 3A 250V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/590-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-25113",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Serrure Électromagnétique 12V",
+     "description": "Serrure Électromagnétique 12V\n\nLa serrure Électromagnétique à solénoïde 12V a une cosse avec une coupe inclinée et un bon support de montage. Il s’agit essentiellement d’une serrure électronique à électro-aimants, conçue pour une armoire de base, un coffre-fort ou une porte. Lorsqu’une tension de 9 à 12 VDC est appliquée, la cosse s’enclenche pour ne pas dépasser et la porte peut être ouverte. Il n’utilise aucune puissance dans cet état. Il est très facile à installer pour les systèmes de verrouillage de porte automatique comme la serrure de porte électrique avec le panneau de montage.\n\nTension de fonctionnement : 12VDC\n\nTemps de déverrouillage : 1 seconde\n\nCourant d’entrée : 0,4 A ; DC12V\n\nDimensions: longueur 27 mm ; Largeur 15 mm ; Hauteur 17 mm ; Longueur de la langue 7 mm ; Hauteur de la langue – 10 mm\n\nLongueur du câble : 120 mm\n\nMots clés: key, lock, switch, magnetic, solenoid, door.",
+     "short_description": "Il s’agit essentiellement d’une serrure électronique à électro-aimants, conçue pour une armoire de base, un coffre-fort ou une porte."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/04/590-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3296",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouton Poussoir 6x6x5mm",
+     "description": "Bouton Poussoir 6x6x5mm\n\nBouton Poussoir 6x6x5mm 4 broches (version 2 broches: ici), il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC12V 0.1A\n\nRésistance de tension: AC 250V (50Hz) / min\n\nRésistance de contact: <= 0,03 Ω\n\nForce d’actionnement: 1,3N ±0,5\n\nRésistance d’isolement: >= 100 MΩ\n\nTempérature de fonctionnement: -25 ~ + -85\n\nDurée de vie: 100 000 cycles.\n\nMots clés: switch, momentary.",
+     "short_description": "Bouton Poussoir 6x6x5mm, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC12V 0.1A\n\nRésistance de tension: AC 250V (50Hz) / min\n\nRésistance de contact: <= 0,03 Ω\n\nForce d’actionnement: 1,3N ±0,5\n\nRésistance d’isolement: >= 100 MΩ\n\nTempérature de fonctionnement: -25 ~ + -85\n\nDurée de vie: 100 000 cycles"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/591-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21128",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouton Poussoir 6x6x5mm 2 Broches",
+     "description": "Bouton Poussoir 6x6x5mm 2 Broches\n\nBouton Poussoir 6x6x5mm 2 broches (version 4 broches: ici), il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC12V 0.1A\n\nRésistance de tension: AC 250V (50Hz) / min\n\nRésistance de contact: <= 0,03 Ω\n\nForce d’actionnement: 1,3N ±0,5\n\nRésistance d’isolement: >= 100 MΩ\n\nTempérature de fonctionnement: -25 ~ + -85\n\nDurée de vie: 100 000 cycles.\n\nMots clés: switch, momentary.",
+     "short_description": "Bouton Poussoir 6x6x5mm 2 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/591-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3297",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouton Poussoir 6x6x10mm",
+     "description": "Bouton Poussoir 6x6x10mm\n\nBouton Poussoir 6x6x10mm, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC12V 0.1A\n\nRésistance de tension: AC 250V (50Hz) / min\n\nRésistance de contact: <= 0,03 Ω\n\nForce d’actionnement: 1,3N ±0,5\n\nRésistance d’isolement: >= 100 MΩ\n\nTempérature de fonctionnement: -25 ~ + -85\n\nDurée de vie: 100 000 cycles.\n\nMots clés: momentary, switch.",
+     "short_description": "Bouton Poussoir 6x6x10mm, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/592-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21126",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouton Poussoir 6x6x10mm SMD",
+     "description": "Bouton Poussoir 6x6x10mm\n\nBouton Poussoir 6x6x10mm SMD 4 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC12V 0.1A\n\nRésistance de tension: AC 250V (50Hz) / min\n\nRésistance de contact: <= 0,03 Ω\n\nForce d’actionnement: 1,3N ±0,5\n\nRésistance d’isolement: >= 100 MΩ\n\nTempérature de fonctionnement: -25 ~ + -85\n\nDurée de vie: 100 000 cycles.\n\nMots clés: momentary, switch.",
+     "short_description": "Bouton Poussoir 6x6x10mm SMD 4 broches, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/592-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3299",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouchon Pour Bouton Poussoir 6x6x10mm",
+     "description": "Bouchon Pour Bouton Poussoir 6x6x10mm\n\nBouchon Pour Bouton Poussoir 6x6x10mm, 6 couleurs.\n\nMots clés: switch , momentary, caps.",
+     "short_description": "Bouchon Pour Bouton Poussoir 6x6x10mm, 6 couleurs."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/593-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3300",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouton Poussoir 12x12x7.3mm",
+     "description": "Bouton Poussoir 12x12x7.3mm\n\nBouton Poussoir 12x12x7.3mm, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC12V 0.5A\n\nRésistance de tension: AC 250V (50Hz) / min\n\nRésistance de contact: <= 0,03 Ω\n\nForce d’actionnement: 230gF ±30\n\nRésistance d’isolement: >= 100 MΩ\n\nTempérature de fonctionnement: -25 ~ + -70\n\nDurée de vie: 100 000 cycles.\n\nMots clés: momentary, switch.",
+     "short_description": "Bouton Poussoir 12x12x7.3mm, il vous permettra de mettre sous tension vos petits projets ou tout simplement de recevoir une entrée utilisateur supplémentaire.\n\nCharge nominale: DC12V 0.5A\n\nRésistance de tension: AC 250V (50Hz) / min\n\nRésistance de contact: <= 0,03 Ω\n\nForce d’actionnement: 230gF ±30\n\nRésistance d’isolement: >= 100 MΩ\n\nTempérature de fonctionnement: -25 ~ + -70\n\nDurée de vie: 100 000 cycles"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/594-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3301",
+   "price": 0.75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Bouchon Pour Bouton Poussoir 12x12x7.3mm",
+     "description": "Bouchon Pour Bouton Poussoir 12x12x7.3mm\n\nBouchon Pour Bouton Poussoir 12x12x7.3mm, 7 couleurs: rouge, bleu, vert, blanc, noir, jaune, gris.\n\nMots clés: momentary, switch, caps.",
+     "short_description": "Bouchon Pour Bouton Poussoir 12x12x7.3mm, 7 couleurs: rouge, bleu, vert, blanc, noir, jaune, gris."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/595-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/595-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3302",
+   "price": 6,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Interrupteur Fin de Course KW11-3Z 5A 250V",
+     "description": "Interrupteur Fin de Course KW11-3Z 5A 250V\n\nInterrupteur de fin de course KW11-3Z 5A 250V, 3 broches (commun, contact N.ouvert, contact N.fermé).\n\nCharge nominale: AC250V 5A\n\nRésistance de tension: AC 1000V / min\n\nRésistance de contact: <= 0,05 Ω\n\nDurée de vie: 1 000 000 cycles.\n\nRésistance d’isolement: >= 100 MΩ\n\nMots clés: limit switch.",
+     "short_description": "Interrupteur de fin de course KW11-3Z 5A 250V, 3 broches (commun, contact N.ouvert, contact N.fermé)\n\nCharge nominale: AC250V 5A\n\nRésistance de tension: AC 1000V / min\n\nRésistance de contact: <= 0,05 Ω\n\nRésistance d’isolement: >= 100 MΩ\n\nDurée de vie: 1 000 000 cycles"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/596-1.png"
+   ]
+  }
+ ]
+}

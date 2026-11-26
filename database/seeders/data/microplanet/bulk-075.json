@@ -1,0 +1,204 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-3007",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 2.4″ 240×320",
+     "description": "Afficheur LCD 2.4″ 240×320\n\nTFT écran lcd couleur 2.4 inch ILI9341\n\nrésolution: 240×320.\n\n18-bit (262,000) couleur.\n\nLecteur Carte SD\n\nMots clés: display, screen.",
+     "short_description": "TFT écran lcd couleur 2.4 inch ILI9341\n\nrésolution: 240×320.\n\n18-bit (262,000) couleur.\n\nLecteur Carte SD"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/255-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/255-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3008",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 2.4″ 240×320 Tactile",
+     "description": "Afficheur LCD 2.4″ 240×320 Tactile\n\nTFT écran lcd couleur 2.4 inch Tactile ILI9341, avec stylet.\n\nrésolution: 240×320.\n\n18-bit (262,000) couleur.\n\nLecteur Carte SD\n\nMots clés: display, screen, touch.",
+     "short_description": "TFT écran lcd couleur 2.4 inch Tactile ILI9341, avec stylet.\n\nrésolution: 240×320.\n\n18-bit (262,000) couleur.\n\nLecteur Carte SD"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/255-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/255-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21150",
+   "price": 240,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 3.5″ Tactile 480×320 pour Uno/Mega",
+     "description": "Afficheur LCD 3.5″ Tactile 480×320 pour Arduino Uno/Mega\n\nAfficheur LCD 480×320 ILI9486 de largeur 3.5 pouces tactile, avec lecteur carte SD, prend en charge Arduino UNO, Mega et d’autres cartes de développement (stm32…), sans aucun câblage.\n\nPuce de conversion de niveau OnBorad pour MCU 5V / 3.3V\n\nCompatible avec le niveau de tension de fonctionnement de 3,3 / 5V\n\nCompatible avec la carte de développement Arduino-Series.\n\nCompatible avec UTFT / UTFT_Buttons / Bibliothèque Utouch pour Arduino.\n\nCaractéristiques:\n\nType d’affichage Module LCD TFT 3,5 pouces Tactile\n\nTension de fonctionnement: 3.3-5.5V\n\nRésolution d’affichage 480X320 pixels\n\nRétro-éclairage LED blanches HighLight à 6 puces\n\nIC de contrôle ILI9486\n\nInterface parallèle interface 16 bits\n\nTaille du module 9.7cm X 6.9cm\n\nRemarque: Le circuit de commande et de pilotage des modules TFT est à basse tension et le circuit CMOS à micro-puissance FRIDA, peut être facilement endommagé par l’électricité statique,ce qui est irréparable. Parfois, le corps humain a des centaines de volts d’électricité statique à haute tension. Par conséquent, lors de la manipulation, de l’assemblage et de l’utilisation, il faut faire très attention à éviter l’électricité statique.",
+     "short_description": "Afficheur LCD 480×320 ILI9486 de largeur 3.5 pouces tactile, avec lecteur carte SD, prend en charge Arduino UNO, Mega et d’autres cartes de développement (stm32…), sans aucun câblage."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/257-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-7187",
+   "price": 210,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD 3.5″ 480×320 pour Uno/Mega",
+     "description": "Afficheur LCD 3.5″ 480×320 pour Arduino Uno/Mega\n\nAfficheur LCD 480×320 ILI9486 de largeur 3.5 pouces, avec lecteur carte SD, prend en charge Arduino UNO, Mega et d’autres cartes de développement (stm32…), sans aucun câblage.\n\nPuce de conversion de niveau OnBorad pour MCU 5V / 3.3V\n\nCompatible avec le niveau de tension de fonctionnement de 3,3 / 5V\n\nCompatible avec la carte de développement Arduino-Series.\n\nCompatible avec UTFT / UTFT_Buttons / Bibliothèque Utouch pour Arduino.\n\nFourni 12 exemples avec Arduino, 3 exemples avec STM32\n\nAvec prise de carte SD\n\nAvec circuit SPI FLASH\n\nCaractéristiques:\n\nType d’affichage Module LCD TFT 3,5 pouces\n\nTension de fonctionnement: 3.3-5.5V\n\nConsommation de courant: 120mA\n\nRésolution d’affichage 480X320 pixels\n\nRétro-éclairage LED blanches HighLight à 6 puces\n\nIC de contrôle ILI9486 / ILI9488\n\nInterface parallèle interface 16 bits\n\nTaille du module PCB 85.49mmX55.62mm\n\nZone LCD (WxHxT) 84.96mmX55.5mmX2.55mm\n\nSurface active (lxh) 73,44 mm x 48,96 mm\n\nRemarque: Le circuit de commande et de pilotage des modules TFT est à basse tension et le circuit CMOS à micro-puissance FRIDA, peut être facilement endommagé par l’électricité statique,ce qui est irréparable. Parfois, le corps humain a des centaines de volts d’électricité statique à haute tension. Par conséquent, lors de la manipulation, de l’assemblage et de l’utilisation, il faut faire très attention à éviter l’électricité statique.\n\nFiche technique – drivers – librairies – demo\n\nMots clés: display, screen.",
+     "short_description": "Afficheur LCD 480×320 ILI9486 de largeur 3.5 pouces, avec lecteur carte SD, prend en charge Arduino UNO et Mega et d’autres cartes de développement (stm32..), sans aucun câblage."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/262-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/262-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/09/262-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-33633",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Lampe de Poche LED à Chargement USB",
+     "description": "Lampe de Poche LED à Chargement USB\n\nLampe de poche LED lumiére blanche avec 2 niveaux de luminosité, à chargement USB (micro usb), il s’alimente par batterie de format 18650 (non inclut, peut être acheté séparément ici ou ici).\n\nMots clés: flashlight, pocket.",
+     "short_description": "Lampe de poche LED lumiére blanche avec 2 niveaux de luminosité, à chargement USB (micro usb), il s’alimente par batterie de format 18650."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/12/263-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2023/12/263-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3011",
+   "price": 7.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Laser 5mW 650nm 5V Rouge",
+     "description": "Laser 5mW 650nm 5V Rouge\n\nDiode laser 5mW 650nm 5V Rouge, facile à utiliser.\n\nMots clés: lazer, light, led.",
+     "short_description": "Diode laser 5mW 650nm 5V Rouge, facile à utiliser."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/279-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/279-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3075",
+   "price": 2,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Led Récepteur Infrarouge 5mm 940nm",
+     "description": "Led Récepteur Infrarouge 5mm 940nm\n\nLed récepteur Infrarouge 5mm 940nm.\n\nTension: 1.2-1.4V\n\nCourant: 100mA\n\nMots clés: ir light, infrared, phototransistor.",
+     "short_description": "Led Infrarouge 5mm 940nm.\n\nTension: 1.2-1.4V\n\nCourant: 100mA"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/296-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21131",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support Métallique Pour Moteur Nema17",
+     "description": "Support Métallique Pour Moteur Nema17\n\nSupport Métallique Pour fixer les moteurs pas à pas Nema17.\n\nMots clés: motor, stepper, nema, cnc, mounting, bracket.",
+     "short_description": "Support Métallique Pour fixer les moteurs pas à pas Nema17."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/336-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/336-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10657",
+   "price": 48,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TS90D Servo Moteur à Rotation Continu 360°",
+     "description": "Servo Moteur TS90D à Rotation Continu 360°\n\nServomoteur miniature TS90D à rotation continu 360°. À 6 V, il a une vitesse de rotation maximale d’environ 130 tr / min (à vide) et peut produire un couple de 1,5 kg-cm. Le servo peut être contrôlé à l’aide d’une connexion directe à une seule ligne d’E / S à microcontrôleur, sans aucune électronique supplémentaire, ce qui en fait un excellent actionneur miniature pour les projets de robotique débutant; Il suffit de lancer une paire de roues et votre robot est prêt à rouler!\n\nLe servo à rotation continue TS90D convertit les impulsions de position servo RC standard en vitesse de rotation continue. Le point de repos par défaut est de 1,5 ms, mais vous pouvez régler ce problème à l’aide d’un petit tournevis pour faire tourner le potentiomètre de réglage du point milieu. Les largeurs d’impulsion au-dessus du point de repos entraînent une rotation dans le sens anti-horaire, la vitesse augmentant à mesure que la largeur d’impulsion augmente; Les largeurs d’impulsion inférieures au point de repos entraînent une rotation dans le sens des aiguilles d’une montre, la vitesse augmentant à mesure que la largeur d’impulsion diminue.\n\nAlimentation: 4,8 à 6 Vcc.\n\nCourse: 360°\n\nCouple:\n\n– 1,3 kg.com à 4,8 Vcc\n\n– 1,5 kg.cm à 6 Vcc\n\nVitesse à vide:\n\n– 110 tr/min à 4,8 Vcc\n\n– 130 tr/min à 6 Vcc\n\nDimensions: 24 x 13 x 29 mm\n\nPoids: 9 gr.\n\nLongueur du cordon: 20 cm\n\nMots clés: motor.",
+     "short_description": "Servomoteur miniature TS90D à rotation continu 360°. À 6 V, il a une vitesse de rotation maximale d’environ 130 tr / min (à vide) et peut produire un couple de 1,5 kg-cm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/344-5.png"
+   ]
+  },
+  {
+   "sku": "microplanet-11827",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Support pour Servo moteur / Caméra 2 axes",
+     "description": "Support pour Servo moteur / Caméra 2 axes\n\nSupport pour Servo moteur / Caméra PTZ Pan / Tilt, anti vibration, avec 2 axes, compatible avec les servo moteurs SG90 ( deux servo moteurs pour une rotation bas, haut,gauche, droit ), pratique pour piloter une caméra ou des capteurs. (livré sans servomoteurs)",
+     "short_description": "Support pour Servo moteur / Caméra PTZ Pan / Tilt avec 2 axes, compatible avec les servo moteurs SG90 ( deux servo moteurs pour une rotation bas, haut,gauche, droit ), pratique pour piloter une caméra ou des capteurs. (livré sans servomoteurs)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/344-B-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/344-B-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/344-B-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/02/344-B-4.png"
+   ]
+  }
+ ]
+}

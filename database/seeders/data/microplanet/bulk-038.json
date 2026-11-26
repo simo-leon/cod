@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-42670",
+   "price": 250,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Encodeur Rotatif Incrémental optique 400 impulsions 5-24V",
+     "description": "Encodeur Rotatif Incrémental optique 400 impulsions 5-24V\n\nCe encodeur est un dispositif opto-électronique compact délivrant 400 impulsions par tour (PPR) via deux canaux en quadrature (A/B) et un canal index (Z). Sa sortie NPN à collecteur ouvert facilite l’intégration à tout automate, PLC ou microcontrôleur, avec une alimentation de 5–24 V DC et un axe solide Ø 6 mm.\n\n🔧 Caractéristiques techniques\n\nRésolution : 400 PPR (1 440 impulsions AB par tour)\n\nCanaux : A, B (quadrature), Z (index, 1 imp/tour)\n\nSortie : NPN collecteur ouvert (open-collector), max. 30 V, 50 mA\n\nAlimentation : 5–24 V DC, consommation typ. 20 mA\n\nFréquence max. : 5 kHz (recommandé)\n\nPrécision angulaire : 0,9°\n\nAxe : Ø 6 mm, longueur 16 mm, avec méplat\n\nBoîtier : Ø 38 × 18 mm (épaisseur), métal robuste\n\nFixation : 3 trous Ø 3,5 mm sur cercle Ø 30 mm\n\nTempérature fonctionnelle : –10 °C à +70 °C\n\nIndice de protection : IP50\n\n💡 Applications typiques\n\nMesure de vitesse et position sur broches ou axes motorisés\n\nCommande de servomoteurs et asservissement de position\n\nAutomatisation industrielle, robotique et CNC\n\nInterface quadrature pour microcontrôleurs (Arduino, PIC, STM32…)\n\nSystèmes de contrôle d’ascenseurs, tapis roulants et pompes\n\n🛠️ Brochage / Connexions\n\nBroche\nFonction\nRemarque\n\nVCC\n+5–24 V DC\nAlimentation, filtrer via condensateur 0,1 µF/50 V\n\nGND\nMasse\nRéférence commune\n\nA\nSortie canal A (open-collector)\nUtiliser une résistance de pull-up 4,7–10 kΩ vers VCC\n\nB\nSortie canal B\nIdem\n\nZ\nSortie index (1 imp/tour)\nIdem\n\nConnectez VCC et GND pour alimenter l’encodeur.\n\nSoudez ou branchez vos fils A, B et Z sur des entrées dotées de pull-ups (intégrées ou externes).\n\nConfigurez votre MCU/PLC pour déclencher sur fronts montants ou descendants des canaux A/B, et l’index Z pour le point zéro.\n\nVérifiez les signaux sur oscilloscope ou logique analyzer : 50 % de rapport cyclique, déphasage 90° idéal entre A et B.\n\nConseil : pour des vitesses élevées, raccourcissez les liaisons et utilisez un blindage pour réduire les perturbations EMI.\n\nMots clés: motor, dinamo, encoder, rotary, optical.",
+     "short_description": "Ce encodeur est un dispositif opto-électronique compact délivrant 400 impulsions par tour (PPR) via deux canaux en quadrature (A/B) et un canal index (Z). Sa sortie NPN à collecteur ouvert facilite l’intégration à tout automate, PLC ou microcontrôleur, avec une alimentation de 5–24 V DC et un axe solide Ø 6 mm."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/353-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/353-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/353-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4331",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L293D Module Driver Moteur Mini",
+     "description": "Module Driver Moteur Mini L293D\n\nL293D est un pilote monolithique intégré, à haute tension, à courant élevé, à 4 canaux. Avec cette puce, vous pouvez contrôler des moteurs à courant continu. Avec une tension d’entrée allant jusqu’à 25 Volts. La puce L293D est également connue sous le nom de H-Bridge. Le pont H est typiquement un circuit électrique qui permet d’appliquer une tension sur une charge dans l’une ou l’autre direction à une sortie, par ex. moteur.\n\nCaractéristiques:\n\nTension d’entrée: DC4.5-25V\n\nLa puce peut fournir un courant maximal de 600mA par canal\n\n1.2A courant de sortie de crête (non répétitif) par canal\n\nProtection contre la surchauffe\n\nTension d’entrée “0” logique jusqu’à 1,5 V (immunité élevée contre le bruit)\n\nMots clés: motor, stepper.",
+     "short_description": "L293D est un pilote monolithique intégré, à haute tension, à courant élevé, à 4 canaux. Avec cette puce, vous pouvez contrôler des moteurs à courant continu. Avec une tension d’entrée allant jusqu’à 25 Volts.\n\nTension d’entrée: DC4.5-25V\n\nLa puce peut fournir un courant maximal de 600mA par canal\n\n1.2A courant de sortie de crête (non répétitif) par canal\n\nProtection contre la surchauffe"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/359-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/359-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4095",
+   "price": 55,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L293D Shield Driver Moteur Quad Pont H",
+     "description": "Shield Driver Moteur Quad Pont H L293D\n\nModule shield de contrôle de moteurs à courant continu par 4 ponts en H (Motor Drive Shield L293D). Compatible avec toutes les cartes Arduino.\n\nLe circuit permet de contrôler des moteurs à courant continu (DC) dont l’alimentation peut atteindre 36 Volts. Ce circuit intégré pilote 4 canaux de haute tension, haute intensité (courant maximal de 600 mA par canal).\n\nLes ponts en H de ce circuit permettent de piloter une tension aux bornes d’une charge dans les deux sens, donc faire varier la vitesse et le sens de rotation d’un moteur DC.\n\nCaractéristiques :\n\n2 interfaces pour servomoteurs 5V, connectés au timer haute résolution de l’Arduino.\n\nPeut piloter 4 moteurs à courant continu DC, ou 2 moteurs pas à pas, ou 2 servo à la fois.\n\nJusqu’à 4 moteurs DC bi-directionnels avec sélection de la vitesse individuelle (sur 8 bit).\n\nJusqu’à 2 moteurs pas à pas (unipolaire ou bipolaire) avec une seule bobine, double bobine, ou demi pas.\n\n4 pont en H (H-Bridges).\n\nFournit 0,6 A par pont (1.2A en courant de crête) avec protection thermique.\n\nPilotage des moteurs à courant continu de 4.5V à 36V.\n\nDes résistances pull down désactivent les moteurs au cours de la mise sous tension.\n\nBouton de réinitialisation (Reset).\n\n2 interfaces d’alimentation pour séparer la partie logique de la partie puissance (moteurs).\n\nMots clés: motor.",
+     "short_description": "Module shield de contrôle de moteurs à courant continu par 4 ponts en H (Motor Drive Shield L293D). Compatible avec toutes les cartes Arduino.\n\nLe circuit permet de contrôler des moteurs à courant continu (DC) dont l’alimentation peut atteindre 36 Volts. Ce circuit intégré pilote 4 canaux de haute tension, haute intensité (courant maximal de 600 mA par canal)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/360-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/09/360-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3102",
+   "price": 80,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "PCA9685 Driver Servo Moteur PWM 16 Canaux",
+     "description": "Driver Servo Moteur PWM 16 Canaux PCA9685\n\nContrôleur de Servomoteurs PWM 16 Canaux PCA9685.\n\nComprend un contrôleur MLI contrôlé par I2C au moyen d’une horloge interne\n\nRésolution de 12 bits pour chaque sortie des servomoteurs\n\nNe nécessite que 2 broches pour contrôler 16 sorties MLI libres\n\nConnecteurs à 3 broches par groupes de 4\n\nMots clés: motor.",
+     "short_description": "Contrôleur de Servomoteurs PWM 16 Canaux PCA9685\n\nComprend un contrôleur MLI contrôlé par I2C au moyen d’une horloge interne\n\nRésolution de 12 bits pour chaque sortie des servomoteurs\n\nNe nécessite que 2 broches pour contrôler 16 sorties MLI libres\n\nConnecteurs à 3 broches par groupes de 4"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/361-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/361-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3103",
+   "price": 38,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L298N Driver Moteur DC – Pas à pas Double Pont H",
+     "description": "Driver Moteur DC – Pas à pas Double Pont H L298N\n\nLe module L298N est un Double Pont-H destiné au contrôle de moteur  (H-Bridge Motor Driver). Il est basé sur le composant L298N.\n\nC’est un module extrêmement utile pour le contrôler de robots et ensembles mécanisés. Il peut contrôler deux moteur courant continu ou un moteur pas-à-pas 4 fils 2 phases. il est conçu pour supporter des tensions plus élevées, des courants importants tout en proposant une commande logique TTL (basse tenstion, courant faibles, idéal donc pour un microcontrôleur).\n\nComposant de contrôle en puissance: L298N\n\nAlimentation de la charge: de +6V à +35V\n\nCourant Max (en pointe): 2A\n\nTension de commande logique Vss: de +5 à +7V (alimentation interne de +5V)\n\nCourant de commande logique: de 0 à 36mA\n\nTensions pour contrôle du sens: Low -0.3V~1.5V, high: 2.3V~Vss\n\nTensions pour contrôle « Enable »: Low -0.3V~1.5V, high: 2.3V~Vss\n\nPuissance Max: 25W (Température 75 ℃)\n\nTempérature de fonctionnement: de -25℃ à +130℃\n\nDimensions: 60mm x 54mm\n\nPoids: ~48g\n\nMots clés: stepper, motor.",
+     "short_description": "Le module L298N  est un Double Pont-H destiné au contrôle de moteur  (H-Bridge Motor Driver). Il est basé sur le composant L298N.\n\nComposant de contrôle en puissance: L298N\n\nAlimentation de la charge: de +6V à +35V\n\nCourant Max (en pointe): 2A\n\nTension de commande logique Vss: de +5 à +7V (alimentation interne de +5V)\n\nCourant de commande logique: de 0 à 36mA\n\nTensions pour contrôle du sens: Low -0.3V~1.5V, high: 2.3V~Vss\n\nTensions pour contrôle « Enable »: Low -0.3V~1.5V, high: 2.3V~Vss\n\nPuissance Max: 25W (Température 75 ℃)\n\nTempérature de fonctionnement: de -25℃ à +130℃\n\nDimensions: 60mm x 54mm\n\nPoids: ~48g"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/362-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/362-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3105",
+   "price": 28,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "L9110S Driver Moteur DC – Pas à pas Double Pont H",
+     "description": "Driver Moteur DC – Pas à pas Double Pont H L9110S\n\nIl y a deux puces de commande de moteur dans le L9110S. Ce module peut simultanément conduire deux moteurs à courant continu ou un 4- fils moteur pas à pas 2 phases.\n\nTension d’alimentation: DC 2.5V – 12V\n\nChaque canal à 800mA Max en sortie\n\nNiveau de sortie compatible TTL / CMOS, peut être connecté directement à la CPU\n\nSortie intégrée de serrage diode, appliquer à la charge perceptive\n\nTempérature de fonctionnement: 0 ° C – 80 ° C\n\nDimension: 29 x 21mm (L x P)\n\nMots clés: stepper, motor.",
+     "short_description": "Il y a deux L9110S puce de commande de moteur à bord. Ce module peut simultanément conduire deux moteurs à courant continu ou un 4- fil moteur pas à pas 2 phases.\n\nTension d’alimentation: DC 2.5V – 12V\n\nChaque canal a 800mA Max en sortie\n\nNiveau de sortie compatible TTL / CMOS, peut être connecté directement à la CPU\n\nSortie intégrée de serrage diode, appliquer à la charge perceptive\n\nTempérature de fonctionnement: 0 ° C – 80 ° C\n\nDimension: 29 x 21mm (L x P)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/363-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3106",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "A3967 Driver Moteur Pas à pas EasyDriver",
+     "description": "Driver Moteur Pas à pas EasyDriver A3967\n\nEasyDriver Moteur Pas à pas A3967.\n\nA3967 Microstepping pilote\n\nMS1 et MS2 broches ventilés à modifier la résolution micropas à la pleine, demi, quart et huitième étapes (par défaut huitième)\n\nCompatible avec 4, 6 et 8 moteurs pas à pas.\n\nContrôle de courant réglable de 150mA / 700mA phase / phases\n\nplage d’alimentation électrique de 6V à 30V. Plus la tension est élevée, plus le couple à vitesse élevée.\n\nMots clés: motor, stepper.",
+     "short_description": "EasyDriver Moteur Pas à pas A3967.\n\nCompatible avec 4, 6 et 8 moteurs pas à pas le fil de toute tension\n\nContrôle de courant réglable de 150mA / 700mA phase / phases\n\nplage d’alimentation électrique de 6V à 30V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/364-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34543",
+   "price": 120,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BTS7960 43A Driver Moteur DC – Pas à pas Double Pont H",
+     "description": "BTS7960 43A Driver Moteur DC – Pas à pas Double Pont H\n\nLe module pilote de moteur pas à pas haute puissance Double BTS7960 43A H-Bridge est : un pont en H à courant élevé entièrement intégré pour les applications d’entraînement de moteur utilisant le demi-pont à courant élevé BTS7960. le BTS7960 fait partie de la famille NovalithICTM. Celui-ci contient un MOSFET côté haut canal P et un MOSFET côté bas canal N ; avec un circuit intégré de pilote intégré dans un seul boîtier. En raison du commutateur côté haut du canal P ; le besoin d’une pompe de charge est éliminé, minimisant ainsi les interférences électromagnétiques.\n\nLe module pilote de moteur pas à pas haute puissance double BTS7960 43 A à pont en H fournit : une solution optimisée en termes de coût pour les entraînements de moteur PWM protégés à courant élevé avec une très faible consommation d’espace sur la carte.\n\nCaractéristiques :\n\nTension d’entrée : 6 ~ 27 Vcc.\n\nPilote : configuration double demi-pont BTS7960H.\n\nCourant de pointe : 43 ampères.\n\nCapacité PWM jusqu’à 25 kHz.\n\nNiveau d’entrée de contrôle : 3,3 ~ 5 V.\n\nMode de contrôle : PWM ou niveau\n\nCycle de fonctionnement : 0 ~ 100 %.\n\nVerrouillage en cas de surtension. Arrêt en cas de sous-tension.\n\nTaille de la planche (LxlxH) : 50 mm x 50 mm x 43 mm.\n\nPoids : ~66g.",
+     "short_description": "Le module pilote de moteur pas à pas haute puissance Double BTS7960 43A H-Bridge est : un pont en H à courant élevé entièrement intégré pour les applications d’entraînement de moteur utilisant le demi-pont à courant élevé BTS7960."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0365.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3112",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "A4988 Shield Pour CNC",
+     "description": "Shield Pour CNC A4988\n\nLe shield A4988 comporte 4 slots pour y monter les drivers de moteurs A4988. Il permet de piloter une imprimante 3D ou une machine de gravure, avec commande des 3 axes (xyz) ainsi qu’un autre moteur pas à pas pour faire avancer le fil d’impression.\n\nChaque moteur pas à pas n’a besoin que de deux ports entrées/sorties.\n\nIl est très simple à utiliser, avec de nombreux projets d’imprimantes 3D en open source.",
+     "short_description": "Le shield comporte 4 slots pour y monter les drivers de moteurs A4988. Il permet de piloter une imprimante 3D ou une machine de gravure, avec commande des 3 axes (xyz) ainsi qu’un autre moteur pas à pas pour faire avancer le fil d’impression."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/367-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3111",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "A4988 Driver Moteur Pas à pas Pour CNC",
+     "description": "Driver Moteur Pas à pas CNC A4988\n\nDriver A4988 + refroidisseur pour CNC, basée sur le circuit A4988 permet de contrôler un moteur pas-à-pas bipolaire à partir d’une sortie PWM (vitesse des pas) et d’une sortie digitale (sens de rotation) d’un microcontrôleur (Arduino, etc).\n\nTrois entrées permettent de sélectionner le mode de fonctionnement (pas complet, demi-pas, quart de pas, 1/8 de pas ou 1/16 de pas). Un potentiomètre permet de régler l’intensité de sortie (elle ne doit pas être supérieure à 70% de l’intensité nominale de votre moteur).\n\nRemarques:\n\n– ne pas débrancher/brancher de moteur lorsque le module est alimenté (destruction du module).\n\n– le module est livré avec des connecteurs à souder soi-même en fonction de l’utilisation.\n\n– un échauffement important du circuit intégré est possible et normal en fonctionnement\n\nAlimentation:\n\n– partie logique: 3 à 5,5 Vcc\n\n– partie moteur: 8 à 35 Vcc\n\nSortie: 1 A par phase (2 A avec refroidisseur)\n\nProtections contre:\n\n– les surintensités\n\n– les températures trop élevées\n\nDimensions: 21 x 15 x 3 mm.\n\nMots clés: motor, 3d printer.",
+     "short_description": "Driver basée sur le circuit A4988 permet de contrôler un moteur pas-à-pas bipolaire à partir d’une sortie PWM (vitesse des pas) et d’une sortie digitale (sens de rotation) d’un microcontrôleur (Arduino, etc).\n\nAlimentation: partie logique: 3 à 5,5 Vcc, partie moteur: 8 à 35 Vcc\n\nSortie: 1 A par phase (2 A avec refroidisseur)\n\nProtections contre: les surintensités, les températures trop élevées\n\nDimensions: 21 x 15 x 3 mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/368-1.png"
+   ]
+  }
+ ]
+}

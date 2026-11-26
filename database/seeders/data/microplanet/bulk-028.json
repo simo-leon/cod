@@ -1,0 +1,195 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-21122",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Antenne Avec Connecteur IPEX Pour Module GSM",
+     "description": "Antenne Avec Connecteur IPEX Pour Module GSM\n\nAntenne Avec Connecteur IPEX Pour Module GSM comme le SIM800L.\n\nLongueur de la tige d’antenne: 5 cm\n\nLongueur de câblage: 20 cm\n\nMots clés: wireless, call, phone, antenna.",
+     "short_description": "Antenne Avec Connecteur IPEX Pour Module GSM comme le SIM800L."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/201-d-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-22837",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Antenne Pour Module GSM",
+     "description": "Antenne Pour Module GSM\n\nAntenne de type L GSM/CDMA, Fréquence : 824 ~ 894/1710 ~ 1990 MHz, 880~960/1710~1990MHZ, 1920~2170MHZ.",
+     "short_description": "Antenne de type L GSM/CDMA, Fréquence : 824 ~ 894/1710 ~ 1990 MHz, 880~960/1710~1990MHZ, 1920~2170MHZ."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/10/201-f-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34472",
+   "price": 170,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "NEO-7M Module GPS",
+     "description": "NEO-7M Module GPS\n\nLe module GPS Ublox NEO-7M (NEO7M) est utilisé dans des domaines tels que la navigation et les instructions de positionnement du quadricoptère. Compatible avec les cartes de développement Arduino et Raspberry Pi.\n\nLe module utilise le protocole de communication UART. La sensibilité de position est augmentée grâce aux doubles antennes internes et externes.\n\nCaractéristiques :\n\nNombre de canaux : 56 canaux\n\nDémarrage à chaud : -155 dBm/1 s\n\nDémarrage à froid : -147 dBm/30 s Sensibilité de capture : -147 dBm\n\nSensibilité de suivi : -161 dBm\n\nTension de fonctionnement : 1,65 V/3,6 V\n\nTempérature de fonctionnement minimale : -40 C\n\nTempérature de fonctionnement maximale : 85 °C\n\nSous-catégorie : Modules sans fil et RF",
+     "short_description": "Le module GPS Ublox NEO-7M est utilisé dans des domaines tels que la navigation et les instructions de positionnement du quadricoptère. Compatible avec les cartes de développement Arduino et Raspberry Pi."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/202-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/202-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2975",
+   "price": 60,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HMC5883L GY-273 Module Boussole / Magnétomètre 3 Axes",
+     "description": "Module Boussole / Magnétomètre 3 Axes HMC5883L GY-273\n\nLa précision de ce module boussole 3 axes GY-273 HMC5883L fait de lui un élément indispensable à intégrer dans un système de navigation pour diriger facilement votre robot, et effectuer des mesures précises dans son environnement.\n\nLe capteur du module boussole HMC5883L est capable de recueillir des informations même dans un champ magnétique faible. Ces informations sont converties en une tension différentielle, distribuée sur 3 axes, de 2,7 à 6,5 volts de courant direct, pour alimenter une vaste gamme de microcontrôleurs, fonctionnant sur des voltages différents.\n\nLa valeur digitale brute de sortie pourra être utilisée pour calculer des directions, des positions ou pour la mesure de champs magnétiques terrestres, qu’il s’agisse de leur importance, ou de leur sens lorsque le robot doit mesurer plusieurs champs magnétiques venus de différentes directions.\n\nUne large plage de champs magnétiques couverts avec une précision de +/- 8 gauss.\n\nGrande précision du compas avec une marge d’erreur d’1 ou 2 degrés seulement\n\nFréquence d’échantillonnage maximum du débit de sortie : 160 Hz\n\nCourant électrique direct fourni par 3 axes, de 2,7 à 6,5 volts pour une grande variété de microcontrôleurs\n\nInterface de communication : I2C\n\nFréquence maximum de communication : 400 kHz\n\nDimensions : 1,8 x 1,7 cm\n\nFenêtre climatique de fonctionnement : de -30 à +85°C\n\nLibrairie\n\nFiche technique\n\nFiche technique 2\n\nMots clés: compass, axis, sensor, magnetometer.",
+     "short_description": "La précision de ce module boussole 3 axes GY-271 HMC5883L fait de lui un élément indispensable à intégrer dans un système de navigation pour diriger facilement votre robot, et effectuer des mesures précises dans son environnement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/203-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-35772",
+   "price": 50,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "HMC5883L GY-271 Module Boussole / Magnétomètre 3 Axes",
+     "description": "HMC5883L GY-271 Module Boussole / Magnétomètre 3 Axes\n\nLe module de boussole électronique magnétique à 3 axes GY-271 HMC5883L est conçu pour la détection magnétique à faible champ avec une interface numérique et il est parfait pour donner des informations de cap précises. Ce capteur compact s’intègre dans les petits projets tels que les drones et les systèmes de navigation de robots. Le capteur convertit n’importe quel champ magnétique en une sortie de tension différentielle sur 3 axes. Ce décalage de tension constitue la valeur de sortie numérique brute, qui peut ensuite être utilisée pour calculer des caps ou détecter des champs magnétiques provenant de différentes directions.\n\nSpécifications:\n\nModule de boussole électronique magnétique à 3 axes GY-271 HMC5883L\n\nBoussole électronique magnétique 3 axes\n\nInformations de cap précises\n\nS’intègre facilement dans les petits projets\n\nCommunication I2C\n\nPuce HMC5883L\n\nSpécifications techniques:\n\nTension de fonctionnement : 3 V-5 V CC.\n\nJeu de puces HMC5883L\n\nCommunication : protocole I2C\n\nPlage de mesure : ± 1,3-8 Gauss\n\nDimensions : 14,8 mm x 13,5 mm x 3,5 mm\n\nFiche technique\n\nFiche technique 2\n\nMots clés: compass, axis, sensor, magnetometer.",
+     "short_description": "Le module de boussole électronique magnétique à 3 axes GY-271 HMC5883L est conçu pour la détection magnétique à faible champ avec une interface numérique et il est parfait pour donner des informations de cap précises."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/04/203-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2977",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MPU6050 Module Gyroscope / Accéléromètre 3 Axes",
+     "description": "Module Gyroscope / Accéléromètre 3 Axes MPU6050\n\nModules de MPU6050 (MPU-6050) (gyroscope à trois axes + accéléromètre trois axes).\n\nTension opérationnelle : de 3 à 5 V  (Régulateur interne de décrochage basse)\n\nAccéléromètre à trois axes avec une gamme d’échelle complète programmable de ±2 g, ±4 g, ±8 g et ±16 g\n\nGamme de gyroscope: ° ± 250 500 1000 2000 / s\n\nModes de communication : Protocole de communication IIC standard ; Convertisseur intégré 16 bit AD de puce, sortie de données 16 bits\n\nSortie numérique I2C de données MotionFusion sur 6 à 9 axes dans une matrice en rotation.\n\nMots clés: axis, accelerometer, gyro, sensor.",
+     "short_description": "Modules de MPU-6050 (gyroscope à trois axes + accéléromètre trois axes)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/204-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-34467",
+   "price": 220,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MPU9250 GY-9250 Gyroscope, Accéléromètre, Magnétomètre",
+     "description": "MPU9250 GY-9250 Gyroscope, Accéléromètre, Magnétomètre, 9 Axes\n\nLe module de capteur de magnétomètre d’accéléromètre gyroscopique d’attitude à 9 axes MPU9250 comprend le MPU-9250, qui est un module multi-puces (MCM) composé de deux puces intégrées dans un seul boîtier QFN. Une matrice abrite l’accéléromètre et le gyroscope à 3 axes. L’autre matrice abrite le magnétomètre à 3 axes AK8963. Par conséquent, le MPU-9250 est un dispositif de suivi de mouvement à 9 axes qui combine un accéléromètre, un gyroscope et un magnétomètre à 3 axes, ainsi qu’un processeur de mouvement numérique (DMP). Il est basé sur l’adresse I2C, adresse : 0x68 par défaut, 0x69 si AD0 est élevé.\n\nLe MPU-9250 dispose également d’un capteur de température intégré. Ce module comprend des résistances pull-up sur les lignes SDA, SCL et nCS, des résistances pull-down sur les lignes FSYNC et AD0 et un régulateur de tension intégré de 3,3 V vous permettant d’alimenter le module à partir de sources 5 V telles qu’un Arduino. Si vous souhaitez alimenter le module à partir de 3,3 V, vous pouvez ponter le cavalier à souder à côté du régulateur de tension pour contourner le régulateur.\n\nCaractéristiques :\n\nAlimentation: DC3.3V-5V\n\nPuce : MPU9250\n\nTaille : 22 mm x 17 mm.\n\nPlage gyro : ± 250 500 1000 2000 °/s\n\nPlage d’accélération : ± 2 ± 4 ± 8 ± 16g\n\nPlage de champ magnétique : ± 4800uT\n\n9 modules DOF",
+     "short_description": "Le module de capteur de magnétomètre d’accéléromètre gyroscopique d’attitude à 9 axes MPU9250 comprend le MPU-9250, qui est un module multi-puces (MCM) composé de deux puces intégrées dans un seul boîtier QFN."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0204-A.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2979",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ADXL345 Module Accéléromètre / Inclinomètre Numérique",
+     "description": "ADXL345 Module Accéléromètre / Inclinomètre Numérique 3 Axes\n\nLe Module ADXL345, mesure le choc, l’inclinaison, la force, l’accélération et la gravité jusqu’à 16gs. ce module est de faible puissance, avec une mesure haute résolution (13 bits) jusqu’à ± 16g. Les données de sortie numérique sont formatées en 16 bits et sont accessibles via une interface numérique SPI (3 ou 4 fils) ou I2C.\n\nTension: 3V à 5V\n\nTempérature: -40 ° à 85 °\n\nCourant: 30uA\n\nCommunication: protocole de communication IIC / SPI\n\nÉchelle de mesure: ± 2g ± 16g\n\nSortie numérique: SPI / IIC\n\n3 axes, ± 2g / ± 4g / ± 8g / ± 16g\n\nAccéléromètre / inclinomètre compact.\n\nFiche technique\n\nMots clés: accelerometer, gravity, axis, sensor.",
+     "short_description": "Le Module ADXL345, mesure le choc, l’inclinaison, la force, l’accélération et la gravité jusqu’à 16gs.\n\nLe ADXL345 est de faible puissance, avec une mesure haute résolution (13 bits) jusqu’à ± 16g. Les données de sortie numérique sont formatées en 16 bits et sont accessibles via une interface numérique SPI (3 ou 4 fils) ou I2C."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/205-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-23335",
+   "price": 85,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "ADXL335 Module Accéléromètre / Inclinomètre Analogique",
+     "description": "ADXL335 Module Accéléromètre / Inclinomètre Analogique 3 Axes\n\nL’ADXL335 est un accéléromètre à sortie analogique 3 axes avec une plage de mesure de ±3 g, qui donnent directement les valeurs analogiques correspondantes et peuvent être directement interfacés aux broches analogiques du micro contrôleur. Avec des sorties de tension conditionnées par le signal.\n\nIl peut mesurer l’accélération statique de la gravité dans les applications de détection d’inclinaison, ainsi que l’accélération dynamique résultant du mouvement, des chocs ou des vibrations.\n\nL’utilisateur sélectionne la bande passante de l’accéléromètre à l’aide des condensateurs CX, CY et CZ sur les broches XOUT, YOUT et ZOUT.\n\nLes bandes passantes peuvent être sélectionnées en fonction de l’application, avec une plage de 0,5 Hz à 1600 Hz pour les axes X et Y, et une plage de 0,5 Hz à 550 Hz pour l’axe Z.\n\nTension de fonctionnement : 3 V à 6 V CC\n\nCourant de fonctionnement : 350 A\n\nPlage de détection : ± 3 g\n\nDétection 3 axes\n\nHaute sensibilité pour les petits mouvements\n\nNe nécessite aucun composant externe\n\nFacile à utiliser avec des microcontrôleurs ou même avec un circuit intégré numérique/analogique normal\n\nFiche technique\n\nMots clés: accelerometer, gravity, axis, sensor, analog.",
+     "short_description": "L’ADXL335 est un accéléromètre à sortie analogique 3 axes avec une plage de mesure de ±3 g."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/12/205-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-41552",
+   "price": 75,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "MPU6500 Accéléromètre + Gyroscope, 6 axes",
+     "description": "MPU6500 Accéléromètre + Gyroscope, I2C/SPI 6 axes\n\nLe module MPU6500 est un capteur de mouvement 6 axes ultra-performant, combinant un gyroscope 3 axes et un accéléromètre 3 axes dans un seul boîtier compact. Grâce à son interface I2C ou SPI et sa faible consommation d’énergie, il est idéal pour les systèmes embarqués nécessitant une détection de mouvement précise et rapide, comme les drones, robots, ou projets Arduino.\n\nCaractéristiques principales:\n\nCapteur 6 axes : accéléromètre 3 axes + gyroscope 3 axes (pas de magnétomètre)\n\nInterface de communication : I2C (jusqu’à 400 kHz) ou SPI (jusqu’à 1 MHz)\n\nPlages de mesure de l’accéléromètre : ±2g, ±4g, ±8g, ±16g\n\nPlages de mesure du gyroscope : ±250, ±500, ±1000, ±2000°/s\n\nRésolution de 16 bits pour chaque axe\n\nAlimentation : 2.4V à 3.6V (régulateur intégré sur module pour utilisation en 5V)\n\nConsommation ultra-faible en mode veille\n\nTempérature de fonctionnement : -40 °C à +85 °C\n\nDimensions : environ 15 x 10 mm.\n\nApplications typiques:\n\nDrones et quadricoptères pour la stabilisation\n\nRobots mobiles pour la détection d’orientation\n\nInterfaces gestuelles et manettes de jeu\n\nPédagogie électronique avec Arduino ou ESP32\n\nSystèmes de navigation inertielle (INS)\n\nBracelets et objets connectés portables\n\nMots clés: accelerometer, gravity, axis, sensor.",
+     "short_description": "Le module MPU6500 est un capteur de mouvement 6 axes ultra-performant, combinant un gyroscope 3 axes et un accéléromètre 3 axes dans un seul boîtier compact"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/02/0204-A.png"
+   ]
+  }
+ ]
+}

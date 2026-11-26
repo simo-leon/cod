@@ -1,0 +1,194 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-12084",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC639 Transistor NPN To-92 1A 80V",
+     "description": "Transistor NPN To-92 BC639 1A 80V\n\nTransistor NPN To-92 BC639 1A 80V.\n\nFiche technique",
+     "short_description": "Transistor NPN To-92 BC639 1A 80V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/730-A-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3657",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC327 Transistor PNP To-92 0.8A 45V",
+     "description": "Transistor PNP To-92 BC327 0.8A 45V\n\nTransistor PNP To-92  BC327 0.8A 45V.\n\nFiche technique",
+     "short_description": "Transistor PNP To-92  BC327 0.8A 45V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/731-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3658",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC337 Transistor NPN To-92 0.8A 45V",
+     "description": "Transistor NPN To-92 BC337 0.8A 45V\n\nTransistor NPN To-92  BC337 0.8A 45V.\n\nFiche technique",
+     "short_description": "Transistor NPN To-92  BC337 0.8A 45V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/10/0732-bc337-approved.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24354",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC517 Transistor Darlington NPN To-92 1.2A 30V",
+     "description": "BC517 Transistor Darlington NPN To-92 1.2A 30V\n\nBC517 Transistor Darlington NPN To-92 1.2A 30V.\n\nFiche technique",
+     "short_description": "BC517 Transistor Darlington NPN To-92 1.2A 30V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/03/732-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-24357",
+   "price": 1.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC516 Transistor Darlington PNP To-92 1A 30V",
+     "description": "BC516 Transistor Darlington PNP To-92 1A 30V\n\nBC516 Transistor Darlington PNP To-92 1A 30V.\n\nFiche technique",
+     "short_description": "BC516 Transistor Darlington PNP To-92 1A 30V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2022/03/732-b-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3659",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC557 Transistor PNP To-92 0.1A 50V",
+     "description": "Transistor PNP To-92 BC557 0.1A 50V\n\nTransistor PNP To-92  BC557 0.1A 50V.\n\nFiche technique",
+     "short_description": "Transistor PNP To-92  BC557 0.1A 50V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/733-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-12085",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC558 Transistor PNP To-92 0.1A 30V",
+     "description": "Transistor PNP To-92 BC558 0.1A 30V\n\nTransistor PNP To-92 BC558 0.1A 30V.\n\nFiche technique",
+     "short_description": "Transistor PNP To-92 BC558 0.1A 30V."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/03/733-A-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3660",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC547 Transistor NPN To-92 0.1A 50V",
+     "description": "Transistor NPN To-92 BC547 0.1A 50V\n\nTransistor NPN To-92  BC547 0.1A 50V.\n\nFiche technique",
+     "short_description": "Transistor NPN To-92  BC547 0.1A 50V"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/734-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20867",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC550C Transistor NPN To-92 0.1A 45V à faible bruit",
+     "description": "BC550C Transistor NPN To-92 0.1A 45V à faible bruit\n\nBC550C Transistor NPN To-92 0.1A 45V à faible bruit.\n\nFiche technique",
+     "short_description": "BC550C Transistor NPN To-92 0.1A 45V à faible bruit."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/734-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-20869",
+   "price": 1,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "BC560C Transistor PNP To-92 0.1A 45V à faible bruit",
+     "description": "BC560C Transistor NPN To-92 0.1A 45V à faible bruit\n\nBC560C Transistor NPN To-92 0.1A 45V à faible bruit.\n\nFiche technique",
+     "short_description": "BC560C Transistor NPN To-92 0.1A 45V à faible bruit."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/04/734-b-1.png"
+   ]
+  }
+ ]
+}

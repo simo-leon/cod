@@ -1,0 +1,200 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6423",
+   "price": 10,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TP4056 1A Chargeur de Batteries Lithium",
+     "description": "Chargeur de Batteries Lithium TP4056 1A\n\nLe TP4056 est un module de charge de batterie Li-ion/Li-Po autonome, réglé pour un courant charge maximal de 1 A. Il existe en trois versions selon votre préférence de connexion : port Mini-USB, Micro-USB ou USB-C. Cette carte est uniquement dédiée à la charge ; elle ne dispose pas des broches de décharge / protection OUT+ / OUT– comme certains modules avec circuit intégré de protection.\n\nCe module TP4056 est un chargeur de batteries de 3.6-3.7V comme batteries lithium “18650”, polymer…, il contrôle le courant de chargement (1A max) avec protection contre: surchage (chargement s’arrête à 4.2v). Équipé des Leds d’indication d’état de la batterie, une Led rouge pour indiquer que la batterie est en cours de chargement, une Led vert pour indiquer que la batterie est complètement chargée.\n\n🔧 Caractéristiques techniques\n\nChip de charge : TP4056 (charger linéaire)\n\nTension d’entrée : 4,5 – 5,5 V DC (via Mini-USB, Micro-USB ou USB-C)\n\nCourant de charge : 1 A (réglable via potentiomètre)\n\nTension de charge finie : 4,2 V ± 1 %\n\nProtection : déconnexion automatique en fin de charge,protection contre inversion de polarité\n\nLED d’état : rouge (charge), vert (terminé)\n\nConnecteur batterie : JST-PH 2 broches (3,7 V – 4,2 V)\n\nDimensions : env. 25 × 17 × 4 mm\n\nTempérature de service : – 10 °C à + 60 °C\n\n💡 Applications typiques\n\nRechargement de cellules Li-ion / Li-Po 18650, 14500, 10440, etc.\n\nStations de charge DIY pour powerbanks\n\nProjets Arduino, ESP32, ESP8266 nécessitant batterie externe\n\nAlimentation autonome de capteurs et modules IoT\n\nBancs de test et prototypage de systèmes embarqués\n\n🛠️ Brochage / Wiring\n\nBroche module\nFonction\nConnexion typique\n\n5 V IN\nEntrée charge 5 V via Mini-USB, USB-C ou Micro-USB\nPort USB de l’ordinateur ou adaptateur secteur 5 V\n\nGND\nMasse commune\nGND de la source 5 V\n\nBAT+\nSortie vers pôle positif de la batterie\nBroche + de la cellule Li-ion\n\nBAT–\nSortie vers pôle négatif de la batterie\nBroche – de la cellule Li-ion\n\nNote : pour un bon équilibre thermique, placez le module loin de sources de chaleur et évitez de charger à 1 A dans un environnement très chaud.\n\nFiche technique:\n\nMots clés: charger, battery.",
+     "short_description": "Ce module TP4056 est un chargeur de batteries de 3.6-3.7V comme batteries lithium “18650”, polymer…, il contrôle le courant de chargement (1A max) avec protection contre: surchage"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/484-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/484-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/484-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/484-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6380",
+   "price": 30,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "2S 3A BMS Chargeur de Batteries Lithium 2 Cellules",
+     "description": "Chargeur de Batteries Lithium 2 Cellules 2S 3A\n\nCe module est un chargeur de batteries lithium de 3.6-3.7V ( 2 cellules en séries 7.2V 7.4V)  comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 3A max.\n\nCircuit de détection de tension de haute précision;\n\nBorne du chargeur utilisant un dispositif haute tension;\n\nCircuit intégré de détection de surintensité à trois étages (surintensité 1, surintensité 2, court-circuit de charge);\n\nLe transistor MOS peut contrôler la charge et la décharge de la batterie\n\nFaible consommation de courant en veille.\n\nCaractéristiques:\n\nTension de coupure de charge: 4.23 ± 0.05V\n\nTension de coupure de décharge: 2.54 ± 0.1V\n\nCourant continu maximum: 3A\n\nCourant maximum de crête: 5A\n\nCourant en veille: moins de 3uA\n\nCycle de vie: plus de 50000 heures\n\nTempérature de fonctionnement: -40 à + 50\n\nTaille: 36 * 6 * 1.0mm\n\nMots clés: battery, charger, balance, bms.",
+     "short_description": "Ce module est un chargeur de batteries lithium de 3.6-3.7V ( 2 cellules en séries 7.4v 8.4V)  comme “18650”, équipé d’un circuit de protection contre: courts-circuits, surchage, décharge excessive, surintensité au niveau de sortie de batterie, avec un courant de charge de 3A max."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/486-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/486-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3201",
+   "price": 16,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "TP4056 1A Chargeur de Batteries Lithium Avec Circuit de Protection",
+     "description": "Chargeur de Batteries Lithium Avec Circuit de Protection TP4056 1A\n\nCe module TP4056 est un chargeur de batteries de 3.6-3.7V comme batteries lithium “18650”, polymer…, il contrôle le courant de chargement (1A max) équipé d’un circuit de protection contre: surchage (chargement s’arrête à 4.3v), décharge excessive pour éviter la destruction de la batterie (tension de coupure est 2.5v), surintensité au niveau de sortie de batterie (courant de coupure est 3A) pour éviter la destruction de la batterie en cas de court-circuit… Équipé des Leds d’indication d’état de la batterie, une Led rouge pour indiquer que la batterie est en cours de chargement, une Led vert pour indiquer que la batterie est complètement chargée.\n\nVous pouvez également combiner ce module avec “Élévateur de Tension Mini chargeur Usb 5V 600mA” ou “Élévateur de Tension MT3608 2A” ou n’importe quel élévateur de tension qui supporte une tension de 3-4.3v en entrée et 5v en sortie, pour construire un “Power bank”.\n\nCaractéristiques\n\nTension d’entrée: 4.5-5.5V\n\nCourant de chargement: 1A max\n\nTension de coupure: 4.3V (charge complète)\n\nTension de coupure de sortie de batterie: 2.5V (décharge compléte)\n\nLeds d’indication d’état: rouge (en cours de chargement) vert (charge compléte)\n\nDimensions: 25mm * 19mm * 10mm.\n\nFiche technique: TP4056\n\nFiche technique: DW01A\n\nMots clés: charger, battery, powerbank.",
+     "short_description": "Ce module est un chargeur de batteries de 3.6-3.7V comme batteries lithium “18650”, polymer…, il contrôle le courant de chargement (1A max) équipé d’un circuit de protection."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/05/491-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/491-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3202",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module Charge Fictive USB 1A/2A",
+     "description": "Module Charge Fictive USB 1A/2A\n\nCe module est une charge fictive, sert à décharger les batteries pour mesurer la capacité ou connaître ses caractéristiques, aussi stresser les alimentations ou chargeurs et connaître ses capacités… le module est équipé d’un interrupteur pour choisir le courant de décharge 1A (5w) ou 2A (10w), avec des leds d’indication et port Usb comme entrée.\n\nCe module peut être combiné avec (USB Doctor Testeur USB) et (Connecteur Avec Port Usb Femelle) pour construire un testeur de capacité pour les batteries.\n\nTension d’entrée: 5V\n\nCourant de sortie: 1A – 2A\n\nPuissance: 5W – 10W\n\nTempérature sur tension: 80 – 85 °C (à ne pas toucher les résistances sur tension)\n\nDimensions: 7.3cm x 1.8cm x 1.0cm\n\nMots clés: dummy, load, discharge.",
+     "short_description": "Ce module est une charge fictive, sert à décharger les batteries pour mesurer la capacité ou connaître ses caractéristiques, aussi stresser les alimentations ou chargeurs et connaître ses capacités… le module est équipé d’un interrupteur pour choisir le courant de décharge 1A (5w) ou 2A (10w), avec des leds d’indication et port Usb comme entrée\n\nTension d’entrée: 5V\n\nCourant de sortie: 1A – 2A\n\nPuissance: 5W – 10W\n\nTempérature sur tension: 80 – 85 °C (à ne pas toucher les résistances sur tension)\n\nDimensions: 7.3cm x 1.8cm x 1.0cm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/492-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3210",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AA X1 Porte-piles Pour Batterie",
+     "description": "Porte-piles Pour Batterie AA X 1\n\nBoîtier (porte-piles) Pour Batterie AA X 1, facilite l’alimentation de vos projets et cartes éléctroniques. Il supporte les batteries de taille AA rechargeable (1.2v) ou non rechargable (1.5v).\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Support Pour Batterie AA X 1, facilite l’alimentation de vos projets et cartes éléctroniques, il supporte les batteries de taille AA rechargeable (1.2v) ou non rechargable (1.5v)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/499-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3212",
+   "price": 8,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AA X2 Porte-piles Pour Batterie",
+     "description": "🔋 Porte-Piles AA ×2 en Série — Sortie 3 V ou 2,4 V\n\nCe porte-piles pour deux batteries AA permet d’alimenter facilement un circuit électronique sans souder directement sur les piles. Les deux emplacements sont connectés en série, ce qui additionne leurs tensions.\n\nIl fournit une tension nominale de 3 V avec deux piles alcalines de 1,5 V, ou de 2,4 V avec deux accumulateurs Ni-MH rechargeables de 1,2 V.\n\n✨ Points forts\n\n🔋 Compatible avec deux piles ou accus AA\n\n🔗 Connexion interne en série\n\n⚡ Sortie de 3 V avec des piles alcalines\n\n♻️ Sortie de 2,4 V avec des accus Ni-MH\n\n🔄 Batteries facilement remplaçables\n\n🛡️ Évite de souder directement sur les cellules\n\n🛠️ Installation simple dans un prototype\n\n📦 Format compact\n\n🤖 Adapté aux petits projets électroniques\n\n🔧 Caractéristiques principales\n\nType : porte-piles pour batteries cylindriques\n\nFormat compatible : AA\n\nNombre d’emplacements : 2\n\nConfiguration : 2S\n\nConnexion électrique : série\n\nTension avec des piles alcalines : 1,5 V × 2 = 3 V\n\nTension avec des accus Ni-MH : 1,2 V × 2 = 2,4 V\n\nSortie : positive et négative\n\nRecharge intégrée : non\n\nRégulation de tension : non\n\nPiles incluses : non\n\nLa tension réelle diminue progressivement pendant la décharge et peut également baisser lorsque le circuit consomme un courant important.\n\n⚙️ Fonctionnement de la connexion en série\n\nDans une connexion en série, les tensions des deux batteries s’additionnent. La capacité du pack reste cependant celle d’une seule batterie.\n\nPile 1 Pile 2\r\n 1,5 V + 1,5 V = 3 V\r\n\nAccu 1 Accu 2\r\n 1,2 V + 1,2 V = 2,4 V\nAvec deux accus de 2000 mAh, le pack fournit environ 2,4 V et 2000 mAh, et non 4000 mAh.\n\n🛠️ Tutoriel d’utilisation\n\nVérifiez la tension nécessaire à votre appareil.\n\nChoisissez deux piles alcalines AA ou deux accus Ni-MH identiques.\n\nRepérez les symboles + et – dans chaque emplacement.\n\nInsérez les deux batteries en respectant leur orientation.\n\nMesurez la tension de sortie avec un multimètre.\n\nConnectez le positif du support au positif du circuit.\n\nConnectez le négatif au GND du circuit.\n\nAjoutez un interrupteur si vous souhaitez commander l’alimentation.\n\nSi le support possède des fils, le rouge correspond généralement au positif et le noir au négatif. Vérifiez néanmoins la polarité avant le branchement.\n\n🔌 Exemple de connexion\n\nPorte-piles + ─── Interrupteur ─── VCC du circuit\r\nPorte-piles – ──────────────────── GND du circuit\n⚠️ Précautions d’utilisation\n\nNe mélangez pas une pile alcaline et un accu rechargeable.\n\nUtilisez deux batteries de même marque, capacité et état de charge.\n\nN’associez pas une batterie neuve avec une batterie usagée.\n\nNe rechargez jamais des piles alcalines.\n\nRetirez les accus Ni-MH pour les recharger avec un chargeur adapté.\n\nRespectez la polarité de chaque emplacement.\n\nNe court-circuitez jamais les deux sorties.\n\nRetirez les batteries lorsque le montage n’est pas utilisé longtemps.\n\nN’utilisez pas une batterie qui fuit, chauffe ou présente des dommages.\n\n🎯 Applications principales\n\n🤖 Petits robots et jouets électroniques\n\n💡 LED avec résistance adaptée\n\n📟 Afficheurs et petits modules\n\n🔊 Circuits audio basse tension\n\n🎓 Travaux pratiques d’électronique\n\n🛠️ Prototypes et montages DIY\n\n🔔 Buzzers et systèmes d’alarme\n\n📡 Capteurs autonomes\n\n🎮 Petits contrôleurs électroniques\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Porte-piles AA ×2 câblé en série, fournissant 3 V avec des piles alcalines ou 2,4 V avec des accus Ni-MH rechargeables."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/500-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3214",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AA X3 Porte-piles Pour Batterie",
+     "description": "Porte-piles Pour Batterie AA X 3\n\nBoîtier (porte-piles) Pour Batterie AA X 3, facilite l’alimentation de vos projets et cartes éléctroniques, il supporte les batteries de taille AA rechargeable (1.2v x 3 = 3.6v) ou non rechargable (1.5v x 3 = 4.5v).\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Support Pour Batterie AA X 3, facilite l’alimentation de vos projets et cartes éléctroniques, il supporte les batteries de taille AA rechargeable (1.2v x 3 = 3.6v) ou non rechargable (1.5v x 3 = 4.5v)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/501-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-36999",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "boîtier pour Piles AA x3 avec USB et Interrupteur",
+     "description": "boîtier pour Piles AA x3 avec USB et Interrupteur\n\nCe support de piles est conçu pour accueillir trois piles AA, offrant une sortie USB pratique pour alimenter des dispositifs compatibles USB. Il comprend un interrupteur marche/arrêt intégré et un couvercle coulissant pour un remplacement facile des piles et un stockage sécurisé. Parfait pour les besoins de puissance portable, idéal pour divers projets électroniques.\n\nCaractéristiques\n\nMatériau : Corps en plastique durable\n\nType de piles : Compatible avec les piles AA (rechargeables ou standard)\n\nNombre de piles : 3 piles AA\n\nSortie : Port USB-A femelle (3,6V à 4,5V selon le type de pile)\n\nInterrupteur : Interrupteur marche/arrêt intégré\n\nCouvercle : Couvercle coulissant\n\nDimensions :\n\nBoîtier de la batterie : 68mm x 47mm x 17mm\n\nLongueur du câble : 90mm\n\nComment l’utiliser\n\nInsérer les piles :\n\nOuvrez le couvercle.\n\nInsérez trois piles AA en respectant la polarité.\n\nFermez le couvercle.\n\nConnecter au dispositif :\n\nBranchez le connecteur USB à votre dispositif compatible USB.\n\nContrôle de l’alimentation :\n\nUtilisez l’interrupteur intégré pour allumer ou éteindre l’alimentation.\n\nApplications :\n\nIdéal pour alimenter des dispositifs comme Raspberry Pi Pico, des circuits simples, et autres dispositifs nécessitant une entrée de 3,3V à 5V.\n\nConseils de sécurité :\n\nAssurez-vous de respecter la polarité des piles pour éviter les dommages.\n\nÉteignez l’interrupteur lorsque non utilisé pour économiser la batterie.\n\nÉvitez de mélanger des piles neuves et anciennes pour des performances cohérentes.\n\nCe support de piles est une solution polyvalente et pratique pour fournir une alimentation USB portable, assurant une utilisation facile et des performances fiables pour vos projets électroniques.",
+     "short_description": "Ce support de piles est conçu pour accueillir trois piles AA, offrant une sortie USB pratique pour alimenter des dispositifs compatibles USB"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/501-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2024/06/501-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3215",
+   "price": 15,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AA X4 Porte-piles Pour Batterie",
+     "description": "🔋 Porte-Piles AA ×4 en Série — Sortie 6 V ou 4,8 V\n\nCe porte-piles pour quatre batteries AA permet de créer une alimentation portable pour les projets électroniques, petits moteurs, éclairages et équipements fonctionnant autour de 5 ou 6 V.\n\nLes quatre emplacements sont câblés en série. Le support fournit donc 6 V avec quatre piles alcalines de 1,5 V, ou 4,8 V avec quatre accumulateurs Ni-MH rechargeables de 1,2 V.\n\n✨ Points forts\n\n🔋 Compatible avec quatre piles ou accus AA\n\n🔗 Connexion interne en série\n\n⚡ Sortie de 6 V avec des piles alcalines\n\n♻️ Sortie de 4,8 V avec des accus Ni-MH\n\n🔄 Batteries facilement amovibles\n\n🛡️ Aucun soudage direct sur les batteries\n\n🤖 Adapté aux projets électroniques et robotiques\n\n📦 Intégration simple dans un boîtier\n\n🛠️ Solution pratique pour les prototypes autonomes\n\n🔧 Caractéristiques principales\n\nType : porte-piles pour batteries cylindriques\n\nFormat compatible : AA\n\nNombre d’emplacements : 4\n\nConfiguration : 4S\n\nConnexion électrique : série\n\nTension avec des piles alcalines : 1,5 V × 4 = 6 V\n\nTension avec des accus Ni-MH : 1,2 V × 4 = 4,8 V\n\nSortie : positive et négative\n\nRecharge intégrée : non\n\nRégulation de tension : non\n\nPiles incluses : non\n\nLa tension de sortie varie avec l’état de charge des batteries et la consommation de l’appareil.\n\n⚙️ Fonctionnement de la connexion en série\n\nLe câblage en série additionne les tensions des quatre batteries, mais pas leur capacité.\n\n4 piles alcalines :\r\n1,5 V + 1,5 V + 1,5 V + 1,5 V = 6 V\r\n\n4 accus Ni-MH :\r\n1,2 V + 1,2 V + 1,2 V + 1,2 V = 4,8 V\nAvec quatre accus de 2500 mAh, le pack fournit environ 4,8 V et 2500 mAh, et non 10 000 mAh.\n\n📊 Choisir le bon type de batterie\n\nBatterie utilisée\nTension du pack\nRechargeable\n\n4 piles alcalines AA\n6 V\n❌ Non\n\n4 accus Ni-MH AA\n4,8 V nominal\n✅ Oui, avec un chargeur adapté\n\nCertains circuits annoncés pour 5 V acceptent une plage limitée. Vérifiez qu’ils peuvent supporter 6 V avant d’utiliser des piles alcalines.\n\n🛠️ Tutoriel d’utilisation\n\nVérifiez la plage de tension acceptée par votre appareil.\n\nSélectionnez quatre piles alcalines ou quatre accus Ni-MH identiques.\n\nContrôlez leur état et leur tension.\n\nInsérez chaque batterie en respectant les symboles + et –.\n\nMesurez la tension totale à la sortie du support.\n\nConnectez la sortie positive au VCC du circuit.\n\nConnectez la sortie négative au GND.\n\nAjoutez un interrupteur et un fusible lorsque l’application le nécessite.\n\n🔌 Exemple de branchement\n\nPorte-piles + ─── Fusible ─── Interrupteur ─── VCC\r\nPorte-piles – ──────────────────────────────── GND\nPour alimenter un circuit exigeant exactement 5 V, utilisez un convertisseur ou régulateur adapté à la tension d’entrée disponible.\n\n⚠️ Précautions d’utilisation\n\nUtilisez quatre batteries de même technologie.\n\nNe mélangez pas des piles alcalines et des accus Ni-MH.\n\nN’associez pas des batteries neuves et usagées.\n\nVérifiez que les quatre batteries possèdent un état de charge proche.\n\nNe rechargez jamais des piles alcalines.\n\nRechargez les accus Ni-MH avec un chargeur conçu pour cette technologie.\n\nRespectez la polarité de chaque emplacement.\n\nNe court-circuitez jamais la sortie.\n\nVérifiez que l’appareil supporte la tension maximale du pack.\n\nRetirez les batteries avant toute modification du câblage.\n\nRetirez-les également lors d’un stockage prolongé.\n\n🎯 Applications principales\n\n🤖 Robots et véhicules électroniques\n\n⚙️ Petits moteurs DC\n\n💡 Éclairages et rubans LED compatibles\n\n🔊 Amplificateurs audio portables\n\n🛠️ Prototypes électroniques\n\n📟 Appareils de mesure\n\n🚨 Alarmes et systèmes de sécurité\n\n🎓 Projets scolaires et éducatifs\n\n📡 Capteurs et équipements autonomes\n\n🎮 Jouets et mécanismes alimentés par batteries\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Porte-piles AA ×4 câblé en série, fournissant 6 V avec des piles alcalines ou 4,8 V avec des accus Ni-MH rechargeables."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/502-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3216",
+   "price": 19,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "AA X5 Porte-piles Pour Batterie",
+     "description": "Porte-piles Pour Batterie AA X 5\n\nBoîtier (porte-piles) Pour Batterie AA X 5, facilite l’alimentation de vos projets et cartes éléctroniques, il supporte les batteries de taille AA rechargeable (1.2v x 5 = 6v) ou non rechargable (1.5v x 5= 7.5v).\n\nMots clés: support, battery, holder, boite.",
+     "short_description": "Support Pour Batterie AA X 5, facilite l’alimentation de vos projets et cartes éléctroniques, il supporte les batteries de taille AA rechargeable (1.2v x 5 = 6v) ou non rechargable (1.5v x 5= 7.5v)."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/503-1.png"
+   ]
+  }
+ ]
+}

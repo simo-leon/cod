@@ -1,0 +1,202 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-6124",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Kit Dissipateur Thermique en Aluminium pour TO-220",
+     "description": "Kit Dissipateur Thermique en Aluminium pour TO-220\n\nKit Dissipateur Thermique en Aluminium Pour circuits intégrés, régulateurs, transistors…TO-220.\n\nMatiére: Aluminium\n\nDimensions: 20x14x9mm\n\nMots clés: kits, heatsink, heat sink, cooler, thermal, car.",
+     "short_description": "Kit Dissipateur Thermique en Aluminium Pour circuits intégrés, régulateurs, transistors…TO-220."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/543-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/543-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6122",
+   "price": 2.5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Dissipateur Thermique en Aluminium Pour TO-220",
+     "description": "❄️ Dissipateur Thermique en Aluminium pour TO-220 — Refroidissement compact des composants\n\nCe dissipateur thermique en aluminium améliore l’évacuation de la chaleur produite par les transistors, MOSFET, régulateurs de tension et autres composants au format TO-220.\n\nSes dimensions compactes de 19 × 14 × 10 mm permettent de l’intégrer facilement aux alimentations, amplificateurs, drivers de moteurs et circuits de puissance disposant d’un espace limité.\n\n✨ Points forts\n\n❄️ Améliore le refroidissement du composant\n\n🔩 Compatible avec de nombreux boîtiers TO-220\n\n🪶 Construction légère en aluminium\n\n📏 Dimensions compactes\n\n⚡ Adapté aux transistors et régulateurs\n\n🛠️ Installation simple\n\n🔇 Refroidissement passif sans ventilateur\n\n🤖 Idéal pour les projets électroniques\n\n🔧 Caractéristiques techniques\n\nType : dissipateur thermique passif\n\nMatériau : aluminium\n\nDimensions : environ 19 × 14 × 10 mm\n\nFormat compatible : TO-220\n\nMéthode de refroidissement : convection naturelle\n\nAlimentation : aucune\n\nVentilateur : non nécessaire\n\nUtilisation : composants électroniques de puissance\n\nLa résistance thermique exacte n’est pas spécifiée. Les performances dépendent de la puissance dissipée, du flux d’air, de la température ambiante et de la qualité du montage.\n\n⚙️ Principe de fonctionnement\n\nLe composant TO-220 transfère sa chaleur vers le dissipateur. L’aluminium répartit cette énergie sur une surface plus grande afin de faciliter son évacuation dans l’air.\n\nUne bonne interface thermique entre les deux surfaces réduit la température du composant et améliore sa fiabilité.\n\n🧮 Vérifier la puissance dissipée\n\nPour un régulateur linéaire, la puissance transformée en chaleur peut être estimée avec :\n\nP = (Vin – Vout) × I\nExemple pour un régulateur produisant 5 V sous 0,5 A à partir de 12 V :\n\nP = (12 V – 5 V) × 0,5 A\r\nP = 3,5 W\nLa température finale doit être vérifiée à partir de la fiche technique du composant. Ce petit dissipateur n’est pas adapté à toutes les puissances ni à toutes les conditions ambiantes.\n\n🛠️ Tutoriel de montage\n\nCoupez complètement l’alimentation du circuit.\n\nNettoyez la surface métallique du composant et celle du dissipateur.\n\nAppliquez une couche très fine de pâte thermique.\n\nPlacez le composant contre la surface du dissipateur.\n\nFixez-le avec le système adapté : vis, écrou ou clip selon le montage.\n\nAjoutez un isolant thermique si la languette métallique ne doit pas toucher électriquement le dissipateur.\n\nVérifiez l’absence de court-circuit avec un multimètre.\n\nRemettez le circuit sous tension et contrôlez sa température.\n\nUne quantité excessive de pâte thermique peut réduire l’efficacité du transfert de chaleur.\n\n⚡ Attention à la languette métallique\n\nSur de nombreux composants TO-220, la languette métallique est reliée électriquement à une broche :\n\nDrain sur de nombreux MOSFET\n\nCollecteur sur certains transistors\n\nEntrée, sortie ou masse selon le régulateur\n\nSi le dissipateur risque de toucher le boîtier, un autre composant ou la terre, utilisez :\n\nUn isolant thermique en silicone ou en mica\n\nUne rondelle isolante pour la vis\n\nDe la pâte thermique adaptée\n\nVérifiez toujours la fiche technique du composant.\n\n🎯 Applications principales\n\n⚡ Régulateurs de tension linéaires\n\n🔋 Alimentations électroniques\n\n🔊 Amplificateurs audio\n\n⚙️ MOSFET et transistors de puissance\n\n🤖 Drivers de moteurs\n\n💡 Contrôleurs pour LED\n\n🔄 Convertisseurs et chargeurs\n\n🛠️ Réparation de cartes électroniques\n\n🎓 Projets éducatifs et prototypes\n\nMots clés: Heatsink",
+     "short_description": "Dissipateur compact en aluminium de 19 × 14 × 10 mm pour refroidir les transistors, MOSFET et régulateurs au format TO-220."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/05/544-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4671",
+   "price": 25,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Pâte Thermique Stars-922",
+     "description": "🌡️ Pâte Thermique Adhésive Stars-922 5 g — Transfert thermique et fixation du dissipateur\n\nLa Stars-922 est une pâte thermique adhésive monocomposant conçue pour améliorer le transfert de chaleur entre un composant électronique et son dissipateur. Elle remplit les micro-irrégularités des surfaces afin de réduire les poches d’air qui ralentissent l’évacuation thermique.\n\nGrâce à son pouvoir adhésif, elle permet également de maintenir le radiateur en place, particulièrement lorsque le composant ne possède pas de système de fixation mécanique. Elle convient aux LED de puissance, MOSFET, régulateurs, mémoires, circuits intégrés et modules électroniques.\n\n✨ Points forts\n\n🌡️ Améliore le transfert de chaleur vers le dissipateur\n\n🔗 Fixe le radiateur directement sur le composant\n\n🧴 Formule monocomposant prête à l’emploi\n\n⚪ Pâte blanche à base de silicone\n\n📏 Application précise en couche fine\n\n🔧 Idéale pour la réparation et le prototypage électronique\n\n💡 Adaptée aux LED et composants de puissance\n\n📦 Tube compact de 5 g\n\n🔧 Caractéristiques techniques\n\nModèle : Stars-922\n\nType : pâte ou colle thermique adhésive\n\nComposition : base silicone\n\nCouleur : blanche\n\nPoids net : 5 g\n\nConductivité thermique : supérieure à 0,671 W/m·K\n\nRésistance thermique : inférieure à 0,06 °C·in²/W\n\nTemps de solidification initiale : environ 3 minutes à 25 °C\n\nTempérature maximale indicative : jusqu’à 200 °C\n\nApplication : entre un composant électronique et son dissipateur\n\nFixation : permanente ou semi-permanente après durcissement\n\nLes temps de séchage peuvent varier selon l’épaisseur appliquée, la température et l’humidité ambiante.\n\n⚙️ Comment fonctionne la Stars-922 ?\n\nMême lorsqu’elles paraissent lisses, les surfaces d’un composant et d’un dissipateur présentent de petites irrégularités. Ces espaces contiennent de l’air, un mauvais conducteur thermique qui limite l’évacuation de la chaleur.\n\nLa Stars-922 remplit ces imperfections et crée une meilleure interface thermique. La chaleur est ainsi transférée plus efficacement du composant vers le radiateur, tout en assurant leur fixation.\n\n📊 Pâte thermique classique ou Stars-922 ?\n\nCritère\nPâte thermique classique\nStars-922 adhésive\n\nTransfert thermique\n✅ Oui\n✅ Oui\n\nFixation du dissipateur\n❌ Non\n✅ Oui\n\nDémontage facile\n✅ Oui\n❌ Plus difficile\n\nBesoin de vis ou clips\nGénéralement oui\nPas toujours\n\nLED et petits composants\nPossible\n✅ Très adaptée\n\nUtilisation permanente\nNon\n✅ Oui\n\n⚠️ La Stars-922 possède un effet adhésif. Pour un processeur équipé d’un ventilateur ou d’un dissipateur devant être démonté régulièrement, choisissez plutôt une pâte thermique non adhésive.\n\n🛠️ Tutoriel d’application\n\nCoupez l’alimentation de l’appareil et laissez le composant refroidir.\n\nNettoyez soigneusement le composant et le dissipateur avec de l’alcool isopropylique.\n\nAttendez que les deux surfaces soient complètement sèches.\n\nAppliquez une couche très fine et uniforme de Stars-922.\n\nPositionnez immédiatement le dissipateur sur le composant.\n\nPressez légèrement afin de répartir la pâte et d’éliminer l’air.\n\nMaintenez le dissipateur immobile pendant la prise initiale.\n\nAttendez le durcissement complet avant de soumettre l’assemblage à une forte chaleur ou à un effort mécanique.\n\nUne quantité excessive peut réduire les performances thermiques et prolonger le temps de séchage.\n\n🎯 Applications principales\n\n💡 Fixation de dissipateurs sur les LED de puissance\n\n⚡ Refroidissement des MOSFET et transistors\n\n🔋 Régulateurs de tension et convertisseurs DC-DC\n\n🧠 Puces mémoire et circuits intégrés\n\n🎮 Petits dissipateurs pour cartes graphiques\n\n🖥️ Ponts nord et sud de cartes mères\n\n🖨️ Cartes électroniques et imprimantes 3D\n\n🛠️ Réparation d’appareils électroniques\n\n🤖 Projets Arduino, ESP32 et Raspberry Pi nécessitant un refroidissement\n\n⚠️ Précautions d’utilisation\n\nNe mettez pas l’appareil sous tension avant la prise suffisante du produit.\n\nÉvitez tout contact avec les yeux et la peau.\n\nUtilisez la pâte dans un endroit correctement ventilé.\n\nRefermez soigneusement le tube immédiatement après utilisation.\n\nConservez-la dans un endroit frais, sec et hors de portée des enfants.\n\nVérifiez le positionnement du dissipateur avant le durcissement.\n\nNe forcez pas le démontage au risque d’endommager le composant.\n\nMots clés: cooler, cooling, heatsink, radiateur, heat sink, heatsink, thermal, paste.",
+     "short_description": "Pâte thermique adhésive Stars-922 5 g pour améliorer le transfert de chaleur et fixer les dissipateurs sur les composants électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/545-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/545-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/12/545-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4655",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Mini Ventilateur 5V DC 40x40x10mm",
+     "description": "Mini Ventilateur 5V DC 40x40x10mm\n\nMini Ventilateur 5V DC brushless, avec connecteur 2 broches, très faible niveau de bruit, idéal pour vos petits projets nécessitant un refroidissement.\n\nCaractéristiques:\n\nDimensions: 40mm × 40mm × 10mm\n\nRéférence de vitesse: 4000 ± 10% RPM\n\nNiveau de bruit: 18DB\n\nDébit d’air: 18-25 CFM\n\nTension nominale: 5V\n\nLongueur de câble: 22CM\n\nMots clés: fan, cooler, radiateur.",
+     "short_description": "Mini Ventilateur 5V DC brushless, avec connecteur 2 broches, très faible niveau de bruit, idéal pour vos petits projets nécessitant un refroidissement."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/548-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/548-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-30843",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur 5V DC 80x80x25mm 8025",
+     "description": "Ventilateur 5V DC 80x80x25mm\n\nMini Ventilateur 5V DC 8025 80x80x25mm brushless, avec connecteur 2 broches, très faible niveau de bruit, idéal pour vos petits projets nécessitant un refroidissement.\n\nCaractéristiques:\n\nDimensions: 80mm × 80mm × 25mm\n\nRoulement : douille/roulements à billes doubles\n\nDurée de vie : Environ 30 000 heures / Plus de 50 000 heures\n\nTension nominale : 5 VDC\n\nCourant : 0,27 A\n\nPuissance : 1,35 W\n\nVitesse : 3 000 tr/min\n\nPression d’air : 4,60 mmH₂O\n\nDébit d’air : 38,19 CFM\n\nBruit : 29,8 dBA\n\nMots clés: fan, cooler, radiateur.",
+     "short_description": "Ventilateur 5V DC 80x80x25mm"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2023/07/548-a-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50877",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur 24V DC 80x80x25mm 8025",
+     "description": "Ventilateur Brushless 24V DC 80x80x25mm 8025\n\nCe ventilateur brushless 24 V DC assure une circulation d’air efficace dans les boîtiers électroniques, armoires de commande, imprimantes 3D, machines CNC et équipements industriels. Son format standard de 80 × 80 × 25 mm facilite son intégration dans de nombreux systèmes de ventilation.\n\nSon moteur sans balais offre un fonctionnement durable avec une usure mécanique réduite. Le ventilateur possède deux fils d’alimentation et un connecteur 2 broches pour une installation rapide.\n\n⭐ Points forts\n\n✅ Moteur brushless durable\n\n✅ Alimentation standard 24 V DC\n\n✅ Format compact 80 × 80 × 25 mm\n\n✅ Quatre trous pour la fixation\n\n✅ Connecteur 2 broches\n\n✅ Installation simple\n\n✅ Adapté au fonctionnement continu selon les conditions d’utilisation\n\n✅ Idéal pour les équipements électroniques et industriels\n\n🔧 Caractéristiques techniques\n\nType : ventilateur axial brushless\n\nTension nominale : 24 V DC\n\nDimensions : 80 × 80 × 25 mm\n\nNombre de fils : 2\n\nFil rouge : positif 24 V\n\nFil noir : négatif/GND\n\nConnexion : prise 2 broches\n\nCadre : plastique noir\n\nMontage : quatre trous aux angles\n\nFonction : extraction ou apport d’air\n\nContrôle tachymétrique : non disponible sur cette version à deux fils\n\nLe courant, la vitesse de rotation, le débit d’air et le niveau sonore peuvent varier selon la série reçue.\n\n⚙️ Principe de fonctionnement\n\nLe ventilateur tourne dès qu’une tension continue de 24 V est appliquée :\n\n🔴 Fil rouge → positif 24 V\n\n⚫ Fil noir → négatif de l’alimentation\n\nLe ventilateur s’arrête lorsque l’alimentation est coupée. Cette version ne nécessite aucune carte de commande pour fonctionner.\n\n🔌 Guide de branchement\n\nFil du ventilateur\nAlimentation 24 V\n\nRouge\n+24 V\n\nNoir\nGND / 0 V\n\nCoupez l’alimentation.\n\nVérifiez que la source fournit bien 24 V DC.\n\nConnectez le fil rouge au positif.\n\nConnectez le fil noir au négatif.\n\nFixez le ventilateur avec quatre vis adaptées.\n\nRemettez l’alimentation et contrôlez le sens du flux d’air.\n\nLe côté comportant généralement les supports du moteur correspond à la sortie d’air. Vérifiez également la présence éventuelle de flèches moulées sur le cadre.\n\n🏭 Applications principales\n\nRefroidissement d’armoires électriques\n\nImprimantes 3D fonctionnant en 24 V\n\nMachines CNC et équipements industriels\n\nAlimentations et convertisseurs\n\nDrivers de moteurs\n\nAmplificateurs et équipements audio\n\nBoîtiers électroniques\n\nSystèmes d’automatisation\n\nProjets de robotique\n\n🤖 Commande avec un microcontrôleur\n\nUn Arduino ou un ESP32 ne peut pas alimenter directement ce ventilateur. Pour le commander électroniquement, utilisez un MOSFET compatible logique, une diode de protection et une alimentation 24 V séparée, avec une masse commune lorsque le montage le permet.\n\n⚠️ Précautions\n\nUtilisez exclusivement une alimentation continue de 24 V.\n\nRespectez la polarité des fils.\n\nNe bloquez pas les pales pendant le fonctionnement.\n\nInstallez une grille de protection si le ventilateur reste accessible.\n\nNe tirez pas sur les câbles pour débrancher le connecteur.\n\nProtégez le ventilateur contre l’eau, la poussière excessive et les températures extrêmes.\n\nVérifiez que l’alimentation peut fournir le courant nécessaire.\n\nCoupez l’alimentation avant toute intervention.",
+     "short_description": "Ventilateur brushless 80 × 80 × 25 mm alimenté en 24 V DC, conçu pour refroidir les imprimantes 3D, machines et boîtiers électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/548-d-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50879",
+   "price": 40,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Ventilateur 12V DC 80x80x25mm 8025",
+     "description": "Ventilateur Brushless 12V DC 80x80x25mm 8025\n\nCe ventilateur brushless 12 V DC permet d’évacuer efficacement la chaleur générée par les composants électroniques. Son format standard de 80 × 80 × 25 mm convient aux boîtiers, alimentations, amplificateurs, ordinateurs, routeurs et projets de bricolage électronique.\n\nÉquipé d’un moteur sans balais, de deux fils et d’un connecteur 2 broches, il peut fonctionner directement avec une alimentation 12 V adaptée.\n\n⭐ Points forts\n\n✅ Moteur brushless à faible usure\n\n✅ Alimentation courante de 12 V DC\n\n✅ Dimensions standard 80 × 80 × 25 mm\n\n✅ Quatre trous de montage\n\n✅ Connecteur 2 broches\n\n✅ Branchement simple à deux fils\n\n✅ Convient aux boîtiers et projets électroniques\n\n✅ Format facile à remplacer ou à intégrer\n\n🔧 Caractéristiques techniques\n\nType : ventilateur axial brushless\n\nTension nominale : 12 V DC\n\nDimensions : 80 × 80 × 25 mm\n\nNombre de fils : 2\n\nFil rouge : positif 12 V\n\nFil noir : négatif/GND\n\nConnexion : prise 2 broches\n\nCadre : plastique noir\n\nMontage : quatre trous aux angles\n\nFonction : extraction ou apport d’air\n\nContrôle tachymétrique : non disponible sur cette version à deux fils\n\nLe courant consommé, la vitesse, le débit d’air et le bruit peuvent varier selon le lot de fabrication.\n\n⚙️ Principe de fonctionnement\n\nLe ventilateur démarre lorsqu’il reçoit une alimentation continue de 12 V :\n\n🔴 Fil rouge → positif 12 V\n\n⚫ Fil noir → négatif de l’alimentation\n\nIl peut être commandé par un interrupteur, un thermostat, un relais ou un circuit MOSFET correctement dimensionné.\n\n🔌 Guide de branchement\n\nFil du ventilateur\nAlimentation 12 V\n\nRouge\n+12 V\n\nNoir\nGND / 0 V\n\nDébranchez l’alimentation.\n\nVérifiez que sa sortie est de 12 V DC.\n\nReliez le fil rouge au positif.\n\nReliez le fil noir au négatif.\n\nFixez correctement le ventilateur.\n\nRétablissez l’alimentation et vérifiez la circulation de l’air.\n\nPour extraire l’air chaud d’un boîtier, placez généralement le côté comportant les supports du moteur vers l’extérieur.\n\n💻 Applications électroniques\n\nVentilation de boîtiers\n\nRefroidissement d’ordinateurs\n\nAlimentations 12 V\n\nRouteurs et équipements réseau\n\nAmplificateurs audio\n\nRubans et éclairages LED\n\nConvertisseurs de puissance\n\nChargeurs et bancs de test\n\nProjets Arduino et Raspberry Pi\n\n🛠️ Bricolage et prototypage\n\nMini-extracteurs d’air\n\nCaissons électroniques\n\nSystèmes thermorégulés\n\nIncubateurs et petits équipements\n\nProjets de robotique\n\nRefroidissement de dissipateurs thermiques\n\n🤖 Commande avec Arduino ou ESP32\n\nLe ventilateur ne doit jamais être connecté directement à une broche du microcontrôleur. Utilisez un MOSFET, un transistor ou un module relais adapté, ainsi qu’une alimentation externe de 12 V.\n\n⚠️ Précautions\n\nN’appliquez pas 24 V à cette version 12 V.\n\nRespectez la polarité rouge et noire.\n\nVérifiez la tension avec un multimètre avant le branchement.\n\nGardez les doigts et les câbles éloignés des pales.\n\nUtilisez une grille lorsque le ventilateur est accessible.\n\nNe bloquez pas les entrées et sorties d’air.\n\nCoupez l’alimentation avant de modifier le montage.\n\nProtégez le ventilateur contre l’humidité et la poussière excessive.",
+     "short_description": "Ventilateur brushless 80 × 80 × 25 mm alimenté en 12 V DC, idéal pour assurer la ventilation des boîtiers et équipements électroniques."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/548-e-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4641",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Micro Usb Mâle 5 broches",
+     "description": "Connecteur Micro Usb Mâle 5 broches DIY\n\nConnecteur Micro Usb Mâle DIY 5 broches, peut-être utilisée pour alimentation / communication usb, voir image pour plus de détails.",
+     "short_description": "Connecteur Micro Usb Mâle DIY 5 broches, peut-être utilisée pour alimentation / communication usb, voir image pour plus de détails."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/549-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/549-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/549-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-4635",
+   "price": 5,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Mini Usb Mâle 10 broches",
+     "description": "Connecteur Mini Usb Mâle 10 broches DIY\n\nConnecteur Mini Usb Mâle DIY 10 broches, peut-être utilisée pour alimentation / communication usb (broches 6,8,9,10) et l’audio (broches 1,2,3,4,5), voir image pour plus de détails.",
+     "short_description": "Connecteur Mini Usb Mâle DIY 10 broches, peut-être utilisée pour alimentation / communication usb (broches 6,8,9,10) et l’audio (broches 1,2,3,4,5), voir image pour plus de détails."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/550-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/550-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/11/550-3.png"
+   ]
+  },
+  {
+   "sku": "microplanet-10625",
+   "price": 12,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Connecteur Type-C Male vers Micro usb Femelle",
+     "description": "Connecteur Type-C Male vers Micro usb Femelle\n\nConvertisseur de connecteur usb Type-C male vers Micro usb femelle.",
+     "short_description": "Convertisseur de connecteur usb Type-C male vers Micro usb femelle."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/10/552-4.png"
+   ]
+  }
+ ]
+}

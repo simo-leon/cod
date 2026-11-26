@@ -1,0 +1,208 @@
+{
+ "products": [
+  {
+   "sku": "microplanet-9708",
+   "price": 170,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "SIM800L Module GSM GPRS Quadri-Bande V2.0 5V",
+     "description": "Module GSM GPRS Quadri-Bande SIM800L V2.0 5V\n\nLe module GSM GPRS sans fil SIM800 ou SIM800L V2 5V permet d’envoyer des messages, de passer des appels ou de transférer des données via GPRS. Il intègre également les fonctionnalités Bluetooth, FM et Embedded AT pour vous faire économiser temps et argent.\n\nCe module SIM800L possède un ensemble d’interface série de niveau TTL, un ensemble d’interface d’alimentation ainsi qu’un ensemble d’antenne à utiliser lors de l’interface avec ce module.\n\nAvec ses dimensions (15,8 x 17,8 x 2,4 mm), ce module s’inscrit dans la conception compacte.\n\nCaractéristiques\n\nTension de fonctionnement: 4.1 ~ 5VDC\n\nCourant: 1A ou plus.\n\nCarte Sim: micro\n\nPrend en charge la bande quadri-bande 850/900/1800/1900 MHz, qui peut transmettre des appels vocaux, des messages SMS et des données à faible consommation.\n\nGPRS multi-slots classe 12/10\n\nStation mobile GPRS classe B\n\nCompatible avec GSM 2/2 +\n\nClasse 1 (1 W 1800 / 1900MHz)\n\nClasse 4 (2 W à 850/900 MHz)\n\nCompatibilité Bluetooth 3.0 + EDR\n\nFM: bande internationale 76 ~ 109 MHz, niveau de correction 50KHz.\n\nTempérature de fonctionnement: -40 ~ 85\n\nDescription des broches\n\n5v: Interface d’alimentation\n\nGND: connectez-le à GND.\n\nVDD: interface série TTL UART, vous pouvez connecter directement le MCU tel que 51MCU ou ARM ou MSP430.\n\nLa broche de VDD est utilisée pour faire correspondre la tension du TTL.\n\nSIM_TXD: Transmetteur du module SIM.\n\nSIM_RXD: Récepteur du module SIM.\n\nGND: Si cette broche n’est pas utilisée, restez ouverte.\n\nRST: pour RST le module\n\nMots clés: wireless, call, phone.",
+     "short_description": "Le module GSM GPRS sans fil SIM800 ou SIM800L V2 5V permet d’envoyer des messages, de passer des appels ou de transférer des données via GPRS. Il intègre également les fonctionnalités Bluetooth, FM et Embedded AT pour vous faire économiser temps et argent."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2019/06/207-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2019/06/207-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-2974",
+   "price": 150,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "NEO6M V2 Module GPS",
+     "description": "Module GPS NEO6M V2\n\nModule GPS ublox / u-blox NEO6M avec antenne et EEPROM intégrée. Ce module est compatible avec APM2 et APM2.5, et EEPROM peut enregistrer toutes vos données de configuration lors de la mise hors tension.\n\nModèle: GY-GPS6MV2\n\nLe modèle de batterie est MS621FE.\n\nInterface: RS232 TTL\n\nPoids: 19g\n\nDimensions: (10,2 x 2,5 x 0,8) cm\n\nPuissance: 3-5V Baudrate par défaut: 9600bps\n\nModule avec antenne en céramique, signal fort\n\nDes Led de signalisation\n\nLongue durée de vie grâce à une qualité fiable\n\nHaute précision pour répondre à vos demandes\n\nDes marques claires pour faciliter la reconnaissance et l’application\n\nTaille compacte pour une installation facile\n\nLéger pour éviter d’ajouter du fardeau supplémentaire à votre appareil\n\nMots clés: navigation, maps, location, wireless.",
+     "short_description": "Module GPS ublox / u-blox NEO-6M avec antenne et EEPROM intégrée. Ce module est compatible avec APM2 et APM2.5, et EEPROM peut enregistrer toutes vos données de configuration lors de la mise hors tension."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/202-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/202-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/202-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-21079",
+   "price": 45,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Shield de Capteurs V5.0",
+     "description": "Shield de Capteurs V5.0\n\nShield de Capteurs V5.0 s’adapte aux cartes Uno, Mega 2560 et aux cartes Arduino de format similaire et offre un moyen pratique de s’interfacer avec des capteurs et d’autres périphériques tels que des servomoteurs.\n\nCe blindage fait ressortir les broches d’E / S Arduino standard vers les en-têtes ainsi que les broches de terre et d’alimentation dédiées par E / S pour faciliter la connexion des capteurs à d’autres appareils.\n\nLe blindage a également un certain nombre de connecteurs dédiés qui sont définis à des fins spécifiques comme indiqué ci-dessous, mais ils peuvent également être considérés comme des points de connexion à usage général.\n\nUn connecteur d’alimentation auxiliaire permet d’alimenter séparément les broches d’alimentation associées aux broches D0-D13, ce qui est pratique pour entraîner les servomoteurs.\n\nUn interrupteur de réinitialisation à distance est situé sur le bouclier pour un accès facile. Il amène également la LED à broche 13 «L» intégrée au bouclier pour une meilleure visibilité.\n\nMots clés: sensor, expansion, extension.",
+     "short_description": "Shield de Capteurs V5.0 s’adapte aux cartes Uno, Mega 2560 et aux cartes Arduino de format similaire et offre un moyen pratique de s’interfacer avec des capteurs et d’autres périphériques tels que des servomoteurs."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2021/05/206-d-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50649",
+   "price": 35,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Adaptateur d’extension I/O à borniers pour Arduino Nano",
+     "description": "Adaptateur d’extension I/O à borniers pour Arduino Nano\n\nCet adaptateur à borniers permet de connecter rapidement et solidement vos capteurs, relais, moteurs, LED et autres composants à une carte Arduino Nano. Toutes les broches de la Nano sont accessibles sur des borniers à vis clairement identifiés, ce qui évite les connexions fragiles réalisées avec des fils Dupont.\n\nIl constitue une excellente alternative à la breadboard pour les prototypes, les systèmes de test et les installations permanentes. Il suffit d’insérer votre Arduino Nano dans les connecteurs femelles, puis de fixer les fils dans les borniers correspondants.\n\nCaractéristiques\n\nCompatible avec Arduino Nano V3.0 et modèles au même format\n\nConçu pour les cartes basées sur l’ATmega328P\n\nAccès aux broches numériques, analogiques et d’alimentation\n\nBorniers à vis clairement identifiés\n\nConnexions solides et faciles à modifier\n\nAucun soudage nécessaire\n\nDeux trous pour la fixation mécanique\n\nDimensions approximatives : 54 × 43 × 13 mm\n\nIdéal pour le prototypage et les installations durables\n\nApplications\n\nBranchement de capteurs et de modules\n\nCommande de relais et d’éclairages\n\nProjets de domotique\n\nAutomatisation et robotique\n\nBancs de test électroniques\n\nInstallations permanentes avec Arduino Nano\n\nMini-tutoriel : faire clignoter une LED\n\nBranchement\n\nInsérez d’abord l’Arduino Nano dans l’adaptateur en respectant l’orientation et l’alignement des broches.\n\nConnectez ensuite :\n\nBornier\nConnexion\n\nD3\nRésistance de 220 à 330 Ω\n\nRésistance\nPatte longue de la LED\n\nGND\nPatte courte de la LED\n\nCode Arduino\n\nconst int ledPin = 3;\r\n\nvoid setup() {\r\n pinMode(ledPin, OUTPUT);\r\n}\r\n\nvoid loop() {\r\n digitalWrite(ledPin, HIGH);\r\n delay(1000);\r\n\n digitalWrite(ledPin, LOW);\r\n delay(1000);\r\n}\nTéléversez le programme dans l’Arduino Nano. La LED doit s’allumer et s’éteindre toutes les secondes.\n\nConseils d’utilisation\n\nCoupez toujours l’alimentation avant de modifier les connexions. Vérifiez l’orientation de la Nano et le repérage de chaque borne avant la mise sous tension. Cet adaptateur facilite le câblage, mais ne fournit aucune protection contre les courts-circuits, les inversions de polarité ou les surtensions.",
+     "short_description": "Adaptateur d’extension I/O à borniers à vis pour Arduino Nano V3.0, idéal pour connecter facilement vos capteurs et modules sans soudure."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/207-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/207-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-42052",
+   "price": 290,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "EMG V3.0 Capteur d’activité musculaire",
+     "description": "EMG V3.0 Capteur d’activité musculaire\n\nLe EMG V3.0 Capteur d’activité musculaire d’Advancer Technologies est un capteur d’électromyogramme (EMG) prêt à l’emploi, basé sur un amplificateur d’instrumentation à faible bruit. Il vous permet de mesurer l’activité électrique des muscles via trois électrodes adhésives, et fournit en sortie une tension analogique proportionnelle à l’intensité du signal musculaire.\n\n🔧 Caractéristiques techniques :\n\nAlimentation : 3,3 – 5 V DC\n\nType d’amplificateur : instrumentation (faible offset, faible bruit)\n\nGains réglables : deux potentiomètres pour ajuster la sensibilité et le filtrage\n\nSortie analogique : 0 – VCC proportionnel à l’activité EMG\n\nImpédance d’entrée : élevée (lecture différentielles via 2 électrodes + référence)\n\nConnecteur électrodes : câble 3 fils (rouge VCC, noir GND, blanc SIGNAL)\n\nDimensions : env. 38 × 25 × 12 mm\n\nPoids : ~10 g\n\n💡 Applications typiques :\n\nInterfaces homme-machine (contrôle gestuel)\n\nProthèses et exosquelettes\n\nBiofeedback et réhabilitation motrice\n\nRobots musculo-contrôlés\n\nProjets Arduino, Raspberry Pi nécessitant la détection de contractions musculaires\n\nExemple de code Arduino\n\nconst int emgPin = A0; // Broche de lecture du module EMG\r\n\nvoid setup() {\r\nSerial.begin(115200);\r\npinMode(emgPin, INPUT);\r\n}\r\n\nvoid loop() {\r\nint rawValue = analogRead(emgPin);\r\nSerial.println(rawValue);\r\ndelay(10); // 100 Hz de lecture\r\n}\n\n🛠️ Brochage / Wiring\n\nModule EMG V3.0\nArduino UNO\nÉlectrodes\n\nVCC\n5 V (ou 3,3 V)\nFil rouge → Module VCC\n\nGND\nGND\nFil noir → Module GND & électrode de référence\n\nSIGNAL (SIG)\nA0\nFil blanc → Module SIGNAL\n\n–\n–\nÉlectrode + et – : placer 2 électrodes sur le muscle, 1 électrode de référence sur os\n\nBranchez le câble 3 fils sur le connecteur module (rouge/5 V, noir/GND, blanc/A0).\n\nCollez deux électrodes sur le muscle étudié (proche insertion et ventre), et la 3ᵉ électrode de référence sur un point osseux.\n\nTéléversez le sketch Arduino et ouvrez le moniteur série pour visualiser l’activité musculaire en temps réel.",
+     "short_description": "Le EMG V3.0 Capteur d’activité musculaire d’Advancer Technologies est un capteur d’électromyogramme (EMG)"
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2025/05/224-1.png"
+   ]
+  },
+  {
+   "sku": "microplanet-6701",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Module Shield Enregistreur de données – Data Logger V1.0",
+     "description": "Module Shield Enregistreur de données – Data Logger V1.0\n\nModule Shield Enregistreur de données – Data Logger V1.0, pour Arduino Uno.\n\nUn enregistreur de données (data logger) est un dispositif compact alimenté par une batterie équipé d’un microprocesseur interne, d’un stockage de données et d’un ou plusieurs capteurs ou ports de capteur. Les enregistreurs de données peuvent être déployés dans divers environnements pour enregistrer des mesures à intervalles réguliers.\n\nL’interface carte SD fonctionne avec le format FAT16 ou FAT32. un régulateur de tension 3.3V pour éviter d’endommager la carte SD.\n\nHorloge temps réel (RTC) maintient le temps même quand l’Arduino est débranché.\n\nZone de prototypage pour souder des connecteurs, des circuits ou des capteurs.\n\nSpécifications :\n\nTaille: 68x53x23mm\n\nRégulateur de tension : 3,3v\n\nBatterie : CR1220 3V\n\nMots clés: recorder.",
+     "short_description": "Module Shield Enregistreur de données – Data Logger V1.0, pour Arduino Uno."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/230-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2018/06/230-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-17796",
+   "price": 20,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Boîtier Transparent pour Afficheur LCD 1602",
+     "description": "Boîtier Transparent pour Afficheur LCD 1602\n\nBoîtier Transparent pour Afficheur LCD 1602 16×02.\n\nMots clés: case, boite, display.",
+     "short_description": "Boîtier Transparent pour Afficheur LCD 1602 16×02."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/249-a-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2020/06/249-a-2.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3003",
+   "price": 58,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur LCD Nokia 5110 48×84",
+     "description": "Afficheur LCD Nokia 5110 48×84\n\nCet afficheur LCD “Nokia 5110” graphique monochrome 48 x 84 pixels est livré pré-monté sur un circuit imprimé lequel donne accès à tous les signaux via des connexions au pas de 2,54 mm.\n\nUtilisable simplement et rapidement pour une multitude d’application, il se pilote via un bus série. Son contrôleur/driver CMOS PCD8544 intègre toutes les fonctions nécessaires à l’affichage dans une seule et même puce, résultant en un minimum de composants externes requis et donc à une faible consommation générale.\n\nCaractéristiques:\n\nRésolution: 48 x 84 pixels\n\nControlleur CMOS intégré: PCD8544\n\nVoltage: 2.7V to 3.3V\n\nInterface: 2.7V to 5V\n\nCouleur du Backlight: Blanc\n\nBacklight : 3.3V Max\n\nDimension: W 43.6mm x H 43.1mm\n\nCourant: < 200uA (Backlight off).\n\nMots clés: display, screen.",
+     "short_description": "Cet afficheur LCD “Nokia 5110” graphique monochrome 48 x 84 pixels.\n\nUtilisable simplement et rapidement pour une multitude d’application, il se pilote via un bus série. Son contrôleur/driver CMOS PCD8544 intègre toutes les fonctions nécessaires à l’affichage dans une seule et même puce, résultant en un minimum de composants externes requis et donc à une faible consommation générale."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/253-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/253-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/253-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/253-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-3004",
+   "price": 65,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur OLED 0.96″ 128×64",
+     "description": "Afficheur OLED 0.96″ 128×64\n\nLes écrans OLED sont très utiles pour afficher toutes sortes de formes comme des caractères, des images bitmap, rectangles… Leur très faible consommation en font également un accessoire idéal pour les applications alimentées par batterie.\n\nCe module Oled utilise le driver SSD1306 chip avec le protocole I2C ou SPI et est compatible avec la plupart des librairies Arduino.\n\nOLED driver chip: SSD1306\n\nProtocole: I2C (4 broches) ou SPI (6 broches)\n\nResolution: 128x64px – 0.96 Inch\n\nI/O levels: Compatible with 3.3V and 5V logic\n\nPower supply: DC 3V-5V\n\nPower consumption: 0.06W\n\nDimensions: 29.28 x 27.1 mm\n\nWorking Temperature: -30°C to 70°C\n\nMots clés: display, screen.",
+     "short_description": "Les écrans OLED sont très utiles pour afficher toutes sortes de formes comme des caractères, des images bitmap, rectangles… Leur très faible consommation en font également un accessoire idéal pour les applications alimentées par batterie."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/254-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/254-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/254-2.png",
+    "https://www.microplanet.ma/wp-content/uploads/2017/04/254-4.png"
+   ]
+  },
+  {
+   "sku": "microplanet-50666",
+   "price": 95,
+   "stock": 10,
+   "status": 0,
+   "categories": [
+    16
+   ],
+   "locales": {
+    "fr": {
+     "name": "Afficheur OLED 1.3″ 128×64",
+     "description": "Afficheur OLED 1,3″ 128×64 blanc – I²C ou SPI\n\nCet afficheur OLED monochrome de 1,3 pouce affiche du texte, des valeurs, des icônes et de petits graphiques avec une excellente lisibilité. Sa résolution de 128 × 64 pixels, son fort contraste et son rétroéclairage inutile en font une solution compacte pour les projets Arduino, ESP32, ESP8266, Raspberry Pi et STM32.\n\nLe produit est proposé en deux variantes :\n\nI²C à 4 broches : câblage simple avec seulement deux lignes de communication.\n\nSPI à 7 broches : communication plus rapide, idéale pour les animations et les mises à jour fréquentes.\n\nCaractéristiques techniques\n\nTechnologie : OLED monochrome\n\nCouleur d’affichage : blanc\n\nFond : noir\n\nDiagonale : 1,3 pouce\n\nRésolution : 128 × 64 pixels\n\nContrôleur généralement utilisé : SH1106\n\nAngle de vision : supérieur à 160°\n\nZone active approximative : 29,42 × 14,7 mm\n\nTension du module : généralement 3,3 à 5 V DC\n\nFaible consommation électrique\n\nAucun rétroéclairage nécessaire\n\nCompatible avec la bibliothèque Arduino U8g2\n\nDimensions approximatives : 35,5 × 33,7 mm\n\nLes modules 1,3″ de ce format utilisent habituellement le contrôleur SH1106 et existent bien en versions I²C à 4 broches et SPI à 7 broches. Spécifications du module\n\nComparaison des variantes\n\nCaractéristique\nI²C – 4 broches\nSPI – 7 broches\n\nBroches\nGND, VCC, SCL, SDA\nGND, VCC, SCK, SDA, RES, DC, CS\n\nNombre de signaux\n2\n5\n\nCâblage\nPlus simple\nPlus complet\n\nVitesse\nAdaptée à l’affichage courant\nPlus rapide\n\nUtilisation conseillée\nCapteurs et affichage de valeurs\nAnimations et rafraîchissement fréquent\n\nSur la variante SPI, la broche marquée SDA correspond à la ligne de données MOSI et non à une communication I²C.\n\nApplications\n\nAffichage de données de capteurs\n\nStations météo\n\nHorloges et chronomètres\n\nMenus de configuration\n\nCompteurs et instruments de mesure\n\nProjets IoT\n\nRobotique\n\nIndicateurs de batterie\n\nInterfaces utilisateur compactes\n\nAffichage de logos et de petits graphiques\n\nMini-tutoriel Arduino – Variante I²C à 4 broches\n\nBranchement avec Arduino Uno ou Nano\n\nOLED I²C\nArduino Uno/Nano\n\nGND\nGND\n\nVCC\n5V\n\nSCL\nA5\n\nSDA\nA4\n\nL’adresse I²C utilisée est généralement 0x3C, mais certaines séries peuvent utiliser 0x3D. Guide SH1106 I²C\n\nCode Arduino I²C\n\nInstallez la bibliothèque U8g2 depuis le gestionnaire de bibliothèques d’Arduino IDE, puis téléversez ce programme :\n\n#include <Wire.h>\r\n#include <U8g2lib.h>\r\n\nU8G2_SH1106_128X64_NONAME_F_HW_I2C oled(\r\n U8G2_R0,\r\n U8X8_PIN_NONE\r\n);\r\n\nvoid setup() {\r\n oled.begin();\r\n}\r\n\nvoid loop() {\r\n oled.clearBuffer();\r\n\n oled.setFont(u8g2_font_ncenB10_tr);\r\n oled.drawStr(12, 18, \"Micro-Planet\");\r\n\n oled.setFont(u8g2_font_6x12_tr);\r\n oled.drawStr(24, 38, \"OLED 1.3\\\"\");\r\n oled.drawStr(22, 54, \"128 x 64 I2C\");\r\n\n oled.sendBuffer();\r\n delay(1000);\r\n}\nMini-tutoriel Arduino – Variante SPI à 7 broches\n\nBranchement avec Arduino Uno ou Nano\n\nOLED SPI\nArduino Uno/Nano\n\nGND\nGND\n\nVCC\n5V\n\nSCK / CLK\nD13\n\nSDA / MOSI\nD11\n\nRES / RST\nD8\n\nDC\nD9\n\nCS\nD10\n\nCode Arduino SPI\n\n#include <SPI.h>\r\n#include <U8g2lib.h>\r\n\nU8G2_SH1106_128X64_NONAME_F_4W_HW_SPI oled(\r\n U8G2_R0,\r\n 10, // CS\r\n 9, // DC\r\n 8 // RESET\r\n);\r\n\nvoid setup() {\r\n oled.begin();\r\n}\r\n\nvoid loop() {\r\n oled.clearBuffer();\r\n\n oled.setFont(u8g2_font_ncenB10_tr);\r\n oled.drawStr(12, 18, \"Micro-Planet\");\r\n\n oled.setFont(u8g2_font_6x12_tr);\r\n oled.drawStr(24, 38, \"OLED 1.3\\\"\");\r\n oled.drawStr(22, 54, \"128 x 64 SPI\");\r\n\n oled.drawFrame(5, 5, 118, 54);\r\n oled.sendBuffer();\r\n\n delay(1000);\r\n}\nRésolution des problèmes\n\nSi l’écran reste noir :\n\nVérifiez que la variante sélectionnée correspond au câblage et au code.\n\nUtilisez une bibliothèque compatible SH1106, et non uniquement SSD1306.\n\nVérifiez l’adresse 0x3C ou 0x3D pour la version I²C.\n\nContrôlez l’ordre des broches imprimé directement sur votre module.\n\nVérifiez les connexions CS, DC et RESET sur la version SPI.\n\nUtilisez des fils courts et une masse commune.\n\nAssurez-vous que le câble USB peut alimenter correctement le montage.\n\nPrécautions\n\nCoupez l’alimentation avant de modifier le câblage.\n\nVérifiez la tension acceptée par la série reçue avant d’utiliser 5 V.\n\nÉvitez d’afficher la même image à forte luminosité pendant une période très prolongée afin de limiter le marquage des pixels OLED.\n\nN’exercez aucune pression sur la dalle en verre.\n\nManipulez le module par les bords et protégez-le contre l’humidité.",
+     "short_description": "Écran OLED blanc 1,3″ d’une résolution de 128×64 pixels, idéal pour afficher textes, mesures et graphiques. Disponible en version I²C à 4 broches ou SPI à 7 broches."
+    }
+   },
+   "image_urls": [
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/254-a-1.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/254-a-3.png",
+    "https://www.microplanet.ma/wp-content/uploads/2026/08/254-a-2.png"
+   ]
+  }
+ ]
+}
