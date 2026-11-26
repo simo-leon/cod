@@ -6,9 +6,40 @@
     $showCompare = (bool) core()->getConfigData('catalog.products.settings.compare_option');
 
     $showWishlist = (bool) core()->getConfigData('customer.settings.wishlist.wishlist_option');
+
+    /*
+        Jemla: the notification bar (header offer) also shows on
+        mobile — it used to be desktop-only. Same switch and text
+        as desktop (Configuration → General → Homepage / Content).
+    */
+    $mobileOfferTitle = trim((string) core()->getConfigData('general.content.header_offer.title'));
+
+    $mobileOfferLink = trim((string) core()->getConfigData('general.content.header_offer.redirection_link'));
+
+    $mobileOfferLinkTitle = trim((string) core()->getConfigData('general.content.header_offer.redirection_title'));
+
+    $showMobileOfferBar = (bool) (core()->getConfigData('general.homepage.settings.notification_bar_status') ?? true)
+        && $mobileOfferTitle !== '';
 @endphp
 
 <div class="flex flex-wrap gap-4 px-4 pt-6 pb-4 shadow-sm lg:hidden">
+    @if ($showMobileOfferBar)
+        <p class="w-full border-b border-zinc-200 pb-3 text-center text-xs font-medium">
+            {{ $mobileOfferTitle }}
+
+            @if ($mobileOfferLink !== '')
+                <a
+                    href="{{ $mobileOfferLink }}"
+                    class="underline"
+                >
+                    {{ $mobileOfferLinkTitle }}
+                </a>
+            @elseif ($mobileOfferLinkTitle !== '')
+                <span class="underline">{{ $mobileOfferLinkTitle }}</span>
+            @endif
+        </p>
+    @endif
+
     <div class="flex items-center justify-between w-full">
         <!-- Left Navigation -->
         <div class="flex items-center gap-x-1.5">

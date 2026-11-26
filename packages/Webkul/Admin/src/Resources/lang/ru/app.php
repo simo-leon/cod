@@ -4787,6 +4787,29 @@ return [
                     ],
                 ],
 
+                'homepage' => [
+                    'info' => 'Homepage display settings: notification bar, image slider, product carousels and grid, and the daily-deals countdown. The sections themselves are switched on/off from Settings → Themes.',
+                    'title' => 'Homepage',
+
+                    'settings' => [
+                        'title' => 'Homepage Settings',
+                        'title-info' => 'These settings apply to this channel only.',
+                        'carousel-products-limit' => 'Products per Carousel',
+                        'carousel-products-limit-info' => 'How many products a homepage product carousel or grid shows when the section itself has no limit set. Must be one of the storefront per-page values (Catalog → Products → Storefront → Products per Page). Example: 12.',
+                        'deals-duration-hours' => 'Daily-Deals Duration (hours)',
+                        'deals-duration-hours-info' => 'How long the daily-deals countdown runs, counted from midnight. 24 means it ends at midnight tonight. Set to 0 to always end at midnight.',
+                        'grid-columns-desktop' => 'Grid Columns (Desktop)',
+                        'grid-columns-desktop-info' => 'How many products per row the homepage product grid shows on a computer. Example: 4.',
+                        'grid-columns-mobile' => 'Grid Columns (Mobile)',
+                        'grid-columns-mobile-info' => 'How many products per row the homepage product grid shows on a phone. Example: 2.',
+                        'notification-bar-status' => 'Show Notification Bar',
+                        'notification-bar-status-info' => 'Show the top notification bar (header offer) on desktop and mobile. The bar text itself is set in Content → Header Offer, per language.',
+                        'slider-autoplay' => 'Slider Autoplay',
+                        'slider-autoplay-info' => 'Automatically move to the next slider image. When off, the slider only moves when the customer swipes or clicks.',
+                        'slider-interval' => 'Slider Interval (seconds)',
+                        'slider-interval-info' => 'How long each slider image is shown before moving to the next one. Example: 5.',
+                    ],
+                ],
                 'design' => [
                     'info' => 'Установите логотип и значок фавикона для панели администратора.',
                     'title' => 'Дизайн',

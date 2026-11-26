@@ -89,20 +89,34 @@
 
             {!! view_render_event('bagisto.shop.components.layouts.header.desktop.top.currency_switcher.after') !!}
 
-            <p
-                class="py-3 text-xs font-medium"
-                v-pre
-            >
-                {{ core()->getConfigData('general.content.header_offer.title') }}
-                
-                <a 
-                    href="{{ core()->getConfigData('general.content.header_offer.redirection_link') }}" 
-                    class="underline"
-                    role="button"
+            {{--
+                Jemla: the notification bar only renders when it is
+                switched on (Configuration → General → Homepage) and
+                a title is set; an empty title used to leave an empty
+                bar, and an empty link rendered a dead <a href="">.
+            --}}
+            @if ((bool) (core()->getConfigData('general.homepage.settings.notification_bar_status') ?? true) && trim((string) core()->getConfigData('general.content.header_offer.title')) !== '')
+                <p
+                    class="py-3 text-xs font-medium"
+                    v-pre
                 >
-                    {{ core()->getConfigData('general.content.header_offer.redirection_title') }}
-                </a>
-            </p>
+                    {{ core()->getConfigData('general.content.header_offer.title') }}
+
+                    @if (trim((string) core()->getConfigData('general.content.header_offer.redirection_link')) !== '')
+                        <a
+                            href="{{ core()->getConfigData('general.content.header_offer.redirection_link') }}"
+                            class="underline"
+                            role="button"
+                        >
+                            {{ core()->getConfigData('general.content.header_offer.redirection_title') }}
+                        </a>
+                    @elseif (trim((string) core()->getConfigData('general.content.header_offer.redirection_title')) !== '')
+                        <span class="underline">
+                            {{ core()->getConfigData('general.content.header_offer.redirection_title') }}
+                        </span>
+                    @endif
+                </p>
+            @endif
 
             {!! view_render_event('bagisto.shop.components.layouts.header.desktop.top.locale_switcher.before') !!}
 

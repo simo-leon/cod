@@ -151,14 +151,14 @@ return [
                 'name' => 'title',
                 'title' => 'admin::app.configuration.index.general.content.header-offer.offer-title',
                 'type' => 'text',
-                'default' => 'Get UPTO 40% OFF on your 1st order',
+                'default' => 'توصيل سريع والدفع عند الاستلام',
                 'locale_based' => true,
                 'validation' => 'max:100',
             ], [
                 'name' => 'redirection_title',
                 'title' => 'admin::app.configuration.index.general.content.header-offer.redirection-title',
                 'type' => 'text',
-                'default' => 'SHOP NOW',
+                'default' => 'تسوق الآن',
                 'locale_based' => true,
                 'validation' => 'max:25',
             ], [
@@ -901,6 +901,80 @@ return [
                 'title' => 'admin::app.configuration.index.general.cod-system.settings.product-secret-key',
                 'info' => 'admin::app.configuration.index.general.cod-system.settings.product-secret-key-info',
                 'type' => 'password',
+                'channel_based' => true,
+            ],
+        ],
+    ], [
+
+        /**
+         * Homepage display settings — everything that controls how
+         * the storefront homepage looks, editable here with no code:
+         * the notification bar, the image slider autoplay, how many
+         * products a carousel/grid shows, how many columns the grid
+         * has, and how long the daily-deals countdown runs. The
+         * individual homepage sections (topics) themselves are
+         * switched on/off from Settings → Themes; these settings
+         * only tune how they render.
+         */
+        'key' => 'general.homepage',
+        'name' => 'admin::app.configuration.index.general.homepage.title',
+        'info' => 'admin::app.configuration.index.general.homepage.info',
+        'icon' => 'settings/store.svg',
+        'sort' => 3,
+    ], [
+        'key' => 'general.homepage.settings',
+        'name' => 'admin::app.configuration.index.general.homepage.settings.title',
+        'info' => 'admin::app.configuration.index.general.homepage.settings.title-info',
+        'sort' => 1,
+        'fields' => [
+            [
+                'name' => 'notification_bar_status',
+                'title' => 'admin::app.configuration.index.general.homepage.settings.notification-bar-status',
+                'info' => 'admin::app.configuration.index.general.homepage.settings.notification-bar-status-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'slider_autoplay',
+                'title' => 'admin::app.configuration.index.general.homepage.settings.slider-autoplay',
+                'info' => 'admin::app.configuration.index.general.homepage.settings.slider-autoplay-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'slider_interval',
+                'title' => 'admin::app.configuration.index.general.homepage.settings.slider-interval',
+                'info' => 'admin::app.configuration.index.general.homepage.settings.slider-interval-info',
+                'type' => 'number',
+                'default' => 5,
+                'channel_based' => true,
+            ], [
+                'name' => 'carousel_products_limit',
+                'title' => 'admin::app.configuration.index.general.homepage.settings.carousel-products-limit',
+                'info' => 'admin::app.configuration.index.general.homepage.settings.carousel-products-limit-info',
+                'type' => 'number',
+                'default' => 12,
+                'channel_based' => true,
+            ], [
+                'name' => 'grid_columns_desktop',
+                'title' => 'admin::app.configuration.index.general.homepage.settings.grid-columns-desktop',
+                'info' => 'admin::app.configuration.index.general.homepage.settings.grid-columns-desktop-info',
+                'type' => 'number',
+                'default' => 4,
+                'channel_based' => true,
+            ], [
+                'name' => 'grid_columns_mobile',
+                'title' => 'admin::app.configuration.index.general.homepage.settings.grid-columns-mobile',
+                'info' => 'admin::app.configuration.index.general.homepage.settings.grid-columns-mobile-info',
+                'type' => 'number',
+                'default' => 2,
+                'channel_based' => true,
+            ], [
+                'name' => 'deals_duration_hours',
+                'title' => 'admin::app.configuration.index.general.homepage.settings.deals-duration-hours',
+                'info' => 'admin::app.configuration.index.general.homepage.settings.deals-duration-hours-info',
+                'type' => 'number',
+                'default' => 24,
                 'channel_based' => true,
             ],
         ],

@@ -1,5 +1,18 @@
 @php
     $channel = core()->getCurrentChannel();
+
+    /*
+        Jemla: default number of products per homepage carousel/grid
+        section (Configuration → General → Homepage), used when the
+        section itself has no limit saved. Only a value the storefront
+        toolbar accepts is used, so the API never silently replaces
+        it with 12.
+    */
+    $homepageDefaultLimit = (int) (core()->getConfigData('general.homepage.settings.carousel_products_limit') ?: 12);
+
+    if (! in_array($homepageDefaultLimit, product_toolbar()->getAvailableLimits()->toArray())) {
+        $homepageDefaultLimit = product_toolbar()->getDefaultLimit();
+    }
 @endphp
 
 <!-- SEO Meta Content -->
@@ -79,10 +92,18 @@
                 @break
             @case ($customization::PRODUCT_CAROUSEL)
                 <!-- Product Carousel -->
+                @php
+                    $productFilters = $data['filters'] ?? [];
+
+                    if (empty($productFilters['limit'])) {
+                        $productFilters['limit'] = $homepageDefaultLimit;
+                    }
+                @endphp
+
                 <x-shop::products.carousel
                     :title="$data['title'] ?? ''"
-                    :src="route('shop.api.products.index', $data['filters'] ?? [])"
-                    :navigation-link="route('shop.search.index', $data['filters'] ?? [])"
+                    :src="route('shop.api.products.index', $productFilters)"
+                    :navigation-link="route('shop.search.index', $productFilters)"
                     aria-label="{{ trans('shop::app.home.index.product-carousel') }}"
                 />
 
@@ -90,10 +111,18 @@
 
             @case ($customization::PRODUCT_GRID)
                 <!-- Product Grid with Infinite Scroll -->
+                @php
+                    $productFilters = $data['filters'] ?? [];
+
+                    if (empty($productFilters['limit'])) {
+                        $productFilters['limit'] = $homepageDefaultLimit;
+                    }
+                @endphp
+
                 <x-shop::products.grid
                     :title="$data['title'] ?? ''"
-                    :src="route('shop.api.products.index', $data['filters'] ?? [])"
-                    :navigation-link="route('shop.search.index', $data['filters'] ?? [])"
+                    :src="route('shop.api.products.index', $productFilters)"
+                    :navigation-link="route('shop.search.index', $productFilters)"
                     aria-label="{{ trans('shop::app.home.index.product-carousel') }}"
                 />
 

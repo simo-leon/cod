@@ -1358,13 +1358,20 @@ class PromotionService implements PromotionServiceInterface
     }
 
     /**
-     * When the current daily deals end: midnight tonight,
-     * Africa/Casablanca time. The countdown ticks down to this
-     * moment; tomorrow it is a new day with a new countdown.
+     * When the current daily deals end: midnight tonight plus the
+     * configured duration, Africa/Casablanca time. The duration
+     * (Configuration → General → Homepage) counts from midnight:
+     * 24 hours ends at midnight tonight, 0 always ends at midnight.
+     * The countdown ticks down to this moment; tomorrow it is a new
+     * day with a new countdown.
      */
     public function dealsEndsAt(): Carbon
     {
-        return Carbon::now('Africa/Casablanca')->endOfDay();
+        $hours = (int) (core()->getConfigData('general.homepage.settings.deals_duration_hours') ?? 24);
+
+        return $hours > 0
+            ? Carbon::today('Africa/Casablanca')->addHours($hours)
+            : Carbon::now('Africa/Casablanca')->endOfDay();
     }
 
     /**

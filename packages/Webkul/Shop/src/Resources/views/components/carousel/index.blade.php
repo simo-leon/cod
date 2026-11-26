@@ -1,6 +1,17 @@
-@props(['options'])
+@props(['options', 'autoplay' => null, 'interval' => null])
 
 @php
+    /*
+        Jemla: slider autoplay and slide duration come from the admin
+        (Configuration → General → Homepage). Defaults keep the old
+        behaviour: autoplay on, 5 seconds per slide.
+    */
+    $sliderAutoplay = $autoplay ?? (bool) (core()->getConfigData('general.homepage.settings.slider_autoplay') ?? true);
+
+    $sliderInterval = (int) ($interval ?? core()->getConfigData('general.homepage.settings.slider_interval') ?? 5);
+
+    $sliderInterval = $sliderInterval > 0 ? $sliderInterval : 5;
+
     $carouselImages = $options['images'] ?? [];
 
     $firstImage = data_get($carouselImages, '0.image');
@@ -27,7 +38,11 @@
     @endpush
 @endif
 
-<v-carousel :images="{{ json_encode($carouselImages) }}">
+<v-carousel
+    :images="{{ json_encode($carouselImages) }}"
+    :autoplay="{{ $sliderAutoplay ? 'true' : 'false' }}"
+    :interval="{{ $sliderInterval }}"
+>
     <div class="overflow-hidden">
         @if ($firstImage)
             {{--
@@ -142,7 +157,7 @@
         app.component("v-carousel", {
             template: '#v-carousel-template',
 
-            props: ['images'],
+            props: ['images', 'autoplay', 'interval'],
 
             data() {
                 return {
@@ -350,13 +365,17 @@
                 },
 
                 play() {
+                    if (this.autoplay === false) {
+                        return;
+                    }
+
                     clearInterval(this.autoPlayInterval);
 
                     this.autoPlayInterval = setInterval(() => {
                         this.currentIndex = (this.currentIndex + this.startFrom) % this.images.length;
 
                         this.setPositionByIndex();
-                    }, 5000);
+                    }, (this.interval || 5) * 1000);
                 },
 
                 cleanup() {

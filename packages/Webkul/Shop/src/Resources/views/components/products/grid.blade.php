@@ -1,3 +1,18 @@
+@php
+    /*
+        Jemla: how many products per row the homepage grid shows
+        (Configuration → General → Homepage). The static <style>
+        below, the Vue grid style and the injected global style all
+        read the same values, so the columns never disagree between
+        the first paint and the hydrated grid.
+    */
+    $gridDesktopColumns = min(6, max(2, (int) (core()->getConfigData('general.homepage.settings.grid_columns_desktop') ?? 4)));
+
+    $gridMobileColumns = min(3, max(1, (int) (core()->getConfigData('general.homepage.settings.grid_columns_mobile') ?? 2)));
+
+    $gridTabletColumns = min(3, $gridDesktopColumns);
+@endphp
+
 <v-products-grid
     src="{{ $src }}"
     title="{{ $title }}"
@@ -14,7 +29,7 @@
     /* Direct global styles fallback */
     .wa-products-grid-container {
         display: grid !important;
-        grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+        grid-template-columns: repeat({{ $gridDesktopColumns }}, minmax(0, 1fr)) !important;
         gap: 20px !important;
         width: 100% !important;
         margin-top: 1.5rem !important;
@@ -22,14 +37,14 @@
 
     @media (max-width: 1024px) and (min-width: 768px) {
         .wa-products-grid-container {
-            grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+            grid-template-columns: repeat({{ $gridTabletColumns }}, minmax(0, 1fr)) !important;
             gap: 16px !important;
         }
     }
 
     @media (max-width: 767px) {
         .wa-products-grid-container {
-            grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+            grid-template-columns: repeat({{ $gridMobileColumns }}, minmax(0, 1fr)) !important;
             gap: 12px !important;
             margin-top: 1rem !important;
         }
@@ -223,6 +238,9 @@
                     maxAutoLoads: 2,
                     observer: null,
                     windowWidth: typeof window !== 'undefined' ? window.innerWidth : 1200,
+                    desktopColumns: {{ $gridDesktopColumns }},
+                    tabletColumns: {{ $gridTabletColumns }},
+                    mobileColumns: {{ $gridMobileColumns }},
                     waEnabled: {{ core()->getConfigData('general.general.whatsapp.status') ? 'true' : 'false' }},
                     waPhone: '{{ preg_replace('/[^0-9]/', '', (string)core()->getConfigData('general.general.whatsapp.phone_number')) }}',
                     waProductMsg: '{{ addslashes(core()->getConfigData('general.general.whatsapp.product_message') ?: __('shop::app.components.products.grid.whatsapp-default-msg')) }}',
@@ -233,14 +251,14 @@
             computed: {
                 columnsCount() {
                     if (this.windowWidth <= 767) {
-                        return 2; // Phone: 2 products per row
+                        return this.mobileColumns;
                     }
 
                     if (this.windowWidth <= 1024) {
-                        return 3; // Tablet: 3 products per row
+                        return this.tabletColumns;
                     }
 
-                    return 4; // PC: 4 products per row
+                    return this.desktopColumns;
                 },
 
                 gridStyle() {
@@ -293,19 +311,19 @@
                         style.innerHTML = `
                             .wa-products-grid-container {
                                 display: grid !important;
-                                grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+                                grid-template-columns: repeat(${this.desktopColumns}, minmax(0, 1fr)) !important;
                                 gap: 20px !important;
                                 width: 100% !important;
                             }
                             @media (max-width: 1024px) and (min-width: 768px) {
                                 .wa-products-grid-container {
-                                    grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+                                    grid-template-columns: repeat(${this.tabletColumns}, minmax(0, 1fr)) !important;
                                     gap: 16px !important;
                                 }
                             }
                             @media (max-width: 767px) {
                                 .wa-products-grid-container {
-                                    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+                                    grid-template-columns: repeat(${this.mobileColumns}, minmax(0, 1fr)) !important;
                                     gap: 12px !important;
                                 }
                             }
