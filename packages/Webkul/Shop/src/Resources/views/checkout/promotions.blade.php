@@ -32,7 +32,8 @@
 
         <div class="mt-2.5 h-2.5 w-full overflow-hidden rounded-full bg-zinc-200">
             <div
-                class="h-full rounded-full bg-blue-600 transition-all duration-300"
+                class="h-full rounded-full transition-all duration-300"
+                :class="cart.promotions.free_delivery.unlocked ? 'bg-green-600' : 'bg-amber-500'"
                 :style="{ width: cart.promotions.free_delivery.progress + '%' }"
             ></div>
         </div>
@@ -155,7 +156,8 @@
 
         <div class="mt-2.5 h-2.5 w-full overflow-hidden rounded-full bg-zinc-200">
             <div
-                class="h-full rounded-full bg-amber-500 transition-all duration-300"
+                class="h-full rounded-full transition-all duration-300"
+                :class="cart.promotions.next_tier.progress >= 100 ? 'bg-green-600' : 'bg-amber-500'"
                 :style="{ width: cart.promotions.next_tier.progress + '%' }"
             ></div>
         </div>
