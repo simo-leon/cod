@@ -237,9 +237,19 @@ class PromotionService implements PromotionServiceInterface
         foreach ($rows as $row) {
             $productId = (int) $row->product_id;
 
+            // A gift without a URL cannot be shown or opened: a
+            // product imported in one locale only (doshift products
+            // are fr-only) has url_key NULL in the other locales'
+            // flat rows, and route() throws UrlGenerationException
+            // on a null slug — which crashed the whole cart (500)
+            // as soon as the gift tier unlocked (subtotal >= 400)
+            // in Arabic. The FBT and daily-deal lists already skip
+            // these rows the same way; eligibleGifts was the only
+            // one missing the guard.
             if (
                 in_array($productId, $giftedProductIds, true)
                 || in_array($productId, $excludedIds, true)
+                || empty($row->url_key)
             ) {
                 continue;
             }
