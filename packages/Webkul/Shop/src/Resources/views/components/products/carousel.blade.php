@@ -11,6 +11,16 @@
         type="text/x-template"
         id="v-products-carousel-template"
     >
+        <!-- Jemla: lazy-start trigger — the first load only starts when
+             the section is near the viewport, like the related products
+             below the fold: sections never compete with the first paint.
+             The fixed count + "view all" card behaviour is unchanged. -->
+        <div
+            ref="loadTrigger"
+            class="h-px w-full"
+            aria-hidden="true"
+        ></div>
+
         <div
             class="container mt-20 max-lg:px-8 max-md:mt-8 max-sm:mt-7 max-sm:!px-4"
             v-if="! isLoading && products.length"
@@ -116,12 +126,16 @@
 
                     offset: 323,
 
+                    loadObserver: null,
+
+                    hasLoaded: false,
+
                     isScreenMax2xl: window.innerWidth <= 1440,
                 };
             },
 
             mounted() {
-                this.getProducts();
+                this.initLazyLoad();
             },
 
             created() {
@@ -130,10 +144,58 @@
 
             beforeDestroy() {
                 window.removeEventListener('resize', this.updateScreenSize);
+
+                if (this.loadObserver) {
+                    this.loadObserver.disconnect();
+                }
             },
 
             methods: {
+                initLazyLoad() {
+                    /*
+                        Jemla: like the related products, a section only
+                        starts loading when it is near the viewport
+                        (800px ahead, so it is filled in before the user
+                        reaches it). The homepage used to fire one
+                        listing request per section all at once on mount;
+                        on shared hosting those queue behind each other
+                        and the user waits for the slowest one before
+                        seeing any product. Sections already in view
+                        load immediately; without IntersectionObserver
+                        the section loads at once, as before.
+                    */
+                    if (this.hasLoaded) {
+                        return;
+                    }
+
+                    if (typeof IntersectionObserver === 'undefined' || ! this.$refs.loadTrigger) {
+                        this.getProducts();
+
+                        return;
+                    }
+
+                    this.loadObserver = new IntersectionObserver((entries) => {
+                        if (entries[0] && entries[0].isIntersecting) {
+                            this.loadObserver.disconnect();
+                            this.loadObserver = null;
+
+                            this.getProducts();
+                        }
+                    }, {
+                        rootMargin: '800px 0px',
+                        threshold: 0,
+                    });
+
+                    this.loadObserver.observe(this.$refs.loadTrigger);
+                },
+
                 getProducts() {
+                    if (this.hasLoaded) {
+                        return;
+                    }
+
+                    this.hasLoaded = true;
+
                     /*
                         Jemla: never show the same product twice on one
                         homepage. Sections are separate components that

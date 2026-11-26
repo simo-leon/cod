@@ -484,7 +484,20 @@ class ProductRepository extends Repository
 
         $limit = $this->getPerPageLimit($params);
 
-        return $query->paginate($limit);
+        /*
+            Jemla: listings never use the paginator total — the shop
+            frontend (homepage grids/carousels, category and search
+            pages) only reads `data` and `links.next`. A full
+            `paginate()` runs a COUNT over the whole joined + grouped
+            set (thousands of products through the EAV/price joins) on
+            every request, which is what made cold listing requests
+            take ~3s on live (and up to ~27s unfiltered) while the
+            related-products endpoint — a plain filtered query on a
+            small pool — stayed light. `simplePaginate` fetches
+            limit+1 rows instead: same pages, same `next` link, no
+            count. The elastic path is untouched.
+        */
+        return $query->simplePaginate($limit);
     }
 
     /**

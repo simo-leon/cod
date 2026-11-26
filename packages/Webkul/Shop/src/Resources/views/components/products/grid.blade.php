@@ -64,6 +64,17 @@
         type="text/x-template"
         id="v-products-grid-template"
     >
+        <!-- Jemla: lazy-start trigger — the first load only starts when
+             the section is near the viewport, like the related products
+             below the fold: they never compete with the first paint.
+             The fixed count + "view all" behaviour is unchanged, and
+             the infinite-scroll grid keeps its own sentinel below. -->
+        <div
+            ref="loadTrigger"
+            class="h-px w-full"
+            aria-hidden="true"
+        ></div>
+
         <div
             class="container mt-20 max-lg:px-8 max-md:mt-8 max-sm:mt-7 max-sm:!px-4"
             v-if="! isLoading && products.length"
@@ -254,6 +265,8 @@
                     products: [],
                     links: null,
                     observer: null,
+                    loadObserver: null,
+                    hasLoaded: false,
                     emptyPages: 0,
                     infiniteScroll: {{ ($infiniteScroll ?? false) ? 'true' : 'false' }},
                     windowWidth: typeof window !== 'undefined' ? window.innerWidth : 1200,
@@ -301,7 +314,7 @@
 
             mounted() {
                 this.injectGridStyles();
-                this.getProducts();
+                this.initLazyLoad();
 
                 if (typeof window !== 'undefined') {
                     window.addEventListener('scroll', this.onPageScroll, { passive: true });
@@ -316,6 +329,10 @@
 
                 if (this.observer) {
                     this.observer.disconnect();
+                }
+
+                if (this.loadObserver) {
+                    this.loadObserver.disconnect();
                 }
             },
 
@@ -356,7 +373,51 @@
                     }
                 },
 
+                initLazyLoad() {
+                    /*
+                        Jemla: like the related products, a section only
+                        starts loading when it is near the viewport
+                        (800px ahead, so it is filled in before the user
+                        reaches it). The homepage used to fire one
+                        listing request per section all at once on mount;
+                        on shared hosting those queue behind each other
+                        and the user waits for the slowest one before
+                        seeing any product. Sections already in view
+                        load immediately; without IntersectionObserver
+                        the section loads at once, as before.
+                    */
+                    if (this.hasLoaded) {
+                        return;
+                    }
+
+                    if (typeof IntersectionObserver === 'undefined' || ! this.$refs.loadTrigger) {
+                        this.getProducts();
+
+                        return;
+                    }
+
+                    this.loadObserver = new IntersectionObserver((entries) => {
+                        if (entries[0] && entries[0].isIntersecting) {
+                            this.loadObserver.disconnect();
+                            this.loadObserver = null;
+
+                            this.getProducts();
+                        }
+                    }, {
+                        rootMargin: '800px 0px',
+                        threshold: 0,
+                    });
+
+                    this.loadObserver.observe(this.$refs.loadTrigger);
+                },
+
                 getProducts() {
+                    if (this.hasLoaded) {
+                        return;
+                    }
+
+                    this.hasLoaded = true;
+
                     /*
                         Jemla: the infinite-scroll grid (related products)
                         loads its first page here and lets the scroll
