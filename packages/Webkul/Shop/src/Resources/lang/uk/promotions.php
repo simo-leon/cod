@@ -12,6 +12,7 @@ return [
     'gift_free' => 'FREE',
     'gift_badge' => 'Gift',
     'gift_max_price' => 'Gifts under :amount',
+    'gift_price_range' => 'Gifts from :min to :max',
     'gift_empty' => 'No gift available in this price range.',
     'next_tier' => 'Next gift at :amount',
     'gift-added' => 'Your free gift was added to the cart.',

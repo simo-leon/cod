@@ -198,9 +198,54 @@ class PromotionService implements PromotionServiceInterface
         return null;
     }
 
+    /**
+     * Fallback gift price floor (DH): when Simo has not chosen any
+     * gift product, the picker shows products priced between this
+     * floor and the tier cap, in random order. The cap itself is
+     * the admin tier max price; the floor is clamped to it, so a
+     * cap below 40 still yields gifts.
+     */
+    public const GIFT_FALLBACK_MIN_PRICE = 40.0;
+
+    /**
+     * Which gift list the last eligibleGifts() call returned:
+     * 'explicit' (products Simo chose on the product edit page)
+     * or 'range' (the 40-to-cap fallback). Read by toArray() so
+     * the picker subtitle can match the list.
+     */
+    protected string $lastGiftSource = 'range';
+
+    /**
+     * The floor price of the last eligibleGifts() call, null for
+     * the explicit list (chosen gifts have no floor, only the cap).
+     */
+    protected ?float $lastGiftMinPrice = null;
+
+    /**
+     * Products Simo explicitly chose as gifts: promotion rows with
+     * the gift switch on and the master offers switch on. A row
+     * only exists once the product's promotion card was saved, so
+     * a true row is an explicit choice (see the
+     * product_promotion_settings migration docblock). Products
+     * without a row are NOT explicit — they are only candidates
+     * for the random fallback.
+     */
+    public function explicitGiftProductIds(): array
+    {
+        return ProductPromotionSetting::query()
+            ->where('eligible_as_gift', true)
+            ->where('offers_enabled', true)
+            ->pluck('product_id')
+            ->map(fn ($id) => (int) $id)
+            ->all();
+    }
+
     public function eligibleGifts(array $tier, ?CartContract $cart, int $limit = 12): array
     {
         if (! $this->isEnabled() || (float) ($tier['max_price'] ?? 0) <= 0) {
+            $this->lastGiftSource = 'range';
+            $this->lastGiftMinPrice = null;
+
             return [];
         }
 
@@ -215,22 +260,86 @@ class PromotionService implements PromotionServiceInterface
                 ->all()
             : [];
 
+        // Excluded from every gift list: products Simo switched off
+        // as gifts, and products whose master offers switch is off
+        // (they would fail addGift with 'not-eligible' anyway, so
+        // showing them in the picker would only be a dead end).
         $excludedIds = ProductPromotionSetting::query()
-            ->where('eligible_as_gift', false)
+            ->where(function ($query) {
+                $query->where('eligible_as_gift', false)
+                    ->orWhere('offers_enabled', false);
+            })
             ->pluck('product_id')
             ->map(fn ($id) => (int) $id)
             ->all();
 
-        $rows = DB::table('product_flat')
-            ->where('channel', $channel)
-            ->where('locale', $locale)
-            ->where('status', 1)
-            ->where('type', 'simple')
-            ->where('price', '>', 0)
-            ->where('price', '<=', $cap)
-            ->orderBy('price')
-            ->limit(40)
-            ->get(['product_id', 'name', 'url_key', 'price']);
+        // Branch 1 — Simo chose gifts: those products, and only
+        // those. No price floor here (a chosen 3 DH product is a
+        // valid gift); only the tier cap applies, as addGift
+        // enforces it. Ordered by final price, deterministic.
+        $explicitIds = array_values(array_diff(
+            $this->explicitGiftProductIds(),
+            $giftedProductIds,
+        ));
+
+        // The price that counts is the FINAL (selling) price —
+        // getFinalPrice(), i.e. the special price when one is
+        // active — because that is what addGift validates against
+        // the cap and what the customer would have paid. The flat
+        // `price` column is only the base price: a product priced
+        // 42 with an 85 special costs 85, and a product priced 60
+        // with a 45 special costs 45. So the SQL pre-filter must
+        // admit both columns, and the loop decides on the final
+        // price. (Before this, the picker showed the base price
+        // while addGift checked the final price, so a gift could
+        // appear in the picker and then fail to add with
+        // 'over-cap'.)
+        if ($explicitIds) {
+            $this->lastGiftSource = 'explicit';
+            $this->lastGiftMinPrice = null;
+
+            $rows = DB::table('product_flat')
+                ->where('channel', $channel)
+                ->where('locale', $locale)
+                ->where('status', 1)
+                ->where('type', 'simple')
+                ->whereIn('product_id', $explicitIds)
+                ->where(function ($query) use ($cap) {
+                    $query->where('price', '<=', $cap)
+                        ->orWhere('special_price', '<=', $cap);
+                })
+                ->orderBy('price')
+                ->limit(40)
+                ->get(['product_id', 'name', 'url_key', 'price']);
+        } else {
+            // Branch 2 — nobody chose anything: products whose
+            // final price is between the 40 DH floor and the tier
+            // cap, in random order so every page load shows a
+            // different mix. The floor is clamped to the cap: when
+            // the admin cap is below 40 the range is simply "up to
+            // the cap".
+            $floor = min(self::GIFT_FALLBACK_MIN_PRICE, $cap);
+            $this->lastGiftSource = 'range';
+            $this->lastGiftMinPrice = $floor;
+
+            $rows = DB::table('product_flat')
+                ->where('channel', $channel)
+                ->where('locale', $locale)
+                ->where('status', 1)
+                ->where('type', 'simple')
+                ->where(function ($query) use ($floor, $cap) {
+                    $query->where(function ($query) use ($floor, $cap) {
+                        $query->where('price', '>=', $floor)
+                            ->where('price', '<=', $cap);
+                    })->orWhere(function ($query) use ($floor, $cap) {
+                        $query->where('special_price', '>=', $floor)
+                            ->where('special_price', '<=', $cap);
+                    });
+                })
+                ->inRandomOrder()
+                ->limit(60)
+                ->get(['product_id', 'name', 'url_key', 'price']);
+        }
 
         $gifts = [];
 
@@ -266,14 +375,27 @@ class PromotionService implements PromotionServiceInterface
                 continue;
             }
 
+            // Final selling price decides: the fallback floor and
+            // the tier cap both apply to it, and it is the price
+            // shown struck-through in the picker.
+            $finalPrice = (float) $type->getFinalPrice();
+
+            if ($finalPrice <= 0 || $finalPrice > $cap) {
+                continue;
+            }
+
+            if ($this->lastGiftSource === 'range' && $finalPrice < $this->lastGiftMinPrice) {
+                continue;
+            }
+
             $name = $row->name ?: $this->flatName($productId, 'en');
             $image = ProductImage::getProductBaseImage($product);
 
             $gifts[] = [
                 'id' => $productId,
                 'name' => $name ?: $product->name,
-                'price' => (float) $row->price,
-                'formatted_price' => core()->formatPrice((float) $row->price),
+                'price' => $finalPrice,
+                'formatted_price' => core()->formatPrice($finalPrice),
                 'image' => $image['medium_image_url'] ?? ($image['original_image_url'] ?? null),
                 'url' => route('shop.product_or_category.index', $row->url_key),
             ];
@@ -513,10 +635,21 @@ class PromotionService implements PromotionServiceInterface
                 : 100;
         }
 
+        $eligibleGifts = $currentTier ? $this->eligibleGifts($currentTier, $cart) : [];
+
         if ($currentTier) {
             $currentTier['formatted_threshold'] = core()->formatPrice($currentTier['threshold']);
             $currentTier['formatted_max_price'] = core()->formatPrice($currentTier['max_price']);
             $currentTier['formatted_coupon_amount'] = core()->formatPrice($currentTier['coupon_amount'] ?? 0);
+
+            // Which list the picker shows, so its subtitle matches:
+            // 'explicit' = products Simo chose (subtitle "under the
+            // cap"), 'range' = the random 40-to-cap fallback
+            // (subtitle "from :min to :max").
+            $currentTier['gift_source'] = $this->lastGiftSource;
+            $currentTier['formatted_min_price'] = $this->lastGiftMinPrice !== null
+                ? core()->formatPrice($this->lastGiftMinPrice)
+                : null;
         }
 
         $giftedTiers = [];
@@ -569,7 +702,7 @@ class PromotionService implements PromotionServiceInterface
             'next_tier' => $nextTier,
             'coupon' => $this->couponArray($cart),
             'gifted_tiers' => $giftedTiers,
-            'eligible_gifts' => $currentTier ? $this->eligibleGifts($currentTier, $cart) : [],
+            'eligible_gifts' => $eligibleGifts,
         ];
     }
 

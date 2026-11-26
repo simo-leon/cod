@@ -12,6 +12,7 @@ return [
     'gift_free' => 'GRATUIT',
     'gift_badge' => 'Cadeau',
     'gift_max_price' => 'Cadeaux de moins de :amount',
+    'gift_price_range' => 'Cadeaux de :min à :max',
     'gift_empty' => 'Aucun cadeau disponible dans cette gamme de prix.',
     'next_tier' => 'Prochain cadeau à :amount',
     'gift-added' => 'Votre cadeau offert a été ajouté au panier.',

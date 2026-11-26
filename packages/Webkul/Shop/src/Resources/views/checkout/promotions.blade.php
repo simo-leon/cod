@@ -98,7 +98,13 @@
         </p>
 
         <p class="mt-0.5 text-xs text-zinc-600">
-            @{{ "@lang('shop::promotions.gift_max_price')".replace(':amount', cart.promotions.current_tier.formatted_max_price) }}
+            <span v-if="cart.promotions.current_tier.gift_source === 'range'">
+                @{{ "@lang('shop::promotions.gift_price_range')".replace(':min', cart.promotions.current_tier.formatted_min_price).replace(':max', cart.promotions.current_tier.formatted_max_price) }}
+            </span>
+
+            <span v-else>
+                @{{ "@lang('shop::promotions.gift_max_price')".replace(':amount', cart.promotions.current_tier.formatted_max_price) }}
+            </span>
         </p>
 
         <div

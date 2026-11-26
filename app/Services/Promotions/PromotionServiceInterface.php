@@ -58,10 +58,26 @@ interface PromotionServiceInterface
     public function giftItemForTier(?CartContract $cart, int $tier): ?CartItemContract;
 
     /**
+     * Products Simo explicitly chose as gifts on the product edit
+     * page (promotion rows with the gift switch on and the master
+     * offers switch on). Empty when he chose nothing — then the
+     * gift picker falls back to random products priced between
+     * 40 DH and the tier cap.
+     */
+    public function explicitGiftProductIds(): array;
+
+    /**
      * Products the customer may pick as the free gift of one tier:
-     * active, simple, saleable, priced at or under the tier cap,
-     * cheapest first — never products Simo excluded on the product
-     * edit page, never products already gifted in this cart.
+     * when Simo explicitly chose gifts, exactly those (active,
+     * simple, saleable, final price at or under the tier cap,
+     * never products already gifted in this cart); otherwise
+     * random products whose final price is between 40 DH and the
+     * tier cap. The FINAL (selling) price counts — a special
+     * price changes it — because that is what addGift validates
+     * and what the customer would have paid. Never products Simo
+     * excluded on the product edit page, never products whose
+     * master offers switch is off, never products without a URL
+     * in the current locale.
      */
     public function eligibleGifts(array $tier, ?CartContract $cart, int $limit = 12): array;
 

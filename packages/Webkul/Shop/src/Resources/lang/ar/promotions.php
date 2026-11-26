@@ -12,6 +12,7 @@ return [
     'gift_free' => 'مجاني',
     'gift_badge' => 'هدية',
     'gift_max_price' => 'هدايا أقل من :amount',
+    'gift_price_range' => 'هدايا بين :min و :max',
     'gift_empty' => 'ما كاينة حتى هدية فهاد الثمن.',
     'next_tier' => 'الهدية الجاية فـ :amount',
     'gift-added' => 'تزادت الهدية ديالك للسلة.',
