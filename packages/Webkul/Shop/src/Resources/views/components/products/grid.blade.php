@@ -397,13 +397,18 @@
 
                     /*
                         Jemla: no infinite grid / auto-load — one fixed
-                        set of products per section. The count comes
-                        from the `limit` of the section's own src URL
-                        (the admin homepage limit, default 12). Because a
-                        section never shows a product already shown by
-                        an earlier section, keep following pages until
-                        the section is full, so it never ends up short
-                        just because its first page overlapped one.
+                        set of products per section, in ONE request.
+                        The count comes from the `limit` of the
+                        section's own src URL (the admin homepage
+                        limit, default 12). A section never shows a
+                        product already shown by an earlier section,
+                        so it may end up slightly short when its first
+                        page overlaps one — that is accepted: chasing
+                        further pages to fill the gap turned every
+                        section into up to 4 sequential API requests
+                        and made the homepage open very slowly on
+                        phones (measured 2026-11-26: a cold listing
+                        request takes ~3s on live).
                     */
                     let desired = 12;
 
@@ -415,33 +420,21 @@
                         }
                     } catch (e) {}
 
-                    const loadPage = (url, pagesLeft) => {
-                        this.$axios.get(url)
-                            .then(response => {
-                                const fresh = (response.data.data || []).filter(product => ! seen.has(product.id));
-                                const needed = desired - this.products.length;
-                                const kept = fresh.slice(0, needed);
+                    this.$axios.get(this.src)
+                        .then(response => {
+                            const fresh = (response.data.data || []).filter(product => ! seen.has(product.id));
+                            const kept = fresh.slice(0, desired);
 
-                                kept.forEach(product => seen.add(product.id));
+                            kept.forEach(product => seen.add(product.id));
 
-                                this.products = [...this.products, ...kept];
-                                this.links = response.data.links || null;
-
-                                const next = this.links && this.links.next;
-
-                                if (this.products.length < desired && next && pagesLeft > 0) {
-                                    loadPage(next, pagesLeft - 1);
-                                } else {
-                                    this.isLoading = false;
-                                }
-                            })
-                            .catch(error => {
-                                this.isLoading = false;
-                                console.error(error);
-                            });
-                    };
-
-                    loadPage(this.src, 3);
+                            this.products = kept;
+                            this.links = response.data.links || null;
+                            this.isLoading = false;
+                        })
+                        .catch(error => {
+                            this.isLoading = false;
+                            console.error(error);
+                        });
                 },
 
                 initObserver() {

@@ -139,16 +139,16 @@
                         homepage. Sections are separate components that
                         fetch their own lists, so keep a page-level
                         registry of product ids already displayed and
-                        drop duplicates (e.g. "Nouveautés" vs "Nos Promos"
-                        vs a category section showing the same products).
-                        Because the API paginates (the `limit` filter
-                        follows the storefront per-page values), keep
-                        fetching following pages until this section is
-                        full, so a section never ends up almost empty
-                        just because its first page overlapped an
-                        earlier section. Only ids actually displayed are
-                        registered, so products skipped here can still
-                        appear in a later section.
+                        drop duplicates. One request per section only:
+                        chasing further pages to fill dedup gaps turned
+                        every section into up to 4 sequential API
+                        requests and made the homepage open very slowly
+                        on phones (measured 2026-11-26: a cold listing
+                        request takes ~3s on live), so a section may
+                        end up slightly short when its first page
+                        overlaps an earlier one. Only ids actually
+                        displayed are registered, so products skipped
+                        here can still appear in a later section.
                     */
                     const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
 
@@ -161,31 +161,19 @@
                         }
                     } catch (e) {}
 
-                    const loadPage = (url, pagesLeft) => {
-                        this.$axios.get(url)
-                            .then(response => {
-                                const fresh = (response.data.data || []).filter(product => ! seen.has(product.id));
-                                const needed = desired - this.products.length;
-                                const kept = fresh.slice(0, needed);
+                    this.$axios.get(this.src)
+                        .then(response => {
+                            const fresh = (response.data.data || []).filter(product => ! seen.has(product.id));
+                            const kept = fresh.slice(0, desired);
 
-                                kept.forEach(product => seen.add(product.id));
+                            kept.forEach(product => seen.add(product.id));
 
-                                this.products = [...this.products, ...kept];
-
-                                const next = response.data.links && response.data.links.next;
-
-                                if (this.products.length < desired && next && pagesLeft > 0) {
-                                    loadPage(next, pagesLeft - 1);
-                                } else {
-                                    this.isLoading = false;
-                                }
-                            }).catch(error => {
-                                this.isLoading = false;
-                                console.log(error);
-                            });
-                    };
-
-                    loadPage(this.src, 3);
+                            this.products = kept;
+                            this.isLoading = false;
+                        }).catch(error => {
+                            this.isLoading = false;
+                            console.log(error);
+                        });
                 },
 
                 updateScreenSize() {

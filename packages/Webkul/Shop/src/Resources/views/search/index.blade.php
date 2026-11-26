@@ -1,18 +1,18 @@
 <?php
-    $searchTitle = $suggestion ?? $query;
-    $title = $searchTitle ? trans('shop::app.search.title', ['query' => $searchTitle]) : trans('shop::app.search.results');
-    $searchInstead = $suggestion ? $query : null;
+$searchTitle = $suggestion ?? $query;
+$title = $searchTitle ? trans('shop::app.search.title', ['query' => $searchTitle]) : trans('shop::app.search.results');
+$searchInstead = $suggestion ? $query : null;
 
-    /*
-        Jemla: the product grid columns follow the homepage setting
-        (Configuration → General → Homepage), same values as the
-        homepage products grid — desktop / tablet / mobile.
-    */
-    $gridDesktopColumns = min(6, max(2, (int) (core()->getConfigData('general.homepage.settings.grid_columns_desktop') ?? 4)));
+/*
+    Jemla: the product grid columns follow the homepage setting
+    (Configuration → General → Homepage), same values as the
+    homepage products grid — desktop / tablet / mobile.
+*/
+$gridDesktopColumns = min(6, max(2, (int) (core()->getConfigData('general.homepage.settings.grid_columns_desktop') ?? 4)));
 
-    $gridMobileColumns = min(3, max(1, (int) (core()->getConfigData('general.homepage.settings.grid_columns_mobile') ?? 2)));
+$gridMobileColumns = min(3, max(1, (int) (core()->getConfigData('general.homepage.settings.grid_columns_mobile') ?? 2)));
 
-    $gridTabletColumns = min(3, $gridDesktopColumns);
+$gridTabletColumns = min(3, $gridDesktopColumns);
 ?>
 <!-- SEO Meta Content -->
 @push('meta')
@@ -271,18 +271,9 @@
                         loader: false,
 
                         /*
-                            Jemla: progressive listing — the first 3 products
-                            render fast, then 3-product chunks stream in
-                            automatically until the toolbar batch (limit,
-                            default = first admin value, 12) is complete;
-                            only then does the "see more" button appear.
-                            batchLoaded counts the products loaded in the
-                            current batch, and listingRequestId invalidates
-                            a streaming chain superseded by a filter/sort/
-                            limit change.
+                            Jemla: listingRequestId invalidates a load
+                            superseded by a filter/sort/limit change.
                         */
-                        batchLoaded: 0,
-
                         listingRequestId: 0,
                     }
                 },
@@ -358,14 +349,21 @@
 
                         this.links = {};
 
-                        this.batchLoaded = 0;
-
                         this.loader = false;
 
                         const requestId = ++this.listingRequestId;
 
+                        /*
+                            Jemla: one request per batch — the toolbar
+                            limit (admin per-page, default 12) in a
+                            single call. Streaming 3-product chunks
+                            turned every batch into 4 sequential API
+                            requests and made listings open very slowly
+                            on phones (measured 2026-11-26: a cold
+                            listing request takes ~3s on live).
+                        */
                         this.$axios.get(("{{ route('shop.api.products.index') }}"), {
-                            params: { ...this.queryParams, limit: 3 }
+                            params: { ...this.queryParams, limit: this.batchTarget() }
                         })
                             .then(response => {
                                 if (requestId !== this.listingRequestId) {
@@ -378,60 +376,21 @@
 
                                 this.links = response.data.links;
 
-                                this.batchLoaded = response.data.data.length;
-
-                                this.streamNextChunks(requestId);
+                                this.loader = false;
                             }).catch(error => {
                                 console.log(error);
                             });
                     },
 
                     /*
-                        Keep streaming 3-product chunks automatically
-                        (no click, no scroll) until the batch is complete
-                        or there are no more products. While streaming,
-                        loader stays true so the "see more" button stays
-                        hidden and the spinner shows below the grid.
+                        Jemla: "see more" loads exactly one page (the
+                        next page of the same batch) — no streaming
+                        chain after the click.
                     */
-                    streamNextChunks(requestId) {
-                        if (
-                            requestId !== this.listingRequestId
-                            || this.batchLoaded >= this.batchTarget()
-                            || ! this.links.next
-                        ) {
-                            this.loader = false;
-
-                            return;
-                        }
-
-                        this.loader = true;
-
-                        this.$axios.get(this.links.next)
-                            .then(response => {
-                                if (requestId !== this.listingRequestId) {
-                                    return;
-                                }
-
-                                this.products = [...this.products, ...response.data.data];
-
-                                this.links = response.data.links;
-
-                                this.batchLoaded += response.data.data.length;
-
-                                this.streamNextChunks(requestId);
-                            }).catch(error => {
-                                this.loader = false;
-
-                                console.log(error);
-                            });
-                    },
-
                     loadMoreProducts() {
                         if (! this.links.next || this.loader) {
                             return;
                         }
-
-                        this.batchLoaded = 0;
 
                         this.loader = true;
 
@@ -446,9 +405,7 @@
 
                             this.links = response.data.links;
 
-                            this.batchLoaded = response.data.data.length;
-
-                            this.streamNextChunks(requestId);
+                            this.loader = false;
                         }).catch(error => {
                             this.loader = false;
 
