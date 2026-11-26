@@ -54,27 +54,12 @@
 
         @bagistoVite(['src/Resources/assets/css/app.css', 'src/Resources/assets/js/app.js'])
 
-        <link
-            rel="preconnect"
-            href="https://fonts.googleapis.com"
-            crossorigin
-        />
-
-        <link
-            rel="preconnect"
-            href="https://fonts.gstatic.com"
-            crossorigin
-        />
-
-        <link
-            rel="preload" as="style"
-            href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=DM+Serif+Display&display=swap"
-        />
-
-        <link
-            rel="stylesheet"
-            href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=DM+Serif+Display&display=swap"
-        />
+        {{--
+            Jemla: Poppins + DM Serif Display are self-hosted now
+            (@font-face in app.css, woff2 in assets/fonts). The Google
+            Fonts <link>s used to be render-blocking and failed outright
+            in some networks — no external font request remains in <head>.
+        --}}
 
         @stack('styles')
 
