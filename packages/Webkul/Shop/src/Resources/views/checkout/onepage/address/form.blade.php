@@ -49,11 +49,44 @@
 
             {!! view_render_event('bagisto.shop.checkout.onepage.address.form.last_name.after') !!}
 
-            <x-shop::form.control-group.control
-                type="hidden"
-                ::name="controlName + '.email'"
-                ::value="address.email || '{{ addslashes(auth()->guard('customer')->user()?->email ?: 'client@shop.ma') }}'"
-            />
+            @if (! auth()->guard('customer')->check())
+                <template v-if="controlName == 'billing'">
+                    <!-- Email (guest): visible and required — the order
+                         confirmation is sent to this address, so it must be
+                         the customer's real email, never a placeholder. -->
+                    <x-shop::form.control-group>
+                        <x-shop::form.control-group.label class="required !mt-0 mb-2 text-sm font-medium text-zinc-700">
+                            @lang('shop::app.checkout.onepage.address.email')
+                        </x-shop::form.control-group.label>
+
+                        <x-shop::form.control-group.control
+                            type="email"
+                            ::name="controlName + '.email'"
+                            ::value="address.email || ''"
+                            rules="required|email"
+                            class="h-[46px] rounded-xl border border-zinc-300 bg-white px-4 text-base text-zinc-700 placeholder:text-zinc-400 focus:border-blue-600 focus:ring-0"
+                            :label="trans('shop::app.checkout.onepage.address.email')"
+                            placeholder="example@email.com"
+                        />
+
+                        <x-shop::form.control-group.error ::name="controlName + '.email'" />
+                    </x-shop::form.control-group>
+                </template>
+
+                <template v-else>
+                    <x-shop::form.control-group.control
+                        type="hidden"
+                        ::name="controlName + '.email'"
+                        ::value="address.email || ''"
+                    />
+                </template>
+            @else
+                <x-shop::form.control-group.control
+                    type="hidden"
+                    ::name="controlName + '.email'"
+                    ::value="address.email || '{{ addslashes(auth()->guard('customer')->user()?->email ?: '') }}'"
+                />
+            @endif
 
             {!! view_render_event('bagisto.shop.checkout.onepage.address.form.email.after') !!}
 
@@ -284,7 +317,7 @@
                     }
 
                     if (! this.address.email) {
-                        this.address.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?: 'client@shop.ma') }}';
+                        this.address.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?: '') }}';
                     }
 
                     if (! this.address.last_name) {

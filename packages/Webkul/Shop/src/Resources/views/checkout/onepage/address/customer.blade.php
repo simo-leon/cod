@@ -464,7 +464,7 @@
                     if (! addressData.postcode) addressData.postcode = '20000';
                     if (! addressData.state) addressData.state = addressData.city || 'Casablanca';
                     if (! addressData.last_name) addressData.last_name = '{{ addslashes(auth()->guard('customer')->user()?->last_name ?? 'Client') }}';
-                    if (! addressData.email) addressData.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?? 'client@shop.ma') }}';
+                    if (! addressData.email) addressData.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?? '') }}';
 
                     let isEditing = addressData.id && addressData.address_type === 'customer';
 
@@ -668,7 +668,7 @@
                     if (! address.country) address.country = 'MA';
                     if (! address.postcode) address.postcode = '20000';
                     if (! address.state) address.state = address.city || 'Casablanca';
-                    if (! address.email) address.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?? 'client@shop.ma') }}';
+                    if (! address.email) address.email = '{{ addslashes(auth()->guard('customer')->user()?->email ?? '') }}';
                     if (! address.last_name) address.last_name = '{{ addslashes(auth()->guard('customer')->user()?->last_name ?? 'Client') }}';
                     if (! address.first_name) address.first_name = '{{ addslashes(auth()->guard('customer')->user()?->first_name ?? '') }}';
 

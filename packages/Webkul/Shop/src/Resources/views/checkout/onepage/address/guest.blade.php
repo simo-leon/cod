@@ -136,6 +136,13 @@
 
                     params['billing']['use_for_shipping'] = this.useBillingAddressForShipping;
 
+                    /* Guest checkout: the email field is only shown on the
+                       billing form; a separate shipping address inherits it
+                       so the server-side required|email rule still passes. */
+                    if (params.shipping && ! params.shipping.email) {
+                        params.shipping.email = params.billing.email;
+                    }
+
                     this.moveToNextStep();
 
                     this.$axios.post('{{ route('shop.checkout.onepage.addresses.store') }}', params)
