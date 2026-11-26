@@ -5221,6 +5221,8 @@ return [
                         'buy2-discount-percent-info' => 'Discount applied to the cheapest product of each group. Example: 50.',
                         'buy2-group-size' => 'Buy-2 Group Size',
                         'buy2-group-size-info' => 'Number of products per group. Example: 3 (buy 2, the 3rd is discounted).',
+                        'buy2-max-price' => 'Buy-2 Max Price (DH)',
+                        'buy2-max-price-info' => 'Products priced above this ceiling are excluded from the buy-2 offer — no discount, no badge. 0 = no ceiling.',
                         'fbt-status' => 'Enable Frequently Bought Together',
                         'fbt-status-info' => 'Show a "Frequently bought together" section on product pages with complementary products from the same categories.',
                         'fbt-discount-percent' => 'Bundle Discount (%)',

@@ -5221,6 +5221,8 @@ return [
                         'buy2-discount-percent-info' => 'Remise appliquée au produit le moins cher de chaque groupe. Exemple : 50.',
                         'buy2-group-size' => 'Taille du groupe 2 achetés',
                         'buy2-group-size-info' => 'Nombre de produits par groupe. Exemple : 3 (achetez-en 2, le 3ᵉ est remisé).',
+                        'buy2-max-price' => 'Plafond de prix 2 achetés (DH)',
+                        'buy2-max-price-info' => 'Les produits plus chers que ce plafond ne participent pas à l’offre 2 achetés — ni remise ni badge. 0 = pas de plafond.',
                         'fbt-status' => 'Activer « Souvent achetés ensemble »',
                         'fbt-status-info' => 'Afficher une section « Souvent achetés ensemble » sur les pages produits avec des produits complémentaires des mêmes catégories.',
                         'fbt-discount-percent' => 'Remise du pack (%)',

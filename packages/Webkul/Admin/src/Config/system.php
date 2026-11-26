@@ -1165,6 +1165,13 @@ return [
                 'default' => 3,
                 'channel_based' => true,
             ], [
+                'name' => 'buy2_max_price',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.buy2-max-price',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.buy2-max-price-info',
+                'type' => 'number',
+                'default' => 150,
+                'channel_based' => true,
+            ], [
                 'name' => 'fbt_status',
                 'title' => 'admin::app.configuration.index.general.promotions.settings.fbt-status',
                 'info' => 'admin::app.configuration.index.general.promotions.settings.fbt-status-info',

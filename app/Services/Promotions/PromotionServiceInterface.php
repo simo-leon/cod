@@ -179,9 +179,16 @@ interface PromotionServiceInterface
     public function buy2GroupSize(): int;
 
     /**
+     * Price ceiling of the buy-2 offer in DH (default 150): only
+     * products whose final (selling) price is at or under the
+     * ceiling join the offer. 0 means "no ceiling".
+     */
+    public function buy2MaxPrice(): float;
+
+    /**
      * The buy-2 discount for the cart: per-item amounts plus totals.
      * Units are the eligible non-gift units (price > 0, product
-     * toggled on); sorted cheapest first, each group starts at its
+     * toggled on, final price at or under the buy-2 ceiling); sorted cheapest first, each group starts at its
      * cheapest unit and that unit's product sets the group size
      * (buy N + 1) and the discount percent — per-product values set
      * by Simo override the globals. With the global defaults
@@ -217,10 +224,12 @@ interface PromotionServiceInterface
      * The effective buy-2 terms of one product: how many units the
      * customer must buy ("اشتري N") and the discount percent of the
      * extra unit. A per-product value overrides the global setting;
-     * null means "use the global". Returns ['enabled' => bool,
+     * null means "use the global". 'enabled' is false when the
+     * product's final (selling) price is above the buy-2 price
+     * ceiling. Returns ['enabled' => bool,
      * 'min_qty' => n, 'discount_percent' => x,
      * 'discount_percent_display' => x, 'group_size' => n,
-     * 'custom' => bool].
+     * 'max_price' => x, 'custom' => bool].
      */
     public function buy2TermsForProduct(Product $product): array;
 

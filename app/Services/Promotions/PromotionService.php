@@ -944,6 +944,16 @@ class PromotionService implements PromotionServiceInterface
     }
 
     /**
+     * Price ceiling of the buy-2 offer in DH (default 150): only
+     * products whose final (selling) price is at or under the
+     * ceiling join the offer. 0 means "no ceiling".
+     */
+    public function buy2MaxPrice(): float
+    {
+        return max(0, (float) (core()->getConfigData('general.promotions.settings.buy2_max_price') ?? 150));
+    }
+
+    /**
      * The buy-2 discount for the cart, memoized per request by a
      * signature of the cart contents (items, quantities, prices,
      * gift flags and promotion settings), so the cart API and the
@@ -974,7 +984,11 @@ class PromotionService implements PromotionServiceInterface
             ]);
         }
 
-        $key = (int) $cart->id.':'.md5(implode('|', $parts).'|'.json_encode($settings));
+        // The ceiling is part of the memo key: changing it in the
+        // admin must not serve a discount computed under the old one.
+        $ceiling = $this->buy2MaxPrice();
+
+        $key = (int) $cart->id.':'.md5(implode('|', $parts).'|'.json_encode($settings).'|ceiling:'.$ceiling);
 
         if (static::$buy2Memo && static::$buy2Memo['key'] === $key) {
             return static::$buy2Memo['value'];
@@ -992,6 +1006,12 @@ class PromotionService implements PromotionServiceInterface
             }
 
             if (! $this->isEligibleBuy2Row($settings, (int) $item->product_id)) {
+                continue;
+            }
+
+            // Price ceiling: a unit priced above the ceiling does not
+            // join any buy-2 group (and gets no discount).
+            if ($ceiling > 0 && (float) $item->price > $ceiling) {
                 continue;
             }
 
@@ -1308,6 +1328,8 @@ class PromotionService implements PromotionServiceInterface
      * extra unit. A per-product value (admin product edit page)
      * overrides the global setting; null means "use the global".
      * The group size is min_qty + 1 (buy 2 -> group of 3).
+     * The badge is disabled when the product's final (selling)
+     * price is above the buy-2 price ceiling.
      */
     public function buy2TermsForProduct(ProductContract $product): array
     {
@@ -1323,12 +1345,19 @@ class PromotionService implements PromotionServiceInterface
             ? min(100, max(0, (float) $row->buy2_discount_percent))
             : $this->buy2DiscountPercent();
 
+        $ceiling = $this->buy2MaxPrice();
+
+        $price = (float) $product->getTypeInstance()->getFinalPrice();
+
         return [
-            'enabled' => $this->isBuy2Enabled() && $this->isEligibleBuy2((int) $product->id),
+            'enabled' => $this->isBuy2Enabled()
+                && $this->isEligibleBuy2((int) $product->id)
+                && ($ceiling <= 0 || $price <= $ceiling),
             'min_qty' => $minQty,
             'discount_percent' => $percent,
             'discount_percent_display' => $percent == (int) $percent ? (int) $percent : $percent,
             'group_size' => $minQty + 1,
+            'max_price' => $ceiling,
             'custom' => $row !== null && ($row->buy2_min_qty !== null || $row->buy2_discount_percent !== null),
         ];
     }
