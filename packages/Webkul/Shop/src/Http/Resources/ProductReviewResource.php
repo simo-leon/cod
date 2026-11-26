@@ -24,6 +24,7 @@ class ProductReviewResource extends JsonResource
             'rating' => $this->rating,
             'images' => $this->images,
             'profile' => $this->customer?->image_url,
+            'is_verified_purchase' => (bool) $this->is_verified_purchase,
             'created_at' => $this->created_at->format('M d, Y'),
         ];
     }

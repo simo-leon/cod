@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Shop\OrderTrackingController;
 use Illuminate\Support\Facades\Route;
 use Webkul\Core\Http\Middleware\NoCacheMiddleware;
 use Webkul\Shop\Http\Controllers\AiSearchOverviewController;
@@ -40,6 +41,22 @@ Route::prefix('withdraw')->middleware([NoCacheMiddleware::class])->group(functio
             ->middleware('signed')
             ->name('shop.eu-withdrawal.guest.confirmation');
     });
+});
+
+/**
+ * Order tracking by phone number (Jemla idea 6) — public guest page:
+ * a customer types the phone number they ordered with and sees their
+ * orders' status. Declared before the catch-all fallback so its URLs
+ * match first. Lookup is throttled (10/minute) so the endpoint cannot
+ * be used to enumerate phone numbers at scale.
+ */
+Route::prefix('track-order')->middleware([NoCacheMiddleware::class])->group(function () {
+    Route::get('/', [OrderTrackingController::class, 'index'])
+        ->name('shop.tracking.index');
+
+    Route::post('/', [OrderTrackingController::class, 'lookup'])
+        ->middleware('throttle:10,1')
+        ->name('shop.tracking.lookup');
 });
 
 /**

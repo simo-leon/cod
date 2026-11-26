@@ -1064,6 +1064,67 @@ return [
     ], [
 
         /**
+         * Store features (ideas 5-6): product reviews (stars,
+         * comments, photos, verified-purchase marking, moderation)
+         * and public order tracking by phone number. Everything is
+         * editable here; nothing is hard-coded. Reviews reuse the
+         * Bagisto core review system (pending/approved + admin
+         * review management); the Jemla switches below decide
+         * whether the section shows at all, whether guests may
+         * review, and whether a review needs approval first.
+         */
+        'key' => 'general.store-features',
+        'name' => 'admin::app.configuration.index.general.store-features.title',
+        'info' => 'admin::app.configuration.index.general.store-features.info',
+        'icon' => 'settings/checkout.svg',
+        'sort' => 11,
+    ], [
+        'key' => 'general.store-features.reviews',
+        'name' => 'admin::app.configuration.index.general.store-features.reviews.title',
+        'info' => 'admin::app.configuration.index.general.store-features.reviews.title-info',
+        'sort' => 1,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.store-features.reviews.status',
+                'info' => 'admin::app.configuration.index.general.store-features.reviews.status-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'require_approval',
+                'title' => 'admin::app.configuration.index.general.store-features.reviews.require-approval',
+                'info' => 'admin::app.configuration.index.general.store-features.reviews.require-approval-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'guest_reviews',
+                'title' => 'admin::app.configuration.index.general.store-features.reviews.guest-reviews',
+                'info' => 'admin::app.configuration.index.general.store-features.reviews.guest-reviews-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ],
+        ],
+    ], [
+        'key' => 'general.store-features.tracking',
+        'name' => 'admin::app.configuration.index.general.store-features.tracking.title',
+        'info' => 'admin::app.configuration.index.general.store-features.tracking.title-info',
+        'sort' => 2,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.store-features.tracking.status',
+                'info' => 'admin::app.configuration.index.general.store-features.tracking.status-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ],
+        ],
+    ], [
+
+        /**
          * COD System — WhatsApp (phase 4).
          *
          * Provider choice: Meta (official WhatsApp Cloud API, for

@@ -30,6 +30,8 @@ use App\Cod\WhatsApp\WhatsAppService;
 use App\Cod\WhatsApp\WhatsAppServiceInterface;
 use App\Services\Promotions\PromotionService;
 use App\Services\Promotions\PromotionServiceInterface;
+use App\Services\StoreFeatures\StoreFeatureService;
+use App\Services\StoreFeatures\StoreFeatureServiceInterface;
 use Illuminate\Support\ServiceProvider;
 
 /**
@@ -76,5 +78,7 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(SoukServiceInterface::class, SoukService::class);
 
         $this->app->singleton(PromotionServiceInterface::class, PromotionService::class);
+
+        $this->app->singleton(StoreFeatureServiceInterface::class, StoreFeatureService::class);
     }
 }

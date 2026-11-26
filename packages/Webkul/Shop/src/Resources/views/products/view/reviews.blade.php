@@ -72,7 +72,12 @@
                                 <x-shop::form.control-group.error control-name="rating" />
                             </x-shop::form.control-group>
 
-                            @if (core()->getConfigData('catalog.products.review.guest_review') && !auth()->guard('customer')->user())
+                            {{-- Jemla: guests may review when Simo allows it in the
+                                 admin (Reviews & Order Tracking settings). The
+                                 phone is optional — when it matches an order
+                                 for this product the review shows as a
+                                 verified purchase. --}}
+                            @if (app(\App\Services\StoreFeatures\StoreFeatureServiceInterface::class)->reviewsAllowGuests() && !auth()->guard('customer')->user())
                                 <x-shop::form.control-group>
                                     <x-shop::form.control-group.label class="required">
                                         @lang('shop::app.products.view.reviews.name')
@@ -88,6 +93,26 @@
                                     />
 
                                     <x-shop::form.control-group.error control-name="name" />
+                                </x-shop::form.control-group>
+
+                                <x-shop::form.control-group>
+                                    <x-shop::form.control-group.label>
+                                        @lang('shop::store_features.review_phone')
+                                    </x-shop::form.control-group.label>
+
+                                    <x-shop::form.control-group.control
+                                        type="text"
+                                        name="phone"
+                                        :value="old('phone')"
+                                        :label="trans('shop::store_features.review_phone')"
+                                        :placeholder="trans('shop::store_features.review_phone_placeholder')"
+                                    />
+
+                                    <p class="mt-1 text-xs text-zinc-500">
+                                        @lang('shop::store_features.review_phone_info')
+                                    </p>
+
+                                    <x-shop::form.control-group.error control-name="phone" />
                                 </x-shop::form.control-group>
                             @endif
 
@@ -203,11 +228,13 @@
                                 </div>
 
                                 <!-- Create Button -->
-                                @if(core()->getConfigData('catalog.products.review.customer_review'))
-                                    @if (
-                                            core()->getConfigData('catalog.products.review.guest_review')
-                                            || auth()->guard('customer')->user()
-                                        )
+                                {{-- Jemla: the review form opens for guests when Simo
+                                     allows guest reviews, and always for logged-in
+                                     customers. --}}
+                                @if (
+                                        app(\App\Services\StoreFeatures\StoreFeatureServiceInterface::class)->reviewsAllowGuests()
+                                        || auth()->guard('customer')->user()
+                                    )
                                             <div
                                                 class="flex cursor-pointer items-center justify-center gap-x-4 rounded-xl border border-navyBlue px-4 py-3 max-sm:rounded-lg max-sm:py-1.5"
                                                 @click="canReview = true"
@@ -216,7 +243,6 @@
 
                                                 @lang('shop::app.products.view.reviews.write-a-review')
                                             </div>
-                                    @endif
                                 @endif
                             </div>
 
@@ -253,11 +279,10 @@
                                 @lang('shop::app.products.view.reviews.empty-review')
                             </p>
 
-                            @if(core()->getConfigData('catalog.products.review.customer_review'))
-                                @if (
-                                        core()->getConfigData('catalog.products.review.guest_review')
-                                        || auth()->guard('customer')->user()
-                                    )
+                            @if (
+                                    app(\App\Services\StoreFeatures\StoreFeatureServiceInterface::class)->reviewsAllowGuests()
+                                    || auth()->guard('customer')->user()
+                                )
                                         <div
                                             class="mt-8 flex cursor-pointer items-center gap-x-4 rounded-xl border border-navyBlue px-4 py-2.5 max-sm:mt-5 max-sm:gap-x-1.5 max-sm:rounded-lg max-sm:py-1.5 max-sm:text-sm"
                                             @click="canReview = true"
@@ -266,7 +291,6 @@
 
                                             @lang('shop::app.products.view.reviews.write-a-review')
                                         </div>
-                                @endif
                             @endif
                         </div>
                     </template>
@@ -309,6 +333,15 @@
 
                     <p class="mb-2 text-sm font-medium text-neutral-500">
                         @{{ review.created_at }}
+                    </p>
+
+                    <p
+                        v-if="review.is_verified_purchase"
+                        class="mb-2 inline-flex w-max items-center gap-1 rounded-full bg-emerald-50 px-2.5 py-1 text-xs font-semibold text-emerald-700"
+                    >
+                        <span class="icon-check-box text-sm leading-none"></span>
+
+                        @lang('shop::store_features.verified_purchase')
                     </p>
 
                     <div class="flex items-center gap-0.5">
@@ -430,6 +463,15 @@
 
                         <p class="text-xs text-zinc-500">
                             @{{ review.created_at }}
+                        </p>
+
+                        <p
+                            v-if="review.is_verified_purchase"
+                            class="mt-1 inline-flex w-max items-center gap-1 rounded-full bg-emerald-50 px-2 py-0.5 text-[11px] font-semibold text-emerald-700"
+                        >
+                            <span class="icon-check-box text-xs leading-none"></span>
+
+                            @lang('shop::store_features.verified_purchase')
                         </p>
                     </div>
                 </div>

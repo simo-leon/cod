@@ -232,14 +232,16 @@
                 @endif
 
                 <!-- Reviews Tab -->
-                <x-shop::tabs.item
-                    id="review-tab"
-                    class="container mt-[60px] !p-0"
-                    :title="trans('shop::app.products.view.review')"
-                    :is-selected="false"
-                >
-                    @include('shop::products.view.reviews')
-                </x-shop::tabs.item>
+                @if (app(\App\Services\StoreFeatures\StoreFeatureServiceInterface::class)->reviewsVisible($product))
+                    <x-shop::tabs.item
+                        id="review-tab"
+                        class="container mt-[60px] !p-0"
+                        :title="trans('shop::app.products.view.review')"
+                        :is-selected="false"
+                    >
+                        @include('shop::products.view.reviews')
+                    </x-shop::tabs.item>
+                @endif
 
                 <!-- FAQ Tab -->
                 <x-shop::tabs.item
@@ -337,23 +339,25 @@
         @endif
 
         <!-- Reviews Accordion -->
-        <x-shop::accordion
-            class="max-md:border-none"
-            :is-active="false"
-        >
-            <x-slot:header
-                class="bg-gray-100 max-md:!py-3 max-sm:!py-2"
-                id="review-accordian-button"
+        @if (app(\App\Services\StoreFeatures\StoreFeatureServiceInterface::class)->reviewsVisible($product))
+            <x-shop::accordion
+                class="max-md:border-none"
+                :is-active="false"
             >
-                <p class="text-base font-medium">
-                    @lang('shop::app.products.view.review')
-                </p>
-            </x-slot>
+                <x-slot:header
+                    class="bg-gray-100 max-md:!py-3 max-sm:!py-2"
+                    id="review-accordian-button"
+                >
+                    <p class="text-base font-medium">
+                        @lang('shop::app.products.view.review')
+                    </p>
+                </x-slot>
 
-            <x-slot:content>
-                @include('shop::products.view.reviews')
-            </x-slot>
-        </x-shop::accordion>
+                <x-slot:content>
+                    @include('shop::products.view.reviews')
+                </x-slot>
+            </x-shop::accordion>
+        @endif
 
         <!-- FAQ Accordion -->
         <x-shop::accordion

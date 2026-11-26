@@ -4,6 +4,7 @@ namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
 use App\Services\Promotions\PromotionServiceInterface;
+use App\Services\StoreFeatures\StoreFeatureServiceInterface;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Spatie\ResponseCache\Facades\ResponseCache;
@@ -14,9 +15,10 @@ use Webkul\Product\Models\Product;
  * Simo switches a product in or out of the free-gift offers, the
  * low-stock badge, the buy-2-get-3rd-half offer, the "Frequently
  * bought together" section (as a main product and as a complementary
- * product) and the daily deals, from the admin product edit page.
- * A product without a row participates in all of these (whenever the
- * other conditions hold), except the daily deals, which are opt-in.
+ * product), the daily deals, customer reviews, and order tracking,
+ * from the admin product edit page. A product without a row
+ * participates in all of these (whenever the other conditions
+ * hold), except the daily deals, which are opt-in.
  */
 class PromotionProductController extends Controller
 {
@@ -31,9 +33,12 @@ class PromotionProductController extends Controller
             'show_fbt' => ['required', 'boolean'],
             'fbt_complementary' => ['required', 'boolean'],
             'in_daily_deal' => ['required', 'boolean'],
+            'allow_reviews' => ['required', 'boolean'],
+            'show_in_tracking' => ['required', 'boolean'],
         ]);
 
         $promotions = app(PromotionServiceInterface::class);
+        $features = app(StoreFeatureServiceInterface::class);
 
         $promotions->setEligibleAsGift(
             (int) $product->id,
@@ -63,6 +68,16 @@ class PromotionProductController extends Controller
         $promotions->setInDailyDeal(
             (int) $product->id,
             (bool) $data['in_daily_deal'],
+        );
+
+        $features->setAllowReviews(
+            (int) $product->id,
+            (bool) $data['allow_reviews'],
+        );
+
+        $features->setShowInTracking(
+            (int) $product->id,
+            (bool) $data['show_in_tracking'],
         );
 
         /*

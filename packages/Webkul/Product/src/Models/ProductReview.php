@@ -23,6 +23,8 @@ class ProductReview extends Model implements ProductReviewContract
         'product_id',
         'customer_id',
         'name',
+        'phone',
+        'is_verified_purchase',
     ];
 
     /**

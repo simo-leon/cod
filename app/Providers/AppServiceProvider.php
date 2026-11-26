@@ -10,9 +10,11 @@ use App\Listeners\SendOrderToDeliveryProvider;
 use App\Listeners\SyncBuy2Discount;
 use App\Listeners\SyncCartPromotions;
 use App\Listeners\SyncFbtDiscount;
+use App\Listeners\SyncReviewVerification;
 use App\Models\CodOrder;
 use App\Models\OrderStatusHistory;
 use App\Services\Promotions\PromotionServiceInterface;
+use App\Services\StoreFeatures\StoreFeatureServiceInterface;
 use Barryvdh\Debugbar\Facades\Debugbar;
 use Illuminate\Support\Facades\Artisan;
 use Illuminate\Support\Facades\Auth;
@@ -137,6 +139,11 @@ class AppServiceProvider extends ServiceProvider
         // item total). Same reason for the event choice.
         Event::listen('checkout.cart.calculate.items.tax.before', [SyncFbtDiscount::class, 'handle']);
 
+        // Product reviews: mark the review with the reviewer's phone
+        // and whether it is a verified purchase, and publish it
+        // straight away when Simo switched moderation off.
+        Event::listen('customer.review.create.after', [SyncReviewVerification::class, 'handle']);
+
         // Souk sourcing card on the admin product edit page (after
         // the product form): current stock, effective mode, and the
         // mode / cap / margin form.
@@ -164,7 +171,8 @@ class AppServiceProvider extends ServiceProvider
         // free gift, show the low-stock badge, count towards the
         // buy-2-get-3rd-half offer, show the "Frequently bought
         // together" section, be suggested as a complementary product,
-        // and appear in the daily deals.
+        // appear in the daily deals, accept customer reviews, and
+        // show in order tracking.
         Event::listen('bagisto.admin.catalog.product.edit.after', function (ViewRenderEventManager $manager) {
             $product = $manager->getParam('product');
 
@@ -173,6 +181,7 @@ class AppServiceProvider extends ServiceProvider
             }
 
             $promotions = app(PromotionServiceInterface::class);
+            $features = app(StoreFeatureServiceInterface::class);
 
             $manager->addTemplate('admin::cod.promotion-product-card', [
                 'product' => $product,
@@ -182,6 +191,8 @@ class AppServiceProvider extends ServiceProvider
                 'showFbt' => $promotions->showFbt((int) $product->id),
                 'fbtComplementary' => $promotions->isFbtComplementary((int) $product->id),
                 'inDailyDeal' => $promotions->isInDailyDeal((int) $product->id),
+                'allowReviews' => $features->allowReviews((int) $product->id),
+                'showInTracking' => $features->showInTracking((int) $product->id),
                 'canEditPromotions' => bouncer()->hasPermission('catalog.products.edit'),
             ]);
         });
