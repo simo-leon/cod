@@ -13,6 +13,7 @@ use App\Listeners\SyncFbtDiscount;
 use App\Listeners\SyncReviewVerification;
 use App\Models\CodOrder;
 use App\Models\OrderStatusHistory;
+use App\Services\AbandonedCart\AbandonedCartServiceInterface;
 use App\Services\Promotions\PromotionServiceInterface;
 use App\Services\StoreFeatures\StoreFeatureServiceInterface;
 use Barryvdh\Debugbar\Facades\Debugbar;
@@ -171,8 +172,9 @@ class AppServiceProvider extends ServiceProvider
         // free gift, show the low-stock badge, count towards the
         // buy-2-get-3rd-half offer, show the "Frequently bought
         // together" section, be suggested as a complementary product,
-        // appear in the daily deals, accept customer reviews, and
-        // show in order tracking.
+        // appear in the daily deals, accept customer reviews, show
+        // in order tracking, and be listed in the abandoned-cart
+        // WhatsApp reminders.
         Event::listen('bagisto.admin.catalog.product.edit.after', function (ViewRenderEventManager $manager) {
             $product = $manager->getParam('product');
 
@@ -182,6 +184,7 @@ class AppServiceProvider extends ServiceProvider
 
             $promotions = app(PromotionServiceInterface::class);
             $features = app(StoreFeatureServiceInterface::class);
+            $abandoned = app(AbandonedCartServiceInterface::class);
 
             $manager->addTemplate('admin::cod.promotion-product-card', [
                 'product' => $product,
@@ -193,6 +196,7 @@ class AppServiceProvider extends ServiceProvider
                 'inDailyDeal' => $promotions->isInDailyDeal((int) $product->id),
                 'allowReviews' => $features->allowReviews((int) $product->id),
                 'showInTracking' => $features->showInTracking((int) $product->id),
+                'includeInAbandonedCartReminder' => $abandoned->includeInReminder((int) $product->id),
                 'canEditPromotions' => bouncer()->hasPermission('catalog.products.edit'),
             ]);
         });

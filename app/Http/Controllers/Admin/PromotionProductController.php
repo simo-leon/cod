@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
+use App\Services\AbandonedCart\AbandonedCartServiceInterface;
 use App\Services\Promotions\PromotionServiceInterface;
 use App\Services\StoreFeatures\StoreFeatureServiceInterface;
 use Illuminate\Http\RedirectResponse;
@@ -15,10 +16,11 @@ use Webkul\Product\Models\Product;
  * Simo switches a product in or out of the free-gift offers, the
  * low-stock badge, the buy-2-get-3rd-half offer, the "Frequently
  * bought together" section (as a main product and as a complementary
- * product), the daily deals, customer reviews, and order tracking,
- * from the admin product edit page. A product without a row
- * participates in all of these (whenever the other conditions
- * hold), except the daily deals, which are opt-in.
+ * product), the daily deals, customer reviews, order tracking,
+ * and the abandoned-cart WhatsApp reminders, from the admin
+ * product edit page. A product without a row participates in
+ * all of these (whenever the other conditions hold), except the
+ * daily deals, which are opt-in.
  */
 class PromotionProductController extends Controller
 {
@@ -35,10 +37,12 @@ class PromotionProductController extends Controller
             'in_daily_deal' => ['required', 'boolean'],
             'allow_reviews' => ['required', 'boolean'],
             'show_in_tracking' => ['required', 'boolean'],
+            'include_in_abandoned_cart_reminder' => ['required', 'boolean'],
         ]);
 
         $promotions = app(PromotionServiceInterface::class);
         $features = app(StoreFeatureServiceInterface::class);
+        $abandoned = app(AbandonedCartServiceInterface::class);
 
         $promotions->setEligibleAsGift(
             (int) $product->id,
@@ -78,6 +82,11 @@ class PromotionProductController extends Controller
         $features->setShowInTracking(
             (int) $product->id,
             (bool) $data['show_in_tracking'],
+        );
+
+        $abandoned->setIncludeInReminder(
+            (int) $product->id,
+            (bool) $data['include_in_abandoned_cart_reminder'],
         );
 
         /*

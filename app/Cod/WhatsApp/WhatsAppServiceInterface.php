@@ -88,6 +88,24 @@ interface WhatsAppServiceInterface
     public function sendReminder(CodOrder $order): array;
 
     /**
+     * Send an abandoned-cart reminder to one phone number (idea 7).
+     * The message text is rendered by the abandoned-cart service;
+     * $templateParams are the Meta template body parameters, in
+     * this order: name, products, total. The template must be
+     * approved by Meta with exactly these three {{1}}..{{3}}
+     * parameters. When no template name is configured
+     * (general.cod_system.whatsapp_messages.meta_abandoned_cart_template_name),
+     * the text is sent as a plain message (Meta: only inside the
+     * 24-hour customer-service window; Evolution: always plain
+     * text). When WhatsApp is disabled or no provider is configured,
+     * nothing is sent and the failure is returned — the caller must
+     * not record the reminder as sent. Never throws.
+     *
+     * @return array{success: bool, message: string, message_id: ?string}
+     */
+    public function sendAbandonedCartReminder(string $phone, string $message, array $templateParams = []): array;
+
+    /**
      * Send the customer a delivery-status notification for one COD
      * order (phase 6). $event is one of 'shipped',
      * 'out_for_delivery', 'delivered' or 'returned'; the message

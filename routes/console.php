@@ -85,3 +85,13 @@ Schedule::command('souk:check-zero-stock')->everyThirtyMinutes();
  * flag stalled claimed tasks as escalated. Runs hourly.
  */
 Schedule::command('souk:escalate')->hourly();
+
+/**
+ * Store features (idea 7): send the WhatsApp reminder for carts
+ * abandoned without ordering. Runs every 15 minutes; the command
+ * itself only reminds carts that were last touched at least
+ * `delay_minutes` (admin, default 60) ago, and at most once per
+ * cart, ever. When the reminders are off, WhatsApp is off, or no
+ * provider is configured, the run skips cleanly.
+ */
+Schedule::command('jemla:send-abandoned-cart-reminders')->everyFifteenMinutes();

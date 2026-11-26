@@ -18,7 +18,9 @@ use Webkul\Product\Models\Product;
  * daily deals, which are opt-in: only a product Simo explicitly
  * marked (in_daily_deal = true) appears there. A row with a flag
  * false means Simo switched that offer off for the product from the
- * admin product edit page.
+ * admin product edit page. The abandoned-cart reminder flag works
+ * the same way: false excludes the product from the reminder
+ * message (a cart with only excluded products gets no reminder).
  */
 class ProductPromotionSetting extends Model
 {
@@ -34,6 +36,7 @@ class ProductPromotionSetting extends Model
         'in_daily_deal',
         'allow_reviews',
         'show_in_tracking',
+        'include_in_abandoned_cart_reminder',
     ];
 
     protected $casts = [
@@ -45,6 +48,7 @@ class ProductPromotionSetting extends Model
         'in_daily_deal' => 'boolean',
         'allow_reviews' => 'boolean',
         'show_in_tracking' => 'boolean',
+        'include_in_abandoned_cart_reminder' => 'boolean',
     ];
 
     public function product(): BelongsTo

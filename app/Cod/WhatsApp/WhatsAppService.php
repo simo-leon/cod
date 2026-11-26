@@ -443,6 +443,57 @@ class WhatsAppService implements WhatsAppServiceInterface
     }
 
     /**
+     * Send an abandoned-cart reminder to one phone number (idea 7).
+     * See WhatsAppServiceInterface for the template rules. Same
+     * guards as sendReminder: nothing is ever sent while WhatsApp
+     * is disabled or no real provider is configured, and the
+     * failure is returned (not raised) so the caller can retry on
+     * the next run without recording the reminder as sent.
+     */
+    public function sendAbandonedCartReminder(string $phone, string $message, array $templateParams = []): array
+    {
+        if (! $this->isEnabled()) {
+            return ['success' => false, 'message' => 'COD WhatsApp is disabled in the admin.', 'message_id' => null];
+        }
+
+        $phone = $this->normalizePhone($phone);
+
+        if ($phone === '') {
+            return ['success' => false, 'message' => 'No phone number given.', 'message_id' => null];
+        }
+
+        $provider = $this->resolveProvider();
+
+        // H2: the log provider "succeeds" without sending anything —
+        // never report a reminder as sent when nothing left the
+        // server (same guard as sendConfirmation / sendReminder).
+        if ($provider instanceof LogWhatsAppProvider) {
+            Log::warning('COD WhatsApp: abandoned-cart reminder NOT sent, no WhatsApp provider is configured', ['phone' => $phone]);
+
+            return ['success' => false, 'message' => 'No WhatsApp provider is configured — the reminder was NOT sent. Configure Meta or Evolution in the admin.', 'message_id' => null];
+        }
+
+        // Business-initiated: on Meta prefer the approved
+        // abandoned-cart template when one is configured, else the
+        // plain text (works only inside the 24-hour window).
+        $templateName = core()->getConfigData(self::MESSAGES_CONFIG_KEY.'.meta_abandoned_cart_template_name');
+
+        if ($provider instanceof MetaWhatsAppProvider && $templateName) {
+            $result = $provider->sendTemplate($phone, $templateName, $provider->getTemplateLanguage(), $templateParams);
+        } else {
+            $result = $provider->sendText($phone, $message);
+
+            if ($provider instanceof MetaWhatsAppProvider && ! $result['success'] && ($result['error_code'] ?? null) === 131047) {
+                $result['message'] .= ' Configure an approved Meta template (COD System → WhatsApp → Meta abandoned-cart template name) to reach customers outside the 24-hour window.';
+            }
+        }
+
+        $this->logMessage(null, CodWhatsAppMessage::DIRECTION_OUT, $phone, $result['text'] ?? $message, $result, $provider->name());
+
+        return $result;
+    }
+
+    /**
      * Send one delivery-status notification to the customer (phase 6).
      *
      * Idempotency: the matching *_notification_sent_at column is

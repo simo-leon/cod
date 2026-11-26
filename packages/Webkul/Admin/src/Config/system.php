@@ -1125,6 +1125,61 @@ return [
     ], [
 
         /**
+         * Store features (idea 7): abandoned-cart WhatsApp reminder.
+         * About an hour after a customer leaves items in the cart
+         * without ordering, they get a WhatsApp message listing the
+         * cart contents with a link back to the cart. One message
+         * per language: the language used is the channel's default
+         * locale. Placeholders: {name} {products} {total} {cart_url}
+         * {store}. The message goes through the existing COD
+         * WhatsApp provider (Meta for production, Evolution for
+         * testing); when no provider is configured nothing is sent.
+         */
+        'key' => 'general.store-features.abandoned-cart',
+        'name' => 'admin::app.configuration.index.general.store-features.abandoned-cart.title',
+        'info' => 'admin::app.configuration.index.general.store-features.abandoned-cart.title-info',
+        'sort' => 3,
+        'fields' => [
+            [
+                'name' => 'status',
+                'title' => 'admin::app.configuration.index.general.store-features.abandoned-cart.status',
+                'info' => 'admin::app.configuration.index.general.store-features.abandoned-cart.status-info',
+                'type' => 'boolean',
+                'default' => true,
+                'channel_based' => true,
+            ], [
+                'name' => 'delay_minutes',
+                'title' => 'admin::app.configuration.index.general.store-features.abandoned-cart.delay-minutes',
+                'info' => 'admin::app.configuration.index.general.store-features.abandoned-cart.delay-minutes-info',
+                'type' => 'number',
+                'default' => 60,
+                'channel_based' => true,
+            ], [
+                'name' => 'message_fr',
+                'title' => 'admin::app.configuration.index.general.store-features.abandoned-cart.message-fr',
+                'info' => 'admin::app.configuration.index.general.store-features.abandoned-cart.message-fr-info',
+                'type' => 'textarea',
+                'default' => "Bonjour {name}, vous avez oublié quelque chose dans votre panier chez {store} :\n{products}\nTotal : {total}\nRetrouvez votre panier ici : {cart_url}",
+                'channel_based' => true,
+            ], [
+                'name' => 'message_ar',
+                'title' => 'admin::app.configuration.index.general.store-features.abandoned-cart.message-ar',
+                'info' => 'admin::app.configuration.index.general.store-features.abandoned-cart.message-ar-info',
+                'type' => 'textarea',
+                'default' => "السلام {name}، نسيتي شي حاجة فالسلة ديالك فـ {store}:\n{products}\nالمجموع: {total}\nرجع للسلة من هنا: {cart_url}",
+                'channel_based' => true,
+            ], [
+                'name' => 'message_en',
+                'title' => 'admin::app.configuration.index.general.store-features.abandoned-cart.message-en',
+                'info' => 'admin::app.configuration.index.general.store-features.abandoned-cart.message-en-info',
+                'type' => 'textarea',
+                'default' => "Hi {name}, you left something in your cart at {store}:\n{products}\nTotal: {total}\nBack to your cart: {cart_url}",
+                'channel_based' => true,
+            ],
+        ],
+    ], [
+
+        /**
          * COD System — WhatsApp (phase 4).
          *
          * Provider choice: Meta (official WhatsApp Cloud API, for
@@ -1287,6 +1342,20 @@ return [
                 'name' => 'meta_reminder_template_name',
                 'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-reminder-template-name',
                 'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-reminder-template-name-info',
+                'type' => 'text',
+                'channel_based' => true,
+            ], [
+                /**
+                 * Idea 7: abandoned-cart reminders. When set, Meta
+                 * sends this approved template instead of the plain
+                 * text (the template must have exactly three body
+                 * parameters, in this order: name, products, total).
+                 * When empty, the message text is sent as plain text
+                 * (Meta: only inside the 24-hour window).
+                 */
+                'name' => 'meta_abandoned_cart_template_name',
+                'title' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-abandoned-cart-template-name',
+                'info' => 'admin::app.configuration.index.general.cod-system.whatsapp-messages.meta-abandoned-cart-template-name-info',
                 'type' => 'text',
                 'channel_based' => true,
             ], [

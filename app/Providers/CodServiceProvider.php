@@ -28,6 +28,8 @@ use App\Cod\Souk\SoukServiceInterface;
 use App\Cod\Souk\SoukSettings;
 use App\Cod\WhatsApp\WhatsAppService;
 use App\Cod\WhatsApp\WhatsAppServiceInterface;
+use App\Services\AbandonedCart\AbandonedCartService;
+use App\Services\AbandonedCart\AbandonedCartServiceInterface;
 use App\Services\Promotions\PromotionService;
 use App\Services\Promotions\PromotionServiceInterface;
 use App\Services\StoreFeatures\StoreFeatureService;
@@ -80,5 +82,7 @@ class CodServiceProvider extends ServiceProvider
         $this->app->singleton(PromotionServiceInterface::class, PromotionService::class);
 
         $this->app->singleton(StoreFeatureServiceInterface::class, StoreFeatureService::class);
+
+        $this->app->singleton(AbandonedCartServiceInterface::class, AbandonedCartService::class);
     }
 }
