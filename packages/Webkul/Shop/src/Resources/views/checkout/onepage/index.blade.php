@@ -62,6 +62,67 @@
         </v-checkout>
     </div>
 
+    {{-- Jemla: pushed to the head styles stack — a bare <style> here
+        would sit inside #app and Vue would drop it when mounting. --}}
+    @pushOnce('styles')
+        <!-- Jemla: subtle nudge animation for the continue-shopping arrow (inline, no asset rebuild) -->
+        <style>
+            @keyframes jemla-continue-nudge {
+                0%, 100% { transform: translateX(0); }
+                50% { transform: translateX(-4px); }
+            }
+
+            @keyframes jemla-continue-nudge-rtl {
+                0%, 100% { transform: translateX(0); }
+                50% { transform: translateX(4px); }
+            }
+
+            .jemla-continue-arrow {
+                animation: jemla-continue-nudge 1.6s ease-in-out infinite;
+            }
+
+            [dir="rtl"] .jemla-continue-arrow {
+                animation-name: jemla-continue-nudge-rtl;
+            }
+
+            @media (prefers-reduced-motion: reduce) {
+                .jemla-continue-arrow {
+                    animation: none;
+                }
+            }
+
+            /* Jemla: sticky order bar on phone format. The Tailwind
+               max-md:fixed / max-md:bottom-0 / max-md:pb-28 utilities are
+               NOT in the compiled shop CSS, so the bar, the column reset
+               and the bottom padding are done here instead — no asset
+               rebuild needed, and it works on the live store as-is. */
+            @media (max-width: 767px) {
+                .jemla-checkout-grid {
+                    padding-bottom: 7rem;
+                }
+
+                .jemla-summary-column {
+                    border: 0 !important;
+                    background: transparent !important;
+                    padding: 0 !important;
+                    box-shadow: none !important;
+                }
+
+                .jemla-order-bar {
+                    position: fixed;
+                    bottom: 0;
+                    left: 0;
+                    right: 0;
+                    z-index: 50;
+                    border-top: 1px solid #e4e4e7;
+                    background: #fff;
+                    padding: 1rem;
+                    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.10);
+                }
+            }
+        </style>
+    @endPushOnce
+
     @pushOnce('scripts')
         <script
             type="text/x-template"
@@ -73,30 +134,34 @@
             </template>
 
             <template v-else>
-                <div class="grid grid-cols-[minmax(0,1fr)_400px] items-start gap-8 max-lg:grid-cols-[1fr] max-lg:gap-6 max-md:gap-5">
+                <div class="jemla-checkout-grid grid grid-cols-[minmax(0,1fr)_400px] items-start gap-8 max-lg:grid-cols-[1fr] max-lg:gap-6 max-md:gap-5">
                     <!-- Included Checkout Summary Blade File For Mobile view -->
                     <div class="hidden max-md:order-2 max-md:block">
                         @include('shop::checkout.onepage.summary')
 
                         @include('shop::checkout.promotions')
+
+                        <!-- Continue shopping: clear button under the offers (Jemla) -->
+                        <a
+                            href="{{ route('shop.home.index') }}"
+                            class="mt-4 flex w-full items-center justify-center gap-2 rounded-lg border border-zinc-300 bg-white px-4 py-3 text-sm font-semibold text-zinc-800 shadow-sm transition hover:border-navyBlue hover:text-navyBlue"
+                        >
+                            <span class="jemla-continue-arrow inline-flex">
+                                <svg class="h-4 w-4 rtl:rotate-180" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+                                    <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+                                </svg>
+                            </span>
+
+                            @lang('shop::app.checkout.cart.index.continue-shopping')
+                        </a>
+
+                        @include('shop::checkout.onepage.trust')
                     </div>
 
                     <div
                         class="overflow-y-auto max-md:order-1 max-md:grid max-md:gap-4"
                         id="steps-container"
                     >
-                        <!-- Continue shopping: back to the store without losing the cart (Jemla) -->
-                        <a
-                            href="{{ route('shop.home.index') }}"
-                            class="inline-flex w-fit items-center gap-1 text-sm font-medium text-blue-700 hover:underline"
-                        >
-                            <svg class="h-4 w-4 rtl:rotate-180" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
-                                <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
-                            </svg>
-
-                            @lang('shop::app.checkout.cart.index.continue-shopping')
-                        </a>
-
                         <!-- Included Addresses Blade File -->
                         <template v-if="['address', 'shipping', 'payment', 'review'].includes(currentStep)">
                             @include('shop::checkout.onepage.address')
@@ -108,15 +173,32 @@
                     </div>
 
                     <!-- Included Checkout Summary Blade File For Desktop view -->
-                    <div class="sticky top-6 block h-max w-full max-w-[400px] rounded-xl border border-zinc-200 bg-white p-6 shadow-sm max-lg:static max-lg:max-w-full max-md:order-3 max-md:p-4">
+                    <div class="jemla-summary-column sticky top-6 block h-max w-full max-w-[400px] rounded-xl border border-zinc-200 bg-white p-6 shadow-sm max-lg:static max-lg:max-w-full max-md:order-3">
                         <div class="block max-md:hidden">
                             @include('shop::checkout.onepage.summary')
 
                             @include('shop::checkout.promotions')
+
+                            <!-- Continue shopping: clear button under the offers (Jemla) -->
+                            <a
+                                href="{{ route('shop.home.index') }}"
+                                class="mt-4 flex w-full items-center justify-center gap-2 rounded-lg border border-zinc-300 bg-white px-4 py-3 text-sm font-semibold text-zinc-800 shadow-sm transition hover:border-navyBlue hover:text-navyBlue"
+                            >
+                                <span class="jemla-continue-arrow inline-flex">
+                                    <svg class="h-4 w-4 rtl:rotate-180" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+                                    </svg>
+                                </span>
+
+                                @lang('shop::app.checkout.cart.index.continue-shopping')
+                            </a>
+
+                            @include('shop::checkout.onepage.trust')
                         </div>
 
+                        <!-- Jemla: sticky order bar at the bottom on mobile only -->
                         <div
-                            class="flex justify-end"
+                            class="jemla-order-bar flex justify-end"
                             v-if="canPlaceOrder"
                         >
                             <template v-if="(selectedPaymentMethod || cart.payment_method) == 'paypal_smart_button'">

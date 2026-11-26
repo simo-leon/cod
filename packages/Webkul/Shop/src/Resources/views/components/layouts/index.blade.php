@@ -232,6 +232,16 @@
                         from { opacity: 0; transform: translateY(16px); }
                         to { opacity: 1; transform: translateY(0); }
                     }
+
+                    /* Jemla: on phone format, lift the WhatsApp button
+                       above the sticky "Passer la commande" bar on the
+                       checkout page so it never covers the order button.
+                       (!important wins over the inline bottom:24px.) */
+                    @media (max-width: 768px) {
+                        #wa-floating-widget {
+                            bottom: 96px !important;
+                        }
+                    }
                 </style>
             @endif
         @endif

@@ -431,36 +431,4 @@
     </p>
 
     {!! view_render_event('bagisto.shop.checkout.onepage.summary.grand_total.after') !!}
-
-    <!-- Moroccan E-Commerce Trust Badges -->
-    <div class="mt-6 rounded-xl border border-emerald-100 bg-emerald-50/70 p-4 text-xs text-zinc-700">
-        <div class="space-y-3">
-            <div class="flex items-center gap-2.5">
-                <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">💵</span>
-                <div>
-                    <p class="font-bold text-zinc-900">@lang('shop::app.checkout.onepage.summary.cod-title')</p>
-                    <p class="text-[11px] text-zinc-500">@lang('shop::app.checkout.onepage.summary.cod-desc')</p>
-                </div>
-            </div>
-
-            <div class="flex items-center gap-2.5">
-                <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">🚚</span>
-                <div>
-                    <p class="font-bold text-zinc-900">@lang('shop::app.checkout.onepage.summary.delivery-title')</p>
-                    <p class="text-[11px] text-zinc-500">@lang('shop::app.checkout.onepage.summary.delivery-desc')</p>
-                </div>
-            </div>
-
-            <div class="flex items-center gap-2.5">
-                <span class="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-emerald-100 text-sm text-emerald-700">🔄</span>
-                <div>
-                    <p class="font-bold text-zinc-900">@lang('shop::app.checkout.onepage.summary.guarantee-title')</p>
-                    <p class="text-[11px] text-zinc-500">@lang('shop::app.checkout.onepage.summary.guarantee-desc')</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Estimated Delivery Timeline -->
-    @include('shop::checkout.onepage.delivery-timeline')
 </div>
