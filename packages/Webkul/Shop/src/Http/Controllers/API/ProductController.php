@@ -182,12 +182,22 @@ class ProductController extends APIController
             return ProductCardResource::collection(collect());
         }
 
+        /*
+            Jemla: stable shuffle — one pseudo-random order per product
+            per day. inRandomOrder() re-shuffled on every page, so pages
+            overlapped and the related grid stalled at ~30 of 48
+            products (measured 2026-11-26) instead of ever reaching the
+            whole pool. MD5(seed + id) is a fixed pseudo-random order,
+            so pagination is disjoint and the grid can load everything.
+        */
+        $seed = $id.'-'.now()->format('Y-m-d');
+
         $query = $this->productRepository->getModel()->newQuery()
             ->whereHas('categories', function ($q) use ($categoryIds) {
                 $q->whereIn('category_id', $categoryIds);
             })
             ->where('id', '<>', $product->id)
-            ->inRandomOrder()
+            ->orderByRaw('MD5(CONCAT(?, products.id))', [$seed])
             ->distinct();
 
         $relatedProducts = $query->paginate($perPage, ['*'], 'page', $page);

@@ -7,6 +7,12 @@
         the first paint and the hydrated grid. A product-grid topic
         may pass its own columns ($columnsDesktop / $columnsMobile);
         empty means "use the global setting".
+
+        $infiniteScroll (default false): when true — the related
+        products on the product page — the grid auto-loads the next
+        page every time the user scrolls to the bottom, with no cap
+        and no button, until the endpoint runs out of products.
+        Homepage sections keep the fixed count + "view all" link.
     */
     $gridDesktopColumns = min(6, max(2, (int) (($columnsDesktop ?? null) ?: (core()->getConfigData('general.homepage.settings.grid_columns_desktop') ?? 4))));
 
@@ -179,11 +185,33 @@
                 </div>
             </div>
 
+            <!-- Scroll Sentinel (Jemla: only for the infinite-scroll grid —
+                 related products — auto-loads the next page on scroll,
+                 no cap, no button, until the endpoint runs out) -->
+            <div
+                v-if="infiniteScroll"
+                ref="scrollSentinel"
+                class="h-6 w-full"
+            ></div>
+
+            <!-- Loading indicator for the next page -->
+            <div
+                v-if="infiniteScroll && isLoadingMore"
+                class="mt-8 flex justify-center items-center gap-3 text-sm font-semibold text-emerald-800"
+            >
+                <svg class="animate-spin h-5 w-5 text-emerald-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                </svg>
+                @lang('shop::app.components.products.grid.loading-more')
+            </div>
+
             <!-- "View all" button (Jemla: no infinite grid / auto-load —
                  one fixed set of products per section, then a single
-                 link to the full listing) -->
+                 link to the full listing; never shown for the
+                 infinite-scroll grid) -->
             <div
-                v-if="navigationLink"
+                v-if="navigationLink && ! infiniteScroll"
                 class="mt-10 flex justify-center"
             >
                 <a
@@ -222,8 +250,12 @@
             data() {
                 return {
                     isLoading: true,
+                    isLoadingMore: false,
                     products: [],
                     links: null,
+                    observer: null,
+                    emptyPages: 0,
+                    infiniteScroll: {{ ($infiniteScroll ?? false) ? 'true' : 'false' }},
                     windowWidth: typeof window !== 'undefined' ? window.innerWidth : 1200,
                     desktopColumns: {{ $gridDesktopColumns }},
                     tabletColumns: {{ $gridTabletColumns }},
@@ -270,11 +302,20 @@
             mounted() {
                 this.injectGridStyles();
                 this.getProducts();
+
+                if (typeof window !== 'undefined') {
+                    window.addEventListener('scroll', this.onPageScroll, { passive: true });
+                }
             },
 
             beforeUnmount() {
                 if (typeof window !== 'undefined') {
                     window.removeEventListener('resize', this.updateWindowWidth);
+                    window.removeEventListener('scroll', this.onPageScroll);
+                }
+
+                if (this.observer) {
+                    this.observer.disconnect();
                 }
             },
 
@@ -317,6 +358,44 @@
 
                 getProducts() {
                     /*
+                        Jemla: the infinite-scroll grid (related products)
+                        loads its first page here and lets the scroll
+                        sentinel load the rest — no cap, no button — until
+                        the endpoint runs out of products. The fixed-count
+                        grid (homepage sections) keeps the logic below.
+                    */
+                    const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
+
+                    if (this.infiniteScroll) {
+                        this.$axios.get(this.src)
+                            .then(response => {
+                                this.isLoading = false;
+
+                                this.products = (response.data.data || []).filter(product => {
+                                    if (seen.has(product.id)) {
+                                        return false;
+                                    }
+
+                                    seen.add(product.id);
+
+                                    return true;
+                                });
+
+                                this.links = response.data.links || null;
+
+                                this.$nextTick(() => {
+                                    this.initObserver();
+                                });
+                            })
+                            .catch(error => {
+                                this.isLoading = false;
+                                console.error(error);
+                            });
+
+                        return;
+                    }
+
+                    /*
                         Jemla: no infinite grid / auto-load — one fixed
                         set of products per section. The count comes
                         from the `limit` of the section's own src URL
@@ -326,8 +405,6 @@
                         the section is full, so it never ends up short
                         just because its first page overlapped one.
                     */
-                    const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
-
                     let desired = 12;
 
                     try {
@@ -365,6 +442,129 @@
                     };
 
                     loadPage(this.src, 3);
+                },
+
+                initObserver() {
+                    /*
+                        Jemla: infinite-scroll grid only (related products).
+                        Restored from the pre-b7793a3 grid — b7793a3 removed
+                        this observer along with the "load more" button and
+                        capped every grid at a fixed count (12 for related,
+                        whose src carries no `limit`), which is why related
+                        products stopped growing on scroll. Unlike the old
+                        version there is no auto-load cap and no button:
+                        scrolling keeps loading until the endpoint ends.
+                    */
+                    if (this.observer) {
+                        this.observer.disconnect();
+                    }
+
+                    if (! this.$refs.scrollSentinel) {
+                        return;
+                    }
+
+                    this.observer = new IntersectionObserver((entries) => {
+                        const entry = entries[0];
+
+                        if (entry && entry.isIntersecting) {
+                            if (this.links && this.links.next && ! this.isLoadingMore) {
+                                this.loadMoreProducts();
+                            }
+                        }
+                    }, {
+                        rootMargin: '200px 0px',
+                        threshold: 0.1,
+                    });
+
+                    this.observer.observe(this.$refs.scrollSentinel);
+                },
+
+                loadMoreProducts() {
+                    if (! this.links || ! this.links.next || this.isLoadingMore) {
+                        return;
+                    }
+
+                    this.isLoadingMore = true;
+
+                    this.$axios.get(this.links.next)
+                        .then(response => {
+                            this.isLoadingMore = false;
+
+                            /* Jemla: skip products already shown on this page (see getProducts). */
+                            const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
+
+                            const fresh = (response.data.data || []).filter(product => {
+                                if (seen.has(product.id)) {
+                                    return false;
+                                }
+
+                                seen.add(product.id);
+
+                                return true;
+                            });
+
+                            if (! fresh.length) {
+                                /*
+                                    The related endpoint shuffles
+                                    (inRandomOrder), so a page can repeat
+                                    products already shown. A few empty
+                                    pages in a row means the pool is
+                                    exhausted — stop instead of paging
+                                    forever through repeats.
+                                */
+                                this.emptyPages++;
+
+                                if (this.emptyPages >= 3) {
+                                    this.links = null;
+
+                                    if (this.observer) {
+                                        this.observer.disconnect();
+                                    }
+
+                                    return;
+                                }
+                            } else {
+                                this.emptyPages = 0;
+                            }
+
+                            this.products = [...this.products, ...fresh];
+                            this.links = response.data.links || null;
+
+                            this.$nextTick(() => {
+                                if (this.$refs.scrollSentinel && this.observer) {
+                                    this.observer.observe(this.$refs.scrollSentinel);
+                                }
+                            });
+                        })
+                        .catch(error => {
+                            this.isLoadingMore = false;
+                            console.error(error);
+                        });
+                },
+
+                onPageScroll() {
+                    /*
+                        Jemla: infinite-scroll grid only. The sentinel
+                        never intersects when the user jumps straight to
+                        the bottom of the page (End key, fast flick):
+                        the grid ends above the FAQ/footer, so the
+                        sentinel sits above the viewport and no more
+                        pages would ever load. Near the bottom of the
+                        page, load the next page directly.
+                    */
+                    if (! this.infiniteScroll || this.isLoading || this.isLoadingMore) {
+                        return;
+                    }
+
+                    if (! this.links || ! this.links.next) {
+                        return;
+                    }
+
+                    const nearBottom = (document.documentElement.scrollHeight - window.scrollY - window.innerHeight) < 100;
+
+                    if (nearBottom) {
+                        this.loadMoreProducts();
+                    }
                 },
 
                 getWhatsAppUrl(product) {

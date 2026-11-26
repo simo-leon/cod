@@ -394,10 +394,11 @@
         </x-shop::accordion>
     </div>
 
-    <!-- Related Products -->
+    <!-- Related Products (Jemla: endless auto-load on scroll — no cap, no button) -->
     <x-shop::products.grid
         :title="trans('shop::app.products.view.related-product-title')"
         :src="route('shop.api.products.related.index', ['id' => $product->id])"
+        :infinite-scroll="true"
     />
 
     <!-- Frequently bought together -->
