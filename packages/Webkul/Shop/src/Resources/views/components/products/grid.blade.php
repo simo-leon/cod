@@ -179,31 +179,20 @@
                 </div>
             </div>
 
-            <!-- Scroll Sentinel (Target for IntersectionObserver) -->
-            <div ref="scrollSentinel" class="h-6 w-full"></div>
-
-            <!-- Loading indicator for next page -->
-            <div v-if="isLoadingMore" class="mt-8 flex justify-center items-center gap-3 text-sm font-semibold text-emerald-800">
-                <svg class="animate-spin h-5 w-5 text-emerald-600" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
-                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                </svg>
-                @lang('shop::app.components.products.grid.loading-more')
-            </div>
-
-            <!-- "Voir plus / عرض المزيد" button after max automatic loads reached -->
+            <!-- "View all" button (Jemla: no infinite grid / auto-load —
+                 one fixed set of products per section, then a single
+                 link to the full listing) -->
             <div
-                v-if="links && links.next && autoLoadCount >= maxAutoLoads && ! isLoadingMore"
+                v-if="navigationLink"
                 class="mt-10 flex justify-center"
             >
-                <button
-                    type="button"
-                    @click="loadMoreProducts(true)"
+                <a
+                    :href="navigationLink"
                     class="inline-flex items-center gap-2 rounded-2xl bg-navyBlue px-10 py-3.5 text-center text-base font-bold text-white shadow-md transition hover:bg-black active:scale-[0.98] max-md:rounded-lg max-md:px-6 max-md:py-2.5 max-sm:text-sm"
                 >
-                    @lang('shop::app.components.products.grid.load-more')
-                    <span class="icon-arrow-down text-lg"></span>
-                </button>
+                    @lang('shop::app.components.products.grid.view-all')
+                    <span class="icon-arrow-right rtl:icon-arrow-left text-lg"></span>
+                </a>
             </div>
         </div>
 
@@ -233,12 +222,8 @@
             data() {
                 return {
                     isLoading: true,
-                    isLoadingMore: false,
                     products: [],
                     links: null,
-                    autoLoadCount: 0,
-                    maxAutoLoads: 2,
-                    observer: null,
                     windowWidth: typeof window !== 'undefined' ? window.innerWidth : 1200,
                     desktopColumns: {{ $gridDesktopColumns }},
                     tabletColumns: {{ $gridTabletColumns }},
@@ -291,10 +276,6 @@
                 if (typeof window !== 'undefined') {
                     window.removeEventListener('resize', this.updateWindowWidth);
                 }
-
-                if (this.observer) {
-                    this.observer.disconnect();
-                }
             },
 
             methods: {
@@ -335,103 +316,55 @@
                 },
 
                 getProducts() {
-                    this.$axios.get(this.src)
-                        .then(response => {
-                            this.isLoading = false;
+                    /*
+                        Jemla: no infinite grid / auto-load — one fixed
+                        set of products per section. The count comes
+                        from the `limit` of the section's own src URL
+                        (the admin homepage limit, default 12). Because a
+                        section never shows a product already shown by
+                        an earlier section, keep following pages until
+                        the section is full, so it never ends up short
+                        just because its first page overlapped one.
+                    */
+                    const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
 
-                            /*
-                                Jemla: never show the same product twice on one
-                                homepage (see v-products-carousel). Register the
-                                ids shown here so later sections skip them.
-                            */
-                            const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
+                    let desired = 12;
 
-                            this.products = (response.data.data || []).filter(product => {
-                                if (seen.has(product.id)) {
-                                    return false;
-                                }
+                    try {
+                        const limit = new URL(this.src, window.location.origin).searchParams.get('limit');
 
-                                seen.add(product.id);
-
-                                return true;
-                            });
-
-                            this.links = response.data.links || null;
-
-                            this.$nextTick(() => {
-                                this.initObserver();
-                            });
-                        })
-                        .catch(error => {
-                            this.isLoading = false;
-                            console.error(error);
-                        });
-                },
-
-                initObserver() {
-                    if (this.observer) {
-                        this.observer.disconnect();
-                    }
-
-                    if (! this.$refs.scrollSentinel) {
-                        return;
-                    }
-
-                    this.observer = new IntersectionObserver((entries) => {
-                        const entry = entries[0];
-                        if (entry && entry.isIntersecting) {
-                            if (this.links && this.links.next && ! this.isLoadingMore && this.autoLoadCount < this.maxAutoLoads) {
-                                this.loadMoreProducts(false);
-                            }
+                        if (limit) {
+                            desired = Math.min(48, Math.max(1, parseInt(limit, 10) || 12));
                         }
-                    }, {
-                        rootMargin: '200px 0px',
-                        threshold: 0.1,
-                    });
+                    } catch (e) {}
 
-                    this.observer.observe(this.$refs.scrollSentinel);
-                },
+                    const loadPage = (url, pagesLeft) => {
+                        this.$axios.get(url)
+                            .then(response => {
+                                const fresh = (response.data.data || []).filter(product => ! seen.has(product.id));
+                                const needed = desired - this.products.length;
+                                const kept = fresh.slice(0, needed);
 
-                loadMoreProducts(isManualClick = false) {
-                    if (! this.links || ! this.links.next || this.isLoadingMore) {
-                        return;
-                    }
+                                kept.forEach(product => seen.add(product.id));
 
-                    this.isLoadingMore = true;
+                                this.products = [...this.products, ...kept];
+                                this.links = response.data.links || null;
 
-                    this.$axios.get(this.links.next)
-                        .then(response => {
-                            this.isLoadingMore = false;
+                                const next = this.links && this.links.next;
 
-                            /* Jemla: skip products already shown on this page (see getProducts). */
-                            const seen = window.__jemlaShownProductIds || (window.__jemlaShownProductIds = new Set());
-                            const newProducts = (response.data.data || []).filter(product => {
-                                if (seen.has(product.id)) {
-                                    return false;
+                                if (this.products.length < desired && next && pagesLeft > 0) {
+                                    loadPage(next, pagesLeft - 1);
+                                } else {
+                                    this.isLoading = false;
                                 }
-
-                                seen.add(product.id);
-
-                                return true;
+                            })
+                            .catch(error => {
+                                this.isLoading = false;
+                                console.error(error);
                             });
+                    };
 
-                            this.products = [...this.products, ...newProducts];
-                            this.links = response.data.links || null;
-
-                            if (! isManualClick) {
-                                this.autoLoadCount++;
-                            }
-
-                            this.$nextTick(() => {
-                                if (this.$refs.scrollSentinel && this.observer) {
-                                    this.observer.observe(this.$refs.scrollSentinel);
-                                }
-                            });
-                        })
-                        .catch(error => {
-                            this.isLoadingMore = false;
-                            console.error(error);
-                        });
+                    loadPage(this.src, 3);
                 },
 
                 getWhatsAppUrl(product) {

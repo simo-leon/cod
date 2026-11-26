@@ -65,6 +65,21 @@
                     class="min-w-[291px] max-md:h-fit max-md:min-w-56 max-sm:min-w-[192px]"
                     v-for="product in products"
                 />
+
+                <!-- "View all" card (Jemla: inside the carousel scroll, after
+                     the last product — only when the section links somewhere,
+                     e.g. never for cart cross-sell) -->
+                <a
+                    :href="navigationLink"
+                    v-if="navigationLink"
+                    class="flex min-w-[291px] max-md:min-w-56 max-sm:min-w-[192px] flex-col items-center justify-center gap-3 self-stretch whitespace-normal rounded-2xl border border-gray-200 bg-gray-50 px-6 py-8 text-center transition hover:bg-gray-100"
+                >
+                    <span class="text-lg font-bold text-gray-900">
+                        @lang('shop::app.components.products.carousel.view-all')
+                    </span>
+
+                    <span class="icon-arrow-right rtl:icon-arrow-left text-2xl text-emerald-700"></span>
+                </a>
             </div>
 
             <a

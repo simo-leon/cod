@@ -4,15 +4,12 @@
     /*
         Jemla: default number of products per homepage carousel/grid
         section (Configuration → General → Homepage), used when the
-        section itself has no limit saved. Only a value the storefront
-        toolbar accepts is used, so the API never silently replaces
-        it with 12.
+        section itself has no limit saved. The value is used directly
+        (clamped 1..48) — it must NOT be checked against the category
+        toolbar's per-page list (12, 24, 36, 48), or a limit of 16
+        would silently be replaced by 12 in the API.
     */
-    $homepageDefaultLimit = (int) (core()->getConfigData('general.homepage.settings.carousel_products_limit') ?: 12);
-
-    if (! in_array($homepageDefaultLimit, product_toolbar()->getAvailableLimits()->toArray())) {
-        $homepageDefaultLimit = product_toolbar()->getDefaultLimit();
-    }
+    $homepageDefaultLimit = min(48, max(1, (int) (core()->getConfigData('general.homepage.settings.carousel_products_limit') ?: 12)));
 
     /*
         Jemla: the daily-deals section used to be hard-coded at the

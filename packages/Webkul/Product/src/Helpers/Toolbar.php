@@ -118,13 +118,17 @@ class Toolbar
          */
         $limit = (int) ($params['limit'] ?? $this->getDefaultLimit());
 
-        /**
-         * If the 'limit' parameter is present but value not present
-         * in available limits, use the default value instead.
-         */
-        return in_array($limit, $this->getAvailableLimits()->toArray())
-            ? $limit
-            : $this->getDefaultLimit();
+        /*
+            Jemla: the requested limit is used directly (clamped
+            1..48) instead of being restricted to the toolbar's
+            per-page list (12, 24, 36, 48) — otherwise a homepage
+            limit of 16 would silently be replaced by 12, and a
+            homepage section could never show exactly 16 products.
+            Category pages are unaffected in practice: the toolbar
+            only offers 12/24/36/48, and a hand-typed limit is now
+            honoured (clamped) instead of falling back to 12.
+        */
+        return min(48, max(1, $limit));
     }
 
     /**
