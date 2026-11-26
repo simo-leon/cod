@@ -269,6 +269,20 @@
                         links: {},
 
                         loader: false,
+
+                        /*
+                            Jemla: progressive listing — the first 12 products
+                            render fast, then 12-product chunks stream in
+                            automatically until the toolbar batch (limit,
+                            default 48) is complete; only then does the
+                            "see more" button appear. batchLoaded counts the
+                            products loaded in the current batch, and
+                            listingRequestId invalidates a streaming chain
+                            superseded by a filter/sort/limit change.
+                        */
+                        batchLoaded: 0,
+
+                        listingRequestId: 0,
                     }
                 },
 
@@ -303,6 +317,21 @@
                         this.filters[type] = {};
                     },
 
+                    /*
+                        Batch target: the toolbar limit (default 48),
+                        capped at 48 — the server caps a listing batch
+                        at 48 products.
+                    */
+                    batchTarget() {
+                        let limit = parseInt(this.queryParams.limit ?? 48, 10);
+
+                        if (isNaN(limit) || limit < 1) {
+                            limit = 48;
+                        }
+
+                        return Math.min(limit, 48);
+                    },
+
                     getProducts() {
                         this.isDrawerActive = {
                             toolbar: false,
@@ -310,16 +339,81 @@
                             filter: false,
                         };
 
+                        /*
+                            Jemla: show the shimmer (instead of the empty
+                            state) while a new filter/sort/limit reloads —
+                            getProducts now resets products to [] first.
+                        */
+                        this.isLoading = true;
+
+                        this.products = [];
+
+                        this.links = {};
+
+                        this.batchLoaded = 0;
+
+                        this.loader = false;
+
+                        const requestId = ++this.listingRequestId;
+
                         this.$axios.get(("{{ route('shop.api.products.index') }}"), {
-                            params: this.queryParams
+                            params: { ...this.queryParams, limit: 12 }
                         })
                             .then(response => {
+                                if (requestId !== this.listingRequestId) {
+                                    return;
+                                }
+
                                 this.isLoading = false;
 
                                 this.products = response.data.data;
 
                                 this.links = response.data.links;
+
+                                this.batchLoaded = response.data.data.length;
+
+                                this.streamNextChunks(requestId);
                             }).catch(error => {
+                                console.log(error);
+                            });
+                    },
+
+                    /*
+                        Keep streaming 12-product chunks automatically
+                        (no click, no scroll) until the batch is complete
+                        or there are no more products. While streaming,
+                        loader stays true so the "see more" button stays
+                        hidden and the spinner shows below the grid.
+                    */
+                    streamNextChunks(requestId) {
+                        if (
+                            requestId !== this.listingRequestId
+                            || this.batchLoaded >= this.batchTarget()
+                            || ! this.links.next
+                        ) {
+                            this.loader = false;
+
+                            return;
+                        }
+
+                        this.loader = true;
+
+                        this.$axios.get(this.links.next)
+                            .then(response => {
+                                if (requestId !== this.listingRequestId) {
+                                    return;
+                                }
+
+                                this.products = [...this.products, ...response.data.data];
+
+                                this.links = response.data.links;
+
+                                this.batchLoaded += response.data.data.length;
+
+                                this.streamNextChunks(requestId);
+                            }).catch(error => {
+                                this.loader = false;
+
                                 console.log(error);
                             });
                     },
@@ -329,14 +423,24 @@
                             return;
                         }
 
+                        this.batchLoaded = 0;
+
                         this.loader = true;
 
+                        const requestId = this.listingRequestId;
+
                         this.$axios.get(this.links.next).then(response => {
-                            this.loader = false;
+                            if (requestId !== this.listingRequestId) {
+                                return;
+                            }
 
                             this.products = [...this.products, ...response.data.data];
 
                             this.links = response.data.links;
+
+                            this.batchLoaded = response.data.data.length;
+
+                            this.streamNextChunks(requestId);
                         }).catch(error => {
                             this.loader = false;
 
