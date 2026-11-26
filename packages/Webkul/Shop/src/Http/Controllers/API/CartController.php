@@ -72,8 +72,12 @@ class CartController extends APIController
             $response = [];
 
             if (request()->get('is_buy_now')) {
-                Cart::deActivateCart();
-
+                /*
+                    Jemla: Buy Now adds to the cart that is already
+                    there — it must NOT empty it. Bagisto deactivates
+                    the current cart here, so buying a second product
+                    silently threw the first one away.
+                */
                 $response['redirect'] = route('shop.checkout.onepage.index');
             }
 

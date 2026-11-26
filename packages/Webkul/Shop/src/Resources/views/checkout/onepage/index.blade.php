@@ -85,6 +85,18 @@
                         class="overflow-y-auto max-md:order-1 max-md:grid max-md:gap-4"
                         id="steps-container"
                     >
+                        <!-- Continue shopping: back to the store without losing the cart (Jemla) -->
+                        <a
+                            href="{{ route('shop.home.index') }}"
+                            class="inline-flex w-fit items-center gap-1 text-sm font-medium text-blue-700 hover:underline"
+                        >
+                            <svg class="h-4 w-4 rtl:rotate-180" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+                            </svg>
+
+                            @lang('shop::app.checkout.cart.index.continue-shopping')
+                        </a>
+
                         <!-- Included Addresses Blade File -->
                         <template v-if="['address', 'shipping', 'payment', 'review'].includes(currentStep)">
                             @include('shop::checkout.onepage.address')
