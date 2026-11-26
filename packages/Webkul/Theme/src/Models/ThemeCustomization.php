@@ -78,6 +78,59 @@ class ThemeCustomization extends TranslatableModel implements ThemeCustomization
     public const SERVICES_CONTENT = 'services_content';
 
     /**
+     * Daily-deals countdown section (Jemla: a topic in the type
+     * dropdown, so Simo can place it anywhere on the homepage and
+     * give it its own duration/limit instead of only the global
+     * Homepage settings).
+     *
+     * @var string
+     */
+    public const DEALS_COUNTDOWN = 'deals_countdown';
+
+    /**
+     * Notification bar section (Jemla: a topic in the type
+     * dropdown, with its own per-locale message/link — the
+     * site-wide header bar stays in Configuration → General →
+     * Homepage / header offer).
+     *
+     * @var string
+     */
+    public const NOTIFICATION_BAR = 'notification_bar';
+
+    /**
+     * Best sellers section (Jemla: products ranked by ordered
+     * quantity — Amazon "Best Sellers" / AliExpress "Top Rankings").
+     *
+     * @var string
+     */
+    public const BEST_SELLERS = 'best_sellers';
+
+    /**
+     * Shop by category section (Jemla: image tiles per top-level
+     * category — Amazon "Shop by Category" / Shopify featured
+     * collections).
+     *
+     * @var string
+     */
+    public const SHOP_BY_CATEGORY = 'shop_by_category';
+
+    /**
+     * Customer reviews section (Jemla: latest approved product
+     * reviews — Shopify social proof).
+     *
+     * @var string
+     */
+    public const CUSTOMER_REVIEWS = 'customer_reviews';
+
+    /**
+     * Trust badges section (Jemla: COD promises — Shopify trust
+     * bar / COD landing-page trust signals).
+     *
+     * @var string
+     */
+    public const TRUST_BADGES = 'trust_badges';
+
+    /**
      * Cast options field to array.
      *
      * @var array

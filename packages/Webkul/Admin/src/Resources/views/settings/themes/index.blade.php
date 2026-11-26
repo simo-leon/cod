@@ -207,6 +207,12 @@
                             image_carousel: "@lang('admin::app.settings.themes.create.type.image-carousel')",
                             footer_links: "@lang('admin::app.settings.themes.create.type.footer-links')",
                             services_content: "@lang('admin::app.settings.themes.create.type.services-content')",
+                            deals_countdown: "@lang('admin::app.settings.themes.create.type.deals-countdown')",
+                            notification_bar: "@lang('admin::app.settings.themes.create.type.notification-bar')",
+                            best_sellers: "@lang('admin::app.settings.themes.create.type.best-sellers')",
+                            shop_by_category: "@lang('admin::app.settings.themes.create.type.shop-by-category')",
+                            customer_reviews: "@lang('admin::app.settings.themes.create.type.customer-reviews')",
+                            trust_badges: "@lang('admin::app.settings.themes.create.type.trust-badges')",
                         },
 
                         isLoading: false,

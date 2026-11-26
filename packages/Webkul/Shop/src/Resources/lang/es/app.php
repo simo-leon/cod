@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'Carrusel de categorías',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'Carrusel de imágenes',
             'offer' => 'Obtén HASTA 40% DE DESCUENTO en tu primer pedido, COMPRA AHORA',
             'product-carousel' => 'Carrusel de productos',
             'resend-verify-email' => 'Reenviar correo de verificación',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'Verifica tu cuenta de correo electrónico',
         ],
 

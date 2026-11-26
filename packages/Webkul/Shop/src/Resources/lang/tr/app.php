@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'Kategoriler',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'Görseller',
             'offer' => 'İlk siparişe özel %40 indirim fırsatı!',
             'product-carousel' => 'Ürünler',
             'resend-verify-email' => 'Doğrulama e-postasını tekrar gönder',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'E-posta adresinizi doğrulayın',
         ],
 

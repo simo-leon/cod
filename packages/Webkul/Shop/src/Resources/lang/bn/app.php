@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'ক্যাটাগরি ক্যারোসেল',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'ইমেজ ক্যারোসেল',
             'offer' => 'আপনার প্রথম অর্ডারে ৪০% পর্যন্ত ছাড় পান, এখনই কেনাকাটা করুন',
             'product-carousel' => 'প্রোডাক্ট ক্যারোসেল',
             'resend-verify-email' => 'যাচাইকরণ ইমেল পুনরায় পাঠান',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'আপনার ইমেল অ্যাকাউন্ট যাচাই করুন',
         ],
 

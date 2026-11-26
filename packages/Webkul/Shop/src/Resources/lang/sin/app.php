@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'කාණ්ඩ කාරසෙල්',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'රූප කාරසෙල්',
             'offer' => 'ඔබේ පළමු ඇනවුමට 40% ක විශේෂ වට්ටම් ලබා ගන්න, දැන් සෙවීම',
             'product-carousel' => 'නිෂ්පාදන කාරසෙල්',
             'resend-verify-email' => 'තහවුරු කිරීමේ විද්‍යුත් තැපැල් නැවත යවන්න',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'ඔබේ විද්‍යුත් තැපෑල තහවුරු කරන්න',
         ],
 

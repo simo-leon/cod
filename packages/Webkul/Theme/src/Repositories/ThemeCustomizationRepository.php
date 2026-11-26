@@ -105,7 +105,23 @@ class ThemeCustomizationRepository extends Repository
 
         $options = [];
 
-        foreach ($data[$locale]['options'] as $image) {
+        foreach ($data[$locale]['options'] as $key => $image) {
+            /*
+                Jemla: per-topic display settings of the image
+                carousel (autoplay on/off, slide duration) travel
+                under options[display]. They are not slides, so they
+                must not be rebuilt as images — preserve them as-is
+                (empty = the global Homepage setting).
+            */
+            if ($key === 'display') {
+                $options['display'] = [
+                    'autoplay' => in_array($image['autoplay'] ?? '', ['0', '1'], true) ? $image['autoplay'] : '',
+                    'interval' => ($image['interval'] ?? '') !== '' ? max(1, (int) $image['interval']) : '',
+                ];
+
+                continue;
+            }
+
             if (isset($image['service_icon'])) {
                 $options['services'][] = [
                     'service_icon' => $image['service_icon'],
@@ -140,7 +156,21 @@ class ThemeCustomizationRepository extends Repository
         }
 
         $translatedModel = $theme->translate($locale);
+
+        /*
+            Jemla: keep a previously saved image-carousel display
+            setting when this save carried no display fields (e.g.
+            an image-only upload), so the autoplay/interval choice
+            is not silently wiped.
+        */
+        $existingDisplay = $translatedModel->options['display'] ?? null;
+
         $translatedModel->options = $options ?? [];
+
+        if (! isset($translatedModel->options['display']) && $existingDisplay !== null) {
+            $translatedModel->options['display'] = $existingDisplay;
+        }
+
         $translatedModel->theme_customization_id = $theme->id;
         $translatedModel->save();
     }

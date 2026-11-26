@@ -93,7 +93,7 @@
 
                 <!-- Limit -->
                 <x-admin::form.control-group>
-                    <x-admin::form.control-group.label class="required">
+                    <x-admin::form.control-group.label>
                         @lang('admin::app.settings.themes.edit.limit')
                     </x-admin::form.control-group.label>
 
@@ -101,7 +101,6 @@
                         type="select"
                         name="{{ $currentLocale->code }}[options][filters][limit]"
                         v-slot="{ field }"
-                        rules="required"
                         value="{{ $theme->translate($currentLocale->code)->options['filters']['limit'] ?? '' }}"
                         label="@lang('admin::app.settings.themes.edit.limit')"
                     >
@@ -111,7 +110,7 @@
                             class="custom-select flex min-h-[39px] w-full rounded-md border border-gray-300 bg-white px-3 py-1.5 text-sm font-normal text-gray-600 transition-all hover:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300 dark:hover:border-gray-400"
                             :class="[errors['options[filters][limit]'] ? 'border border-red-600 hover:border-red-600' : '']"
                         >
-                            <option value="" selected disabled>@lang('admin::app.settings.themes.edit.select')</option>
+                            <option value="" selected>@lang('admin::app.settings.themes.edit.use-global-default')</option>
 
                             @foreach (product_toolbar()->getAvailableLimits() as $availableLimit)
                                 <option value="{{ $availableLimit }}">{{ $availableLimit }}</option>
@@ -121,6 +120,64 @@
 
                     <x-admin::form.control-group.error control-name="{{ $currentLocale->code }}[options][filters][limit]" />
                 </x-admin::form.control-group>
+
+                @if ($theme->type === 'product_grid')
+                    <!-- Columns (desktop) — product grid only -->
+                    <x-admin::form.control-group>
+                        <x-admin::form.control-group.label>
+                            @lang('admin::app.settings.themes.edit.columns-desktop')
+                        </x-admin::form.control-group.label>
+
+                        <v-field
+                            name="{{ $currentLocale->code }}[options][display][columns_desktop]"
+                            v-slot="{ field }"
+                            value="{{ $theme->translate($currentLocale->code)->options['display']['columns_desktop'] ?? '' }}"
+                            label="@lang('admin::app.settings.themes.edit.columns-desktop')"
+                        >
+                            <select
+                                name="{{ $currentLocale->code }}[options][display][columns_desktop]"
+                                v-bind="field"
+                                class="custom-select flex min-h-[39px] w-full rounded-md border bg-white px-3 py-1.5 text-sm font-normal text-gray-600 transition-all hover:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300"
+                            >
+                                <option value="" selected>@lang('admin::app.settings.themes.edit.use-global-default')</option>
+
+                                @foreach ([2, 3, 4, 5, 6] as $columns)
+                                    <option value="{{ $columns }}">{{ $columns }}</option>
+                                @endforeach
+                            </select>
+                        </v-field>
+
+                        <x-admin::form.control-group.error control-name="{{ $currentLocale->code }}[options][display][columns_desktop]" />
+                    </x-admin::form.control-group>
+
+                    <!-- Columns (mobile) — product grid only -->
+                    <x-admin::form.control-group>
+                        <x-admin::form.control-group.label>
+                            @lang('admin::app.settings.themes.edit.columns-mobile')
+                        </x-admin::form.control-group.label>
+
+                        <v-field
+                            name="{{ $currentLocale->code }}[options][display][columns_mobile]"
+                            v-slot="{ field }"
+                            value="{{ $theme->translate($currentLocale->code)->options['display']['columns_mobile'] ?? '' }}"
+                            label="@lang('admin::app.settings.themes.edit.columns-mobile')"
+                        >
+                            <select
+                                name="{{ $currentLocale->code }}[options][display][columns_mobile]"
+                                v-bind="field"
+                                class="custom-select flex min-h-[39px] w-full rounded-md border bg-white px-3 py-1.5 text-sm font-normal text-gray-600 transition-all hover:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300"
+                            >
+                                <option value="" selected>@lang('admin::app.settings.themes.edit.use-global-default')</option>
+
+                                @foreach ([1, 2, 3] as $columns)
+                                    <option value="{{ $columns }}">{{ $columns }}</option>
+                                @endforeach
+                            </select>
+                        </v-field>
+
+                        <x-admin::form.control-group.error control-name="{{ $currentLocale->code }}[options][display][columns_mobile]" />
+                    </x-admin::form.control-group>
+                @endif
 
                 <span class="mb-4 mt-4 block w-full border-b dark:border-gray-800"></span>
 

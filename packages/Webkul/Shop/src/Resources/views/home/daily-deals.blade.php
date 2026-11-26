@@ -9,10 +9,20 @@
     instead of showing 00:00:00.
 --}}
 @php
+    /*
+        Jemla: a deals-countdown topic may override the title, the
+        duration (hours) and how many products show — passed in by
+        the homepage as $dealsTitleOverride / $dealsDurationHours /
+        $dealsLimit. Anything left empty falls back to the global
+        Homepage / promotions settings, so the old hard-coded
+        section behaves exactly as before.
+    */
     $dealsService = app(\App\Services\Promotions\PromotionServiceInterface::class);
-    $dealProducts = $dealsService->dealProducts();
-    $dealsEndsAt = $dealsService->dealsEndsAt();
-    $dealsTitle = $dealsService->dealsTitle() ?? trans('shop::promotions.deals_title');
+    $dealProducts = $dealsService->dealProducts(isset($dealsLimit) && $dealsLimit !== '' ? (int) $dealsLimit : null);
+    $dealsEndsAt = $dealsService->dealsEndsAt(isset($dealsDurationHours) && $dealsDurationHours !== '' ? (int) $dealsDurationHours : null);
+    $dealsTitle = ! empty($dealsTitleOverride ?? null)
+        ? $dealsTitleOverride
+        : ($dealsService->dealsTitle() ?? trans('shop::promotions.deals_title'));
 @endphp
 
 @if ($dealProducts)

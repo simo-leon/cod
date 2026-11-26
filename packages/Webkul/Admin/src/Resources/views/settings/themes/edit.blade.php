@@ -103,6 +103,24 @@
 
                 <!-- Services-content Template -->
                 @includeWhen($theme->type === 'services_content', 'admin::settings.themes.edit.services-content')
+
+                <!-- Deals-Countdown Template -->
+                @includeWhen($theme->type === 'deals_countdown', 'admin::settings.themes.edit.deals-countdown')
+
+                <!-- Notification-Bar Template -->
+                @includeWhen($theme->type === 'notification_bar', 'admin::settings.themes.edit.notification-bar')
+
+                <!-- Best-Sellers Template -->
+                @includeWhen($theme->type === 'best_sellers', 'admin::settings.themes.edit.best-sellers')
+
+                <!-- Shop-by-Category Template -->
+                @includeWhen($theme->type === 'shop_by_category', 'admin::settings.themes.edit.shop-by-category')
+
+                <!-- Customer-Reviews Template -->
+                @includeWhen($theme->type === 'customer_reviews', 'admin::settings.themes.edit.customer-reviews')
+
+                <!-- Trust-Badges Template -->
+                @includeWhen($theme->type === 'trust_badges', 'admin::settings.themes.edit.trust-badges')
             </div>
 
             <!-- General -->

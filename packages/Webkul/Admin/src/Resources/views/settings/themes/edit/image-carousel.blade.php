@@ -30,6 +30,65 @@
                     </div>
                 </div>
 
+                <span class="mb-4 mt-4 block w-full border-b dark:border-gray-800"></span>
+
+                <!--
+                    Jemla: per-slider autoplay + slide duration. Empty =
+                    the global Homepage setting (Configuration → General
+                    → Homepage). Saved under options[display] so the
+                    repository does not mistake them for slides.
+                -->
+                <div class="grid grid-cols-2 gap-2.5 max-sm:grid-cols-1">
+                    <!-- Autoplay -->
+                    <x-admin::form.control-group>
+                        <x-admin::form.control-group.label>
+                            @lang('admin::app.settings.themes.edit.autoplay')
+                        </x-admin::form.control-group.label>
+
+                        <v-field
+                            name="{{ $currentLocale->code }}[options][display][autoplay]"
+                            v-slot="{ field }"
+                            value="{{ $theme->translate($currentLocale->code)->options['display']['autoplay'] ?? '' }}"
+                            label="@lang('admin::app.settings.themes.edit.autoplay')"
+                        >
+                            <select
+                                name="{{ $currentLocale->code }}[options][display][autoplay]"
+                                v-bind="field"
+                                class="custom-select flex min-h-[39px] w-full rounded-md border bg-white px-3 py-1.5 text-sm font-normal text-gray-600 transition-all hover:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300"
+                            >
+                                <option value="" selected>@lang('admin::app.settings.themes.edit.use-global-default')</option>
+                                <option value="1">@lang('admin::app.settings.themes.edit.yes')</option>
+                                <option value="0">@lang('admin::app.settings.themes.edit.no')</option>
+                            </select>
+                        </v-field>
+
+                        <x-admin::form.control-group.error control-name="{{ $currentLocale->code }}[options][display][autoplay]" />
+                    </x-admin::form.control-group>
+
+                    <!-- Slide duration (seconds) -->
+                    <x-admin::form.control-group>
+                        <x-admin::form.control-group.label>
+                            @lang('admin::app.settings.themes.edit.interval-seconds')
+                        </x-admin::form.control-group.label>
+
+                        <v-field
+                            type="text"
+                            name="{{ $currentLocale->code }}[options][display][interval]"
+                            value="{{ $theme->translate($currentLocale->code)->options['display']['interval'] ?? '' }}"
+                            class="flex min-h-[39px] w-full rounded-md border px-3 py-2 text-sm text-gray-600 transition-all hover:border-gray-400 focus:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300 dark:hover:border-gray-400 dark:focus:border-gray-400"
+                            label="@lang('admin::app.settings.themes.edit.interval-seconds')"
+                            placeholder="@lang('admin::app.settings.themes.edit.interval-seconds')"
+                        >
+                        </v-field>
+
+                        <p class="mt-1 text-xs text-gray-500 dark:text-gray-300">
+                            @lang('admin::app.settings.themes.edit.use-global-default')
+                        </p>
+
+                        <x-admin::form.control-group.error control-name="{{ $currentLocale->code }}[options][display][interval]" />
+                    </x-admin::form.control-group>
+                </div>
+
                 <template v-for="(deletedSlider, index) in deletedSliders">
                     <input
                         type="hidden"

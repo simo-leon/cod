@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'श्रेणियाँ कैरोसेल',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'चित्र कैरोसेल',
             'offer' => 'अपनी पहली ऑर्डर पर 40% तक छूट पाएं, अभी खरीदारी करें',
             'product-carousel' => 'उत्पाद कैरोसेल',
             'resend-verify-email' => 'सत्यापन ईमेल फिर से भेजें',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'अपने ईमेल खाते की पुष्टि करें',
         ],
 

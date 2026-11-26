@@ -6,6 +6,7 @@ use Illuminate\Http\RedirectResponse;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\View\View;
 use Webkul\Category\Repositories\CategoryRepository;
+use Webkul\Product\Models\ProductReview;
 use Webkul\Shop\Http\Requests\ContactRequest;
 use Webkul\Shop\Http\Resources\CategoryTreeResource;
 use Webkul\Shop\Mail\ContactUs;
@@ -42,7 +43,29 @@ class HomeController extends Controller
 
         $categories = CategoryTreeResource::collection($categories);
 
-        return view('shop::home.index', compact('customizations', 'categories'));
+        /*
+            Jemla: data for the newer homepage topics, fetched only
+            when such a topic is actually active on the homepage.
+            - shop_by_category: top-level category models (with
+              logo image + url), the tree resource above carries no
+              image.
+            - customer_reviews: latest approved product reviews.
+        */
+        $types = $customizations->pluck('type')->all();
+
+        $shopCategories = in_array('shop_by_category', $types)
+            ? collect($this->categoryRepository->getVisibleCategoryTree(core()->getCurrentChannel()->root_category_id))
+            : collect();
+
+        $latestReviews = in_array('customer_reviews', $types)
+            ? ProductReview::query()
+                ->where('status', 'approved')
+                ->orderByDesc('created_at')
+                ->limit(12)
+                ->get()
+            : collect();
+
+        return view('shop::home.index', compact('customizations', 'categories', 'shopCategories', 'latestReviews'));
     }
 
     /**

@@ -913,8 +913,12 @@ return [
          * products a carousel/grid shows, how many columns the grid
          * has, and how long the daily-deals countdown runs. The
          * individual homepage sections (topics) themselves are
-         * switched on/off from Settings → Themes; these settings
-         * only tune how they render.
+         * switched on/off from Settings → Themes, where each topic
+         * also carries its own overrides (its own limit, columns,
+         * autoplay, duration, texts...) — an empty override falls
+         * back to these global settings. New topic types live in the
+         * same Themes dropdown: countdown, notification bar, best
+         * sellers, shop by category, customer reviews, trust badges.
          */
         'key' => 'general.homepage',
         'name' => 'admin::app.configuration.index.general.homepage.title',

@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'Carousel Kategori',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'Carousel Gambar',
             'offer' => 'Dapatkan DISKON HINGGA 40% untuk pesanan pertama Anda BELI SEKARANG',
             'product-carousel' => 'Carousel Produk',
             'resend-verify-email' => 'Kirim Ulang Email Verifikasi',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'Verifikasi akun email Anda',
         ],
 

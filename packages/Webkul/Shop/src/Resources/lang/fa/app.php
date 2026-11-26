@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'چرخ فلک دسته‌ها',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'چرخ فلک تصاویر',
             'offer' => 'تا ۴۰% تخفیف برای سفارش اول شما، اکنون خرید کنید',
             'product-carousel' => 'چرخ فلک محصولات',
             'resend-verify-email' => 'ارسال دوباره ایمیل تایید',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'ایمیل خود را تأیید کنید',
         ],
 

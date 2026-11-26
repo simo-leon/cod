@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'Categorieën Carrousel',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'Afbeeldingen Carrousel',
             'offer' => 'Krijg TOT 40% KORTING op je eerste bestelling, WINKEL NU',
             'product-carousel' => 'Producten Carrousel',
             'resend-verify-email' => 'Verificatie-e-mail opnieuw verzenden',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'Verifieer je e-mailaccount',
         ],
 

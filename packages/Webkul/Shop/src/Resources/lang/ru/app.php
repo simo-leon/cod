@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'Карусель категорий',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'Карусель изображений',
             'offer' => 'Получите ДО 40% СКИДКИ на ваш первый заказ, ПОКУПАЙТЕ СЕЙЧАС',
             'product-carousel' => 'Карусель продуктов',
             'resend-verify-email' => 'Повторно отправить письмо с подтверждением',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'Подтвердите вашу электронную почту',
         ],
 

@@ -81,7 +81,7 @@
 
                 <!-- Limit -->
                 <x-admin::form.control-group>
-                    <x-admin::form.control-group.label class="required">
+                    <x-admin::form.control-group.label>
                         @lang('admin::app.settings.themes.edit.limit')
                     </x-admin::form.control-group.label>
 
@@ -91,11 +91,14 @@
                         value="{{ $theme->translate($currentLocale->code)->options['filters']['limit'] ?? '' }}"
                         class="flex min-h-[39px] w-full rounded-md border px-3 py-2 text-sm text-gray-600 transition-all hover:border-gray-400 focus:border-gray-400 dark:border-gray-800 dark:bg-gray-900 dark:text-gray-300 dark:hover:border-gray-400 dark:focus:border-gray-400"
                         :class="[errors['{{ $currentLocale->code }}[options][filters][limit]'] ? 'border border-red-600 hover:border-red-600' : '']"
-                        rules="required|min_value:1"
                         label="@lang('admin::app.settings.themes.edit.limit')"
                         placeholder="@lang('admin::app.settings.themes.edit.limit')"
                     >
                     </v-field>
+
+                    <p class="mt-1 text-xs text-gray-500 dark:text-gray-300">
+                        @lang('admin::app.settings.themes.edit.use-global-default')
+                    </p>
 
                     <x-admin::form.control-group.error control-name="{{ $currentLocale->code }}[options][filters][limit]" />
                 </x-admin::form.control-group>

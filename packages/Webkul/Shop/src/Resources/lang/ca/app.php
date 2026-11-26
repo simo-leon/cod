@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'Carrusel de Categories',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'Carrusel d\'Imatges',
             'offer' => 'Obté FINS A un 40% de DESCOMPTE en la teva primera comanda COMPRA ARA',
             'product-carousel' => 'Carrusel de Productes',
             'resend-verify-email' => 'Reenviar Correu de Verificació',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'Verifica el teu compte de correu electrònic',
         ],
 

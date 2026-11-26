@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'カテゴリカルーセル',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => '画像カルーセル',
             'offer' => '初回注文で最大40%オフ、今すぐ購入',
             'product-carousel' => '商品カルーセル',
             'resend-verify-email' => '確認メールを再送信',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'メールアカウントを確認してください',
         ],
 

@@ -1363,11 +1363,12 @@ class PromotionService implements PromotionServiceInterface
      * (Configuration → General → Homepage) counts from midnight:
      * 24 hours ends at midnight tonight, 0 always ends at midnight.
      * The countdown ticks down to this moment; tomorrow it is a new
-     * day with a new countdown.
+     * day with a new countdown. A deals-countdown topic may pass its
+     * own duration in hours (null = the global setting).
      */
-    public function dealsEndsAt(): Carbon
+    public function dealsEndsAt(?int $hours = null): Carbon
     {
-        $hours = (int) (core()->getConfigData('general.homepage.settings.deals_duration_hours') ?? 24);
+        $hours ??= (int) (core()->getConfigData('general.homepage.settings.deals_duration_hours') ?? 24);
 
         return $hours > 0
             ? Carbon::today('Africa/Casablanca')->addHours($hours)

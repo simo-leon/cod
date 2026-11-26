@@ -4,11 +4,13 @@
         (Configuration → General → Homepage). The static <style>
         below, the Vue grid style and the injected global style all
         read the same values, so the columns never disagree between
-        the first paint and the hydrated grid.
+        the first paint and the hydrated grid. A product-grid topic
+        may pass its own columns ($columnsDesktop / $columnsMobile);
+        empty means "use the global setting".
     */
-    $gridDesktopColumns = min(6, max(2, (int) (core()->getConfigData('general.homepage.settings.grid_columns_desktop') ?? 4)));
+    $gridDesktopColumns = min(6, max(2, (int) (($columnsDesktop ?? null) ?: (core()->getConfigData('general.homepage.settings.grid_columns_desktop') ?? 4))));
 
-    $gridMobileColumns = min(3, max(1, (int) (core()->getConfigData('general.homepage.settings.grid_columns_mobile') ?? 2)));
+    $gridMobileColumns = min(3, max(1, (int) (($columnsMobile ?? null) ?: (core()->getConfigData('general.homepage.settings.grid_columns_mobile') ?? 2))));
 
     $gridTabletColumns = min(3, $gridDesktopColumns);
 @endphp

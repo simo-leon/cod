@@ -4,6 +4,7 @@ namespace Webkul\Shop\Http\Controllers\API;
 
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Resources\Json\JsonResource;
+use Illuminate\Support\Facades\DB;
 use Webkul\Category\Repositories\CategoryRepository;
 use Webkul\Marketing\Jobs\UpdateCreateSearchTerm as UpdateCreateSearchTermJob;
 use Webkul\Product\Repositories\ProductRepository;
@@ -114,6 +115,54 @@ class ProductController extends APIController
         $effectiveQuery = $this->productRepository->setSearchEngine($searchEngine)->getSuggestions($originalQuery);
 
         return $effectiveQuery;
+    }
+
+    /**
+     * Best sellers: products ranked by ordered quantity across all
+     * non-canceled orders (Jemla: Amazon "Best Sellers" /
+     * AliExpress "Top Rankings" for the homepage best-sellers
+     * topic). Only products that are currently visible in this
+     * channel/locale are returned, in best-seller order. An empty
+     * store (no orders yet) returns an empty list — the section
+     * simply does not render — rather than invented best sellers.
+     */
+    public function bestSellers(): JsonResource
+    {
+        $limit = max(1, min(50, (int) request()->query('limit', 12)));
+
+        $bestSellerIds = DB::table('order_items')
+            ->join('orders', 'orders.id', '=', 'order_items.order_id')
+            ->where('orders.status', '<>', 'canceled')
+            ->whereNotNull('order_items.product_id')
+            ->groupBy('order_items.product_id')
+            ->orderByRaw('SUM(order_items.qty_ordered) DESC')
+            ->limit($limit)
+            ->pluck('order_items.product_id')
+            ->map(fn ($id) => (int) $id)
+            ->all();
+
+        if (empty($bestSellerIds)) {
+            return ProductCardResource::collection(collect());
+        }
+
+        $channel = core()->getCurrentChannelCode();
+        $locale = core()->getCurrentLocale()->code;
+
+        $products = $this->productRepository->getModel()->newQuery()
+            ->whereIn('id', $bestSellerIds)
+            ->whereExists(function ($query) use ($channel, $locale) {
+                $query->select(DB::raw(1))
+                    ->from('product_flat')
+                    ->whereColumn('product_flat.product_id', 'products.id')
+                    ->where('product_flat.channel', $channel)
+                    ->where('product_flat.locale', $locale)
+                    ->where('product_flat.status', 1);
+            })
+            ->get()
+            ->sortBy(fn ($product) => array_search($product->id, $bestSellerIds))
+            ->values();
+
+        return ProductCardResource::collection($products);
     }
 
     /**

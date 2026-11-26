@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'קרוסלת קטגוריות',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'קרוסלת תמונות',
             'offer' => 'קבל עד 40% הנחה על ההזמנה הראשונה שלך, קנה עכשיו',
             'product-carousel' => 'קרוסלת מוצרים',
             'resend-verify-email' => 'שלח מחדש את מייל האימות',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'אמת את חשבון האימייל שלך',
         ],
 

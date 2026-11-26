@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => '分类轮播',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => '图片轮播',
             'offer' => '首单最高可享40%折扣，立即购买',
             'product-carousel' => '产品轮播',
             'resend-verify-email' => '重新发送验证邮件',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => '验证您的邮箱账户',
         ],
 

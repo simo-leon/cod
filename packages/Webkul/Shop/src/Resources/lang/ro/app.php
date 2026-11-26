@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'Best Sellers',
             'categories-carousel' => 'Carusel categorii',
+            'customer-reviews' => 'Customer Reviews',
             'image-carousel' => 'Carusel imagini',
             'offer' => 'Obțineți până la 40% REDUCERE la prima comandă CUMPĂRĂ ACUM',
             'product-carousel' => 'Carusel produse',
             'resend-verify-email' => 'Retrimite e-mailul de verificare',
+            'shop-by-category' => 'Shop by Category',
             'verify-email' => 'Verificați contul de e-mail',
         ],
 

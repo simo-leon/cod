@@ -1306,11 +1306,14 @@ return [
         ],
 
         'index' => [
+            'best-sellers' => 'الأكثر مبيعًا',
             'categories-carousel' => 'سلاسل الفئات',
+            'customer-reviews' => 'آراء الزبناء',
             'image-carousel' => 'سلاسل الصور',
             'offer' => 'احصل على خصم يصل إلى 40% على طلبك الأول، تسوق الآن',
             'product-carousel' => 'سلاسل المنتجات',
             'resend-verify-email' => 'إعادة إرسال بريد التحقق',
+            'shop-by-category' => 'تسوّق حسب الفئة',
             'verify-email' => 'تحقق من حساب بريدك الإلكتروني',
         ],
 
