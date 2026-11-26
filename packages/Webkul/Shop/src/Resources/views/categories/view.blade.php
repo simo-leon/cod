@@ -17,6 +17,40 @@
     @endif
 @endPush
 
+@php
+    /*
+        Jemla: the product grid columns follow the homepage setting
+        (Configuration → General → Homepage), same values as the
+        homepage products grid — desktop / tablet / mobile.
+    */
+    $gridDesktopColumns = min(6, max(2, (int) (core()->getConfigData('general.homepage.settings.grid_columns_desktop') ?? 4)));
+
+    $gridMobileColumns = min(3, max(1, (int) (core()->getConfigData('general.homepage.settings.grid_columns_mobile') ?? 2)));
+
+    $gridTabletColumns = min(3, $gridDesktopColumns);
+@endphp
+
+@push('styles')
+    <style>
+        .jemla-listing-grid {
+            display: grid;
+            grid-template-columns: repeat({{ $gridDesktopColumns }}, minmax(0, 1fr));
+        }
+
+        @media (max-width: 1024px) and (min-width: 768px) {
+            .jemla-listing-grid {
+                grid-template-columns: repeat({{ $gridTabletColumns }}, minmax(0, 1fr));
+            }
+        }
+
+        @media (max-width: 767px) {
+            .jemla-listing-grid {
+                grid-template-columns: repeat({{ $gridMobileColumns }}, minmax(0, 1fr));
+            }
+        }
+    </style>
+@endPush
+
 <x-shop::layouts>
     <!-- Page Title -->
     <x-slot:title>
@@ -126,7 +160,7 @@
                         <div v-else class="mt-8 max-md:mt-5">
                             <!-- Product Card Shimmer Effect -->
                             <template v-if="isLoading">
-                                <div class="grid grid-cols-3 gap-8 max-1060:grid-cols-2 max-md:justify-items-center max-md:gap-x-4">
+                                <div class="jemla-listing-grid grid gap-8 max-md:justify-items-center max-md:gap-x-4">
                                     <x-shop::shimmer.products.cards.grid count="12" />
                                 </div>
                             </template>
@@ -136,7 +170,7 @@
                             <!-- Product Card Listing -->
                             <template v-else>
                                 <template v-if="products.length">
-                                    <div class="grid grid-cols-3 gap-8 max-1060:grid-cols-2 max-md:justify-items-center max-md:gap-x-4">
+                                    <div class="jemla-listing-grid grid gap-8 max-md:justify-items-center max-md:gap-x-4">
                                         <x-shop::products.card
                                             ::mode="'grid'"
                                             v-for="product in products"

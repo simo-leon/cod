@@ -255,6 +255,7 @@
             </p>
         </div>
     </template>
+    </template>
 
     <template v-else>
         <div class="flex justify-between text-right">
@@ -266,7 +267,6 @@
                 @lang('shop::app.checkout.onepage.summary.delivery-to-be-calculated')
             </p>
         </div>
-    </template>
     </template>
 
     {!! view_render_event('bagisto.shop.checkout.onepage.summary.delivery_charges.after') !!}

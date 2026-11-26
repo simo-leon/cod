@@ -46,6 +46,19 @@ class HomeController extends Controller
     }
 
     /**
+     * Loads the categories listing page (Jemla: the category
+     * carousel's "view all" target — it used to link back to the
+     * home page). Shows the visible top-level categories of the
+     * current channel's root category.
+     */
+    public function categories(): View
+    {
+        $categories = $this->categoryRepository->getVisibleCategoryTree(core()->getCurrentChannel()->root_category_id);
+
+        return view('shop::categories.index', compact('categories'));
+    }
+
+    /**
      * Loads the home page for the storefront if something wrong.
      *
      * @return \Exception

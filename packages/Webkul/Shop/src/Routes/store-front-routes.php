@@ -80,6 +80,14 @@ Route::get('/', [HomeController::class, 'index'])
     ->name('shop.home.index')
     ->middleware('cache.response');
 
+/**
+ * Categories listing page (Jemla: target of the category
+ * carousel's "view all" link).
+ */
+Route::get('categories', [HomeController::class, 'categories'])
+    ->name('shop.categories.index')
+    ->middleware('cache.response');
+
 Route::get('contact-us', [HomeController::class, 'contactUs'])
     ->name('shop.home.contact_us')
     ->middleware('cache.response');
