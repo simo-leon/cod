@@ -43,4 +43,10 @@ return [
     'fbt-same-product' => 'C’est le produit principal.',
     'deals_title' => 'Offres du jour',
     'deals_ends_in' => 'Se termine dans',
+    'coupon_title' => 'Coupon de réduction',
+    'coupon_next' => 'Coupon dès :amount',
+    'coupon_remaining' => 'Plus que :amount pour gagner un coupon de :coupon',
+    'coupon_applied' => 'Coupon de :amount appliqué à votre commande',
+    'coupon-tier' => 'Ce palier est un coupon, pas un cadeau.',
+    'coupon_item_badge' => 'Coupon',
 ];

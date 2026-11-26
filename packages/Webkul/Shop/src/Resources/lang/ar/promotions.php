@@ -43,4 +43,10 @@ return [
     'fbt-same-product' => 'هادا هو المنتج الرئيسي.',
     'deals_title' => 'عروض اليوم',
     'deals_ends_in' => 'كيسالي فـ',
+    'coupon_title' => 'كوبون تخفيض',
+    'coupon_next' => 'كوبون ملي توصل لـ :amount',
+    'coupon_remaining' => 'بقي غير :amount باش تربح كوبون :coupon',
+    'coupon_applied' => 'كوبون :amount مطبق على طلبك',
+    'coupon-tier' => 'هاد الشريحة كوبون، ماشي هدية.',
+    'coupon_item_badge' => 'كوبون',
 ];

@@ -1033,6 +1033,29 @@ return [
                 'default' => 50,
                 'channel_based' => true,
             ], [
+                'name' => 'tier_1_reward_type',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-1-reward-type',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-1-reward-type-info',
+                'type' => 'select',
+                'default' => 'product',
+                'options' => [
+                    [
+                        'title' => 'admin::app.configuration.index.general.promotions.settings.reward-type-product',
+                        'value' => 'product',
+                    ], [
+                        'title' => 'admin::app.configuration.index.general.promotions.settings.reward-type-coupon',
+                        'value' => 'coupon',
+                    ],
+                ],
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_1_coupon_amount',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-1-coupon-amount',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-1-coupon-amount-info',
+                'type' => 'number',
+                'default' => 0,
+                'channel_based' => true,
+            ], [
                 'name' => 'tier_2_threshold',
                 'title' => 'admin::app.configuration.index.general.promotions.settings.tier-2-threshold',
                 'info' => 'admin::app.configuration.index.general.promotions.settings.tier-2-threshold-info',
@@ -1047,6 +1070,29 @@ return [
                 'default' => 100,
                 'channel_based' => true,
             ], [
+                'name' => 'tier_2_reward_type',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-2-reward-type',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-2-reward-type-info',
+                'type' => 'select',
+                'default' => 'coupon',
+                'options' => [
+                    [
+                        'title' => 'admin::app.configuration.index.general.promotions.settings.reward-type-product',
+                        'value' => 'product',
+                    ], [
+                        'title' => 'admin::app.configuration.index.general.promotions.settings.reward-type-coupon',
+                        'value' => 'coupon',
+                    ],
+                ],
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_2_coupon_amount',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-2-coupon-amount',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-2-coupon-amount-info',
+                'type' => 'number',
+                'default' => 49,
+                'channel_based' => true,
+            ], [
                 'name' => 'tier_3_threshold',
                 'title' => 'admin::app.configuration.index.general.promotions.settings.tier-3-threshold',
                 'info' => 'admin::app.configuration.index.general.promotions.settings.tier-3-threshold-info',
@@ -1057,6 +1103,29 @@ return [
                 'name' => 'tier_3_max_price',
                 'title' => 'admin::app.configuration.index.general.promotions.settings.tier-3-max-price',
                 'info' => 'admin::app.configuration.index.general.promotions.settings.tier-3-max-price-info',
+                'type' => 'number',
+                'default' => 0,
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_3_reward_type',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-3-reward-type',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-3-reward-type-info',
+                'type' => 'select',
+                'default' => 'product',
+                'options' => [
+                    [
+                        'title' => 'admin::app.configuration.index.general.promotions.settings.reward-type-product',
+                        'value' => 'product',
+                    ], [
+                        'title' => 'admin::app.configuration.index.general.promotions.settings.reward-type-coupon',
+                        'value' => 'coupon',
+                    ],
+                ],
+                'channel_based' => true,
+            ], [
+                'name' => 'tier_3_coupon_amount',
+                'title' => 'admin::app.configuration.index.general.promotions.settings.tier-3-coupon-amount',
+                'info' => 'admin::app.configuration.index.general.promotions.settings.tier-3-coupon-amount-info',
                 'type' => 'number',
                 'default' => 0,
                 'channel_based' => true,

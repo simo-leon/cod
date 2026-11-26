@@ -44,6 +44,11 @@ class PromotionService implements PromotionServiceInterface
     protected static bool $syncingFbt = false;
 
     /**
+     * Re-entrancy guard for syncCouponDiscount (same pattern).
+     */
+    protected static bool $syncingCoupon = false;
+
+    /**
      * Memoized buy-2 computation for the current request, keyed by a
      * signature of the cart contents and the promotion settings.
      */
@@ -75,10 +80,18 @@ class PromotionService implements PromotionServiceInterface
                 continue;
             }
 
+            // Reward type: 'product' (free gift, the picker) or
+            // 'coupon' (automatic fixed discount, no picker). Tier 2
+            // defaults to a coupon — 49 DH over 700 DH — the other
+            // tiers default to a free gift.
+            $rewardType = (string) (core()->getConfigData("general.promotions.settings.tier_{$slot}_reward_type") ?? ($slot === 2 ? 'coupon' : 'product'));
+
             $tiers[] = [
                 'tier' => $slot,
                 'threshold' => $threshold,
                 'max_price' => max(0, (float) (core()->getConfigData("general.promotions.settings.tier_{$slot}_max_price") ?? 0)),
+                'reward_type' => in_array($rewardType, ['product', 'coupon'], true) ? $rewardType : 'product',
+                'coupon_amount' => max(0, (float) (core()->getConfigData("general.promotions.settings.tier_{$slot}_coupon_amount") ?? ($slot === 2 ? 49 : 0))),
             ];
         }
 
@@ -127,6 +140,12 @@ class PromotionService implements PromotionServiceInterface
 
         foreach ($this->giftTiers() as $tier) {
             if ($subtotal < $tier['threshold']) {
+                continue;
+            }
+
+            // A coupon tier has no gift to pick — its discount is
+            // automatic (see couponTier()).
+            if (($tier['reward_type'] ?? 'product') === 'coupon') {
                 continue;
             }
 
@@ -287,6 +306,10 @@ class PromotionService implements PromotionServiceInterface
         }
 
         $tierData = $tiers->get($tier);
+
+        if (($tierData['reward_type'] ?? 'product') === 'coupon') {
+            throw new \Exception(trans('shop::promotions.coupon-tier'));
+        }
 
         if ($this->cartSubtotal($cart) < (float) $tierData['threshold']) {
             throw new \Exception(trans('shop::promotions.tier-locked'));
@@ -469,6 +492,7 @@ class PromotionService implements PromotionServiceInterface
             $nextTier['formatted_remaining'] = core()->formatPrice($nextTier['remaining']);
             $nextTier['formatted_threshold'] = core()->formatPrice($nextTier['threshold']);
             $nextTier['formatted_max_price'] = core()->formatPrice($nextTier['max_price']);
+            $nextTier['formatted_coupon_amount'] = core()->formatPrice($nextTier['coupon_amount'] ?? 0);
             $nextTier['progress'] = $nextTier['threshold'] > 0
                 ? (int) min(100, round($subtotal / $nextTier['threshold'] * 100))
                 : 100;
@@ -477,6 +501,7 @@ class PromotionService implements PromotionServiceInterface
         if ($currentTier) {
             $currentTier['formatted_threshold'] = core()->formatPrice($currentTier['threshold']);
             $currentTier['formatted_max_price'] = core()->formatPrice($currentTier['max_price']);
+            $currentTier['formatted_coupon_amount'] = core()->formatPrice($currentTier['coupon_amount'] ?? 0);
         }
 
         $giftedTiers = [];
@@ -527,8 +552,221 @@ class PromotionService implements PromotionServiceInterface
             ],
             'current_tier' => $currentTier,
             'next_tier' => $nextTier,
+            'coupon' => $this->couponArray($cart),
             'gifted_tiers' => $giftedTiers,
             'eligible_gifts' => $currentTier ? $this->eligibleGifts($currentTier, $cart) : [],
+        ];
+    }
+
+    /**
+     * The unlocked coupon tier, if any: the coupon tier with the
+     * highest threshold the cart subtotal reached, or null. When
+     * several coupon tiers are unlocked only the best one pays —
+     * the discounts do not stack.
+     */
+    public function couponTier(?CartContract $cart): ?array
+    {
+        if (! $this->isEnabled() || ! $cart) {
+            return null;
+        }
+
+        $subtotal = $this->cartSubtotal($cart);
+        $unlocked = null;
+
+        foreach ($this->giftTiers() as $tier) {
+            if (($tier['reward_type'] ?? 'product') !== 'coupon') {
+                continue;
+            }
+
+            if ($subtotal < $tier['threshold'] || (float) ($tier['coupon_amount'] ?? 0) <= 0) {
+                continue;
+            }
+
+            $unlocked = $tier;
+        }
+
+        return $unlocked;
+    }
+
+    /**
+     * The automatic coupon discount for this cart (0 when no coupon
+     * tier is unlocked), capped at the subtotal so the discount can
+     * never exceed what the customer pays.
+     */
+    public function couponDiscount(?CartContract $cart): float
+    {
+        $tier = $this->couponTier($cart);
+
+        if (! $tier) {
+            return 0.0;
+        }
+
+        return round(min((float) $tier['coupon_amount'], $this->cartSubtotal($cart)), 2);
+    }
+
+    /**
+     * The coupon discount for the cart: per-item amounts plus
+     * totals. The amount is spread over the non-gift items in cart
+     * order, each item taking at most its remaining headroom
+     * (item total minus the discounts already on it), so no line
+     * ever goes below 0. Gift items never get it.
+     *
+     * Returns ['items' => [itemId => ['discount' => x,
+     * 'base_discount' => y]], 'total' => x, 'base_total' => y].
+     */
+    public function couponDiscounts(?CartContract $cart): array
+    {
+        $empty = ['items' => [], 'total' => 0.0, 'base_total' => 0.0];
+
+        if (! $this->isEnabled() || ! $cart) {
+            return $empty;
+        }
+
+        $amount = $this->couponDiscount($cart);
+
+        if ($amount <= 0) {
+            return $empty;
+        }
+
+        $items = [];
+        $total = 0.0;
+        $baseTotal = 0.0;
+        $remaining = $amount;
+        $baseRemaining = $amount;
+
+        foreach ($cart->items as $item) {
+            if ($remaining <= 0) {
+                break;
+            }
+
+            if ($this->isGiftItem($item)) {
+                continue;
+            }
+
+            $headroom = round(
+                (float) $item->price * (int) $item->quantity - (float) $item->discount_amount,
+                2
+            );
+
+            if ($headroom <= 0) {
+                continue;
+            }
+
+            $discount = round(min($headroom, $remaining), 2);
+            $baseHeadroom = round(
+                (float) $item->base_price * (int) $item->quantity - (float) $item->base_discount_amount,
+                2
+            );
+            $baseDiscount = round(min(max(0, $baseHeadroom), $baseRemaining), 2);
+
+            $items[(int) $item->id] = [
+                'discount' => $discount,
+                'base_discount' => $baseDiscount,
+            ];
+
+            $total = round($total + $discount, 2);
+            $baseTotal = round($baseTotal + $baseDiscount, 2);
+            $remaining = round($remaining - $discount, 2);
+            $baseRemaining = round($baseRemaining - $baseDiscount, 2);
+        }
+
+        return [
+            'items' => $items,
+            'total' => $total,
+            'base_total' => $baseTotal,
+        ];
+    }
+
+    /**
+     * The coupon discount amount (in cart currency) of one cart
+     * item, 0 when the item has none.
+     */
+    public function couponDiscountForItem(int $itemId): float
+    {
+        $item = $this->cartItemRepository->find($itemId);
+
+        if (! $item || ! $item->cart) {
+            return 0.0;
+        }
+
+        $discounts = $this->couponDiscounts($item->cart);
+
+        return (float) ($discounts['items'][$itemId]['discount'] ?? 0.0);
+    }
+
+    /**
+     * Enforce the coupon discount on the cart. Runs on
+     * checkout.cart.calculate.items.tax.before — after the FBT
+     * listener (registered before it) and before the tax calc and
+     * the totals summation — so the discount flows into tax, the
+     * cart totals and the order. Adds the computed discount on top
+     * of any cart rule, buy-2 and FBT discount, capped at the item
+     * total. Never dispatches cart events.
+     */
+    public function syncCouponDiscount(?CartContract $cart): void
+    {
+        if (! $cart || static::$syncingCoupon) {
+            return;
+        }
+
+        static::$syncingCoupon = true;
+
+        try {
+            // Same staleness guard as syncCart: reload the items
+            // from the database before computing.
+            $cart->load('items');
+
+            $discounts = $this->couponDiscounts($cart);
+
+            foreach ($cart->items as $item) {
+                $mine = $discounts['items'][(int) $item->id] ?? null;
+
+                $target = (float) $item->discount_amount;
+                $baseTarget = (float) $item->base_discount_amount;
+
+                if ($mine) {
+                    $target = min(
+                        round($target + $mine['discount'], 2),
+                        round((float) $item->price * (int) $item->quantity, 2)
+                    );
+
+                    $baseTarget = min(
+                        round($baseTarget + $mine['base_discount'], 2),
+                        round((float) $item->base_price * (int) $item->quantity, 2)
+                    );
+                }
+
+                if (
+                    abs($target - (float) $item->discount_amount) > 0.004
+                    || abs($baseTarget - (float) $item->base_discount_amount) > 0.004
+                ) {
+                    $item->discount_amount = $target;
+                    $item->base_discount_amount = $baseTarget;
+                    $item->save();
+                }
+            }
+        } finally {
+            static::$syncingCoupon = false;
+        }
+    }
+
+    /**
+     * The coupon payload for the cart API (CartResource).
+     */
+    public function couponArray(?CartContract $cart): array
+    {
+        $enabled = $this->isEnabled();
+        $tier = $this->couponTier($cart);
+        $amount = $tier ? $this->couponDiscount($cart) : 0.0;
+
+        return [
+            'enabled' => $enabled,
+            'tier' => $tier ? (int) $tier['tier'] : null,
+            'threshold' => $tier ? (float) $tier['threshold'] : null,
+            'formatted_threshold' => $tier ? core()->formatPrice($tier['threshold']) : null,
+            'amount' => $amount,
+            'formatted_amount' => core()->formatPrice($amount),
+            'applied' => $enabled && $amount > 0,
         ];
     }
 

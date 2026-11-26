@@ -100,6 +100,53 @@ interface PromotionServiceInterface
     public function toArray(?CartContract $cart): array;
 
     /**
+     * The unlocked coupon tier, if any: the coupon tier with the
+     * highest threshold the cart subtotal reached, or null. When
+     * several coupon tiers are unlocked only the best one pays —
+     * the discounts do not stack.
+     */
+    public function couponTier(?CartContract $cart): ?array;
+
+    /**
+     * The automatic coupon discount for this cart (0 when no coupon
+     * tier is unlocked), capped at the subtotal.
+     */
+    public function couponDiscount(?CartContract $cart): float;
+
+    /**
+     * The coupon discount for the cart: per-item amounts plus
+     * totals. The amount is spread over the non-gift items in cart
+     * order, each item taking at most its remaining headroom
+     * (item total minus the discounts already on it).
+     *
+     * Returns ['items' => [itemId => ['discount' => x,
+     * 'base_discount' => y]], 'total' => x, 'base_total' => y].
+     */
+    public function couponDiscounts(?CartContract $cart): array;
+
+    /**
+     * The coupon discount amount (in cart currency) of one cart item,
+     * 0 when the item has none.
+     */
+    public function couponDiscountForItem(int $itemId): float;
+
+    /**
+     * Enforce the coupon discount on the cart: add the computed
+     * discount to each item's discount_amount (on top of any cart
+     * rule, buy-2 and FBT discount), capped at the item total. Runs
+     * on checkout.cart.calculate.items.tax.before — after the FBT
+     * listener, which is registered before it — so the discount
+     * flows into tax, the cart totals and the order. Never
+     * dispatches cart events.
+     */
+    public function syncCouponDiscount(?CartContract $cart): void;
+
+    /**
+     * The coupon payload for the cart API (CartResource).
+     */
+    public function couponArray(?CartContract $cart): array;
+
+    /**
      * Is the buy-2-get-3rd-half offer enabled (admin switch)?
      */
     public function isBuy2Enabled(): bool;

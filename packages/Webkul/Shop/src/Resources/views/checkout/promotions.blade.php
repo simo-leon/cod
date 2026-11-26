@@ -77,6 +77,17 @@
         </span>
     </div>
 
+    <!-- Coupon of the unlocked coupon tier (automatic discount,
+         no picker): green confirmation line with the amount. -->
+    <div
+        v-if="cart.promotions.coupon && cart.promotions.coupon.applied"
+        class="rounded-xl border border-green-200 bg-green-50 p-4 shadow-sm"
+    >
+        <p class="text-sm font-semibold text-green-700">
+            @{{ "@lang('shop::promotions.coupon_applied')".replace(':amount', cart.promotions.coupon.formatted_amount) }}
+        </p>
+    </div>
+
     <!-- Gift picker for the current unlocked tier -->
     <div
         v-if="cart.promotions.current_tier"
@@ -139,18 +150,19 @@
         </p>
     </div>
 
-    <!-- Next gift tier progress -->
+    <!-- Next gift tier progress (or next coupon tier: same bar,
+         coupon wording when the tier's reward is a coupon) -->
     <div
         v-if="cart.promotions.next_tier"
         class="rounded-xl border border-zinc-200 bg-white p-4 shadow-sm"
     >
         <div class="flex flex-wrap items-center justify-between gap-2">
             <p class="text-sm font-semibold text-zinc-800">
-                @lang('shop::promotions.gift_title')
+                @{{ cart.promotions.next_tier.reward_type === 'coupon' ? "@lang('shop::promotions.coupon_title')" : "@lang('shop::promotions.gift_title')" }}
             </p>
 
             <p class="text-sm text-zinc-600">
-                @{{ "@lang('shop::promotions.gift_remaining')".replace(':amount', cart.promotions.next_tier.formatted_remaining) }}
+                @{{ cart.promotions.next_tier.reward_type === 'coupon' ? "@lang('shop::promotions.coupon_remaining')".replace(':amount', cart.promotions.next_tier.formatted_remaining).replace(':coupon', cart.promotions.next_tier.formatted_coupon_amount) : "@lang('shop::promotions.gift_remaining')".replace(':amount', cart.promotions.next_tier.formatted_remaining) }}
             </p>
         </div>
 
@@ -163,7 +175,7 @@
         </div>
 
         <p class="mt-1.5 text-xs text-zinc-500">
-            @{{ "@lang('shop::promotions.next_tier')".replace(':amount', cart.promotions.next_tier.formatted_threshold) }}
+            @{{ cart.promotions.next_tier.reward_type === 'coupon' ? "@lang('shop::promotions.coupon_next')".replace(':amount', cart.promotions.next_tier.formatted_threshold) : "@lang('shop::promotions.next_tier')".replace(':amount', cart.promotions.next_tier.formatted_threshold) }}
         </p>
     </div>
 </div>

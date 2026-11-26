@@ -43,4 +43,10 @@ return [
     'fbt-same-product' => 'This is the main product.',
     'deals_title' => 'Daily deals',
     'deals_ends_in' => 'Ends in',
+    'coupon_title' => 'Discount coupon',
+    'coupon_next' => 'Coupon from :amount',
+    'coupon_remaining' => 'Only :amount left to earn a :coupon coupon',
+    'coupon_applied' => ':amount coupon applied to your order',
+    'coupon-tier' => 'This tier is a coupon, not a gift.',
+    'coupon_item_badge' => 'Coupon',
 ];

@@ -10,6 +10,7 @@ use App\Listeners\KrayinCrmListener;
 use App\Listeners\SendOrderToDeliveryProvider;
 use App\Listeners\SyncBuy2Discount;
 use App\Listeners\SyncCartPromotions;
+use App\Listeners\SyncCouponDiscount;
 use App\Listeners\SyncFbtDiscount;
 use App\Listeners\SyncReviewVerification;
 use App\Models\CodOrder;
@@ -160,6 +161,13 @@ class AppServiceProvider extends ServiceProvider
         // discount on top of the buy-2 one (both are capped at the
         // item total). Same reason for the event choice.
         Event::listen('checkout.cart.calculate.items.tax.before', [SyncFbtDiscount::class, 'handle']);
+
+        // Automatic coupon of the unlocked coupon tier (49 DH over
+        // 700 DH by default): same event, registered AFTER the FBT
+        // listener so it adds its discount on top of the buy-2 and
+        // FBT ones (all are capped at the item total). Same reason
+        // for the event choice.
+        Event::listen('checkout.cart.calculate.items.tax.before', [SyncCouponDiscount::class, 'handle']);
 
         // Product reviews: mark the review with the reviewer's phone
         // and whether it is a verified purchase, and publish it
