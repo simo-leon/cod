@@ -550,6 +550,21 @@
                                     @endif
                                 </div>
 
+                                {{-- Buy-2 offer badge: this product's own terms
+                                     (buy N, discount percent) — per-product
+                                     values set by Simo override the globals. --}}
+                                @php
+                                    $buy2Terms = app(\App\Services\Promotions\PromotionServiceInterface::class)->buy2TermsForProduct($product);
+                                @endphp
+
+                                @if ($buy2Terms['enabled'])
+                                    <div class="mt-3">
+                                        <span class="inline-block rounded-full bg-amber-100 px-3 py-1 text-sm font-bold text-amber-800">
+                                            @lang('shop::promotions.buy2_product_badge', ['count' => $buy2Terms['min_qty'], 'percent' => $buy2Terms['discount_percent_display']])
+                                        </span>
+                                    </div>
+                                @endif
+
                                 <!-- Product Actions and Quantity Box -->
                                 <div class="mt-8 flex max-w-[470px] flex-col gap-3 max-sm:mt-4">
                                     {!! view_render_event('bagisto.shop.products.view.quantity.before', ['product' => $product]) !!}

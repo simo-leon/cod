@@ -26,6 +26,7 @@
         >
             @csrf
 
+            <input type="hidden" name="offers_enabled" value="0">
             <input type="hidden" name="eligible_as_gift" value="0">
             <input type="hidden" name="show_low_stock_badge" value="0">
             <input type="hidden" name="eligible_buy2_half" value="0">
@@ -35,6 +36,37 @@
             <input type="hidden" name="allow_reviews" value="0">
             <input type="hidden" name="show_in_tracking" value="0">
             <input type="hidden" name="include_in_abandoned_cart_reminder" value="0">
+
+            {{-- Master toggle: one switch for all of this product's
+                 offers. It only gates them — the individual toggles
+                 and the buy-2 terms keep their values, so switching
+                 it back on restores everything as it was. --}}
+            <label class="flex cursor-pointer items-start gap-2 rounded-lg border border-amber-300 bg-amber-50 p-3 text-sm text-gray-700 dark:border-amber-700 dark:bg-amber-900/30 dark:text-gray-300">
+                <input
+                    type="checkbox"
+                    name="offers_enabled"
+                    id="offers-master"
+                    value="1"
+                    @checked($offersEnabled)
+                    onchange="document.getElementById('offer-controls').classList.toggle('opacity-40', ! this.checked); document.getElementById('offer-controls').classList.toggle('pointer-events-none', ! this.checked);"
+                    class="mt-0.5 h-4 w-4 accent-yellow-500"
+                >
+
+                <span>
+                    <span class="font-semibold text-gray-800 dark:text-white">
+                        @lang('admin::app.cod.promotions.product-card.master')
+                    </span>
+
+                    <span class="block text-xs leading-relaxed text-gray-500 dark:text-gray-400">
+                        @lang('admin::app.cod.promotions.product-card.master-info')
+                    </span>
+                </span>
+            </label>
+
+            {{-- Individual offer controls: dimmed (not disabled — the
+                 values must still submit unchanged) while the master
+                 toggle is off. --}}
+            <div id="offer-controls" class="grid gap-3 @if (! $offersEnabled) opacity-40 pointer-events-none @endif">
 
             <label class="flex cursor-pointer items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
                 <input
@@ -95,6 +127,52 @@
                     </span>
                 </span>
             </label>
+
+            {{-- Per-product buy-2 terms: empty = use the global
+                 settings (buy N = global group size - 1, percent =
+                 global percent). --}}
+            <div class="grid grid-cols-2 gap-3">
+                <label class="block text-sm text-gray-700 dark:text-gray-300">
+                    <span class="font-semibold text-gray-800 dark:text-white">
+                        @lang('admin::app.cod.promotions.product-card.buy2-min-qty')
+                    </span>
+
+                    <input
+                        type="number"
+                        name="buy2_min_qty"
+                        value="{{ $buy2MinQty }}"
+                        min="1"
+                        max="99"
+                        placeholder="{{ $buy2GlobalMinQty }}"
+                        class="mt-1 w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-700 dark:bg-gray-800 dark:text-white"
+                    >
+
+                    <span class="mt-1 block text-xs leading-relaxed text-gray-500 dark:text-gray-400">
+                        @lang('admin::app.cod.promotions.product-card.buy2-min-qty-info', ['default' => $buy2GlobalMinQty])
+                    </span>
+                </label>
+
+                <label class="block text-sm text-gray-700 dark:text-gray-300">
+                    <span class="font-semibold text-gray-800 dark:text-white">
+                        @lang('admin::app.cod.promotions.product-card.buy2-percent')
+                    </span>
+
+                    <input
+                        type="number"
+                        name="buy2_discount_percent"
+                        value="{{ $buy2DiscountPercent }}"
+                        min="0"
+                        max="100"
+                        step="1"
+                        placeholder="{{ $buy2GlobalPercent }}"
+                        class="mt-1 w-full rounded-md border border-gray-300 bg-white px-3 py-2 text-sm text-gray-800 dark:border-gray-700 dark:bg-gray-800 dark:text-white"
+                    >
+
+                    <span class="mt-1 block text-xs leading-relaxed text-gray-500 dark:text-gray-400">
+                        @lang('admin::app.cod.promotions.product-card.buy2-percent-info', ['default' => $buy2GlobalPercent])
+                    </span>
+                </label>
+            </div>
 
             <label class="flex cursor-pointer items-start gap-2 text-sm text-gray-700 dark:text-gray-300">
                 <input
@@ -216,6 +294,8 @@
                 </span>
             </label>
 
+            </div>
+
             <div>
                 <button type="submit" class="primary-button">
                     @lang('admin::app.cod.promotions.product-card.save')
@@ -224,6 +304,18 @@
         </form>
     @else
         <div class="mt-3 grid gap-1 text-sm text-gray-700 dark:text-gray-300">
+            <p>
+                @if ($offersEnabled)
+                    @lang('admin::app.cod.promotions.product-card.master-yes')
+                @else
+                    @lang('admin::app.cod.promotions.product-card.master-no')
+                @endif
+            </p>
+
+            <p>
+                @lang('admin::app.cod.promotions.product-card.buy2-terms', ['count' => $buy2MinQty ?? $buy2GlobalMinQty, 'percent' => $buy2DiscountPercent ?? $buy2GlobalPercent])
+            </p>
+
             <p>
                 @if ($eligible)
                     @lang('admin::app.cod.promotions.product-card.eligible-yes')

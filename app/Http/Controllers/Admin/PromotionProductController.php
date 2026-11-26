@@ -20,7 +20,10 @@ use Webkul\Product\Models\Product;
  * and the abandoned-cart WhatsApp reminders, from the admin
  * product edit page. A product without a row participates in
  * all of these (whenever the other conditions hold), except the
- * daily deals, which are opt-in.
+ * daily deals, which are opt-in. The master toggle switches all
+ * of the product's offers off at once without touching the
+ * individual toggles, and the buy-2 terms (buy N, discount
+ * percent) override the global settings for this product.
  */
 class PromotionProductController extends Controller
 {
@@ -38,6 +41,9 @@ class PromotionProductController extends Controller
             'allow_reviews' => ['required', 'boolean'],
             'show_in_tracking' => ['required', 'boolean'],
             'include_in_abandoned_cart_reminder' => ['required', 'boolean'],
+            'offers_enabled' => ['required', 'boolean'],
+            'buy2_min_qty' => ['nullable', 'integer', 'min:1', 'max:99'],
+            'buy2_discount_percent' => ['nullable', 'numeric', 'min:0', 'max:100'],
         ]);
 
         $promotions = app(PromotionServiceInterface::class);
@@ -57,6 +63,18 @@ class PromotionProductController extends Controller
         $promotions->setEligibleBuy2(
             (int) $product->id,
             (bool) $data['eligible_buy2_half'],
+        );
+
+        $promotions->setOffersEnabled(
+            (int) $product->id,
+            (bool) $data['offers_enabled'],
+        );
+
+        // Empty means "use the global setting" (null in the DB).
+        $promotions->setBuy2Terms(
+            (int) $product->id,
+            $data['buy2_min_qty'] !== null ? (int) $data['buy2_min_qty'] : null,
+            $data['buy2_discount_percent'] !== null ? (float) $data['buy2_discount_percent'] : null,
         );
 
         $promotions->setShowFbt(

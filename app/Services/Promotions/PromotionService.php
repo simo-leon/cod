@@ -276,13 +276,18 @@ class PromotionService implements PromotionServiceInterface
         return $gifts;
     }
 
+    /**
+     * May this product be offered as a free gift? A product without
+     * a promotion row may; Simo excludes products from the admin
+     * product edit page. The master toggle gates it too.
+     */
     public function isEligibleAsGift(int $productId): bool
     {
         $row = ProductPromotionSetting::query()
             ->where('product_id', $productId)
             ->first();
 
-        return $row === null || (bool) $row->eligible_as_gift;
+        return $row === null || ((bool) $row->offers_enabled && (bool) $row->eligible_as_gift);
     }
 
     public function setEligibleAsGift(int $productId, bool $eligible): void
@@ -847,28 +852,54 @@ class PromotionService implements PromotionServiceInterface
                 continue;
             }
 
+            // Each unit carries its own product's terms (group size
+            // and discount rate): per-product values set by Simo
+            // override the globals, null means "use the global".
+            $terms = $this->buy2TermsRow($settings, (int) $item->product_id);
+
             for ($i = 0; $i < (int) $item->quantity; $i++) {
                 $units[] = [
                     'item_id' => (int) $item->id,
                     'price' => (float) $item->price,
                     'base_price' => (float) $item->base_price,
+                    'group_size' => $terms['group_size'],
+                    'rate' => $terms['rate'],
                 ];
             }
         }
 
-        $groupSize = $this->buy2GroupSize();
-        $rate = $this->buy2DiscountPercent() / 100;
-        $discountsEarned = (int) floor(count($units) / $groupSize);
-
         $items = [];
         $total = 0.0;
         $baseTotal = 0.0;
+        $discountsEarned = 0;
 
-        if ($discountsEarned > 0 && $rate > 0) {
+        if ($units) {
             usort($units, fn ($a, $b) => $a['price'] <=> $b['price'] ?: $a['item_id'] <=> $b['item_id']);
 
-            for ($i = 0; $i < $discountsEarned; $i++) {
-                $unit = $units[$i * $groupSize];
+            // Walk the pool cheapest first. Each group starts at its
+            // cheapest unit: that unit's product sets the group size
+            // (buy N + 1) and the discount percent. With the global
+            // defaults everywhere this is exactly the old rule —
+            // every 3rd cheapest unit at 50% off. A unit whose
+            // product has a 0% rate cannot start a group; it stays
+            // in the pool as filler for a later group.
+            $i = 0;
+            $count = count($units);
+
+            while ($i < $count) {
+                $unit = $units[$i];
+                $groupSize = max(2, (int) $unit['group_size']);
+                $rate = (float) $unit['rate'];
+
+                if ($rate <= 0) {
+                    $i++;
+
+                    continue;
+                }
+
+                if ($i + $groupSize > $count) {
+                    break;
+                }
 
                 $discount = round($unit['price'] * $rate, 2);
                 $baseDiscount = round($unit['base_price'] * $rate, 2);
@@ -881,6 +912,9 @@ class PromotionService implements PromotionServiceInterface
 
                 $total = round($total + $discount, 2);
                 $baseTotal = round($baseTotal + $baseDiscount, 2);
+                $discountsEarned++;
+
+                $i += $groupSize;
             }
         }
 
@@ -1048,7 +1082,7 @@ class PromotionService implements PromotionServiceInterface
     /**
      * May the low-stock badge show for this product? A product
      * without a promotion row shows it; Simo hides products from
-     * the admin product edit page.
+     * the admin product edit page. The master toggle gates it too.
      */
     public function showLowStockBadge(int $productId): bool
     {
@@ -1056,7 +1090,7 @@ class PromotionService implements PromotionServiceInterface
             ->where('product_id', $productId)
             ->first();
 
-        return $row === null || (bool) $row->show_low_stock_badge;
+        return $row === null || ((bool) $row->offers_enabled && (bool) $row->show_low_stock_badge);
     }
 
     /**
@@ -1073,7 +1107,8 @@ class PromotionService implements PromotionServiceInterface
     /**
      * May this product count towards the buy-2 groups? A product
      * without a promotion row counts; Simo excludes products from
-     * the admin product edit page.
+     * the admin product edit page. The master toggle gates it too:
+     * a product with its offers switched off counts for nothing.
      */
     public function isEligibleBuy2(int $productId): bool
     {
@@ -1081,7 +1116,7 @@ class PromotionService implements PromotionServiceInterface
             ->where('product_id', $productId)
             ->first();
 
-        return $row === null || (bool) $row->eligible_buy2_half;
+        return $row === null || ((bool) $row->offers_enabled && (bool) $row->eligible_buy2_half);
     }
 
     /**
@@ -1093,6 +1128,128 @@ class PromotionService implements PromotionServiceInterface
             ['product_id' => $productId],
             ['eligible_buy2_half' => $eligible],
         );
+    }
+
+    /**
+     * Is the master offers toggle on for this product? A product
+     * without a row has its offers on. Off means the product takes
+     * part in no offer at all — free gift, low-stock badge, buy-2,
+     * FBT, daily deals — while its individual toggles keep their
+     * values, so switching it back on restores them as they were.
+     * (Reviews, order tracking and abandoned-cart reminders are
+     * not offers and are NOT gated by this switch.)
+     */
+    public function offersEnabled(int $productId): bool
+    {
+        $row = ProductPromotionSetting::query()
+            ->where('product_id', $productId)
+            ->first();
+
+        return $row === null || (bool) $row->offers_enabled;
+    }
+
+    /**
+     * Set the master offers toggle (admin product edit page).
+     */
+    public function setOffersEnabled(int $productId, bool $enabled): void
+    {
+        ProductPromotionSetting::updateOrCreate(
+            ['product_id' => $productId],
+            ['offers_enabled' => $enabled],
+        );
+    }
+
+    /**
+     * The effective buy-2 terms of one product: how many units the
+     * customer must buy ("اشتري N") and the discount percent of the
+     * extra unit. A per-product value (admin product edit page)
+     * overrides the global setting; null means "use the global".
+     * The group size is min_qty + 1 (buy 2 -> group of 3).
+     */
+    public function buy2TermsForProduct(ProductContract $product): array
+    {
+        $row = ProductPromotionSetting::query()
+            ->where('product_id', (int) $product->id)
+            ->first();
+
+        $minQty = $row && $row->buy2_min_qty !== null
+            ? max(1, (int) $row->buy2_min_qty)
+            : max(1, $this->buy2GroupSize() - 1);
+
+        $percent = $row && $row->buy2_discount_percent !== null
+            ? min(100, max(0, (float) $row->buy2_discount_percent))
+            : $this->buy2DiscountPercent();
+
+        return [
+            'enabled' => $this->isBuy2Enabled() && $this->isEligibleBuy2((int) $product->id),
+            'min_qty' => $minQty,
+            'discount_percent' => $percent,
+            'discount_percent_display' => $percent == (int) $percent ? (int) $percent : $percent,
+            'group_size' => $minQty + 1,
+            'custom' => $row !== null && ($row->buy2_min_qty !== null || $row->buy2_discount_percent !== null),
+        ];
+    }
+
+    /**
+     * Set the per-product buy-2 terms (admin product edit page).
+     * Null for either value means "use the global setting".
+     */
+    public function setBuy2Terms(int $productId, ?int $minQty, ?float $discountPercent): void
+    {
+        ProductPromotionSetting::updateOrCreate(
+            ['product_id' => $productId],
+            [
+                'buy2_min_qty' => $minQty !== null ? max(1, $minQty) : null,
+                'buy2_discount_percent' => $discountPercent !== null
+                    ? (int) min(100, max(0, $discountPercent))
+                    : null,
+            ],
+        );
+    }
+
+    /**
+     * The raw per-product buy-2 terms as Simo set them (null =
+     * "use the global setting"), for the admin product edit form.
+     * Returns ['min_qty' => ?int, 'discount_percent' => ?float].
+     */
+    public function buy2CustomTerms(int $productId): array
+    {
+        $row = ProductPromotionSetting::query()
+            ->where('product_id', $productId)
+            ->first();
+
+        return [
+            'min_qty' => $row && $row->buy2_min_qty !== null ? (int) $row->buy2_min_qty : null,
+            'discount_percent' => $row && $row->buy2_discount_percent !== null ? (float) $row->buy2_discount_percent : null,
+        ];
+    }
+
+    /**
+     * The raw per-product offer toggles as stored in the database,
+     * WITHOUT the master toggle gating — for the admin product
+     * edit form. The effective (gated) methods must never feed the
+     * form: when the master toggle is off they return false, so
+     * the form would render the toggles unchecked and the next
+     * save would wipe the values the master toggle is meant to
+     * preserve. A product without a row participates in
+     * everything (except the daily deals, which are opt-in).
+     * Returns the same keys as promotionSettings() for one product.
+     */
+    public function promotionRowValues(int $productId): array
+    {
+        $settings = $this->promotionSettings([$productId]);
+
+        return $settings[$productId] ?? [
+            'eligible_as_gift' => true,
+            'show_low_stock_badge' => true,
+            'eligible_buy2_half' => true,
+            'show_fbt' => true,
+            'fbt_complementary' => true,
+            'in_daily_deal' => false,
+            'offers_enabled' => true,
+            'buy2_min_qty' => null,
+            'buy2_discount_percent' => null,
+        ];
     }
 
     /**
@@ -1224,7 +1381,7 @@ class PromotionService implements PromotionServiceInterface
     /**
      * May the FBT section show on this product's page? A product
      * without a promotion row shows it; Simo hides it from the
-     * admin product edit page.
+     * admin product edit page. The master toggle gates it too.
      */
     public function showFbt(int $productId): bool
     {
@@ -1232,7 +1389,7 @@ class PromotionService implements PromotionServiceInterface
             ->where('product_id', $productId)
             ->first();
 
-        return $row === null || (bool) $row->show_fbt;
+        return $row === null || ((bool) $row->offers_enabled && (bool) $row->show_fbt);
     }
 
     /**
@@ -1249,7 +1406,8 @@ class PromotionService implements PromotionServiceInterface
     /**
      * May this product be suggested as a complementary product in
      * the FBT section? A product without a promotion row may; Simo
-     * excludes products from the admin product edit page.
+     * excludes products from the admin product edit page. The
+     * master toggle gates it too.
      */
     public function isFbtComplementary(int $productId): bool
     {
@@ -1257,7 +1415,7 @@ class PromotionService implements PromotionServiceInterface
             ->where('product_id', $productId)
             ->first();
 
-        return $row === null || (bool) $row->fbt_complementary;
+        return $row === null || ((bool) $row->offers_enabled && (bool) $row->fbt_complementary);
     }
 
     /**
@@ -1698,7 +1856,8 @@ class PromotionService implements PromotionServiceInterface
 
     /**
      * Is this product marked for the daily deals? Opt-in: only a
-     * product Simo explicitly marked appears in the section.
+     * product Simo explicitly marked appears in the section. The
+     * master toggle gates it too.
      */
     public function isInDailyDeal(int $productId): bool
     {
@@ -1706,7 +1865,7 @@ class PromotionService implements PromotionServiceInterface
             ->where('product_id', $productId)
             ->first();
 
-        return $row !== null && (bool) $row->in_daily_deal;
+        return $row !== null && (bool) $row->offers_enabled && (bool) $row->in_daily_deal;
     }
 
     /**
@@ -1752,6 +1911,9 @@ class PromotionService implements PromotionServiceInterface
                 'show_fbt' => (bool) $row->show_fbt,
                 'fbt_complementary' => (bool) $row->fbt_complementary,
                 'in_daily_deal' => (bool) $row->in_daily_deal,
+                'offers_enabled' => (bool) $row->offers_enabled,
+                'buy2_min_qty' => $row->buy2_min_qty !== null ? (int) $row->buy2_min_qty : null,
+                'buy2_discount_percent' => $row->buy2_discount_percent !== null ? (int) $row->buy2_discount_percent : null,
             ])
             ->all();
 
@@ -1763,10 +1925,38 @@ class PromotionService implements PromotionServiceInterface
     /**
      * May this product count towards the buy-2 groups, from an
      * already-loaded settings map? A product without a row counts.
+     * The master toggle gates it too.
      */
     protected function isEligibleBuy2Row(array $settings, int $productId): bool
     {
-        return ! isset($settings[$productId]) || $settings[$productId]['eligible_buy2_half'];
+        return ! isset($settings[$productId])
+            || ($settings[$productId]['offers_enabled'] && $settings[$productId]['eligible_buy2_half']);
+    }
+
+    /**
+     * The effective buy-2 terms of one product, from an
+     * already-loaded settings map: group size (buy N + 1) and
+     * discount rate. Per-product values override the globals;
+     * null means "use the global".
+     */
+    protected function buy2TermsRow(array $settings, int $productId): array
+    {
+        $row = $settings[$productId] ?? null;
+
+        $minQty = $row && $row['buy2_min_qty'] !== null
+            ? max(1, (int) $row['buy2_min_qty'])
+            : max(1, $this->buy2GroupSize() - 1);
+
+        $percent = $row && $row['buy2_discount_percent'] !== null
+            ? min(100, max(0, (float) $row['buy2_discount_percent']))
+            : $this->buy2DiscountPercent();
+
+        return [
+            'min_qty' => $minQty,
+            'group_size' => $minQty + 1,
+            'discount_percent' => $percent,
+            'rate' => $percent / 100,
+        ];
     }
 
     /**

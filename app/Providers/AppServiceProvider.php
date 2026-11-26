@@ -215,17 +215,31 @@ class AppServiceProvider extends ServiceProvider
             $features = app(StoreFeatureServiceInterface::class);
             $abandoned = app(AbandonedCartServiceInterface::class);
 
+            $buy2Custom = $promotions->buy2CustomTerms((int) $product->id);
+
+            // Raw stored toggles (NOT the gated effective values):
+            // when the master toggle is off, the effective methods
+            // return false, and feeding the form with them would
+            // render the toggles unchecked — the next save would
+            // then wipe the values the master toggle must preserve.
+            $offerRow = $promotions->promotionRowValues((int) $product->id);
+
             $manager->addTemplate('admin::cod.promotion-product-card', [
                 'product' => $product,
-                'eligible' => $promotions->isEligibleAsGift((int) $product->id),
-                'showLowStockBadge' => $promotions->showLowStockBadge((int) $product->id),
-                'eligibleBuy2' => $promotions->isEligibleBuy2((int) $product->id),
-                'showFbt' => $promotions->showFbt((int) $product->id),
-                'fbtComplementary' => $promotions->isFbtComplementary((int) $product->id),
-                'inDailyDeal' => $promotions->isInDailyDeal((int) $product->id),
+                'eligible' => $offerRow['eligible_as_gift'],
+                'showLowStockBadge' => $offerRow['show_low_stock_badge'],
+                'eligibleBuy2' => $offerRow['eligible_buy2_half'],
+                'showFbt' => $offerRow['show_fbt'],
+                'fbtComplementary' => $offerRow['fbt_complementary'],
+                'inDailyDeal' => $offerRow['in_daily_deal'],
                 'allowReviews' => $features->allowReviews((int) $product->id),
                 'showInTracking' => $features->showInTracking((int) $product->id),
                 'includeInAbandonedCartReminder' => $abandoned->includeInReminder((int) $product->id),
+                'offersEnabled' => $promotions->offersEnabled((int) $product->id),
+                'buy2MinQty' => $buy2Custom['min_qty'],
+                'buy2DiscountPercent' => $buy2Custom['discount_percent'],
+                'buy2GlobalMinQty' => max(1, $promotions->buy2GroupSize() - 1),
+                'buy2GlobalPercent' => $promotions->buy2DiscountPercent(),
                 'canEditPromotions' => bouncer()->hasPermission('catalog.products.edit'),
             ]);
         });

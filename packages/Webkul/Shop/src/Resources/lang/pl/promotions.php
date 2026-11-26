@@ -49,4 +49,5 @@ return [
     'coupon_applied' => ':amount coupon applied to your order',
     'coupon-tier' => 'This tier is a coupon, not a gift.',
     'coupon_item_badge' => 'Coupon',
+    'buy2_product_badge' => 'Buy :count and get the next one at :percent% off',
 ];

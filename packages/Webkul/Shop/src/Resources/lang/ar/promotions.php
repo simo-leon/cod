@@ -49,4 +49,5 @@ return [
     'coupon_applied' => 'كوبون :amount مطبق على طلبك',
     'coupon-tier' => 'هاد الشريحة كوبون، ماشي هدية.',
     'coupon_item_badge' => 'كوبون',
+    'buy2_product_badge' => 'اشتري :count واللي من بعد بـ :percent%',
 ];

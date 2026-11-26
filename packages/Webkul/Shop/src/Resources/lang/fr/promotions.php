@@ -49,4 +49,5 @@ return [
     'coupon_applied' => 'Coupon de :amount appliqué à votre commande',
     'coupon-tier' => 'Ce palier est un coupon, pas un cadeau.',
     'coupon_item_badge' => 'Coupon',
+    'buy2_product_badge' => 'Achetez :count et le suivant à :percent %',
 ];

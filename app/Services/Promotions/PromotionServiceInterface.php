@@ -165,7 +165,11 @@ interface PromotionServiceInterface
     /**
      * The buy-2 discount for the cart: per-item amounts plus totals.
      * Units are the eligible non-gift units (price > 0, product
-     * toggled on); sorted cheapest first, the cheapest unit of each
+     * toggled on); sorted cheapest first, each group starts at its
+     * cheapest unit and that unit's product sets the group size
+     * (buy N + 1) and the discount percent — per-product values set
+     * by Simo override the globals. With the global defaults
+     * everywhere this is the plain rule: the cheapest unit of each
      * group of buy2GroupSize() units gets buy2DiscountPercent() off.
      *
      * Returns ['items' => [itemId => ['discount' => x,
@@ -179,6 +183,57 @@ interface PromotionServiceInterface
      * 0 when the item has none.
      */
     public function buy2DiscountForItem(int $itemId): float;
+
+    /**
+     * Is the master offers toggle on for this product? A product
+     * without a row has its offers on. Off means the product takes
+     * part in no offer at all — free gift, low-stock badge, buy-2,
+     * FBT, daily deals.
+     */
+    public function offersEnabled(int $productId): bool;
+
+    /**
+     * Set the master offers toggle (admin product edit page).
+     */
+    public function setOffersEnabled(int $productId, bool $enabled): void;
+
+    /**
+     * The effective buy-2 terms of one product: how many units the
+     * customer must buy ("اشتري N") and the discount percent of the
+     * extra unit. A per-product value overrides the global setting;
+     * null means "use the global". Returns ['enabled' => bool,
+     * 'min_qty' => n, 'discount_percent' => x,
+     * 'discount_percent_display' => x, 'group_size' => n,
+     * 'custom' => bool].
+     */
+    public function buy2TermsForProduct(Product $product): array;
+
+    /**
+     * Set the per-product buy-2 terms (admin product edit page).
+     * Null for either value means "use the global setting".
+     */
+    public function setBuy2Terms(int $productId, ?int $minQty, ?float $discountPercent): void;
+
+    /**
+     * The raw per-product buy-2 terms as Simo set them (null =
+     * "use the global setting"), for the admin product edit form.
+     * Returns ['min_qty' => ?int, 'discount_percent' => ?float].
+     */
+    public function buy2CustomTerms(int $productId): array;
+
+    /**
+     * The raw per-product offer toggles as stored in the database,
+     * WITHOUT the master toggle gating — for the admin product
+     * edit form. The effective (gated) methods must never feed the
+     * form: when the master toggle is off they return false, so
+     * the form would render the toggles unchecked and the next
+     * save would wipe the values the master toggle is meant to
+     * preserve. A product without a row participates in
+     * everything (except the daily deals, which are opt-in).
+     * Returns the same keys as the promotion settings map for one
+     * product.
+     */
+    public function promotionRowValues(int $productId): array;
 
     /**
      * Enforce the buy-2 discount on the cart: add the computed

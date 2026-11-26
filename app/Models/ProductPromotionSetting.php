@@ -37,6 +37,9 @@ class ProductPromotionSetting extends Model
         'allow_reviews',
         'show_in_tracking',
         'include_in_abandoned_cart_reminder',
+        'offers_enabled',
+        'buy2_min_qty',
+        'buy2_discount_percent',
     ];
 
     protected $casts = [
@@ -49,6 +52,9 @@ class ProductPromotionSetting extends Model
         'allow_reviews' => 'boolean',
         'show_in_tracking' => 'boolean',
         'include_in_abandoned_cart_reminder' => 'boolean',
+        'offers_enabled' => 'boolean',
+        'buy2_min_qty' => 'integer',
+        'buy2_discount_percent' => 'integer',
     ];
 
     public function product(): BelongsTo
