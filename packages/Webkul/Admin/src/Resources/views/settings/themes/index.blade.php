@@ -134,7 +134,7 @@
                                         type="select"
                                         name="channel_id"
                                         rules="required"
-                                        :value="1"
+                                        :value="core()->getDefaultChannel()?->id"
                                     >
                                         @foreach (core()->getAllChannels() as $channel)
                                             <option
@@ -146,7 +146,7 @@
                                         @endforeach 
                                     </x-admin::form.control-group.control>
 
-                                    <x-admin::form.control-group.error control-name="type" />
+                                    <x-admin::form.control-group.error control-name="channel_id" />
                                 </x-admin::form.control-group>
 
                                  <!-- Theme Selector -->
@@ -172,7 +172,7 @@
                                         @endforeach
                                     </x-admin::form.control-group.control>
 
-                                    <x-admin::form.control-group.error control-name="theme" />
+                                    <x-admin::form.control-group.error control-name="theme_code" />
                                 </x-admin::form.control-group>
 
                                 <!-- Status (active by default, so a new topic shows on the homepage without an extra step) -->
@@ -184,7 +184,7 @@
                                     <x-admin::form.control-group.control
                                         type="select"
                                         name="status"
-                                        rules="required|in:0,1"
+                                        rules="required|one_of:0,1"
                                         value="1"
                                         :label="trans('admin::app.settings.themes.edit.status')"
                                     >
@@ -265,9 +265,19 @@
                             .catch((error) => {
                                 this.isLoading = false;
 
-                                if (error.response.status == 422) {
+                                if (error.response && error.response.status == 422) {
                                     setErrors(error.response.data.errors);
+
+                                    return;
                                 }
+
+                                /* Never fail silently: a 500/419/network error
+                                   used to leave the modal exactly as it was,
+                                   with no message at all. */
+                                this.$emitter.emit('add-flash', {
+                                    type: 'error',
+                                    message: error.response?.data?.message || error.message,
+                                });
                             });
                     },
                 },
