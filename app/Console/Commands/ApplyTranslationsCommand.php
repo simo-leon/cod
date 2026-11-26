@@ -253,6 +253,21 @@ class ApplyTranslationsCommand extends Command
             return null;
         }
 
+        // The host mapping files (jemla-doshift-sku-mapping-*.json,
+        // jemla-sku-mapping-*.json) are a LIST of {id, old_sku, new_sku}.
+        // Normalise them to {old_sku: id}; a dict in that shape passes
+        // through unchanged.
+        if (array_is_list($decoded)) {
+            $map = [];
+            foreach ($decoded as $entry) {
+                if (is_array($entry) && isset($entry['old_sku'], $entry['id'])) {
+                    $map[$entry['old_sku']] = (int) $entry['id'];
+                }
+            }
+
+            return $map;
+        }
+
         return $decoded;
     }
 
