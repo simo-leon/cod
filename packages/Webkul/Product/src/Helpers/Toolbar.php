@@ -101,13 +101,14 @@ class Toolbar
     /**
      * Returns default limit.
      *
-     * Jemla: listings load in batches of at most 48 products
-     * ("see more" appends the next batch). The default batch is
-     * the largest page size the admin offers, capped at 48 — so
-     * with the default list (12, 24, 36, 48) a listing opens with
-     * 48 products, while an admin list that tops out below 48
-     * (e.g. 12, 24) is respected. A limit the customer picks in
-     * the toolbar is honoured by getLimit() instead.
+     * Jemla: the default is the FIRST value of the admin's
+     * per-page list (Configuration → Catalog → Products →
+     * Storefront), as it was before the 48-batch change — so
+     * with the default list (12, 24, 36, 48) a listing opens
+     * with 12 products, and an admin list that starts with a
+     * smaller value (e.g. 12) is respected as-is. A limit the
+     * customer picks in the toolbar is honoured by getLimit()
+     * instead.
      */
     public function getDefaultLimit(): int
     {
@@ -119,7 +120,7 @@ class Toolbar
             return 12;
         }
 
-        return min(48, $limits->max());
+        return min(48, $limits->first());
     }
 
     /**

@@ -118,7 +118,7 @@
                         >
                             <!-- Product Card Shimmer Effect -->
                             <template v-if="isLoading">
-                                <x-shop::shimmer.products.cards.list count="12" />
+                                <x-shop::shimmer.products.cards.list count="3" />
                             </template>
 
                             <!-- Product Card Listing -->
@@ -161,7 +161,7 @@
                             <!-- Product Card Shimmer Effect -->
                             <template v-if="isLoading">
                                 <div class="jemla-listing-grid grid gap-8 max-md:justify-items-center max-md:gap-x-4">
-                                    <x-shop::shimmer.products.cards.grid count="12" />
+                                    <x-shop::shimmer.products.cards.grid count="3" />
                                 </div>
                             </template>
 
@@ -264,14 +264,15 @@
                         loader: false,
 
                         /*
-                            Jemla: progressive listing — the first 12 products
-                            render fast, then 12-product chunks stream in
+                            Jemla: progressive listing — the first 3 products
+                            render fast, then 3-product chunks stream in
                             automatically until the toolbar batch (limit,
-                            default 48) is complete; only then does the
-                            "see more" button appear. batchLoaded counts the
-                            products loaded in the current batch, and
-                            listingRequestId invalidates a streaming chain
-                            superseded by a filter/sort/limit change.
+                            default = first admin value, 12) is complete;
+                            only then does the "see more" button appear.
+                            batchLoaded counts the products loaded in the
+                            current batch, and listingRequestId invalidates
+                            a streaming chain superseded by a filter/sort/
+                            limit change.
                         */
                         batchLoaded: 0,
 
@@ -311,15 +312,22 @@
                     },
 
                     /*
-                        Batch target: the toolbar limit (default 48),
-                        capped at 48 — the server caps a listing batch
-                        at 48 products.
+                        Batch target: the toolbar limit, capped at 48 —
+                        the server caps a listing batch at 48 products.
+                        queryParams only carries a limit when the
+                        customer picked one different from the default
+                        (the toolbar emits non-default filters only), so
+                        fall back to the toolbar default limit — the
+                        first value of the admin's per-page list — and
+                        never to a hard-coded 48, or the admin value
+                        would be ignored and the batch would always
+                        stream up to 48.
                     */
                     batchTarget() {
-                        let limit = parseInt(this.queryParams.limit ?? 48, 10);
+                        let limit = parseInt(this.queryParams.limit ?? this.filters.toolbar.default.limit ?? 12, 10);
 
                         if (isNaN(limit) || limit < 1) {
-                            limit = 48;
+                            limit = 12;
                         }
 
                         return Math.min(limit, 48);
@@ -347,7 +355,7 @@
                         const requestId = ++this.listingRequestId;
 
                         this.$axios.get("{{ route('shop.api.products.index', ['category_id' => $category->id]) }}", {
-                            params: { ...this.queryParams, limit: 12 }
+                            params: { ...this.queryParams, limit: 3 }
                         })
                             .then(response => {
                                 if (requestId !== this.listingRequestId) {
@@ -369,7 +377,7 @@
                     },
 
                     /*
-                        Keep streaming 12-product chunks automatically
+                        Keep streaming 3-product chunks automatically
                         (no click, no scroll) until the batch is complete
                         or there are no more products. While streaming,
                         loader stays true so the "see more" button stays
