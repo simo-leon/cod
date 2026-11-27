@@ -24,8 +24,18 @@ class CatalogApiCache
 
     /**
      * Time (in seconds) a cached catalog response is kept.
+     *
+     * Jemla: 24 hours, not 1 hour. Freshness is already guaranteed by
+     * the catalog version: every product/category/review/order change
+     * bumps the version and invalidates every cached response at once,
+     * so the TTL is only a backstop for changes that bypass events
+     * (e.g. a bare indexer run). A 1-hour TTL meant the homepage grid
+     * — an unfiltered listing over 8,000+ products — went cold once an
+     * hour and its cold query costs ~14s on live, which is the slowness
+     * shoppers felt on the homepage and on "see more" pages. At 24h a
+     * listing goes cold at most once a day per URL.
      */
-    const TTL = 3600;
+    const TTL = 86400;
 
     /**
      * Current catalog version.
